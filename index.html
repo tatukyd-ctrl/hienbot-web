@@ -1,121 +1,291 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>8b8t Bot Dashboard</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <title>8b8t Kit Bot Dashboard</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
-        :root { --bg: #0d1117; --card: #161b22; --border: #30363d; --accent: #58a6ff; --text: #c9d1d9; --green: #238636; }
-        body { background-color: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; margin: 0; padding: 20px; }
-        .container { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
-        
-        /* Header Stats */
-        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 20px; }
-        .stat-card { background: var(--card); border: 1px solid var(--border); padding: 15px; border-radius: 8px; text-align: center; }
-        .stat-val { font-size: 24px; font-weight: bold; color: var(--accent); display: block; margin-top: 5px; }
-        .stat-label { font-size: 12px; color: #8b949e; text-transform: uppercase; }
+        :root {
+            --bg-color: #0d1117;
+            --card-bg: #161b22;
+            --border-color: #30363d;
+            --text-main: #c9d1d9;
+            --text-muted: #8b949e;
+            --accent: #58a6ff;
+            --success: #238636;
+            --danger: #da3633;
+        }
 
-        /* Chat Box */
-        .chat-container { background: #000; border: 1px solid var(--border); border-radius: 8px; height: 400px; overflow-y: auto; padding: 10px; font-family: 'Consolas', monospace; font-size: 14px; display: flex; flex-direction: column-reverse;}
-        .chat-line { padding: 2px 0; border-bottom: 1px solid #1f1f1f; word-wrap: break-word; }
-        .timestamp { color: #8b949e; margin-right: 5px; font-size: 12px; }
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 20px;
+        }
+
+        header h1 { margin: 0; color: var(--accent); }
+        .last-update { font-size: 0.9em; color: var(--text-muted); margin-top: 5px; }
+
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+            transition: transform 0.2s;
+        }
+
+        .card:hover { transform: translateY(-2px); border-color: var(--accent); }
+        .card i { font-size: 2em; margin-bottom: 10px; color: var(--text-muted); }
+        .card .value { font-size: 2em; font-weight: bold; display: block; margin: 5px 0; }
+        .card .label { font-size: 0.9em; color: var(--text-muted); text-transform: uppercase; }
+
+        /* Content Layout */
+        .content-layout {
+            display: grid;
+            grid-template-columns: 2fr 1fr; /* Chat bự hơn Leaderboard */
+            gap: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .content-layout { grid-template-columns: 1fr; }
+        }
+
+        /* Section Styling */
+        .section-box {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 15px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .section-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border-color);
+            color: var(--accent);
+        }
+
+        /* Chat Log */
+        #chat-box {
+            height: 500px;
+            overflow-y: auto;
+            font-family: 'Consolas', monospace;
+            font-size: 0.95em;
+            background: #010409;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column-reverse; /* Tin mới nhất ở dưới cùng nhưng cuộn từ dưới lên */
+        }
+
+        .chat-line { padding: 4px 0; border-bottom: 1px solid #21262d; word-wrap: break-word; }
+        .chat-line:last-child { border-bottom: none; }
+        .system-msg { color: #f0883e; } /* Màu cam cho thông báo */
+        .cmd-msg { color: #d2a8ff; } /* Màu tím cho lệnh */
+        .bot-msg { color: var(--accent); } /* Màu xanh cho bot */
 
         /* Leaderboards */
-        .leaderboard { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 15px; margin-bottom: 20px; }
-        .lb-header { font-size: 16px; font-weight: bold; margin-bottom: 10px; border-bottom: 1px solid var(--border); padding-bottom: 5px; color: #f0883e; }
-        .lb-row { display: flex; justify-content: space-between; padding: 5px 0; border-bottom: 1px solid #21262d; }
-        .lb-row:last-child { border-bottom: none; }
-        .lb-rank { width: 20px; color: #8b949e; }
-        .lb-name { flex-grow: 1; }
-        .lb-count { font-weight: bold; color: var(--green); }
+        .lb-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid var(--border-color);
+        }
+        .lb-item:last-child { border-bottom: none; }
+        .lb-rank { font-weight: bold; color: var(--text-muted); width: 25px; }
+        .lb-name { flex-grow: 1; color: var(--text-main); }
+        .lb-val { font-weight: bold; color: var(--success); }
 
-        @media (max-width: 768px) { .container { grid-template-columns: 1fr; } }
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: var(--bg-color); }
+        ::-webkit-scrollbar-thumb { background: var(--border-color); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
     </style>
 </head>
 <body>
 
-    <div class="stats-grid">
-        <div class="stat-card"><span class="stat-label">Total Kits</span><span class="stat-val" id="totalKits">---</span></div>
-        <div class="stat-card"><span class="stat-label">Today Kits</span><span class="stat-val" id="todayKits">---</span></div>
-        <div class="stat-card"><span class="stat-label">Online</span><span class="stat-val" id="online">---</span></div>
-        <div class="stat-card"><span class="stat-label">Peak (Day)</span><span class="stat-val" id="peak">---</span></div>
-        <div class="stat-card"><span class="stat-label">TPS / Ping</span><span class="stat-val" id="perf">---</span></div>
-    </div>
-
     <div class="container">
-        <div>
-            <div style="margin-bottom: 5px; font-weight: bold;">📺 Server Live Chat</div>
-            <div class="chat-container" id="chatBox">
-                <div class="chat-line" style="color: yellow;">Connecting to feed...</div>
+        <header>
+            <h1><i class="fas fa-robot"></i> 8b8t Kit Bot Dashboard</h1>
+            <div class="last-update" id="last-updated">Đang tải dữ liệu...</div>
+            <div style="margin-top: 5px; font-size: 0.9em; color: var(--success);">
+                Server IP: <span id="server-ip">...</span>
             </div>
-            <div style="font-size: 12px; color: #8b949e; margin-top: 5px;">Last Update: <span id="lastUpdate">...</span></div>
+        </header>
+
+        <div class="stats-grid">
+            <div class="card">
+                <i class="fas fa-box-open" style="color: #d2a8ff;"></i>
+                <span class="value" id="total-kits">---</span>
+                <span class="label">Tổng Kit đã giao</span>
+            </div>
+            <div class="card">
+                <i class="fas fa-calendar-day" style="color: #f0883e;"></i>
+                <span class="value" id="today-kits">---</span>
+                <span class="label">Đã giao hôm nay</span>
+            </div>
+            <div class="card">
+                <i class="fas fa-users" style="color: #58a6ff;"></i>
+                <span class="value" id="online-count">---</span>
+                <span class="label">Người chơi Online</span>
+            </div>
+            <div class="card">
+                <i class="fas fa-chart-line" style="color: #238636;"></i>
+                <span class="value" id="peak-players">---</span>
+                <span class="label">Đỉnh điểm hôm nay</span>
+            </div>
+            <div class="card">
+                <i class="fas fa-tachometer-alt" style="color: #da3633;"></i>
+                <span class="value" id="perf-stats">---</span>
+                <span class="label">TPS / Ping</span>
+            </div>
         </div>
 
-        <div>
-            <div class="leaderboard">
-                <div class="lb-header"><i class="fas fa-trophy"></i> Top Kit Requesters</div>
-                <div id="userLb">Loading...</div>
+        <div class="content-layout">
+            <div class="section-box">
+                <div class="section-title"><i class="fas fa-comments"></i> Server Live Chat</div>
+                <div id="chat-box">
+                    <div class="chat-line system-msg">Đang kết nối tới dữ liệu GitHub...</div>
+                </div>
             </div>
 
-            <div class="leaderboard">
-                <div class="lb-header"><i class="fas fa-box-open"></i> Most Popular Kits</div>
-                <div id="kitLb">Loading...</div>
+            <div class="right-col">
+                <div class="section-box" style="margin-bottom: 20px;">
+                    <div class="section-title"><i class="fas fa-crown"></i> Top Người Dùng</div>
+                    <div id="top-users">Loading...</div>
+                </div>
+
+                <div class="section-box">
+                    <div class="section-title"><i class="fas fa-boxes"></i> Kit Hot Nhất</div>
+                    <div id="top-kits">Loading...</div>
+                </div>
             </div>
         </div>
     </div>
 
     <script>
-        async function updateDashboard() {
+        const STATS_URL = 'stats.json'; // File này nằm cùng thư mục trên GitHub
+
+        async function fetchStats() {
             try {
-                // Thêm timestamp để tránh cache
-                const res = await fetch('stats.json?t=' + Date.now());
-                if (!res.ok) return;
-                const data = await res.json();
+                // Thêm timestamp để tránh GitHub cache dữ liệu cũ
+                const response = await fetch(`${STATS_URL}?t=${new Date().getTime()}`);
+                
+                if (!response.ok) throw new Error("Không tìm thấy file stats.json");
+                
+                const data = await response.json();
+                renderData(data);
 
-                // 1. Update Top Stats
-                document.getElementById('totalKits').innerText = data.totalKits;
-                document.getElementById('todayKits').innerText = data.todayKits;
-                document.getElementById('online').innerText = data.onlineCount;
-                document.getElementById('peak').innerText = data.peakPlayers;
-                document.getElementById('perf').innerText = `${data.tps} / ${data.ping}ms`;
-                document.getElementById('lastUpdate').innerText = data.lastUpdated;
-
-                // 2. Update Chat (Hiển thị ngược từ dưới lên)
-                const chatHtml = data.chatLog.slice().reverse().map(line => {
-                    // Highlight commands or bot msg
-                    let style = '';
-                    if(line.includes('>')) style = 'color: #79c0ff;'; // Bot msg
-                    if(line.includes('!kit')) style = 'color: #d2a8ff;'; // Command
-                    return `<div class="chat-line" style="${style}">${line}</div>`;
-                }).join('');
-                document.getElementById('chatBox').innerHTML = chatHtml;
-
-                // 3. Update User Leaderboard
-                const userHtml = data.topUsers.map((u, i) => `
-                    <div class="lb-row">
-                        <span class="lb-rank">#${i+1}</span>
-                        <span class="lb-name">${u.name}</span>
-                        <span class="lb-count">${u.count}</span>
-                    </div>
-                `).join('');
-                document.getElementById('userLb').innerHTML = userHtml || '<div style="text-align:center;color:#8b949e">No data</div>';
-
-                // 4. Update Kit Leaderboard
-                const kitHtml = data.topKits.map((k, i) => `
-                    <div class="lb-row">
-                        <span class="lb-rank">#${i+1}</span>
-                        <span class="lb-name" style="text-transform: capitalize;">${k.name}</span>
-                        <span class="lb-count">${k.count}</span>
-                    </div>
-                `).join('');
-                document.getElementById('kitLb').innerHTML = kitHtml || '<div style="text-align:center;color:#8b949e">No data</div>';
-
-            } catch (err) { console.error(err); }
+            } catch (error) {
+                console.error("Lỗi:", error);
+                document.getElementById('last-updated').innerText = "Chưa có dữ liệu hoặc lỗi kết nối.";
+            }
         }
 
-        updateDashboard();
-        setInterval(updateDashboard, 30000); // F5 mỗi 30s
+        function renderData(data) {
+            // 1. Cập nhật thông tin cơ bản
+            document.getElementById('last-updated').innerText = `Cập nhật lần cuối: ${data.lastUpdated}`;
+            document.getElementById('server-ip').innerText = data.serverIp || 'Unknown';
+            
+            animateValue("total-kits", data.totalKits);
+            animateValue("today-kits", data.todayKits);
+            animateValue("online-count", data.onlineCount);
+            animateValue("peak-players", data.peakPlayers);
+            document.getElementById('perf-stats').innerText = `${data.tps} / ${data.ping}ms`;
+
+            // 2. Cập nhật Chat Log
+            const chatContainer = document.getElementById('chat-box');
+            if (data.chatLog && data.chatLog.length > 0) {
+                // Đảo ngược mảng để tin mới nhất nằm dưới cùng (logic flex-direction: column-reverse)
+                // Hoặc giữ nguyên tuỳ sở thích. Ở đây mình map trực tiếp.
+                chatContainer.innerHTML = data.chatLog.map(line => {
+                    let className = 'chat-line';
+                    // Tô màu đơn giản
+                    if (line.includes('>')) className += ' bot-msg';
+                    else if (line.includes('!kit')) className += ' cmd-msg';
+                    else if (line.includes('[System]')) className += ' system-msg';
+                    
+                    // Escape HTML để tránh lỗi hiển thị
+                    const safeLine = line.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+                    return `<div class="${className}">${safeLine}</div>`;
+                }).reverse().join(''); // Reverse để cái mới nhất lên đầu trong file JSON hiển thị đúng
+            } else {
+                chatContainer.innerHTML = '<div class="chat-line system-msg">Chưa có tin nhắn nào.</div>';
+            }
+
+            // 3. Cập nhật Top Users
+            const userContainer = document.getElementById('top-users');
+            if (data.topUsers && data.topUsers.length > 0) {
+                userContainer.innerHTML = data.topUsers.map((u, i) => `
+                    <div class="lb-item">
+                        <span class="lb-rank">#${i + 1}</span>
+                        <span class="lb-name">${u.name}</span>
+                        <span class="lb-val">${u.count}</span>
+                    </div>
+                `).join('');
+            } else {
+                userContainer.innerHTML = '<div style="text-align:center; color:#8b949e">Chưa có dữ liệu</div>';
+            }
+
+            // 4. Cập nhật Top Kits
+            const kitContainer = document.getElementById('top-kits');
+            if (data.topKits && data.topKits.length > 0) {
+                kitContainer.innerHTML = data.topKits.map((k, i) => `
+                    <div class="lb-item">
+                        <span class="lb-rank">#${i + 1}</span>
+                        <span class="lb-name" style="text-transform: capitalize;">${k.name}</span>
+                        <span class="lb-val">${k.count}</span>
+                    </div>
+                `).join('');
+            } else {
+                kitContainer.innerHTML = '<div style="text-align:center; color:#8b949e">Chưa có dữ liệu</div>';
+            }
+        }
+
+        // Hiệu ứng nhảy số
+        function animateValue(id, end) {
+            const obj = document.getElementById(id);
+            const start = parseInt(obj.innerText) || 0;
+            if (start === end) return;
+            obj.innerText = end; // Cập nhật luôn cho nhanh, bỏ animation nếu muốn mượt hơn thì dùng thư viện
+        }
+
+        // Chạy lần đầu
+        fetchStats();
+
+        // Tự động refresh mỗi 30 giây (Khớp với thời gian bot đẩy dữ liệu)
+        setInterval(fetchStats, 30000);
     </script>
 </body>
 </html>
