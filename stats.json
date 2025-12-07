@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:48:17 8/12/2025",
+  "lastUpdated": "01:48:31 8/12/2025",
   "totalKits": 60447,
   "todayKits": 4,
-  "onlineCount": 36,
+  "onlineCount": 35,
   "peakPlayers": 38,
-  "tps": "13.0",
-  "ping": 229,
+  "tps": "15.0",
+  "ping": 228,
   "topUsers": [
     {
       "name": "m9anx",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 112
+      "count": 113
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:47] To Alecraft8: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[01:47] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[01:47] To GaBaus: Try again",
-    "[01:47] <therefour222> nonononononnonon ",
-    "[01:47] <m9anx> !kit raid ",
-    "[01:47] [8b8t] >> Teleporting to home 0...",
-    "[01:47] [8b8t] >> Teleporting to home 3...",
-    "[01:47] <ThiagoG009> se murio por las espinas ",
-    "[01:47] To m9anx: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[01:47] To m9anx: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[01:47] [8b8t] >> Request sent to m9anx",
     "[01:47] <Alecraft8> !kit Toolbox ",
     "[01:47] To Alecraft8: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
@@ -101,7 +91,17 @@
     "[01:48] To d3m0n1010: Hello d3m0n1010!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[01:48] <Lukass_012> tiago te falta una cama ",
     "[01:48] <ThiagoG009> 6 kill en total llevo ",
-    "[01:48] [8b8t] >> Teleporting..."
+    "[01:48] [8b8t] >> Teleporting...",
+    "[01:48] [8b8t] >> Home 2 was not found",
+    "[01:48] <d3m0n1010> !kit survival ",
+    "[01:48] [8b8t] >> Teleporting to home 0...",
+    "[01:48] [8b8t] >> Teleporting to home 1...",
+    "[01:48] To d3m0n1010: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:48] [8b8t] >> The command /seed is not allowed",
+    "[01:48] <ThiagoG009> eso es trampa ",
+    "[01:48] To d3m0n1010: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[01:48] [8b8t] >> The command /seed is not allowed",
+    "[01:48] [8b8t] >> Request sent to d3m0n1010"
   ],
   "userStats": {
     "Alecraft8": 13,
@@ -216,11 +216,12 @@
     ".Uqe1": 3,
     "parhamzarea": 1,
     "PorotoCosmico": 1,
-    "Josemhu12": 1
+    "Josemhu12": 1,
+    "d3m0n1010": 1
   },
   "kitStats": {
     "build": 29,
-    "survival": 112,
+    "survival": 113,
     "pvp": 151,
     "dupe": 41,
     "tools": 37,
