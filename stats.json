@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:12:12 7/12/2025",
-  "totalKits": 60002,
-  "todayKits": 1,
-  "onlineCount": 43,
+  "lastUpdated": "10:12:36 7/12/2025",
+  "totalKits": 60003,
+  "todayKits": 2,
+  "onlineCount": 42,
   "peakPlayers": 44,
-  "tps": "19.0",
-  "ping": 236,
+  "tps": "15.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "WebSuperOp",
@@ -27,9 +27,17 @@
     {
       "name": "RyloMC",
       "count": 1
+    },
+    {
+      "name": "pibble",
+      "count": 1
     }
   ],
   "topKits": [
+    {
+      "name": "pvp",
+      "count": 3
+    },
     {
       "name": "build",
       "count": 2
@@ -37,26 +45,9 @@
     {
       "name": "survival",
       "count": 2
-    },
-    {
-      "name": "pvp",
-      "count": 2
     }
   ],
   "chatLog": [
-    "[10:11] [8b8t] >> Teleporting to home 1...",
-    "[10:11] To RyloMC: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[10:11] To RyloMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[10:11] <2young2care> iknow bro ",
-    "[10:11] [8b8t] >> Request sent to RyloMC",
-    "[10:11] [8b8t] >> Teleporting...",
-    "[10:11] <pibble> !kit pvp ",
-    "[10:11] To pibble: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[10:11] <2young2care> same with me ",
-    "[10:11] [Ultra] <CEOofYT> se cayo mi abuelo por las escaleras ",
-    "[10:11] <luccah10> yo tengo un plan ",
-    "[10:11] [8b8t] >> The command /seed is not allowed",
-    "[10:11] [8b8t] >> Home 2 was not found",
     "[10:11] [8b8t] >> The command /seed is not allowed",
     "[10:11] [8b8t] >> The command /seed is not allowed",
     "[10:11] <⭐ | YoSerF> aya ",
@@ -73,18 +64,32 @@
     "[10:12] <⭐ | YoSerF> placea la piedra ",
     "[10:12] [Ultra] <CEOofYT> sob ",
     "[10:12] <pibble> !kit ",
-    "[10:12] To pibble: Hello pibble!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[10:12] To pibble: Hello pibble!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[10:12] <pibble> !kit pvp ",
+    "[10:12] [8b8t] >> Teleporting to home 0...",
+    "[10:12] creiser123 decided to sleep with the fishes",
+    "[10:12] [8b8t] >> Teleporting to home 1...",
+    "[10:12] To pibble: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[10:12] [BOT] <0_HienBot> Hola WebSuperOp! ",
+    "[10:12] <WebSuperOp> *kit ",
+    "[10:12] To WebSuperOp: Hello WebSuperOp!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[10:12] To pibble: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[10:12] [8b8t] >> Request sent to pibble",
+    "[10:12] <WebSuperOp> !kit Dupe ",
+    "[10:12] To WebSuperOp: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[10:12] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 1,
     "Victua7397": 1,
     "FlygDaa": 1,
     "WebSuperOp": 2,
-    "RyloMC": 1
+    "RyloMC": 1,
+    "pibble": 1
   },
   "kitStats": {
     "build": 2,
     "survival": 2,
-    "pvp": 2
+    "pvp": 3
   }
 }
