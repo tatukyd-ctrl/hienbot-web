@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:10:08 7/12/2025",
+  "lastUpdated": "17:10:12 7/12/2025",
   "totalKits": 60190,
   "todayKits": 5,
   "onlineCount": 31,
   "peakPlayers": 32,
-  "tps": "18.0",
-  "ping": 238,
+  "tps": "17.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "m9anx",
@@ -14,7 +14,7 @@
     },
     {
       "name": "RiseCPvP",
-      "count": 20
+      "count": 21
     },
     {
       "name": "Kraxxyz",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 51
+      "count": 52
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:09] <Doggy_wolf777> $tps ",
-    "[17:09] <The_Bot_father> !kit xp ",
-    "[17:09] To The_Bot_father: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[17:09] YO_BRO thought they could fly... they couldn't",
     "[17:09] <Doggy_wolf777> finnaly pistonbot u have a use ",
     "[17:09] hubert_grumptube got his head blown off by the Wither",
     "[17:09] <The_Bot_father> !kit exp ",
@@ -101,7 +97,11 @@
     "[17:10] [8b8t] >> Teleporting...",
     "[17:10] <Lukass_012> alex el kit ",
     "[17:10] <RiseCPvP> !kit pvp ",
-    "[17:10] To RiseCPvP: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[17:10] To RiseCPvP: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[17:10] <RiseCPvP> !kit pvp ",
+    "[17:10] [8b8t] >> Teleporting to home 0...",
+    "[17:10] [8b8t] >> Home 2 was not found",
+    "[17:10] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Alecraft8": 1,
@@ -120,7 +120,7 @@
     "Hien2309": 11,
     "m9anx": 21,
     "xsNerox": 2,
-    "RiseCPvP": 20,
+    "RiseCPvP": 21,
     "dylan20392334": 1,
     ".Fofolowwy": 1,
     "visfocri": 1,
@@ -160,7 +160,7 @@
   "kitStats": {
     "build": 18,
     "survival": 33,
-    "pvp": 51,
+    "pvp": 52,
     "dupe": 31,
     "tools": 21,
     "stash": 7,
