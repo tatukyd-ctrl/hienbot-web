@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:53:31 7/12/2025",
+  "lastUpdated": "10:53:51 7/12/2025",
   "totalKits": 60031,
   "todayKits": 12,
   "onlineCount": 36,
   "peakPlayers": 41,
-  "tps": "17.0",
-  "ping": 259,
+  "tps": "4.0",
+  "ping": 1058,
   "topUsers": [
     {
       "name": "WebSuperOp",
@@ -33,6 +33,10 @@
       "count": 2
     },
     {
+      "name": ".MISPOK9194",
+      "count": 2
+    },
+    {
       "name": "Alecraft8",
       "count": 1
     },
@@ -42,10 +46,6 @@
     },
     {
       "name": "bigbear",
-      "count": 1
-    },
-    {
-      "name": "2young2care",
       "count": 1
     }
   ],
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 3
+      "count": 4
     },
     {
       "name": "raid",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:51] [8b8t] >> The command /seed is not allowed",
-    "[10:51] [BOT] <0_HienBot> The server's seed is :'-9079062558503125353' ",
-    "[10:51] [8b8t] >> The command /seed is not allowed",
-    "[10:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[10:51] luccah10 pulverized FlygDaa using [their hand]",
-    "[10:51] <.MISPOK9194> !kit Build ",
-    "[10:51] [8b8t] >> Teleporting to home 0...",
-    "[10:51] [8b8t] >> Teleporting to home 3...",
-    "[10:51] To .MISPOK9194: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[10:51] To .MISPOK9194: Sorry! Lime Shulker Box is out of stock. Giving you White Shulker Box instead!",
-    "[10:51] [8b8t] >> Request sent to .MISPOK9194",
-    "[10:51] [BOT] <0_HienBot> 𝙒𝙖𝙣𝙩 𝙠𝙞𝙩 ?? 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 ",
-    "[10:52] [8b8t] >> Teleporting...",
     "[10:52] JULIANSPR thought they could fly... they couldn't",
     "[10:52] [8b8t] >> Home 2 was not found",
     "[10:52] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +88,20 @@
     "[10:53] To Hien2309: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[10:53] [8b8t] >> Request sent to Hien2309",
     "[10:53] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[10:53] [8b8t] >> Teleporting..."
+    "[10:53] [8b8t] >> Teleporting...",
+    "[10:53] 0_HienBot has been put down by Hien2309",
+    "[10:53] <.MISPOK9194> ! t ",
+    "[10:53] Chat disabled in client options",
+    "[10:53] [8b8t] >> Home 2 was not found",
+    "[10:53] [8b8t] >> The command /seed is not allowed",
+    "[10:53] [8b8t] >> The command /seed is not allowed",
+    "[10:53] [8b8t] >> The command /seed is not allowed",
+    "[10:53] <.MISPOK9194> !kit build ",
+    "[10:53] [8b8t] >> Teleporting to home 0...",
+    "[10:53] [8b8t] >> Teleporting to home 3...",
+    "[10:53] To .MISPOK9194: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[10:53] To .MISPOK9194: Sorry! Lime Shulker Box is out of stock. Giving you Gray Shulker Box instead!",
+    "[10:53] [8b8t] >> Request sent to .MISPOK9194"
   ],
   "userStats": {
     "Alecraft8": 1,
@@ -116,11 +116,11 @@
     "2young2care": 1,
     "cuenta1213213": 1,
     "paidpopbob": 1,
-    ".MISPOK9194": 1,
+    ".MISPOK9194": 2,
     "Hien2309": 1
   },
   "kitStats": {
-    "build": 3,
+    "build": 4,
     "survival": 7,
     "pvp": 10,
     "dupe": 2,
