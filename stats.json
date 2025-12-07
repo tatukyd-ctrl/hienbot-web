@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:14:59 7/12/2025",
-  "totalKits": 60238,
-  "todayKits": 0,
+  "lastUpdated": "19:15:16 7/12/2025",
+  "totalKits": 60239,
+  "todayKits": 1,
   "onlineCount": 28,
   "peakPlayers": 28,
-  "tps": "20.0",
+  "tps": "16.0",
   "ping": 233,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 74
+      "count": 75
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:13]  [8builders8tools]",
-    "[19:13]  Perform the command /email associate to register",
-    "[19:13]  your email. By doing so, you",
-    "[19:13]  decrease the chance of being hacked.",
-    "[19:13] ",
-    "[19:13]   [Confirm read]",
-    "[19:13] ",
-    "[19:13] <Sniptoes> see faster ",
-    "[19:13] [8b8t] >> The command /seed is not allowed",
     "[19:13] <.LEON50758> I have 1 heart ",
     "[19:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[19:13] [Pro] <bigbear> i thoguth u were good in redstone ",
@@ -101,7 +92,16 @@
     "[19:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[19:14] manymen221 has made the advancement [Monster Hunter]",
     "[19:14] [Pro] <bigbear> -_- ",
-    "[19:14] <Sniptoes> the redstone clock never turns off unless you right click the comparator "
+    "[19:14] <Sniptoes> the redstone clock never turns off unless you right click the comparator ",
+    "[19:15] <person1100nc> !kit pvp ",
+    "[19:15] [8b8t] >> Teleporting to home 0...",
+    "[19:15] [8b8t] >> Teleporting to home 1...",
+    "[19:15] To person1100nc: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:15] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[19:15] To person1100nc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:15] [8b8t] >> Request sent to person1100nc",
+    "[19:15] [8b8t] >> Teleporting...",
+    "[19:15] <ogkiller_25> !kit "
   ],
   "userStats": {
     "Alecraft8": 1,
@@ -171,12 +171,13 @@
     "denise334": 1,
     "oRiolon1": 1,
     "Emirbaba72926": 1,
-    "HCM100": 1
+    "HCM100": 1,
+    "person1100nc": 1
   },
   "kitStats": {
     "build": 19,
     "survival": 47,
-    "pvp": 74,
+    "pvp": 75,
     "dupe": 32,
     "tools": 22,
     "stash": 10,
