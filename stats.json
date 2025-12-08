@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:12:30 8/12/2025",
-  "totalKits": 60724,
-  "todayKits": 3,
-  "onlineCount": 30,
+  "lastUpdated": "10:13:00 8/12/2025",
+  "totalKits": 60725,
+  "todayKits": 4,
+  "onlineCount": 32,
   "peakPlayers": 34,
-  "tps": "17.0",
+  "tps": "14.0",
   "ping": 220,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 207
+      "count": 208
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:09] To Kaylaxa: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[10:09] To Kaylaxa: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[10:09] [8b8t] >> Request sent to Kaylaxa",
-    "[10:09] [8b8t] >> Teleporting...",
-    "[10:09] [8b8t] >> Home 2 was not found",
-    "[10:09] [8b8t] >> The command /seed is not allowed",
-    "[10:09] [8b8t] >> The command /seed is not allowed",
-    "[10:09] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[10:09] Kaylaxa has completed the challenge [Cover Me in Debris]",
-    "[10:09] Jhoaodinho got a deadly lesson from the Wither",
-    "[10:10] zdwag22 thought they could fly... they couldn't",
     "[10:10] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[10:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:10] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
@@ -101,7 +90,18 @@
     "[10:12] [BOT] <0_HienBot> What's up, zdwag22? ",
     "[10:12] haiducnguyen was made dinner of by a Zombie Villager",
     "[10:12] anghelinho decided to test gravity and lost",
-    "[10:12] [Basic] <| 166 |> quien me regala su head "
+    "[10:12] [Basic] <| 166 |> quien me regala su head ",
+    "[10:12] [8b8t] >> Please do not spam.",
+    "[10:12] <.Entity_3035099> !kit survival ",
+    "[10:12] [8b8t] >> Teleporting to home 0...",
+    "[10:12] [8b8t] >> Teleporting to home 1...",
+    "[10:12] To .Entity_3035099: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[10:12] To .Entity_3035099: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[10:12] [8b8t] >> Request sent to .Entity_3035099",
+    "[10:12] Jhoaodinho challenged the Wither and lost their head",
+    "[10:12] anghelinho forgot to bring their parachute",
+    "[10:12] [8b8t] >> Teleporting...",
+    "[10:12] 0_HienBot was pwned by .Entity_3035099 wielding [their hand]"
   ],
   "userStats": {
     "Alecraft8": 16,
@@ -273,11 +273,12 @@
     "tekupeadd": 1,
     "AbidWarrrior57": 1,
     "Gabrielcraft522": 1,
-    "zdwag22": 1
+    "zdwag22": 1,
+    ".Entity_3035099": 1
   },
   "kitStats": {
     "build": 37,
-    "survival": 207,
+    "survival": 208,
     "pvp": 279,
     "dupe": 59,
     "tools": 68,
