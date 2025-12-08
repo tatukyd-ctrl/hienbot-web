@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:28:59 8/12/2025",
+  "lastUpdated": "19:29:29 8/12/2025",
   "totalKits": 60898,
   "todayKits": 4,
   "onlineCount": 25,
   "peakPlayers": 27,
-  "tps": "15.0",
-  "ping": 227,
+  "tps": "17.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "m9anx",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 258
+      "count": 259
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:27] <blepmonster> !kit dupe ",
-    "[19:27] [8b8t] >> Teleporting to home 0...",
-    "[19:27] [8b8t] >> Teleporting to home 8...",
-    "[19:27] To blepmonster: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:27] To blepmonster: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:27] [8b8t] >> Request sent to blepmonster",
-    "[19:27] [8b8t] >> Teleporting...",
-    "[19:27] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[19:27] 0_HienBot was rekt by blepmonster and their mighty [netherite axe]",
     "[19:27] [8b8t] >> Home 2 was not found",
     "[19:27] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +93,15 @@
     "[19:28] <Thomasfriend> !kit elytra ",
     "[19:28] To Thomasfriend: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[19:28] [8b8t] >> The command /seed is not allowed",
-    "[19:28] [8b8t] >> Home 2 was not found"
+    "[19:28] [8b8t] >> Home 2 was not found",
+    "[19:29] [8b8t] >> The command /seed is not allowed",
+    "[19:29] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[19:29] <Mark7254> *kit ",
+    "[19:29] Mark7254 is ignoring you",
+    "[19:29] chimtocackhung decided to test gravity and lost",
+    "[19:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[19:29] <Thomasfriend> !kit survival ",
+    "[19:29] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Alecraft8": 16,
@@ -298,11 +298,11 @@
     "DaFuqBoomTaken": 1,
     "Xoladliac": 5,
     "TaupeKibbles354": 4,
-    "Thomasfriend": 2
+    "Thomasfriend": 3
   },
   "kitStats": {
     "build": 45,
-    "survival": 258,
+    "survival": 259,
     "pvp": 326,
     "dupe": 76,
     "tools": 82,
