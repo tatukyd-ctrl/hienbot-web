@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:09:33 9/12/2025",
+  "lastUpdated": "01:10:03 9/12/2025",
   "totalKits": 61073,
   "todayKits": 33,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 47,
-  "tps": "14.0",
+  "tps": "6.0",
   "ping": 232,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 306
+      "count": 307
     },
     {
       "name": "tools",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:06] <osxtox> \\kit ",
-    "[01:07] SteakWueste2982 decided to test gravity and lost",
-    "[01:07] [8b8t] >> Home 2 was not found",
-    "[01:07] [8b8t] >> The command /seed is not allowed",
-    "[01:07] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[01:07] <WerxyLo> GUYSSSS TPA ME 15K PLEASEEEEE ",
     "[01:07] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
     "[01:07] <WerxyLo> !ping ",
@@ -101,7 +96,12 @@
     "[01:09] <osxtox> !kit ",
     "[01:09] To osxtox: Hello osxtox!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[01:09] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[01:09] <WerxyLo> thanks "
+    "[01:09] <WerxyLo> thanks ",
+    "[01:09] <osxtox> !kit survival ",
+    "[01:09] [8b8t] >> Teleporting to home 0...",
+    "[01:09] [8b8t] >> Teleporting to home 1...",
+    "[01:09] To osxtox: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:09] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit "
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -332,11 +332,12 @@
     "quiraxd": 1,
     "SHADOW_EO": 1,
     "Skibidi_Rizzler8": 1,
-    "resge": 1
+    "resge": 1,
+    "osxtox": 1
   },
   "kitStats": {
     "build": 50,
-    "survival": 306,
+    "survival": 307,
     "pvp": 389,
     "dupe": 83,
     "tools": 94,
