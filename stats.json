@@ -1,23 +1,23 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:04:03 9/12/2025",
+  "lastUpdated": "00:04:33 9/12/2025",
   "totalKits": 61042,
   "todayKits": 2,
-  "onlineCount": 43,
+  "onlineCount": 42,
   "peakPlayers": 47,
   "tps": "19.0",
-  "ping": 232,
+  "ping": 236,
   "topUsers": [
     {
       "name": "Scotty_01_",
       "count": 68
     },
     {
-      "name": "m9anx",
-      "count": 56
+      "name": "blepmonster",
+      "count": 57
     },
     {
-      "name": "blepmonster",
+      "name": "m9anx",
       "count": 56
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 300
+      "count": 301
     },
     {
       "name": "tools",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:02] <nahuelx_x> !kit ilegal ",
-    "[00:02] To nahuelx_x: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[00:02] <FABRICIO_CAPITO> !kit constructor ",
-    "[00:02] To FABRICIO_CAPITO: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[00:02] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
-    "[00:02] [8b8t] >> The TPA request you sent to TraceGuy was successfully canceled.",
-    "[00:02] <aleja170713> !kit survival ",
-    "[00:03] [8b8t] >> Teleporting to home 0...",
-    "[00:03] [8b8t] >> Teleporting to home 1...",
-    "[00:03] [8b8t] >> The command /seed is not allowed",
-    "[00:03] To aleja170713: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[00:03] To aleja170713: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[00:03] [8b8t] >> Request sent to aleja170713",
     "[00:03] <nahuelx_x> !kit survival ",
     "[00:03] To nahuelx_x: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[00:03] <TraceGuy> !kir survival ",
@@ -101,7 +88,20 @@
     "[00:03] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 ",
     "[00:03] aleja170713 has completed the challenge [Serious Dedication]",
     "[00:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[00:04] xerofilonto decided to test gravity and lost"
+    "[00:04] xerofilonto decided to test gravity and lost",
+    "[00:04] [BOT] <0_HienBot> Hello 14mate! ",
+    "[00:04] <FABRICIO_CAPITO> !kit constructor ",
+    "[00:04] [8b8t] >> Teleporting to home 0...",
+    "[00:04] [8b8t] >> Teleporting to home 1...",
+    "[00:04] To FABRICIO_CAPITO: Your kit (constructor) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[00:04] <blepmonster> !kit constructor ",
+    "[00:04] [8b8t] >> Teleporting to home 0...",
+    "[00:04] [8b8t] >> Teleporting to home 1...",
+    "[00:04] To blepmonster: Your kit (constructor) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[00:04] <mmma1rquitosss> !kit survival ",
+    "[00:04] [8b8t] >> Teleporting to home 0...",
+    "[00:04] [8b8t] >> Teleporting to home 1...",
+    "[00:04] To mmma1rquitosss: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -180,7 +180,7 @@
     "GreetedWinter81": 7,
     "alisium44": 7,
     "Raiyan": 3,
-    "blepmonster": 56,
+    "blepmonster": 57,
     "WembuMC": 2,
     "Lins_42": 1,
     "Scotty_01_": 68,
@@ -319,17 +319,17 @@
     "michelzim525": 3,
     "PVPMODEON": 2,
     ".Ricsike30016": 1,
-    "mmma1rquitosss": 10,
+    "mmma1rquitosss": 11,
     "alastor_gamer89": 1,
     ".LEON50758": 1,
     "Saad2001": 2,
-    "FABRICIO_CAPITO": 1,
+    "FABRICIO_CAPITO": 2,
     "TraceGuy": 1,
     "aleja170713": 1
   },
   "kitStats": {
     "build": 50,
-    "survival": 300,
+    "survival": 301,
     "pvp": 368,
     "dupe": 83,
     "tools": 93,
@@ -352,6 +352,7 @@
     "ocean": 4,
     "concrete": 16,
     "glass": 3,
-    "gap": 3
+    "gap": 3,
+    "constructor": "function Object() { [native code] }11"
   }
 }
