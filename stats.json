@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:43:29 9/12/2025",
+  "lastUpdated": "01:43:33 9/12/2025",
   "totalKits": 61082,
   "todayKits": 42,
   "onlineCount": 39,
   "peakPlayers": 47,
-  "tps": "18.0",
-  "ping": 220,
+  "tps": "16.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 96
+      "count": 97
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:41] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[01:41] yopachat forgot to stop, drop, and roll",
-    "[01:41] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
-    "[01:41] <spinchase> !kit ",
-    "[01:41] To spinchase: Hello spinchase!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[01:42] camilogod thought a Zombie was friendly",
     "[01:42] Minecentrix has reached the goal [Postmortal]",
     "[01:42] TyroneG has made the advancement [Monster Hunter]",
     "[01:42] [BOT] <0_HienBot> Hey resge! ",
@@ -101,7 +95,13 @@
     "[01:43] To zxcvutn: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[01:43] [8b8t] >> Request sent to zxcvutn",
     "[01:43] [8b8t] >> Teleporting...",
-    "[01:43] <camilogod> bro? "
+    "[01:43] <camilogod> bro? ",
+    "[01:43] 0_HienBot forgot to stop, drop, and roll",
+    "[01:43] <.Sami702MMPL> !kit tools ",
+    "[01:43] [8b8t] >> Home 2 was not found",
+    "[01:43] [8b8t] >> Teleporting to home 0...",
+    "[01:43] [8b8t] >> Teleporting to home 8...",
+    "[01:43] To .Sami702MMPL: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -335,7 +335,7 @@
     "resge": 2,
     "osxtox": 1,
     "lorax": 1,
-    ".Sami702MMPL": 1,
+    ".Sami702MMPL": 2,
     "droppedbytupapa": 1
   },
   "kitStats": {
@@ -343,7 +343,7 @@
     "survival": 308,
     "pvp": 390,
     "dupe": 86,
-    "tools": 96,
+    "tools": 97,
     "stash": 44,
     "raid": 52,
     "wood": 25,
