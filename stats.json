@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:38:04 9/12/2025",
+  "lastUpdated": "03:38:34 9/12/2025",
   "totalKits": 61163,
   "todayKits": 123,
   "onlineCount": 44,
   "peakPlayers": 54,
-  "tps": "18.0",
+  "tps": "16.0",
   "ping": 229,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 425
+      "count": 426
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:35] To postarget: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[03:35] [8b8t] >> Request sent to postarget",
-    "[03:35] [8b8t] >> Teleporting...",
-    "[03:35] [8b8t] >> Home 2 was not found",
-    "[03:36] [8b8t] >> The command /seed is not allowed",
-    "[03:36] [BOT] <0_HienBot> Hi M_INMORTAL_H! ",
-    "[03:36] <camilogod> pony soy nosoypapitas ",
-    "[03:36] <camilogod> sacame del spawn ",
-    "[03:36] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[03:36] <cuack3000> !kit PVP ",
     "[03:36] [8b8t] >> Teleporting to home 0...",
     "[03:36] [8b8t] >> Teleporting to home 1...",
     "[03:36] To cuack3000: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,7 +91,17 @@
     "[03:37] <0_HiendBot> gg ",
     "[03:37] <Gorka772> !kit ",
     "[03:37] To Gorka772: Hello Gorka772!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[03:38] <zChrisw> gg "
+    "[03:38] <zChrisw> gg ",
+    "[03:38] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[03:38] camilogod got a deadly lesson from the Wither",
+    "[03:38] <Gorka772> !kit pvp ",
+    "[03:38] [8b8t] >> Teleporting to home 0...",
+    "[03:38] [8b8t] >> Teleporting to home 1...",
+    "[03:38] To Gorka772: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:38] [8b8t] >> TPA cancelled because zChrisw left",
+    "[03:38] To Gorka772: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[03:38] [8b8t] >> Request sent to Gorka772",
+    "[03:38] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -292,7 +292,7 @@
     "angelpro38": 3,
     "elproplayerxddd": 2,
     "brunoxdxdurhj": 2,
-    "Gorka772": 1,
+    "Gorka772": 2,
     "dragonkit": 4,
     "JUSTLIKED": 7,
     "DaFuqBoomTaken": 1,
@@ -356,7 +356,7 @@
   "kitStats": {
     "build": 58,
     "survival": 332,
-    "pvp": 425,
+    "pvp": 426,
     "dupe": 88,
     "tools": 109,
     "stash": 46,
