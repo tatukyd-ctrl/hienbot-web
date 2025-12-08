@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:36:34 9/12/2025",
-  "totalKits": 61162,
-  "todayKits": 122,
+  "lastUpdated": "03:37:03 9/12/2025",
+  "totalKits": 61163,
+  "todayKits": 123,
   "onlineCount": 46,
   "peakPlayers": 54,
-  "tps": "18.0",
-  "ping": 230,
+  "tps": "17.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 424
+      "count": 425
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:33] [8b8t] >> Teleporting...",
-    "[03:34] <postarget> !kit illegal ",
-    "[03:34] To postarget: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[03:34] [8b8t] >> Home 2 was not found",
-    "[03:34] trygabri2025 got a deadly lesson from the Wither",
-    "[03:34] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
-    "[03:34] [8b8t] >> The command /seed is not allowed",
-    "[03:34] <BoroBhai> !kit illegal ",
-    "[03:34] To BoroBhai: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[03:34] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
     "[03:35] JosefTusa got his head blown off by the Wither",
     "[03:35] [BOT] <0_HienBot> Bot created by Hien2309. ",
     "[03:35] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +91,17 @@
     "[03:36] [8b8t] >> The command /seed is not allowed",
     "[03:36] [BOT] <0_HienBot> Hi M_INMORTAL_H! ",
     "[03:36] <camilogod> pony soy nosoypapitas ",
-    "[03:36] <camilogod> sacame del spawn "
+    "[03:36] <camilogod> sacame del spawn ",
+    "[03:36] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[03:36] <cuack3000> !kit PVP ",
+    "[03:36] [8b8t] >> Teleporting to home 0...",
+    "[03:36] [8b8t] >> Teleporting to home 1...",
+    "[03:36] To cuack3000: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:36] To cuack3000: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[03:36] [8b8t] >> Request sent to cuack3000",
+    "[03:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[03:36] ggezbaby tried to defuse a Creeper... it didn't work",
+    "[03:36] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -350,12 +350,13 @@
     "abtin123456": 3,
     "BoroBhai": 3,
     "SanyYtPRO": 6,
-    "djdjaroz": 1
+    "djdjaroz": 1,
+    "cuack3000": 1
   },
   "kitStats": {
     "build": 58,
     "survival": 332,
-    "pvp": 424,
+    "pvp": 425,
     "dupe": 88,
     "tools": 109,
     "stash": 46,
