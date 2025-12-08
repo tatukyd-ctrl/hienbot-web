@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:02:06 9/12/2025",
+  "lastUpdated": "00:02:33 9/12/2025",
   "totalKits": 61041,
   "todayKits": 1,
-  "onlineCount": 47,
+  "onlineCount": 45,
   "peakPlayers": 47,
-  "tps": "16.0",
-  "ping": 240,
+  "tps": "18.0",
+  "ping": 238,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 298
+      "count": 299
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:00] [8b8t] >> Your login session has been continued.",
-    "[00:00] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[00:00] ",
-    "[00:00]  [8builders8tools]",
-    "[00:00]  Perform the command /email associate to register",
-    "[00:00]  your email. By doing so, you",
-    "[00:00]  decrease the chance of being hacked.",
-    "[00:00] ",
-    "[00:00]   [Confirm read]",
-    "[00:00] ",
-    "[00:00] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[00:00] [8b8t] >> The command /seed is not allowed",
     "[00:01] nahuelx_x decided to test gravity and lost",
     "[00:01] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[00:01] <Saad2001> !kit ",
@@ -101,7 +89,19 @@
     "[00:01] To TraceGuy: Hello TraceGuy!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[00:01] To Saad2001: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[00:02] [8b8t] >> Request sent to Saad2001",
-    "[00:02] [8b8t] >> Teleporting..."
+    "[00:02] [8b8t] >> Teleporting...",
+    "[00:02] [8b8t] >> Home 2 was not found",
+    "[00:02] [8b8t] >> The command /seed is not allowed",
+    "[00:02] <TraceGuy> !kit survival ",
+    "[00:02] [8b8t] >> Teleporting to home 0...",
+    "[00:02] <FABRICIO_CAPITO> !kit fly ",
+    "[00:02] To FABRICIO_CAPITO: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[00:02] [8b8t] >> Teleporting to home 1...",
+    "[00:02] To TraceGuy: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[00:02] To TraceGuy: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[00:02] [8b8t] >> Request sent to TraceGuy",
+    "[00:02] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
+    "[00:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -323,11 +323,12 @@
     "alastor_gamer89": 1,
     ".LEON50758": 1,
     "Saad2001": 2,
-    "FABRICIO_CAPITO": 1
+    "FABRICIO_CAPITO": 1,
+    "TraceGuy": 1
   },
   "kitStats": {
     "build": 50,
-    "survival": 298,
+    "survival": 299,
     "pvp": 368,
     "dupe": 83,
     "tools": 93,
