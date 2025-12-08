@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:26:33 9/12/2025",
-  "totalKits": 61049,
-  "todayKits": 9,
-  "onlineCount": 38,
+  "lastUpdated": "00:26:48 9/12/2025",
+  "totalKits": 61050,
+  "todayKits": 10,
+  "onlineCount": 39,
   "peakPlayers": 47,
-  "tps": "17.0",
+  "tps": "18.0",
   "ping": 240,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 374
+      "count": 375
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:25] [BOT] <0_HienBot> The server's seed is :'Loading...' ",
-    "[00:25] [8b8t] >> Teleporting to home 1...",
-    "[00:25] To Scotty_01_: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[00:25] To Scotty_01_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[00:25] [8b8t] >> Request sent to Scotty_01_",
-    "[00:25] <Scotty_01_> !kit pvp ",
-    "[00:25] To Scotty_01_: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[00:25] Scotty_01_ has been put down by elproplayerxddd",
-    "[00:25] [8b8t] >> Teleporting...",
-    "[00:25] TraceGuy has reached the goal [Postmortal]",
-    "[00:25] <botchaosonix666> lol ",
-    "[00:25] [8b8t] >> Home 2 was not found",
     "[00:25] [BOT] <0_HienBot> Do !discord ",
     "[00:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[00:25] 22AlanProGamer has completed the challenge [Cover Me in Debris]",
@@ -101,7 +89,19 @@
     "[00:26] <WerxyLo> spandayyim ",
     "[00:26] elproplayerxddd has made the advancement [Minecraft: Trial(s) Edition]",
     "[00:26] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:26] tEdReam_es thought they could fly... they couldn't"
+    "[00:26] tEdReam_es thought they could fly... they couldn't",
+    "[00:26] <mn_pvp> !kit pvp ",
+    "[00:26] [8b8t] >> Teleporting to home 0...",
+    "[00:26] [8b8t] >> Teleporting to home 1...",
+    "[00:26] To mn_pvp: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[00:26] To mn_pvp: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[00:26] n1tro got a deadly lesson from the Wither",
+    "[00:26] [8b8t] >> Request sent to mn_pvp",
+    "[00:26] <.LEON50758> dünya nether? ",
+    "[00:26] <Scotty_01_> !kit pvp ",
+    "[00:26] [BOT] <0_HienBot> Welcome to 8b8t, Jalveth! ",
+    "[00:26] To Scotty_01_: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[00:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -327,12 +327,13 @@
     "TraceGuy": 1,
     "aleja170713": 1,
     "nahuelx_x": 3,
-    "22AlanProGamer": 1
+    "22AlanProGamer": 1,
+    "mn_pvp": 1
   },
   "kitStats": {
     "build": 50,
     "survival": 303,
-    "pvp": 374,
+    "pvp": 375,
     "dupe": 83,
     "tools": 94,
     "stash": 42,
