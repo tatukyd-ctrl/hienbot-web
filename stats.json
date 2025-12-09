@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:18:10 9/12/2025",
+  "lastUpdated": "19:18:30 9/12/2025",
   "totalKits": 61472,
   "todayKits": 3,
-  "onlineCount": 21,
-  "peakPlayers": 21,
-  "tps": "19.0",
-  "ping": 231,
+  "onlineCount": 22,
+  "peakPlayers": 22,
+  "tps": "16.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 522
+      "count": 523
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:16] [BOT] <0_HienBot> What's up, MeterMaid? ",
-    "[19:16] <ElQueCobra> interesante ",
-    "[19:16] <tuabuela> bvbuuuuuuuuuuuuuuurrrrrrrr ",
-    "[19:16] <ElQueCobra> un huevo de dragon ",
-    "[19:16] <ElQueCobra> que interesante ",
-    "[19:16] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
-    "[19:16] <ulisesotazo2134> !kit survival ",
-    "[19:16] [8b8t] >> Teleporting to home 0...",
-    "[19:16] [8b8t] >> Teleporting to home 1...",
     "[19:16] To ulisesotazo2134: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[19:16] To ulisesotazo2134: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +92,16 @@
     "[19:18] To tehnogamer123: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:18] [8b8t] >> Request sent to tehnogamer123",
     "[19:18] [8b8t] >> Teleporting...",
-    "[19:18] [BOT] <0_HienBot> Sub to Hien2309 in youtube "
+    "[19:18] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
+    "[19:18] [8b8t] >> Home 2 was not found",
+    "[19:18] [8b8t] >> The command /seed is not allowed",
+    "[19:18] <tuabuela> !kit pvp ",
+    "[19:18] [8b8t] >> Teleporting to home 0...",
+    "[19:18] [8b8t] >> Teleporting to home 1...",
+    "[19:18] To tuabuela: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:18] To tuabuela: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:18] [8b8t] >> Request sent to tuabuela",
+    "[19:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -402,12 +402,13 @@
     "shardah": 2,
     "AZFurryT_C": 7,
     "tehnogamer123": 5,
-    "ulisesotazo2134": 2
+    "ulisesotazo2134": 2,
+    "tuabuela": 1
   },
   "kitStats": {
     "build": 87,
     "survival": 415,
-    "pvp": 522,
+    "pvp": 523,
     "dupe": 110,
     "tools": 118,
     "stash": 60,
