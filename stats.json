@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:23:10 9/12/2025",
+  "lastUpdated": "12:23:40 9/12/2025",
   "totalKits": 61375,
   "todayKits": 86,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 44,
-  "tps": "17.0",
-  "ping": 234,
+  "tps": "20.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 392
+      "count": 393
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:21] [8b8t] >> Teleporting to home 0...",
-    "[12:21] [8b8t] >> Teleporting to home 8...",
-    "[12:21] To Hanae0: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[12:21] To Hanae0: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[12:21] [8b8t] >> Request sent to Hanae0",
-    "[12:21] [8b8t] >> Teleporting...",
-    "[12:21] 0_HienBot has been killed by Hanae0",
-    "[12:21] [8b8t] >> Home 2 was not found",
-    "[12:21] [8b8t] >> The command /seed is not allowed",
-    "[12:21] [8b8t] >> The command /seed is not allowed",
-    "[12:21] <Orc4L3r0> hola ",
-    "[12:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:21] Legend_Pickles decided to test gravity and lost",
     "[12:21] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
     "[12:21] <skyhaiff1> nah fuck spawm ",
@@ -101,7 +89,19 @@
     "[12:23] To .MISPOK9194: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[12:23] <Elrichal23> rapida ",
     "[12:23] [8b8t] >> Request sent to .MISPOK9194",
-    "[12:23] [8b8t] >> Teleporting..."
+    "[12:23] [8b8t] >> Teleporting...",
+    "[12:23] [8b8t] >> Home 2 was not found",
+    "[12:23] [8b8t] >> The command /seed is not allowed",
+    "[12:23] Orc4L3r0 was destroyed by skyhaiff1",
+    "[12:23] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:23] <Legend_Pickles> !kit survival ",
+    "[12:23] [8b8t] >> Teleporting to home 0...",
+    "[12:23] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[12:23] [8b8t] >> Teleporting to home 1...",
+    "[12:23] To Legend_Pickles: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:23] <Elrichal23> xd ",
+    "[12:23] To Legend_Pickles: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[12:23] [8b8t] >> Request sent to Legend_Pickles"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -385,11 +385,12 @@
     "bknight": 3,
     "AVINASH6361": 7,
     "kakarotoVR_YT": 1,
-    "Hanae0": 1
+    "Hanae0": 1,
+    "Legend_Pickles": 1
   },
   "kitStats": {
     "build": 79,
-    "survival": 392,
+    "survival": 393,
     "pvp": 492,
     "dupe": 105,
     "tools": 115,
