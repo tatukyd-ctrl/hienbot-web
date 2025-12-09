@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:15:15 9/12/2025",
+  "lastUpdated": "13:15:45 9/12/2025",
   "totalKits": 61388,
   "todayKits": 2,
-  "onlineCount": 23,
+  "onlineCount": 24,
   "peakPlayers": 25,
-  "tps": "16.0",
-  "ping": 245,
+  "tps": "19.0",
+  "ping": 239,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 395
+      "count": 396
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:13] [BOT] <0_HienBot> Try /nc to change your name color! ",
-    "[13:13] [8b8t] >> Home 2 was not found",
-    "[13:13] [8b8t] >> The command /seed is not allowed",
-    "[13:13] [8b8t] >> The command /seed is not allowed",
-    "[13:14] [SE] <Lucky2007_> !kit tools ",
-    "[13:14] [8b8t] >> Teleporting to home 0...",
-    "[13:14] [8b8t] >> Teleporting to home 8...",
     "[13:14] To Lucky2007_: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[13:14] <NICOTROMPO2022> regalo terreno con pasadizo hecho una mierda, con 3 kits incompletos, quien esté interesado/a las coordenadas son -10718 61 28298 ",
     "[13:14] To Lucky2007_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +94,14 @@
     "[13:14]   [Confirm read]",
     "[13:14] ",
     "[13:15] <diego9913pro> como es el dupe con llamas ",
-    "[13:15] [8b8t] >> The command /seed is not allowed"
+    "[13:15] [8b8t] >> The command /seed is not allowed",
+    "[13:15] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
+    "[13:15] <NICOTROMPO2022> !kit survival ",
+    "[13:15] [8b8t] >> Teleporting to home 0...",
+    "[13:15] [8b8t] >> Teleporting to home 1...",
+    "[13:15] To NICOTROMPO2022: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:15] To NICOTROMPO2022: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[13:15] [8b8t] >> Request sent to NICOTROMPO2022"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -388,11 +388,12 @@
     "Hanae0": 1,
     "Legend_Pickles": 1,
     "joacod121": 1,
-    "Lucky2007_": 1
+    "Lucky2007_": 1,
+    "NICOTROMPO2022": 1
   },
   "kitStats": {
     "build": 80,
-    "survival": 395,
+    "survival": 396,
     "pvp": 495,
     "dupe": 107,
     "tools": 116,
