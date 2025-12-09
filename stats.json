@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:22:00 9/12/2025",
-  "totalKits": 61474,
-  "todayKits": 5,
-  "onlineCount": 23,
+  "lastUpdated": "19:22:26 9/12/2025",
+  "totalKits": 61475,
+  "todayKits": 6,
+  "onlineCount": 22,
   "peakPlayers": 23,
-  "tps": "19.0",
-  "ping": 242,
+  "tps": "18.0",
+  "ping": 239,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 415
+      "count": 416
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:20] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[19:20] [8b8t] >> Home 2 was not found",
-    "[19:20] <zelliy> !kit pvp ",
-    "[19:20] [8b8t] >> Teleporting to home 0...",
-    "[19:20] [8b8t] >> Teleporting to home 1...",
-    "[19:20] To zelliy: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:20] <zelliy> tp for free kit ",
-    "[19:20] To zelliy: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:20] [8b8t] >> The command /seed is not allowed",
-    "[19:20] [8b8t] >> Request sent to zelliy",
-    "[19:20] [8b8t] >> Teleporting...",
-    "[19:20] [8b8t] >> Home 2 was not found",
     "[19:20] [8b8t] >> The command /seed is not allowed",
     "[19:20] <tehnogamer123> anyone selling a map art? ",
     "[19:20] [BOT] <0_HienBot> Try /nc to change your name color! ",
@@ -101,7 +89,19 @@
     "[19:21] <zelliy> tp for free kit ",
     "[19:21] ulisesotazo2134 has made the advancement [Ol' Betsy]",
     "[19:21] <tehnogamer123> bro ",
-    "[19:21] <zelliy> tp for free kit "
+    "[19:21] <zelliy> tp for free kit ",
+    "[19:22] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[19:22] <Pia01_Vn> !kit survival ",
+    "[19:22] [8b8t] >> Teleporting to home 0...",
+    "[19:22] [8b8t] >> Teleporting to home 1...",
+    "[19:22] To Pia01_Vn: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:22] To Pia01_Vn: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:22] <zelliy> $help ",
+    "[19:22] [8b8t] >> Request sent to Pia01_Vn",
+    "[19:22] [8b8t] >> Teleporting...",
+    "[19:22] <zelliy> tp for free kit ",
+    "[19:22] <tehnogamer123> !kit survival ",
+    "[19:22] To tehnogamer123: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -174,7 +174,7 @@
     "HCM100": 1,
     "person1100nc": 2,
     "Sniptoes": 1,
-    "Pia01_Vn": 10,
+    "Pia01_Vn": 11,
     "Poptobaco": 2,
     "milomilom": 7,
     "GreetedWinter81": 7,
@@ -407,7 +407,7 @@
   },
   "kitStats": {
     "build": 87,
-    "survival": 415,
+    "survival": 416,
     "pvp": 524,
     "dupe": 110,
     "tools": 119,
