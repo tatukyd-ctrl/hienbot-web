@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:39:10 9/12/2025",
+  "lastUpdated": "07:39:25 9/12/2025",
   "totalKits": 61283,
   "todayKits": 7,
   "onlineCount": 38,
   "peakPlayers": 40,
-  "tps": "19.0",
+  "tps": "14.0",
   "ping": 228,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 461
+      "count": 462
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:37] [8b8t] >> Home 2 was not found",
-    "[07:37] [8b8t] >> The command /seed is not allowed",
-    "[07:37] <sandor412> !kit ",
-    "[07:37] To sandor412: Hello sandor412!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[07:37] [BOT] <0_HienBot> Hello .Maddie8171111! ",
-    "[07:38] <sandor412> !kit Survival ",
-    "[07:38] [8b8t] >> Teleporting to home 0...",
     "[07:38] [8b8t] >> Teleporting to home 1...",
     "[07:38] To sandor412: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[07:38] To sandor412: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +94,14 @@
     "[07:38] <JULIANSPR> esperqa ",
     "[07:38] To .unknownguy59093: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[07:38] [8b8t] >> Request sent to .unknownguy59093",
-    "[07:39] [8b8t] >> Teleporting..."
+    "[07:39] [8b8t] >> Teleporting...",
+    "[07:39] [8b8t] >> Home 2 was not found",
+    "[07:39] [8b8t] >> The command /seed is not allowed",
+    "[07:39] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[07:39] <Gpkkkll> !kit pvp ",
+    "[07:39] [8b8t] >> Teleporting to home 0...",
+    "[07:39] [8b8t] >> Teleporting to home 1...",
+    "[07:39] To Gpkkkll: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -368,7 +368,7 @@
     "LY7Andregz": 4,
     "Exility": 1,
     "Disar7w7": 1,
-    "Gpkkkll": 5,
+    "Gpkkkll": 6,
     "GPT_AI": 1,
     "yagoteaa": 4,
     "Davidsegov": 1,
@@ -379,7 +379,7 @@
   "kitStats": {
     "build": 72,
     "survival": 365,
-    "pvp": 461,
+    "pvp": 462,
     "dupe": 97,
     "tools": 112,
     "stash": 53,
