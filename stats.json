@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:29:35 10/12/2025",
+  "lastUpdated": "04:30:05 10/12/2025",
   "totalKits": 61746,
   "todayKits": 49,
   "onlineCount": 32,
   "peakPlayers": 49,
-  "tps": "18.0",
+  "tps": "19.0",
   "ping": 231,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 478
+      "count": 479
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:27] <Vrata2men> !kit tools ",
-    "[04:27] [8b8t] >> Teleporting to home 0...",
-    "[04:27] [8b8t] >> Teleporting to home 8...",
-    "[04:27] To Vrata2men: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[04:27] To Vrata2men: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[04:27] [8b8t] >> Request sent to Vrata2men",
-    "[04:27] [8b8t] >> Teleporting...",
-    "[04:27] <16tobi1> !kit elytra ",
-    "[04:27] To 16tobi1: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[04:27] [8b8t] >> Home 2 was not found",
-    "[04:27] ThE_TesSeRAct_ thought they could fly... they couldn't",
     "[04:27] [8b8t] >> The command /seed is not allowed",
     "[04:27] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[04:27] [BOT] <0_HienBot> Do !𝙠𝙞𝙩 ",
@@ -101,7 +90,18 @@
     "[04:28] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[04:28] [BOT] <0_HienBot> Hello missingyou! ",
     "[04:28] ThE_TesSeRAct_ decided to test gravity and lost",
-    "[04:29] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
+    "[04:29] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[04:29] <16tobi1> !kit surgival ",
+    "[04:29] To 16tobi1: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[04:29] Seyren_z forgot to bring their parachute",
+    "[04:29] <16tobi1> !kit survival ",
+    "[04:29] [8b8t] >> Teleporting to home 0...",
+    "[04:29] [8b8t] >> Teleporting to home 1...",
+    "[04:29] To 16tobi1: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[04:29] [BOT] <0_HienBot> July 10, 2025, the Avolution team built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[04:29] To 16tobi1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[04:29] [8b8t] >> Request sent to 16tobi1",
+    "[04:30] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -426,7 +426,7 @@
     "ghost086": 4,
     "Etam2": 9,
     "alastor_confess": 1,
-    "16tobi1": 22,
+    "16tobi1": 23,
     "GoldTade": 7,
     "Vrata2men": 22,
     "tonito": 4,
@@ -449,7 +449,7 @@
   },
   "kitStats": {
     "build": 98,
-    "survival": 478,
+    "survival": 479,
     "pvp": 648,
     "dupe": 130,
     "tools": 132,
