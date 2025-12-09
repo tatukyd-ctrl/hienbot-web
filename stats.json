@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:32:35 10/12/2025",
-  "totalKits": 61749,
-  "todayKits": 52,
-  "onlineCount": 29,
+  "lastUpdated": "04:32:48 10/12/2025",
+  "totalKits": 61750,
+  "todayKits": 53,
+  "onlineCount": 30,
   "peakPlayers": 49,
-  "tps": "18.0",
+  "tps": "15.0",
   "ping": 230,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 648
+      "count": 649
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:30] [8b8t] >> Teleporting to home 0...",
-    "[04:30] [8b8t] >> Teleporting to home 3...",
-    "[04:30] To UsuX: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[04:30] To UsuX: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[04:30] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
-    "[04:30] [8b8t] >> Request sent to UsuX",
-    "[04:30] [8b8t] >> Teleporting...",
-    "[04:31] [8b8t] >> Home 2 was not found",
-    "[04:31] [8b8t] >> The command /seed is not allowed",
     "[04:31] <16tobi1> !kits ",
     "[04:31] MonkeBot burned up in a pit of lava",
     "[04:31] <16tobi1> !kits survival ",
@@ -101,7 +92,16 @@
     "[04:32] [8b8t] >> Teleporting...",
     "[04:32] <LY7Andregz> !kit ",
     "[04:32] To LY7Andregz: Hello LY7Andregz!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[04:32] [8b8t] >> The command /seed is not allowed"
+    "[04:32] [8b8t] >> The command /seed is not allowed",
+    "[04:32] [8b8t] >> Home 2 was not found",
+    "[04:32] <LY7Andregz> !kit pvp ",
+    "[04:32] [8b8t] >> Teleporting to home 0...",
+    "[04:32] [8b8t] >> Teleporting to home 1...",
+    "[04:32] To LY7Andregz: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[04:32] To LY7Andregz: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[04:32] [8b8t] >> Request sent to LY7Andregz",
+    "[04:32] [8b8t] >> The command /seed is not allowed",
+    "[04:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -365,7 +365,7 @@
     "joacopr12": 1,
     "Zephyrion1": 1,
     "Lyreaxhh": 3,
-    "LY7Andregz": 4,
+    "LY7Andregz": 5,
     "Exility": 1,
     "Disar7w7": 2,
     "Gpkkkll": 8,
@@ -450,7 +450,7 @@
   "kitStats": {
     "build": 99,
     "survival": 479,
-    "pvp": 648,
+    "pvp": 649,
     "dupe": 130,
     "tools": 132,
     "stash": 69,
