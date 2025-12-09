@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:24:05 10/12/2025",
-  "totalKits": 61743,
-  "todayKits": 46,
+  "lastUpdated": "04:24:17 10/12/2025",
+  "totalKits": 61744,
+  "todayKits": 47,
   "onlineCount": 33,
   "peakPlayers": 49,
-  "tps": "18.0",
+  "tps": "17.0",
   "ping": 230,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 477
+      "count": 478
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:22] <TFO8920> !kit tools ",
-    "[04:22] [8b8t] >> Teleporting to home 0...",
-    "[04:22] [8b8t] >> Teleporting to home 8...",
-    "[04:22] To TFO8920: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[04:22] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:22] To TFO8920: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[04:22] [8b8t] >> Request sent to TFO8920",
-    "[04:23] [8b8t] >> Teleporting...",
-    "[04:23] light_k64 forgot to bring their parachute",
-    "[04:23] <Vrata2men> !kit ",
-    "[04:23] To Vrata2men: Hello Vrata2men!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[04:23] [8b8t] >> The command /seed is not allowed",
     "[04:23] [BOT] <0_HienBot> Hey 8b8t_net! ",
     "[04:23] <ThE_TesSeRAct_> !kit ",
@@ -101,7 +90,18 @@
     "[04:23] <Vrata2men> !kit stach ",
     "[04:23] To Vrata2men: You're on cooldown, try again in 31 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[04:23] <16tobi1> !kit survival 2 ",
-    "[04:23] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
+    "[04:23] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[04:24] <16tobi1> !kit survival ",
+    "[04:24] [8b8t] >> Teleporting to home 0...",
+    "[04:24] [8b8t] >> Teleporting to home 1...",
+    "[04:24] <Vrata2men> !kit exp ",
+    "[04:24] To 16tobi1: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[04:24] To Vrata2men: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[04:24] To 16tobi1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[04:24] [8b8t] >> Request sent to 16tobi1",
+    "[04:24] <Vrata2men> !kit exp ",
+    "[04:24] To Vrata2men: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[04:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -426,7 +426,7 @@
     "ghost086": 4,
     "Etam2": 9,
     "alastor_confess": 1,
-    "16tobi1": 21,
+    "16tobi1": 22,
     "GoldTade": 7,
     "Vrata2men": 20,
     "tonito": 4,
@@ -449,7 +449,7 @@
   },
   "kitStats": {
     "build": 98,
-    "survival": 477,
+    "survival": 478,
     "pvp": 648,
     "dupe": 130,
     "tools": 131,
