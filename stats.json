@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:34:30 9/12/2025",
+  "lastUpdated": "19:35:00 9/12/2025",
   "totalKits": 61480,
   "todayKits": 11,
   "onlineCount": 27,
   "peakPlayers": 27,
-  "tps": "18.0",
-  "ping": 243,
+  "tps": "19.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 527
+      "count": 528
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:29] [8b8t] >> Teleporting to home 0...",
-    "[19:29] [8b8t] >> Teleporting to home 1...",
-    "[19:29] To HappyFilip: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:29] [8b8t] >> The command /seed is not allowed",
-    "[19:29] To HappyFilip: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:29] [8b8t] >> Request sent to HappyFilip",
-    "[19:30] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[19:30] [8b8t] >> Teleporting...",
-    "[19:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[19:30] [8b8t] >> Home 2 was not found",
     "[19:30] [8b8t] >> The command /seed is not allowed",
     "[19:30] Pia01_Vn has reached the goal [The Next Generation]",
@@ -101,7 +92,16 @@
     "[19:34] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
     "[19:34] <.BlusherIdk> can i team with someone? ",
     "[19:34] <.BlusherIdk> im a good miner ",
-    "[19:34] .Fofolowwy got a deadly lesson from the Wither"
+    "[19:34] .Fofolowwy got a deadly lesson from the Wither",
+    "[19:34] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[19:34] <HappyFilip> !kit pvp ",
+    "[19:34] [8b8t] >> Teleporting to home 0...",
+    "[19:34] [8b8t] >> Teleporting to home 1...",
+    "[19:34] To HappyFilip: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:34] To HappyFilip: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:34] [8b8t] >> Request sent to HappyFilip",
+    "[19:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[19:34] [8b8t] >> The TPA request you sent to HappyFilip has expired."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -404,12 +404,12 @@
     "tehnogamer123": 5,
     "ulisesotazo2134": 2,
     "tuabuela": 2,
-    "HappyFilip": 2
+    "HappyFilip": 3
   },
   "kitStats": {
     "build": 87,
     "survival": 418,
-    "pvp": 527,
+    "pvp": 528,
     "dupe": 111,
     "tools": 119,
     "stash": 60,
