@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:09:10 9/12/2025",
+  "lastUpdated": "09:09:40 9/12/2025",
   "totalKits": 61330,
   "todayKits": 41,
   "onlineCount": 38,
   "peakPlayers": 44,
-  "tps": "18.0",
-  "ping": 242,
+  "tps": "17.0",
+  "ping": 240,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:06] [8b8t] >> Teleporting to home 6...",
-    "[09:06] To Alesecoo12345789: Your kit (exp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[09:06] To Alesecoo12345789: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[09:06] [8b8t] >> Request sent to Alesecoo12345789",
-    "[09:06] Gruemma28 went for a swim in lava and got burned",
-    "[09:06] [8b8t] >> Teleporting...",
-    "[09:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[09:06] [8b8t] >> Home 2 was not found",
-    "[09:06] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
-    "[09:07] [8b8t] >> The command /seed is not allowed",
     "[09:07] [BOT] <0_HienBot> The server's seed is :'Loading...' ",
     "[09:07] Veurects decided to test gravity and lost",
     "[09:07] Gruemma28 got a deadly lesson from the Wither",
@@ -101,7 +91,17 @@
     "[09:08] [BOT] <TNGB0T> Deberías probar /dupe, el mejor dupe hasta el momento! ",
     "[09:08] Gruemma28 has made the advancement [Eye Spy]",
     "[09:08] Gruemma28 was eaten alive by a Zombie",
-    "[09:08] [BOT] <0_HienBot> Welcome to 8b8t, Manito85! "
+    "[09:08] [BOT] <0_HienBot> Welcome to 8b8t, Manito85! ",
+    "[09:09] <HawaiiSprite708> !kit illegal ",
+    "[09:09] To HawaiiSprite708: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[09:09] <chetosconqueso> !kit pvp ",
+    "[09:09] To chetosconqueso: You're on cooldown, try again in 41 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[09:09] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
+    "[09:09] <HawaiiSprite708> !kit highway ",
+    "[09:09] [8b8t] >> Teleporting to home 0...",
+    "[09:09] [8b8t] >> Teleporting to home 7...",
+    "[09:09] To HawaiiSprite708: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:09] To HawaiiSprite708: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -377,7 +377,8 @@
     "sandor412": 1,
     "dudax": 4,
     "Malbacoo": 2,
-    "Veurects": 1
+    "Veurects": 1,
+    "HawaiiSprite708": 1
   },
   "kitStats": {
     "build": 75,
@@ -400,7 +401,7 @@
     "terracotta": 3,
     "end": 15,
     "armortrims": 23,
-    "highway": 22,
+    "highway": 23,
     "ocean": 4,
     "concrete": 21,
     "glass": 6,
