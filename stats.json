@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:18:58 10/12/2025",
+  "lastUpdated": "02:19:28 10/12/2025",
   "totalKits": 61610,
   "todayKits": 47,
   "onlineCount": 31,
   "peakPlayers": 41,
-  "tps": "20.0",
-  "ping": 220,
+  "tps": "19.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 592
+      "count": 593
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:16] [8b8t] >> The command /seed is not allowed",
-    "[02:16] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[02:16] <16tobi1> !kit pvp ",
-    "[02:16] To 16tobi1: You're on cooldown, try again in 73 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[02:16] <Gpkkkll> M_INMORTAL_H ",
-    "[02:17] <tonito> !kit survival ",
-    "[02:17] [8b8t] >> Teleporting to home 0...",
-    "[02:17] [8b8t] >> Teleporting to home 1...",
-    "[02:17] To tonito: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[02:17] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
     "[02:17] To tonito: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[02:17] [8b8t] >> Request sent to tonito",
     "[02:17] Zaratushtra got his head blown off by the Wither",
@@ -101,7 +91,17 @@
     "[02:18] <Vrata2men> !kit ",
     "[02:18] To Vrata2men: Hello Vrata2men!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[02:18] <LaGiulii> !kit ",
-    "[02:18] To LaGiulii: Hello LaGiulii!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[02:18] To LaGiulii: Hello LaGiulii!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[02:19] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[02:19] <16tobi1> how can I get A kit? ",
+    "[02:19] a1b2c3 challenged the Wither and lost their head",
+    "[02:19] <LaGiulii> !kit pvp ",
+    "[02:19] [8b8t] >> Teleporting to home 0...",
+    "[02:19] [8b8t] >> Teleporting to home 1...",
+    "[02:19] To LaGiulii: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:19] GoldTade was EZ clapped by michelzim525 using [enchanted golden apple]",
+    "[02:19] To LaGiulii: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[02:19] [8b8t] >> Request sent to LaGiulii"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -429,12 +429,13 @@
     "16tobi1": 4,
     "GoldTade": 1,
     "Vrata2men": 1,
-    "tonito": 1
+    "tonito": 1,
+    "LaGiulii": 1
   },
   "kitStats": {
     "build": 93,
     "survival": 448,
-    "pvp": 592,
+    "pvp": 593,
     "dupe": 118,
     "tools": 121,
     "stash": 67,
