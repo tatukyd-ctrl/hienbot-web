@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:23:22 10/12/2025",
+  "lastUpdated": "03:23:29 10/12/2025",
   "totalKits": 61685,
   "todayKits": 122,
-  "onlineCount": 46,
+  "onlineCount": 47,
   "peakPlayers": 49,
   "tps": "12.0",
   "ping": 228,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 635
+      "count": 636
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:22] [8b8t] >> The command /seed is not allowed",
-    "[03:22] <.MISPOK9194> alguien me ayuda a dupesr? ",
-    "[03:22] MonkeBot's mom said we have food at home",
-    "[03:22] IJrealter1 has made the advancement [The End?]",
     "[03:22] [Basic] <| 166 |> Hand on my choppa, I'll turn you to pasta linguini, Yeah okay ",
     "[03:22] <AlexOtero2012> !kit glass ",
     "[03:22] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +97,11 @@
     "[03:23] [8b8t] >> Request sent to ergerrert",
     "[03:23] [Basic] <| 166 |> ez ",
     "[03:23] [8b8t] >> Teleporting...",
-    "[03:23] IJrealter1 decided to sleep with the fishes"
+    "[03:23] IJrealter1 decided to sleep with the fishes",
+    "[03:23] <GoldTade> !kit pvp ",
+    "[03:23] [8b8t] >> Home 2 was not found",
+    "[03:23] [8b8t] >> Teleporting to home 0...",
+    "[03:23] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -427,7 +427,7 @@
     "Etam2": 9,
     "alastor_confess": 1,
     "16tobi1": 13,
-    "GoldTade": 6,
+    "GoldTade": 7,
     "Vrata2men": 17,
     "tonito": 1,
     "LaGiulii": 1,
@@ -443,7 +443,7 @@
   "kitStats": {
     "build": 96,
     "survival": 467,
-    "pvp": 635,
+    "pvp": 636,
     "dupe": 121,
     "tools": 125,
     "stash": 68,
