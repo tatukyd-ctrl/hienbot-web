@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:20:15 9/12/2025",
+  "lastUpdated": "15:20:45 9/12/2025",
   "totalKits": 61409,
   "todayKits": 23,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 25,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "19.0",
+  "ping": 240,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 401
+      "count": 402
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:19] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[15:19] [8b8t] >> The TPA request you sent to om07719 was successfully canceled.",
-    "[15:19] <.Sami702MMPL> !kit ",
-    "[15:19] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-    "[15:19] [8b8t] >> Your login session has been continued.",
-    "[15:19] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[15:19] ",
-    "[15:19]  [8builders8tools]",
-    "[15:19]  Perform the command /email associate to register",
-    "[15:19]  your email. By doing so, you",
     "[15:19]  decrease the chance of being hacked.",
     "[15:19] ",
     "[15:19]   [Confirm read]",
@@ -101,7 +91,17 @@
     "[15:20]  decrease the chance of being hacked.",
     "[15:20] ",
     "[15:20]   [Confirm read]",
-    "[15:20] "
+    "[15:20] ",
+    "[15:20] <.Sami702MMPL> !kit s ",
+    "[15:20] To .Sami702MMPL: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[15:20] [8b8t] >> The command /seed is not allowed",
+    "[15:20] <.Sami702MMPL> !kit survival ",
+    "[15:20] [8b8t] >> Teleporting to home 0...",
+    "[15:20] [8b8t] >> Teleporting to home 1...",
+    "[15:20] To .Sami702MMPL: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:20] To .Sami702MMPL: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[15:20] [8b8t] >> Request sent to .Sami702MMPL",
+    "[15:20] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit "
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -335,7 +335,7 @@
     "resge": 5,
     "osxtox": 1,
     "lorax": 1,
-    ".Sami702MMPL": 2,
+    ".Sami702MMPL": 3,
     "droppedbytupapa": 1,
     "Minecentrix": 3,
     "TyroneG": 8,
@@ -397,7 +397,7 @@
   },
   "kitStats": {
     "build": 82,
-    "survival": 401,
+    "survival": 402,
     "pvp": 501,
     "dupe": 108,
     "tools": 116,
