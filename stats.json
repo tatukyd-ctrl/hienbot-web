@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:14:58 10/12/2025",
-  "totalKits": 61607,
-  "todayKits": 44,
-  "onlineCount": 26,
+  "lastUpdated": "02:15:13 10/12/2025",
+  "totalKits": 61608,
+  "todayKits": 45,
+  "onlineCount": 27,
   "peakPlayers": 41,
-  "tps": "16.0",
+  "tps": "14.0",
   "ping": 223,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 591
+      "count": 592
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:12]   [Confirm read]",
-    "[02:12] ",
-    "[02:12] Tower20941 thought they could fly... they couldn't",
-    "[02:12] [8b8t] >> The command /seed is not allowed",
-    "[02:12] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[02:12] [BOT] <0_HienBot> Vietnam on top!! ",
-    "[02:12] <16tobi1> !kit pvp ",
-    "[02:12] [8b8t] >> Teleporting to home 0...",
-    "[02:12] [8b8t] >> Teleporting to home 1...",
-    "[02:12] To 16tobi1: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[02:12] To 16tobi1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[02:12] [8b8t] >> Request sent to 16tobi1",
     "[02:13] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
     "[02:13] .MISPOK9194 has made the advancement [Best Friends Forever]",
     "[02:13] [8b8t] >> The TPA request you sent to 16tobi1 was successfully canceled.",
@@ -101,7 +89,19 @@
     "[02:14] [8b8t] >> Player .MISPOK9194 is not online",
     "[02:14] K4ps_12 challenged the Wither and lost their head",
     "[02:14] [BOT] <0_HienBot> Vietnam on top!! ",
-    "[02:14] Marfin_1411 decided to test gravity and lost"
+    "[02:14] Marfin_1411 decided to test gravity and lost",
+    "[02:14] [8b8t] >> No TPA request found",
+    "[02:15] <.MISPOK9194> !kit dupe ",
+    "[02:15] To .MISPOK9194: You're on cooldown, try again in 97 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[02:15] [8b8t] >> The command /seed is not allowed",
+    "[02:15] <GoldTade> !kit pvp ",
+    "[02:15] [8b8t] >> Teleporting to home 0...",
+    "[02:15] [8b8t] >> Teleporting to home 1...",
+    "[02:15] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
+    "[02:15] To GoldTade: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:15] To GoldTade: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[02:15] [8b8t] >> Request sent to GoldTade",
+    "[02:15] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -426,12 +426,13 @@
     "ghost086": 4,
     "Etam2": 6,
     "alastor_confess": 1,
-    "16tobi1": 3
+    "16tobi1": 3,
+    "GoldTade": 1
   },
   "kitStats": {
     "build": 93,
     "survival": 446,
-    "pvp": 591,
+    "pvp": 592,
     "dupe": 118,
     "tools": 121,
     "stash": 66,
