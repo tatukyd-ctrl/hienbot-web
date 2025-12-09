@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:16:28 10/12/2025",
-  "totalKits": 61608,
-  "todayKits": 45,
-  "onlineCount": 29,
+  "lastUpdated": "02:16:42 10/12/2025",
+  "totalKits": 61609,
+  "todayKits": 46,
+  "onlineCount": 30,
   "peakPlayers": 41,
-  "tps": "17.0",
-  "ping": 221,
+  "tps": "15.0",
+  "ping": 230,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 446
+      "count": 447
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:15] <GoldTade> !kit pvp ",
-    "[02:15] [8b8t] >> Teleporting to home 0...",
-    "[02:15] [8b8t] >> Teleporting to home 1...",
-    "[02:15] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
-    "[02:15] To GoldTade: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[02:15] To GoldTade: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[02:15] [8b8t] >> Request sent to GoldTade",
-    "[02:15] [8b8t] >> Teleporting...",
-    "[02:15] [8b8t] >> Home 2 was not found",
     "[02:15] <16tobi1> why I got muted for 24 hours ",
     "[02:15] [8b8t] >> The command /seed is not allowed",
     "[02:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +92,16 @@
     "[02:16] To vihan: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[02:16] [BOT] <0_HienBot> Hi MeterMaid! ",
     "[02:16] a1b2c3 got his head blown off by the Wither",
-    "[02:16] [8b8t] >> The TPA request you sent to 16tobi1 was successfully canceled."
+    "[02:16] [8b8t] >> The TPA request you sent to 16tobi1 was successfully canceled.",
+    "[02:16] <Vrata2men> !kit survival ",
+    "[02:16] [8b8t] >> Teleporting to home 0...",
+    "[02:16] [8b8t] >> Teleporting to home 1...",
+    "[02:16] To Vrata2men: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:16] [8b8t] >> The command /seed is not allowed",
+    "[02:16] To Vrata2men: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[02:16] [8b8t] >> Request sent to Vrata2men",
+    "[02:16] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
+    "[02:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -427,11 +427,12 @@
     "Etam2": 6,
     "alastor_confess": 1,
     "16tobi1": 4,
-    "GoldTade": 1
+    "GoldTade": 1,
+    "Vrata2men": 1
   },
   "kitStats": {
     "build": 93,
-    "survival": 446,
+    "survival": 447,
     "pvp": 592,
     "dupe": 118,
     "tools": 121,
