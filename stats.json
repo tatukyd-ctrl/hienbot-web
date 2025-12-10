@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:30:05 10/12/2025",
-  "totalKits": 62017,
-  "todayKits": 320,
-  "onlineCount": 17,
+  "lastUpdated": "15:30:22 10/12/2025",
+  "totalKits": 62018,
+  "todayKits": 321,
+  "onlineCount": 16,
   "peakPlayers": 49,
-  "tps": "16.0",
-  "ping": 214,
+  "tps": "17.0",
+  "ping": 220,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 517
+      "count": 518
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:26] To .LEON50758: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[15:26] MonkeBot was eaten alive by a Zombie",
-    "[15:26] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[15:27] <.LEON50758> !kit concrete ",
-    "[15:27] [8b8t] >> Teleporting to home 0...",
-    "[15:27] [8b8t] >> Teleporting to home 4...",
-    "[15:27] To .LEON50758: Your kit (concrete) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[15:27] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[15:27] [8b8t] >> Request sent to .LEON50758",
-    "[15:27] [8b8t] >> Teleporting...",
     "[15:27] [8b8t] >> Home 2 was not found",
     "[15:27] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[15:27] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +91,17 @@
     "[15:29] To .LEON50758: Your kit (concrete) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[15:29] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[15:29] [8b8t] >> Request sent to .LEON50758",
-    "[15:29] [8b8t] >> Teleporting..."
+    "[15:29] [8b8t] >> Teleporting...",
+    "[15:30] [8b8t] >> Home 2 was not found",
+    "[15:30] real_weak_bhai thought they could make it to oxygen in time",
+    "[15:30] <j.abad> !kit survival ",
+    "[15:30] [8b8t] >> Teleporting to home 0...",
+    "[15:30] [8b8t] >> Teleporting to home 1...",
+    "[15:30] To j.abad: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:30] [8b8t] >> The command /seed is not allowed",
+    "[15:30] To j.abad: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[15:30] [8b8t] >> Request sent to j.abad",
+    "[15:30] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -469,11 +469,11 @@
     "nafeje": 3,
     "LEON_NC": 2,
     "shoddyhawk81305": 3,
-    "j.abad": 3
+    "j.abad": 4
   },
   "kitStats": {
     "build": 123,
-    "survival": 517,
+    "survival": 518,
     "pvp": 712,
     "dupe": 137,
     "tools": 162,
