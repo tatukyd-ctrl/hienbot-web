@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:53:05 10/12/2025",
-  "totalKits": 62003,
-  "todayKits": 306,
+  "lastUpdated": "14:53:19 10/12/2025",
+  "totalKits": 62004,
+  "todayKits": 307,
   "onlineCount": 19,
   "peakPlayers": 49,
-  "tps": "19.0",
+  "tps": "17.0",
   "ping": 224,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 708
+      "count": 709
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:50] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[14:50] [8b8t] >> Request sent to .LEON50758",
-    "[14:50] [8b8t] >> Teleporting...",
-    "[14:50] 0_HienBot burned up in a pit of lava",
-    "[14:50] [8b8t] >> Home 2 was not found",
-    "[14:50] TylerDurden098 got his head blown off by the Wither",
-    "[14:50] [8b8t] >> The command /seed is not allowed",
-    "[14:50] [Ultra] <Sniptoes> wtf ",
     "[14:50] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[14:50] [Ultra] <Sniptoes> TylerDurden098 wtf ",
     "[14:50] j.abad encountered a Creeper and got blown sky-high",
@@ -101,7 +93,15 @@
     "[14:52] <TylerDurden098> Sniptoes wdym ",
     "[14:52] Lukass_012 pulverized j.abad using [end crystal]",
     "[14:52] MonkeBot tried to outswim the water",
-    "[14:52] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
+    "[14:52] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[14:53] <j.abad> !kit pvp ",
+    "[14:53] [8b8t] >> Teleporting to home 0...",
+    "[14:53] [8b8t] >> Teleporting to home 1...",
+    "[14:53] To j.abad: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:53] To j.abad: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:53] [8b8t] >> Request sent to j.abad",
+    "[14:53] [8b8t] >> Teleporting...",
+    "[14:53] Chat disabled in client options"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -468,12 +468,13 @@
     "knightpower": 1,
     "nafeje": 3,
     "LEON_NC": 2,
-    "shoddyhawk81305": 1
+    "shoddyhawk81305": 1,
+    "j.abad": 1
   },
   "kitStats": {
     "build": 123,
     "survival": 513,
-    "pvp": 708,
+    "pvp": 709,
     "dupe": 137,
     "tools": 162,
     "stash": 80,
