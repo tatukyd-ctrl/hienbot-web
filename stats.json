@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:20:35 10/12/2025",
+  "lastUpdated": "08:21:05 10/12/2025",
   "totalKits": 61889,
   "todayKits": 192,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 49,
-  "tps": "16.0",
-  "ping": 216,
+  "tps": "20.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 672
+      "count": 673
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:18] WistoWTWTWT has been put down by Hanae0",
-    "[08:18] <WistoWTWTWT> !kit pvp ",
-    "[08:18] [8b8t] >> Teleporting to home 0...",
-    "[08:18] [8b8t] >> Teleporting to home 1...",
-    "[08:18] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
-    "[08:18] To WistoWTWTWT: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[08:18] To WistoWTWTWT: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[08:18] [8b8t] >> Request sent to WistoWTWTWT",
-    "[08:18] [8b8t] >> Teleporting...",
-    "[08:18] ImNotCheatjng has been put down by Hanae0",
     "[08:19] [8b8t] >> Home 2 was not found",
     "[08:19] [8b8t] >> The command /seed is not allowed",
     "[08:19] [BOT] <0_HienBot> Do !discord ",
@@ -101,7 +89,19 @@
     "[08:20] [Ultra] < Magic> wtf do you mean BRUH ",
     "[08:20] <camifeli2> !kit 32k ",
     "[08:20] To camifeli2: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[08:20] <Hanae0> BRUH "
+    "[08:20] <Hanae0> BRUH ",
+    "[08:20] <camifeli2> !kit ",
+    "[08:20] To camifeli2: Hello camifeli2!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[08:20] Ayden321 has been put down by Falcaillo",
+    "[08:20] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
+    "[08:20] <camifeli2> !kit pvp ",
+    "[08:20] [8b8t] >> Teleporting to home 0...",
+    "[08:20] [8b8t] >> Teleporting to home 1...",
+    "[08:20] To camifeli2: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[08:20] To camifeli2: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[08:21] [8b8t] >> Request sent to camifeli2",
+    "[08:21] Disco_Thor withered away to the 4th dimension",
+    "[08:21] <camifeli2> !tpayes "
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -456,12 +456,13 @@
     "JEWISHBLACKTRANS": 1,
     "DarkSessionss": 1,
     "Sassymc_": 3,
-    "WistoWTWTWT": 1
+    "WistoWTWTWT": 1,
+    "camifeli2": 1
   },
   "kitStats": {
     "build": 111,
     "survival": 493,
-    "pvp": 672,
+    "pvp": 673,
     "dupe": 135,
     "tools": 155,
     "stash": 73,
