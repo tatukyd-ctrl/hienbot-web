@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:36:35 10/12/2025",
+  "lastUpdated": "14:37:05 10/12/2025",
   "totalKits": 61997,
   "todayKits": 300,
   "onlineCount": 19,
   "peakPlayers": 49,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 367,
   "topUsers": [
     {
@@ -68,12 +68,10 @@
     },
     {
       "name": "build",
-      "count": 122
+      "count": 123
     }
   ],
   "chatLog": [
-    "[14:34] [8b8t] >> Teleporting to home 3...",
-    "[14:34] To .LEON50758: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[14:34] shoddyhawk81305 went for a swim in lava and got burned",
     "[14:34] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[14:34] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +99,9 @@
     "[14:35] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[14:35] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[14:35] shoddyhawk81305 burned up in a pit of lava",
-    "[14:36] DRchanchO has reached the goal [Sky's the Limit]"
+    "[14:36] DRchanchO has reached the goal [Sky's the Limit]",
+    "[14:36] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[14:37] <.LEON50758> !kit build "
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -321,7 +321,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 11,
     "alastor_gamer89": 4,
-    ".LEON50758": 12,
+    ".LEON50758": 13,
     "Saad2001": 2,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -470,7 +470,7 @@
     "LEON_NC": 2
   },
   "kitStats": {
-    "build": 122,
+    "build": 123,
     "survival": 511,
     "pvp": 706,
     "dupe": 137,
