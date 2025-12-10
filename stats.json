@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:28:03 10/12/2025",
+  "lastUpdated": "20:28:10 10/12/2025",
   "totalKits": 62143,
   "todayKits": 29,
   "onlineCount": 30,
   "peakPlayers": 30,
-  "tps": "17.0",
-  "ping": 236,
+  "tps": "16.0",
+  "ping": 241,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 558
+      "count": 559
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:25] [8b8t] >> The command /seed is not allowed",
-    "[20:25] [BOT] <0_HienBot> The server's seed is :'Loading...' ",
-    "[20:26] <Red_Fragment_> ?kit menu ",
-    "[20:26] To Red_Fragment_: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[20:26] <Red_Fragment_> ?kitlist ",
-    "[20:26] <MCWemmbu> can anybody give me loot??? ",
     "[20:26] [BOT] <0_HienBot> Try /nc to change your name color! ",
     "[20:26] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[20:26] <alastor_gamer89> !illegal kit ",
@@ -101,7 +95,13 @@
     "[20:27] [8b8t] >> Request sent to ulisesotazo2134",
     "[20:27] [8b8t] >> Teleporting...",
     "[20:28] <MintKoala997563> !kit survival ",
-    "[20:28] To MintKoala997563: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[20:28] To MintKoala997563: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[20:28] [8b8t] >> Home 2 was not found",
+    "[20:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:28] <MintKoala997563> !kit survival ",
+    "[20:28] [8b8t] >> Teleporting to home 0...",
+    "[20:28] [8b8t] >> Teleporting to home 1...",
+    "[20:28] To MintKoala997563: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -191,7 +191,7 @@
     "Exploterxyz": 12,
     "Ludrian": 1,
     "Minhprovip124": 22,
-    "MintKoala997563": 32,
+    "MintKoala997563": 33,
     "axel1241": 1,
     "Murad2002": 6,
     "ANONIMNO7627": 1,
@@ -483,7 +483,7 @@
   },
   "kitStats": {
     "build": 126,
-    "survival": 558,
+    "survival": 559,
     "pvp": 751,
     "dupe": 140,
     "tools": 181,
