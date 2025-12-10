@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:42:35 10/12/2025",
+  "lastUpdated": "16:43:05 10/12/2025",
   "totalKits": 62049,
   "todayKits": 352,
   "onlineCount": 20,
   "peakPlayers": 49,
-  "tps": "13.0",
-  "ping": 243,
+  "tps": "18.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 722
+      "count": 723
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:40] xvukxi forgot to bring their parachute",
-    "[16:41] Callen025 has completed the challenge [Cover Me in Debris]",
-    "[16:41] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[16:41] jabnleal forgot to bring their parachute",
-    "[16:41] Callen025 has made the advancement [Ice Bucket Challenge]",
-    "[16:41] Callen025 has reached the goal [Sky's the Limit]",
     "[16:41] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[16:41] Callen025 has completed the challenge [Serious Dedication]",
     "[16:41] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
@@ -101,7 +95,13 @@
     "[16:42] [8b8t] >> The command /seed is not allowed",
     "[16:42] Callen025 has made the advancement [Stone Age]",
     "[16:42] 0_HienBot was destroyed by Minhprovip124",
-    "[16:42] [8b8t] >> The command /seed is not allowed"
+    "[16:42] [8b8t] >> The command /seed is not allowed",
+    "[16:42] <xvukxi> !kits ",
+    "[16:42] [8b8t] >> Please do not spam.",
+    "[16:42] <Callen025> !kits pvp ",
+    "[16:43] <Callen025> !kit pvp ",
+    "[16:43] [8b8t] >> Teleporting to home 0...",
+    "[16:43] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -472,12 +472,13 @@
     "j.abad": 7,
     "real_weak_bhai": 9,
     "KelpySilva": 5,
-    "hackersito974": 1
+    "hackersito974": 1,
+    "Callen025": 1
   },
   "kitStats": {
     "build": 123,
     "survival": 533,
-    "pvp": 722,
+    "pvp": 723,
     "dupe": 137,
     "tools": 163,
     "stash": 82,
