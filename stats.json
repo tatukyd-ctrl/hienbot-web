@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:09:30 11/12/2025",
-  "totalKits": 62350,
-  "todayKits": 0,
-  "onlineCount": 28,
+  "lastUpdated": "03:09:48 11/12/2025",
+  "totalKits": 62351,
+  "todayKits": 1,
+  "onlineCount": 27,
   "peakPlayers": 32,
-  "tps": "18.0",
+  "tps": "17.0",
   "ping": 227,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 612
+      "count": 613
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:04] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
-    "[03:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[03:04] <PER1800> UNETE AL MEJOR CLAN DEL SERVIDOR ",
-    "[03:04] MaxAmezcua1 has made the advancement [Monster Hunter]",
-    "[03:04] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[03:04] <PER1800> ORBIT ON TOP ",
-    "[03:05] <PER1800> QUIERES TENER LOS MEJORES KITS GRATIS DEL SERVIDOR ENTONCES UNETE A NUESTRO CLAN ",
-    "[03:05] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[03:05] <PER1800> KITS GRATIS UNETE AL CLAN ORBIT ",
     "[03:05] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
     "[03:05] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +93,15 @@
     "[03:08] Enjeru105 has made the advancement [Minecraft: Trial(s) Edition]",
     "[03:08] SR_NR1 forgot to bring their parachute",
     "[03:09] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
-    "[03:09] SleepyHeadys was spider-snacked"
+    "[03:09] SleepyHeadys was spider-snacked",
+    "[03:09] <SleepyHeadys> !kit survival ",
+    "[03:09] [8b8t] >> Teleporting to home 0...",
+    "[03:09] [8b8t] >> Teleporting to home 1...",
+    "[03:09] To SleepyHeadys: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:09] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[03:09] To SleepyHeadys: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[03:09] [8b8t] >> Request sent to SleepyHeadys",
+    "[03:09] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -509,11 +509,12 @@
     "lucasxdde": 1,
     "PER1800": 1,
     "abuco3524": 2,
-    "lemt165": 1
+    "lemt165": 1,
+    "SleepyHeadys": 1
   },
   "kitStats": {
     "build": 135,
-    "survival": 612,
+    "survival": 613,
     "pvp": 804,
     "dupe": 155,
     "tools": 201,
