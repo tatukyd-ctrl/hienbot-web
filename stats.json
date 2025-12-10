@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:59:05 10/12/2025",
+  "lastUpdated": "16:59:35 10/12/2025",
   "totalKits": 62059,
   "todayKits": 362,
-  "onlineCount": 22,
+  "onlineCount": 21,
   "peakPlayers": 49,
-  "tps": "14.0",
-  "ping": 228,
+  "tps": "15.0",
+  "ping": 222,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 165
+      "count": 166
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:57] 0_HienBot was destroyed by j.abad",
-    "[16:57] <ghostCOD1st> !kit rocket ",
-    "[16:57] To ghostCOD1st: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[16:57] [8b8t] >> The command /seed is not allowed",
-    "[16:57] <Callen025> !ping ",
-    "[16:57] To Callen025: Your ping is: 200 ms",
-    "[16:57] <AlexOtero2012> !ping ",
     "[16:57] To AlexOtero2012: Your ping is: 217 ms",
     "[16:57] <ghostCOD1st> !kit raid ",
     "[16:57] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +94,14 @@
     "[16:58] [8b8t] >> Teleporting...",
     "[16:58] [BOT] <0_HienBot> Welcome to 8b8t, j.abad! ",
     "[16:58] [8b8t] >> Home 2 was not found",
-    "[16:59] [8b8t] >> The command /seed is not allowed"
+    "[16:59] [8b8t] >> The command /seed is not allowed",
+    "[16:59] [8b8t] >> Please do not spam.",
+    "[16:59] <ghostCOD1st> !kit tools ",
+    "[16:59] To ghostCOD1st: You're on cooldown, try again in 4 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[16:59] WTM has made the advancement [We Need to Go Deeper]",
+    "[16:59] <ghostCOD1st> !kit tools ",
+    "[16:59] [8b8t] >> Teleporting to home 0...",
+    "[16:59] [8b8t] >> Teleporting to home 8..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -451,7 +451,7 @@
     "K4ps_12": 1,
     "jhacks2": 5,
     "Wisto_WT": 1,
-    "ghostCOD1st": 10,
+    "ghostCOD1st": 11,
     "Darix22_": 2,
     "JEWISHBLACKTRANS": 1,
     "DarkSessionss": 1,
@@ -480,7 +480,7 @@
     "survival": 535,
     "pvp": 727,
     "dupe": 137,
-    "tools": 165,
+    "tools": 166,
     "stash": 82,
     "raid": 89,
     "wood": 39,
