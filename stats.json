@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:56:35 10/12/2025",
+  "lastUpdated": "15:57:05 10/12/2025",
   "totalKits": 62027,
   "todayKits": 330,
   "onlineCount": 16,
   "peakPlayers": 49,
-  "tps": "20.0",
-  "ping": 242,
+  "tps": "18.0",
+  "ping": 241,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 521
+      "count": 522
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:54] ",
-    "[15:54] [8b8t] >> The command /seed is not allowed",
-    "[15:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:55] <.LEON50758> !kit survival ",
-    "[15:55] [8b8t] >> Teleporting to home 0...",
-    "[15:55] [8b8t] >> Teleporting to home 1...",
-    "[15:55] To .LEON50758: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[15:55] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[15:55] real_weak_bhai has made the advancement [Stone Age]",
-    "[15:55] [8b8t] >> Request sent to .LEON50758",
-    "[15:55] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
     "[15:55] <KelpySilva> !kit survival ",
     "[15:55] To KelpySilva: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[15:55] [8b8t] >> Teleporting...",
@@ -101,7 +90,18 @@
     "[15:56] [8b8t] >> Home 2 was not found",
     "[15:56] [8b8t] >> Please do not spam.",
     "[15:56] [8b8t] >> The command /seed is not allowed",
-    "[15:56] MonkeBot thought they could make it to oxygen in time"
+    "[15:56] MonkeBot thought they could make it to oxygen in time",
+    "[15:56] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[15:56] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[15:56] <KelpySilva> someone help ",
+    "[15:56] <.LEON50758> !kit firevork ",
+    "[15:56] To .LEON50758: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[15:56] <KelpySilva> !kit survival ",
+    "[15:56] [8b8t] >> Teleporting to home 0...",
+    "[15:56] [8b8t] >> Teleporting to home 1...",
+    "[15:56] To KelpySilva: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:57] To KelpySilva: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[15:57] [8b8t] >> Request sent to KelpySilva"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -470,11 +470,12 @@
     "LEON_NC": 2,
     "shoddyhawk81305": 5,
     "j.abad": 4,
-    "real_weak_bhai": 2
+    "real_weak_bhai": 2,
+    "KelpySilva": 1
   },
   "kitStats": {
     "build": 123,
-    "survival": 521,
+    "survival": 522,
     "pvp": 713,
     "dupe": 137,
     "tools": 163,
