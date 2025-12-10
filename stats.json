@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:00:40 11/12/2025",
+  "lastUpdated": "03:01:10 11/12/2025",
   "totalKits": 62348,
   "todayKits": 80,
   "onlineCount": 32,
   "peakPlayers": 43,
-  "tps": "20.0",
+  "tps": "12.0",
   "ping": 226,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 611
+      "count": 612
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:59] [8b8t] >> Teleporting to home 0...",
-    "[02:59] [8b8t] >> Teleporting to home 3...",
-    "[02:59] To lemt165: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[02:59] [8b8t] >> The command /seed is not allowed",
-    "[02:59] To lemt165: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[02:59] <PER1800> RECLUTAMIENTO ACTIVO EN EL CLAN ORBIT ",
-    "[02:59] [8b8t] >> Request sent to lemt165",
-    "[02:59] [8b8t] >> Teleporting...",
-    "[02:59] <M_INMORTAL_H> mi base no ya bastaaaaaaaaaa ",
     "[02:59] [8b8t] >> Home 2 was not found",
     "[02:59] [8b8t] >> The command /seed is not allowed",
     "[02:59] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +92,16 @@
     "[02:59] ",
     "[02:59] <PER1800> UNETE AL MEJOR CLAN DEL SERVIDOR ",
     "[03:00] [8b8t] >> The command /seed is not allowed",
-    "[03:00] [BOT] <0_HienBot> Hola PETISTA! "
+    "[03:00] [BOT] <0_HienBot> Hola PETISTA! ",
+    "[03:00] [BOT] <0_HienBot> The server's seed is :'Loading...' ",
+    "[03:00] <abuco3524> !kit mix ",
+    "[03:00] To abuco3524: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[03:01] <PER1800> UNETE AL NUEO CLAN DE 8B8T ",
+    "[03:01] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[03:01] <abuco3524> !kit Survival ",
+    "[03:01] [8b8t] >> Teleporting to home 0...",
+    "[03:01] [8b8t] >> Teleporting to home 1...",
+    "[03:01] To abuco3524: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -508,12 +508,12 @@
     "xXCasterXx": 2,
     "lucasxdde": 1,
     "PER1800": 1,
-    "abuco3524": 1,
+    "abuco3524": 2,
     "lemt165": 1
   },
   "kitStats": {
     "build": 135,
-    "survival": 611,
+    "survival": 612,
     "pvp": 803,
     "dupe": 155,
     "tools": 201,
