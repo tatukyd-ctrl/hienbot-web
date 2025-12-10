@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:00:05 10/12/2025",
+  "lastUpdated": "16:00:35 10/12/2025",
   "totalKits": 62032,
   "todayKits": 335,
-  "onlineCount": 18,
+  "onlineCount": 17,
   "peakPlayers": 49,
   "tps": "19.0",
-  "ping": 250,
+  "ping": 240,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:58] To KelpySilva: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[15:58] [8b8t] >> The command /seed is not allowed",
-    "[15:58] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[15:58] <KelpySilva> !kit Survival ",
-    "[15:58] [8b8t] >> Teleporting to home 0...",
-    "[15:58] [8b8t] >> Teleporting to home 1...",
-    "[15:58] To KelpySilva: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[15:58] To KelpySilva: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[15:58] [8b8t] >> Request sent to KelpySilva",
-    "[15:59] [8b8t] >> Teleporting...",
-    "[15:59] [8b8t] >> Home 2 was not found",
-    "[15:59] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
-    "[15:59] [8b8t] >> The command /seed is not allowed",
     "[15:59] <KelpySilva> !kit stash ",
     "[15:59] To KelpySilva: You're on cooldown, try again in 69 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[15:59] <j.abad> !kit pvp ",
@@ -101,7 +88,20 @@
     "[15:59] [8b8t] >> Teleporting...",
     "[15:59] [8b8t] >> Home 2 was not found",
     "[15:59] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[15:59] [8b8t] >> The command /seed is not allowed"
+    "[15:59] [8b8t] >> The command /seed is not allowed",
+    "[16:00] <KelpySilva> !kit ",
+    "[16:00] To KelpySilva: Hello KelpySilva!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[16:00] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
+    "[16:00] <KelpySilva> !kit Raid ",
+    "[16:00] To KelpySilva: You're on cooldown, try again in 7 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[16:00] <real_weak_bhai> !kit stash ",
+    "[16:00] [8b8t] >> Teleporting to home 0...",
+    "[16:00] [8b8t] >> Teleporting to home 3...",
+    "[16:00] To real_weak_bhai: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:00] To real_weak_bhai: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:00] [8b8t] >> Request sent to real_weak_bhai",
+    "[16:00] <Lukass_012> !kit survival ",
+    "[16:00] To Lukass_012: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -470,7 +470,7 @@
     "LEON_NC": 2,
     "shoddyhawk81305": 5,
     "j.abad": 5,
-    "real_weak_bhai": 2,
+    "real_weak_bhai": 3,
     "KelpySilva": 2
   },
   "kitStats": {
@@ -479,7 +479,7 @@
     "pvp": 714,
     "dupe": 137,
     "tools": 163,
-    "stash": 81,
+    "stash": 82,
     "raid": 88,
     "wood": 39,
     "exp": 76,
