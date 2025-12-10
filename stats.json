@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:32:40 10/12/2025",
-  "totalKits": 62148,
-  "todayKits": 34,
+  "lastUpdated": "20:32:56 10/12/2025",
+  "totalKits": 62149,
+  "todayKits": 35,
   "onlineCount": 30,
   "peakPlayers": 32,
-  "tps": "14.0",
+  "tps": "17.0",
   "ping": 233,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 751
+      "count": 752
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:32] To D1lj0: Hello D1lj0!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[20:32] <fox_gam1> t ",
-    "[20:32] <TylerDurden098> !KIT EXP ",
-    "[20:32] [8b8t] >> Teleporting to home 0...",
-    "[20:32] [8b8t] >> Teleporting to home 6...",
-    "[20:32] To TylerDurden098: Your kit (exp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[20:32] To TylerDurden098: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[20:32] [8b8t] >> Request sent to TylerDurden098",
     "[20:32] <fox_gam1> ???? ",
     "[20:32] <alastor_gamer89> !kit server ",
@@ -101,7 +94,14 @@
     "[20:32] [8b8t] >> Home 2 was not found",
     "[20:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[20:32] [8b8t] >> The TPA request you received from MCWemmbu has expired.",
-    "[20:32] [8b8t] >> The command /seed is not allowed"
+    "[20:32] [8b8t] >> The command /seed is not allowed",
+    "[20:32] <D1lj0> !kit pvp ",
+    "[20:32] [8b8t] >> Teleporting to home 0...",
+    "[20:32] [8b8t] >> Teleporting to home 1...",
+    "[20:32] To D1lj0: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:32] To D1lj0: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:32] [8b8t] >> Request sent to D1lj0",
+    "[20:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -479,12 +479,13 @@
     "Braulito": 3,
     "fion123": 6,
     "cool_cat_gamer": 1,
-    "Bijthond": 1
+    "Bijthond": 1,
+    "D1lj0": 1
   },
   "kitStats": {
     "build": 126,
     "survival": 561,
-    "pvp": 751,
+    "pvp": 752,
     "dupe": 141,
     "tools": 181,
     "stash": 86,
