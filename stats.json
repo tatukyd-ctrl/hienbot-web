@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:43:11 10/12/2025",
+  "lastUpdated": "20:43:40 10/12/2025",
   "totalKits": 62155,
   "todayKits": 41,
   "onlineCount": 32,
   "peakPlayers": 32,
-  "tps": "15.0",
-  "ping": 233,
+  "tps": "19.0",
+  "ping": 238,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 756
+      "count": 757
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:41] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
-    "[20:42] <MCWemmbu> you habe it ",
-    "[20:42] <MCWemmbu> have ",
-    "[20:42] <D1lj0> !kit pvp ",
-    "[20:42] [8b8t] >> Teleporting to home 0...",
-    "[20:42] [8b8t] >> Teleporting to home 1...",
-    "[20:42] To D1lj0: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[20:42] To D1lj0: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[20:42] [8b8t] >> Request sent to D1lj0",
-    "[20:42] [8b8t] >> Teleporting...",
     "[20:42] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[20:42] <MCWemmbu> brb ",
     "[20:42] [8b8t] >> Home 2 was not found",
@@ -101,7 +91,17 @@
     "[20:43] [8b8t] >> Request sent to TylerDurden098",
     "[20:43] <Joshjosh12lol> !ki ",
     "[20:43] [8b8t] >> Teleporting...",
-    "[20:43] 0_HienBot was slain by TylerDurden098 using [totem of undying]"
+    "[20:43] 0_HienBot was slain by TylerDurden098 using [totem of undying]",
+    "[20:43] <Joshjosh12lol> !kit pvp ",
+    "[20:43] [8b8t] >> Teleporting to home 0...",
+    "[20:43] [8b8t] >> Teleporting to home 1...",
+    "[20:43] To Joshjosh12lol: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:43] [8b8t] >> The command /seed is not allowed",
+    "[20:43] To Joshjosh12lol: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:43] [8b8t] >> Request sent to Joshjosh12lol",
+    "[20:43] [BOT] <0_HienBot> Hey ulisesotazo2134! ",
+    "[20:43] <MintKoala997563> !kit armor trims ",
+    "[20:43] Joshjosh12lol decided to test gravity and lost"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -480,12 +480,13 @@
     "fion123": 6,
     "cool_cat_gamer": 1,
     "Bijthond": 1,
-    "D1lj0": 3
+    "D1lj0": 3,
+    "Joshjosh12lol": 1
   },
   "kitStats": {
     "build": 126,
     "survival": 561,
-    "pvp": 756,
+    "pvp": 757,
     "dupe": 141,
     "tools": 182,
     "stash": 86,
