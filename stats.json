@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:26:35 10/12/2025",
+  "lastUpdated": "12:27:05 10/12/2025",
   "totalKits": 61966,
   "todayKits": 269,
-  "onlineCount": 22,
+  "onlineCount": 23,
   "peakPlayers": 49,
-  "tps": "20.0",
-  "ping": 244,
+  "tps": "19.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 502
+      "count": 503
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:22] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[12:22] To p3l1n_1945: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[12:22] [8b8t] >> Request sent to p3l1n_1945",
-    "[12:22] [8b8t] >> Teleporting...",
-    "[12:22] [8b8t] >> Home 2 was not found",
-    "[12:22] [8b8t] >> The command /seed is not allowed",
-    "[12:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[12:22] <_aShantu__> i can kill hu ",
     "[12:22] <_aShantu__> hua haa haa haa ",
     "[12:22] [BOT] <0_HienBot> Bot created by Hien2309. ",
@@ -101,7 +94,14 @@
     "[12:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:25] _aShantu__ has made the advancement [We Need to Go Deeper]",
     "[12:25] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[12:26] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 "
+    "[12:26] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
+    "[12:26] <knightpower> !kit survival ",
+    "[12:26] [8b8t] >> Teleporting to home 0...",
+    "[12:26] [8b8t] >> Teleporting to home 1...",
+    "[12:26] To knightpower: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:26] To knightpower: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[12:26] [8b8t] >> Request sent to knightpower",
+    "[12:26] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -464,11 +464,12 @@
     "Lowe78": 2,
     "Lazaro49331": 1,
     "_NotSpideyPie__": 9,
-    "_aShantu__": 1
+    "_aShantu__": 1,
+    "knightpower": 1
   },
   "kitStats": {
     "build": 117,
-    "survival": 502,
+    "survival": 503,
     "pvp": 700,
     "dupe": 136,
     "tools": 160,
