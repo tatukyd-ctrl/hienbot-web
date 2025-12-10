@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:06:05 10/12/2025",
+  "lastUpdated": "16:06:35 10/12/2025",
   "totalKits": 62039,
   "todayKits": 342,
   "onlineCount": 17,
   "peakPlayers": 49,
-  "tps": "20.0",
-  "ping": 227,
+  "tps": "18.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 717
+      "count": 718
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:04]  Perform the command /email associate to register",
-    "[16:04]  your email. By doing so, you",
-    "[16:04]  decrease the chance of being hacked.",
-    "[16:04] ",
-    "[16:04]   [Confirm read]",
-    "[16:04] ",
-    "[16:04] [8b8t] >> The command /seed is not allowed",
-    "[16:04] 0_HienBot was pwned by real_weak_bhai wielding [netherite sword]",
-    "[16:04] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[16:04] [8b8t] >> The command /seed is not allowed",
-    "[16:05] <KelpySilva> !kit Survival ",
     "[16:05] [8b8t] >> Teleporting to home 0...",
     "[16:05] [8b8t] >> Teleporting to home 1...",
     "[16:05] To KelpySilva: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,7 +90,18 @@
     "[16:05] To real_weak_bhai: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[16:05] To real_weak_bhai: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[16:05] [8b8t] >> Request sent to real_weak_bhai",
-    "[16:05] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls "
+    "[16:05] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
+    "[16:06] [BOT] <0_HienBot> 𝙒𝙖𝙣𝙩 𝙠𝙞𝙩 ?? 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 ",
+    "[16:06] 0_HienBot forgot to stop, drop, and roll",
+    "[16:06] [8b8t] >> The TPA request you sent to real_weak_bhai was successfully canceled.",
+    "[16:06] [8b8t] >> The command /seed is not allowed",
+    "[16:06] shoddyhawk81305 has made the advancement [Voluntary Exile]",
+    "[16:06] <hackersito974> !kit pvp ",
+    "[16:06] [8b8t] >> Teleporting to home 0...",
+    "[16:06] [8b8t] >> Teleporting to home 1...",
+    "[16:06] To hackersito974: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:06] To hackersito974: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:06] [8b8t] >> Request sent to hackersito974"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -471,12 +471,13 @@
     "shoddyhawk81305": 5,
     "j.abad": 6,
     "real_weak_bhai": 5,
-    "KelpySilva": 4
+    "KelpySilva": 4,
+    "hackersito974": 1
   },
   "kitStats": {
     "build": 123,
     "survival": 528,
-    "pvp": 717,
+    "pvp": 718,
     "dupe": 137,
     "tools": 163,
     "stash": 82,
