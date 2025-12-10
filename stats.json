@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:22:40 10/12/2025",
-  "totalKits": 62133,
-  "todayKits": 19,
+  "lastUpdated": "19:23:02 10/12/2025",
+  "totalKits": 62134,
+  "todayKits": 20,
   "onlineCount": 22,
   "peakPlayers": 24,
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 228,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 555
+      "count": 556
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:19] [8b8t] >> Teleporting to home 1...",
-    "[19:19] To mmma1rquitosss: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:19] To mmma1rquitosss: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:19] [8b8t] >> Request sent to mmma1rquitosss",
-    "[19:19] [8b8t] >> Teleporting...",
-    "[19:20] [8b8t] >> Home 2 was not found",
-    "[19:20] [8b8t] >> The command /seed is not allowed",
-    "[19:20] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
     "[19:20] <VOLTAIKKKKK> im rich bro ",
     "[19:20] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[19:20] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
@@ -101,7 +93,15 @@
     "[19:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[19:22] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[19:22] <fion123> t pvp/tpayes ",
-    "[19:22] fion123 got a deadly lesson from the Wither"
+    "[19:22] fion123 got a deadly lesson from the Wither",
+    "[19:22] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[19:22] <mmma1rquitosss> !kit survival ",
+    "[19:22] [8b8t] >> Teleporting to home 0...",
+    "[19:22] [8b8t] >> Teleporting to home 1...",
+    "[19:22] To mmma1rquitosss: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:22] To mmma1rquitosss: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:22] [8b8t] >> Request sent to mmma1rquitosss",
+    "[19:22] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -319,7 +319,7 @@
     "michelzim525": 17,
     "PVPMODEON": 3,
     ".Ricsike30016": 1,
-    "mmma1rquitosss": 15,
+    "mmma1rquitosss": 16,
     "alastor_gamer89": 4,
     ".LEON50758": 21,
     "Saad2001": 2,
@@ -483,7 +483,7 @@
   },
   "kitStats": {
     "build": 126,
-    "survival": 555,
+    "survival": 556,
     "pvp": 750,
     "dupe": 139,
     "tools": 181,
