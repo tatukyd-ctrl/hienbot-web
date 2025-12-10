@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:05:40 10/12/2025",
-  "totalKits": 62120,
-  "todayKits": 6,
-  "onlineCount": 19,
+  "lastUpdated": "19:06:04 10/12/2025",
+  "totalKits": 62121,
+  "todayKits": 7,
+  "onlineCount": 18,
   "peakPlayers": 22,
-  "tps": "19.0",
+  "tps": "14.0",
   "ping": 227,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 746
+      "count": 747
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:03] [8b8t] >> Request sent to TylerDurden098",
-    "[19:03] [8b8t] >> Teleporting...",
-    "[19:03] [8b8t] >> Home 2 was not found",
-    "[19:03] [8b8t] >> The command /seed is not allowed",
-    "[19:03] fion123 forgot to bring their parachute",
-    "[19:03] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
-    "[19:03] <kin356> !kit pvp ",
-    "[19:03] [8b8t] >> Teleporting to home 0...",
-    "[19:04] [8b8t] >> Teleporting to home 1...",
-    "[19:04] To kin356: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[19:04] To kin356: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:04] [8b8t] >> Request sent to kin356",
     "[19:04] [8b8t] >> Teleporting...",
@@ -101,7 +91,17 @@
     "[19:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:05] <mmma1rquitosss> !kit maze ",
     "[19:05] To mmma1rquitosss: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[19:05] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[19:05] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[19:05] Franchotas decided to test gravity and lost",
+    "[19:05] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[19:05] <mmma1rquitosss> !kit pvp ",
+    "[19:05] [8b8t] >> Teleporting to home 0...",
+    "[19:05] [8b8t] >> Teleporting to home 1...",
+    "[19:05] To mmma1rquitosss: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:05] To mmma1rquitosss: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:05] [8b8t] >> Request sent to mmma1rquitosss",
+    "[19:06] [8b8t] >> Teleporting...",
+    "[19:06] 0_HienBot was slain by mmma1rquitosss using [netherite sword]"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -319,7 +319,7 @@
     "michelzim525": 17,
     "PVPMODEON": 3,
     ".Ricsike30016": 1,
-    "mmma1rquitosss": 11,
+    "mmma1rquitosss": 12,
     "alastor_gamer89": 4,
     ".LEON50758": 21,
     "Saad2001": 2,
@@ -484,7 +484,7 @@
   "kitStats": {
     "build": 126,
     "survival": 550,
-    "pvp": 746,
+    "pvp": 747,
     "dupe": 139,
     "tools": 178,
     "stash": 82,
