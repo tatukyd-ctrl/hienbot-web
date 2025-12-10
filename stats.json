@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:48:46 11/12/2025",
+  "lastUpdated": "00:49:10 11/12/2025",
   "totalKits": 62279,
   "todayKits": 11,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 41,
-  "tps": "17.0",
-  "ping": 220,
+  "tps": "18.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 194
+      "count": 195
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:47] [Ultra] <ImNotCheatjng> rip ",
-    "[00:47] <MintKoala997563> !kit redstone ",
-    "[00:47] [8b8t] >> Teleporting to home 0...",
-    "[00:47] [8b8t] >> Teleporting to home 3...",
-    "[00:47] To MintKoala997563: Your kit (redstone) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[00:47] [8b8t] >> The command /seed is not allowed",
-    "[00:47] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[00:47] To MintKoala997563: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[00:47] [8b8t] >> Request sent to MintKoala997563",
-    "[00:47] [8b8t] >> Teleporting...",
-    "[00:47] Anjute forgot to bring their parachute",
-    "[00:47] [8b8t] >> Home 2 was not found",
     "[00:48] Zapitodeagua has made the advancement [Ice Bucket Challenge]",
     "[00:48] [8b8t] >> The command /seed is not allowed",
     "[00:48] cocinero withered away to the 4th dimension",
@@ -101,7 +89,19 @@
     "[00:48] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[00:48] [8b8t] >> Request sent to .LEON50758",
     "[00:48] [8b8t] >> Teleporting...",
-    "[00:48] cocinero got the wither disease"
+    "[00:48] cocinero got the wither disease",
+    "[00:48] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
+    "[00:48] [8b8t] >> Home 2 was not found",
+    "[00:48] <p3l1n_1945> !kit tools ",
+    "[00:48] To p3l1n_1945: You're on cooldown, try again in 20 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[00:48] Zapitodeagua forgot to stop, drop, and roll",
+    "[00:48] [8b8t] >> The command /seed is not allowed",
+    "[00:49] <fox_gam1> !kit tools ",
+    "[00:49] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[00:49] [8b8t] >> Teleporting to home 0...",
+    "[00:49] <Zapitodeagua> ImNotCheatjng ",
+    "[00:49] [8b8t] >> Teleporting to home 8...",
+    "[00:49] To fox_gam1: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "Alecraft8": 17,
@@ -500,14 +500,15 @@
     "Elekid___": 1,
     "Birk_TheWiseCat": 1,
     "itzanty": 1,
-    "abelino_pepino": 2
+    "abelino_pepino": 2,
+    "fox_gam1": 1
   },
   "kitStats": {
     "build": 134,
     "survival": 593,
     "pvp": 785,
     "dupe": 147,
-    "tools": 194,
+    "tools": 195,
     "stash": 91,
     "raid": 95,
     "wood": 45,
