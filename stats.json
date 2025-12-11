@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:27:51 12/12/2025",
-  "totalKits": 63481,
-  "todayKits": 15,
+  "lastUpdated": "05:28:04 12/12/2025",
+  "totalKits": 63482,
+  "todayKits": 16,
   "onlineCount": 28,
   "peakPlayers": 35,
   "tps": "16.0",
@@ -10,7 +10,7 @@
   "topUsers": [
     {
       "name": "MintKoala997563",
-      "count": 115
+      "count": 116
     },
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1055
+      "count": 1056
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:25] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[05:25] [8b8t] >> Home 2 was not found",
-    "[05:25] [8b8t] >> The command /seed is not allowed",
-    "[05:25] <South___> ima come bcak kill me ",
-    "[05:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:25] <South___> pls ",
-    "[05:25] [BOT] <0_HienBot> Vietnam on top!! ",
-    "[05:25] <South___> kill me ",
     "[05:25] <South___> pls ",
     "[05:26] <South___> i will come back ",
     "[05:26] <South___> yes ",
@@ -101,7 +93,15 @@
     "[05:27] To Regentmmc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[05:27] [8b8t] >> Request sent to Regentmmc",
     "[05:27] [8b8t] >> Teleporting...",
-    "[05:27] 0_HienBot has been killed by Regentmmc"
+    "[05:27] 0_HienBot has been killed by Regentmmc",
+    "[05:27] <MintKoala997563> !kit pvp ",
+    "[05:27] [8b8t] >> Teleporting to home 0...",
+    "[05:27] [8b8t] >> The command /seed is not allowed",
+    "[05:27] [8b8t] >> Teleporting to home 1...",
+    "[05:27] To MintKoala997563: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[05:27] To MintKoala997563: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[05:27] [8b8t] >> Request sent to MintKoala997563",
+    "[05:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -192,7 +192,7 @@
     "Exploterxyz": 12,
     "Ludrian": 1,
     "Minhprovip124": 25,
-    "MintKoala997563": 115,
+    "MintKoala997563": 116,
     "axel1241": 3,
     "Murad2002": 24,
     "ANONIMNO7627": 1,
@@ -584,7 +584,7 @@
   "kitStats": {
     "build": 195,
     "survival": 809,
-    "pvp": 1055,
+    "pvp": 1056,
     "dupe": 204,
     "tools": 240,
     "stash": 111,
