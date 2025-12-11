@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:24:01 11/12/2025",
-  "totalKits": 62694,
-  "todayKits": 344,
+  "lastUpdated": "19:24:15 11/12/2025",
+  "totalKits": 62695,
+  "todayKits": 345,
   "onlineCount": 22,
   "peakPlayers": 49,
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 237,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 949
+      "count": 950
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:21] [BOT] <0_HienBot> Hi Singalerichin! ",
-    "[19:21] <ubahowoa> !kit dupe ",
-    "[19:21] [8b8t] >> Teleporting to home 0...",
-    "[19:21] [8b8t] >> Teleporting to home 8...",
-    "[19:21] To ubahowoa: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:21] To ubahowoa: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:21] [8b8t] >> Request sent to ubahowoa",
-    "[19:21] [8b8t] >> Teleporting...",
-    "[19:21] <PER1800> ORBIT ON TOP ",
-    "[19:21] 0_HienBot forgot to stop, drop, and roll",
-    "[19:21] [8b8t] >> Home 2 was not found",
     "[19:21] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[19:21] [8b8t] >> The command /seed is not allowed",
     "[19:21] <PER1800> UNETE AL MEJOR CLAN DEL SERVIDOR ",
@@ -101,7 +90,18 @@
     "[19:23] <PER1800> UNETE AL MEJOR CLAN DEL SERVIDOR ",
     "[19:23] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[19:23] <PER1800> QUIERES TENER LOS MEJORES KITS GRATIS DEL SERVIDOR ENTONCES UNETE A NUESTRO CLAN ",
-    "[19:23] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[19:23] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[19:24] <ubahowoa> !kit totem ",
+    "[19:24] To ubahowoa: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[19:24] <PER1800> ORBIT CLAN ON TOP ",
+    "[19:24] <ubahowoa> !kit pvp ",
+    "[19:24] [8b8t] >> Teleporting to home 0...",
+    "[19:24] [8b8t] >> Teleporting to home 1...",
+    "[19:24] To ubahowoa: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:24] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[19:24] To ubahowoa: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:24] [8b8t] >> Request sent to ubahowoa",
+    "[19:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -542,12 +542,12 @@
     "Bombockatjohny": 1,
     "kemalsunal": 1,
     "ElGabi_5k": 1,
-    "ubahowoa": 4
+    "ubahowoa": 5
   },
   "kitStats": {
     "build": 165,
     "survival": 714,
-    "pvp": 949,
+    "pvp": 950,
     "dupe": 171,
     "tools": 220,
     "stash": 99,
