@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:49:55 12/12/2025",
+  "lastUpdated": "02:50:04 12/12/2025",
   "totalKits": 63357,
   "todayKits": 41,
-  "onlineCount": 47,
+  "onlineCount": 49,
   "peakPlayers": 50,
-  "tps": "17.0",
-  "ping": 234,
+  "tps": "16.0",
+  "ping": 226,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 785
+      "count": 786
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:48] [BOT] <0_HienBot> Hi denise334! ",
-    "[02:49] <rapatumadre5000> ya se que hacer ",
-    "[02:49] <Lukidocks> ScreaM8989 hay forma de subir al burro? ",
-    "[02:49] <Lukidocks> sin que se muera ",
-    "[02:49] <ScreaM8989> con agua ",
-    "[02:49] botchaosonix666 Whispers: !kit wool",
     "[02:49] [8b8t] >> Teleporting to home 0...",
     "[02:49] [8b8t] >> Teleporting to home 4...",
     "[02:49] <Lukidocks> va ",
@@ -101,7 +95,13 @@
     "[02:49] To rapatumadre5000: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[02:49] [8b8t] >> Request sent to rapatumadre5000",
     "[02:49] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
-    "[02:49] [8b8t] >> Teleporting..."
+    "[02:49] [8b8t] >> Teleporting...",
+    "[02:49] [8b8t] >> Home 2 was not found",
+    "[02:50] <denise334> !kit survival ",
+    "[02:50] [8b8t] >> Teleporting to home 0...",
+    "[02:50] [8b8t] >> Teleporting to home 1...",
+    "[02:50] To denise334: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:50] [8b8t] >> The command /seed is not allowed"
   ],
   "userStats": {
     "323435634": 1,
@@ -169,7 +169,7 @@
     "Bakivn_bot": 4,
     "c4tk": 5,
     "uigg": 2,
-    "denise334": 16,
+    "denise334": 17,
     "oRiolon1": 1,
     "Emirbaba72926": 1,
     "HCM100": 1,
@@ -579,7 +579,7 @@
   },
   "kitStats": {
     "build": 186,
-    "survival": 785,
+    "survival": 786,
     "pvp": 1019,
     "dupe": 198,
     "tools": 236,
