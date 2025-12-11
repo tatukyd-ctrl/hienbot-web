@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:47:00 11/12/2025",
-  "totalKits": 62614,
-  "todayKits": 264,
-  "onlineCount": 19,
+  "lastUpdated": "15:47:27 11/12/2025",
+  "totalKits": 62615,
+  "todayKits": 265,
+  "onlineCount": 18,
   "peakPlayers": 49,
-  "tps": "15.0",
+  "tps": "13.0",
   "ping": 234,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 908
+      "count": 909
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:42] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
-    "[15:42] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
-    "[15:43] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
-    "[15:43] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[15:43] [Pro+] <L1derrFrog> lide gangzta _Lide_ ",
-    "[15:43] [BOT] <0_HienBot> What's up, meteoro47? ",
-    "[15:44] .jswzh0124 thought a Zombie was friendly",
     "[15:44] [BOT] <0_HienBot> Hola DeoDevil! ",
     "[15:44] mogalts_ortnG has made the advancement [Monster Hunter]",
     "[15:44] [BOT] <0_HienBot> Use /kill to kill yourself! ",
@@ -101,7 +94,14 @@
     "[15:46] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[15:46] <BlueBlurGamingX> oh shit ",
     "[15:46] [BOT] <0_HienBot> Do !discord ",
-    "[15:46] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[15:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:47] <NeoYT> !kit pvp ",
+    "[15:47] [8b8t] >> Teleporting to home 0...",
+    "[15:47] [8b8t] >> Teleporting to home 1...",
+    "[15:47] To NeoYT: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:47] To NeoYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[15:47] [8b8t] >> Request sent to NeoYT",
+    "[15:47] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -533,12 +533,13 @@
     "csfq": 1,
     "SystemMoon": 2,
     "Daleste": 5,
-    "HairyComic4": 1
+    "HairyComic4": 1,
+    "NeoYT": 1
   },
   "kitStats": {
     "build": 165,
     "survival": 695,
-    "pvp": 908,
+    "pvp": 909,
     "dupe": 169,
     "tools": 210,
     "stash": 99,
