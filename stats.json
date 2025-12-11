@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:26:30 11/12/2025",
-  "totalKits": 62536,
-  "todayKits": 186,
+  "lastUpdated": "08:26:54 11/12/2025",
+  "totalKits": 62537,
+  "todayKits": 187,
   "onlineCount": 27,
   "peakPlayers": 49,
-  "tps": "5.0",
-  "ping": 0,
+  "tps": "17.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 865
+      "count": 866
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:25] [8b8t] >> Teleporting...",
-    "[08:25] 0_HienBot has been put down by Cochiloquito",
-    "[08:25] <Rage_penguin_69> !kit pvp ",
-    "[08:25] [8b8t] >> Teleporting to home 0...",
-    "[08:25] [8b8t] >> Teleporting to home 1...",
-    "[08:25] To Rage_penguin_69: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[08:25] [8b8t] >> The command /seed is not allowed",
-    "[08:25] To Rage_penguin_69: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[08:25] [8b8t] >> Request sent to Rage_penguin_69",
-    "[08:25] [8b8t] >> Teleporting...",
-    "[08:25] [8b8t] >> Home 2 was not found",
     "[08:25] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
     "[08:25] onar36877 went for a swim in lava and got burned",
     "[08:25] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +90,18 @@
     "[08:26]   [Confirm read]",
     "[08:26] ",
     "[08:26] <santi4090> estoy en el spawn ",
-    "[08:26] [8b8t] >> The command /seed is not allowed"
+    "[08:26] [8b8t] >> The command /seed is not allowed",
+    "[08:26] <Cochiloquito> !kit pvp ",
+    "[08:26] [8b8t] >> Teleporting to home 0...",
+    "[08:26] [8b8t] >> Teleporting to home 1...",
+    "[08:26] To Cochiloquito: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[08:26] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[08:26] To Cochiloquito: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[08:26] [8b8t] >> Request sent to Cochiloquito",
+    "[08:26] <.Elpatata43> !kit pvp ",
+    "[08:26] To .Elpatata43: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[08:26] [8b8t] >> Teleporting...",
+    "[08:26] 0_HienBot has been killed by Cochiloquito"
   ],
   "userStats": {
     "323435634": 1,
@@ -524,12 +524,12 @@
     "pepecraft13": 1,
     "Murphito45": 1,
     "Rage_penguin_69": 8,
-    "Cochiloquito": 1
+    "Cochiloquito": 2
   },
   "kitStats": {
     "build": 162,
     "survival": 683,
-    "pvp": 865,
+    "pvp": 866,
     "dupe": 165,
     "tools": 206,
     "stash": 95,
