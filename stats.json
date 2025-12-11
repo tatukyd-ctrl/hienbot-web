@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:28:39 12/12/2025",
-  "totalKits": 63530,
-  "todayKits": 64,
+  "lastUpdated": "06:29:04 12/12/2025",
+  "totalKits": 63531,
+  "todayKits": 65,
   "onlineCount": 33,
   "peakPlayers": 41,
   "tps": "16.0",
-  "ping": 234,
+  "ping": 237,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 815
+      "count": 816
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:27] <VOLTAIKKKKK> !kit potion ",
-    "[06:27] To VOLTAIKKKKK: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[06:27] TYPI has made the advancement [Monster Hunter]",
-    "[06:27] <47_> !kit pvp ",
-    "[06:27] [8b8t] >> Teleporting to home 0...",
-    "[06:27] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
-    "[06:27] [8b8t] >> Teleporting to home 1...",
-    "[06:27] To 47_: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[06:28] To 47_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[06:28] MintKoala997563 forgot to bring their parachute",
     "[06:28] [8b8t] >> Request sent to 47_",
     "[06:28] [8b8t] >> Teleporting...",
     "[06:28] 0_HienBot was EZ clapped by 47_ using [Mixed Kit by Hien2309]",
@@ -101,7 +91,17 @@
     "[06:28] [8b8t] >> Teleporting...",
     "[06:28] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[06:28] [8b8t] >> Home 2 was not found",
-    "[06:28] Marco1735 tried to defuse a Creeper... it didn't work"
+    "[06:28] Marco1735 tried to defuse a Creeper... it didn't work",
+    "[06:28] [8b8t] >> The command /seed is not allowed",
+    "[06:28] <TYPI> !kit survival ",
+    "[06:28] [8b8t] >> Teleporting to home 0...",
+    "[06:28] [8b8t] >> Teleporting to home 1...",
+    "[06:28] To TYPI: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[06:28] To TYPI: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[06:28] [8b8t] >> Request sent to TYPI",
+    "[06:28] [BOT] <0_HienBot> Welcome to 8b8t, Wisto_WT! ",
+    "[06:29] [8b8t] >> Teleporting...",
+    "[06:29] 0_HienBot has been killed by TYPI"
   ],
   "userStats": {
     "323435634": 1,
@@ -581,11 +581,11 @@
     "bl3ss902Py": 2,
     "penitente_bd": 3,
     "South___": 1,
-    "TYPI": 1
+    "TYPI": 2
   },
   "kitStats": {
     "build": 197,
-    "survival": 815,
+    "survival": 816,
     "pvp": 1068,
     "dupe": 207,
     "tools": 240,
