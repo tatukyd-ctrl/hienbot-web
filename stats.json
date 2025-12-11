@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:44:01 12/12/2025",
+  "lastUpdated": "06:44:09 12/12/2025",
   "totalKits": 63546,
   "todayKits": 80,
   "onlineCount": 36,
   "peakPlayers": 41,
-  "tps": "19.0",
-  "ping": 240,
+  "tps": "17.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1074
+      "count": 1075
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:43] [8b8t] >> Teleporting to home 6...",
-    "[06:43] To TYPI: Your kit (end) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[06:43] To TYPI: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[06:43] [8b8t] >> Request sent to TYPI",
     "[06:43] <South___> !kit mazo ",
     "[06:43] To South___: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
@@ -101,7 +98,10 @@
     "[06:43] To TYPI: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[06:43] [8b8t] >> Teleporting...",
     "[06:43] [BOT] <0_HienBot> Try /nc to change your name color! ",
-    "[06:44] 0_HienBot was destroyed by South___"
+    "[06:44] 0_HienBot was destroyed by South___",
+    "[06:44] [8b8t] >> The command /seed is not allowed",
+    "[06:44] <Meliodaspro4_DMC> !kit pvp ",
+    "[06:44] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "323435634": 1,
@@ -582,12 +582,13 @@
     "penitente_bd": 3,
     "South___": 7,
     "TYPI": 6,
-    "sleep2012XD": 1
+    "sleep2012XD": 1,
+    "Meliodaspro4_DMC": 1
   },
   "kitStats": {
     "build": 197,
     "survival": 819,
-    "pvp": 1074,
+    "pvp": 1075,
     "dupe": 207,
     "tools": 242,
     "stash": 114,
