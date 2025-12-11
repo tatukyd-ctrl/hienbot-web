@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:01:50 11/12/2025",
+  "lastUpdated": "16:02:00 11/12/2025",
   "totalKits": 62627,
   "todayKits": 277,
   "onlineCount": 22,
   "peakPlayers": 49,
-  "tps": "17.0",
+  "tps": "16.0",
   "ping": 224,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 700
+      "count": 701
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:00] <DeoDevil> anyone have blaze rods ",
-    "[16:00] [8b8t] >> The command /seed is not allowed",
-    "[16:00] Ivyrisity has completed the challenge [Cover Me in Debris]",
-    "[16:00] BlueBlurGamingX got pieced by an End Crystal",
-    "[16:00] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
-    "[16:00] Ivyrisity has reached the goal [Sky's the Limit]",
-    "[16:00] <sk_gaming_dd> Hien2309 ",
-    "[16:01] <BlueBlurGamingX> !kit pvp ",
     "[16:01] To BlueBlurGamingX: You're on cooldown, try again in 35 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[16:01] .jswzh0124 thought they could fly... they couldn't",
     "[16:01] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
@@ -101,7 +93,15 @@
     "[16:01] [BOT] <0_HienBot> Use /kill to kill yourself! ",
     "[16:01] .jswzh0124 decided to test gravity and lost",
     "[16:01] <Ivyrisity> !kit survival ",
-    "[16:01] To Ivyrisity: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[16:01] To Ivyrisity: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[16:01] [8b8t] >> Home 2 was not found",
+    "[16:01] <Ivyrisity> !kit survival ",
+    "[16:01] [8b8t] >> Teleporting to home 0...",
+    "[16:01] [8b8t] >> Teleporting to home 1...",
+    "[16:01] To Ivyrisity: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:01] [8b8t] >> The command /seed is not allowed",
+    "[16:01] To Ivyrisity: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:02] [8b8t] >> Request sent to Ivyrisity"
   ],
   "userStats": {
     "323435634": 1,
@@ -536,12 +536,12 @@
     "HairyComic4": 1,
     "NeoYT": 4,
     "BlueBlurGamingX": 5,
-    "Ivyrisity": 2,
+    "Ivyrisity": 3,
     "Tuanne_": 1
   },
   "kitStats": {
     "build": 165,
-    "survival": 700,
+    "survival": 701,
     "pvp": 915,
     "dupe": 169,
     "tools": 210,
