@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:26:00 11/12/2025",
-  "totalKits": 62559,
-  "todayKits": 209,
-  "onlineCount": 36,
+  "lastUpdated": "09:26:10 11/12/2025",
+  "totalKits": 62560,
+  "todayKits": 210,
+  "onlineCount": 35,
   "peakPlayers": 49,
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 226,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 881
+      "count": 882
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:22] [8b8t] >> Teleporting to home 0...",
-    "[09:22] [8b8t] >> Teleporting to home 1...",
-    "[09:22] To chetosconqueso: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[09:22] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
-    "[09:22] To chetosconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[09:22] [8b8t] >> Request sent to chetosconqueso",
-    "[09:22] [8b8t] >> Teleporting...",
     "[09:22] [8b8t] >> The command /seed is not allowed",
     "[09:22] <manzana_hz> aaaa ",
     "[09:22] [8b8t] >> Home 2 was not found",
@@ -101,7 +94,14 @@
     "[09:25] <47_> acepta ",
     "[09:25] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
     "[09:25] <DxrekCxbo> who gives me a trident with riptide 3 ",
-    "[09:25] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 "
+    "[09:25] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
+    "[09:26] <xsaidx> !kit pvp ",
+    "[09:26] [8b8t] >> Teleporting to home 0...",
+    "[09:26] [8b8t] >> Teleporting to home 1...",
+    "[09:26] To xsaidx: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:26] To xsaidx: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[09:26] [8b8t] >> Request sent to xsaidx",
+    "[09:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -527,12 +527,13 @@
     "Cochiloquito": 3,
     ".Elpatata43": 1,
     "SAMMYBOY90": 1,
-    "CristopherM7861": 3
+    "CristopherM7861": 3,
+    "xsaidx": 1
   },
   "kitStats": {
     "build": 162,
     "survival": 685,
-    "pvp": 881,
+    "pvp": 882,
     "dupe": 168,
     "tools": 206,
     "stash": 96,
