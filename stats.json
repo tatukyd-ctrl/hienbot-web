@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:04:17 12/12/2025",
+  "lastUpdated": "01:04:28 12/12/2025",
   "totalKits": 63285,
   "todayKits": 19,
-  "onlineCount": 40,
+  "onlineCount": 38,
   "peakPlayers": 44,
-  "tps": "19.0",
+  "tps": "16.0",
   "ping": 227,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 995
+      "count": 996
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:03] <tonito> ok ",
-    "[01:03] [8b8t] >> The command /seed is not allowed",
-    "[01:03] <Camix776> !kit illegal ",
-    "[01:03] To Camix776: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[01:03] <XNa_zAD> !kit ",
-    "[01:03] To XNa_zAD: Hello XNa_zAD!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[01:03] <Camix776> !kit illegal ",
-    "[01:03] To Camix776: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[01:03] [BOT] <0_HienBot> The server's seed is :'Loading...' ",
-    "[01:03] <Herobrai2990> !kit pvp ",
     "[01:03] [8b8t] >> Teleporting to home 0...",
     "[01:03] [8b8t] >> Teleporting to home 1...",
     "[01:03] To Herobrai2990: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,7 +91,17 @@
     "[01:04] To Camix776: Your kit (shulker) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[01:04] To Camix776: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[01:04] [8b8t] >> Request sent to Camix776",
-    "[01:04] [8b8t] >> Teleporting..."
+    "[01:04] [8b8t] >> Teleporting...",
+    "[01:04] <XNa_zAD> !kit pvp ",
+    "[01:04] [8b8t] >> Teleporting to home 0...",
+    "[01:04] [8b8t] >> Teleporting to home 1...",
+    "[01:04] [8b8t] >> Home 2 was not found",
+    "[01:04] To XNa_zAD: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:04] Camix776 has made the advancement [Stone Age]",
+    "[01:04] To XNa_zAD: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[01:04] [8b8t] >> Request sent to XNa_zAD",
+    "[01:04] [8b8t] >> The command /seed is not allowed",
+    "[01:04] [8b8t] >> The command /seed is not allowed"
   ],
   "userStats": {
     "323435634": 1,
@@ -561,14 +561,14 @@
     "luci_pro_49": 1,
     "Lukidocks": 1,
     "ManyaJoseo": 1,
-    "XNa_zAD": 2,
+    "XNa_zAD": 3,
     "Vanfeli": 6,
     "Camix776": 2
   },
   "kitStats": {
     "build": 178,
     "survival": 760,
-    "pvp": 995,
+    "pvp": 996,
     "dupe": 191,
     "tools": 231,
     "stash": 102,
