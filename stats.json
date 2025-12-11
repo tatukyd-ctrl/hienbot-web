@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:27:27 12/12/2025",
+  "lastUpdated": "04:27:34 12/12/2025",
   "totalKits": 63444,
   "todayKits": 128,
   "onlineCount": 32,
   "peakPlayers": 51,
-  "tps": "17.0",
+  "tps": "15.0",
   "ping": 220,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1043
+      "count": 1044
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:26] <bl3ss902Py> toy en el spawn voy por kit ",
-    "[04:26] <tutilin10958814> !kit dye ",
     "[04:26] [8b8t] >> Teleporting to home 0...",
     "[04:26] [8b8t] >> Teleporting to home 5...",
     "[04:26] To tutilin10958814: Your kit (dye) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,7 +99,9 @@
     "[04:27] To Regentmmc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[04:27] [8b8t] >> Request sent to Regentmmc",
     "[04:27] [8b8t] >> Teleporting...",
-    "[04:27] <cliclo> quienme ayuda "
+    "[04:27] <cliclo> quienme ayuda ",
+    "[04:27] [8b8t] >> Home 2 was not found",
+    "[04:27] <bl3ss902Py> $kit pvp "
   ],
   "userStats": {
     "323435634": 1,
@@ -577,12 +577,13 @@
     "C3S4R1XUS": 6,
     "liwexd12": 1,
     "SoulShade24": 1,
-    "Regentmmc": 3
+    "Regentmmc": 3,
+    "bl3ss902Py": 1
   },
   "kitStats": {
     "build": 193,
     "survival": 802,
-    "pvp": 1043,
+    "pvp": 1044,
     "dupe": 202,
     "tools": 236,
     "stash": 110,
