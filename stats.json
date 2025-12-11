@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:01:31 11/12/2025",
+  "lastUpdated": "21:02:01 11/12/2025",
   "totalKits": 62717,
   "todayKits": 367,
   "onlineCount": 20,
   "peakPlayers": 49,
-  "tps": "17.0",
-  "ping": 346,
+  "tps": "16.0",
+  "ping": 366,
   "topUsers": [
     {
       "name": "Scotty_01_",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 957
+      "count": 958
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:58] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[20:58] ",
-    "[20:58]  [8builders8tools]",
-    "[20:58]  Perform the command /email associate to register",
-    "[20:58]  your email. By doing so, you",
     "[20:58]  decrease the chance of being hacked.",
     "[20:58] ",
     "[20:58]   [Confirm read]",
@@ -101,7 +96,12 @@
     "[21:00] Leo_MendeZz was pwned by POJAVB wielding [Sword]",
     "[21:00] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[21:01] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
-    "[21:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[21:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:01] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
+    "[21:01] <Leo_MendeZz> !kit pvp ",
+    "[21:01] [8b8t] >> Teleporting to home 0...",
+    "[21:02] [8b8t] >> Teleporting to home 1...",
+    "[21:02] To Leo_MendeZz: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "323435634": 1,
@@ -543,12 +543,13 @@
     "kemalsunal": 1,
     "ElGabi_5k": 1,
     "ubahowoa": 5,
-    "S_alexss": 2
+    "S_alexss": 2,
+    "Leo_MendeZz": 1
   },
   "kitStats": {
     "build": 168,
     "survival": 717,
-    "pvp": 957,
+    "pvp": 958,
     "dupe": 172,
     "tools": 222,
     "stash": 99,
