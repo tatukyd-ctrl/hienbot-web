@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:38:34 12/12/2025",
+  "lastUpdated": "04:39:04 12/12/2025",
   "totalKits": 63449,
   "todayKits": 133,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 51,
-  "tps": "19.0",
+  "tps": "18.0",
   "ping": 221,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:36] dextromc forgot to bring their parachute",
-    "[04:37] <DecWillDavo> !ping ",
-    "[04:37] To DecWillDavo: Your ping is: 94 ms",
-    "[04:37] <BoroBhai> !kit tool ",
-    "[04:37] To BoroBhai: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[04:37] <elpp4073> !ping ",
-    "[04:37] To elpp4073: Your ping is: 268 ms",
-    "[04:37] <BoroBhai> !kit tools ",
-    "[04:37] [8b8t] >> Teleporting to home 0...",
     "[04:37] [8b8t] >> Teleporting to home 8...",
     "[04:37] <DecWillDavo> !kits ",
     "[04:37] To BoroBhai: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,7 +92,16 @@
     "[04:38] <JotaPeGD> !kits ",
     "[04:38] <JotaPeGD> !kits tools ",
     "[04:38] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[04:38] <DecWillDavo> !bal "
+    "[04:38] <DecWillDavo> !bal ",
+    "[04:38] DecWillDavo thought they could fly... they couldn't",
+    "[04:38] [8b8t] >> Please do not spam.",
+    "[04:38] <Regentmmc> !kit concrete ",
+    "[04:38] [8b8t] >> Teleporting to home 0...",
+    "[04:38] [8b8t] >> Teleporting to home 4...",
+    "[04:38] To Regentmmc: Your kit (concrete) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[04:38] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[04:39] To Regentmmc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[04:39] [8b8t] >> Request sent to Regentmmc"
   ],
   "userStats": {
     "323435634": 1,
@@ -577,7 +577,7 @@
     "C3S4R1XUS": 6,
     "liwexd12": 1,
     "SoulShade24": 1,
-    "Regentmmc": 4,
+    "Regentmmc": 5,
     "bl3ss902Py": 1
   },
   "kitStats": {
@@ -603,7 +603,7 @@
     "armortrims": 42,
     "highway": 45,
     "ocean": 6,
-    "concrete": 40,
+    "concrete": 41,
     "glass": 59,
     "gap": 6,
     "constructor": "function Object() { [native code] }11111",
