@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:33:09 12/12/2025",
+  "lastUpdated": "12:33:39 12/12/2025",
   "totalKits": 63692,
   "todayKits": 226,
-  "onlineCount": 24,
+  "onlineCount": 23,
   "peakPlayers": 45,
-  "tps": "12.0",
-  "ping": 218,
+  "tps": "10.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 845
+      "count": 846
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:30] [8b8t] >> Request sent to Alancitoprogamer",
-    "[12:30] <Jer0HEX> !kit survival ",
-    "[12:30] To Jer0HEX: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[12:30] [8b8t] >> Teleporting...",
-    "[12:31] [BOT] <0_HienBot> What's up, PistonCubeB0T? ",
-    "[12:31] [8b8t] >> Home 2 was not found",
     "[12:31] [8b8t] >> The command /seed is not allowed",
     "[12:31] <reymeteoro> jer0 accept and i give u a kit ",
     "[12:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +95,13 @@
     "[12:32] Jer0HEX was destroyed by reymeteoro",
     "[12:32] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
     "[12:32] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:33] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 "
+    "[12:33] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 ",
+    "[12:33] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
+    "[12:33] <Jer0HEX> !kit survival ",
+    "[12:33] [8b8t] >> Teleporting to home 0...",
+    "[12:33] [8b8t] >> Teleporting to home 1...",
+    "[12:33] To Jer0HEX: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:33] To Jer0HEX: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "323435634": 1,
@@ -599,11 +599,11 @@
     "MasterOfSaturn": 1,
     "Alancitoprogamer": 4,
     "zMisyls": 1,
-    "Jer0HEX": 1
+    "Jer0HEX": 2
   },
   "kitStats": {
     "build": 204,
-    "survival": 845,
+    "survival": 846,
     "pvp": 1108,
     "dupe": 215,
     "tools": 258,
