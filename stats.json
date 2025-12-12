@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:12:11 12/12/2025",
+  "lastUpdated": "19:12:41 12/12/2025",
   "totalKits": 63796,
   "todayKits": 330,
   "onlineCount": 20,
   "peakPlayers": 45,
-  "tps": "18.0",
-  "ping": 235,
+  "tps": "20.0",
+  "ping": 239,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1144
+      "count": 1145
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:06] [BOT] <0_HienBot> Hi PistonCubeB0T! ",
-    "[19:06] MonkeBot forgot to bring their parachute",
-    "[19:07] [BOT] <0_HienBot> Hey Hien2309! ",
-    "[19:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[19:07] [BOT] <0_HienBot> Hola MonkeBot! ",
     "[19:07] MonkeBot got shot by a skeleton",
     "[19:07] <skyhaiff1> who wanna pvp ",
     "[19:08] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
@@ -101,7 +96,12 @@
     "[19:11] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[19:11] <VOLTAIKKKKK> bru ",
     "[19:11] <Thomasfriend> nith what ",
-    "[19:12] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars "
+    "[19:12] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[19:12] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[19:12] <denise334> !kit pvp ",
+    "[19:12] [8b8t] >> Teleporting to home 0...",
+    "[19:12] [8b8t] >> Teleporting to home 1...",
+    "[19:12] To denise334: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "323435634": 1,
@@ -169,7 +169,7 @@
     "Bakivn_bot": 4,
     "c4tk": 5,
     "uigg": 2,
-    "denise334": 18,
+    "denise334": 19,
     "oRiolon1": 1,
     "Emirbaba72926": 1,
     "HCM100": 1,
@@ -618,7 +618,7 @@
   "kitStats": {
     "build": 205,
     "survival": 873,
-    "pvp": 1144,
+    "pvp": 1145,
     "dupe": 219,
     "tools": 272,
     "stash": 126,
