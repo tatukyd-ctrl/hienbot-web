@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:38:41 12/12/2025",
-  "totalKits": 63785,
-  "todayKits": 319,
-  "onlineCount": 14,
+  "lastUpdated": "18:39:00 12/12/2025",
+  "totalKits": 63786,
+  "todayKits": 320,
+  "onlineCount": 13,
   "peakPlayers": 45,
-  "tps": "15.0",
-  "ping": 230,
+  "tps": "16.0",
+  "ping": 385,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 870
+      "count": 871
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:37] [BOT] <0_HienBot> What's up, abir_playz99? ",
-    "[18:37] <.zero154531> !kit firevork ",
-    "[18:37] To .zero154531: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[18:37] abir_playz99 Whispers: random kit",
-    "[18:37] <janhackerV> who 1 vs 1 /tpa ",
-    "[18:38] [BOT] <0_HienBot> Hey denise334! ",
-    "[18:38] .zero154531 was pwned by janhackerV wielding [end crystal]",
-    "[18:38] <S1mple_> !kit wood ",
-    "[18:38] [8b8t] >> Teleporting to home 0...",
     "[18:38] [8b8t] >> Teleporting to home 4...",
     "[18:38] To S1mple_: Your kit (wood) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[18:38] To S1mple_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +92,16 @@
     "[18:38] <.zero154531> !kit survival ",
     "[18:38] To .zero154531: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[18:38] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[18:38] [8b8t] >> Home 2 was not found"
+    "[18:38] [8b8t] >> Home 2 was not found",
+    "[18:38] [8b8t] >> The command /seed is not allowed",
+    "[18:38] <.zero154531> !kit survival ",
+    "[18:38] [8b8t] >> Teleporting to home 0...",
+    "[18:38] [8b8t] >> Teleporting to home 1...",
+    "[18:38] To .zero154531: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:38] To .zero154531: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[18:38] [8b8t] >> Request sent to .zero154531",
+    "[18:38] [8b8t] >> Teleporting...",
+    "[18:39] [8b8t] >> abir_playz99 wants to teleport you to them /tpayes USERNAME /tpano USERNAME"
   ],
   "userStats": {
     "323435634": 1,
@@ -606,7 +606,7 @@
     "test_P_M": 1,
     "oZairon": 3,
     "i7Davut": 1,
-    ".zero154531": 3,
+    ".zero154531": 4,
     "skyhaiff1": 1,
     "test_P_P": 1,
     "Ashwinnnegi": 7,
@@ -617,7 +617,7 @@
   },
   "kitStats": {
     "build": 205,
-    "survival": 870,
+    "survival": 871,
     "pvp": 1139,
     "dupe": 218,
     "tools": 272,
