@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:24:37 13/12/2025",
+  "lastUpdated": "05:25:01 13/12/2025",
   "totalKits": 64230,
   "todayKits": 208,
-  "onlineCount": 43,
+  "onlineCount": 44,
   "peakPlayers": 64,
-  "tps": "16.0",
-  "ping": 302,
+  "tps": "15.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 303
+      "count": 304
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:22] [8b8t] >> The command /seed is not allowed",
-    "[05:22] SteyrHS has made the advancement [Monster Hunter]",
-    "[05:22] [BOT] <0_HienBot> What's up, SrWindows? ",
-    "[05:23] SteyrHS got shot by a skeleton",
-    "[05:23] imashelnoam was rekt by SlepaBandytka and their mighty [netherite sword]",
-    "[05:23] <josiprotec> !kit survival} ",
-    "[05:23] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[05:23] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:23] <josiprotec> !kit survival ",
     "[05:23] [8b8t] >> Teleporting to home 0...",
     "[05:23] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +93,15 @@
     "[05:24] To Tokizumi: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[05:24] [8b8t] >> Request sent to Tokizumi",
     "[05:24] [8b8t] >> Teleporting...",
-    "[05:24] <LukeGodOfPotatos> i hate niggers "
+    "[05:24] <LukeGodOfPotatos> i hate niggers ",
+    "[05:24] [8b8t] >> Home 2 was not found",
+    "[05:24] <ckrikoo> !kit tool ",
+    "[05:24] To ckrikoo: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[05:24] [8b8t] >> The command /seed is not allowed",
+    "[05:24] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[05:25] <ckrikoo> !kit Tools ",
+    "[05:25] [8b8t] >> Teleporting to home 0...",
+    "[05:25] [8b8t] >> Teleporting to home 8..."
   ],
   "userStats": {
     "323435634": 1,
@@ -666,7 +666,7 @@
     "seasboy12": 1,
     "josiprotec": 3,
     "bgmh9963_": 1,
-    "ckrikoo": 4,
+    "ckrikoo": 5,
     "Tikoyito": 1
   },
   "kitStats": {
@@ -674,7 +674,7 @@
     "survival": 1003,
     "pvp": 1263,
     "dupe": 247,
-    "tools": 303,
+    "tools": 304,
     "stash": 140,
     "raid": 170,
     "wood": 71,
