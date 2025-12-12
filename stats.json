@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:33:37 13/12/2025",
+  "lastUpdated": "03:34:01 13/12/2025",
   "totalKits": 64127,
   "todayKits": 105,
-  "onlineCount": 55,
+  "onlineCount": 57,
   "peakPlayers": 57,
-  "tps": "18.0",
+  "tps": "19.0",
   "ping": 229,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1218
+      "count": 1219
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:32] <NicoWuh> !kit raid ",
-    "[03:32] To NicoWuh: You're on cooldown, try again in 35 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[03:32] <Hamsti_Gamer2013> !kit toolbox ",
-    "[03:32] [8b8t] >> Teleporting to home 0...",
-    "[03:32] [8b8t] >> Teleporting to home 5...",
-    "[03:32] To Hamsti_Gamer2013: Your kit (toolbox) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[03:32] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[03:32] To Hamsti_Gamer2013:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
     "[03:32] [BOT] <0_HienBot> What's up, LuNavella36? ",
     "[03:32] <kavunadam2> !kit highway ",
     "[03:32] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +93,15 @@
     "[03:33] To NicoWuh: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[03:33] [8b8t] >> Request sent to NicoWuh",
     "[03:33] [8b8t] >> Teleporting...",
-    "[03:33] ghostCOD1st got blown up by an End Crystal"
+    "[03:33] ghostCOD1st got blown up by an End Crystal",
+    "[03:33] [8b8t] >> Home 2 was not found",
+    "[03:33] [8b8t] >> The command /seed is not allowed",
+    "[03:33] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[03:33] <Albiza> !kit pvp ",
+    "[03:33] [8b8t] >> Teleporting to home 0...",
+    "[03:33] [8b8t] >> Teleporting to home 1...",
+    "[03:33] To Albiza: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:34] To Albiza: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "323435634": 1,
@@ -651,12 +651,13 @@
     "cambul": 1,
     "tilinoxd201105": 4,
     "koperm": 1,
-    "JesusGamer0255": 1
+    "JesusGamer0255": 1,
+    "Albiza": 1
   },
   "kitStats": {
     "build": 238,
     "survival": 981,
-    "pvp": 1218,
+    "pvp": 1219,
     "dupe": 238,
     "tools": 296,
     "stash": 137,
