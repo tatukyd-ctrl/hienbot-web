@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:39:11 12/12/2025",
+  "lastUpdated": "18:39:41 12/12/2025",
   "totalKits": 63786,
   "todayKits": 320,
   "onlineCount": 13,
   "peakPlayers": 45,
-  "tps": "16.0",
-  "ping": 385,
+  "tps": "20.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:38] [8b8t] >> Request sent to S1mple_",
-    "[18:38] <.zero154531> ? ",
-    "[18:38] [8b8t] >> Teleporting...",
-    "[18:38] [8b8t] >> The command /seed is not allowed",
-    "[18:38] 0_HienBot was slain by S1mple_ using [Sub to @ongchaumeme]",
-    "[18:38] <GemitoY7166> !kit tools ",
-    "[18:38] [8b8t] >> Teleporting to home 0...",
-    "[18:38] [8b8t] >> Teleporting to home 8...",
     "[18:38] To GemitoY7166: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[18:38] To GemitoY7166: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[18:38] [BOT] <0_HienBot> Hey S1mple_! ",
@@ -101,7 +93,15 @@
     "[18:39] [8b8t] >> abir_playz99 wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
     "[18:39] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
     "[18:39] [8b8t] >> The command /seed is not allowed",
-    "[18:39] .zero154531 thought they could fly... they couldn't"
+    "[18:39] .zero154531 thought they could fly... they couldn't",
+    "[18:39] <Thomasfriend> !kit illegals ",
+    "[18:39] To Thomasfriend: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[18:39] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[18:39] <Thomasfriend> !kit illegal ",
+    "[18:39] To Thomasfriend: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[18:39] <Thomasfriend> !kit armortrims ",
+    "[18:39] [8b8t] >> Teleporting to home 0...",
+    "[18:39] [8b8t] >> Teleporting to home 8..."
   ],
   "userStats": {
     "323435634": 1,
@@ -299,7 +299,7 @@
     "DaFuqBoomTaken": 1,
     "Xoladliac": 5,
     "TaupeKibbles354": 6,
-    "Thomasfriend": 6,
+    "Thomasfriend": 7,
     "SHIVARAJGAME": 3,
     "perezemiliano": 1,
     "chimtocackhung": 1,
@@ -635,7 +635,7 @@
     "shulker": 75,
     "terracotta": 4,
     "end": 49,
-    "armortrims": 54,
+    "armortrims": 55,
     "highway": 54,
     "ocean": 6,
     "concrete": 48,
