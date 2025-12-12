@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:12:10 12/12/2025",
+  "lastUpdated": "18:12:40 12/12/2025",
   "totalKits": 63772,
   "todayKits": 306,
-  "onlineCount": 16,
+  "onlineCount": 15,
   "peakPlayers": 45,
-  "tps": "19.0",
-  "ping": 229,
+  "tps": "20.0",
+  "ping": 228,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 865
+      "count": 866
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:08] Ashwinnnegi was rekt by janhackerV and their mighty [end crystal]",
-    "[18:08] <Ashwinnnegi> $kit pvp ",
-    "[18:08] [8b8t] >> Teleporting to home 0...",
-    "[18:08] [8b8t] >> Teleporting to home 1...",
-    "[18:09] To Ashwinnnegi: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[18:09] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 ",
-    "[18:09] To Ashwinnnegi: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[18:09] [8b8t] >> Request sent to Ashwinnnegi",
-    "[18:09] [8b8t] >> Teleporting...",
-    "[18:09] [8b8t] >> Home 2 was not found",
     "[18:09] [8b8t] >> The command /seed is not allowed",
     "[18:09] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
     "[18:10] <sk_gaming_dd> DeoDevil ",
@@ -101,7 +91,17 @@
     "[18:11] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[18:11] <liqi1229> !kit ",
     "[18:11] To liqi1229: Hello liqi1229!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[18:12] [BOT] <0_HienBot> Hate those who destroy Hien2309's base "
+    "[18:12] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[18:12] <liqi1229> !kit Survival ",
+    "[18:12] [8b8t] >> Teleporting to home 0...",
+    "[18:12] [8b8t] >> Teleporting to home 1...",
+    "[18:12] To liqi1229: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:12] [8b8t] >> Could not find player liqi1229",
+    "[18:12] [8b8t] >> Player liqi1229 is not online",
+    "[18:12] janhackerV was destroyed by Ashwinnnegi",
+    "[18:12] [BOT] <0_HienBot> Do !discord ",
+    "[18:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:12] <sk_gaming_dd> stop "
   ],
   "userStats": {
     "323435634": 1,
@@ -610,11 +610,12 @@
     "skyhaiff1": 1,
     "test_P_P": 1,
     "Ashwinnnegi": 6,
-    "janhackerV": 1
+    "janhackerV": 1,
+    "liqi1229": 1
   },
   "kitStats": {
     "build": 205,
-    "survival": 865,
+    "survival": 866,
     "pvp": 1136,
     "dupe": 218,
     "tools": 271,
