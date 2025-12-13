@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:46:07 13/12/2025",
-  "totalKits": 64690,
-  "todayKits": 668,
-  "onlineCount": 36,
+  "lastUpdated": "19:46:34 13/12/2025",
+  "totalKits": 64691,
+  "todayKits": 669,
+  "onlineCount": 37,
   "peakPlayers": 64,
-  "tps": "15.0",
-  "ping": 265,
+  "tps": "16.0",
+  "ping": 261,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1421
+      "count": 1422
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:44] <oreo_> !kit illegal ",
-    "[19:44] To oreo_: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[19:44] [8b8t] >> Please do not spam.",
-    "[19:44] <GodMahfuz> !kit list ",
-    "[19:44] To GodMahfuz: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[19:45] <oreo_> !kit survival ",
-    "[19:45] [8b8t] >> Teleporting to home 0...",
-    "[19:45] [8b8t] >> Teleporting to home 1...",
-    "[19:45] To oreo_: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:45] To oreo_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:45] <GodMahfuz> !kit pvp ",
     "[19:45] [8b8t] >> Request sent to oreo_",
     "[19:45] [8b8t] >> Teleporting...",
@@ -101,7 +91,17 @@
     "[19:45] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
     "[19:45] [8b8t] >> Teleporting...",
     "[19:45] [8b8t] >> Home 2 was not found",
-    "[19:46] [8b8t] >> The command /seed is not allowed"
+    "[19:46] [8b8t] >> The command /seed is not allowed",
+    "[19:46] [BOT] <0_HienBot> The server's seed is : None ",
+    "[19:46] <RiseCPvP> !kit pvp ",
+    "[19:46] [8b8t] >> Teleporting to home 0...",
+    "[19:46] [8b8t] >> Teleporting to home 1...",
+    "[19:46] To RiseCPvP: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:46] <oreo_> *help ",
+    "[19:46] To RiseCPvP: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:46] [8b8t] >> Request sent to RiseCPvP",
+    "[19:46] [8b8t] >> Teleporting...",
+    "[19:46] windowsmediacen decided to test gravity and lost"
   ],
   "userStats": {
     "323435634": 1,
@@ -121,7 +121,7 @@
     "Hien2309": 45,
     "m9anx": 61,
     "xsNerox": 2,
-    "RiseCPvP": 52,
+    "RiseCPvP": 53,
     "dylan20392334": 4,
     ".Fofolowwy": 1,
     "visfocri": 9,
@@ -723,7 +723,7 @@
   "kitStats": {
     "build": 282,
     "survival": 1100,
-    "pvp": 1421,
+    "pvp": 1422,
     "dupe": 268,
     "tools": 343,
     "stash": 157,
