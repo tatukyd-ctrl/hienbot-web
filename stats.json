@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:36:12 14/12/2025",
+  "lastUpdated": "03:36:42 14/12/2025",
   "totalKits": 65069,
   "todayKits": 29,
-  "onlineCount": 57,
+  "onlineCount": 56,
   "peakPlayers": 61,
   "tps": "17.0",
-  "ping": 256,
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1561
+      "count": 1562
     },
     {
       "name": "survival",
@@ -72,23 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:35] [8b8t] >> Request sent to AnasCaan",
-    "[03:35] [8b8t] >> Teleporting...",
-    "[03:35] <elpewpew> weeee lo q te ijo ",
-    "[03:35] [8b8t] >> Home 2 was not found",
-    "[03:35] [8b8t] >> The command /seed is not allowed",
-    "[03:35] <MikelEtx> !kit pvp ",
-    "[03:35] [8b8t] >> Teleporting to home 0...",
-    "[03:35] [8b8t] >> Teleporting to home 1...",
-    "[03:35] To MikelEtx: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[03:35] [BOT] <0_HienBot> Welcome to 8b8t, MasterWo! ",
-    "[03:35] To MikelEtx: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[03:35] <Rokoo511> how have dupe machini ",
-    "[03:35] [8b8t] >> Request sent to MikelEtx",
-    "[03:35] [8b8t] >> Teleporting...",
-    "[03:35] <s7bas> !kit pvp ",
-    "[03:35] To s7bas: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[03:35] sapillin3 has completed the challenge [Cover Me in Debris]",
     "[03:35] [8b8t] >> The command /seed is not allowed",
     "[03:35] sapillin3 has reached the goal [Sky's the Limit]",
     "[03:35] <AnasCaan> !KİT ",
@@ -101,7 +84,24 @@
     "[03:36] To lolipopbey: Hello lolipopbey!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[03:36] To AnasCaan: You're on cooldown, try again in 49 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[03:36] [BOT] <0_HienBot> Hola jamalmasqueicu! ",
-    "[03:36] sapillin3 has reached the goal [Postmortal]"
+    "[03:36] sapillin3 has reached the goal [Postmortal]",
+    "[03:36] sapillin3 has made the advancement [Monster Hunter]",
+    "[03:36] <lolipopbey> !kit pvp ",
+    "[03:36] [8b8t] >> Teleporting to home 0...",
+    "[03:36] [8b8t] >> Teleporting to home 1...",
+    "[03:36] To lolipopbey: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:36] <GonzaloS2010> tiene cosas? ",
+    "[03:36] To lolipopbey: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[03:36] [8b8t] >> Request sent to lolipopbey",
+    "[03:36] <MasterWo> oe hay q hacer publicidad ",
+    "[03:36] <MasterWo> ya estamos bien ",
+    "[03:36] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[03:36] <Alejandro_808> q ",
+    "[03:36] ksvxx thought a Zombie was friendly",
+    "[03:36] <Rokoo511> !kit tnt ",
+    "[03:36] To Rokoo511: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[03:36] [8b8t] >> lolipopbey has denied your request",
+    "[03:36] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
   ],
   "userStats": {
     "323435634": 1,
@@ -755,12 +755,13 @@
     "Ceapau60": 2,
     "Cyraxzx": 1,
     "AnasCaan": 3,
-    "sapillin3": 1
+    "sapillin3": 1,
+    "lolipopbey": 1
   },
   "kitStats": {
     "build": 307,
     "survival": 1151,
-    "pvp": 1561,
+    "pvp": 1562,
     "dupe": 297,
     "tools": 371,
     "stash": 168,
