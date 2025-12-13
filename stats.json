@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:47:07 13/12/2025",
+  "lastUpdated": "19:47:37 13/12/2025",
   "totalKits": 64692,
   "todayKits": 670,
-  "onlineCount": 38,
+  "onlineCount": 35,
   "peakPlayers": 64,
-  "tps": "17.0",
-  "ping": 281,
+  "tps": "12.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1422
+      "count": 1423
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:45] [8b8t] >> Request sent to Bakivn_bot",
-    "[19:45] Zpelucon has made the advancement [The Parrots and the Bats]",
-    "[19:45] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
-    "[19:45] [8b8t] >> Teleporting...",
-    "[19:45] [8b8t] >> Home 2 was not found",
-    "[19:46] [8b8t] >> The command /seed is not allowed",
-    "[19:46] [BOT] <0_HienBot> The server's seed is : None ",
-    "[19:46] <RiseCPvP> !kit pvp ",
-    "[19:46] [8b8t] >> Teleporting to home 0...",
     "[19:46] [8b8t] >> Teleporting to home 1...",
     "[19:46] To RiseCPvP: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[19:46] <oreo_> *help ",
@@ -101,7 +92,16 @@
     "[19:46] [8b8t] >> Teleporting...",
     "[19:46] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[19:47] [8b8t] >> Home 2 was not found",
-    "[19:47] [8b8t] >> The command /seed is not allowed"
+    "[19:47] [8b8t] >> The command /seed is not allowed",
+    "[19:47] <GodMahfuz> !kit pvp ",
+    "[19:47] [8b8t] >> Teleporting to home 0...",
+    "[19:47] [8b8t] >> Teleporting to home 1...",
+    "[19:47] To GodMahfuz: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:47] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
+    "[19:47] [8b8t] >> Could not find player GodMahfuz",
+    "[19:47] [8b8t] >> Player GodMahfuz is not online",
+    "[19:47] SteyrHS has reached the goal [Sky's the Limit]",
+    "[19:47] SteyrHS has completed the challenge [Cover Me in Debris]"
   ],
   "userStats": {
     "323435634": 1,
@@ -718,12 +718,13 @@
     "TKoyasu": 2,
     "megakiyaiscool": 1,
     "polpaccio": 2,
-    "hosam545": 1
+    "hosam545": 1,
+    "GodMahfuz": 1
   },
   "kitStats": {
     "build": 282,
     "survival": 1101,
-    "pvp": 1422,
+    "pvp": 1423,
     "dupe": 268,
     "tools": 343,
     "stash": 157,
