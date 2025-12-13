@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:02:05 13/12/2025",
-  "totalKits": 64538,
-  "todayKits": 516,
-  "onlineCount": 25,
+  "lastUpdated": "16:02:19 13/12/2025",
+  "totalKits": 64539,
+  "todayKits": 517,
+  "onlineCount": 27,
   "peakPlayers": 64,
-  "tps": "20.0",
-  "ping": 260,
+  "tps": "16.0",
+  "ping": 261,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 269
+      "count": 270
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:59] [8b8t] >> Request sent to Mrtax11",
-    "[15:59] <Yamaniko> !kit ",
-    "[15:59] To Yamaniko: Hello Yamaniko!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[15:59] [8b8t] >> Teleporting...",
-    "[15:59] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[15:59] Pavlegre has reached the goal [Sky's the Limit]",
-    "[15:59] [8b8t] >> Home 2 was not found",
-    "[15:59] <Yamaniko> !kit food ",
-    "[15:59] [8b8t] >> Teleporting to home 0...",
-    "[15:59] [8b8t] >> Teleporting to home 5...",
     "[15:59] To Yamaniko: Your kit (food) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[15:59] [8b8t] >> The command /seed is not allowed",
     "[15:59] To Yamaniko: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +91,17 @@
     "[16:01] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[16:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[16:02] [BOT] <0_HienBot> The server's seed is : None ",
-    "[16:02] EleYonkesitoUwU forgot to bring their parachute"
+    "[16:02] EleYonkesitoUwU forgot to bring their parachute",
+    "[16:02] <Mrtax11> !kit build ",
+    "[16:02] [8b8t] >> Teleporting to home 0...",
+    "[16:02] [8b8t] >> Teleporting to home 3...",
+    "[16:02] To Mrtax11: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:02] <Yamaniko> !kit armortrims ",
+    "[16:02] To Yamaniko: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[16:02] To Mrtax11: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:02] [8b8t] >> Request sent to Mrtax11",
+    "[16:02] [8b8t] >> Teleporting...",
+    "[16:02] 0_HienBot was EZ clapped by Mrtax11 using [netherite sword]"
   ],
   "userStats": {
     "323435634": 1,
@@ -703,12 +703,12 @@
     "Devil____69": 3,
     "Yamaniko": 12,
     "ecrinsu": 3,
-    "Mrtax11": 4,
+    "Mrtax11": 5,
     "Pavlegre": 2,
     "david_ROHS": 2
   },
   "kitStats": {
-    "build": 269,
+    "build": 270,
     "survival": 1070,
     "pvp": 1367,
     "dupe": 261,
