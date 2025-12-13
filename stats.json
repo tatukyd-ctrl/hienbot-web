@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:49:32 13/12/2025",
+  "lastUpdated": "09:50:02 13/12/2025",
   "totalKits": 64343,
   "todayKits": 321,
-  "onlineCount": 36,
+  "onlineCount": 38,
   "peakPlayers": 64,
-  "tps": "19.0",
+  "tps": "18.0",
   "ping": 226,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1027
+      "count": 1028
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:48] <sk_gaming_dd> detdeltde ",
-    "[09:48] Jvpro17 Whispers: !bestping",
-    "[09:48] <NicoWuh> make another ",
-    "[09:48] Jvpro17 Whispers: !bestping",
-    "[09:48] To Jvpro17: Jvpro17 with 0 ms.",
-    "[09:48] [8b8t] >> Could not find player Jvpro17",
-    "[09:48] <sk_gaming_dd> request sent ",
     "[09:48] <sk_gaming_dd> hotspot ",
     "[09:48] <NicoWuh> make another hotspot ",
     "[09:48] <NicoWuh> slaves ",
@@ -101,7 +94,14 @@
     "[09:49] To xLayzn77: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[09:49] [Mini] <CatGirlKylie> logged lmfao ",
     "[09:49] [Ultra] <14mate> LMFAOOOO ",
-    "[09:49] Jomape has made the advancement [Hot Stuff]"
+    "[09:49] Jomape has made the advancement [Hot Stuff]",
+    "[09:49] <TKoyasu> more like scared ",
+    "[09:49] [Mini] <CatGirlKylie> logged ",
+    "[09:49] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[09:49] <xLayzn77> !kit survival ",
+    "[09:49] [8b8t] >> Teleporting to home 0...",
+    "[09:50] [8b8t] >> Teleporting to home 1...",
+    "[09:50] To xLayzn77: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "323435634": 1,
@@ -679,11 +679,12 @@
     "HollowNightz": 1,
     "cliclo": 1,
     "kiotima2023": 1,
-    "palomitoos": 2
+    "palomitoos": 2,
+    "xLayzn77": 1
   },
   "kitStats": {
     "build": 249,
-    "survival": 1027,
+    "survival": 1028,
     "pvp": 1309,
     "dupe": 250,
     "tools": 312,
