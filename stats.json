@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:32:36 13/12/2025",
+  "lastUpdated": "17:33:06 13/12/2025",
   "totalKits": 64586,
   "todayKits": 564,
-  "onlineCount": 27,
+  "onlineCount": 25,
   "peakPlayers": 64,
-  "tps": "17.0",
-  "ping": 275,
+  "tps": "19.0",
+  "ping": 267,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1373
+      "count": 1374
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:30] [8b8t] >> Teleporting to home 1...",
-    "[17:30] To Bombockatjohny: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:30] To Bombockatjohny: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:30] [8b8t] >> Request sent to Bombockatjohny",
-    "[17:30] [8b8t] >> Teleporting...",
-    "[17:30] 0_HienBot forgot to stop, drop, and roll",
-    "[17:30] oreo_ has been killed by OPMARZAN12",
-    "[17:30] [8b8t] >> Home 2 was not found",
     "[17:31] [8b8t] >> The command /seed is not allowed",
     "[17:31] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[17:31] <Oriol112233> alguien ma da kits? ",
@@ -101,7 +93,15 @@
     "[17:32] [8b8t] >> The command /seed is not allowed",
     "[17:32] <BakiVN_Mc> !kit tools ",
     "[17:32] To BakiVN_Mc: You're on cooldown, try again in 75 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[17:32] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 "
+    "[17:32] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 ",
+    "[17:32] oreo_ got a deadly lesson from the Wither",
+    "[17:33] <oreo_> !kit pvp ",
+    "[17:33] [8b8t] >> Teleporting to home 0...",
+    "[17:33] [8b8t] >> Teleporting to home 1...",
+    "[17:33] To oreo_: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:33] To oreo_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:33] [8b8t] >> Request sent to oreo_",
+    "[17:33] [BOT] <0_HienBot> Use /kill to kill yourself! "
   ],
   "userStats": {
     "323435634": 1,
@@ -709,13 +709,13 @@
     "ggdggar": 2,
     "xD_FAIZAN": 4,
     "Bossnigel": 1,
-    "oreo_": 1,
+    "oreo_": 2,
     "BakiVN_Mc": 1
   },
   "kitStats": {
     "build": 274,
     "survival": 1088,
-    "pvp": 1373,
+    "pvp": 1374,
     "dupe": 261,
     "tools": 338,
     "stash": 154,
