@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:33:15 14/12/2025",
-  "totalKits": 64953,
-  "todayKits": 74,
-  "onlineCount": 45,
+  "lastUpdated": "01:33:34 14/12/2025",
+  "totalKits": 64954,
+  "todayKits": 75,
+  "onlineCount": 46,
   "peakPlayers": 50,
-  "tps": "16.0",
+  "tps": "18.0",
   "ping": 270,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1518
+      "count": 1519
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:32] <Triper01> !kit survival ",
-    "[01:32] [8b8t] >> Teleporting to home 0...",
-    "[01:32] [8b8t] >> Teleporting to home 1...",
-    "[01:32] seatrail413 has made the advancement [Ice Bucket Challenge]",
-    "[01:32] To Triper01: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[01:32] To Triper01: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[01:32] [8b8t] >> Request sent to Triper01",
-    "[01:32] <Tokizumi> armaduras de las buenas ",
-    "[01:32] [8b8t] >> Teleporting...",
-    "[01:32] [BOT] <0_HienBot> Hello Kurtz! ",
     "[01:32] Yuki_Viktor has made the advancement [Monster Hunter]",
     "[01:32] seatrail413 tried to outswim the water",
     "[01:32] <botchaosonix666> dupe ",
@@ -101,7 +91,17 @@
     "[01:32] [8b8t] >> Teleporting...",
     "[01:32] <JULIANSPR> quien pvp ",
     "[01:33] <VOLTAIKKKKK> yo ",
-    "[01:33] [8b8t] >> The command /seed is not allowed"
+    "[01:33] [8b8t] >> The command /seed is not allowed",
+    "[01:33] <BWMM3> !kit pvp ",
+    "[01:33] [8b8t] >> Teleporting to home 0...",
+    "[01:33] [8b8t] >> Teleporting to home 1...",
+    "[01:33] To BWMM3: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:33] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[01:33] To BWMM3: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[01:33] [8b8t] >> Request sent to BWMM3",
+    "[01:33] <VOLTAIKKKKK> acepta ",
+    "[01:33] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[01:33] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -743,12 +743,13 @@
     "Markl0co": 6,
     "Yuki_Viktor": 4,
     "STEPWAY_45": 2,
-    "Wemmbooo____": 1
+    "Wemmbooo____": 1,
+    "BWMM3": 1
   },
   "kitStats": {
     "build": 297,
     "survival": 1137,
-    "pvp": 1518,
+    "pvp": 1519,
     "dupe": 283,
     "tools": 361,
     "stash": 164,
