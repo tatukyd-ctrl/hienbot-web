@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:38:17 13/12/2025",
+  "lastUpdated": "11:38:33 13/12/2025",
   "totalKits": 64411,
   "todayKits": 389,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 64,
-  "tps": "9.0",
+  "tps": "16.0",
   "ping": 255,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1335
+      "count": 1336
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:37] <puciodeidad> !kit +18 ",
-    "[11:37] <hxrus> o femboy ",
-    "[11:37] .M_INMORTAL_H decided to sleep with the fishes",
-    "[11:37] <ElxDave_MSc> quien team ",
-    "[11:37] <KROKODIL_542> como? ",
-    "[11:37] <hxrus> que diferencia hay+ ",
-    "[11:37] <firepack789> ajaja ",
-    "[11:37] <puciodeidad> !kit dupe ",
-    "[11:37] [8b8t] >> Teleporting to home 0...",
-    "[11:37] [8b8t] >> Teleporting to home 8...",
-    "[11:37] To puciodeidad: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[11:37] <KROKODIL_542> !kit ",
-    "[11:38] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
     "[11:38] [8b8t] >> Your login session has been continued.",
     "[11:38] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[11:38] ",
@@ -101,7 +88,20 @@
     "[11:38] [8b8t] >> Request sent to puciodeidad",
     "[11:38] [8b8t] >> The command /seed is not allowed",
     "[11:38] [8b8t] >> Teleporting...",
-    "[11:38] To puciodeidad: Try again"
+    "[11:38] To puciodeidad: Try again",
+    "[11:38] <hxrus> totem ",
+    "[11:38] 0_HienBot has been put down by puciodeidad",
+    "[11:38] [8b8t] >> Home 2 was not found",
+    "[11:38] <hxrus> no tienes ",
+    "[11:38] [8b8t] >> The command /seed is not allowed",
+    "[11:38] [8b8t] >> The command /seed is not allowed",
+    "[11:38] <.M_INMORTAL_H> !kit pvp ",
+    "[11:38] [8b8t] >> Teleporting to home 0...",
+    "[11:38] [8b8t] >> Teleporting to home 1...",
+    "[11:38] To .M_INMORTAL_H: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[11:38] To .M_INMORTAL_H: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[11:38] [8b8t] >> Request sent to .M_INMORTAL_H",
+    "[11:38] [BOT] <0_HienBot> What's up, thiagochadpapu? "
   ],
   "userStats": {
     "323435634": 1,
@@ -690,12 +690,13 @@
     "puciodeidad": 4,
     "firepack789": 6,
     "Josue_caleb45": 1,
-    "thiagochadpapu": 2
+    "thiagochadpapu": 2,
+    ".M_INMORTAL_H": 1
   },
   "kitStats": {
     "build": 250,
     "survival": 1036,
-    "pvp": 1335,
+    "pvp": 1336,
     "dupe": 258,
     "tools": 321,
     "stash": 144,
