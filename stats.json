@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:21:25 13/12/2025",
+  "lastUpdated": "12:21:33 13/12/2025",
   "totalKits": 64437,
   "todayKits": 415,
   "onlineCount": 28,
   "peakPlayers": 64,
   "tps": "12.0",
-  "ping": 0,
+  "ping": 385,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1048
+      "count": 1049
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:21]  Perform the command /email associate to register",
-    "[12:21]  your email. By doing so, you",
-    "[12:21]  decrease the chance of being hacked.",
-    "[12:21] ",
-    "[12:21]   [Confirm read]",
-    "[12:21] ",
-    "[12:21] [8b8t] >> Teleporting to home 0...",
-    "[12:21] To thiagochadpapu: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[12:21] [8b8t] >> Teleporting to home 1...",
     "[12:21] To thiagochadpapu: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[12:21] [8b8t] >> Request sent to thiagochadpapu",
     "[12:21] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +92,16 @@
     "[12:21] To hxrus: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[12:21] [8b8t] >> The command /seed is not allowed",
     "[12:21] [8b8t] >> Request sent to hxrus",
-    "[12:21] [8b8t] >> Teleporting..."
+    "[12:21] [8b8t] >> Teleporting...",
+    "[12:21] <KROKODIL_542> !kit survival ",
+    "[12:21] [8b8t] >> Teleporting to home 0...",
+    "[12:21] [8b8t] >> Home 2 was not found",
+    "[12:21] [8b8t] >> Teleporting to home 1...",
+    "[12:21] To KROKODIL_542: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:21] [BOT] <0_HienBot> Vietnam on top!! ",
+    "[12:21] To KROKODIL_542: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[12:21] [8b8t] >> The command /seed is not allowed",
+    "[12:21] [8b8t] >> Request sent to KROKODIL_542"
   ],
   "userStats": {
     "323435634": 1,
@@ -693,11 +693,12 @@
     "thiagochadpapu": 4,
     ".M_INMORTAL_H": 4,
     "Mosku1210": 3,
-    "Pekka132143": 1
+    "Pekka132143": 1,
+    "KROKODIL_542": 1
   },
   "kitStats": {
     "build": 252,
-    "survival": 1048,
+    "survival": 1049,
     "pvp": 1345,
     "dupe": 260,
     "tools": 323,
