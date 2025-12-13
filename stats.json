@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:35:37 13/12/2025",
+  "lastUpdated": "19:36:07 13/12/2025",
   "totalKits": 64682,
   "todayKits": 660,
   "onlineCount": 31,
   "peakPlayers": 64,
-  "tps": "18.0",
-  "ping": 264,
+  "tps": "16.0",
+  "ping": 261,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:33] [8b8t] >> Teleporting to home 0...",
-    "[19:33] [8b8t] >> Teleporting to home 1...",
-    "[19:33] To Bakivn_bot: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:33] <skyhaiff1> who wanna pvp ",
-    "[19:33] To Bakivn_bot: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:33] [8b8t] >> Request sent to Bakivn_bot",
-    "[19:33] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[19:33] [8b8t] >> Teleporting...",
     "[19:33] <Abanoub67> !kit ",
     "[19:33] To Abanoub67: Hello Abanoub67!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[19:35] MonkeBot got shot by a skeleton",
     "[19:35] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[19:35] zhmyhura thought they could make it to oxygen in time",
-    "[19:35] MonkeBot decided to sleep with the fishes"
+    "[19:35] MonkeBot decided to sleep with the fishes",
+    "[19:35] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[19:35] <Poptobaco> &kit ",
+    "[19:35] To Poptobaco: Hello Poptobaco!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[19:36] <Poptobaco> &kit end ",
+    "[19:36] [8b8t] >> Teleporting to home 0...",
+    "[19:36] [8b8t] >> Teleporting to home 6...",
+    "[19:36] To Poptobaco: Your kit (end) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "323435634": 1,
@@ -176,7 +176,7 @@
     "person1100nc": 5,
     "Sniptoes": 6,
     "Pia01_Vn": 15,
-    "Poptobaco": 2,
+    "Poptobaco": 3,
     "milomilom": 8,
     "GreetedWinter81": 7,
     "alisium44": 32,
@@ -739,7 +739,7 @@
     "quartz": 34,
     "shulker": 99,
     "terracotta": 4,
-    "end": 66,
+    "end": 67,
     "armortrims": 65,
     "highway": 69,
     "ocean": 6,
