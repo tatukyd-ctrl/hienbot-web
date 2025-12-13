@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:33:28 13/12/2025",
+  "lastUpdated": "17:33:36 13/12/2025",
   "totalKits": 64587,
   "todayKits": 565,
   "onlineCount": 28,
   "peakPlayers": 64,
-  "tps": "18.0",
+  "tps": "15.0",
   "ping": 271,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1374
+      "count": 1375
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:32] [8b8t] >> Teleporting to home 0...",
-    "[17:32] [8b8t] >> Teleporting to home 5...",
-    "[17:32] To BakiVN_Mc: Your kit (toolbox) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:32] To BakiVN_Mc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:32] [8b8t] >> Request sent to BakiVN_Mc",
-    "[17:32] j.abad was killed by a Warden... I mean, what did you expect?",
     "[17:32] [8b8t] >> Teleporting...",
     "[17:32] 0_HienBot was pwned by BakiVN_Mc wielding [netherite sword]",
     "[17:32] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +95,13 @@
     "[17:33] [8b8t] >> Teleporting...",
     "[17:33] <BakiVN_Mc> !kit tools ",
     "[17:33] To BakiVN_Mc: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[17:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[17:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[17:33] [8b8t] >> Home 2 was not found",
+    "[17:33] <Nion34> *kit pvp ",
+    "[17:33] [8b8t] >> Teleporting to home 0...",
+    "[17:33] [8b8t] >> Teleporting to home 1...",
+    "[17:33] To Nion34: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:33] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "323435634": 1,
@@ -710,12 +710,13 @@
     "xD_FAIZAN": 4,
     "Bossnigel": 1,
     "oreo_": 2,
-    "BakiVN_Mc": 1
+    "BakiVN_Mc": 1,
+    "Nion34": 1
   },
   "kitStats": {
     "build": 274,
     "survival": 1088,
-    "pvp": 1374,
+    "pvp": 1375,
     "dupe": 261,
     "tools": 338,
     "stash": 154,
