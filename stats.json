@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:14:37 13/12/2025",
+  "lastUpdated": "21:14:53 13/12/2025",
   "totalKits": 64775,
   "todayKits": 2,
   "onlineCount": 44,
   "peakPlayers": 44,
-  "tps": "13.0",
-  "ping": 261,
+  "tps": "17.0",
+  "ping": 276,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1110
+      "count": 1111
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:13] ",
-    "[21:13]   [Confirm read]",
-    "[21:13] ",
-    "[21:13] [8b8t] >> The command /seed is not allowed",
-    "[21:13] <Bossnigel> !kit ",
-    "[21:13] To Bossnigel: Hello Bossnigel!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[21:13] <Abanoub> *help ",
-    "[21:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[21:14] [BOT] <0_HienBot> July 10, 2025, the Avolution team built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[21:14] <Mrtax11> !kit survival ",
     "[21:14] [8b8t] >> Teleporting to home 0...",
     "[21:14] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +92,16 @@
     "[21:14] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 ",
     "[21:14] [8b8t] >> Request sent to TylerDurden098",
     "[21:14] [8b8t] >> Request sent to BIGSWAGG",
-    "[21:14] [8b8t] >> Teleporting..."
+    "[21:14] [8b8t] >> Teleporting...",
+    "[21:14] <Saad2001_bot> !kit build ",
+    "[21:14] To Saad2001_bot: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[21:14] [8b8t] >> Home 2 was not found",
+    "[21:14] [8b8t] >> Teleporting...",
+    "[21:14] [8b8t] >> The command /seed is not allowed",
+    "[21:14] <0099martinb> !kit survival ",
+    "[21:14] [8b8t] >> Teleporting to home 0...",
+    "[21:14] [8b8t] >> Teleporting to home 1...",
+    "[21:14] To 0099martinb: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "323435634": 1,
@@ -725,11 +725,12 @@
     "turboh14": 1,
     "thacklo": 1,
     "Saad2001helper_": 1,
-    "Saad2001_bot": 2
+    "Saad2001_bot": 2,
+    "0099martinb": 1
   },
   "kitStats": {
     "build": 289,
-    "survival": 1110,
+    "survival": 1111,
     "pvp": 1456,
     "dupe": 273,
     "tools": 349,
