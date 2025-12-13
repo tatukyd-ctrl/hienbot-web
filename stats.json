@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:30:05 13/12/2025",
+  "lastUpdated": "20:30:13 13/12/2025",
   "totalKits": 64735,
   "todayKits": 23,
   "onlineCount": 35,
   "peakPlayers": 38,
-  "tps": "19.0",
+  "tps": "17.0",
   "ping": 264,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:28] [8b8t] >> Your login session has been continued.",
-    "[20:28] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[20:28] ",
-    "[20:28]  [8builders8tools]",
-    "[20:28]  Perform the command /email associate to register",
     "[20:28]  your email. By doing so, you",
     "[20:28]  decrease the chance of being hacked.",
     "[20:28] ",
@@ -101,7 +96,12 @@
     "[20:29] To david_ROHS: Your kit (shulker) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[20:30] To david_ROHS: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[20:30] [8b8t] >> Request sent to david_ROHS",
-    "[20:30] [8b8t] >> Teleporting..."
+    "[20:30] [8b8t] >> Teleporting...",
+    "[20:30] [8b8t] >> Home 2 was not found",
+    "[20:30] <turboh14> !kit shulker ",
+    "[20:30] [8b8t] >> Teleporting to home 0...",
+    "[20:30] [8b8t] >> Teleporting to home 7...",
+    "[20:30] To turboh14: Your kit (shulker) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "323435634": 1,
@@ -721,7 +721,8 @@
     "hosam545": 1,
     "GodMahfuz": 1,
     "_Lide_": 2,
-    "Saad2001gamer21": 2
+    "Saad2001gamer21": 2,
+    "turboh14": 1
   },
   "kitStats": {
     "build": 282,
@@ -740,7 +741,7 @@
     "redstone": 102,
     "toolbox": 130,
     "quartz": 34,
-    "shulker": 100,
+    "shulker": 101,
     "terracotta": 4,
     "end": 68,
     "armortrims": 65,
