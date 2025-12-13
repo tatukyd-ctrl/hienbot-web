@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:13:29 14/12/2025",
+  "lastUpdated": "01:13:45 14/12/2025",
   "totalKits": 64923,
   "todayKits": 44,
-  "onlineCount": 44,
+  "onlineCount": 43,
   "peakPlayers": 46,
-  "tps": "8.0",
-  "ping": 273,
+  "tps": "15.0",
+  "ping": 275,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1507
+      "count": 1508
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:12] MonkeBot got a deadly lesson from the Wither",
-    "[01:12] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[01:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:12] <itzrealluis> dude im stuck ",
-    "[01:12] [8b8t] >> Teleporting...",
-    "[01:12] [8b8t] >> Home 2 was not found",
-    "[01:12] <Carlos_Estrada> oigan  alguien tiene etiquetas? ",
-    "[01:12] [8b8t] >> The command /seed is not allowed",
-    "[01:12] <itzrealluis> someone pls help me ",
     "[01:12] [BOT] <0_HienBot> 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 𝙩𝙤 𝙜𝙚𝙩 f𝙧𝙚𝙚 𝙠𝙞𝙩 ",
     "[01:12] <Alesecoo12345789> jaja ",
     "[01:12] El_Uv has made the advancement [Stone Age]",
@@ -101,7 +92,16 @@
     "[01:13] [8b8t] >> Request sent to 8b8t_alt_2",
     "[01:13] Yuki_Viktor tried to outswim the water",
     "[01:13] [8b8t] >> Teleporting...",
-    "[01:13] 8b8t_alt_2 pulverized 0_HienBot using [🇩‌🇦‌🇷‌🇰‌'🇸‌ 🇸‌🇼‌🇴‌🇷‌🇩‌]"
+    "[01:13] 8b8t_alt_2 pulverized 0_HienBot using [🇩‌🇦‌🇷‌🇰‌'🇸‌ 🇸‌🇼‌🇴‌🇷‌🇩‌]",
+    "[01:13] <Carlos_Estrada> ES  QUE ESTOY EN LA 1.12.2 ",
+    "[01:13] [8b8t] >> The command /seed is not allowed",
+    "[01:13] <Carlos_Estrada> no tengo de ese kit creo ",
+    "[01:13] <STEPWAY_45> !kit pvp ",
+    "[01:13] [8b8t] >> Teleporting to home 0...",
+    "[01:13] [8b8t] >> Teleporting to home 1...",
+    "[01:13] To STEPWAY_45: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:13] To STEPWAY_45: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[01:13] [8b8t] >> Request sent to STEPWAY_45"
   ],
   "userStats": {
     "323435634": 1,
@@ -741,12 +741,13 @@
     "8b8t_alt_2": 16,
     "edoque13": 2,
     "Markl0co": 1,
-    "Yuki_Viktor": 1
+    "Yuki_Viktor": 1,
+    "STEPWAY_45": 1
   },
   "kitStats": {
     "build": 297,
     "survival": 1132,
-    "pvp": 1507,
+    "pvp": 1508,
     "dupe": 280,
     "tools": 357,
     "stash": 162,
