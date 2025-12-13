@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:17:53 13/12/2025",
-  "totalKits": 64778,
-  "todayKits": 5,
-  "onlineCount": 45,
+  "lastUpdated": "21:18:17 13/12/2025",
+  "totalKits": 64779,
+  "todayKits": 6,
+  "onlineCount": 43,
   "peakPlayers": 45,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "18.0",
+  "ping": 285,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1457
+      "count": 1458
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:16] [8b8t] >> The command /seed is not allowed",
-    "[21:16] [8b8t] >> Please do not spam.",
-    "[21:16] <LuNavella36> !kit raid ",
-    "[21:16] [8b8t] >> Teleporting to home 0...",
-    "[21:16] [8b8t] >> Teleporting to home 3...",
-    "[21:16] To LuNavella36: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[21:16] To LuNavella36: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[21:16] [8b8t] >> Request sent to LuNavella36",
-    "[21:16] BIGSWAGG forgot to bring their parachute",
     "[21:16] mark5455654 got his head blown off by the Wither",
     "[21:16] [8b8t] >> Teleporting...",
     "[21:16] [8b8t] >> Home 2 was not found",
@@ -101,7 +92,16 @@
     "[21:17]  decrease the chance of being hacked.",
     "[21:17] ",
     "[21:17]   [Confirm read]",
-    "[21:17] "
+    "[21:17] ",
+    "[21:17] [8b8t] >> The command /seed is not allowed",
+    "[21:17] KrispyDreams forgot to bring their parachute",
+    "[21:18] <BIGSWAGG> !kit pvp ",
+    "[21:18] [8b8t] >> Teleporting to home 0...",
+    "[21:18] [8b8t] >> Teleporting to home 1...",
+    "[21:18] To BIGSWAGG: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:18] To BIGSWAGG: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:18] [8b8t] >> Request sent to BIGSWAGG",
+    "[21:18] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -726,12 +726,13 @@
     "thacklo": 1,
     "Saad2001helper_": 1,
     "Saad2001_bot": 2,
-    "0099martinb": 1
+    "0099martinb": 1,
+    "BIGSWAGG": 1
   },
   "kitStats": {
     "build": 290,
     "survival": 1111,
-    "pvp": 1457,
+    "pvp": 1458,
     "dupe": 273,
     "tools": 349,
     "stash": 158,
