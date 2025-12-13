@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:54:02 14/12/2025",
+  "lastUpdated": "00:54:15 14/12/2025",
   "totalKits": 64905,
   "todayKits": 26,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 44,
-  "tps": "15.0",
+  "tps": "16.0",
   "ping": 276,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 356
+      "count": 357
     },
     {
       "name": "build",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:53] MRhunii has completed the challenge [Subspace Bubble]",
-    "[00:53] 8b8t_alt_2 Whispers: !kit mineral",
-    "[00:53] [8b8t] >> Teleporting to home 0...",
-    "[00:53] [8b8t] >> Teleporting to home 4...",
-    "[00:53] To 8b8t_alt_2: Your kit (mineral) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[00:53] To 8b8t_alt_2: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[00:53] [8b8t] >> Request sent to 8b8t_alt_2",
     "[00:53] [8b8t] >> Teleporting...",
     "[00:53] 0_HienBot was pwned by 8b8t_alt_2 wielding [🇩‌🇦‌🇷‌🇰‌'🇸‌ 🇸‌🇼‌🇴‌🇷‌🇩‌]",
@@ -101,7 +95,13 @@
     "[00:53] To Saad2001helper_: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[00:53] <Markl0co> !kit pvp ",
     "[00:53] [8b8t] >> Teleporting...",
-    "[00:53] Chat disabled in client options"
+    "[00:53] Chat disabled in client options",
+    "[00:54] [8b8t] >> Home 2 was not found",
+    "[00:54] [8b8t] >> The command /seed is not allowed",
+    "[00:54] <Etam2> !kit tools ",
+    "[00:54] [8b8t] >> Teleporting to home 0...",
+    "[00:54] [8b8t] >> Teleporting to home 8...",
+    "[00:54] To Etam2: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "323435634": 1,
@@ -425,7 +425,7 @@
     "Diegazerty": 1,
     "kavunadam2": 18,
     "ghost086": 4,
-    "Etam2": 25,
+    "Etam2": 26,
     "alastor_confess": 1,
     "16tobi1": 39,
     "GoldTade": 57,
@@ -745,7 +745,7 @@
     "survival": 1130,
     "pvp": 1499,
     "dupe": 280,
-    "tools": 356,
+    "tools": 357,
     "stash": 160,
     "raid": 199,
     "wood": 84,
