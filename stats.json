@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:25:53 14/12/2025",
+  "lastUpdated": "02:26:23 14/12/2025",
   "totalKits": 65003,
   "todayKits": 24,
-  "onlineCount": 59,
+  "onlineCount": 60,
   "peakPlayers": 63,
-  "tps": "16.0",
-  "ping": 257,
+  "tps": "19.0",
+  "ping": 261,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1544
+      "count": 1545
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:24] [8b8t] >> Request sent to MikelEtx",
-    "[02:24] <STEPWAY_45> !kit elytra ",
-    "[02:24] To STEPWAY_45: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[02:24] <Yuki_Viktor> !kit elytra ",
-    "[02:24] To Yuki_Viktor: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[02:24] [8b8t] >> Teleporting...",
-    "[02:24] [8b8t] >> Home 2 was not found",
-    "[02:24] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[02:24] [8b8t] >> The command /seed is not allowed",
-    "[02:25] <ModdevMC> !kit survival ",
-    "[02:25] [8b8t] >> Teleporting to home 0...",
-    "[02:25] [8b8t] >> Teleporting to home 1...",
-    "[02:25] To ModdevMC: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[02:25] <STEPWAY_45> !kit dye ",
     "[02:25] To STEPWAY_45: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[02:25] To ModdevMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +88,20 @@
     "[02:25] <MikelEtx> !kit pvp ",
     "[02:25] To MikelEtx: You're on cooldown, try again in 42 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[02:25] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[02:25] Wittedcode thought they could fly... they couldn't"
+    "[02:25] Wittedcode thought they could fly... they couldn't",
+    "[02:25] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[02:26] <edoque13> alguien ma ayda con un kit elytras ",
+    "[02:26] IvanZaSilly2 decided to sleep with the fishes",
+    "[02:26] <MikelEtx> !kit pvp ",
+    "[02:26] To MikelEtx: You're on cooldown, try again in 2 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[02:26] <MikelEtx> !kit pvp ",
+    "[02:26] [8b8t] >> Teleporting to home 0...",
+    "[02:26] [8b8t] >> Teleporting to home 1...",
+    "[02:26] To MikelEtx: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:26] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[02:26] To MikelEtx: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[02:26] [8b8t] >> Request sent to MikelEtx",
+    "[02:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -628,7 +628,7 @@
     "Joni0312": 13,
     "Ernesto932": 2,
     "LuNavella36": 17,
-    "MikelEtx": 5,
+    "MikelEtx": 6,
     "Pedroo13132424": 3,
     "Zomtick": 13,
     "Donatrox_": 8,
@@ -754,7 +754,7 @@
   "kitStats": {
     "build": 299,
     "survival": 1145,
-    "pvp": 1544,
+    "pvp": 1545,
     "dupe": 290,
     "tools": 363,
     "stash": 165,
