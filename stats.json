@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:17:34 13/12/2025",
-  "totalKits": 64516,
-  "todayKits": 494,
+  "lastUpdated": "15:17:55 13/12/2025",
+  "totalKits": 64517,
+  "todayKits": 495,
   "onlineCount": 25,
   "peakPlayers": 64,
-  "tps": "18.0",
+  "tps": "10.0",
   "ping": 283,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 265
+      "count": 266
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:14] <Yamaniko> !kit survival ",
-    "[15:14] [8b8t] >> Teleporting to home 0...",
-    "[15:14] [8b8t] >> Teleporting to home 1...",
-    "[15:14] To Yamaniko: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[15:14] To Yamaniko: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[15:14] [8b8t] >> Request sent to Yamaniko",
-    "[15:14] [8b8t] >> Teleporting...",
-    "[15:14] [8b8t] >> Home 2 was not found",
     "[15:14] [8b8t] >> The command /seed is not allowed",
     "[15:14] <Murad2002> !kit glass ",
     "[15:14] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +93,15 @@
     "[15:16] [BOT] <0_HienBot> Try /nc to change your name color! ",
     "[15:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:17] SlimeCrafter_99 got the wither disease",
-    "[15:17] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes "
+    "[15:17] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
+    "[15:17] <Yamaniko> !kit build ",
+    "[15:17] [8b8t] >> Teleporting to home 0...",
+    "[15:17] [8b8t] >> Teleporting to home 3...",
+    "[15:17] To Yamaniko: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:17] To Yamaniko: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[15:17] [8b8t] >> Request sent to Yamaniko",
+    "[15:17] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
+    "[15:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -701,11 +701,11 @@
     "Lguru": 2,
     "spoocs1": 7,
     "Devil____69": 3,
-    "Yamaniko": 2,
+    "Yamaniko": 3,
     "ecrinsu": 1
   },
   "kitStats": {
-    "build": 265,
+    "build": 266,
     "survival": 1068,
     "pvp": 1359,
     "dupe": 261,
