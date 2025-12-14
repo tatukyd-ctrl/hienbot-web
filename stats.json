@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:49:50 15/12/2025",
-  "totalKits": 65875,
-  "todayKits": 7,
+  "lastUpdated": "01:50:00 15/12/2025",
+  "totalKits": 65876,
+  "todayKits": 8,
   "onlineCount": 58,
   "peakPlayers": 59,
-  "tps": "12.0",
+  "tps": "15.0",
   "ping": 237,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1806
+      "count": 1807
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:48] <iamunderdewater> !kit highwaybuilder ",
-    "[01:48] To iamunderdewater: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[01:49] <iamunderdewater> !kit highway ",
-    "[01:49] [8b8t] >> Teleporting to home 0...",
-    "[01:49] [8b8t] >> Teleporting to home 7...",
-    "[01:49] To iamunderdewater: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[01:49] To iamunderdewater: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[01:49] [8b8t] >> Request sent to iamunderdewater",
     "[01:49] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
     "[01:49] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[01:49] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[01:49] <santiwin14> como obtengo el codigo in game para el !kit ",
     "[01:49] [8b8t] >> The command /seed is not allowed",
-    "[01:49] <VOLTAIKKKKK> a mi no me a hecho nada xd "
+    "[01:49] <VOLTAIKKKKK> a mi no me a hecho nada xd ",
+    "[01:49] <oniwolday> !kit pvp ",
+    "[01:49] [8b8t] >> Teleporting to home 0...",
+    "[01:49] [8b8t] >> Teleporting to home 1...",
+    "[01:49] To oniwolday: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:49] To oniwolday: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[01:49] [8b8t] >> Request sent to oniwolday",
+    "[01:49] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 7,
@@ -233,7 +233,7 @@
     ".Jr7117": 4,
     "Tokizumi": 50,
     "Felpizin_Br": 22,
-    "oniwolday": 12,
+    "oniwolday": 13,
     ".Bobbycull": 4,
     "gmplayer13": 1,
     "camilogod": 39,
@@ -853,7 +853,7 @@
   "kitStats": {
     "build": 349,
     "survival": 1337,
-    "pvp": 1806,
+    "pvp": 1807,
     "dupe": 354,
     "tools": 445,
     "stash": 195,
