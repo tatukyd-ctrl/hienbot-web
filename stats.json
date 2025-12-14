@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:47:36 14/12/2025",
-  "totalKits": 65505,
-  "todayKits": 206,
+  "lastUpdated": "17:47:52 14/12/2025",
+  "totalKits": 65506,
+  "todayKits": 207,
   "onlineCount": 20,
   "peakPlayers": 44,
-  "tps": "20.0",
-  "ping": 224,
+  "tps": "18.0",
+  "ping": 230,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1255
+      "count": 1256
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:45] [8b8t] >> Teleporting to home 0...",
-    "[17:45] [8b8t] >> Teleporting to home 1...",
-    "[17:45] To Alberto999999: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:45] To Alberto999999: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:45] [8b8t] >> Request sent to Alberto999999",
-    "[17:45] [8b8t] >> Teleporting...",
-    "[17:45] MonkeBot challenged the Wither and lost their head",
-    "[17:45] GENARAL was pwned by darkee_67589 wielding [netherite sword]",
     "[17:45] [8b8t] >> Home 2 was not found",
     "[17:45] <darkee_67589> payback ",
     "[17:45] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +93,15 @@
     "[17:46] [BOT] <0_HienBot> Vietnam on top!! ",
     "[17:47] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[17:47] GENARAL was EZ clapped by darkee_67589 using [netherite sword]",
-    "[17:47] <GENARAL> thats not how pvp goes i need to gear up first "
+    "[17:47] <GENARAL> thats not how pvp goes i need to gear up first ",
+    "[17:47] [BOT] <0_HienBot> Try /nc to change your name color! ",
+    "[17:47] <Alberto999999> !kit survival ",
+    "[17:47] [8b8t] >> Teleporting to home 0...",
+    "[17:47] [8b8t] >> Teleporting to home 1...",
+    "[17:47] To Alberto999999: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:47] To Alberto999999: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:47] [8b8t] >> Request sent to Alberto999999",
+    "[17:47] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -821,11 +821,11 @@
     "emin63emin": 3,
     "Coolieisgamerisp": 1,
     "Tr1Bela": 1,
-    "Alberto999999": 8
+    "Alberto999999": 9
   },
   "kitStats": {
     "build": 327,
-    "survival": 1255,
+    "survival": 1256,
     "pvp": 1689,
     "dupe": 326,
     "tools": 418,
