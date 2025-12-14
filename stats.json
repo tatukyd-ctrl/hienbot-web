@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:57:23 14/12/2025",
+  "lastUpdated": "14:57:36 14/12/2025",
   "totalKits": 65380,
   "todayKits": 81,
   "onlineCount": 18,
   "peakPlayers": 44,
-  "tps": "18.0",
-  "ping": 216,
+  "tps": "15.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:55] [BOT] <0_HienBot> Hola Hanae0! ",
-    "[14:55] [BOT] <0_HienBot> July 10, 2025, the Avolution team built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[14:55] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:55] <Im_Penguin_cz> !kit experience ",
-    "[14:55] To Im_Penguin_cz: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[14:56] [BOT] <0_HienBot> Hi fredo! ",
-    "[14:56] <Im_Penguin_cz> !Kit Experience ",
     "[14:56] To Im_Penguin_cz: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[14:56] <Im_Penguin_cz> !kit exp ",
     "[14:56] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +94,14 @@
     "[14:56] [8b8t] >> Request sent to 1kkj",
     "[14:57] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
     "[14:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:57] [8b8t] >> Teleporting..."
+    "[14:57] [8b8t] >> Teleporting...",
+    "[14:57] [8b8t] >> Home 2 was not found",
+    "[14:57] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
+    "[14:57] [8b8t] >> The command /seed is not allowed",
+    "[14:57] [Pro] <bigbear> !kit mineral ",
+    "[14:57] [8b8t] >> Teleporting to home 0...",
+    "[14:57] [8b8t] >> Teleporting to home 4...",
+    "[14:57] To BigBear: Your kit (mineral) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "323435634": 1,
@@ -111,7 +111,7 @@
     "WebSuperOp": 10,
     "RyloMC": 6,
     "pibble": 2,
-    "bigbear": 21,
+    "bigbear": 22,
     "luccah10": 19,
     ".ThunderDrgn2845": 5,
     "2young2care": 1,
@@ -823,7 +823,7 @@
     "exp": 144,
     "dye": 57,
     "wool": 56,
-    "mineral": 130,
+    "mineral": 131,
     "food": 98,
     "redstone": 121,
     "toolbox": 152,
