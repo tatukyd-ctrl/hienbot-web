@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:56:36 14/12/2025",
+  "lastUpdated": "14:57:06 14/12/2025",
   "totalKits": 65379,
   "todayKits": 80,
   "onlineCount": 18,
   "peakPlayers": 44,
-  "tps": "17.0",
-  "ping": 221,
+  "tps": "18.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1674
+      "count": 1675
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:52] [8b8t] >> Teleporting...",
-    "[14:52] 0_HienBot has been killed by BigBear",
-    "[14:52] [8b8t] >> The command /seed is not allowed",
-    "[14:52] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
-    "[14:52] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:53] [BOT] <0_HienBot> Hello mengyao_! ",
-    "[14:53] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
-    "[14:53] adrian15 has made the advancement [Monster Hunter]",
-    "[14:54] [BOT] <0_HienBot> Welcome to 8b8t, Hanae0! ",
     "[14:54] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[14:54] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
     "[14:55] [BOT] <0_HienBot> Hola Hanae0! ",
@@ -101,7 +92,16 @@
     "[14:56] 0_HienBot was slain by Im_Penguin_cz using [end crystal]",
     "[14:56] [8b8t] >> The command /seed is not allowed",
     "[14:56] [BOT] <0_HienBot> Hello Tomardo999! ",
-    "[14:56] [8b8t] >> The command /seed is not allowed"
+    "[14:56] [8b8t] >> The command /seed is not allowed",
+    "[14:56] <1kkj> !kit ",
+    "[14:56] To 1kkj: Hello 1kkj!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[14:56] <1kkj> !kit PVP ",
+    "[14:56] [8b8t] >> Teleporting to home 0...",
+    "[14:56] [8b8t] >> Teleporting to home 1...",
+    "[14:56] To 1kkj: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:56] To 1kkj: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:56] [8b8t] >> Request sent to 1kkj",
+    "[14:57] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 "
   ],
   "userStats": {
     "323435634": 1,
@@ -808,12 +808,13 @@
     "Enderrite": 1,
     "HSL": 4,
     "nitrosin": 1,
-    "Im_Penguin_cz": 12
+    "Im_Penguin_cz": 12,
+    "1kkj": 1
   },
   "kitStats": {
     "build": 324,
     "survival": 1235,
-    "pvp": 1674,
+    "pvp": 1675,
     "dupe": 317,
     "tools": 405,
     "stash": 177,
