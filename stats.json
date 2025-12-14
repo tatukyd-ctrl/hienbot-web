@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:24:42 15/12/2025",
+  "lastUpdated": "03:24:47 15/12/2025",
   "totalKits": 65970,
   "todayKits": 94,
   "onlineCount": 54,
   "peakPlayers": 61,
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 239,
   "topUsers": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "name": ".LEON50758",
-      "count": 76
+      "count": 77
     },
     {
       "name": "Bakivn_bot",
@@ -68,14 +68,10 @@
     },
     {
       "name": "build",
-      "count": 356
+      "count": 357
     }
   ],
   "chatLog": [
-    "[03:23] <ALSIO1243> anyone can tp ? ",
-    "[03:23] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[03:23] <hxrus> hi sonix ",
-    "[03:23] [BOT] <0_HienBot> Hi sheikzns! ",
     "[03:23] <ALSIO1243> anyone can tp ? ",
     "[03:23] <hxrus> como esta todo papu ",
     "[03:23] <elpanazequis> qn me ayuda a salir de el spawn? ",
@@ -101,7 +97,11 @@
     "[03:24] [8b8t] >> Teleporting...",
     "[03:24] .harePinki has made the advancement [Not Today, Thank You]",
     "[03:24] <hxrus> la hicimos regent y yo ",
-    "[03:24] Mrtax11 pulverized 0_HienBot using [netherite sword]"
+    "[03:24] Mrtax11 pulverized 0_HienBot using [netherite sword]",
+    "[03:24] <.LEON50758> !kit build ",
+    "[03:24] [8b8t] >> Teleporting to home 0...",
+    "[03:24] [8b8t] >> Teleporting to home 3...",
+    "[03:24] [8b8t] >> The command /seed is not allowed"
   ],
   "userStats": {
     "76756": 15,
@@ -323,7 +323,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 19,
     "alastor_gamer89": 6,
-    ".LEON50758": 76,
+    ".LEON50758": 77,
     "Saad2001": 2,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -861,7 +861,7 @@
     "Modalwire": 1
   },
   "kitStats": {
-    "build": 356,
+    "build": 357,
     "survival": 1360,
     "pvp": 1825,
     "dupe": 361,
