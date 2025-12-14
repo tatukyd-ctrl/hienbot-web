@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:02:53 14/12/2025",
+  "lastUpdated": "16:03:06 14/12/2025",
   "totalKits": 65424,
   "todayKits": 125,
   "onlineCount": 24,
   "peakPlayers": 44,
-  "tps": "18.0",
+  "tps": "17.0",
   "ping": 235,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1238
+      "count": 1239
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:01] <BIGSWAGG> !kit chest ",
-    "[16:01] <kavunadam2> bekle ",
-    "[16:01] [8b8t] >> Teleporting...",
-    "[16:01] To BIGSWAGG: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[16:01] <vxcom> !kit ",
-    "[16:01] To vxcom: Hello vxcom!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[16:01] [8b8t] >> Home 2 was not found",
-    "[16:01] [8b8t] >> The command /seed is not allowed",
-    "[16:02] <Abols152362> !kit tools ",
-    "[16:02] [8b8t] >> Teleporting to home 0...",
     "[16:02] [8b8t] >> Teleporting to home 8...",
     "[16:02] To Abols152362: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[16:02] To Abols152362: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +91,17 @@
     "[16:02] To vxcom: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[16:02] [BOT] <0_HienBot> Welcome to 8b8t, Ben9304! ",
     "[16:02] [8b8t] >> Request sent to vxcom",
-    "[16:02] [8b8t] >> Teleporting..."
+    "[16:02] [8b8t] >> Teleporting...",
+    "[16:02] <darkee_67589> !kit survival ",
+    "[16:02] [8b8t] >> Teleporting to home 0...",
+    "[16:02] [8b8t] >> Home 2 was not found",
+    "[16:02] [8b8t] >> Teleporting to home 1...",
+    "[16:02] To darkee_67589: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:02] <Ben9304> !kit ",
+    "[16:02] To Ben9304: Hello Ben9304!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[16:03] To darkee_67589: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:03] [8b8t] >> The command /seed is not allowed",
+    "[16:03] [8b8t] >> Request sent to darkee_67589"
   ],
   "userStats": {
     "323435634": 1,
@@ -813,11 +813,12 @@
     "adrian15": 1,
     "Ben9304": 9,
     "prroaso123": 1,
-    "Abols152362": 3
+    "Abols152362": 3,
+    "darkee_67589": 1
   },
   "kitStats": {
     "build": 326,
-    "survival": 1238,
+    "survival": 1239,
     "pvp": 1679,
     "dupe": 319,
     "tools": 416,
