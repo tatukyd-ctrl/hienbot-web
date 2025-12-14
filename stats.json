@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:15:11 15/12/2025",
+  "lastUpdated": "03:15:17 15/12/2025",
   "totalKits": 65960,
   "todayKits": 84,
-  "onlineCount": 58,
+  "onlineCount": 60,
   "peakPlayers": 60,
   "tps": "14.0",
   "ping": 258,
@@ -26,7 +26,7 @@
     },
     {
       "name": ".LEON50758",
-      "count": 74
+      "count": 75
     },
     {
       "name": "Bakivn_bot",
@@ -68,14 +68,10 @@
     },
     {
       "name": "build",
-      "count": 353
+      "count": 354
     }
   ],
   "chatLog": [
-    "[03:14] AlexLale got his head blown off by the Wither",
-    "[03:14] [8b8t] >> The command /seed is not allowed",
-    "[03:14] <antoooompp> !kit survival ",
-    "[03:14] Oliem__ challenged the Wither and lost their head",
     "[03:14] [8b8t] >> Teleporting to home 0...",
     "[03:14] [8b8t] >> Teleporting to home 1...",
     "[03:14] To antoooompp: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,7 +97,11 @@
     "[03:15] [8b8t] >> Teleporting...",
     "[03:15] <adrian0912> !kit ",
     "[03:15] To adrian0912: Hello adrian0912!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[03:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[03:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[03:15] <.LEON50758> !kit build ",
+    "[03:15] [8b8t] >> Teleporting to home 0...",
+    "[03:15] [8b8t] >> Home 2 was not found",
+    "[03:15] To .LEON50758: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 15,
@@ -323,7 +323,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 19,
     "alastor_gamer89": 6,
-    ".LEON50758": 74,
+    ".LEON50758": 75,
     "Saad2001": 2,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -861,7 +861,7 @@
     "Modalwire": 1
   },
   "kitStats": {
-    "build": 353,
+    "build": 354,
     "survival": 1359,
     "pvp": 1822,
     "dupe": 359,
