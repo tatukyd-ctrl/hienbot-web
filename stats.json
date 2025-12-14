@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:12:36 14/12/2025",
-  "totalKits": 65439,
-  "todayKits": 140,
+  "lastUpdated": "16:12:52 14/12/2025",
+  "totalKits": 65440,
+  "todayKits": 141,
   "onlineCount": 22,
   "peakPlayers": 44,
   "tps": "16.0",
-  "ping": 232,
+  "ping": 230,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1682
+      "count": 1683
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:12] <PyrosImperator> !kit help ",
-    "[16:12] <.LEON50758> !kit quartz ",
-    "[16:12] To PyrosImperator: You're on cooldown, try again in 43 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[16:12] [8b8t] >> Teleporting to home 6...",
-    "[16:12] To .LEON50758: Your kit (quartz) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[16:12] [8b8t] >> The command /seed is not allowed",
-    "[16:12] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[16:12] <prroaso123> !kit pvp ",
-    "[16:12] To prroaso123: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[16:12] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[16:12] [8b8t] >> Request sent to .LEON50758",
     "[16:12] [8b8t] >> Teleporting...",
     "[16:12] <kavunadam2> !kit Quartz ",
@@ -101,7 +91,17 @@
     "[16:12] To Ben9304: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[16:12] [8b8t] >> Request sent to Ben9304",
     "[16:12] [8b8t] >> Teleporting...",
-    "[16:12] <kavunadam2> tmm tşk "
+    "[16:12] <kavunadam2> tmm tşk ",
+    "[16:12] [8b8t] >> Home 2 was not found",
+    "[16:12] [8b8t] >> The command /seed is not allowed",
+    "[16:12] <prroaso123> !kit pvp ",
+    "[16:12] [8b8t] >> Teleporting to home 0...",
+    "[16:12] [8b8t] >> Teleporting to home 1...",
+    "[16:12] To prroaso123: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:12] <darkee_67589> !kits ",
+    "[16:12] To prroaso123: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:12] [8b8t] >> Request sent to prroaso123",
+    "[16:12] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -812,7 +812,7 @@
     "1kkj": 3,
     "adrian15": 1,
     "Ben9304": 13,
-    "prroaso123": 2,
+    "prroaso123": 3,
     "Abols152362": 7,
     "darkee_67589": 2,
     "PyrosImperator": 1
@@ -820,7 +820,7 @@
   "kitStats": {
     "build": 327,
     "survival": 1241,
-    "pvp": 1682,
+    "pvp": 1683,
     "dupe": 320,
     "tools": 416,
     "stash": 178,
