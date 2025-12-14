@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:37:36 14/12/2025",
-  "totalKits": 65336,
-  "todayKits": 37,
+  "lastUpdated": "13:37:54 14/12/2025",
+  "totalKits": 65337,
+  "todayKits": 38,
   "onlineCount": 33,
   "peakPlayers": 44,
-  "tps": "19.0",
+  "tps": "15.0",
   "ping": 216,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1669
+      "count": 1670
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:35] <BIGSWAGG> gay ",
-    "[13:35] XZ7XV has made the advancement [We Need to Go Deeper]",
-    "[13:35] <Enderrite> !kit redstone ",
-    "[13:35] [8b8t] >> Teleporting to home 0...",
-    "[13:35] [8b8t] >> Teleporting to home 3...",
-    "[13:35] To Enderrite: Your kit (redstone) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[13:35] To Enderrite: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[13:35] [8b8t] >> Please do not spam.",
     "[13:35] [8b8t] >> Request sent to Enderrite",
     "[13:35] [8b8t] >> Teleporting...",
     "[13:35] [8b8t] >> Home 2 was not found",
@@ -101,7 +93,15 @@
     "[13:36] [8b8t] >> Teleporting...",
     "[13:37] [8b8t] >> Home 2 was not found",
     "[13:37] [8b8t] >> The command /seed is not allowed",
-    "[13:37] [BOT] <0_HienBot> What's up, haiducnguyen? "
+    "[13:37] [BOT] <0_HienBot> What's up, haiducnguyen? ",
+    "[13:37] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 ",
+    "[13:37] <HSL> !kit pvp ",
+    "[13:37] [8b8t] >> Teleporting to home 0...",
+    "[13:37] [8b8t] >> Teleporting to home 1...",
+    "[13:37] To HSL: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:37] To HSL: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[13:37] [8b8t] >> Request sent to HSL",
+    "[13:37] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -805,12 +805,13 @@
     "BleakExistence": 1,
     "Mengei": 3,
     "mvti77777": 4,
-    "Enderrite": 1
+    "Enderrite": 1,
+    "HSL": 1
   },
   "kitStats": {
     "build": 322,
     "survival": 1227,
-    "pvp": 1669,
+    "pvp": 1670,
     "dupe": 316,
     "tools": 397,
     "stash": 176,
