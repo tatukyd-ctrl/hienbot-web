@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:43:06 14/12/2025",
-  "totalKits": 65403,
-  "todayKits": 104,
+  "lastUpdated": "15:43:27 14/12/2025",
+  "totalKits": 65404,
+  "todayKits": 105,
   "onlineCount": 20,
   "peakPlayers": 44,
-  "tps": "20.0",
-  "ping": 232,
+  "tps": "17.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:40] To BIGSWAGG: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[15:40] [8b8t] >> Request sent to BIGSWAGG",
-    "[15:40] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[15:40] [8b8t] >> Teleporting...",
-    "[15:40] 0_HienBot forgot to stop, drop, and roll",
-    "[15:40] [8b8t] >> Home 2 was not found",
-    "[15:40] <Ben9304> !kit dupe ",
-    "[15:40] To Ben9304: You're on cooldown, try again in 33 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[15:40] [8b8t] >> The command /seed is not allowed",
     "[15:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:40] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
@@ -101,7 +93,15 @@
     "[15:42] [Ultra] <Sniptoes> don't plac it or otherwise it will revert ",
     "[15:42] [BOT] <0_HienBot> Try /nc to change your name color! ",
     "[15:42] [Ultra] <Sniptoes> Im_Penguin_cz you know the player who created this map ",
-    "[15:43] <Ben9304> !kitstash "
+    "[15:43] <Ben9304> !kitstash ",
+    "[15:43] <Ben9304> !kit stash ",
+    "[15:43] [8b8t] >> Teleporting to home 0...",
+    "[15:43] [8b8t] >> Teleporting to home 3...",
+    "[15:43] To Ben9304: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:43] To Ben9304: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[15:43] [8b8t] >> Request sent to Ben9304",
+    "[15:43] [BOT] <0_HienBot> The server's seed is : None ",
+    "[15:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -811,7 +811,7 @@
     "Im_Penguin_cz": 21,
     "1kkj": 3,
     "adrian15": 1,
-    "Ben9304": 1
+    "Ben9304": 2
   },
   "kitStats": {
     "build": 325,
@@ -819,7 +819,7 @@
     "pvp": 1675,
     "dupe": 318,
     "tools": 414,
-    "stash": 177,
+    "stash": 178,
     "raid": 219,
     "wood": 104,
     "exp": 144,
