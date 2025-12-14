@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:35:47 15/12/2025",
+  "lastUpdated": "00:35:53 15/12/2025",
   "totalKits": 65781,
   "todayKits": 30,
   "onlineCount": 56,
   "peakPlayers": 58,
-  "tps": "14.0",
+  "tps": "15.0",
   "ping": 237,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1776
+      "count": 1777
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:34] To Burkans: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[00:34] [8b8t] >> Request sent to Burkans",
-    "[00:34] <RoX> tp to me for rockets bro ",
-    "[00:35] <TYPI> !kit tools ",
-    "[00:35] To TYPI: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[00:35] [8b8t] >> Teleporting...",
     "[00:35] [8b8t] >> Please do not spam.",
     "[00:35] 0_HienBot was destroyed by Burkans",
     "[00:35] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +95,13 @@
     "[00:35] .B0B2345 thought they could fly... they couldn't",
     "[00:35] [8b8t] >> Request sent to Abols152362",
     "[00:35] [8b8t] >> Teleporting...",
-    "[00:35] DUHAST69 withered away to the 4th dimension"
+    "[00:35] DUHAST69 withered away to the 4th dimension",
+    "[00:35] [8b8t] >> The command /seed is not allowed",
+    "[00:35] <RoX> !kit pvp ",
+    "[00:35] [8b8t] >> Teleporting to home 0...",
+    "[00:35] [8b8t] >> Home 2 was not found",
+    "[00:35] [8b8t] >> Teleporting to home 1...",
+    "[00:35] To RoX: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 6,
@@ -595,7 +595,7 @@
     "xRenVy_": 1,
     "xCesarx_": 1,
     "MiniC3lNiz": 1,
-    "RoX": 29,
+    "RoX": 30,
     "Gum_Wizard": 11,
     "MasterOfSaturn": 1,
     "Alancitoprogamer": 5,
@@ -849,7 +849,7 @@
   "kitStats": {
     "build": 342,
     "survival": 1319,
-    "pvp": 1776,
+    "pvp": 1777,
     "dupe": 350,
     "tools": 439,
     "stash": 193,
