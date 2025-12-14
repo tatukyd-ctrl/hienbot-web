@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:49:47 14/12/2025",
+  "lastUpdated": "12:50:06 14/12/2025",
   "totalKits": 65313,
   "todayKits": 14,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 41,
-  "tps": "17.0",
+  "tps": "16.0",
   "ping": 228,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1221
+      "count": 1222
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:49] [8b8t] >> Request sent to OPMARZAN12",
-    "[12:49] <natscout> !kit ",
-    "[12:49] To natscout: Hello natscout!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[12:49] [8b8t] >> Teleporting...",
-    "[12:49] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[12:49] <hxrus> ven ",
-    "[12:49] 0_HienBot was EZ clapped by OPMARZAN12 using [netherite sword]",
-    "[12:49] <BleakExistence> !kit pvp ",
-    "[12:49] [8b8t] >> Teleporting to home 0...",
-    "[12:49] [8b8t] >> Teleporting to home 1...",
     "[12:49] To BleakExistence: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[12:49] <hxrus> ven ",
     "[12:49] mengyao_ got a deadly lesson from the Wither",
@@ -101,7 +91,17 @@
     "[12:49] <hxrus> metele bloques ",
     "[12:49] <Monke_cook> :( ",
     "[12:49] [8b8t] >> Teleporting...",
-    "[12:49] <BleakExistence> give me wood "
+    "[12:49] <BleakExistence> give me wood ",
+    "[12:49] <hxrus> los amarillos ",
+    "[12:49] [8b8t] >> Home 2 was not found",
+    "[12:49] [8b8t] >> The command /seed is not allowed",
+    "[12:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[12:50] <hxrus> los que venian con el kit ",
+    "[12:50] <mengyao_> !kit Survival ",
+    "[12:50] [8b8t] >> Teleporting to home 0...",
+    "[12:50] [8b8t] >> Teleporting to home 1...",
+    "[12:50] To mengyao_: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:50] To mengyao_: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "323435634": 1,
@@ -801,12 +801,12 @@
     "natscout": 4,
     "_FxSPvPx_": 2,
     "tomxtx": 1,
-    "mengyao_": 1,
+    "mengyao_": 2,
     "BleakExistence": 1
   },
   "kitStats": {
     "build": 319,
-    "survival": 1221,
+    "survival": 1222,
     "pvp": 1656,
     "dupe": 315,
     "tools": 397,
