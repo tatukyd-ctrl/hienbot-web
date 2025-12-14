@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:54:06 14/12/2025",
-  "totalKits": 65344,
-  "todayKits": 45,
+  "lastUpdated": "13:54:20 14/12/2025",
+  "totalKits": 65345,
+  "todayKits": 46,
   "onlineCount": 24,
   "peakPlayers": 44,
   "tps": "18.0",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1232
+      "count": 1233
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:51] 0_HienBot withered away to the 4th dimension",
-    "[13:51] [8b8t] >> The TPA request you sent to mvti77777 was successfully canceled.",
-    "[13:51] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[13:51] [8b8t] >> The command /seed is not allowed",
-    "[13:51] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[13:52] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
-    "[13:52] <mvti77777> !kit ",
-    "[13:52] To mvti77777: Hello mvti77777!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[13:52] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[13:52] <mvti77777> !kit End ",
     "[13:52] To mvti77777: You're on cooldown, try again in 29 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[13:52] frextrush went for a late night swim and got eaten by a Drowned Zombie",
     "[13:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +91,17 @@
     "[13:53] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
     "[13:54] mengyao_ has made the advancement [Monster Hunter]",
     "[13:54] [Ultra] <nitrosin> !kit elytra ",
-    "[13:54] To nitrosine15: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[13:54] To nitrosine15: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[13:54] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[13:54] [Ultra] <nitrosin> !kit travel ",
+    "[13:54] To nitrosine15: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[13:54] [Ultra] <nitrosin> !kit survival ",
+    "[13:54] [8b8t] >> Teleporting to home 0...",
+    "[13:54] [8b8t] >> Teleporting to home 1...",
+    "[13:54] To nitrosine15: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:54] To nitrosine15: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[13:54] [8b8t] >> Request sent to nitrosine15",
+    "[13:54] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "323435634": 1,
@@ -806,11 +806,12 @@
     "Mengei": 3,
     "mvti77777": 7,
     "Enderrite": 1,
-    "HSL": 4
+    "HSL": 4,
+    "nitrosin": 1
   },
   "kitStats": {
     "build": 323,
-    "survival": 1232,
+    "survival": 1233,
     "pvp": 1671,
     "dupe": 316,
     "tools": 397,
