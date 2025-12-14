@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:58:06 14/12/2025",
+  "lastUpdated": "14:58:36 14/12/2025",
   "totalKits": 65381,
   "todayKits": 82,
-  "onlineCount": 18,
+  "onlineCount": 20,
   "peakPlayers": 44,
-  "tps": "18.0",
-  "ping": 221,
+  "tps": "16.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:56] To Im_Penguin_cz: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[14:56] [8b8t] >> Request sent to Im_Penguin_cz",
-    "[14:56] [8b8t] >> Teleporting...",
-    "[14:56] 0_HienBot was slain by Im_Penguin_cz using [end crystal]",
-    "[14:56] [8b8t] >> The command /seed is not allowed",
-    "[14:56] [BOT] <0_HienBot> Hello Tomardo999! ",
     "[14:56] [8b8t] >> The command /seed is not allowed",
     "[14:56] <1kkj> !kit ",
     "[14:56] To 1kkj: Hello 1kkj!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[14:57] [8b8t] >> Request sent to BigBear",
     "[14:57] [8b8t] >> Teleporting...",
     "[14:57] [8b8t] >> The command /seed is not allowed",
-    "[14:58] [BOT] <0_HienBot> Hate those who destroy Hien2309's base "
+    "[14:58] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[14:58] <1kkj> !kit End ",
+    "[14:58] To 1kkj: You're on cooldown, try again in 8 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[14:58] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[14:58] <1kkj> !kit End ",
+    "[14:58] [8b8t] >> Teleporting to home 0...",
+    "[14:58] [8b8t] >> Teleporting to home 6..."
   ],
   "userStats": {
     "323435634": 1,
@@ -809,7 +809,7 @@
     "HSL": 4,
     "nitrosin": 1,
     "Im_Penguin_cz": 12,
-    "1kkj": 1
+    "1kkj": 2
   },
   "kitStats": {
     "build": 324,
@@ -830,7 +830,7 @@
     "quartz": 44,
     "shulker": 111,
     "terracotta": 5,
-    "end": 91,
+    "end": 92,
     "armortrims": 78,
     "highway": 90,
     "ocean": 6,
