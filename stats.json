@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:49:07 14/12/2025",
+  "lastUpdated": "18:49:37 14/12/2025",
   "totalKits": 65551,
   "todayKits": 252,
   "onlineCount": 29,
   "peakPlayers": 44,
-  "tps": "19.0",
+  "tps": "17.0",
   "ping": 230,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1706
+      "count": 1707
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:47] <D1lj0> !kit pvp ",
-    "[18:47] [8b8t] >> Home 2 was not found",
-    "[18:47] [BOT] <0_HienBot> Do !discord ",
-    "[18:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:47] [8b8t] >> Teleporting to home 0...",
-    "[18:47] [8b8t] >> Teleporting to home 1...",
-    "[18:47] mark5455654 forgot to bring their parachute",
-    "[18:47] [8b8t] >> The command /seed is not allowed",
-    "[18:47] To D1lj0: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[18:47] [8b8t] >> Request sent to D1lj0",
-    "[18:47] [8b8t] >> Teleporting...",
-    "[18:47] [8b8t] >> Home 2 was not found",
-    "[18:47] [8b8t] >> The command /seed is not allowed",
-    "[18:47] <iamunderdewater> e ",
     "[18:47] <edwin03j> !kit pvp ",
     "[18:47] [8b8t] >> Teleporting to home 0...",
     "[18:47] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +87,21 @@
     "[18:48] mark5455654 thought they could fly... they couldn't",
     "[18:48] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
     "[18:48] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[18:49] EmilioHz tried to outswim the water"
+    "[18:49] EmilioHz tried to outswim the water",
+    "[18:49] <TOMIX5267> !kit firework ",
+    "[18:49] To TOMIX5267: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[18:49] <13cps__> !kit firework ",
+    "[18:49] To 13cps__: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[18:49] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[18:49] <13cps__> !kit pvp ",
+    "[18:49] [8b8t] >> Teleporting to home 0...",
+    "[18:49] [8b8t] >> Teleporting to home 1...",
+    "[18:49] To 13cps__: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:49] To 13cps__: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[18:49] [8b8t] >> Request sent to 13cps__",
+    "[18:49] <TOMIX5267> !kit pvp ",
+    "[18:49] To TOMIX5267: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[18:49] Rayozinho has made the advancement [Hidden in the Depths]"
   ],
   "userStats": {
     "323435634": 1,
@@ -827,12 +827,13 @@
     "edwin03j": 4,
     "amoguscool80": 4,
     "kpopbobbb": 1,
-    "N3m0s_by_meow": 2
+    "N3m0s_by_meow": 2,
+    "13cps__": 1
   },
   "kitStats": {
     "build": 328,
     "survival": 1258,
-    "pvp": 1706,
+    "pvp": 1707,
     "dupe": 332,
     "tools": 421,
     "stash": 188,
