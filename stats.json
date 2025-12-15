@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:02:53 15/12/2025",
+  "lastUpdated": "15:03:23 15/12/2025",
   "totalKits": 66323,
   "todayKits": 148,
-  "onlineCount": 18,
+  "onlineCount": 21,
   "peakPlayers": 48,
   "tps": "20.0",
-  "ping": 245,
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:56] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[14:56] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:56] aiueo123 has made the advancement [Ice Bucket Challenge]",
-    "[14:56] aiueo123 challenged the Wither and lost their head",
-    "[14:56] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[14:56] <Page434> Someone tpa me out of spawn please ",
-    "[14:57] <fredo> me ",
     "[14:57] <Page434> BigBear tp me please ",
     "[14:57] [BOT] <0_HienBot> 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 𝙩𝙤 𝙜𝙚𝙩 f𝙧𝙚𝙚 𝙠𝙞𝙩 ",
     "[14:57] .Cris922896006 got a deadly lesson from the Wither",
@@ -101,7 +94,14 @@
     "[15:02] SilentLukaMC challenged the Wither and lost their head",
     "[15:02] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[15:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:02] papadeagustin burned up in a pit of lava"
+    "[15:02] papadeagustin burned up in a pit of lava",
+    "[15:02] [BOT] <0_HienBot> Welcome to 8b8t, adrian15! ",
+    "[15:03] [Pro+] <Genghius> !kit concrete ",
+    "[15:03] [8b8t] >> Teleporting to home 0...",
+    "[15:03] [8b8t] >> Teleporting to home 4...",
+    "[15:03] [8b8t] >> Could not find player Genghius",
+    "[15:03] [8b8t] >> Could not find player Genghius",
+    "[15:03] [8b8t] >> Player Genghius is not online"
   ],
   "userStats": {
     "76756": 22,
@@ -903,7 +903,8 @@
     "Tokyo_MC21": 1,
     "qtDonkey": 1,
     "zatetla": 3,
-    "papadeagustin": 1
+    "papadeagustin": 1,
+    "Genghius": 1
   },
   "kitStats": {
     "build": 383,
@@ -928,7 +929,7 @@
     "armortrims": 92,
     "highway": 109,
     "ocean": 6,
-    "concrete": 97,
+    "concrete": 98,
     "glass": 82,
     "gap": 6,
     "constructor": "function Object() { [native code] }11111",
