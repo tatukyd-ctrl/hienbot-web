@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:09:38 15/12/2025",
+  "lastUpdated": "21:09:56 15/12/2025",
   "totalKits": 66419,
   "todayKits": 244,
   "onlineCount": 22,
   "peakPlayers": 48,
-  "tps": "18.0",
+  "tps": "19.0",
   "ping": 242,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1965
+      "count": 1966
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:07] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 ",
-    "[21:07] <Leo_MendeZz> !kit survival ",
-    "[21:07] [8b8t] >> Teleporting to home 0...",
-    "[21:07] [8b8t] >> Teleporting to home 1...",
-    "[21:07] To Leo_MendeZz: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[21:07] To Leo_MendeZz: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[21:07] [8b8t] >> Request sent to Leo_MendeZz",
-    "[21:07] [8b8t] >> Teleporting...",
-    "[21:07] 0_HienBot was EZ clapped by Leo_MendeZz using [netherite sword]",
     "[21:07] [8b8t] >> The command /seed is not allowed",
     "[21:07] [BOT] <0_HienBot> Hi mark5455654! ",
     "[21:08] Leo_MendeZz has made the advancement [A Throwaway Joke]",
@@ -101,7 +92,16 @@
     "[21:09] To nahuelx_x: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[21:09] To nahuelx_x: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:09] [8b8t] >> Request sent to nahuelx_x",
-    "[21:09] [8b8t] >> Teleporting..."
+    "[21:09] [8b8t] >> Teleporting...",
+    "[21:09] [8b8t] >> Home 2 was not found",
+    "[21:09] <gOuOxtaGWEw> !kit pvp ",
+    "[21:09] [8b8t] >> Teleporting to home 0...",
+    "[21:09] [8b8t] >> Teleporting to home 1...",
+    "[21:09] To gOuOxtaGWEw: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:09] To gOuOxtaGWEw: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:09] [8b8t] >> The command /seed is not allowed",
+    "[21:09] [8b8t] >> Request sent to gOuOxtaGWEw",
+    "[21:09] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit "
   ],
   "userStats": {
     "76756": 33,
@@ -918,12 +918,13 @@
     "base_hunter_1": 2,
     "Barexxty": 3,
     "TrotischemeYT": 2,
-    "yjnatan": 1
+    "yjnatan": 1,
+    "gOuOxtaGWEw": 1
   },
   "kitStats": {
     "build": 387,
     "survival": 1461,
-    "pvp": 1965,
+    "pvp": 1966,
     "dupe": 386,
     "tools": 478,
     "stash": 217,
