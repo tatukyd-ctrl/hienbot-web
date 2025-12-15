@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:59:43 15/12/2025",
-  "totalKits": 66394,
-  "todayKits": 219,
+  "lastUpdated": "18:59:54 15/12/2025",
+  "totalKits": 66395,
+  "todayKits": 220,
   "onlineCount": 29,
   "peakPlayers": 48,
-  "tps": "15.0",
+  "tps": "12.0",
   "ping": 234,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1950
+      "count": 1951
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:57] To base_hunter_1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[18:57] [8b8t] >> Request sent to base_hunter_1",
-    "[18:57] <lucas21222> me tepeas ",
-    "[18:57] [8b8t] >> Teleporting...",
-    "[18:57] [8b8t] >> The command /seed is not allowed",
-    "[18:57] [8b8t] >> Home 2 was not found",
-    "[18:57] [8b8t] >> The command /seed is not allowed",
-    "[18:57] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
-    "[18:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[18:58] <base_hunter_1> !kit survival ",
     "[18:58] To base_hunter_1: You're on cooldown, try again in 51 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[18:58] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
@@ -101,10 +92,19 @@
     "[18:59] To base_hunter_1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[18:59] [8b8t] >> Request sent to base_hunter_1",
     "[18:59] [8b8t] >> Teleporting...",
-    "[18:59] <76756> !help "
+    "[18:59] <76756> !help ",
+    "[18:59] [8b8t] >> Home 2 was not found",
+    "[18:59] <76756> !kit pvp ",
+    "[18:59] [8b8t] >> Teleporting to home 0...",
+    "[18:59] [8b8t] >> Teleporting to home 1...",
+    "[18:59] To 76756: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:59] To 76756: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[18:59] [8b8t] >> The command /seed is not allowed",
+    "[18:59] [8b8t] >> Request sent to 76756",
+    "[18:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
-    "76756": 30,
+    "76756": 31,
     "323435634": 1,
     "Alecraft8": 17,
     "Victua7397": 41,
@@ -920,7 +920,7 @@
   "kitStats": {
     "build": 387,
     "survival": 1459,
-    "pvp": 1950,
+    "pvp": 1951,
     "dupe": 385,
     "tools": 478,
     "stash": 216,
