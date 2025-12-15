@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:35:31 15/12/2025",
+  "lastUpdated": "08:35:39 15/12/2025",
   "totalKits": 66144,
   "todayKits": 32,
   "onlineCount": 46,
   "peakPlayers": 53,
-  "tps": "16.0",
+  "tps": "15.0",
   "ping": 223,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 374
+      "count": 375
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:33] <elproplayerxddd> noooo ",
-    "[08:33] <elproplayerxddd> los 2? ",
-    "[08:33] Alexander8935 withered away to the 4th dimension",
-    "[08:33] <VOLTAIKKKKK> no ",
-    "[08:33] BrayanFacha has made the advancement [Acquire Hardware]",
-    "[08:33] <elproplayerxddd> a ya ",
-    "[08:34] <VOLTAIKKKKK> el otro se callo ",
-    "[08:34] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[08:34] <VOLTAIKKKKK> no se como mierdas no pudo caer en el agua ",
     "[08:34] <TYPI> QUIEN MANDA TPA PARA PROBAR ALGO PORFA SIN PVP ",
     "[08:34] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
@@ -101,7 +93,15 @@
     "[08:35] To dan_cxrz: Your ping is: 270 ms",
     "[08:35] To 47_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[08:35] [8b8t] >> Request sent to 47_",
-    "[08:35] [8b8t] >> Teleporting..."
+    "[08:35] [8b8t] >> Teleporting...",
+    "[08:35] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[08:35] <elproplayerxddd> vistes ",
+    "[08:35] [8b8t] >> The command /seed is not allowed",
+    "[08:35] 0_HienBot forgot to stop, drop, and roll",
+    "[08:35] [8b8t] >> Home 2 was not found",
+    "[08:35] <dan_cxrz> !kit build ",
+    "[08:35] [8b8t] >> Teleporting to home 0...",
+    "[08:35] [8b8t] >> Teleporting to home 3..."
   ],
   "userStats": {
     "76756": 15,
@@ -878,10 +878,11 @@
     "B58_Bryan58": 1,
     "jackiezp": 3,
     ".DotBag": 1,
-    "Migxellg1": 1
+    "Migxellg1": 1,
+    "dan_cxrz": 1
   },
   "kitStats": {
-    "build": 374,
+    "build": 375,
     "survival": 1410,
     "pvp": 1868,
     "dupe": 372,
