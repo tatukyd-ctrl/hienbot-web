@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:20:07 16/12/2025",
+  "lastUpdated": "04:20:13 16/12/2025",
   "totalKits": 66740,
   "todayKits": 12,
-  "onlineCount": 49,
+  "onlineCount": 48,
   "peakPlayers": 53,
-  "tps": "15.0",
+  "tps": "12.0",
   "ping": 224,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1580
+      "count": 1581
     },
     {
       "name": "tools",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:19] <3duskqp> ez ",
-    "[04:19] roussk19 went for a swim in lava and got burned",
-    "[04:19] [8b8t] >> The command /seed is not allowed",
-    "[04:19] <ALSIO1243> how do i go to spawn ",
     "[04:19] omxtt burned up in a pit of lava",
     "[04:19] <Real4Tribe> ?kit survival ",
     "[04:19] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +97,11 @@
     "[04:20] [8b8t] >> The command /seed is not allowed",
     "[04:20] To Tokizumi: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[04:20] [8b8t] >> Request sent to Tokizumi",
-    "[04:20] [8b8t] >> Teleporting..."
+    "[04:20] [8b8t] >> Teleporting...",
+    "[04:20] <___Nuke__> !kit Survival ",
+    "[04:20] [8b8t] >> Home 2 was not found",
+    "[04:20] [8b8t] >> Teleporting to home 0...",
+    "[04:20] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 33,
@@ -958,11 +958,12 @@
     "ElPota15": 2,
     "franquitoforver": 1,
     "SoySaid123Yt": 1,
-    "Real4Tribe": 9
+    "Real4Tribe": 9,
+    "___Nuke__": 1
   },
   "kitStats": {
     "build": 407,
-    "survival": 1580,
+    "survival": 1581,
     "pvp": 2085,
     "dupe": 422,
     "tools": 498,
