@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:29:17 15/12/2025",
+  "lastUpdated": "23:29:26 15/12/2025",
   "totalKits": 66486,
   "todayKits": 311,
   "onlineCount": 50,
   "peakPlayers": 50,
-  "tps": "17.0",
+  "tps": "14.0",
   "ping": 229,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1995
+      "count": 1996
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:28] <Agusxx_x> !KIT MACE ",
-    "[23:28] To Agusxx_x: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[23:28] cartuzo42 got pieced by an End Crystal",
-    "[23:28] <BoroBhai> Wither Clan On Top! ",
-    "[23:28] <Agusxx_x> !kit mace ",
-    "[23:28] To Agusxx_x: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[23:28] DUHAST69 challenged the Wither and lost their head",
     "[23:28] <TYPI> !kit mace ",
     "[23:28] To TYPI: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[23:29] <BoroBhai> Wither Clan On Top! ",
     "[23:29] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
     "[23:29] <FlygDaa> bruh  ᴏʙѕɪᴅɪᴀɴ ʙʀʀʀ ",
-    "[23:29] vexynox has made the advancement [Isn't It Iron Pick]"
+    "[23:29] vexynox has made the advancement [Isn't It Iron Pick]",
+    "[23:29] <TYPI> !KIT MACE ",
+    "[23:29] To TYPI: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[23:29] [8b8t] >> Home 2 was not found",
+    "[23:29] [8b8t] >> The command /seed is not allowed",
+    "[23:29] <Agusxx_x> !kit pvp ",
+    "[23:29] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 33,
@@ -928,12 +928,13 @@
     "DJSZKORG": 3,
     "amour": 1,
     "gogoselPrajit": 1,
-    "fm_pm_": 2
+    "fm_pm_": 2,
+    "Agusxx_x": 1
   },
   "kitStats": {
     "build": 388,
     "survival": 1478,
-    "pvp": 1995,
+    "pvp": 1996,
     "dupe": 393,
     "tools": 479,
     "stash": 219,
