@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:35:34 15/12/2025",
+  "lastUpdated": "09:35:53 15/12/2025",
   "totalKits": 66178,
   "todayKits": 3,
-  "onlineCount": 47,
+  "onlineCount": 0,
   "peakPlayers": 48,
-  "tps": "17.0",
-  "ping": 228,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1418
+      "count": 1419
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:34] <R29EER> !kit firework ",
-    "[09:34] To R29EER: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:34] <The_men_of_world> se me acabo ",
-    "[09:34] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[09:35] <R29EER> !kit elytra ",
-    "[09:35] To R29EER: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:35] MexiiX thought they could fly... they couldn't",
-    "[09:35] <R29EER> !kit survival ",
     "[09:35] [8b8t] >> Teleporting to home 0...",
     "[09:35] [8b8t] >> Teleporting to home 1...",
     "[09:35] To R29EER: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,7 +93,15 @@
     "[09:35] [8b8t] >> Request sent to MCWemmbu",
     "[09:35] [8b8t] >> Teleporting...",
     "[09:35] <sofia777Mc> NOS VEMOS MANGA DE TRABAS ",
-    "[09:35] MexiiX thought they could fly... they couldn't"
+    "[09:35] MexiiX thought they could fly... they couldn't",
+    "[09:35] [8b8t] >> The command /seed is not allowed",
+    "[09:35] [8b8t] >> Home 2 was not found",
+    "[09:35] <AleeMC> !kit survival ",
+    "[09:35] [8b8t] >> Teleporting to home 0...",
+    "[09:35] [8b8t] >> The command /seed is not allowed",
+    "[09:35] To AleeMC: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:35] <dylan_332323> !kit ",
+    "[09:35] juyaegar challenged the Wither and lost their head"
   ],
   "userStats": {
     "76756": 15,
@@ -884,11 +884,12 @@
     "ElDexterino": 1,
     "Phi1l0soph3r": 2,
     "R29EER": 8,
-    "rives": 1
+    "rives": 1,
+    "AleeMC": 1
   },
   "kitStats": {
     "build": 376,
-    "survival": 1418,
+    "survival": 1419,
     "pvp": 1881,
     "dupe": 379,
     "tools": 473,
