@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:07:27 16/12/2025",
-  "totalKits": 66573,
-  "todayKits": 57,
-  "onlineCount": 55,
+  "lastUpdated": "01:07:39 16/12/2025",
+  "totalKits": 66574,
+  "todayKits": 58,
+  "onlineCount": 54,
   "peakPlayers": 56,
   "tps": "17.0",
   "ping": 226,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2015
+      "count": 2016
     },
     {
       "name": "survival",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:05] [8b8t] >> Request sent to .Elpatata43",
-    "[01:05] [8b8t] >> Teleporting...",
-    "[01:05] [8b8t] >> Home 2 was not found",
-    "[01:05] <blake2013> !kit survival ",
-    "[01:05] [8b8t] >> Teleporting to home 0...",
-    "[01:05] [8b8t] >> Teleporting to home 1...",
-    "[01:05] To blake2013: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[01:05] [8b8t] >> The command /seed is not allowed",
-    "[01:05] To blake2013: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[01:05] [8b8t] >> Request sent to blake2013",
-    "[01:06] Agusxx_x was rudely introduced to a Creeper's explosive personality",
-    "[01:06] <0x228> !players ",
-    "[01:06] [8b8t] >> Teleporting...",
-    "[01:06] To 0x228: Players: 55",
-    "[01:06] [8b8t] >> Home 2 was not found",
-    "[01:06] [BOT] <0_HienBot> Hola Dream300rr! ",
     "[01:06] [8b8t] >> The command /seed is not allowed",
     "[01:06] puoraxd has reached the goal [Postmortal]",
     "[01:06] <xzz_mati> !kit mixed ",
@@ -101,7 +85,23 @@
     "[01:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[01:07] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
     "[01:07] <xzz_mati> !kit mixed ",
-    "[01:07] To xzz_mati: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[01:07] To xzz_mati: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[01:07] <krijnmaniscool> !kit donkey ",
+    "[01:07] To krijnmaniscool: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[01:07] <0x228> !kit pvp ",
+    "[01:07] [8b8t] >> Teleporting to home 0...",
+    "[01:07] [8b8t] >> Teleporting to home 1...",
+    "[01:07] <6foot3monkey> ORBIT CLAN ON TOP! ",
+    "[01:07] To 0x228: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:07] <xzz_mati> !kit survival ",
+    "[01:07] To xzz_mati: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[01:07] To 0x228: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[01:07] [8b8t] >> Request sent to 0x228",
+    "[01:07] <blake2013> !kit faf ",
+    "[01:07] To blake2013: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[01:07] [8b8t] >> Teleporting...",
+    "[01:07] <kevinchz> !kit mixed ",
+    "[01:07] To kevinchz: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
   ],
   "userStats": {
     "76756": 33,
@@ -938,13 +938,13 @@
     "Dream300rr": 1,
     "mecacopro": 1,
     "puoraxd": 2,
-    "0x228": 1,
+    "0x228": 2,
     "blake2013": 2
   },
   "kitStats": {
     "build": 395,
     "survival": 1514,
-    "pvp": 2015,
+    "pvp": 2016,
     "dupe": 403,
     "tools": 482,
     "stash": 219,
