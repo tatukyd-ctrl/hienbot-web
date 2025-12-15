@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:09:10 15/12/2025",
+  "lastUpdated": "10:09:23 15/12/2025",
   "totalKits": 66201,
   "todayKits": 26,
   "onlineCount": 33,
   "peakPlayers": 48,
-  "tps": "19.0",
+  "tps": "16.0",
   "ping": 220,
   "topUsers": [
     {
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:07] [8b8t] >> Request sent to ghostCOD1st",
-    "[10:07] [8b8t] >> Teleporting...",
-    "[10:07] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[10:07] [8b8t] >> The command /seed is not allowed",
-    "[10:07] [8b8t] >> Home 2 was not found",
-    "[10:07] [8b8t] >> The command /seed is not allowed",
-    "[10:07] dylan_332323 thought they could fly... they couldn't",
-    "[10:07] <VortexTrapper> !kit minerals ",
-    "[10:07] To VortexTrapper: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[10:07] <VortexTrapper> !kit highway ",
-    "[10:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[10:07] [8b8t] >> Teleporting to home 0...",
     "[10:07] [8b8t] >> Teleporting to home 7...",
     "[10:07] To VortexTrapper: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[10:07] To VortexTrapper: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +89,19 @@
     "[10:09] To poeutlkflbva: Your kit (end) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[10:09] To poeutlkflbva: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[10:09] [8b8t] >> Request sent to poeutlkflbva",
-    "[10:09] [8b8t] >> Teleporting..."
+    "[10:09] [8b8t] >> Teleporting...",
+    "[10:09] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[10:09] [8b8t] >> The command /seed is not allowed",
+    "[10:09] 0_HienBot forgot to bring their parachute",
+    "[10:09] [8b8t] >> Home 2 was not found",
+    "[10:09] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[10:09] ApleB0t has made the advancement [Ol' Betsy]",
+    "[10:09] [8b8t] >> The command /seed is not allowed",
+    "[10:09] <dylan_332323> !kit end ",
+    "[10:09] [8b8t] >> Teleporting to home 0...",
+    "[10:09] [8b8t] >> Teleporting to home 6...",
+    "[10:09] To dylan_332323: Your kit (end) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[10:09] To dylan_332323: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 15,
@@ -888,7 +888,7 @@
     "AleeMC": 1,
     "VortexTrapper": 4,
     "poeutlkflbva": 4,
-    "dylan_332323": 3
+    "dylan_332323": 4
   },
   "kitStats": {
     "build": 378,
@@ -909,7 +909,7 @@
     "quartz": 50,
     "shulker": 127,
     "terracotta": 5,
-    "end": 113,
+    "end": 114,
     "armortrims": 90,
     "highway": 108,
     "ocean": 6,
