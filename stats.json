@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:01:23 15/12/2025",
-  "totalKits": 66190,
-  "todayKits": 15,
+  "lastUpdated": "10:01:36 15/12/2025",
+  "totalKits": 66191,
+  "todayKits": 16,
   "onlineCount": 39,
   "peakPlayers": 48,
-  "tps": "17.0",
-  "ping": 228,
+  "tps": "19.0",
+  "ping": 227,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 376
+      "count": 377
     }
   ],
   "chatLog": [
-    "[09:58] To dylan_332323: You're on cooldown, try again in 33 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[09:58] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[09:59] tongo7 has made the advancement [Take Aim]",
-    "[09:59] martinxitoo got his head blown off by the Wither",
-    "[09:59] <dylan_332323> !kit pvp ",
-    "[09:59] [8b8t] >> Teleporting to home 0...",
-    "[09:59] [8b8t] >> Teleporting to home 1...",
-    "[09:59] To dylan_332323: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[09:59] To dylan_332323: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[09:59] [BOT] <0_HienBot> 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 𝙩𝙤 𝙜𝙚𝙩 f𝙧𝙚𝙚 𝙠𝙞𝙩 ",
     "[09:59] [8b8t] >> Request sent to dylan_332323",
@@ -101,7 +93,15 @@
     "[10:01] To ghostCOD1st: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[10:01] <VortexTrapper> anyone wanna pvp? ",
     "[10:01] <valentinauwu123> como se dupea ",
-    "[10:01] <MCWemmbu> MEEE "
+    "[10:01] <MCWemmbu> MEEE ",
+    "[10:01] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[10:01] <ghostCOD1st> !kit build ",
+    "[10:01] [8b8t] >> Teleporting to home 0...",
+    "[10:01] [8b8t] >> Teleporting to home 3...",
+    "[10:01] To ghostCOD1st: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[10:01] To ghostCOD1st: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[10:01] [8b8t] >> Request sent to ghostCOD1st",
+    "[10:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 15,
@@ -453,7 +453,7 @@
     "K4ps_12": 1,
     "jhacks2": 6,
     "Wisto_WT": 2,
-    "ghostCOD1st": 47,
+    "ghostCOD1st": 48,
     "Darix22_": 2,
     "JEWISHBLACKTRANS": 1,
     "DarkSessionss": 1,
@@ -891,7 +891,7 @@
     "dylan_332323": 2
   },
   "kitStats": {
-    "build": 376,
+    "build": 377,
     "survival": 1422,
     "pvp": 1888,
     "dupe": 380,
