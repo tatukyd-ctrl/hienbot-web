@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:36:23 16/12/2025",
+  "lastUpdated": "01:36:27 16/12/2025",
   "totalKits": 66608,
   "todayKits": 92,
-  "onlineCount": 56,
+  "onlineCount": 57,
   "peakPlayers": 59,
-  "tps": "15.0",
+  "tps": "14.0",
   "ping": 235,
   "topUsers": [
     {
@@ -42,7 +42,7 @@
     },
     {
       "name": "Ben9304",
-      "count": 66
+      "count": 67
     },
     {
       "name": "NicoWuh",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2022
+      "count": 2023
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:35] [BOT] <0_HienBot> Hola WenlerMaster! ",
-    "[01:35] <LilCusi> KIEN TEAM ",
     "[01:35] <ALSIO1243> !kit rocket ",
     "[01:35] To ALSIO1243: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[01:35] The_Conquerer_0 challenged the Wither and lost their head",
@@ -101,7 +99,9 @@
     "[01:36] [8b8t] >> Request sent to blake2013",
     "[01:36] [8b8t] >> Teleporting...",
     "[01:36] <Ben9304> !kit pvp ",
-    "[01:36] To Ben9304: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[01:36] To Ben9304: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[01:36] [8b8t] >> Home 2 was not found",
+    "[01:36] <Ben9304> !kit pvp "
   ],
   "userStats": {
     "76756": 33,
@@ -812,7 +812,7 @@
     "Im_Penguin_cz": 32,
     "1kkj": 3,
     "adrian15": 4,
-    "Ben9304": 66,
+    "Ben9304": 67,
     "prroaso123": 4,
     "Abols152362": 82,
     "darkee_67589": 38,
@@ -945,7 +945,7 @@
   "kitStats": {
     "build": 399,
     "survival": 1523,
-    "pvp": 2022,
+    "pvp": 2023,
     "dupe": 407,
     "tools": 487,
     "stash": 219,
