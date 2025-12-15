@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:33:33 16/12/2025",
+  "lastUpdated": "03:33:37 16/12/2025",
   "totalKits": 66692,
   "todayKits": 7,
   "onlineCount": 65,
   "peakPlayers": 65,
-  "tps": "15.0",
+  "tps": "12.0",
   "ping": 225,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1557
+      "count": 1558
     },
     {
       "name": "tools",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:32] 0_HienBot got blown up by TNT",
-    "[03:32] [8b8t] >> Home 2 was not found",
     "[03:32] [8b8t] >> The command /seed is not allowed",
     "[03:32] [8b8t] >> The command /seed is not allowed",
     "[03:32] Hola_me_llamo has been killed by reymeteoro",
@@ -101,7 +99,9 @@
     "[03:33] <natscout> !kit Survival ",
     "[03:33] To natscout: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[03:33] ElPota15 forgot to stop, drop, and roll",
-    "[03:33] [8b8t] >> Teleporting..."
+    "[03:33] [8b8t] >> Teleporting...",
+    "[03:33] <natscout> !kit Survival ",
+    "[03:33] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 33,
@@ -799,7 +799,7 @@
     "jomxtv": 2,
     "MrEpicHen": 4,
     "Sibyl": 1,
-    "natscout": 5,
+    "natscout": 6,
     "_FxSPvPx_": 9,
     "tomxtx": 8,
     "mengyao_": 22,
@@ -958,7 +958,7 @@
   },
   "kitStats": {
     "build": 403,
-    "survival": 1557,
+    "survival": 1558,
     "pvp": 2071,
     "dupe": 417,
     "tools": 496,
