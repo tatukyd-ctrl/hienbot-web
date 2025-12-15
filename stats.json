@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:16:24 15/12/2025",
+  "lastUpdated": "17:16:54 15/12/2025",
   "totalKits": 66359,
   "todayKits": 184,
-  "onlineCount": 23,
+  "onlineCount": 25,
   "peakPlayers": 48,
-  "tps": "16.0",
-  "ping": 230,
+  "tps": "18.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1449
+      "count": 1450
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[17:14] 0_HienBot fell victim to a bad potion",
-    "[17:14] [8b8t] >> Home 2 was not found",
-    "[17:14] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
-    "[17:14] [8b8t] >> The command /seed is not allowed",
-    "[17:14] <yoguel> !kit ",
-    "[17:14] To yoguel: Hello yoguel!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[17:15] <yoguel> !kit survival ",
-    "[17:15] To yoguel: You're on cooldown, try again in 58 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[17:15] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
     "[17:15] Phi1l0soph3r has completed the challenge [Serious Dedication]",
     "[17:15] [BOT] <0_HienBot> Welcome to 8b8t, sweatysakhussALT! ",
@@ -101,7 +92,16 @@
     "[17:16] To yoguel: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[17:16] 0_HienBot forgot to bring their parachute",
     "[17:16] [8b8t] >> Home 2 was not found",
-    "[17:16] [8b8t] >> The command /seed is not allowed"
+    "[17:16] [8b8t] >> The command /seed is not allowed",
+    "[17:16] <yoguel> *kit ",
+    "[17:16] To yoguel: Hello yoguel!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[17:16] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[17:16] <yoguel> !kit Survival ",
+    "[17:16] [8b8t] >> Teleporting to home 0...",
+    "[17:16] [8b8t] >> Teleporting to home 1...",
+    "[17:16] To yoguel: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:16] To yoguel: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:16] [8b8t] >> Request sent to yoguel"
   ],
   "userStats": {
     "76756": 27,
@@ -909,11 +909,11 @@
     "sweatysakhussALT": 9,
     "aiueo123": 1,
     "v1nt4geum": 2,
-    "yoguel": 1
+    "yoguel": 2
   },
   "kitStats": {
     "build": 383,
-    "survival": 1449,
+    "survival": 1450,
     "pvp": 1931,
     "dupe": 385,
     "tools": 478,
