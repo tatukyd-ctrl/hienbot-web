@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:59:01 15/12/2025",
-  "totalKits": 66278,
-  "todayKits": 103,
-  "onlineCount": 29,
+  "lastUpdated": "12:59:23 15/12/2025",
+  "totalKits": 66279,
+  "todayKits": 104,
+  "onlineCount": 27,
   "peakPlayers": 48,
-  "tps": "16.0",
-  "ping": 237,
+  "tps": "15.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1907
+      "count": 1908
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:58] [8b8t] >> Teleporting to home 0...",
-    "[12:58] [BOT] <0_HienBot> July 10, 2025, the Avolution team built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[12:58] [8b8t] >> Teleporting to home 6...",
-    "[12:58] Savoir_40 forgot to bring their parachute",
-    "[12:58] [8b8t] >> The command /seed is not allowed",
-    "[12:58] <Red_Fragment_> !kit exp ",
-    "[12:58] To Red_Fragment_: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[12:58] To Red_Fragment_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[12:58] [8b8t] >> Request sent to Red_Fragment_",
-    "[12:58] papadeagustin challenged the Wither and lost their head",
     "[12:58] [8b8t] >> Teleporting...",
     "[12:58] <Savoir_40> !kit survival ",
     "[12:58] Chat disabled in client options",
@@ -101,7 +91,17 @@
     "[12:58] To Savoir_40: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[12:58] To Savoir_40: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[12:58] [8b8t] >> Request sent to Savoir_40",
-    "[12:58] [8b8t] >> Teleporting..."
+    "[12:58] [8b8t] >> Teleporting...",
+    "[12:59] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[12:59] [8b8t] >> Home 2 was not found",
+    "[12:59] [8b8t] >> The command /seed is not allowed",
+    "[12:59] <JULIANSPR> !kit pvp ",
+    "[12:59] [8b8t] >> Teleporting to home 0...",
+    "[12:59] [8b8t] >> Teleporting to home 1...",
+    "[12:59] To JULIANSPR: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:59] To JULIANSPR: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[12:59] [8b8t] >> Request sent to JULIANSPR",
+    "[12:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 22,
@@ -343,7 +343,7 @@
     "TyroneG": 9,
     "facmc": 2,
     "Alesecoo12345789": 58,
-    "JULIANSPR": 31,
+    "JULIANSPR": 32,
     "antonio7754": 1,
     "yopachat": 9,
     "postarget": 11,
@@ -901,7 +901,7 @@
   "kitStats": {
     "build": 380,
     "survival": 1438,
-    "pvp": 1907,
+    "pvp": 1908,
     "dupe": 383,
     "tools": 476,
     "stash": 210,
