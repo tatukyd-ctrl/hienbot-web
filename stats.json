@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:13:44 15/12/2025",
-  "totalKits": 66163,
-  "todayKits": 0,
+  "lastUpdated": "09:13:57 15/12/2025",
+  "totalKits": 66164,
+  "todayKits": 1,
   "onlineCount": 57,
   "peakPlayers": 58,
-  "tps": "11.0",
+  "tps": "15.0",
   "ping": 226,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1412
+      "count": 1413
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:12] ",
-    "[09:12]   [Confirm read]",
-    "[09:12] ",
-    "[09:12] <chetosconqueso> traigo activo el kill aura ",
-    "[09:12] [8b8t] >> The command /seed is not allowed",
-    "[09:13] <47_> ok ",
-    "[09:13] <ghostCOD1st> can some1 tp in the end? ",
-    "[09:13] The_men_of_world has reached the goal [Postmortal]",
-    "[09:13] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[09:13] Its_Ghost_ has made the advancement [Getting an Upgrade]",
     "[09:13] <MCWemmbu> ghostCOD1st tpa me ",
     "[09:13] <pancho185495> *kit ",
@@ -101,7 +92,16 @@
     "[09:13] <kingfluffy127> ldHi ",
     "[09:13] <The_men_of_world> !kit nether ",
     "[09:13] MexiiX has made the advancement [Spooky Scary Skeleton]",
-    "[09:13] To The_men_of_world: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[09:13] To The_men_of_world: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[09:13] <rives> !kit survival ",
+    "[09:13] [8b8t] >> Teleporting to home 0...",
+    "[09:13] [8b8t] >> Teleporting to home 1...",
+    "[09:13] To rives: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:13] <The_men_of_world> !kit stach ",
+    "[09:13] To rives: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[09:13] To The_men_of_world: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[09:13] [8b8t] >> Request sent to rives",
+    "[09:13] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 15,
@@ -883,11 +883,12 @@
     "The_men_of_world": 3,
     "ElDexterino": 1,
     "Phi1l0soph3r": 2,
-    "R29EER": 1
+    "R29EER": 1,
+    "rives": 1
   },
   "kitStats": {
     "build": 376,
-    "survival": 1412,
+    "survival": 1413,
     "pvp": 1880,
     "dupe": 374,
     "tools": 473,
