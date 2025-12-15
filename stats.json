@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:04:19 16/12/2025",
+  "lastUpdated": "03:04:27 16/12/2025",
   "totalKits": 66667,
   "todayKits": 151,
   "onlineCount": 52,
   "peakPlayers": 62,
-  "tps": "15.0",
+  "tps": "9.0",
   "ping": 222,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2063
+      "count": 2064
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:02] To SkibidiSigmaMaxi: You're on cooldown, try again in 17 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[03:02] [BOT] <0_HienBot> Hi yagohind! ",
-    "[03:02] <jomxtv> !kits ",
-    "[03:02] elmasi74 has made the advancement [Take Aim]",
-    "[03:03] <selecboo> ppss ",
-    "[03:03] <jomxtv> !kit ",
-    "[03:03] To jomxtv: Hello jomxtv!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[03:03] <.LEON50758> hanae ",
     "[03:03] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
     "[03:03] <jomxtv> !kit toolbox ",
     "[03:03] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +93,15 @@
     "[03:04] [8b8t] >> The command /seed is not allowed",
     "[03:04] To BoroBhai: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[03:04] [8b8t] >> Request sent to BoroBhai",
-    "[03:04] [8b8t] >> Teleporting..."
+    "[03:04] [8b8t] >> Teleporting...",
+    "[03:04] [8b8t] >> The command /seed is not allowed",
+    "[03:04] <SkibidiSigmaMaxi> !kit pvp ",
+    "[03:04] [8b8t] >> Teleporting to home 0...",
+    "[03:04] [8b8t] >> Teleporting to home 1...",
+    "[03:04] [BOT] <0_HienBot> Try /nc to change your name color! ",
+    "[03:04] To SkibidiSigmaMaxi: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:04] teh got shot by a skeleton",
+    "[03:04] To SkibidiSigmaMaxi:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates."
   ],
   "userStats": {
     "76756": 33,
@@ -944,7 +944,7 @@
     "Mateooohhh": 3,
     "darsacc": 3,
     "MAGME_uwu": 1,
-    "SkibidiSigmaMaxi": 8,
+    "SkibidiSigmaMaxi": 9,
     "alesino": 1,
     "crypticbow8997": 1,
     "Juapechu": 1,
@@ -954,7 +954,7 @@
   "kitStats": {
     "build": 402,
     "survival": 1538,
-    "pvp": 2063,
+    "pvp": 2064,
     "dupe": 411,
     "tools": 494,
     "stash": 219,
