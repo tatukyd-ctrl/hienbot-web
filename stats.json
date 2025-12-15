@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:10:24 15/12/2025",
-  "totalKits": 66355,
-  "todayKits": 180,
+  "lastUpdated": "17:10:36 15/12/2025",
+  "totalKits": 66356,
+  "todayKits": 181,
   "onlineCount": 18,
   "peakPlayers": 48,
-  "tps": "20.0",
-  "ping": 230,
+  "tps": "17.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 1930
+      "count": 1931
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:07] [8b8t] >> The TPA request you sent to aiueo123 was successfully canceled.",
-    "[17:08] [8b8t] >> The command /seed is not allowed",
-    "[17:08] <sweatysakhussALT> !kit glass ",
-    "[17:08] To sweatysakhussALT: You're on cooldown, try again in 16 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[17:08] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[17:08] <aiueo123> !kit pvp ",
-    "[17:08] To aiueo123: You're on cooldown, try again in 80 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[17:08] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[17:08] [BOT] <0_HienBot> What's up, 8b8t_net? ",
     "[17:08] SilentLukaMC got the wither disease",
@@ -101,7 +94,14 @@
     "[17:10] [8b8t] >> Please do not spam.",
     "[17:10] GEMEr09876 was eaten alive by a Zombie",
     "[17:10] .harePinki has made the advancement [Best Friends Forever]",
-    "[17:10] Phi1l0soph3r was eaten alive by a Zombie"
+    "[17:10] Phi1l0soph3r was eaten alive by a Zombie",
+    "[17:10] <v1nt4geum> !kit pvp ",
+    "[17:10] [8b8t] >> Teleporting to home 0...",
+    "[17:10] [8b8t] >> Teleporting to home 1...",
+    "[17:10] To v1nt4geum: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:10] To v1nt4geum: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:10] [8b8t] >> Request sent to v1nt4geum",
+    "[17:10] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 26,
@@ -907,12 +907,13 @@
     "Genghius": 1,
     "NaughtyAgain": 1,
     "sweatysakhussALT": 9,
-    "aiueo123": 1
+    "aiueo123": 1,
+    "v1nt4geum": 1
   },
   "kitStats": {
     "build": 383,
     "survival": 1449,
-    "pvp": 1930,
+    "pvp": 1931,
     "dupe": 384,
     "tools": 477,
     "stash": 214,
