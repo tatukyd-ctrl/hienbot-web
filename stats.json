@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:43:27 16/12/2025",
-  "totalKits": 66658,
-  "todayKits": 142,
-  "onlineCount": 53,
+  "lastUpdated": "02:43:42 16/12/2025",
+  "totalKits": 66659,
+  "todayKits": 143,
+  "onlineCount": 52,
   "peakPlayers": 62,
   "tps": "17.0",
   "ping": 220,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1532
+      "count": 1533
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:42] pikachungus forgot to stop, drop, and roll",
-    "[02:42] <resge> tampoco tan lejos xd ",
-    "[02:42] liam100414 has made the advancement [We Need to Go Deeper]",
-    "[02:42] <botchaosonix666> $dox resge ",
-    "[02:42] <LiluMC> AJAJJA ",
-    "[02:42] <botchaosonix666> HAHAHAHA ",
-    "[02:42] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[02:42] liam100414 decided to test gravity and lost",
     "[02:42] <SkibidiSigmaMaxi> algeuin me ayuda a salir del spawn ",
     "[02:42] <botchaosonix666> $dox botchaosonix666 ",
     "[02:42] Juapechu forgot to bring their parachute",
@@ -101,7 +93,15 @@
     "[02:43] [8b8t] >> The command /seed is not allowed",
     "[02:43] <SkibidiSigmaMaxi> gracias ",
     "[02:43] Juapechu thought they could make it to oxygen in time",
-    "[02:43] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 "
+    "[02:43] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
+    "[02:43] <resge> !kit survival ",
+    "[02:43] [8b8t] >> Teleporting to home 0...",
+    "[02:43] [8b8t] >> Teleporting to home 1...",
+    "[02:43] To resge: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:43] stalkerplugg challenged the Wither and lost their head",
+    "[02:43] To resge: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[02:43] [8b8t] >> Request sent to resge",
+    "[02:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 33,
@@ -334,7 +334,7 @@
     "quiraxd": 1,
     "SHADOW_EO": 1,
     "Skibidi_Rizzler8": 1,
-    "resge": 7,
+    "resge": 8,
     "osxtox": 1,
     "lorax": 1,
     ".Sami702MMPL": 3,
@@ -951,7 +951,7 @@
   },
   "kitStats": {
     "build": 401,
-    "survival": 1532,
+    "survival": 1533,
     "pvp": 2060,
     "dupe": 410,
     "tools": 493,
