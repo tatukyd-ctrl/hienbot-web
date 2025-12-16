@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:46:37 16/12/2025",
-  "totalKits": 67195,
-  "todayKits": 19,
-  "onlineCount": 31,
+  "lastUpdated": "20:46:53 16/12/2025",
+  "totalKits": 67196,
+  "todayKits": 20,
+  "onlineCount": 29,
   "peakPlayers": 37,
-  "tps": "18.0",
+  "tps": "16.0",
   "ping": 224,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2271
+      "count": 2272
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:44]  Perform the command /email associate to register",
-    "[20:44]  your email. By doing so, you",
-    "[20:44]  decrease the chance of being hacked.",
-    "[20:44] ",
-    "[20:44]   [Confirm read]",
-    "[20:44] ",
-    "[20:44] <flamefragsrage> !kit redstone ",
-    "[20:44] To flamefragsrage: You're on cooldown, try again in 62 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[20:44] [8b8t] >> The command /seed is not allowed",
     "[20:44] <DJSZKORG> !kit ",
     "[20:44] To DJSZKORG: Hello DJSZKORG!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[20:46] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
     "[20:46] <TomasMazza> ᴛᴩ ʙᴀꜱᴇ ",
     "[20:46] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[20:46] [8b8t] >> skyhaiff1 wants to teleport you to them /tpayes USERNAME /tpano USERNAME"
+    "[20:46] [8b8t] >> skyhaiff1 wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
+    "[20:46] <skyhaiff1> *kit pvp ",
+    "[20:46] [8b8t] >> Teleporting to home 0...",
+    "[20:46] [8b8t] >> Teleporting to home 1...",
+    "[20:46] To skyhaiff1: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:46] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[20:46] To skyhaiff1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:46] [8b8t] >> Request sent to skyhaiff1",
+    "[20:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 37,
@@ -608,7 +608,7 @@
     "oZairon": 5,
     "i7Davut": 1,
     ".zero154531": 4,
-    "skyhaiff1": 7,
+    "skyhaiff1": 8,
     "test_P_P": 1,
     "Ashwinnnegi": 7,
     "janhackerV": 20,
@@ -1030,7 +1030,7 @@
   "kitStats": {
     "build": 437,
     "survival": 1773,
-    "pvp": 2271,
+    "pvp": 2272,
     "dupe": 445,
     "tools": 521,
     "stash": 236,
