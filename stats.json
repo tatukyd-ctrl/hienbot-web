@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:01:08 16/12/2025",
+  "lastUpdated": "19:01:16 16/12/2025",
   "totalKits": 67123,
   "todayKits": 41,
   "onlineCount": 27,
   "peakPlayers": 28,
-  "tps": "12.0",
-  "ping": 232,
+  "tps": "15.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 442
+      "count": 443
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:58] To rubepc: Hello rubepc!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[18:59] rayaniscool got a deadly lesson from the Wither",
-    "[18:59] <real_weak_bhai> I send you tap but don't kill me ok ",
-    "[18:59] <rubepc> !kit dupe ",
-    "[18:59] [8b8t] >> Teleporting to home 0...",
-    "[18:59] [8b8t] >> Teleporting to home 8...",
-    "[18:59] To rubepc: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[18:59] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[18:59] To rubepc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[18:59] [8b8t] >> Request sent to rubepc",
     "[18:59] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[19:00] To real_weak_bhai: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:00] <.GPS4197> dont! ",
     "[19:00] [8b8t] >> Request sent to real_weak_bhai",
-    "[19:01] [8b8t] >> Teleporting..."
+    "[19:01] [8b8t] >> Teleporting...",
+    "[19:01] <rubepc> !kit dupe ",
+    "[19:01] [8b8t] >> Home 2 was not found",
+    "[19:01] [8b8t] >> Teleporting to home 8...",
+    "[19:01] To rubepc: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:01] [BOT] <0_HienBot> Try /nc to change your name color! ",
+    "[19:01] To rubepc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:01] [8b8t] >> The command /seed is not allowed",
+    "[19:01] [8b8t] >> Request sent to rubepc"
   ],
   "userStats": {
     "76756": 36,
@@ -1017,13 +1017,13 @@
     "Sibun_VN": 3,
     "fuecra": 3,
     "Ken Carso": 1,
-    "rubepc": 1
+    "rubepc": 2
   },
   "kitStats": {
     "build": 434,
     "survival": 1758,
     "pvp": 2254,
-    "dupe": 442,
+    "dupe": 443,
     "tools": 509,
     "stash": 234,
     "raid": 344,
