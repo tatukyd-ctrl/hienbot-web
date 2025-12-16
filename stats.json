@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:26:07 16/12/2025",
+  "lastUpdated": "21:26:37 16/12/2025",
   "totalKits": 67207,
   "todayKits": 31,
   "onlineCount": 31,
   "peakPlayers": 38,
-  "tps": "15.0",
-  "ping": 226,
+  "tps": "17.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1777
+      "count": 1778
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:24] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[21:25] elpromaxx got a deadly lesson from the Wither",
-    "[21:25] Mateooohhh died to a Piglin... I mean, Pigman... I mean, Zombified Piglin",
-    "[21:25] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
-    "[21:25] <Mateooohhh> !kit raid ",
-    "[21:25] [8b8t] >> Teleporting to home 0...",
-    "[21:25] [8b8t] >> Teleporting to home 3...",
     "[21:25] To Mateooohhh: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[21:25] .Sidduro got his head blown off by the Wither",
     "[21:25] To Mateooohhh: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +94,14 @@
     "[21:25] [8b8t] >> Please do not spam.",
     "[21:25] [8b8t] >> Request sent to Hien2309",
     "[21:25] [8b8t] >> Teleporting...",
-    "[21:25] [8b8t] >> The command /seed is not allowed"
+    "[21:25] [8b8t] >> The command /seed is not allowed",
+    "[21:26] <.Sidduro> !kit survival ",
+    "[21:26] [8b8t] >> Teleporting to home 0...",
+    "[21:26] [8b8t] >> Teleporting to home 1...",
+    "[21:26] To .Sidduro: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:26] To .Sidduro: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:26] [8b8t] >> Request sent to .Sidduro",
+    "[21:26] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes "
   ],
   "userStats": {
     "76756": 37,
@@ -1025,11 +1025,12 @@
     "Yusuft": 3,
     "LIZUUUUUUU": 1,
     "UNHORIZON1": 2,
-    "flamefragsrage": 4
+    "flamefragsrage": 4,
+    ".Sidduro": 1
   },
   "kitStats": {
     "build": 440,
-    "survival": 1777,
+    "survival": 1778,
     "pvp": 2273,
     "dupe": 446,
     "tools": 521,
