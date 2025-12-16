@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:04:37 16/12/2025",
-  "totalKits": 67178,
-  "todayKits": 2,
+  "lastUpdated": "20:04:49 16/12/2025",
+  "totalKits": 67179,
+  "todayKits": 3,
   "onlineCount": 28,
   "peakPlayers": 29,
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 221,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2266
+      "count": 2267
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:02] To Yusuft: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[20:02] To Yusuft: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[20:02] [8b8t] >> The command /seed is not allowed",
-    "[20:02] <person1100nc> !kit survival ",
-    "[20:02] [8b8t] >> Request sent to Yusuft",
-    "[20:02] [8b8t] >> Teleporting...",
-    "[20:02] [8b8t] >> Home 2 was not found",
-    "[20:03] <person1100nc> !kit survival ",
     "[20:03] [8b8t] >> Teleporting to home 0...",
     "[20:03] [8b8t] >> Teleporting to home 1...",
     "[20:03] To person1100nc: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,10 +93,18 @@
     "[20:04] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[20:04] 76756 was killed by a Warden... I mean, what did you expect?",
     "[20:04] LIZUUUUUUU got a deadly lesson from the Wither",
-    "[20:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[20:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:04] <76756> !kit pvp ",
+    "[20:04] [8b8t] >> Teleporting to home 0...",
+    "[20:04] [8b8t] >> Teleporting to home 1...",
+    "[20:04] To 76756: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:04] [BOT] <0_HienBot> July 10, 2025, the Avolution team built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[20:04] To 76756: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:04] [8b8t] >> Request sent to 76756",
+    "[20:04] [8b8t] >> Teleporting..."
   ],
   "userStats": {
-    "76756": 36,
+    "76756": 37,
     "323435634": 1,
     "Alecraft8": 17,
     "Victua7397": 41,
@@ -1027,7 +1027,7 @@
   "kitStats": {
     "build": 437,
     "survival": 1766,
-    "pvp": 2266,
+    "pvp": 2267,
     "dupe": 445,
     "tools": 518,
     "stash": 236,
