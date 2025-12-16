@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:02:56 16/12/2025",
+  "lastUpdated": "20:03:07 16/12/2025",
   "totalKits": 67177,
   "todayKits": 1,
-  "onlineCount": 27,
-  "peakPlayers": 27,
-  "tps": "8.0",
-  "ping": 0,
+  "onlineCount": 28,
+  "peakPlayers": 28,
+  "tps": "16.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1765
+      "count": 1766
     },
     {
       "name": "tools",
@@ -91,7 +91,16 @@
     "[20:02] [8b8t] >> The command /seed is not allowed",
     "[20:02] <person1100nc> !kit survival ",
     "[20:02] [8b8t] >> Request sent to Yusuft",
-    "[20:02] [8b8t] >> Teleporting..."
+    "[20:02] [8b8t] >> Teleporting...",
+    "[20:02] [8b8t] >> Home 2 was not found",
+    "[20:03] <person1100nc> !kit survival ",
+    "[20:03] [8b8t] >> Teleporting to home 0...",
+    "[20:03] [8b8t] >> Teleporting to home 1...",
+    "[20:03] To person1100nc: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:03] [8b8t] >> The command /seed is not allowed",
+    "[20:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:03] To person1100nc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:03] [8b8t] >> Request sent to person1100nc"
   ],
   "userStats": {
     "76756": 36,
@@ -164,7 +173,7 @@
     "oRiolon1": 1,
     "Emirbaba72926": 1,
     "HCM100": 1,
-    "person1100nc": 15,
+    "person1100nc": 16,
     "Sniptoes": 10,
     "Pia01_Vn": 17,
     "Poptobaco": 3,
@@ -1016,7 +1025,7 @@
   },
   "kitStats": {
     "build": 437,
-    "survival": 1765,
+    "survival": 1766,
     "pvp": 2266,
     "dupe": 445,
     "tools": 518,
