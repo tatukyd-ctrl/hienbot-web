@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:13:55 16/12/2025",
-  "totalKits": 66998,
-  "todayKits": 84,
+  "lastUpdated": "14:14:07 16/12/2025",
+  "totalKits": 66999,
+  "todayKits": 85,
   "onlineCount": 14,
   "peakPlayers": 59,
-  "tps": "19.0",
+  "tps": "15.0",
   "ping": 219,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1732
+      "count": 1733
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:10] [8b8t] >> The command /seed is not allowed",
-    "[14:10] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[14:10] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[14:10] <s4yson> !kit raid ",
-    "[14:10] [8b8t] >> Teleporting to home 0...",
-    "[14:10] [8b8t] >> Teleporting to home 3...",
-    "[14:10] To s4yson: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[14:10] To s4yson: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[14:10] [8b8t] >> Request sent to s4yson",
     "[14:10] .Sidduro thought they could make it to oxygen in time",
@@ -101,7 +94,14 @@
     "[14:13] [BOT] <0_HienBot> 𝙒𝙖𝙣𝙩 𝙠𝙞𝙩 ?? 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 ",
     "[14:13] EykH3aven thought a Zombie was friendly",
     "[14:13] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:13] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> "
+    "[14:13] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[14:13] <s4yson> !kit survival ",
+    "[14:13] [8b8t] >> Teleporting to home 0...",
+    "[14:13] [8b8t] >> Teleporting to home 1...",
+    "[14:13] To s4yson: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:14] To s4yson: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:14] [8b8t] >> Request sent to s4yson",
+    "[14:14] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 36,
@@ -1003,11 +1003,11 @@
     "L1derrFrog": 1,
     "EykH3aven": 1,
     "ruumx": 1,
-    "s4yson": 1
+    "s4yson": 2
   },
   "kitStats": {
     "build": 426,
-    "survival": 1732,
+    "survival": 1733,
     "pvp": 2191,
     "dupe": 436,
     "tools": 508,
