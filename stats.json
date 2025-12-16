@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:02:16 16/12/2025",
+  "lastUpdated": "19:02:46 16/12/2025",
   "totalKits": 67123,
   "todayKits": 41,
-  "onlineCount": 26,
+  "onlineCount": 25,
   "peakPlayers": 28,
-  "tps": "18.0",
-  "ping": 232,
+  "tps": "19.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2254
+      "count": 2255
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:00] <real_weak_bhai> !kit survival ",
-    "[19:00] [8b8t] >> Teleporting to home 0...",
-    "[19:00] [8b8t] >> Teleporting to home 1...",
-    "[19:00] To real_weak_bhai: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:00] To real_weak_bhai: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:00] <.GPS4197> dont! ",
-    "[19:00] [8b8t] >> Request sent to real_weak_bhai",
-    "[19:01] [8b8t] >> Teleporting...",
-    "[19:01] <rubepc> !kit dupe ",
-    "[19:01] [8b8t] >> Home 2 was not found",
     "[19:01] [8b8t] >> Teleporting to home 8...",
     "[19:01] To rubepc: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[19:01] [BOT] <0_HienBot> Try /nc to change your name color! ",
@@ -101,7 +91,17 @@
     "[19:02] To pulpo14: Your kit (wool) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[19:02] To pulpo14: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:02] [8b8t] >> Request sent to pulpo14",
-    "[19:02] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 "
+    "[19:02] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
+    "[19:02] <real_weak_bhai> ok ",
+    "[19:02] <rubepc> *kit ",
+    "[19:02] To rubepc: Hello rubepc!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[19:02] caozhongze tried to outswim the water",
+    "[19:02] <.GPS4197> !kit pvp ",
+    "[19:02] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
+    "[19:02] [8b8t] >> Teleporting to home 0...",
+    "[19:02] [8b8t] >> No TPA request found",
+    "[19:02] [8b8t] >> Teleporting to home 1...",
+    "[19:02] To .GPS4197: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 36,
@@ -980,7 +980,7 @@
     "daniloboris": 7,
     "LOL_Joako": 3,
     "Lo_52_99xray": 1,
-    ".GPS4197": 13,
+    ".GPS4197": 14,
     "xzbcv": 1,
     "ffrayy": 2,
     "_naato": 2,
@@ -1022,7 +1022,7 @@
   "kitStats": {
     "build": 434,
     "survival": 1758,
-    "pvp": 2254,
+    "pvp": 2255,
     "dupe": 443,
     "tools": 509,
     "stash": 234,
