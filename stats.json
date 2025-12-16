@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:17:25 16/12/2025",
-  "totalKits": 67001,
-  "todayKits": 87,
-  "onlineCount": 15,
+  "lastUpdated": "14:17:35 16/12/2025",
+  "totalKits": 67002,
+  "todayKits": 88,
+  "onlineCount": 14,
   "peakPlayers": 59,
-  "tps": "17.0",
+  "tps": "18.0",
   "ping": 216,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2193
+      "count": 2194
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:15] <s4yson> !kit raid ",
-    "[14:15] [8b8t] >> Teleporting to home 0...",
-    "[14:15] [8b8t] >> Teleporting to home 3...",
-    "[14:15] To s4yson: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[14:15] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
-    "[14:15] To s4yson: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[14:15] [8b8t] >> Request sent to s4yson",
     "[14:15] [8b8t] >> Teleporting...",
     "[14:15] [8b8t] >> Home 2 was not found",
     "[14:15] ruumx decided to test gravity and lost",
@@ -101,7 +94,14 @@
     "[14:16] [8b8t] >> The command /seed is not allowed",
     "[14:16] [8b8t] >> Home 2 was not found",
     "[14:16] [8b8t] >> The command /seed is not allowed",
-    "[14:17] [BOT] <0_HienBot> Hey .Sidduro! "
+    "[14:17] [BOT] <0_HienBot> Hey .Sidduro! ",
+    "[14:17] <s4yson> !kit pvp ",
+    "[14:17] [8b8t] >> Teleporting to home 0...",
+    "[14:17] [8b8t] >> Teleporting to home 1...",
+    "[14:17] To s4yson: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:17] To s4yson: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:17] [8b8t] >> Request sent to s4yson",
+    "[14:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 36,
@@ -1003,13 +1003,13 @@
     "L1derrFrog": 1,
     "EykH3aven": 1,
     "ruumx": 1,
-    "s4yson": 3,
+    "s4yson": 4,
     "BanaaanekCZLP": 2
   },
   "kitStats": {
     "build": 426,
     "survival": 1733,
-    "pvp": 2193,
+    "pvp": 2194,
     "dupe": 436,
     "tools": 508,
     "stash": 228,
