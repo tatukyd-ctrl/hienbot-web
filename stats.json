@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:49:38 16/12/2025",
+  "lastUpdated": "17:49:46 16/12/2025",
   "totalKits": 67086,
   "todayKits": 4,
   "onlineCount": 22,
   "peakPlayers": 24,
-  "tps": "17.0",
+  "tps": "16.0",
   "ping": 229,
   "topUsers": [
     {
@@ -17,12 +17,12 @@
       "count": 103
     },
     {
-      "name": ".LEON50758",
+      "name": "Bakivn_bot",
       "count": 99
     },
     {
-      "name": "Bakivn_bot",
-      "count": 98
+      "name": ".LEON50758",
+      "count": 99
     },
     {
       "name": "TylerDurden098",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2239
+      "count": 2240
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:48] To .SPYDER2091: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:48] To .SPYDER2091: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:48] [8b8t] >> Request sent to .SPYDER2091",
-    "[17:48] <DeadlyNyxian> !kit survival ",
-    "[17:48] <BicemYT> bruh ",
-    "[17:48] To DeadlyNyxian: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[17:48] <.LEON50758> hanae0 oyuna girsin dupe elettirecem ",
     "[17:48] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
     "[17:48] BicemYT decided to test gravity and lost",
@@ -101,7 +95,13 @@
     "[17:49] To DeadlyNyxian: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[17:49] [8b8t] >> Request sent to DeadlyNyxian",
     "[17:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[17:49] [8b8t] >> Teleporting..."
+    "[17:49] [8b8t] >> Teleporting...",
+    "[17:49] <Bakivn_bot> !kit pvp ",
+    "[17:49] [8b8t] >> Home 2 was not found",
+    "[17:49] [8b8t] >> Teleporting to home 0...",
+    "[17:49] [8b8t] >> Teleporting to home 1...",
+    "[17:49] To Bakivn_bot: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:49] To Bakivn_bot: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 36,
@@ -167,7 +167,7 @@
     "Serbere_DK": 1,
     "creator79367": 3,
     "baccu_gamer_69": 1,
-    "Bakivn_bot": 98,
+    "Bakivn_bot": 99,
     "c4tk": 5,
     "uigg": 2,
     "denise334": 31,
@@ -1016,7 +1016,7 @@
   "kitStats": {
     "build": 433,
     "survival": 1748,
-    "pvp": 2239,
+    "pvp": 2240,
     "dupe": 440,
     "tools": 509,
     "stash": 232,
