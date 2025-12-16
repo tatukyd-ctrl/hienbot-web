@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:45:55 16/12/2025",
-  "totalKits": 67049,
-  "todayKits": 135,
-  "onlineCount": 25,
+  "lastUpdated": "16:46:23 16/12/2025",
+  "totalKits": 67050,
+  "todayKits": 136,
+  "onlineCount": 22,
   "peakPlayers": 59,
-  "tps": "13.0",
-  "ping": 275,
+  "tps": "19.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2215
+      "count": 2216
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:44] <Bakivn_bot> !kit pvp ",
-    "[16:44] [8b8t] >> Teleporting to home 0...",
-    "[16:44] [8b8t] >> Teleporting to home 1...",
-    "[16:45] To Bakivn_bot: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[16:45] To Bakivn_bot: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[16:45] <ScreaM8989> bueno si necesitas algo avisa entonces ",
-    "[16:45] [8b8t] >> Request sent to Bakivn_bot",
-    "[16:45] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[16:45] <Vrata2men> !kit stash ",
-    "[16:45] To Vrata2men: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[16:45] <zzxgp_ThIGS> . ",
-    "[16:45] <Vrata2men> !kit stash ",
-    "[16:45] To Vrata2men: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[16:45] [8b8t] >> Teleporting...",
     "[16:45] <PeriquitoMC> los cohetes :v ",
     "[16:45] <Vrata2men> !kit stash ",
@@ -101,7 +88,20 @@
     "[16:45] [8b8t] >> Request sent to Vrata2men",
     "[16:45] [8b8t] >> Teleporting...",
     "[16:45] [8b8t] >> The command /seed is not allowed",
-    "[16:45] [BOT] <0_HienBot> Hmmmmmmmmm "
+    "[16:45] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[16:46] <man_altt07> !kit list ",
+    "[16:46] To man_altt07: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[16:46] <zzxgp_ThIGS> !kit survival ",
+    "[16:46] To zzxgp_ThIGS: You're on cooldown, try again in 7 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[16:46] <NeoYT> !kit pvp ",
+    "[16:46] [8b8t] >> Teleporting to home 0...",
+    "[16:46] [8b8t] >> Teleporting to home 1...",
+    "[16:46] To NeoYT: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:46] To NeoYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:46] [8b8t] >> Request sent to NeoYT",
+    "[16:46] [8b8t] >> Teleporting...",
+    "[16:46] elpromaxx got his head blown off by the Wither",
+    "[16:46] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me "
   ],
   "userStats": {
     "76756": 36,
@@ -535,7 +535,7 @@
     "SystemMoon": 2,
     "Daleste": 10,
     "HairyComic4": 1,
-    "NeoYT": 8,
+    "NeoYT": 9,
     "BlueBlurGamingX": 5,
     "Ivyrisity": 11,
     "Tuanne_": 1,
@@ -1012,7 +1012,7 @@
   "kitStats": {
     "build": 430,
     "survival": 1740,
-    "pvp": 2215,
+    "pvp": 2216,
     "dupe": 438,
     "tools": 509,
     "stash": 232,
