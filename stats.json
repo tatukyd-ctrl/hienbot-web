@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:35:28 16/12/2025",
+  "lastUpdated": "19:35:46 16/12/2025",
   "totalKits": 67152,
   "todayKits": 70,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 30,
-  "tps": "15.0",
+  "tps": "17.0",
   "ping": 232,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 516
+      "count": 517
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:31] [8b8t] >> Request sent to trelo0",
-    "[19:31] Barexxty has made the advancement [Not Quite \"Nine\" Lives]",
-    "[19:31] [8b8t] >> Teleporting...",
-    "[19:31] [8b8t] >> Home 2 was not found",
-    "[19:32] [8b8t] >> The command /seed is not allowed",
-    "[19:32] TylerDurden098 Whispers: pay attension to the chat",
-    "[19:32] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[19:32] .JumboCow9343827 got his head blown off by the Wither",
     "[19:32] [BOT] <0_HienBot> 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 𝙩𝙤 𝙜𝙚𝙩 f𝙧𝙚𝙚 𝙠𝙞𝙩 ",
     "[19:32] <pulpo14> ¡kit ",
     "[19:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +93,15 @@
     "[19:35] To trelo0: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:35] [8b8t] >> Request sent to trelo0",
     "[19:35] [8b8t] >> Teleporting...",
-    "[19:35] 0_HienBot was rekt by trelo0 and their mighty [netherite sword]"
+    "[19:35] 0_HienBot was rekt by trelo0 and their mighty [netherite sword]",
+    "[19:35] [8b8t] >> The command /seed is not allowed",
+    "[19:35] <person1100nc> !kit list ",
+    "[19:35] To person1100nc: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[19:35] <person1100nc> !kit tools ",
+    "[19:35] [8b8t] >> Teleporting to home 0...",
+    "[19:35] [8b8t] >> Teleporting to home 8...",
+    "[19:35] To person1100nc: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:35] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t "
   ],
   "userStats": {
     "76756": 36,
@@ -174,7 +174,7 @@
     "oRiolon1": 1,
     "Emirbaba72926": 1,
     "HCM100": 1,
-    "person1100nc": 9,
+    "person1100nc": 10,
     "Sniptoes": 10,
     "Pia01_Vn": 17,
     "Poptobaco": 3,
@@ -1026,7 +1026,7 @@
     "survival": 1760,
     "pvp": 2259,
     "dupe": 445,
-    "tools": 516,
+    "tools": 517,
     "stash": 235,
     "raid": 347,
     "wood": 126,
