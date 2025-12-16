@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:11:46 16/12/2025",
+  "lastUpdated": "19:12:16 16/12/2025",
   "totalKits": 67135,
   "todayKits": 53,
   "onlineCount": 25,
   "peakPlayers": 28,
-  "tps": "15.0",
-  "ping": 232,
+  "tps": "16.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:09] [8b8t] >> The command /seed is not allowed",
-    "[19:09] <Ben9304> !kit tools ",
-    "[19:09] [8b8t] >> Teleporting to home 0...",
-    "[19:09] [8b8t] >> Teleporting to home 8...",
-    "[19:09] To Ben9304: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:09] To Ben9304: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:09] [8b8t] >> Request sent to Ben9304",
-    "[19:09] [8b8t] >> Teleporting...",
     "[19:09] [BOT] <0_HienBot> Do !𝙠𝙞𝙩 ",
     "[19:09] [8b8t] >> Home 2 was not found",
     "[19:09] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +93,15 @@
     "[19:11] [8b8t] >> Teleporting...",
     "[19:11] 0_HienBot was EZ clapped by Ben9304 using [Shambala Society Sword]",
     "[19:11] [8b8t] >> The command /seed is not allowed",
-    "[19:11] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 "
+    "[19:11] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
+    "[19:12] [Pro+] <Ken Carso> !kit armortrims ",
+    "[19:12] [8b8t] >> Teleporting to home 0...",
+    "[19:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[19:12] [8b8t] >> Teleporting to home 8...",
+    "[19:12] [8b8t] >> Could not find player Ken",
+    "[19:12] [8b8t] >> Could not find player Ken",
+    "[19:12] [8b8t] >> Player Ken is not online",
+    "[19:12] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t "
   ],
   "userStats": {
     "76756": 36,
@@ -1016,7 +1016,7 @@
     "Abhigyan_pro": 2,
     "Sibun_VN": 3,
     "fuecra": 3,
-    "Ken Carso": 1,
+    "Ken Carso": 2,
     "rubepc": 4
   },
   "kitStats": {
@@ -1039,7 +1039,7 @@
     "shulker": 141,
     "terracotta": 8,
     "end": 139,
-    "armortrims": 98,
+    "armortrims": 99,
     "highway": 112,
     "ocean": 7,
     "concrete": 104,
