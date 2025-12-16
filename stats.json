@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:48:46 16/12/2025",
+  "lastUpdated": "19:49:16 16/12/2025",
   "totalKits": 67166,
   "todayKits": 84,
-  "onlineCount": 26,
+  "onlineCount": 28,
   "peakPlayers": 32,
-  "tps": "17.0",
-  "ping": 236,
+  "tps": "19.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2261
+      "count": 2262
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:46] [8b8t] >> Request sent to .GPS4197",
-    "[19:46] [BOT] <0_HienBot> Welcome to 8b8t, PistonCubeB0T! ",
-    "[19:46] [8b8t] >> Teleporting...",
-    "[19:46] TomasMazza Whispers: !kit raid",
-    "[19:46] To TomasMazza: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[19:46] [8b8t] >> Home 2 was not found",
-    "[19:46] [8b8t] >> The command /seed is not allowed",
-    "[19:47] <.GPS4197> !kit pvp ",
-    "[19:47] To .GPS4197: You're on cooldown, try again in 78 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[19:47] <Red_Fragment_> dihhhh ",
     "[19:47] <Red_Fragment_> oh my dihh ",
     "[19:47] <Abols152362> !kit raid ",
@@ -101,7 +92,16 @@
     "[19:47] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[19:48] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[19:48] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[19:48] [BOT] <0_HienBot> Use /kill to kill yourself! "
+    "[19:48] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[19:49] <person1100nc> !kit pvp ",
+    "[19:49] [8b8t] >> Teleporting to home 0...",
+    "[19:49] [8b8t] >> Teleporting to home 1...",
+    "[19:49] <.GPS4197> !kit pvp ",
+    "[19:49] To .GPS4197: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[19:49] To person1100nc: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:49] [BOT] <0_HienBot> Hey Red_Fragment_! ",
+    "[19:49] To person1100nc: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:49] [8b8t] >> Request sent to person1100nc"
   ],
   "userStats": {
     "76756": 36,
@@ -174,7 +174,7 @@
     "oRiolon1": 1,
     "Emirbaba72926": 1,
     "HCM100": 1,
-    "person1100nc": 12,
+    "person1100nc": 13,
     "Sniptoes": 10,
     "Pia01_Vn": 17,
     "Poptobaco": 3,
@@ -1024,7 +1024,7 @@
   "kitStats": {
     "build": 437,
     "survival": 1763,
-    "pvp": 2261,
+    "pvp": 2262,
     "dupe": 445,
     "tools": 517,
     "stash": 236,
