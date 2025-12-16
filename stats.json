@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:46:16 16/12/2025",
-  "totalKits": 67113,
-  "todayKits": 31,
-  "onlineCount": 23,
+  "lastUpdated": "18:46:31 16/12/2025",
+  "totalKits": 67114,
+  "todayKits": 32,
+  "onlineCount": 22,
   "peakPlayers": 24,
   "tps": "18.0",
   "ping": 232,
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:44] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[18:44] .Sidduro got his head blown off by the Wither",
-    "[18:44] [Pro+] <L1derrFrog> 200 ",
-    "[18:44] <Sibun_VN> !kit pvp ",
-    "[18:44] [8b8t] >> Teleporting to home 0...",
-    "[18:44] [8b8t] >> Teleporting to home 1...",
-    "[18:44] To Sibun_VN: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[18:44] [BOT] <0_HienBot> July 10, 2025, the Avolution team built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[18:44] To Sibun_VN: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[18:44] [8b8t] >> Request sent to Sibun_VN",
     "[18:44] [8b8t] >> Teleporting...",
     "[18:44] [8b8t] >> Home 2 was not found",
@@ -101,7 +92,16 @@
     "[18:46] To Sibun_VN: You're on cooldown, try again in 18 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[18:46] <real_weak_bhai> me ",
     "[18:46] [BOT] <0_HienBot> Do !discord ",
-    "[18:46] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[18:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:46] <Sibun_VN> !kit stash ",
+    "[18:46] To Sibun_VN: You're on cooldown, try again in 5 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[18:46] <Sibun_VN> !kit stash ",
+    "[18:46] [8b8t] >> Teleporting to home 0...",
+    "[18:46] [8b8t] >> Teleporting to home 3...",
+    "[18:46] To Sibun_VN: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:46] To Sibun_VN: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[18:46] [8b8t] >> Request sent to Sibun_VN",
+    "[18:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 36,
@@ -1014,7 +1014,7 @@
     ".SPYDER2091": 1,
     "frogwavesz": 3,
     "Abhigyan_pro": 2,
-    "Sibun_VN": 2
+    "Sibun_VN": 3
   },
   "kitStats": {
     "build": 433,
@@ -1022,7 +1022,7 @@
     "pvp": 2254,
     "dupe": 441,
     "tools": 509,
-    "stash": 233,
+    "stash": 234,
     "raid": 341,
     "wood": 124,
     "exp": 207,
