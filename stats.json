@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:49:46 16/12/2025",
+  "lastUpdated": "18:50:16 16/12/2025",
   "totalKits": 67116,
   "todayKits": 34,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 24,
-  "tps": "20.0",
-  "ping": 231,
+  "tps": "16.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:47] <fuecra> !kit highway ",
-    "[18:47] [8b8t] >> Teleporting to home 0...",
-    "[18:47] [8b8t] >> Teleporting to home 7...",
-    "[18:47] To fuecra: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[18:47] To fuecra: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[18:47] [8b8t] >> Request sent to fuecra",
     "[18:47] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
@@ -101,7 +97,11 @@
     "[18:49] [BOT] <0_HienBot> Do !𝙠𝙞𝙩 ",
     "[18:49] [8b8t] >> The command /seed is not allowed",
     "[18:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[18:49] [BOT] <0_HienBot> Hello DLL! "
+    "[18:49] [BOT] <0_HienBot> Hello DLL! ",
+    "[18:50] real_weak_bhai thought they could fly... they couldn't",
+    "[18:50] [BOT] <0_HienBot> Hey Gosankyo! ",
+    "[18:50] [Pro+] <Ken Carso> !kit dye ",
+    "[18:50] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 36,
@@ -1015,7 +1015,8 @@
     "frogwavesz": 3,
     "Abhigyan_pro": 2,
     "Sibun_VN": 3,
-    "fuecra": 1
+    "fuecra": 1,
+    "Ken Carso": 1
   },
   "kitStats": {
     "build": 433,
@@ -1027,7 +1028,7 @@
     "raid": 341,
     "wood": 124,
     "exp": 207,
-    "dye": 73,
+    "dye": 74,
     "wool": 87,
     "mineral": 170,
     "food": 130,
