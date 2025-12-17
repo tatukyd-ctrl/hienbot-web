@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:49:27 17/12/2025",
+  "lastUpdated": "13:49:57 17/12/2025",
   "totalKits": 67973,
   "todayKits": 399,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 69,
-  "tps": "4.0",
-  "ping": 0,
+  "tps": "3.0",
+  "ping": 13654,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1940
+      "count": 1941
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:47] ",
-    "[13:47] <ilecter> help me ",
-    "[13:47] [8b8t] >> The command /seed is not allowed",
-    "[13:48] <Zephyrion1> yo necesito de /tpahere ",
-    "[13:48] cirochia got slammed into a wall by his elytra",
-    "[13:48] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-    "[13:48] [8b8t] >> Your login session has been continued.",
-    "[13:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[13:48] ",
     "[13:48]  [8builders8tools]",
     "[13:48]  Perform the command /email associate to register",
@@ -101,7 +93,15 @@
     "[13:49] <0_HienBot> >Try /nc to change your name color!",
     "[13:49] [8b8t] >> Welcome Leeewiith3Es to 8b8t.me Lobby",
     "[13:49] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[13:49] You are already connected to this server!"
+    "[13:49] You are already connected to this server!",
+    "[13:49] [8b8t] >> The command /seed is not allowed",
+    "[13:49] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[13:49] <Vrata2men> !kit redston ",
+    "[13:49] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
+    "[13:49] Minet15 decided to test gravity and lost",
+    "[13:49] To Vrata2men: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[13:49] <Vrata2men> !kit redston ",
+    "[13:49] <XReiss_> !kit survival "
   ],
   "userStats": {
     "76756": 37,
@@ -1073,11 +1073,11 @@
     "M4X1GoD": 20,
     ".xXRinu_AleXx": 1,
     "DarkLoad_BigBear": 1,
-    "XReiss_": 5
+    "XReiss_": 6
   },
   "kitStats": {
     "build": 592,
-    "survival": 1940,
+    "survival": 1941,
     "pvp": 2518,
     "dupe": 479,
     "tools": 566,
