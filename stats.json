@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:01:00 17/12/2025",
+  "lastUpdated": "13:01:26 17/12/2025",
   "totalKits": 67945,
   "todayKits": 371,
-  "onlineCount": 28,
+  "onlineCount": 29,
   "peakPlayers": 69,
-  "tps": "13.0",
-  "ping": 239,
+  "tps": "18.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2510
+      "count": 2511
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:59] <Bakivn_bot> !kit build ",
-    "[12:59] [8b8t] >> Teleporting to home 0...",
-    "[12:59] [8b8t] >> Teleporting to home 3...",
-    "[12:59] To Bakivn_bot: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[12:59] [Mini] <Hien2309> !Kit survival ",
-    "[12:59] To Hien2309: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[12:59] [8b8t] >> Request sent to Bakivn_bot",
-    "[12:59] <GoldTade> estoybug ",
-    "[12:59] [Mini] <Hien2309> !kit survival ",
-    "[12:59] To Hien2309: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[13:00] [Mini] <Hien2309> !kit survival ",
     "[13:00] To Hien2309: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[13:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +91,17 @@
     "[13:00] To Hien2309: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[13:00] [8b8t] >> Request sent to Hien2309",
     "[13:00] [8b8t] >> Teleporting...",
-    "[13:00] 0_HienBot was pwned by Hien2309 wielding [netherite sword]"
+    "[13:00] 0_HienBot was pwned by Hien2309 wielding [netherite sword]",
+    "[13:01] [8b8t] >> The command /seed is not allowed",
+    "[13:01] m9anx was destroyed by GoldTade",
+    "[13:01] [8b8t] >> The command /seed is not allowed",
+    "[13:01] <dextromc> t ",
+    "[13:01] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
+    "[13:01] TheKetchup_ thought they could fly... they couldn't",
+    "[13:01] <m9anx> !kit pvp ",
+    "[13:01] [8b8t] >> Teleporting to home 0...",
+    "[13:01] [8b8t] >> Teleporting to home 1...",
+    "[13:01] To m9anx: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 37,
@@ -120,7 +120,7 @@
     "paidpopbob": 1,
     ".MISPOK9194": 24,
     "Hien2309": 54,
-    "m9anx": 61,
+    "m9anx": 62,
     "xsNerox": 2,
     "RiseCPvP": 55,
     "dylan20392334": 4,
@@ -1078,7 +1078,7 @@
   "kitStats": {
     "build": 577,
     "survival": 1935,
-    "pvp": 2510,
+    "pvp": 2511,
     "dupe": 479,
     "tools": 566,
     "stash": 252,
