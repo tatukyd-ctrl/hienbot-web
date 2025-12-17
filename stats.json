@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:47:57 17/12/2025",
-  "totalKits": 68038,
-  "todayKits": 464,
+  "lastUpdated": "16:48:16 17/12/2025",
+  "totalKits": 68039,
+  "todayKits": 465,
   "onlineCount": 17,
   "peakPlayers": 69,
-  "tps": "19.0",
-  "ping": 240,
+  "tps": "18.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 1953
+      "count": 1954
     },
     {
       "name": "build",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:44] <elproplayerxddd> bruhhhhh ",
-    "[16:44] <PeriquitoMC> !kit Dupe ",
-    "[16:44] [8b8t] >> Teleporting to home 0...",
-    "[16:44] [8b8t] >> Teleporting to home 8...",
-    "[16:44] To PeriquitoMC: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[16:44] To PeriquitoMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[16:44] [8b8t] >> Request sent to PeriquitoMC",
     "[16:44] Folger46 has completed the challenge [Cover Me in Debris]",
     "[16:44] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
     "[16:45] [8b8t] >> The TPA request you sent to PeriquitoMC was successfully canceled.",
@@ -101,7 +94,14 @@
     "[16:47] <elproplayerxddd> votar por el servidor ",
     "[16:47] <.AdrianTecnic> aunque sea de bedrok.? ",
     "[16:47] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
-    "[16:47] MonkeBot got his head blown off by the Wither"
+    "[16:47] MonkeBot got his head blown off by the Wither",
+    "[16:48] <PeriquitoMC> !kit Survival ",
+    "[16:48] [8b8t] >> Teleporting to home 0...",
+    "[16:48] [8b8t] >> Teleporting to home 1...",
+    "[16:48] To PeriquitoMC: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:48] To PeriquitoMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:48] [8b8t] >> Request sent to PeriquitoMC",
+    "[16:48] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1082,11 +1082,11 @@
     "DEAD1XX": 1,
     "708090b": 1,
     ".AdrianTecnic": 1,
-    "PeriquitoMC": 1
+    "PeriquitoMC": 2
   },
   "kitStats": {
     "build": 602,
-    "survival": 1953,
+    "survival": 1954,
     "pvp": 2534,
     "dupe": 483,
     "tools": 573,
