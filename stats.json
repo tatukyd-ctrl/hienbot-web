@@ -1,16 +1,16 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:17:26 17/12/2025",
+  "lastUpdated": "11:17:56 17/12/2025",
   "totalKits": 67884,
   "todayKits": 310,
   "onlineCount": 39,
   "peakPlayers": 69,
   "tps": "18.0",
-  "ping": 580,
+  "ping": 272,
   "topUsers": [
     {
       "name": "Bakivn_bot",
-      "count": 184
+      "count": 185
     },
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 539
+      "count": 540
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:14] <Bakivn_bot> !kit build ",
-    "[11:14] [8b8t] >> Teleporting to home 0...",
-    "[11:14] [8b8t] >> Teleporting to home 3...",
-    "[11:14] To Bakivn_bot: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[11:14] To Bakivn_bot: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[11:14] [8b8t] >> Request sent to Bakivn_bot",
-    "[11:14] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[11:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:15] [8b8t] >> Teleporting...",
     "[11:15] 0_HienBot forgot to stop, drop, and roll",
     "[11:15] [8b8t] >> Home 2 was not found",
@@ -101,7 +93,15 @@
     "[11:16] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[11:16] Ralvinf has completed the challenge [Adventuring Time]",
     "[11:17] micca666 was eaten alive by a Zombie",
-    "[11:17] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 "
+    "[11:17] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
+    "[11:17] <iKloster> quien me regala comida porfa? ",
+    "[11:17] <Bakivn_bot> !kit build ",
+    "[11:17] [8b8t] >> Teleporting to home 0...",
+    "[11:17] [8b8t] >> Teleporting to home 3...",
+    "[11:17] To Bakivn_bot: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[11:17] [8b8t] >> Request sent to Bakivn_bot",
+    "[11:17] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[11:17] <M4X1GoD> pone !kit food "
   ],
   "userStats": {
     "76756": 37,
@@ -167,7 +167,7 @@
     "Serbere_DK": 1,
     "creator79367": 3,
     "baccu_gamer_69": 1,
-    "Bakivn_bot": 184,
+    "Bakivn_bot": 185,
     "c4tk": 5,
     "uigg": 2,
     "denise334": 34,
@@ -1074,7 +1074,7 @@
     ".xXRinu_AleXx": 1
   },
   "kitStats": {
-    "build": 539,
+    "build": 540,
     "survival": 1929,
     "pvp": 2501,
     "dupe": 475,
