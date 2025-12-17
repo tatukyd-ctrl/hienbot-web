@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:15:27 17/12/2025",
+  "lastUpdated": "15:15:57 17/12/2025",
   "totalKits": 67999,
   "todayKits": 425,
-  "onlineCount": 18,
+  "onlineCount": 17,
   "peakPlayers": 69,
-  "tps": "13.0",
-  "ping": 219,
+  "tps": "14.0",
+  "ping": 1235,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2523
+      "count": 2524
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:14] [8b8t] >> Request sent to MALDITA_KETA",
-    "[15:14] <JuTBz> !kit pvp ",
-    "[15:14] To JuTBz: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[15:14] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
-    "[15:14] <ClashRoyal_777> !kit build ",
-    "[15:14] To ClashRoyal_777: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[15:14] .Alondrax69 thought they could fly... they couldn't",
-    "[15:14] [Mini] <Hien2309> !Kit tools ",
-    "[15:14] [8b8t] >> Teleporting to home 0...",
-    "[15:14] [8b8t] >> No TPA request found",
     "[15:14] To Hien2309: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[15:14] [8b8t] >> The command /seed is not allowed",
     "[15:14] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
@@ -101,7 +91,17 @@
     "[15:15] <MALDITA_KETA> !kit build ",
     "[15:15] To MALDITA_KETA: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[15:15] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[15:15] 0_HienBot was slain by Hien2309 using [netherite sword]"
+    "[15:15] 0_HienBot was slain by Hien2309 using [netherite sword]",
+    "[15:15] [8b8t] >> Home 2 was not found",
+    "[15:15] [8b8t] >> The command /seed is not allowed",
+    "[15:15] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[15:15] <JuTBz> !kit pvp ",
+    "[15:15] [8b8t] >> Teleporting to home 0...",
+    "[15:15] To JuTBz: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:15] <ClashRoyal_777> !kit build ",
+    "[15:15] To ClashRoyal_777: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[15:15] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[15:15] MonkeBot forgot to eat"
   ],
   "userStats": {
     "76756": 37,
@@ -1076,12 +1076,13 @@
     "XReiss_": 6,
     "CallMeRuby": 3,
     "ngodo123": 2,
-    "MALDITA_KETA": 1
+    "MALDITA_KETA": 1,
+    "JuTBz": 1
   },
   "kitStats": {
     "build": 602,
     "survival": 1944,
-    "pvp": 2523,
+    "pvp": 2524,
     "dupe": 479,
     "tools": 570,
     "stash": 252,
