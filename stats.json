@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:41:27 17/12/2025",
-  "totalKits": 68086,
-  "todayKits": 512,
-  "onlineCount": 33,
+  "lastUpdated": "18:41:45 17/12/2025",
+  "totalKits": 68087,
+  "todayKits": 513,
+  "onlineCount": 32,
   "peakPlayers": 69,
-  "tps": "19.0",
-  "ping": 245,
+  "tps": "17.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -68,19 +68,10 @@
     },
     {
       "name": "dupe",
-      "count": 485
+      "count": 486
     }
   ],
   "chatLog": [
-    "[18:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[18:39] [8b8t] >> The command /seed is not allowed",
-    "[18:39] [BOT] <0_HienBot> Do !discord ",
-    "[18:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:39] <adrian15> no ",
-    "[18:40] <mohamed2024> !kit enderpale ",
-    "[18:40] To mohamed2024: You're on cooldown, try again in 56 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[18:40] <DeadlyNyxian> !kit pvp ",
-    "[18:40] [8b8t] >> Teleporting to home 0...",
     "[18:40] [8b8t] >> Teleporting to home 1...",
     "[18:40] To DeadlyNyxian: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[18:40] To DeadlyNyxian: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +92,16 @@
     "[18:41] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[18:41] <mohamed2024> !kit enderpale ",
     "[18:41] To mohamed2024: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[18:41] [Pro+] <L1derrFrog> asd "
+    "[18:41] [Pro+] <L1derrFrog> asd ",
+    "[18:41] <mohamed2024> !kit dupe ",
+    "[18:41] [8b8t] >> Teleporting to home 0...",
+    "[18:41] [8b8t] >> Teleporting to home 8...",
+    "[18:41] To mohamed2024: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:41] To mohamed2024: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[18:41] [8b8t] >> Request sent to mohamed2024",
+    "[18:41] [8b8t] >> Teleporting...",
+    "[18:41] <DeadlyNyxian> how to reve the set home ",
+    "[18:41] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 "
   ],
   "userStats": {
     "76756": 38,
@@ -1084,13 +1084,13 @@
     ".AdrianTecnic": 1,
     "PeriquitoMC": 7,
     "Maestr0u": 3,
-    "mohamed2024": 3
+    "mohamed2024": 4
   },
   "kitStats": {
     "build": 602,
     "survival": 1963,
     "pvp": 2549,
-    "dupe": 485,
+    "dupe": 486,
     "tools": 580,
     "stash": 254,
     "raid": 385,
