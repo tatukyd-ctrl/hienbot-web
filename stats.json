@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:36:14 19/12/2025",
+  "lastUpdated": "00:36:44 19/12/2025",
   "totalKits": 68838,
   "todayKits": 20,
-  "onlineCount": 1,
+  "onlineCount": 51,
   "peakPlayers": 61,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "18.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2781
+      "count": 2782
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:35] <tecladoz13> afk ",
-    "[00:35] <M4X1GoD> !kit toolbox ",
-    "[00:35] [8b8t] >> Teleporting to home 0...",
-    "[00:35] [8b8t] >> Teleporting to home 5...",
-    "[00:35] To M4X1GoD: Your kit (toolbox) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[00:35] Mateo_32 got the wither disease",
-    "[00:35] <jsmatey> mb ",
-    "[00:35] To M4X1GoD: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[00:35] [8b8t] >> Request sent to M4X1GoD",
-    "[00:35] <tecladoz13> juan as la granja ya vengo ",
-    "[00:35] [8b8t] >> Teleporting...",
-    "[00:35] <juanopx> garcias bro ",
-    "[00:35] <sepillin> adios ",
     "[00:36] <juanopx> adios bro ",
     "[00:36] <Juan_Dieg509170> ok ",
     "[00:36] <sepillin> de nada ",
@@ -101,7 +88,20 @@
     "[00:36]  decrease the chance of being hacked.",
     "[00:36] ",
     "[00:36]   [Confirm read]",
-    "[00:36] "
+    "[00:36] ",
+    "[00:36] .oneonefour14 was spider-snacked",
+    "[00:36] [8b8t] >> The command /seed is not allowed",
+    "[00:36] <nachobrantes> alvarito t funcionan los kit?? ",
+    "[00:36] <jsmatey> ty brol ",
+    "[00:36] <alvarito190764> !kit fly ",
+    "[00:36] To alvarito190764: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[00:36] Caromelo has made the advancement [We Need to Go Deeper]",
+    "[00:36] <M4X1GoD> !kit ",
+    "[00:36] To M4X1GoD: Hello M4X1GoD!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[00:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[00:36] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
+    "[00:36] <ponfhj> who want pvp ",
+    "[00:36] <alvarito190764> !kit PVP "
   ],
   "userStats": {
     "76756": 38,
@@ -1183,12 +1183,13 @@
     "Insanink": 8,
     "eloblaze_": 1,
     "Caromelo": 9,
-    "jsmatey": 2
+    "jsmatey": 2,
+    "alvarito190764": 1
   },
   "kitStats": {
     "build": 660,
     "survival": 2116,
-    "pvp": 2781,
+    "pvp": 2782,
     "dupe": 554,
     "tools": 629,
     "stash": 273,
