@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:31:14 18/12/2025",
-  "totalKits": 68678,
-  "todayKits": 71,
+  "lastUpdated": "19:31:39 18/12/2025",
+  "totalKits": 68679,
+  "todayKits": 72,
   "onlineCount": 28,
   "peakPlayers": 36,
-  "tps": "15.0",
-  "ping": 220,
+  "tps": "16.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2733
+      "count": 2734
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:26] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[19:26] <elproplayerxddd> bro esto tarda mucho xdddd ",
-    "[19:26] <Z_Cero> !kit build ",
-    "[19:26] [8b8t] >> Teleporting to home 0...",
-    "[19:26] [8b8t] >> Teleporting to home 3...",
-    "[19:26] To Z_Cero: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:26] To Z_Cero: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:26] [8b8t] >> Request sent to Z_Cero",
     "[19:26] [8b8t] >> Teleporting...",
     "[19:26] [8b8t] >> Home 2 was not found",
     "[19:26] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +93,15 @@
     "[19:30] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[19:30] <SlimeCrafter_99> bang ",
     "[19:30] <.Uqe1> accept it big ",
-    "[19:30] [BOT] <0_HienBot> Use /kill to kill yourself! "
+    "[19:30] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[19:31] [BOT] <0_HienBot> Welcome to 8b8t, KaaskopThomas! ",
+    "[19:31] <ballsocket> !kit pvp ",
+    "[19:31] [8b8t] >> Teleporting to home 0...",
+    "[19:31] [8b8t] >> Teleporting to home 1...",
+    "[19:31] To ballsocket: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:31] To ballsocket: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:31] [8b8t] >> Request sent to ballsocket",
+    "[19:31] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1168,12 +1168,13 @@
     "DIKTATORY": 10,
     "Airofi": 3,
     "Minute_Hecky": 1,
-    "grob8585": 2
+    "grob8585": 2,
+    "ballsocket": 1
   },
   "kitStats": {
     "build": 648,
     "survival": 2084,
-    "pvp": 2733,
+    "pvp": 2734,
     "dupe": 540,
     "tools": 623,
     "stash": 269,
