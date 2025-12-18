@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:02:14 18/12/2025",
-  "totalKits": 68621,
-  "todayKits": 14,
+  "lastUpdated": "17:02:30 18/12/2025",
+  "totalKits": 68622,
+  "todayKits": 15,
   "onlineCount": 22,
   "peakPlayers": 23,
-  "tps": "8.0",
+  "tps": "10.0",
   "ping": 237,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2068
+      "count": 2069
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:58] [BOT] <0_HienBot> Do !𝙠𝙞𝙩 ",
-    "[16:58] [8b8t] >> The command /seed is not allowed",
-    "[16:58] <DeadlyNyxian> hoe to unset home ",
-    "[16:58] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
-    "[16:59] <DeadlyNyxian> how to unset home ",
-    "[16:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[16:59] [BOT] <0_HienBot> The server's seed is : None ",
-    "[16:59] [Pro+] <> oh naw another panchito ",
     "[16:59] <xikade> !KİT PVP ",
     "[16:59] <xikade> !kit pvp ",
     "[16:59] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +93,15 @@
     "[17:01] <alvarito190764> ¡kit ",
     "[17:01] DeadlyNyxian thought they could fly... they couldn't",
     "[17:01] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[17:02] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[17:02] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[17:02] <DeadlyNyxian> !kit survival ",
+    "[17:02] [8b8t] >> Teleporting to home 0...",
+    "[17:02] [8b8t] >> Teleporting to home 1...",
+    "[17:02] To DeadlyNyxian: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:02] To DeadlyNyxian: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:02] [8b8t] >> Request sent to DeadlyNyxian",
+    "[17:02] [BOT] <0_HienBot> Welcome to 8b8t, senioremoney! ",
+    "[17:02] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1009,7 +1009,7 @@
     "man_altt07": 1,
     "zzxgp_ThIGS": 1,
     "vexynox": 1,
-    "DeadlyNyxian": 30,
+    "DeadlyNyxian": 31,
     "Leucosyts": 2,
     ".SPYDER2091": 1,
     "frogwavesz": 3,
@@ -1167,7 +1167,7 @@
   },
   "kitStats": {
     "build": 645,
-    "survival": 2068,
+    "survival": 2069,
     "pvp": 2724,
     "dupe": 535,
     "tools": 621,
