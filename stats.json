@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:12:44 18/12/2025",
-  "totalKits": 68730,
-  "todayKits": 20,
-  "onlineCount": 38,
+  "lastUpdated": "21:13:06 18/12/2025",
+  "totalKits": 68731,
+  "todayKits": 21,
+  "onlineCount": 39,
   "peakPlayers": 42,
-  "tps": "18.0",
-  "ping": 225,
+  "tps": "16.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2752
+      "count": 2753
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:11] To AndreiG9999: Your kit (shulker) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[21:11] <JustTh4tOn3Guy> $kit raid ",
-    "[21:11] To JustTh4tOn3Guy: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[21:11] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[21:11] To AndreiG9999: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[21:11] [8b8t] >> Request sent to AndreiG9999",
-    "[21:11] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[21:11] [8b8t] >> Teleporting...",
-    "[21:11] aaaaaau got his head blown off by the Wither",
-    "[21:11] [8b8t] >> Home 2 was not found",
     "[21:11] [8b8t] >> The command /seed is not allowed",
     "[21:11] manuek_el_rey was turned into a frog by a vengeful Witch",
     "[21:11] <skyhaiff1> who wanna pvp ",
@@ -101,7 +91,17 @@
     "[21:12] <physcorange> !kit illegal ",
     "[21:12] To physcorange: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[21:12] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[21:12] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
+    "[21:12] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[21:12] <physcorange> !kit pvp ",
+    "[21:12] [8b8t] >> Teleporting to home 0...",
+    "[21:12] [8b8t] >> Teleporting to home 1...",
+    "[21:12] <manuek_el_rey> !kit pvp ",
+    "[21:12] To physcorange: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:12] To physcorange: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:12] [8b8t] >> Request sent to physcorange",
+    "[21:13] <AndreiG9999> !kit armortrims ",
+    "[21:13] To AndreiG9999: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[21:13] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1174,12 +1174,13 @@
     "RedStardieYt": 1,
     "_SmallRhyme64891": 10,
     "JustTh4tOn3Guy": 2,
-    "MG_GT10": 1
+    "MG_GT10": 1,
+    "physcorange": 1
   },
   "kitStats": {
     "build": 651,
     "survival": 2096,
-    "pvp": 2752,
+    "pvp": 2753,
     "dupe": 544,
     "tools": 627,
     "stash": 269,
