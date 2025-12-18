@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:44:14 18/12/2025",
+  "lastUpdated": "17:44:44 18/12/2025",
   "totalKits": 68638,
   "todayKits": 31,
-  "onlineCount": 26,
-  "peakPlayers": 27,
-  "tps": "20.0",
+  "onlineCount": 28,
+  "peakPlayers": 28,
+  "tps": "15.0",
   "ping": 245,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2071
+      "count": 2072
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:42] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[17:42] [8b8t] >> Teleporting...",
-    "[17:42] <alvarito190764> a ",
-    "[17:42] <elproplayerxddd> no traigo kits ",
-    "[17:42] [BOT] <0_HienBot> Hello .AoDxPrince! ",
-    "[17:42] <elproplayerxddd> no puedo ir ami base ",
-    "[17:42] [8b8t] >> Home 2 was not found",
-    "[17:42] <Z_Cero> thanks ",
     "[17:42] <elproplayerxddd> tengo q matarme ",
     "[17:42] [8b8t] >> The command /seed is not allowed",
     "[17:42] <chocotat> me das un burro ",
@@ -101,7 +93,15 @@
     "[17:44] <grob8585> tpa cpvp 1x1 ",
     "[17:44] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
     "[17:44] <elproplayerxddd> aqui tienes ",
-    "[17:44] <chocotat> xd "
+    "[17:44] <chocotat> xd ",
+    "[17:44] <chocotat> gracias ",
+    "[17:44] <ngodo123> !kit survival ",
+    "[17:44] [8b8t] >> Teleporting to home 0...",
+    "[17:44] [8b8t] >> Teleporting to home 1...",
+    "[17:44] To ngodo123: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:44] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[17:44] To ngodo123: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:44] [8b8t] >> Request sent to ngodo123"
   ],
   "userStats": {
     "76756": 38,
@@ -1075,7 +1075,7 @@
     "DarkLoad_BigBear": 1,
     "XReiss_": 6,
     "CallMeRuby": 3,
-    "ngodo123": 15,
+    "ngodo123": 16,
     "MALDITA_KETA": 2,
     "JuTBz": 1,
     "lev_usachh": 1,
@@ -1172,7 +1172,7 @@
   },
   "kitStats": {
     "build": 646,
-    "survival": 2071,
+    "survival": 2072,
     "pvp": 2729,
     "dupe": 537,
     "tools": 621,
