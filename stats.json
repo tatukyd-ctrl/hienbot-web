@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:24:14 18/12/2025",
-  "totalKits": 68611,
-  "todayKits": 4,
+  "lastUpdated": "16:24:42 18/12/2025",
+  "totalKits": 68612,
+  "todayKits": 5,
   "onlineCount": 19,
   "peakPlayers": 20,
-  "tps": "15.0",
-  "ping": 239,
+  "tps": "19.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -60,7 +60,7 @@
     },
     {
       "name": "build",
-      "count": 642
+      "count": 643
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:23] [8b8t] >> Your login session has been continued.",
-    "[16:23] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[16:23] ",
-    "[16:23]  [8builders8tools]",
-    "[16:23]  Perform the command /email associate to register",
-    "[16:23]  your email. By doing so, you",
-    "[16:23]  decrease the chance of being hacked.",
-    "[16:23] ",
     "[16:23]   [Confirm read]",
     "[16:23] ",
     "[16:23] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +93,15 @@
     "[16:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:23] <Dark_C00lkidd> !kit orb ",
     "[16:23] To Dark_C00lkidd: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[16:24] [BOT] <0_HienBot> Hi darkee_67589! "
+    "[16:24] [BOT] <0_HienBot> Hi darkee_67589! ",
+    "[16:24] <Dark_C00lkidd> !kit build ",
+    "[16:24] [8b8t] >> Teleporting to home 0...",
+    "[16:24] [8b8t] >> Teleporting to home 3...",
+    "[16:24] To Dark_C00lkidd: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:24] To Dark_C00lkidd: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:24] [8b8t] >> Request sent to Dark_C00lkidd",
+    "[16:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[16:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1161,10 +1161,11 @@
     "Saitamaa": 11,
     ".AquaString08391": 4,
     "clubforsinners": 2,
-    "zanhee": 1
+    "zanhee": 1,
+    "Dark_C00lkidd": 1
   },
   "kitStats": {
-    "build": 642,
+    "build": 643,
     "survival": 2067,
     "pvp": 2722,
     "dupe": 533,
