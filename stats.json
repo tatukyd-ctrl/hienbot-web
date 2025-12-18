@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:17:44 18/12/2025",
-  "totalKits": 68698,
-  "todayKits": 91,
+  "lastUpdated": "20:18:08 18/12/2025",
+  "totalKits": 68699,
+  "todayKits": 92,
   "onlineCount": 36,
   "peakPlayers": 36,
-  "tps": "18.0",
+  "tps": "13.0",
   "ping": 223,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2740
+      "count": 2741
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:15] [Ultra] <7,600,000+> te aviso cuando me responda ",
-    "[20:15] <ibaz_12345> BRO ",
-    "[20:15] <Z_Cero> !kit armortrims ",
-    "[20:15] [8b8t] >> Teleporting to home 0...",
-    "[20:15] [8b8t] >> Teleporting to home 8...",
-    "[20:15] To Z_Cero: Your kit (armortrims) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[20:15] To Z_Cero: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[20:15] [8b8t] >> Request sent to Z_Cero",
     "[20:15] [8b8t] >> Teleporting...",
     "[20:16] [8b8t] >> Home 2 was not found",
     "[20:16] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +93,15 @@
     "[20:17] _SmallRhyme64891 was rekt by skyhaiff1 and their mighty [enchanted golden apple]",
     "[20:17] ElPip0 thought they could fly... they couldn't",
     "[20:17] VOLTAIKKKKK died to unknown causes",
-    "[20:17] [BOT] <0_HienBot> Hola MrDarkEye! "
+    "[20:17] [BOT] <0_HienBot> Hola MrDarkEye! ",
+    "[20:17] <ibaz_12345> !kit PVP ",
+    "[20:17] [8b8t] >> Teleporting to home 0...",
+    "[20:17] [8b8t] >> Teleporting to home 1...",
+    "[20:17] To ibaz_12345: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:18] To ibaz_12345: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:18] [8b8t] >> Request sent to ibaz_12345",
+    "[20:18] [8b8t] >> Teleporting...",
+    "[20:18] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
   ],
   "userStats": {
     "76756": 38,
@@ -1170,13 +1170,13 @@
     "Minute_Hecky": 1,
     "grob8585": 2,
     "ballsocket": 3,
-    "ibaz_12345": 8,
+    "ibaz_12345": 9,
     "RedStardieYt": 1
   },
   "kitStats": {
     "build": 648,
     "survival": 2091,
-    "pvp": 2740,
+    "pvp": 2741,
     "dupe": 544,
     "tools": 623,
     "stash": 269,
