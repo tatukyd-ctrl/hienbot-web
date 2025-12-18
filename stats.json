@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:54:50 18/12/2025",
+  "lastUpdated": "07:54:58 18/12/2025",
   "totalKits": 68454,
   "todayKits": 134,
   "onlineCount": 53,
   "peakPlayers": 63,
-  "tps": "18.0",
+  "tps": "17.0",
   "ping": 231,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2655
+      "count": 2656
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:53] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[07:53] <Mateo_32> !kit Mineral ",
-    "[07:53] [8b8t] >> Teleporting to home 0...",
-    "[07:53] [8b8t] >> Teleporting to home 4...",
-    "[07:53] To Mateo_32: Your kit (mineral) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[07:53] To Mateo_32: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[07:53] [8b8t] >> Request sent to Mateo_32",
-    "[07:53] [8b8t] >> Teleporting...",
     "[07:53] JCriiss has made the advancement [Withering Heights]",
     "[07:53] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
     "[07:53] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +93,15 @@
     "[07:54] <JCriiss> !kit ",
     "[07:54] To JCriiss: Hello JCriiss!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[07:54] <Mateo_32> !kit Build ",
-    "[07:54] To Mateo_32: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[07:54] To Mateo_32: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[07:54] [8b8t] >> Home 2 was not found",
+    "[07:54] <JCriiss> !kit pvp ",
+    "[07:54] [8b8t] >> Teleporting to home 0...",
+    "[07:54] [8b8t] >> Teleporting to home 1...",
+    "[07:54] To JCriiss: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[07:54] [BOT] <0_HienBot> The server's seed is : None ",
+    "[07:54] <ezeten2> nomme deja ",
+    "[07:54] To JCriiss: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 38,
@@ -970,7 +970,7 @@
     "8b8tduper": 3,
     "TRAZ": 1,
     "vaerib3960": 5,
-    "JCriiss": 15,
+    "JCriiss": 16,
     "zeromillion": 1,
     "R3spawnando": 2,
     "TheValtrackx": 2,
@@ -1140,7 +1140,7 @@
   "kitStats": {
     "build": 629,
     "survival": 2036,
-    "pvp": 2655,
+    "pvp": 2656,
     "dupe": 519,
     "tools": 612,
     "stash": 262,
