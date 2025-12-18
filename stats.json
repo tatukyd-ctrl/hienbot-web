@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:28:49 19/12/2025",
+  "lastUpdated": "05:28:55 19/12/2025",
   "totalKits": 69051,
   "todayKits": 76,
   "onlineCount": 64,
   "peakPlayers": 69,
-  "tps": "17.0",
+  "tps": "14.0",
   "ping": 229,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2855
+      "count": 2856
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:27] To .J3ZZEE: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[05:27] <Eliuxc_ZZ> quien da kit ",
-    "[05:27] To .J3ZZEE: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[05:27] [8b8t] >> Request sent to .J3ZZEE",
-    "[05:28] <polakinpro> !kit survival ",
     "[05:28] To polakinpro: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[05:28] bruns__ has completed the challenge [Subspace Bubble]",
     "[05:28] <Spike6259> !kit Highway ",
@@ -101,7 +96,12 @@
     "[05:28] To zelliy: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[05:28] [8b8t] >> Request sent to zelliy",
     "[05:28] [8b8t] >> Teleporting...",
-    "[05:28] <Eliuxc_ZZ> quien da kit de mapas "
+    "[05:28] <Eliuxc_ZZ> quien da kit de mapas ",
+    "[05:28] [8b8t] >> Home 2 was not found",
+    "[05:28] <Spike6259> !kit Pvp ",
+    "[05:28] [8b8t] >> Teleporting to home 0...",
+    "[05:28] [8b8t] >> Teleporting to home 1...",
+    "[05:28] To Spike6259: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1212,7 +1212,7 @@
     "autism_manager": 1,
     "TotemOfSteve": 2,
     "auztfn": 1,
-    "Spike6259": 4,
+    "Spike6259": 5,
     "Jhon_robot": 1,
     "Kopa_ARG": 1,
     "BRYMIESTER999": 2,
@@ -1222,7 +1222,7 @@
   "kitStats": {
     "build": 684,
     "survival": 2177,
-    "pvp": 2855,
+    "pvp": 2856,
     "dupe": 571,
     "tools": 651,
     "stash": 281,
