@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:47:29 18/12/2025",
-  "totalKits": 68604,
-  "todayKits": 2,
+  "lastUpdated": "14:47:57 18/12/2025",
+  "totalKits": 68605,
+  "todayKits": 3,
   "onlineCount": 17,
   "peakPlayers": 17,
-  "tps": "19.0",
+  "tps": "16.0",
   "ping": 237,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:45] [8b8t] >> Teleporting...",
-    "[14:45] [8b8t] >> Home 2 was not found",
-    "[14:45] [Mini] <Hien2309> !kit survival ",
-    "[14:45] [8b8t] >> Teleporting to home 0...",
-    "[14:45] [8b8t] >> Teleporting to home 1...",
-    "[14:45] <iNoppo_> !kit princesa ",
-    "[14:45] To Hien2309: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[14:46] To Hien2309: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[14:46] [8b8t] >> The command /seed is not allowed",
     "[14:46] [8b8t] >> Request sent to Hien2309",
     "[14:46] [BOT] <0_HienBot> Hey iNoppo_! ",
     "[14:46] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[14:47] <clubforsinners> !kit tnt ",
     "[14:47] To clubforsinners: You're on cooldown, try again in 11 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[14:47] <clubforsinners> !kit tnt ",
-    "[14:47] To clubforsinners: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[14:47] To clubforsinners: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[14:47] [BOT] <0_HienBot> Do !discord ",
+    "[14:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:47] <clubforsinners> !kit raid ",
+    "[14:47] [8b8t] >> Teleporting to home 0...",
+    "[14:47] [8b8t] >> Teleporting to home 3...",
+    "[14:47] To clubforsinners: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:47] To clubforsinners: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:47] [8b8t] >> Request sent to clubforsinners",
+    "[14:47] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1160,7 +1160,7 @@
     "superteamX345": 2,
     "Saitamaa": 11,
     ".AquaString08391": 4,
-    "clubforsinners": 1
+    "clubforsinners": 2
   },
   "kitStats": {
     "build": 639,
@@ -1169,7 +1169,7 @@
     "dupe": 532,
     "tools": 619,
     "stash": 268,
-    "raid": 415,
+    "raid": 416,
     "wood": 142,
     "exp": 257,
     "dye": 85,
