@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:27:44 18/12/2025",
-  "totalKits": 68612,
-  "todayKits": 5,
+  "lastUpdated": "16:28:08 18/12/2025",
+  "totalKits": 68613,
+  "todayKits": 6,
   "onlineCount": 18,
   "peakPlayers": 20,
-  "tps": "20.0",
-  "ping": 233,
+  "tps": "16.0",
+  "ping": 243,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2067
+      "count": 2068
     },
     {
       "name": "build",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:23] ",
-    "[16:23]   [Confirm read]",
-    "[16:23] ",
-    "[16:23] [8b8t] >> The command /seed is not allowed",
-    "[16:23] [BOT] <0_HienBot> Do !discord ",
-    "[16:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:23] <Dark_C00lkidd> !kit orb ",
     "[16:23] To Dark_C00lkidd: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[16:24] [BOT] <0_HienBot> Hi darkee_67589! ",
     "[16:24] <Dark_C00lkidd> !kit build ",
@@ -101,7 +94,14 @@
     "[16:26] [BOT] <0_HienBot> Hola Leeewiith3Es! ",
     "[16:27] [BOT] <0_HienBot> Welcome to 8b8t, .AoDxPrince! ",
     "[16:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[16:27] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
+    "[16:27] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[16:27] <Dark_C00lkidd> !kit survival ",
+    "[16:27] [8b8t] >> Teleporting to home 0...",
+    "[16:27] [8b8t] >> Teleporting to home 1...",
+    "[16:27] To Dark_C00lkidd: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:28] To Dark_C00lkidd: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:28] [8b8t] >> Request sent to Dark_C00lkidd",
+    "[16:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1162,11 +1162,11 @@
     ".AquaString08391": 4,
     "clubforsinners": 2,
     "zanhee": 1,
-    "Dark_C00lkidd": 1
+    "Dark_C00lkidd": 2
   },
   "kitStats": {
     "build": 643,
-    "survival": 2067,
+    "survival": 2068,
     "pvp": 2722,
     "dupe": 533,
     "tools": 620,
