@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:02:39 18/12/2025",
+  "lastUpdated": "09:02:58 18/12/2025",
   "totalKits": 68482,
   "todayKits": 162,
   "onlineCount": 36,
   "peakPlayers": 63,
-  "tps": "15.0",
+  "tps": "10.0",
   "ping": 234,
   "topUsers": [
     {
@@ -68,20 +68,10 @@
     },
     {
       "name": "dupe",
-      "count": 525
+      "count": 526
     }
   ],
   "chatLog": [
-    "[09:00] To ngodo123: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[09:00] [8b8t] >> Request sent to ngodo123",
-    "[09:00] <Navwzjer> !kit Survival ",
-    "[09:00] To Navwzjer: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[09:00] [BOT] <0_HienBot> Try /nc to change your name color! ",
-    "[09:00] [8b8t] >> Teleporting...",
-    "[09:00] 0_HienBot was destroyed by ngodo123",
-    "[09:00] [8b8t] >> The command /seed is not allowed",
-    "[09:00] [8b8t] >> The command /seed is not allowed",
-    "[09:01] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
     "[09:01] <SaveUsTrump> run ",
     "[09:01] <kazammo> bruv ",
     "[09:01] elproplayerxddd was ripped apart by a Wolf",
@@ -101,7 +91,17 @@
     "[09:02] elproplayerxddd was ripped apart by a Wolf",
     "[09:02] [8b8t] >> Request sent to kazammo",
     "[09:02] [8b8t] >> Teleporting...",
-    "[09:02] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 "
+    "[09:02] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃𝒆𝒔𝒕𝒑𝒊𝒏𝒈 ",
+    "[09:02] [8b8t] >> Home 2 was not found",
+    "[09:02] <_Zekkito_> !kit dupe ",
+    "[09:02] [8b8t] >> Teleporting to home 0...",
+    "[09:02] [8b8t] >> Teleporting to home 8...",
+    "[09:02] To _Zekkito_: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:02] To _Zekkito_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[09:02] [8b8t] >> Request sent to _Zekkito_",
+    "[09:02] OpStray got eaten by a dessert dweller AKA a Husk",
+    "[09:02] <danif> !kit dupe ",
+    "[09:02] To danif: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
   ],
   "userStats": {
     "76756": 38,
@@ -1142,13 +1142,14 @@
     "Napi2020": 1,
     "m6ke": 1,
     "jonst5161": 1,
-    "Navwzjer": 1
+    "Navwzjer": 1,
+    "_Zekkito_": 1
   },
   "kitStats": {
     "build": 631,
     "survival": 2037,
     "pvp": 2662,
-    "dupe": 525,
+    "dupe": 526,
     "tools": 615,
     "stash": 263,
     "raid": 409,
