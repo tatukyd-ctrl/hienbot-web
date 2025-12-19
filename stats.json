@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:49:53 19/12/2025",
-  "totalKits": 69452,
-  "todayKits": 175,
+  "lastUpdated": "20:50:14 19/12/2025",
+  "totalKits": 69453,
+  "todayKits": 176,
   "onlineCount": 34,
   "peakPlayers": 47,
-  "tps": "15.0",
-  "ping": 230,
+  "tps": "9.0",
+  "ping": 226,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2977
+      "count": 2978
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:49] <AgusAe> !kit dupe ",
-    "[20:49] [8b8t] >> Teleporting to home 0...",
-    "[20:49] [8b8t] >> Teleporting to home 1...",
-    "[20:49] To Ishantxp: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[20:49] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[20:49] To Ishantxp: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[20:49] [8b8t] >> Request sent to Ishantxp",
-    "[20:49] [8b8t] >> Teleporting...",
-    "[20:49] <.Mattaus213> !kit dupe ",
-    "[20:49] To .Mattaus213: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[20:49] <Zyra_Berry> someone creat hotspot ",
     "[20:49] <FlygDaa> ezzzz  ʙᴀᴄᴋᴅᴏᴏʀ ᴏʙѕɪᴅɪᴀɴ ",
     "[20:49] 0_HienBot was rekt by Ishantxp and their mighty [netherite sword]",
@@ -101,7 +91,17 @@
     "[20:49] [8b8t] >> Request sent to Zyra_Berry",
     "[20:49] [8b8t] >> Teleporting...",
     "[20:49] Daniel8020 thought they could fly... they couldn't",
-    "[20:49] [BOT] <0_HienBot> Welcome to 8b8t, Phi1l0soph3r! "
+    "[20:49] [BOT] <0_HienBot> Welcome to 8b8t, Phi1l0soph3r! ",
+    "[20:49] [8b8t] >> Home 2 was not found",
+    "[20:50] [8b8t] >> The command /seed is not allowed",
+    "[20:50] <Ashwinnnegi> $kit pvp ",
+    "[20:50] [8b8t] >> Teleporting to home 0...",
+    "[20:50] [8b8t] >> Teleporting to home 1...",
+    "[20:50] To Ashwinnnegi: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:50] To Ashwinnnegi: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:50] [8b8t] >> Request sent to Ashwinnnegi",
+    "[20:50] [8b8t] >> Teleporting...",
+    "[20:50] [8b8t] >> The TPA request you sent to Ashwinnnegi was successfully canceled."
   ],
   "userStats": {
     "76756": 38,
@@ -610,7 +610,7 @@
     ".zero154531": 4,
     "skyhaiff1": 12,
     "test_P_P": 1,
-    "Ashwinnnegi": 8,
+    "Ashwinnnegi": 9,
     "janhackerV": 22,
     "liqi1229": 1,
     "S1mple_": 3,
@@ -1279,7 +1279,7 @@
   "kitStats": {
     "build": 724,
     "survival": 2336,
-    "pvp": 2977,
+    "pvp": 2978,
     "dupe": 602,
     "tools": 679,
     "stash": 299,
