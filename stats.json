@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:02:16 19/12/2025",
+  "lastUpdated": "20:02:46 19/12/2025",
   "totalKits": 69401,
   "todayKits": 124,
-  "onlineCount": 39,
+  "onlineCount": 37,
   "peakPlayers": 41,
-  "tps": "16.0",
-  "ping": 232,
+  "tps": "18.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2965
+      "count": 2966
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:00] To Abdul_Rafay_989: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[20:00] [Ultra] <Gosankyo> hay estudios que demuestran que cada vez tenemos menos iq por culpa de la IA ",
-    "[20:01] gatos34508 got slammed into a wall by his elytra",
-    "[20:01] <Abdul_Rafay_989> !kit food ",
-    "[20:01] [8b8t] >> Teleporting to home 0...",
-    "[20:01] [8b8t] >> Teleporting to home 5...",
-    "[20:01] To Abdul_Rafay_989: Your kit (food) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[20:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[20:01] <MrWitherSkull> a ",
     "[20:01] [Ultra] <Tobias> we had a good run ",
     "[20:01] To Abdul_Rafay_989: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[20:01] [8b8t] >> Request sent to Abdul_Rafay_989",
@@ -101,7 +92,16 @@
     "[20:02] [8b8t] >> Request sent to botlikleo",
     "[20:02] [8b8t] >> Teleporting...",
     "[20:02] <Ishantxp> i only get it ",
-    "[20:02] [8b8t] >> The command /seed is not allowed"
+    "[20:02] [8b8t] >> The command /seed is not allowed",
+    "[20:02] <MrWitherSkull> !kit pvp ",
+    "[20:02] [8b8t] >> Teleporting to home 0...",
+    "[20:02] [8b8t] >> Teleporting to home 1...",
+    "[20:02] To MrWitherSkull: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:02] To MrWitherSkull: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:02] [8b8t] >> Request sent to MrWitherSkull",
+    "[20:02] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
+    "[20:02] [8b8t] >> TPA cancelled because MrWitherSkull left",
+    "[20:02] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -1260,7 +1260,7 @@
     "AKUPUTIH": 1,
     "Oce_Destroyer": 1,
     "BarramundiBruv": 1,
-    "MrWitherSkull": 8,
+    "MrWitherSkull": 9,
     "VanzzXiter": 5,
     "botlikleo": 11,
     "FolliaCO": 1,
@@ -1272,7 +1272,7 @@
   "kitStats": {
     "build": 721,
     "survival": 2319,
-    "pvp": 2965,
+    "pvp": 2966,
     "dupe": 597,
     "tools": 679,
     "stash": 294,
