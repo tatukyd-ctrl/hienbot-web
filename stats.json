@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:51:15 19/12/2025",
+  "lastUpdated": "23:51:47 19/12/2025",
   "totalKits": 69625,
   "todayKits": 348,
-  "onlineCount": 52,
+  "onlineCount": 50,
   "peakPlayers": 61,
   "tps": "18.0",
   "ping": 227,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2388
+      "count": 2389
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:50] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
-    "[23:50] <_marcos2_> !kit stresh ",
-    "[23:50] To _marcos2_: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[23:50] [Pro] <cubofg> Hi | SᴡᴀɢɢᴇʀCʟɪᴇɴᴛ ",
-    "[23:50] <AluSeasondes> !kit pvp ",
-    "[23:50] [8b8t] >> Teleporting to home 0...",
-    "[23:50] [8b8t] >> Teleporting to home 1...",
-    "[23:50] <Juan_Dieg509170> para q una slulker vacia? ",
-    "[23:50] To AluSeasondes: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[23:50] <05juanpi> !kit cohetes ",
-    "[23:50] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[23:50] To AluSeasondes:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
     "[23:50] <Arifbey208> bunumu dupelim ",
     "[23:50] <tecladoz13> pa meter esti ",
@@ -101,7 +90,18 @@
     "[23:51] [Pro] <cubofg> Hi | SᴡᴀɢɢᴇʀCʟɪᴇɴᴛ ",
     "[23:51] <tecladoz13> nmhghgggggg ",
     "[23:51] [8b8t] >> Teleporting...",
-    "[23:51] <ultcalabacin> cómo se dupea aqui? "
+    "[23:51] <ultcalabacin> cómo se dupea aqui? ",
+    "[23:51] [8b8t] >> Home 2 was not found",
+    "[23:51] [8b8t] >> The command /seed is not allowed",
+    "[23:51] minecaftoyuncusu decided to test gravity and lost",
+    "[23:51] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
+    "[23:51] <_marcos2_> !kit PVP ",
+    "[23:51] To _marcos2_: You're on cooldown, try again in 54 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[23:51] <Koty75HZ> !kit survival ",
+    "[23:51] [8b8t] >> Teleporting to home 0...",
+    "[23:51] [8b8t] >> Teleporting to home 1...",
+    "[23:51] To Koty75HZ: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[23:51] <tecladoz13> matam "
   ],
   "userStats": {
     "76756": 38,
@@ -1288,11 +1288,12 @@
     "Dragonal3490": 3,
     "f22rsaptor": 1,
     "Neverter1": 3,
-    "anvayraut": 1
+    "anvayraut": 1,
+    "Koty75HZ": 1
   },
   "kitStats": {
     "build": 734,
-    "survival": 2388,
+    "survival": 2389,
     "pvp": 3022,
     "dupe": 617,
     "tools": 693,
