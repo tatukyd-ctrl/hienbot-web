@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:42:46 19/12/2025",
-  "totalKits": 69278,
-  "todayKits": 1,
-  "onlineCount": 21,
+  "lastUpdated": "15:43:03 19/12/2025",
+  "totalKits": 69279,
+  "todayKits": 2,
+  "onlineCount": 22,
   "peakPlayers": 23,
-  "tps": "8.0",
-  "ping": 0,
+  "tps": "18.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2284
+      "count": 2285
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:41] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[15:42] <OPMARZAN12> accept ",
-    "[15:42] <.LEON50758> sa türkvarmı? ",
-    "[15:42] <m9anx> !kit wood ",
-    "[15:42] [8b8t] >> Teleporting to home 0...",
-    "[15:42] [8b8t] >> Teleporting to home 4...",
-    "[15:42] To m9anx: Your kit (wood) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[15:42] To m9anx: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[15:42] [8b8t] >> Request sent to m9anx",
     "[15:42] [8b8t] >> Teleporting...",
     "[15:42] <Abdul_Rafay_989> ohhh sorry its u ",
@@ -101,7 +93,15 @@
     "[15:42]   [Confirm read]",
     "[15:42] ",
     "[15:42] <OPMARZAN12> accept the bot tpa request ",
-    "[15:42] [8b8t] >> The command /seed is not allowed"
+    "[15:42] [8b8t] >> The command /seed is not allowed",
+    "[15:42] <Abdul_Rafay_989> !kit survival ",
+    "[15:42] [8b8t] >> Teleporting to home 0...",
+    "[15:42] [8b8t] >> Teleporting to home 1...",
+    "[15:42] To Abdul_Rafay_989: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:42] To Abdul_Rafay_989: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[15:42] [8b8t] >> Request sent to Abdul_Rafay_989",
+    "[15:43] [8b8t] >> Teleporting...",
+    "[15:43] <OPMARZAN12> accept the bots requset "
   ],
   "userStats": {
     "76756": 38,
@@ -1250,11 +1250,12 @@
     "Jhoanmalacara_43": 1,
     "lewis676767": 1,
     "Mineberryz": 3,
-    "hossen1224": 1
+    "hossen1224": 1,
+    "Abdul_Rafay_989": 1
   },
   "kitStats": {
     "build": 712,
-    "survival": 2284,
+    "survival": 2285,
     "pvp": 2933,
     "dupe": 590,
     "tools": 674,
