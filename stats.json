@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:33:46 19/12/2025",
+  "lastUpdated": "19:34:16 19/12/2025",
   "totalKits": 69380,
   "todayKits": 103,
   "onlineCount": 36,
   "peakPlayers": 41,
-  "tps": "16.0",
-  "ping": 266,
+  "tps": "17.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2962
+      "count": 2963
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:31] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[19:31] Chr_MC forgot to bring their parachute",
-    "[19:31] [Ultra] <Tobias> madre mia la mierda esta es enorme ",
-    "[19:31] [BOT] <0_HienBot> The server's seed is : None ",
-    "[19:31] AKUPUTIH has made the advancement [Diamonds!]",
-    "[19:31] [BOT] <0_HienBot> What's up, konradpromc? ",
-    "[19:32] Chr_MC got his head blown off by the Wither",
-    "[19:32] VOLTAIKKKKK pulverized Muniz_x7 using [ezfarm",
-    "[19:32] cycatagata has reached the goal [Postmortal]",
-    "[19:32] [Pro+] <Ken Carson> holy fuck ",
-    "[19:32] Doumao114514 has made the advancement [Stone Age]",
-    "[19:32] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
-    "[19:32] <skyhaiff1> 17 totem :D ",
-    "[19:32] PER1800 was pwned by VOLTAIKKKKK wielding [ezfarm",
     "[19:32] vasaPikasa thought they could fly... they couldn't",
     "[19:32] [Pro+] <Ken Carson> nigga 22 pops ",
     "[19:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +87,21 @@
     "[19:33] [8b8t] >> Request sent to botlikleo",
     "[19:33] Chr_MC decided to test gravity and lost",
     "[19:33] <Modalwire> dame un kit ",
-    "[19:33] <Modalwire> un que? "
+    "[19:33] <Modalwire> un que? ",
+    "[19:33] <Modalwire> un kit ",
+    "[19:33] [8b8t] >> The TPA request you sent to botlikleo has expired.",
+    "[19:33] <Modalwire> un que? ",
+    "[19:33] <Modalwire> un kit ",
+    "[19:33] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
+    "[19:34] [8b8t] >> No TPA request found",
+    "[19:34] [8b8t] >> The command /seed is not allowed",
+    "[19:34] <botlikleo> !kit survival ",
+    "[19:34] To botlikleo: You're on cooldown, try again in 93 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[19:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[19:34] <FolliaCO> !kit pvp ",
+    "[19:34] [8b8t] >> Teleporting to home 0...",
+    "[19:34] [8b8t] >> Teleporting to home 1...",
+    "[19:34] To FolliaCO: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1262,12 +1262,13 @@
     "BarramundiBruv": 1,
     "MrWitherSkull": 7,
     "VanzzXiter": 5,
-    "botlikleo": 4
+    "botlikleo": 4,
+    "FolliaCO": 1
   },
   "kitStats": {
     "build": 718,
     "survival": 2310,
-    "pvp": 2962,
+    "pvp": 2963,
     "dupe": 595,
     "tools": 678,
     "stash": 294,
