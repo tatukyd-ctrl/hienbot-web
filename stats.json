@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:21:08 19/12/2025",
+  "lastUpdated": "08:21:38 19/12/2025",
   "totalKits": 69165,
   "todayKits": 74,
-  "onlineCount": 46,
+  "onlineCount": 0,
   "peakPlayers": 63,
-  "tps": "18.0",
-  "ping": 229,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2896
+      "count": 2897
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:19] To angelaso123:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
-    "[08:19] [8b8t] >> The command /seed is not allowed",
-    "[08:19] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
-    "[08:19] Maxnahue burned up in a pit of lava",
-    "[08:19] Matecozido2027 decided to test gravity and lost",
-    "[08:19] <juninhodocpvp> tpayes carlitos ",
-    "[08:19] <angelaso123> ayudo gente ",
-    "[08:19] <Golhtlden> Ayudame ",
-    "[08:19] <danif> !kit terracotta ",
-    "[08:19] To danif: You're on cooldown, try again in 56 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[08:19] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
     "[08:20] carlitosV has been put down by juninhodocpvp",
     "[08:20] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +91,17 @@
     "[08:21] <.J3ZZEE> !kit pvp ",
     "[08:21] [8b8t] >> Teleporting to home 0...",
     "[08:21] [8b8t] >> Teleporting to home 1...",
-    "[08:21] To .J3ZZEE: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
+    "[08:21] To .J3ZZEE: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[08:21] <juninhodocpvp> 31 totem ",
+    "[08:21] To .J3ZZEE:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
+    "[08:21] [BOT] <0_HienBot> The server's seed is : None ",
+    "[08:21] AZUMIXYZ thought they could fly... they couldn't",
+    "[08:21] <suionYT> !kit pvp ",
+    "[08:21] [8b8t] >> Teleporting to home 0...",
+    "[08:21] [8b8t] >> Teleporting to home 1...",
+    "[08:21] To suionYT: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[08:21] To suionYT:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
+    "[08:21] <ReasonedLime> !kit "
   ],
   "userStats": {
     "76756": 38,
@@ -1229,12 +1229,13 @@
     "TargetDemograpic": 2,
     "ogtkn": 1,
     "79owwo": 3,
-    "Say20112": 1
+    "Say20112": 1,
+    "suionYT": 1
   },
   "kitStats": {
     "build": 696,
     "survival": 2232,
-    "pvp": 2896,
+    "pvp": 2897,
     "dupe": 576,
     "tools": 655,
     "stash": 285,
