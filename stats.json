@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:33:14 20/12/2025",
+  "lastUpdated": "01:33:44 20/12/2025",
   "totalKits": 69685,
   "todayKits": 9,
   "onlineCount": 59,
   "peakPlayers": 64,
-  "tps": "15.0",
-  "ping": 239,
+  "tps": "12.0",
+  "ping": 240,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3043
+      "count": 3044
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:31] [8b8t] >> Teleporting...",
-    "[01:31] <benja5342> buenas ",
-    "[01:32] [8b8t] >> Home 2 was not found",
-    "[01:32] [8b8t] >> The command /seed is not allowed",
-    "[01:32] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
-    "[01:32] <benja5342> hay dupe?? ",
-    "[01:32] <daniloboris> si ",
-    "[01:32] <piculin88> yes ",
-    "[01:32] <benja5342> en este server hay dupe ",
-    "[01:32] <daniloboris> el de los burros ",
     "[01:32] <Caromelo> !kit raid ",
     "[01:32] [8b8t] >> Teleporting to home 0...",
     "[01:32] [8b8t] >> Teleporting to home 3...",
@@ -101,7 +91,17 @@
     "[01:33] fumar_efeio was eaten alive by a Zombie",
     "[01:33] [8b8t] >> Player Caromelo is not online",
     "[01:33] <abtin123456> I hate stupid angel ",
-    "[01:33] [8b8t] >> The command /seed is not allowed"
+    "[01:33] [8b8t] >> The command /seed is not allowed",
+    "[01:33] <abtin123456> the platyet ",
+    "[01:33] [BOT] <0_HienBot> The server's seed is : None ",
+    "[01:33] AgusAe has made the advancement [The End?]",
+    "[01:33] hxcx1 flew into a wall and died...?",
+    "[01:33] <benja5342> !kit pvp ",
+    "[01:33] [8b8t] >> Teleporting to home 0...",
+    "[01:33] [8b8t] >> Teleporting to home 1...",
+    "[01:33] To benja5342: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:33] To benja5342:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
+    "[01:33] <angelaso123> stop crying "
   ],
   "userStats": {
     "76756": 38,
@@ -1302,12 +1302,13 @@
     "IceTeen2": 1,
     "not_server_admin": 3,
     "piculin88": 8,
-    "ASneakySenior": 1
+    "ASneakySenior": 1,
+    "benja5342": 1
   },
   "kitStats": {
     "build": 738,
     "survival": 2407,
-    "pvp": 3043,
+    "pvp": 3044,
     "dupe": 624,
     "tools": 702,
     "stash": 313,
