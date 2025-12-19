@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:11:28 19/12/2025",
+  "lastUpdated": "21:11:46 19/12/2025",
   "totalKits": 69479,
   "todayKits": 202,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 49,
   "tps": "15.0",
   "ping": 220,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2984
+      "count": 2985
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:10] <Spike6259> yo i will send req then u do /tpayes ",
-    "[21:10] <SlimeCrafter_99> ok ",
-    "[21:10] [8b8t] >> Home 2 was not found",
-    "[21:10] <DIKTATORY> سلام ممذ ",
-    "[21:10] [8b8t] >> The command /seed is not allowed",
-    "[21:10] <DIKTATORY> د ",
     "[21:10] [BOT] <0_HienBot> Try /nc to change your name color! ",
     "[21:10] <Spike6259> ok do /tpayes ",
     "[21:10] Daniel8020 got his head blown off by the Wither",
@@ -101,7 +95,13 @@
     "[21:11] To OPMARZAN12: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:11] [8b8t] >> Request sent to OPMARZAN12",
     "[21:11] [8b8t] >> Teleporting...",
-    "[21:11] 0_HienBot was rekt by OPMARZAN12 and their mighty [netherite sword]"
+    "[21:11] 0_HienBot was rekt by OPMARZAN12 and their mighty [netherite sword]",
+    "[21:11] <Protr73> !kit pvp ",
+    "[21:11] [8b8t] >> Teleporting to home 0...",
+    "[21:11] [8b8t] >> The command /seed is not allowed",
+    "[21:11] To Protr73: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:11] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[21:11] Daniel8020 tried to outswim the water"
   ],
   "userStats": {
     "76756": 38,
@@ -1275,12 +1275,13 @@
     ".Mattaus213": 7,
     "Ishantxp": 10,
     "AgusAe": 2,
-    "DEEP_X9": 2
+    "DEEP_X9": 2,
+    "Protr73": 1
   },
   "kitStats": {
     "build": 724,
     "survival": 2346,
-    "pvp": 2984,
+    "pvp": 2985,
     "dupe": 604,
     "tools": 682,
     "stash": 300,
