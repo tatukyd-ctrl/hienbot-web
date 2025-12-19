@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:35:34 19/12/2025",
+  "lastUpdated": "17:35:46 19/12/2025",
   "totalKits": 69325,
   "todayKits": 48,
   "onlineCount": 31,
   "peakPlayers": 35,
-  "tps": "16.0",
+  "tps": "17.0",
   "ping": 216,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2946
+      "count": 2947
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:34] <4Diddy4> !kit ",
-    "[17:34] To 4Diddy4: Hello 4Diddy4!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[17:34] <.LEON50758> o senmiydin ",
-    "[17:34] <.AquaString08391> !kit ",
-    "[17:34] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-    "[17:34] [8b8t] >> Your login session has been continued.",
-    "[17:34] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[17:34] ",
-    "[17:34]  [8builders8tools]",
     "[17:34]  Perform the command /email associate to register",
     "[17:34]  your email. By doing so, you",
     "[17:34]  decrease the chance of being hacked.",
@@ -101,7 +92,16 @@
     "[17:35] To Red_Fragment_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[17:35] [8b8t] >> Request sent to Red_Fragment_",
     "[17:35] [8b8t] >> Teleporting...",
-    "[17:35] ibaz_12345 decided to test gravity and lost"
+    "[17:35] ibaz_12345 decided to test gravity and lost",
+    "[17:35] [8b8t] >> Home 2 was not found",
+    "[17:35] [8b8t] >> The command /seed is not allowed",
+    "[17:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[17:35] <Arifbey208> nerdesin ",
+    "[17:35] <zaki298> !kit pvp ",
+    "[17:35] [8b8t] >> Teleporting to home 0...",
+    "[17:35] [8b8t] >> Teleporting to home 1...",
+    "[17:35] To zaki298: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:35] [BOT] <0_HienBot> Bot created by Hien2309. "
   ],
   "userStats": {
     "76756": 38,
@@ -1255,12 +1255,13 @@
     "porngay67": 2,
     "ItzJust": 4,
     "russyta": 1,
-    "Bryce1012": 2
+    "Bryce1012": 2,
+    "zaki298": 1
   },
   "kitStats": {
     "build": 715,
     "survival": 2294,
-    "pvp": 2946,
+    "pvp": 2947,
     "dupe": 590,
     "tools": 677,
     "stash": 291,
