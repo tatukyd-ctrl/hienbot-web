@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:06:16 19/12/2025",
+  "lastUpdated": "12:06:45 19/12/2025",
   "totalKits": 69245,
   "todayKits": 34,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 48,
-  "tps": "18.0",
+  "tps": "12.0",
   "ping": 230,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2271
+      "count": 2272
     },
     {
       "name": "build",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:03] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
-    "[12:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:03] <xmlrx> alguien alguna alianza? ",
-    "[12:03] <xmlrx> Greetings, creator79367. ",
-    "[12:03] <xmlrx> Later, Leeewiith3Es. ",
-    "[12:03] <creator79367> hello ",
-    "[12:03] <xmlrx> Catch ya later, Leeewiith3Es. ",
-    "[12:03] <xmlrx> helloo ",
-    "[12:04] Regentmmc tried to play peek-a-boo with an Enderman",
-    "[12:04] [BOT] <0_HienBot> Hola NetherB0T! ",
     "[12:04] <xmlrx> See you next time, Leeewiith3Es. ",
     "[12:04] <xmlrx> Farewell, Leeewiith3Es. ",
     "[12:04] <xmlrx> Let's get comfy! ",
@@ -101,7 +91,17 @@
     "[12:06] To creator79367: Your kit (exp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[12:06] To creator79367: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[12:06] [8b8t] >> Request sent to creator79367",
-    "[12:06] [8b8t] >> Teleporting..."
+    "[12:06] [8b8t] >> Teleporting...",
+    "[12:06] 0_HienBot has been killed by creator79367",
+    "[12:06] [8b8t] >> The command /seed is not allowed",
+    "[12:06] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[12:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[12:06] <.AoDxPrince> !kit survival ",
+    "[12:06] [8b8t] >> Teleporting to home 0...",
+    "[12:06] <xmlrx> See you later, 0_HienBot. ",
+    "[12:06] [8b8t] >> Teleporting to home 1...",
+    "[12:06] To .AoDxPrince: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:06] To .AoDxPrince:  Sorry ! Blue Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -247,7 +247,7 @@
     "pepito5986378946": 14,
     "ZojiFujita": 13,
     "EliseoBana": 1,
-    ".AoDxPrince": 27,
+    ".AoDxPrince": 28,
     ".unknownguy59093": 15,
     "Luminus542": 2,
     "i212": 1,
@@ -1247,7 +1247,7 @@
   },
   "kitStats": {
     "build": 707,
-    "survival": 2271,
+    "survival": 2272,
     "pvp": 2923,
     "dupe": 584,
     "tools": 665,
