@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:51:15 19/12/2025",
+  "lastUpdated": "12:51:45 19/12/2025",
   "totalKits": 69249,
   "todayKits": 38,
-  "onlineCount": 30,
+  "onlineCount": 28,
   "peakPlayers": 48,
-  "tps": "18.0",
-  "ping": 228,
+  "tps": "16.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 2923
+      "count": 2924
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:46] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[12:46] SKWARRIOR withered away to the 4th dimension",
-    "[12:46] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[12:46] Voidz_x6 has reached the goal [Sky's the Limit]",
-    "[12:47] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
-    "[12:47] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:47] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[12:47] SKWARRIOR decided to test gravity and lost",
-    "[12:47] montieldeaa has made the advancement [Diamonds!]",
     "[12:47] <cirochia> #litematica ",
     "[12:48] Voidz_x6 has completed the challenge [Cover Me in Debris]",
     "[12:48] [BOT] <0_HienBot> Hmmmmmmmmm ",
@@ -101,7 +92,16 @@
     "[12:50] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
     "[12:50] Lunt_X was EZ clapped by TheBynHet using [卍☠Kit angegodqt☠卍]",
     "[12:51] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[12:51] Lunt_X was destroyed by TheBynHet"
+    "[12:51] Lunt_X was destroyed by TheBynHet",
+    "[12:51] <montieldeaa> !kit pvp ",
+    "[12:51] [8b8t] >> Teleporting to home 0...",
+    "[12:51] [8b8t] >> Teleporting to home 1...",
+    "[12:51] To montieldeaa: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:51] To montieldeaa: Sorry! Cyan Shulker Box is out of stock. Giving you Light Blue Shulker Box instead!",
+    "[12:51] [8b8t] >> Request sent to montieldeaa",
+    "[12:51] <SKWARRIOR> i am ",
+    "[12:51] [BOT] <0_HienBot> The server's seed is : None ",
+    "[12:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -1244,12 +1244,13 @@
     "05juanpi": 4,
     "y75hzz": 1,
     "JotaPeGD": 1,
-    "w0rldbod3r": 1
+    "w0rldbod3r": 1,
+    "montieldeaa": 1
   },
   "kitStats": {
     "build": 707,
     "survival": 2272,
-    "pvp": 2923,
+    "pvp": 2924,
     "dupe": 584,
     "tools": 667,
     "stash": 287,
