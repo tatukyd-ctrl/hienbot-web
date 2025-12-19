@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:21:55 19/12/2025",
+  "lastUpdated": "21:22:17 19/12/2025",
   "totalKits": 69495,
   "todayKits": 218,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 49,
-  "tps": "17.0",
-  "ping": 228,
+  "tps": "13.0",
+  "ping": 249,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2353
+      "count": 2354
     },
     {
       "name": "build",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:20] To Abdul_Rafay_989: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[21:20] [8b8t] >> Request sent to Abdul_Rafay_989",
-    "[21:21] [8b8t] >> Teleporting...",
-    "[21:21] <XuneX> !kit mace ",
-    "[21:21] To XuneX: You're on cooldown, try again in 22 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[21:21] [8b8t] >> The command /seed is not allowed",
-    "[21:21] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
-    "[21:21] <Abanoub67> !kit mace ",
-    "[21:21] To Abanoub67: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[21:21] <DIKTATORY> !kit mace ",
     "[21:21] To DIKTATORY: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[21:21] <XuneX> !kit mace ",
     "[21:21] To XuneX: You're on cooldown, try again in 10 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
@@ -101,7 +91,17 @@
     "[21:21] To randompalyer: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[21:21] To randompalyer: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:21] [8b8t] >> Request sent to randompalyer",
-    "[21:21] [8b8t] >> Teleporting..."
+    "[21:21] [8b8t] >> Teleporting...",
+    "[21:21] [8b8t] >> Home 2 was not found",
+    "[21:22] [8b8t] >> The command /seed is not allowed",
+    "[21:22] <DIKTATORY> !kit survival ",
+    "[21:22] [8b8t] >> Teleporting to home 0...",
+    "[21:22] [8b8t] >> Teleporting to home 1...",
+    "[21:22] To DIKTATORY: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:22] To DIKTATORY: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:22] [8b8t] >> Request sent to DIKTATORY",
+    "[21:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[21:22] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -1165,7 +1165,7 @@
     "Dark_C00lkidd": 3,
     "xikade": 5,
     "Yung_Cocahine": 6,
-    "DIKTATORY": 10,
+    "DIKTATORY": 11,
     "Airofi": 4,
     "Minute_Hecky": 1,
     "grob8585": 4,
@@ -1282,7 +1282,7 @@
   },
   "kitStats": {
     "build": 725,
-    "survival": 2353,
+    "survival": 2354,
     "pvp": 2987,
     "dupe": 605,
     "tools": 684,
