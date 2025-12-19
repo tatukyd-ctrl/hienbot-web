@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:24:00 19/12/2025",
-  "totalKits": 69253,
-  "todayKits": 42,
+  "lastUpdated": "13:24:15 19/12/2025",
+  "totalKits": 69254,
+  "todayKits": 43,
   "onlineCount": 22,
   "peakPlayers": 48,
-  "tps": "18.0",
-  "ping": 228,
+  "tps": "15.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2273
+      "count": 2274
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:20] <FlygDaa> quien pa pvp  ʟᴜѕᴄɪᴜѕ ʟᴜѕᴄɪᴜѕ ",
-    "[13:20] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
-    "[13:20] <m9anx> !kit pvp ",
-    "[13:20] [8b8t] >> Teleporting to home 0...",
-    "[13:21] [8b8t] >> Teleporting to home 1...",
-    "[13:21] To m9anx: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[13:21] To m9anx:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
-    "[13:21] <Insanink> !kit survival ",
-    "[13:21] To Insanink: You're on cooldown, try again in 15 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[13:21] [BOT] <0_HienBot> Hi 8b8t_net! ",
     "[13:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[13:21] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
@@ -101,7 +92,16 @@
     "[13:23] To m9anx: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[13:23] [8b8t] >> Request sent to m9anx",
     "[13:23] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
-    "[13:23] [8b8t] >> Teleporting..."
+    "[13:23] [8b8t] >> Teleporting...",
+    "[13:24] [8b8t] >> Home 2 was not found",
+    "[13:24] <Insanink> !kit Survival ",
+    "[13:24] [8b8t] >> Teleporting to home 0...",
+    "[13:24] [8b8t] >> The command /seed is not allowed",
+    "[13:24] [8b8t] >> Teleporting to home 1...",
+    "[13:24] To Insanink: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:24] To Insanink: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[13:24] [8b8t] >> Request sent to Insanink",
+    "[13:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1180,7 +1180,7 @@
     "BenVanas": 1,
     "Matutee11arg": 12,
     "ChronamYak": 2,
-    "Insanink": 10,
+    "Insanink": 11,
     "eloblaze_": 1,
     "Caromelo": 23,
     "jsmatey": 3,
@@ -1249,7 +1249,7 @@
   },
   "kitStats": {
     "build": 707,
-    "survival": 2273,
+    "survival": 2274,
     "pvp": 2928,
     "dupe": 584,
     "tools": 668,
