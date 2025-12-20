@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:29:43 21/12/2025",
+  "lastUpdated": "03:30:13 21/12/2025",
   "totalKits": 73035,
   "todayKits": 27,
-  "onlineCount": 59,
+  "onlineCount": 61,
   "peakPlayers": 67,
-  "tps": "13.0",
-  "ping": 231,
+  "tps": "15.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2671
+      "count": 2672
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:28]  [8builders8tools]",
-    "[03:28]  Perform the command /email associate to register",
-    "[03:28]  your email. By doing so, you",
-    "[03:28]  decrease the chance of being hacked.",
-    "[03:28] ",
-    "[03:28]   [Confirm read]",
-    "[03:28] ",
-    "[03:28] <2s2ones_s21bot> guys, is Leee is going to give me the bot rank? ",
-    "[03:28] jeikano_29_08 got his head blown off by the Wither",
-    "[03:28] [8b8t] >> The command /seed is not allowed",
-    "[03:29] <OLAIFING78> !kit ",
     "[03:29] To OLAIFING78: Hello OLAIFING78!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[03:29] <OLAIFING78> !kit glass ",
     "[03:29] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +90,18 @@
     "[03:29] [8b8t] >> Home 2 was not found",
     "[03:29] [8b8t] >> The command /seed is not allowed",
     "[03:29] Yaroslav1337 has made the advancement [Diamonds!]",
-    "[03:29] zleoo1200 thought a Zombie was friendly"
+    "[03:29] zleoo1200 thought a Zombie was friendly",
+    "[03:29] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[03:29] <2s2ones_s21bot> you need to vote for 8b8t, do /vote to get the link for voting the server ",
+    "[03:29] <pochito> !kit survival ",
+    "[03:29] [8b8t] >> Teleporting to home 0...",
+    "[03:29] [8b8t] >> Teleporting to home 1...",
+    "[03:29] To pochito: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:29] To pochito: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[03:29] [8b8t] >> Request sent to pochito",
+    "[03:30] pochito has made the advancement [We Need to Go Deeper]",
+    "[03:30] <2s2ones_s21bot> hi? ",
+    "[03:30] pochito has made the advancement [Stone Age]"
   ],
   "userStats": {
     "76756": 38,
@@ -1405,11 +1405,12 @@
     "estramon": 1,
     "YOUNESSKAKA": 5,
     "GABRIEL_MCZ": 3,
-    "Valentur1": 1
+    "Valentur1": 1,
+    "pochito": 1
   },
   "kitStats": {
     "build": 772,
-    "survival": 2671,
+    "survival": 2672,
     "pvp": 3302,
     "dupe": 690,
     "tools": 793,
