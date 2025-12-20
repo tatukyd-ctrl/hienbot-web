@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:39:51 21/12/2025",
+  "lastUpdated": "05:39:55 21/12/2025",
   "totalKits": 73116,
   "todayKits": 67,
   "onlineCount": 45,
   "peakPlayers": 63,
-  "tps": "16.0",
-  "ping": 234,
+  "tps": "14.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2686
+      "count": 2687
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:38] <Victua7397> !kit ",
-    "[05:38] To Victua7397: Hello Victua7397!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:38] <10HACKER01> !kit ",
-    "[05:38] To 10HACKER01: Hello 10HACKER01!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:38] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[05:38] <Victua7397> !kit survival ",
     "[05:38] To Victua7397: You're on cooldown, try again in 54 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[05:38] <ponfhj> minecraf.comand kill ",
     "[05:38] <Victua7397> tpahes ",
@@ -101,7 +95,13 @@
     "[05:39] <MintKoala997563> peace stop harassing me ",
     "[05:39] [8b8t] >> Teleporting...",
     "[05:39] <AgusAe> HUH ",
-    "[05:39] <Valeggy> XD "
+    "[05:39] <Valeggy> XD ",
+    "[05:39] <MintKoala997563> hi ",
+    "[05:39] <10HACKER01> !kit survival ",
+    "[05:39] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[05:39] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[05:39] [8b8t] >> Home 2 was not found",
+    "[05:39] To 10HACKER01: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1413,11 +1413,12 @@
     "stzG0D": 1,
     "Nikumara": 2,
     "lexomorey": 1,
-    "Potion100": 1
+    "Potion100": 1,
+    "10HACKER01": 1
   },
   "kitStats": {
     "build": 775,
-    "survival": 2686,
+    "survival": 2687,
     "pvp": 3335,
     "dupe": 697,
     "tools": 803,
