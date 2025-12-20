@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:39:22 20/12/2025",
+  "lastUpdated": "13:39:52 20/12/2025",
   "totalKits": 70075,
   "todayKits": 163,
   "onlineCount": 37,
   "peakPlayers": 60,
-  "tps": "15.0",
-  "ping": 244,
+  "tps": "19.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3160
+      "count": 3161
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:37] [8b8t] >> Teleporting to home 0...",
-    "[13:37] [8b8t] >> Teleporting to home 8...",
-    "[13:37] To KnoxNoir: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[13:37] To KnoxNoir: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[13:37] [8b8t] >> Request sent to KnoxNoir",
-    "[13:37] <JUSTLIKED> nigga dumbass juninhodocpvp ",
-    "[13:37] <JUSTLIKED> tpayes ",
-    "[13:38] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[13:38] fumar_efeio challenged the Wither and lost their head",
     "[13:38] <ogtkn> !kit survival ",
     "[13:38] To ogtkn: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
@@ -101,7 +93,15 @@
     "[13:39] <GoldTade> !kit pvp ",
     "[13:39] fumar_efeio challenged the Wither and lost their head",
     "[13:39] To GoldTade: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[13:39] 0_HienBot has been put down by auztfn"
+    "[13:39] 0_HienBot has been put down by auztfn",
+    "[13:39] [8b8t] >> The command /seed is not allowed",
+    "[13:39] [BOT] <0_HienBot> The server's seed is : None ",
+    "[13:39] <GoldTade> !kit pvp ",
+    "[13:39] [8b8t] >> Teleporting to home 0...",
+    "[13:39] [8b8t] >> Teleporting to home 1...",
+    "[13:39] To GoldTade: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:39] To GoldTade: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[13:39] [8b8t] >> Request sent to GoldTade"
   ],
   "userStats": {
     "76756": 38,
@@ -429,7 +429,7 @@
     "Etam2": 29,
     "alastor_confess": 1,
     "16tobi1": 40,
-    "GoldTade": 78,
+    "GoldTade": 79,
     "Vrata2men": 64,
     "tonito": 33,
     "LaGiulii": 1,
@@ -1367,7 +1367,7 @@
   "kitStats": {
     "build": 759,
     "survival": 2536,
-    "pvp": 3160,
+    "pvp": 3161,
     "dupe": 660,
     "tools": 737,
     "stash": 330,
