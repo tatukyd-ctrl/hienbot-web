@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:15:46 20/12/2025",
+  "lastUpdated": "22:15:48 20/12/2025",
   "totalKits": 70515,
   "todayKits": 254,
   "onlineCount": 48,
   "peakPlayers": 56,
-  "tps": "16.0",
+  "tps": "14.0",
   "ping": 222,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3235
+      "count": 3236
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:15] <RT_agarie143> !Kit pvp ",
-    "[22:15] To RT_agarie143: You're on cooldown, try again in 24 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[22:15] <dacvudog1802> i love anvils ",
-    "[22:15] <Z_Cero> pasame tu dis ",
-    "[22:15] [Pro+] <Ken Carso> xd ",
-    "[22:15] <Z_Cero> y te paso el del server ",
-    "[22:15] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
     "[22:15] <Nanagood_2012> tenes elitras? ",
     "[22:15] [Pro+] <Ken Carso> bro overuse anvil ",
     "[22:15] <Nanagood_2012> y cohetes ",
@@ -101,7 +94,14 @@
     "[22:15] To Z_Cero: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[22:15] [8b8t] >> The command /seed is not allowed",
     "[22:15] <Z_Cero> !kit survival ",
-    "[22:15] To Z_Cero: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[22:15] To Z_Cero: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[22:15] <RT_agarie143> !Kit pvp ",
+    "[22:15] [8b8t] >> Home 2 was not found",
+    "[22:15] [8b8t] >> Teleporting to home 0...",
+    "[22:15] [8b8t] >> Home 2 was not found",
+    "[22:15] [8b8t] >> Teleporting to home 1...",
+    "[22:15] <Z_Cero> !kit survival ",
+    "[22:15] To RT_agarie143: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1389,12 +1389,12 @@
     "RealityFlame": 5,
     "fearjeffy": 1,
     "Juanytoyt208": 2,
-    "RT_agarie143": 2
+    "RT_agarie143": 3
   },
   "kitStats": {
     "build": 768,
     "survival": 2621,
-    "pvp": 3235,
+    "pvp": 3236,
     "dupe": 674,
     "tools": 776,
     "stash": 340,
