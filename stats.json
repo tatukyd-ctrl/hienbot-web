@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:35:51 20/12/2025",
+  "lastUpdated": "12:36:21 20/12/2025",
   "totalKits": 70032,
   "todayKits": 120,
   "onlineCount": 38,
   "peakPlayers": 60,
-  "tps": "6.0",
-  "ping": 0,
+  "tps": "18.0",
+  "ping": 241,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2527
+      "count": 2528
     },
     {
       "name": "build",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:34] [8b8t] >> Your login session has been continued.",
-    "[12:34] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[12:34] ",
-    "[12:34]  [8builders8tools]",
-    "[12:34]  Perform the command /email associate to register",
-    "[12:34]  your email. By doing so, you",
-    "[12:34]  decrease the chance of being hacked.",
-    "[12:34] ",
-    "[12:34]   [Confirm read]",
-    "[12:34] ",
     "[12:34] [8b8t] >> The command /seed is not allowed",
     "[12:35] Chainguy has made the advancement [Stone Age]",
     "[12:35] <Chainguy> help ",
@@ -101,7 +91,17 @@
     "[12:35] ",
     "[12:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:35] Chainguy has made the advancement [Getting an Upgrade]",
-    "[12:35] [8b8t] >> The command /seed is not allowed"
+    "[12:35] [8b8t] >> The command /seed is not allowed",
+    "[12:35] <FititoCraft> !kit asd ",
+    "[12:36] To FititoCraft: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[12:36] _joaco22_ has made the advancement [Monster Hunter]",
+    "[12:36] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[12:36] duenas_migue decided to sleep with the fishes",
+    "[12:36] <FititoCraft> !kit Survival ",
+    "[12:36] [8b8t] >> Teleporting to home 0...",
+    "[12:36] [8b8t] >> Teleporting to home 1...",
+    "[12:36] To FititoCraft: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:36] To FititoCraft: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 38,
@@ -1354,11 +1354,12 @@
     "emxbrah": 1,
     "wolfycrzxy": 1,
     "pepe203671": 3,
-    "Zack0s": 1
+    "Zack0s": 1,
+    "FititoCraft": 1
   },
   "kitStats": {
     "build": 756,
-    "survival": 2527,
+    "survival": 2528,
     "pvp": 3145,
     "dupe": 655,
     "tools": 737,
