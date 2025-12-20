@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:56:33 20/12/2025",
-  "totalKits": 70232,
-  "todayKits": 3,
+  "lastUpdated": "18:56:51 20/12/2025",
+  "totalKits": 70233,
+  "todayKits": 4,
   "onlineCount": 28,
   "peakPlayers": 29,
-  "tps": "15.0",
-  "ping": 254,
+  "tps": "16.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:54] [8b8t] >> Teleporting to home 0...",
-    "[18:54] [8b8t] >> Teleporting to home 1...",
-    "[18:54] To Shroom: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[18:54] To Shroom: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[18:54] [8b8t] >> Request sent to Shroom",
-    "[18:54] [8b8t] >> Teleporting...",
-    "[18:54] [8b8t] >> Home 2 was not found",
-    "[18:54] [BOT] <0_HienBot> Hi nsk333! ",
-    "[18:54] [8b8t] >> The command /seed is not allowed",
     "[18:54] Shroom decided to test gravity and lost",
     "[18:55] MonkeBot's mom said we have food at home",
     "[18:55] [BOT] <0_HienBot> Hey .DinoPista1003! ",
@@ -101,7 +92,16 @@
     "[18:56] [8b8t] >> Teleporting...",
     "[18:56] [8b8t] >> Home 2 was not found",
     "[18:56] [8b8t] >> The command /seed is not allowed",
-    "[18:56] Shroom has made the advancement [Spooky Scary Skeleton]"
+    "[18:56] Shroom has made the advancement [Spooky Scary Skeleton]",
+    "[18:56] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[18:56] <kifl1ke> !kit redstone ",
+    "[18:56] [8b8t] >> Teleporting to home 0...",
+    "[18:56] [8b8t] >> Teleporting to home 3...",
+    "[18:56] To kifl1ke: Your kit (redstone) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:56] To kifl1ke: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[18:56] [8b8t] >> Request sent to kifl1ke",
+    "[18:56] [8b8t] >> Teleporting...",
+    "[18:56] [8b8t] >> TPA cancelled because SheepStar_TW left"
   ],
   "userStats": {
     "76756": 38,
@@ -1372,7 +1372,7 @@
     "Abanoub": 1,
     "Montayn27": 7,
     "Infernokingjr": 3,
-    "kifl1ke": 4,
+    "kifl1ke": 5,
     "abrajam26": 7,
     "WESTT": 4,
     "Shroom": 5
@@ -1391,7 +1391,7 @@
     "wool": 157,
     "mineral": 251,
     "food": 192,
-    "redstone": 254,
+    "redstone": 255,
     "toolbox": 263,
     "quartz": 78,
     "shulker": 209,
