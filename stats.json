@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:51:06 20/12/2025",
+  "lastUpdated": "21:51:10 20/12/2025",
   "totalKits": 70429,
   "todayKits": 168,
   "onlineCount": 46,
   "peakPlayers": 49,
-  "tps": "16.0",
-  "ping": 235,
+  "tps": "17.0",
+  "ping": 227,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2618
+      "count": 2619
     },
     {
       "name": "tools",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:49] <pachurri333> ok ",
-    "[21:49] <Skyster12> i need to escape xd ",
-    "[21:49] [BOT] <0_HienBot> Hi pachurri333! ",
     "[21:50] <gatonegro123> ｓ／ｓｋｉｎ ｇａｔｏｎｅｇｒｏ１２３ ",
     "[21:50] <dacvudog1802> lay kit di ",
     "[21:50] <magmitamp4> !kit tools ",
@@ -101,7 +98,10 @@
     "[21:50] [8b8t] >> Request sent to RealityFlame",
     "[21:50] [BOT] <0_HienBot> 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 𝙩𝙤 𝙜𝙚𝙩 f𝙧𝙚𝙚 𝙠𝙞𝙩 ",
     "[21:50] [8b8t] >> Teleporting...",
-    "[21:51] [8b8t] >> Home 2 was not found"
+    "[21:51] [8b8t] >> Home 2 was not found",
+    "[21:51] <Skyster12> !kit survival ",
+    "[21:51] [8b8t] >> Teleporting to home 0...",
+    "[21:51] [8b8t] >> The command /seed is not allowed"
   ],
   "userStats": {
     "76756": 38,
@@ -837,7 +837,7 @@
     "Tecnay_72": 1,
     "Hyzennn_": 5,
     "jatekosvagyok": 2,
-    "Skyster12": 20,
+    "Skyster12": 21,
     "dimgo12": 1,
     "xoan69": 13,
     "Elcrias": 1,
@@ -1392,7 +1392,7 @@
   },
   "kitStats": {
     "build": 768,
-    "survival": 2618,
+    "survival": 2619,
     "pvp": 3229,
     "dupe": 673,
     "tools": 776,
