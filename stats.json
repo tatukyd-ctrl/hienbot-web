@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:09:51 20/12/2025",
+  "lastUpdated": "09:10:21 20/12/2025",
   "totalKits": 69916,
   "todayKits": 4,
   "onlineCount": 43,
   "peakPlayers": 45,
-  "tps": "18.0",
-  "ping": 217,
+  "tps": "16.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -60,7 +60,7 @@
     },
     {
       "name": "build",
-      "count": 747
+      "count": 748
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:08] To Aizden: Hello Aizden!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:08] <Aizden> *kit tools ",
-    "[09:08] [8b8t] >> Teleporting to home 0...",
-    "[09:08] [8b8t] >> Teleporting to home 8...",
-    "[09:08] To Aizden: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[09:08] To Aizden: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[09:08] [8b8t] >> Request sent to Aizden",
-    "[09:08] [8b8t] >> Teleporting...",
     "[09:08] nosencs_ decided to test gravity and lost",
     "[09:08] 0_HienBot was destroyed by Aizden",
     "[09:08] <MrWitherSkull> what dupe is working chat ",
@@ -101,7 +93,15 @@
     "[09:09] <MrWitherSkull> can u tell me the steps pls? ",
     "[09:09] <Supremexxfix> alguien me regala algo :( ",
     "[09:09] [Pro+] <Ken Carso> paid ",
-    "[09:09] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
+    "[09:09] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[09:09] LostDelivery forgot to bring their parachute",
+    "[09:09] <Aizden> !kit build ",
+    "[09:09] To Aizden: You're on cooldown, try again in 11 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[09:10] rqther got slammed into a wall by his elytra",
+    "[09:10] [BOT] <0_HienBot> Welcome to 8b8t, .Obeeone2! ",
+    "[09:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[09:10] <Aizden> !kit build ",
+    "[09:10] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1337,10 +1337,10 @@
     "MoisDev": 1,
     ".Mizzmathers217": 1,
     "rqther": 1,
-    "Aizden": 2
+    "Aizden": 3
   },
   "kitStats": {
-    "build": 747,
+    "build": 748,
     "survival": 2497,
     "pvp": 3117,
     "dupe": 643,
