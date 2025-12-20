@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:28:55 20/12/2025",
+  "lastUpdated": "22:29:10 20/12/2025",
   "totalKits": 70575,
   "todayKits": 314,
-  "onlineCount": 52,
+  "onlineCount": 47,
   "peakPlayers": 56,
-  "tps": "16.0",
+  "tps": "18.0",
   "ping": 243,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2622
+      "count": 2623
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:27]   [Confirm read]",
-    "[22:27] ",
-    "[22:27] 0_HienBot was pwned by TylerDurden098 wielding [卍 Durandal 卍]",
-    "[22:28] dacvudog1802 was destroyed by VOLTAIKKKKK",
-    "[22:28] [8b8t] >> The command /seed is not allowed",
-    "[22:28] [8b8t] >> The command /seed is not allowed",
-    "[22:28] <RT_agarie143> !kit totem ",
-    "[22:28] To RT_agarie143: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[22:28] <RT_agarie143> !kit pvp ",
-    "[22:28] [8b8t] >> Teleporting to home 0...",
     "[22:28] [8b8t] >> Teleporting to home 1...",
     "[22:28] To RT_agarie143: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[22:28] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +91,17 @@
     "[22:28] [8b8t] >> Request sent to abtin123456",
     "[22:28] [8b8t] >> Teleporting...",
     "[22:28] [8b8t] >> Home 2 was not found",
-    "[22:28] [8b8t] >> Home 2 was not found"
+    "[22:28] [8b8t] >> Home 2 was not found",
+    "[22:28] [BOT] <0_HienBot> Hola AgusAe! ",
+    "[22:28] [8b8t] >> The command /seed is not allowed",
+    "[22:28] [8b8t] >> The command /seed is not allowed",
+    "[22:29] <.AoDxPrince> !kit survival ",
+    "[22:29] [8b8t] >> Teleporting to home 0...",
+    "[22:29] [8b8t] >> Teleporting to home 1...",
+    "[22:29] To .AoDxPrince: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[22:29] dacvudog1802 was pwned by VOLTAIKKKKK wielding [ezfarm",
+    "[22:29] To .AoDxPrince: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[22:29] [8b8t] >> Request sent to .AoDxPrince"
   ],
   "userStats": {
     "76756": 38,
@@ -247,7 +247,7 @@
     "pepito5986378946": 14,
     "ZojiFujita": 13,
     "EliseoBana": 1,
-    ".AoDxPrince": 34,
+    ".AoDxPrince": 35,
     ".unknownguy59093": 15,
     "Luminus542": 2,
     "i212": 1,
@@ -1393,7 +1393,7 @@
   },
   "kitStats": {
     "build": 768,
-    "survival": 2622,
+    "survival": 2623,
     "pvp": 3242,
     "dupe": 674,
     "tools": 776,
