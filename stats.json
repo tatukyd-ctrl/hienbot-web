@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:34:11 21/12/2025",
-  "totalKits": 72305,
-  "todayKits": 526,
-  "onlineCount": 46,
+  "lastUpdated": "01:34:14 21/12/2025",
+  "totalKits": 72306,
+  "todayKits": 527,
+  "onlineCount": 47,
   "peakPlayers": 70,
-  "tps": "17.0",
+  "tps": "14.0",
   "ping": 236,
   "topUsers": [
     {
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:32] [8b8t] >> Teleporting to home 0...",
-    "[01:32] [8b8t] >> Teleporting to home 1...",
-    "[01:32] To .UnfoldedBog4842: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[01:32] To .UnfoldedBog4842: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[01:32] [8b8t] >> Request sent to .UnfoldedBog4842",
     "[01:32] <ponfhj> tpaforpvp ",
     "[01:32] [8b8t] >> Teleporting...",
@@ -101,7 +97,11 @@
     "[01:34] [8b8t] >> Request sent to Exploterxyz",
     "[01:34] [8b8t] >> Teleporting...",
     "[01:34] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[01:34] [8b8t] >> The command /seed is not allowed"
+    "[01:34] [8b8t] >> The command /seed is not allowed",
+    "[01:34] 0_HienBot forgot to stop, drop, and roll",
+    "[01:34] [8b8t] >> Home 2 was not found",
+    "[01:34] <Herobrai2990> !kit toolbox ",
+    "[01:34] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -554,7 +554,7 @@
     "waza_w": 39,
     "Gokalpofficial": 10,
     "Triper01": 24,
-    "Herobrai2990": 27,
+    "Herobrai2990": 28,
     "ReisRandys": 1,
     "SPLYXIT101": 8,
     "Azanjod_1": 10,
@@ -1415,7 +1415,7 @@
     "mineral": 256,
     "food": 196,
     "redstone": 258,
-    "toolbox": 273,
+    "toolbox": 274,
     "quartz": 83,
     "shulker": 214,
     "terracotta": 29,
