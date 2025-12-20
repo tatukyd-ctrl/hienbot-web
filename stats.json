@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:02:49 20/12/2025",
+  "lastUpdated": "21:03:10 20/12/2025",
   "totalKits": 70317,
   "todayKits": 56,
   "onlineCount": 45,
   "peakPlayers": 49,
-  "tps": "13.0",
-  "ping": 258,
+  "tps": "14.0",
+  "ping": 241,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3223
+      "count": 3224
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:02] ",
-    "[21:02]   [Confirm read]",
-    "[21:02] ",
-    "[21:02] To Pia01_Vn: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[21:02] [8b8t] >> Teleporting to home 0...",
-    "[21:02] [8b8t] >> Teleporting to home 1...",
-    "[21:02] Kuhaes9000HD thought they could make it to oxygen in time",
-    "[21:02] fearjeffy decided to test gravity and lost",
-    "[21:02] <kifl1ke> !kit survival ",
-    "[21:02] To kifl1ke: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[21:02] To Pia01_Vn: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:02] [8b8t] >> Request sent to Pia01_Vn",
     "[21:02] [8b8t] >> The command /seed is not allowed",
     "[21:02] [8b8t] >> Teleporting...",
@@ -101,7 +90,18 @@
     "[21:02] To kifl1ke: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:02] [8b8t] >> The command /seed is not allowed",
     "[21:02] [8b8t] >> Request sent to kifl1ke",
-    "[21:02] [8b8t] >> Teleporting..."
+    "[21:02] [8b8t] >> Teleporting...",
+    "[21:02] [8b8t] >> The command /seed is not allowed",
+    "[21:02] [8b8t] >> Home 2 was not found",
+    "[21:02] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
+    "[21:02] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:02] [8b8t] >> The command /seed is not allowed",
+    "[21:03] <fearjeffy> !kit pvp ",
+    "[21:03] [8b8t] >> Teleporting to home 0...",
+    "[21:03] [8b8t] >> Teleporting to home 1...",
+    "[21:03] To fearjeffy: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:03] To fearjeffy: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:03] [8b8t] >> Request sent to fearjeffy"
   ],
   "userStats": {
     "76756": 38,
@@ -1386,12 +1386,13 @@
     "Vahidqaqa": 1,
     "CODEnikolini2807": 1,
     "patroclo007": 2,
-    "RealityFlame": 1
+    "RealityFlame": 1,
+    "fearjeffy": 1
   },
   "kitStats": {
     "build": 767,
     "survival": 2613,
-    "pvp": 3223,
+    "pvp": 3224,
     "dupe": 671,
     "tools": 768,
     "stash": 340,
