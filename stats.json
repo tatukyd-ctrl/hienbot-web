@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:50:21 20/12/2025",
-  "totalKits": 69949,
-  "todayKits": 37,
-  "onlineCount": 37,
+  "lastUpdated": "09:50:36 20/12/2025",
+  "totalKits": 69950,
+  "todayKits": 38,
+  "onlineCount": 36,
   "peakPlayers": 50,
-  "tps": "10.0",
-  "ping": 0,
+  "tps": "19.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:49] <RyloMC> !kit ",
-    "[09:49] To RyloMC: Hello RyloMC!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:49] <.AoDxPrince> dont forget to do / dupe for the easiest dupe method on 8b ",
-    "[09:49] Nico_Rizz12 has made the advancement [Take Aim]",
-    "[09:49] LostDelivery has reached the goal [Sky's the Limit]",
-    "[09:49] LostDelivery has completed the challenge [Cover Me in Debris]",
-    "[09:49] <RyloMC> !kit survival ",
-    "[09:49] To RyloMC: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[09:49] [8b8t] >> The TPA request you sent to Kopa_ARG was successfully canceled.",
     "[09:49] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[09:49] <guilelmso> Lauren me saca del spawn? ",
     "[09:49] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +92,16 @@
     "[09:50] ",
     "[09:50] <LostDelivery> !kit fly ",
     "[09:50] To LostDelivery: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:50] [8b8t] >> The command /seed is not allowed"
+    "[09:50] [8b8t] >> The command /seed is not allowed",
+    "[09:50] <LostDelivery> !kit highway ",
+    "[09:50] [8b8t] >> Teleporting to home 0...",
+    "[09:50] [8b8t] >> Teleporting to home 7...",
+    "[09:50] To LostDelivery: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:50] To LostDelivery: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[09:50] [8b8t] >> Request sent to LostDelivery",
+    "[09:50] <guilelmso> ! kit survivL ",
+    "[09:50] [8b8t] >> Teleporting...",
+    "[09:50] <.AoDxPrince> lost, dont u see a list of kits when u do the command ? "
   ],
   "userStats": {
     "76756": 38,
@@ -1342,7 +1342,7 @@
     "Nico_Rizz12": 1,
     "Alonso_god": 3,
     "YungSaint": 1,
-    "LostDelivery": 1,
+    "LostDelivery": 2,
     "wPurples": 1
   },
   "kitStats": {
@@ -1366,7 +1366,7 @@
     "terracotta": 27,
     "end": 183,
     "armortrims": 143,
-    "highway": 176,
+    "highway": 177,
     "ocean": 8,
     "concrete": 154,
     "glass": 114,
