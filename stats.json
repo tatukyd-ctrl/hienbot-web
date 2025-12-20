@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:09:03 20/12/2025",
-  "totalKits": 70259,
-  "todayKits": 30,
-  "onlineCount": 29,
+  "lastUpdated": "20:09:20 20/12/2025",
+  "totalKits": 70260,
+  "todayKits": 31,
+  "onlineCount": 27,
   "peakPlayers": 35,
-  "tps": "19.0",
+  "tps": "14.0",
   "ping": 241,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2600
+      "count": 2601
     },
     {
       "name": "build",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:07] To Ishantxp: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[20:07] [Ultra] <Gosankyo> pero si no hacen falta los cohetes para nada ",
-    "[20:07] <kifl1ke> !kit totem ",
-    "[20:07] To kifl1ke: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[20:07] [8b8t] >> The TPA request you sent to Kuhaes9000HD was successfully canceled.",
-    "[20:07] <kifl1ke> !kit totem ",
-    "[20:07] To kifl1ke: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[20:07] [8b8t] >> The command /seed is not allowed",
-    "[20:07] xXpiseduXx decided to test gravity and lost",
-    "[20:08] <ianis13> si pa moverme con eitras ",
     "[20:08] [BOT] <0_HienBot> Hello MasonAreAdmins! ",
     "[20:08] <Z_Cero> !kit pvp ",
     "[20:08] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +91,17 @@
     "[20:08] <Z_Cero> me dio dos pvp kits ",
     "[20:08] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[20:08] [Ultra] <Gosankyo> que juegas sin hacks ",
-    "[20:09] [Ultra] <Gosankyo> pues buena suerte "
+    "[20:09] [Ultra] <Gosankyo> pues buena suerte ",
+    "[20:09] <BIGSWAGG> !kit mixed ",
+    "[20:09] To BIGSWAGG: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[20:09] [BOT] <0_HienBot> What's up, KMSA? ",
+    "[20:09] <BIGSWAGG> !kit survival ",
+    "[20:09] [8b8t] >> Teleporting to home 0...",
+    "[20:09] [8b8t] >> Teleporting to home 1...",
+    "[20:09] To BIGSWAGG: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:09] To BIGSWAGG: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:09] [8b8t] >> Request sent to BIGSWAGG",
+    "[20:09] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -728,7 +728,7 @@
     "Saad2001helper_": 9,
     "Saad2001_bot": 3,
     "0099martinb": 1,
-    "BIGSWAGG": 22,
+    "BIGSWAGG": 23,
     "burgers57": 6,
     "vxcom": 17,
     "nighter212": 2,
@@ -1381,7 +1381,7 @@
   },
   "kitStats": {
     "build": 764,
-    "survival": 2600,
+    "survival": 2601,
     "pvp": 3205,
     "dupe": 670,
     "tools": 750,
