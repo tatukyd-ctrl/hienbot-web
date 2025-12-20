@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:56:55 21/12/2025",
-  "totalKits": 73135,
-  "todayKits": 86,
+  "lastUpdated": "05:57:11 21/12/2025",
+  "totalKits": 73136,
+  "todayKits": 87,
   "onlineCount": 48,
   "peakPlayers": 63,
-  "tps": "11.0",
-  "ping": 232,
+  "tps": "15.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:56] To ferwfwwg: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:56] <ferwfwwg> !kit armortrins ",
-    "[05:56] To ferwfwwg: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:56] <AgusAe> Don’t close the donkey’s inventory once it appears, and don’t take the items before reaching the end. ",
-    "[05:56] <Lyreaxhh> !kit armortrims ",
-    "[05:56] [8b8t] >> Teleporting to home 0...",
-    "[05:56] [8b8t] >> Teleporting to home 8...",
-    "[05:56] To Lyreaxhh: Your kit (armortrims) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[05:56] <0ldApollo01170> es nuevo refugio? ",
-    "[05:56] <MatMagg> !kit raid ",
-    "[05:56] To MatMagg: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[05:56] MonkeBot decided to sleep with the fishes",
-    "[05:56] To Lyreaxhh: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[05:56] <GABRIEL_MCZ> !kit foguetes ",
-    "[05:56] To GABRIEL_MCZ: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[05:56] [8b8t] >> Request sent to Lyreaxhh",
     "[05:56] <ferwfwwg> !kit arnortrins ",
     "[05:56] To ferwfwwg: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
@@ -101,7 +86,22 @@
     "[05:56] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
     "[05:56] [8b8t] >> Home 2 was not found",
     "[05:56] <Lyreaxhh> !kit armortrims ",
-    "[05:56] To Lyreaxhh: You're on cooldown, try again in 82 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[05:56] To Lyreaxhh: You're on cooldown, try again in 82 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[05:56] <MatMagg> !kit raid ",
+    "[05:56] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[05:56] To MatMagg: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[05:57] [8b8t] >> Teleporting to home 0...",
+    "[05:57] [8b8t] >> Teleporting to home 3...",
+    "[05:57] <_marcos2_> !kit survival ",
+    "[05:57] To _marcos2_: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[05:57] <ferwfwwg> !kit arnortrins ",
+    "[05:57] To MatMagg: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[05:57] To ferwfwwg: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[05:57] [8b8t] >> Request sent to MatMagg",
+    "[05:57] <arthavonv> ? ",
+    "[05:57] [8b8t] >> Teleporting...",
+    "[05:57] <ferwfwwg> !kit arnortrins ",
+    "[05:57] To ferwfwwg: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
   ],
   "userStats": {
     "76756": 38,
@@ -1414,7 +1414,8 @@
     "Nikumara": 2,
     "lexomorey": 1,
     "Potion100": 1,
-    "10HACKER01": 2
+    "10HACKER01": 2,
+    "MatMagg": 1
   },
   "kitStats": {
     "build": 776,
@@ -1423,7 +1424,7 @@
     "dupe": 699,
     "tools": 805,
     "stash": 349,
-    "raid": 548,
+    "raid": 549,
     "wood": 192,
     "exp": 330,
     "dye": 118,
