@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:50:51 20/12/2025",
-  "totalKits": 69950,
-  "todayKits": 38,
+  "lastUpdated": "09:51:13 20/12/2025",
+  "totalKits": 69951,
+  "todayKits": 39,
   "onlineCount": 36,
   "peakPlayers": 50,
-  "tps": "18.0",
-  "ping": 229,
+  "tps": "17.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2510
+      "count": 2511
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:50] <LostDelivery> !kits ",
-    "[09:50] ",
-    "[09:50]  [8builders8tools]",
-    "[09:50]  Perform the command /email associate to register",
-    "[09:50]  your email. By doing so, you",
-    "[09:50]  decrease the chance of being hacked.",
-    "[09:50] ",
-    "[09:50]   [Confirm read]",
-    "[09:50] ",
-    "[09:50] <LostDelivery> !kit fly ",
-    "[09:50] To LostDelivery: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[09:50] [8b8t] >> The command /seed is not allowed",
     "[09:50] <LostDelivery> !kit highway ",
     "[09:50] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +90,18 @@
     "[09:50] [8b8t] >> The command /seed is not allowed",
     "[09:50] wPurples has been put down by RyloMC",
     "[09:50] [Pro] <bigbear> . ",
-    "[09:50] <LostDelivery> yeah i got the stuff thanks "
+    "[09:50] <LostDelivery> yeah i got the stuff thanks ",
+    "[09:50] <.AoDxPrince> kk ",
+    "[09:50] [Pro] <SheepStar_TW> thanks you ",
+    "[09:50] <guilelmso> !kit survival ",
+    "[09:50] [8b8t] >> Teleporting to home 0...",
+    "[09:50] [8b8t] >> Teleporting to home 1...",
+    "[09:50] To guilelmso: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:50] <euNaosei1W0D> $penis ",
+    "[09:50] To guilelmso: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[09:51] [8b8t] >> Request sent to guilelmso",
+    "[09:51] [8b8t] >> Please do not spam.",
+    "[09:51] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1343,11 +1343,12 @@
     "Alonso_god": 3,
     "YungSaint": 1,
     "LostDelivery": 2,
-    "wPurples": 1
+    "wPurples": 1,
+    "guilelmso": 1
   },
   "kitStats": {
     "build": 754,
-    "survival": 2510,
+    "survival": 2511,
     "pvp": 3128,
     "dupe": 645,
     "tools": 727,
