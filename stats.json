@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:21:10 20/12/2025",
+  "lastUpdated": "22:21:40 20/12/2025",
   "totalKits": 70534,
   "todayKits": 273,
-  "onlineCount": 46,
+  "onlineCount": 45,
   "peakPlayers": 56,
-  "tps": "15.0",
-  "ping": 223,
+  "tps": "18.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3238
+      "count": 3239
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:20] <RT_agarie143> !kit pvp ",
-    "[22:20] To RT_agarie143: You're on cooldown, try again in 25 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[22:20] Nanagood_2012 Whispers: !kit",
-    "[22:20] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-    "[22:20] [8b8t] >> Your login session has been continued.",
     "[22:20] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[22:20] ",
     "[22:20]  [8builders8tools]",
@@ -101,7 +96,12 @@
     "[22:21] [8b8t] >> Teleporting...",
     "[22:21] [BOT] <8b8t_net> <quitting_is_hard> !online ",
     "[22:21] [8b8t] >> Home 2 was not found",
-    "[22:21] [BOT] <0_HienBot> Try /nc to change your name color! "
+    "[22:21] [BOT] <0_HienBot> Try /nc to change your name color! ",
+    "[22:21] [8b8t] >> The command /seed is not allowed",
+    "[22:21] <RT_agarie143> activen hotspot ",
+    "[22:21] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
+    "[22:21] darkaxel777 Whispers: !kit pvp",
+    "[22:21] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1291,7 +1291,7 @@
     "anvayraut": 1,
     "Koty75HZ": 1,
     "GateteJux": 12,
-    "darkaxel777": 10,
+    "darkaxel777": 11,
     "portox2998": 5,
     "what2": 4,
     "what3": 3,
@@ -1394,7 +1394,7 @@
   "kitStats": {
     "build": 768,
     "survival": 2622,
-    "pvp": 3238,
+    "pvp": 3239,
     "dupe": 674,
     "tools": 776,
     "stash": 340,
