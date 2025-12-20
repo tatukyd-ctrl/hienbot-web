@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:46:55 20/12/2025",
+  "lastUpdated": "18:47:25 20/12/2025",
   "totalKits": 70226,
   "todayKits": 27,
   "onlineCount": 32,
   "peakPlayers": 36,
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 230,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2586
+      "count": 2587
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:44] [8b8t] >> Request sent to Abanoub67",
-    "[18:44] [8b8t] >> Teleporting...",
-    "[18:44] 0_HienBot has been put down by Abanoub67",
-    "[18:44] [BOT] <0_HienBot> Hello Enderworld00! ",
-    "[18:44] [8b8t] >> The command /seed is not allowed",
-    "[18:44] Enderworld00 decided to test gravity and lost",
-    "[18:44] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[18:44] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
-    "[18:45] <Der_Fruchtzwerg> how can i find the end? ",
     "[18:45] <.AoDxPrince> !kit exp ",
     "[18:45] [8b8t] >> Teleporting to home 0...",
     "[18:45] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +92,16 @@
     "[18:46] <Kid_67> hello ",
     "[18:46] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[18:46] [BOT] <0_HienBot> 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 𝙩𝙤 𝙜𝙚𝙩 f𝙧𝙚𝙚 𝙠𝙞𝙩 ",
-    "[18:46] 31415pi challenged the Wither and lost their head"
+    "[18:46] 31415pi challenged the Wither and lost their head",
+    "[18:46] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
+    "[18:47] <Shroom> !kit Survival ",
+    "[18:47] [8b8t] >> Teleporting to home 0...",
+    "[18:47] 31415pi decided to test gravity and lost",
+    "[18:47] [8b8t] >> Teleporting to home 1...",
+    "[18:47] To Shroom: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:47] To Shroom: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[18:47] <Der_Fruchtzwerg> how can i find the end portal? ",
+    "[18:47] [8b8t] >> Request sent to Shroom"
   ],
   "userStats": {
     "76756": 38,
@@ -1375,11 +1375,11 @@
     "kifl1ke": 4,
     "abrajam26": 7,
     "WESTT": 4,
-    "Shroom": 1
+    "Shroom": 2
   },
   "kitStats": {
     "build": 764,
-    "survival": 2586,
+    "survival": 2587,
     "pvp": 3199,
     "dupe": 669,
     "tools": 746,
