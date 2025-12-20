@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:15:40 20/12/2025",
+  "lastUpdated": "21:16:10 20/12/2025",
   "totalKits": 70319,
   "todayKits": 58,
   "onlineCount": 43,
   "peakPlayers": 49,
-  "tps": "17.0",
-  "ping": 0,
+  "tps": "16.0",
+  "ping": 220,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:14] [8b8t] >> Teleporting...",
-    "[21:14] 0_HienBot was destroyed by Regentmmc",
-    "[21:14] <mAster_MushUnKA> !kit dupe ",
-    "[21:14] [8b8t] >> Teleporting to home 0...",
-    "[21:14] <kifl1ke> how long is the nether - highway ",
-    "[21:14] [8b8t] >> Teleporting to home 8...",
-    "[21:14] To mAster_MushUnKA: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[21:14] ianis13 thought they could make it to oxygen in time",
-    "[21:14] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[21:14] To mAster_MushUnKA: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:14] [8b8t] >> Request sent to mAster_MushUnKA",
     "[21:14] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[21:15] ",
     "[21:15] [8b8t] >> The command /seed is not allowed",
     "[21:15] <kifl1ke> !kit charlie charlie kirky ",
-    "[21:15] <Aizden> !kik george floyd "
+    "[21:15] <Aizden> !kik george floyd ",
+    "[21:15] <Z_Cero> !kit ilegal ",
+    "[21:15] To Z_Cero: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[21:15] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[21:15] <LimitlessEnd> !kit illegal ",
+    "[21:15] To LimitlessEnd: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[21:16] <LimitlessEnd> !kit end ",
+    "[21:16] [8b8t] >> Teleporting to home 0...",
+    "[21:16] [8b8t] >> Teleporting to home 6...",
+    "[21:16] <Z_Cero> !kit Illegal "
   ],
   "userStats": {
     "76756": 38,
@@ -1283,7 +1283,7 @@
     "_marcos2_": 5,
     "kinsidrekk": 15,
     "trewqaz": 10,
-    "LimitlessEnd": 14,
+    "LimitlessEnd": 15,
     "csuka999": 1,
     "Dragonal3490": 8,
     "f22rsaptor": 1,
@@ -1408,7 +1408,7 @@
     "quartz": 78,
     "shulker": 210,
     "terracotta": 29,
-    "end": 196,
+    "end": 197,
     "armortrims": 150,
     "highway": 185,
     "ocean": 8,
