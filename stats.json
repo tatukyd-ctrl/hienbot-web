@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:28:30 20/12/2025",
+  "lastUpdated": "13:28:52 20/12/2025",
   "totalKits": 70068,
   "todayKits": 156,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 60,
-  "tps": "14.0",
-  "ping": 362,
+  "tps": "18.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3158
+      "count": 3159
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:27] <MrWitherSkull> *kit pvp ",
-    "[13:27] [8b8t] >> Teleporting to home 0...",
-    "[13:27] [8b8t] >> Teleporting to home 1...",
-    "[13:27] To MrWitherSkull: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[13:27] To MrWitherSkull: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[13:27] [8b8t] >> Request sent to MrWitherSkull",
-    "[13:27] [8b8t] >> Teleporting...",
-    "[13:27] [8b8t] >> Home 2 was not found",
-    "[13:27] [8b8t] >> The command /seed is not allowed",
-    "[13:27] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[13:27] juanmalolpro has made the advancement [Cover Me With Diamonds]",
     "[13:27] juanmalolpro has reached the goal [Sky's the Limit]",
     "[13:27] juanmalolpro has made the advancement [Stone Age]",
     "[13:27] <Griokai310> !kit PVP ",
@@ -101,7 +90,18 @@
     "[13:28] <Gold_Trident87> !kit end ",
     "[13:28] Ishantxp pulverized 0_HienBot using [netherite sword]",
     "[13:28] [8b8t] >> Teleporting to home 0...",
-    "[13:28] [8b8t] >> Teleporting to home 6..."
+    "[13:28] [8b8t] >> Teleporting to home 6...",
+    "[13:28] To Gold_Trident87: Your kit (end) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:28] To Gold_Trident87: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[13:28] [8b8t] >> Request sent to Gold_Trident87",
+    "[13:28] [8b8t] >> The command /seed is not allowed",
+    "[13:28] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
+    "[13:28] <MrWitherSkull> e ",
+    "[13:28] <Griokai310> !kit PVP ",
+    "[13:28] To Griokai310: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:28] tatoelfinoo died to a Piglin... I mean, Pigman... I mean, Zombified Piglin",
+    "[13:28] [8b8t] >> Teleporting to home 0...",
+    "[13:28] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -1359,14 +1359,14 @@
     "Chainguy": 8,
     "ferwfwwg": 1,
     "Gold_Trident87": 5,
-    "Griokai310": 3,
+    "Griokai310": 4,
     "Noobz": 1,
     "_Makyna_": 1
   },
   "kitStats": {
     "build": 759,
     "survival": 2536,
-    "pvp": 3158,
+    "pvp": 3159,
     "dupe": 659,
     "tools": 737,
     "stash": 329,
