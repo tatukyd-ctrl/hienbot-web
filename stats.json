@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:52:03 21/12/2025",
+  "lastUpdated": "05:52:25 21/12/2025",
   "totalKits": 73130,
   "todayKits": 81,
   "onlineCount": 45,
   "peakPlayers": 63,
-  "tps": "16.0",
+  "tps": "13.0",
   "ping": 232,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:51] <GABRIEL_MCZ> !kit foguetes ",
-    "[05:51] To GABRIEL_MCZ: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:51] <0ldApollo01170> el per1 lo bardeaban xdd ",
-    "[05:51] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
-    "[05:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[05:51] [Ultra] <6foot3monkey> !kit build ",
     "[05:51] [8b8t] >> Teleporting to home 0...",
     "[05:51] [8b8t] >> Teleporting to home 3...",
     "[05:51] To 6foot3monkey: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
@@ -101,7 +95,13 @@
     "[05:51] To ferwfwwg: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[05:51] [8b8t] >> Request sent to ferwfwwg",
     "[05:51] juannegrin123432 got his head blown off by the Wither",
-    "[05:52] [8b8t] >> Teleporting..."
+    "[05:52] [8b8t] >> Teleporting...",
+    "[05:52] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[05:52] [8b8t] >> Home 2 was not found",
+    "[05:52] 0_HienBot was rekt by ferwfwwg and their mighty [netherite sword]",
+    "[05:52] [8b8t] >> The command /seed is not allowed",
+    "[05:52] [BOT] <0_HienBot> The server's seed is : None ",
+    "[05:52] <GABRIEL_MCZ> !kit wool "
   ],
   "userStats": {
     "76756": 38,
@@ -1404,7 +1404,7 @@
     "aisjsjsjsj": 1,
     "estramon": 1,
     "YOUNESSKAKA": 7,
-    "GABRIEL_MCZ": 21,
+    "GABRIEL_MCZ": 22,
     "Valentur1": 1,
     "pochito": 4,
     "Emaikol": 1,
@@ -1427,7 +1427,7 @@
     "wood": 192,
     "exp": 330,
     "dye": 116,
-    "wool": 162,
+    "wool": 163,
     "mineral": 258,
     "food": 197,
     "redstone": 266,
