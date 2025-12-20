@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:52:19 20/12/2025",
+  "lastUpdated": "18:52:25 20/12/2025",
   "totalKits": 70229,
   "todayKits": 30,
   "onlineCount": 30,
   "peakPlayers": 36,
-  "tps": "17.0",
+  "tps": "15.0",
   "ping": 229,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2588
+      "count": 2589
     },
     {
       "name": "build",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:49] <Hamzaq41> tpa for kit ",
-    "[18:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[18:49] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
-    "[18:49] <blake2013> yw bye ",
-    "[18:49] [8b8t] >> Teleporting...",
-    "[18:49] <Hamzaq41> turk varmi ",
     "[18:49] [8b8t] >> Home 2 was not found",
     "[18:49] [8b8t] >> The command /seed is not allowed",
     "[18:49] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
@@ -101,7 +95,13 @@
     "[18:51] [8b8t] >> Request sent to Shroom",
     "[18:52] <Hamzaq41> turk varmi ",
     "[18:52] [8b8t] >> Teleporting...",
-    "[18:52] 0_HienBot was pwned by Shroom wielding [netherite sword]"
+    "[18:52] 0_HienBot was pwned by Shroom wielding [netherite sword]",
+    "[18:52] <Infernokingjr> !kit survival ",
+    "[18:52] [8b8t] >> The command /seed is not allowed",
+    "[18:52] [8b8t] >> Teleporting to home 0...",
+    "[18:52] [8b8t] >> Teleporting to home 1...",
+    "[18:52] To Infernokingjr: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:52] [8b8t] >> The command /seed is not allowed"
   ],
   "userStats": {
     "76756": 38,
@@ -1371,7 +1371,7 @@
     "tenshinjan777": 4,
     "Abanoub": 1,
     "Montayn27": 7,
-    "Infernokingjr": 1,
+    "Infernokingjr": 2,
     "kifl1ke": 4,
     "abrajam26": 7,
     "WESTT": 4,
@@ -1379,7 +1379,7 @@
   },
   "kitStats": {
     "build": 764,
-    "survival": 2588,
+    "survival": 2589,
     "pvp": 3199,
     "dupe": 669,
     "tools": 746,
