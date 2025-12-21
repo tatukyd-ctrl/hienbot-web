@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:50:47 21/12/2025",
+  "lastUpdated": "20:51:13 21/12/2025",
   "totalKits": 73389,
   "todayKits": 16,
-  "onlineCount": 52,
+  "onlineCount": 54,
   "peakPlayers": 55,
-  "tps": "8.0",
-  "ping": 233,
+  "tps": "6.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3494
+      "count": 3495
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:50] To kifl1ke: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[20:50] [8b8t] >> Request sent to kifl1ke",
-    "[20:50] MonkeBot tried to outswim the water",
-    "[20:50] [8b8t] >> Teleporting...",
-    "[20:50] broplayz has been killed by VOLTAIKKKKK",
-    "[20:50] Nihan95 challenged the Wither and lost their head",
-    "[20:50] <zelliy> !kit survival ",
-    "[20:50] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
-    "[20:50] To zelliy: You're on cooldown, try again in 12 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[20:50] [8b8t] >> The command /seed is not allowed",
     "[20:50] <AgusAe> !kit Ocean ",
     "[20:50] To AgusAe: You're on cooldown, try again in 50 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[20:50] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +91,17 @@
     "[20:50] [8b8t] >> Request sent to zelliy",
     "[20:50] [8b8t] >> Teleporting...",
     "[20:50] <sye_mc> UWU ",
-    "[20:50] iftopic got a deadly lesson from the Wither"
+    "[20:50] iftopic got a deadly lesson from the Wither",
+    "[20:50] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[20:50] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[20:50] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
+    "[20:51] Leeewiith3Es was pwned by BigBear wielding [their hand]",
+    "[20:51] 0_HienBot has been put down by zelliy",
+    "[20:51] <sye_mc> !kit pvp ",
+    "[20:51] [8b8t] >> Teleporting to home 0...",
+    "[20:51] [8b8t] >> Teleporting to home 1...",
+    "[20:51] To sye_mc: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:51] To sye_mc:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -1471,12 +1471,13 @@
     "astolfothekitten": 2,
     "elfcteta": 1,
     "UdoFreak": 3,
-    "klcenka": 1
+    "klcenka": 1,
+    "sye_mc": 1
   },
   "kitStats": {
     "build": 796,
     "survival": 2882,
-    "pvp": 3494,
+    "pvp": 3495,
     "dupe": 723,
     "tools": 822,
     "stash": 356,
