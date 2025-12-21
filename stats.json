@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:02:24 22/12/2025",
-  "totalKits": 73747,
-  "todayKits": 156,
+  "lastUpdated": "03:02:40 22/12/2025",
+  "totalKits": 73751,
+  "todayKits": 160,
   "onlineCount": 59,
   "peakPlayers": 71,
-  "tps": "20.0",
+  "tps": "17.0",
   "ping": 237,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 805
+      "count": 806
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[03:00] <GromletMC> !kit Survival ",
-    "[03:00] <Bl4ss> !kit dupe ",
-    "[03:00] To GromletMC: You're on cooldown, try again in 87 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[03:01] To Bl4ss: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[03:01] [8b8t] >> Teleporting to home 0...",
-    "[03:01] [8b8t] >> Teleporting to home 8...",
-    "[03:01] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
-    "[03:01] [8b8t] >> The command /seed is not allowed",
-    "[03:01] To Bl4ss: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[03:01] [8b8t] >> Request sent to Bl4ss",
     "[03:01] Mrcrepper237 has made the advancement [Isn't It Iron Pick]",
     "[03:01] <Wagusx> que dupeo hay? ",
@@ -101,7 +91,17 @@
     "[03:01] To GromletMC: You're on cooldown, try again in 36 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[03:02] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
     "[03:02] <Lunersinho> !kit building ",
-    "[03:02] To Lunersinho: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[03:02] To Lunersinho: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[03:02] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[03:02] <Lunersinho> !kit build ",
+    "[03:02] [8b8t] >> Teleporting to home 0...",
+    "[03:02] [8b8t] >> Teleporting to home 3...",
+    "[03:02] To Lunersinho: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:02] To Lunersinho: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[03:02] Der_Ork2077 has been killed by .LEON50758",
+    "[03:02] [8b8t] >> Request sent to Lunersinho",
+    "[03:02] [8b8t] >> Please do not spam.",
+    "[03:02] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1503,11 +1503,11 @@
     "SD613": 3,
     "Bl4ss": 5,
     "elalan_109": 1,
-    "Lunersinho": 1,
+    "Lunersinho": 2,
     "Gabozx": 1
   },
   "kitStats": {
-    "build": 805,
+    "build": 806,
     "survival": 2990,
     "pvp": 3592,
     "dupe": 750,
