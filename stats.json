@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:27:58 21/12/2025",
+  "lastUpdated": "21:28:13 21/12/2025",
   "totalKits": 73402,
   "todayKits": 29,
-  "onlineCount": 58,
+  "onlineCount": 60,
   "peakPlayers": 61,
-  "tps": "13.0",
-  "ping": 244,
+  "tps": "9.0",
+  "ping": 252,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3503
+      "count": 3504
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:27] FALOTRYXS was pwned by Ondrasitek wielding [netherite sword]",
-    "[21:27] ALSIO1243 has been killed by Ondrasitek",
-    "[21:27] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[21:27] <Murad2002> 2 dk gözlə ",
-    "[21:27] .YuCKTaMarine tried to outswim the water",
-    "[21:27] Twisted_Artist has reached the goal [Sky's the Limit]",
-    "[21:27] <Murad2002> çıxıb girəcəm ",
-    "[21:27] MonkeBot decided to sleep with the fishes",
-    "[21:27] <blake2013> take this ",
-    "[21:27] JCWhiteLion11 withered away to the 4th dimension",
     "[21:27] skd89 challenged the Wither and lost their head",
     "[21:27] <Murad2002> yemək yiyim ",
     "[21:27] Twisted_Artist has completed the challenge [Cover Me in Debris]",
@@ -101,7 +91,17 @@
     "[21:27] [8b8t] >> Teleporting...",
     "[21:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[21:27] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
-    "[21:27] <MintKoala997563> huh "
+    "[21:27] <MintKoala997563> huh ",
+    "[21:28] <blake2013> ? ",
+    "[21:28] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[21:28] [8b8t] >> Home 2 was not found",
+    "[21:28] <Ondrasitek> !kit pvp ",
+    "[21:28] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[21:28] To Ondrasitek: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:28] [8b8t] >> Teleporting to home 0...",
+    "[21:28] [8b8t] >> Teleporting to home 1...",
+    "[21:28] <MintKoala997563> i need the firework rockets ",
+    "[21:28] To Ondrasitek:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -1475,12 +1475,13 @@
     "sye_mc": 1,
     "Daiaku10": 1,
     "baonam88": 2,
-    "FALOTRYXS": 1
+    "FALOTRYXS": 1,
+    "Ondrasitek": 1
   },
   "kitStats": {
     "build": 796,
     "survival": 2888,
-    "pvp": 3503,
+    "pvp": 3504,
     "dupe": 727,
     "tools": 826,
     "stash": 357,
