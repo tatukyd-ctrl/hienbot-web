@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:03:28 22/12/2025",
+  "lastUpdated": "01:03:58 22/12/2025",
   "totalKits": 73530,
   "todayKits": 35,
-  "onlineCount": 47,
+  "onlineCount": 48,
   "peakPlayers": 68,
-  "tps": "20.0",
-  "ping": 227,
+  "tps": "14.0",
+  "ping": 226,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2941
+      "count": 2942
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:01] [8b8t] >> The command /seed is not allowed",
-    "[01:01] MonkeBot thought a Zombie was friendly",
-    "[01:01] <John_Cobra67> does anybody how to get out of the spawn zone? ",
-    "[01:01] [8b8t] >> The command /seed is not allowed",
-    "[01:01] MeterMaid challenged the Wither and lost their head",
-    "[01:01] <MG_GT10> !kit survival ",
-    "[01:01] [8b8t] >> Teleporting to home 0...",
-    "[01:01] [8b8t] >> Teleporting to home 1...",
-    "[01:01] To MG_GT10: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[01:02] To MG_GT10: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[01:02] [8b8t] >> Request sent to MG_GT10",
     "[01:02] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
@@ -101,7 +92,16 @@
     "[01:03] SirBlemmington challenged the Wither and lost their head",
     "[01:03] MeterMaid was EZ clapped by SpawnArchive using [their hand]",
     "[01:03] MonkeBot discovered that Drowned aren't just regular swimmers",
-    "[01:03] WealthyCloudy123 decided to sleep with the fishes"
+    "[01:03] WealthyCloudy123 decided to sleep with the fishes",
+    "[01:03] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
+    "[01:03] <SirBlemmington> !kit survival ",
+    "[01:03] [8b8t] >> Teleporting to home 0...",
+    "[01:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[01:03] [8b8t] >> Teleporting to home 1...",
+    "[01:03] To SirBlemmington: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:03] SirBlemmington has been put down by SpawnArchive",
+    "[01:03] alfa6768 tried to outswim the water",
+    "[01:03] To SirBlemmington: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 38,
@@ -1491,11 +1491,12 @@
     "SlimeCrafter_99": 1,
     "Thomi47": 4,
     "NOT_Pino": 1,
-    "WealthyCloudy123": 1
+    "WealthyCloudy123": 1,
+    "SirBlemmington": 1
   },
   "kitStats": {
     "build": 798,
-    "survival": 2941,
+    "survival": 2942,
     "pvp": 3536,
     "dupe": 741,
     "tools": 836,
