@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:38:21 21/12/2025",
+  "lastUpdated": "16:38:51 21/12/2025",
   "totalKits": 73309,
   "todayKits": 85,
-  "onlineCount": 23,
+  "onlineCount": 24,
   "peakPlayers": 43,
-  "tps": "20.0",
-  "ping": 233,
+  "tps": "19.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3456
+      "count": 3457
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:36] To UNHORIZON1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[16:36] [8b8t] >> Request sent to UNHORIZON1",
-    "[16:36] <RiseCPvP> what client ur usigm ",
-    "[16:36] [BOT] <0_HienBot> Try /nc to change your name color! ",
-    "[16:36] [8b8t] >> Teleporting...",
-    "[16:36] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[16:37] [BOT] <0_HienBot> Welcome to 8b8t, _SolarStorm! ",
-    "[16:37] <Skyster12> !kit ",
-    "[16:37] To Skyster12: Hello Skyster12!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[16:37] <Skyster12> !kit highway ",
-    "[16:37] [8b8t] >> You are lacking the permission minecraft.command.kill",
-    "[16:37] To Skyster12: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[16:37] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
     "[16:37] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
     "[16:37] To Skyster12: Try again",
@@ -101,7 +89,19 @@
     "[16:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:38] Skyster12 has made the advancement [Take Aim]",
     "[16:38] <RiseCPvP> come\\ ",
-    "[16:38] <SpokeIsHere25> ? "
+    "[16:38] <SpokeIsHere25> ? ",
+    "[16:38] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[16:38] UNHORIZON1 was EZ clapped by MoisDev using [netherite sword]",
+    "[16:38] [8b8t] >> The command /seed is not allowed",
+    "[16:38] [BOT] <0_HienBot> 𝙒𝙖𝙣𝙩 𝙠𝙞𝙩 ?? 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 ",
+    "[16:38] <Bombockatjohny> !kit pvp ",
+    "[16:38] [8b8t] >> Teleporting to home 0...",
+    "[16:38] [8b8t] >> Teleporting to home 1...",
+    "[16:38] To Bombockatjohny: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:38] To Bombockatjohny: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:38] [8b8t] >> Request sent to Bombockatjohny",
+    "[16:38] <RiseCPvP> refilled? ",
+    "[16:38] <Skyster12> !jut "
   ],
   "userStats": {
     "76756": 38,
@@ -540,7 +540,7 @@
     "Ivyrisity": 11,
     "Tuanne_": 1,
     "DadasMC": 16,
-    "Bombockatjohny": 25,
+    "Bombockatjohny": 26,
     "kemalsunal": 6,
     "ElGabi_5k": 1,
     "ubahowoa": 17,
@@ -1458,7 +1458,7 @@
   "kitStats": {
     "build": 789,
     "survival": 2857,
-    "pvp": 3456,
+    "pvp": 3457,
     "dupe": 716,
     "tools": 819,
     "stash": 353,
