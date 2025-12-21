@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:17:51 21/12/2025",
+  "lastUpdated": "13:18:21 21/12/2025",
   "totalKits": 73243,
   "todayKits": 19,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 41,
-  "tps": "18.0",
-  "ping": 225,
+  "tps": "16.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2829
+      "count": 2830
     },
     {
       "name": "tools",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:16] 0_HienBot was destroyed by Regentmmc",
-    "[13:16] [8b8t] >> The command /seed is not allowed",
-    "[13:16] <Soulxdex> !kit ",
-    "[13:16] To Soulxdex: Hello Soulxdex!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[13:16] <DeadlyNyxian> !kit survival ",
-    "[13:16] [8b8t] >> Teleporting to home 0...",
-    "[13:16] [8b8t] >> Teleporting to home 1...",
-    "[13:16] To DeadlyNyxian: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[13:16] [8b8t] >> The command /seed is not allowed",
-    "[13:16] MonkeBot tried to outswim the water",
-    "[13:16] To DeadlyNyxian: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[13:17] [8b8t] >> Request sent to DeadlyNyxian",
-    "[13:17] <Gokub647> !kits ",
-    "[13:17] [8b8t] >> Teleporting...",
-    "[13:17] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[13:17] <Soulxdex> !kit survival ",
     "[13:17] To Soulxdex: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[13:17] [8b8t] >> You are lacking the permission minecraft.command.kill",
@@ -101,7 +85,23 @@
     "[13:17] [8b8t] >> Request sent to Yung_Cocahine",
     "[13:17] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
     "[13:17] MonkeBot decided to sleep with the fishes",
-    "[13:17] [8b8t] >> Teleporting..."
+    "[13:17] [8b8t] >> Teleporting...",
+    "[13:17] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[13:17] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
+    "[13:17] <Gokub647> !kit ",
+    "[13:17] To Gokub647: Hello Gokub647!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[13:17] <Soulxdex> !kit survival ",
+    "[13:18] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[13:18] To Soulxdex: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:18] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
+    "[13:18] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
+    "[13:18] To Soulxdex: Try again",
+    "[13:18] [BOT] <0_HienBot> What's up, MeterMaid? ",
+    "[13:18] Yung_Cocahine pulverized 0_HienBot using [their hand]",
+    "[13:18] <DeadlyNyxian> !kit survival ",
+    "[13:18] To DeadlyNyxian: You're on cooldown, try again in 22 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[13:18] [8b8t] >> The command /seed is not allowed",
+    "[13:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -1445,11 +1445,12 @@
     ".YuCKTaMarine": 3,
     "QUANNZZ": 1,
     "DinaAyada": 1,
-    "FootedSquire427": 1
+    "FootedSquire427": 1,
+    "Soulxdex": 1
   },
   "kitStats": {
     "build": 786,
-    "survival": 2829,
+    "survival": 2830,
     "pvp": 3447,
     "dupe": 710,
     "tools": 815,
