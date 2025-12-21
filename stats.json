@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:35:24 22/12/2025",
+  "lastUpdated": "06:35:54 22/12/2025",
   "totalKits": 74332,
   "todayKits": 741,
-  "onlineCount": 46,
+  "onlineCount": 43,
   "peakPlayers": 72,
-  "tps": "20.0",
-  "ping": 248,
+  "tps": "19.0",
+  "ping": 235,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3026
+      "count": 3027
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:34] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[06:34] <kazammo> !kit pvp ",
-    "[06:34] <lukiixd666> !kit ",
-    "[06:34] [8b8t] >> Teleporting to home 0...",
-    "[06:34] To lukiixd666: Hello lukiixd666!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[06:34] [8b8t] >> Teleporting to home 1...",
-    "[06:34] To kazammo: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[06:34] To kazammo: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[06:34] [8b8t] >> Request sent to kazammo",
     "[06:34] [8b8t] >> Teleporting...",
     "[06:34] kazammo pulverized 0_HienBot using [end crystal]",
     "[06:34] <elpelado94> me dan un kit ",
@@ -101,7 +92,16 @@
     "[06:35] [8b8t] >> The command /seed is not allowed",
     "[06:35] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
     "[06:35] <Andrespdxd> !kit ",
-    "[06:35] To Andrespdxd: Hello Andrespdxd!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[06:35] To Andrespdxd: Hello Andrespdxd!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[06:35] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[06:35] <Andrespdxd> !kit survival ",
+    "[06:35] [8b8t] >> Teleporting to home 0...",
+    "[06:35] [8b8t] >> Teleporting to home 1...",
+    "[06:35] To Andrespdxd: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[06:35] To Andrespdxd: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[06:35] [8b8t] >> Request sent to Andrespdxd",
+    "[06:35] [BOT] <0_HienBot> Do !discord ",
+    "[06:35] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "76756": 38,
@@ -1514,11 +1514,12 @@
     "Bodyguards": 1,
     "blass": 3,
     "lukiixd666": 9,
-    "IC_ALI": 1
+    "IC_ALI": 1,
+    "Andrespdxd": 1
   },
   "kitStats": {
     "build": 811,
-    "survival": 3026,
+    "survival": 3027,
     "pvp": 3638,
     "dupe": 760,
     "tools": 846,
