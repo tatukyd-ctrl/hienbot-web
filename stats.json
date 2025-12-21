@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:20:22 22/12/2025",
+  "lastUpdated": "01:20:28 22/12/2025",
   "totalKits": 73541,
   "todayKits": 46,
   "onlineCount": 54,
   "peakPlayers": 68,
-  "tps": "15.0",
+  "tps": "17.0",
   "ping": 232,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3537
+      "count": 3538
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:19] To Nanagood_2012: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[01:19] [8b8t] >> Request sent to Nanagood_2012",
-    "[01:19] santino7600 thought they could make it to oxygen in time",
-    "[01:19] <KnoxNoir> cuidate ",
-    "[01:20] <Czikaole> !kit illegal ",
-    "[01:20] To Czikaole: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[01:20] [8b8t] >> Teleporting...",
-    "[01:20] 0_HienBot has been put down by Nanagood_2012",
     "[01:20] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[01:20] <Heqs_> !dup ",
     "[01:20] <dark77738> no sé hablar ingles ",
@@ -101,7 +93,15 @@
     "[01:20] [8b8t] >> Request sent to jatekosvagyok",
     "[01:20] krompir_official challenged the Wither and lost their head",
     "[01:20] [8b8t] >> Teleporting...",
-    "[01:20] PlanetMan12 has made the advancement [We Need to Go Deeper]"
+    "[01:20] PlanetMan12 has made the advancement [We Need to Go Deeper]",
+    "[01:20] <Heqs_> !kit list ",
+    "[01:20] To Heqs_: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[01:20] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[01:20] <WealthyCloudy123> !kit pvp ",
+    "[01:20] [8b8t] >> Teleporting to home 0...",
+    "[01:20] [8b8t] >> The command /seed is not allowed",
+    "[01:20] [8b8t] >> Teleporting to home 1...",
+    "[01:20] To WealthyCloudy123: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1491,14 +1491,14 @@
     "SlimeCrafter_99": 1,
     "Thomi47": 4,
     "NOT_Pino": 1,
-    "WealthyCloudy123": 4,
+    "WealthyCloudy123": 5,
     "SirBlemmington": 1,
     "Heqs_": 1
   },
   "kitStats": {
     "build": 800,
     "survival": 2947,
-    "pvp": 3537,
+    "pvp": 3538,
     "dupe": 743,
     "tools": 836,
     "stash": 362,
