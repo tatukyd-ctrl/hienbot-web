@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:03:50 21/12/2025",
+  "lastUpdated": "12:04:20 21/12/2025",
   "totalKits": 73224,
   "todayKits": 0,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 41,
   "tps": "20.0",
-  "ping": 232,
+  "ping": 230,
   "topUsers": [
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 2812
+      "count": 2813
     },
     {
       "name": "tools",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:00] [8b8t] >> You are lacking the permission minecraft.command.kill",
-    "[12:00] To wolfycrzxy: Your kit (redstone) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[12:00] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[12:00] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
-    "[12:00] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
     "[12:00] To wolfycrzxy: Try again",
     "[12:00] <wolfycrzxy> *kit redstone ",
     "[12:00] To wolfycrzxy: You're on cooldown, try again in 92 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
@@ -101,7 +96,12 @@
     "[12:03] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[12:03] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
     "[12:03] Wicho19AcMilan has made the advancement [We Need to Go Deeper]",
-    "[12:03] Caromelo got blown up by TNT"
+    "[12:03] Caromelo got blown up by TNT",
+    "[12:03] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[12:04] DinaAyada pulverized Pollo6664470 using [their hand]",
+    "[12:04] <Yung_Cocahine> !kit survival ",
+    "[12:04] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[12:04] To Yung_Cocahine: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1164,7 +1164,7 @@
     "zanhee": 1,
     "Dark_C00lkidd": 3,
     "xikade": 5,
-    "Yung_Cocahine": 62,
+    "Yung_Cocahine": 63,
     "DIKTATORY": 11,
     "Airofi": 4,
     "Minute_Hecky": 1,
@@ -1447,7 +1447,7 @@
   },
   "kitStats": {
     "build": 785,
-    "survival": 2812,
+    "survival": 2813,
     "pvp": 3447,
     "dupe": 706,
     "tools": 814,
