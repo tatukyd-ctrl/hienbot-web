@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:20:48 21/12/2025",
+  "lastUpdated": "10:21:11 21/12/2025",
   "totalKits": 73199,
   "todayKits": 12,
   "onlineCount": 41,
   "peakPlayers": 52,
-  "tps": "19.0",
+  "tps": "8.0",
   "ping": 242,
   "topUsers": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "name": "angelaso123",
-      "count": 97
+      "count": 98
     }
   ],
   "topKits": [
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:18] <ameleleo> alquien me lleva ",
-    "[10:19] .Samuel20111118 tried to outswim the water",
-    "[10:19] [BOT] <0_HienBot> Hello O73296! ",
-    "[10:19] <WenlerMaster> ameleleo donde? ",
     "[10:19] <ameleleo> alquien me hace tp ",
     "[10:19] <ameleleo> !kit ",
     "[10:19] To ameleleo: Hello ameleleo!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[10:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:20] To Z_Cero: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[10:20] [8b8t] >> Request sent to Z_Cero",
-    "[10:20] [8b8t] >> Teleporting..."
+    "[10:20] [8b8t] >> Teleporting...",
+    "[10:20] [8b8t] >> You are lacking the permission minecraft.command.kill",
+    "[10:20] [8b8t] >> Home 2 was not found",
+    "[10:21] <angelaso123> !kit exp ",
+    "[10:21] [8b8t] >> You are lacking the permission minecraft.command.kill"
   ],
   "userStats": {
     "76756": 38,
@@ -585,7 +585,7 @@
     "TYPI": 68,
     "sleep2012XD": 1,
     "Meliodaspro4_DMC": 5,
-    "angelaso123": 97,
+    "angelaso123": 98,
     "Space444": 1,
     "MiniosXDXD": 16,
     "DEMOMAX": 6,
@@ -1446,7 +1446,7 @@
     "stash": 350,
     "raid": 556,
     "wood": 195,
-    "exp": 341,
+    "exp": 342,
     "dye": 118,
     "wool": 166,
     "mineral": 260,
