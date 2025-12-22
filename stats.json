@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:48:58 22/12/2025",
-  "totalKits": 74986,
-  "todayKits": 96,
+  "lastUpdated": "17:49:16 22/12/2025",
+  "totalKits": 74987,
+  "todayKits": 97,
   "onlineCount": 28,
   "peakPlayers": 41,
   "tps": "15.0",
-  "ping": 237,
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3097
+      "count": 3098
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:48] [8b8t] >> The command /seed is not allowed",
-    "[17:48] <BarramundiBruv> !kit survival ",
-    "[17:48] [8b8t] >> Teleporting to home 0...",
-    "[17:48] [8b8t] >> Teleporting to home 1...",
-    "[17:48] To BarramundiBruv: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:48] To BarramundiBruv: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:48] MonkeBot was slain by ScreaM8989 using [Minelord Sword]",
-    "[17:48] <ESMZR03I> plz ",
-    "[17:48] [8b8t] >> Request sent to BarramundiBruv",
-    "[17:48] <keevin> !kit Survival ",
     "[17:48] To keevin: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[17:48] <plumeXD> !kit ",
     "[17:48] To plumeXD: Hello plumeXD!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[17:48] [8b8t] >> Request sent to plumeXD",
     "[17:48] [8b8t] >> Teleporting...",
     "[17:48] <ScreaM8989> ok stop ",
-    "[17:48] [8b8t] >> Home 2 was not found"
+    "[17:48] [8b8t] >> Home 2 was not found",
+    "[17:49] [8b8t] >> The command /seed is not allowed",
+    "[17:49] <TelevisionBot> Hey! I'm a kit bot. ",
+    "[17:49] <keevin> !kit Survival ",
+    "[17:49] [8b8t] >> Teleporting to home 0...",
+    "[17:49] [8b8t] >> Teleporting to home 1...",
+    "[17:49] To keevin: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:49] To keevin: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:49] [8b8t] >> Request sent to keevin",
+    "[17:49] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[17:49] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -160,7 +160,7 @@
     "The_Bot_father": 10,
     "Vladmir25": 7,
     "minerperson8201": 11,
-    "keevin": 2,
+    "keevin": 3,
     "zxcvutn": 4,
     "Savoir_40": 12,
     "Mxco_ball": 6,
@@ -1550,7 +1550,7 @@
   },
   "kitStats": {
     "build": 821,
-    "survival": 3097,
+    "survival": 3098,
     "pvp": 3732,
     "dupe": 788,
     "tools": 868,
