@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:27:18 22/12/2025",
+  "lastUpdated": "12:27:48 22/12/2025",
   "totalKits": 74869,
   "todayKits": 54,
   "onlineCount": 29,
   "peakPlayers": 48,
-  "tps": "17.0",
-  "ping": 248,
+  "tps": "20.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3686
+      "count": 3687
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:26] To MrWitherSkull: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[12:26] To MrWitherSkull: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[12:26] [8b8t] >> Request sent to MrWitherSkull",
-    "[12:26] [8b8t] >> Teleporting...",
-    "[12:26] [Pro+] <Virgot> do /tpayes TelevisionBot ",
-    "[12:26] [8b8t] >> Home 2 was not found",
-    "[12:26] <elproplayerxddd> ?kit pvp ",
-    "[12:26] [8b8t] >> Teleporting to home 0...",
-    "[12:26] [8b8t] >> The command /seed is not allowed",
     "[12:26] [8b8t] >> Teleporting to home 1...",
     "[12:26] To elproplayerxddd: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[12:26] To elproplayerxddd: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +92,16 @@
     "[12:27] SpawnArchive has been killed by notnoun",
     "[12:27] <elproplayerxddd> ?kit pvp ",
     "[12:27] To elproplayerxddd: You're on cooldown, try again in 70 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[12:27] [Pro+] <Virgot> I need to fix the code "
+    "[12:27] [Pro+] <Virgot> I need to fix the code ",
+    "[12:27] [BOT] <0_HienBot> Hey xelchac! ",
+    "[12:27] <MrWitherSkull> Okay ",
+    "[12:27] <notnoun> ?kit pvp ",
+    "[12:27] [8b8t] >> Teleporting to home 0...",
+    "[12:27] [8b8t] >> Teleporting to home 1...",
+    "[12:27] To notnoun: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[12:27] [Pro+] <Virgot> it went to the chest but didn't take the kit from chest ",
+    "[12:27] To notnoun: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[12:27] [8b8t] >> Request sent to notnoun"
   ],
   "userStats": {
     "76756": 38,
@@ -1528,14 +1528,14 @@
     "Psych0_": 2,
     "PUKASA25": 4,
     "TheBlackord": 3,
-    "notnoun": 3,
+    "notnoun": 4,
     "Rango314": 1,
     "Soniccc06": 1
   },
   "kitStats": {
     "build": 814,
     "survival": 3059,
-    "pvp": 3686,
+    "pvp": 3687,
     "dupe": 777,
     "tools": 854,
     "stash": 374,
