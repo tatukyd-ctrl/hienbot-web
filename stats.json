@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:25:04 23/12/2025",
-  "totalKits": 75328,
-  "todayKits": 29,
-  "onlineCount": 61,
+  "lastUpdated": "03:25:30 23/12/2025",
+  "totalKits": 75329,
+  "todayKits": 30,
+  "onlineCount": 60,
   "peakPlayers": 70,
-  "tps": "20.0",
-  "ping": 237,
+  "tps": "19.0",
+  "ping": 235,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,11 +52,11 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3855
+      "count": 3856
     },
     {
       "name": "survival",
-      "count": 3199
+      "count": 3200
     },
     {
       "name": "tools",
@@ -72,25 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:24] To mikanMC: Your kit (dye) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[03:24] Bl4ss has been killed by SpawnArchive",
-    "[03:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[03:24] To mikanMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[03:24] [8b8t] >> Request sent to mikanMC",
-    "[03:24] [8b8t] >> Teleporting...",
-    "[03:24] PatoAsti was pwned by wasalover wielding [their hand]",
-    "[03:24] SD613 was pwned by autism_manager wielding [netherite pickaxe]",
-    "[03:24] <qaleeq> TOMA ",
-    "[03:24] <jafexbodrio> ahora que lo pienso de todas las veces q entre en este servidor siempre eh visto a SpawnArchive xddd ",
-    "[03:24] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[03:24] AppleBot was slain by autism_manager using [netherite pickaxe]",
-    "[03:24] <qaleeq> PERO TEN CUIDADO ES ILEGAL ",
-    "[03:24] [8b8t] >> Home 2 was not found",
-    "[03:24] <iftopic> acepta ",
-    "[03:24] [8b8t] >> The command /seed is not allowed",
-    "[03:24] <qaleeq> QUE NO TE VEA EL OWNER CON EL PORQUE ME MATA A MI ",
-    "[03:24] <qaleeq> ME PUEDE VANEAR ",
-    "[03:24] <FALOTRYXS> puedo estar con ustedes ",
     "[03:24] <autism_manager> qaleeq q cojones dices ",
     "[03:24] <Picho_416> todo es ilegal aqui ",
     "[03:24] <.darknessmc3203> good ",
@@ -101,7 +82,26 @@
     "[03:25] 2k2k2k has made the advancement [Acquire Hardware]",
     "[03:25] <boutz> !Kit fireworks ",
     "[03:25] To boutz: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[03:25] <qaleeq> SI QUEDATE NO HAY PROBNLEMA "
+    "[03:25] <qaleeq> SI QUEDATE NO HAY PROBNLEMA ",
+    "[03:25] <iftopic> !kit pvp ",
+    "[03:25] [8b8t] >> Teleporting to home 0...",
+    "[03:25] [8b8t] >> Teleporting to home 1...",
+    "[03:25] To iftopic: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:25] <FALOTRYXS> XDDD UFF K KIT ",
+    "[03:25] To iftopic:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
+    "[03:25] <[OWNER] veelta> qaleeq vas a ser baneado ",
+    "[03:25] <iftopic> aleeq acepta tpa ",
+    "[03:25] <boutz> !kit survival ",
+    "[03:25] [8b8t] >> Teleporting to home 0...",
+    "[03:25] [8b8t] >> Teleporting to home 1...",
+    "[03:25] To boutz: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[03:25] [BOT] <0_HienBot> The server's seed is : None ",
+    "[03:25] To boutz: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[03:25] [8b8t] >> Request sent to boutz",
+    "[03:25] <qaleeq> NI OIRFGABIR ",
+    "[03:25] <ChaosX> !kit ",
+    "[03:25] To ChaosX: Hello ChaosX!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[03:25] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1496,7 +1496,7 @@
     "Heqs_": 1,
     "RexoLQ": 1,
     "JawadXLegend2": 2,
-    "iftopic": 31,
+    "iftopic": 32,
     ".ANGEL2482726": 18,
     "macieq789": 1,
     "GromletMC": 21,
@@ -1594,12 +1594,13 @@
     "RaZeX2": 2,
     ".darknessmc3203": 5,
     "ChaosX": 1,
-    "RamiGod": 1
+    "RamiGod": 1,
+    "boutz": 1
   },
   "kitStats": {
     "build": 844,
-    "survival": 3199,
-    "pvp": 3855,
+    "survival": 3200,
+    "pvp": 3856,
     "dupe": 820,
     "tools": 906,
     "stash": 399,
