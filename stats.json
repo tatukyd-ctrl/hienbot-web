@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:41:58 22/12/2025",
+  "lastUpdated": "16:42:28 22/12/2025",
   "totalKits": 74961,
   "todayKits": 71,
-  "onlineCount": 31,
+  "onlineCount": 33,
   "peakPlayers": 41,
-  "tps": "20.0",
+  "tps": "19.0",
   "ping": 229,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3728
+      "count": 3729
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:40] [8b8t] >> Request sent to Andra_dra",
-    "[16:40] [8b8t] >> Teleporting...",
-    "[16:40] MonkeBot was destroyed by ScreaM8989",
-    "[16:40] [8b8t] >> Home 2 was not found",
-    "[16:40] [8b8t] >> The command /seed is not allowed",
-    "[16:40] <ItzJust> !kit tool's ",
-    "[16:40] [8b8t] >> Please do not spam.",
-    "[16:40] <ItzJust> !kit tools ",
-    "[16:40] [8b8t] >> Teleporting to home 0...",
-    "[16:40] [8b8t] >> Teleporting to home 8...",
     "[16:40] To ItzJust: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[16:40] To ItzJust: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[16:40] [8b8t] >> Request sent to ItzJust",
@@ -101,7 +91,17 @@
     "[16:41] <ItzJust> !kit tools ",
     "[16:41] To ItzJust: You're on cooldown, try again in 33 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[16:41] <ItzJust> !kit tools ",
-    "[16:41] To ItzJust: You're on cooldown, try again in 30 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[16:41] To ItzJust: You're on cooldown, try again in 30 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[16:42] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
+    "[16:42] ScreaM8989 pulverized MeterMaid using [Minelord Sword]",
+    "[16:42] DOOM_SLAYER55288 has been killed by ScreaM8989",
+    "[16:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[16:42] <tanjibed> !kit pvp ",
+    "[16:42] [8b8t] >> Teleporting to home 0...",
+    "[16:42] MonkeBot thought they could make it to oxygen in time",
+    "[16:42] [8b8t] >> Teleporting to home 1...",
+    "[16:42] To tanjibed: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:42] To tanjibed: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 38,
@@ -1544,12 +1544,13 @@
     "Dunix063": 1,
     "Innocent_Child0": 2,
     "abdullah2915": 1,
-    "cameleongamerYT": 3
+    "cameleongamerYT": 3,
+    "tanjibed": 1
   },
   "kitStats": {
     "build": 817,
     "survival": 3088,
-    "pvp": 3728,
+    "pvp": 3729,
     "dupe": 786,
     "tools": 867,
     "stash": 379,
