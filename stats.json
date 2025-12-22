@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:01:42 22/12/2025",
+  "lastUpdated": "08:01:54 22/12/2025",
   "totalKits": 74608,
   "todayKits": 1017,
   "onlineCount": 52,
   "peakPlayers": 72,
   "tps": "15.0",
-  "ping": 221,
+  "ping": 220,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3649
+      "count": 3650
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:00] To MrAlien: You're on cooldown, try again in 75 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[08:01] trcjr found out about explosives the hard way",
-    "[08:01] <parhamzarea> !kit survival ",
-    "[08:01] [8b8t] >> Teleporting to home 0...",
-    "[08:01] <MrAlien> it gave me 2 heads instead of a kit lol ",
     "[08:01] [8b8t] >> Teleporting to home 1...",
     "[08:01] To parhamzarea: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[08:01] To parhamzarea: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +96,12 @@
     "[08:01] <ilovecatsvr57364> nigger ",
     "[08:01] [8b8t] >> The command /seed is not allowed",
     "[08:01] To shooyo: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[08:01] [8b8t] >> Request sent to shooyo"
+    "[08:01] [8b8t] >> Request sent to shooyo",
+    "[08:01] <tahielobelar> .tpahere tahielobelar ",
+    "[08:01] MonkeBot has been killed by ASneakySenior",
+    "[08:01] <abtin93895> !kit pvp ",
+    "[08:01] [8b8t] >> Teleporting...",
+    "[08:01] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -1521,12 +1521,13 @@
     "ilovecatsvr57364": 4,
     "bbils": 1,
     "shooyo": 2,
-    "bananerorico": 1
+    "bananerorico": 1,
+    "abtin93895": 1
   },
   "kitStats": {
     "build": 812,
     "survival": 3043,
-    "pvp": 3649,
+    "pvp": 3650,
     "dupe": 770,
     "tools": 850,
     "stash": 372,
