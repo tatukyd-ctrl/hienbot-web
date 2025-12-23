@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:36:36 23/12/2025",
+  "lastUpdated": "07:37:06 23/12/2025",
   "totalKits": 75426,
   "todayKits": 33,
-  "onlineCount": 50,
+  "onlineCount": 44,
   "peakPlayers": 64,
-  "tps": "19.0",
-  "ping": 227,
+  "tps": "20.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3892
+      "count": 3893
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:35] <jsmatey> !kit stash ",
-    "[07:35] [8b8t] >> Teleporting to home 0...",
-    "[07:35] [8b8t] >> Teleporting to home 3...",
-    "[07:35] To jsmatey: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[07:35] To jsmatey: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[07:35] [8b8t] >> Request sent to jsmatey",
-    "[07:35] <FALOTRYXS> ando haciendo base ",
-    "[07:35] <Hanae0> oka ",
-    "[07:35] [8b8t] >> Teleporting...",
-    "[07:35] MonkeBot was pwned by ScreaM8989 wielding [✟ Santa Inquisición ✟ Mata infieles]",
     "[07:35] <Juanytoyt208> sacame hana ",
     "[07:35] [8b8t] >> Home 2 was not found",
     "[07:35] MeterMaid was rekt by ScreaM8989 and their mighty [✟ Santa Inquisición ✟ Mata infieles]",
@@ -101,7 +91,17 @@
     "[07:36] elmine1079 has made the advancement [Who is Cutting Onions?]",
     "[07:36] <ScreaM8989> xddd ",
     "[07:36] VolksWagenJetta_ has made the advancement [Take Aim]",
-    "[07:36] PanPan2271 has been put down by VOLTAIKKKKK"
+    "[07:36] PanPan2271 has been put down by VOLTAIKKKKK",
+    "[07:36] <GPT_AI> !kit pvp ",
+    "[07:36] [8b8t] >> Teleporting to home 0...",
+    "[07:36] [8b8t] >> Teleporting to home 1...",
+    "[07:36] To GPT_AI: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[07:36] To GPT_AI:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
+    "[07:36] [8b8t] >> Please do not spam.",
+    "[07:37] MonkeBot decided to sleep with the fishes",
+    "[07:37] Dengizik3 was slain by _aksn using [Minelord Totem]",
+    "[07:37] <GPT_AI> &kit pvp ",
+    "[07:37] To GPT_AI: You're on cooldown, try again in 81 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
   ],
   "userStats": {
     "76756": 38,
@@ -371,7 +371,7 @@
     "Exility": 1,
     "Disar7w7": 2,
     "Gpkkkll": 8,
-    "GPT_AI": 1,
+    "GPT_AI": 2,
     "yagoteaa": 10,
     "Davidsegov": 1,
     ".Maddie8171111": 3,
@@ -1622,7 +1622,7 @@
   "kitStats": {
     "build": 855,
     "survival": 3237,
-    "pvp": 3892,
+    "pvp": 3893,
     "dupe": 829,
     "tools": 910,
     "stash": 408,
