@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:56:42 23/12/2025",
+  "lastUpdated": "21:56:48 23/12/2025",
   "totalKits": 75684,
   "todayKits": 206,
   "onlineCount": 61,
   "peakPlayers": 65,
-  "tps": "16.0",
+  "tps": "17.0",
   "ping": 245,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3989
+      "count": 3990
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:55] [8b8t] >> Teleporting...",
-    "[21:55] [Ultra] <Tobias> Bolo_de_Laranja Whispers: Me gustan los penes. ¿Alguien me puede enviar una foto de un pene? ",
-    "[21:56] <elproplayerxddd> bruh ",
-    "[21:56] <.veelta.> tengo que hacer un chatutils ",
     "[21:56] MonkeBot decided to sleep with the fishes",
     "[21:56] <negro_kikirici> ? ",
     "[21:56] <elproplayerxddd> eres tonto? ",
@@ -101,7 +97,11 @@
     "[21:56] To TrayNeh: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:56] [8b8t] >> Request sent to TrayNeh",
     "[21:56] <elproplayerxddd> I love it when you pop PER1800 ",
-    "[21:56] [8b8t] >> Teleporting..."
+    "[21:56] [8b8t] >> Teleporting...",
+    "[21:56] <JUSTLIKED> !kit pvp ",
+    "[21:56] [8b8t] >> Home 2 was not found",
+    "[21:56] To JUSTLIKED: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:56] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
   ],
   "userStats": {
     "76756": 38,
@@ -296,7 +296,7 @@
     "brunoxdxdurhj": 2,
     "Gorka772": 2,
     "dragonkit": 7,
-    "JUSTLIKED": 12,
+    "JUSTLIKED": 13,
     "DaFuqBoomTaken": 1,
     "Xoladliac": 7,
     "TaupeKibbles354": 7,
@@ -1671,7 +1671,7 @@
   "kitStats": {
     "build": 875,
     "survival": 3316,
-    "pvp": 3989,
+    "pvp": 3990,
     "dupe": 858,
     "tools": 929,
     "stash": 414,
