@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:16:13 24/12/2025",
+  "lastUpdated": "01:16:43 24/12/2025",
   "totalKits": 75771,
   "todayKits": 26,
   "onlineCount": 54,
   "peakPlayers": 67,
   "tps": "17.0",
-  "ping": 237,
+  "ping": 235,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4010
+      "count": 4011
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:15] <blake2013> !kit raid ",
-    "[01:15] [8b8t] >> Teleporting to home 0...",
-    "[01:15] [8b8t] >> Teleporting to home 3...",
-    "[01:15] To blake2013: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[01:15] To blake2013: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[01:15] [8b8t] >> Request sent to blake2013",
-    "[01:15] [8b8t] >> Teleporting...",
-    "[01:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:15] [8b8t] >> Home 2 was not found",
     "[01:15] c2ch thought they could make it to oxygen in time",
     "[01:15] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +93,15 @@
     "[01:16] [8b8t] >> Teleporting...",
     "[01:16] igot_br1 has made the advancement [Isn't It Iron Pick]",
     "[01:16] _G_old_ got fireballed by a Ghast",
-    "[01:16] [8b8t] >> Home 2 was not found"
+    "[01:16] [8b8t] >> Home 2 was not found",
+    "[01:16] [8b8t] >> The command /seed is not allowed",
+    "[01:16] .Javier_03207563 has made the advancement [Stone Age]",
+    "[01:16] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
+    "[01:16] <rlfi> 32k ",
+    "[01:16] <rlfi> $help ",
+    "[01:16] TheSteakDropper Whispers: !kit pvp",
+    "[01:16] [8b8t] >> Teleporting to home 0...",
+    "[01:16] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -1681,12 +1681,13 @@
     "SLIMPX": 3,
     "MiniFlygDa": 1,
     "javiRo26555": 1,
-    "Jozel": 1
+    "Jozel": 1,
+    "TheSteakDropper": 1
   },
   "kitStats": {
     "build": 885,
     "survival": 3341,
-    "pvp": 4010,
+    "pvp": 4011,
     "dupe": 865,
     "tools": 935,
     "stash": 418,
