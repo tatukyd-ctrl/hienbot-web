@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:13:48 23/12/2025",
+  "lastUpdated": "20:14:18 23/12/2025",
   "totalKits": 75598,
   "todayKits": 120,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 50,
   "tps": "19.0",
-  "ping": 225,
+  "ping": 222,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3965
+      "count": 3966
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:10] <MatMagg> !kit illegal ",
-    "[20:10] To MatMagg: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[20:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[20:10] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
-    "[20:11] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[20:11] <Wagusx> hola cómo se hace un home?? ",
-    "[20:11] [BOT] <0_HienBot> Welcome to 8b8t, Wagusx! ",
-    "[20:12] <ruazinnn989423> !kit totem ",
     "[20:12] To ruazinnn989423: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[20:12] <.veelta.> /sethome Wagysx ",
     "[20:12] <ruazinnn989423> !kit survival ",
@@ -101,7 +93,15 @@
     "[20:13] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
     "[20:13] <MintKoala997563> who needs freee greifing ",
     "[20:13] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[20:13] [BOT] <0_HienBot> Hey NetherB0T! "
+    "[20:13] [BOT] <0_HienBot> Hey NetherB0T! ",
+    "[20:13] MonkeBot tried to outswim the water",
+    "[20:14] VynAlwaysSafe has made the advancement [We Need to Go Deeper]",
+    "[20:14] JxshNoob has made the advancement [We Need to Go Deeper]",
+    "[20:14] <MintKoala997563> ? ",
+    "[20:14] [BOT] <0_HienBot> Welcome to 8b8t, orionriker! ",
+    "[20:14] <ruazinnn989423> !kit pvp ",
+    "[20:14] [8b8t] >> Teleporting to home 0...",
+    "[20:14] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -1656,12 +1656,12 @@
     "_Lakerek_": 1,
     "Vo1taik": 1,
     "nfkiki": 1,
-    "ruazinnn989423": 1
+    "ruazinnn989423": 2
   },
   "kitStats": {
     "build": 867,
     "survival": 3303,
-    "pvp": 3965,
+    "pvp": 3966,
     "dupe": 853,
     "tools": 922,
     "stash": 411,
