@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:04:07 23/12/2025",
+  "lastUpdated": "09:04:37 23/12/2025",
   "totalKits": 75446,
   "todayKits": 53,
   "onlineCount": 42,
   "peakPlayers": 64,
-  "tps": "18.0",
+  "tps": "19.0",
   "ping": 230,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 3912
+      "count": 3913
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:02] <sk_roar> *kit survival ",
-    "[09:02] [8b8t] >> Teleporting to home 0...",
-    "[09:02] [8b8t] >> Teleporting to home 1...",
-    "[09:02] To sk_roar: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[09:02] <beary__> !kit ",
-    "[09:02] To beary__: Hello beary__!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:02] To sk_roar: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[09:02] [8b8t] >> Request sent to sk_roar",
-    "[09:02] [8b8t] >> Teleporting...",
     "[09:02] 0_HienBot was EZ clapped by sk_roar using [matiaxe]",
     "[09:02] Chat disabled in client options",
     "[09:02] TelevisionBot was pwned by Sniptoes wielding [Minelord Axe]",
@@ -101,7 +92,16 @@
     "[09:03] To Minh12456: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[09:03] To BarramundiBruv:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
     "[09:03] lucky_inspain took a one-way trip to the void",
-    "[09:03] [BOT] <0_HienBot> Hola beary__! "
+    "[09:03] [BOT] <0_HienBot> Hola beary__! ",
+    "[09:04] <BarramundiBruv> !kit nether ",
+    "[09:04] To BarramundiBruv: You're on cooldown, try again in 65 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[09:04] Onibi_Kui was eaten alive by a Zombie",
+    "[09:04] <beary__> !kit pvp ",
+    "[09:04] [8b8t] >> Teleporting to home 0...",
+    "[09:04] [8b8t] >> Teleporting to home 1...",
+    "[09:04] To beary__: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:04] To beary__:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
+    "[09:04] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t "
   ],
   "userStats": {
     "76756": 38,
@@ -1626,12 +1626,13 @@
     ".Olm3053": 2,
     "ghcq": 3,
     "Mistc_": 1,
-    "stromMC": 1
+    "stromMC": 1,
+    "beary__": 1
   },
   "kitStats": {
     "build": 855,
     "survival": 3251,
-    "pvp": 3912,
+    "pvp": 3913,
     "dupe": 833,
     "tools": 911,
     "stash": 408,
