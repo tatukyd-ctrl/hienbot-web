@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:52:22 24/12/2025",
+  "lastUpdated": "21:52:29 24/12/2025",
   "totalKits": 76192,
   "todayKits": 13,
-  "onlineCount": 49,
+  "onlineCount": 48,
   "peakPlayers": 49,
-  "tps": "13.0",
+  "tps": "17.0",
   "ping": 227,
   "topUsers": [
     {
@@ -63,21 +63,15 @@
       "count": 958
     },
     {
-      "name": "dupe",
+      "name": "build",
       "count": 916
     },
     {
-      "name": "build",
-      "count": 915
+      "name": "dupe",
+      "count": 916
     }
   ],
   "chatLog": [
-    "[21:51] [BOT] <0_HienBot> Type !kit Christmas to get the Christmas Kit (today only)! ",
-    "[21:51] agussgoodd pulverized MonkeBot using [netherite sword]",
-    "[21:51] <Mecblak> !kit christmas ",
-    "[21:51] [8b8t] >> Teleporting to home 0...",
-    "[21:51] [8b8t] >> Teleporting to home 8...",
-    "[21:51] To Mecblak: Your kit (christmas) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[21:51] <Mecblak> !kit christmas ",
     "[21:51] To Mecblak: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[21:51] To Mecblak: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +95,13 @@
     "[21:52] To LordVoidMC: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[21:52] To LordVoidMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:52] [8b8t] >> Request sent to LordVoidMC",
-    "[21:52] [8b8t] >> Teleporting..."
+    "[21:52] [8b8t] >> Teleporting...",
+    "[21:52] Kid_67 couldn't breathe while inside of a block",
+    "[21:52] [8b8t] >> Home 2 was not found",
+    "[21:52] <Hamsti_Gamer2013> !kit build ",
+    "[21:52] [8b8t] >> Teleporting to home 0...",
+    "[21:52] [8b8t] >> Teleporting to home 3...",
+    "[21:52] To Hamsti_Gamer2013: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -647,7 +647,7 @@
     "furry_porno": 5,
     "NicoWuh": 74,
     "cfbxd": 2,
-    "Hamsti_Gamer2013": 24,
+    "Hamsti_Gamer2013": 25,
     "elmanubrioGG": 5,
     "cambul": 1,
     "tilinoxd201105": 13,
@@ -1755,7 +1755,7 @@
     "MrBeax31": 1
   },
   "kitStats": {
-    "build": 915,
+    "build": 916,
     "survival": 3480,
     "pvp": 4215,
     "dupe": 916,
