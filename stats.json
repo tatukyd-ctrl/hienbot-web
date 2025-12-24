@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:27:41 24/12/2025",
-  "totalKits": 76068,
-  "todayKits": 63,
+  "lastUpdated": "14:27:59 24/12/2025",
+  "totalKits": 76069,
+  "todayKits": 64,
   "onlineCount": 22,
   "peakPlayers": 52,
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 228,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 901
+      "count": 902
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:25] [BOT] <0_HienBot> Welcome to 8b8t, Leeewiith3Es! ",
-    "[14:25] <creeepy> english ",
-    "[14:25] <Hanae0> pues en la q acabas de morir ",
-    "[14:25] <m4rc_xyz8> you have ehh ",
-    "[14:25] <zDoomer3_> !kit dupe ",
-    "[14:25] [8b8t] >> Teleporting to home 0...",
-    "[14:25] [8b8t] >> Teleporting to home 8...",
-    "[14:25] To zDoomer3_: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[14:25] <creeepy> come ",
-    "[14:25] <angelaso123> q? ",
-    "[14:25] To zDoomer3_: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[14:25] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[14:25] [8b8t] >> Request sent to zDoomer3_",
     "[14:25] MonkeBot thought they could make it to oxygen in time",
@@ -101,7 +90,18 @@
     "[14:27] To Matias1777: Hello Matias1777!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[14:27] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[14:27] <creeepy> skyster ",
-    "[14:27] MonkeBot got a deadly lesson from the Wither"
+    "[14:27] MonkeBot got a deadly lesson from the Wither",
+    "[14:27] <Matias1777> !kit build ",
+    "[14:27] [8b8t] >> Teleporting to home 0...",
+    "[14:27] [8b8t] >> Teleporting to home 3...",
+    "[14:27] To Matias1777: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:27] To Matias1777: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:27] [8b8t] >> Request sent to Matias1777",
+    "[14:27] .NullUnClear stood in the fireplace",
+    "[14:27] [8b8t] >> Please do not spam.",
+    "[14:27] <creeepy> skyster ",
+    "[14:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[14:27] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1728,10 +1728,11 @@
     "GEToD_MC": 1,
     "extragiganigga": 1,
     "Kesitas": 1,
-    "zDoomer3_": 2
+    "zDoomer3_": 2,
+    "Matias1777": 1
   },
   "kitStats": {
-    "build": 901,
+    "build": 902,
     "survival": 3451,
     "pvp": 4141,
     "dupe": 899,
