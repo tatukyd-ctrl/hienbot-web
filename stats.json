@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:32:11 24/12/2025",
+  "lastUpdated": "17:32:41 24/12/2025",
   "totalKits": 76089,
   "todayKits": 84,
-  "onlineCount": 21,
+  "onlineCount": 20,
   "peakPlayers": 52,
-  "tps": "11.0",
-  "ping": 0,
+  "tps": "20.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "dupe",
-      "count": 902
+      "count": 903
     }
   ],
   "chatLog": [
-    "[17:30] To Srvsursusanox234: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:30] To Srvsursusanox234: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:30] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
-    "[17:30] [8b8t] >> Request sent to Srvsursusanox234",
-    "[17:30] [8b8t] >> Teleporting...",
-    "[17:30] KloverTheGoat was pwned by Kid_67 wielding [end crystal]",
-    "[17:30] [8b8t] >> Home 2 was not found",
     "[17:30] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[17:30] [8b8t] >> The command /seed is not allowed",
     "[17:31] [BOT] <0_HienBot> Bot created by Hien2309. ",
@@ -101,7 +94,14 @@
     "[17:32] To Srvsursusanox234: You're on cooldown, try again in 16 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[17:32] [8b8t] >> The command /seed is not allowed",
     "[17:32] Srvsursusanox234 forgot to bring their parachute",
-    "[17:32] <Bombockatjohny> wait ill tpa u brb "
+    "[17:32] <Bombockatjohny> wait ill tpa u brb ",
+    "[17:32] TelevisionBot was EZ clapped by Virgot using [Minelord Netherite Sword]",
+    "[17:32] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[17:32] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
+    "[17:32] <Srvsursusanox234> !kit srf ",
+    "[17:32] To Srvsursusanox234: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[17:32] shadowlord6 has made the advancement [We Need to Go Deeper]",
+    "[17:32] <Srvsursusanox234> !kit dupe "
   ],
   "userStats": {
     "76756": 38,
@@ -1732,13 +1732,13 @@
     "Matias1777": 1,
     "Helont": 5,
     ".YuyuMeteor43": 2,
-    "Srvsursusanox234": 3
+    "Srvsursusanox234": 4
   },
   "kitStats": {
     "build": 905,
     "survival": 3461,
     "pvp": 4147,
-    "dupe": 902,
+    "dupe": 903,
     "tools": 957,
     "stash": 431,
     "raid": 666,
