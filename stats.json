@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:13:07 25/12/2025",
-  "totalKits": 76391,
-  "todayKits": 91,
+  "lastUpdated": "02:13:26 25/12/2025",
+  "totalKits": 76392,
+  "todayKits": 92,
   "onlineCount": 44,
   "peakPlayers": 63,
-  "tps": "20.0",
+  "tps": "17.0",
   "ping": 244,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4278
+      "count": 4279
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:11] lisi4ek212 was pwned by elmine1079 wielding [netherite sword]",
-    "[02:12] <ssaturnv> !kit survival ",
-    "[02:12] [8b8t] >> Teleporting to home 0...",
-    "[02:12] [8b8t] >> Teleporting to home 1...",
-    "[02:12] To ssaturnv: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[02:12] To ssaturnv: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[02:12] [8b8t] >> Request sent to ssaturnv",
-    "[02:12] [8b8t] >> Teleporting...",
-    "[02:12] Mladen110P tried to outswim the water",
-    "[02:12] [8b8t] >> Home 2 was not found",
-    "[02:12] <noobmaster96> devuelve los kit ",
-    "[02:12] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
     "[02:12] [8b8t] >> The command /seed is not allowed",
     "[02:12] <donzx11> ? ",
     "[02:12] <lodgedsage> !kit stash ",
@@ -101,7 +89,19 @@
     "[02:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:12] <ssaturnv> !kit survival ",
     "[02:12] To ssaturnv: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[02:13] Mladen110P has made the advancement [We Need to Go Deeper]"
+    "[02:13] Mladen110P has made the advancement [We Need to Go Deeper]",
+    "[02:13] [8b8t] >> The TPA request you sent to lodgedsage was successfully canceled.",
+    "[02:13] <clutchxz> !kit pvp ",
+    "[02:13] [8b8t] >> Teleporting to home 0...",
+    "[02:13] [8b8t] >> Teleporting to home 1...",
+    "[02:13] To clutchxz: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:13] [8b8t] >> The command /seed is not allowed",
+    "[02:13] To clutchxz: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[02:13] [8b8t] >> Request sent to clutchxz",
+    "[02:13] [8b8t] >> Teleporting...",
+    "[02:13] <lodgedsage> !kit stash ",
+    "[02:13] To lodgedsage: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[02:13] [BOT] <0_HienBot> Try /nc to change your name color! "
   ],
   "userStats": {
     "76756": 38,
@@ -1772,13 +1772,13 @@
     "HunterDrag": 1,
     "Tivoo_o": 2,
     "Mineder88": 1,
-    "clutchxz": 2,
+    "clutchxz": 3,
     "lodgedsage": 1
   },
   "kitStats": {
     "build": 931,
     "survival": 3525,
-    "pvp": 4278,
+    "pvp": 4279,
     "dupe": 929,
     "tools": 966,
     "stash": 446,
