@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:30:11 24/12/2025",
+  "lastUpdated": "17:30:41 24/12/2025",
   "totalKits": 76088,
   "todayKits": 83,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 52,
   "tps": "19.0",
-  "ping": 225,
+  "ping": 226,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:28] To Srvsursusanox234: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:28] Virgot forgot to bring their parachute",
-    "[17:28] To Srvsursusanox234: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:28] [8b8t] >> Request sent to Srvsursusanox234",
-    "[17:28] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[17:28] [8b8t] >> Teleporting...",
-    "[17:28] KloverTheGoat has reached the goal [Postmortal]",
-    "[17:28] [8b8t] >> Home 2 was not found",
-    "[17:28] [8b8t] >> The command /seed is not allowed",
-    "[17:29] <Bombockatjohny> follow me ",
     "[17:29] <pepe203671> !kit illegal ",
     "[17:29] To pepe203671: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[17:29] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
@@ -101,7 +91,17 @@
     "[17:30] <Bombockatjohny> my secret base ",
     "[17:30] <pepe203671> !kit illea ",
     "[17:30] To pepe203671: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[17:30] <Bombockatjohny> and now my secret secret base "
+    "[17:30] <Bombockatjohny> and now my secret secret base ",
+    "[17:30] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[17:30] [Pro+] <Virgot> +kit travel ",
+    "[17:30] [8b8t] >> Helont voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
+    "[17:30] <Srvsursusanox234> !kit illegal ",
+    "[17:30] To Srvsursusanox234: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[17:30] <Srvsursusanox234> !kit raid ",
+    "[17:30] [8b8t] >> Teleporting to home 0...",
+    "[17:30] [8b8t] >> Teleporting to home 3...",
+    "[17:30] To Srvsursusanox234: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:30] To Srvsursusanox234: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 38,
@@ -1732,7 +1732,7 @@
     "Matias1777": 1,
     "Helont": 5,
     ".YuyuMeteor43": 2,
-    "Srvsursusanox234": 2
+    "Srvsursusanox234": 3
   },
   "kitStats": {
     "build": 905,
@@ -1741,7 +1741,7 @@
     "dupe": 902,
     "tools": 957,
     "stash": 431,
-    "raid": 665,
+    "raid": 666,
     "wood": 248,
     "exp": 408,
     "dye": 146,
