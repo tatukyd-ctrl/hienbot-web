@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:01:52 25/12/2025",
+  "lastUpdated": "03:02:07 25/12/2025",
   "totalKits": 76414,
   "todayKits": 114,
   "onlineCount": 30,
   "peakPlayers": 63,
-  "tps": "18.0",
-  "ping": 238,
+  "tps": "16.0",
+  "ping": 303,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:59] [8b8t] >> Teleporting to home 0...",
-    "[02:59] [8b8t] >> Teleporting to home 1...",
-    "[02:59] To nahuelx_x: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[02:59] <rena_aws> donde vamos ",
     "[02:59] To nahuelx_x: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[02:59] [8b8t] >> Request sent to nahuelx_x",
@@ -101,7 +98,10 @@
     "[03:01] To EnesReks: Your kit (christmas) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[03:01] To EnesReks: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[03:01] [8b8t] >> Request sent to EnesReks",
-    "[03:01] [8b8t] >> Teleporting..."
+    "[03:01] [8b8t] >> Teleporting...",
+    "[03:01] [8b8t] >> Home 2 was not found",
+    "[03:02] [8b8t] >> The command /seed is not allowed",
+    "[03:02] <sebasfut29> !kit christmas "
   ],
   "userStats": {
     "76756": 38,
@@ -1483,7 +1483,7 @@
     "superdboy_4": 1,
     "Mecblak": 23,
     "MrPopbob": 4,
-    "sebasfut29": 5,
+    "sebasfut29": 6,
     ".FiftyPanda1905": 3,
     "Greenlad7": 1,
     "Nixon2": 1,
@@ -1810,6 +1810,6 @@
     "flower": 6,
     "music": 69,
     "c": 3,
-    "christmas": 62
+    "christmas": 63
   }
 }
