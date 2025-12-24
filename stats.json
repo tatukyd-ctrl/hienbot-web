@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:28:29 25/12/2025",
+  "lastUpdated": "04:28:46 25/12/2025",
   "totalKits": 76468,
   "todayKits": 4,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 32,
-  "tps": "15.0",
+  "tps": "18.0",
   "ping": 244,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3544
+      "count": 3545
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:27] <ZzElCruzZ> !kit pvp ",
-    "[04:27] [8b8t] >> Teleporting to home 0...",
-    "[04:27] [8b8t] >> Teleporting to home 1...",
-    "[04:27] To ZzElCruzZ: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[04:27] To ZzElCruzZ: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[04:28] [8b8t] >> Request sent to ZzElCruzZ",
-    "[04:28] <MutantLoki82059> !kit ob ",
-    "[04:28] <Meteroitee> !kit Survival ",
-    "[04:28] To MutantLoki82059: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[04:28] To Meteroitee: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[04:28] [8b8t] >> Teleporting...",
     "[04:28] ZzElCruzZ Whispers: Meteor on Crack!",
     "[04:28] <.AdrianTecnic> !kit pvpc ",
@@ -101,7 +91,17 @@
     "[04:28] [8b8t] >> Request sent to .AdrianTecnic",
     "[04:28] <jamer36> !kit christmas ",
     "[04:28] To jamer36: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[04:28] [8b8t] >> Teleporting..."
+    "[04:28] [8b8t] >> Teleporting...",
+    "[04:28] [8b8t] >> The command /seed is not allowed",
+    "[04:28] s_siable11 tried to outswim the water",
+    "[04:28] [8b8t] >> Home 2 was not found",
+    "[04:28] <tomanimation> !kit survival ",
+    "[04:28] [8b8t] >> Teleporting to home 0...",
+    "[04:28] [8b8t] >> Teleporting to home 1...",
+    "[04:28] To tomanimation: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[04:28] [8b8t] >> The command /seed is not allowed",
+    "[04:28] To tomanimation: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[04:28] [8b8t] >> Request sent to tomanimation"
   ],
   "userStats": {
     "76756": 38,
@@ -1785,11 +1785,12 @@
     "Juanpro41E4": 3,
     "BingusQueen": 2,
     ".VORAX485": 2,
-    "dbnico100": 1
+    "dbnico100": 1,
+    "tomanimation": 1
   },
   "kitStats": {
     "build": 933,
-    "survival": 3544,
+    "survival": 3545,
     "pvp": 4311,
     "dupe": 931,
     "tools": 968,
