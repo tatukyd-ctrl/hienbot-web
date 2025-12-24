@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:33:11 24/12/2025",
+  "lastUpdated": "18:33:41 24/12/2025",
   "totalKits": 76093,
   "todayKits": 88,
   "onlineCount": 20,
   "peakPlayers": 52,
-  "tps": "20.0",
-  "ping": 235,
+  "tps": "14.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4152
+      "count": 4153
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:29] To Sak1uh: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[18:29] To Sak1uh: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[18:29] [8b8t] >> Request sent to Sak1uh",
-    "[18:30] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[18:30] qaleeqhassamllpp has been put down by botchaosonix666",
-    "[18:30] [8b8t] >> The TPA request you sent to Sak1uh was successfully canceled.",
-    "[18:30] MonkeBot was destroyed by botchaosonix666",
-    "[18:30] [8b8t] >> The command /seed is not allowed",
-    "[18:30] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
     "[18:30] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[18:31] <botchaosonix666> !kit pvp ",
     "[18:31] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[18:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[18:32] Lweaodiajfonfoa got the wither disease",
     "[18:32] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[18:33] [BOT] <0_HienBot> Hola 8b8t_net! "
+    "[18:33] [BOT] <0_HienBot> Hola 8b8t_net! ",
+    "[18:33] Lweaodiajfonfoa has been killed by botchaosonix666",
+    "[18:33] <botchaosonix666> !kit pvp ",
+    "[18:33] [8b8t] >> Teleporting to home 0...",
+    "[18:33] [8b8t] >> Teleporting to home 1...",
+    "[18:33] To botchaosonix666: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[18:33] To botchaosonix666: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[18:33] [8b8t] >> Request sent to botchaosonix666",
+    "[18:33] [8b8t] >> Teleporting...",
+    "[18:33] [BOT] <0_HienBot> Hola qaleeqhassamllpp! "
   ],
   "userStats": {
     "76756": 38,
@@ -419,7 +419,7 @@
     "Dmitch10": 1,
     "ali8989": 1,
     "Jhon2_87": 3,
-    "botchaosonix666": 87,
+    "botchaosonix666": 88,
     "47_": 57,
     "atritzz": 6,
     "Fantasmitapirobo": 1,
@@ -1739,7 +1739,7 @@
   "kitStats": {
     "build": 905,
     "survival": 3462,
-    "pvp": 4152,
+    "pvp": 4153,
     "dupe": 904,
     "tools": 957,
     "stash": 431,
