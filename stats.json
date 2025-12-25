@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:22:09 25/12/2025",
+  "lastUpdated": "20:22:39 25/12/2025",
   "totalKits": 76833,
   "todayKits": 12,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 23,
-  "tps": "18.0",
-  "ping": 239,
+  "tps": "20.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 958
+      "count": 959
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:19] [8b8t] >> Teleporting...",
-    "[20:19] <peacebringer12> !kit Tools ",
-    "[20:19] To peacebringer12: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[20:19] [8b8t] >> Teleporting to home 0...",
-    "[20:19] [8b8t] >> Teleporting to home 8...",
-    "[20:19] [8b8t] >> The command /seed is not allowed",
-    "[20:19] To peacebringer12: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[20:19] [8b8t] >> Request sent to peacebringer12",
-    "[20:19] [8b8t] >> Teleporting...",
-    "[20:19] [BOT] <0_HienBot> Welcome to 8b8t, SpringtrapYT! ",
-    "[20:19] [8b8t] >> Home 2 was not found",
     "[20:19] MonkeBot was EZ clapped by SpringtrapYT using [netherite sword]",
     "[20:19] [8b8t] >> The command /seed is not allowed",
     "[20:20] 9Qcd was destroyed by SpringtrapYT",
@@ -101,7 +90,18 @@
     "[20:21] 9Qcd has made the advancement [We Need to Go Deeper]",
     "[20:21] <elproplayerxddd> i dont have stuff sheepstar ",
     "[20:21] [Pro] <SheepStar_TW> ok ",
-    "[20:22] <elproplayerxddd> bruh "
+    "[20:22] <elproplayerxddd> bruh ",
+    "[20:22] <SpringtrapYT> !kit netherite ",
+    "[20:22] To SpringtrapYT: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[20:22] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
+    "[20:22] Helont has made the advancement [A Throwaway Joke]",
+    "[20:22] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[20:22] [Pro] <SheepStar_TW> no pvp? ",
+    "[20:22] <elproplayerxddd> no xd im death ",
+    "[20:22] [Ultra] <_PIGY_> no ",
+    "[20:22] Tebstr123 thought they could make it to oxygen in time",
+    "[20:22] <SpringtrapYT> !kit dupe ",
+    "[20:22] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1832,13 +1832,13 @@
     "luhao": 5,
     "danijel2241": 1,
     "Mustafa121MC": 3,
-    "SpringtrapYT": 3
+    "SpringtrapYT": 4
   },
   "kitStats": {
     "build": 952,
     "survival": 3670,
     "pvp": 4447,
-    "dupe": 958,
+    "dupe": 959,
     "tools": 984,
     "stash": 468,
     "raid": 698,
