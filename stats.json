@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:29:37 25/12/2025",
+  "lastUpdated": "17:30:07 25/12/2025",
   "totalKits": 76748,
   "todayKits": 61,
-  "onlineCount": 16,
+  "onlineCount": 17,
   "peakPlayers": 29,
-  "tps": "17.0",
-  "ping": 232,
+  "tps": "14.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4416
+      "count": 4417
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:26] dXxdarkyXxb was EZ clapped by milangamer198 using [netherite sword]",
-    "[17:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[17:26] [BOT] <0_HienBot> Hi YoDad4015! ",
-    "[17:27] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
-    "[17:27] <milangamer198> !ping ",
-    "[17:27] To milangamer198: Your ping is: 116 ms",
-    "[17:27] <michelgamer199> !tps ",
-    "[17:27] To michelgamer199: The current tps of the server is 18",
-    "[17:27] <michelgamer199> !ping ",
     "[17:27] To michelgamer199: Your ping is: 121 ms",
     "[17:27] <michelgamer199> !kit ",
     "[17:28] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
@@ -101,7 +92,16 @@
     "[17:28] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[17:28] <michelgamer199> jaj ",
     "[17:29] [BOT] <0_HienBot> Hi Filo456! ",
-    "[17:29] [BOT] <0_HienBot> What's up, YoDad4015? "
+    "[17:29] [BOT] <0_HienBot> What's up, YoDad4015? ",
+    "[17:29] <michelgamer199> !kit pvp ",
+    "[17:29] [8b8t] >> Teleporting to home 0...",
+    "[17:29] [8b8t] >> Teleporting to home 1...",
+    "[17:29] To michelgamer199: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:29] To michelgamer199: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:29] [8b8t] >> Request sent to michelgamer199",
+    "[17:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[17:29] [8b8t] >> Teleporting...",
+    "[17:30] [BOT] <0_HienBot> 𝙒𝙖𝙣𝙩 𝙠𝙞𝙩 ?? 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 "
   ],
   "userStats": {
     "76756": 38,
@@ -1823,12 +1823,13 @@
     "Fang_da_Wolf": 3,
     "NotMe_z": 11,
     "shadowlord6": 4,
-    "prosto_soso": 8
+    "prosto_soso": 8,
+    "michelgamer199": 1
   },
   "kitStats": {
     "build": 947,
     "survival": 3635,
-    "pvp": 4416,
+    "pvp": 4417,
     "dupe": 949,
     "tools": 976,
     "stash": 462,
