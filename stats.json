@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:33:47 25/12/2025",
+  "lastUpdated": "09:34:17 25/12/2025",
   "totalKits": 76574,
   "todayKits": 110,
-  "onlineCount": 23,
+  "onlineCount": 22,
   "peakPlayers": 43,
   "tps": "20.0",
-  "ping": 226,
+  "ping": 230,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4343
+      "count": 4344
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:31] <.YuyuMeteor43> $kit potion ",
-    "[09:31] To .YuyuMeteor43: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:31] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[09:31] [BOT] <0_HienBot> Hey SLIMPX! ",
-    "[09:31] [BOT] <0_HienBot> Type !kit Christmas to get the Christmas Kit (today only)! ",
-    "[09:32] <SLIMPX> !kit christmas ",
-    "[09:32] [8b8t] >> Teleporting to home 0...",
-    "[09:32] [8b8t] >> Teleporting to home 8...",
     "[09:32] To SLIMPX: Your kit (christmas) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[09:32] To SLIMPX: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[09:32] [8b8t] >> Request sent to SLIMPX",
@@ -101,7 +93,15 @@
     "[09:33] <MaxiBOT23> !kit ",
     "[09:33] To MaxiBOT23: Hello MaxiBOT23!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[09:33] <.YuyuMeteor43> kicked ",
-    "[09:33] Meteroitee pulverized ASneakySenior using [✯✯✯!!Los cristales✯!! on top✯✯✯]"
+    "[09:33] Meteroitee pulverized ASneakySenior using [✯✯✯!!Los cristales✯!! on top✯✯✯]",
+    "[09:33] <MaxiBOT23> !kit pvp ",
+    "[09:33] [8b8t] >> Teleporting to home 0...",
+    "[09:33] [8b8t] >> Teleporting to home 1...",
+    "[09:33] To MaxiBOT23: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[09:33] To MaxiBOT23: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[09:33] [8b8t] >> Request sent to MaxiBOT23",
+    "[09:33] [BOT] <0_HienBot> 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 𝙩𝙤 𝙜𝙚𝙩 f𝙧𝙚𝙚 𝙠𝙞𝙩 ",
+    "[09:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -1802,12 +1802,13 @@
     "Crematixn": 2,
     "xnkq": 1,
     "ESTEBANUNIV": 1,
-    "Meteroitee": 1
+    "Meteroitee": 1,
+    "MaxiBOT23": 1
   },
   "kitStats": {
     "build": 939,
     "survival": 3578,
-    "pvp": 4343,
+    "pvp": 4344,
     "dupe": 938,
     "tools": 971,
     "stash": 451,
