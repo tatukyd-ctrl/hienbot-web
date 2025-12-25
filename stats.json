@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:45:07 25/12/2025",
+  "lastUpdated": "16:45:37 25/12/2025",
   "totalKits": 76738,
   "todayKits": 51,
   "onlineCount": 25,
   "peakPlayers": 29,
-  "tps": "17.0",
-  "ping": 244,
+  "tps": "20.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4405
+      "count": 4406
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:42] [8b8t] >> The command /seed is not allowed",
-    "[16:42] <prosto_soso> !kits ",
-    "[16:42] [BOT] <0_HienBot> Try /nc to change your name color! ",
-    "[16:43] Saad2001_bot has been put down by NotMe_z",
-    "[16:43] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[16:43] MonkeBot thought they could make it to oxygen in time",
-    "[16:43] VituzMC has been put down by NotMe_z",
-    "[16:43] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[16:43] <prosto_soso> !kit Builder ",
-    "[16:43] To prosto_soso: You're on cooldown, try again in 11 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[16:43] <NotMe_z> yo ",
     "[16:43] <VituzMC> h ",
     "[16:43] Saad2001_bot has been put down by shadowlord6",
@@ -101,7 +91,17 @@
     "[16:44] [8b8t] >> Request sent to NotMe_z",
     "[16:44] [8b8t] >> Teleporting...",
     "[16:44] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[16:45] [8b8t] >> Home 2 was not found"
+    "[16:45] [8b8t] >> Home 2 was not found",
+    "[16:45] <VituzMC> !kit pvp ",
+    "[16:45] [8b8t] >> Teleporting to home 0...",
+    "[16:45] [8b8t] >> Teleporting to home 1...",
+    "[16:45] To VituzMC: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[16:45] [8b8t] >> The command /seed is not allowed",
+    "[16:45] Saad2001_bot has been put down by shadowlord6",
+    "[16:45] To VituzMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[16:45] [8b8t] >> Request sent to VituzMC",
+    "[16:45] prosto_soso decided to sleep with the fishes",
+    "[16:45] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "76756": 38,
@@ -1596,7 +1596,7 @@
     "ChaosX": 2,
     "RamiGod": 1,
     "boutz": 7,
-    "VituzMC": 1,
+    "VituzMC": 2,
     "0Noxx0": 2,
     "NOT_OB3D": 1,
     "Gab0000": 4,
@@ -1828,7 +1828,7 @@
   "kitStats": {
     "build": 947,
     "survival": 3630,
-    "pvp": 4405,
+    "pvp": 4406,
     "dupe": 948,
     "tools": 976,
     "stash": 462,
