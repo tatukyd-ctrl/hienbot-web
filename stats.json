@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:11:16 26/12/2025",
+  "lastUpdated": "01:11:39 26/12/2025",
   "totalKits": 76923,
   "todayKits": 30,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 47,
-  "tps": "18.0",
-  "ping": 240,
+  "tps": "17.0",
+  "ping": 238,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4482
+      "count": 4483
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:10] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[01:10] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[01:10] <Victua7397> !kit music ",
-    "[01:10] [8b8t] >> Teleporting to home 0...",
-    "[01:10] [8b8t] >> Teleporting to home 1...",
-    "[01:10] To Victua7397: Your kit (music) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[01:10] MeterMaid has been killed by SP_0",
-    "[01:10] <fearjeffy> !kit ",
-    "[01:10] To fearjeffy: Hello fearjeffy!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[01:10] To Victua7397: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[01:10] [8b8t] >> Request sent to Victua7397",
     "[01:10] [8b8t] >> Teleporting...",
     "[01:10] ___Nuke__ has made the advancement [Ice Bucket Challenge]",
     "[01:10] [8b8t] >> Home 2 was not found",
@@ -101,7 +90,18 @@
     "[01:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:11] SP_0 has been put down by thecatkiller5",
     "[01:11] <creeepy> our base got griefed ",
-    "[01:11] [8b8t] >> Teleporting..."
+    "[01:11] [8b8t] >> Teleporting...",
+    "[01:11] [8b8t] >> Home 2 was not found",
+    "[01:11] <SP_0> !kit pvp ",
+    "[01:11] [8b8t] >> Teleporting to home 0...",
+    "[01:11] [8b8t] >> Teleporting to home 1...",
+    "[01:11] To SP_0: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[01:11] [8b8t] >> The command /seed is not allowed",
+    "[01:11] To SP_0: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[01:11] [8b8t] >> Request sent to SP_0",
+    "[01:11] [8b8t] >> Teleporting...",
+    "[01:11] <creeepy> this is my another frnds base ",
+    "[01:11] [BOT] <0_HienBot> Try /nc to change your name color! "
   ],
   "userStats": {
     "76756": 38,
@@ -1843,12 +1843,13 @@
     "2k2kyt": 1,
     "spikdxd": 2,
     "20172472617": 4,
-    ".PeppyTiger85208": 3
+    ".PeppyTiger85208": 3,
+    "SP_0": 1
   },
   "kitStats": {
     "build": 954,
     "survival": 3691,
-    "pvp": 4482,
+    "pvp": 4483,
     "dupe": 968,
     "tools": 999,
     "stash": 473,
