@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:03:07 25/12/2025",
+  "lastUpdated": "17:03:37 25/12/2025",
   "totalKits": 76743,
   "todayKits": 56,
-  "onlineCount": 24,
+  "onlineCount": 23,
   "peakPlayers": 29,
-  "tps": "20.0",
-  "ping": 236,
+  "tps": "19.0",
+  "ping": 238,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3632
+      "count": 3633
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:01] 0_HienBot forgot to stop, drop, and roll",
-    "[17:01] To VituzMC: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:01] [8b8t] >> Teleporting to home 0...",
-    "[17:01] [8b8t] >> Teleporting to home 1...",
-    "[17:01] [8b8t] >> The command /seed is not allowed",
-    "[17:01] To VituzMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:01] [8b8t] >> Request sent to VituzMC",
-    "[17:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[17:01] [8b8t] >> Teleporting...",
-    "[17:01] <ngodo123> huh? ",
-    "[17:01] [BOT] <0_HienBot> Do !𝙠𝙞𝙩 ",
     "[17:01] [8b8t] >> Home 2 was not found",
     "[17:01] [8b8t] >> The command /seed is not allowed",
     "[17:01] <ngodo123> bro ",
@@ -101,7 +90,18 @@
     "[17:02] [8b8t] >> Teleporting...",
     "[17:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[17:02] KsyzIsChefxPSFW has made the advancement [A Terrible Fortress]",
-    "[17:02] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
+    "[17:02] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[17:03] <VituzMC> !kit survival ",
+    "[17:03] To VituzMC: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:03] [8b8t] >> Teleporting to home 0...",
+    "[17:03] [8b8t] >> Teleporting to home 1...",
+    "[17:03] [8b8t] >> The command /seed is not allowed",
+    "[17:03] To VituzMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:03] [8b8t] >> Request sent to VituzMC",
+    "[17:03] [8b8t] >> Teleporting...",
+    "[17:03] [8b8t] >> The command /seed is not allowed",
+    "[17:03] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
+    "[17:03] MonkeBot tried to outswim the water"
   ],
   "userStats": {
     "76756": 38,
@@ -1596,7 +1596,7 @@
     "ChaosX": 2,
     "RamiGod": 1,
     "boutz": 7,
-    "VituzMC": 6,
+    "VituzMC": 7,
     "0Noxx0": 2,
     "NOT_OB3D": 1,
     "Gab0000": 4,
@@ -1827,7 +1827,7 @@
   },
   "kitStats": {
     "build": 947,
-    "survival": 3632,
+    "survival": 3633,
     "pvp": 4414,
     "dupe": 948,
     "tools": 976,
