@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:38:09 25/12/2025",
+  "lastUpdated": "21:38:39 25/12/2025",
   "totalKits": 76863,
   "todayKits": 42,
-  "onlineCount": 33,
-  "peakPlayers": 34,
-  "tps": "6.0",
-  "ping": 0,
+  "onlineCount": 35,
+  "peakPlayers": 35,
+  "tps": "19.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3674
+      "count": 3675
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:36] <ARCxPATEL> cords do bkll ",
-    "[21:36] [BOT] <0_HienBot> Welcome to 8b8t, paidpopbob! ",
-    "[21:36] Akshat_Negi_1511 has been put down by ruazinnn989423",
-    "[21:36] <ARCxPATEL> void bkl cords ",
-    "[21:37] majnu_bhai decided to sleep with the fishes",
-    "[21:37] <_HulkOctiYT_> !kit lowers ",
-    "[21:37] To _HulkOctiYT_: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[21:37] <ARCxPATEL> cords de na me aata hu ",
     "[21:37] <ruazinnn989423> PVP=tpa ruazinnn989423 ",
     "[21:37] [BOT] <0_HienBot> Hey LimitlessEnd! ",
     "[21:37] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +93,15 @@
     "[21:38] myKonig has made the advancement [Who Needs Rockets?]",
     "[21:38] <ARCxPATEL> -656 320 -60 ",
     "[21:38] <ruazinnn989423> PVP= tpa ",
-    "[21:38] [8b8t] >> The command /seed is not allowed"
+    "[21:38] [8b8t] >> The command /seed is not allowed",
+    "[21:38] <majnu_bhai> !kit survival ",
+    "[21:38] [8b8t] >> Teleporting to home 0...",
+    "[21:38] [8b8t] >> Teleporting to home 1...",
+    "[21:38] To majnu_bhai: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:38] <ARCxPATEL> void -656 320 -60 ",
+    "[21:38] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[21:38] To majnu_bhai: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:38] [8b8t] >> Request sent to majnu_bhai"
   ],
   "userStats": {
     "76756": 38,
@@ -1834,11 +1834,12 @@
     "Mustafa121MC": 3,
     "SpringtrapYT": 11,
     "sxlante": 1,
-    "DRvoid": 1
+    "DRvoid": 1,
+    "majnu_bhai": 1
   },
   "kitStats": {
     "build": 953,
-    "survival": 3674,
+    "survival": 3675,
     "pvp": 4447,
     "dupe": 960,
     "tools": 990,
