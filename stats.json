@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:50:07 25/12/2025",
+  "lastUpdated": "14:50:37 25/12/2025",
   "totalKits": 76697,
   "todayKits": 10,
   "onlineCount": 23,
   "peakPlayers": 29,
-  "tps": "20.0",
-  "ping": 234,
+  "tps": "19.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -22,7 +22,7 @@
     },
     {
       "name": ".LEON50758",
-      "count": 135
+      "count": 136
     },
     {
       "name": "Regentmmc",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3614
+      "count": 3615
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:48] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
-    "[14:48] [8b8t] >> Teleporting...",
-    "[14:48] [8b8t] >> The command /seed is not allowed",
-    "[14:48] [8b8t] >> Home 2 was not found",
-    "[14:48] <WellCornxdd> !kit stash ",
-    "[14:48] [8b8t] >> Teleporting to home 0...",
-    "[14:48] [8b8t] >> Teleporting to home 3...",
-    "[14:48] To WellCornxdd: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[14:48] To WellCornxdd: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[14:48] [8b8t] >> Request sent to WellCornxdd",
-    "[14:48] [8b8t] >> Teleporting...",
     "[14:48] [8b8t] >> Home 2 was not found",
     "[14:48] [BOT] <0_HienBot> 𝑾𝒂𝒏𝒕 𝒌𝒊𝒕 ?? 𝑪𝒉𝒂𝒕 !𝒌𝒊𝒕 ",
     "[14:48] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +90,18 @@
     "[14:49] To Yatzel01: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[14:49] [8b8t] >> Request sent to Yatzel01",
     "[14:50] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[14:50] <Nihan95> end chest need "
+    "[14:50] <Nihan95> end chest need ",
+    "[14:50] [8b8t] >> The TPA request you sent to Yatzel01 was successfully canceled.",
+    "[14:50] <.LEON50758> !kit survival ",
+    "[14:50] [8b8t] >> Teleporting to home 0...",
+    "[14:50] [8b8t] >> Teleporting to home 1...",
+    "[14:50] To .LEON50758: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:50] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:50] <WellCornxdd> !kit survival ",
+    "[14:50] [8b8t] >> Request sent to .LEON50758",
+    "[14:50] To WellCornxdd: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[14:50] [8b8t] >> Teleporting...",
+    "[14:50] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 "
   ],
   "userStats": {
     "76756": 38,
@@ -323,7 +323,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 19,
     "alastor_gamer89": 6,
-    ".LEON50758": 135,
+    ".LEON50758": 136,
     "Saad2001": 2,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -1824,7 +1824,7 @@
   },
   "kitStats": {
     "build": 945,
-    "survival": 3614,
+    "survival": 3615,
     "pvp": 4394,
     "dupe": 945,
     "tools": 973,
