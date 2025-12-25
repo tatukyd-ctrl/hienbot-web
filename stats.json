@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:02:03 26/12/2025",
+  "lastUpdated": "04:02:09 26/12/2025",
   "totalKits": 76972,
   "todayKits": 79,
-  "onlineCount": 42,
+  "onlineCount": 43,
   "peakPlayers": 51,
-  "tps": "17.0",
+  "tps": "13.0",
   "ping": 254,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3706
+      "count": 3707
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:01] .Deadmask911 pulverized MelonMouse25 using [netherite sword]",
-    "[04:01] MeterMaid was destroyed by ellioq",
-    "[04:01] <Real4Tribe> it works ",
-    "[04:01] <Real4Tribe> !kit pvp ",
-    "[04:01] <Hanae0> pvpvpvpvpvpvpvp ",
-    "[04:01] [8b8t] >> Teleporting to home 0...",
     "[04:01] [8b8t] >> Teleporting to home 1...",
     "[04:01] To Real4Tribe: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[04:01] To Real4Tribe: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +95,13 @@
     "[04:01] 123erqw has made the advancement [We Need to Go Deeper]",
     "[04:01] To ssaturnv: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[04:01] [8b8t] >> Request sent to ssaturnv",
-    "[04:01] [8b8t] >> Teleporting..."
+    "[04:01] [8b8t] >> Teleporting...",
+    "[04:02] [BOT] <0_HienBot> Try /nc to change your name color! ",
+    "[04:02] <N008XD> !kit survival ",
+    "[04:02] [8b8t] >> You must be 15000 blocks from spawn in order to use /home",
+    "[04:02] 0_HienBot forgot to stop, drop, and roll",
+    "[04:02] N008XD was rekt by tysonsxz and their mighty [end crystal]",
+    "[04:02] To N008XD: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1850,12 +1850,12 @@
     "aNasaDude": 2,
     "Elpajitas32": 1,
     "boki5529": 4,
-    "N008XD": 12,
+    "N008XD": 13,
     ".Deadmask911": 2
   },
   "kitStats": {
     "build": 958,
-    "survival": 3706,
+    "survival": 3707,
     "pvp": 4526,
     "dupe": 972,
     "tools": 1003,
