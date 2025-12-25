@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:11:04 25/12/2025",
+  "lastUpdated": "08:11:17 25/12/2025",
   "totalKits": 76540,
   "todayKits": 76,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 42,
-  "tps": "19.0",
+  "tps": "17.0",
   "ping": 231,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 969
+      "count": 970
     },
     {
       "name": "build",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:08] [8b8t] >> Teleporting to home 0...",
-    "[08:08] [8b8t] >> Teleporting to home 1...",
-    "[08:08] To Veryverycoolguy: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[08:09] To Veryverycoolguy: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[08:09] [8b8t] >> Request sent to Veryverycoolguy",
-    "[08:09] [8b8t] >> Teleporting...",
     "[08:09] [8b8t] >> Home 2 was not found",
     "[08:09] [BOT] <0_HienBot> Maybe you don't know 0_HienBot doesn't have coordlogger you can see here tinyurl▪com/Hien2309ontopp ",
     "[08:09] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +95,13 @@
     "[08:10] [BOT] <0_HienBot> Welcome to 8b8t, Atlantic999! ",
     "[08:10] <Kapy__> ya? ",
     "[08:11] [8b8t] >> Teleporting...",
-    "[08:11] <10HACKER01> nop "
+    "[08:11] <10HACKER01> nop ",
+    "[08:11] [8b8t] >> Home 2 was not found",
+    "[08:11] [8b8t] >> The command /seed is not allowed",
+    "[08:11] <Onibi_Kui> !kit tools ",
+    "[08:11] [8b8t] >> Teleporting to home 0...",
+    "[08:11] [8b8t] >> Teleporting to home 8...",
+    "[08:11] To Onibi_Kui: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1630,7 +1630,7 @@
     "beary__": 2,
     "ZzElCruzZ": 37,
     "Dragoon": 1,
-    "Onibi_Kui": 6,
+    "Onibi_Kui": 7,
     "joa65": 1,
     "Pytersa": 2,
     "maxiixzo": 5,
@@ -1806,7 +1806,7 @@
     "survival": 3565,
     "pvp": 4337,
     "dupe": 936,
-    "tools": 969,
+    "tools": 970,
     "stash": 448,
     "raid": 687,
     "wood": 256,
