@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:12:39 25/12/2025",
-  "totalKits": 76830,
-  "todayKits": 9,
-  "onlineCount": 19,
+  "lastUpdated": "20:12:55 25/12/2025",
+  "totalKits": 76831,
+  "todayKits": 10,
+  "onlineCount": 20,
   "peakPlayers": 23,
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 240,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4444
+      "count": 4445
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:10] [BOT] <0_HienBot> Hey Sigmaboy840! ",
-    "[20:10] [8b8t] >> Teleporting to home 0...",
-    "[20:10] [8b8t] >> Teleporting to home 8...",
-    "[20:10] To luhao: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[20:10] To luhao: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[20:10] [8b8t] >> Request sent to luhao",
-    "[20:11] [8b8t] >> Teleporting...",
-    "[20:11] [8b8t] >> Home 2 was not found",
-    "[20:11] <Sigmaboy840> fuck you ",
-    "[20:11] [8b8t] >> The command /seed is not allowed",
     "[20:11] [BOT] <0_HienBot> 𝘾𝙝𝙖𝙩 !𝙠𝙞𝙩 𝙩𝙤 𝙜𝙚𝙩 f𝙧𝙚𝙚 𝙠𝙞𝙩 ",
     "[20:11] <SpringtrapYT> !kit ",
     "[20:11] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
@@ -101,7 +91,17 @@
     "[20:11] Helont flew into a wall and died...?",
     "[20:12] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[20:12] MonkeBot was EZ clapped by Vince_Masuka using [end crystal]",
-    "[20:12] SpringtrapYT tried to outswim the water"
+    "[20:12] SpringtrapYT tried to outswim the water",
+    "[20:12] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[20:12] <Helont> !kit pvp ",
+    "[20:12] [8b8t] >> Teleporting to home 0...",
+    "[20:12] [8b8t] >> Teleporting to home 1...",
+    "[20:12] To Helont: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[20:12] To Helont: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[20:12] [8b8t] >> Request sent to Helont",
+    "[20:12] [Pro] <SheepStar_TW> who pvp ",
+    "[20:12] [8b8t] >> SheepStar_TW created a new hotspot, use /hotspot to teleport to it",
+    "[20:12] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1730,7 +1730,7 @@
     "Kesitas": 3,
     "zDoomer3_": 2,
     "Matias1777": 1,
-    "Helont": 35,
+    "Helont": 36,
     ".YuyuMeteor43": 6,
     "Srvsursusanox234": 6,
     "NED_BIG_BY": 1,
@@ -1836,7 +1836,7 @@
   "kitStats": {
     "build": 952,
     "survival": 3670,
-    "pvp": 4444,
+    "pvp": 4445,
     "dupe": 958,
     "tools": 983,
     "stash": 466,
