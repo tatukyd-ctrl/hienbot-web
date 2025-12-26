@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:08:41 26/12/2025",
+  "lastUpdated": "09:09:11 26/12/2025",
   "totalKits": 77048,
   "todayKits": 155,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 57,
   "tps": "20.0",
   "ping": 240,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4587
+      "count": 4588
     },
     {
       "name": "survival",
@@ -72,23 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:07] [BOT] <0_HienBot> Welcome to 8b8t, Jhoanmalacara_43! ",
-    "[09:07] <ScreaM8989> !kit survival ",
-    "[09:07] [8b8t] >> Teleporting to home 0...",
-    "[09:07] [8b8t] >> Teleporting to home 1...",
-    "[09:07] <.Joseph1209491> porque sacaron a minelord??! ",
-    "[09:07] To ScreaM8989: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[09:07] To ScreaM8989: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[09:07] [8b8t] >> Request sent to ScreaM8989",
-    "[09:07] Ander2613 thought they could fly... they couldn't",
-    "[09:07] [8b8t] >> ScreaM8989 would like to teleport to you /tpayes USERNAME /tpano USERNAME",
-    "[09:07] [8b8t] >> Teleporting...",
-    "[09:07] [8b8t] >> Home 2 was not found",
-    "[09:07] [8b8t] >> Please do not spam.",
-    "[09:07] <chilpil2010> !kit fly ",
-    "[09:07] To chilpil2010: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:08] [8b8t] >> The command /seed is not allowed",
-    "[09:08] <ScreaM8989> pilla cohetes ",
     "[09:08] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[09:08] <ZafiroAfiro> thanks scream ",
     "[09:08] <ScreaM8989> y asi volando ves la esfinge ",
@@ -101,7 +84,24 @@
     "[09:08] [8b8t] >> Request sent to chilpil2010",
     "[09:08] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[09:08] <AZULITOMAZITO> !kit survival ",
-    "[09:08] To AZULITOMAZITO: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[09:08] To AZULITOMAZITO: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[09:08] <AZULITOMAZITO> !kit pvp ",
+    "[09:08] To AZULITOMAZITO: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[09:08] <Nekshuu> perame w ",
+    "[09:08] <Nekshuu> ando haciendo algo ",
+    "[09:08] <ZafiroAfiro> che tengo demasiado lag ",
+    "[09:08] <.MC_meester_Lars> !Kit disc ",
+    "[09:08] To .MC_meester_Lars: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[09:08] <chilpil2010> !kit pvp ",
+    "[09:08] To chilpil2010: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[09:08] [8b8t] >> Please do not spam.",
+    "[09:09] [8b8t] >> The TPA request you sent to chilpil2010 was successfully canceled.",
+    "[09:09] <.MC_meester_Lars> !Kit disc ",
+    "[09:09] To .MC_meester_Lars: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[09:09] <AZULITOMAZITO> !kit pvp ",
+    "[09:09] [8b8t] >> Teleporting to home 0...",
+    "[09:09] [8b8t] >> Teleporting to home 1...",
+    "[09:09] To AZULITOMAZITO: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1869,12 +1869,13 @@
     ".Scottyboy29274": 1,
     "MelonMouse25": 4,
     "vswu": 2,
-    "chilpil2010": 1
+    "chilpil2010": 1,
+    "AZULITOMAZITO": 1
   },
   "kitStats": {
     "build": 961,
     "survival": 3745,
-    "pvp": 4587,
+    "pvp": 4588,
     "dupe": 974,
     "tools": 1004,
     "stash": 480,
