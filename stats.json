@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:40:17 26/12/2025",
+  "lastUpdated": "15:40:47 26/12/2025",
   "totalKits": 77174,
   "todayKits": 52,
   "onlineCount": 21,
   "peakPlayers": 35,
   "tps": "20.0",
-  "ping": 239,
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 967
+      "count": 968
     }
   ],
   "chatLog": [
-    "[15:36] [8b8t] >> Request sent to GoldTade",
-    "[15:36] [8b8t] >> Teleporting...",
-    "[15:37] 0_HienBot forgot to stop, drop, and roll",
-    "[15:37] [8b8t] >> Home 2 was not found",
-    "[15:37] [8b8t] >> The command /seed is not allowed",
-    "[15:37] [8b8t] >> Please do not spam.",
-    "[15:37] <SHADOWX15> hablan español? ",
     "[15:37] <SHADOWX15> speak spanish? ",
     "[15:37] <delusionalism> callate amigo ",
     "[15:37] [Ultra] <GoldTade> en lo absoluto bro ",
@@ -101,7 +94,14 @@
     "[15:39] [8b8t] >> The command /seed is not allowed",
     "[15:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[15:40] PORTON34 has reached the goal [The Next Generation]",
-    "[15:40] <Nihan95> now what "
+    "[15:40] <Nihan95> now what ",
+    "[15:40] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[15:40] <B1Z4p0p34> !kit build ",
+    "[15:40] [8b8t] >> Teleporting to home 0...",
+    "[15:40] [8b8t] >> Teleporting to home 3...",
+    "[15:40] To B1Z4p0p34: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[15:40] To B1Z4p0p34: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[15:40] [8b8t] >> Request sent to B1Z4p0p34"
   ],
   "userStats": {
     "76756": 38,
@@ -1880,10 +1880,11 @@
     "SPAWN_K1LLER_B0T": 1,
     "Bazandaih4": 10,
     "B74Z3": 2,
-    "SHADOWX15": 1
+    "SHADOWX15": 1,
+    "B1Z4p0p34": 1
   },
   "kitStats": {
-    "build": 967,
+    "build": 968,
     "survival": 3774,
     "pvp": 4614,
     "dupe": 987,
