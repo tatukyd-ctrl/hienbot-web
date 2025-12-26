@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:08:55 26/12/2025",
+  "lastUpdated": "21:09:25 26/12/2025",
   "totalKits": 77286,
   "todayKits": 18,
-  "onlineCount": 39,
+  "onlineCount": 3,
   "peakPlayers": 41,
-  "tps": "4.0",
+  "tps": "17.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4648
+      "count": 4649
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:07] [8b8t] >> The command /seed is not allowed",
-    "[21:08] <TelevisionBot> I am a bot! Request kits with +kit <name> ",
-    "[21:08] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
-    "[21:08] <Saad2001_bot> Spawn is home. ",
-    "[21:08] <chilpil2010> use a kit ",
-    "[21:08] <Saad2001_bot> Who is the richest on 8b8t right now? ",
-    "[21:08] <peakar> |tpa ",
-    "[21:08] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[21:08] <chilpil2010> !kit survival ",
-    "[21:08] <peakar> |tpahere ",
-    "[21:08] [8b8t] >> Teleporting to home 0...",
-    "[21:08] To chilpil2010: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[21:08] .EdxxRaven1 found out about explosives the hard way",
     "[21:08] <exeeeee44444444> !kit pvp ",
     "[21:08] <Saad2001_bot> Survival 101: Never trust a player wearing 'No-Name' leather armor. ",
@@ -101,7 +89,19 @@
     "[21:08] ",
     "[21:08]   [Confirm read]",
     "[21:08] ",
-    "[21:08] [8b8t] >> Teleporting to home 0..."
+    "[21:08] [8b8t] >> Teleporting to home 0...",
+    "[21:08] [8b8t] >> Teleporting to home 1...",
+    "[21:09] <chilpil2010> !kit survival ",
+    "[21:09] <exeeeee44444444> !kit pvp ",
+    "[21:09] <Saad2001_bot> TPS check... yep, it's 8b8t. ",
+    "[21:09] <ComnicxTraf> !kit pvp ",
+    "[21:09] ZWYD has made the advancement [War Pigs]",
+    "[21:09] <exeeeee44444444> !kit pvp ",
+    "[21:09] MonkeBot thought they could make it to oxygen in time",
+    "[21:09] <Saad2001_bot> Enjoy the 8b8t experience. ",
+    "[21:09] You were kicked from 8b8t: Timed out",
+    "[21:09] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[21:09] [8b8t] >> Welcome SrWindows to 8b8t.me Lobby"
   ],
   "userStats": {
     "76756": 38,
@@ -1898,12 +1898,13 @@
     "ItzMeKaizen7259": 1,
     "penggg12435": 2,
     "mrpancekes": 1,
-    ".VideoHail3890": 2
+    ".VideoHail3890": 2,
+    "exeeeee44444444": 1
   },
   "kitStats": {
     "build": 978,
     "survival": 3816,
-    "pvp": 4648,
+    "pvp": 4649,
     "dupe": 996,
     "tools": 1017,
     "stash": 489,
