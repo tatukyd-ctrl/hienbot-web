@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:12:14 27/12/2025",
-  "totalKits": 77534,
-  "todayKits": 52,
-  "onlineCount": 56,
+  "lastUpdated": "05:12:39 27/12/2025",
+  "totalKits": 77535,
+  "todayKits": 53,
+  "onlineCount": 54,
   "peakPlayers": 58,
-  "tps": "20.0",
-  "ping": 238,
+  "tps": "14.0",
+  "ping": 241,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3895
+      "count": 3896
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:10] [8b8t] >> Teleporting to home 1...",
-    "[05:10] To MaxienOG: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[05:10] <LinhlLqxp1226> Prefix is $ - Try $ping or $coords. [1P71BY] ",
-    "[05:10] To MaxienOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[05:10] [8b8t] >> Request sent to MaxienOG",
-    "[05:10] Anatoly_ak has made the advancement [Diamonds!]",
-    "[05:10] [8b8t] >> Teleporting...",
-    "[05:10] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒖𝒓𝒗𝒊𝒗𝒂𝒍 ",
-    "[05:10] [8b8t] >> The command /seed is not allowed",
-    "[05:10] [8b8t] >> Home 2 was not found",
     "[05:10] [8b8t] >> The command /seed is not allowed",
     "[05:10] [Pro+] <karlota> migaylon GG PILLADO ",
     "[05:11] [8b8t] >> Please do not spam.",
@@ -101,7 +91,17 @@
     "[05:11] <LinhlLqxp1226> Give me some suggestions I BEG! gg/KaavHtfJX4 [0C9Q5C] ",
     "[05:11] UsuXario has reached the goal [Postmortal]",
     "[05:12] [Pro+] <karlota> CLARO WEY ",
-    "[05:12] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
+    "[05:12] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[05:12] <negro_kikirici> +kit trowel ",
+    "[05:12] <MaxienOG> !kit survival ",
+    "[05:12] [8b8t] >> Teleporting to home 0...",
+    "[05:12] [8b8t] >> Teleporting to home 1...",
+    "[05:12] To MaxienOG: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[05:12] To MaxienOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[05:12] [8b8t] >> Request sent to MaxienOG",
+    "[05:12] <LinhlLqxp1226> Chiroyli Bot is here! Use $help to see commands. [ZUBH8Z] ",
+    "[05:12] [8b8t] >> Teleporting...",
+    "[05:12] [8b8t] >> The command /seed is not allowed"
   ],
   "userStats": {
     "76756": 38,
@@ -1926,7 +1926,7 @@
     "joaobanana2013": 3,
     "Noxest": 3,
     "Jhonatan1234567": 1,
-    "MaxienOG": 16,
+    "MaxienOG": 17,
     "GamerFedeTravel": 2,
     "Suzutsuk1": 1,
     "Soylulo_Oficial": 1,
@@ -1945,7 +1945,7 @@
   },
   "kitStats": {
     "build": 990,
-    "survival": 3895,
+    "survival": 3896,
     "pvp": 4781,
     "dupe": 1015,
     "tools": 1033,
