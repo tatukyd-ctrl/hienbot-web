@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:02:47 26/12/2025",
-  "totalKits": 77186,
-  "todayKits": 64,
-  "onlineCount": 17,
+  "lastUpdated": "17:03:06 26/12/2025",
+  "totalKits": 77187,
+  "todayKits": 65,
+  "onlineCount": 16,
   "peakPlayers": 35,
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 235,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4619
+      "count": 4620
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:00] <4ubofuHD> pls loot give ",
-    "[17:00] <freddison> much appreciated ",
-    "[17:00] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[17:00] <4ubofuHD> you have illegalitems ",
-    "[17:00] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
-    "[17:00] <TelevisionBot> I am a bot! Request kits with +kit <name> ",
     "[17:00] godpvpho42 decided to sleep with the fishes",
     "[17:00] <freddison> wait wtf ",
     "[17:00] freddison has completed the challenge [Cover Me in Debris]",
@@ -101,7 +95,13 @@
     "[17:02] [BOT] <0_HienBot> Type !kit Christmas to get the Christmas Kit (today only)! ",
     "[17:02] godpvpho42 was rekt by 4ubofuHD and their mighty [netherite sword]",
     "[17:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[17:02] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> "
+    "[17:02] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[17:02] [Pro] <bigbear> !kit pvp ",
+    "[17:02] [8b8t] >> Teleporting to home 0...",
+    "[17:02] [8b8t] >> Teleporting to home 1...",
+    "[17:02] To BigBear: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:02] [8b8t] >> Request sent to BigBear",
+    "[17:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -112,7 +112,7 @@
     "WebSuperOp": 10,
     "RyloMC": 17,
     "pibble": 2,
-    "bigbear": 29,
+    "bigbear": 30,
     "luccah10": 19,
     ".ThunderDrgn2845": 5,
     "2young2care": 4,
@@ -1888,7 +1888,7 @@
   "kitStats": {
     "build": 969,
     "survival": 3778,
-    "pvp": 4619,
+    "pvp": 4620,
     "dupe": 989,
     "tools": 1010,
     "stash": 483,
