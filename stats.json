@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:44:27 26/12/2025",
+  "lastUpdated": "14:44:47 26/12/2025",
   "totalKits": 77160,
   "todayKits": 38,
-  "onlineCount": 24,
+  "onlineCount": 23,
   "peakPlayers": 35,
   "tps": "19.0",
   "ping": 243,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3769
+      "count": 3770
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:42] <Bazandaih4> !kit toolbox ",
-    "[14:42] [8b8t] >> Teleporting to home 0...",
-    "[14:42] [8b8t] >> Teleporting to home 5...",
-    "[14:42] To Bazandaih4: Your kit (toolbox) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[14:42] To Bazandaih4: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[14:42] [8b8t] >> Request sent to Bazandaih4",
-    "[14:42] [8b8t] >> Teleporting...",
-    "[14:42] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[14:42] [8b8t] >> Home 2 was not found",
     "[14:42] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[14:42] [8b8t] >> The command /seed is not allowed",
     "[14:43] <.LEON50758> no ",
@@ -101,7 +92,16 @@
     "[14:44] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:44] [8b8t] >> Teleporting...",
     "[14:44] <.MC_meester_Lars> !Kit survival ",
-    "[14:44] To .MC_meester_Lars: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[14:44] To .MC_meester_Lars: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[14:44] [8b8t] >> Home 2 was not found",
+    "[14:44] [8b8t] >> The command /seed is not allowed",
+    "[14:44] <.MC_meester_Lars> !Kit survival ",
+    "[14:44] [8b8t] >> Teleporting to home 0...",
+    "[14:44] [8b8t] >> Teleporting to home 1...",
+    "[14:44] To .MC_meester_Lars: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:44] To .MC_meester_Lars: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:44] [8b8t] >> Request sent to .MC_meester_Lars",
+    "[14:44] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit "
   ],
   "userStats": {
     "76756": 38,
@@ -1706,7 +1706,7 @@
     "BeNJa_147": 1,
     "Vince_Masuka": 1,
     "pyro88384": 7,
-    ".MC_meester_Lars": 67,
+    ".MC_meester_Lars": 68,
     "pepe23gftnico": 11,
     "JINdz1": 1,
     "izzleon": 1,
@@ -1882,7 +1882,7 @@
   },
   "kitStats": {
     "build": 967,
-    "survival": 3769,
+    "survival": 3770,
     "pvp": 4612,
     "dupe": 985,
     "tools": 1007,
