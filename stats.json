@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:24:47 26/12/2025",
+  "lastUpdated": "17:25:17 26/12/2025",
   "totalKits": 77198,
   "todayKits": 76,
   "onlineCount": 23,
   "peakPlayers": 35,
-  "tps": "18.0",
-  "ping": 234,
+  "tps": "19.0",
+  "ping": 342,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4625
+      "count": 4626
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:23] <4ubofuHD> pls kit ",
-    "[17:23] <tptptopa7> +kit Christmas ",
-    "[17:23] <tysonsxz> !kit redstone ",
-    "[17:23] [8b8t] >> Teleporting to home 0...",
-    "[17:23] [8b8t] >> Teleporting to home 3...",
-    "[17:23] To tysonsxz: Your kit (redstone) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[17:23] To tysonsxz:  Sorry ! Red Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
-    "[17:23] <tptptopa7> +menu ",
-    "[17:23] <ScreaM8989> 1 moment ",
     "[17:23] <DeoDevil> +kit Dupe ",
     "[17:23] <4ubofuHD> how ",
     "[17:23] <4ubofuHD> +menu ",
@@ -101,7 +92,16 @@
     "[17:24] Chat disabled in client options",
     "[17:24] MCWemmbu2 tried to outswim the water",
     "[17:24] [8b8t] >> Home 2 was not found",
-    "[17:24] [8b8t] >> The command /seed is not allowed"
+    "[17:24] [8b8t] >> The command /seed is not allowed",
+    "[17:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[17:24] [8b8t] >> Please do not spam.",
+    "[17:25] <MCWemmbu2> !kit pvp ",
+    "[17:25] [8b8t] >> Teleporting to home 0...",
+    "[17:25] [8b8t] >> Teleporting to home 1...",
+    "[17:25] To MCWemmbu2: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[17:25] To MCWemmbu2: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:25] [8b8t] >> Request sent to MCWemmbu2",
+    "[17:25] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1884,12 +1884,13 @@
     "B1Z4p0p34": 2,
     "itsreloady": 4,
     "freddison": 1,
-    "capyy": 2
+    "capyy": 2,
+    "MCWemmbu2": 1
   },
   "kitStats": {
     "build": 970,
     "survival": 3779,
-    "pvp": 4625,
+    "pvp": 4626,
     "dupe": 989,
     "tools": 1011,
     "stash": 485,
