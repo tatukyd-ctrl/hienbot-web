@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:11:44 27/12/2025",
+  "lastUpdated": "04:12:14 27/12/2025",
   "totalKits": 77486,
   "todayKits": 4,
-  "onlineCount": 47,
+  "onlineCount": 45,
   "peakPlayers": 52,
-  "tps": "19.0",
-  "ping": 233,
+  "tps": "12.0",
+  "ping": 235,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4761
+      "count": 4762
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:10] [8b8t] >> Teleporting to home 0...",
-    "[04:10] [8b8t] >> Teleporting to home 1...",
-    "[04:10] To danijel2241: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[04:10] To danijel2241: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[04:10] [8b8t] >> Request sent to danijel2241",
-    "[04:10] [8b8t] >> Teleporting...",
-    "[04:10] <fan_de_remix> !kit dupe ",
-    "[04:10] To fan_de_remix: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[04:10] <FritoTwT> !kit PVP ",
     "[04:10] To FritoTwT: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[04:10] [8b8t] >> Home 2 was not found",
@@ -101,7 +93,15 @@
     "[04:11] To FritoTwT: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[04:11] To FritoTwT: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[04:11] [8b8t] >> Request sent to FritoTwT",
-    "[04:11] ElGamerFede thought they could fly... they couldn't"
+    "[04:11] ElGamerFede thought they could fly... they couldn't",
+    "[04:11] [Ultra] <veelta> porque haces las caras al reves ",
+    "[04:11] [Ultra] <veelta> eres retrasado? ",
+    "[04:11] gabrielproxd123 withered away to the 4th dimension",
+    "[04:12] [BOT] <0_HienBot> Hello PistonCubeB0T! ",
+    "[04:12] <gabrielproxd123> !kit pvp ",
+    "[04:12] [8b8t] >> Teleporting to home 0...",
+    "[04:12] [8b8t] >> No TPA request found",
+    "[04:12] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -1932,12 +1932,13 @@
     "Soylulo_Oficial": 1,
     "MarquisMoustache": 1,
     "fan_de_remix": 1,
-    "FritoTwT": 2
+    "FritoTwT": 2,
+    "gabrielproxd123": 1
   },
   "kitStats": {
     "build": 989,
     "survival": 3882,
-    "pvp": 4761,
+    "pvp": 4762,
     "dupe": 1008,
     "tools": 1031,
     "stash": 503,
