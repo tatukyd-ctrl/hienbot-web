@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:38:17 26/12/2025",
+  "lastUpdated": "21:38:26 26/12/2025",
   "totalKits": 77301,
   "todayKits": 13,
   "onlineCount": 39,
   "peakPlayers": 43,
-  "tps": "16.0",
-  "ping": 243,
+  "tps": "15.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4653
+      "count": 4654
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:37] [8b8t] >> Teleporting to home 1...",
-    "[21:37] To Fede91736: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[21:37] To Fede91736: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[21:37] [8b8t] >> Request sent to Fede91736",
-    "[21:37] <ComnicxTraf> !kit survival ",
-    "[21:37] To ComnicxTraf: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[21:37] <peakar> !kit build ",
-    "[21:37] To peakar: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[21:37] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[21:37] <peakar> !kit wood ",
-    "[21:37] To peakar: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[21:37] <UnBot> !kit pvp ",
-    "[21:37] To UnBot: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[21:37] AppleBot has been put down by ComnicxTraf",
     "[21:38] Gangup has been killed by 20172472617",
     "[21:38] <TelevisionBot> Type +ping to see your ping! ",
@@ -101,7 +88,20 @@
     "[21:38] EnderNuggetz has made the advancement [Acquire Hardware]",
     "[21:38] [8b8t] >> Teleporting...",
     "[21:38] <Fede91736> !kit survival ",
-    "[21:38] To Fede91736: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[21:38] To Fede91736: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[21:38] <ComnicxTraf> !kit survival ",
+    "[21:38] To ComnicxTraf: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[21:38] [8b8t] >> The command /seed is not allowed",
+    "[21:38] [8b8t] >> Home 2 was not found",
+    "[21:38] <UnBot> !kit pvp ",
+    "[21:38] [8b8t] >> Teleporting to home 0...",
+    "[21:38] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:38] [8b8t] >> Teleporting to home 1...",
+    "[21:38] To UnBot: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:38] To UnBot: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:38] MonkeBot tried to outswim the water",
+    "[21:38] [8b8t] >> Request sent to UnBot",
+    "[21:38] UnBot has been killed by 20172472617"
   ],
   "userStats": {
     "76756": 38,
@@ -1903,12 +1903,13 @@
     "ComnicxTraf": 2,
     "Exeeeeee44444444": 1,
     "kingfluffy127": 1,
-    "Fede91736": 1
+    "Fede91736": 1,
+    "UnBot": 1
   },
   "kitStats": {
     "build": 979,
     "survival": 3821,
-    "pvp": 4653,
+    "pvp": 4654,
     "dupe": 996,
     "tools": 1018,
     "stash": 489,
