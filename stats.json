@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:16:56 26/12/2025",
+  "lastUpdated": "21:17:26 26/12/2025",
   "totalKits": 77290,
   "todayKits": 2,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 42,
-  "tps": "16.0",
+  "tps": "20.0",
   "ping": 234,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3817
+      "count": 3818
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:15] To ESMZR03I: Hello ESMZR03I!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[21:15] [8b8t] >> The command /seed is not allowed",
-    "[21:15] .EdxxRaven1 decided to sleep with the fishes",
-    "[21:15] <ESMZR03I> !kit templates ",
-    "[21:15] To ESMZR03I: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[21:15] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑𝒊𝒏𝒈 ",
-    "[21:15] <ESMZR03I> !kit armortrims ",
-    "[21:15] [8b8t] >> Teleporting to home 0...",
-    "[21:15] [8b8t] >> Teleporting to home 8...",
     "[21:15] To ESMZR03I: Your kit (armortrims) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
     "[21:15] To ESMZR03I: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[21:15] [8b8t] >> Request sent to ESMZR03I",
@@ -101,7 +92,16 @@
     "[21:16] [8b8t] >> Teleporting...",
     "[21:16] [8b8t] >> The command /seed is not allowed",
     "[21:16] MonkeBot was rekt by Voidz_Killz and their mighty [dildozer]",
-    "[21:16] [8b8t] >> Home 2 was not found"
+    "[21:16] [8b8t] >> Home 2 was not found",
+    "[21:16] [8b8t] >> The command /seed is not allowed",
+    "[21:17] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[21:17] <ComnicxTraf> !kit survival ",
+    "[21:17] [8b8t] >> Teleporting to home 0...",
+    "[21:17] [8b8t] >> Teleporting to home 1...",
+    "[21:17] To ComnicxTraf: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[21:17] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:17] To ComnicxTraf: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[21:17] [8b8t] >> Request sent to ComnicxTraf"
   ],
   "userStats": {
     "76756": 38,
@@ -1899,11 +1899,12 @@
     "penggg12435": 2,
     "mrpancekes": 1,
     ".VideoHail3890": 2,
-    "exeeeee44444444": 2
+    "exeeeee44444444": 2,
+    "ComnicxTraf": 1
   },
   "kitStats": {
     "build": 979,
-    "survival": 3817,
+    "survival": 3818,
     "pvp": 4650,
     "dupe": 996,
     "tools": 1017,
