@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:33:30 26/12/2025",
+  "lastUpdated": "19:33:39 26/12/2025",
   "totalKits": 77233,
   "todayKits": 13,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 38,
-  "tps": "15.0",
+  "tps": "16.0",
   "ping": 268,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4632
+      "count": 4633
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:32] To congru_suhani1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[19:32] [8b8t] >> Request sent to congru_suhani1",
-    "[19:32] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
-    "[19:32] [8b8t] >> Teleporting...",
-    "[19:32] VodkaVoyager was outsmarted by a crafty spider",
-    "[19:32] Luiskek23 has made the advancement [Getting an Upgrade]",
-    "[19:33] fearjeffy Whispers: !kit survival",
-    "[19:33] To fearjeffy: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:33] <JuanmiTmz> !kit survival ",
-    "[19:33] [8b8t] >> Teleporting to home 0...",
-    "[19:33] To JuanmiTmz: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[19:33] [8b8t] >> Teleporting to home 1...",
     "[19:33] [8b8t] >> The command /seed is not allowed",
     "[19:33] <TRZxRK> !kit dupe ",
@@ -101,7 +90,18 @@
     "[19:33] [8b8t] >> Request sent to JuanmiTmz",
     "[19:33] <TRZxRK> !kit pvp ",
     "[19:33] To TRZxRK: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[19:33] [8b8t] >> Teleporting..."
+    "[19:33] [8b8t] >> Teleporting...",
+    "[19:33] [8b8t] >> The command /seed is not allowed",
+    "[19:33] Nekshuu has been put down by Nekshuu",
+    "[19:33] [8b8t] >> Home 2 was not found",
+    "[19:33] <ESMZR03I> can anyone give me riptide ",
+    "[19:33] <ZWYD> !kit pvp ",
+    "[19:33] [8b8t] >> Teleporting to home 0...",
+    "[19:33] [8b8t] >> Teleporting to home 1...",
+    "[19:33] To ZWYD: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[19:33] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[19:33] [8b8t] >> The command /seed is not allowed",
+    "[19:33] To ZWYD: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 38,
@@ -1893,12 +1893,13 @@
     "Bamjams": 1,
     "Franleiras": 1,
     "TRZxRK": 2,
-    "congru_suhani1": 1
+    "congru_suhani1": 1,
+    "ZWYD": 1
   },
   "kitStats": {
     "build": 973,
     "survival": 3803,
-    "pvp": 4632,
+    "pvp": 4633,
     "dupe": 992,
     "tools": 1013,
     "stash": 487,
