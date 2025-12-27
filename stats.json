@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:48:24 27/12/2025",
+  "lastUpdated": "13:48:54 27/12/2025",
   "totalKits": 77759,
   "todayKits": 131,
   "onlineCount": 29,
   "peakPlayers": 55,
-  "tps": "20.0",
+  "tps": "15.0",
   "ping": 239,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3966
+      "count": 3967
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:47]  [8builders8tools]",
-    "[13:47]  Perform the command /email associate to register",
-    "[13:47]  your email. By doing so, you",
-    "[13:47]  decrease the chance of being hacked.",
-    "[13:47] ",
-    "[13:47]   [Confirm read]",
-    "[13:47] ",
-    "[13:47] [8b8t] >> The command /seed is not allowed",
-    "[13:47] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:47] <2young2care> !kit gap ",
     "[13:47] [8b8t] >> Teleporting to home 0...",
     "[13:47] [BOT] <0_HienBot> The server's seed is : None ",
@@ -101,7 +92,16 @@
     "[13:48] <PrnvDevilXD> kit Survival ",
     "[13:48] <.ivanpe2008> !kit mace ",
     "[13:48] To .ivanpe2008: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[13:48] <xxx_osolord_xxx> a dale ya te mande soli "
+    "[13:48] <xxx_osolord_xxx> a dale ya te mande soli ",
+    "[13:48] <PrnvDevilXD> !kit Survival ",
+    "[13:48] [8b8t] >> Teleporting to home 0...",
+    "[13:48] [8b8t] >> Teleporting to home 1...",
+    "[13:48] To PrnvDevilXD: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[13:48] To PrnvDevilXD: Sorry! Blue Shulker Box is out of stock. Giving you Cyan Shulker Box instead!",
+    "[13:48] [8b8t] >> Request sent to PrnvDevilXD",
+    "[13:48] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
+    "[13:48] <tutukas> dale mañana acepto pq no tengo tiempo en el celular ",
+    "[13:48] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -1978,11 +1978,11 @@
     "dualityisdiddy": 2,
     "LowkGD67": 1,
     "7jac": 2,
-    "PrnvDevilXD": 1
+    "PrnvDevilXD": 2
   },
   "kitStats": {
     "build": 995,
-    "survival": 3966,
+    "survival": 3967,
     "pvp": 4887,
     "dupe": 1026,
     "tools": 1065,
