@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:41:24 27/12/2025",
-  "totalKits": 77769,
-  "todayKits": 141,
-  "onlineCount": 23,
+  "lastUpdated": "14:41:50 27/12/2025",
+  "totalKits": 77770,
+  "todayKits": 142,
+  "onlineCount": 24,
   "peakPlayers": 55,
-  "tps": "16.0",
-  "ping": 235,
+  "tps": "19.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4893
+      "count": 4894
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:36] [8b8t] >> Teleporting to home 0...",
-    "[14:36] [8b8t] >> Teleporting to home 1...",
-    "[14:36] To kits_pls: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[14:36] To kits_pls: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[14:36] [8b8t] >> Request sent to kits_pls",
-    "[14:36] [8b8t] >> Teleporting...",
-    "[14:36] 0_HienBot was pwned by kits_pls wielding [ＩｎｖａｌｉｄＢＯＭＢ Ｄｉｓｃｏｒｄ．ｇｇ／ＰＢｓｒ４Ｊｒ]",
-    "[14:36] [8b8t] >> The command /seed is not allowed",
     "[14:36] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
     "[14:37] [8b8t] >> Please do not spam.",
     "[14:37] [BOT] <0_HienBot> Do !discord ",
@@ -101,7 +93,15 @@
     "[14:40] [BOT] <0_HienBot> The server's seed is : None ",
     "[14:40] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[14:41] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
-    "[14:41] <neverbroke55> can i tp anyone who is trust worthy "
+    "[14:41] <neverbroke55> can i tp anyone who is trust worthy ",
+    "[14:41] <neverbroke55> !kit pvp ",
+    "[14:41] [8b8t] >> Teleporting to home 0...",
+    "[14:41] [8b8t] >> Teleporting to home 1...",
+    "[14:41] To neverbroke55: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[14:41] To neverbroke55: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[14:41] [8b8t] >> Request sent to neverbroke55",
+    "[14:41] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
+    "[14:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1980,12 +1980,13 @@
     "7jac": 2,
     "PrnvDevilXD": 3,
     ".ivanpe2008": 4,
-    "kits_pls": 1
+    "kits_pls": 1,
+    "neverbroke55": 1
   },
   "kitStats": {
     "build": 996,
     "survival": 3972,
-    "pvp": 4893,
+    "pvp": 4894,
     "dupe": 1026,
     "tools": 1066,
     "stash": 510,
