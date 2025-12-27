@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:05:42 28/12/2025",
-  "totalKits": 78205,
-  "todayKits": 124,
-  "onlineCount": 44,
+  "lastUpdated": "02:06:00 28/12/2025",
+  "totalKits": 78206,
+  "todayKits": 125,
+  "onlineCount": 45,
   "peakPlayers": 59,
-  "tps": "18.0",
+  "tps": "19.0",
   "ping": 240,
   "topUsers": [
     {
@@ -68,20 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1031
+      "count": 1032
     }
   ],
   "chatLog": [
-    "[02:04] [8b8t] >> Teleporting to home 0...",
-    "[02:04] [8b8t] >> Teleporting to home 1...",
-    "[02:04] To oreo_: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[02:04] To oreo_: Sorry! Blue Shulker Box is out of stock. Giving you Cyan Shulker Box instead!",
-    "[02:04] [8b8t] >> Request sent to oreo_",
-    "[02:04] [8b8t] >> Teleporting...",
-    "[02:04] 6foot3monkey got slammed into a wall by his elytra",
-    "[02:04] <TelevisionBot> Need help? Type +help ",
-    "[02:04] <.LEON50758> *kit survival ",
-    "[02:04] To .LEON50758: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[02:04] <gonzapro456> como hago para dupear? ",
     "[02:04] [8b8t] >> Home 2 was not found",
     "[02:05] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +91,17 @@
     "[02:05] To gonzapro456:  Sorry ! Blue Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
     "[02:05] <.LEON50758> #kit ",
     "[02:05] [BOT] <0_HienBot> Hi 02David01! ",
-    "[02:05] <02David01> hi "
+    "[02:05] <02David01> hi ",
+    "[02:05] <ESMZR03I> !kit build ",
+    "[02:05] [8b8t] >> Teleporting to home 0...",
+    "[02:05] [8b8t] >> Teleporting to home 3...",
+    "[02:05] To ESMZR03I: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:05] <.LEON50758> _kit ",
+    "[02:05] To ESMZR03I: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[02:05] [8b8t] >> Request sent to ESMZR03I",
+    "[02:05] <ESMZR03I> !tpayes ",
+    "[02:05] [8b8t] >> Teleporting...",
+    "[02:05] <TelevisionBot> Use +menu to see available kits! "
   ],
   "userStats": {
     "76756": 38,
@@ -1825,7 +1825,7 @@
     "shadowlord6": 4,
     "prosto_soso": 8,
     "michelgamer199": 23,
-    "ESMZR03I": 34,
+    "ESMZR03I": 35,
     "mrultimer": 1,
     "SKIN_34480": 3,
     "Risky_Jaat": 14,
@@ -2038,7 +2038,7 @@
     "Mr_Kilgore": 2
   },
   "kitStats": {
-    "build": 1031,
+    "build": 1032,
     "survival": 4090,
     "pvp": 5042,
     "dupe": 1062,
