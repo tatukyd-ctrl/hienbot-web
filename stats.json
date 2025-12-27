@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:24:25 27/12/2025",
+  "lastUpdated": "23:24:31 27/12/2025",
   "totalKits": 78048,
   "todayKits": 1,
   "onlineCount": 41,
   "peakPlayers": 44,
-  "tps": "15.0",
+  "tps": "14.0",
   "ping": 251,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4050
+      "count": 4051
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:23] <nuklear1> !kit survival ",
-    "[23:23] To nuklear1: You're on cooldown, try again in 60 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[23:23] [8b8t] >> The command /seed is not allowed",
-    "[23:23] [Ultra] <MrBeax31> por fin se fue el puto hienbot ",
-    "[23:23] <DomiGammer> !kit enchant ",
-    "[23:23] To DomiGammer: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[23:23] <DomiGammer> !kit enchant ",
     "[23:23] To DomiGammer: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[23:23] [Ultra] <MrBeax31> no dije nada me cago en la puta ",
@@ -101,7 +95,13 @@
     "[23:24] To nuklear1: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[23:24] [8b8t] >> Request sent to eggchtherealone",
     "[23:24] [8b8t] >> Teleporting...",
-    "[23:24] <nuklear1> !kit survival "
+    "[23:24] <nuklear1> !kit survival ",
+    "[23:24] To nuklear1: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[23:24] <nuklear1> !kit survival ",
+    "[23:24] [8b8t] >> Home 2 was not found",
+    "[23:24] [8b8t] >> Teleporting to home 0...",
+    "[23:24] [8b8t] >> Teleporting to home 1...",
+    "[23:24] To nuklear1: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -2001,7 +2001,7 @@
     "qowti": 6,
     "SEXY_SAIIKO": 3,
     "HDAayoub": 6,
-    "nuklear1": 19,
+    "nuklear1": 20,
     "miguel1223": 1,
     "Canamed21": 7,
     "Hanyss_": 20,
@@ -2027,7 +2027,7 @@
   },
   "kitStats": {
     "build": 1014,
-    "survival": 4050,
+    "survival": 4051,
     "pvp": 5002,
     "dupe": 1049,
     "tools": 1077,
