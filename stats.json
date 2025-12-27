@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:13:11 28/12/2025",
+  "lastUpdated": "04:13:33 28/12/2025",
   "totalKits": 78243,
   "todayKits": 23,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 45,
   "tps": "19.0",
-  "ping": 241,
+  "ping": 243,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,11 +52,11 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5080
+      "count": 5081
     },
     {
       "name": "survival",
-      "count": 4119
+      "count": 4120
     },
     {
       "name": "tools",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:11] [BOT] <0_HienBot> Use !𝙠𝙞𝙩 to get kit ",
-    "[04:11] <elproplayerxddd> t mate ",
-    "[04:11] <polpaccio> |stop ",
-    "[04:11] Saad2001_bot challenged the Wither and lost their head",
-    "[04:11] <polpaccio> |stop ",
-    "[04:11] <Juanytoyt208> no ",
-    "[04:11] <elproplayerxddd> bruhhh ",
-    "[04:11] <Juanytoyt208> ando en el end ",
-    "[04:11] <polpaccio> |start ",
-    "[04:11] <polpaccio> |stop ",
-    "[04:11] Faxmachine1 took a Piglin to the overworld and was murdered by their new, not so friendly pet",
-    "[04:11] <polpaccio> |ai ",
-    "[04:11] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[04:11] <TelevisionBot> Need help? Type +help ",
     "[04:12] <polpaccio> |ai hello ",
     "[04:12] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[04:12] [BOT] <0_HienBot> Welcome to 8b8t, benjaminagui! ",
@@ -101,7 +87,21 @@
     "[04:12] <TelevisionBot> Please accept TPA requests quickly! ",
     "[04:12] To nuklear1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[04:12] [8b8t] >> Request sent to nuklear1",
-    "[04:13] [8b8t] >> Teleporting..."
+    "[04:13] [8b8t] >> Teleporting...",
+    "[04:13] [8b8t] >> The command /seed is not allowed",
+    "[04:13] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 ",
+    "[04:13] [8b8t] >> Home 2 was not found",
+    "[04:13] [8b8t] >> The command /seed is not allowed",
+    "[04:13] <dmtaddict> !kit pvp ",
+    "[04:13] [8b8t] >> Teleporting to home 0...",
+    "[04:13] [8b8t] >> Teleporting to home 1...",
+    "[04:13] To dmtaddict: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[04:13] To dmtaddict:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join dsc.gg／HienBot for updates.",
+    "[04:13] <dmtaddict> +kit pvp ",
+    "[04:13] <tilinoxd201105> !kit survival ",
+    "[04:13] [8b8t] >> Teleporting to home 0...",
+    "[04:13] [8b8t] >> Teleporting to home 1...",
+    "[04:13] To tilinoxd201105: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -650,7 +650,7 @@
     "Hamsti_Gamer2013": 31,
     "elmanubrioGG": 5,
     "cambul": 1,
-    "tilinoxd201105": 21,
+    "tilinoxd201105": 22,
     "koperm": 1,
     "JesusGamer0255": 42,
     "Albiza": 5,
@@ -1699,7 +1699,7 @@
     "ezz_dms": 4,
     "Iriamu_py": 1,
     "Misyls": 1,
-    "dmtaddict": 10,
+    "dmtaddict": 11,
     "elmine1079": 9,
     "gooselfg": 2,
     "aujm": 1,
@@ -2049,8 +2049,8 @@
   },
   "kitStats": {
     "build": 1037,
-    "survival": 4119,
-    "pvp": 5080,
+    "survival": 4120,
+    "pvp": 5081,
     "dupe": 1069,
     "tools": 1101,
     "stash": 548,
