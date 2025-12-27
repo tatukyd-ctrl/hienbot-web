@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:44:24 27/12/2025",
+  "lastUpdated": "13:44:54 27/12/2025",
   "totalKits": 77757,
   "todayKits": 129,
   "onlineCount": 33,
   "peakPlayers": 55,
-  "tps": "12.0",
-  "ping": 258,
+  "tps": "15.0",
+  "ping": 239,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4886
+      "count": 4887
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:43] <physcorange> !kit tools ",
-    "[13:43] [8b8t] >> Teleporting to home 0...",
-    "[13:43] <7jac> !kit tools ",
-    "[13:43] To 7jac: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
-    "[13:43] [8b8t] >> Teleporting to home 8...",
-    "[13:43] To physcorange: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[13:43] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕𝒑𝒔 ",
-    "[13:43] To physcorange: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[13:43] [8b8t] >> Request sent to physcorange",
-    "[13:44] <2young2care> !kit pvp ",
     "[13:44] To 2young2care: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[13:44] [8b8t] >> Teleporting...",
     "[13:44] <PrnvDevilXD> !kit ",
@@ -101,7 +91,17 @@
     "[13:44] <pablito011> !kit pvp ",
     "[13:44] To pablito011: You're on cooldown, try again in 26 seconds! Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[13:44] [8b8t] >> The command /seed is not allowed",
-    "[13:44] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[13:44] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[13:44] [BOT] <0_HienBot> The server's seed is : None ",
+    "[13:44] physcorange pulverized 0_HienBot using [their hand]",
+    "[13:44] <PrnvDevilXD> !kit type ",
+    "[13:44] To PrnvDevilXD: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[13:44] [8b8t] >> The command /seed is not allowed",
+    "[13:44] physcorange has completed the challenge [Serious Dedication]",
+    "[13:44] <pablito011> !kit pvp ",
+    "[13:44] [8b8t] >> Teleporting to home 0...",
+    "[13:44] [8b8t] >> Teleporting to home 1...",
+    "[13:44] To pablito011: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -1972,7 +1972,7 @@
     "Ander2613": 6,
     "_aksn": 3,
     "tutukas": 4,
-    "pablito011": 11,
+    "pablito011": 12,
     ".Skittlesjace": 1,
     "ZeusDR": 1,
     "dualityisdiddy": 2,
@@ -1983,7 +1983,7 @@
   "kitStats": {
     "build": 995,
     "survival": 3966,
-    "pvp": 4886,
+    "pvp": 4887,
     "dupe": 1026,
     "tools": 1065,
     "stash": 510,
