@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:05:32 28/12/2025",
+  "lastUpdated": "00:05:42 28/12/2025",
   "totalKits": 78083,
   "todayKits": 2,
   "onlineCount": 45,
   "peakPlayers": 47,
-  "tps": "18.0",
+  "tps": "16.0",
   "ping": 243,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5006
+      "count": 5007
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:03] <Abdul_Rafay_989> gimme my kit ",
-    "[00:03] <mantecay9> adios bro cuidate ",
-    "[00:03] [BOT] <0_HienBot> Try /nc to change your name color! ",
-    "[00:03] <KeKiRo_10> no estoy en 15K ",
     "[00:03] Nachiketa has made the advancement [Withering Heights]",
     "[00:03] [Ultra] <6foot3monkey> jatekosvagyok didnt u have like 67 hoes or sum like that ",
     "[00:03] <neizanprou14> alguien con kit? ",
@@ -101,7 +97,11 @@
     "[00:05] [8b8t] >> Teleporting...",
     "[00:05] <fearjeffy> !kit pvp ",
     "[00:05] <neizanprou14> !kit dupe ",
-    "[00:05] To fearjeffy: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ"
+    "[00:05] To fearjeffy: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[00:05] [8b8t] >> Home 2 was not found",
+    "[00:05] [8b8t] >> The command /seed is not allowed",
+    "[00:05] <neizanprou14> !kit pvp ",
+    "[00:05] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2025,12 +2025,13 @@
     "Adriiiz110": 2,
     "cumdumpster": 1,
     "mustiww": 5,
-    "PORTON34": 1
+    "PORTON34": 1,
+    "neizanprou14": 1
   },
   "kitStats": {
     "build": 1016,
     "survival": 4066,
-    "pvp": 5006,
+    "pvp": 5007,
     "dupe": 1051,
     "tools": 1084,
     "stash": 539,
