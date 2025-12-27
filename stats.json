@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:38:19 27/12/2025",
+  "lastUpdated": "19:38:25 27/12/2025",
   "totalKits": 77869,
   "todayKits": 32,
   "onlineCount": 28,
   "peakPlayers": 31,
-  "tps": "19.0",
+  "tps": "18.0",
   "ping": 239,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 3997
+      "count": 3998
     },
     {
       "name": "tools",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:37] [8b8t] >> Teleporting to home 0...",
-    "[19:37] [8b8t] >> Teleporting to home 3...",
-    "[19:37] To HDAayoub: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
-    "[19:37] <alfredsis> !kit pvp ",
-    "[19:37] To alfredsis: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
     "[19:37] <botchaosonix666> lol ",
     "[19:37] To HDAayoub: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:37] [8b8t] >> The command /seed is not allowed",
@@ -101,7 +96,12 @@
     "[19:38] <nuklear1> !kit ",
     "[19:38] To nuklear1: Hello nuklear1!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[19:38] [8b8t] >> Teleporting...",
-    "[19:38] <2young2care> 1v1 tpa "
+    "[19:38] <2young2care> 1v1 tpa ",
+    "[19:38] [8b8t] >> Home 2 was not found",
+    "[19:38] <nuklear1> !kit survivaL ",
+    "[19:38] [8b8t] >> Teleporting to home 0...",
+    "[19:38] [8b8t] >> Teleporting to home 1...",
+    "[19:38] To nuklear1: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot"
   ],
   "userStats": {
     "76756": 38,
@@ -2000,11 +2000,12 @@
     "promo123": 1,
     "qowti": 2,
     "SEXY_SAIIKO": 3,
-    "HDAayoub": 6
+    "HDAayoub": 6,
+    "nuklear1": 1
   },
   "kitStats": {
     "build": 1002,
-    "survival": 3997,
+    "survival": 3998,
     "pvp": 4943,
     "dupe": 1035,
     "tools": 1068,
