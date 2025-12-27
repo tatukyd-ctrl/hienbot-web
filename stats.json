@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:39:15 28/12/2025",
+  "lastUpdated": "05:39:25 28/12/2025",
   "totalKits": 78280,
   "todayKits": 6,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 42,
-  "tps": "19.0",
+  "tps": "16.0",
   "ping": 242,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1043
+      "count": 1044
     }
   ],
   "chatLog": [
-    "[05:37] <aNasaDude> !kit ",
-    "[05:37] To aNasaDude: Hello aNasaDude!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:38] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[05:38] zdwag24 got his head blown off by the Wither",
-    "[05:38] <flowery_FaZe> bruh ",
-    "[05:38] <aNasaDude> !kit ",
-    "[05:38] To aNasaDude: Hello aNasaDude!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:38] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[05:38] [Ultra] <GoldTade> !kit survival ",
     "[05:38] [8b8t] >> Teleporting to home 0...",
     "[05:38] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +93,15 @@
     "[05:39] [8b8t] >> Request sent to aNasaDude",
     "[05:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[05:39] [8b8t] >> Teleporting...",
-    "[05:39] Chat disabled in client options"
+    "[05:39] Chat disabled in client options",
+    "[05:39] <daniloboris> !kit build ",
+    "[05:39] To daniloboris: Please wait for me a moment .Dont forget to join HienBot Group 𝘥𝘴𝘤.𝘨𝘨／ʜɪᴇɴʙᴏᴛ",
+    "[05:39] [8b8t] >> Home 2 was not found",
+    "[05:39] <benja5342> como hacia la cadena ",
+    "[05:39] sorrent0 forgot to bring their parachute",
+    "[05:39] [8b8t] >> The command /seed is not allowed",
+    "[05:39] <chimuw> !kit build ",
+    "[05:39] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2053,10 +2053,11 @@
     "aalpe": 3,
     "Manuelly_": 1,
     "_mexxz_": 1,
-    "Daniel287": 2
+    "Daniel287": 2,
+    "chimuw": 1
   },
   "kitStats": {
-    "build": 1043,
+    "build": 1044,
     "survival": 4133,
     "pvp": 5104,
     "dupe": 1076,
