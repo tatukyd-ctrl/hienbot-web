@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:04:42 28/12/2025",
-  "totalKits": 78204,
-  "todayKits": 123,
+  "lastUpdated": "02:04:55 28/12/2025",
+  "totalKits": 78205,
+  "todayKits": 124,
   "onlineCount": 45,
   "peakPlayers": 59,
-  "tps": "19.0",
+  "tps": "18.0",
   "ping": 241,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4087
+      "count": 4088
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:03] To .LEON50758: Invalid kit type. Use: !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[02:03] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[02:03] Chupik109 got a deadly lesson from the Wither",
-    "[02:03] <mantecay9> alguien sabe alguna base ? ",
-    "[02:03] 6foot3monkey flew into a wall and died...?",
-    "[02:03] <ESMZR03I> !kit ",
-    "[02:03] To ESMZR03I: Hello ESMZR03I!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[02:03] <TelevisionBot> Type +ping to see your ping! ",
     "[02:04] ebygo decided to test gravity and lost",
     "[02:04] <oreo_> !kit ",
     "[02:04] To oreo_: Hello oreo_!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, Quartz, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[02:04] dirtman_coolguy challenged the Wither and lost their head",
     "[02:04] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[02:04] MrZex was outsmarted by a crafty spider",
-    "[02:04] Chupik109 has made the advancement [Stone Age]"
+    "[02:04] Chupik109 has made the advancement [Stone Age]",
+    "[02:04] <oreo_> !kit survival ",
+    "[02:04] [8b8t] >> Teleporting to home 0...",
+    "[02:04] [8b8t] >> Teleporting to home 1...",
+    "[02:04] To oreo_: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg／HienBot",
+    "[02:04] To oreo_: Sorry! Blue Shulker Box is out of stock. Giving you Cyan Shulker Box instead!",
+    "[02:04] [8b8t] >> Request sent to oreo_",
+    "[02:04] [8b8t] >> Teleporting...",
+    "[02:04] 6foot3monkey got slammed into a wall by his elytra"
   ],
   "userStats": {
     "76756": 38,
@@ -710,7 +710,7 @@
     "ggdggar": 2,
     "xD_FAIZAN": 4,
     "Bossnigel": 1,
-    "oreo_": 62,
+    "oreo_": 63,
     "BakiVN_Mc": 5,
     "Nion34": 2,
     "hzkar": 2,
@@ -2039,7 +2039,7 @@
   },
   "kitStats": {
     "build": 1031,
-    "survival": 4087,
+    "survival": 4088,
     "pvp": 5042,
     "dupe": 1062,
     "tools": 1095,
