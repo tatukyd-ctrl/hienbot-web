@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:32:11 28/12/2025",
+  "lastUpdated": "17:32:41 28/12/2025",
   "totalKits": 78562,
   "todayKits": 0,
-  "onlineCount": 19,
-  "peakPlayers": 19,
-  "tps": "11.0",
+  "onlineCount": 20,
+  "peakPlayers": 20,
+  "tps": "20.0",
   "ping": 245,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5212
+      "count": 5213
     },
     {
       "name": "survival",
@@ -83,7 +83,14 @@
     "[17:31] ",
     "[17:31]   [Confirm read]",
     "[17:31] ",
-    "[17:32] [8b8t] >> The command /seed is not allowed"
+    "[17:32] [8b8t] >> The command /seed is not allowed",
+    "[17:32] <UNHORIZON1> !kit pvp ",
+    "[17:32] [8b8t] >> Teleporting to home 0...",
+    "[17:32] [8b8t] >> Teleporting to home 1...",
+    "[17:32] To UNHORIZON1: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/6fsyHDCdSk",
+    "[17:32] To UNHORIZON1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:32] [8b8t] >> Request sent to UNHORIZON1",
+    "[17:32] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒔𝒕𝒂𝒔𝒉 "
   ],
   "userStats": {
     "76756": 38,
@@ -1006,7 +1013,7 @@
     "Ken Carson": 5,
     "Yusuft": 3,
     "LIZUUUUUUU": 8,
-    "UNHORIZON1": 6,
+    "UNHORIZON1": 7,
     "flamefragsrage": 4,
     ".Sidduro": 10,
     "Emerald_Boah": 2,
@@ -2079,7 +2086,7 @@
   "kitStats": {
     "build": 1055,
     "survival": 4247,
-    "pvp": 5212,
+    "pvp": 5213,
     "dupe": 1085,
     "tools": 1121,
     "stash": 562,
