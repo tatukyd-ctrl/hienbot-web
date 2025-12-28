@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:56:25 28/12/2025",
+  "lastUpdated": "21:56:55 28/12/2025",
   "totalKits": 78771,
   "todayKits": 8,
-  "onlineCount": 38,
+  "onlineCount": 0,
   "peakPlayers": 43,
-  "tps": "10.0",
+  "tps": "8.0",
   "ping": 0,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4271
+      "count": 4272
     },
     {
       "name": "tools",
@@ -72,12 +72,8 @@
     }
   ],
   "chatLog": [
-    "[21:55] You are already connected to this server!",
-    "[21:55] [8b8t] >> The command /seed is not allowed",
-    "[21:55] [8b8t] >> The command /seed is not allowed",
-    "[21:55] You were kicked from 8b8t: Flying is not enabled on this server",
-    "[21:55] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[21:55] [8b8t] Unknown command do /help",
+    "[21:56] [8b8t] Unknown command do /help",
+    "[21:56] You are already trying to connect to a server!",
     "[21:56] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[21:56] You are already connected to this server!",
     "[21:56] [8b8t] >> The command /seed is not allowed",
@@ -89,16 +85,20 @@
     "[21:56] You are already connected to this server!",
     "[21:56] [8b8t] >> The command /seed is not allowed",
     "[21:56] [8b8t] >> The command /seed is not allowed",
-    "[21:56] <UnBot> Want some Coke? type +kit mystic ",
+    "[21:56] <UnBot> Some even call me 'The back-alley dealer' due to the strange kits I provide ",
     "[21:56] You were kicked from 8b8t: Flying is not enabled on this server",
     "[21:56] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[21:56] [8b8t] Unknown command do /help",
     "[21:56] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[21:56] <eggchtherealone> !kit Survival ",
     "[21:56] You are already connected to this server!",
+    "[21:56] To eggchtherealone: Your kit (Survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/6fsyHDCdSk",
     "[21:56] [8b8t] >> The command /seed is not allowed",
     "[21:56] [8b8t] >> The command /seed is not allowed",
     "[21:56] You were kicked from 8b8t: Flying is not enabled on this server",
     "[21:56] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[21:56] [8b8t] Unknown command do /help",
+    "[21:56] [8b8t] Unknown command do /help",
     "[21:56] [8b8t] Unknown command do /help",
     "[21:56] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[21:56] You are already connected to this server!"
@@ -2007,7 +2007,7 @@
     "Canamed21": 7,
     "Hanyss_": 20,
     "Zirn0": 5,
-    "eggchtherealone": 20,
+    "eggchtherealone": 21,
     "mehrab12345": 1,
     "X3nonix": 5,
     "abebe_MC": 1,
@@ -2107,7 +2107,7 @@
   },
   "kitStats": {
     "build": 1061,
-    "survival": 4271,
+    "survival": 4272,
     "pvp": 5280,
     "dupe": 1096,
     "tools": 1138,
