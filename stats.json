@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:40:57 28/12/2025",
+  "lastUpdated": "19:41:09 28/12/2025",
   "totalKits": 78663,
   "todayKits": 8,
-  "onlineCount": 43,
+  "onlineCount": 41,
   "peakPlayers": 44,
-  "tps": "18.0",
-  "ping": 289,
+  "tps": "16.0",
+  "ping": 238,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:40] <nuklear1> !kit redstone ",
-    "[19:40] To nuklear1: Your kit (redstone) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/6fsyHDCdSk",
-    "[19:40] [8b8t] >> Teleporting to home 0...",
-    "[19:40] [8b8t] >> Teleporting to home 3...",
-    "[19:40] [8b8t] >> The command /seed is not allowed",
-    "[19:40] <UnBot> hi ",
-    "[19:40] To nuklear1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[19:40] [8b8t] >> Request sent to nuklear1",
     "[19:40] [8b8t] >> Teleporting...",
     "[19:40] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
@@ -101,7 +94,14 @@
     "[19:40] <elproplayerxddd> im boring ",
     "[19:40] [BOT] <0_HienBot> Try /nc to change your name color! ",
     "[19:40] <botchaosonix666> ahhh ",
-    "[19:40] [8b8t] >> Teleporting..."
+    "[19:40] [8b8t] >> Teleporting...",
+    "[19:40] <elproplayerxddd> you only run ",
+    "[19:41] [8b8t] >> Home 2 was not found",
+    "[19:41] <WinterWater> !kit builder ",
+    "[19:41] [8b8t] >> The command /seed is not allowed",
+    "[19:41] [8b8t] >> Teleporting to home 0...",
+    "[19:41] [8b8t] >> Teleporting to home 5...",
+    "[19:41] To WinterWater: Kit \"builder\" not found! Giving you a random kit (toolbox) instead!"
   ],
   "userStats": {
     "76756": 38,
@@ -2100,7 +2100,7 @@
     ".DorsalLand9978": 2,
     "ItzMeDexsi66": 1,
     "Dg_Doom": 3,
-    "WinterWater": 9
+    "WinterWater": 10
   },
   "kitStats": {
     "build": 1057,
@@ -2117,7 +2117,7 @@
     "mineral": 366,
     "food": 273,
     "redstone": 455,
-    "toolbox": 422,
+    "toolbox": 423,
     "quartz": 165,
     "shulker": 320,
     "terracotta": 38,
