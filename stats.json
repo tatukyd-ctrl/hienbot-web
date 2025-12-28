@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:19:39 29/12/2025",
+  "lastUpdated": "02:19:59 29/12/2025",
   "totalKits": 78805,
   "todayKits": 12,
   "onlineCount": 46,
   "peakPlayers": 63,
-  "tps": "18.0",
+  "tps": "15.0",
   "ping": 235,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5370
+      "count": 5371
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:18] <xGIL4> !kit pvp ",
-    "[02:18] [8b8t] >> Teleporting to home 0...",
-    "[02:18] [8b8t] >> Teleporting to home 1...",
-    "[02:18] To xGIL4: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/2vezgc2VGb",
-    "[02:18] [BOT] <0_HienBot> 𝑻𝒓𝒚 !𝒌𝒊𝒕 𝒑𝒗𝒑 ",
-    "[02:18] <dani8976> !kit Raid ",
-    "[02:18] [8b8t] >> Teleporting to home 0...",
-    "[02:18] [8b8t] >> Teleporting to home 3...",
-    "[02:18] To dani8976: Your kit (Raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/2vezgc2VGb",
-    "[02:18] cripihumo got his head blown off by the Wither",
-    "[02:18] 0_HienBot forgot to stop, drop, and roll",
-    "[02:18] <GuilleB737> voy a buscar lana ",
     "[02:19] <UNHORIZON> +kit null ",
     "[02:19] <cripihumo> qn me regala algo estoy comenzando ",
     "[02:19] To UNHORIZON: Please wait for me a moment .Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/2vezgc2VGb",
@@ -101,7 +89,19 @@
     "[02:19] To ModdevMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[02:19] [8b8t] >> Request sent to ModdevMC",
     "[02:19] [8b8t] >> Teleporting...",
-    "[02:19] cripihumo decided to test gravity and lost"
+    "[02:19] cripihumo decided to test gravity and lost",
+    "[02:19] NKZINN1 has made the advancement [Not Quite \"Nine\" Lives]",
+    "[02:19] <xGIL4> quien me da un kit para salir del spawn ",
+    "[02:19] <UnBot> Some even call me 'The back-alley dealer' due to the strange kits I provide ",
+    "[02:19] [8b8t] >> Home 2 was not found",
+    "[02:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[02:19] NKZINN1 found out about explosives the hard way",
+    "[02:19] xGIL4 tried to outswim the water",
+    "[02:19] <NKZINN1> !kit pvp ",
+    "[02:19] [8b8t] >> Teleporting to home 0...",
+    "[02:19] Chat disabled in client options",
+    "[02:19] To NKZINN1: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/2vezgc2VGb",
+    "[02:19] <jesuspalacios65> me cacan algien del spawn "
   ],
   "userStats": {
     "76756": 38,
@@ -2031,7 +2031,7 @@
     "Alexiitax": 1,
     "caco93": 8,
     "MinguysJava": 7,
-    "NKZINN1": 29,
+    "NKZINN1": 30,
     "NKZINN6725": 4,
     "noxez4242": 5,
     "KingOfCats801": 4,
@@ -2128,7 +2128,7 @@
   "kitStats": {
     "build": 1110,
     "survival": 4312,
-    "pvp": 5370,
+    "pvp": 5371,
     "dupe": 1116,
     "tools": 1165,
     "stash": 582,
