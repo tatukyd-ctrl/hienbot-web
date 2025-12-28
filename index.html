@@ -279,6 +279,122 @@
         .lb-name { font-weight: 500; font-size: 14px; }
         .lb-val { font-weight: 800; color: var(--neon-blue); }
 
+        /* FULL LEADERBOARD SECTION */
+        .full-lb-section {
+            margin-top: 40px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+        }
+
+        @media (max-width: 1200px) {
+            .full-lb-section { grid-template-columns: 1fr; }
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 12px 20px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            color: var(--text-main);
+            font-family: 'Outfit', sans-serif;
+            font-size: 14px;
+            margin-bottom: 15px;
+            transition: 0.3s;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: var(--neon-blue);
+            box-shadow: 0 0 20px rgba(0, 243, 255, 0.2);
+        }
+
+        .search-box::placeholder { color: var(--text-muted); }
+
+        .lb-table {
+            max-height: 500px;
+            overflow-y: auto;
+            padding-right: 5px;
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid var(--glass-border);
+        }
+
+        .page-btn {
+            padding: 8px 16px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid var(--glass-border);
+            border-radius: 8px;
+            color: var(--text-main);
+            cursor: pointer;
+            transition: 0.3s;
+            font-size: 14px;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        .page-btn:hover:not(:disabled) {
+            background: rgba(0, 243, 255, 0.1);
+            border-color: var(--neon-blue);
+            transform: translateY(-2px);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .page-btn.active {
+            background: var(--gradient-primary);
+            border-color: transparent;
+            font-weight: 600;
+        }
+
+        .page-info {
+            color: var(--text-muted);
+            font-size: 14px;
+            padding: 0 10px;
+        }
+
+        .medal { font-size: 16px; margin-right: 5px; }
+        
+        .view-toggle {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+
+        .toggle-btn {
+            flex: 1;
+            padding: 10px;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 10px;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: 0.3s;
+            text-align: center;
+            font-size: 13px;
+            font-weight: 600;
+        }
+
+        .toggle-btn.active {
+            background: var(--gradient-primary);
+            color: white;
+            border-color: transparent;
+        }
+
+        .toggle-btn:hover:not(.active) {
+            background: rgba(255,255,255,0.08);
+        }
+
         /* SCROLLBAR */
         ::-webkit-scrollbar { width: 6px; }
         ::-webkit-scrollbar-track { background: transparent; }
@@ -377,16 +493,85 @@
             </div>
 
         </div>
+
+        <!-- FULL LEADERBOARDS SECTION -->
+        <div class="full-lb-section">
+            <!-- ALL PLAYERS -->
+            <div class="glass-panel">
+                <div class="panel-header">
+                    <i class="fas fa-trophy" style="color: #FFD700;"></i>
+                    <h2>All Players Leaderboard</h2>
+                </div>
+                
+                <div class="view-toggle">
+                    <div class="toggle-btn active" onclick="togglePlayerView('all')">
+                        <i class="fas fa-list"></i> All Time
+                    </div>
+                    <div class="toggle-btn" onclick="togglePlayerView('today')">
+                        <i class="fas fa-calendar-day"></i> Today
+                    </div>
+                </div>
+
+                <input type="text" class="search-box" id="player-search" placeholder="🔍 Search player..." onkeyup="searchPlayers()">
+                
+                <div class="lb-table" id="all-players-list">
+                    <div class="loading-text">Loading players...</div>
+                </div>
+
+                <div class="pagination" id="players-pagination"></div>
+            </div>
+
+            <!-- ALL KITS -->
+            <div class="glass-panel">
+                <div class="panel-header">
+                    <i class="fas fa-boxes" style="color: var(--neon-purple);"></i>
+                    <h2>All Kits Statistics</h2>
+                </div>
+
+                <div class="view-toggle">
+                    <div class="toggle-btn active" onclick="toggleKitView('all')">
+                        <i class="fas fa-infinity"></i> All Time
+                    </div>
+                    <div class="toggle-btn" onclick="toggleKitView('today')">
+                        <i class="fas fa-clock"></i> Today
+                    </div>
+                </div>
+
+                <input type="text" class="search-box" id="kit-search" placeholder="🔍 Search kit..." onkeyup="searchKits()">
+                
+                <div class="lb-table" id="all-kits-list">
+                    <div class="loading-text">Loading kits...</div>
+                </div>
+
+                <div class="pagination" id="kits-pagination"></div>
+            </div>
+        </div>
+
     </div>
 
     <script>
-        // CẤU HÌNH USER/REPO CỦA BẠN (TỰ ĐỘNG CHUẨN THEO YÊU CẦU TRƯỚC)
+        // CẤU HÌNH USER/REPO CỦA BẠN
         const USERNAME = 'tatukyd-ctrl'; 
         const REPO = 'hienbot-web';
         const BRANCH = 'main';
         
-        // Dùng Raw URL để có tốc độ cập nhật nhanh nhất (bypass cache GitHub Pages)
+        // Dùng Raw URL để có tốc độ cập nhật nhanh nhất
         const STATS_URL = `https://raw.githubusercontent.com/${USERNAME}/${REPO}/${BRANCH}/stats.json`;
+
+        // Pagination state
+        let currentPlayerPage = 1;
+        let currentKitPage = 1;
+        const itemsPerPage = 10;
+        
+        // Data storage
+        let allPlayersData = [];
+        let allKitsData = [];
+        let filteredPlayers = [];
+        let filteredKits = [];
+        
+        // View modes
+        let playerViewMode = 'all';
+        let kitViewMode = 'all';
 
         async function fetchStats() {
             try {
@@ -400,55 +585,83 @@
         }
 
         function renderData(data) {
-            // Header Info
-            document.getElementById('last-updated').innerText = `Last Update: ${data.lastUpdated}`;
-            document.getElementById('server-ip').innerText = data.serverIp || '8b8t.me';
+            try {
+                // Header Info
+                document.getElementById('last-updated').innerText = `Last Update: ${data.lastUpdated || 'Unknown'}`;
+                document.getElementById('server-ip').innerText = data.serverIp || '8b8t.me';
 
-            // Top Stats
-            updateNumber('total-kits', data.totalKits);
-            updateNumber('today-kits', data.todayKits);
-            updateNumber('online-count', data.onlineCount);
-            
-            const pingColor = data.ping > 300 ? '#ff0a4e' : '#0aff60';
-            document.getElementById('perf-stats').innerHTML = 
-                `${data.tps} <span style="font-size:0.5em; color:#a1a1aa">TPS</span> | <span style="color:${pingColor}">${data.ping}ms</span>`;
+                // Top Stats
+                updateNumber('total-kits', data.totalKits || 0);
+                updateNumber('today-kits', data.todayKits || 0);
+                updateNumber('online-count', data.onlineCount || 0);
+                
+                const tps = data.tps || '20.0';
+                const ping = data.ping || 0;
+                const pingColor = ping > 300 ? '#ff0a4e' : '#0aff60';
+                document.getElementById('perf-stats').innerHTML = 
+                    `${tps} <span style="font-size:0.5em; color:#a1a1aa">TPS</span> | <span style="color:${pingColor}">${ping}ms</span>`;
 
-            // Render Chat
-            const chatContainer = document.getElementById('chat-box');
-            if (data.chatLog && data.chatLog.length > 0) {
-                const newHtml = data.chatLog.map(line => {
-                    let typeClass = 'type-normal';
-                    let icon = '';
-                    
-                    // Auto-detect message type
-                    if (line.includes('>')) { typeClass = 'type-bot'; icon = '<i class="fas fa-robot" style="margin-right:5px"></i>'; }
-                    else if (line.includes('!kit')) { typeClass = 'type-cmd'; icon = '<i class="fas fa-terminal" style="margin-right:5px"></i>'; }
-                    else if (line.includes('System') || line.includes('Teleport')) { typeClass = 'type-system'; }
+                // Render Chat
+                const chatContainer = document.getElementById('chat-box');
+                if (data.chatLog && data.chatLog.length > 0) {
+                    const newHtml = data.chatLog.map(line => {
+                        let typeClass = 'type-normal';
+                        let icon = '';
+                        
+                        if (line.includes('>')) { typeClass = 'type-bot'; icon = '<i class="fas fa-robot" style="margin-right:5px"></i>'; }
+                        else if (line.includes('!kit')) { typeClass = 'type-cmd'; icon = '<i class="fas fa-terminal" style="margin-right:5px"></i>'; }
+                        else if (line.includes('System') || line.includes('Teleport') || line.includes('[8b8t]')) { typeClass = 'type-system'; }
 
-                    // Extract Time (Assuming format [HH:MM] exists)
-                    const timeMatch = line.match(/^\[\d{2}:\d{2}\]/);
-                    const timeStr = timeMatch ? timeMatch[0] : '';
-                    const content = line.replace(/^\[\d{2}:\d{2}\]/, '').trim();
-                    const safeContent = content.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+                        const timeMatch = line.match(/^\[\d{2}:\d{2}\]/);
+                        const timeStr = timeMatch ? timeMatch[0] : '';
+                        const content = line.replace(/^\[\d{2}:\d{2}\]/, '').trim();
+                        const safeContent = content.replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
-                    return `
-                        <div class="chat-msg ${typeClass}">
-                            <span class="msg-time">${timeStr}</span>
-                            ${icon} ${safeContent}
-                        </div>
-                    `;
-                }).reverse().join('');
+                        return `
+                            <div class="chat-msg ${typeClass}">
+                                <span class="msg-time">${timeStr}</span>
+                                ${icon} ${safeContent}
+                            </div>
+                        `;
+                    }).reverse().join('');
 
-                if (chatContainer.innerHTML !== newHtml) {
-                    chatContainer.innerHTML = newHtml;
+                    if (chatContainer.innerHTML !== newHtml) {
+                        chatContainer.innerHTML = newHtml;
+                    }
                 }
-            }
 
-            // Render Users Leaderboard
-            renderLeaderboard('top-users', data.topUsers, false);
-            
-            // Render Kits Leaderboard
-            renderLeaderboard('top-kits', data.topKits, true);
+                // Render Top 5 Users & Kits
+                renderLeaderboard('top-users', data.topUsers, false);
+                renderLeaderboard('top-kits', data.topKits, true);
+
+                // Convert userStats object to array and sort
+                if (data.userStats && typeof data.userStats === 'object') {
+                    allPlayersData = Object.entries(data.userStats)
+                        .filter(([name, count]) => typeof count === 'number' && count > 0)
+                        .map(([name, count]) => ({ name, count }))
+                        .sort((a, b) => b.count - a.count);
+                    filteredPlayers = [...allPlayersData];
+                    renderFullPlayersList();
+                }
+                
+                // Convert kitStats object to array and sort
+                if (data.kitStats && typeof data.kitStats === 'object') {
+                    allKitsData = Object.entries(data.kitStats)
+                        .filter(([name, count]) => {
+                            // Filter out invalid entries
+                            return name !== 'constructor' && 
+                                   typeof count === 'number' && 
+                                   count > 0 &&
+                                   !name.includes('function');
+                        })
+                        .map(([name, count]) => ({ name, count }))
+                        .sort((a, b) => b.count - a.count);
+                    filteredKits = [...allKitsData];
+                    renderFullKitsList();
+                }
+            } catch (error) {
+                console.error('Error rendering data:', error);
+            }
         }
 
         function renderLeaderboard(elementId, dataList, capitalize) {
@@ -458,15 +671,16 @@
                 return;
             }
 
-            const html = dataList.map((item, index) => {
+            const html = dataList.slice(0, 5).map((item, index) => {
                 const rankClass = index < 3 ? `rank-${index + 1}` : '';
                 const nameStyle = capitalize ? 'text-transform: capitalize;' : '';
+                const medal = index === 0 ? '🥇' : index === 1 ? '🥈' : index === 2 ? '🥉' : '';
                 
                 return `
                     <div class="lb-row">
                         <div class="lb-left">
                             <div class="rank-badge ${rankClass}">${index + 1}</div>
-                            <div class="lb-name" style="${nameStyle}">${item.name}</div>
+                            <div class="lb-name" style="${nameStyle}"><span class="medal">${medal}</span>${item.name}</div>
                         </div>
                         <div class="lb-val">${item.count}</div>
                     </div>
@@ -476,18 +690,218 @@
             container.innerHTML = html;
         }
 
+        // FULL PLAYERS LEADERBOARD
+        function renderFullPlayersList() {
+            const container = document.getElementById('all-players-list');
+            
+            if (!filteredPlayers || filteredPlayers.length === 0) {
+                container.innerHTML = '<div class="loading-text">No players found</div>';
+                document.getElementById('players-pagination').innerHTML = '';
+                return;
+            }
+
+            const start = (currentPlayerPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const pageData = filteredPlayers.slice(start, end);
+
+            const html = pageData.map((player, index) => {
+                const globalRank = start + index + 1;
+                const rankClass = globalRank <= 3 ? `rank-${globalRank}` : '';
+                const medal = globalRank === 1 ? '🥇' : globalRank === 2 ? '🥈' : globalRank === 3 ? '🥉' : '';
+                
+                return `
+                    <div class="lb-row">
+                        <div class="lb-left">
+                            <div class="rank-badge ${rankClass}">${globalRank}</div>
+                            <div class="lb-name"><span class="medal">${medal}</span>${player.name}</div>
+                        </div>
+                        <div class="lb-val">${player.count}</div>
+                    </div>
+                `;
+            }).join('');
+            
+            container.innerHTML = html;
+            renderPlayersPagination();
+        }
+
+        function renderPlayersPagination() {
+            const totalPages = Math.ceil(filteredPlayers.length / itemsPerPage);
+            const container = document.getElementById('players-pagination');
+            
+            if (totalPages <= 1) {
+                container.innerHTML = '';
+                return;
+            }
+
+            let html = `
+                <button class="page-btn" onclick="changePlayerPage(${currentPlayerPage - 1})" ${currentPlayerPage === 1 ? 'disabled' : ''}>
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+            `;
+
+            const maxVisible = 5;
+            let startPage = Math.max(1, currentPlayerPage - Math.floor(maxVisible / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+            
+            if (endPage - startPage + 1 < maxVisible) {
+                startPage = Math.max(1, endPage - maxVisible + 1);
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                html += `
+                    <button class="page-btn ${i === currentPlayerPage ? 'active' : ''}" onclick="changePlayerPage(${i})">
+                        ${i}
+                    </button>
+                `;
+            }
+
+            html += `
+                <button class="page-btn" onclick="changePlayerPage(${currentPlayerPage + 1})" ${currentPlayerPage === totalPages ? 'disabled' : ''}>
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+                <span class="page-info">${filteredPlayers.length} players</span>
+            `;
+            
+            container.innerHTML = html;
+        }
+
+        function changePlayerPage(page) {
+            const totalPages = Math.ceil(filteredPlayers.length / itemsPerPage);
+            if (page < 1 || page > totalPages) return;
+            currentPlayerPage = page;
+            renderFullPlayersList();
+        }
+
+        // FULL KITS LEADERBOARD
+        function renderFullKitsList() {
+            const container = document.getElementById('all-kits-list');
+            
+            if (!filteredKits || filteredKits.length === 0) {
+                container.innerHTML = '<div class="loading-text">No kits found</div>';
+                document.getElementById('kits-pagination').innerHTML = '';
+                return;
+            }
+
+            const start = (currentKitPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const pageData = filteredKits.slice(start, end);
+
+            const html = pageData.map((kit, index) => {
+                const globalRank = start + index + 1;
+                const rankClass = globalRank <= 3 ? `rank-${globalRank}` : '';
+                const medal = globalRank === 1 ? '🥇' : globalRank === 2 ? '🥈' : globalRank === 3 ? '🥉' : '';
+                
+                return `
+                    <div class="lb-row">
+                        <div class="lb-left">
+                            <div class="rank-badge ${rankClass}">${globalRank}</div>
+                            <div class="lb-name" style="text-transform: capitalize;"><span class="medal">${medal}</span>${kit.name}</div>
+                        </div>
+                        <div class="lb-val">${kit.count}</div>
+                    </div>
+                `;
+            }).join('');
+            
+            container.innerHTML = html;
+            renderKitsPagination();
+        }
+
+        function renderKitsPagination() {
+            const totalPages = Math.ceil(filteredKits.length / itemsPerPage);
+            const container = document.getElementById('kits-pagination');
+            
+            if (totalPages <= 1) {
+                container.innerHTML = '';
+                return;
+            }
+
+            let html = `
+                <button class="page-btn" onclick="changeKitPage(${currentKitPage - 1})" ${currentKitPage === 1 ? 'disabled' : ''}>
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+            `;
+
+            const maxVisible = 5;
+            let startPage = Math.max(1, currentKitPage - Math.floor(maxVisible / 2));
+            let endPage = Math.min(totalPages, startPage + maxVisible - 1);
+            
+            if (endPage - startPage + 1 < maxVisible) {
+                startPage = Math.max(1, endPage - maxVisible + 1);
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
+                html += `
+                    <button class="page-btn ${i === currentKitPage ? 'active' : ''}" onclick="changeKitPage(${i})">
+                        ${i}
+                    </button>
+                `;
+            }
+
+            html += `
+                <button class="page-btn" onclick="changeKitPage(${currentKitPage + 1})" ${currentKitPage === totalPages ? 'disabled' : ''}>
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+                <span class="page-info">${filteredKits.length} kits</span>
+            `;
+            
+            container.innerHTML = html;
+        }
+
+        function changeKitPage(page) {
+            const totalPages = Math.ceil(filteredKits.length / itemsPerPage);
+            if (page < 1 || page > totalPages) return;
+            currentKitPage = page;
+            renderFullKitsList();
+        }
+
+        // SEARCH FUNCTIONS
+        function searchPlayers() {
+            const query = document.getElementById('player-search').value.toLowerCase();
+            filteredPlayers = allPlayersData.filter(p => p.name.toLowerCase().includes(query));
+            currentPlayerPage = 1;
+            renderFullPlayersList();
+        }
+
+        function searchKits() {
+            const query = document.getElementById('kit-search').value.toLowerCase();
+            filteredKits = allKitsData.filter(k => k.name.toLowerCase().includes(query));
+            currentKitPage = 1;
+            renderFullKitsList();
+        }
+
+        // VIEW TOGGLE FUNCTIONS
+        function togglePlayerView(mode) {
+            playerViewMode = mode;
+            document.querySelectorAll('.full-lb-section .glass-panel:first-child .toggle-btn').forEach((btn, idx) => {
+                btn.classList.toggle('active', (mode === 'all' && idx === 0) || (mode === 'today' && idx === 1));
+            });
+            currentPlayerPage = 1;
+            renderFullPlayersList();
+        }
+
+        function toggleKitView(mode) {
+            kitViewMode = mode;
+            document.querySelectorAll('.full-lb-section .glass-panel:last-child .toggle-btn').forEach((btn, idx) => {
+                btn.classList.toggle('active', (mode === 'all' && idx === 0) || (mode === 'today' && idx === 1));
+            });
+            currentKitPage = 1;
+            renderFullKitsList();
+        }
+
         function updateNumber(id, newValue) {
             const el = document.getElementById(id);
-            if (el.innerText != newValue) {
-                el.innerText = newValue;
-                el.style.color = '#fff'; // Flash effect reset
+            if (!el) return;
+            
+            const displayValue = newValue !== null && newValue !== undefined ? newValue : '---';
+            if (el.innerText != displayValue) {
+                el.innerText = displayValue;
+                el.style.color = '#fff';
                 setTimeout(() => el.style.color = '', 200);
             }
         }
 
         // Init
         fetchStats();
-        // Auto-refresh every 5 seconds (Fastest for Raw GitHub)
         setInterval(fetchStats, 5000); 
     </script>
 </body>
