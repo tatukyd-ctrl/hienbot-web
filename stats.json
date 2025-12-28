@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:42:41 28/12/2025",
-  "totalKits": 78568,
-  "todayKits": 6,
+  "lastUpdated": "17:42:54 28/12/2025",
+  "totalKits": 78569,
+  "todayKits": 7,
   "onlineCount": 23,
   "peakPlayers": 23,
-  "tps": "16.0",
+  "tps": "19.0",
   "ping": 239,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5216
+      "count": 5217
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:41] <UNHORIZON2> !kit pvp ",
-    "[17:41] [8b8t] >> Teleporting to home 0...",
-    "[17:41] [8b8t] >> Teleporting to home 1...",
-    "[17:41] To UNHORIZON2: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/6fsyHDCdSk",
-    "[17:41] To UNHORIZON2: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[17:41] <pvpnooob123412> !kit pvp ",
-    "[17:41] [8b8t] >> Request sent to UNHORIZON2",
-    "[17:41] To pvpnooob123412: Please wait for me a moment .Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/6fsyHDCdSk",
-    "[17:41] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[17:41] [8b8t] >> TPA cancelled because UNHORIZON2 left",
     "[17:41] <pvpnooob123412> $rules ",
     "[17:42] <UNHORIZON3> !kit pvp ",
@@ -101,7 +92,16 @@
     "[17:42] Chat disabled in client options",
     "[17:42] [8b8t] >> Home 2 was not found",
     "[17:42] [8b8t] >> The command /seed is not allowed",
-    "[17:42] [BOT] <0_HienBot> Hola DeoDevil! "
+    "[17:42] [BOT] <0_HienBot> Hola DeoDevil! ",
+    "[17:42] <UNHORIZON3> !kit pvp ",
+    "[17:42] [8b8t] >> Teleporting to home 0...",
+    "[17:42] [8b8t] >> Teleporting to home 1...",
+    "[17:42] To UNHORIZON3: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/6fsyHDCdSk",
+    "[17:42] To UNHORIZON3: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[17:42] [8b8t] >> Request sent to UNHORIZON3",
+    "[17:42] [8b8t] >> Teleporting...",
+    "[17:42] <pvpnooob123412> !kit mace ",
+    "[17:42] To pvpnooob123412: Please wait for me a moment .Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/6fsyHDCdSk"
   ],
   "userStats": {
     "76756": 38,
@@ -2093,12 +2093,13 @@
     "gontiago": 1,
     "JediBran3989": 2,
     "Firebrand672": 5,
-    "UNHORIZON2": 1
+    "UNHORIZON2": 1,
+    "UNHORIZON3": 1
   },
   "kitStats": {
     "build": 1055,
     "survival": 4247,
-    "pvp": 5216,
+    "pvp": 5217,
     "dupe": 1085,
     "tools": 1121,
     "stash": 563,
