@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:25:44 29/12/2025",
+  "lastUpdated": "20:25:54 29/12/2025",
   "totalKits": 78963,
   "todayKits": 54,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 36,
   "tps": "0.0",
   "ping": 235,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4359
+      "count": 4360
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:23] <rageer_OG> alguien me quiere ayudar a dupear, tengo un burro ",
-    "[20:23] <arthavonv> yo ",
-    "[20:23] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[20:24] [Pro+] <sFriedx> FUCL ",
-    "[20:24] [BOT] <0_HienBot> Welcome to 8b8t, rageer_OG! ",
-    "[20:24] <UnBot> Type '+kit mystic' to satisfy your depression ",
-    "[20:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[20:24] <UNHORIZON> adding this kit to the bot ",
     "[20:24] <_aki> yo nicee ",
     "[20:24] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
@@ -101,7 +94,14 @@
     "[20:25] To arthavonv: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group discord.gg/2vezgc2VGb",
     "[20:25] To arthavonv: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[20:25] [8b8t] >> Request sent to arthavonv",
-    "[20:25] [8b8t] >> Teleporting..."
+    "[20:25] [8b8t] >> Teleporting...",
+    "[20:25] 0_HienBot forgot to bring their parachute",
+    "[20:25] [8b8t] >> Home 2 was not found",
+    "[20:25] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[20:25] <Hanyss_> !kit survival ",
+    "[20:25] [8b8t] >> Teleporting to home 0...",
+    "[20:25] [8b8t] >> Teleporting to home 1...",
+    "[20:25] To Hanyss_: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group discord.gg/2vezgc2VGb"
   ],
   "userStats": {
     "76756": 38,
@@ -2005,7 +2005,7 @@
     "nuklear1": 97,
     "miguel1223": 1,
     "Canamed21": 7,
-    "Hanyss_": 22,
+    "Hanyss_": 23,
     "Zirn0": 5,
     "eggchtherealone": 52,
     "mehrab12345": 1,
@@ -2157,7 +2157,7 @@
   },
   "kitStats": {
     "build": 1131,
-    "survival": 4359,
+    "survival": 4360,
     "pvp": 5487,
     "dupe": 1131,
     "tools": 1199,
