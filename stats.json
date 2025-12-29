@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:23:27 30/12/2025",
+  "lastUpdated": "02:23:57 30/12/2025",
   "totalKits": 79210,
   "todayKits": 113,
-  "onlineCount": 47,
+  "onlineCount": 45,
   "peakPlayers": 58,
-  "tps": "6.0",
-  "ping": 248,
+  "tps": "4.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5581
+      "count": 5582
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:22] Der_Ork2077 has reached the goal [Sky's the Limit]",
-    "[02:22] Der_Ork2077 has completed the challenge [Cover Me in Debris]",
-    "[02:22] [BOT] <0_HienBot> Hi ScreaM8989! ",
-    "[02:22] <.Deadmask911> !kit pc ",
-    "[02:22] [8b8t] >> Teleporting to home 0...",
-    "[02:22] [8b8t] >> Teleporting to home 1...",
-    "[02:22] To .Deadmask911: Kit \"pc\" not found! Giving you a random kit (survival) instead!",
-    "[02:22] To .Deadmask911: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[02:22] [8b8t] >> Request sent to .Deadmask911",
-    "[02:22] <llcronnll> !kit ",
     "[02:22] To llcronnll: Hello llcronnll!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[02:22] [8b8t] >> Teleporting...",
     "[02:23] <llcronnll> !kit shulker ",
@@ -101,7 +91,17 @@
     "[02:23] <el_xir> !kit ",
     "[02:23] To lajew: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:23] To el_xir: Hello el_xir!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[02:23] Der_Ork2077 withered away to the 4th dimension"
+    "[02:23] Der_Ork2077 withered away to the 4th dimension",
+    "[02:23] [8b8t] >> Home 2 was not found",
+    "[02:23] [BOT] <0_HienBot> Chat !𝙠it to get free kit ",
+    "[02:23] <lajew> !kit ",
+    "[02:23] To lajew: Hello lajew!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[02:23] <el_xir> !kit pvp ",
+    "[02:23] [8b8t] >> Teleporting to home 0...",
+    "[02:23] [8b8t] >> Teleporting to home 1...",
+    "[02:23] To el_xir: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:23] To el_xir: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[02:23] [8b8t] >> Request sent to el_xir"
   ],
   "userStats": {
     "76756": 38,
@@ -2181,12 +2181,13 @@
     "ThecbaldTheBird": 1,
     "IronVision": 1,
     "Leanxd777": 4,
-    "Jav5WR213": 2
+    "Jav5WR213": 2,
+    "el_xir": 1
   },
   "kitStats": {
     "build": 1145,
     "survival": 4414,
-    "pvp": 5581,
+    "pvp": 5582,
     "dupe": 1149,
     "tools": 1212,
     "stash": 600,
