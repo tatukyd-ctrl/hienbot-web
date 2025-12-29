@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:07:18 30/12/2025",
+  "lastUpdated": "05:07:28 30/12/2025",
   "totalKits": 79339,
   "todayKits": 242,
   "onlineCount": 44,
   "peakPlayers": 60,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 267,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4449
+      "count": 4450
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:06] To BdubH2015: Hello BdubH2015!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:06] <rageer_OG> !kit sand ",
-    "[05:06] To rageer_OG: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:06] <ElChori011> !kit PVP ",
-    "[05:06] To ElChori011: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:06] [BOT] <0_HienBot> Hola Rucosas! ",
-    "[05:06] <davidpro077> dime guille ",
-    "[05:06] 0_HienBot forgot to stop, drop, and roll",
     "[05:06] [8b8t] >> The TPA request you sent to ElChori011 was successfully canceled.",
     "[05:06] repa3 forgot to bring their parachute",
     "[05:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +93,15 @@
     "[05:07] To rageer_OG: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[05:07] [8b8t] >> Request sent to rageer_OG",
     "[05:07] <GuilleB737> ok ",
-    "[05:07] [8b8t] >> Teleporting..."
+    "[05:07] [8b8t] >> Teleporting...",
+    "[05:07] MonkeBot thought a Zombie was friendly",
+    "[05:07] <GuilleB737> estas en el spawn? ",
+    "[05:07] <BdubH2015> !kit survival ",
+    "[05:07] [8b8t] >> Home 2 was not found",
+    "[05:07] [8b8t] >> Teleporting to home 1...",
+    "[05:07] To BdubH2015: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:07] To BdubH2015: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[05:07] [8b8t] >> Request sent to BdubH2015"
   ],
   "userStats": {
     "76756": 38,
@@ -2064,7 +2064,7 @@
     "ItzRealDown": 2,
     "DonIanaco": 3,
     "laureeledesmaa": 1,
-    "BdubH2015": 52,
+    "BdubH2015": 53,
     ".clanJF": 10,
     "Cheesecake1336": 3,
     "davidpro077": 4,
@@ -2201,7 +2201,7 @@
   },
   "kitStats": {
     "build": 1150,
-    "survival": 4449,
+    "survival": 4450,
     "pvp": 5628,
     "dupe": 1157,
     "tools": 1217,
