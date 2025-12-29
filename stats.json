@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:57:19 29/12/2025",
+  "lastUpdated": "22:57:49 29/12/2025",
   "totalKits": 79045,
   "todayKits": 30,
   "onlineCount": 52,
   "peakPlayers": 57,
-  "tps": "3.0",
-  "ping": 583,
+  "tps": "2.0",
+  "ping": 540,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5523
+      "count": 5524
     },
     {
       "name": "survival",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:56] [8b8t] >> Teleporting to home 3...",
-    "[22:56] To redcrow1hvhlio: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:56] <fetch3d> !kit mineral ",
-    "[22:56] To fetch3d: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:56] [BOT] <0_HienBot> Try !𝒌it survival ",
-    "[22:56] To redcrow1hvhlio: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[22:56] [8b8t] >> Request sent to redcrow1hvhlio",
-    "[22:56] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[22:56] <fetch3d> !kit ",
-    "[22:56] [8b8t] >> Teleporting...",
-    "[22:56] To fetch3d: Hello fetch3d!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[22:56] phantomeaper challenged the Wither and lost their head",
-    "[22:56] [8b8t] >> Home 2 was not found",
-    "[22:56] <jatekosvagyok> akkor gyere ide a basere ",
-    "[22:56] <fetch3d> !kit toolbox ",
-    "[22:56] [8b8t] >> Teleporting to home 0...",
     "[22:56] [8b8t] >> Teleporting to home 5...",
     "[22:56] To fetch3d: Your kit (toolbox) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[22:56] To fetch3d: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +85,23 @@
     "[22:57] <wemmbu_> hi guys ",
     "[22:57] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
     "[22:57] <Xoladliac> DHf ",
-    "[22:57] <fetch3d> !kit "
+    "[22:57] <fetch3d> !kit ",
+    "[22:57] To fetch3d: Hello fetch3d!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[22:57] <jatekosvagyok> gyere ide ugyis van sethomeod ",
+    "[22:57] <peakar> jatek ",
+    "[22:57] <fetch3d> !kit build ",
+    "[22:57] To fetch3d: You're on cooldown, try again in 49 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:57] <jatekosvagyok> yes??? ",
+    "[22:57] <peakar> here is a gift for ya ",
+    "[22:57] [BOT] <0_HienBot> Use !𝙠it to get kit ",
+    "[22:57] <peakar> happy ghast! ",
+    "[22:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[22:57] <baromijofej> tpz te rám ",
+    "[22:57] <januvary> +kit pvp ",
+    "[22:57] [8b8t] >> Teleporting to home 0...",
+    "[22:57] [8b8t] >> Teleporting to home 1...",
+    "[22:57] To januvary: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:57] <UnBot> Some even call me 'The back-alley dealer' due to the strange kits I provide "
   ],
   "userStats": {
     "76756": 38,
@@ -2168,13 +2168,13 @@
     "tiredmonolith": 1,
     "simpvp": 4,
     "fetch3d": 3,
-    "januvary": 2,
+    "januvary": 3,
     "NewbieMt": 1
   },
   "kitStats": {
     "build": 1138,
     "survival": 4378,
-    "pvp": 5523,
+    "pvp": 5524,
     "dupe": 1137,
     "tools": 1200,
     "stash": 592,
