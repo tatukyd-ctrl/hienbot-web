@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:24:15 30/12/2025",
+  "lastUpdated": "04:24:27 30/12/2025",
   "totalKits": 79316,
   "todayKits": 219,
   "onlineCount": 46,
   "peakPlayers": 60,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 265,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5619
+      "count": 5620
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:23] [Ultra] <MrBeax31> BRUH ",
-    "[04:23] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[04:23] <Real4Tribe> !kit pvp ",
-    "[04:23] To Real4Tribe: You're on cooldown, try again in 5 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:23] Ctrl____ thought they could fly... they couldn't",
-    "[04:23] <<gradient:#BA74F2:-0.71>Nekshuu> ya busco una ",
-    "[04:23] <Real4Tribe> !kit pvp ",
-    "[04:23] [8b8t] >> Teleporting to home 0...",
     "[04:23] [8b8t] >> Teleporting to home 1...",
     "[04:23] To Real4Tribe: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:23] PANCHITOXDDD was domed by a Stray",
@@ -101,7 +93,15 @@
     "[04:24] PANCHITOXDDD got his head blown off by the Wither",
     "[04:24] [8b8t] >> Teleporting...",
     "[04:24] <ElxDave_MSc> porfa ",
-    "[04:24] Gamerprotop360 decided to test gravity and lost"
+    "[04:24] Gamerprotop360 decided to test gravity and lost",
+    "[04:24] [8b8t] >> Home 2 was not found",
+    "[04:24] <FHreihak> !invite ",
+    "[04:24] <sizs> !kit pvp ",
+    "[04:24] [8b8t] >> Teleporting to home 0...",
+    "[04:24] [8b8t] >> Teleporting to home 1...",
+    "[04:24] To sizs: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:24] To sizs: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[04:24] [8b8t] >> Request sent to sizs"
   ],
   "userStats": {
     "76756": 38,
@@ -2192,12 +2192,13 @@
     "iAngeloyz": 6,
     "Nialbertt": 1,
     "BatsyWapsy": 2,
-    "ElOsoSusXD": 2
+    "ElOsoSusXD": 2,
+    "sizs": 1
   },
   "kitStats": {
     "build": 1149,
     "survival": 4438,
-    "pvp": 5619,
+    "pvp": 5620,
     "dupe": 1155,
     "tools": 1217,
     "stash": 604,
