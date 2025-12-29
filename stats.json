@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:54:34 29/12/2025",
+  "lastUpdated": "22:54:49 29/12/2025",
   "totalKits": 79041,
   "todayKits": 26,
   "onlineCount": 54,
   "peakPlayers": 57,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 393,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4377
+      "count": 4378
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:53] [8b8t] >> Teleporting to home 0...",
-    "[22:53] [8b8t] >> Teleporting to home 1...",
-    "[22:53] To NewbieMt: Your kit (cpvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:54] To NewbieMt: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[22:54] [8b8t] >> Request sent to NewbieMt",
-    "[22:54] <NewbieMt> !kit ",
-    "[22:54] To NewbieMt: Hello NewbieMt!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[22:54] <Juanytoyt208> ya se ",
-    "[22:54] [8b8t] >> Teleporting...",
     "[22:54] <fetch3d> !kit dupe ",
     "[22:54] To fetch3d: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[22:54] <redcrow1hvhlio> !kit Survival ",
@@ -101,7 +92,16 @@
     "[22:54] <peakar> i swear it wasnt me ",
     "[22:54] [8b8t] >> Request sent to redcrow1hvhlio",
     "[22:54] <jatekosvagyok> i k ",
-    "[22:54] [8b8t] >> Teleporting..."
+    "[22:54] [8b8t] >> Teleporting...",
+    "[22:54] <jatekosvagyok> i know who did this ",
+    "[22:54] [8b8t] >> Home 2 was not found",
+    "[22:54] <peakar> omg ",
+    "[22:54] [BOT] <0_HienBot> Try !𝒌it survival ",
+    "[22:54] <peakar> who ",
+    "[22:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[22:54] <fetch3d> !kit survival ",
+    "[22:54] <UnBot> This bot is cord logger free ",
+    "[22:54] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2167,13 +2167,13 @@
     "aps6o99arylive": 1,
     "tiredmonolith": 1,
     "simpvp": 4,
-    "fetch3d": 1,
+    "fetch3d": 2,
     "januvary": 1,
     "NewbieMt": 1
   },
   "kitStats": {
     "build": 1137,
-    "survival": 4377,
+    "survival": 4378,
     "pvp": 5523,
     "dupe": 1137,
     "tools": 1200,
