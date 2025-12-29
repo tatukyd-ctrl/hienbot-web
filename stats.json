@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:06:42 30/12/2025",
+  "lastUpdated": "00:06:57 30/12/2025",
   "totalKits": 79100,
   "todayKits": 3,
-  "onlineCount": 52,
+  "onlineCount": 51,
   "peakPlayers": 54,
-  "tps": "5.0",
-  "ping": 253,
+  "tps": "9.0",
+  "ping": 274,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5550
+      "count": 5551
     },
     {
       "name": "survival",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:05] [8b8t] >> Request sent to meisamal",
-    "[00:05] <sebasfut29> !kit survival ",
-    "[00:05] To sebasfut29: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:05] benjaminagui has made the advancement [Spooky Scary Skeleton]",
-    "[00:05] <.Skittlesjace> bro i asked for the illegal kit to get the xp bottles ",
-    "[00:05] <noxez4242> +kit ",
-    "[00:05] To noxez4242: Hello noxez4242!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[00:06] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
-    "[00:06] <.Skittlesjace> and it gave me the dupe kit ",
-    "[00:06] <redcrow1hvhlio> !kit minerals ",
-    "[00:06] To redcrow1hvhlio: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:06] <noxez4242> !kit pvp ",
-    "[00:06] To noxez4242: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:06] <peakar> thx ",
-    "[00:06] 0_HienBot decided to test gravity and lost",
     "[00:06] [8b8t] >> The TPA request you sent to meisamal was successfully canceled.",
     "[00:06] <redcrow1hvhlio> !kit minerals ",
     "[00:06] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +86,22 @@
     "[00:06] Darkghost6ak tried to outswim the water",
     "[00:06] [8b8t] >> Teleporting...",
     "[00:06] <noxez4242> !kit pvp ",
-    "[00:06] To noxez4242: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[00:06] To noxez4242: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:06] <noxez4242> !kit pvp ",
+    "[00:06] To noxez4242: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:06] <noxez4242> !kit pvp ",
+    "[00:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[00:06] [8b8t] >> Home 2 was not found",
+    "[00:06] [8b8t] >> Teleporting to home 0...",
+    "[00:06] [8b8t] >> Teleporting to home 1...",
+    "[00:06] <.Skittlesjace> !kit xp ",
+    "[00:06] To .Skittlesjace: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:06] To noxez4242: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[00:06] [8b8t] >> Request sent to noxez4242",
+    "[00:06] EDIROD2 has made the advancement [The End?]",
+    "[00:06] <.Skittlesjace> !kit xp ",
+    "[00:06] To .Skittlesjace: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:06] <UnBot> This bot is cord logger free "
   ],
   "userStats": {
     "76756": 38,
@@ -2033,7 +2033,7 @@
     "MinguysJava": 7,
     "NKZINN1": 68,
     "NKZINN6725": 4,
-    "noxez4242": 7,
+    "noxez4242": 8,
     "KingOfCats801": 4,
     "Mekmekme": 2,
     "Mr_Kilgore": 2,
@@ -2180,7 +2180,7 @@
   "kitStats": {
     "build": 1142,
     "survival": 4389,
-    "pvp": 5550,
+    "pvp": 5551,
     "dupe": 1142,
     "tools": 1203,
     "stash": 596,
