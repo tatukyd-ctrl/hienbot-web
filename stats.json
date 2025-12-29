@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:31:28 30/12/2025",
+  "lastUpdated": "06:31:58 30/12/2025",
   "totalKits": 79406,
   "todayKits": 309,
-  "onlineCount": 54,
+  "onlineCount": 53,
   "peakPlayers": 60,
-  "tps": "12.0",
-  "ping": 261,
+  "tps": "4.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5644
+      "count": 5645
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:30] <sepillin> !kit maps ",
-    "[06:30] To sepillin: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:30] <jsjsjsjsjsjs> cómo así? ",
-    "[06:30] <Derrick> w ",
-    "[06:30] [8b8t] >> Teleporting...",
-    "[06:30] <tadeo966> +kit mystic ",
-    "[06:30] To tadeo966: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:30] <Derrick> rhyme ",
     "[06:30] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
     "[06:30] jurasicnica21 got a deadly lesson from the Wither",
     "[06:30] [8b8t] >> Home 2 was not found",
@@ -101,7 +93,15 @@
     "[06:31] You cannot go above the nether roof!",
     "[06:31] [8b8t] >> Home 2 was not found",
     "[06:31] [BOT] <0_HienBot> What's up, KurtzWasTaken? ",
-    "[06:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[06:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[06:31] <jsjsjsjsjsjs> le bajaron medio corazón al wey ",
+    "[06:31] <ReallyRusher> !kit totem ",
+    "[06:31] [8b8t] >> Teleporting to home 0...",
+    "[06:31] [8b8t] >> Teleporting to home 1...",
+    "[06:31] To ReallyRusher: Your kit (totem) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:31] To ReallyRusher: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[06:31] [8b8t] >> Request sent to ReallyRusher",
+    "[06:31] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
   ],
   "userStats": {
     "76756": 38,
@@ -2206,13 +2206,13 @@
     "tadeo966": 6,
     "zumathedogZ": 1,
     "0000000000000029": 1,
-    "ReallyRusher": 2,
+    "ReallyRusher": 3,
     "PRIME224r": 1
   },
   "kitStats": {
     "build": 1154,
     "survival": 4456,
-    "pvp": 5644,
+    "pvp": 5645,
     "dupe": 1161,
     "tools": 1225,
     "stash": 606,
