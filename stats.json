@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:32:28 30/12/2025",
-  "totalKits": 79406,
-  "todayKits": 309,
-  "onlineCount": 54,
+  "lastUpdated": "06:32:40 30/12/2025",
+  "totalKits": 79407,
+  "todayKits": 310,
+  "onlineCount": 52,
   "peakPlayers": 60,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 265,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4456
+      "count": 4457
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:31] [8b8t] >> Request sent to sepillin",
-    "[06:31] <tadeo966> !kit maps ",
-    "[06:31] <Derrick> my fps low ",
-    "[06:31] To tadeo966: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:31] [8b8t] >> Teleporting...",
-    "[06:31] You cannot go above the nether roof!",
-    "[06:31] You cannot go above the nether roof!",
-    "[06:31] You cannot go above the nether roof!",
-    "[06:31] You cannot go above the nether roof!",
-    "[06:31] You cannot go above the nether roof!",
     "[06:31] [8b8t] >> Home 2 was not found",
     "[06:31] [BOT] <0_HienBot> What's up, KurtzWasTaken? ",
     "[06:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +91,17 @@
     "[06:32] <benja5342> ok ",
     "[06:32] [8b8t] >> No TPA request found",
     "[06:32] [BOT] <0_HienBot> Hello XC0P! ",
-    "[06:32] <benja5342> good "
+    "[06:32] <benja5342> good ",
+    "[06:32] <benja5342> !kit survival ",
+    "[06:32] [8b8t] >> Teleporting to home 0...",
+    "[06:32] [8b8t] >> Teleporting to home 1...",
+    "[06:32] To benja5342: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:32] <sepillin> +menú ",
+    "[06:32] To benja5342: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[06:32] [8b8t] >> Request sent to benja5342",
+    "[06:32] [8b8t] >> Teleporting...",
+    "[06:32] redaisme20 got his head blown off by the Wither",
+    "[06:32] <Derrick> my pccc "
   ],
   "userStats": {
     "76756": 38,
@@ -1304,7 +1304,7 @@
     "not_server_admin": 7,
     "piculin88": 29,
     "ASneakySenior": 1,
-    "benja5342": 79,
+    "benja5342": 80,
     "pollon123": 1,
     "AgusAecrkr": 1,
     "Otavinnnn": 15,
@@ -2211,7 +2211,7 @@
   },
   "kitStats": {
     "build": 1154,
-    "survival": 4456,
+    "survival": 4457,
     "pvp": 5645,
     "dupe": 1161,
     "tools": 1225,
