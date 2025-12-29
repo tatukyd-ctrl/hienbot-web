@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:58:14 29/12/2025",
+  "lastUpdated": "22:58:19 29/12/2025",
   "totalKits": 79046,
   "todayKits": 31,
-  "onlineCount": 52,
+  "onlineCount": 53,
   "peakPlayers": 57,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 319,
   "topUsers": [
     {
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:57] <Xoladliac> DHf ",
-    "[22:57] <fetch3d> !kit ",
-    "[22:57] To fetch3d: Hello fetch3d!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[22:57] <jatekosvagyok> gyere ide ugyis van sethomeod ",
     "[22:57] <peakar> jatek ",
     "[22:57] <fetch3d> !kit build ",
@@ -101,7 +98,10 @@
     "[22:58] To fetch3d: Hello fetch3d!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[22:58] [BOT] <0_HienBot> Bot created by Hien2309. ",
     "[22:58] [8b8t] >> Teleporting...",
-    "[22:58] <Juanytoyt208> tp for pvp "
+    "[22:58] <Juanytoyt208> tp for pvp ",
+    "[22:58] [8b8t] >> Home 2 was not found",
+    "[22:58] <fetch3d> +kit highway ",
+    "[22:58] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2167,7 +2167,7 @@
     "aps6o99arylive": 1,
     "tiredmonolith": 1,
     "simpvp": 4,
-    "fetch3d": 3,
+    "fetch3d": 4,
     "januvary": 3,
     "NewbieMt": 1
   },
@@ -2192,7 +2192,7 @@
     "terracotta": 44,
     "end": 334,
     "armortrims": 249,
-    "highway": 309,
+    "highway": 310,
     "ocean": 63,
     "concrete": 242,
     "glass": 187,
