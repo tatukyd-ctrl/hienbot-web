@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:51:58 30/12/2025",
-  "totalKits": 79379,
-  "todayKits": 282,
-  "onlineCount": 44,
+  "lastUpdated": "05:52:27 30/12/2025",
+  "totalKits": 79380,
+  "todayKits": 283,
+  "onlineCount": 43,
   "peakPlayers": 60,
-  "tps": "7.0",
-  "ping": 256,
+  "tps": "5.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5635
+      "count": 5636
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:50] <KKK5150KKK> !kit ",
-    "[05:50] To KKK5150KKK: Hello KKK5150KKK!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:50] [8b8t] >> Request sent to tadeo966",
-    "[05:50] <shardah> lol ",
-    "[05:50] <Awakate99> ok ",
-    "[05:50] <tadeo966> +kit build ",
-    "[05:50] <BdubH2015> type /tpayes BdubH2015 ",
-    "[05:50] To tadeo966: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:50] [BOT] <0_HienBot> Welcome to 8b8t, Modalwire! ",
     "[05:50] Lecherosindiente forgot to bring their parachute",
     "[05:50] [8b8t] >> TPA cancelled because tadeo966 left",
@@ -101,7 +93,15 @@
     "[05:51] <shardah> 24 totems ",
     "[05:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[05:51] [BOT] <0_HienBot> Use !𝙠it to get kit ",
-    "[05:51] <shardah> what a joke "
+    "[05:51] <shardah> what a joke ",
+    "[05:52] <shardah> !kit pvp ",
+    "[05:52] [8b8t] >> Teleporting to home 0...",
+    "[05:52] [8b8t] >> Teleporting to home 1...",
+    "[05:52] To shardah: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:52] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[05:52] To shardah: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[05:52] [8b8t] >> Request sent to shardah",
+    "[05:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -402,7 +402,7 @@
     "Abanoub67": 49,
     "grxyhdhshs": 1,
     "OPMARZAN12": 16,
-    "shardah": 13,
+    "shardah": 14,
     "AZFurryT_C": 9,
     "tehnogamer123": 8,
     "ulisesotazo2134": 6,
@@ -2208,7 +2208,7 @@
   "kitStats": {
     "build": 1154,
     "survival": 4454,
-    "pvp": 5635,
+    "pvp": 5636,
     "dupe": 1159,
     "tools": 1221,
     "stash": 605,
