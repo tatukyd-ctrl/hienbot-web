@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:16:57 29/12/2025",
-  "totalKits": 78831,
-  "todayKits": 9,
-  "onlineCount": 28,
+  "lastUpdated": "13:17:11 29/12/2025",
+  "totalKits": 78832,
+  "todayKits": 10,
+  "onlineCount": 29,
   "peakPlayers": 36,
-  "tps": "3.0",
-  "ping": 0,
+  "tps": "11.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5450
+      "count": 5451
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:16] <neosam1> ! ",
-    "[13:16] <Hanae0> se hace loco ",
-    "[13:16] Jinxs_017 thought they could fly... they couldn't",
-    "[13:16] [BOT] <0_HienBot> What's up, iTrisstan? ",
-    "[13:16] <darkxmad> !kit pvp ",
-    "[13:16] [8b8t] >> Teleporting to home 0...",
-    "[13:16] [8b8t] >> Teleporting to home 1...",
     "[13:16] darkxmad is ignoring you",
     "[13:16] <Hanae0> no silve ",
     "[13:16] darkxmad is ignoring you",
@@ -101,7 +94,14 @@
     "[13:16]  decrease the chance of being hacked.",
     "[13:16] ",
     "[13:16]   [Confirm read]",
-    "[13:16] "
+    "[13:16] ",
+    "[13:16] <neosam1> !kit crystal ",
+    "[13:16] [8b8t] >> Teleporting to home 0...",
+    "[13:16] [8b8t] >> Teleporting to home 1...",
+    "[13:16] To neosam1: Your kit (crystal) will be delivered in less than 30 seconds! Dont forget to join HienBot Group 𝙙𝙞𝙨𝙘𝙤𝙧𝙙.gg/2vezgc2VGb",
+    "[13:17] To neosam1: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[13:17] [8b8t] >> Request sent to neosam1",
+    "[13:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2139,12 +2139,13 @@
     "julek2137": 1,
     "boteszkusz": 1,
     "matrexy210": 1,
-    "darkxmad": 3
+    "darkxmad": 3,
+    "neosam1": 1
   },
   "kitStats": {
     "build": 1126,
     "survival": 4327,
-    "pvp": 5450,
+    "pvp": 5451,
     "dupe": 1119,
     "tools": 1193,
     "stash": 585,
