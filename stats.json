@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:32:19 29/12/2025",
-  "totalKits": 79029,
-  "todayKits": 14,
+  "lastUpdated": "22:32:49 29/12/2025",
+  "totalKits": 79030,
+  "todayKits": 15,
   "onlineCount": 46,
   "peakPlayers": 51,
-  "tps": "5.0",
-  "ping": 244,
+  "tps": "1.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -63,29 +63,15 @@
       "count": 1200
     },
     {
-      "name": "dupe",
+      "name": "build",
       "count": 1136
     },
     {
-      "name": "build",
-      "count": 1135
+      "name": "dupe",
+      "count": 1136
     }
   ],
   "chatLog": [
-    "[22:30] <preto> rola ",
-    "[22:30] <tiredmonolith> +kit mystic ",
-    "[22:30] [8b8t] >> Teleporting to home 0...",
-    "[22:30] [8b8t] >> Teleporting to home 4...",
-    "[22:30] To tiredmonolith: Kit \"mystic\" not found! Giving you a random kit (concrete) instead!",
-    "[22:30] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[22:30] To tiredmonolith: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[22:30] [8b8t] >> Request sent to tiredmonolith",
-    "[22:30] <UnBot> Some even call me 'The back-alley dealer' due to the strange kits I provide ",
-    "[22:30] SnowyzinhoYT thought they could fly... they couldn't",
-    "[22:30] <preto> !kit build ",
-    "[22:30] To preto: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:30] [BOT] <0_HienBot> Try !𝒌it survival ",
-    "[22:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[22:30] [8b8t] >> The TPA request you sent to tiredmonolith was successfully canceled.",
     "[22:30] <UnBot> This bot is cord logger free ",
     "[22:30] [Basic] <.VadoseMist36087> trading maparts for firworks mace and torches ",
@@ -101,7 +87,21 @@
     "[22:32] GoobFairy has completed the challenge [Cover Me in Debris]",
     "[22:32] tiredmonolith burned up in a pit of lava",
     "[22:32] [BOT] <0_HienBot> What's up, UnBot? ",
-    "[22:32] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[22:32] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[22:32] <tiredmonolith> +kit mystic ",
+    "[22:32] To tiredmonolith: You're on cooldown, try again in 8 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:32] <preto> !kit build ",
+    "[22:32] [8b8t] >> Teleporting to home 0...",
+    "[22:32] [8b8t] >> Teleporting to home 3...",
+    "[22:32] To preto: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:32] To preto: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[22:32] [8b8t] >> Request sent to preto",
+    "[22:32] rageer_OG has reached the goal [Postmortal]",
+    "[22:32] <sebasfut29> Pop pop pop wont stop till you drop rageer_OG ",
+    "[22:32] rageer_OG has been put down by sebasfut29",
+    "[22:32] <sebasfut29> Fucked by BlackOut! ",
+    "[22:32] [BOT] <0_HienBot> Chat !𝙠it to get free kit ",
+    "[22:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1240,7 +1240,7 @@
     "NinjaTheQuill": 1,
     "Gr4atvarus": 10,
     "mateelmasigma": 1,
-    "preto": 3,
+    "preto": 4,
     "felixito": 9,
     "05juanpi": 7,
     "y75hzz": 1,
@@ -2168,7 +2168,7 @@
     "tiredmonolith": 1
   },
   "kitStats": {
-    "build": 1135,
+    "build": 1136,
     "survival": 4374,
     "pvp": 5517,
     "dupe": 1136,
