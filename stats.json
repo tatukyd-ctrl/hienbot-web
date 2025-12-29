@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:00:23 29/12/2025",
-  "totalKits": 78920,
-  "todayKits": 11,
+  "lastUpdated": "19:00:54 29/12/2025",
+  "totalKits": 78921,
+  "todayKits": 12,
   "onlineCount": 28,
   "peakPlayers": 28,
-  "tps": "5.0",
-  "ping": 241,
+  "tps": "8.0",
+  "ping": 239,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:58] ",
-    "[18:58] <.HEROBRINE32937> !kit wood ",
-    "[18:58] To .HEROBRINE32937: You're on cooldown, try again in 25 seconds! Dont forget to join HienBot Group discord.gg/2vezgc2VGb",
-    "[18:58] <.HEROBRINE32937> !kit wood ",
-    "[18:58] To .HEROBRINE32937: You're on cooldown, try again in 6 seconds! Dont forget to join HienBot Group discord.gg/2vezgc2VGb",
-    "[18:58] [8b8t] >> Please do not spam.",
-    "[18:59] <.HEROBRINE32937> !kit wood ",
-    "[18:59] [8b8t] >> Teleporting to home 0...",
-    "[18:59] [8b8t] >> Teleporting to home 4...",
-    "[18:59] To .HEROBRINE32937: Your kit (wood) will be delivered in less than 30 seconds! Dont forget to join HienBot Group discord.gg/2vezgc2VGb",
-    "[18:59] To .HEROBRINE32937: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[18:59] [8b8t] >> Request sent to .HEROBRINE32937",
     "[18:59] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[18:59] [8b8t] >> Teleporting...",
     "[18:59] [8b8t] >> Home 2 was not found",
@@ -101,7 +89,19 @@
     "[19:00] To redcrow1hvhlio: Please wait for me a moment .Dont forget to join HienBot Group discord.gg/2vezgc2VGb",
     "[19:00] [8b8t] >> Teleporting...",
     "[19:00] <deo_devil> +kit Mystic ",
-    "[19:00] To deo_devil: Please wait for me a moment .Dont forget to join HienBot Group discord.gg/2vezgc2VGb"
+    "[19:00] To deo_devil: Please wait for me a moment .Dont forget to join HienBot Group discord.gg/2vezgc2VGb",
+    "[19:00] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
+    "[19:00] 0_HienBot forgot to bring their parachute",
+    "[19:00] [8b8t] >> Home 2 was not found",
+    "[19:00] <deo_devil> +kit Mystic ",
+    "[19:00] [8b8t] >> Teleporting to home 0...",
+    "[19:00] [8b8t] >> Teleporting to home 1...",
+    "[19:00] To deo_devil: Kit \"Mystic\" not found! Giving you a random kit (music) instead!",
+    "[19:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[19:00] To deo_devil: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[19:00] [8b8t] >> Request sent to deo_devil",
+    "[19:00] [8b8t] >> Teleporting...",
+    "[19:00] [BOT] <0_HienBot> Hello PistonCubeB0T! "
   ],
   "userStats": {
     "76756": 38,
@@ -2150,7 +2150,8 @@
     "JintDaBoy": 2,
     "kingstonison7163": 1,
     "snxwbb": 1,
-    "Ratet": 1
+    "Ratet": 1,
+    "deo_devil": 1
   },
   "kitStats": {
     "build": 1129,
@@ -2180,7 +2181,7 @@
     "gap": 21,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 12,
-    "music": 99,
+    "music": 100,
     "c": 3,
     "christmas": 139,
     "gterracotta": 9,
