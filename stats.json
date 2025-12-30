@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:52:22 31/12/2025",
-  "totalKits": 79960,
-  "todayKits": 66,
-  "onlineCount": 42,
+  "lastUpdated": "06:52:42 31/12/2025",
+  "totalKits": 79961,
+  "todayKits": 67,
+  "onlineCount": 41,
   "peakPlayers": 49,
-  "tps": "8.0",
+  "tps": "11.0",
   "ping": 0,
   "topUsers": [
     {
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:50] [8b8t] >> Please do not spam.",
-    "[06:51] <hacks> !kit pvp ",
-    "[06:51] To hacks: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:51] [8b8t] >> Teleporting to home 0...",
-    "[06:51] [8b8t] >> Teleporting to home 1...",
-    "[06:51] seasnail8191 has completed the challenge [Cover Me in Debris]",
-    "[06:51] seasnail8191 has reached the goal [Sky's the Limit]",
-    "[06:51] seasnail8191 has completed the challenge [Serious Dedication]",
-    "[06:51] elmine1079 Whispers: !kit dupe",
-    "[06:51] To hacks: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:51] [8b8t] >> Request sent to hacks",
-    "[06:51] [8b8t] >> Teleporting...",
     "[06:51] [8b8t] >> Home 2 was not found",
     "[06:51] [BOT] <0_HienBot> Welcome to 8b8t, davidpro077! ",
     "[06:51] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +89,19 @@
     "[06:52] [Youtuber] <elproplayerxddd> why???? ",
     "[06:52] <hosni_chan05> !kit ",
     "[06:52] To hosni_chan05: Hello hosni_chan05!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[06:52] [8b8t] >> Home 2 was not found"
+    "[06:52] [8b8t] >> Home 2 was not found",
+    "[06:52] <hacks> !kit raid ",
+    "[06:52] To hacks: You're on cooldown, try again in 19 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:52] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[06:52] <hosni_chan05> !kit mineral ",
+    "[06:52] [8b8t] >> Teleporting to home 0...",
+    "[06:52] [8b8t] >> Teleporting to home 4...",
+    "[06:52] To hosni_chan05: Your kit (mineral) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:52] To hosni_chan05: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:52] [8b8t] >> Request sent to hosni_chan05",
+    "[06:52] <hacks> !kit raid ",
+    "[06:52] To hacks: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2307,7 +2307,7 @@
     "hacks": 6,
     "MrDerpyFry": 1,
     "seasnail8191": 3,
-    "hosni_chan05": 1
+    "hosni_chan05": 2
   },
   "kitStats": {
     "build": 1196,
@@ -2321,7 +2321,7 @@
     "exp": 518,
     "dye": 213,
     "wool": 288,
-    "mineral": 418,
+    "mineral": 419,
     "food": 303,
     "redstone": 572,
     "toolbox": 469,
