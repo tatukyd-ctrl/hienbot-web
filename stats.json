@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:03:54 31/12/2025",
+  "lastUpdated": "01:04:24 31/12/2025",
   "totalKits": 79710,
   "todayKits": 39,
-  "onlineCount": 40,
+  "onlineCount": 37,
   "peakPlayers": 50,
-  "tps": "7.0",
+  "tps": "9.0",
   "ping": 0,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4593
+      "count": 4594
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:01] <el_xir> !kit shulker ",
-    "[01:01] [8b8t] >> Teleporting to home 0...",
-    "[01:01] [8b8t] >> Teleporting to home 7...",
-    "[01:01] To el_xir: Your kit (shulker) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:01] To el_xir: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:01] [8b8t] >> Request sent to el_xir",
-    "[01:01] [8b8t] >> Teleporting...",
     "[01:01] <obimoro> !kit survival ",
     "[01:01] To obimoro: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +94,14 @@
     "[01:03] KorkixzZ thought they could fly... they couldn't",
     "[01:03] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[01:03] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑ing ",
-    "[01:03] Wagusx has made the advancement [The End?]"
+    "[01:03] Wagusx has made the advancement [The End?]",
+    "[01:03] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[01:04] <iKzzCL> !kit survival ",
+    "[01:04] [8b8t] >> Teleporting to home 0...",
+    "[01:04] [8b8t] >> Teleporting to home 1...",
+    "[01:04] To iKzzCL: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:04] To iKzzCL: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:04] [8b8t] >> Request sent to iKzzCL"
   ],
   "userStats": {
     "76756": 38,
@@ -2212,7 +2212,7 @@
     "Bloow1": 1,
     "gaelcito2012": 1,
     ".Ri2222": 55,
-    "iKzzCL": 7,
+    "iKzzCL": 8,
     ".Memel8831": 2,
     "md7426": 7,
     "valen0626": 1,
@@ -2277,7 +2277,7 @@
   },
   "kitStats": {
     "build": 1181,
-    "survival": 4593,
+    "survival": 4594,
     "pvp": 5804,
     "dupe": 1214,
     "tools": 1266,
