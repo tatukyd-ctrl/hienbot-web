@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:10:20 30/12/2025",
+  "lastUpdated": "13:10:50 30/12/2025",
   "totalKits": 79588,
   "todayKits": 36,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 43,
-  "tps": "9.0",
-  "ping": 235,
+  "tps": "13.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4497
+      "count": 4498
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:07] [8b8t] >> Teleporting to home 0...",
-    "[13:07] [8b8t] >> Teleporting to home 1...",
-    "[13:07] darkxmad is ignoring you",
-    "[13:07] <darkxmad> ? ",
-    "[13:07] <darkxmad> bot broken? ",
-    "[13:07] [BOT] <0_HienBot> Welcome to 8b8t, AppleBot! ",
     "[13:07] darkxmad is ignoring you",
     "[13:07] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[13:07] [BOT] <0_HienBot> Want kit ?? Chat !𝙠it ",
@@ -101,7 +95,13 @@
     "[13:09] EnZo_eLiAs has made the advancement [Ice Bucket Challenge]",
     "[13:09] PANCHITOXDDD got pieced by an End Crystal",
     "[13:09] Marcorro got pieced by an End Crystal",
-    "[13:09] [BOT] <0_HienBot> Use /lobby to return to the lobby! "
+    "[13:09] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[13:10] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[13:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:10] <frima24> !kit survival ",
+    "[13:10] [8b8t] >> Teleporting to home 0...",
+    "[13:10] [8b8t] >> Teleporting to home 1...",
+    "[13:10] To frima24: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2228,11 +2228,12 @@
     "THE_QALEN": 5,
     "4iwurLP": 2,
     "ITS_Demon": 3,
-    "Marcorro": 3
+    "Marcorro": 3,
+    "frima24": 1
   },
   "kitStats": {
     "build": 1167,
-    "survival": 4497,
+    "survival": 4498,
     "pvp": 5708,
     "dupe": 1172,
     "tools": 1245,
