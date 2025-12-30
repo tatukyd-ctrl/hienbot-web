@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:05:54 31/12/2025",
-  "totalKits": 79870,
-  "todayKits": 199,
-  "onlineCount": 39,
+  "lastUpdated": "05:06:07 31/12/2025",
+  "totalKits": 79871,
+  "todayKits": 200,
+  "onlineCount": 41,
   "peakPlayers": 54,
-  "tps": "9.0",
+  "tps": "12.0",
   "ping": 0,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 1275
+      "count": 1276
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:03] [8b8t] >> Teleporting...",
-    "[05:03] <.Funfreddy9913> !kit ",
-    "[05:03] To .Funfreddy9913: Hello .Funfreddy9913!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:03] [BOT] <0_HienBot> Welcome to 8b8t, MrBarraVajaZ_! ",
-    "[05:03] [8b8t] >> Home 2 was not found",
-    "[05:03] <.Funfreddy9913> !kit pvp ",
-    "[05:03] To .Funfreddy9913: You're on cooldown, try again in 62 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:04] <MrHipan> !kit pvp ",
     "[05:04] [8b8t] >> Teleporting to home 0...",
     "[05:04] [8b8t] >> Teleporting to home 1...",
     "[05:04] To MrHipan: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[05:05] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
     "[05:05] MrHipan has made the advancement [Ice Bucket Challenge]",
     "[05:05] [BOT] <0_HienBot> Try !𝒌it pvp ",
-    "[05:05] <MrHipan> !kit tools "
+    "[05:05] <MrHipan> !kit tools ",
+    "[05:05] To MrHipan: You're on cooldown, try again in 4 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:05] <MrHipan> !kit tools ",
+    "[05:05] [8b8t] >> Teleporting to home 0...",
+    "[05:05] [8b8t] >> Teleporting to home 8...",
+    "[05:05] To MrHipan: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:06] To MrHipan: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:06] [8b8t] >> Request sent to MrHipan",
+    "[05:06] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2296,7 +2296,7 @@
     "TSDJuan": 1,
     ".Eden_01655": 1,
     "shirooo90": 1,
-    "MrHipan": 5,
+    "MrHipan": 6,
     "iMrArma_": 2,
     "GargoReseller": 1,
     "StxzyBaby": 1,
@@ -2307,7 +2307,7 @@
     "survival": 4628,
     "pvp": 5845,
     "dupe": 1234,
-    "tools": 1275,
+    "tools": 1276,
     "stash": 640,
     "raid": 893,
     "wood": 356,
