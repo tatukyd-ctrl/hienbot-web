@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:58:19 30/12/2025",
+  "lastUpdated": "10:58:50 30/12/2025",
   "totalKits": 79586,
   "todayKits": 34,
-  "onlineCount": 24,
+  "onlineCount": 22,
   "peakPlayers": 43,
-  "tps": "11.0",
-  "ping": 246,
+  "tps": "19.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5688
+      "count": 5689
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:57] <MrBarraVajaZ_> AYUDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA ",
-    "[10:57] <lolagaming498> !kit survival ",
-    "[10:57] [8b8t] >> Teleporting to home 0...",
-    "[10:57] [8b8t] >> Teleporting to home 1...",
-    "[10:57] To lolagaming498: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:57] <ZafiroAfiro> !kit pvp ",
-    "[10:57] To ZafiroAfiro: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:57] To lolagaming498: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[10:57] [8b8t] >> Request sent to lolagaming498",
     "[10:57] <ZafiroAfiro> !kit pvp ",
     "[10:57] To ZafiroAfiro: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[10:58] To .Ri2222: Kit \"tus\" not found! Giving you a random kit (pvp) instead!",
     "[10:58] To .Ri2222: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[10:58] [8b8t] >> Request sent to .Ri2222",
-    "[10:58] [8b8t] >> Teleporting..."
+    "[10:58] [8b8t] >> Teleporting...",
+    "[10:58] [8b8t] >> Home 2 was not found",
+    "[10:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[10:58] [BOT] <0_HienBot> Do !discord ",
+    "[10:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:58] <ZafiroAfiro> !kit pvp ",
+    "[10:58] [8b8t] >> Teleporting to home 0...",
+    "[10:58] [8b8t] >> Teleporting to home 1...",
+    "[10:58] To ZafiroAfiro: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1854,7 +1854,7 @@
     "N008XD": 14,
     ".Deadmask911": 17,
     "djalca213": 1,
-    "ZafiroAfiro": 22,
+    "ZafiroAfiro": 23,
     "Planet_Doge": 3,
     "SlateSleet41213": 1,
     ".Altay98462": 1,
@@ -2229,7 +2229,7 @@
   "kitStats": {
     "build": 1166,
     "survival": 4487,
-    "pvp": 5688,
+    "pvp": 5689,
     "dupe": 1170,
     "tools": 1241,
     "stash": 611,
