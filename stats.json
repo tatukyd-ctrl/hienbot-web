@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:48:54 31/12/2025",
+  "lastUpdated": "02:49:24 31/12/2025",
   "totalKits": 79787,
   "todayKits": 116,
   "onlineCount": 36,
   "peakPlayers": 50,
-  "tps": "11.0",
+  "tps": "8.0",
   "ping": 0,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:47] <GuilleB737> ahi voy ",
-    "[02:47] <L1ghtyHU> Hello ",
-    "[02:47] <davidpro077> guille te has llevado las llamas? ",
-    "[02:47] [XMAS2025] <femboylover132> c ",
-    "[02:48] <GuilleB737> no ",
-    "[02:48] <davidpro077> donde estas, te he perdido ",
-    "[02:48] <flucia10M> !kit ",
-    "[02:48] To flucia10M: Hello flucia10M!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[02:48] [XMAS2025] <Nekso> no ",
-    "[02:48] [XMAS2025] <femboylover132> qfue ",
     "[02:48] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[02:48] [XMAS2025] <femboylover132> noquieresaltar ",
     "[02:48] <GuilleB737> ahi voy, fui a buscar el tesoro ",
@@ -101,7 +91,17 @@
     "[02:48] [8b8t] >> Teleporting...",
     "[02:48] <davidpro077> estas muy lejos del cofre? ",
     "[02:48] [XMAS2025] <femboylover132> ns_w ",
-    "[02:48] [8b8t] >> Home 2 was not found"
+    "[02:48] [8b8t] >> Home 2 was not found",
+    "[02:49] [BOT] <0_HienBot> Try !𝒌it survival ",
+    "[02:49] <davidpro077> me refiero del que puse yo con mis cosas ",
+    "[02:49] <L1ghtyHU> !kit stash ",
+    "[02:49] [8b8t] >> Teleporting to home 0...",
+    "[02:49] <davidpro077> si te has ido volando ",
+    "[02:49] [8b8t] >> Teleporting to home 3...",
+    "[02:49] To L1ghtyHU: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:49] To L1ghtyHU: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:49] [8b8t] >> Request sent to L1ghtyHU",
+    "[02:49] [XMAS2025] <Nekso> ponle el boton de salta en otra tecla :fire: "
   ],
   "userStats": {
     "76756": 38,
@@ -2282,7 +2282,8 @@
     ".FlatClamp595718": 2,
     "derechtebuffel": 7,
     "0_kitbot": 1,
-    "Richy6732": 1
+    "Richy6732": 1,
+    "L1ghtyHU": 1
   },
   "kitStats": {
     "build": 1186,
@@ -2290,7 +2291,7 @@
     "pvp": 5817,
     "dupe": 1226,
     "tools": 1271,
-    "stash": 637,
+    "stash": 638,
     "raid": 891,
     "wood": 356,
     "exp": 515,
