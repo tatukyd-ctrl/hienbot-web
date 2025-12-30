@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:43:20 30/12/2025",
+  "lastUpdated": "17:43:50 30/12/2025",
   "totalKits": 79588,
   "todayKits": 36,
   "onlineCount": 26,
   "peakPlayers": 43,
-  "tps": "17.0",
-  "ping": 248,
+  "tps": "16.0",
+  "ping": 252,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4513
+      "count": 4514
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:40] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[17:40] <Derrick> i already exit spawn lol ",
-    "[17:41] [BOT] <0_HienBot> Welcome to 8b8t, iTrisstan! ",
-    "[17:41] <.OptiConnXs> !kit ",
-    "[17:41] To .OptiConnXs: Hello .OptiConnXs!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[17:41] <IvanZaSilly2> DIAMONDS!!! ",
-    "[17:41] [BOT] <0_HienBot> Try /nc to change your name color! ",
     "[17:41] <.OptiConnXs> !kit survival ",
     "[17:41] [8b8t] >> Teleporting to home 0...",
     "[17:41] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +94,14 @@
     "[17:43] To Ender_PvP345: Kit \"obsidian\" not found! Giving you a random kit (mineral) instead!",
     "[17:43] <Derrick> !kit survival ",
     "[17:43] To Derrick: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:43] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: d1cord,gg/2vezgc2VGb "
+    "[17:43] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: d1cord,gg/2vezgc2VGb ",
+    "[17:43] To Ender_PvP345: Try again .Join dsc.gg/hienbot to report the error.",
+    "[17:43] <.OptiConnXs> !kit survival ",
+    "[17:43] [8b8t] >> Teleporting to home 0...",
+    "[17:43] [8b8t] >> Teleporting to home 1...",
+    "[17:43] To .OptiConnXs: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:43] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[17:43] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "76756": 38,
@@ -2240,11 +2240,11 @@
     "IvanZaSilly2": 7,
     "blackwolf480": 4,
     "asadullaayevdi": 1,
-    ".OptiConnXs": 1
+    ".OptiConnXs": 2
   },
   "kitStats": {
     "build": 1167,
-    "survival": 4513,
+    "survival": 4514,
     "pvp": 5731,
     "dupe": 1184,
     "tools": 1251,
