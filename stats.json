@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:00:50 30/12/2025",
+  "lastUpdated": "15:01:20 30/12/2025",
   "totalKits": 79588,
   "todayKits": 36,
-  "onlineCount": 11,
+  "onlineCount": 12,
   "peakPlayers": 43,
   "tps": "20.0",
   "ping": 250,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4501
+      "count": 4502
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:57] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[14:57] [BOT] <0_HienBot> Welcome to 8b8t, TNGB0T! ",
-    "[14:58] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[14:58] [Basic] <.VadoseMist36087> $kit glass ",
-    "[14:58] [8b8t] >> Teleporting to home 0...",
-    "[14:58] [8b8t] >> Teleporting to home 5...",
-    "[14:58] To .VadoseMist36087: Your kit (glass) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[14:58] [BOT] <0_HienBot> Use /kill to kill yourself! ",
     "[14:58] To .VadoseMist36087: Try again .Join dsc.gg/hienbot to report the error.",
@@ -101,7 +94,14 @@
     "[15:00] To xGIL4: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:00] [8b8t] >> .VadoseMist36087 would like to teleport to you /tpayes USERNAME /tpano USERNAME",
     "[15:00] To .VadoseMist36087: Try again .Join dsc.gg/hienbot to report the error.",
-    "[15:00] [BOT] <0_HienBot> What's up, .EdxxRaven1? "
+    "[15:00] [BOT] <0_HienBot> What's up, .EdxxRaven1? ",
+    "[15:00] <.MC_meester_Lars> !Kit survival ",
+    "[15:00] [8b8t] >> Teleporting to home 0...",
+    "[15:00] [8b8t] >> Teleporting to home 1...",
+    "[15:00] To .MC_meester_Lars: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:01] [Youtuber] <elproplayerxddd> 8b8t is death ",
+    "[15:01] To .MC_meester_Lars: Try again .Join dsc.gg/hienbot to report the error.",
+    "[15:01] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑ing "
   ],
   "userStats": {
     "76756": 38,
@@ -1707,7 +1707,7 @@
     "BeNJa_147": 1,
     "Vince_Masuka": 1,
     "pyro88384": 7,
-    ".MC_meester_Lars": 84,
+    ".MC_meester_Lars": 85,
     "pepe23gftnico": 54,
     "JINdz1": 1,
     "izzleon": 1,
@@ -2238,7 +2238,7 @@
   },
   "kitStats": {
     "build": 1167,
-    "survival": 4501,
+    "survival": 4502,
     "pvp": 5716,
     "dupe": 1173,
     "tools": 1245,
