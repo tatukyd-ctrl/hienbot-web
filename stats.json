@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:58:20 30/12/2025",
-  "totalKits": 79556,
-  "todayKits": 4,
-  "onlineCount": 38,
+  "lastUpdated": "09:58:50 30/12/2025",
+  "totalKits": 79557,
+  "todayKits": 5,
+  "onlineCount": 40,
   "peakPlayers": 42,
-  "tps": "10.0",
-  "ping": 247,
+  "tps": "8.0",
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5681
+      "count": 5682
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:56] Val3n5847 tried to play peek-a-boo with an Enderman",
-    "[09:56] [8b8t] >> Teleporting to home 1...",
-    "[09:56] To Ray13: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:57] To Ray13: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
-    "[09:57] [8b8t] >> Request sent to Ray13",
-    "[09:57] [8b8t] >> Teleporting...",
-    "[09:57] [BOT] <0_HienBot> Hi .Ghostwazhere181! ",
-    "[09:57] [8b8t] >> Home 2 was not found",
-    "[09:57] <kingMeXXIV> !kit Raid ",
-    "[09:57] [8b8t] >> Teleporting to home 0...",
     "[09:57] [8b8t] >> Teleporting to home 3...",
     "[09:57] To kingMeXXIV: Your kit (Raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:57] To kingMeXXIV: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
@@ -101,7 +91,17 @@
     "[09:58] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
     "[09:58] <Nekshuu> q void ",
     "[09:58] [XMAS2025] <femboylover132> wholesome ",
-    "[09:58] Jinxs_017 has made the advancement [Sweet dreams]"
+    "[09:58] Jinxs_017 has made the advancement [Sweet dreams]",
+    "[09:58] <Nekshuu> :eyes: ",
+    "[09:58] Val3n5847 got slammed into a wall by his elytra",
+    "[09:58] <Ray13> !kit pvp ",
+    "[09:58] [8b8t] >> Teleporting to home 0...",
+    "[09:58] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[09:58] [8b8t] >> Teleporting to home 1...",
+    "[09:58] To Ray13: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:58] To Ray13: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
+    "[09:58] [8b8t] >> Request sent to Ray13",
+    "[09:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2216,13 +2216,13 @@
     ".Memel8831": 2,
     "md7426": 7,
     "valen0626": 1,
-    "Ray13": 6,
+    "Ray13": 7,
     "Buezito22": 3
   },
   "kitStats": {
     "build": 1166,
     "survival": 4477,
-    "pvp": 5681,
+    "pvp": 5682,
     "dupe": 1166,
     "tools": 1241,
     "stash": 611,
