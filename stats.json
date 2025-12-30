@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:50:24 31/12/2025",
+  "lastUpdated": "03:50:54 31/12/2025",
   "totalKits": 79803,
   "todayKits": 132,
-  "onlineCount": 40,
+  "onlineCount": 39,
   "peakPlayers": 54,
-  "tps": "8.0",
+  "tps": "10.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5822
+      "count": 5823
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:47] <kokorakel> !kit ",
-    "[03:47] To kokorakel: Hello kokorakel!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[03:47] Neto290908 has made the advancement [We Need to Go Deeper]",
-    "[03:47] kokorakel got his head blown off by the Wither",
-    "[03:47] nick1314 decided to sleep with the fishes",
-    "[03:47] to_445 got blown up by an End Crystal",
-    "[03:47] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[03:48] Neto290908 thought they could fly... they couldn't",
-    "[03:48] [XMAS2025] <femboylover132> aksnaksn ",
-    "[03:48] kokorakel has made the advancement [Ice Bucket Challenge]",
     "[03:48] nick1314 tried to outswim the water",
     "[03:48] <Volky1343> turk varmi sunucuda baska ",
     "[03:48] yuureeei__dan challenged the Wither and lost their head",
@@ -101,7 +91,17 @@
     "[03:49] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[03:49] axel1241 forgot to stop, drop, and roll",
     "[03:50] Copetingo forgot to bring their parachute",
-    "[03:50] zizogg1235 has made the advancement [Stone Age]"
+    "[03:50] zizogg1235 has made the advancement [Stone Age]",
+    "[03:50] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
+    "[03:50] fu4ri went for a swim in lava and got burned",
+    "[03:50] FormingPepper61 has made the advancement [Diamonds!]",
+    "[03:50] nick1314 has made the advancement [Stone Age]",
+    "[03:50] <agartha_citizen> !kit pvp ",
+    "[03:50] [8b8t] >> Teleporting to home 0...",
+    "[03:50] [8b8t] >> Teleporting to home 1...",
+    "[03:50] [8b8t] >> Could not find player agartha_citizen",
+    "[03:50] nick1314 has made the advancement [Getting an Upgrade]",
+    "[03:50] [8b8t] >> Could not find player agartha_citizen"
   ],
   "userStats": {
     "76756": 38,
@@ -2288,12 +2288,13 @@
     "SoFiUwW8": 2,
     "niggabones": 1,
     "deantheneek": 1,
-    "Ascalito": 1
+    "Ascalito": 1,
+    "agartha_citizen": 1
   },
   "kitStats": {
     "build": 1190,
     "survival": 4614,
-    "pvp": 5822,
+    "pvp": 5823,
     "dupe": 1228,
     "tools": 1271,
     "stash": 638,
