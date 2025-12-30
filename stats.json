@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:55:20 30/12/2025",
+  "lastUpdated": "11:55:50 30/12/2025",
   "totalKits": 79588,
   "todayKits": 36,
-  "onlineCount": 22,
+  "onlineCount": 25,
   "peakPlayers": 43,
-  "tps": "15.0",
-  "ping": 234,
+  "tps": "12.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5700
+      "count": 5701
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:52] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[11:52] [8b8t] >> kendricklover132 created a new hotspot, use /hotspot to teleport to it",
-    "[11:52] [BOT] <0_HienBot> Do !discord ",
-    "[11:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:53] [BOT] <0_HienBot> Chat !𝙠it to get free kit ",
-    "[11:53] <fetch3d> !kit sign ",
-    "[11:53] ZafiroAfiro has made the advancement [Suit Up]",
-    "[11:53] [8b8t] >> Teleporting to home 0...",
     "[11:53] [8b8t] >> Teleporting to home 8...",
     "[11:53] To fetch3d: Your kit (sign) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:53] [Youtuber] <elproplayerxddd> help ; ( ",
@@ -101,7 +92,16 @@
     "[11:54] [8b8t] >> Leee created a new hotspot, use /hotspot to teleport to it",
     "[11:54] <.Ri2222> !kit wood ",
     "[11:54] To .Ri2222: You're on cooldown, try again in 61 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:54] [BOT] <0_HienBot> Bot created by Hien2309. "
+    "[11:54] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[11:55] <ITS_Demon> !kit ",
+    "[11:55] To ITS_Demon: Hello ITS_Demon!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[11:55] [Youtuber] <elproplayerxddd> help ",
+    "[11:55] [Youtuber] <elproplayerxddd> ; ( ",
+    "[11:55] <ITS_Demon> !kit pvp ",
+    "[11:55] [8b8t] >> Teleporting to home 0...",
+    "[11:55] [8b8t] >> Teleporting to home 1...",
+    "[11:55] To ITS_Demon: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -2226,12 +2226,13 @@
     "PR2CEE": 2,
     "Brunosayi": 1,
     "THE_QALEN": 5,
-    "4iwurLP": 2
+    "4iwurLP": 2,
+    "ITS_Demon": 1
   },
   "kitStats": {
     "build": 1166,
     "survival": 4496,
-    "pvp": 5700,
+    "pvp": 5701,
     "dupe": 1171,
     "tools": 1243,
     "stash": 611,
