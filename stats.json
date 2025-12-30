@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:06:29 31/12/2025",
+  "lastUpdated": "02:06:54 31/12/2025",
   "totalKits": 79767,
   "todayKits": 96,
-  "onlineCount": 40,
+  "onlineCount": 39,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "9.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5811
+      "count": 5812
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:05] <GuilleB737> XD ",
-    "[02:05] [BOT] <0_HienBot> Welcome to 8b8t, XC0P! ",
-    "[02:05] <.LEON50758> !kit armortrims ",
-    "[02:05] [8b8t] >> Teleporting to home 0...",
-    "[02:06] [8b8t] >> Teleporting to home 8...",
-    "[02:06] To .LEON50758: Your kit (armortrims) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:06] TheKingOfPixels tried to outswim the water",
-    "[02:06] <MintKoala997563> !kit dupe ",
     "[02:06] To MintKoala997563: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:06] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:06] [8b8t] >> Request sent to .LEON50758",
@@ -101,7 +93,15 @@
     "[02:06] [8b8t] >> Teleporting...",
     "[02:06] <Murad2002> bitti ",
     "[02:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[02:06] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me "
+    "[02:06] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[02:06] [8b8t] >> Home 2 was not found",
+    "[02:06] <.LEON50758> bakim ",
+    "[02:06] <guest54445> !kit pvp ",
+    "[02:06] [8b8t] >> Teleporting to home 0...",
+    "[02:06] [8b8t] >> Teleporting to home 1...",
+    "[02:06] To guest54445: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:06] To guest54445: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:06] [8b8t] >> Request sent to guest54445"
   ],
   "userStats": {
     "76756": 38,
@@ -2276,12 +2276,13 @@
     "Lasermussel": 1,
     "obimoro": 4,
     "alan21463": 6,
-    "_Chaosblade_": 5
+    "_Chaosblade_": 5,
+    "guest54445": 1
   },
   "kitStats": {
     "build": 1185,
     "survival": 4607,
-    "pvp": 5811,
+    "pvp": 5812,
     "dupe": 1217,
     "tools": 1270,
     "stash": 637,
