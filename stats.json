@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:44:07 31/12/2025",
+  "lastUpdated": "04:44:24 31/12/2025",
   "totalKits": 79852,
   "todayKits": 181,
-  "onlineCount": 38,
+  "onlineCount": 37,
   "peakPlayers": 54,
-  "tps": "8.0",
+  "tps": "14.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5833
+      "count": 5834
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:42] [8b8t] >> Teleporting to home 3...",
-    "[04:42] To Ascalito: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:42] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:42] To Ascalito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:42] [8b8t] >> Request sent to Ascalito",
-    "[04:42] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
     "[04:42] <xXxAllajxXx> sa trk var mı ",
     "[04:42] .Eden_01655 thought they could fly... they couldn't",
     "[04:42] [8b8t] >> Teleporting...",
@@ -101,7 +95,13 @@
     "[04:44] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[04:44] To eggchtherealone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:44] [8b8t] >> Request sent to eggchtherealone",
-    "[04:44] [8b8t] >> Teleporting..."
+    "[04:44] [8b8t] >> Teleporting...",
+    "[04:44] yankeebravo0631 tried to outswim the water",
+    "[04:44] [8b8t] >> Home 2 was not found",
+    "[04:44] <Ascalito> !kit pvp ",
+    "[04:44] [8b8t] >> Teleporting to home 0...",
+    "[04:44] [8b8t] >> Teleporting to home 1...",
+    "[04:44] To Ascalito: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2288,7 +2288,7 @@
     "SoFiUwW8": 2,
     "niggabones": 1,
     "deantheneek": 1,
-    "Ascalito": 9,
+    "Ascalito": 10,
     "agartha_citizen": 1,
     "AdustCloud3179": 5,
     "Copetingo": 7,
@@ -2299,7 +2299,7 @@
   "kitStats": {
     "build": 1192,
     "survival": 4624,
-    "pvp": 5833,
+    "pvp": 5834,
     "dupe": 1233,
     "tools": 1272,
     "stash": 639,
