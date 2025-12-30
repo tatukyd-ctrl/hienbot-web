@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:29:37 31/12/2025",
+  "lastUpdated": "00:29:54 31/12/2025",
   "totalKits": 79695,
   "todayKits": 24,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 50,
-  "tps": "11.0",
+  "tps": "4.0",
   "ping": 0,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4588
+      "count": 4589
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:27] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[00:28] 0_HienBot forgot to stop, drop, and roll",
-    "[00:28] [8b8t] >> Home 2 was not found",
-    "[00:28] <UnBot> PVP kit is now available type +kit pvp ",
-    "[00:28] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[00:28] <UnBot> 插入中國宣傳 ",
-    "[00:28] <BdubH2015> can i tp to someone away from spawn? ",
     "[00:28] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[00:28] [BOT] <0_HienBot> Use !𝙠it to get kit ",
     "[00:29] <iKzzCL> !kit survival ",
@@ -101,7 +94,14 @@
     "[00:29] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[00:29] To botchaosonix666: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:29] [8b8t] >> Request sent to botchaosonix666",
-    "[00:29] [8b8t] >> Teleporting..."
+    "[00:29] [8b8t] >> Teleporting...",
+    "[00:29] [8b8t] >> Home 2 was not found",
+    "[00:29] <joselito15> !kit survival ",
+    "[00:29] [8b8t] >> Teleporting to home 0...",
+    "[00:29] [8b8t] >> Teleporting to home 1...",
+    "[00:29] To joselito15: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:29] To joselito15: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:29] [8b8t] >> Request sent to joselito15"
   ],
   "userStats": {
     "76756": 38,
@@ -2270,11 +2270,12 @@
     "Ladiss_": 1,
     "m2xsie": 2,
     "platanito111": 1,
-    "11Diomedezz": 2
+    "11Diomedezz": 2,
+    "joselito15": 1
   },
   "kitStats": {
     "build": 1181,
-    "survival": 4588,
+    "survival": 4589,
     "pvp": 5797,
     "dupe": 1214,
     "tools": 1266,
