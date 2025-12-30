@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:45:52 31/12/2025",
-  "totalKits": 79951,
-  "todayKits": 57,
-  "onlineCount": 43,
+  "lastUpdated": "06:46:04 31/12/2025",
+  "totalKits": 79952,
+  "todayKits": 58,
+  "onlineCount": 42,
   "peakPlayers": 49,
-  "tps": "10.0",
+  "tps": "7.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5867
+      "count": 5868
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:43] FrancoSB has made the advancement [Spooky Scary Skeleton]",
-    "[06:43] [Youtuber] <elproplayerxddd> Pop pop pop wont stop till you drop hacks ",
-    "[06:43] [8b8t] >> Home 2 was not found",
-    "[06:43] <hacks> !kit pvp ",
-    "[06:43] [8b8t] >> Teleporting to home 0...",
-    "[06:43] [8b8t] >> Teleporting to home 1...",
-    "[06:43] To hacks: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:43] To hacks: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:43] [8b8t] >> Request sent to hacks",
-    "[06:43] [BOT] <0_HienBot> August 15 2025, the Avolution team boxed the Nether spawn with 3 obsidian walls ",
     "[06:43] [8b8t] >> Teleporting...",
     "[06:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:44] [8b8t] >> Home 2 was not found",
@@ -101,7 +91,17 @@
     "[06:45] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[06:45] zMisyls decided to test gravity and lost",
     "[06:45] DUNITO9 thought they could fly... they couldn't",
-    "[06:45] <hacks> pls dont kill me "
+    "[06:45] <hacks> pls dont kill me ",
+    "[06:45] <hacks> !kit pvp ",
+    "[06:45] [8b8t] >> Teleporting to home 0...",
+    "[06:45] [8b8t] >> Teleporting to home 1...",
+    "[06:45] To hacks: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:45] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[06:45] To hacks: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:45] [8b8t] >> Request sent to hacks",
+    "[06:45] [Youtuber] <elproplayerxddd> lo mataste? ",
+    "[06:46] [8b8t] >> Teleporting...",
+    "[06:46] felixito thought they could fly... they couldn't"
   ],
   "userStats": {
     "76756": 38,
@@ -2304,13 +2304,13 @@
     "Fovomueco888": 2,
     "DiegoDev1": 1,
     "Elexes": 2,
-    "hacks": 4,
+    "hacks": 5,
     "MrDerpyFry": 1
   },
   "kitStats": {
     "build": 1196,
     "survival": 4637,
-    "pvp": 5867,
+    "pvp": 5868,
     "dupe": 1236,
     "tools": 1295,
     "stash": 641,
