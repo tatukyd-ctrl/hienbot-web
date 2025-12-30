@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:03:54 31/12/2025",
+  "lastUpdated": "05:04:24 31/12/2025",
   "totalKits": 79869,
   "todayKits": 198,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 54,
   "tps": "9.0",
   "ping": 0,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5844
+      "count": 5845
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:01] [8b8t] >> Player StxzyBaby is not online",
-    "[05:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:02] <iMrArma_> quien pa hacer team? ",
-    "[05:02] [BOT] <0_HienBot> Do !𝙠it ",
-    "[05:02] <.Funfreddy9913> !kit ",
-    "[05:02] To .Funfreddy9913: Hello .Funfreddy9913!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:02] <Juanytoyt208> tupu ",
-    "[05:02] <.Funfreddy9913> !kit pvp ",
-    "[05:02] [8b8t] >> Teleporting to home 0...",
-    "[05:02] [8b8t] >> Teleporting to home 1...",
-    "[05:02] To .Funfreddy9913: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:02] To .Funfreddy9913: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:02] [8b8t] >> Request sent to .Funfreddy9913",
     "[05:02] [8b8t] >> Please do not spam.",
@@ -101,7 +90,18 @@
     "[05:03] [8b8t] >> Teleporting...",
     "[05:03] <.Funfreddy9913> !kit ",
     "[05:03] To .Funfreddy9913: Hello .Funfreddy9913!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:03] [BOT] <0_HienBot> Welcome to 8b8t, MrBarraVajaZ_! "
+    "[05:03] [BOT] <0_HienBot> Welcome to 8b8t, MrBarraVajaZ_! ",
+    "[05:03] [8b8t] >> Home 2 was not found",
+    "[05:03] <.Funfreddy9913> !kit pvp ",
+    "[05:03] To .Funfreddy9913: You're on cooldown, try again in 62 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:04] <MrHipan> !kit pvp ",
+    "[05:04] [8b8t] >> Teleporting to home 0...",
+    "[05:04] [8b8t] >> Teleporting to home 1...",
+    "[05:04] To MrHipan: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:04] To MrHipan: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:04] [8b8t] >> Request sent to MrHipan",
+    "[05:04] [BOT] <0_HienBot> Try !𝒌it survival ",
+    "[05:04] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2296,7 +2296,7 @@
     "TSDJuan": 1,
     ".Eden_01655": 1,
     "shirooo90": 1,
-    "MrHipan": 4,
+    "MrHipan": 5,
     "iMrArma_": 2,
     "GargoReseller": 1,
     "StxzyBaby": 1,
@@ -2305,7 +2305,7 @@
   "kitStats": {
     "build": 1194,
     "survival": 4628,
-    "pvp": 5844,
+    "pvp": 5845,
     "dupe": 1234,
     "tools": 1275,
     "stash": 640,
