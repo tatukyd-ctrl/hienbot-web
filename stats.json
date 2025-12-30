@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:48:50 30/12/2025",
+  "lastUpdated": "12:49:20 30/12/2025",
   "totalKits": 79588,
   "todayKits": 36,
-  "onlineCount": 22,
+  "onlineCount": 20,
   "peakPlayers": 43,
-  "tps": "14.0",
-  "ping": 237,
+  "tps": "11.0",
+  "ping": 235,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5703
+      "count": 5704
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:43] [BOT] <0_HienBot> Hello .EdxxRaven1! ",
-    "[12:43] Elimond11 decided to test gravity and lost",
-    "[12:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:43] [BOT] <0_HienBot> Want kit ?? Chat !𝙠it ",
-    "[12:44] Timolol225 went for a swim in lava and got burned",
-    "[12:44] [BOT] <0_HienBot> Use !𝙠it to get kit ",
-    "[12:44] <fetch3d> tf ",
-    "[12:44] Marcorro got pieced by an End Crystal",
-    "[12:44] <fetch3d> do i need clear inv ",
-    "[12:44] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[12:45] <fetch3d> k wait ",
     "[12:45] mandresmaul decided to test gravity and lost",
     "[12:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +91,17 @@
     "[12:48] <fetch3d> put minecart ",
     "[12:48] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[12:48] [BOT] <0_HienBot> Try!𝒌it stash ",
-    "[12:48] [Youtuber] <elproplayerxddd> leeeeeee disable anti cheat : ((( "
+    "[12:48] [Youtuber] <elproplayerxddd> leeeeeee disable anti cheat : ((( ",
+    "[12:48] [BOT] <0_HienBot> Try !𝒌it survival ",
+    "[12:48] <Marcorro> !kit ",
+    "[12:48] To Marcorro: Hello Marcorro!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[12:49] <Marcorro> !kit pvp ",
+    "[12:49] [8b8t] >> Teleporting to home 0...",
+    "[12:49] [8b8t] >> Teleporting to home 1...",
+    "[12:49] To Marcorro: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:49] <Marcorro> !kit pvp ",
+    "[12:49] To Marcorro: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:49] <fetch3d> shit "
   ],
   "userStats": {
     "76756": 38,
@@ -2227,12 +2227,13 @@
     "Brunosayi": 1,
     "THE_QALEN": 5,
     "4iwurLP": 2,
-    "ITS_Demon": 3
+    "ITS_Demon": 3,
+    "Marcorro": 1
   },
   "kitStats": {
     "build": 1167,
     "survival": 4497,
-    "pvp": 5703,
+    "pvp": 5704,
     "dupe": 1172,
     "tools": 1245,
     "stash": 611,
