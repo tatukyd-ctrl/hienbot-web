@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:28:35 31/12/2025",
+  "lastUpdated": "04:28:54 31/12/2025",
   "totalKits": 79832,
   "todayKits": 161,
-  "onlineCount": 39,
+  "onlineCount": 41,
   "peakPlayers": 54,
-  "tps": "7.0",
+  "tps": "11.0",
   "ping": 0,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4623
+      "count": 4624
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:27] <eggchtherealone> !kit apple ",
-    "[04:27] [8b8t] >> Teleporting to home 0...",
-    "[04:27] [8b8t] >> Teleporting to home 4...",
-    "[04:27] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[04:27] To eggchtherealone: Kit \"apple\" not found! Giving you a random kit (concrete) instead!",
-    "[04:27] To eggchtherealone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:27] aaron0x_7z thought they could fly... they couldn't",
-    "[04:27] [8b8t] >> Request sent to eggchtherealone",
-    "[04:27] <shirooo90> !kit survival ",
-    "[04:27] To shirooo90: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:27] <TSDJuan> !kit survival ",
-    "[04:27] To TSDJuan: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:27] [8b8t] >> Teleporting...",
     "[04:27] <Ascalito> !kit redstone ",
     "[04:27] To Ascalito: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +89,19 @@
     "[04:28] [8b8t] >> Teleporting...",
     "[04:28] <shirooo90> !kit survival ",
     "[04:28] To shirooo90: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:28] Judith226 thought they could fly... they couldn't"
+    "[04:28] Judith226 thought they could fly... they couldn't",
+    "[04:28] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[04:28] [8b8t] >> Home 2 was not found",
+    "[04:28] ssamuel008 has made the advancement [Cover Me With Diamonds]",
+    "[04:28] <TSDJuan> !kit survival ",
+    "[04:28] [8b8t] >> Teleporting to home 0...",
+    "[04:28] [8b8t] >> Teleporting to home 1...",
+    "[04:28] To TSDJuan: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:28] aaron0x_7z has made the advancement [Who is Cutting Onions?]",
+    "[04:28] To TSDJuan: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:28] [8b8t] >> Request sent to TSDJuan",
+    "[04:28] <eggchtherealone> !kit Raid ",
+    "[04:28] To eggchtherealone: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2292,11 +2292,12 @@
     "agartha_citizen": 1,
     "AdustCloud3179": 5,
     "Copetingo": 6,
-    "Neto290908": 6
+    "Neto290908": 6,
+    "TSDJuan": 1
   },
   "kitStats": {
     "build": 1192,
-    "survival": 4623,
+    "survival": 4624,
     "pvp": 5827,
     "dupe": 1229,
     "tools": 1272,
