@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:22:24 30/12/2025",
+  "lastUpdated": "21:22:54 30/12/2025",
   "totalKits": 79588,
   "todayKits": 0,
-  "onlineCount": 33,
+  "onlineCount": 31,
   "peakPlayers": 36,
-  "tps": "11.0",
+  "tps": "6.0",
   "ping": 251,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:20] To MinephaMC_YT_ALT: Kit \"saplings\" not found! Giving you a random kit (build) instead!",
-    "[21:20] <.Unknown33071> I will take any mapart ",
-    "[21:20] <MinephaMC_YT_ALT> +kits ",
-    "[21:21] <MinephaMC_YT_ALT> +menu ",
-    "[21:21] <.Unknown33071> And rate it ",
-    "[21:21] Yeyer120 was slain by Hanyss_ using [totem of undying]",
-    "[21:21] To MinephaMC_YT_ALT: Try again .Join dsc.gg/hienbot to report the error.",
-    "[21:21] [BOT] <0_HienBot> Do !𝙠it ",
-    "[21:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[21:21] 23Rusta burned up in a pit of lava",
     "[21:21] .Torrercat64 has made the advancement [Stone Age]",
     "[21:21] .Torrercat64 decided to test gravity and lost",
@@ -101,7 +92,16 @@
     "[21:22] <MinephaMC_YT_ALT> !kit sand ",
     "[21:22] To MinephaMC_YT_ALT: You're on cooldown, try again in 13 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:22] <MinephaMC_YT_ALT> !kit list ",
-    "[21:22] To MinephaMC_YT_ALT: You're on cooldown, try again in 7 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[21:22] To MinephaMC_YT_ALT: You're on cooldown, try again in 7 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:22] <MinephaMC_YT_ALT> !kit list ",
+    "[21:22] [8b8t] >> Teleporting to home 0...",
+    "[21:22] [8b8t] >> Teleporting to home 5...",
+    "[21:22] To MinephaMC_YT_ALT: Kit \"list\" not found! Giving you a random kit (glass) instead!",
+    "[21:22] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[21:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:22] .Torrercat64 forgot to bring their parachute",
+    "[21:22] <.Unknown33071> Hanyss ",
+    "[21:22] [8b8t] >> Could not find player MinephaMC_YT_ALT"
   ],
   "userStats": {
     "76756": 38,
@@ -1562,7 +1562,7 @@
     "0_HienBot": 1,
     "mikanMC": 20,
     "TrayNeh": 8,
-    "MinephaMC_YT_ALT": 14,
+    "MinephaMC_YT_ALT": 15,
     "pannss": 8,
     "Manitololo": 1,
     "versaexe": 3,
@@ -2276,7 +2276,7 @@
     "highway": 328,
     "ocean": 69,
     "concrete": 253,
-    "glass": 197,
+    "glass": 198,
     "gap": 29,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 17,
