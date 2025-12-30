@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:12:46 30/12/2025",
+  "lastUpdated": "09:13:16 30/12/2025",
   "totalKits": 79529,
   "todayKits": 66,
   "onlineCount": 39,
   "peakPlayers": 47,
-  "tps": "16.0",
+  "tps": "10.0",
   "ping": 238,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4472
+      "count": 4473
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:11] <_aki> 3 ",
-    "[09:11] <jsjsjsjsjsjs> hola alguien quiere team?? ",
-    "[09:11] <SpreenDMC.> bruh ",
-    "[09:11] <md7426> !kit SURVIVAL ",
-    "[09:11] [8b8t] >> Teleporting to home 0...",
-    "[09:11] [8b8t] >> Teleporting to home 1...",
-    "[09:11] To md7426: Your kit (SURVIVAL) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:11] ghostCOD1st was rekt by mantecay9 and their mighty [end crystal]",
     "[09:11] <SpreenDMC.> im proplayerxddd ",
     "[09:11] To md7426: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[09:11] [8b8t] >> Request sent to md7426",
@@ -101,7 +93,15 @@
     "[09:12] [8b8t] >> The TPA request you sent to valen0626 was successfully canceled.",
     "[09:12] <sebasfut29> quien pvp ",
     "[09:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:12] [BOT] <0_HienBot> What's up, MrBarraVajaZ_? "
+    "[09:12] [BOT] <0_HienBot> What's up, MrBarraVajaZ_? ",
+    "[09:12] [8b8t] >> ImNotCheatjng created a new hotspot, use /hotspot to teleport to it",
+    "[09:13] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: d1cord,gg/2vezgc2VGb ",
+    "[09:13] <Ray13> !kit survival ",
+    "[09:13] [8b8t] >> Teleporting to home 0...",
+    "[09:13] [8b8t] >> Teleporting to home 1...",
+    "[09:13] To Ray13: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:13] SpreenDMC. has made the advancement [We Need to Go Deeper]",
+    "[09:13] To Ray13: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 38,
@@ -2215,11 +2215,12 @@
     "iKzzCL": 4,
     ".Memel8831": 2,
     "md7426": 2,
-    "valen0626": 1
+    "valen0626": 1,
+    "Ray13": 1
   },
   "kitStats": {
     "build": 1164,
-    "survival": 4472,
+    "survival": 4473,
     "pvp": 5671,
     "dupe": 1165,
     "tools": 1240,
