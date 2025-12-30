@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:31:24 31/12/2025",
-  "totalKits": 79696,
-  "todayKits": 25,
+  "lastUpdated": "00:31:49 31/12/2025",
+  "totalKits": 79697,
+  "todayKits": 26,
   "onlineCount": 39,
   "peakPlayers": 50,
-  "tps": "7.0",
+  "tps": "5.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5798
+      "count": 5799
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:29] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[00:29] To botchaosonix666: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:29] [8b8t] >> Request sent to botchaosonix666",
-    "[00:29] [8b8t] >> Teleporting...",
-    "[00:29] [8b8t] >> Home 2 was not found",
-    "[00:29] <joselito15> !kit survival ",
-    "[00:29] [8b8t] >> Teleporting to home 0...",
-    "[00:29] [8b8t] >> Teleporting to home 1...",
-    "[00:29] To joselito15: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:29] To joselito15: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:29] [8b8t] >> Request sent to joselito15",
-    "[00:29] [BOT] <0_HienBot> Try!𝒌it stash ",
     "[00:30] kendricklover132 Whispers: !kit pvp",
     "[00:30] To kendricklover132: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[00:30] barucasoXD has made the advancement [Voluntary Exile]",
@@ -101,7 +89,19 @@
     "[00:30] <joselito15> !kit pvp ",
     "[00:30] To joselito15: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[00:30] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[00:31] [8b8t] >> Home 2 was not found"
+    "[00:31] [8b8t] >> Home 2 was not found",
+    "[00:31] [BOT] <0_HienBot> Do !discord ",
+    "[00:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:31] <iKzzCL> !kit pvp ",
+    "[00:31] To iKzzCL: You're on cooldown, try again in 54 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:31] botchaosonix666 Whispers: !kit pvp",
+    "[00:31] [8b8t] >> Teleporting to home 0...",
+    "[00:31] [8b8t] >> Teleporting to home 1...",
+    "[00:31] To botchaosonix666: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:31] To botchaosonix666: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:31] <UnBot> Want some Coke? type +kit mystic ",
+    "[00:31] [8b8t] >> Request sent to botchaosonix666",
+    "[00:31] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -420,7 +420,7 @@
     "Dmitch10": 1,
     "ali8989": 1,
     "Jhon2_87": 3,
-    "botchaosonix666": 115,
+    "botchaosonix666": 116,
     "47_": 57,
     "atritzz": 6,
     "Fantasmitapirobo": 1,
@@ -2276,7 +2276,7 @@
   "kitStats": {
     "build": 1181,
     "survival": 4589,
-    "pvp": 5798,
+    "pvp": 5799,
     "dupe": 1214,
     "tools": 1266,
     "stash": 632,
