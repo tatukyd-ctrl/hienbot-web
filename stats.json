@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:15:54 30/12/2025",
+  "lastUpdated": "21:16:24 30/12/2025",
   "totalKits": 79588,
   "todayKits": 0,
-  "onlineCount": 32,
+  "onlineCount": 35,
   "peakPlayers": 36,
-  "tps": "12.0",
-  "ping": 243,
+  "tps": "8.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5759
+      "count": 5760
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:14] <voxerismxDMci> !kit tools ",
-    "[21:14] [8b8t] >> Teleporting to home 0...",
-    "[21:14] [8b8t] >> Teleporting to home 8...",
-    "[21:14] To voxerismxDMci: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:14] <Hanyss_> !kit survival ",
-    "[21:14] To Hanyss_: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:14] <pepe23gftnico> +kit mystic ",
-    "[21:14] To pepe23gftnico: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:14] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: d1cord,gg/2vezgc2VGb ",
     "[21:14] <.Unknown33071> I need redstone kit ",
     "[21:14] To voxerismxDMci: Try again .Join dsc.gg/hienbot to report the error.",
     "[21:14] <.Unknown33071> Or to be specific ",
@@ -101,7 +92,16 @@
     "[21:15] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
     "[21:15] [8b8t] >> Could not find player pepe23gftnico",
     "[21:15] <voxerismxDMci> !kit PVP ",
-    "[21:15] To voxerismxDMci: You're on cooldown, try again in 18 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[21:15] To voxerismxDMci: You're on cooldown, try again in 18 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:16] <voxerismxDMci> !kit PVP ",
+    "[21:16] To voxerismxDMci: You're on cooldown, try again in 1 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:16] <voxerismxDMci> !kit PVP ",
+    "[21:16] [8b8t] >> Teleporting to home 0...",
+    "[21:16] [8b8t] >> Teleporting to home 1...",
+    "[21:16] [BOT] <0_HienBot> Want kit ?? Chat !𝙠it ",
+    "[21:16] To voxerismxDMci: Your kit (PVP) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:16] 23Rusta was rudely introduced to a Creeper's explosive personality",
+    "[21:16] <Juanytoyt208> ando bien bug "
   ],
   "userStats": {
     "76756": 38,
@@ -2250,12 +2250,12 @@
     "Vltaik": 3,
     ".s1gma7721": 1,
     "hamzaly34": 2,
-    "voxerismxDMci": 4
+    "voxerismxDMci": 5
   },
   "kitStats": {
     "build": 1171,
     "survival": 4556,
-    "pvp": 5759,
+    "pvp": 5760,
     "dupe": 1200,
     "tools": 1254,
     "stash": 617,
