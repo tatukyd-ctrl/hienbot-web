@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:26:24 30/12/2025",
+  "lastUpdated": "22:26:54 30/12/2025",
   "totalKits": 79588,
   "todayKits": 0,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 46,
-  "tps": "7.0",
-  "ping": 252,
+  "tps": "13.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 1201
+      "count": 1202
     },
     {
       "name": "build",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:25] <Hanyss_> UNHORIZON did u add the firework kit? ",
-    "[22:25] <Risky_Jaat> !kit ores ",
-    "[22:25] To Risky_Jaat: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:25] To kingMeXXIV: Try again .Join dsc.gg/hienbot to report the error.",
-    "[22:25] <Hanyss_> !kit ",
-    "[22:25] To Hanyss_: Hello Hanyss_!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Dye, Toolbox, Glass, Food, End, Exp, Highway, Music, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[22:25] <UNHORIZON> no wait ",
-    "[22:25] <_aki> !kit Redstone ",
-    "[22:25] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
-    "[22:25] [8b8t] >> Teleporting to home 0...",
     "[22:25] [8b8t] >> Teleporting to home 3...",
     "[22:25] To _aki: Your kit (Redstone) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[22:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +91,17 @@
     "[22:26] to_445 has been killed by Risky_Jaat",
     "[22:26] ktah586 withered away to the 4th dimension",
     "[22:26] <PekkaFGR> !kit shulker ",
-    "[22:26] [8b8t] >> Teleporting to home 0..."
+    "[22:26] [8b8t] >> Teleporting to home 0...",
+    "[22:26] [8b8t] >> Teleporting to home 7...",
+    "[22:26] To PekkaFGR: Your kit (shulker) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:26] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃estping ",
+    "[22:26] To PekkaFGR: Try again .Join dsc.gg/hienbot to report the error.",
+    "[22:26] <_aki> !kit Redstine ",
+    "[22:26] To _aki: You're on cooldown, try again in 34 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:26] <ArathyasOD> !kit dupe ",
+    "[22:26] [8b8t] >> Teleporting to home 0...",
+    "[22:26] [8b8t] >> Teleporting to home 8...",
+    "[22:26] To ArathyasOD: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2258,13 +2258,14 @@
     "to_445": 4,
     "PekkaFGR": 2,
     "zetitareaper": 1,
-    "thelechau1171": 1
+    "thelechau1171": 1,
+    "ArathyasOD": 1
   },
   "kitStats": {
     "build": 1175,
     "survival": 4570,
     "pvp": 5772,
-    "dupe": 1201,
+    "dupe": 1202,
     "tools": 1257,
     "stash": 622,
     "raid": 880,
