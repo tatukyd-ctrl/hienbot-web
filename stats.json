@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:34:24 31/12/2025",
-  "totalKits": 79840,
-  "todayKits": 169,
-  "onlineCount": 39,
+  "lastUpdated": "04:34:47 31/12/2025",
+  "totalKits": 79841,
+  "todayKits": 170,
+  "onlineCount": 41,
   "peakPlayers": 54,
-  "tps": "11.0",
+  "tps": "7.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5827
+      "count": 5828
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:33] <Ascalito> !kit stash ",
-    "[04:33] To Ascalito: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:33] To CQ2167: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:33] [8b8t] >> Request sent to CQ2167",
-    "[04:33] <TSDJuan> !kit stash ",
-    "[04:33] To TSDJuan: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:33] [8b8t] >> Teleporting...",
-    "[04:33] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[04:33] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
-    "[04:33] 0_HienBot forgot to stop, drop, and roll",
-    "[04:33] [8b8t] >> Home 2 was not found",
     "[04:33] <Kopa_ARG> !kit raid ",
     "[04:33] [8b8t] >> Teleporting to home 0...",
     "[04:33] [8b8t] >> Teleporting to home 3...",
@@ -101,7 +90,18 @@
     "[04:34] To Ascalito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:34] [8b8t] >> Request sent to Ascalito",
     "[04:34] [8b8t] >> Teleporting...",
-    "[04:34] [8b8t] >> Home 2 was not found"
+    "[04:34] [8b8t] >> Home 2 was not found",
+    "[04:34] TSDJuan got the wither disease",
+    "[04:34] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[04:34] <eggchtherealone> !kit pvp ",
+    "[04:34] [8b8t] >> Teleporting to home 0...",
+    "[04:34] [8b8t] >> Teleporting to home 1...",
+    "[04:34] To eggchtherealone: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:34] To eggchtherealone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:34] [8b8t] >> Request sent to eggchtherealone",
+    "[04:34] [8b8t] >> Teleporting...",
+    "[04:34] <shirooo90> !kit pvp ",
+    "[04:34] To shirooo90: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2007,7 +2007,7 @@
     "Canamed21": 7,
     "Hanyss_": 54,
     "Zirn0": 5,
-    "eggchtherealone": 58,
+    "eggchtherealone": 59,
     "mehrab12345": 1,
     "X3nonix": 5,
     "abebe_MC": 1,
@@ -2299,7 +2299,7 @@
   "kitStats": {
     "build": 1192,
     "survival": 4624,
-    "pvp": 5827,
+    "pvp": 5828,
     "dupe": 1230,
     "tools": 1272,
     "stash": 638,
