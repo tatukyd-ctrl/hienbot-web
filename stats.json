@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:45:08 30/12/2025",
+  "lastUpdated": "07:45:16 30/12/2025",
   "totalKits": 79466,
   "todayKits": 3,
-  "onlineCount": 40,
+  "onlineCount": 39,
   "peakPlayers": 42,
-  "tps": "16.0",
+  "tps": "11.0",
   "ping": 240,
   "topUsers": [
     {
@@ -68,16 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1158
+      "count": 1159
     }
   ],
   "chatLog": [
-    "[07:43] [Ultra] <femboylover132> rf ",
-    "[07:43] <<gradient:#00FF00:-0.89>Nekshuu> e ",
-    "[07:43] <.Ri2222> !kit dye ",
-    "[07:43] To .Ri2222: You're on cooldown, try again in 48 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:43] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[07:43] [Ultra] <femboylover132> Leee do smth ",
     "[07:44] mrhenderman777 has made the advancement [Stone Age]",
     "[07:44] [Ultra] <femboylover132> cff ",
     "[07:44] samutex123MC_YT has made the advancement [Isn't It Iron Pick]",
@@ -101,7 +95,13 @@
     "[07:44] <delusionalism> la amo ",
     "[07:44] To .Ri2222: Please chat \"/tpayes 0_HienBot\" within 35 seconds",
     "[07:45] [8b8t] >> Request sent to .Ri2222",
-    "[07:45] [8b8t] >> Teleporting..."
+    "[07:45] [8b8t] >> Teleporting...",
+    "[07:45] <mrhenderman777> !kit build ",
+    "[07:45] [8b8t] >> Home 2 was not found",
+    "[07:45] [8b8t] >> Teleporting to home 0...",
+    "[07:45] [8b8t] >> Teleporting to home 3...",
+    "[07:45] To mrhenderman777: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:45] To mrhenderman777: Please chat \"/tpayes 0_HienBot\" within 35 seconds"
   ],
   "userStats": {
     "76756": 38,
@@ -2021,7 +2021,7 @@
     "asdfe2": 1,
     "elipes": 2,
     "UhorkoPLAYSK": 2,
-    "mrhenderman777": 6,
+    "mrhenderman777": 7,
     "WhoMartin": 2,
     "Adriiiz110": 3,
     "cumdumpster": 3,
@@ -2214,7 +2214,7 @@
     ".Ri2222": 13
   },
   "kitStats": {
-    "build": 1158,
+    "build": 1159,
     "survival": 4464,
     "pvp": 5656,
     "dupe": 1164,
