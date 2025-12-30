@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:57:20 30/12/2025",
+  "lastUpdated": "11:57:50 30/12/2025",
   "totalKits": 79588,
   "todayKits": 36,
   "onlineCount": 22,
   "peakPlayers": 43,
-  "tps": "10.0",
+  "tps": "17.0",
   "ping": 232,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4496
+      "count": 4497
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:55] [8b8t] >> Teleporting to home 0...",
-    "[11:55] [8b8t] >> Teleporting to home 1...",
-    "[11:55] To ITS_Demon: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[11:55] [8b8t] >> TPA cancelled because ZeusDR left",
-    "[11:55] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[11:56] To ITS_Demon: Try again .Join dsc.gg/hienbot to report the error.",
-    "[11:56] <ITS_Demon> !kit survival ",
-    "[11:56] To ITS_Demon: You're on cooldown, try again in 78 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:56] jsjsjsjsjsjs was pwned by ZeusDR wielding [their hand]",
     "[11:56] ZeusDR has been put down by fetch3d",
     "[11:56] <fetch3d> nuh uh ",
@@ -101,7 +92,16 @@
     "[11:57] To ZafiroAfiro: You're on cooldown, try again in 75 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[11:57] <ITS_Demon> !kit survival ",
-    "[11:57] To ITS_Demon: You're on cooldown, try again in 8 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[11:57] To ITS_Demon: You're on cooldown, try again in 8 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:57] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[11:57] <ITS_Demon> !kit survival ",
+    "[11:57] [8b8t] >> Teleporting to home 0...",
+    "[11:57] [8b8t] >> Teleporting to home 1...",
+    "[11:57] To ITS_Demon: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:57] <fetch3d> ZeusDR died ",
+    "[11:57] <fetch3d> i killed him ",
+    "[11:57] fetch3d pulverized ZeusDR using [netherite sword]",
+    "[11:57] To ITS_Demon: Try again .Join dsc.gg/hienbot to report the error."
   ],
   "userStats": {
     "76756": 38,
@@ -2227,11 +2227,11 @@
     "Brunosayi": 1,
     "THE_QALEN": 5,
     "4iwurLP": 2,
-    "ITS_Demon": 1
+    "ITS_Demon": 2
   },
   "kitStats": {
     "build": 1167,
-    "survival": 4496,
+    "survival": 4497,
     "pvp": 5701,
     "dupe": 1171,
     "tools": 1243,
