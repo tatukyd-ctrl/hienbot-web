@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:45:05 31/12/2025",
+  "lastUpdated": "21:45:35 31/12/2025",
   "totalKits": 80293,
   "todayKits": 0,
   "onlineCount": 26,
   "peakPlayers": 38,
-  "tps": "0.0",
+  "tps": "2.0",
   "ping": 429,
   "topUsers": [
     {
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:41]  [8builders8tools]",
-    "[21:41]  Perform the command /email associate to register",
     "[21:41]  your email. By doing so, you",
     "[21:41]  decrease the chance of being hacked.",
     "[21:41] ",
@@ -101,7 +99,9 @@
     "[21:44]  decrease the chance of being hacked.",
     "[21:44] ",
     "[21:44]   [Confirm read]",
-    "[21:44] "
+    "[21:44] ",
+    "[21:45] <ALSIO1243> +kit mystic ",
+    "[21:45] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "76756": 38,
@@ -203,7 +203,7 @@
     "Ditoisbest": 2,
     "lxmz_": 1,
     "el_diddy123": 3,
-    "ALSIO1243": 82,
+    "ALSIO1243": 83,
     "RedSadBu": 14,
     "Lun4tic_": 1,
     "SiegeF16": 4,
@@ -2367,7 +2367,7 @@
     "highway": 347,
     "ocean": 76,
     "concrete": 267,
-    "glass": 205,
+    "glass": 206,
     "gap": 37,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 32,
