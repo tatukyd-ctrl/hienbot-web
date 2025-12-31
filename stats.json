@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:02:12 31/12/2025",
+  "lastUpdated": "15:02:42 31/12/2025",
   "totalKits": 80232,
   "todayKits": 93,
   "onlineCount": 24,
   "peakPlayers": 41,
-  "tps": "7.0",
-  "ping": 270,
+  "tps": "12.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,21 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1204
+      "count": 1205
     }
   ],
   "chatLog": [
-    "[15:00] TNGB0T was eaten alive by a Zombie",
-    "[15:00] [8b8t] >> Teleporting...",
-    "[15:00] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[15:00] 0_HienBot was EZ clapped by Kingston7163333 using [netherite sword]",
-    "[15:01] TNGB0T thought a Zombie was friendly",
-    "[15:01] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[15:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[15:01] <Kingston7163333> ?kit menu ",
-    "[15:01] To Kingston7163333: You're on cooldown, try again in 37 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:01] <Kingston7163333> ? ",
-    "[15:01] bz_Spl0z_12_28 decided to test gravity and lost",
     "[15:01] <Kingston7163333> ?kit ",
     "[15:01] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
     "[15:01] [8b8t] >> Your login session has been continued.",
@@ -101,7 +90,18 @@
     "[15:01] MonkeBot got a deadly lesson from the Wither",
     "[15:01] <Kingston7163333> ?kit menu ",
     "[15:01] To Kingston7163333: You're on cooldown, try again in 7 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:02] [BOT] <0_HienBot> Chat !𝙠it to get free kit "
+    "[15:02] [BOT] <0_HienBot> Chat !𝙠it to get free kit ",
+    "[15:02] <Kingston7163333> ?kit build ",
+    "[15:02] [8b8t] >> Teleporting to home 0...",
+    "[15:02] [8b8t] >> Teleporting to home 3...",
+    "[15:02] To Kingston7163333: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:02] To Kingston7163333: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:02] [8b8t] >> Request sent to Kingston7163333",
+    "[15:02] TNGB0T was eaten alive by a Zombie",
+    "[15:02] duncanparsky has made the advancement [Isn't It Iron Pick]",
+    "[15:02] duncanparsky has made the advancement [Diamonds!]",
+    "[15:02] jamer35 was eaten alive by a Zombie",
+    "[15:02] [BOT] <0_HienBot> Want kit ?? Chat !𝙠it "
   ],
   "userStats": {
     "76756": 38,
@@ -2335,10 +2335,10 @@
     "techoelata": 3,
     "Tao_11": 2,
     "Tomasinsito": 2,
-    "Kingston7163333": 2
+    "Kingston7163333": 3
   },
   "kitStats": {
-    "build": 1204,
+    "build": 1205,
     "survival": 4696,
     "pvp": 5921,
     "dupe": 1247,
