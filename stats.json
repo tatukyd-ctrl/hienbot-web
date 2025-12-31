@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:25:32 1/1/2026",
+  "lastUpdated": "06:26:02 1/1/2026",
   "totalKits": 80293,
   "todayKits": 0,
   "onlineCount": 33,
   "peakPlayers": 34,
   "tps": "0.0",
-  "ping": 0,
+  "ping": 3902,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Mateo_32",
-      "count": 159
+      "count": 160
     },
     {
       "name": ".LEON50758",
@@ -72,7 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:23] [8b8t] >> Your login session has been continued.",
     "[06:23] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[06:23] ",
     "[06:23]  [8builders8tools]",
@@ -101,7 +100,8 @@
     "[06:25] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[06:25] To MrPopbob: Your kit (glass) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[06:25] Chat disabled in client options",
-    "[06:25] Chat disabled in client options"
+    "[06:25] Chat disabled in client options",
+    "[06:25] <Mateo_32> !kit XXX "
   ],
   "userStats": {
     "76756": 38,
@@ -568,7 +568,7 @@
     "Camix776": 4,
     "EnesReks": 9,
     "Faitalisy": 2,
-    "Mateo_32": 159,
+    "Mateo_32": 160,
     "Essek_alp54": 3,
     "tutilin10958814": 30,
     "6b6t_6b6t_2b2t": 1,
@@ -2372,7 +2372,7 @@
     "armortrims": 285,
     "highway": 350,
     "ocean": 76,
-    "concrete": 267,
+    "concrete": 268,
     "glass": 211,
     "gap": 37,
     "constructor": "function Object() { [native code] }111111111",
