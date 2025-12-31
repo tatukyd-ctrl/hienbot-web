@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:17:22 31/12/2025",
+  "lastUpdated": "23:17:52 31/12/2025",
   "totalKits": 80293,
   "todayKits": 0,
   "onlineCount": 40,
   "peakPlayers": 46,
-  "tps": "0.0",
+  "tps": "1.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5959
+      "count": 5960
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:13] ",
-    "[23:13] To Minh12456: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[23:14] [8b8t] >> Teleporting to home 0...",
     "[23:14] [8b8t] >> Teleporting to home 1...",
     "[23:15] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
@@ -101,7 +99,9 @@
     "[23:17]  decrease the chance of being hacked.",
     "[23:17] ",
     "[23:17]   [Confirm read]",
-    "[23:17] "
+    "[23:17] ",
+    "[23:17] <.wietyy> !kit pvp ",
+    "[23:17] Elite_4500 has made the advancement [Acquire Hardware]"
   ],
   "userStats": {
     "76756": 38,
@@ -2343,12 +2343,12 @@
     "Paidpopb": 1,
     "tolampro": 1,
     "BigPoPa546": 1,
-    ".wietyy": 3
+    ".wietyy": 4
   },
   "kitStats": {
     "build": 1210,
     "survival": 4712,
-    "pvp": 5959,
+    "pvp": 5960,
     "dupe": 1256,
     "tools": 1361,
     "stash": 652,
