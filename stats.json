@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:40:12 31/12/2025",
+  "lastUpdated": "17:40:42 31/12/2025",
   "totalKits": 80275,
   "todayKits": 136,
   "onlineCount": 24,
   "peakPlayers": 41,
-  "tps": "15.0",
-  "ping": 234,
+  "tps": "6.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,15 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1209
+      "count": 1210
     }
   ],
   "chatLog": [
-    "[17:37] [8b8t] >> Teleporting to home 3...",
-    "[17:37] To Bifozy: Your kit (tnt) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:37] To Bifozy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:37] [8b8t] >> Request sent to Bifozy",
-    "[17:37] [8b8t] >> Teleporting...",
     "[17:37] [8b8t] >> Home 2 was not found",
     "[17:37] [BOT] <0_HienBot> Hola DomiGammer! ",
     "[17:38] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: d1cord,gg/2vezgc2VGb ",
@@ -101,7 +96,12 @@
     "[17:40] To congru_suhani1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:40] [8b8t] >> Request sent to congru_suhani1",
     "[17:40] [8b8t] >> Teleporting...",
-    "[17:40] [8b8t] >> Home 2 was not found"
+    "[17:40] [8b8t] >> Home 2 was not found",
+    "[17:40] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[17:40] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕ps ",
+    "[17:40] <_Chaosblade_> !kit build ",
+    "[17:40] [8b8t] >> Teleporting to home 0...",
+    "[17:40] [8b8t] >> Teleporting to home 3..."
   ],
   "userStats": {
     "76756": 38,
@@ -2276,7 +2276,7 @@
     "Lasermussel": 1,
     "obimoro": 4,
     "alan21463": 10,
-    "_Chaosblade_": 15,
+    "_Chaosblade_": 16,
     "guest54445": 1,
     "Tirrred": 4,
     ".FlatClamp595718": 2,
@@ -2342,7 +2342,7 @@
     "Bifozy": 1
   },
   "kitStats": {
-    "build": 1209,
+    "build": 1210,
     "survival": 4702,
     "pvp": 5931,
     "dupe": 1251,
