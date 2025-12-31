@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:55:14 31/12/2025",
+  "lastUpdated": "12:55:42 31/12/2025",
   "totalKits": 80197,
   "todayKits": 58,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 41,
-  "tps": "14.0",
+  "tps": "12.0",
   "ping": 0,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4685
+      "count": 4686
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:52] You cannot go above the nether roof!",
-    "[12:52] You cannot go above the nether roof!",
-    "[12:52] You cannot go above the nether roof!",
-    "[12:52] You cannot go above the nether roof!",
-    "[12:52] You cannot go above the nether roof!",
-    "[12:52] You cannot go above the nether roof!",
     "[12:52] 0_HienBot forgot to stop, drop, and roll",
     "[12:52] [8b8t] >> Home 2 was not found",
     "[12:52] [BOT] <0_HienBot> Bot created by Hien2309. ",
@@ -101,7 +95,13 @@
     "[12:55] [8b8t] >> Request sent to jsjsjsjsjsjs",
     "[12:55] [8b8t] >> Teleporting...",
     "[12:55] <catalyn> !kit pvp ",
-    "[12:55] To catalyn: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[12:55] To catalyn: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:55] [8b8t] >> Home 2 was not found",
+    "[12:55] [BOT] <0_HienBot> Try !𝒌it survival ",
+    "[12:55] <catalyn> !kit survival ",
+    "[12:55] [8b8t] >> Teleporting to home 0...",
+    "[12:55] [8b8t] >> Teleporting to home 1...",
+    "[12:55] To catalyn: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2330,11 +2330,12 @@
     "ByCualquiera": 2,
     "KionYhamma": 1,
     "PlooTheKid": 2,
-    "XxPopCatttxX": 1
+    "XxPopCatttxX": 1,
+    "catalyn": 1
   },
   "kitStats": {
     "build": 1202,
-    "survival": 4685,
+    "survival": 4686,
     "pvp": 5913,
     "dupe": 1245,
     "tools": 1350,
