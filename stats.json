@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:14:42 31/12/2025",
-  "totalKits": 80203,
-  "todayKits": 64,
+  "lastUpdated": "13:15:12 31/12/2025",
+  "totalKits": 80204,
+  "todayKits": 65,
   "onlineCount": 26,
   "peakPlayers": 41,
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 0,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4686
+      "count": 4687
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:12] [8b8t] >> Home 2 was not found",
-    "[13:12] <jsjsjsjsjsjs> me ayudas a hacer la base? ",
-    "[13:12] <Mitssaa> va ",
-    "[13:12] techoelata has reached the goal [Sky's the Limit]",
-    "[13:12] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[13:12] <jsjsjsjsjsjs> miras como es el diseño no? ",
-    "[13:13] <Mitssaa> sisi ",
-    "[13:13] <jsjsjsjsjsjs> no lo termino porq me falta luces ",
     "[13:13] [8b8t] >> Ducky1sCool voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
     "[13:13] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: d1cord,gg/2vezgc2VGb ",
     "[13:13] <Mitssaa> asi? ",
@@ -101,7 +93,15 @@
     "[13:14] [BOT] <0_HienBot> July 10, 2025, the Avolution team built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[13:14] natasha forgot to bring their parachute",
     "[13:14] [8b8t] >> Teleporting...",
-    "[13:14] [8b8t] >> Home 2 was not found"
+    "[13:14] [8b8t] >> Home 2 was not found",
+    "[13:14] [BOT] <0_HienBot> Try !𝒌it survival ",
+    "[13:15] <techoelata> !kit survival ",
+    "[13:15] [8b8t] >> Teleporting to home 0...",
+    "[13:15] [8b8t] >> Teleporting to home 1...",
+    "[13:15] To techoelata: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:15] To techoelata: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:15] [8b8t] >> Request sent to techoelata",
+    "[13:15] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2332,11 +2332,11 @@
     "PlooTheKid": 2,
     "XxPopCatttxX": 1,
     "catalyn": 2,
-    "techoelata": 2
+    "techoelata": 3
   },
   "kitStats": {
     "build": 1202,
-    "survival": 4686,
+    "survival": 4687,
     "pvp": 5914,
     "dupe": 1246,
     "tools": 1354,
