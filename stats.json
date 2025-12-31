@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:58:12 31/12/2025",
+  "lastUpdated": "14:58:42 31/12/2025",
   "totalKits": 80230,
   "todayKits": 91,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 41,
-  "tps": "16.0",
+  "tps": "13.0",
   "ping": 242,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5920
+      "count": 5921
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:54] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑ing ",
-    "[14:54] <boludo> !kit amortrims ",
-    "[14:54] [8b8t] >> Teleporting to home 0...",
     "[14:54] [8b8t] >> Teleporting to home 4...",
     "[14:54] To boludo: Kit \"amortrims\" not found! Giving you a random kit (wool) instead!",
     "[14:54] To boludo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +98,10 @@
     "[14:57] TNGB0T thought a Zombie was friendly",
     "[14:57] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑ing ",
     "[14:58] <nabeel13> can anyone tp me to them im bore ",
-    "[14:58] TNGB0T thought a Zombie was friendly"
+    "[14:58] TNGB0T thought a Zombie was friendly",
+    "[14:58] [BOT] <0_HienBot> Do !𝙠it ",
+    "[14:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[14:58] <Kingston7163333> ?kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -2334,12 +2334,13 @@
     "catalyn": 2,
     "techoelata": 3,
     "Tao_11": 2,
-    "Tomasinsito": 2
+    "Tomasinsito": 2,
+    "Kingston7163333": 1
   },
   "kitStats": {
     "build": 1204,
     "survival": 4696,
-    "pvp": 5920,
+    "pvp": 5921,
     "dupe": 1247,
     "tools": 1357,
     "stash": 650,
