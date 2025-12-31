@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:40:12 31/12/2025",
-  "totalKits": 80155,
-  "todayKits": 16,
-  "onlineCount": 36,
+  "lastUpdated": "11:40:42 31/12/2025",
+  "totalKits": 80156,
+  "todayKits": 17,
+  "onlineCount": 37,
   "peakPlayers": 41,
-  "tps": "16.0",
+  "tps": "11.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5909
+      "count": 5910
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:39] <Juanytoyt208> alrato me meto vo a comer ",
-    "[11:39] MrHipan went for a swim in lava and got burned",
-    "[11:39] [Youtuber] <elproplayerxddd> dale ",
-    "[11:39] <MrHipan> !kit tools ",
-    "[11:39] [8b8t] >> Teleporting to home 0...",
-    "[11:39] [8b8t] >> Teleporting to home 8...",
-    "[11:39] To MrHipan: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:39] To MrHipan: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:39] <boludo> alguien tiene varitas de blaze?? ",
-    "[11:39] [8b8t] >> Request sent to MrHipan",
-    "[11:39] [8b8t] >> Teleporting...",
-    "[11:39] [Youtuber] <elproplayerxddd> LAKAKAFG donde tas bro? ",
     "[11:39] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[11:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[11:39] <LAKAKAFG> en mi base ya ire ",
@@ -101,7 +89,19 @@
     "[11:39] [8b8t] >> Request sent to jsjsjsjsjsjs",
     "[11:39] <LAKAKAFG> el q? ",
     "[11:40] [8b8t] >> Teleporting...",
-    "[11:40] [Youtuber] <elproplayerxddd> aqui "
+    "[11:40] [Youtuber] <elproplayerxddd> aqui ",
+    "[11:40] [8b8t] >> Home 2 was not found",
+    "[11:40] <LAKAKAFG> aver ",
+    "[11:40] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[11:40] <ensure2> !kit pvp ",
+    "[11:40] [8b8t] >> Teleporting to home 0...",
+    "[11:40] [8b8t] >> Teleporting to home 1...",
+    "[11:40] To ensure2: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:40] To ensure2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:40] [8b8t] >> Request sent to ensure2",
+    "[11:40] <Luchadorluk> hacete tp ",
+    "[11:40] <LAKAKAFG> tenes corta piedras? ",
+    "[11:40] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2325,12 +2325,13 @@
     ".Waterbead156": 1,
     "horrorplar": 1,
     "BillyVN": 3,
-    "hgbt375": 1
+    "hgbt375": 1,
+    "ensure2": 1
   },
   "kitStats": {
     "build": 1201,
     "survival": 4680,
-    "pvp": 5909,
+    "pvp": 5910,
     "dupe": 1241,
     "tools": 1337,
     "stash": 648,
