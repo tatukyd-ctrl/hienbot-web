@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:13:42 31/12/2025",
+  "lastUpdated": "07:13:52 31/12/2025",
   "totalKits": 79994,
   "todayKits": 100,
   "onlineCount": 40,
   "peakPlayers": 49,
-  "tps": "9.0",
+  "tps": "6.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5879
+      "count": 5880
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:12] [8b8t] >> Teleporting to home 0...",
-    "[07:12] [8b8t] >> Teleporting to home 1...",
-    "[07:12] To eggchtherealone: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:12] To eggchtherealone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:12] [8b8t] >> Request sent to eggchtherealone",
-    "[07:12] [8b8t] >> Teleporting...",
-    "[07:12] hacks has completed the challenge [Hot Tourist Destinations]",
     "[07:12] [8b8t] >> Home 2 was not found",
     "[07:12] [BOT] <0_HienBot> Try !𝒌it pvp ",
     "[07:12] <.Ri2222> !kit enchantbook ",
@@ -101,7 +94,14 @@
     "[07:13] To .Ri2222: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:13] [8b8t] >> Teleporting...",
     "[07:13] <jsjsjsjsjsjs> !kit dupe ",
-    "[07:13] To jsjsjsjsjsjs: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[07:13] To jsjsjsjsjsjs: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:13] <.Ri2222> !kit enchantbook ",
+    "[07:13] To .Ri2222: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:13] [8b8t] >> Home 2 was not found",
+    "[07:13] <.Ri2222> !kit enchantbook ",
+    "[07:13] [8b8t] >> Teleporting to home 0...",
+    "[07:13] [8b8t] >> Teleporting to home 1...",
+    "[07:13] To .Ri2222: Kit \"enchantbook\" not found! Giving you a random kit (pvp) instead!"
   ],
   "userStats": {
     "76756": 38,
@@ -2211,7 +2211,7 @@
     "lolagaming498": 30,
     "Bloow1": 1,
     "gaelcito2012": 1,
-    ".Ri2222": 60,
+    ".Ri2222": 61,
     "iKzzCL": 10,
     ".Memel8831": 2,
     "md7426": 7,
@@ -2312,7 +2312,7 @@
   "kitStats": {
     "build": 1197,
     "survival": 4644,
-    "pvp": 5879,
+    "pvp": 5880,
     "dupe": 1236,
     "tools": 1298,
     "stash": 642,
