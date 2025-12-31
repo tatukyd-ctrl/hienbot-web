@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:29:35 31/12/2025",
+  "lastUpdated": "21:30:05 31/12/2025",
   "totalKits": 80293,
   "todayKits": 0,
   "onlineCount": 29,
   "peakPlayers": 38,
-  "tps": "0.0",
+  "tps": "5.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5947
+      "count": 5948
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:25]   [Confirm read]",
-    "[21:25] ",
-    "[21:27] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[21:27] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
     "[21:27] [8b8t] >> Your login session has been continued.",
     "[21:27] ",
     "[21:27]  [8builders8tools]",
@@ -101,7 +97,11 @@
     "[21:28] ",
     "[21:28]   [Confirm read]",
     "[21:28] ",
-    "[21:29] <Risky_Jaat> !kit survival "
+    "[21:29] <Risky_Jaat> !kit survival ",
+    "[21:29] <Itx_RyxnYT> !kit pvp ",
+    "[21:29] [8b8t] >> Teleporting to home 0...",
+    "[21:29] [8b8t] >> Teleporting to home 1...",
+    "[21:29] To Risky_Jaat: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2260,7 +2260,7 @@
     "zetitareaper": 1,
     "thelechau1171": 1,
     "ArathyasOD": 7,
-    "Itx_RyxnYT": 19,
+    "Itx_RyxnYT": 20,
     "TarsierFat": 1,
     "Josu_GG": 5,
     "sobreact": 1,
@@ -2346,7 +2346,7 @@
   "kitStats": {
     "build": 1210,
     "survival": 4709,
-    "pvp": 5947,
+    "pvp": 5948,
     "dupe": 1256,
     "tools": 1360,
     "stash": 652,
