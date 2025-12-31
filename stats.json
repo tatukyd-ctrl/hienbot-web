@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:14:12 31/12/2025",
-  "totalKits": 80181,
-  "todayKits": 42,
+  "lastUpdated": "12:14:27 31/12/2025",
+  "totalKits": 80182,
+  "todayKits": 43,
   "onlineCount": 28,
   "peakPlayers": 41,
-  "tps": "12.0",
+  "tps": "11.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5911
+      "count": 5912
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:13] <ByCualquiera> !kit pvp ",
-    "[12:13] To ByCualquiera: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:13] <ByCualquiera> !kit pvp ",
-    "[12:13] To ByCualquiera: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:13] [8b8t] >> Home 2 was not found",
-    "[12:13] <BillyVN> !kit Highway ",
-    "[12:13] [8b8t] >> Teleporting to home 0...",
-    "[12:13] [8b8t] >> Teleporting to home 7...",
-    "[12:13] To BillyVN: Your kit (Highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:13] claethon has made the advancement [Monster Hunter]",
-    "[12:13] To BillyVN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:13] [8b8t] >> Request sent to BillyVN",
     "[12:13] [8b8t] >> Teleporting...",
     "[12:13] BaironGxx has reached the goal [Postmortal]",
     "[12:13] jsjsjsjsjsjs was rekt by FlygDaa and their mighty [Void??? Heart]",
@@ -101,7 +89,19 @@
     "[12:14] <ByCualquiera> !kit pvp ",
     "[12:14] To ByCualquiera: You're on cooldown, try again in 13 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:14] <ByCualquiera> !kit pvp ",
-    "[12:14] To ByCualquiera: You're on cooldown, try again in 9 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[12:14] To ByCualquiera: You're on cooldown, try again in 9 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:14] claethon has reached the goal [The Next Generation]",
+    "[12:14] <ByCualquiera> !kit pvp ",
+    "[12:14] [8b8t] >> Teleporting to home 0...",
+    "[12:14] [8b8t] >> Teleporting to home 1...",
+    "[12:14] To ByCualquiera: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:14] To ByCualquiera: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:14] claethon has reached the goal [Postmortal]",
+    "[12:14] [8b8t] >> Request sent to ByCualquiera",
+    "[12:14] <jsjsjsjsjsjs> !kit tools ",
+    "[12:14] To jsjsjsjsjsjs: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:14] [8b8t] >> Teleporting...",
+    "[12:14] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: d1cord,gg/2vezgc2VGb "
   ],
   "userStats": {
     "76756": 38,
@@ -2327,12 +2327,12 @@
     "BillyVN": 6,
     "hgbt375": 1,
     "ensure2": 1,
-    "ByCualquiera": 1
+    "ByCualquiera": 2
   },
   "kitStats": {
     "build": 1202,
     "survival": 4683,
-    "pvp": 5911,
+    "pvp": 5912,
     "dupe": 1244,
     "tools": 1341,
     "stash": 649,
