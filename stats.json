@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:39:20 1/1/2026",
+  "lastUpdated": "19:39:50 1/1/2026",
   "totalKits": 80470,
   "todayKits": 177,
-  "onlineCount": 26,
+  "onlineCount": 28,
   "peakPlayers": 30,
-  "tps": "8.0",
-  "ping": 246,
+  "tps": "14.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6046
+      "count": 6047
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:36] [8b8t] >> Home 2 was not found",
-    "[19:36] <godpvpho42> !kit pvp ",
-    "[19:36] [8b8t] >> Teleporting to home 0...",
-    "[19:36] [8b8t] >> Teleporting to home 1...",
-    "[19:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[19:36] To godpvpho42: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:36] To godpvpho42: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:36] [8b8t] >> Request sent to godpvpho42",
     "[19:37] <WxpzFrags> e ",
     "[19:37] [BOT] <0_HienBot> Try!𝒌it stash ",
@@ -101,7 +94,14 @@
     "[19:38] To godpvpho42: You're on cooldown, try again in 16 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:39] <WxpzFrags> uhh ",
     "[19:39] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[19:39] <LimitlessEnd> t "
+    "[19:39] <LimitlessEnd> t ",
+    "[19:39] <Ateste> !kit pvp ",
+    "[19:39] [8b8t] >> Teleporting to home 0...",
+    "[19:39] [8b8t] >> Teleporting to home 1...",
+    "[19:39] To Ateste: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:39] To Ateste: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:39] [8b8t] >> Request sent to Ateste",
+    "[19:39] [BOT] <0_HienBot> Try!𝒌it stash "
   ],
   "userStats": {
     "76756": 38,
@@ -2371,12 +2371,13 @@
     ".PQueen1221": 4,
     "glaxital": 2,
     "hen_91110": 2,
-    "Proaxelotek": 1
+    "Proaxelotek": 1,
+    "Ateste": 1
   },
   "kitStats": {
     "build": 1218,
     "survival": 4769,
-    "pvp": 6046,
+    "pvp": 6047,
     "dupe": 1272,
     "tools": 1399,
     "stash": 659,
