@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:20:39 2/1/2026",
+  "lastUpdated": "00:20:50 2/1/2026",
   "totalKits": 80587,
   "todayKits": 14,
-  "onlineCount": 42,
+  "onlineCount": 40,
   "peakPlayers": 46,
-  "tps": "14.0",
-  "ping": 269,
+  "tps": "16.0",
+  "ping": 292,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6100
+      "count": 6101
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:19] <Mateo_32> +kit flight ",
-    "[00:19] To Mateo_32: You're on cooldown, try again in 37 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:19] <UnBot> hi i am a bot ",
-    "[00:19] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[00:20] <WxpzFrags> !kit survival ",
-    "[00:20] [8b8t] >> Teleporting to home 0...",
-    "[00:20] [8b8t] >> Teleporting to home 1...",
-    "[00:20] To WxpzFrags: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:20] To WxpzFrags: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:20] <eggchtherealone> +kit escape ",
     "[00:20] To eggchtherealone: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[00:20] [8b8t] >> Request sent to WxpzFrags",
@@ -101,7 +92,16 @@
     "[00:20] <Tomoszii> !kit survival ",
     "[00:20] To Tomoszii: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[00:20] <Mateo_32> +kit escape ",
-    "[00:20] To Mateo_32: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[00:20] To Mateo_32: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:20] <Tomoszii> !kit survival ",
+    "[00:20] To Tomoszii: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:20] [8b8t] >> You have killed yourself!",
+    "[00:20] [8b8t] >> Home 2 was not found",
+    "[00:20] <Nickk001> +kit pvp ",
+    "[00:20] [8b8t] >> Teleporting to home 0...",
+    "[00:20] [8b8t] >> Teleporting to home 1...",
+    "[00:20] To Nickk001: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:20] To Nickk001:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join  dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2347,7 +2347,7 @@
     "Kultur1st": 2,
     "joaosfsdfsdfgsd": 1,
     "LinhXuiAp1230": 1,
-    "Nickk001": 16,
+    "Nickk001": 17,
     "The_Isma02": 1,
     "PrepMuffin00422": 1,
     "fo1dslammer666": 1,
@@ -2394,7 +2394,7 @@
   "kitStats": {
     "build": 1221,
     "survival": 4800,
-    "pvp": 6100,
+    "pvp": 6101,
     "dupe": 1287,
     "tools": 1418,
     "stash": 673,
