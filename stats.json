@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:12:50 2/1/2026",
+  "lastUpdated": "02:13:20 2/1/2026",
   "totalKits": 80652,
   "todayKits": 79,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 58,
-  "tps": "19.0",
-  "ping": 263,
+  "tps": "20.0",
+  "ping": 262,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6139
+      "count": 6140
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:10] [8b8t] >> Teleporting to home 0...",
-    "[02:10] [8b8t] >> Teleporting to home 5...",
-    "[02:10] To jojofan231: Your kit (food) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:10] To jojofan231: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:10] [8b8t] >> Request sent to jojofan231",
-    "[02:10] [8b8t] >> Teleporting...",
-    "[02:10] [8b8t] >> You have killed yourself!",
-    "[02:10] [8b8t] >> Home 2 was not found",
     "[02:10] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
     "[02:11] <WxpzFrags> DUDE ",
     "[02:11] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
@@ -101,7 +93,15 @@
     "[02:12] <MaxiBOT23> !kit ",
     "[02:12] To MaxiBOT23: Hello MaxiBOT23!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[02:12] <.LEON50758> tpayes ",
-    "[02:12] <WxpzFrags> dawg ghostCOD1st i gotta travel 500k blocks jsto get to that base "
+    "[02:12] <WxpzFrags> dawg ghostCOD1st i gotta travel 500k blocks jsto get to that base ",
+    "[02:12] [BOT] <0_HienBot> Hi xDjimelillo! ",
+    "[02:13] <MaxiBOT23> !kit PVP ",
+    "[02:13] [8b8t] >> Teleporting to home 0...",
+    "[02:13] [8b8t] >> Teleporting to home 1...",
+    "[02:13] To MaxiBOT23: Your kit (PVP) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:13] To MaxiBOT23:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join  dsc.gg/hienbot for updates.",
+    "[02:13] <MaxiBOT23> !kit raid ",
+    "[02:13] To MaxiBOT23: You're on cooldown, try again in 83 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1804,7 +1804,7 @@
     "xnkq": 9,
     "ESTEBANUNIV": 1,
     "Meteroitee": 6,
-    "MaxiBOT23": 3,
+    "MaxiBOT23": 4,
     "Liktomee": 1,
     "red_kiloBR": 1,
     "Disco_Thor": 1,
@@ -2405,7 +2405,7 @@
   "kitStats": {
     "build": 1225,
     "survival": 4809,
-    "pvp": 6139,
+    "pvp": 6140,
     "dupe": 1294,
     "tools": 1437,
     "stash": 682,
