@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:32:20 2/1/2026",
+  "lastUpdated": "00:32:50 2/1/2026",
   "totalKits": 80596,
   "todayKits": 23,
   "onlineCount": 42,
   "peakPlayers": 46,
-  "tps": "19.0",
-  "ping": 262,
+  "tps": "15.0",
+  "ping": 265,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:31] <Nickk001> +kit Tools ",
-    "[00:31] [8b8t] >> Teleporting to home 0...",
-    "[00:31] [8b8t] >> Teleporting to home 8...",
-    "[00:31] To Nickk001: Your kit (Tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:31] <UNHORIZON> yea that one was good ",
-    "[00:31] [BOT] <0_HienBot> Want to see the server's tps? Chat !𝒕ps ",
-    "[00:31] To Nickk001: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:31] [8b8t] >> Request sent to Nickk001",
-    "[00:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:31] <LoMejorDeMi463> !kit fly ",
-    "[00:31] To LoMejorDeMi463: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:31] [8b8t] >> Teleporting...",
-    "[00:31] <yesNipunpie> !kit survival ",
-    "[00:31] To yesNipunpie: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:31] <UNHORIZON> we need tools kit ",
     "[00:31] [8b8t] >> You have killed yourself!",
     "[00:31] [8b8t] >> Home 2 was not found",
     "[00:31] <UNHORIZON> its the peoples demand ",
@@ -101,7 +86,22 @@
     "[00:32] <davidpro077> el diablo, buenas tardes y feliz año nuevo maquinotes ",
     "[00:32] <Zephyrion1> UNHORIZON i have a sugestion of kit for your bot ",
     "[00:32] <UNHORIZON> yes? ",
-    "[00:32] <WxpzFrags> fuck is a cord logger anyways "
+    "[00:32] <WxpzFrags> fuck is a cord logger anyways ",
+    "[00:32] [8b8t] >> Please do not spam.",
+    "[00:32] <samusic> feli año bro ",
+    "[00:32] <UnBot> Available kits are mystic, pvp, flight, escape ",
+    "[00:32] <WxpzFrags> estas ",
+    "[00:32] <davidpro077> happy new year matess ",
+    "[00:32] <Nickk001> +kit Tools ",
+    "[00:32] [8b8t] >> You have killed yourself!",
+    "[00:32] To Nickk001: You're on cooldown, try again in 23 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:32] [8b8t] >> The TPA request you sent to yesNipunpie was successfully canceled.",
+    "[00:32] <yesNipunpie> !kit survival ",
+    "[00:32] To yesNipunpie: You're on cooldown, try again in 97 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:32] <LoMejorDeMi463> +kit flight ",
+    "[00:32] [8b8t] >> Teleporting to home 0...",
+    "[00:32] [8b8t] >> Teleporting to home 7...",
+    "[00:32] To LoMejorDeMi463: Kit \"flight\" not found! Giving you a random kit (ocean) instead!"
   ],
   "userStats": {
     "76756": 38,
@@ -2390,7 +2390,8 @@
     "leopro312": 1,
     "8uit": 2,
     "Sgamestream": 5,
-    "yesNipunpie": 2
+    "yesNipunpie": 2,
+    "LoMejorDeMi463": 1
   },
   "kitStats": {
     "build": 1221,
@@ -2414,7 +2415,7 @@
     "end": 416,
     "armortrims": 294,
     "highway": 355,
-    "ocean": 79,
+    "ocean": 80,
     "concrete": 271,
     "glass": 217,
     "gap": 44,
