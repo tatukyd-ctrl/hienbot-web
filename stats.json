@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:20:10 1/1/2026",
+  "lastUpdated": "09:20:40 1/1/2026",
   "totalKits": 80293,
   "todayKits": 0,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 26,
-  "tps": "0.0",
+  "tps": "8.0",
   "ping": 561,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4728
+      "count": 4729
     },
     {
       "name": "tools",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:17] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[09:17] <Ascalito> !kit head ",
-    "[09:17] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:17] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
     "[09:17] [8b8t] >> Your login session has been continued.",
     "[09:17] ",
@@ -101,7 +98,10 @@
     "[09:19]  decrease the chance of being hacked.",
     "[09:19] ",
     "[09:19]   [Confirm read]",
-    "[09:19] "
+    "[09:19] ",
+    "[09:20] PrepMuffin00422 has made the advancement [Diamonds!]",
+    "[09:20] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[09:20] <Ray13> !kit survival "
   ],
   "userStats": {
     "76756": 38,
@@ -2216,7 +2216,7 @@
     ".Memel8831": 2,
     "md7426": 7,
     "valen0626": 1,
-    "Ray13": 25,
+    "Ray13": 26,
     "Buezito22": 3,
     "TriKaDZ": 1,
     "jsjsjsjsjsjs": 39,
@@ -2351,7 +2351,7 @@
   },
   "kitStats": {
     "build": 1211,
-    "survival": 4728,
+    "survival": 4729,
     "pvp": 5989,
     "dupe": 1266,
     "tools": 1369,
