@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:11:50 1/1/2026",
-  "totalKits": 80456,
-  "todayKits": 163,
+  "lastUpdated": "19:12:20 1/1/2026",
+  "totalKits": 80457,
+  "todayKits": 164,
   "onlineCount": 24,
   "peakPlayers": 28,
-  "tps": "20.0",
-  "ping": 244,
+  "tps": "9.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:10] [8b8t] >> Request sent to dragonkit",
-    "[19:10] [8b8t] >> Teleporting...",
-    "[19:10] [8b8t] >> Home 2 was not found",
-    "[19:10] <Lazyfacii> !kit survival ",
-    "[19:10] To Lazyfacii: You're on cooldown, try again in 16 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:10] <Lazyfacii> !kit survival ",
-    "[19:10] To Lazyfacii: You're on cooldown, try again in 8 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:10] <dragonkit> this aint totem kit tf ",
     "[19:10] [BOT] <0_HienBot> Try !𝒌it survival ",
     "[19:10] <Lazyfacii> !kit survival ",
     "[19:10] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +93,15 @@
     "[19:11] [8b8t] >> Teleporting...",
     "[19:11] [8b8t] >> Home 2 was not found",
     "[19:11] [BOT] <0_HienBot> Vietnam on top!! ",
-    "[19:11] Modalwire has made the advancement [Voluntary Exile]"
+    "[19:11] Modalwire has made the advancement [Voluntary Exile]",
+    "[19:12] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[19:12] <dragonkit> !kit list ",
+    "[19:12] [8b8t] >> Teleporting to home 0...",
+    "[19:12] [8b8t] >> Teleporting to home 6...",
+    "[19:12] To dragonkit: Kit \"list\" not found! Giving you a random kit (quartz) instead!",
+    "[19:12] To dragonkit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:12] [8b8t] >> Request sent to dragonkit",
+    "[19:12] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -296,7 +296,7 @@
     "elproplayerxddd": 48,
     "brunoxdxdurhj": 2,
     "Gorka772": 2,
-    "dragonkit": 15,
+    "dragonkit": 16,
     "JUSTLIKED": 20,
     "DaFuqBoomTaken": 1,
     "Xoladliac": 93,
@@ -2388,7 +2388,7 @@
     "food": 315,
     "redstone": 590,
     "toolbox": 484,
-    "quartz": 198,
+    "quartz": 199,
     "shulker": 379,
     "terracotta": 52,
     "end": 411,
