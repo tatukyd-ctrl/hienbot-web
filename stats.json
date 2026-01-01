@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:54:29 1/1/2026",
+  "lastUpdated": "08:54:59 1/1/2026",
   "totalKits": 80293,
   "todayKits": 0,
-  "onlineCount": 21,
+  "onlineCount": 19,
   "peakPlayers": 28,
-  "tps": "2.0",
+  "tps": "10.0",
   "ping": 0,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5986
+      "count": 5987
     },
     {
       "name": "survival",
@@ -72,7 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:51] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
     "[08:51] To Ascalito: Try again .Join dsc.gg/hienbot to report the error.",
     "[08:51] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[08:51] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -101,7 +100,8 @@
     "[08:53]   [Confirm read]",
     "[08:53] ",
     "[08:53] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[08:54] You are already connected to this server!"
+    "[08:54] You are already connected to this server!",
+    "[08:54] <mantecay9> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -1957,7 +1957,7 @@
     ".Tangodines01": 1,
     "701ond": 1,
     "Neptunal": 2,
-    "mantecay9": 67,
+    "mantecay9": 68,
     "The_OnerTP": 22,
     "creeperawman120": 4,
     "momardoasheigod2": 1,
@@ -2352,7 +2352,7 @@
   "kitStats": {
     "build": 1211,
     "survival": 4728,
-    "pvp": 5986,
+    "pvp": 5987,
     "dupe": 1266,
     "tools": 1369,
     "stash": 655,
