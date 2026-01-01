@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:17:10 1/1/2026",
+  "lastUpdated": "09:17:40 1/1/2026",
   "totalKits": 80293,
   "todayKits": 0,
-  "onlineCount": 20,
+  "onlineCount": 0,
   "peakPlayers": 26,
-  "tps": "2.0",
-  "ping": 3667,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:13] To Ascalito: Hello Ascalito!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[09:13] PrepMuffin00422 has made the advancement [Acquire Hardware]",
     "[09:13] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[09:14] [BOT] <0_HienBot> Try !𝒌it survival ",
     "[09:14] To Ascalito: Try again .Join dsc.gg/hienbot to report the error.",
@@ -101,7 +99,9 @@
     "[09:16] ",
     "[09:16]   [Confirm read]",
     "[09:16] ",
-    "[09:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[09:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[09:17] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[09:17] <Ascalito> !kit head "
   ],
   "userStats": {
     "76756": 38,
@@ -2288,7 +2288,7 @@
     "SoFiUwW8": 2,
     "niggabones": 1,
     "deantheneek": 1,
-    "Ascalito": 38,
+    "Ascalito": 39,
     "agartha_citizen": 2,
     "AdustCloud3179": 8,
     "Copetingo": 10,
@@ -2376,7 +2376,7 @@
     "glass": 212,
     "gap": 37,
     "constructor": "function Object() { [native code] }111111111",
-    "flower": 32,
+    "flower": 33,
     "music": 121,
     "c": 3,
     "christmas": 139,
