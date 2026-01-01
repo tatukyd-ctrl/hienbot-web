@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:19:06 2/1/2026",
+  "lastUpdated": "00:19:20 2/1/2026",
   "totalKits": 80584,
   "todayKits": 11,
-  "onlineCount": 44,
+  "onlineCount": 45,
   "peakPlayers": 46,
-  "tps": "15.0",
-  "ping": 261,
+  "tps": "13.0",
+  "ping": 271,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6099
+      "count": 6100
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:18] To Nickk001: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:18] [8b8t] >> Teleporting to home 0...",
-    "[00:18] [8b8t] >> Teleporting to home 1...",
-    "[00:18] <Mateo_32> +kit flight ",
-    "[00:18] To Mateo_32: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:18] To Nickk001:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join  dsc.gg/hienbot for updates.",
-    "[00:18] <WxpzFrags> +kit flight ",
-    "[00:18] [8b8t] >> Teleporting to home 0...",
-    "[00:18] [8b8t] >> Teleporting to home 8...",
     "[00:18] To WxpzFrags: Kit \"flight\" not found! Giving you a random kit (dupe) instead!",
     "[00:18] <Sgamestream> +kit flight ",
     "[00:18] <Zephyrion1> +kit pvp ",
@@ -101,7 +92,16 @@
     "[00:18] To Mateo_32: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:18] [8b8t] >> Request sent to Mateo_32",
     "[00:18] [BOT] <0_HienBot> Chat !𝙠it to get free kit ",
-    "[00:19] [8b8t] >> Teleporting..."
+    "[00:19] [8b8t] >> Teleporting...",
+    "[00:19] <WxpzFrags> how to use dupe kit ",
+    "[00:19] [8b8t] >> You have killed yourself!",
+    "[00:19] [8b8t] >> Home 2 was not found",
+    "[00:19] <Zephyrion1> +kit pvp ",
+    "[00:19] [8b8t] >> Teleporting to home 0...",
+    "[00:19] [8b8t] >> Teleporting to home 1...",
+    "[00:19] To Zephyrion1: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:19] <UnBot> This bot is brought to you by UNHORIZON ",
+    "[00:19] To Zephyrion1:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join  dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -366,7 +366,7 @@
     "hxrus": 65,
     "sonephh": 1,
     "joacopr12": 1,
-    "Zephyrion1": 84,
+    "Zephyrion1": 85,
     "Lyreaxhh": 23,
     "LY7Andregz": 5,
     "Exility": 1,
@@ -2394,7 +2394,7 @@
   "kitStats": {
     "build": 1221,
     "survival": 4799,
-    "pvp": 6099,
+    "pvp": 6100,
     "dupe": 1287,
     "tools": 1417,
     "stash": 672,
