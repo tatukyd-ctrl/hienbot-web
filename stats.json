@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:56:20 2/1/2026",
+  "lastUpdated": "02:56:50 2/1/2026",
   "totalKits": 80679,
   "todayKits": 106,
-  "onlineCount": 47,
+  "onlineCount": 42,
   "peakPlayers": 58,
-  "tps": "17.0",
+  "tps": "8.0",
   "ping": 269,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6151
+      "count": 6152
     },
     {
       "name": "survival",
@@ -72,24 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:55] m4rc_xyz8 has made the advancement [A Throwaway Joke]",
-    "[02:55] <lolagaming498> oh my gosh ",
-    "[02:55] <WxpzFrags> DWAG ",
-    "[02:55] <BdubH2015> noooo not restart ",
-    "[02:55] <VoryxMC> !kit pvp ",
-    "[02:55] [8b8t] >> Teleporting to home 0...",
-    "[02:55] [8b8t] >> Teleporting to home 1...",
-    "[02:55] To VoryxMC: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:55] <.Un_Horizon23> noooo ",
-    "[02:55] To VoryxMC:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join  dsc.gg/hienbot for updates.",
-    "[02:55] <Goldfish1322117> !kit highway ",
-    "[02:55] [8b8t] >> Teleporting to home 0...",
-    "[02:55] [8b8t] >> Teleporting to home 7...",
-    "[02:55] To Goldfish1322117: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:55] <AliCabbar_cakma> d ",
-    "[02:55] To Goldfish1322117: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:55] [8b8t] >> Request sent to Goldfish1322117",
-    "[02:55] [BOT] <0_HienBot> Chat !𝙠it to get free kit ",
     "[02:56] <Sgamestream> DAWG TF ",
     "[02:56] [8b8t] >> Teleporting...",
     "[02:56] ",
@@ -101,7 +83,25 @@
     "[02:56] <WxpzFrags> dawg ",
     "[02:56] [Pro] <Paidpopbob> ugh ",
     "[02:56] [8b8t] >> You have killed yourself!",
-    "[02:56] [8b8t] >> Home 2 was not found"
+    "[02:56] [8b8t] >> Home 2 was not found",
+    "[02:56] <Goldfish1322117> !kit pvp ",
+    "[02:56] To Goldfish1322117: You're on cooldown, try again in 71 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:56] <WxpzFrags> dwag ",
+    "[02:56] <VoryxMC> !kit pvp ",
+    "[02:56] To VoryxMC: You're on cooldown, try again in 59 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:56] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[02:56] ",
+    "[02:56] [8b8t] >> Restarting in 3s!",
+    "[02:56] ",
+    "[02:56] <.ITZDOGEE_YT> !kit pvp ",
+    "[02:56] ",
+    "[02:56] [8b8t] >> Restarting in 2s!",
+    "[02:56] ",
+    "[02:56] [8b8t] >> Teleporting to home 0...",
+    "[02:56] To .ITZDOGEE_YT: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:56] ",
+    "[02:56] [8b8t] >> Restarting in 1s!",
+    "[02:56] "
   ],
   "userStats": {
     "76756": 38,
@@ -2404,12 +2404,12 @@
     "TekkeciYusuf": 1,
     "VoryxMC": 2,
     "Goldfish1322117": 4,
-    ".ITZDOGEE_YT": 1
+    ".ITZDOGEE_YT": 2
   },
   "kitStats": {
     "build": 1225,
     "survival": 4816,
-    "pvp": 6151,
+    "pvp": 6152,
     "dupe": 1298,
     "tools": 1447,
     "stash": 684,
