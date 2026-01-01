@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:05:20 1/1/2026",
+  "lastUpdated": "17:05:50 1/1/2026",
   "totalKits": 80415,
   "todayKits": 122,
-  "onlineCount": 16,
+  "onlineCount": 15,
   "peakPlayers": 28,
-  "tps": "17.0",
+  "tps": "20.0",
   "ping": 245,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6025
+      "count": 6026
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:04] [8b8t] >> Request sent to Cadens",
-    "[17:04] [BOT] <0_HienBot> Voting for the server will give you access to the /nc command and you can save up to 10 homes ",
-    "[17:04] <SpinexGamerz> !kit ",
-    "[17:04] To SpinexGamerz: Hello SpinexGamerz!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[17:04] <Monokrane> !kit PVP ",
-    "[17:04] To Monokrane: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:04] <PixelCrazeMc> !kit raid ",
-    "[17:04] To PixelCrazeMc: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:04] [8b8t] >> The TPA request you sent to Cadens was successfully canceled.",
-    "[17:04] <SpinexGamerz> !kit stash ",
-    "[17:04] [8b8t] >> Teleporting to home 0...",
-    "[17:04] [8b8t] >> Teleporting to home 3...",
     "[17:04] To SpinexGamerz: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:04] <PixelCrazeMc> !kit raid ",
     "[17:04] To PixelCrazeMc: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +89,19 @@
     "[17:05] To PixelCrazeMc: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:05] <PixelCrazeMc> !kit pvp ",
     "[17:05] To PixelCrazeMc: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:05] [8b8t] >> Teleporting..."
+    "[17:05] [8b8t] >> Teleporting...",
+    "[17:05] [8b8t] >> Home 2 was not found",
+    "[17:05] Monokrane has reached the goal [Postmortal]",
+    "[17:05] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[17:05] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !𝒃estping ",
+    "[17:05] <SpinexGamerz> !kit ",
+    "[17:05] To SpinexGamerz: Hello SpinexGamerz!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[17:05] <Monokrane> !kit PVP ",
+    "[17:05] [8b8t] >> Teleporting to home 0...",
+    "[17:05] [8b8t] >> Teleporting to home 1...",
+    "[17:05] To Monokrane: Your kit (PVP) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:05] To Monokrane: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:05] [8b8t] >> Request sent to Monokrane"
   ],
   "userStats": {
     "76756": 38,
@@ -2361,7 +2361,7 @@
     "corona_6": 1,
     "kahdjgs3242": 1,
     "SpinexGamerz": 8,
-    "Monokrane": 9,
+    "Monokrane": 10,
     "UnknownBoy_YT": 2,
     "Cadens": 2,
     "1cey": 1
@@ -2369,7 +2369,7 @@
   "kitStats": {
     "build": 1217,
     "survival": 4749,
-    "pvp": 6025,
+    "pvp": 6026,
     "dupe": 1269,
     "tools": 1394,
     "stash": 657,
