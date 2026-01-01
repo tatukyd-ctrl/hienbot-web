@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:04:50 2/1/2026",
+  "lastUpdated": "00:05:20 2/1/2026",
   "totalKits": 80574,
   "todayKits": 1,
   "onlineCount": 42,
   "peakPlayers": 46,
-  "tps": "14.0",
-  "ping": 279,
+  "tps": "16.0",
+  "ping": 298,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6091
+      "count": 6092
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:00] [8b8t] >> Teleporting to home 8...",
-    "[00:00] To eggchtherealone: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:00] To eggchtherealone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:00] [8b8t] >> Request sent to eggchtherealone",
-    "[00:00] [8b8t] >> Teleporting...",
-    "[00:00] [BOT] <0_HienBot> Hello samusic! ",
-    "[00:01] [8b8t] >> You have killed yourself!",
-    "[00:01] <UNHORIZON> lol i just needed to copy the name ",
     "[00:01] [8b8t] >> Home 2 was not found",
     "[00:01] <UnBot> hi i am a bot ",
     "[00:01] <Sgamestream> can i have akit pls ",
@@ -101,7 +93,15 @@
     "[00:04] <Sgamestream> can i have akit pls anyobody ",
     "[00:04] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[00:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:04] [Pro] <Paidpopbob> Sgamestream do !kit pvp "
+    "[00:04] [Pro] <Paidpopbob> Sgamestream do !kit pvp ",
+    "[00:04] <Sgamestream> !kit pvp ",
+    "[00:04] [8b8t] >> Teleporting to home 0...",
+    "[00:04] <Kid_67> !kit dupe ",
+    "[00:04] [8b8t] >> Teleporting to home 1...",
+    "[00:04] To Kid_67: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:04] To Sgamestream: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:04] To Sgamestream:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join  dsc.gg/hienbot for updates.",
+    "[00:04] [BOT] <0_HienBot> Welcome to 8b8t, bautono_32! "
   ],
   "userStats": {
     "76756": 38,
@@ -2388,12 +2388,13 @@
     "kevinkpro": 9,
     "Yusuphene": 1,
     "leopro312": 1,
-    "8uit": 2
+    "8uit": 2,
+    "Sgamestream": 1
   },
   "kitStats": {
     "build": 1221,
     "survival": 4798,
-    "pvp": 6091,
+    "pvp": 6092,
     "dupe": 1286,
     "tools": 1411,
     "stash": 672,
