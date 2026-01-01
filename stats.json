@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:15:50 1/1/2026",
+  "lastUpdated": "23:16:20 1/1/2026",
   "totalKits": 80554,
   "todayKits": 261,
   "onlineCount": 42,
   "peakPlayers": 46,
-  "tps": "0.0",
-  "ping": 274,
+  "tps": "15.0",
+  "ping": 1680,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:15] [Basic] <.VadoseMist36087> btw UnBot marks coords right ",
-    "[23:15] <.LEON50758> +kit mystic ",
-    "[23:15] [8b8t] >> Teleporting to home 0...",
-    "[23:15] [8b8t] >> Teleporting to home 3...",
-    "[23:15] To .LEON50758: Kit \"mystic\" not found! Giving you a random kit (gap) instead!",
-    "[23:15] <Silenhack> ase ",
-    "[23:15] <UNHORIZON> noh ",
-    "[23:15] <kevinkpro> !kit ",
     "[23:15] To kevinkpro: Hello kevinkpro!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[23:15] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:15] [8b8t] >> Request sent to .LEON50758",
@@ -101,7 +93,15 @@
     "[23:15] <UNHORIZON> take the source code ",
     "[23:15] [8b8t] >> TPA cancelled because .LEON50758 left",
     "[23:15] <Yusuphene> lol ",
-    "[23:15] [Basic] <.VadoseMist36087> same ima build this three story farm "
+    "[23:15] [Basic] <.VadoseMist36087> same ima build this three story farm ",
+    "[23:15] [8b8t] >> You have killed yourself!",
+    "[23:15] [8b8t] >> Player .LEON50758 is not online",
+    "[23:16] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[23:16] <UnBot> 插入中國宣傳 ",
+    "[23:16] [Pro] <Paidpopbob> the donkey is here ",
+    "[23:16] <kevinkpro> !kit shulker ",
+    "[23:16] <Yusuphene> noway ",
+    "[23:16] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2385,7 +2385,7 @@
     "UHCDARKKILLER": 2,
     "fanzey1": 2,
     "afirmatibo": 1,
-    "kevinkpro": 4,
+    "kevinkpro": 5,
     "Yusuphene": 1
   },
   "kitStats": {
@@ -2405,7 +2405,7 @@
     "redstone": 595,
     "toolbox": 490,
     "quartz": 199,
-    "shulker": 381,
+    "shulker": 382,
     "terracotta": 52,
     "end": 414,
     "armortrims": 292,
