@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:27:12 1/1/2026",
+  "lastUpdated": "18:27:20 1/1/2026",
   "totalKits": 80435,
   "todayKits": 142,
   "onlineCount": 20,
   "peakPlayers": 28,
-  "tps": "18.0",
+  "tps": "16.0",
   "ping": 243,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4753
+      "count": 4754
     },
     {
       "name": "tools",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:22] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
-    "[18:22] <WxpzFrags> hi ",
-    "[18:23] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[18:23] <WxpzFrags> guys ",
     "[18:23] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[18:23] [BOT] <0_HienBot> Hi .Ri2222! ",
@@ -101,7 +98,10 @@
     "[18:27] [BOT] <0_HienBot> Welcome to 8b8t, 8b8t_net! ",
     "[18:27] To botchaosonix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:27] [8b8t] >> Request sent to botchaosonix",
-    "[18:27] [8b8t] >> Teleporting..."
+    "[18:27] [8b8t] >> Teleporting...",
+    "[18:27] [8b8t] >> Home 2 was not found",
+    "[18:27] <Cadens> !kit survival ",
+    "[18:27] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2363,13 +2363,13 @@
     "SpinexGamerz": 11,
     "Monokrane": 16,
     "UnknownBoy_YT": 2,
-    "Cadens": 4,
+    "Cadens": 5,
     "1cey": 1,
     "botchaosonix": 1
   },
   "kitStats": {
     "build": 1218,
-    "survival": 4753,
+    "survival": 4754,
     "pvp": 6031,
     "dupe": 1269,
     "tools": 1398,
