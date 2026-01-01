@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:17:20 2/1/2026",
+  "lastUpdated": "02:17:50 2/1/2026",
   "totalKits": 80655,
   "todayKits": 82,
-  "onlineCount": 44,
+  "onlineCount": 45,
   "peakPlayers": 58,
-  "tps": "19.0",
-  "ping": 268,
+  "tps": "20.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6141
+      "count": 6142
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:16] Voidz_Killz has completed the challenge [Over-Overkill]",
-    "[02:16] <.LEON50758> omg ",
-    "[02:16] [8b8t] >> You have killed yourself!",
-    "[02:16] [8b8t] >> No TPA request found",
-    "[02:16] <eggchtherealone> !kit tools ",
-    "[02:16] [8b8t] >> Teleporting to home 0...",
-    "[02:16] [8b8t] >> Teleporting to home 8...",
-    "[02:16] To eggchtherealone: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:16] <.LEON50758> who's this? ",
     "[02:16] To eggchtherealone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:16] [8b8t] >> Request sent to eggchtherealone",
@@ -101,7 +93,15 @@
     "[02:17] To MaxiBOT23:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join  dsc.gg/hienbot for updates.",
     "[02:17] <Kid_67> p;ls ",
     "[02:17] <WxpzFrags> wanna dupe now ",
-    "[02:17] vincydooom has made the advancement [A Throwaway Joke]"
+    "[02:17] vincydooom has made the advancement [A Throwaway Joke]",
+    "[02:17] [BOT] <0_HienBot> Hello UHCDARKKILLER! ",
+    "[02:17] <WxpzFrags> omg ",
+    "[02:17] <MaxiBOT23> alguien me da algo xd ",
+    "[02:17] <TekkeciYusuf> !kit pvp ",
+    "[02:17] [8b8t] >> Teleporting to home 0...",
+    "[02:17] [8b8t] >> Teleporting to home 1...",
+    "[02:17] To TekkeciYusuf: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:17] To TekkeciYusuf:  Sorry ! Cyan Shulker Box is out right now, and no other kits are available either! Join  dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2400,12 +2400,13 @@
     "c_hp": 1,
     "vincydooom": 1,
     "Razor_08": 1,
-    "jojofan231": 5
+    "jojofan231": 5,
+    "TekkeciYusuf": 1
   },
   "kitStats": {
     "build": 1225,
     "survival": 4809,
-    "pvp": 6141,
+    "pvp": 6142,
     "dupe": 1295,
     "tools": 1440,
     "stash": 682,
