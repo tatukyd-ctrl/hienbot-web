@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:34:50 1/1/2026",
-  "totalKits": 80295,
-  "todayKits": 2,
-  "onlineCount": 25,
+  "lastUpdated": "12:35:20 1/1/2026",
+  "totalKits": 80296,
+  "todayKits": 3,
+  "onlineCount": 26,
   "peakPlayers": 26,
   "tps": "20.0",
   "ping": 253,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5990
+      "count": 5991
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:31] [BOT] <0_HienBot> Hello 8b8t_net! ",
-    "[12:31] <Josu_GG> !kit expt ",
-    "[12:31] [8b8t] >> Teleporting to home 0...",
-    "[12:31] [8b8t] >> Teleporting to home 5...",
-    "[12:31] To Josu_GG: Kit \"expt\" not found! Giving you a random kit (terracotta) instead!",
-    "[12:31] To Josu_GG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:31] [8b8t] >> Request sent to Josu_GG",
-    "[12:31] [BOT] <0_HienBot> Try!𝒌it stash ",
-    "[12:32] <Josu_GG> !kit exp ",
-    "[12:32] To Josu_GG: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:32] [8b8t] >> The TPA request you sent to Josu_GG was successfully canceled.",
     "[12:32] Josu_GG has reached the goal [Postmortal]",
     "[12:32] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.5 ",
@@ -101,7 +91,17 @@
     "[12:33] [8b8t] >> Home 2 was not found",
     "[12:33] [BOT] <0_HienBot> Bot created by Hien2309. ",
     "[12:33] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[12:34] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑ing "
+    "[12:34] [BOT] <0_HienBot> Want to see your ping? Chat !𝒑ing ",
+    "[12:34] [BOT] <0_HienBot> Try !𝒌it pvp ",
+    "[12:35] <kobhere> !kit ",
+    "[12:35] To kobhere: Hello kobhere!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[12:35] <dani8976> !kit PVP ",
+    "[12:35] [8b8t] >> Teleporting to home 0...",
+    "[12:35] [8b8t] >> Teleporting to home 1...",
+    "[12:35] To dani8976: Your kit (PVP) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:35] To dani8976: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:35] [8b8t] >> Request sent to dani8976",
+    "[12:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2046,7 +2046,7 @@
     "klkrieger": 6,
     "CRISSER_04": 4,
     "joakoARG": 1,
-    "dani8976": 66,
+    "dani8976": 67,
     "xsevazx": 1,
     "PlayRush": 4,
     "mirrandd": 2,
@@ -2355,7 +2355,7 @@
   "kitStats": {
     "build": 1211,
     "survival": 4730,
-    "pvp": 5990,
+    "pvp": 5991,
     "dupe": 1266,
     "tools": 1370,
     "stash": 656,
