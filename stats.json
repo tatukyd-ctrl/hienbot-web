@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:36:20 1/1/2026",
+  "lastUpdated": "16:36:50 1/1/2026",
   "totalKits": 80402,
   "todayKits": 109,
   "onlineCount": 7,
   "peakPlayers": 28,
-  "tps": "19.0",
-  "ping": 244,
+  "tps": "20.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6022
+      "count": 6023
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:33] You are already trying to connect to a server!",
-    "[16:33] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[16:33] You were kicked from 8b8t: Timed out",
-    "[16:33] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[16:33] You are already trying to connect to a server!",
-    "[16:33] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[16:33] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[16:34] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: d1cord,gg/2vezgc2VGb ",
     "[16:34] <peakar> I NEED LEATHER ",
@@ -101,7 +95,13 @@
     "[16:35] <Monokrane> !kit raid ",
     "[16:35] To Monokrane: You're on cooldown, try again in 23 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:35] Monokrane has made the advancement [Stone Age]",
-    "[16:36] [8b8t] >> Please do not spam."
+    "[16:36] [8b8t] >> Please do not spam.",
+    "[16:36] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[16:36] Monokrane has made the advancement [Getting an Upgrade]",
+    "[16:36] <Monokrane> !kit PVP ",
+    "[16:36] [8b8t] >> Teleporting to home 0...",
+    "[16:36] [8b8t] >> Teleporting to home 1...",
+    "[16:36] To Monokrane: Your kit (PVP) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2361,12 +2361,12 @@
     "corona_6": 1,
     "kahdjgs3242": 1,
     "SpinexGamerz": 6,
-    "Monokrane": 5
+    "Monokrane": 6
   },
   "kitStats": {
     "build": 1217,
     "survival": 4743,
-    "pvp": 6022,
+    "pvp": 6023,
     "dupe": 1269,
     "tools": 1393,
     "stash": 656,
