@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:21:40 1/1/2026",
+  "lastUpdated": "09:22:10 1/1/2026",
   "totalKits": 80293,
   "todayKits": 0,
-  "onlineCount": 20,
+  "onlineCount": 22,
   "peakPlayers": 26,
-  "tps": "0.0",
-  "ping": 525,
+  "tps": "15.0",
+  "ping": 5236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:19] ",
-    "[09:19]  [8builders8tools]",
-    "[09:19]  Perform the command /email associate to register",
     "[09:19]  your email. By doing so, you",
     "[09:19]  decrease the chance of being hacked.",
     "[09:19] ",
@@ -101,7 +98,10 @@
     "[09:21] [8b8t] >> Could not find player Ray13",
     "[09:21] [8b8t] >> Player Ray13 is not online",
     "[09:21] <The_Isma02> !kit ",
-    "[09:21] To The_Isma02: Hello The_Isma02!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[09:21] To The_Isma02: Hello The_Isma02!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[09:21] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[09:22] [8b8t] >> Player Ray13 is not online",
+    "[09:22] <The_Isma02> !kit Stash "
   ],
   "userStats": {
     "76756": 38,
@@ -2347,7 +2347,8 @@
     "Kultur1st": 2,
     "joaosfsdfsdfgsd": 1,
     "LinhXuiAp1230": 1,
-    "Nickk001": 13
+    "Nickk001": 13,
+    "The_Isma02": 1
   },
   "kitStats": {
     "build": 1211,
@@ -2355,7 +2356,7 @@
     "pvp": 5989,
     "dupe": 1266,
     "tools": 1369,
-    "stash": 655,
+    "stash": 656,
     "raid": 922,
     "wood": 373,
     "exp": 530,
