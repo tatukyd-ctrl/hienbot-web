@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:00:50 1/1/2026",
+  "lastUpdated": "17:01:20 1/1/2026",
   "totalKits": 80411,
   "todayKits": 118,
-  "onlineCount": 15,
+  "onlineCount": 14,
   "peakPlayers": 28,
   "tps": "20.0",
-  "ping": 248,
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6024
+      "count": 6025
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:59] [8b8t] >> Teleporting...",
-    "[16:59] <nabeel13> !kit survival ",
-    "[16:59] To nabeel13: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:59] [8b8t] >> Home 2 was not found",
-    "[16:59] <nabeel13> !kit pvp ",
-    "[16:59] [8b8t] >> Teleporting to home 0...",
-    "[16:59] [8b8t] >> Teleporting to home 1...",
     "[16:59] To nabeel13: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:59] To nabeel13: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +94,14 @@
     "[17:00] <botchaosonix> ahh ",
     "[17:00] <Monokrane> !kit dupe ",
     "[17:00] To Monokrane: You're on cooldown, try again in 28 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:00] [BOT] <0_HienBot> Use /kill to kill yourself! "
+    "[17:00] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[17:00] pochaE has made the advancement [We Need to Go Deeper]",
+    "[17:00] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[17:01] [BOT] <0_HienBot> Try !𝒌it pvp ",
+    "[17:01] <Cadens> !kit pvp ",
+    "[17:01] [8b8t] >> Teleporting to home 0...",
+    "[17:01] [8b8t] >> Teleporting to home 1...",
+    "[17:01] To Cadens: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2362,12 +2362,13 @@
     "kahdjgs3242": 1,
     "SpinexGamerz": 6,
     "Monokrane": 9,
-    "UnknownBoy_YT": 2
+    "UnknownBoy_YT": 2,
+    "Cadens": 1
   },
   "kitStats": {
     "build": 1217,
     "survival": 4747,
-    "pvp": 6024,
+    "pvp": 6025,
     "dupe": 1269,
     "tools": 1393,
     "stash": 656,
