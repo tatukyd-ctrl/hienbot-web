@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:05:40 1/1/2026",
+  "lastUpdated": "10:06:10 1/1/2026",
   "totalKits": 80293,
   "todayKits": 0,
-  "onlineCount": 17,
+  "onlineCount": 0,
   "peakPlayers": 28,
-  "tps": "1.0",
+  "tps": "0.0",
   "ping": 0,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4729
+      "count": 4730
     },
     {
       "name": "tools",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:02] ",
-    "[10:02] You were kicked from 8b8t: Timed out",
     "[10:02] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[10:02] You are already trying to connect to a server!",
     "[10:02] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -101,7 +99,9 @@
     "[10:04] [8b8t] >> Welcome NetherB0T to 8b8t.me Lobby",
     "[10:04] You are already trying to connect to a server!",
     "[10:04] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[10:05] [BOT] <0_HienBot> Try !𝒌it survival "
+    "[10:05] [BOT] <0_HienBot> Try !𝒌it survival ",
+    "[10:05] You are already connected to this server!",
+    "[10:05] <PrepMuffin00422> !kit survival "
   ],
   "userStats": {
     "76756": 38,
@@ -2348,11 +2348,12 @@
     "joaosfsdfsdfgsd": 1,
     "LinhXuiAp1230": 1,
     "Nickk001": 13,
-    "The_Isma02": 1
+    "The_Isma02": 1,
+    "PrepMuffin00422": 1
   },
   "kitStats": {
     "build": 1211,
-    "survival": 4729,
+    "survival": 4730,
     "pvp": 5989,
     "dupe": 1266,
     "tools": 1369,
