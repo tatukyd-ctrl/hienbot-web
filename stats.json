@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:43:20 1/1/2026",
+  "lastUpdated": "13:43:50 1/1/2026",
   "totalKits": 80329,
   "todayKits": 36,
   "onlineCount": 20,
   "peakPlayers": 26,
-  "tps": "19.0",
-  "ping": 254,
+  "tps": "20.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 5999
+      "count": 6000
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:41] <j122> !kit ",
-    "[13:41] To j122: Hello j122!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[13:41] <BIGSWAGG> !kit exp ",
-    "[13:41] [8b8t] >> Teleporting to home 0...",
-    "[13:41] [8b8t] >> Teleporting to home 6...",
     "[13:41] To BIGSWAGG: Your kit (exp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:41] To BIGSWAGG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:41] [8b8t] >> Request sent to BIGSWAGG",
@@ -101,7 +96,12 @@
     "[13:43] [8b8t] >> Home 2 was not found",
     "[13:43] [8b8t] >> Please do not spam.",
     "[13:43] <BIGSWAGG> !kit totem ",
-    "[13:43] To BIGSWAGG: You're on cooldown, try again in 23 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[13:43] To BIGSWAGG: You're on cooldown, try again in 23 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:43] [BOT] <0_HienBot> HienBot Group dsc,gg/hienbot to get free kit ",
+    "[13:43] <BIGSWAGG> !kit totem ",
+    "[13:43] [8b8t] >> Teleporting to home 0...",
+    "[13:43] [8b8t] >> Teleporting to home 1...",
+    "[13:43] To BIGSWAGG: Your kit (totem) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -729,7 +729,7 @@
     "Saad2001helper_": 9,
     "Saad2001_bot": 4,
     "0099martinb": 1,
-    "BIGSWAGG": 25,
+    "BIGSWAGG": 26,
     "burgers57": 6,
     "vxcom": 17,
     "nighter212": 2,
@@ -2358,7 +2358,7 @@
   "kitStats": {
     "build": 1211,
     "survival": 4734,
-    "pvp": 5999,
+    "pvp": 6000,
     "dupe": 1266,
     "tools": 1382,
     "stash": 656,
