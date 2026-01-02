@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:24:19 2/1/2026",
+  "lastUpdated": "18:24:30 2/1/2026",
   "totalKits": 80849,
   "todayKits": 66,
   "onlineCount": 27,
   "peakPlayers": 38,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 248,
   "topUsers": [
     {
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1244
+      "count": 1245
     }
   ],
   "chatLog": [
-    "[11:23] [8b8t] >> You have killed yourself!",
-    "[11:23] [8b8t] >> Home 2 was not found",
-    "[11:23] <WxpzFrags> wait ",
-    "[11:23] [BOT] <0_HienBot> Use !кιт to get kits ",
-    "[11:23] <ARNOSHEEP> !kit ",
-    "[11:23] To ARNOSHEEP: Hello ARNOSHEEP!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[11:23] <aygdl> amk elkeni ",
-    "[11:23] <Yusuphene> !kit wood ",
-    "[11:23] [8b8t] >> Teleporting to home 0...",
     "[11:23] [8b8t] >> Teleporting to home 4...",
     "[11:23] To Yusuphene: Your kit (wood) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:23] <aygdl> gel ",
@@ -101,7 +92,16 @@
     "[11:24] [8b8t] >> Request sent to Flame_xz",
     "[11:24] [8b8t] >> Teleporting...",
     "[11:24] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[11:24] <elken> knk lag var sana yazıyom 20dk sonra geliyo "
+    "[11:24] <elken> knk lag var sana yazıyom 20dk sonra geliyo ",
+    "[11:24] <aygdl> 11000 pingin var ",
+    "[11:24] [8b8t] >> You have killed yourself!",
+    "[11:24] [8b8t] >> Home 2 was not found",
+    "[11:24] <Tomasinsito> !kit build ",
+    "[11:24] [8b8t] >> Teleporting to home 0...",
+    "[11:24] [8b8t] >> Teleporting to home 3...",
+    "[11:24] To Tomasinsito: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:24] To Tomasinsito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:24] [8b8t] >> Request sent to Tomasinsito"
   ],
   "userStats": {
     "76756": 38,
@@ -2334,7 +2334,7 @@
     "catalyn": 2,
     "techoelata": 3,
     "Tao_11": 2,
-    "Tomasinsito": 10,
+    "Tomasinsito": 11,
     "Kingston7163333": 3,
     "RaxZee": 2,
     "D4RK_IT4CHI": 5,
@@ -2448,7 +2448,7 @@
     "ARNOSHEEP": 4
   },
   "kitStats": {
-    "build": 1244,
+    "build": 1245,
     "survival": 4859,
     "pvp": 6243,
     "dupe": 1312,
