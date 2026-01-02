@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:28:30 3/1/2026",
+  "lastUpdated": "00:29:00 3/1/2026",
   "totalKits": 81024,
   "todayKits": 241,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 47,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 250,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:27] <vincydooom> !kit starter ",
-    "[17:27] [8b8t] >> Teleporting to home 0...",
-    "[17:27] [8b8t] >> Teleporting to home 1...",
-    "[17:27] To vincydooom: Your kit (starter) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:27] To vincydooom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:27] [8b8t] >> Request sent to vincydooom",
-    "[17:27] [8b8t] >> Teleporting...",
     "[17:27] <jsjsjsjsjsjs> !kit ",
     "[17:27] To jsjsjsjsjsjs: Hello jsjsjsjsjsjs!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[17:27] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[17:28] [8b8t] >> You have killed yourself!",
     "[17:28] [8b8t] >> Home 2 was not found",
     "[17:28] <Kid_67> \\ ",
-    "[17:28] [BOT] <0_HienBot> Hmmmmmmmmm "
+    "[17:28] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[17:28] <peacebringer12> !kit exp ",
+    "[17:28] [8b8t] >> Teleporting to home 0...",
+    "[17:28] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[17:28] [8b8t] >> Teleporting to home 6...",
+    "[17:28] To peacebringer12: Your kit (exp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:28] To peacebringer12: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:28] [8b8t] >> Request sent to peacebringer12"
   ],
   "userStats": {
     "76756": 38,
@@ -818,7 +818,7 @@
     "Abols152362": 91,
     "darkee_67589": 56,
     "PyrosImperator": 4,
-    "peacebringer12": 107,
+    "peacebringer12": 108,
     "PixySprawl": 5,
     "emin63emin": 3,
     "Coolieisgamerisp": 1,
@@ -2475,7 +2475,7 @@
     "stash": 714,
     "raid": 973,
     "wood": 395,
-    "exp": 553,
+    "exp": 554,
     "dye": 226,
     "wool": 306,
     "mineral": 450,
