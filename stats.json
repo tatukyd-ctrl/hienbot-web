@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:15:10 2/1/2026",
+  "lastUpdated": "17:15:30 2/1/2026",
   "totalKits": 80807,
   "todayKits": 24,
   "onlineCount": 28,
   "peakPlayers": 38,
-  "tps": "2.0",
-  "ping": 244,
+  "tps": "1.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:13] [8b8t] >> Teleporting to home 7...",
-    "[10:13] To .DorsalLand9978: Your kit (shulker) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:13] <pajito> grax ",
-    "[10:13] To .DorsalLand9978: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:13] [8b8t] >> Request sent to .DorsalLand9978",
-    "[10:13] <Nihan95> ? ",
-    "[10:13] [8b8t] >> Teleporting...",
-    "[10:13] <vihan> i dont think i have ",
-    "[10:14] [8b8t] >> You have killed yourself!",
     "[10:14] [8b8t] >> Home 2 was not found",
     "[10:14] <Flame_xz> !kit glowstone ",
     "[10:14] To Flame_xz: You're on cooldown, try again in 26 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[10:15] [8b8t] >> Request sent to YourWorstN8tmr",
     "[10:15] [8b8t] >> Teleporting...",
     "[10:15] <vihan> !kit pvp ",
-    "[10:15] To vihan: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[10:15] To vihan: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:15] [8b8t] >> You have killed yourself!",
+    "[10:15] [8b8t] >> Home 2 was not found",
+    "[10:15] <ITSBUCKET67> 67 ",
+    "[10:15] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
+    "[10:15] <Flame_xz> !kit glowstone ",
+    "[10:15] [8b8t] >> Teleporting to home 0...",
+    "[10:15] [8b8t] >> Teleporting to home 3...",
+    "[10:15] To Flame_xz: Kit \"glowstone\" not found! Giving you a random kit (redstone) instead!",
+    "[10:15] To Flame_xz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2442,7 +2442,7 @@
     "HighwayCleaner": 3,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 3,
-    "Flame_xz": 3
+    "Flame_xz": 4
   },
   "kitStats": {
     "build": 1234,
@@ -2458,7 +2458,7 @@
     "wool": 305,
     "mineral": 444,
     "food": 330,
-    "redstone": 607,
+    "redstone": 608,
     "toolbox": 498,
     "quartz": 204,
     "shulker": 395,
