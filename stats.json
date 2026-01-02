@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:00:36 2/1/2026",
+  "lastUpdated": "12:01:06 2/1/2026",
   "totalKits": 80752,
   "todayKits": 6,
   "onlineCount": 39,
   "peakPlayers": 41,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 247,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 1308
+      "count": 1309
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:59] <jsjsjsjsjsjs> toma ",
-    "[11:59] [8b8t] >> You have killed yourself!",
-    "[11:59] [8b8t] >> The TPA request you sent to inmatevibhuya was successfully canceled.",
-    "[11:59] <PR2CEE> !kit pvp ",
-    "[11:59] [8b8t] >> Teleporting to home 0...",
-    "[11:59] [8b8t] >> Teleporting to home 1...",
-    "[11:59] To PR2CEE: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:59] To PR2CEE: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:59] [8b8t] >> Request sent to PR2CEE",
     "[11:59] <Tomasinsito> q xd ",
     "[11:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +93,15 @@
     "[12:00] [BOT] <0_HienBot> Use !кιт to get kits ",
     "[12:00] <jsjsjsjsjsjs> edeeeen ",
     "[12:00] <jsjsjsjsjsjs> brooooo ",
-    "[12:00] [Ultra] <kendricklover132> e "
+    "[12:00] [Ultra] <kendricklover132> e ",
+    "[12:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:00] [8b8t] >> Please do not spam.",
+    "[12:00] <inmatevibhuya> !kit dupe ",
+    "[12:00] [8b8t] >> Teleporting to home 0...",
+    "[12:00] [8b8t] >> Teleporting to home 8...",
+    "[12:00] To inmatevibhuya: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:00] To inmatevibhuya: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:01] [8b8t] >> Request sent to inmatevibhuya"
   ],
   "userStats": {
     "76756": 38,
@@ -2427,13 +2427,13 @@
     "ducklover": 1,
     "joaquin5800": 1,
     "ShadowRex": 2,
-    "inmatevibhuya": 1
+    "inmatevibhuya": 2
   },
   "kitStats": {
     "build": 1233,
     "survival": 4845,
     "pvp": 6209,
-    "dupe": 1308,
+    "dupe": 1309,
     "tools": 1464,
     "stash": 690,
     "raid": 956,
