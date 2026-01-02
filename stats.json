@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:20:30 2/1/2026",
+  "lastUpdated": "22:21:00 2/1/2026",
   "totalKits": 80951,
   "todayKits": 168,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 38,
-  "tps": "3.0",
+  "tps": "6.0",
   "ping": 243,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:17] [8b8t] >> Request sent to botchaosonix666",
-    "[15:17] [BOT] <0_HienBot> Use !кιт to get kits ",
-    "[15:17] [8b8t] >> Teleporting...",
-    "[15:17] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[15:17] [8b8t] >> You have killed yourself!",
-    "[15:17] [8b8t] >> Home 2 was not found",
-    "[15:17] <itscrudude> !kit ",
-    "[15:17] To itscrudude: Hello itscrudude!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[15:17] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[15:18] [BOT] <0_HienBot> Type !кιт  to get free kits ",
     "[15:18] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
@@ -101,7 +93,15 @@
     "[15:19] fo1dslammer666 has made the advancement [Spooky Scary Skeleton]",
     "[15:20] flyingpotato132 has made the advancement [Ice Bucket Challenge]",
     "[15:20] fo1dslammer666 has made the advancement [Withering Heights]",
-    "[15:20] [BOT] <0_HienBot> What's up, jesuspalacios65? "
+    "[15:20] [BOT] <0_HienBot> What's up, jesuspalacios65? ",
+    "[15:20] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[15:20] <.leo_100_zx> hola ",
+    "[15:20] <.leo_100_zx> team? ",
+    "[15:20] [BOT] <0_HienBot> Use !кιт to get kits ",
+    "[15:20] <ZzElCruzZ> !kit quarz ",
+    "[15:20] [8b8t] >> Teleporting to home 0...",
+    "[15:20] [8b8t] >> Teleporting to home 5...",
+    "[15:20] To ZzElCruzZ: Kit \"quarz\" not found! Giving you a random kit (glass) instead!"
   ],
   "userStats": {
     "76756": 38,
@@ -1629,7 +1629,7 @@
     "Mistc_": 1,
     "stromMC": 1,
     "beary__": 2,
-    "ZzElCruzZ": 45,
+    "ZzElCruzZ": 46,
     "Dragoon": 1,
     "Onibi_Kui": 12,
     "joa65": 1,
@@ -2485,7 +2485,7 @@
     "highway": 382,
     "ocean": 86,
     "concrete": 277,
-    "glass": 221,
+    "glass": 222,
     "gap": 48,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 38,
