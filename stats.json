@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:33:30 2/1/2026",
+  "lastUpdated": "14:34:00 2/1/2026",
   "totalKits": 80790,
   "todayKits": 7,
   "onlineCount": 15,
   "peakPlayers": 38,
-  "tps": "8.0",
+  "tps": "11.0",
   "ping": 245,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:30] <veterexexploit> you ok? ",
-    "[07:30] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[07:30] <padcui> ñññññ ",
-    "[07:30] <teenagepopstar> !kit pvp ",
-    "[07:30] [8b8t] >> Teleporting to home 0...",
-    "[07:30] [8b8t] >> Teleporting to home 1...",
-    "[07:30] To teenagepopstar: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:30] To teenagepopstar: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:30] [8b8t] >> Request sent to teenagepopstar",
     "[07:30] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
     "[07:30] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[07:33] [8b8t] >> notk5 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
     "[07:33] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
     "[07:33] <teenagepopstar> !kit ",
-    "[07:33] To teenagepopstar: Hello teenagepopstar!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[07:33] To teenagepopstar: Hello teenagepopstar!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[07:33] <teenagepopstar> !kit stash ",
+    "[07:33] [8b8t] >> Teleporting to home 0...",
+    "[07:33] [8b8t] >> Teleporting to home 3...",
+    "[07:33] To teenagepopstar: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:33] To teenagepopstar: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:33] [8b8t] >> Request sent to teenagepopstar",
+    "[07:33] [BOT] <0_HienBot> Try !кιт survival ",
+    "[07:33] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2440,7 +2440,7 @@
     "Axintar09": 1,
     "caquitarara132": 1,
     "HighwayCleaner": 2,
-    "teenagepopstar": 1
+    "teenagepopstar": 2
   },
   "kitStats": {
     "build": 1234,
@@ -2448,7 +2448,7 @@
     "pvp": 6226,
     "dupe": 1311,
     "tools": 1468,
-    "stash": 693,
+    "stash": 694,
     "raid": 960,
     "wood": 391,
     "exp": 549,
