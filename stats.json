@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:19:51 2/1/2026",
+  "lastUpdated": "19:20:00 2/1/2026",
   "totalKits": 80877,
   "todayKits": 94,
   "onlineCount": 20,
   "peakPlayers": 38,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 251,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4866
+      "count": 4867
     },
     {
       "name": "tools",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:16] [8b8t] >> Teleporting to home 0...",
-    "[12:16] [8b8t] >> Teleporting to home 3...",
-    "[12:16] To frank0712: Kit \"comida\" not found! Giving you a random kit (stash) instead!",
-    "[12:16] To frank0712: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:16] [8b8t] >> Request sent to frank0712",
     "[12:16] [8b8t] >> Teleporting...",
     "[12:16] [8b8t] >> You have killed yourself!",
     "[12:16] [8b8t] >> Home 2 was not found",
@@ -101,7 +96,12 @@
     "[12:19] To .DorsalLand9978: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:19] [8b8t] >> Request sent to .DorsalLand9978",
     "[12:19] [8b8t] >> Please do not spam.",
-    "[12:19] [8b8t] >> Teleporting..."
+    "[12:19] [8b8t] >> Teleporting...",
+    "[12:19] [8b8t] >> You have killed yourself!",
+    "[12:19] [8b8t] >> Home 2 was not found",
+    "[12:19] <vincydooom> !kit survival ",
+    "[12:19] [8b8t] >> Teleporting to home 0...",
+    "[12:20] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -2398,7 +2398,7 @@
     "caio197": 2,
     "Vendiaren": 2,
     "c_hp": 1,
-    "vincydooom": 30,
+    "vincydooom": 31,
     "Razor_08": 1,
     "jojofan231": 15,
     "TekkeciYusuf": 1,
@@ -2455,7 +2455,7 @@
   },
   "kitStats": {
     "build": 1247,
-    "survival": 4866,
+    "survival": 4867,
     "pvp": 6251,
     "dupe": 1312,
     "tools": 1476,
