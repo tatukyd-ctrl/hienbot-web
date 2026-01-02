@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:28:09 3/1/2026",
-  "totalKits": 81212,
-  "todayKits": 429,
+  "lastUpdated": "06:28:29 3/1/2026",
+  "totalKits": 81213,
+  "todayKits": 430,
   "onlineCount": 51,
   "peakPlayers": 62,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 252,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 1523
+      "count": 1524
     },
     {
       "name": "dupe",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:27] [8b8t] >> You have killed yourself!",
-    "[23:27] To Herobrai2990: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:27] [8b8t] >> Teleporting to home 0...",
-    "[23:27] [8b8t] >> Teleporting to home 1...",
-    "[23:27] To Herobrai2990: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:27] [BOT] <0_HienBot> What's up, GregorVM? ",
-    "[23:27] [8b8t] >> Request sent to Herobrai2990",
-    "[23:27] <not_Voltaik> !kit pvp ",
-    "[23:27] [8b8t] >> Teleporting...",
-    "[23:27] To not_Voltaik: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[23:27] <not_Voltaik> !kitlist ",
-    "[23:27] Sun_wukong1432 has completed the challenge [Cover Me in Debris]",
-    "[23:27] Sun_wukong1432 has completed the challenge [Serious Dedication]",
     "[23:27] <Herobrai2990> yo ",
     "[23:27] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[23:27] <WxpzFrags> btw c1cko i got 32 shulkers of maces ",
@@ -101,7 +87,21 @@
     "[23:28] To Night_883: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:28] [8b8t] >> Request sent to Night_883",
     "[23:28] [8b8t] >> Teleporting...",
-    "[23:28] <not_Voltaik> !kit tools "
+    "[23:28] <not_Voltaik> !kit tools ",
+    "[23:28] To not_Voltaik: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:28] [8b8t] >> You have killed yourself!",
+    "[23:28] [8b8t] >> Home 2 was not found",
+    "[23:28] <amoevi6> I need item ",
+    "[23:28] <not_Voltaik> !kit tools ",
+    "[23:28] [8b8t] >> Teleporting to home 0...",
+    "[23:28] [8b8t] >> Teleporting to home 8...",
+    "[23:28] To not_Voltaik: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:28] To not_Voltaik: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:28] Anglish has made the advancement [Into Fire]",
+    "[23:28] [8b8t] >> Request sent to not_Voltaik",
+    "[23:28] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[23:28] amoevi6 has made the advancement [Ice Bucket Challenge]",
+    "[23:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2489,14 +2489,15 @@
     "jaev": 7,
     "Stealth_YT": 1,
     "rusherh4ck": 2,
-    "Xrisssx": 1
+    "Xrisssx": 1,
+    "not_Voltaik": 1
   },
   "kitStats": {
     "build": 1256,
     "survival": 4949,
     "pvp": 6388,
     "dupe": 1346,
-    "tools": 1523,
+    "tools": 1524,
     "stash": 726,
     "raid": 982,
     "wood": 397,
