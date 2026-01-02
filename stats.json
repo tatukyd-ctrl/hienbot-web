@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:16:33 2/1/2026",
-  "totalKits": 80842,
-  "todayKits": 59,
+  "lastUpdated": "18:16:49 2/1/2026",
+  "totalKits": 80843,
+  "todayKits": 60,
   "onlineCount": 26,
   "peakPlayers": 38,
-  "tps": "4.0",
+  "tps": "0.0",
   "ping": 259,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4858
+      "count": 4859
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:15] [BOT] <0_HienBot> What's up, aygdl? ",
-    "[11:16] <Tomasinsito> !kit build ",
-    "[11:16] [8b8t] >> Teleporting to home 0...",
-    "[11:16] [8b8t] >> Teleporting to home 3...",
-    "[11:16] To Tomasinsito: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:16] <vincydooom> !kit survival ",
-    "[11:16] To vincydooom: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[11:16] To Tomasinsito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:16] [8b8t] >> Request sent to Tomasinsito",
-    "[11:16] [8b8t] >> Teleporting...",
     "[11:16] <vincydooom> !kit survival ",
     "[11:16] To vincydooom: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:16] <vincydooom> !kit survival ",
@@ -101,7 +90,18 @@
     "[11:16] <aygdl> vincydooom you want kit ",
     "[11:16] <vincydooom> !kit survival ",
     "[11:16] To vincydooom: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:16] [8b8t] >> Teleporting..."
+    "[11:16] [8b8t] >> Teleporting...",
+    "[11:16] [8b8t] >> You have killed yourself!",
+    "[11:16] [8b8t] >> Home 2 was not found",
+    "[11:16] <vincydooom> !kit survival ",
+    "[11:16] [8b8t] >> Teleporting to home 0...",
+    "[11:16] [8b8t] >> Teleporting to home 1...",
+    "[11:16] To vincydooom: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:16] To vincydooom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:16] [8b8t] >> Request sent to vincydooom",
+    "[11:16] [8b8t] >> Teleporting...",
+    "[11:16] <aygdl> who wants kit ",
+    "[11:16] [BOT] <0_HienBot> Hmmmmmmmmm "
   ],
   "userStats": {
     "76756": 38,
@@ -2398,7 +2398,7 @@
     "caio197": 2,
     "Vendiaren": 2,
     "c_hp": 1,
-    "vincydooom": 14,
+    "vincydooom": 15,
     "Razor_08": 1,
     "jojofan231": 15,
     "TekkeciYusuf": 1,
@@ -2449,7 +2449,7 @@
   },
   "kitStats": {
     "build": 1244,
-    "survival": 4858,
+    "survival": 4859,
     "pvp": 6242,
     "dupe": 1312,
     "tools": 1474,
