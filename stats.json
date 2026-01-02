@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:10:30 2/1/2026",
+  "lastUpdated": "17:11:00 2/1/2026",
   "totalKits": 80803,
   "todayKits": 20,
-  "onlineCount": 26,
+  "onlineCount": 28,
   "peakPlayers": 38,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 244,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4852
+      "count": 4853
     },
     {
       "name": "tools",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:08] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[10:08] <vihan> alright ",
-    "[10:08] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
-    "[10:09] <vincydooom> !kit ",
-    "[10:09] To vincydooom: Hello vincydooom!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[10:09] <vihan> bro look in this ine ",
-    "[10:09] <vincydooom> !kit survival ",
-    "[10:09] [8b8t] >> You have killed yourself!",
-    "[10:09] <Flame_xz> !kit pvp ",
-    "[10:09] To Flame_xz: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:09] To vincydooom: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:09] <vihan> one ",
-    "[10:09] [8b8t] >> Teleporting to home 0...",
     "[10:09] [8b8t] >> Teleporting to home 1...",
     "[10:09] To vincydooom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:09] [8b8t] >> Request sent to vincydooom",
@@ -101,7 +88,20 @@
     "[10:09] [8b8t] >> You have killed yourself!",
     "[10:09] [8b8t] >> The TPA request you sent to vincydooom was successfully canceled.",
     "[10:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:10] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[10:10] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[10:10] <vincydooom> !kit survival ",
+    "[10:10] To vincydooom: You're on cooldown, try again in 56 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:10] <vihan> i have some server history in here ",
+    "[10:10] <Flame_xz> migheals head lol ",
+    "[10:10] <vincydooom> !kit survival ",
+    "[10:10] To vincydooom: You're on cooldown, try again in 48 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:10] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[10:10] <vihan> yeah lol ",
+    "[10:10] <Flame_xz> !kit survival ",
+    "[10:10] [8b8t] >> Teleporting to home 0...",
+    "[10:10] [8b8t] >> Teleporting to home 1...",
+    "[10:10] To Flame_xz: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:11] <vincydooom> why are kits not working "
   ],
   "userStats": {
     "76756": 38,
@@ -2442,11 +2442,11 @@
     "HighwayCleaner": 3,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 2,
-    "Flame_xz": 1
+    "Flame_xz": 2
   },
   "kitStats": {
     "build": 1234,
-    "survival": 4852,
+    "survival": 4853,
     "pvp": 6232,
     "dupe": 1311,
     "tools": 1470,
