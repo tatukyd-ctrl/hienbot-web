@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:38:00 2/1/2026",
+  "lastUpdated": "22:38:30 2/1/2026",
   "totalKits": 80955,
   "todayKits": 172,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 38,
-  "tps": "8.0",
+  "tps": "3.0",
   "ping": 251,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6298
+      "count": 6300
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:35] [8b8t] >> Teleporting to home 1...",
-    "[15:35] To .LEON50758: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:35] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:35] [8b8t] >> Request sent to .LEON50758",
-    "[15:35] [8b8t] >> Teleporting...",
-    "[15:35] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[15:35] <flyingpotato132> all i got is those totem i found a while ago ",
-    "[15:36] [8b8t] >> You have killed yourself!",
-    "[15:36] [8b8t] >> Home 2 was not found",
-    "[15:36] <enjoy> you indian ",
-    "[15:36] .LEON50758 Whispers: What",
-    "[15:36] caquitarara132 has made the advancement [Stone Age]",
-    "[15:36] <flyingpotato132> no LOL prob whiter than you ",
     "[15:36] [BOT] <0_HienBot> Bot created by Hien2309. ",
     "[15:36] <botchaosonix666> HAHAHAH ",
     "[15:36] <enjoy> where do live ",
@@ -101,7 +88,20 @@
     "[15:37] .LEON50758 Whispers: What kind of help do you need?",
     "[15:37] <enjoy> do you have slker ",
     "[15:37] <flyingpotato132> whats slker ",
-    "[15:37] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs "
+    "[15:37] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[15:38] <fwgehr> quien pvp ",
+    "[15:38] caquitarara132 has made the advancement [Getting an Upgrade]",
+    "[15:38] <ZzElCruzZ> !KIT PVP ",
+    "[15:38] [8b8t] >> Teleporting to home 0...",
+    "[15:38] [8b8t] >> Teleporting to home 1...",
+    "[15:38] To ZzElCruzZ: Your kit (PVP) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:38] To ZzElCruzZ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:38] [8b8t] >> Request sent to ZzElCruzZ",
+    "[15:38] [8b8t] >> Teleporting...",
+    "[15:38] <fwgehr> !kit pvp ",
+    "[15:38] [BOT] <0_HienBot> Try !кιт survival ",
+    "[15:38] [8b8t] >> You have killed yourself!",
+    "[15:38] To fwgehr: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1629,7 +1629,7 @@
     "Mistc_": 1,
     "stromMC": 1,
     "beary__": 2,
-    "ZzElCruzZ": 46,
+    "ZzElCruzZ": 47,
     "Dragoon": 1,
     "Onibi_Kui": 12,
     "joa65": 1,
@@ -2459,12 +2459,13 @@
     "HARLIX1354": 5,
     "Fiki64": 1,
     ".yuu18m": 2,
-    "Unknown_Addy": 5
+    "Unknown_Addy": 5,
+    "fwgehr": 1
   },
   "kitStats": {
     "build": 1250,
     "survival": 4888,
-    "pvp": 6298,
+    "pvp": 6300,
     "dupe": 1315,
     "tools": 1499,
     "stash": 709,
