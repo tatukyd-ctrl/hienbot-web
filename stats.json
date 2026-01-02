@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:06:30 2/1/2026",
+  "lastUpdated": "19:07:00 2/1/2026",
   "totalKits": 80873,
   "todayKits": 90,
-  "onlineCount": 17,
+  "onlineCount": 20,
   "peakPlayers": 38,
   "tps": "6.0",
-  "ping": 244,
+  "ping": 243,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6250
+      "count": 6251
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:03] [8b8t] >> Teleporting...",
-    "[12:03] [8b8t] >> You have killed yourself!",
-    "[12:03] [8b8t] >> Home 2 was not found",
-    "[12:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:04] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
-    "[12:04] <vincydooom> !kit survival ",
-    "[12:04] To vincydooom: You're on cooldown, try again in 69 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:04] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
     "[12:04] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
     "[12:04] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[12:04] <vincydooom> !kit survival ",
@@ -101,7 +93,15 @@
     "[12:05] [8b8t] >> You have killed yourself!",
     "[12:05] [8b8t] >> Home 2 was not found",
     "[12:05] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[12:06] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me "
+    "[12:06] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[12:06] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
+    "[12:06] <VituzMC> !kit pvp ",
+    "[12:06] [8b8t] >> Teleporting to home 0...",
+    "[12:06] [8b8t] >> Teleporting to home 1...",
+    "[12:06] To VituzMC: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:06] To VituzMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:06] [8b8t] >> Request sent to VituzMC",
+    "[12:06] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1597,7 +1597,7 @@
     "ChaosX": 2,
     "RamiGod": 1,
     "boutz": 7,
-    "VituzMC": 10,
+    "VituzMC": 11,
     "0Noxx0": 4,
     "NOT_OB3D": 1,
     "Gab0000": 12,
@@ -2455,7 +2455,7 @@
   "kitStats": {
     "build": 1246,
     "survival": 4866,
-    "pvp": 6250,
+    "pvp": 6251,
     "dupe": 1312,
     "tools": 1476,
     "stash": 700,
