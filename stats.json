@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:19:30 2/1/2026",
+  "lastUpdated": "17:20:00 2/1/2026",
   "totalKits": 80810,
   "todayKits": 27,
   "onlineCount": 24,
   "peakPlayers": 38,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 257,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:18] [BOT] <0_HienBot> August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[10:18] [8b8t] >> Teleporting...",
-    "[10:18] <vihan> nah f this ",
-    "[10:18] [8b8t] >> You have killed yourself!",
-    "[10:18] [8b8t] >> Home 2 was not found",
     "[10:18] <.DorsalLand9978> $kit enderchest ",
     "[10:18] To .DorsalLand9978: You're on cooldown, try again in 16 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:18] <vihan> damn ",
@@ -101,7 +96,12 @@
     "[10:19] [8b8t] >> Teleporting...",
     "[10:19] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[10:19] [8b8t] >> You have killed yourself!",
-    "[10:19] [8b8t] >> Home 2 was not found"
+    "[10:19] [8b8t] >> Home 2 was not found",
+    "[10:19] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[10:19] <xSharpyy> !kit stash ",
+    "[10:19] [8b8t] >> Teleporting to home 0...",
+    "[10:19] [8b8t] >> Teleporting to home 3...",
+    "[10:19] To xSharpyy: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2442,7 +2442,8 @@
     "HighwayCleaner": 3,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 3,
-    "Flame_xz": 5
+    "Flame_xz": 5,
+    "xSharpyy": 1
   },
   "kitStats": {
     "build": 1234,
@@ -2450,7 +2451,7 @@
     "pvp": 6234,
     "dupe": 1311,
     "tools": 1470,
-    "stash": 694,
+    "stash": 695,
     "raid": 963,
     "wood": 392,
     "exp": 549,
