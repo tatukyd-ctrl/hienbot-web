@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:25:01 3/1/2026",
+  "lastUpdated": "04:25:31 3/1/2026",
   "totalKits": 81142,
   "todayKits": 359,
-  "onlineCount": 52,
+  "onlineCount": 51,
   "peakPlayers": 62,
-  "tps": "2.0",
-  "ping": 254,
+  "tps": "6.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6357
+      "count": 6358
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:23] To .FanDeJesus5641: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:23] <THE_3ND3R> !kit survival ",
-    "[21:23] To THE_3ND3R: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:23] [BOT] <0_HienBot> Hello Night_883! ",
-    "[21:23] <.FanDeJesus5641> !kit survival ",
-    "[21:23] To .FanDeJesus5641: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:23] [XMAS2025] <Tobias> metan una mesa de carpinteria como el cortapiedras pero para madera ",
-    "[21:24] [8b8t] >> You have killed yourself!",
-    "[21:24] [8b8t] >> No TPA request found",
-    "[21:24] <.end_master3912> !kit ",
-    "[21:24] To .end_master3912: Hello .end_master3912!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[21:24] [Ultra] <KurtzMC> real ",
     "[21:24] <.FanDeJesus5641> !kit survival ",
     "[21:24] [8b8t] >> Teleporting to home 0...",
     "[21:24] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +89,19 @@
     "[21:24] <pantufla12345> alg me regala algo pa empezar, soy nuevo ",
     "[21:24] [Pro+] <JagdPanzerE25> Esta lloviendo un monton ",
     "[21:24] <pantufla12345> o tpeen a algun lado ",
-    "[21:24] [BOT] <0_HienBot> Use /kill to kill yourself! "
+    "[21:24] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[21:25] <.FanDeJesus5641> !kit survival ",
+    "[21:25] To .FanDeJesus5641: You're on cooldown, try again in 48 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:25] <.end_master3912> !kit pvp ",
+    "[21:25] [8b8t] >> Teleporting to home 0...",
+    "[21:25] <ALSIO1243> !kit wool ",
+    "[21:25] [8b8t] >> Teleporting to home 1...",
+    "[21:25] To .end_master3912: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:25] To .end_master3912: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:25] [8b8t] >> Request sent to .end_master3912",
+    "[21:25] <ALSIO1243> !kit wool ",
+    "[21:25] To ALSIO1243: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:25] [BOT] <0_HienBot> What's up, MonkeBot? "
   ],
   "userStats": {
     "76756": 38,
@@ -2482,12 +2482,13 @@
     ".Shed5627": 2,
     "NotNinja_": 7,
     "7wus": 1,
-    ".BluesyCap7705": 1
+    ".BluesyCap7705": 1,
+    ".end_master3912": 1
   },
   "kitStats": {
     "build": 1255,
     "survival": 4937,
-    "pvp": 6357,
+    "pvp": 6358,
     "dupe": 1339,
     "tools": 1515,
     "stash": 723,
