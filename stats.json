@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:01:00 2/1/2026",
-  "totalKits": 80869,
-  "todayKits": 86,
-  "onlineCount": 17,
+  "lastUpdated": "19:01:30 2/1/2026",
+  "totalKits": 80870,
+  "todayKits": 87,
+  "onlineCount": 16,
   "peakPlayers": 38,
-  "tps": "8.0",
-  "ping": 245,
+  "tps": "6.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6249
+      "count": 6250
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:58] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[11:58] [8b8t] >> Request sent to paidpopbob",
-    "[11:58] [8b8t] >> Teleporting...",
-    "[11:58] [8b8t] >> You have killed yourself!",
-    "[11:58] [8b8t] >> Home 2 was not found",
-    "[11:59] <vincydooom> !kit exp ",
-    "[11:59] [8b8t] >> Teleporting to home 0...",
-    "[11:59] [8b8t] >> Teleporting to home 6...",
-    "[11:59] To vincydooom: Your kit (exp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:59] To vincydooom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:59] [8b8t] >> Request sent to vincydooom",
     "[11:59] [8b8t] >> Please do not spam.",
@@ -101,7 +92,16 @@
     "[12:00] [8b8t] >> You have killed yourself!",
     "[12:00] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[12:00] [8b8t] >> Home 2 was not found",
-    "[12:00] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ "
+    "[12:00] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[12:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:01] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[12:01] <femboylover123> !kit pvp ",
+    "[12:01] [8b8t] >> Teleporting to home 0...",
+    "[12:01] [8b8t] >> Teleporting to home 1...",
+    "[12:01] To femboylover123: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:01] To femboylover123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:01] [8b8t] >> Request sent to femboylover123",
+    "[12:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2449,12 +2449,13 @@
     "Catwibu12": 1,
     "Solenxt": 1,
     "franchedd": 1,
-    "Killer_Mouse06": 1
+    "Killer_Mouse06": 1,
+    "femboylover123": 1
   },
   "kitStats": {
     "build": 1246,
     "survival": 4863,
-    "pvp": 6249,
+    "pvp": 6250,
     "dupe": 1312,
     "tools": 1476,
     "stash": 700,
