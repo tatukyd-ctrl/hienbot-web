@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:54:30 2/1/2026",
+  "lastUpdated": "13:55:00 2/1/2026",
   "totalKits": 80788,
   "todayKits": 5,
-  "onlineCount": 20,
+  "onlineCount": 21,
   "peakPlayers": 38,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 245,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4849
+      "count": 4850
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:51] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[06:51] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[06:51] <Axintar09> someone help me I am in the spawn ",
-    "[06:51] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
-    "[06:51] <aD_av_H> ngia ngaig agiagnignaginn ngiag niga ",
-    "[06:51] ",
-    "[06:51] [8b8t] >> Restarting in 10m!",
-    "[06:51] ",
-    "[06:52] [BOT] <0_HienBot> Use !кιт to get kits ",
-    "[06:52] caquitarara132 has completed the challenge [Subspace Bubble]",
     "[06:52] <aD_av_H> !kits ",
     "[06:52] D_LOST_SPACE has made the advancement [We Need to Go Deeper]",
     "[06:52] D_LOST_SPACE has made the advancement [The End?]",
@@ -101,7 +91,17 @@
     "[06:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:54] To Axintar09: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:54] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[06:54] [8b8t] >> Request sent to Axintar09"
+    "[06:54] [8b8t] >> Request sent to Axintar09",
+    "[06:54] <Axintar09> !kit survival ",
+    "[06:54] To Axintar09: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:54] [8b8t] >> Please do not spam.",
+    "[06:54] [8b8t] >> You have killed yourself!",
+    "[06:54] [8b8t] >> The TPA request you sent to Axintar09 was successfully canceled.",
+    "[06:54] <caquitarara132> !kit survival ",
+    "[06:54] [8b8t] >> Teleporting to home 0...",
+    "[06:54] [8b8t] >> Teleporting to home 1...",
+    "[06:54] To caquitarara132: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:55] To caquitarara132: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2437,11 +2437,12 @@
     "base_hunter_2": 2,
     "Rivo_agency": 1,
     "Alesito_Cotton": 1,
-    "Axintar09": 1
+    "Axintar09": 1,
+    "caquitarara132": 1
   },
   "kitStats": {
     "build": 1234,
-    "survival": 4849,
+    "survival": 4850,
     "pvp": 6225,
     "dupe": 1311,
     "tools": 1467,
