@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:29:30 2/1/2026",
+  "lastUpdated": "18:30:00 2/1/2026",
   "totalKits": 80855,
   "todayKits": 72,
   "onlineCount": 24,
   "peakPlayers": 38,
-  "tps": "0.0",
+  "tps": "11.0",
   "ping": 248,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:26] [8b8t] >> Teleporting to home 0...",
-    "[11:26] [8b8t] >> Teleporting to home 5...",
-    "[11:26] To Flame_xz: Your kit (food) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:26] <aygdl> gel lan ",
-    "[11:27] To Flame_xz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:27] [8b8t] >> Request sent to Flame_xz",
-    "[11:27] [8b8t] >> Teleporting...",
-    "[11:27] [8b8t] >> You have killed yourself!",
     "[11:27] [8b8t] >> Home 2 was not found",
     "[11:27] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[11:27] <vincydooom> !kit raid ",
@@ -101,7 +93,15 @@
     "[11:28] [8b8t] >> You have killed yourself!",
     "[11:28] [8b8t] >> Home 2 was not found",
     "[11:28] [BOT] <0_HienBot> Hey TNGB0T! ",
-    "[11:29] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t "
+    "[11:29] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[11:29] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[11:29] [BOT] <0_HienBot> Type !кιт  to get free kits ",
+    "[11:29] <vincydooom> !kit raid ",
+    "[11:29] To vincydooom: You're on cooldown, try again in 15 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:29] <Catwibu12> !kits raaid ",
+    "[11:29] <Catwibu12> !kit rid ",
+    "[11:29] [8b8t] >> Teleporting to home 0...",
+    "[11:30] [8b8t] >> Teleporting to home 3..."
   ],
   "userStats": {
     "76756": 38,
@@ -2445,7 +2445,8 @@
     "Flame_xz": 21,
     "xSharpyy": 2,
     "JACK_141": 4,
-    "ARNOSHEEP": 5
+    "ARNOSHEEP": 5,
+    "Catwibu12": 1
   },
   "kitStats": {
     "build": 1245,
@@ -2454,7 +2455,7 @@
     "dupe": 1312,
     "tools": 1475,
     "stash": 699,
-    "raid": 966,
+    "raid": 967,
     "wood": 394,
     "exp": 549,
     "dye": 225,
