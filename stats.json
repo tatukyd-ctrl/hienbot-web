@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:02:33 3/1/2026",
+  "lastUpdated": "06:03:01 3/1/2026",
   "totalKits": 81203,
   "todayKits": 420,
-  "onlineCount": 47,
+  "onlineCount": 48,
   "peakPlayers": 62,
-  "tps": "4.0",
+  "tps": "1.0",
   "ping": 248,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6385
+      "count": 6386
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:00] To jaev: Your kit (End) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:00] <KionYhamma> no se fijen en el nombre de mi espada ",
-    "[23:00] To jaev: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:00] [8b8t] >> Request sent to jaev",
-    "[23:00] [8b8t] >> Teleporting...",
-    "[23:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[23:00] <KionYhamma> otra vez? ",
-    "[23:00] <jsjsjsjsjsjs> dice uno si lo sacamos del spawn ",
-    "[23:00] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
-    "[23:01] <m4rc_xyz8> catkiller ",
-    "[23:01] [BOT] <0_HienBot> Type !discord ",
     "[23:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:01] <m4rc_xyz8> go to the base ",
     "[23:01] <m4rc_xyz8> catkiller ",
@@ -101,7 +90,18 @@
     "[23:02] To Tomasinsito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:02] To WORDIPOP: Hello WORDIPOP!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[23:02] [8b8t] >> Request sent to Tomasinsito",
-    "[23:02] [8b8t] >> Teleporting..."
+    "[23:02] [8b8t] >> Teleporting...",
+    "[23:02] [8b8t] >> You have killed yourself!",
+    "[23:02] [8b8t] >> Home 2 was not found",
+    "[23:02] <WORDIPOP> !kit pvp ",
+    "[23:02] [8b8t] >> Teleporting to home 0...",
+    "[23:02] [8b8t] >> Teleporting to home 1...",
+    "[23:02] To WORDIPOP: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:02] To WORDIPOP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:02] [8b8t] >> Request sent to WORDIPOP",
+    "[23:02] zMessiNaldo_3D has made the advancement [Stone Age]",
+    "[23:02] [BOT] <0_HienBot> Hey i_am_tobias! ",
+    "[23:02] <WORDIPOP> xd "
   ],
   "userStats": {
     "76756": 38,
@@ -2058,7 +2058,7 @@
     "chimuw": 4,
     "XM1chxBuldPro": 1,
     "rby6": 2,
-    "WORDIPOP": 12,
+    "WORDIPOP": 13,
     "calebbelcher12": 1,
     "Sethmustdie": 1,
     "ItzRealDown": 2,
@@ -2492,7 +2492,7 @@
   "kitStats": {
     "build": 1256,
     "survival": 4944,
-    "pvp": 6385,
+    "pvp": 6386,
     "dupe": 1343,
     "tools": 1523,
     "stash": 726,
