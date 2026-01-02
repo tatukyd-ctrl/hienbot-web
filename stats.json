@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:53:13 2/1/2026",
+  "lastUpdated": "23:53:30 2/1/2026",
   "totalKits": 80986,
   "todayKits": 203,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 41,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 264,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6306
+      "count": 6307
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:52] To SirBlemmington: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:52] [8b8t] >> Request sent to SirBlemmington",
-    "[16:52] [8b8t] >> Teleporting...",
-    "[16:52] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
-    "[16:52] <SirBlemmington> !kit ",
-    "[16:52] [8b8t] >> You have killed yourself!",
     "[16:52] To SirBlemmington: Hello SirBlemmington!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[16:52] [8b8t] >> Home 2 was not found",
     "[16:52] <Night_883> !kit pvp ",
@@ -101,7 +95,13 @@
     "[16:53] To ShadowRex: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:53] [8b8t] >> Teleporting...",
     "[16:53] <de5van5> quien acepta tpa ",
-    "[16:53] SirBlemmington has reached the goal [Sky's the Limit]"
+    "[16:53] SirBlemmington has reached the goal [Sky's the Limit]",
+    "[16:53] [8b8t] >> You have killed yourself!",
+    "[16:53] [8b8t] >> Home 2 was not found",
+    "[16:53] [BOT] <0_HienBot> Hello F3ux! ",
+    "[16:53] <ShadowRex> !kit pvp ",
+    "[16:53] [8b8t] >> Teleporting to home 0...",
+    "[16:53] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -2426,7 +2426,7 @@
     "NoImNotPopBop": 1,
     "ducklover": 1,
     "joaquin5800": 1,
-    "ShadowRex": 4,
+    "ShadowRex": 5,
     "inmatevibhuya": 2,
     ".angel2231xd": 4,
     "StrikeQwertyBoii": 8,
@@ -2468,7 +2468,7 @@
   "kitStats": {
     "build": 1253,
     "survival": 4901,
-    "pvp": 6306,
+    "pvp": 6307,
     "dupe": 1318,
     "tools": 1502,
     "stash": 709,
