@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:06:27 2/1/2026",
+  "lastUpdated": "10:06:36 2/1/2026",
   "totalKits": 80737,
   "todayKits": 23,
   "onlineCount": 40,
   "peakPlayers": 132,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 253,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:04] <ignacioMC> hola ",
-    "[10:04] [BOT] <0_HienBot> Hey Nickk001! ",
-    "[10:04] <ignacioMC> holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ",
-    "[10:05] <fo1dslammer666> Hola ",
-    "[10:05] <delusionalism> hola ",
-    "[10:05] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:05] <elnono99> hola ",
     "[10:05] <ignacioMC> hola ",
     "[10:05] <Nickk001> +kit Banner ",
@@ -101,7 +95,13 @@
     "[10:06] To jojofan231: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:06] [8b8t] >> Request sent to jojofan231",
     "[10:06] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
-    "[10:06] [8b8t] >> Teleporting..."
+    "[10:06] [8b8t] >> Teleporting...",
+    "[10:06] [8b8t] >> You have killed yourself!",
+    "[10:06] [8b8t] >> Home 2 was not found",
+    "[10:06] [Pro] <bigbear> !kit concrete ",
+    "[10:06] [8b8t] >> Teleporting to home 0...",
+    "[10:06] [8b8t] >> Teleporting to home 4...",
+    "[10:06] NoImNotPopBop has completed the challenge [Cover Me in Debris]"
   ],
   "userStats": {
     "76756": 38,
@@ -113,7 +113,7 @@
     "WebSuperOp": 10,
     "RyloMC": 17,
     "pibble": 2,
-    "bigbear": 40,
+    "bigbear": 41,
     "luccah10": 19,
     ".ThunderDrgn2845": 10,
     "2young2care": 29,
@@ -2448,7 +2448,7 @@
     "armortrims": 298,
     "highway": 371,
     "ocean": 83,
-    "concrete": 275,
+    "concrete": 276,
     "glass": 218,
     "gap": 46,
     "constructor": "function Object() { [native code] }111111111",
