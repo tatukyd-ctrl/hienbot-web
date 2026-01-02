@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:16:00 2/1/2026",
+  "lastUpdated": "19:16:30 2/1/2026",
   "totalKits": 80875,
   "todayKits": 92,
-  "onlineCount": 19,
+  "onlineCount": 21,
   "peakPlayers": 38,
-  "tps": "6.0",
-  "ping": 246,
+  "tps": "3.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:11] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[12:11] <.DorsalLand9978> hello ",
-    "[12:12] <.DorsalLand9978> s nd me tp ",
-    "[12:12] [BOT] <0_HienBot> Welcome to 8b8t, .DorsalLand9978! ",
-    "[12:12] <frank0712> kits ",
-    "[12:12] <.DorsalLand9978> sur I have ",
-    "[12:12] <frank0712> *kit ",
-    "[12:12] To frank0712: Hello frank0712!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[12:12] [8b8t] >> Request sent to Theetroll2001",
     "[12:12] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
     "[12:12] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[12:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:14] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
     "[12:15] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[12:15] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs "
+    "[12:15] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[12:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[12:16] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[12:16] <frank0712> *kit comida ",
+    "[12:16] [8b8t] >> Teleporting to home 0...",
+    "[12:16] [8b8t] >> Teleporting to home 3...",
+    "[12:16] To frank0712: Kit \"comida\" not found! Giving you a random kit (stash) instead!",
+    "[12:16] To frank0712: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:16] [8b8t] >> Request sent to frank0712"
   ],
   "userStats": {
     "76756": 38,
@@ -2451,7 +2451,7 @@
     "franchedd": 1,
     "Killer_Mouse06": 1,
     "femboylover123": 1,
-    "frank0712": 1
+    "frank0712": 2
   },
   "kitStats": {
     "build": 1246,
@@ -2459,7 +2459,7 @@
     "pvp": 6251,
     "dupe": 1312,
     "tools": 1476,
-    "stash": 700,
+    "stash": 701,
     "raid": 967,
     "wood": 394,
     "exp": 551,
