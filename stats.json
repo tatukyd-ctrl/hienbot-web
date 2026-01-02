@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:33:06 2/1/2026",
+  "lastUpdated": "10:33:36 2/1/2026",
   "totalKits": 80742,
   "todayKits": 28,
-  "onlineCount": 38,
+  "onlineCount": 37,
   "peakPlayers": 132,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 248,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6205
+      "count": 6206
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:27] To MCWemmbu2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:27] [8b8t] >> Request sent to MCWemmbu2",
-    "[10:27] [8b8t] >> Teleporting...",
-    "[10:28] [8b8t] >> You have killed yourself!",
-    "[10:28] [8b8t] >> Home 2 was not found",
-    "[10:28] [BOT] <0_HienBot> Try!𝒌it stash ",
-    "[10:28] [BOT] <0_HienBot> Try /nc to change your name color! ",
-    "[10:29] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: d1cord,gg/2vezgc2VGb ",
-    "[10:29] <Nickk001> devovle ",
-    "[10:29] [Ultra] <kendricklover132> whos Simblebot ",
-    "[10:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:29] lautarito888 has completed the challenge [Adventuring Time]",
     "[10:29] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
     "[10:29] <Nickk001> a man :( ",
@@ -101,7 +90,18 @@
     "[10:32] NoImNotPopBop has made the advancement [Monster Hunter]",
     "[10:32] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:32] <Simblebot> tpaccept ",
-    "[10:32] [8b8t] >> Please do not spam."
+    "[10:32] [8b8t] >> Please do not spam.",
+    "[10:33] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[10:33] <Simblebot> tpaaccept ",
+    "[10:33] <ZzElCruzZ> !kit pvp ",
+    "[10:33] [8b8t] >> Teleporting to home 0...",
+    "[10:33] [8b8t] >> Teleporting to home 1...",
+    "[10:33] To ZzElCruzZ: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:33] To ZzElCruzZ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:33] [8b8t] >> Request sent to ZzElCruzZ",
+    "[10:33] [8b8t] >> TPA cancelled because ZzElCruzZ left",
+    "[10:33] <ducklover> !kit toolbox ",
+    "[10:33] To ducklover: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1629,7 +1629,7 @@
     "Mistc_": 1,
     "stromMC": 1,
     "beary__": 2,
-    "ZzElCruzZ": 39,
+    "ZzElCruzZ": 40,
     "Dragoon": 1,
     "Onibi_Kui": 12,
     "joa65": 1,
@@ -2428,7 +2428,7 @@
   "kitStats": {
     "build": 1233,
     "survival": 4845,
-    "pvp": 6205,
+    "pvp": 6206,
     "dupe": 1306,
     "tools": 1463,
     "stash": 690,
