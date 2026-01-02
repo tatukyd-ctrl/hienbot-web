@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:49:31 3/1/2026",
-  "totalKits": 81163,
-  "todayKits": 380,
+  "lastUpdated": "04:49:44 3/1/2026",
+  "totalKits": 81164,
+  "todayKits": 381,
   "onlineCount": 59,
   "peakPlayers": 62,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 250,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6365
+      "count": 6366
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:48] [8b8t] >> The TPA request you sent to gonziii181 was successfully canceled.",
-    "[21:48] <ZafiroAfiro> lautarito888 no es el de mi amigo XD ",
-    "[21:48] <.schrodinger2302> t ",
-    "[21:48] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[21:48] <lautarito888> uhhhh ",
-    "[21:48] <Night_883> !kit pvp ",
-    "[21:48] <gonziii181> !kit survial ",
-    "[21:48] To Night_883: You're on cooldown, try again in 3 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:48] Exoshi has reached the goal [Postmortal]",
-    "[21:48] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[21:48] <lautarito888> se nota que recien lo empiezan ",
     "[21:48] <ZafiroAfiro> Esta bonito este igual ",
     "[21:49] <peacebringer12> !kit pvp ",
@@ -101,7 +91,17 @@
     "[21:49] [8b8t] >> Home 2 was not found",
     "[21:49] <ZafiroAfiro> Dejemos carteles de apoyo lautarito888 ",
     "[21:49] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
-    "[21:49] <lautarito888> aca hay madera "
+    "[21:49] <lautarito888> aca hay madera ",
+    "[21:49] <Night_883> !kit pvp ",
+    "[21:49] [8b8t] >> Teleporting to home 0...",
+    "[21:49] [8b8t] >> Teleporting to home 1...",
+    "[21:49] To Night_883: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:49] <peacebringer12> !kit tool ",
+    "[21:49] To peacebringer12: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:49] To Night_883: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:49] [8b8t] >> Request sent to Night_883",
+    "[21:49] [XMAS2025] <Tobias> chambea ",
+    "[21:49] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2103,7 +2103,7 @@
     "WinterWater": 70,
     "killer_": 1,
     "boam": 4,
-    "Night_883": 73,
+    "Night_883": 74,
     "MRF4T4L3RR0R": 2,
     "ajoqetkafshon": 15,
     "MicterDonater_YT": 1,
@@ -2488,7 +2488,7 @@
   "kitStats": {
     "build": 1255,
     "survival": 4943,
-    "pvp": 6365,
+    "pvp": 6366,
     "dupe": 1340,
     "tools": 1516,
     "stash": 723,
