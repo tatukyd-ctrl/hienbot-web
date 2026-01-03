@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:02:01 3/1/2026",
-  "totalKits": 81281,
-  "todayKits": 47,
-  "onlineCount": 64,
+  "lastUpdated": "08:02:16 3/1/2026",
+  "totalKits": 81282,
+  "todayKits": 48,
+  "onlineCount": 63,
   "peakPlayers": 70,
-  "tps": "5.0",
+  "tps": "7.0",
   "ping": 264,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4974
+      "count": 4975
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:00] [8b8t] >> Request sent to TenshiKbys",
-    "[01:00] [BOT] <0_HienBot> Hey GaBaus! ",
-    "[01:01] [8b8t] >> Teleporting...",
-    "[01:01] [BOT] <Dismaremu> tengo q usar la membrana directa del teclado ",
-    "[01:01] [8b8t] >> You have killed yourself!",
-    "[01:01] <.FanDeJesus5641> !kit pvp ",
-    "[01:01] [8b8t] >> Teleporting to home 0...",
-    "[01:01] [8b8t] >> Home 2 was not found",
     "[01:01] [8b8t] >> Teleporting to home 1...",
     "[01:01] To .FanDeJesus5641: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:01] <AgonHacck> tpa for pvp ",
@@ -101,7 +93,15 @@
     "[01:01] <AgonHacck> tpa for pvp ",
     "[01:01] <oction> !kit survival ",
     "[01:01] To oction: You're on cooldown, try again in 7 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:01] [8b8t] >> Please do not spam."
+    "[01:01] [8b8t] >> Please do not spam.",
+    "[01:02] <oction> !kit survival ",
+    "[01:02] [8b8t] >> Teleporting to home 0...",
+    "[01:02] [8b8t] >> Teleporting to home 1...",
+    "[01:02] To oction: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:02] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[01:02] To oction: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:02] [8b8t] >> Request sent to oction",
+    "[01:02] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2503,13 +2503,13 @@
     "GaBausBot": 1,
     "YOU": 1,
     "StuckJules": 3,
-    "oction": 4,
+    "oction": 5,
     "MIMICISHERE7239": 2,
     "TenshiKbys": 1
   },
   "kitStats": {
     "build": 1260,
-    "survival": 4974,
+    "survival": 4975,
     "pvp": 6425,
     "dupe": 1354,
     "tools": 1530,
