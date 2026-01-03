@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:15:12 3/1/2026",
+  "lastUpdated": "14:15:42 3/1/2026",
   "totalKits": 81459,
   "todayKits": 77,
-  "onlineCount": 14,
+  "onlineCount": 15,
   "peakPlayers": 56,
-  "tps": "8.0",
+  "tps": "10.0",
   "ping": 243,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6472
+      "count": 6473
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:10] Bartholomew16 has made the advancement [Ice Bucket Challenge]",
-    "[07:11] <NOT_OB3D> !kit +18 ",
-    "[07:11] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[07:11] <NotK5> !ping ",
-    "[07:11] To NotK5: Your ping is: 259 ms Dont forget to join dsc.gg/hienbot",
-    "[07:11] <Rage_penguin_69> !ping ",
-    "[07:11] To Rage_penguin_69: Your ping is: 59 ms Dont forget to join dsc.gg/hienbot",
-    "[07:11] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[07:11] [8b8t] >> Please do not spam.",
-    "[07:12] [BOT] <0_HienBot> August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[07:12] <NotK5> 🤔 ",
-    "[07:12] <Rage_penguin_69> someone hotspot ",
-    "[07:12] <Rage_penguin_69> someone make a hotspot ",
     "[07:12] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[07:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[07:13] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
@@ -101,7 +88,20 @@
     "[07:14] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:14] [8b8t] >> Request sent to HighwayCleaner",
     "[07:14] [8b8t] >> Teleporting...",
-    "[07:14] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
+    "[07:14] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[07:15] [BOT] <0_HienBot> Hello HighwayCleaner! ",
+    "[07:15] <Rage_penguin_69> !kit pvp ",
+    "[07:15] [8b8t] >> Teleporting to home 0...",
+    "[07:15] [8b8t] >> Teleporting to home 1...",
+    "[07:15] To Rage_penguin_69: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:15] <Rage_penguin_69> !kit ",
+    "[07:15] To Rage_penguin_69: Hello Rage_penguin_69!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[07:15] To Rage_penguin_69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:15] [8b8t] >> Request sent to Rage_penguin_69",
+    "[07:15] <m4rc_xyz8> what is you problem down sindrome ",
+    "[07:15] [8b8t] >> Teleporting...",
+    "[07:15] <Rage_penguin_69> !kit exp ",
+    "[07:15] To Rage_penguin_69: You're on cooldown, try again in 89 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -525,7 +525,7 @@
     "n0t_Slim": 1,
     "pepecraft13": 1,
     "Murphito45": 1,
-    "Rage_penguin_69": 22,
+    "Rage_penguin_69": 23,
     "Cochiloquito": 3,
     ".Elpatata43": 56,
     "SAMMYBOY90": 1,
@@ -2537,7 +2537,7 @@
   "kitStats": {
     "build": 1271,
     "survival": 5020,
-    "pvp": 6472,
+    "pvp": 6473,
     "dupe": 1361,
     "tools": 1546,
     "stash": 740,
