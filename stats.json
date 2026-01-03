@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:10:31 3/1/2026",
-  "totalKits": 81336,
-  "todayKits": 102,
-  "onlineCount": 63,
+  "lastUpdated": "09:10:59 3/1/2026",
+  "totalKits": 81337,
+  "todayKits": 103,
+  "onlineCount": 60,
   "peakPlayers": 72,
-  "tps": "7.0",
-  "ping": 257,
+  "tps": "2.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,23 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1265
+      "count": 1266
     }
   ],
   "chatLog": [
-    "[02:09] [8b8t] >> The TPA request you sent to .Fatboi653831 was successfully canceled.",
-    "[02:09] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[02:09] <.Fatboi653831> !kit pvp ",
-    "[02:09] To .Fatboi653831: You're on cooldown, try again in 87 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:09] <.NimbleSage9439> +kit pvp ",
-    "[02:09] [8b8t] >> Teleporting to home 0...",
-    "[02:09] [8b8t] >> Teleporting to home 1...",
-    "[02:09] To .NimbleSage9439: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:09] To .NimbleSage9439: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:09] [8b8t] >> Request sent to .NimbleSage9439",
-    "[02:09] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
-    "[02:09] <magmitamp4> !kit build ",
-    "[02:09] To magmitamp4: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:09] <lautarito888> enfermo ",
     "[02:09] [8b8t] >> Teleporting...",
     "[02:10] [8b8t] >> You have killed yourself!",
@@ -101,7 +88,20 @@
     "[02:10] [8b8t] >> Teleporting...",
     "[02:10] <lautarito888> pero ponte armadura ",
     "[02:10] <.Fatboi653831> !kit pvp ",
-    "[02:10] To .Fatboi653831: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[02:10] To .Fatboi653831: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:10] [8b8t] >> You have killed yourself!",
+    "[02:10] [8b8t] >> Home 2 was not found",
+    "[02:10] <.Fatboi653831> !kit pvp ",
+    "[02:10] To .Fatboi653831: You're on cooldown, try again in 25 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:10] <tolampro> hi ",
+    "[02:10] <magmitamp4> !kit build ",
+    "[02:10] [8b8t] >> Teleporting to home 0...",
+    "[02:10] [8b8t] >> Teleporting to home 3...",
+    "[02:10] To magmitamp4: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:10] To magmitamp4: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:10] [8b8t] >> Request sent to magmitamp4",
+    "[02:10] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[02:10] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -256,7 +256,7 @@
     ".Jkbra1127": 3,
     "NicXyz": 4,
     "LiluMC": 8,
-    "magmitamp4": 33,
+    "magmitamp4": 34,
     "REdcoNs": 3,
     "lolsuperman": 2,
     "p3l1n_1945": 45,
@@ -2516,7 +2516,7 @@
     ".NimbleSage9439": 2
   },
   "kitStats": {
-    "build": 1265,
+    "build": 1266,
     "survival": 4983,
     "pvp": 6436,
     "dupe": 1357,
