@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:00:39 4/1/2026",
-  "totalKits": 81926,
-  "todayKits": 61,
+  "lastUpdated": "05:00:58 4/1/2026",
+  "totalKits": 81927,
+  "todayKits": 62,
   "onlineCount": 59,
   "peakPlayers": 64,
   "tps": "7.0",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:59] To santi_ripxd: Try again Join dsc.gg/hienbot to report the error.",
-    "[21:59] yeetme2468 has completed the challenge [Serious Dedication]",
-    "[21:59] <santi_ripxd> !kit survival ",
-    "[21:59] To santi_ripxd: You're on cooldown, try again in 74 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:59] <Rage_penguin_69> !kit dupe ",
-    "[21:59] [8b8t] >> Teleporting to home 0...",
-    "[21:59] [8b8t] >> Teleporting to home 8...",
-    "[21:59] To Rage_penguin_69: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:00] To Rage_penguin_69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:00] [8b8t] >> Request sent to Rage_penguin_69",
     "[22:00] [8b8t] >> Teleporting...",
     "[22:00] <Lucaluck201> !kit ",
@@ -101,7 +92,16 @@
     "[22:00] To tchzt: Hello tchzt!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[22:00] <.LEON50758> hanaeeee ",
     "[22:00] [8b8t] >> You have killed yourself!",
-    "[22:00] [8b8t] >> Home 2 was not found"
+    "[22:00] [8b8t] >> Home 2 was not found",
+    "[22:00] <tchzt> !kit shuker ",
+    "[22:00] [8b8t] >> Teleporting to home 0...",
+    "[22:00] [8b8t] >> Teleporting to home 8...",
+    "[22:00] To tchzt: Kit \"shuker\" not found! Giving you a random kit (armortrims) instead!",
+    "[22:00] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[22:00] To tchzt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:00] [8b8t] >> Request sent to tchzt",
+    "[22:00] ELLauchaMC has made the advancement [Crafting a New Look]",
+    "[22:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2586,7 +2586,8 @@
     "m4rc_xyz8": 2,
     "Lucaluck201": 5,
     "santi_ripxd": 4,
-    "iwannaloveyou": 1
+    "iwannaloveyou": 1,
+    "tchzt": 1
   },
   "kitStats": {
     "build": 1306,
@@ -2608,7 +2609,7 @@
     "shulker": 431,
     "terracotta": 64,
     "end": 455,
-    "armortrims": 319,
+    "armortrims": 320,
     "highway": 416,
     "ocean": 93,
     "concrete": 283,
