@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:21:54 4/1/2026",
-  "totalKits": 81742,
-  "todayKits": 110,
-  "onlineCount": 61,
+  "lastUpdated": "00:22:17 4/1/2026",
+  "totalKits": 81743,
+  "todayKits": 111,
+  "onlineCount": 63,
   "peakPlayers": 80,
-  "tps": "5.0",
+  "tps": "9.0",
   "ping": 250,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1299
+      "count": 1300
     }
   ],
   "chatLog": [
-    "[17:19] To klcenka: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:19] [8b8t] >> Request sent to klcenka",
-    "[17:19] [8b8t] >> Teleporting...",
-    "[17:19] [8b8t] >> You have killed yourself!",
-    "[17:19] [8b8t] >> Home 2 was not found",
-    "[17:19] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[17:19] <kavunadam2> WTF ",
-    "[17:19] <Rage_penguin_69> yayyyyyyyyyy ",
     "[17:19] [8b8t] >> The TPA request you received from EnesReks has expired.",
     "[17:20] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
     "[17:20] <Rage_penguin_69> !ping ",
@@ -101,7 +93,15 @@
     "[17:21] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[17:21] <Rage_penguin_69> som1 make hotspot ",
     "[17:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[17:21] <Eden_01655> !kit elitras "
+    "[17:21] <Eden_01655> !kit elitras ",
+    "[17:21] [8b8t] >> Teleporting to home 0...",
+    "[17:21] [8b8t] >> Teleporting to home 3...",
+    "[17:21] To Eden_01655: Kit \"elitras\" not found! Giving you a random kit (build) instead!",
+    "[17:21] To Eden_01655: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:22] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[17:22] [8b8t] >> Request sent to Eden_01655",
+    "[17:22] [8b8t] >> Teleporting...",
+    "[17:22] <kayes6> *kit shulker "
   ],
   "userStats": {
     "76756": 38,
@@ -2471,7 +2471,7 @@
     ".keko756": 1,
     "kayra42_": 2,
     "kikoisgood95": 1,
-    "Eden_01655": 1,
+    "Eden_01655": 2,
     "jordanas2123": 1,
     "KiddKussh": 1,
     "Opalanie": 2,
@@ -2570,7 +2570,7 @@
     "santiago200112": 2
   },
   "kitStats": {
-    "build": 1299,
+    "build": 1300,
     "survival": 5092,
     "pvp": 6576,
     "dupe": 1381,
