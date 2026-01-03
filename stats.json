@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:55:12 3/1/2026",
+  "lastUpdated": "12:55:42 3/1/2026",
   "totalKits": 81445,
   "todayKits": 63,
-  "onlineCount": 38,
+  "onlineCount": 35,
   "peakPlayers": 56,
-  "tps": "3.0",
-  "ping": 255,
+  "tps": "4.0",
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6464
+      "count": 6465
     },
     {
       "name": "survival",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:54] <jsjsjsjsjsjs> TNT? ",
-    "[05:54] To HighwayCleaner: You're on cooldown, try again in 36 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:54] <.Momoshiki3623> nada? ",
-    "[05:54] <KionYhamma> creo q tengo en mi base ",
-    "[05:54] <pepa_cerdita> hola alguien le da kit a mi amigo ",
-    "[05:54] <unrandom546> !kit ",
-    "[05:54] To unrandom546: Hello unrandom546!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:54] <M188> !kit PVP ",
-    "[05:54] [8b8t] >> Teleporting to home 0...",
-    "[05:54] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[05:54] [8b8t] >> Teleporting to home 1...",
-    "[05:54] To M188: Your kit (PVP) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:54] To M188: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:54] <jsjsjsjsjsjs> xd mejor pidamos ahorita ",
-    "[05:54] [BOT] <0_HienBot> August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[05:54] [8b8t] >> Request sent to M188",
     "[05:54] <jsjsjsjsjsjs> ya pedi ",
     "[05:54] <KionYhamma> cristales? ",
     "[05:54] <.Tsuy2> !kit survival ",
@@ -101,7 +85,23 @@
     "[05:55] <jsjsjsjsjsjs> !kit raid ",
     "[05:55] To jsjsjsjsjsjs: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:55] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[05:55] <Anglish> 2 "
+    "[05:55] <Anglish> 2 ",
+    "[05:55] [8b8t] >> The TPA request you sent to M188 has expired.",
+    "[05:55] [8b8t] >> You have killed yourself!",
+    "[05:55] [8b8t] >> No TPA request found",
+    "[05:55] <jsjsjsjsjsjs> pide un kit raid xd no me deja ",
+    "[05:55] <unrandom546> !kit PVP ",
+    "[05:55] [8b8t] >> Teleporting to home 0...",
+    "[05:55] [8b8t] >> Teleporting to home 1...",
+    "[05:55] To unrandom546: Your kit (PVP) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:55] To unrandom546: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:55] [8b8t] >> Request sent to unrandom546",
+    "[05:55] <jsjsjsjsjsjs> andamos raideando ksjsjsjsjs ",
+    "[05:55] <HighwayCleaner> !kit tools ",
+    "[05:55] To HighwayCleaner: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:55] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[05:55] <HighwayCleaner> !kit tools ",
+    "[05:55] To HighwayCleaner: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2529,12 +2529,13 @@
     "SIP_nether": 2,
     "peneauditiv0": 4,
     ".Tsuy2": 2,
-    "M188": 2
+    "M188": 2,
+    "unrandom546": 1
   },
   "kitStats": {
     "build": 1270,
     "survival": 5010,
-    "pvp": 6464,
+    "pvp": 6465,
     "dupe": 1361,
     "tools": 1545,
     "stash": 740,
