@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:02:18 3/1/2026",
+  "lastUpdated": "09:02:31 3/1/2026",
   "totalKits": 81331,
   "todayKits": 97,
-  "onlineCount": 66,
+  "onlineCount": 67,
   "peakPlayers": 72,
-  "tps": "2.0",
-  "ping": 257,
+  "tps": "5.0",
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6433
+      "count": 6434
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:00] <m4rc_xyz8> yo no les di kits para esto ",
-    "[02:00] <m4rc_xyz8> ratas ",
-    "[02:00] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[02:01] <tttub> !kit raid ",
-    "[02:01] [8b8t] >> Teleporting to home 0...",
     "[02:01] [8b8t] >> Teleporting to home 3...",
     "[02:01] To tttub: Your kit (raid) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:01] To tttub: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +96,12 @@
     "[02:02] DanielsMCD has made the advancement [Who is Cutting Onions?]",
     "[02:02] [8b8t] >> Teleporting...",
     "[02:02] <AgonHacck> !kit pvp ",
-    "[02:02] To AgonHacck: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[02:02] To AgonHacck: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:02] [8b8t] >> You have killed yourself!",
+    "[02:02] [8b8t] >> Home 2 was not found",
+    "[02:02] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[02:02] <AgonHacck> !kit pvp ",
+    "[02:02] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1744,7 +1744,7 @@
     "sonic228765": 3,
     "LordVoidMC": 25,
     "lolbonnie": 2,
-    "AgonHacck": 3,
+    "AgonHacck": 4,
     "xXVo1taikxX": 4,
     "MattysStuff": 3,
     "LifelesssheepYT": 8,
@@ -2516,7 +2516,7 @@
   "kitStats": {
     "build": 1265,
     "survival": 4983,
-    "pvp": 6433,
+    "pvp": 6434,
     "dupe": 1357,
     "tools": 1534,
     "stash": 736,
