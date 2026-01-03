@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:47:15 3/1/2026",
+  "lastUpdated": "23:47:24 3/1/2026",
   "totalKits": 81712,
   "todayKits": 80,
   "onlineCount": 68,
   "peakPlayers": 80,
-  "tps": "10.0",
-  "ping": 252,
+  "tps": "9.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,20 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1295
+      "count": 1296
     }
   ],
   "chatLog": [
-    "[16:46] [8b8t] >> You have killed yourself!",
-    "[16:46] [8b8t] >> Home 2 was not found",
-    "[16:46] <BerlinRompeYupis> alguien tiene clan? ",
-    "[16:46] [BOT] <0_HienBot> Hi Fabi_the_Duck! ",
-    "[16:46] <elxit> 1795723 25677 ",
-    "[16:46] <BerlinRompeYupis> alguien tiene clan? ",
-    "[16:46] <MutantWall74760> !kit pvp ",
-    "[16:46] [8b8t] >> Teleporting to home 0...",
-    "[16:46] [8b8t] >> Teleporting to home 1...",
-    "[16:46] To MutantWall74760: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:46] To MutantWall74760: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:46] [8b8t] >> Request sent to MutantWall74760",
     "[16:46] [8b8t] >> Teleporting...",
@@ -101,7 +91,17 @@
     "[16:47] To bushdid911: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:47] [8b8t] >> Request sent to bushdid911",
     "[16:47] [8b8t] >> Teleporting...",
-    "[16:47] [Pro+] <꧁✧Vxltaik✧꧂> why is ping so highh "
+    "[16:47] [Pro+] <꧁✧Vxltaik✧꧂> why is ping so highh ",
+    "[16:47] <Fabi_the_Duck> !help ",
+    "[16:47] Chat disabled in client options",
+    "[16:47] <SuperAlanStar> !kit build ",
+    "[16:47] [8b8t] >> Teleporting to home 0...",
+    "[16:47] [8b8t] >> Teleporting to home 3...",
+    "[16:47] To SuperAlanStar: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:47] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[16:47] To SuperAlanStar: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:47] <SuperAlanStar> !kit build ",
+    "[16:47] [8b8t] >> Request sent to SuperAlanStar"
   ],
   "userStats": {
     "76756": 38,
@@ -2564,10 +2564,11 @@
     "16cores": 2,
     "Vaxsted": 1,
     "juanchosnkxdd": 1,
-    "harcikutya15": 1
+    "harcikutya15": 1,
+    "SuperAlanStar": 1
   },
   "kitStats": {
-    "build": 1295,
+    "build": 1296,
     "survival": 5086,
     "pvp": 6569,
     "dupe": 1379,
