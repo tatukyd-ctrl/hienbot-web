@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:51:01 3/1/2026",
-  "totalKits": 81365,
-  "todayKits": 131,
-  "onlineCount": 52,
+  "lastUpdated": "09:51:31 3/1/2026",
+  "totalKits": 81366,
+  "todayKits": 132,
+  "onlineCount": 55,
   "peakPlayers": 72,
-  "tps": "3.0",
-  "ping": 245,
+  "tps": "4.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6439
+      "count": 6440
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:48] <sizs> !kit ",
-    "[02:48] To sizs: Hello sizs!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[02:48] [BOT] <0_HienBot> Welcome to 8b8t, .NimbleSage9439! ",
-    "[02:48] <Nickk001> +kit Build ",
-    "[02:48] [8b8t] >> Teleporting to home 0...",
-    "[02:48] [8b8t] >> Teleporting to home 3...",
-    "[02:48] To Nickk001: Your kit (Build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:48] To Nickk001: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:49] [8b8t] >> Request sent to Nickk001",
     "[02:49] <sizs> !kit ",
     "[02:49] [8b8t] >> Teleporting...",
     "[02:49] To sizs: Hello sizs!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[02:50] <IHATEBLACKPEOPLE> Hello ",
     "[02:50] <WORDIPOP> hi ",
     "[02:50] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[02:50] <IHATEBLACKPEOPLE> hello "
+    "[02:50] <IHATEBLACKPEOPLE> hello ",
+    "[02:51] <IHATEBLACKPEOPLE> I thought yall were all clankers ",
+    "[02:51] <HighwayCleaner> !kit pvp ",
+    "[02:51] [8b8t] >> Teleporting to home 0...",
+    "[02:51] [8b8t] >> Teleporting to home 1...",
+    "[02:51] To HighwayCleaner: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:51] To HighwayCleaner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:51] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[02:51] [8b8t] >> Request sent to HighwayCleaner",
+    "[02:51] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2439,7 +2439,7 @@
     "Alesito_Cotton": 1,
     "Axintar09": 1,
     "caquitarara132": 1,
-    "HighwayCleaner": 3,
+    "HighwayCleaner": 4,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 20,
     "Flame_xz": 21,
@@ -2521,7 +2521,7 @@
   "kitStats": {
     "build": 1267,
     "survival": 4991,
-    "pvp": 6439,
+    "pvp": 6440,
     "dupe": 1358,
     "tools": 1541,
     "stash": 738,
