@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:10:10 4/1/2026",
+  "lastUpdated": "00:10:24 4/1/2026",
   "totalKits": 81730,
   "todayKits": 98,
-  "onlineCount": 72,
+  "onlineCount": 71,
   "peakPlayers": 80,
-  "tps": "2.0",
+  "tps": "6.0",
   "ping": 258,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:08] [8b8t] >> The TPA request you sent to santiago200112 was successfully canceled.",
-    "[17:08] <Prime1BarniTTV> !rules ",
-    "[17:08] <kayes6> *kit stash ",
-    "[17:08] [8b8t] >> Teleporting to home 0...",
-    "[17:08] Wasiturro has made the advancement [We Need to Go Deeper]",
-    "[17:08] [8b8t] >> Teleporting to home 3...",
-    "[17:08] To kayes6: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:08] To kayes6: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:08] [8b8t] >> Request sent to kayes6",
     "[17:08] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[17:10] To bushdid911: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:10] To bushdid911: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:10] [8b8t] >> Request sent to bushdid911",
-    "[17:10] [8b8t] >> Teleporting..."
+    "[17:10] [8b8t] >> Teleporting...",
+    "[17:10] <santiago200112> !kit wool ",
+    "[17:10] [8b8t] >> Teleporting to home 0...",
+    "[17:10] [8b8t] >> Teleporting to home 4...",
+    "[17:10] To santiago200112: Your kit (wool) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:10] To santiago200112: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:10] [8b8t] >> Request sent to santiago200112",
+    "[17:10] [Basic] <.VadoseMist36087> selling mace "
   ],
   "userStats": {
     "76756": 38,
@@ -2567,7 +2567,7 @@
     "harcikutya15": 1,
     "SuperAlanStar": 1,
     "estehpatipum1": 2,
-    "santiago200112": 1
+    "santiago200112": 2
   },
   "kitStats": {
     "build": 1298,
@@ -2580,7 +2580,7 @@
     "wood": 409,
     "exp": 581,
     "dye": 237,
-    "wool": 314,
+    "wool": 315,
     "mineral": 468,
     "food": 349,
     "redstone": 642,
