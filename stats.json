@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:59:16 3/1/2026",
+  "lastUpdated": "23:59:24 3/1/2026",
   "totalKits": 81722,
   "todayKits": 90,
-  "onlineCount": 67,
+  "onlineCount": 68,
   "peakPlayers": 80,
-  "tps": "10.0",
+  "tps": "12.0",
   "ping": 320,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6571
+      "count": 6572
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:57] [8b8t] >> Teleporting to home 1...",
-    "[16:57] To Rage_penguin_69: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:57] To Rage_penguin_69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:57] [8b8t] >> Request sent to Rage_penguin_69",
-    "[16:57] [8b8t] >> Teleporting...",
-    "[16:57] [8b8t] >> You have killed yourself!",
-    "[16:57] [8b8t] >> Home 2 was not found",
-    "[16:57] .RubenXD7771446 has reached the goal [Postmortal]",
-    "[16:57] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
     "[16:57] <.LEON50758> uardımm ",
     "[16:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[16:57] Befixs has reached the goal [Postmortal]",
@@ -101,7 +92,16 @@
     "[16:59] To EnesReks: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:59] [8b8t] >> Teleporting...",
     "[16:59] <EnesReks> +kit armor ",
-    "[16:59] To EnesReks: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[16:59] To EnesReks: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:59] [8b8t] >> You have killed yourself!",
+    "[16:59] [8b8t] >> Home 2 was not found",
+    "[16:59] <EnesReks> +kit armor ",
+    "[16:59] [8b8t] >> Teleporting to home 0...",
+    "[16:59] [8b8t] >> Teleporting to home 1...",
+    "[16:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[16:59] To EnesReks: Your kit (armor) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:59] To EnesReks: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:59] [8b8t] >> Request sent to EnesReks"
   ],
   "userStats": {
     "76756": 38,
@@ -566,7 +566,7 @@
     "XNa_zAD": 3,
     "Vanfeli": 16,
     "Camix776": 4,
-    "EnesReks": 9,
+    "EnesReks": 10,
     "Faitalisy": 2,
     "Mateo_32": 163,
     "Essek_alp54": 3,
@@ -2571,7 +2571,7 @@
   "kitStats": {
     "build": 1298,
     "survival": 5089,
-    "pvp": 6571,
+    "pvp": 6572,
     "dupe": 1380,
     "tools": 1557,
     "stash": 758,
