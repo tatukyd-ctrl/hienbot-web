@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:34:05 3/1/2026",
+  "lastUpdated": "19:34:12 3/1/2026",
   "totalKits": 81567,
   "todayKits": 185,
   "onlineCount": 39,
   "peakPlayers": 56,
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 247,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5043
+      "count": 5044
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:32] [8b8t] >> Teleporting...",
-    "[12:32] <Hien2309> . ",
-    "[12:32] <Ray13> !kit survival ",
-    "[12:32] To Ray13: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[12:32] [8b8t] >> You have killed yourself!",
-    "[12:32] [8b8t] >> Home 2 was not found",
-    "[12:32] <RaxZee> tpa for pvp ",
     "[12:32] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[12:33] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[12:33] <Teo_M0BILE> ? ",
@@ -101,7 +93,15 @@
     "[12:33] <YourWorstN8tmr> dude ducky ",
     "[12:34] <Ducky1sCool> didnt say what ",
     "[12:34] [8b8t] >> Teleporting...",
-    "[12:34] <YourWorstN8tmr> ducky btw "
+    "[12:34] <YourWorstN8tmr> ducky btw ",
+    "[12:34] [8b8t] >> You have killed yourself!",
+    "[12:34] [8b8t] >> Home 2 was not found",
+    "[12:34] <amur6556> !kit eggs ",
+    "[12:34] [8b8t] >> Teleporting to home 0...",
+    "[12:34] [8b8t] >> Teleporting to home 1...",
+    "[12:34] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
+    "[12:34] <YourWorstN8tmr> you know these dont have thorns ",
+    "[12:34] To amur6556: Kit \"eggs\" not found! Giving you a random kit (survival) instead!"
   ],
   "userStats": {
     "76756": 38,
@@ -2539,7 +2539,7 @@
     "casinopiro": 8,
     "Enderdrahon": 2,
     "myKonig": 1,
-    "amur6556": 11,
+    "amur6556": 12,
     "AARONTRIPLEAAA": 2,
     "Cristiann_8": 1,
     "NiggerplayzWhy": 6,
@@ -2548,7 +2548,7 @@
   },
   "kitStats": {
     "build": 1277,
-    "survival": 5043,
+    "survival": 5044,
     "pvp": 6516,
     "dupe": 1370,
     "tools": 1551,
