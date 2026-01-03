@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:58:54 4/1/2026",
+  "lastUpdated": "00:59:24 4/1/2026",
   "totalKits": 81760,
   "todayKits": 128,
-  "onlineCount": 45,
+  "onlineCount": 46,
   "peakPlayers": 80,
-  "tps": "1.0",
-  "ping": 250,
+  "tps": "4.0",
+  "ping": 249,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6586
+      "count": 6587
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:57] <26824894268498E3> !kit illegal ",
-    "[17:57] [8b8t] >> Teleporting to home 0...",
-    "[17:57] [8b8t] >> Teleporting to home 8...",
-    "[17:57] To 26824894268498E3: Your kit (illegal) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:57] To 26824894268498E3: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:57] [Pro+] <꧁✧Vxltaik✧꧂> nigga ",
-    "[17:57] [8b8t] >> Request sent to 26824894268498E3",
-    "[17:57] [XMAS2025] <Vlesmentie> the illegal event is at 8b8t ",
     "[17:57] [8b8t] >> Teleporting...",
     "[17:57] [Pro+] <꧁✧Vxltaik✧꧂> illegal evcenet starsd ",
     "[17:57] <blake56> tobis fact's ",
@@ -101,7 +93,15 @@
     "[17:58] [8b8t] >> Teleporting...",
     "[17:58] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
     "[17:58] [8b8t] >> You have killed yourself!",
-    "[17:58] [8b8t] >> Home 2 was not found"
+    "[17:58] [8b8t] >> Home 2 was not found",
+    "[17:59] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[17:59] <.FanDeJesus5641> !kit pvp ",
+    "[17:59] [8b8t] >> Teleporting to home 0...",
+    "[17:59] [8b8t] >> Teleporting to home 1...",
+    "[17:59] To .FanDeJesus5641: Tu kit (pvp) se entregara en menos de 30 segundos! No olvides unirte a HienBot Group dsc.gg/hienbot",
+    "[17:59] To .FanDeJesus5641: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[17:59] [8b8t] >> Request sent to .FanDeJesus5641",
+    "[17:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2477,7 +2477,7 @@
     "Opalanie": 2,
     "kendricklover132": 1,
     "3b3tplayer": 4,
-    ".FanDeJesus5641": 49,
+    ".FanDeJesus5641": 50,
     "pierouwu6565": 1,
     ".Shed5627": 2,
     "NotNinja_": 13,
@@ -2574,7 +2574,7 @@
   "kitStats": {
     "build": 1300,
     "survival": 5096,
-    "pvp": 6586,
+    "pvp": 6587,
     "dupe": 1384,
     "tools": 1557,
     "stash": 760,
