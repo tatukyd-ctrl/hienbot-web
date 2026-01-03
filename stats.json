@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:02:12 3/1/2026",
+  "lastUpdated": "17:02:42 3/1/2026",
   "totalKits": 81489,
   "todayKits": 107,
   "onlineCount": 24,
   "peakPlayers": 56,
-  "tps": "7.0",
-  "ping": 243,
+  "tps": "2.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,16 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1273
+      "count": 1274
     }
   ],
   "chatLog": [
-    "[09:56] [8b8t] >> Teleporting...",
-    "[09:56] Chat disabled in client options",
-    "[09:56] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:56] [8b8t] >> You have killed yourself!",
-    "[09:56] [8b8t] >> Home 2 was not found",
-    "[09:56] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[09:56] Exoshi has reached the goal [Sky's the Limit]",
     "[09:56] Exoshi has completed the challenge [Cover Me in Debris]",
     "[09:57] [BOT] <0_HienBot> Use /kill to kill yourself! ",
@@ -101,7 +95,13 @@
     "[10:01] [BOT] <0_HienBot> Use /kill to kill yourself! ",
     "[10:02] <.ANGEL2482726> xd ",
     "[10:02] <.Fatboi653831> who wants free kits tp to me ",
-    "[10:02] <.ANGEL2482726> we bamos a mudarnos "
+    "[10:02] <.ANGEL2482726> we bamos a mudarnos ",
+    "[10:02] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[10:02] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[10:02] <.Fatboi653831> !kit build ",
+    "[10:02] [8b8t] >> Teleporting to home 0...",
+    "[10:02] [8b8t] >> Teleporting to home 3...",
+    "[10:02] To .Fatboi653831: Your kit (build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2512,7 +2512,7 @@
     "jamer36": 1,
     "Timmy_Got_Talent": 5,
     "tttub": 1,
-    ".Fatboi653831": 9,
+    ".Fatboi653831": 10,
     ".NimbleSage9439": 16,
     "Autumn44": 5,
     ".xXISAIXx1888": 1,
@@ -2541,7 +2541,7 @@
     "myKonig": 1
   },
   "kitStats": {
-    "build": 1273,
+    "build": 1274,
     "survival": 5023,
     "pvp": 6486,
     "dupe": 1365,
