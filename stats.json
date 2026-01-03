@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:15:12 3/1/2026",
+  "lastUpdated": "13:15:42 3/1/2026",
   "totalKits": 81449,
   "todayKits": 67,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 56,
-  "tps": "4.0",
-  "ping": 250,
+  "tps": "5.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5012
+      "count": 5013
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:11] [8b8t] >> The TPA request you sent to .Momoshiki3623 was successfully canceled.",
-    "[06:11] <unrandom546> !kit Build ",
-    "[06:11] [8b8t] >> Teleporting to home 0...",
-    "[06:11] [8b8t] >> Teleporting to home 3...",
-    "[06:11] To unrandom546: Your kit (Build) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:11] To unrandom546: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:11] [8b8t] >> Request sent to unrandom546",
-    "[06:12] [8b8t] >> Teleporting...",
     "[06:12] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
     "[06:12] .Momoshiki3623 has made the advancement [Who is Cutting Onions?]",
     "[06:12] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[06:14] yosmi has reached the goal [Sky's the Limit]",
     "[06:14] <basthegamer08> thanks ",
     "[06:14] [BOT] <0_HienBot> Hey MeterMaid! ",
-    "[06:15] [BOT] <0_HienBot> Hmmmmmmmmm "
+    "[06:15] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[06:15] <M188> !kit survival ",
+    "[06:15] [8b8t] >> Teleporting to home 0...",
+    "[06:15] [8b8t] >> Teleporting to home 1...",
+    "[06:15] To M188: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:15] To M188: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:15] [8b8t] >> Request sent to M188",
+    "[06:15] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[06:15] [BOT] <0_HienBot> Use !кιт to get kits "
   ],
   "userStats": {
     "76756": 38,
@@ -2529,13 +2529,13 @@
     "SIP_nether": 2,
     "peneauditiv0": 4,
     ".Tsuy2": 3,
-    "M188": 2,
+    "M188": 3,
     "unrandom546": 6,
     ".Momoshiki3623": 2
   },
   "kitStats": {
     "build": 1271,
-    "survival": 5012,
+    "survival": 5013,
     "pvp": 6468,
     "dupe": 1361,
     "tools": 1546,
