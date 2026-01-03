@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:20:24 3/1/2026",
+  "lastUpdated": "22:20:54 3/1/2026",
   "totalKits": 81645,
   "todayKits": 13,
   "onlineCount": 51,
   "peakPlayers": 55,
-  "tps": "7.0",
-  "ping": 255,
+  "tps": "8.0",
+  "ping": 240,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5065
+      "count": 5066
     },
     {
       "name": "tools",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:17] <xSlitz> !kit survival ",
-    "[15:17] To xSlitz: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:17] <xSlitz> !kit pvp ",
     "[15:17] To xSlitz: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:18] [BOT] <0_HienBot> Use /kill to kill yourself! ",
     "[15:18] <Herobrineeeeeeee> oh thank u hacks i almoast died ",
@@ -101,7 +98,10 @@
     "[15:19] <.LEON50758> free kit ",
     "[15:20] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[15:20] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:20] <Herobrineeeeeeee> afk "
+    "[15:20] <Herobrineeeeeeee> afk ",
+    "[15:20] [BOT] <0_HienBot> Try !кιт survival ",
+    "[15:20] <xSlitz> !kit survival ",
+    "[15:20] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2554,11 +2554,11 @@
     "26824894268498E3": 5,
     "undulantLily833": 7,
     "Aadya95": 2,
-    "xSlitz": 7
+    "xSlitz": 8
   },
   "kitStats": {
     "build": 1292,
-    "survival": 5065,
+    "survival": 5066,
     "pvp": 6543,
     "dupe": 1375,
     "tools": 1554,
