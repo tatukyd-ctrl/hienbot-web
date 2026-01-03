@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:59:25 4/1/2026",
+  "lastUpdated": "04:59:39 4/1/2026",
   "totalKits": 81924,
   "todayKits": 59,
   "onlineCount": 58,
   "peakPlayers": 64,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 256,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5143
+      "count": 5144
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:57] [8b8t] >> Teleporting to home 0...",
-    "[21:57] [8b8t] >> Teleporting to home 8...",
-    "[21:57] To Nickk001: Kit \"Voltaik_PvP\" not found! Giving you a random kit (armortrims) instead!",
-    "[21:57] To Nickk001: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:57] [8b8t] >> Request sent to Nickk001",
-    "[21:57] <RefluxzIsHere> !kit ",
-    "[21:57] To RefluxzIsHere: Hello RefluxzIsHere!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[21:57] [8b8t] >> Teleporting...",
     "[21:57] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
     "[21:57] <.LEON50758> neyi ",
@@ -101,7 +94,14 @@
     "[21:59] [BOT] <0_HienBot> Use !кιт to get kits ",
     "[21:59] <Nickk001> tenho nenhum kit ",
     "[21:59] <Nickk001> .. ",
-    "[21:59] [8b8t] >> Teleporting..."
+    "[21:59] [8b8t] >> Teleporting...",
+    "[21:59] [8b8t] >> You have killed yourself!",
+    "[21:59] <santi_ripxd> !kit survival ",
+    "[21:59] [8b8t] >> Teleporting to home 0...",
+    "[21:59] [8b8t] >> Home 2 was not found",
+    "[21:59] To santi_ripxd: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:59] <ZafiroAfiro> ¿quedo bonito? ",
+    "[21:59] <.LEON50758> hanae tpayes "
   ],
   "userStats": {
     "76756": 38,
@@ -2585,12 +2585,12 @@
     "ianv4741": 1,
     "m4rc_xyz8": 2,
     "Lucaluck201": 5,
-    "santi_ripxd": 3,
+    "santi_ripxd": 4,
     "iwannaloveyou": 1
   },
   "kitStats": {
     "build": 1306,
-    "survival": 5143,
+    "survival": 5144,
     "pvp": 6650,
     "dupe": 1416,
     "tools": 1567,
