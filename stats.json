@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:52:39 3/1/2026",
+  "lastUpdated": "22:52:54 3/1/2026",
   "totalKits": 81662,
   "todayKits": 30,
-  "onlineCount": 58,
-  "peakPlayers": 58,
-  "tps": "1.0",
-  "ping": 247,
+  "onlineCount": 59,
+  "peakPlayers": 59,
+  "tps": "3.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6549
+      "count": 6550
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:52] [BOT] <0_HienBot> Welcome to 8b8t, CuloGangTobias! ",
-    "[15:52] To bushdid911: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:52] [8b8t] >> Request sent to bushdid911",
-    "[15:52] <stuck_alt> ben spawn ",
-    "[15:52] <stuck_alt> adam kesiyon ",
-    "[15:52] [8b8t] >> Teleporting...",
-    "[15:52] <stuck_alt> kesiyom ",
-    "[15:52] <vicen_micuenta> !Kit ",
-    "[15:52] To vicen_micuenta: Hello vicen_micuenta!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[15:52] [8b8t] >> You have killed yourself!",
-    "[15:52] [8b8t] >> Home 2 was not found",
-    "[15:52] <.LEON50758> tpa atıyorum ",
-    "[15:52] Kitox25 has made the advancement [Not Quite \"Nine\" Lives]",
-    "[15:52] <vicen_micuenta> !kit end ",
     "[15:52] [8b8t] >> Teleporting to home 0...",
     "[15:52] [8b8t] >> Teleporting to home 6...",
     "[15:52] <Leee8> !kit ",
@@ -101,7 +87,21 @@
     "[15:52] <stuck_alt> ez Aadya95 ",
     "[15:52] [8b8t] >> Teleporting...",
     "[15:52] <Spike6259> !kit glass ",
-    "[15:52] To Spike6259: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[15:52] To Spike6259: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:52] [8b8t] >> You have killed yourself!",
+    "[15:52] <Leee8> !kit pvp ",
+    "[15:52] [8b8t] >> Home 2 was not found",
+    "[15:52] [8b8t] >> Teleporting to home 0...",
+    "[15:52] [8b8t] >> Teleporting to home 1...",
+    "[15:52] To Leee8: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:52] To Leee8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:52] [8b8t] >> Request sent to Leee8",
+    "[15:52] <Spike6259> !kit glass ",
+    "[15:52] To Spike6259: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:52] <Nickk001> !kit PVP ",
+    "[15:52] To Nickk001: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:52] <magmitamp4> !kit pvp ",
+    "[15:52] To magmitamp4: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2555,12 +2555,13 @@
     "undulantLily833": 7,
     "Aadya95": 4,
     "xSlitz": 11,
-    "Herobrineeeeeeee": 3
+    "Herobrineeeeeeee": 3,
+    "Leee8": 1
   },
   "kitStats": {
     "build": 1294,
     "survival": 5069,
-    "pvp": 6549,
+    "pvp": 6550,
     "dupe": 1377,
     "tools": 1555,
     "stash": 757,
