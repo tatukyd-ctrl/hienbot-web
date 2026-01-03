@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:01:12 3/1/2026",
+  "lastUpdated": "20:01:42 3/1/2026",
   "totalKits": 81588,
   "todayKits": 206,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 56,
-  "tps": "4.0",
-  "ping": 241,
+  "tps": "2.0",
+  "ping": 243,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5051
+      "count": 5052
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:58] [8b8t] >> You have killed yourself!",
-    "[12:58] [8b8t] >> Home 2 was not found",
-    "[12:58] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[12:58] [8b8t] >> OMD43_0 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[12:59] <Bifozy> !kit building ",
-    "[12:59] [8b8t] >> Teleporting to home 0...",
-    "[12:59] [8b8t] >> Teleporting to home 5...",
-    "[12:59] To Bifozy: Kit \"building\" not found! Giving you a random kit (dye) instead!",
-    "[12:59] To Bifozy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[12:59] [8b8t] >> Request sent to Bifozy",
-    "[12:59] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[12:59] [8b8t] >> Teleporting...",
     "[12:59] <Bifozy> !kit ",
     "[12:59] <Jav5WR213> !Kit Redtsone ",
@@ -101,7 +89,19 @@
     "[13:00] boteszkusz has made the advancement [Take Aim]",
     "[13:00] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
     "[13:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[13:00] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars "
+    "[13:00] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[13:01] Ray13 has completed the challenge [Subspace Bubble]",
+    "[13:01] [BOT] <0_HienBot> Type !discord ",
+    "[13:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:01] <Jav5WR213> !Kit Survival ",
+    "[13:01] To Jav5WR213: You're on cooldown, try again in 7 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:01] Enderdrahon has reached the goal [The Next Generation]",
+    "[13:01] <OMD43_0> !kit Survival ",
+    "[13:01] [8b8t] >> Teleporting to home 0...",
+    "[13:01] [8b8t] >> Teleporting to home 1...",
+    "[13:01] To OMD43_0: Your kit (Survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:01] To OMD43_0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:01] [8b8t] >> Request sent to OMD43_0"
   ],
   "userStats": {
     "76756": 38,
@@ -2546,11 +2546,12 @@
     "ItzRealHanh": 1,
     "niggasatan": 1,
     "RAV_09": 2,
-    "valvalvalval": 1
+    "valvalvalval": 1,
+    "OMD43_0": 1
   },
   "kitStats": {
     "build": 1281,
-    "survival": 5051,
+    "survival": 5052,
     "pvp": 6519,
     "dupe": 1371,
     "tools": 1551,
