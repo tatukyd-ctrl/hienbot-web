@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:04:24 3/1/2026",
+  "lastUpdated": "22:04:54 3/1/2026",
   "totalKits": 81644,
   "todayKits": 12,
-  "onlineCount": 48,
+  "onlineCount": 49,
   "peakPlayers": 54,
-  "tps": "3.0",
-  "ping": 253,
+  "tps": "5.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6538
+      "count": 6539
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:02] [8b8t] >> Teleporting...",
-    "[15:02] <xSlitz> !kit ",
-    "[15:02] To xSlitz: Hello xSlitz!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[15:02] <xSlitz> !kit tools ",
-    "[15:02] [8b8t] >> You have killed yourself!",
-    "[15:02] <undulantLily833> BlackOut strong ",
-    "[15:02] To xSlitz: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:02] [8b8t] >> Teleporting to home 0...",
     "[15:02] [8b8t] >> Teleporting to home 8...",
     "[15:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +94,14 @@
     "[15:04] xSlitz has completed the challenge [Serious Dedication]",
     "[15:04] ToprakHan has reached the goal [Sky's the Limit]",
     "[15:04] <Herobrineeeeeeee> me nee friend ",
-    "[15:04] <nfkiki> wtf "
+    "[15:04] <nfkiki> wtf ",
+    "[15:04] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[15:04] <Aadya95> !kits ",
+    "[15:04] nnsanty has reached the goal [Postmortal]",
+    "[15:04] <undulantLily833> !kit pvp ",
+    "[15:04] [8b8t] >> Teleporting to home 0...",
+    "[15:04] [8b8t] >> Teleporting to home 1...",
+    "[15:04] To undulantLily833: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2552,14 +2552,14 @@
     "Yusuphene2": 1,
     "ufositek": 1,
     "26824894268498E3": 5,
-    "undulantLily833": 5,
+    "undulantLily833": 6,
     "Aadya95": 1,
     "xSlitz": 4
   },
   "kitStats": {
     "build": 1291,
     "survival": 5062,
-    "pvp": 6538,
+    "pvp": 6539,
     "dupe": 1375,
     "tools": 1554,
     "stash": 756,
