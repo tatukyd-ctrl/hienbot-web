@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:20:33 3/1/2026",
+  "lastUpdated": "19:20:42 3/1/2026",
   "totalKits": 81556,
   "todayKits": 174,
   "onlineCount": 36,
   "peakPlayers": 56,
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 244,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5039
+      "count": 5040
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:19] [Ultra] <MrBeax31> !kit dupe ",
-    "[12:19] To MrBeax31: You're on cooldown, try again in 18 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:20] [Ultra] <MrBeax31> bruh ",
-    "[12:20] <YourWorstN8tmr> ye some basic ones ",
-    "[12:20] <RaxZee> !kit highway ",
-    "[12:20] [8b8t] >> Teleporting to home 0...",
     "[12:20] [8b8t] >> Teleporting to home 7...",
     "[12:20] To RaxZee: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:20] <YourWorstN8tmr> mr beax ",
@@ -101,7 +95,13 @@
     "[12:20] <YourWorstN8tmr> TRY !KIT STASH ",
     "[12:20] [8b8t] >> Request sent to MrBeax31",
     "[12:20] <YourWorstN8tmr> mrbeax ",
-    "[12:20] [8b8t] >> Teleporting..."
+    "[12:20] [8b8t] >> Teleporting...",
+    "[12:20] <YourWorstN8tmr> try !kit stash ",
+    "[12:20] <Teo_M0BILE> qua ngu ",
+    "[12:20] <YourWorstN8tmr> and with item frames ",
+    "[12:20] <Jav5WR213> !Kit Survival ",
+    "[12:20] [8b8t] >> Teleporting to home 0...",
+    "[12:20] [BOT] <0_HienBot> botchaosonix666? "
   ],
   "userStats": {
     "76756": 38,
@@ -2181,7 +2181,7 @@
     "ThecbaldTheBird": 1,
     "IronVision": 1,
     "Leanxd777": 4,
-    "Jav5WR213": 4,
+    "Jav5WR213": 5,
     "el_xir": 13,
     "EvenMariotime": 42,
     "Totoberengo": 11,
@@ -2548,7 +2548,7 @@
   },
   "kitStats": {
     "build": 1277,
-    "survival": 5039,
+    "survival": 5040,
     "pvp": 6515,
     "dupe": 1369,
     "tools": 1551,
