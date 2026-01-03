@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:58:42 3/1/2026",
+  "lastUpdated": "20:59:12 3/1/2026",
   "totalKits": 81611,
   "todayKits": 229,
   "onlineCount": 47,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "6.0",
   "ping": 242,
   "topUsers": [
     {
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:57] <stuck_alt> lag ",
-    "[13:57] <26824894268498E3> !kit ",
-    "[13:57] To 26824894268498E3: Hello 26824894268498E3!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[13:57] <Exploterxyz> !kit stash ",
-    "[13:57] [8b8t] >> Teleporting to home 0...",
-    "[13:57] [8b8t] >> Teleporting to home 3...",
-    "[13:57] To Exploterxyz: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:57] To Exploterxyz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:57] [8b8t] >> Request sent to Exploterxyz",
-    "[13:57] [8b8t] >> Teleporting...",
-    "[13:57] Foro1 has completed the challenge [Serious Dedication]",
     "[13:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[13:57] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[13:57] [8b8t] >> You have killed yourself!",
@@ -101,7 +90,18 @@
     "[13:58] <amur6556> !kit art ",
     "[13:58] To amur6556: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:58] [8b8t] >> You have killed yourself!",
-    "[13:58] [8b8t] >> The TPA request you sent to 26824894268498E3 was successfully canceled."
+    "[13:58] [8b8t] >> The TPA request you sent to 26824894268498E3 was successfully canceled.",
+    "[13:58] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[13:59] <26824894268498E3> !kit stash ",
+    "[13:59] To 26824894268498E3: You're on cooldown, try again in 77 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:59] <undulantLily833> !kit stash ",
+    "[13:59] [8b8t] >> Teleporting to home 0...",
+    "[13:59] [8b8t] >> Teleporting to home 3...",
+    "[13:59] To undulantLily833: Your kit (stash) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:59] To undulantLily833: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:59] <amur6556> !kit ",
+    "[13:59] [8b8t] >> Request sent to undulantLily833",
+    "[13:59] To amur6556: Hello amur6556!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2551,7 +2551,8 @@
     "Nathaniel2244": 1,
     "Yusuphene2": 1,
     "ufositek": 1,
-    "26824894268498E3": 1
+    "26824894268498E3": 1,
+    "undulantLily833": 1
   },
   "kitStats": {
     "build": 1282,
@@ -2559,7 +2560,7 @@
     "pvp": 6528,
     "dupe": 1371,
     "tools": 1552,
-    "stash": 753,
+    "stash": 754,
     "raid": 1019,
     "wood": 408,
     "exp": 580,
