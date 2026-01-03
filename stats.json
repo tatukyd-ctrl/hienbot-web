@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:07:42 3/1/2026",
+  "lastUpdated": "18:08:12 3/1/2026",
   "totalKits": 81512,
   "todayKits": 130,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 244,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5028
+      "count": 5029
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:04] [8b8t] >> Teleporting to home 1...",
-    "[11:04] To amur6556: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:04] To amur6556: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:04] [8b8t] >> Request sent to amur6556",
-    "[11:04] [8b8t] >> Teleporting...",
-    "[11:04] <.LEON50758> ajoqetkafshon ",
-    "[11:04] [8b8t] >> You have killed yourself!",
     "[11:04] [8b8t] >> Home 2 was not found",
     "[11:04] [BOT] <0_HienBot> Type !кιт  to get free kits ",
     "[11:04] amur6556 has reached the goal [Sky's the Limit]",
@@ -101,7 +94,14 @@
     "[11:07] To Cristiann_8: Hello Cristiann_8!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[11:07] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[11:07] <Cristiann_8> !kit ",
-    "[11:07] To Cristiann_8: Hello Cristiann_8!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[11:07] To Cristiann_8: Hello Cristiann_8!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[11:07] <Cristiann_8> !kit Survival ",
+    "[11:07] [8b8t] >> Teleporting to home 0...",
+    "[11:07] [8b8t] >> Teleporting to home 1...",
+    "[11:07] To Cristiann_8: Your kit (Survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:07] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[11:07] To Cristiann_8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:07] [8b8t] >> Request sent to Cristiann_8"
   ],
   "userStats": {
     "76756": 38,
@@ -2540,11 +2540,12 @@
     "Enderdrahon": 2,
     "myKonig": 1,
     "amur6556": 4,
-    "AARONTRIPLEAAA": 1
+    "AARONTRIPLEAAA": 1,
+    "Cristiann_8": 1
   },
   "kitStats": {
     "build": 1275,
-    "survival": 5028,
+    "survival": 5029,
     "pvp": 6495,
     "dupe": 1367,
     "tools": 1550,
