@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:04:01 3/1/2026",
-  "totalKits": 81285,
-  "todayKits": 51,
+  "lastUpdated": "08:04:13 3/1/2026",
+  "totalKits": 81286,
+  "todayKits": 52,
   "onlineCount": 62,
   "peakPlayers": 70,
   "tps": "4.0",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4977
+      "count": 4978
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:02] [8b8t] >> Home 2 was not found",
-    "[01:02] <Nickk001> +kit Duper ",
-    "[01:02] [8b8t] >> Teleporting to home 0...",
-    "[01:02] [8b8t] >> Teleporting to home 1...",
-    "[01:02] <angelohavard0> !kit survival ",
-    "[01:02] To angelohavard0: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:02] To Nickk001: Kit \"Duper\" not found! Giving you a random kit (survival) instead!",
-    "[01:02] <ascdention> +kit pvp ",
-    "[01:02] To ascdention: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:02] [BOT] <0_HienBot> Try !кιт survival ",
-    "[01:02] To Nickk001: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:02] [8b8t] >> Request sent to Nickk001",
     "[01:02] [8b8t] >> Teleporting...",
     "[01:03] [8b8t] >> You have killed yourself!",
@@ -101,7 +90,18 @@
     "[01:03] [8b8t] >> Teleporting...",
     "[01:03] [8b8t] >> You have killed yourself!",
     "[01:03] [8b8t] >> Home 2 was not found",
-    "[01:03] [BOT] <0_HienBot> Hate those who destroy Hien2309's base "
+    "[01:03] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[01:04] <TenshiKbys> !kit survival ",
+    "[01:04] To TenshiKbys: You're on cooldown, try again in 12 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:04] <ascdention> !kit survival ",
+    "[01:04] [8b8t] >> Teleporting to home 0...",
+    "[01:04] [8b8t] >> Teleporting to home 1...",
+    "[01:04] To ascdention: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:04] To ascdention: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:04] [8b8t] >> Request sent to ascdention",
+    "[01:04] <TenshiKbys> !kit survival ",
+    "[01:04] [8b8t] >> Teleporting...",
+    "[01:04] To TenshiKbys: Please wait for me a moment .Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2497,7 +2497,7 @@
     "DKXS01": 2,
     "NumbyFace": 6,
     "ItzLuisDark": 8,
-    "ascdention": 7,
+    "ascdention": 8,
     "ninipanchi": 1,
     "astor29345": 4,
     "GaBausBot": 1,
@@ -2509,7 +2509,7 @@
   },
   "kitStats": {
     "build": 1260,
-    "survival": 4977,
+    "survival": 4978,
     "pvp": 6426,
     "dupe": 1354,
     "tools": 1530,
