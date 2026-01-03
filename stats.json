@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:42:01 3/1/2026",
+  "lastUpdated": "09:42:31 3/1/2026",
   "totalKits": 81360,
   "todayKits": 126,
-  "onlineCount": 57,
+  "onlineCount": 55,
   "peakPlayers": 72,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 247,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 4990
+      "count": 4991
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:40] <MiniosXDXD> !kit ",
-    "[02:40] To MiniosXDXD: Hello MiniosXDXD!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway , Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[02:40] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[02:41] <.darknessmc3203> !kit tools ",
-    "[02:41] [8b8t] >> Teleporting to home 0...",
-    "[02:41] [8b8t] >> Teleporting to home 8...",
-    "[02:41] To .darknessmc3203: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:41] To .darknessmc3203: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:41] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:41] [8b8t] >> Request sent to .darknessmc3203",
@@ -101,7 +94,14 @@
     "[02:41] [8b8t] >> You have killed yourself!",
     "[02:41] [8b8t] >> Home 2 was not found",
     "[02:41] Gamelegend0001 has made the advancement [Stone Age]",
-    "[02:41] [BOT] <0_HienBot> Try !кιт survival "
+    "[02:41] [BOT] <0_HienBot> Try !кιт survival ",
+    "[02:42] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[02:42] <sizs> !kit survival ",
+    "[02:42] [8b8t] >> Teleporting to home 0...",
+    "[02:42] [8b8t] >> Teleporting to home 1...",
+    "[02:42] To sizs: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:42] To sizs: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:42] [8b8t] >> Request sent to sizs"
   ],
   "userStats": {
     "76756": 38,
@@ -2193,7 +2193,7 @@
     "Nialbertt": 1,
     "BatsyWapsy": 2,
     "ElOsoSusXD": 2,
-    "sizs": 1,
+    "sizs": 2,
     "ElxDave_MSc": 3,
     "B_mqXcv_12_25": 1,
     ".RustyDog250": 29,
@@ -2520,7 +2520,7 @@
   },
   "kitStats": {
     "build": 1266,
-    "survival": 4990,
+    "survival": 4991,
     "pvp": 6439,
     "dupe": 1358,
     "tools": 1540,
