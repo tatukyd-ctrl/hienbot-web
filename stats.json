@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:42:54 3/1/2026",
+  "lastUpdated": "22:43:24 3/1/2026",
   "totalKits": 81656,
   "todayKits": 24,
-  "onlineCount": 48,
+  "onlineCount": 45,
   "peakPlayers": 55,
-  "tps": "6.0",
+  "tps": "4.0",
   "ping": 257,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6547
+      "count": 6548
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:40] To GaBaus: Hello GaBaus!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[15:40] <xSlitz> !kit ",
-    "[15:40] To xSlitz: Hello xSlitz!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[15:40] <GaBaus> !kit concrete ",
-    "[15:40] [8b8t] >> Teleporting to home 0...",
-    "[15:40] [8b8t] >> Teleporting to home 4...",
-    "[15:40] To GaBaus: Your kit (concrete) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:40] [BOT] <0_HienBot> Hello elxit! ",
     "[15:40] To GaBaus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:40] [8b8t] >> Request sent to GaBaus",
@@ -101,7 +94,14 @@
     "[15:42] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
     "[15:42] [8b8t] >> You have killed yourself!",
     "[15:42] [8b8t] >> No TPA request found",
-    "[15:42] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[15:42] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[15:43] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[15:43] <NumbyFace> $kit ",
+    "[15:43] To NumbyFace: Hello NumbyFace!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[15:43] <NumbyFace> $kit pvp ",
+    "[15:43] [8b8t] >> Teleporting to home 0...",
+    "[15:43] [8b8t] >> Teleporting to home 1...",
+    "[15:43] To NumbyFace: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2495,7 +2495,7 @@
     "xthonkismACVge": 6,
     "C1CKO_agartha": 1,
     "DKXS01": 8,
-    "NumbyFace": 23,
+    "NumbyFace": 24,
     "ItzLuisDark": 8,
     "ascdention": 8,
     "ninipanchi": 1,
@@ -2560,7 +2560,7 @@
   "kitStats": {
     "build": 1294,
     "survival": 5068,
-    "pvp": 6547,
+    "pvp": 6548,
     "dupe": 1377,
     "tools": 1555,
     "stash": 756,
