@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:22:46 5/1/2026",
+  "lastUpdated": "01:22:53 5/1/2026",
   "totalKits": 82556,
   "todayKits": 214,
   "onlineCount": 67,
   "peakPlayers": 77,
-  "tps": "7.0",
+  "tps": "8.0",
   "ping": 304,
   "topUsers": [
     {
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1346
+      "count": 1347
     }
   ],
   "chatLog": [
-    "[18:21] [8b8t] >> Request sent to .RustyDog250",
-    "[18:22] <jaev> XD ",
-    "[18:22] Lyreaxhh has made the advancement [Minecraft: Trial(s) Edition]",
-    "[18:22] <jaev> pasa otra pa dupearla ",
-    "[18:22] <jaev> pasa una mas ",
-    "[18:22] <jaev> pa dupear ",
-    "[18:22] <exe4exe> !kit wood ",
     "[18:22] To exe4exe: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[18:22] <amur6556> Are you the owner of the base? ",
     "[18:22] <ARNOSHEEP> !kit build ",
@@ -101,7 +94,14 @@
     "[18:22] [8b8t] >> Teleporting...",
     "[18:22] <Pemasandu99> sign bood ",
     "[18:22] <exe4exe> !kit build ",
-    "[18:22] To exe4exe: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[18:22] To exe4exe: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[18:22] [8b8t] >> You have killed yourself!",
+    "[18:22] <exe4exe> !kit build ",
+    "[18:22] [8b8t] >> Teleporting to home 0...",
+    "[18:22] [8b8t] >> Home 2 was not found",
+    "[18:22] [8b8t] >> Teleporting to home 3...",
+    "[18:22] To exe4exe: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:22] To exe4exe: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2621,7 +2621,7 @@
     "Swan_Yt": 2,
     "Ozi_Dev": 2,
     "dorukalp25": 6,
-    "exe4exe": 12,
+    "exe4exe": 13,
     "Matas2K": 1,
     "Failmc": 4,
     "NopFoundBedrock": 2,
@@ -2638,7 +2638,7 @@
     ".DomiO8691": 1
   },
   "kitStats": {
-    "build": 1346,
+    "build": 1347,
     "survival": 5312,
     "pvp": 6790,
     "dupe": 1504,
