@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:14:23 4/1/2026",
-  "totalKits": 82372,
-  "todayKits": 30,
+  "lastUpdated": "19:14:47 4/1/2026",
+  "totalKits": 82373,
+  "todayKits": 31,
   "onlineCount": 37,
   "peakPlayers": 39,
-  "tps": "3.0",
-  "ping": 907,
+  "tps": "1.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5260
+      "count": 5261
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:12] [8b8t] >> Teleporting to home 0...",
-    "[12:12] [8b8t] >> Teleporting to home 7...",
-    "[12:12] <botchaosonix666> good ",
-    "[12:12] To Cristiann_8: Your kit (highway) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:12] To Cristiann_8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:12] [8b8t] >> Request sent to Cristiann_8",
-    "[12:12] [8b8t] >> Teleporting...",
-    "[12:12] <exe4exe> !kit syrv ",
     "[12:12] [8b8t] >> You have killed yourself!",
     "[12:12] To exe4exe: Kit \"syrv\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
     "[12:12] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +93,15 @@
     "[12:14] exe4exe has made the advancement [Sweet dreams]",
     "[12:14] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
     "[12:14] [BOT] <0_HienBot> Try !кιт survival ",
-    "[12:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[12:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:14] <exe4exe> !kit survival ",
+    "[12:14] [8b8t] >> Teleporting to home 0...",
+    "[12:14] [8b8t] >> Teleporting to home 1...",
+    "[12:14] To exe4exe: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:14] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[12:14] To exe4exe: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:14] [8b8t] >> Request sent to exe4exe",
+    "[12:14] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2621,11 +2621,11 @@
     "Swan_Yt": 1,
     "Ozi_Dev": 2,
     "dorukalp25": 4,
-    "exe4exe": 1
+    "exe4exe": 2
   },
   "kitStats": {
     "build": 1333,
-    "survival": 5260,
+    "survival": 5261,
     "pvp": 6753,
     "dupe": 1478,
     "tools": 1601,
