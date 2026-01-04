@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:45:23 4/1/2026",
+  "lastUpdated": "19:45:53 4/1/2026",
   "totalKits": 82377,
   "todayKits": 35,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 46,
   "tps": "1.0",
-  "ping": 251,
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 1480
+      "count": 1481
     },
     {
       "name": "build",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:43] [8b8t] >> You have killed yourself!",
-    "[12:43] [8b8t] >> No TPA request found",
-    "[12:43] <Failmc> !kit dupe ",
-    "[12:43] To Failmc: You're on cooldown, try again in 82 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:43] <exe4exe> !kit survival ",
-    "[12:43] [8b8t] >> Teleporting to home 0...",
-    "[12:43] [8b8t] >> Teleporting to home 1...",
-    "[12:43] To exe4exe: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:43] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
-    "[12:43] To exe4exe: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:43] [8b8t] >> Request sent to exe4exe",
     "[12:43] [8b8t] >> Teleporting...",
     "[12:43] [8b8t] >> You have killed yourself!",
@@ -101,7 +91,17 @@
     "[12:44] [8b8t] >> Request sent to UdoFreak",
     "[12:44] [BOT] <0_HienBot> Hi NotLKanK409! ",
     "[12:44] [8b8t] >> Teleporting...",
-    "[12:45] [BOT] <0_HienBot> Try !ᴋɪᴛ stash "
+    "[12:45] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[12:45] <Failmc> !kit dupe ",
+    "[12:45] [8b8t] >> Teleporting to home 0...",
+    "[12:45] [8b8t] >> Teleporting to home 8...",
+    "[12:45] To Failmc: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:45] [BOT] <0_HienBot> What's up, UnBot? ",
+    "[12:45] To Failmc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:45] [8b8t] >> Request sent to Failmc",
+    "[12:45] [8b8t] >> Teleporting...",
+    "[12:45] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[12:45] <NotLKanK409> nigga "
   ],
   "userStats": {
     "76756": 38,
@@ -2623,13 +2623,13 @@
     "dorukalp25": 4,
     "exe4exe": 4,
     "Matas2K": 1,
-    "Failmc": 1
+    "Failmc": 2
   },
   "kitStats": {
     "build": 1333,
     "survival": 5263,
     "pvp": 6755,
-    "dupe": 1480,
+    "dupe": 1481,
     "tools": 1601,
     "stash": 786,
     "raid": 1060,
