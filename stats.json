@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:54:30 4/1/2026",
+  "lastUpdated": "12:55:00 4/1/2026",
   "totalKits": 82175,
   "todayKits": 15,
-  "onlineCount": 38,
+  "onlineCount": 36,
   "peakPlayers": 47,
   "tps": "2.0",
   "ping": 242,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5187
+      "count": 5188
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:51] [8b8t] >> Teleporting to home 1...",
-    "[05:51] To Beans_In4k: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:51] [8b8t] >> Request sent to Beans_In4k",
-    "[05:51] [8b8t] >> Teleporting...",
-    "[05:51] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[05:51] <axxus> Ender chest ",
-    "[05:51] axxus has made the advancement [Ice Bucket Challenge]",
-    "[05:52] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
-    "[05:52] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[05:52] <Beans_In4k> !kit pvp ",
     "[05:52] To Beans_In4k: You're on cooldown, try again in 21 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:52] <.schrodinger2302> ya te di cohetes momo ",
     "[05:52] [BOT] <0_HienBot> Use !кιт to get kits ",
@@ -101,7 +91,17 @@
     "[05:54] <axxus> !kit maze pvp ",
     "[05:54] <axxus> !kit ",
     "[05:54] To axxus: Hello axxus!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
-    "[05:54] kalansmobile has made the advancement [Who is Cutting Onions?]"
+    "[05:54] kalansmobile has made the advancement [Who is Cutting Onions?]",
+    "[05:54] [BOT] <0_HienBot> Type !discord ",
+    "[05:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:54] <WORDIPOP> a si hace ratin estaba aca ",
+    "[05:54] <Victua7397> dónde vas tú bro? ",
+    "[05:54] <axxus> !kit survival ",
+    "[05:54] [8b8t] >> Teleporting to home 0...",
+    "[05:54] [8b8t] >> Teleporting to home 1...",
+    "[05:54] To axxus: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:54] To axxus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:54] [8b8t] >> Request sent to axxus"
   ],
   "userStats": {
     "76756": 38,
@@ -2607,11 +2607,12 @@
     "_Garabatos_": 5,
     "EvilGamerz3877": 1,
     "Beans_In4k": 10,
-    "CrazyGamesFan": 4
+    "CrazyGamesFan": 4,
+    "axxus": 1
   },
   "kitStats": {
     "build": 1324,
-    "survival": 5187,
+    "survival": 5188,
     "pvp": 6707,
     "dupe": 1455,
     "tools": 1591,
