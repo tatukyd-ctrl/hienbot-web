@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:00:27 4/1/2026",
-  "totalKits": 82247,
-  "todayKits": 65,
-  "onlineCount": 32,
+  "lastUpdated": "15:00:57 4/1/2026",
+  "totalKits": 82248,
+  "todayKits": 66,
+  "onlineCount": 30,
   "peakPlayers": 41,
-  "tps": "2.0",
-  "ping": 274,
+  "tps": "4.0",
+  "ping": 272,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5216
+      "count": 5217
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:58] To santi_ripxd: Kit \"op\" not found! Giving you a random kit (armortrims) instead!",
-    "[07:58] harcikutya15 Whispers: !kit survival",
-    "[07:58] To harcikutya15: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:58] To santi_ripxd: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:58] [8b8t] >> Request sent to santi_ripxd",
-    "[07:58] [8b8t] >> Teleporting...",
-    "[07:58] harcikutya15 Whispers: !kit survival",
-    "[07:58] [8b8t] >> Teleporting to home 0...",
-    "[07:58] [BOT] <0_HienBot> Type !кιт  to get free kits ",
-    "[07:58] [8b8t] >> Teleporting to home 1...",
     "[07:58] To harcikutya15: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:59] To harcikutya15: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:59] [8b8t] >> Request sent to harcikutya15",
@@ -101,7 +91,17 @@
     "[08:00] joaoswu has made the advancement [Acquire Hardware]",
     "[08:00] harcikutya15 Whispers: !kit survival",
     "[08:00] To harcikutya15: You're on cooldown, try again in 20 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:00] <dacvudog1802> day "
+    "[08:00] <dacvudog1802> day ",
+    "[08:00] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[08:00] harcikutya15 Whispers: !kit survival",
+    "[08:00] [8b8t] >> Teleporting to home 0...",
+    "[08:00] [8b8t] >> Teleporting to home 1...",
+    "[08:00] To harcikutya15: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:00] To harcikutya15: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:00] [8b8t] >> Request sent to harcikutya15",
+    "[08:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[08:00] [8b8t] >> Teleporting...",
+    "[08:00] harcikutya15 Whispers: !kit survival"
   ],
   "userStats": {
     "76756": 38,
@@ -2564,7 +2564,7 @@
     "16cores": 6,
     "Vaxsted": 1,
     "juanchosnkxdd": 2,
-    "harcikutya15": 43,
+    "harcikutya15": 44,
     "SuperAlanStar": 8,
     "estehpatipum1": 5,
     "santiago200112": 2,
@@ -2618,7 +2618,7 @@
   },
   "kitStats": {
     "build": 1326,
-    "survival": 5216,
+    "survival": 5217,
     "pvp": 6728,
     "dupe": 1458,
     "tools": 1594,
