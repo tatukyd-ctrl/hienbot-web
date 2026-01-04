@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:41:27 4/1/2026",
+  "lastUpdated": "08:41:39 4/1/2026",
   "totalKits": 82069,
   "todayKits": 44,
-  "onlineCount": 43,
+  "onlineCount": 44,
   "peakPlayers": 68,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 265,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:40] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
-    "[01:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:40] <lesfabrii> alguien ayude ndo en el spawn, alguien que me ayude a salir de aqui ",
-    "[01:40] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[01:40] <dani8976> !kit Tools ",
-    "[01:40] [8b8t] >> Teleporting to home 0...",
-    "[01:40] [8b8t] >> Teleporting to home 8...",
-    "[01:40] To dani8976: Your kit (Tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:40] To dani8976: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:40] [8b8t] >> Request sent to dani8976",
     "[01:40] [8b8t] >> Teleporting...",
     "[01:40] <_RoyCraft_> !kit pvp ",
     "[01:40] To _RoyCraft_: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[01:41] [8b8t] >> The TPA request you received from mantecay9 has expired.",
     "[01:41] [8b8t] >> Teleporting...",
     "[01:41] <Rex12045> !kit ",
-    "[01:41] To Rex12045: Hello Rex12045!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot"
+    "[01:41] To Rex12045: Hello Rex12045!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
+    "[01:41] [8b8t] >> You have killed yourself!",
+    "[01:41] <Rex12045> !kit highway ",
+    "[01:41] [8b8t] >> Teleporting to home 0...",
+    "[01:41] [8b8t] >> Teleporting to home 7...",
+    "[01:41] [8b8t] >> Home 2 was not found",
+    "[01:41] To Rex12045: Your kit (highway) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:41] <lesfabrii> hola ",
+    "[01:41] To Rex12045: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:41] [8b8t] >> Request sent to Rex12045",
+    "[01:41] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "76756": 38,
@@ -2596,7 +2596,8 @@
     "ace_prime001": 3,
     "WafflePod13": 1,
     "ksvxx": 1,
-    "_RoyCraft_": 1
+    "_RoyCraft_": 1,
+    "Rex12045": 1
   },
   "kitStats": {
     "build": 1317,
@@ -2619,7 +2620,7 @@
     "terracotta": 66,
     "end": 459,
     "armortrims": 325,
-    "highway": 429,
+    "highway": 430,
     "ocean": 96,
     "concrete": 285,
     "glass": 234,
