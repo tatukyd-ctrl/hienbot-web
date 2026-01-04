@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:43:23 4/1/2026",
-  "totalKits": 82375,
-  "todayKits": 33,
-  "onlineCount": 37,
+  "lastUpdated": "19:43:48 4/1/2026",
+  "totalKits": 82376,
+  "todayKits": 34,
+  "onlineCount": 39,
   "peakPlayers": 46,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 257,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5262
+      "count": 5263
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:39] [8b8t] >> You have killed yourself!",
-    "[12:39] [8b8t] >> The TPA request you sent to Ducky1sCool was successfully canceled.",
-    "[12:40] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[12:40] santyur has made the advancement [Take Aim]",
-    "[12:40] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
-    "[12:40] [8b8t] >> Please do not spam.",
-    "[12:40] <andi1100396> holy hacks ",
-    "[12:40] <andi1100396> fucking retard needing hacks lmao ",
-    "[12:41] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[12:41] Charlot96 has made the advancement [Stone Age]",
     "[12:41] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:41] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
     "[12:41] <Failmc> illeagals pls ",
@@ -101,7 +91,17 @@
     "[12:42] To Failmc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:43] [BOT] <0_HienBot> Bot created by Hien2309. ",
     "[12:43] [8b8t] >> You have killed yourself!",
-    "[12:43] [8b8t] >> No TPA request found"
+    "[12:43] [8b8t] >> No TPA request found",
+    "[12:43] <Failmc> !kit dupe ",
+    "[12:43] To Failmc: You're on cooldown, try again in 82 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:43] <exe4exe> !kit survival ",
+    "[12:43] [8b8t] >> Teleporting to home 0...",
+    "[12:43] [8b8t] >> Teleporting to home 1...",
+    "[12:43] To exe4exe: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:43] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[12:43] To exe4exe: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:43] [8b8t] >> Request sent to exe4exe",
+    "[12:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2621,13 +2621,13 @@
     "Swan_Yt": 1,
     "Ozi_Dev": 2,
     "dorukalp25": 4,
-    "exe4exe": 3,
+    "exe4exe": 4,
     "Matas2K": 1,
     "Failmc": 1
   },
   "kitStats": {
     "build": 1333,
-    "survival": 5262,
+    "survival": 5263,
     "pvp": 6754,
     "dupe": 1480,
     "tools": 1601,
