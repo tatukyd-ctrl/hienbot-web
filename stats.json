@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:17:21 4/1/2026",
+  "lastUpdated": "20:17:23 4/1/2026",
   "totalKits": 82398,
   "todayKits": 56,
   "onlineCount": 42,
   "peakPlayers": 48,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 252,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6762
+      "count": 6763
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:16] [8b8t] >> You have killed yourself!",
-    "[13:16] [8b8t] >> The TPA request you sent to NopFoundBedrock was successfully canceled.",
-    "[13:16] <peakar> !Kit duper ",
     "[13:16] [8b8t] >> Teleporting to home 0...",
     "[13:16] [8b8t] >> Teleporting to home 1...",
     "[13:16] To peakar: Kit \"duper\" not found! Giving you (survival) instead! dsc.gg/hienbot",
@@ -101,7 +98,10 @@
     "[13:17] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[13:17] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[13:17] [8b8t] >> Teleporting...",
-    "[13:17] <kavunadam2> sa "
+    "[13:17] <kavunadam2> sa ",
+    "[13:17] nera712 has reached the goal [Sky's the Limit]",
+    "[13:17] [8b8t] >> You have killed yourself!",
+    "[13:17] <Galacticoast> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -2570,7 +2570,7 @@
     "santiago200112": 2,
     "NancuKnow": 1,
     "herobirine": 1,
-    "Galacticoast": 24,
+    "Galacticoast": 25,
     "6foot": 1,
     "seashell8950": 4,
     "SENIOREMONEY": 1,
@@ -2629,7 +2629,7 @@
   "kitStats": {
     "build": 1334,
     "survival": 5269,
-    "pvp": 6762,
+    "pvp": 6763,
     "dupe": 1482,
     "tools": 1606,
     "stash": 788,
