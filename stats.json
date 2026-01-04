@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:59:16 4/1/2026",
+  "lastUpdated": "21:59:23 4/1/2026",
   "totalKits": 82463,
   "todayKits": 121,
   "onlineCount": 50,
   "peakPlayers": 59,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 273,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5288
+      "count": 5289
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:57] To MG_GT10: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:57] [8b8t] >> Request sent to MG_GT10",
-    "[14:57] [8b8t] >> Teleporting...",
-    "[14:57] [8b8t] >> You have killed yourself!",
-    "[14:57] <Ducky1sCool> the lag bro :c ",
-    "[14:57] [8b8t] >> Home 2 was not found",
-    "[14:57] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[14:57] <UnBot> Type '+kit mystic' to satisfy your depression ",
     "[14:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:57] <Nik_Boi> +kit mystic ",
@@ -101,7 +94,14 @@
     "[14:59] [8b8t] >> Please do not spam.",
     "[14:59] <UnBot> PVP kit is now available type +kit pvp ",
     "[14:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:59] <HahaGirlYs> can any1 tpa me?? "
+    "[14:59] <HahaGirlYs> can any1 tpa me?? ",
+    "[14:59] <Nik_Boi> !kit Survival ",
+    "[14:59] [8b8t] >> Teleporting to home 0...",
+    "[14:59] [8b8t] >> Teleporting to home 1...",
+    "[14:59] To Nik_Boi: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:59] <peakar> omg ",
+    "[14:59] To Nik_Boi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:59] [8b8t] >> Request sent to Nik_Boi"
   ],
   "userStats": {
     "76756": 38,
@@ -1095,7 +1095,7 @@
     "Forevergo": 1,
     "W3mmbuMC026": 1,
     "psychakril": 7,
-    "Nik_Boi": 10,
+    "Nik_Boi": 11,
     "sanfrancisco33": 1,
     "hachimamma": 8,
     "Giruela": 4,
@@ -2630,7 +2630,7 @@
   },
   "kitStats": {
     "build": 1339,
-    "survival": 5288,
+    "survival": 5289,
     "pvp": 6773,
     "dupe": 1487,
     "tools": 1607,
