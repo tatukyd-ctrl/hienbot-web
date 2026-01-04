@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:41:07 4/1/2026",
-  "totalKits": 82171,
-  "todayKits": 11,
-  "onlineCount": 39,
+  "lastUpdated": "12:41:25 4/1/2026",
+  "totalKits": 82172,
+  "todayKits": 12,
+  "onlineCount": 38,
   "peakPlayers": 47,
-  "tps": "9.0",
+  "tps": "7.0",
   "ping": 245,
   "topUsers": [
     {
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:40] [BOT] <0_HienBot> Welcome to 8b8t, _MaxJack! ",
-    "[05:40] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[05:40] <ZafiroAfiro> !kit rockers ",
-    "[05:40] [8b8t] >> Teleporting to home 0...",
-    "[05:40] [8b8t] >> Teleporting to home 6...",
-    "[05:40] To ZafiroAfiro: Kit \"rockers\" not found! Giving you a random kit (end) instead!",
-    "[05:40] To ZafiroAfiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:40] [8b8t] >> Request sent to ZafiroAfiro",
-    "[05:40] [8b8t] >> Teleporting...",
-    "[05:40] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[05:40] <CrazyGamesFan> !kit ",
-    "[05:40] To CrazyGamesFan: Hello CrazyGamesFan!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
     "[05:40] <CrazyGamesFan> !kit PVP ",
     "[05:40] [8b8t] >> Teleporting to home 0...",
     "[05:40] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +89,19 @@
     "[05:41] <Beans_In4k> !kit rocket ",
     "[05:41] [8b8t] >> Teleporting...",
     "[05:41] To Beans_In4k: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:41] [BOT] <0_HienBot> Do you want kit? Type !кιт "
+    "[05:41] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
+    "[05:41] <Beans_In4k> !kit rocket ",
+    "[05:41] To Beans_In4k: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:41] [8b8t] >> You have killed yourself!",
+    "[05:41] [8b8t] >> Home 2 was not found",
+    "[05:41] <Beans_In4k> !kit rocket ",
+    "[05:41] [8b8t] >> Teleporting to home 0...",
+    "[05:41] [8b8t] >> Teleporting to home 5...",
+    "[05:41] To Beans_In4k: Kit \"rocket\" not found! Giving you a random kit (dye) instead!",
+    "[05:41] To Beans_In4k: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:41] [8b8t] >> Request sent to Beans_In4k",
+    "[05:41] <reymeteoro19> solo eso ",
+    "[05:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2606,7 +2606,7 @@
     "JuanchosnkxD": 1,
     "_Garabatos_": 5,
     "EvilGamerz3877": 1,
-    "Beans_In4k": 5,
+    "Beans_In4k": 6,
     "CrazyGamesFan": 1
   },
   "kitStats": {
@@ -2619,7 +2619,7 @@
     "raid": 1056,
     "wood": 421,
     "exp": 591,
-    "dye": 243,
+    "dye": 244,
     "wool": 318,
     "mineral": 483,
     "food": 358,
