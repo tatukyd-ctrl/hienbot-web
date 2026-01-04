@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:08:39 5/1/2026",
+  "lastUpdated": "03:08:53 5/1/2026",
   "totalKits": 82628,
   "todayKits": 286,
   "onlineCount": 72,
   "peakPlayers": 77,
-  "tps": "7.0",
+  "tps": "8.0",
   "ping": 364,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5325
+      "count": 5326
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:07] [Ultra] <grindbeast124> please speed i need this ",
-    "[20:07] <ALEITO001> ahimw tepeas ",
-    "[20:07] <FELIX88MC> ok ",
-    "[20:07] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[20:07] <Basado__> quien me tepea al spawnn o cerca ",
-    "[20:07] <Basado__> ¡kit stashk} ",
-    "[20:07] <splat_co> THHANK YOU ",
-    "[20:07] <Bruster_8888> dame lo pls ",
-    "[20:07] <Basado__> ¡kit stash ",
     "[20:07] [BOT] <0_HienBot> Type !discord ",
     "[20:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:07] <Bruster_8888> dame el shulker ",
@@ -101,7 +92,16 @@
     "[20:08] To vicen_micuenta: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:08] [8b8t] >> Request sent to vicen_micuenta",
     "[20:08] [8b8t] >> Teleporting...",
-    "[20:08] <splat_co> wtf "
+    "[20:08] <splat_co> wtf ",
+    "[20:08] [8b8t] >> You have killed yourself!",
+    "[20:08] [8b8t] >> Home 2 was not found",
+    "[20:08] <MarceloKAI> !kit survival ",
+    "[20:08] [8b8t] >> Teleporting to home 0...",
+    "[20:08] [8b8t] >> Teleporting to home 1...",
+    "[20:08] To MarceloKAI: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:08] To MarceloKAI: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:08] [8b8t] >> Request sent to MarceloKAI",
+    "[20:08] <depana> me mori ? "
   ],
   "userStats": {
     "76756": 38,
@@ -2645,11 +2645,12 @@
     "EldocbrYT2001": 1,
     "everyfaja": 1,
     "iLgnd_": 1,
-    "7grabli7": 7
+    "7grabli7": 7,
+    "MarceloKAI": 1
   },
   "kitStats": {
     "build": 1355,
-    "survival": 5325,
+    "survival": 5326,
     "pvp": 6803,
     "dupe": 1518,
     "tools": 1616,
