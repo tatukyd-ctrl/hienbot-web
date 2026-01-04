@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:39:27 4/1/2026",
+  "lastUpdated": "13:39:57 4/1/2026",
   "totalKits": 82191,
   "todayKits": 9,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 35,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 239,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6712
+      "count": 6713
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:37] [BOT] <0_HienBot> What's up, HienBot? ",
-    "[06:37] <ZafiroAfiro> !kit tools ",
-    "[06:37] [8b8t] >> You have killed yourself!",
-    "[06:37] To ZafiroAfiro: Your kit (tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:37] [8b8t] >> Teleporting to home 0...",
-    "[06:37] [8b8t] >> Teleporting to home 8...",
-    "[06:37] To ZafiroAfiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:37] [8b8t] >> Request sent to ZafiroAfiro",
-    "[06:37] <tpayesbot> !kit totem ",
-    "[06:37] To tpayesbot: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:37] [8b8t] >> Teleporting...",
-    "[06:38] <tpayesbot> i might log coords! ",
     "[06:38] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
     "[06:38] JavaiL has made the advancement [We Need to Go Deeper]",
     "[06:38] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +89,19 @@
     "[06:39] To tpayesbot: Your kit (totem) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[06:39] To tpayesbot: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:39] [8b8t] >> Request sent to tpayesbot",
-    "[06:39] <tpayesbot> i am normally at spawn! "
+    "[06:39] <tpayesbot> i am normally at spawn! ",
+    "[06:39] [8b8t] >> Teleporting...",
+    "[06:39] JavaiL has completed the challenge [Subspace Bubble]",
+    "[06:39] <jamer34> +kit pvp ",
+    "[06:39] [8b8t] >> You have killed yourself!",
+    "[06:39] <tpayesbot> I was supposed to be straight! ",
+    "[06:39] To jamer34: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:39] [8b8t] >> Teleporting to home 0...",
+    "[06:39] [8b8t] >> Teleporting to home 1...",
+    "[06:39] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[06:39] To jamer34: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:39] [8b8t] >> Request sent to jamer34",
+    "[06:39] <tpayesbot> i say yes to tpas! "
   ],
   "userStats": {
     "76756": 38,
@@ -2610,12 +2610,12 @@
     "CrazyGamesFan": 4,
     "axxus": 5,
     "nggadjwadA": 1,
-    "jamer34": 1
+    "jamer34": 2
   },
   "kitStats": {
     "build": 1325,
     "survival": 5190,
-    "pvp": 6712,
+    "pvp": 6713,
     "dupe": 1456,
     "tools": 1594,
     "stash": 782,
