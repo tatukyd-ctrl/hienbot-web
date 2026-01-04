@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:19:43 4/1/2026",
+  "lastUpdated": "15:19:57 4/1/2026",
   "totalKits": 82273,
   "todayKits": 91,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 41,
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 280,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5229
+      "count": 5230
     },
     {
       "name": "tools",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:19] [8b8t] >> Teleporting to home 1...",
-    "[08:19] To jamer34: Kit \"rocket\" not found! Giving you a random kit (survival) instead!",
-    "[08:19] To jamer34: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:19] [8b8t] >> Request sent to jamer34",
     "[08:19] <Komando650> beni biri hapsetti çıkmaya çalışıom biraz zor ",
     "[08:19] harcikutya15 Whispers: !kit survival",
     "[08:19] To harcikutya15: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[08:19] To qqcs1515: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:19] To harcikutya15: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[08:19] [8b8t] >> Request sent to qqcs1515",
-    "[08:19] [8b8t] >> Teleporting..."
+    "[08:19] [8b8t] >> Teleporting...",
+    "[08:19] <.LEON50758> voltaikkk attı niye attı ark tım onunla ",
+    "[08:19] [8b8t] >> You have killed yourself!",
+    "[08:19] [8b8t] >> Home 2 was not found",
+    "[08:19] harcikutya15 Whispers: !kit survival"
   ],
   "userStats": {
     "76756": 38,
@@ -2564,7 +2564,7 @@
     "16cores": 6,
     "Vaxsted": 1,
     "juanchosnkxdd": 2,
-    "harcikutya15": 53,
+    "harcikutya15": 54,
     "SuperAlanStar": 8,
     "estehpatipum1": 5,
     "santiago200112": 2,
@@ -2618,7 +2618,7 @@
   },
   "kitStats": {
     "build": 1326,
-    "survival": 5229,
+    "survival": 5230,
     "pvp": 6731,
     "dupe": 1458,
     "tools": 1595,
