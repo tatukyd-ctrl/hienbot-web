@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:08:53 5/1/2026",
+  "lastUpdated": "03:09:23 5/1/2026",
   "totalKits": 82628,
   "todayKits": 286,
-  "onlineCount": 72,
+  "onlineCount": 73,
   "peakPlayers": 77,
-  "tps": "8.0",
-  "ping": 364,
+  "tps": "5.0",
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5326
+      "count": 5327
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:07] [BOT] <0_HienBot> Type !discord ",
-    "[20:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:07] <Bruster_8888> dame el shulker ",
-    "[20:08] <.Eden_01655> alguien tiene coral que me venda ",
-    "[20:08] <splat_co> ? ",
-    "[20:08] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[20:08] <TheRedW1zard> aze acepta tp ",
-    "[20:08] <xAlexgamer5435x> !kit ",
-    "[20:08] To xAlexgamer5435x: Hello xAlexgamer5435x!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:08] [BOT] <0_HienBot> Try !кιт survival ",
-    "[20:08] <vicen_micuenta> !kit pvp ",
-    "[20:08] <MarceloKAI> !kit ",
     "[20:08] [8b8t] >> Teleporting to home 0...",
     "[20:08] To MarceloKAI: Hello MarceloKAI!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[20:08] splat_co has made the advancement [We Need to Go Deeper]",
@@ -101,7 +89,19 @@
     "[20:08] To MarceloKAI: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[20:08] To MarceloKAI: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:08] [8b8t] >> Request sent to MarceloKAI",
-    "[20:08] <depana> me mori ? "
+    "[20:08] <depana> me mori ? ",
+    "[20:08] [8b8t] >> Teleporting...",
+    "[20:08] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[20:09] <McJB> !kit survival ",
+    "[20:09] [8b8t] >> You have killed yourself!",
+    "[20:09] To McJB: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:09] [Ultra] <grindbeast124> xd ",
+    "[20:09] [8b8t] >> Teleporting to home 0...",
+    "[20:09] [8b8t] >> Teleporting to home 1...",
+    "[20:09] To McJB: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:09] [8b8t] >> Request sent to McJB",
+    "[20:09] <depana> como me mori ",
+    "[20:09] <TheRedW1zard> Azez "
   ],
   "userStats": {
     "76756": 38,
@@ -2646,11 +2646,12 @@
     "everyfaja": 1,
     "iLgnd_": 1,
     "7grabli7": 7,
-    "MarceloKAI": 1
+    "MarceloKAI": 1,
+    "McJB": 1
   },
   "kitStats": {
     "build": 1355,
-    "survival": 5326,
+    "survival": 5327,
     "pvp": 6803,
     "dupe": 1518,
     "tools": 1616,
