@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:16:02 4/1/2026",
+  "lastUpdated": "18:16:23 4/1/2026",
   "totalKits": 82354,
   "todayKits": 12,
-  "onlineCount": 28,
+  "onlineCount": 27,
   "peakPlayers": 31,
-  "tps": "2.0",
-  "ping": 249,
+  "tps": "5.0",
+  "ping": 265,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5251
+      "count": 5252
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:14] <Ender_PvP345> wtf ",
-    "[11:14] <.AdrianTecnic> !kit redstone ",
-    "[11:14] [8b8t] >> Teleporting to home 0...",
-    "[11:14] [8b8t] >> Teleporting to home 3...",
-    "[11:14] To .AdrianTecnic: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:14] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
-    "[11:14] To .AdrianTecnic: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:14] [8b8t] >> Request sent to .AdrianTecnic",
     "[11:14] <Ender_PvP345> bruh ",
     "[11:14] <botchaosonix666> hahaha ",
     "[11:14] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[11:15] <botchaosonix666> uh ",
     "[11:15] [8b8t] >> Teleporting...",
     "[11:15] <Ozi_Dev> !kit survival ",
-    "[11:15] To Ozi_Dev: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[11:15] To Ozi_Dev: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:16] [8b8t] >> You have killed yourself!",
+    "[11:16] [8b8t] >> Home 2 was not found",
+    "[11:16] [BOT] <0_HienBot> Type !кιт  to get free kits ",
+    "[11:16] <dorukalp25> !kit survival ",
+    "[11:16] [8b8t] >> Teleporting to home 0...",
+    "[11:16] [8b8t] >> Teleporting to home 1...",
+    "[11:16] To dorukalp25: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:16] To dorukalp25: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2619,11 +2619,12 @@
     "ElonCrust69420": 12,
     "Glizzit47": 3,
     "Swan_Yt": 1,
-    "Ozi_Dev": 1
+    "Ozi_Dev": 1,
+    "dorukalp25": 1
   },
   "kitStats": {
     "build": 1333,
-    "survival": 5251,
+    "survival": 5252,
     "pvp": 6746,
     "dupe": 1476,
     "tools": 1601,
