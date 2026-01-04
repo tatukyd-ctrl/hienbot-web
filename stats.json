@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:10:57 4/1/2026",
-  "totalKits": 82261,
-  "todayKits": 79,
-  "onlineCount": 32,
+  "lastUpdated": "15:11:16 4/1/2026",
+  "totalKits": 82262,
+  "todayKits": 80,
+  "onlineCount": 31,
   "peakPlayers": 41,
-  "tps": "8.0",
+  "tps": "6.0",
   "ping": 272,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:09] [8b8t] >> Request sent to qqcs1515",
-    "[08:09] [8b8t] >> Teleporting...",
-    "[08:09] [8b8t] >> You have killed yourself!",
-    "[08:09] harcikutya15 Whispers: !kit survival",
-    "[08:09] [8b8t] >> Teleporting to home 0...",
-    "[08:09] [8b8t] >> Teleporting to home 1...",
-    "[08:09] [8b8t] >> Home 2 was not found",
-    "[08:09] To harcikutya15: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:09] To harcikutya15: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:09] [8b8t] >> Request sent to harcikutya15",
     "[08:09] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[08:09] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[08:10] qqcs1515 Whispers: !kit concrete",
     "[08:10] To qqcs1515: You're on cooldown, try again in 10 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[08:10] harcikutya15 Whispers: !kit survival",
-    "[08:10] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t "
+    "[08:10] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[08:10] To harcikutya15: You're on cooldown, try again in 21 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:11] qqcs1515 Whispers: !kit concrete",
+    "[08:11] [8b8t] >> Teleporting to home 0...",
+    "[08:11] [8b8t] >> Teleporting to home 4...",
+    "[08:11] To qqcs1515: Your kit (concrete) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:11] To qqcs1515: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:11] [8b8t] >> Request sent to qqcs1515",
+    "[08:11] [8b8t] >> Teleporting...",
+    "[08:11] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -2614,7 +2614,7 @@
     "Pcbcat": 4,
     "joaoswu": 2,
     "Wvayrien": 1,
-    "qqcs1515": 10
+    "qqcs1515": 11
   },
   "kitStats": {
     "build": 1326,
@@ -2639,7 +2639,7 @@
     "armortrims": 331,
     "highway": 432,
     "ocean": 96,
-    "concrete": 287,
+    "concrete": 288,
     "glass": 236,
     "gap": 59,
     "constructor": "function Object() { [native code] }111111111",
