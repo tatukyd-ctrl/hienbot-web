@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:07:52 4/1/2026",
+  "lastUpdated": "15:07:57 4/1/2026",
   "totalKits": 82257,
   "todayKits": 75,
   "onlineCount": 32,
   "peakPlayers": 41,
-  "tps": "6.0",
+  "tps": "4.0",
   "ping": 279,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5221
+      "count": 5222
     },
     {
       "name": "tools",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:06] [8b8t] >> Teleporting...",
-    "[08:06] [8b8t] >> You have killed yourself!",
-    "[08:06] [8b8t] >> Home 2 was not found",
-    "[08:06] harcikutya15 Whispers: !kit survival",
-    "[08:06] To harcikutya15: You're on cooldown, try again in 81 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
     "[08:06] [8b8t] >> Please do not spam.",
     "[08:06] harcikutya15 Whispers: !kit survival",
     "[08:06] To harcikutya15: You're on cooldown, try again in 60 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[08:07] To qqcs1515: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:07] [8b8t] >> Request sent to qqcs1515",
     "[08:07] [8b8t] >> Teleporting...",
-    "[08:07] <santi_ripxd> !Kit survival "
+    "[08:07] <santi_ripxd> !Kit survival ",
+    "[08:07] To santi_ripxd: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:07] [8b8t] >> You have killed yourself!",
+    "[08:07] [8b8t] >> Home 2 was not found",
+    "[08:07] harcikutya15 Whispers: !kit survival",
+    "[08:07] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs "
   ],
   "userStats": {
     "76756": 38,
@@ -2564,7 +2564,7 @@
     "16cores": 6,
     "Vaxsted": 1,
     "juanchosnkxdd": 2,
-    "harcikutya15": 47,
+    "harcikutya15": 48,
     "SuperAlanStar": 8,
     "estehpatipum1": 5,
     "santiago200112": 2,
@@ -2618,7 +2618,7 @@
   },
   "kitStats": {
     "build": 1326,
-    "survival": 5221,
+    "survival": 5222,
     "pvp": 6728,
     "dupe": 1458,
     "tools": 1595,
