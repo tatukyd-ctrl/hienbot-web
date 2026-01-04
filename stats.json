@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:50:23 5/1/2026",
+  "lastUpdated": "04:50:53 5/1/2026",
   "totalKits": 82678,
   "todayKits": 336,
-  "onlineCount": 62,
+  "onlineCount": 59,
   "peakPlayers": 77,
-  "tps": "7.0",
+  "tps": "2.0",
   "ping": 256,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6823
+      "count": 6824
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:48] m4rc_xyz8 has made the advancement [Bring Home the Beacon]",
-    "[21:48] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[21:48] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[21:48] [8b8t] >> Please do not spam.",
-    "[21:49] <ZafiroAfiro> ''Flower of the swamp'' ",
-    "[21:49] <__Solarflare> !kit pvp ",
-    "[21:49] To __Solarflare: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:49] <LordVoidMC> !kit pvp ",
     "[21:49] [8b8t] >> Teleporting to home 0...",
     "[21:49] [8b8t] >> Teleporting to home 1...",
     "[21:49] To LordVoidMC: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[21:50] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[21:50] [8b8t] >> You have killed yourself!",
     "[21:50] [8b8t] >> Home 2 was not found",
-    "[21:50] <depana> llueven ciclado de coetes "
+    "[21:50] <depana> llueven ciclado de coetes ",
+    "[21:50] <monochrome> !kit pvp ",
+    "[21:50] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
+    "[21:50] [8b8t] >> Teleporting to home 0...",
+    "[21:50] [8b8t] >> Teleporting to home 1...",
+    "[21:50] To monochrome: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:50] __Solarflare has completed the challenge [Cover Me in Debris]",
+    "[21:50] To monochrome: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:50] [8b8t] >> Request sent to monochrome"
   ],
   "userStats": {
     "76756": 38,
@@ -2652,12 +2652,12 @@
     "elman_1223": 1,
     "volvoHL": 1,
     "__Solarflare": 6,
-    "monochrome": 1
+    "monochrome": 2
   },
   "kitStats": {
     "build": 1359,
     "survival": 5335,
-    "pvp": 6823,
+    "pvp": 6824,
     "dupe": 1528,
     "tools": 1620,
     "stash": 802,
