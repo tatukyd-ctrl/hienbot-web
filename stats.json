@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:49:53 5/1/2026",
-  "totalKits": 82677,
-  "todayKits": 335,
-  "onlineCount": 60,
+  "lastUpdated": "04:50:15 5/1/2026",
+  "totalKits": 82678,
+  "todayKits": 336,
+  "onlineCount": 61,
   "peakPlayers": 77,
-  "tps": "7.0",
+  "tps": "11.0",
   "ping": 256,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6822
+      "count": 6823
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:47] [8b8t] >> You have killed yourself!",
-    "[21:47] [8b8t] >> Home 2 was not found",
-    "[21:47] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[21:47] <__Solarflare> !kit pvp ",
-    "[21:47] [8b8t] >> Teleporting to home 0...",
-    "[21:47] [8b8t] >> Teleporting to home 1...",
-    "[21:47] To __Solarflare: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:48] To __Solarflare: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:48] [8b8t] >> Request sent to __Solarflare",
-    "[21:48] [8b8t] >> Teleporting...",
-    "[21:48] <.zombieboss30000> can you tp? ",
-    "[21:48] <ZafiroAfiro> creo que tambien van como 3 veces que piensan que soy mujer acà lel ",
     "[21:48] [8b8t] >> You have killed yourself!",
     "[21:48] [8b8t] >> Home 2 was not found",
     "[21:48] m4rc_xyz8 has reached the goal [Beaconator]",
@@ -101,7 +89,19 @@
     "[21:49] To LordVoidMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:49] [8b8t] >> Request sent to LordVoidMC",
     "[21:49] [BOT] <0_HienBot> Welcome to 8b8t, Leee! ",
-    "[21:49] [8b8t] >> Teleporting..."
+    "[21:49] [8b8t] >> Teleporting...",
+    "[21:49] <__Solarflare> !kit pvp ",
+    "[21:49] [8b8t] >> Teleporting to home 0...",
+    "[21:49] [8b8t] >> Teleporting to home 1...",
+    "[21:49] To __Solarflare: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:49] To __Solarflare: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:49] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[21:49] [8b8t] >> Request sent to __Solarflare",
+    "[21:50] <monochrome> !kit ",
+    "[21:50] To monochrome: Hello monochrome!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[21:50] Dewaq_ has made the advancement [We Need to Go Deeper]",
+    "[21:50] [8b8t] >> Teleporting...",
+    "[21:50] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -2651,13 +2651,13 @@
     "lkignfirst": 1,
     "elman_1223": 1,
     "volvoHL": 1,
-    "__Solarflare": 5,
+    "__Solarflare": 6,
     "monochrome": 1
   },
   "kitStats": {
     "build": 1359,
     "survival": 5335,
-    "pvp": 6822,
+    "pvp": 6823,
     "dupe": 1528,
     "tools": 1620,
     "stash": 802,
