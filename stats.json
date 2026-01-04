@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:47:23 4/1/2026",
+  "lastUpdated": "19:47:53 4/1/2026",
   "totalKits": 82377,
   "todayKits": 35,
-  "onlineCount": 37,
+  "onlineCount": 39,
   "peakPlayers": 46,
   "tps": "4.0",
   "ping": 248,
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 1601
+      "count": 1602
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:44] ArseniosTs is ignoring you",
-    "[12:44] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[12:44] <ArseniosTs> *kit ",
-    "[12:44] ArseniosTs is ignoring you",
-    "[12:44] exe4exe has made the advancement [We Need to Go Deeper]",
-    "[12:44] <UdoFreak> !kit pvp ",
-    "[12:44] [8b8t] >> Teleporting to home 0...",
-    "[12:44] [8b8t] >> Teleporting to home 1...",
-    "[12:44] To UdoFreak: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:44] To UdoFreak: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:44] [8b8t] >> Request sent to UdoFreak",
     "[12:44] [BOT] <0_HienBot> Hi NotLKanK409! ",
@@ -101,7 +92,16 @@
     "[12:46] <Failmc> !kit travle ",
     "[12:46] To Failmc: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:47] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[12:47] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[12:47] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[12:47] <Failmc> !kit travle ",
+    "[12:47] [8b8t] >> Teleporting to home 0...",
+    "[12:47] [8b8t] >> Teleporting to home 8...",
+    "[12:47] To Failmc: Kit \"travle\" not found! Giving you (tools) instead! dsc.gg/hienbot",
+    "[12:47] To Failmc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:47] [8b8t] >> Request sent to Failmc",
+    "[12:47] [8b8t] >> Teleporting...",
+    "[12:47] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[12:47] <dacvudog1802> W "
   ],
   "userStats": {
     "76756": 38,
@@ -2623,14 +2623,14 @@
     "dorukalp25": 4,
     "exe4exe": 4,
     "Matas2K": 1,
-    "Failmc": 2
+    "Failmc": 3
   },
   "kitStats": {
     "build": 1333,
     "survival": 5263,
     "pvp": 6755,
     "dupe": 1481,
-    "tools": 1601,
+    "tools": 1602,
     "stash": 786,
     "raid": 1060,
     "wood": 430,
