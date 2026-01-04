@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:17:27 4/1/2026",
+  "lastUpdated": "15:17:57 4/1/2026",
   "totalKits": 82269,
   "todayKits": 87,
-  "onlineCount": 28,
+  "onlineCount": 26,
   "peakPlayers": 41,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 274,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5227
+      "count": 5228
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:16] harcikutya15 Whispers: !kit survival",
-    "[08:16] To harcikutya15: You're on cooldown, try again in 40 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:16] varun has made the advancement [Who is Cutting Onions?]",
-    "[08:16] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
-    "[08:16] harcikutya15 Whispers: !kit survival",
-    "[08:16] To harcikutya15: You're on cooldown, try again in 20 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:16] [8b8t] >> The TPA request you received from afruzxspider has expired.",
     "[08:16] <jamer34> +kit mystic ",
     "[08:16] [8b8t] >> Teleporting to home 0...",
     "[08:16] [8b8t] >> Teleporting to home 5...",
@@ -101,7 +94,14 @@
     "[08:17] qqcs1515 Whispers: !kit toolbox",
     "[08:17] [8b8t] >> Teleporting to home 0...",
     "[08:17] [8b8t] >> Home 2 was not found",
-    "[08:17] To qqcs1515: Your kit (toolbox) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[08:17] To qqcs1515: Your kit (toolbox) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:17] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[08:17] harcikutya15 Whispers: !kit survival",
+    "[08:17] To harcikutya15: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:17] To qqcs1515: Try again Join dsc.gg/hienbot to report the error.",
+    "[08:17] <.LEON50758> yardımmm ",
+    "[08:17] [8b8t] >> Please do not spam.",
+    "[08:17] harcikutya15 Whispers: !kit survival"
   ],
   "userStats": {
     "76756": 38,
@@ -2564,7 +2564,7 @@
     "16cores": 6,
     "Vaxsted": 1,
     "juanchosnkxdd": 2,
-    "harcikutya15": 52,
+    "harcikutya15": 53,
     "SuperAlanStar": 8,
     "estehpatipum1": 5,
     "santiago200112": 2,
@@ -2618,7 +2618,7 @@
   },
   "kitStats": {
     "build": 1326,
-    "survival": 5227,
+    "survival": 5228,
     "pvp": 6731,
     "dupe": 1458,
     "tools": 1595,
