@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:06:23 4/1/2026",
+  "lastUpdated": "22:06:53 4/1/2026",
   "totalKits": 82468,
   "todayKits": 126,
-  "onlineCount": 47,
+  "onlineCount": 49,
   "peakPlayers": 59,
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 272,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5291
+      "count": 5292
     },
     {
       "name": "tools",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:03] <Ducky1sCool> im just tryna get to y15k from the potion ",
-    "[15:04] <peakar> no i need one its okay ",
-    "[15:05] <Ducky1sCool> so i can try to tp ",
-    "[15:05] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-    "[15:05] [8b8t] >> Your login session has been continued.",
-    "[15:05] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[15:05] ",
-    "[15:05]  [8builders8tools]",
-    "[15:05]  Perform the command /email associate to register",
-    "[15:05]  your email. By doing so, you",
-    "[15:05]  decrease the chance of being hacked.",
-    "[15:05] ",
-    "[15:05]   [Confirm read]",
-    "[15:05] ",
     "[15:05] [8b8t] >> You have killed yourself!",
     "[15:05] <UnBot> Available kits are mystic, pvp, flight, escape ",
     "[15:05] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +87,21 @@
     "[15:06] <UnBot> PVP kit is now available type +kit pvp ",
     "[15:06] <Valanis> !kit ",
     "[15:06] To Valanis: Hello Valanis!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:06] <Ducky1sCool> can you drop a piece of the armour "
+    "[15:06] <Ducky1sCool> can you drop a piece of the armour ",
+    "[15:06] <Valanis> !kit survival ",
+    "[15:06] [8b8t] >> Teleporting to home 0...",
+    "[15:06] <peakar> uhh ",
+    "[15:06] [8b8t] >> Teleporting to home 1...",
+    "[15:06] To Valanis: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:06] <peakar> sure ",
+    "[15:06] To Valanis: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:06] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[15:06] [8b8t] >> Request sent to Valanis",
+    "[15:06] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[15:06] <Ascalito> !kit concrete ",
+    "[15:06] To Ascalito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:06] <Ascalito> !kit ",
+    "[15:06] To Ascalito: Hello Ascalito!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2626,11 +2626,12 @@
     "Failmc": 4,
     "NopFoundBedrock": 2,
     "Ieatkids_003": 7,
-    "dilan144886": 1
+    "dilan144886": 1,
+    "Valanis": 1
   },
   "kitStats": {
     "build": 1339,
-    "survival": 5291,
+    "survival": 5292,
     "pvp": 6774,
     "dupe": 1487,
     "tools": 1607,
