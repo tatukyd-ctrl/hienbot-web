@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:10:23 5/1/2026",
+  "lastUpdated": "03:10:53 5/1/2026",
   "totalKits": 82629,
   "todayKits": 287,
   "onlineCount": 70,
   "peakPlayers": 77,
-  "tps": "1.0",
-  "ping": 259,
+  "tps": "5.0",
+  "ping": 306,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6803
+      "count": 6804
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:09] [Ultra] <grindbeast124> xd ",
-    "[20:09] [8b8t] >> Teleporting to home 0...",
-    "[20:09] [8b8t] >> Teleporting to home 1...",
-    "[20:09] To McJB: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:09] [8b8t] >> Request sent to McJB",
-    "[20:09] <depana> como me mori ",
-    "[20:09] <TheRedW1zard> Azez ",
     "[20:09] <depana> mate que te paso ",
     "[20:09] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[20:09] <Azez> si? ",
@@ -101,7 +94,14 @@
     "[20:10] To vicen_micuenta: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:10] [8b8t] >> Request sent to vicen_micuenta",
     "[20:10] [8b8t] >> Teleporting...",
-    "[20:10] <darsacc> who can tp me at spawn "
+    "[20:10] <darsacc> who can tp me at spawn ",
+    "[20:10] [8b8t] >> You have killed yourself!",
+    "[20:10] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[20:10] [8b8t] >> Home 2 was not found",
+    "[20:10] <darsacc> i tp to you ",
+    "[20:10] <MinephaMC_YT_ALT> wait gimme that shulker quick? ",
+    "[20:10] <MG_GT10> !kit mapart ",
+    "[20:10] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1175,7 +1175,7 @@
     "RedStardieYt": 1,
     "_SmallRhyme64891": 19,
     "JustTh4tOn3Guy": 13,
-    "MG_GT10": 60,
+    "MG_GT10": 61,
     "physcorange": 3,
     "manuek_el_rey": 3,
     "BenVanas": 1,
@@ -2652,7 +2652,7 @@
   "kitStats": {
     "build": 1355,
     "survival": 5327,
-    "pvp": 6803,
+    "pvp": 6804,
     "dupe": 1519,
     "tools": 1616,
     "stash": 799,
