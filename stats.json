@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:52:24 4/1/2026",
+  "lastUpdated": "19:52:53 4/1/2026",
   "totalKits": 82379,
   "todayKits": 37,
-  "onlineCount": 45,
+  "onlineCount": 42,
   "peakPlayers": 46,
-  "tps": "3.0",
-  "ping": 254,
+  "tps": "2.0",
+  "ping": 425,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5264
+      "count": 5265
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:51] <peakar> !kit tools ",
-    "[12:51] [8b8t] >> You have killed yourself!",
-    "[12:51] To peakar: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:51] [8b8t] >> Teleporting to home 0...",
-    "[12:51] [8b8t] >> Teleporting to home 8...",
-    "[12:51] To peakar: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:51] [8b8t] >> Request sent to peakar",
-    "[12:51] [8b8t] >> Teleporting...",
     "[12:51] Failmc has completed the challenge [Cover Me in Debris]",
     "[12:51] [8b8t] >> You have killed yourself!",
     "[12:51] [8b8t] >> Home 2 was not found",
@@ -101,7 +93,15 @@
     "[12:52] [8b8t] >> Request sent to axxus",
     "[12:52] [8b8t] >> Teleporting...",
     "[12:52] <.yuu18m> !kit survival ",
-    "[12:52] To .yuu18m: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[12:52] To .yuu18m: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:52] <.yuu18m> !kit survival ",
+    "[12:52] [8b8t] >> Teleporting to home 0...",
+    "[12:52] [8b8t] >> Teleporting to home 1...",
+    "[12:52] To .yuu18m: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:52] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:52] [BOT] <0_HienBot> August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[12:52] [8b8t] >> Request sent to .yuu18m",
+    "[12:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2458,7 +2458,7 @@
     "PlayStation_ALT": 2,
     "HARLIX1354": 5,
     "Fiki64": 5,
-    ".yuu18m": 3,
+    ".yuu18m": 4,
     "Unknown_Addy": 6,
     "fwgehr": 1,
     "isamasi7": 1,
@@ -2627,7 +2627,7 @@
   },
   "kitStats": {
     "build": 1333,
-    "survival": 5264,
+    "survival": 5265,
     "pvp": 6755,
     "dupe": 1481,
     "tools": 1604,
