@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:50:23 4/1/2026",
+  "lastUpdated": "19:50:53 4/1/2026",
   "totalKits": 82377,
   "todayKits": 35,
   "onlineCount": 41,
   "peakPlayers": 46,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 252,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5263
+      "count": 5264
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:47] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:47] <Failmc> !kit travle ",
-    "[12:47] [8b8t] >> Teleporting to home 0...",
-    "[12:47] [8b8t] >> Teleporting to home 8...",
-    "[12:47] To Failmc: Kit \"travle\" not found! Giving you (tools) instead! dsc.gg/hienbot",
-    "[12:47] To Failmc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:47] [8b8t] >> Request sent to Failmc",
     "[12:47] [8b8t] >> Teleporting...",
     "[12:47] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[12:47] <dacvudog1802> W ",
@@ -101,7 +94,14 @@
     "[12:50] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:50] <.yuu18m> yep ",
     "[12:50] santyur has made the advancement [Not Quite \"Nine\" Lives]",
-    "[12:50] <.yuu18m> ender dragon in spawn "
+    "[12:50] <.yuu18m> ender dragon in spawn ",
+    "[12:50] <AgonHacck> accept ",
+    "[12:50] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[12:50] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
+    "[12:50] <Failmc> !kit survival ",
+    "[12:50] [8b8t] >> Teleporting to home 0...",
+    "[12:50] [8b8t] >> Teleporting to home 1...",
+    "[12:50] To Failmc: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2623,11 +2623,11 @@
     "dorukalp25": 4,
     "exe4exe": 4,
     "Matas2K": 1,
-    "Failmc": 3
+    "Failmc": 4
   },
   "kitStats": {
     "build": 1333,
-    "survival": 5263,
+    "survival": 5264,
     "pvp": 6755,
     "dupe": 1481,
     "tools": 1602,
