@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:20:43 4/1/2026",
+  "lastUpdated": "16:21:13 4/1/2026",
   "totalKits": 82312,
   "todayKits": 12,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 30,
   "tps": "6.0",
-  "ping": 256,
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5241
+      "count": 5242
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:19] <axxus> who pvp ",
-    "[09:19] [Ultra] <imnotoldmacbook> !kit build ",
-    "[09:19] To imnotoldmacbook: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:19] [8b8t] >> You have killed yourself!",
-    "[09:19] [BOT] <0_HienBot> Type !discord ",
-    "[09:19] [8b8t] >> The TPA request you sent to Glizzit47 was successfully canceled.",
     "[09:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:19] [Ultra] <imnotoldmacbook> !kit build ",
     "[09:19] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +95,13 @@
     "[09:20] [8b8t] >> Home 2 was not found",
     "[09:20] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[09:20] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[09:20] <Glizzit47> kit/ "
+    "[09:20] <Glizzit47> kit/ ",
+    "[09:20] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[09:20] To Hien2309: lag qua",
+    "[09:21] <Glizzit47> !kit survival ",
+    "[09:21] [8b8t] >> Teleporting to home 0...",
+    "[09:21] [8b8t] >> Teleporting to home 1...",
+    "[09:21] To Glizzit47: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2617,11 +2617,11 @@
     "qqcs1515": 23,
     "nguyenthai1": 2,
     "ElonCrust69420": 1,
-    "Glizzit47": 1
+    "Glizzit47": 2
   },
   "kitStats": {
     "build": 1331,
-    "survival": 5241,
+    "survival": 5242,
     "pvp": 6735,
     "dupe": 1464,
     "tools": 1600,
