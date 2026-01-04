@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:39:50 4/1/2026",
+  "lastUpdated": "15:39:57 4/1/2026",
   "totalKits": 82297,
   "todayKits": 115,
   "onlineCount": 33,
   "peakPlayers": 41,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 279,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:39] <axxus> !kit dupe ",
-    "[08:39] [8b8t] >> Teleporting to home 0...",
-    "[08:39] [8b8t] >> Teleporting to home 8...",
-    "[08:39] To axxus: Your kit (dupe) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:39] To axxus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:39] [8b8t] >> Request sent to axxus",
-    "[08:39] [Ultra] <imnotoldmacbook> no ",
-    "[08:39] <ElonCrust69420> !kit ",
     "[08:39] [Basic] <.VadoseMist36087> STOP IM IMMORTAL ",
     "[08:39] <Ender_PvP345> HI ",
     "[08:39] To ElonCrust69420: Hello ElonCrust69420!! You can use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... and more in dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[08:39] <ZafiroAfiro> y esto ",
     "[08:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[08:39] [8b8t] >> Teleporting...",
-    "[08:39] <nguyenthai1> kits! "
+    "[08:39] <nguyenthai1> kits! ",
+    "[08:39] [8b8t] >> You have killed yourself!",
+    "[08:39] [8b8t] >> Home 2 was not found",
+    "[08:39] [Pro] <bigbear> !kit dye ",
+    "[08:39] [8b8t] >> Teleporting to home 0...",
+    "[08:39] [8b8t] >> Teleporting to home 5...",
+    "[08:39] To BigBear: Your kit (dye) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:39] <nguyenthai1> !kits ",
+    "[08:39] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> "
   ],
   "userStats": {
     "76756": 38,
@@ -113,7 +113,7 @@
     "WebSuperOp": 10,
     "RyloMC": 17,
     "pibble": 2,
-    "bigbear": 47,
+    "bigbear": 48,
     "luccah10": 19,
     ".ThunderDrgn2845": 10,
     "2young2care": 29,
@@ -2628,7 +2628,7 @@
     "raid": 1057,
     "wood": 424,
     "exp": 594,
-    "dye": 247,
+    "dye": 248,
     "wool": 321,
     "mineral": 485,
     "food": 362,
