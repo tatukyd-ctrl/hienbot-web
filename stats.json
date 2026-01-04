@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:01:40 4/1/2026",
+  "lastUpdated": "20:01:53 4/1/2026",
   "totalKits": 82385,
   "todayKits": 43,
   "onlineCount": 46,
   "peakPlayers": 48,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 260,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6759
+      "count": 6760
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:00] To peakar: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:00] <reymeteoro19> !kit raid ",
-    "[13:00] To reymeteoro19: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:00] [8b8t] >> You have killed yourself!",
-    "[13:00] [8b8t] >> You have killed yourself!",
-    "[13:00] [8b8t] >> Player Swan_Yt is not online",
-    "[13:00] <.yuu18m> 8b8t is changed... ",
-    "[13:00] [8b8t] >> Teleporting to home 0...",
-    "[13:00] [8b8t] >> Teleporting to home 1...",
-    "[13:00] [8b8t] >> Could not find player Swan_Yt",
     "[13:00] [8b8t] >> Player Swan_Yt is not online",
     "[13:00] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[13:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +91,17 @@
     "[13:01] [8b8t] >> Teleporting...",
     "[13:01] <Onyqs> !kit pvp ",
     "[13:01] To Onyqs: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:01] [BOT] <0_HienBot> Hate those who destroy Hien2309's base "
+    "[13:01] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[13:01] <Galacticoast> !kit pvp ",
+    "[13:01] To Galacticoast: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:01] [8b8t] >> You have killed yourself!",
+    "[13:01] [8b8t] >> Home 2 was not found",
+    "[13:01] <.yuu18m> !kit pvp ",
+    "[13:01] [8b8t] >> Teleporting to home 0...",
+    "[13:01] [8b8t] >> Teleporting to home 1...",
+    "[13:01] To .yuu18m: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:01] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:01] [8b8t] >> Request sent to .yuu18m"
   ],
   "userStats": {
     "76756": 38,
@@ -2458,7 +2458,7 @@
     "PlayStation_ALT": 2,
     "HARLIX1354": 5,
     "Fiki64": 5,
-    ".yuu18m": 6,
+    ".yuu18m": 7,
     "Unknown_Addy": 6,
     "fwgehr": 1,
     "isamasi7": 1,
@@ -2628,7 +2628,7 @@
   "kitStats": {
     "build": 1333,
     "survival": 5267,
-    "pvp": 6759,
+    "pvp": 6760,
     "dupe": 1482,
     "tools": 1605,
     "stash": 786,
