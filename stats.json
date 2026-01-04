@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:34:22 4/1/2026",
+  "lastUpdated": "14:34:27 4/1/2026",
   "totalKits": 82212,
   "todayKits": 30,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 40,
-  "tps": "7.0",
+  "tps": "9.0",
   "ping": 272,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6724
+      "count": 6725
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:33] To harcikutya15: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:33] [8b8t] >> Request sent to harcikutya15",
-    "[07:33] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:33] [8b8t] >> Teleporting...",
     "[07:33] <santi_ripxd> !kit exp ",
     "[07:33] To santi_ripxd: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:33] <HahaGirlYs> any1 tpa to me ",
@@ -101,7 +97,11 @@
     "[07:34] <santi_ripxd> !Kit exp ",
     "[07:34] To santi_ripxd: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:34] [8b8t] >> Teleporting...",
-    "[07:34] <santi_ripxd> bruh "
+    "[07:34] <santi_ripxd> bruh ",
+    "[07:34] [8b8t] >> You have killed yourself!",
+    "[07:34] bushdid911 Whispers: !kit pvp",
+    "[07:34] [8b8t] >> Home 2 was not found",
+    "[07:34] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2375,7 +2375,7 @@
     "Ateste": 1,
     "1ngel0_hrd": 4,
     "vihan": 2,
-    "bushdid911": 32,
+    "bushdid911": 33,
     "furry777": 1,
     "777gdgsgsd": 1,
     "eeee_2": 1,
@@ -2618,7 +2618,7 @@
   "kitStats": {
     "build": 1325,
     "survival": 5199,
-    "pvp": 6724,
+    "pvp": 6725,
     "dupe": 1458,
     "tools": 1594,
     "stash": 783,
