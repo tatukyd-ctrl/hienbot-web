@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:49:11 4/1/2026",
-  "totalKits": 82233,
-  "todayKits": 51,
+  "lastUpdated": "14:49:25 4/1/2026",
+  "totalKits": 82234,
+  "todayKits": 52,
   "onlineCount": 34,
   "peakPlayers": 41,
-  "tps": "2.0",
+  "tps": "0.0",
   "ping": 280,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6727
+      "count": 6728
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:48] [8b8t] >> You have killed yourself!",
-    "[07:48] [8b8t] >> Home 2 was not found",
-    "[07:48] harcikutya15 Whispers: !kit survival",
-    "[07:48] To harcikutya15: You're on cooldown, try again in 80 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:48] <ZzElCruzZ> !kit pvp ",
-    "[07:48] [8b8t] >> Teleporting to home 0...",
-    "[07:48] [8b8t] >> Teleporting to home 1...",
-    "[07:48] <Komando650> varum not shulker me ",
-    "[07:48] To ZzElCruzZ: Your kit (pvp) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:48] To ZzElCruzZ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:48] <ZzElCruzZ> !kit pvp ",
-    "[07:48] To ZzElCruzZ: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:48] [8b8t] >> Request sent to ZzElCruzZ",
     "[07:48] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[07:48] [8b8t] >> Teleporting...",
@@ -101,7 +89,19 @@
     "[07:49] To Jav5WR213: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:49] [8b8t] >> Request sent to Jav5WR213",
     "[07:49] <varun> we are friend ",
-    "[07:49] [8b8t] >> Teleporting..."
+    "[07:49] [8b8t] >> Teleporting...",
+    "[07:49] [8b8t] >> You have killed yourself!",
+    "[07:49] [8b8t] >> Home 2 was not found",
+    "[07:49] qqcs1515 Whispers: !kit armor",
+    "[07:49] [8b8t] >> Teleporting to home 0...",
+    "[07:49] [8b8t] >> Teleporting to home 1...",
+    "[07:49] harcikutya15 Whispers: !kit survival",
+    "[07:49] To qqcs1515: Your kit (armor) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:49] To harcikutya15: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:49] To qqcs1515: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:49] [8b8t] >> Request sent to qqcs1515",
+    "[07:49] [8b8t] >> Teleporting...",
+    "[07:49] <Komando650> ım not shulker you "
   ],
   "userStats": {
     "76756": 38,
@@ -2614,12 +2614,12 @@
     "Pcbcat": 4,
     "joaoswu": 2,
     "Wvayrien": 1,
-    "qqcs1515": 1
+    "qqcs1515": 2
   },
   "kitStats": {
     "build": 1326,
     "survival": 5209,
-    "pvp": 6727,
+    "pvp": 6728,
     "dupe": 1458,
     "tools": 1594,
     "stash": 783,
