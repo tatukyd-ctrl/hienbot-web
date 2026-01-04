@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:36:56 4/1/2026",
+  "lastUpdated": "10:37:09 4/1/2026",
   "totalKits": 82123,
   "todayKits": 98,
   "onlineCount": 47,
   "peakPlayers": 68,
-  "tps": "1.0",
-  "ping": 0,
+  "tps": "5.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5175
+      "count": 5176
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:36] [8b8t] >> Teleporting to home 8...",
-    "[03:36] To peacebringer12: Your kit (Tools) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:36] <mantecay9> ahora no puedo ",
-    "[03:36] hmadyuh Whispers: !kit survival",
-    "[03:36] To hmadyuh: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:36] To peacebringer12: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:36] [8b8t] >> Request sent to peacebringer12",
-    "[03:36] [Ultra] <Moidtheboid> FIRST TO TP ME TO SPAWN GETS TEST BLOCK ",
-    "[03:36] <.Shed5627> !kit survival ",
     "[03:36] To .Shed5627: Please wait for me a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:36] [8b8t] >> Teleporting...",
     "[03:36] <WORDIPOP> esta base la conocen mas de 100 no me preocupa xd ",
@@ -101,7 +92,16 @@
     "[03:36] [8b8t] >> Teleporting...",
     "[03:36] [Ultra] <Moidtheboid> LLOL ",
     "[03:36] <Itz_erick_xzz> quien me regala algo soy nuevo ",
-    "[03:36] <WORDIPOP> see "
+    "[03:36] <WORDIPOP> see ",
+    "[03:36] [8b8t] >> You have killed yourself!",
+    "[03:37] [8b8t] >> Home 2 was not found",
+    "[03:37] <.Shed5627> !kit survival ",
+    "[03:37] [8b8t] >> Teleporting to home 0...",
+    "[03:37] [8b8t] >> Teleporting to home 1...",
+    "[03:37] <Victua7397> nooo ",
+    "[03:37] To .Shed5627: Your kit (survival) will be delivered in less than 30 seconds! Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[03:37] To .Shed5627: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:37] [8b8t] >> Request sent to .Shed5627"
   ],
   "userStats": {
     "76756": 38,
@@ -2479,7 +2479,7 @@
     "3b3tplayer": 4,
     ".FanDeJesus5641": 55,
     "pierouwu6565": 1,
-    ".Shed5627": 2,
+    ".Shed5627": 3,
     "NotNinja_": 13,
     "7wus": 1,
     ".BluesyCap7705": 2,
@@ -2606,7 +2606,7 @@
   },
   "kitStats": {
     "build": 1322,
-    "survival": 5175,
+    "survival": 5176,
     "pvp": 6694,
     "dupe": 1444,
     "tools": 1586,
