@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:21:23 4/1/2026",
+  "lastUpdated": "19:21:53 4/1/2026",
   "totalKits": 82374,
   "todayKits": 32,
   "onlineCount": 40,
   "peakPlayers": 42,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 246,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5261
+      "count": 5262
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:18] [8b8t] >> Teleporting to home 0...",
-    "[12:18] [8b8t] >> Teleporting to home 1...",
-    "[12:18] To exe4exe: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:18] To exe4exe: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:18] [8b8t] >> Request sent to exe4exe",
-    "[12:18] [8b8t] >> Teleporting...",
-    "[12:18] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[12:18] <SUPERBINONGO> can anyone get me out of spawn ",
-    "[12:18] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[12:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:18] [8b8t] >> You have killed yourself!",
-    "[12:18] [8b8t] >> Home 2 was not found",
     "[12:18] <SUPERBINONGO> vadose my brother soorrry ill not use those creeper annymore ",
     "[12:18] exe4exe has reached the goal [Sky's the Limit]",
     "[12:18] exe4exe has completed the challenge [Cover Me in Debris]",
@@ -101,7 +89,19 @@
     "[12:20] <botchaosonix666> ahh ",
     "[12:21] <reymeteoro19> q cosa del kit ",
     "[12:21] <botchaosonix666> go kill ",
-    "[12:21] [BOT] <0_HienBot> Bot created by Hien2309. "
+    "[12:21] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[12:21] [Pro] <MintKoala997563> stop ",
+    "[12:21] <santyur> me salia un mensaje q pusiera !kit ",
+    "[12:21] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[12:21] <Matas2K> !kit ",
+    "[12:21] To Matas2K: Hello Matas2K!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[12:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[12:21] <reymeteoro19> a si pero ahi te doy uno ",
+    "[12:21] <Matas2K> !kit survival ",
+    "[12:21] [8b8t] >> Teleporting to home 0...",
+    "[12:21] [8b8t] >> Teleporting to home 1...",
+    "[12:21] To Matas2K: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:21] To Matas2K: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2621,11 +2621,12 @@
     "Swan_Yt": 1,
     "Ozi_Dev": 2,
     "dorukalp25": 4,
-    "exe4exe": 3
+    "exe4exe": 3,
+    "Matas2K": 1
   },
   "kitStats": {
     "build": 1333,
-    "survival": 5261,
+    "survival": 5262,
     "pvp": 6754,
     "dupe": 1478,
     "tools": 1601,
