@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:51:17 6/1/2026",
-  "totalKits": 83127,
-  "todayKits": 79,
+  "lastUpdated": "04:51:24 6/1/2026",
+  "totalKits": 83128,
+  "todayKits": 80,
   "onlineCount": 68,
   "peakPlayers": 76,
   "tps": "5.0",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5430
+      "count": 5431
     },
     {
       "name": "tools",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:50] To santi_ripxd: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:50] [8b8t] >> Request sent to santi_ripxd",
-    "[21:50] <Saad2001> ops ",
-    "[21:50] <noobmaster96> regalos kits con mapas ",
-    "[21:50] <Ddc39zz> !kit warden ",
     "[21:50] To Ddc39zz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:50] <.Mattituas> yooo ",
     "[21:50] <Saad2001> !kit survival ",
@@ -101,7 +96,12 @@
     "[21:51] <WenlerMaster> !kit illegal ",
     "[21:51] To WenlerMaster: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:51] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[21:51] <.LEON50758> 1 magical totem "
+    "[21:51] <.LEON50758> 1 magical totem ",
+    "[21:51] [8b8t] >> Teleporting...",
+    "[21:51] <Falsenoodle> !kit survival ",
+    "[21:51] [8b8t] >> Teleporting to home 0...",
+    "[21:51] [8b8t] >> Teleporting to home 1...",
+    "[21:51] To Falsenoodle: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2727,11 +2727,11 @@
     ".Mattituas": 1,
     "JUANJOXE": 1,
     "o7_cube73474": 2,
-    "Falsenoodle": 3
+    "Falsenoodle": 4
   },
   "kitStats": {
     "build": 1388,
-    "survival": 5430,
+    "survival": 5431,
     "pvp": 6964,
     "dupe": 1601,
     "tools": 1646,
