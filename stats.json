@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:59:47 6/1/2026",
+  "lastUpdated": "05:00:17 6/1/2026",
   "totalKits": 83131,
   "todayKits": 83,
-  "onlineCount": 70,
+  "onlineCount": 71,
   "peakPlayers": 76,
-  "tps": "6.0",
-  "ping": 288,
+  "tps": "4.0",
+  "ping": 333,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5433
+      "count": 5434
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:57] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
-    "[21:57] <.Olm3053> ok ",
-    "[21:57] <.FanDeJesus5641> tienes kit ilegal ",
-    "[21:57] <d27iraq> fire work ",
-    "[21:57] <elmartin50> !kit survival ",
-    "[21:57] To elmartin50: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:58] .Olm3053 has completed the challenge [Cover Me in Debris]",
-    "[21:58] <.Erburhurdur> Use !kit survival buddy ",
-    "[21:58] <elmartin50> !kit survival ",
-    "[21:58] To elmartin50: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:58] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
     "[21:58] [8b8t] >> You have killed yourself!",
     "[21:58] [8b8t] >> The TPA request you sent to elmartin50 was successfully canceled.",
@@ -101,7 +91,17 @@
     "[21:59] [XMAS2025] <Vlesmentie> we grind ",
     "[21:59] .Olm3053 has reached the goal [Sky's the Limit]",
     "[21:59] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[21:59] <WenlerMaster> xd "
+    "[21:59] <WenlerMaster> xd ",
+    "[21:59] <elmartin50> !kit survival ",
+    "[21:59] [8b8t] >> Teleporting to home 0...",
+    "[21:59] [8b8t] >> Teleporting to home 1...",
+    "[21:59] To elmartin50: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:00] To elmartin50: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:00] [8b8t] >> Request sent to elmartin50",
+    "[22:00] [8b8t] >> Teleporting...",
+    "[22:00] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[22:00] <GaBaus> !kit a ",
+    "[22:00] [8b8t] >> You have killed yourself!"
   ],
   "userStats": {
     "76756": 38,
@@ -212,7 +212,7 @@
     "likkalikkapoo": 5,
     "AtomicMaterials": 3,
     "maskurot": 7,
-    "GaBaus": 31,
+    "GaBaus": 32,
     "ayv3ee": 10,
     "Xoelsouto": 2,
     "3DProphet": 1,
@@ -2221,7 +2221,7 @@
     "TriKaDZ": 1,
     "jsjsjsjsjsjs": 66,
     "ItzRealGaby": 2,
-    "elmartin50": 16,
+    "elmartin50": 17,
     "xbsdg": 2,
     "PR2CEE": 8,
     "Brunosayi": 1,
@@ -2732,11 +2732,11 @@
   },
   "kitStats": {
     "build": 1388,
-    "survival": 5433,
+    "survival": 5434,
     "pvp": 6965,
     "dupe": 1602,
     "tools": 1646,
-    "stash": 831,
+    "stash": 832,
     "raid": 1102,
     "wood": 459,
     "exp": 618,
