@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:40:24 5/1/2026",
-  "totalKits": 82769,
-  "todayKits": 48,
-  "onlineCount": 43,
+  "lastUpdated": "09:40:35 5/1/2026",
+  "totalKits": 82770,
+  "todayKits": 49,
+  "onlineCount": 42,
   "peakPlayers": 77,
   "tps": "6.0",
   "ping": 270,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6858
+      "count": 6859
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:37] [Youtuber] <Malbacoo> thats for BdubH2015 ",
-    "[02:37] <BdubH2015> thanks ",
-    "[02:37] <Hanae0> TyroneG yo te doy 1 ",
-    "[02:37] [Youtuber] <Malbacoo> im recording again veterexexploit ",
-    "[02:38] <.yuu18m> !kit survival ",
-    "[02:38] [8b8t] >> Teleporting to home 0...",
-    "[02:38] [8b8t] >> Teleporting to home 1...",
     "[02:38] To .yuu18m: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:38] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:38] [8b8t] >> Request sent to .yuu18m",
@@ -101,7 +94,14 @@
     "[02:39] <Hanae0> se ",
     "[02:40] <TyroneG> gracias ",
     "[02:40] <Hanae0> dupealo con el marco ",
-    "[02:40] [BOT] <0_HienBot> Hi davidpro077! "
+    "[02:40] [BOT] <0_HienBot> Hi davidpro077! ",
+    "[02:40] <veterexexploit> !kit pvp ",
+    "[02:40] [8b8t] >> Teleporting to home 0...",
+    "[02:40] [8b8t] >> Teleporting to home 1...",
+    "[02:40] veterexexploit is ignoring you",
+    "[02:40] veterexexploit is ignoring you",
+    "[02:40] [8b8t] >> Request sent to veterexexploit",
+    "[02:40] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2666,12 +2666,13 @@
     "ander548478": 1,
     "sexbas": 2,
     "sofi_linduri": 1,
-    "Vnxsitoow": 1
+    "Vnxsitoow": 1,
+    "veterexexploit": 1
   },
   "kitStats": {
     "build": 1367,
     "survival": 5350,
-    "pvp": 6858,
+    "pvp": 6859,
     "dupe": 1542,
     "tools": 1625,
     "stash": 811,
