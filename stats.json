@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:23:46 5/1/2026",
+  "lastUpdated": "19:24:16 5/1/2026",
   "totalKits": 82933,
   "todayKits": 16,
-  "onlineCount": 34,
+  "onlineCount": 37,
   "peakPlayers": 37,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 264,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6907
+      "count": 6908
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:21] <Kyngz123> !kit stash ",
-    "[12:21] To Kyngz123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:21] [8b8t] >> You have killed yourself!",
-    "[12:21] [8b8t] >> No TPA request found",
-    "[12:21] <Kitty_archer> fine ill let you tp to me sense i have no choice ",
     "[12:21] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[12:21] rerg_rerg3 has made the advancement [Getting an Upgrade]",
     "[12:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +96,12 @@
     "[12:23] [8b8t] >> Request sent to jven830",
     "[12:23] [8b8t] >> Teleporting...",
     "[12:23] [8b8t] >> You have killed yourself!",
-    "[12:23] [8b8t] >> Home 2 was not found"
+    "[12:23] [8b8t] >> Home 2 was not found",
+    "[12:23] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[12:24] <WinterWater> !kit pvp ",
+    "[12:24] [8b8t] >> Teleporting to home 0...",
+    "[12:24] [8b8t] >> Teleporting to home 1...",
+    "[12:24] To WinterWater: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2100,7 +2100,7 @@
     ".DorsalLand9978": 33,
     "ItzMeDexsi66": 1,
     "Dg_Doom": 3,
-    "WinterWater": 70,
+    "WinterWater": 71,
     "killer_": 1,
     "boam": 4,
     "Night_883": 95,
@@ -2696,7 +2696,7 @@
   "kitStats": {
     "build": 1379,
     "survival": 5377,
-    "pvp": 6907,
+    "pvp": 6908,
     "dupe": 1573,
     "tools": 1634,
     "stash": 816,
