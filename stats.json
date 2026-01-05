@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:01:50 6/1/2026",
+  "lastUpdated": "03:02:17 6/1/2026",
   "totalKits": 83063,
   "todayKits": 15,
   "onlineCount": 58,
   "peakPlayers": 62,
-  "tps": "12.0",
+  "tps": "11.0",
   "ping": 250,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5417
+      "count": 5418
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:00] VolksWagenJetta_ has made the advancement [The Parrots and the Bats]",
-    "[20:00] <WORDIPOP> xd ",
-    "[20:00] <.FanDeJesus5641> ven we te mueres ",
-    "[20:00] ASXN has made the advancement [Isn't It Iron Pick]",
-    "[20:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[20:00] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[20:00] <davidpro077> !kit mazo ",
-    "[20:00] [8b8t] >> Teleporting to home 0...",
-    "[20:00] [8b8t] >> Teleporting to home 8...",
-    "[20:00] To davidpro077: Kit \"mazo\" not found! Giving you (tools) instead! dsc.gg/hienbot",
     "[20:00] <Cristiann_8> wenass ",
     "[20:00] To davidpro077: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:00] [8b8t] >> Request sent to davidpro077",
@@ -101,7 +91,17 @@
     "[20:01] <santi_ripxd> ese tiene enderchests ",
     "[20:01] [8b8t] >> Request sent to elmartin50",
     "[20:01] [BOT] <0_HienBot> Try !кιт survival ",
-    "[20:01] [8b8t] >> Teleporting..."
+    "[20:01] [8b8t] >> Teleporting...",
+    "[20:01] [8b8t] >> You have killed yourself!",
+    "[20:01] [8b8t] >> Home 2 was not found",
+    "[20:01] <Exoshi> !kit survival ",
+    "[20:02] [8b8t] >> Teleporting to home 0...",
+    "[20:02] [8b8t] >> Teleporting to home 1...",
+    "[20:02] To Exoshi: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:02] To Exoshi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:02] [8b8t] >> Request sent to Exoshi",
+    "[20:02] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:02] [BOT] <0_HienBot> Hey obitokkkk! "
   ],
   "userStats": {
     "76756": 38,
@@ -2716,11 +2716,12 @@
     "nagebator": 1,
     "IronCarlos396": 1,
     "ElsapotopoMC": 1,
-    "ivan56": 3
+    "ivan56": 3,
+    "Exoshi": 1
   },
   "kitStats": {
     "build": 1387,
-    "survival": 5417,
+    "survival": 5418,
     "pvp": 6954,
     "dupe": 1591,
     "tools": 1641,
