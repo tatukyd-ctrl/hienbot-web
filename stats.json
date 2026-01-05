@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:20:54 6/1/2026",
+  "lastUpdated": "03:21:17 6/1/2026",
   "totalKits": 83071,
   "todayKits": 23,
   "onlineCount": 70,
   "peakPlayers": 73,
-  "tps": "5.0",
+  "tps": "10.0",
   "ping": 270,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6956
+      "count": 6957
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:19] <Mobiiik> koukni na stream ",
-    "[20:19] <Mobiiik> koukni na streaamm ",
-    "[20:19] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[20:19] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[20:19] <sizs> !kit ",
-    "[20:19] To sizs: Hello sizs!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:19] <zeer> work ",
-    "[20:20] <zeer> *work ",
     "[20:20] <Mobiiik> jj ",
     "[20:20] <Mobiiik> ale wait ještě ",
     "[20:20] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +93,15 @@
     "[20:20] <ASXN> !kit ",
     "[20:20] To ASXN: Hello ASXN!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[20:20] <Mobiiik> auto click ",
-    "[20:20] [8b8t] >> Teleporting..."
+    "[20:20] [8b8t] >> Teleporting...",
+    "[20:20] <ALEITO001> TR ",
+    "[20:21] <ASXN> !kit PVP ",
+    "[20:21] [8b8t] >> Teleporting to home 0...",
+    "[20:21] [8b8t] >> Teleporting to home 1...",
+    "[20:21] To ASXN: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:21] To ASXN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:21] [8b8t] >> Request sent to ASXN",
+    "[20:21] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ "
   ],
   "userStats": {
     "76756": 38,
@@ -2717,12 +2717,13 @@
     "IronCarlos396": 1,
     "ElsapotopoMC": 1,
     "ivan56": 3,
-    "Exoshi": 1
+    "Exoshi": 1,
+    "ASXN": 1
   },
   "kitStats": {
     "build": 1387,
     "survival": 5420,
-    "pvp": 6956,
+    "pvp": 6957,
     "dupe": 1592,
     "tools": 1641,
     "stash": 827,
