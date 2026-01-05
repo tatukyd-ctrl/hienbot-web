@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:55:22 5/1/2026",
+  "lastUpdated": "16:55:40 5/1/2026",
   "totalKits": 82877,
   "todayKits": 3,
   "onlineCount": 26,
   "peakPlayers": 27,
-  "tps": "5.0",
-  "ping": 257,
+  "tps": "3.0",
+  "ping": 316,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6895
+      "count": 6896
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:54] Your connection to 8b8t encountered a problem.",
-    "[09:54] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:54] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:54] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:54] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
     "[09:54] <Hien2309> !kit pvp ",
     "[09:54] [8b8t] >> Teleporting to home 0...",
     "[09:54] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +96,12 @@
     "[09:55] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
     "[09:55] [8b8t] >> Teleporting...",
     "[09:55] <amur6556> !kit op ",
-    "[09:55] To amur6556: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[09:55] To amur6556: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:55] <Hien2309> !kit pvp ",
+    "[09:55] [8b8t] >> Teleporting to home 0...",
+    "[09:55] [8b8t] >> Teleporting to home 1...",
+    "[09:55] To Hien2309: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:55] To Hien2309: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -120,7 +120,7 @@
     "cuenta1213213": 3,
     "paidpopbob": 3,
     ".MISPOK9194": 24,
-    "Hien2309": 106,
+    "Hien2309": 107,
     "m9anx": 102,
     "xsNerox": 2,
     "RiseCPvP": 60,
@@ -2689,7 +2689,7 @@
   "kitStats": {
     "build": 1371,
     "survival": 5372,
-    "pvp": 6895,
+    "pvp": 6896,
     "dupe": 1564,
     "tools": 1630,
     "stash": 813,
