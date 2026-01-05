@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:01:10 5/1/2026",
+  "lastUpdated": "18:01:40 5/1/2026",
   "totalKits": 82910,
   "todayKits": 36,
-  "onlineCount": 34,
+  "onlineCount": 36,
   "peakPlayers": 36,
-  "tps": "6.0",
-  "ping": 255,
+  "tps": "5.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6903
+      "count": 6904
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:59] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[10:59] <stuck_alt> !kit pvp ",
-    "[10:59] [8b8t] >> Teleporting to home 0...",
-    "[10:59] [8b8t] >> Teleporting to home 1...",
-    "[10:59] To stuck_alt: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:59] GorosX has made the advancement [Diamonds!]",
-    "[10:59] To stuck_alt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:59] [8b8t] >> Request sent to stuck_alt",
     "[10:59] <jven830> !kit survival ",
     "[10:59] To jven830: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:59] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[11:00] [BOT] <0_HienBot> Use /kill to kill yourself! ",
     "[11:00] <stuck_alt> !kit pvp ",
     "[11:00] To stuck_alt: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:00] <peakar> alright i think "
+    "[11:00] <peakar> alright i think ",
+    "[11:01] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[11:01] <stuck_alt> !kit pvp ",
+    "[11:01] [8b8t] >> Teleporting to home 0...",
+    "[11:01] [8b8t] >> Teleporting to home 1...",
+    "[11:01] To stuck_alt: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:01] To stuck_alt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:01] [8b8t] >> Request sent to stuck_alt",
+    "[11:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2574,7 +2574,7 @@
     "6foot": 1,
     "seashell8950": 4,
     "SENIOREMONEY": 1,
-    "stuck_alt": 18,
+    "stuck_alt": 19,
     "efraddada": 2,
     "hmadyuh": 41,
     ".XBLAZEFOOTX": 3,
@@ -2692,7 +2692,7 @@
   "kitStats": {
     "build": 1379,
     "survival": 5374,
-    "pvp": 6903,
+    "pvp": 6904,
     "dupe": 1569,
     "tools": 1632,
     "stash": 813,
