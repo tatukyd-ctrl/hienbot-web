@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:06:29 5/1/2026",
+  "lastUpdated": "23:06:59 5/1/2026",
   "totalKits": 83019,
   "todayKits": 43,
-  "onlineCount": 54,
+  "onlineCount": 52,
   "peakPlayers": 57,
-  "tps": "1.0",
+  "tps": "6.0",
   "ping": 289,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5403
+      "count": 5404
     },
     {
       "name": "tools",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:05] [8b8t] >> Teleporting to home 4...",
-    "[16:05] To PaoloIsHere09: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:05] To PaoloIsHere09: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:05] [8b8t] >> Request sent to PaoloIsHere09",
-    "[16:05] [8b8t] >> Teleporting...",
-    "[16:05] [8b8t] >> You have killed yourself!",
-    "[16:05] [8b8t] >> Home 2 was not found",
-    "[16:05] [BOT] <0_HienBot> Hello CreepyPond87! ",
-    "[16:05] <Broismad> !kit End ",
-    "[16:05] [8b8t] >> Teleporting to home 0...",
-    "[16:05] [8b8t] >> Teleporting to home 6...",
-    "[16:05] To Broismad: Your kit (End) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:05] To Broismad: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:05] [8b8t] >> Request sent to Broismad",
     "[16:05] <PaoloIsHere09> !kit wood ",
     "[16:05] To PaoloIsHere09: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:06] [8b8t] >> Teleporting...",
@@ -101,7 +87,21 @@
     "[16:06] [8b8t] >> Request sent to TokeNdJoke420",
     "[16:06] <TokeNdJoke420> !kit PVP ",
     "[16:06] To TokeNdJoke420: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:06] <vbro> !kit "
+    "[16:06] <vbro> !kit ",
+    "[16:06] To vbro: Hello vbro!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[16:06] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[16:06] [8b8t] >> The TPA request you sent to TokeNdJoke420 has expired.",
+    "[16:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[16:06] [8b8t] >> You have killed yourself!",
+    "[16:06] [8b8t] >> No TPA request found",
+    "[16:06] <tonito> !kit survival ",
+    "[16:06] [8b8t] >> Teleporting to home 0...",
+    "[16:06] [8b8t] >> Teleporting to home 1...",
+    "[16:06] To tonito: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:06] <TokeNdJoke420> !kit PVP ",
+    "[16:06] To TokeNdJoke420: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:06] To tonito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:06] [8b8t] >> Request sent to tonito"
   ],
   "userStats": {
     "76756": 38,
@@ -432,7 +432,7 @@
     "16tobi1": 40,
     "GoldTade": 133,
     "Vrata2men": 64,
-    "tonito": 33,
+    "tonito": 34,
     "LaGiulii": 1,
     "loco123Az": 5,
     "cocinero": 18,
@@ -2711,7 +2711,7 @@
   },
   "kitStats": {
     "build": 1381,
-    "survival": 5403,
+    "survival": 5404,
     "pvp": 6929,
     "dupe": 1587,
     "tools": 1639,
