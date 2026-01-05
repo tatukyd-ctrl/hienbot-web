@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:03:54 5/1/2026",
+  "lastUpdated": "15:04:24 5/1/2026",
   "totalKits": 82857,
   "todayKits": 136,
   "onlineCount": 29,
   "peakPlayers": 77,
   "tps": "2.0",
-  "ping": 251,
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:01] To nguyenthai1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:01] [8b8t] >> Request sent to nguyenthai1",
-    "[08:01] <areamx> 32k? ",
-    "[08:01] <w0rldbod3r> nhu cut ",
-    "[08:01] <dacvudog1802> bruh ",
-    "[08:01] [8b8t] >> Teleporting...",
     "[08:01] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[08:01] [8b8t] >> You have killed yourself!",
     "[08:01] [8b8t] >> Home 2 was not found",
@@ -101,7 +95,13 @@
     "[08:02] NotK5 has made the advancement [We Need to Go Deeper]",
     "[08:02] [BOT] <0_HienBot> Type !кιт  to get free kits ",
     "[08:03] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[08:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[08:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[08:03] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[08:04] NotK5 has completed the challenge [Subspace Bubble]",
+    "[08:04] <NotK5> !kit 32k ",
+    "[08:04] [8b8t] >> Teleporting to home 0...",
+    "[08:04] [8b8t] >> Teleporting to home 4...",
+    "[08:04] To NotK5: Kit \"32k\" not found! Giving you (wool) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2677,7 +2677,8 @@
     "Enzytroiz_Mc": 1,
     "Tyxks": 2,
     "limij2": 1,
-    "areamx": 8
+    "areamx": 8,
+    "NotK5": 1
   },
   "kitStats": {
     "build": 1367,
@@ -2690,7 +2691,7 @@
     "wood": 447,
     "exp": 607,
     "dye": 260,
-    "wool": 335,
+    "wool": 336,
     "mineral": 496,
     "food": 382,
     "redstone": 681,
