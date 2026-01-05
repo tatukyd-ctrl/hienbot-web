@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:34:16 5/1/2026",
+  "lastUpdated": "18:34:46 5/1/2026",
   "totalKits": 82918,
   "todayKits": 1,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 36,
-  "tps": "4.0",
-  "ping": 274,
+  "tps": "3.0",
+  "ping": 306,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6906
+      "count": 6907
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:29] [8b8t] >> Teleporting to home 8...",
-    "[11:29] To ARNOSHEEP: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:29] <jven830> talking bout illgal ",
     "[11:29] To ARNOSHEEP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:29] [8b8t] >> Request sent to ARNOSHEEP",
     "[11:29] [8b8t] >> .Voltaik5437 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
@@ -101,7 +98,10 @@
     "[11:33] <Hien2309> tra lai ",
     "[11:33] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[11:33] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[11:33] [BOT] <0_HienBot> Use /kill to kill yourself! "
+    "[11:33] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[11:34] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[11:34] <MinephaMC_YT_ALT> !kit pvp ",
+    "[11:34] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1562,7 +1562,7 @@
     "0_HienBot": 1,
     "mikanMC": 20,
     "TrayNeh": 8,
-    "MinephaMC_YT_ALT": 19,
+    "MinephaMC_YT_ALT": 20,
     "pannss": 8,
     "Manitololo": 1,
     "versaexe": 3,
@@ -2693,7 +2693,7 @@
   "kitStats": {
     "build": 1379,
     "survival": 5375,
-    "pvp": 6906,
+    "pvp": 6907,
     "dupe": 1571,
     "tools": 1632,
     "stash": 814,
