@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:52:29 5/1/2026",
+  "lastUpdated": "23:52:59 5/1/2026",
   "totalKits": 83035,
   "todayKits": 59,
-  "onlineCount": 59,
+  "onlineCount": 57,
   "peakPlayers": 65,
-  "tps": "7.0",
-  "ping": 2603,
+  "tps": "4.0",
+  "ping": 2657,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:51] [8b8t] >> Teleporting...",
-    "[16:51] <ESLENDERGAMERXDX> !kit builder ",
-    "[16:51] [8b8t] >> You have killed yourself!",
-    "[16:51] <Gaelo30> alguien me saca de spawn ",
     "[16:51] To ESLENDERGAMERXDX: Kit \"builder\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
     "[16:51] [8b8t] >> Teleporting to home 0...",
     "[16:51] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +97,11 @@
     "[16:52] To YourWorstN8tmr: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:52] [8b8t] >> Request sent to YourWorstN8tmr",
     "[16:52] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
-    "[16:52] [8b8t] >> Teleporting..."
+    "[16:52] [8b8t] >> Teleporting...",
+    "[16:52] <ESLENDERGAMERXDX> !kit ",
+    "[16:52] To ESLENDERGAMERXDX: Hello ESLENDERGAMERXDX!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[16:52] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
+    "[16:52] <zorakito> !kit mace "
   ],
   "userStats": {
     "76756": 38,
@@ -2710,7 +2710,8 @@
     "TokeNdJoke420": 5,
     "vbro": 1,
     "minutetech": 4,
-    "juhju": 1
+    "juhju": 1,
+    "zorakito": 1
   },
   "kitStats": {
     "build": 1382,
@@ -2739,7 +2740,7 @@
     "glass": 248,
     "gap": 67,
     "constructor": "function Object() { [native code] }111111111",
-    "flower": 55,
+    "flower": 56,
     "music": 153,
     "c": 3,
     "christmas": 139,
