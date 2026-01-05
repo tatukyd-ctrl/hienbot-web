@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:32:54 5/1/2026",
+  "lastUpdated": "08:33:24 5/1/2026",
   "totalKits": 82740,
   "todayKits": 19,
-  "onlineCount": 41,
+  "onlineCount": 44,
   "peakPlayers": 77,
-  "tps": "5.0",
-  "ping": 277,
+  "tps": "2.0",
+  "ping": 270,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6852
+      "count": 6853
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:30] [8b8t] >> Home 2 was not found",
-    "[01:30] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[01:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:30] <THE_QALEN> !kit dupe ",
-    "[01:30] To THE_QALEN: You're on cooldown, try again in 47 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:30] <jaev> andaba buscando un huevo del dragon ",
-    "[01:31] <reymeteoro19> para spawnearlo o el otro ",
-    "[01:31] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[01:31] <Herobrai2990> Ok ",
-    "[01:31] <jaev> el otro ",
     "[01:31] <Geassz> !kit pvp ",
     "[01:31] [8b8t] >> Teleporting to home 0...",
     "[01:31] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +91,17 @@
     "[01:32] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
     "[01:32] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
     "[01:32] Geassz has reached the goal [Sky's the Limit]",
-    "[01:32] Pandolino has completed the challenge [Subspace Bubble]"
+    "[01:32] Pandolino has completed the challenge [Subspace Bubble]",
+    "[01:33] <sesbas> !kit pvp ",
+    "[01:33] [8b8t] >> Teleporting to home 0...",
+    "[01:33] [8b8t] >> Teleporting to home 1...",
+    "[01:33] To sesbas: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:33] Geassz has completed the challenge [Cover Me in Debris]",
+    "[01:33] To sesbas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:33] [8b8t] >> Request sent to sesbas",
+    "[01:33] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
+    "[01:33] <davidpro077> +kit glass ",
+    "[01:33] To davidpro077: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2661,12 +2661,13 @@
     "tutrolita": 1,
     "porquisalvaje": 1,
     "Geassz": 4,
-    "Joel502": 1
+    "Joel502": 1,
+    "sesbas": 1
   },
   "kitStats": {
     "build": 1362,
     "survival": 5346,
-    "pvp": 6852,
+    "pvp": 6853,
     "dupe": 1540,
     "tools": 1624,
     "stash": 810,
