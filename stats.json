@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:06:04 5/1/2026",
+  "lastUpdated": "23:06:29 5/1/2026",
   "totalKits": 83019,
   "todayKits": 43,
-  "onlineCount": 53,
+  "onlineCount": 54,
   "peakPlayers": 57,
-  "tps": "4.0",
-  "ping": 339,
+  "tps": "1.0",
+  "ping": 289,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6928
+      "count": 6929
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:04] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[16:04] [Ultra] <myKonig> yes? ",
-    "[16:04] [Ultra] <grindbeast124> start grinding ",
-    "[16:04] <m2xsie> can you give me some auto kit ",
-    "[16:05] <tonito> alguien que me saque del spawn ",
-    "[16:05] <Herobrai2990> NOOOO ",
-    "[16:05] [BOT] <0_HienBot> Hi PaoloIsHere09! ",
-    "[16:05] EvilGamerz3877 has made the advancement [We Need to Go Deeper]",
-    "[16:05] <tonito> plz ",
-    "[16:05] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[16:05] <PaoloIsHere09> !kit wood ",
-    "[16:05] [8b8t] >> Teleporting to home 0...",
     "[16:05] [8b8t] >> Teleporting to home 4...",
     "[16:05] To PaoloIsHere09: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[16:05] To PaoloIsHere09: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +89,19 @@
     "[16:05] <PaoloIsHere09> !kit wood ",
     "[16:05] To PaoloIsHere09: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:06] [8b8t] >> Teleporting...",
-    "[16:06] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
+    "[16:06] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[16:06] [8b8t] >> You have killed yourself!",
+    "[16:06] [8b8t] >> Home 2 was not found",
+    "[16:06] <m2xsie> türk varmı ",
+    "[16:06] <TokeNdJoke420> !kit PVP ",
+    "[16:06] [8b8t] >> Teleporting to home 0...",
+    "[16:06] [8b8t] >> Teleporting to home 1...",
+    "[16:06] To TokeNdJoke420: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:06] To TokeNdJoke420: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:06] [8b8t] >> Request sent to TokeNdJoke420",
+    "[16:06] <TokeNdJoke420> !kit PVP ",
+    "[16:06] To TokeNdJoke420: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:06] <vbro> !kit "
   ],
   "userStats": {
     "76756": 38,
@@ -2707,12 +2707,12 @@
     "Ozi1230YT": 1,
     "Broismad": 4,
     "LiboGarcia": 1,
-    "TokeNdJoke420": 3
+    "TokeNdJoke420": 4
   },
   "kitStats": {
     "build": 1381,
     "survival": 5403,
-    "pvp": 6928,
+    "pvp": 6929,
     "dupe": 1587,
     "tools": 1639,
     "stash": 824,
