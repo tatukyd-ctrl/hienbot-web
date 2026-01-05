@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:52:59 5/1/2026",
-  "totalKits": 82981,
-  "todayKits": 5,
-  "onlineCount": 41,
+  "lastUpdated": "21:53:12 5/1/2026",
+  "totalKits": 82982,
+  "todayKits": 6,
+  "onlineCount": 40,
   "peakPlayers": 46,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 242,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6916
+      "count": 6917
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:48] [8b8t] >> The TPA request you sent to RainbowGlassCat was successfully canceled.",
-    "[14:49] [BOT] <0_HienBot> penis ",
-    "[14:49] [BOT] <0_HienBot> Try !кιт survival ",
-    "[14:49] <RainbowGlassCat> !kit survival ",
-    "[14:49] To RainbowGlassCat: You're on cooldown, try again in 80 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:49] [8b8t] >> Request sent to dragonkit",
-    "[14:49] [8b8t] >> Teleporting...",
-    "[14:49] [BOT] <0_HienBot> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA ",
-    "[14:49] [BOT] <0_HienBot> Hey Robert123123! ",
-    "[14:49] <Zyrqun> !kit ",
     "[14:49] To Zyrqun: Hello Zyrqun!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[14:49] <UnBot> PVP kit is now available type +kit pvp ",
     "[14:50] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
@@ -101,7 +91,17 @@
     "[14:52] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
     "[14:52] <UnBot> Type +kit escape to escape the spawn ",
     "[14:52] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
-    "[14:52] RainbowGlassCat has completed the challenge [Cover Me in Debris]"
+    "[14:52] RainbowGlassCat has completed the challenge [Cover Me in Debris]",
+    "[14:53] [SE] <dragonkit> !kit pvp ",
+    "[14:53] [8b8t] >> Teleporting to home 0...",
+    "[14:53] [8b8t] >> Teleporting to home 1...",
+    "[14:53] To dragonkit: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:53] To dragonkit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:53] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[14:53] <Robert123123> quien habla español ",
+    "[14:53] [8b8t] >> Request sent to dragonkit",
+    "[14:53] [8b8t] >> Teleporting...",
+    "[14:53] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -296,7 +296,7 @@
     "elproplayerxddd": 48,
     "brunoxdxdurhj": 2,
     "Gorka772": 2,
-    "dragonkit": 27,
+    "dragonkit": 28,
     "JUSTLIKED": 20,
     "DaFuqBoomTaken": 1,
     "Xoladliac": 93,
@@ -2704,7 +2704,7 @@
   "kitStats": {
     "build": 1381,
     "survival": 5396,
-    "pvp": 6916,
+    "pvp": 6917,
     "dupe": 1577,
     "tools": 1636,
     "stash": 820,
