@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:06:10 5/1/2026",
+  "lastUpdated": "18:06:40 5/1/2026",
   "totalKits": 82912,
   "todayKits": 38,
   "onlineCount": 33,
   "peakPlayers": 36,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 247,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6905
+      "count": 6906
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:03] [8b8t] >> Please do not spam.",
-    "[11:03] amur6556 has made the advancement [Sweet dreams]",
-    "[11:04] <anonymousvibes> GOOD BOYYY ",
-    "[11:04] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[11:04] Murad2002 has made the advancement [A Throwaway Joke]",
-    "[11:04] <jven830> whos sleeping ",
-    "[11:04] GorosX has made the advancement [Sweet dreams]",
-    "[11:04] <anonymousvibes> not me cuh ",
-    "[11:04] organizator_orgy has made the advancement [Sweet dreams]",
-    "[11:04] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[11:04] <amur6556> на кровать ляж и напиши /sethome ",
     "[11:04] Antoliu has made the advancement [Stone Age]",
     "[11:05] Kyngz123 has made the advancement [Diamonds!]",
@@ -101,7 +91,17 @@
     "[11:05] [8b8t] >> Request sent to stuck_alt",
     "[11:05] [8b8t] >> Teleporting...",
     "[11:06] [8b8t] >> You have killed yourself!",
-    "[11:06] [8b8t] >> Home 2 was not found"
+    "[11:06] [8b8t] >> Home 2 was not found",
+    "[11:06] <Antoliu> !kit pvp ",
+    "[11:06] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[11:06] [8b8t] >> Teleporting to home 0...",
+    "[11:06] [8b8t] >> Teleporting to home 1...",
+    "[11:06] To Antoliu: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:06] To Antoliu: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:06] [8b8t] >> Request sent to Antoliu",
+    "[11:06] <ARNOSHEEP> !kit build ",
+    "[11:06] To ARNOSHEEP: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -2687,12 +2687,13 @@
     "kavunadam": 2,
     "TheTop200914": 1,
     "anonymousvibes": 1,
-    "anticheatbust": 1
+    "anticheatbust": 1,
+    "Antoliu": 1
   },
   "kitStats": {
     "build": 1379,
     "survival": 5374,
-    "pvp": 6905,
+    "pvp": 6906,
     "dupe": 1569,
     "tools": 1632,
     "stash": 813,
