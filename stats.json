@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:40:26 5/1/2026",
+  "lastUpdated": "20:40:46 5/1/2026",
   "totalKits": 82968,
   "todayKits": 51,
   "onlineCount": 37,
   "peakPlayers": 41,
-  "tps": "6.0",
+  "tps": "4.0",
   "ping": 258,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5390
+      "count": 5391
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:37] <deantheneek> lol ",
-    "[13:37] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[13:37] <deantheneek> ok ill travel more now gl building ",
-    "[13:37] 01645 has made the advancement [We Need to Go Deeper]",
-    "[13:37] thexjaj1 has made the advancement [We Need to Go Deeper]",
-    "[13:37] <thexjaj1> NOO ",
-    "[13:37] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[13:38] <nfkiki> can you give bedroc i give you illegal sword ",
     "[13:38] <Nanagood_2012> me das totems? ",
     "[13:38] <Foro1> who wants free bedrock tpa me ",
     "[13:38] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +93,15 @@
     "[13:40] <thexjaj1> !kit ",
     "[13:40] To thexjaj1: Hello thexjaj1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[13:40] [BOT] <0_HienBot> What's up, angelohavard0? ",
-    "[13:40] [8b8t] >> Teleporting..."
+    "[13:40] [8b8t] >> Teleporting...",
+    "[13:40] [8b8t] >> You have killed yourself!",
+    "[13:40] [8b8t] >> Home 2 was not found",
+    "[13:40] <thexjaj1> !kit Survival ",
+    "[13:40] [8b8t] >> Teleporting to home 0...",
+    "[13:40] [8b8t] >> Teleporting to home 1...",
+    "[13:40] To thexjaj1: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:40] To thexjaj1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:40] [8b8t] >> Request sent to thexjaj1"
   ],
   "userStats": {
     "76756": 38,
@@ -2695,11 +2695,12 @@
     "mimimi222": 3,
     ".zombieboss30000": 1,
     "kianan": 2,
-    "k4fb": 1
+    "k4fb": 1,
+    "thexjaj1": 1
   },
   "kitStats": {
     "build": 1380,
-    "survival": 5390,
+    "survival": 5391,
     "pvp": 6911,
     "dupe": 1577,
     "tools": 1634,
