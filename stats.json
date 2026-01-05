@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:55:10 5/1/2026",
-  "totalKits": 82876,
-  "todayKits": 2,
+  "lastUpdated": "16:55:22 5/1/2026",
+  "totalKits": 82877,
+  "todayKits": 3,
   "onlineCount": 26,
   "peakPlayers": 27,
   "tps": "5.0",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6894
+      "count": 6895
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:53] You are already connected to this server!",
-    "[09:53] <ARNOSHEEP> !kit build ",
-    "[09:53] [8b8t] >> Teleporting to home 0...",
-    "[09:53] [8b8t] >> Teleporting to home 3...",
-    "[09:53] To ARNOSHEEP: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:53] To ARNOSHEEP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:54] [8b8t] >> Request sent to ARNOSHEEP",
-    "[09:54] [8b8t] >> Teleporting...",
-    "[09:54] [8b8t] >> You have killed yourself!",
-    "[09:54] [8b8t] >> Home 2 was not found",
-    "[09:54] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[09:54] Your connection to 8b8t encountered a problem.",
-    "[09:54] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:54] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:54] Your connection to 8b8t encountered a problem.",
     "[09:54] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[09:54] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -101,7 +87,21 @@
     "[09:54] [8b8t] >> Request sent to Hien2309",
     "[09:55] [8b8t] >> Teleporting...",
     "[09:55] [8b8t] >> You have killed yourself!",
-    "[09:55] [8b8t] >> Home 2 was not found"
+    "[09:55] [8b8t] >> Home 2 was not found",
+    "[09:55] <peakar> !kit pvp ",
+    "[09:55] [8b8t] >> Teleporting to home 0...",
+    "[09:55] [8b8t] >> Teleporting to home 1...",
+    "[09:55] To peakar: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:55] <.DreamRegele> !kit pvp ",
+    "[09:55] To .DreamRegele: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:55] <amur6556> !kit free ",
+    "[09:55] To amur6556: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:55] To peakar: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:55] [8b8t] >> Request sent to peakar",
+    "[09:55] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[09:55] [8b8t] >> Teleporting...",
+    "[09:55] <amur6556> !kit op ",
+    "[09:55] To amur6556: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1659,7 +1659,7 @@
     "nfkiki": 10,
     "ruazinnn989423": 24,
     "doxedap": 1,
-    "peakar": 94,
+    "peakar": 95,
     "6xyz_": 1,
     "frima42": 14,
     "trazzatuls": 19,
@@ -2689,7 +2689,7 @@
   "kitStats": {
     "build": 1371,
     "survival": 5372,
-    "pvp": 6894,
+    "pvp": 6895,
     "dupe": 1564,
     "tools": 1630,
     "stash": 813,
