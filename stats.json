@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:07:24 5/1/2026",
-  "totalKits": 82755,
-  "todayKits": 34,
+  "lastUpdated": "09:07:54 5/1/2026",
+  "totalKits": 82756,
+  "todayKits": 35,
   "onlineCount": 40,
   "peakPlayers": 77,
-  "tps": "3.0",
-  "ping": 275,
+  "tps": "2.0",
+  "ping": 274,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:05] [Youtuber] <Malbacoo> gng its not i swear ",
-    "[02:05] [8b8t] >> You have killed yourself!",
-    "[02:05] [8b8t] >> Home 2 was not found",
-    "[02:05] <Eden_01655> o ya ya es un mapart ",
-    "[02:05] [8b8t] >> Malbacoo created a new hotspot, use /hotspot to teleport to it",
-    "[02:05] <sesbas> !kit mineral ",
-    "[02:05] [8b8t] >> Teleporting to home 0...",
-    "[02:05] [8b8t] >> Teleporting to home 4...",
-    "[02:05] To sesbas: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:05] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
     "[02:05] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[02:05] To sesbas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:05] [8b8t] >> Request sent to sesbas",
@@ -101,7 +91,17 @@
     "[02:06] [8b8t] >> GaBausBot voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
     "[02:06] [Youtuber] <Malbacoo> TP TO HOTSPOT WHOEVER WINS THE CHALLENGE GETS A BASE ",
     "[02:07] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[02:07] [Basic] <.VadoseMist36087> $kot shulkers "
+    "[02:07] [Basic] <.VadoseMist36087> $kot shulkers ",
+    "[02:07] <sesbas> !kit minerales ",
+    "[02:07] To sesbas: You're on cooldown, try again in 6 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:07] <sesbas> !kit minerales ",
+    "[02:07] [8b8t] >> Teleporting to home 0...",
+    "[02:07] [8b8t] >> Teleporting to home 4...",
+    "[02:07] To sesbas: Kit \"minerales\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
+    "[02:07] To sesbas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:07] [8b8t] >> Request sent to sesbas",
+    "[02:07] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[02:07] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2662,7 +2662,7 @@
     "porquisalvaje": 1,
     "Geassz": 4,
     "Joel502": 1,
-    "sesbas": 2,
+    "sesbas": 3,
     "ander548478": 1
   },
   "kitStats": {
@@ -2688,7 +2688,7 @@
     "armortrims": 345,
     "highway": 447,
     "ocean": 104,
-    "concrete": 299,
+    "concrete": 300,
     "glass": 239,
     "gap": 66,
     "constructor": "function Object() { [native code] }111111111",
