@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:34:17 6/1/2026",
+  "lastUpdated": "05:34:47 6/1/2026",
   "totalKits": 83142,
   "todayKits": 94,
   "onlineCount": 65,
   "peakPlayers": 76,
-  "tps": "10.0",
+  "tps": "9.0",
   "ping": 348,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6970
+      "count": 6971
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:32] [8b8t] >> Teleporting to home 1...",
-    "[22:32] To Itx_RyxnYT: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:32] To Itx_RyxnYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:32] [8b8t] >> Request sent to Itx_RyxnYT",
-    "[22:32] <prolol1234X2> 2168 69 8171 ",
-    "[22:32] [Ultra] <// veelta //> madre mia sois retrasados ",
-    "[22:32] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
-    "[22:32] [8b8t] >> You have killed yourself!",
-    "[22:32] [8b8t] >> The TPA request you sent to Itx_RyxnYT was successfully canceled.",
-    "[22:32] <HahaGirlYs> can any1 tpa me ",
-    "[22:33] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[22:33] <.FanDeJesus5641> alguien tiene barriers que me de o ",
     "[22:33] <Itx_RyxnYT> BRO I DIDNT GET KIT ONLY HESD ",
     "[22:33] <.FanDeJesus5641> pls ",
@@ -101,7 +90,18 @@
     "[22:34] <.Pichuckrak> plzzz peace ",
     "[22:34] <edw106> ok wait ",
     "[22:34] <Somebodyyy> !kit ",
-    "[22:34] To Somebodyyy: Hello Somebodyyy!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[22:34] To Somebodyyy: Hello Somebodyyy!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:34] <Somebodyyy> !kit pvp ",
+    "[22:34] [8b8t] >> Teleporting to home 0...",
+    "[22:34] [8b8t] >> Teleporting to home 1...",
+    "[22:34] To Somebodyyy: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:34] To Somebodyyy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:34] [8b8t] >> Request sent to Somebodyyy",
+    "[22:34] <HahaGirlYs> can any1 tpa me ",
+    "[22:34] <.Pichuckrak> i try gif kids ",
+    "[22:34] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[22:34] <Itx_RyxnYT> !kit pvp ",
+    "[22:34] To Itx_RyxnYT: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2731,12 +2731,13 @@
     ".Erburhurdur": 1,
     "ELramiMC": 1,
     "SekerGhost": 1,
-    "BinomialTitan17": 3
+    "BinomialTitan17": 3,
+    "Somebodyyy": 1
   },
   "kitStats": {
     "build": 1388,
     "survival": 5435,
-    "pvp": 6970,
+    "pvp": 6971,
     "dupe": 1603,
     "tools": 1647,
     "stash": 832,
