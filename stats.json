@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:49:46 5/1/2026",
-  "totalKits": 82948,
-  "todayKits": 31,
-  "onlineCount": 40,
+  "lastUpdated": "19:50:16 5/1/2026",
+  "totalKits": 82949,
+  "todayKits": 32,
+  "onlineCount": 39,
   "peakPlayers": 40,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 257,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5379
+      "count": 5380
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:46] [8b8t] >> You have killed yourself!",
-    "[12:46] [8b8t] >> Home 2 was not found",
-    "[12:46] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
-    "[12:46] <Ieatkids_003> !kit survival ",
-    "[12:46] [8b8t] >> Teleporting to home 0...",
-    "[12:47] [8b8t] >> Teleporting to home 1...",
-    "[12:47] To Ieatkids_003: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:47] To Ieatkids_003: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:47] [8b8t] >> Request sent to Ieatkids_003",
-    "[12:47] [8b8t] >> Teleporting...",
-    "[12:47] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[12:47] [8b8t] >> You have killed yourself!",
     "[12:47] [8b8t] >> Home 2 was not found",
     "[12:47] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[12:47] <deantheneek> BRO ",
@@ -101,7 +89,19 @@
     "[12:49] [BOT] <0_HienBot> Bot created by Hien2309. ",
     "[12:49] [8b8t] >> Davotinious voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
     "[12:49] <jven830> lol wtf ",
-    "[12:49] <deantheneek> uh "
+    "[12:49] <deantheneek> uh ",
+    "[12:49] [BOT] <0_HienBot> Type !discord ",
+    "[12:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:50] <Kyngz123> !kit bedrock ",
+    "[12:50] [8b8t] >> Teleporting to home 0...",
+    "[12:50] [8b8t] >> Teleporting to home 1...",
+    "[12:50] To Kyngz123: Kit \"bedrock\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[12:50] To Kyngz123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:50] [8b8t] >> Request sent to Kyngz123",
+    "[12:50] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:50] [Pro+] <lvashl> !kit Survival ",
+    "[12:50] To lvashl: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:50] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2690,13 +2690,13 @@
     "anticheatbust": 1,
     "Antoliu": 1,
     "_bugbar_": 2,
-    "Kyngz123": 2,
+    "Kyngz123": 3,
     "tandara_yt": 1,
     "mimimi222": 2
   },
   "kitStats": {
     "build": 1380,
-    "survival": 5379,
+    "survival": 5380,
     "pvp": 6909,
     "dupe": 1575,
     "tools": 1634,
