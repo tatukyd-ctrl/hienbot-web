@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:31:24 5/1/2026",
+  "lastUpdated": "08:31:54 5/1/2026",
   "totalKits": 82740,
   "todayKits": 19,
   "onlineCount": 45,
   "peakPlayers": 77,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 381,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6851
+      "count": 6852
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:29] <TyroneG> no :( ",
-    "[01:29] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[01:29] <Geassz> tienes algun dupe de kit? ",
-    "[01:29] <Herobrai2990> LETS FIND A FUCKIN TRIAL CHAMBERSSSSSSS ",
-    "[01:29] <THE_QALEN> !kit dupe ",
-    "[01:29] [8b8t] >> Teleporting to home 0...",
-    "[01:29] [8b8t] >> Teleporting to home 8...",
-    "[01:29] To THE_QALEN: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:29] <Geassz> juancho ",
-    "[01:29] To THE_QALEN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:29] [8b8t] >> Request sent to THE_QALEN",
-    "[01:30] <jaev> AA ",
     "[01:30] <reymeteoro19> jajajaja ",
     "[01:30] <reymeteoro19> q haces aca ",
     "[01:30] <Pandolino> !kit survival ",
@@ -101,7 +89,19 @@
     "[01:30] <jaev> andaba buscando un huevo del dragon ",
     "[01:31] <reymeteoro19> para spawnearlo o el otro ",
     "[01:31] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[01:31] <Herobrai2990> Ok "
+    "[01:31] <Herobrai2990> Ok ",
+    "[01:31] <jaev> el otro ",
+    "[01:31] <Geassz> !kit pvp ",
+    "[01:31] [8b8t] >> Teleporting to home 0...",
+    "[01:31] [8b8t] >> Teleporting to home 1...",
+    "[01:31] To Geassz: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:31] To Geassz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:31] [8b8t] >> Request sent to Geassz",
+    "[01:31] <reymeteoro19> ok ",
+    "[01:31] <reymeteoro19> ahora voy al spawn ",
+    "[01:31] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
+    "[01:31] <reymeteoro19> veo si te traigo uno ",
+    "[01:31] <jaev> gracias xd "
   ],
   "userStats": {
     "76756": 38,
@@ -2660,13 +2660,13 @@
     "ESLENDERGAMERXDX": 1,
     "tutrolita": 1,
     "porquisalvaje": 1,
-    "Geassz": 3,
+    "Geassz": 4,
     "Joel502": 1
   },
   "kitStats": {
     "build": 1362,
     "survival": 5346,
-    "pvp": 6851,
+    "pvp": 6852,
     "dupe": 1540,
     "tools": 1624,
     "stash": 810,
