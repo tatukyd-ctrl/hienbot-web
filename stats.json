@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:23:28 5/1/2026",
+  "lastUpdated": "20:23:46 5/1/2026",
   "totalKits": 82960,
   "todayKits": 43,
-  "onlineCount": 34,
+  "onlineCount": 35,
   "peakPlayers": 40,
-  "tps": "4.0",
-  "ping": 254,
+  "tps": "3.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:21] [8b8t] >> Teleporting to home 1...",
-    "[13:21] To nfkiki: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:21] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[13:21] To nfkiki: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:21] [8b8t] >> Request sent to nfkiki",
@@ -101,7 +99,9 @@
     "[13:23] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[13:23] To nfkiki: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:23] [8b8t] >> Request sent to nfkiki",
-    "[13:23] [8b8t] >> Teleporting..."
+    "[13:23] [8b8t] >> Teleporting...",
+    "[13:23] [Pro+] <lvashl> !kit stash ",
+    "[13:23] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2354,7 +2354,7 @@
     "kobhere": 1,
     "TheOverlord451": 1,
     "j122": 14,
-    "lvashl": 41,
+    "lvashl": 42,
     "joshfrom1984_314": 9,
     "MBKBOZKURT90": 3,
     "miniconquest": 4,
@@ -2703,7 +2703,7 @@
     "pvp": 6910,
     "dupe": 1576,
     "tools": 1634,
-    "stash": 819,
+    "stash": 820,
     "raid": 1091,
     "wood": 451,
     "exp": 610,
