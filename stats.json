@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:04:36 5/1/2026",
+  "lastUpdated": "22:04:59 5/1/2026",
   "totalKits": 82989,
   "todayKits": 13,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 46,
-  "tps": "1.0",
-  "ping": 243,
+  "tps": "5.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 1578
+      "count": 1579
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:03] <Vnxsitoow> !kit mystic ",
-    "[15:03] [8b8t] >> Teleporting to home 0...",
-    "[15:03] [8b8t] >> Teleporting to home 5...",
-    "[15:03] To Vnxsitoow: Kit \"mystic\" not found! Giving you (terracotta) instead! dsc.gg/hienbot",
-    "[15:03] To Vnxsitoow: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:03] [8b8t] >> Request sent to Vnxsitoow",
-    "[15:03] <or4acle> !kit wool ",
-    "[15:03] To or4acle: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:03] <UnBot> This bot is cord logger free ",
     "[15:03] [8b8t] >> Teleporting...",
     "[15:03] Robert123123 has made the advancement [Stone Age]",
     "[15:03] <stuck_alt> !kit ",
@@ -101,7 +92,16 @@
     "[15:04] <or4acle> !kit wool ",
     "[15:04] To or4acle: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:04] [8b8t] >> Teleporting...",
-    "[15:04] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
+    "[15:04] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[15:04] [8b8t] >> You have killed yourself!",
+    "[15:04] [8b8t] >> Home 2 was not found",
+    "[15:04] <Pemasandu99> !kit illegal ",
+    "[15:04] [8b8t] >> Teleporting to home 0...",
+    "[15:04] [8b8t] >> Teleporting to home 8...",
+    "[15:04] To Pemasandu99: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:04] To Pemasandu99: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:04] [8b8t] >> Request sent to Pemasandu99",
+    "[15:04] <UnBot> Type '+kit mystic' to satisfy your depression "
   ],
   "userStats": {
     "76756": 38,
@@ -2630,7 +2630,7 @@
     "Valanis": 2,
     "faszgeci": 2,
     "opgamerdelta113": 2,
-    "Pemasandu99": 1,
+    "Pemasandu99": 2,
     "zebkbir13": 12,
     "Its_Moltin": 1,
     "LordOf_oraaanges": 1,
@@ -2705,7 +2705,7 @@
     "build": 1381,
     "survival": 5396,
     "pvp": 6918,
-    "dupe": 1578,
+    "dupe": 1579,
     "tools": 1636,
     "stash": 820,
     "raid": 1092,
