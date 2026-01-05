@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:27:17 6/1/2026",
+  "lastUpdated": "03:27:47 6/1/2026",
   "totalKits": 83077,
   "todayKits": 29,
-  "onlineCount": 68,
+  "onlineCount": 69,
   "peakPlayers": 73,
-  "tps": "10.0",
+  "tps": "9.0",
   "ping": 321,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6957
+      "count": 6958
     },
     {
       "name": "survival",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:25] [8b8t] >> You have killed yourself!",
-    "[20:25] <Mobiiik> nemáš pickaxe? nemám ender chestky ",
-    "[20:25] [8b8t] >> Home 2 was not found",
-    "[20:25] <davidpro077> +kit redstone ",
-    "[20:25] [8b8t] >> Teleporting to home 0...",
-    "[20:25] [8b8t] >> Teleporting to home 3...",
-    "[20:25] To davidpro077: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:25] To davidpro077: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:26] [8b8t] >> Request sent to davidpro077",
-    "[20:26] [8b8t] >> Teleporting...",
-    "[20:26] [8b8t] >> You have killed yourself!",
-    "[20:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[20:26] [8b8t] >> Home 2 was not found",
-    "[20:26] [BOT] <0_HienBot> Try !кιт survival ",
-    "[20:26] [XMAS2025] <Vlesmentie> I just broke 1 Obsidian! ",
-    "[20:26] [Ultra] <MrDarkEye> :shock: ",
     "[20:26] <ElsapotopoMC> !kit food ",
     "[20:26] [8b8t] >> Teleporting to home 0...",
     "[20:26] [8b8t] >> Teleporting to home 5...",
@@ -101,7 +85,23 @@
     "[20:27] [Ultra] <MrDarkEye> hm ",
     "[20:27] [BOT] <0_HienBot> Type !discord ",
     "[20:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:27] <panana777> *kit pvp "
+    "[20:27] <panana777> *kit pvp ",
+    "[20:27] [8b8t] >> You have killed yourself!",
+    "[20:27] MrLuxenx has completed the challenge [Serious Dedication]",
+    "[20:27] [8b8t] >> Teleporting to home 0...",
+    "[20:27] [8b8t] >> No TPA request found",
+    "[20:27] [8b8t] >> Teleporting to home 1...",
+    "[20:27] To panana777: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:27] To panana777: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:27] [8b8t] >> Request sent to panana777",
+    "[20:27] ASXN has made the advancement [Hidden in the Depths]",
+    "[20:27] <.darknessmc3203> tpa for armor ",
+    "[20:27] [Ultra] <MrDarkEye> xd ",
+    "[20:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:27] <panana777> !kit ",
+    "[20:27] To panana777: Hello panana777!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[20:27] [XMAS2025] <Vlesmentie> im hungry ",
+    "[20:27] [BOT] <0_HienBot> Use /kill to kill yourself! "
   ],
   "userStats": {
     "76756": 38,
@@ -2718,12 +2718,13 @@
     "ElsapotopoMC": 2,
     "ivan56": 4,
     "Exoshi": 1,
-    "ASXN": 1
+    "ASXN": 1,
+    "panana777": 1
   },
   "kitStats": {
     "build": 1387,
     "survival": 5420,
-    "pvp": 6957,
+    "pvp": 6958,
     "dupe": 1592,
     "tools": 1641,
     "stash": 827,
