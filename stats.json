@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:47:06 5/1/2026",
+  "lastUpdated": "14:47:24 5/1/2026",
   "totalKits": 82849,
   "todayKits": 128,
-  "onlineCount": 22,
+  "onlineCount": 24,
   "peakPlayers": 77,
   "tps": "7.0",
-  "ping": 253,
+  "ping": 262,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:42] [8b8t] >> You have killed yourself!",
-    "[07:42] [8b8t] >> Home 2 was not found",
-    "[07:42] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[07:42] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:42] <areamx> !kit ",
-    "[07:42] To areamx: Hello areamx!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[07:42] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[07:43] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[07:43] <areamx> !kit survival ",
     "[07:43] To areamx: You're on cooldown, try again in 5 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:43] <enjoy> pleace tpa ",
     "[07:43] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
@@ -101,7 +92,16 @@
     "[07:46] areamx Whispers: !kit",
     "[07:46] To areamx: Hello areamx!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[07:46] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
-    "[07:47] [8b8t] >> Teleporting..."
+    "[07:47] [8b8t] >> Teleporting...",
+    "[07:47] [8b8t] >> You have killed yourself!",
+    "[07:47] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[07:47] [8b8t] >> Home 2 was not found",
+    "[07:47] areamx Whispers: !kit stash",
+    "[07:47] [8b8t] >> Teleporting to home 0...",
+    "[07:47] [8b8t] >> Teleporting to home 3...",
+    "[07:47] To areamx: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:47] To areamx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:47] [8b8t] >> Request sent to areamx"
   ],
   "userStats": {
     "76756": 38,
@@ -2677,7 +2677,7 @@
     "Enzytroiz_Mc": 1,
     "Tyxks": 2,
     "limij2": 1,
-    "areamx": 5
+    "areamx": 6
   },
   "kitStats": {
     "build": 1367,
@@ -2685,7 +2685,7 @@
     "pvp": 6882,
     "dupe": 1560,
     "tools": 1630,
-    "stash": 811,
+    "stash": 812,
     "raid": 1087,
     "wood": 447,
     "exp": 607,
