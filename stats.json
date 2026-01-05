@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:46:54 5/1/2026",
+  "lastUpdated": "16:47:24 5/1/2026",
   "totalKits": 82871,
   "todayKits": 150,
-  "onlineCount": 24,
+  "onlineCount": 23,
   "peakPlayers": 77,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 257,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6891
+      "count": 6892
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:45] Your connection to 8b8t encountered a problem.",
-    "[09:45] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:45] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:45] Your connection to 8b8t encountered a problem.",
-    "[09:45] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:45] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:45] Your connection to 8b8t encountered a problem.",
-    "[09:45] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[09:45] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:45] khaleelv has reached the goal [Sky's the Limit]",
     "[09:45] khaleelv has completed the challenge [Serious Dedication]",
@@ -101,7 +93,15 @@
     "[09:46] <hitlerwascool> is that the real lee ",
     "[09:46] <botchaosonix666> Who pvp wanna want anyone? ",
     "[09:46] <peakar> BUT NOT HERE ",
-    "[09:46] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it"
+    "[09:46] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
+    "[09:46] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[09:47] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[09:47] <kavunadam> !kit pvp ",
+    "[09:47] [8b8t] >> Teleporting to home 0...",
+    "[09:47] [8b8t] >> Teleporting to home 1...",
+    "[09:47] To kavunadam: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:47] To kavunadam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:47] [8b8t] >> Request sent to kavunadam"
   ],
   "userStats": {
     "76756": 38,
@@ -2684,12 +2684,12 @@
     "Yvxw": 2,
     "Fede123xd": 2,
     "jven123": 1,
-    "kavunadam": 1
+    "kavunadam": 2
   },
   "kitStats": {
     "build": 1368,
     "survival": 5372,
-    "pvp": 6891,
+    "pvp": 6892,
     "dupe": 1564,
     "tools": 1630,
     "stash": 813,
