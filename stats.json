@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:41:29 5/1/2026",
+  "lastUpdated": "22:41:59 5/1/2026",
   "totalKits": 83006,
   "todayKits": 30,
-  "onlineCount": 47,
+  "onlineCount": 48,
   "peakPlayers": 48,
-  "tps": "0.0",
+  "tps": "3.0",
   "ping": 454,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6923
+      "count": 6924
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:40] [8b8t] >> Teleporting to home 0...",
-    "[15:40] [8b8t] >> Teleporting to home 3...",
-    "[15:40] To PaoloIsHere09: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:40] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
-    "[15:40] To PaoloIsHere09: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:40] <PaoloIsHere09> !kit stash ",
     "[15:40] To PaoloIsHere09: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:40] [8b8t] >> Request sent to PaoloIsHere09",
     "[15:40] <UnBot> PVP kit is now available type +kit pvp ",
@@ -101,7 +95,13 @@
     "[15:41] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[15:41] <PaoloIsHere09> !kit pvp ",
     "[15:41] To PaoloIsHere09: You're on cooldown, try again in 40 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:41] [BOT] <0_HienBot> Use /lobby to return to the lobby! "
+    "[15:41] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
+    "[15:41] <UnBot> Type +kit escape to escape the spawn ",
+    "[15:41] <PaoloIsHere09> !kit pvp ",
+    "[15:41] <PaoloIsHere09> !kit pvp ",
+    "[15:41] <axalire> ебать ",
+    "[15:41] <PaoloIsHere09> !kit pvp ",
+    "[15:41] <TokeNdJoke420> my hunger is low robert "
   ],
   "userStats": {
     "76756": 38,
@@ -2701,12 +2701,12 @@
     "or4acle": 4,
     "RainbowGlassCat": 2,
     "Booosah": 1,
-    "PaoloIsHere09": 3
+    "PaoloIsHere09": 4
   },
   "kitStats": {
     "build": 1381,
     "survival": 5401,
-    "pvp": 6923,
+    "pvp": 6924,
     "dupe": 1583,
     "tools": 1636,
     "stash": 823,
