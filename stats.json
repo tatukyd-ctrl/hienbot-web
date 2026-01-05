@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:49:54 5/1/2026",
+  "lastUpdated": "16:50:24 5/1/2026",
   "totalKits": 82872,
   "todayKits": 151,
-  "onlineCount": 21,
+  "onlineCount": 23,
   "peakPlayers": 77,
-  "tps": "7.0",
-  "ping": 258,
+  "tps": "6.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1369
+      "count": 1370
     }
   ],
   "chatLog": [
-    "[09:48] Your connection to 8b8t encountered a problem.",
-    "[09:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:48] Your connection to 8b8t encountered a problem.",
-    "[09:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:48] Your connection to 8b8t encountered a problem.",
-    "[09:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[09:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:48] Your connection to 8b8t encountered a problem.",
     "[09:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
@@ -101,7 +93,15 @@
     "[09:49] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:49] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
     "[09:49] <peakar> !kit end ",
-    "[09:49] To peakar: You're on cooldown, try again in 61 seconds! Dont forget to join dsc.gg/hienbot"
+    "[09:49] To peakar: You're on cooldown, try again in 61 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:49] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[09:50] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[09:50] <ARNOSHEEP> !Kit build ",
+    "[09:50] [8b8t] >> You have killed yourself!",
+    "[09:50] To ARNOSHEEP: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:50] [8b8t] >> Teleporting to home 0...",
+    "[09:50] [8b8t] >> Teleporting to home 3...",
+    "[09:50] To ARNOSHEEP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2445,7 +2445,7 @@
     "Flame_xz": 21,
     "xSharpyy": 2,
     "JACK_141": 7,
-    "ARNOSHEEP": 43,
+    "ARNOSHEEP": 44,
     "Catwibu12": 1,
     "Solenxt": 1,
     "franchedd": 1,
@@ -2687,7 +2687,7 @@
     "kavunadam": 2
   },
   "kitStats": {
-    "build": 1369,
+    "build": 1370,
     "survival": 5372,
     "pvp": 6892,
     "dupe": 1564,
