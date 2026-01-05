@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:36:24 5/1/2026",
-  "totalKits": 82825,
-  "todayKits": 104,
-  "onlineCount": 32,
+  "lastUpdated": "12:36:52 5/1/2026",
+  "totalKits": 82826,
+  "todayKits": 105,
+  "onlineCount": 31,
   "peakPlayers": 77,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 260,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6875
+      "count": 6876
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:32] [8b8t] >> The TPA request you sent to nico_master was successfully canceled.",
-    "[05:32] <.DomiO8691> he? ",
-    "[05:32] [BOT] <0_HienBot> Hey .DomiO8691! ",
-    "[05:32] <nico_master> !kit dupe ",
-    "[05:32] To nico_master: You're on cooldown, try again in 81 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:33] <nico_master> quien regala kit ",
-    "[05:33] downthewatering has completed the challenge [Cover Me in Debris]",
-    "[05:33] <nico_master> quien regala kit ",
-    "[05:33] downthewatering has reached the goal [Sky's the Limit]",
-    "[05:33] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
-    "[05:33] downthewatering has completed the challenge [Serious Dedication]",
-    "[05:33] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[05:33] <Red_Fragment_> fuck potionclient ",
     "[05:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:34] <downthewatering> thanks big guy ",
@@ -101,7 +89,19 @@
     "[05:36] <Tyxks> mateo ",
     "[05:36] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
     "[05:36] <ThuKhoaChuyenHoa> nguyenthai1 ",
-    "[05:36] <Navifinn> hola enzy cmo estas bro "
+    "[05:36] <Navifinn> hola enzy cmo estas bro ",
+    "[05:36] <Enzytroiz_Mc> !kit stassh ",
+    "[05:36] [8b8t] >> Teleporting to home 0...",
+    "[05:36] [8b8t] >> Teleporting to home 1...",
+    "[05:36] To Enzytroiz_Mc: Kit \"stassh\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[05:36] To Enzytroiz_Mc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:36] <Tyxks> enzi ",
+    "[05:36] [8b8t] >> Request sent to Enzytroiz_Mc",
+    "[05:36] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[05:36] <Tyxks> tienes marcos? ",
+    "[05:36] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[05:36] <Red_Fragment_> man this anticheat sucks ",
+    "[05:36] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2673,12 +2673,13 @@
     "Laiwy_123": 4,
     ".ChillxChamp": 1,
     "KlNPAKU": 3,
-    "nico_master": 2
+    "nico_master": 2,
+    "Enzytroiz_Mc": 1
   },
   "kitStats": {
     "build": 1367,
     "survival": 5360,
-    "pvp": 6875,
+    "pvp": 6876,
     "dupe": 1556,
     "tools": 1629,
     "stash": 811,
