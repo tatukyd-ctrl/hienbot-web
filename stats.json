@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:03:58 6/1/2026",
+  "lastUpdated": "02:04:28 6/1/2026",
   "totalKits": 83048,
   "todayKits": 0,
-  "onlineCount": 52,
+  "onlineCount": 51,
   "peakPlayers": 57,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "1.0",
+  "ping": 2363,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6951
+      "count": 6952
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:00]   [Confirm read]",
-    "[19:00] ",
-    "[19:00] <ALEITO001> vamos ahora si a pvp ",
-    "[19:00] [8b8t] >> You have killed yourself!",
-    "[19:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[19:02] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[19:02] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
     "[19:02] [8b8t] >> Your login session has been continued.",
@@ -101,7 +96,12 @@
     "[19:03] [8b8t] Unknown command do /help",
     "[19:03] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[19:03] You are already connected to this server!",
-    "[19:03] You are already connected to this server!"
+    "[19:03] You are already connected to this server!",
+    "[19:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[19:04] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[19:04] <Mateo_32> !kit Dye ",
+    "[19:04] <stuck_alt> +kit pvp ",
+    "[19:04] <stuck_alt> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -2574,7 +2574,7 @@
     "6foot": 1,
     "seashell8950": 4,
     "SENIOREMONEY": 1,
-    "stuck_alt": 26,
+    "stuck_alt": 27,
     "efraddada": 2,
     "hmadyuh": 41,
     ".XBLAZEFOOTX": 3,
@@ -2720,7 +2720,7 @@
   "kitStats": {
     "build": 1385,
     "survival": 5416,
-    "pvp": 6951,
+    "pvp": 6952,
     "dupe": 1590,
     "tools": 1639,
     "stash": 825,
