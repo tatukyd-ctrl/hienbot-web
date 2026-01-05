@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:25:16 5/1/2026",
-  "totalKits": 82961,
-  "todayKits": 44,
-  "onlineCount": 35,
+  "lastUpdated": "20:25:42 5/1/2026",
+  "totalKits": 82962,
+  "todayKits": 45,
+  "onlineCount": 38,
   "peakPlayers": 40,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 257,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 1576
+      "count": 1577
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:23] <nfkiki> !kit illegal ",
-    "[13:23] To nfkiki: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:23] <nfkiki> !kit illegal ",
-    "[13:23] [8b8t] >> Teleporting to home 0...",
-    "[13:23] [8b8t] >> Teleporting to home 8...",
-    "[13:23] To nfkiki: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:23] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[13:23] To nfkiki: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:23] [8b8t] >> Request sent to nfkiki",
     "[13:23] [8b8t] >> Teleporting...",
     "[13:23] [Pro+] <lvashl> !kit stash ",
     "[13:23] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[13:24] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
     "[13:24] [Pro+] <lvashl> !kit Shulker ",
     "[13:24] To lvashl: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:25] <MG_GT10> tiene un punto al final "
+    "[13:25] <MG_GT10> tiene un punto al final ",
+    "[13:25] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
+    "[13:25] <nfkiki> !kit illegal ",
+    "[13:25] [8b8t] >> Teleporting to home 0...",
+    "[13:25] [8b8t] >> Teleporting to home 8...",
+    "[13:25] To nfkiki: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:25] <Robert123123> quien quiere kits ",
+    "[13:25] To nfkiki: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:25] [8b8t] >> Request sent to nfkiki",
+    "[13:25] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1656,7 +1656,7 @@
     "luantrungdai": 8,
     "_Lakerek_": 1,
     "Vo1taik": 1,
-    "nfkiki": 15,
+    "nfkiki": 16,
     "ruazinnn989423": 24,
     "doxedap": 1,
     "peakar": 99,
@@ -2701,7 +2701,7 @@
     "build": 1380,
     "survival": 5388,
     "pvp": 6910,
-    "dupe": 1576,
+    "dupe": 1577,
     "tools": 1634,
     "stash": 820,
     "raid": 1091,
