@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:04:24 5/1/2026",
+  "lastUpdated": "16:04:54 5/1/2026",
   "totalKits": 82865,
   "todayKits": 144,
-  "onlineCount": 24,
+  "onlineCount": 26,
   "peakPlayers": 77,
-  "tps": "5.0",
-  "ping": 270,
+  "tps": "3.0",
+  "ping": 272,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6887
+      "count": 6888
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:58] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
-    "[08:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[08:59] [BOT] <0_HienBot> Use !кιт to get kits ",
-    "[08:59] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[09:00] <peakar> oh sup ",
-    "[09:00] <Fede123xd> !kit ",
-    "[09:00] To Fede123xd: Hello Fede123xd!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[09:00] <peakar> the event is still going ",
-    "[09:00] <Fede123xd> !kit ",
     "[09:00] To Fede123xd: Hello Fede123xd!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[09:00] <agultron> !kit ",
     "[09:00] To agultron: Hello agultron!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[09:03] <.yuu18m> you either pls accept ",
     "[09:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[09:03] <.yuu18m> nguy and fede ",
-    "[09:03] [BOT] <0_HienBot> Try !ᴋɪᴛ stash "
+    "[09:03] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[09:04] [BOT] <0_HienBot> Use !кιт to get kits ",
+    "[09:04] <Yvxw> !kit ",
+    "[09:04] To Yvxw: Hello Yvxw!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[09:04] <Yvxw> !kit pvp ",
+    "[09:04] [8b8t] >> Teleporting to home 0...",
+    "[09:04] [8b8t] >> Teleporting to home 1...",
+    "[09:04] To Yvxw: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:04] To Yvxw: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:04] [8b8t] >> Request sent to Yvxw"
   ],
   "userStats": {
     "76756": 38,
@@ -2680,12 +2680,13 @@
     "areamx": 9,
     "NotK5": 1,
     "iRaidenPx": 1,
-    "bestusernameoat": 1
+    "bestusernameoat": 1,
+    "Yvxw": 1
   },
   "kitStats": {
     "build": 1368,
     "survival": 5368,
-    "pvp": 6887,
+    "pvp": 6888,
     "dupe": 1564,
     "tools": 1630,
     "stash": 812,
