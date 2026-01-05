@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:49:54 5/1/2026",
+  "lastUpdated": "15:50:24 5/1/2026",
   "totalKits": 82865,
   "todayKits": 144,
   "onlineCount": 30,
   "peakPlayers": 77,
-  "tps": "11.0",
-  "ping": 257,
+  "tps": "8.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 6886
+      "count": 6887
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:42] Pemasandu99 has made the advancement [Sweet dreams]",
-    "[08:42] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[08:43] <axxus> !help ",
-    "[08:43] To axxus: Cmds: !kit, !lang, !info , !ping, !tps, !player, !bestping, !worstping, !discord, !status, !gay | dsc.gg/hienbot",
-    "[08:43] [BOT] <0_HienBot> Join HienBot Group discord.gg/2vezgc2VGb ",
-    "[08:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[08:43] To axxus: Your ping is: 151 ms Dont forget to join dsc.gg/hienbot",
     "[08:43] [BOT] <0_HienBot> Hi bestusernameoat! ",
     "[08:43] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
@@ -101,7 +95,13 @@
     "[08:48] <Faster_q> how i'can ecape ",
     "[08:48] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[08:48] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
-    "[08:49] [BOT] <0_HienBot> Use /kill to kill yourself! "
+    "[08:49] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[08:49] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[08:50] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[08:50] <bestusernameoat> !kit pvp ",
+    "[08:50] [8b8t] >> Teleporting to home 0...",
+    "[08:50] [8b8t] >> Teleporting to home 1...",
+    "[08:50] To bestusernameoat: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2679,12 +2679,13 @@
     "limij2": 1,
     "areamx": 9,
     "NotK5": 1,
-    "iRaidenPx": 1
+    "iRaidenPx": 1,
+    "bestusernameoat": 1
   },
   "kitStats": {
     "build": 1368,
     "survival": 5368,
-    "pvp": 6886,
+    "pvp": 6887,
     "dupe": 1564,
     "tools": 1630,
     "stash": 812,
