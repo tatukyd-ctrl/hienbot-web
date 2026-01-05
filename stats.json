@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:37:42 5/1/2026",
+  "lastUpdated": "21:37:59 5/1/2026",
   "totalKits": 82977,
   "todayKits": 1,
   "onlineCount": 39,
   "peakPlayers": 39,
-  "tps": "2.0",
-  "ping": 0,
+  "tps": "5.0",
+  "ping": 272,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5395
+      "count": 5396
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:37] [8b8t] >> Your login session has been continued.",
-    "[14:37] ",
-    "[14:37]  [8builders8tools]",
-    "[14:37]  Perform the command /email associate to register",
-    "[14:37]  your email. By doing so, you",
-    "[14:37]  decrease the chance of being hacked.",
-    "[14:37] ",
-    "[14:37]   [Confirm read]",
     "[14:37] ",
     "[14:37] <RainbowGlassCat> can i get some stuff ",
     "[14:37] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[14:37] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
     "[14:37] [8b8t] >> Teleporting...",
     "[14:37] <Vnxsitoow> !kit Survival ",
-    "[14:37] To Vnxsitoow: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[14:37] To Vnxsitoow: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:37] [8b8t] >> You have killed yourself!",
+    "[14:37] [8b8t] >> Home 2 was not found",
+    "[14:37] <Vnxsitoow> !kit Survival ",
+    "[14:37] [8b8t] >> Teleporting to home 0...",
+    "[14:37] [8b8t] >> Teleporting to home 1...",
+    "[14:37] To Vnxsitoow: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:37] To Vnxsitoow: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:37] [8b8t] >> Request sent to Vnxsitoow"
   ],
   "userStats": {
     "76756": 38,
@@ -2666,7 +2666,7 @@
     "ander548478": 1,
     "sexbas": 10,
     "sofi_linduri": 1,
-    "Vnxsitoow": 5,
+    "Vnxsitoow": 6,
     "veterexexploit": 2,
     "I_equal_insane": 2,
     "MrLuxenx": 13,
@@ -2702,7 +2702,7 @@
   },
   "kitStats": {
     "build": 1380,
-    "survival": 5395,
+    "survival": 5396,
     "pvp": 6915,
     "dupe": 1577,
     "tools": 1636,
