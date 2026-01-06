@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:03:21 7/1/2026",
+  "lastUpdated": "04:03:43 7/1/2026",
   "totalKits": 83559,
   "todayKits": 17,
   "onlineCount": 51,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 259,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7106
+      "count": 7107
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:02] [8b8t] >> Teleporting to home 8...",
-    "[21:02] To LEON10: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:02] To LEON10: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:02] <ScreaM8989> hahahaha ",
-    "[21:02] [8b8t] >> Request sent to LEON10",
-    "[21:02] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[21:02] <ScreaM8989> no sabia xD ",
-    "[21:02] <.Pichuckrak> sacadme joder ",
-    "[21:02] Manuelly_ has completed the challenge [Cover Me in Debris]",
     "[21:02] [8b8t] >> kendricklover132 created a new hotspot, use /hotspot to teleport to it",
     "[21:02] Manuelly_ has reached the goal [Sky's the Limit]",
     "[21:02] Manuelly_ has made the advancement [Ice Bucket Challenge]",
@@ -101,7 +92,16 @@
     "[21:03] [8b8t] >> Teleporting...",
     "[21:03] <LEON10> !kit survival ",
     "[21:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[21:03] To LEON10: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[21:03] To LEON10: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:03] [8b8t] >> You have killed yourself!",
+    "[21:03] [8b8t] >> Home 2 was not found",
+    "[21:03] <ruazinnn989423> !kit pvp ",
+    "[21:03] [8b8t] >> Teleporting to home 0...",
+    "[21:03] [8b8t] >> Teleporting to home 1...",
+    "[21:03] To ruazinnn989423: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:03] To ruazinnn989423: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:03] [8b8t] >> Request sent to ruazinnn989423",
+    "[21:03] [BOT] <0_HienBot> Use /kill to kill yourself! "
   ],
   "userStats": {
     "76756": 38,
@@ -1657,7 +1657,7 @@
     "_Lakerek_": 1,
     "Vo1taik": 1,
     "nfkiki": 17,
-    "ruazinnn989423": 24,
+    "ruazinnn989423": 25,
     "doxedap": 1,
     "peakar": 99,
     "6xyz_": 1,
@@ -2798,7 +2798,7 @@
   "kitStats": {
     "build": 1426,
     "survival": 5541,
-    "pvp": 7106,
+    "pvp": 7107,
     "dupe": 1725,
     "tools": 1676,
     "stash": 874,
