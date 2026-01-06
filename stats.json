@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:43:50 6/1/2026",
+  "lastUpdated": "18:44:18 6/1/2026",
   "totalKits": 83351,
   "todayKits": 189,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 76,
-  "tps": "6.0",
+  "tps": "7.0",
   "ping": 246,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7054
+      "count": 7055
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:42] <InTheLimit> WHAT ",
-    "[11:42] <PixelCrazeMc> !Bloody! ",
-    "[11:42] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[11:42] <InTheLimit> MY SHULKER JUST DESPAWNED ",
-    "[11:42] <InTheLimit> INSTANTLY ",
-    "[11:42] <botchaosonix666> hit me ",
-    "[11:42] <InTheLimit> NOOOO ",
-    "[11:42] <jven830> wht pots u have bro ",
     "[11:42] <botchaosonix666> hmm ",
     "[11:42] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
     "[11:43] <jven830> invicbility pots/ ",
@@ -101,7 +93,15 @@
     "[11:43] <vfcc> !kit ",
     "[11:43] To boludo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:43] To vfcc: Hello vfcc!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[11:43] jven830 has completed the challenge [Over-Overkill]"
+    "[11:43] jven830 has completed the challenge [Over-Overkill]",
+    "[11:43] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[11:43] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
+    "[11:44] <vfcc> !kit pvp ",
+    "[11:44] [8b8t] >> Teleporting to home 0...",
+    "[11:44] [8b8t] >> Teleporting to home 1...",
+    "[11:44] To vfcc: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:44] To vfcc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:44] [8b8t] >> Request sent to vfcc"
   ],
   "userStats": {
     "76756": 38,
@@ -2768,12 +2768,13 @@
     "MDRpX": 1,
     "scoutgamer5555": 5,
     "Hadez123766": 1,
-    ".RubenXD7771446": 3
+    ".RubenXD7771446": 3,
+    "vfcc": 1
   },
   "kitStats": {
     "build": 1409,
     "survival": 5486,
-    "pvp": 7054,
+    "pvp": 7055,
     "dupe": 1654,
     "tools": 1666,
     "stash": 853,
