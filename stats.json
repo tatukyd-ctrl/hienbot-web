@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:18:49 7/1/2026",
-  "totalKits": 83503,
-  "todayKits": 341,
-  "onlineCount": 48,
+  "lastUpdated": "01:19:05 7/1/2026",
+  "totalKits": 83504,
+  "todayKits": 342,
+  "onlineCount": 50,
   "peakPlayers": 76,
-  "tps": "2.0",
-  "ping": 1127,
+  "tps": "4.0",
+  "ping": 435,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7095
+      "count": 7096
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:17] To stuck_alt: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[18:17] [8b8t] >> Teleporting to home 8...",
-    "[18:17] To XreMatiSK: Your kit (Armortrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[18:17] To XreMatiSK: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[18:17] [8b8t] >> Request sent to XreMatiSK",
-    "[18:17] [8b8t] >> Teleporting...",
-    "[18:17] <Ozi1230YT> !kit tools ",
-    "[18:17] To Ozi1230YT: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[18:17] [8b8t] >> You have killed yourself!",
-    "[18:17] [8b8t] >> Home 2 was not found",
-    "[18:18] [SE] <dragonkit> !kit tools ",
-    "[18:18] [8b8t] >> Teleporting to home 0...",
-    "[18:18] [8b8t] >> Teleporting to home 8...",
     "[18:18] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[18:18] To dragonkit: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[18:18] <bautost2> !kit pvp ",
@@ -101,7 +88,20 @@
     "[18:18] <DeathZuka> no la delates porfa ",
     "[18:18] <WORDIPOP> oc ",
     "[18:18] <MutantWall74760> !kit build ",
-    "[18:18] [8b8t] >> Teleporting to home 0..."
+    "[18:18] [8b8t] >> Teleporting to home 0...",
+    "[18:18] [8b8t] >> Teleporting to home 3...",
+    "[18:18] To MutantWall74760: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:18] To MutantWall74760: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[18:18] <bautost2> !kit pvp ",
+    "[18:18] [8b8t] >> Teleporting to home 0...",
+    "[18:18] [8b8t] >> Teleporting to home 1...",
+    "[18:18] To bautost2: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:18] To bautost2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:19] [8b8t] >> Request sent to bautost2",
+    "[18:19] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[18:19] [8b8t] >> Teleporting...",
+    "[18:19] <XreMatiSK> !kit ",
+    "[18:19] To XreMatiSK: Hello XreMatiSK!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2786,12 +2786,13 @@
     "Goshkik": 2,
     "espinos": 5,
     "GirlPuncher2014": 1,
-    "FlameeX3": 2
+    "FlameeX3": 2,
+    "bautost2": 1
   },
   "kitStats": {
     "build": 1424,
     "survival": 5512,
-    "pvp": 7095,
+    "pvp": 7096,
     "dupe": 1709,
     "tools": 1672,
     "stash": 870,
