@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:46:48 6/1/2026",
+  "lastUpdated": "13:47:18 6/1/2026",
   "totalKits": 83246,
   "todayKits": 84,
-  "onlineCount": 22,
+  "onlineCount": 24,
   "peakPlayers": 76,
-  "tps": "2.0",
-  "ping": 350,
+  "tps": "3.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7020
+      "count": 7021
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:41] [BOT] <0_HienBot> Welcome to 8b8t, TNGB0T! ",
-    "[06:41] <_Garabatos_> ya ",
-    "[06:41] <_Garabatos_> esta bn ",
-    "[06:42] [BOT] <0_HienBot> August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[06:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:42] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[06:42] <Fede123xd> se me fue el inter recien ",
-    "[06:43] <_Garabatos_> xd ",
     "[06:43] <_Garabatos_> ya ahra si ",
     "[06:43] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[06:43] <WORDIPOP> fua la base q me encontr ",
@@ -101,7 +93,15 @@
     "[06:45] <Fede123xd> que ",
     "[06:45] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
     "[06:45] <_Garabatos_> xd ",
-    "[06:46] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs "
+    "[06:46] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[06:46] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
+    "[06:47] <PrnvDevilXD> !kit waterbucket ",
+    "[06:47] [8b8t] >> Teleporting to home 0...",
+    "[06:47] [8b8t] >> Teleporting to home 1...",
+    "[06:47] To PrnvDevilXD: Kit \"waterbucket\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[06:47] To PrnvDevilXD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:47] [8b8t] >> Request sent to PrnvDevilXD",
+    "[06:47] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -1979,7 +1979,7 @@
     "dualityisdiddy": 8,
     "LowkGD67": 1,
     "7jac": 2,
-    "PrnvDevilXD": 31,
+    "PrnvDevilXD": 32,
     ".ivanpe2008": 4,
     "kits_pls": 47,
     "neverbroke55": 4,
@@ -2761,7 +2761,7 @@
   "kitStats": {
     "build": 1403,
     "survival": 5465,
-    "pvp": 7020,
+    "pvp": 7021,
     "dupe": 1638,
     "tools": 1662,
     "stash": 840,
