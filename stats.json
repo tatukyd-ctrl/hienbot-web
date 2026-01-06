@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:35:48 6/1/2026",
+  "lastUpdated": "17:36:18 6/1/2026",
   "totalKits": 83330,
   "todayKits": 168,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 76,
-  "tps": "9.0",
+  "tps": "3.0",
   "ping": 312,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:34] [8b8t] >> Teleporting...",
-    "[10:34] <InTheLimit> whats the frame dupe ",
-    "[10:34] <scoutgamer5555> !Kit ",
-    "[10:34] To scoutgamer5555: Hello scoutgamer5555!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:34] InTheLimit has made the advancement [Monster Hunter]",
     "[10:34] [BOT] <0_HienBot> Use /kill to kill yourself! ",
     "[10:34] InTheLimit has made the advancement [Acquire Hardware]",
     "[10:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +96,12 @@
     "[10:35] To scoutgamer5555: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[10:35] To scoutgamer5555: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:35] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
-    "[10:35] [8b8t] >> Request sent to scoutgamer5555"
+    "[10:35] [8b8t] >> Request sent to scoutgamer5555",
+    "[10:35] [8b8t] >> Teleporting...",
+    "[10:36] [8b8t] >> Please do not spam.",
+    "[10:36] <Hadez123766> !kit food ",
+    "[10:36] [8b8t] >> You have killed yourself!",
+    "[10:36] To Hadez123766: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2766,7 +2766,8 @@
     ".pauljunio": 1,
     "Sunther_": 1,
     "MDRpX": 1,
-    "scoutgamer5555": 1
+    "scoutgamer5555": 1,
+    "Hadez123766": 1
   },
   "kitStats": {
     "build": 1409,
@@ -2781,7 +2782,7 @@
     "dye": 270,
     "wool": 350,
     "mineral": 512,
-    "food": 402,
+    "food": 403,
     "redstone": 703,
     "toolbox": 603,
     "quartz": 239,
