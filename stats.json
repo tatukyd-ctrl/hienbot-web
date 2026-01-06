@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:36:48 6/1/2026",
+  "lastUpdated": "17:37:18 6/1/2026",
   "totalKits": 83330,
   "todayKits": 168,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 76,
-  "tps": "5.0",
-  "ping": 1098,
+  "tps": "7.0",
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7044
+      "count": 7045
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:35] [Basic] <.VadoseMist36087> $kit wood ",
-    "[10:35] [8b8t] >> Teleporting to home 0...",
-    "[10:35] [8b8t] >> Teleporting to home 4...",
-    "[10:35] To .VadoseMist36087: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:35] To .VadoseMist36087: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:35] [8b8t] >> Request sent to .VadoseMist36087",
-    "[10:35] [8b8t] >> Teleporting...",
-    "[10:35] <scoutgamer5555> !ping ",
     "[10:35] To scoutgamer5555: Your ping is: 280 ms Dont forget to join dsc.gg/hienbot",
     "[10:35] <ScreaM8989> esta bien por hoy :D ",
     "[10:35] <scoutgamer5555> !kit pvp ",
@@ -101,7 +93,15 @@
     "[10:36] <scoutgamer5555> !kit pvp ",
     "[10:36] To scoutgamer5555: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:36] To Hadez123766: Try again Join dsc.gg/hienbot to report the error.",
-    "[10:36] crispim064 has made the advancement [Monster Hunter]"
+    "[10:36] crispim064 has made the advancement [Monster Hunter]",
+    "[10:37] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[10:37] <scoutgamer5555> !kit pvp ",
+    "[10:37] [8b8t] >> Teleporting to home 0...",
+    "[10:37] [8b8t] >> Teleporting to home 1...",
+    "[10:37] To scoutgamer5555: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:37] [Basic] <.VadoseMist36087> yo ",
+    "[10:37] To scoutgamer5555: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:37] [8b8t] >> Request sent to scoutgamer5555"
   ],
   "userStats": {
     "76756": 38,
@@ -2766,13 +2766,13 @@
     ".pauljunio": 1,
     "Sunther_": 1,
     "MDRpX": 1,
-    "scoutgamer5555": 1,
+    "scoutgamer5555": 2,
     "Hadez123766": 1
   },
   "kitStats": {
     "build": 1409,
     "survival": 5483,
-    "pvp": 7044,
+    "pvp": 7045,
     "dupe": 1649,
     "tools": 1666,
     "stash": 851,
