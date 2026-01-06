@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:06:48 6/1/2026",
-  "totalKits": 83337,
-  "todayKits": 175,
+  "lastUpdated": "18:07:18 6/1/2026",
+  "totalKits": 83338,
+  "todayKits": 176,
   "onlineCount": 28,
   "peakPlayers": 76,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 258,
   "topUsers": [
     {
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:05] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
-    "[11:05] [8b8t] >> You have killed yourself!",
-    "[11:05] [8b8t] >> The TPA request you sent to .RubenXD7771446 was successfully canceled.",
-    "[11:05] <.RubenXD7771446> !KIT pvp ",
-    "[11:05] To .RubenXD7771446: You're on cooldown, try again in 95 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:05] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[11:05] <boludo> !kit pvp ",
-    "[11:05] [8b8t] >> Teleporting to home 0...",
-    "[11:05] [8b8t] >> Teleporting to home 1...",
-    "[11:05] To boludo: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:05] To boludo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:05] [8b8t] >> Request sent to boludo",
     "[11:05] [8b8t] >> Teleporting...",
     "[11:05] <.RubenXD7771446> boludo ",
     "[11:05] <boludo> que ",
@@ -101,7 +89,19 @@
     "[11:06] To .RubenXD7771446: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:06] Sr_Frundles has made the advancement [Hot Stuff]",
     "[11:06] <.RubenXD7771446> !KIT pvp ",
-    "[11:06] To .RubenXD7771446: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot"
+    "[11:06] To .RubenXD7771446: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:06] <.RubenXD7771446> !KIT ppv ",
+    "[11:06] [8b8t] >> Teleporting to home 0...",
+    "[11:06] [8b8t] >> Teleporting to home 3...",
+    "[11:06] To .RubenXD7771446: Kit \"ppv\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
+    "[11:06] To .RubenXD7771446: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:06] [Basic] <.VadoseMist36087> thx thunder ",
+    "[11:06] [8b8t] >> Request sent to .RubenXD7771446",
+    "[11:06] <.RubenXD7771446> !kit pvp ",
+    "[11:06] To .RubenXD7771446: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:06] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[11:07] <.ThunderDrgn2845> :> ",
+    "[11:07] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2768,7 +2768,7 @@
     "MDRpX": 1,
     "scoutgamer5555": 5,
     "Hadez123766": 1,
-    ".RubenXD7771446": 1
+    ".RubenXD7771446": 2
   },
   "kitStats": {
     "build": 1409,
@@ -2784,7 +2784,7 @@
     "wool": 351,
     "mineral": 515,
     "food": 404,
-    "redstone": 703,
+    "redstone": 704,
     "toolbox": 603,
     "quartz": 239,
     "shulker": 489,
