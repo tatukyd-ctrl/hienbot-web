@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:29:18 6/1/2026",
+  "lastUpdated": "20:29:48 6/1/2026",
   "totalKits": 83395,
   "todayKits": 233,
   "onlineCount": 33,
   "peakPlayers": 76,
-  "tps": "8.0",
-  "ping": 239,
+  "tps": "3.0",
+  "ping": 240,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7065
+      "count": 7066
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:25] <Weemmmbbu> İs there any farlands? ",
-    "[13:25] To randompalyer: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:25] [8b8t] >> Request sent to randompalyer",
-    "[13:25] [8b8t] >> Teleporting...",
-    "[13:25] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[13:26] [BOT] <0_HienBot> Hey Saad2001! ",
-    "[13:26] <.Pichuckrak> yoo ",
-    "[13:26] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
     "[13:27] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
     "[13:27] [OWNER✔] <Leee> wiggers ",
     "[13:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +93,15 @@
     "[13:28] <Saad2001> guys, do ?kit 32k / illigals for kits ",
     "[13:29] [BOT] <0_HienBot> Hello Nanagood_2012! ",
     "[13:29] [8b8t] >> You have killed yourself!",
-    "[13:29] [8b8t] >> No TPA request found"
+    "[13:29] [8b8t] >> No TPA request found",
+    "[13:29] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[13:29] <Aiccooo123> !kit 32K ",
+    "[13:29] [8b8t] >> Teleporting to home 0...",
+    "[13:29] [8b8t] >> Teleporting to home 1...",
+    "[13:29] To Aiccooo123: Kit \"32K\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[13:29] To Aiccooo123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:29] [8b8t] >> Request sent to Aiccooo123",
+    "[13:29] <Saad2001> no do ?kit 32k "
   ],
   "userStats": {
     "76756": 38,
@@ -2771,12 +2771,13 @@
     ".RubenXD7771446": 3,
     "vfcc": 1,
     "DearestDegu": 2,
-    "MattyBot": 1
+    "MattyBot": 1,
+    "Aiccooo123": 1
   },
   "kitStats": {
     "build": 1410,
     "survival": 5492,
-    "pvp": 7065,
+    "pvp": 7066,
     "dupe": 1670,
     "tools": 1668,
     "stash": 857,
