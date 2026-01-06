@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:40:18 6/1/2026",
+  "lastUpdated": "20:40:48 6/1/2026",
   "totalKits": 83399,
   "todayKits": 237,
   "onlineCount": 31,
   "peakPlayers": 76,
-  "tps": "3.0",
-  "ping": 259,
+  "tps": "2.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:38] <.RubenXD7771446> !KIT stash ",
-    "[13:38] [8b8t] >> Teleporting to home 0...",
-    "[13:38] [8b8t] >> Teleporting to home 3...",
-    "[13:38] To .RubenXD7771446: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:38] To .RubenXD7771446: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:38] [8b8t] >> Request sent to .RubenXD7771446",
-    "[13:38] [8b8t] >> Teleporting...",
     "[13:38] [8b8t] >> You have killed yourself!",
     "[13:38] [8b8t] >> Home 2 was not found",
     "[13:38] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
@@ -101,7 +94,14 @@
     "[13:40] <.RubenXD7771446> can i tpa to someone pls? ",
     "[13:40] <Nanagood_2012> XD? ",
     "[13:40] <.RubenXD7771446> pls dont kill me ",
-    "[13:40] <MG_GT10> yets "
+    "[13:40] <MG_GT10> yets ",
+    "[13:40] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[13:40] <.RubenXD7771446> ?kit 32k ",
+    "[13:40] [8b8t] >> Teleporting to home 0...",
+    "[13:40] [8b8t] >> Teleporting to home 4...",
+    "[13:40] To .RubenXD7771446: Kit \"32k\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
+    "[13:40] To .RubenXD7771446: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:40] [8b8t] >> Request sent to .RubenXD7771446"
   ],
   "userStats": {
     "76756": 38,
@@ -2768,7 +2768,7 @@
     "MDRpX": 1,
     "scoutgamer5555": 9,
     "Hadez123766": 1,
-    ".RubenXD7771446": 4,
+    ".RubenXD7771446": 5,
     "vfcc": 1,
     "DearestDegu": 2,
     "MattyBot": 1,
@@ -2797,7 +2797,7 @@
     "armortrims": 359,
     "highway": 476,
     "ocean": 113,
-    "concrete": 314,
+    "concrete": 315,
     "glass": 259,
     "gap": 71,
     "constructor": "function Object() { [native code] }111111111",
