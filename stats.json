@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:09:18 6/1/2026",
-  "totalKits": 83320,
-  "todayKits": 158,
+  "lastUpdated": "17:09:34 6/1/2026",
+  "totalKits": 83321,
+  "todayKits": 159,
   "onlineCount": 21,
   "peakPlayers": 76,
-  "tps": "13.0",
+  "tps": "7.0",
   "ping": 303,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7039
+      "count": 7040
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:07] [Basic] <.VadoseMist36087> $kit highway ",
-    "[10:07] [8b8t] >> Teleporting to home 0...",
-    "[10:07] [8b8t] >> Teleporting to home 7...",
-    "[10:07] To .VadoseMist36087: Your kit (highway) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:07] To .VadoseMist36087: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:07] <MDRpX> clear ",
-    "[10:07] [8b8t] >> Request sent to .VadoseMist36087",
-    "[10:07] [8b8t] >> Teleporting...",
     "[10:07] <MDRpX> ender dragons ",
     "[10:07] <InTheLimit> can i have? ",
     "[10:07] [Basic] <.VadoseMist36087> sure ",
@@ -101,7 +93,15 @@
     "[10:08] <MDRpX> CLEAR ALL ",
     "[10:08] anticheatbust has made the advancement [Remote Getaway]",
     "[10:09] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
-    "[10:09] <Quauxy> f you "
+    "[10:09] <Quauxy> f you ",
+    "[10:09] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[10:09] <Red_Fragment_> !kit pvp ",
+    "[10:09] [8b8t] >> Teleporting to home 0...",
+    "[10:09] [8b8t] >> Teleporting to home 1...",
+    "[10:09] To Red_Fragment_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:09] To Red_Fragment_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:09] [8b8t] >> Request sent to Red_Fragment_",
+    "[10:09] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -291,7 +291,7 @@
     "Mark7254": 5,
     "Kvarsian": 1,
     "hadi09": 16,
-    "Red_Fragment_": 23,
+    "Red_Fragment_": 24,
     "angelpro38": 3,
     "elproplayerxddd": 48,
     "brunoxdxdurhj": 2,
@@ -2769,7 +2769,7 @@
   "kitStats": {
     "build": 1409,
     "survival": 5483,
-    "pvp": 7039,
+    "pvp": 7040,
     "dupe": 1649,
     "tools": 1665,
     "stash": 850,
