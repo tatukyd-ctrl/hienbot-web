@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:23:13 7/1/2026",
+  "lastUpdated": "06:23:43 7/1/2026",
   "totalKits": 83599,
   "todayKits": 57,
   "onlineCount": 45,
   "peakPlayers": 58,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 257,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 1732
+      "count": 1733
     },
     {
       "name": "tools",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:21] <.PRO569177324> ./gaymode c ",
-    "[23:21] <sebasfut29> Music to my ears xx_da ",
-    "[23:21] <Rubin_11> !kit survival ",
-    "[23:21] To Rubin_11: You're on cooldown, try again in 49 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:21] <boludo> mira ",
-    "[23:22] <DEMOMAX> me hubieras tpado a 20k ",
-    "[23:22] <DEMOMAX> o algo ",
-    "[23:22] <DEMOMAX> pero weno ",
-    "[23:22] <sebasfut29> BlackOut gayming ",
-    "[23:22] <Sr_Frundles> aaa ",
-    "[23:22] [BOT] <0_HienBot> Hello PORTON34! ",
-    "[23:22] <DEMOMAX> tienes ender chest? ",
-    "[23:22] <sebasfut29> mi polla un top ",
     "[23:22] <.Pichuckrak> me das la poti bro? ",
     "[23:22] <Rubin_11> !kit survival ",
     "[23:22] To Rubin_11: You're on cooldown, try again in 12 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +88,20 @@
     "[23:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[23:22] [8b8t] >> Teleporting...",
     "[23:23] [8b8t] >> You have killed yourself!",
-    "[23:23] [8b8t] >> Home 2 was not found"
+    "[23:23] [8b8t] >> Home 2 was not found",
+    "[23:23] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[23:23] <xx_da> !kit dupe ",
+    "[23:23] [8b8t] >> Teleporting to home 0...",
+    "[23:23] [8b8t] >> Teleporting to home 8...",
+    "[23:23] To xx_da: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:23] <DEMOMAX> ya vuelvo ",
+    "[23:23] <Rubin_11> !kit survival ",
+    "[23:23] To Rubin_11: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:23] To xx_da: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:23] [8b8t] >> Request sent to xx_da",
+    "[23:23] <boludo> que??? ",
+    "[23:23] <Discord2> chavalessss ",
+    "[23:23] <boludo> que hago? "
   ],
   "userStats": {
     "76756": 38,
@@ -2808,13 +2808,13 @@
     "Discord2": 2,
     "Rubin_11": 3,
     ".PRO569177324": 4,
-    "xx_da": 1
+    "xx_da": 2
   },
   "kitStats": {
     "build": 1429,
     "survival": 5564,
     "pvp": 7126,
-    "dupe": 1732,
+    "dupe": 1733,
     "tools": 1678,
     "stash": 877,
     "raid": 1134,
