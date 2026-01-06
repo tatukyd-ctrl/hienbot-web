@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:48:48 6/1/2026",
+  "lastUpdated": "21:49:18 6/1/2026",
   "totalKits": 83426,
   "todayKits": 264,
   "onlineCount": 45,
   "peakPlayers": 76,
   "tps": "4.0",
-  "ping": 334,
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7075
+      "count": 7076
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:46] To Yvxw: You're on cooldown, try again in 33 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:47] <scoutgamer5555> !kit illegal ",
-    "[14:47] [8b8t] >> Teleporting to home 0...",
-    "[14:47] [8b8t] >> Teleporting to home 8...",
-    "[14:47] To scoutgamer5555: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:47] To scoutgamer5555: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:47] [8b8t] >> Request sent to scoutgamer5555",
-    "[14:47] [8b8t] >> Teleporting...",
     "[14:47] [8b8t] >> You have killed yourself!",
     "[14:47] [8b8t] >> Home 2 was not found",
     "[14:47] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
@@ -101,7 +93,15 @@
     "[14:48] <Saad2001_bot> test ",
     "[14:48] <.LEON50758> test ",
     "[14:48] Yvxw has completed the challenge [Cover Me in Debris]",
-    "[14:48] <or4acle> test "
+    "[14:48] <or4acle> test ",
+    "[14:48] <scoutgamer5555> !kit pvp ",
+    "[14:48] [8b8t] >> Teleporting to home 0...",
+    "[14:48] [BOT] <0_HienBot> Hey _Hienbot! ",
+    "[14:48] [8b8t] >> Teleporting to home 1...",
+    "[14:48] To scoutgamer5555: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:48] To scoutgamer5555: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:48] [8b8t] >> Request sent to scoutgamer5555",
+    "[14:49] <Saad2001_bot> test "
   ],
   "userStats": {
     "76756": 38,
@@ -2766,7 +2766,7 @@
     ".pauljunio": 1,
     "Sunther_": 1,
     "MDRpX": 1,
-    "scoutgamer5555": 11,
+    "scoutgamer5555": 12,
     "Hadez123766": 1,
     ".RubenXD7771446": 12,
     "vfcc": 1,
@@ -2779,7 +2779,7 @@
   "kitStats": {
     "build": 1411,
     "survival": 5497,
-    "pvp": 7075,
+    "pvp": 7076,
     "dupe": 1678,
     "tools": 1670,
     "stash": 865,
