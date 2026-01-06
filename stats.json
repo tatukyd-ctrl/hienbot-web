@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:45:48 6/1/2026",
+  "lastUpdated": "19:46:18 6/1/2026",
   "totalKits": 83372,
   "todayKits": 210,
   "onlineCount": 33,
   "peakPlayers": 76,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 280,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7061
+      "count": 7062
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:44] <Mobiiik> !kit ",
-    "[12:44] To Mobiiik: Hello Mobiiik!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:44] vfcc has made the advancement [Stone Age]",
-    "[12:44] <Mobiiik> !kit illegal ",
-    "[12:44] To Mobiiik: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:44] <ALSIO1243> tp ",
-    "[12:44] [8b8t] >> You have killed yourself!",
-    "[12:44] [8b8t] >> The TPA request you sent to Mobiiik was successfully canceled.",
-    "[12:44] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[12:44] <ALSIO1243> !kit illegal ",
-    "[12:44] [8b8t] >> Teleporting to home 0...",
-    "[12:44] [8b8t] >> Teleporting to home 8...",
-    "[12:44] To ALSIO1243: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:44] <Mobiiik> !kit pvp ",
     "[12:44] To Mobiiik: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:44] To ALSIO1243: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +88,20 @@
     "[12:45] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[12:45] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[12:45] <ALSIO1243> tp ",
-    "[12:45] Zyrqun has completed the challenge [Over-Overkill]"
+    "[12:45] Zyrqun has completed the challenge [Over-Overkill]",
+    "[12:45] <scoutgamer5555> !kit pvp ",
+    "[12:45] [8b8t] >> Teleporting to home 0...",
+    "[12:45] [8b8t] >> Teleporting to home 1...",
+    "[12:45] To scoutgamer5555: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:45] To scoutgamer5555: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:45] [8b8t] >> Request sent to scoutgamer5555",
+    "[12:46] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
+    "[12:46] [8b8t] >> Teleporting...",
+    "[12:46] <valvalvalval> !kit 32k ",
+    "[12:46] [8b8t] >> You have killed yourself!",
+    "[12:46] To valvalvalval: Kit \"32k\" not found! Giving you (wood) instead! dsc.gg/hienbot",
+    "[12:46] [8b8t] >> Teleporting to home 0...",
+    "[12:46] [8b8t] >> Teleporting to home 4..."
   ],
   "userStats": {
     "76756": 38,
@@ -2546,7 +2546,7 @@
     "ItzRealHanh": 2,
     "niggasatan": 1,
     "RAV_09": 2,
-    "valvalvalval": 2,
+    "valvalvalval": 3,
     "OMD43_0": 2,
     "Nathaniel2244": 1,
     "Yusuphene2": 1,
@@ -2766,7 +2766,7 @@
     ".pauljunio": 1,
     "Sunther_": 1,
     "MDRpX": 1,
-    "scoutgamer5555": 6,
+    "scoutgamer5555": 7,
     "Hadez123766": 1,
     ".RubenXD7771446": 3,
     "vfcc": 1
@@ -2774,12 +2774,12 @@
   "kitStats": {
     "build": 1409,
     "survival": 5489,
-    "pvp": 7061,
+    "pvp": 7062,
     "dupe": 1660,
     "tools": 1667,
     "stash": 856,
     "raid": 1118,
-    "wood": 467,
+    "wood": 468,
     "exp": 627,
     "dye": 270,
     "wool": 351,
