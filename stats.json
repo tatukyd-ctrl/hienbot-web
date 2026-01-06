@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:13:48 6/1/2026",
+  "lastUpdated": "23:14:18 6/1/2026",
   "totalKits": 83457,
   "todayKits": 295,
   "onlineCount": 43,
   "peakPlayers": 76,
-  "tps": "4.0",
-  "ping": 310,
+  "tps": "5.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:12] <26824894268498E3> !kit 32k ",
-    "[16:12] To 26824894268498E3: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:12] Book434 has made the advancement [Voluntary Exile]",
-    "[16:12] Renzo845YTTT has made the advancement [Monster Hunter]",
-    "[16:12] <.LEON50758> !kit 32k ",
-    "[16:12] <GaBaus> !kit a ",
     "[16:12] To .LEON50758: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:12] To GaBaus: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:12] <.LEON50758> !kit 32k ",
@@ -101,7 +95,13 @@
     "[16:13] To anibar123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:13] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[16:13] [8b8t] >> You have killed yourself!",
-    "[16:13] [8b8t] >> No TPA request found"
+    "[16:13] [8b8t] >> No TPA request found",
+    "[16:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[16:14] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[16:14] <26824894268498E3> !kit 32k ",
+    "[16:14] [8b8t] >> Teleporting to home 0...",
+    "[16:14] [8b8t] >> Teleporting to home 5...",
+    "[16:14] To 26824894268498E3: Kit \"32k\" not found! Giving you (food) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2551,7 +2551,7 @@
     "Nathaniel2244": 1,
     "Yusuphene2": 1,
     "ufositek": 1,
-    "26824894268498E3": 21,
+    "26824894268498E3": 22,
     "undulantLily833": 11,
     "Aadya95": 6,
     "xSlitz": 17,
@@ -2790,7 +2790,7 @@
     "dye": 273,
     "wool": 351,
     "mineral": 515,
-    "food": 410,
+    "food": 411,
     "redstone": 709,
     "toolbox": 610,
     "quartz": 241,
