@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:53:49 7/1/2026",
+  "lastUpdated": "02:54:19 7/1/2026",
   "totalKits": 83541,
   "todayKits": 379,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 76,
-  "tps": "4.0",
+  "tps": "7.0",
   "ping": 250,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5531
+      "count": 5532
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:51] <panana777> !kit wool ",
-    "[19:51] [8b8t] >> Teleporting to home 0...",
-    "[19:51] [8b8t] >> Teleporting to home 4...",
-    "[19:51] To panana777: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:51] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[19:51] To panana777: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:51] [8b8t] >> Request sent to panana777",
     "[19:51] [BOT] <0_HienBot> Type !discord ",
     "[19:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:51] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[19:53] [8b8t] >> You have killed yourself!",
     "[19:53] <Isaac28112012> !kit pvp ",
     "[19:53] To Isaac28112012: You're on cooldown, try again in 100 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:53] [8b8t] >> The TPA request you sent to Isaac28112012 was successfully canceled."
+    "[19:53] [8b8t] >> The TPA request you sent to Isaac28112012 was successfully canceled.",
+    "[19:54] [Basic] <.VadoseMist36087> i see endframes ",
+    "[19:54] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[19:54] <kobhere> !kit survival ",
+    "[19:54] [8b8t] >> Teleporting to home 0...",
+    "[19:54] [8b8t] >> Teleporting to home 1...",
+    "[19:54] To kobhere: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:54] To kobhere: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2351,7 +2351,7 @@
     "The_Isma02": 1,
     "PrepMuffin00422": 1,
     "fo1dslammer666": 4,
-    "kobhere": 2,
+    "kobhere": 3,
     "TheOverlord451": 1,
     "j122": 14,
     "lvashl": 48,
@@ -2795,7 +2795,7 @@
   },
   "kitStats": {
     "build": 1426,
-    "survival": 5531,
+    "survival": 5532,
     "pvp": 7103,
     "dupe": 1718,
     "tools": 1675,
