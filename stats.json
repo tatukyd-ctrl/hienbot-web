@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:18:48 6/1/2026",
-  "totalKits": 83227,
-  "todayKits": 65,
-  "onlineCount": 26,
+  "lastUpdated": "12:19:15 6/1/2026",
+  "totalKits": 83228,
+  "todayKits": 66,
+  "onlineCount": 27,
   "peakPlayers": 76,
-  "tps": "3.0",
-  "ping": 245,
+  "tps": "5.0",
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7019
+      "count": 7020
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:15] [8b8t] >> You have killed yourself!",
-    "[05:15] [8b8t] >> The TPA request you sent to Tyxks was successfully canceled.",
-    "[05:16] <ElMaster912> ok ",
-    "[05:16] <Tyxks> !kit Shulker ",
-    "[05:16] <DeathZuka> sirvete ",
-    "[05:16] <DeathZuka> xd ",
-    "[05:16] <ElMaster912> JAJAJA ",
-    "[05:16] To Tyxks: You're on cooldown, try again in 82 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:16] <DeathZuka> jajja ",
-    "[05:16] [BOT] <0_HienBot> Hey Fugitivies_24! ",
-    "[05:16] <DeathZuka> toma el shulker ",
-    "[05:16] <axxus> ya te mande Deat ",
     "[05:16] <ElMaster912> oka ",
     "[05:16] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[05:16] <Hien2309> ra day ",
@@ -101,7 +89,19 @@
     "[05:18] [BOT] <0_HienBot> Try !кιт survival ",
     "[05:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:18] <axxus> guarda spawn ",
-    "[05:18] <DeathZuka> :v "
+    "[05:18] <DeathZuka> :v ",
+    "[05:18] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[05:18] <DeathZuka> aca no sirve eso ",
+    "[05:19] <DeathZuka> se hace con el comano home ",
+    "[05:19] NEXUS_1 Whispers: !kit PVP",
+    "[05:19] [8b8t] >> Teleporting to home 0...",
+    "[05:19] [8b8t] >> Teleporting to home 1...",
+    "[05:19] To NEXUS_1: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:19] To NEXUS_1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:19] [8b8t] >> Request sent to NEXUS_1",
+    "[05:19] <WORDIPOP> Hien2309 i love you ",
+    "[05:19] <axxus> si sirve dale click derecho a la cama ",
+    "[05:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2752,12 +2752,13 @@
     "Gaelitooo0": 1,
     "sota____": 2,
     "PlayerNoPro505": 1,
-    "DonAxx21": 1
+    "DonAxx21": 1,
+    "NEXUS_1": 1
   },
   "kitStats": {
     "build": 1399,
     "survival": 5462,
-    "pvp": 7019,
+    "pvp": 7020,
     "dupe": 1635,
     "tools": 1661,
     "stash": 840,
