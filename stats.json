@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:32:49 7/1/2026",
+  "lastUpdated": "02:33:19 7/1/2026",
   "totalKits": 83538,
   "todayKits": 376,
-  "onlineCount": 48,
+  "onlineCount": 49,
   "peakPlayers": 76,
-  "tps": "7.0",
+  "tps": "5.0",
   "ping": 275,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5528
+      "count": 5529
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:31] <LEON10> !kit survival ",
-    "[19:31] [8b8t] >> Teleporting to home 0...",
-    "[19:31] [8b8t] >> Teleporting to home 1...",
-    "[19:31] To LEON10: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:31] To LEON10: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:31] [8b8t] >> Request sent to LEON10",
-    "[19:31] [BOT] <0_HienBot> What's up, santi_ripxd? ",
-    "[19:31] [8b8t] >> Teleporting...",
-    "[19:31] [8b8t] >> You have killed yourself!",
-    "[19:31] [8b8t] >> Home 2 was not found",
-    "[19:31] LEON10 has made the advancement [Ice Bucket Challenge]",
-    "[19:31] [BOT] <0_HienBot> What's up, Isaac28112012? ",
-    "[19:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[19:31] <shirooo90> !kit survival ",
     "[19:32] To shirooo90: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
     "[19:32] <WORDIPOP> y eso d dond lo saco xd ",
@@ -101,7 +88,20 @@
     "[19:32] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[19:32] <sergilloelpillo> !kit survival ",
     "[19:32] To sergilloelpillo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:32] LEON10 has completed the challenge [Serious Dedication]"
+    "[19:32] LEON10 has completed the challenge [Serious Dedication]",
+    "[19:32] [8b8t] >> Please do not spam.",
+    "[19:32] [8b8t] >> You have killed yourself!",
+    "[19:32] [8b8t] >> No TPA request found",
+    "[19:32] <ScreaM8989> dios xD ",
+    "[19:32] <Isaac28112012> !kit survival ",
+    "[19:33] [8b8t] >> Teleporting to home 0...",
+    "[19:33] [8b8t] >> Teleporting to home 1...",
+    "[19:33] To Isaac28112012: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:33] <WORDIPOP> te da lag? ",
+    "[19:33] To Isaac28112012: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:33] <santi_ripxd> Quien quiere bedrock ",
+    "[19:33] [8b8t] >> Request sent to Isaac28112012",
+    "[19:33] <ScreaM8989> xdD bastante "
   ],
   "userStats": {
     "76756": 38,
@@ -2790,11 +2790,12 @@
     "bautost2": 8,
     "matibrodbr": 1,
     ".JhosepMC3341": 1,
-    "LEON10": 2
+    "LEON10": 2,
+    "Isaac28112012": 1
   },
   "kitStats": {
     "build": 1426,
-    "survival": 5528,
+    "survival": 5529,
     "pvp": 7101,
     "dupe": 1717,
     "tools": 1674,
