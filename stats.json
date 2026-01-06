@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:11:13 7/1/2026",
+  "lastUpdated": "04:11:43 7/1/2026",
   "totalKits": 83565,
   "todayKits": 23,
-  "onlineCount": 46,
+  "onlineCount": 45,
   "peakPlayers": 52,
-  "tps": "5.0",
+  "tps": "7.0",
   "ping": 256,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7108
+      "count": 7109
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:09] <boludo> edennn ",
-    "[21:09] <WORDIPOP> espera ",
-    "[21:09] <espinos> !kit food ",
-    "[21:09] [8b8t] >> Teleporting to home 0...",
-    "[21:09] [8b8t] >> Teleporting to home 5...",
-    "[21:09] To espinos: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:09] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[21:09] NANA_GOOD123 has reached the goal [Postmortal]",
-    "[21:09] <ruazinnn989423> !kit pvp ",
-    "[21:09] To espinos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:09] To ruazinnn989423: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:09] <boludo> estoy en la altura 16k ",
     "[21:09] [8b8t] >> Request sent to espinos",
     "[21:09] [8b8t] >> Teleporting...",
     "[21:09] <boludo> Eden ayuda ",
@@ -101,7 +89,19 @@
     "[21:10] To Manuelly_: Hello Manuelly_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[21:11] <_justme> !kit ",
     "[21:11] To _justme: Hello _justme!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[21:11] [BOT] <0_HienBot> Hey NetherB0T! "
+    "[21:11] [BOT] <0_HienBot> Hey NetherB0T! ",
+    "[21:11] <_justme> !kit pvp ",
+    "[21:11] [8b8t] >> Teleporting to home 0...",
+    "[21:11] [8b8t] >> Teleporting to home 1...",
+    "[21:11] To _justme: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:11] To _justme: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:11] [8b8t] >> Request sent to _justme",
+    "[21:11] <Manuelly_> !kit ",
+    "[21:11] To Manuelly_: Hello Manuelly_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[21:11] <boludo> acepta ",
+    "[21:11] <Manuelly_> !kit ",
+    "[21:11] [BOT] <0_HienBot> Use !кιт to get kits ",
+    "[21:11] To Manuelly_: Hello Manuelly_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1463,7 +1463,7 @@
     "Intiha": 5,
     "iFybel": 2,
     "Virgot": 12,
-    "_justme": 10,
+    "_justme": 11,
     "PunyFr06": 1,
     "ManePear25": 4,
     "zombie_ahogado": 1,
@@ -2798,7 +2798,7 @@
   "kitStats": {
     "build": 1426,
     "survival": 5541,
-    "pvp": 7108,
+    "pvp": 7109,
     "dupe": 1727,
     "tools": 1676,
     "stash": 874,
