@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:43:18 6/1/2026",
+  "lastUpdated": "19:43:48 6/1/2026",
   "totalKits": 83371,
   "todayKits": 209,
-  "onlineCount": 34,
+  "onlineCount": 35,
   "peakPlayers": 76,
-  "tps": "4.0",
-  "ping": 241,
+  "tps": "2.0",
+  "ping": 238,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:41] [8b8t] >> Teleporting to home 3...",
-    "[12:41] To Mobiiik: Your kit (Raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:41] To Mobiiik: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:41] [8b8t] >> Request sent to Mobiiik",
-    "[12:41] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[12:41] <Aiccooo123> *addfact ",
-    "[12:41] [8b8t] >> You have killed yourself!",
-    "[12:41] [8b8t] >> The TPA request you sent to Mobiiik was successfully canceled.",
     "[12:42] [BOT] <0_HienBot> Welcome to 8b8t, 8b8t_net! ",
     "[12:42] <Mobiiik> !kit toolbox ",
     "[12:42] To Mobiiik: You're on cooldown, try again in 76 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[12:42] [8b8t] >> Home 2 was not found",
     "[12:42] <Mobiiik> !kit ",
     "[12:42] To Mobiiik: Hello Mobiiik!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:43] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me "
+    "[12:43] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[12:43] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[12:43] <ALSIO1243> tp ",
+    "[12:43] <scoutgamer5555> !kit ",
+    "[12:43] To scoutgamer5555: Hello scoutgamer5555!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[12:43] <Mobiiik> !kit deliver ",
+    "[12:43] [8b8t] >> Teleporting to home 0...",
+    "[12:43] <ALSIO1243> tp ",
+    "[12:43] [8b8t] >> Teleporting to home 3..."
   ],
   "userStats": {
     "76756": 38,
@@ -2722,7 +2722,7 @@
     "panana777": 8,
     "Alexisfemboy": 1,
     "Mal_wPjGeV": 1,
-    "Mobiiik": 4,
+    "Mobiiik": 5,
     "edw106": 1,
     ".Mattituas": 1,
     "JUANJOXE": 1,
@@ -2785,7 +2785,7 @@
     "wool": 351,
     "mineral": 515,
     "food": 404,
-    "redstone": 706,
+    "redstone": 707,
     "toolbox": 605,
     "quartz": 239,
     "shulker": 492,
