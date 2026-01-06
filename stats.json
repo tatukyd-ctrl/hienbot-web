@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:42:43 7/1/2026",
+  "lastUpdated": "04:43:13 7/1/2026",
   "totalKits": 83572,
   "todayKits": 30,
   "onlineCount": 52,
   "peakPlayers": 57,
-  "tps": "5.0",
-  "ping": 277,
+  "tps": "4.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5546
+      "count": 5547
     },
     {
       "name": "dupe",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:41] [8b8t] >> The TPA request you sent to deantheneek was successfully canceled.",
-    "[21:41] <Exploterxyz> !kit 32k ",
-    "[21:41] [8b8t] >> Teleporting to home 0...",
-    "[21:41] [8b8t] >> Teleporting to home 4...",
-    "[21:41] To Exploterxyz: Kit \"32k\" not found! Giving you (wood) instead! dsc.gg/hienbot",
-    "[21:41] To Exploterxyz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:41] [8b8t] >> Request sent to Exploterxyz",
-    "[21:41] <espinos> pvp? ",
-    "[21:41] <ChumnoyMR> !kit 32k ",
-    "[21:41] To ChumnoyMR: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:41] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[21:41] <espinos> not here ",
-    "[21:41] thiago_decarrizo has made the advancement [We Need to Go Deeper]",
-    "[21:42] <Manuelly_> !kit elitra ",
-    "[21:42] To Manuelly_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:42] doritosconcafe has completed the challenge [Serious Dedication]",
     "[21:42] [8b8t] >> You have killed yourself!",
     "[21:42] [8b8t] >> You have killed yourself!",
@@ -101,7 +86,22 @@
     "[21:42] <Exploterxyz> !kit 32k ",
     "[21:42] To Exploterxyz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:42] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[21:42] pepitokks12302 has made the advancement [Acquire Hardware]"
+    "[21:42] pepitokks12302 has made the advancement [Acquire Hardware]",
+    "[21:42] [8b8t] >> You have killed yourself!",
+    "[21:42] [8b8t] >> No TPA request found",
+    "[21:42] <Exploterxyz> !kit 32k ",
+    "[21:42] To Exploterxyz: You're on cooldown, try again in 96 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:42] <Xafrank> !Kit survival ",
+    "[21:42] [8b8t] >> Teleporting to home 0...",
+    "[21:42] <DiegoGamer8860> !kit survival ",
+    "[21:42] To DiegoGamer8860: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:42] To Xafrank: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:43] <Manuelly_> !kit fireworks ",
+    "[21:43] To Manuelly_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:43] Soy_Tomy has reached the goal [Sky's the Limit]",
+    "[21:43] <ScreaM8989> estabas bug ",
+    "[21:43] Soy_Tomy has made the advancement [Ice Bucket Challenge]",
+    "[21:43] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> "
   ],
   "userStats": {
     "76756": 38,
@@ -2797,11 +2797,12 @@
     "Ghosttico_": 1,
     "_Mbhv": 3,
     "soypapuxd": 2,
-    "DiegoGamer8860": 1
+    "DiegoGamer8860": 1,
+    "Xafrank": 1
   },
   "kitStats": {
     "build": 1427,
-    "survival": 5546,
+    "survival": 5547,
     "pvp": 7117,
     "dupe": 1727,
     "tools": 1676,
