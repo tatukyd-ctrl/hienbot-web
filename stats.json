@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:44:48 6/1/2026",
+  "lastUpdated": "21:45:18 6/1/2026",
   "totalKits": 83422,
   "todayKits": 260,
-  "onlineCount": 42,
+  "onlineCount": 44,
   "peakPlayers": 76,
-  "tps": "2.0",
-  "ping": 253,
+  "tps": "6.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:42] To Yvxw: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:43] To Yvxw: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:43] [8b8t] >> Request sent to Yvxw",
-    "[14:43] <.DorsalLand9978> !kit pvp ",
-    "[14:43] To .DorsalLand9978: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:43] [8b8t] >> Teleporting...",
-    "[14:43] [8b8t] >> You have killed yourself!",
-    "[14:43] [8b8t] >> Home 2 was not found",
-    "[14:43] <.DorsalLand9978> !kit pvp ",
     "[14:43] [8b8t] >> Teleporting to home 0...",
     "[14:43] <stuck_alt> ?kit 32k ",
     "[14:43] To stuck_alt: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[14:44] To Yvxw: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:44] Titanum has made the advancement [Ice Bucket Challenge]",
     "[14:44] [BOT] <0_HienBot> Type !discord ",
-    "[14:44] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[14:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:44] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[14:45] <Titanum> !kit Raid ",
+    "[14:45] [8b8t] >> Teleporting to home 0...",
+    "[14:45] [8b8t] >> Teleporting to home 3...",
+    "[14:45] To Titanum: Your kit (Raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:45] To Titanum: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:45] [8b8t] >> Request sent to Titanum",
+    "[14:45] <Yvxw> !kit raid ",
+    "[14:45] To Yvxw: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2774,7 +2774,7 @@
     "MattyBot": 1,
     "Aiccooo123": 2,
     "XreMatiSK": 7,
-    "Titanum": 1
+    "Titanum": 2
   },
   "kitStats": {
     "build": 1411,
@@ -2783,7 +2783,7 @@
     "dupe": 1677,
     "tools": 1670,
     "stash": 865,
-    "raid": 1119,
+    "raid": 1120,
     "wood": 469,
     "exp": 628,
     "dye": 272,
