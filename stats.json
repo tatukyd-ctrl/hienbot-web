@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:23:18 6/1/2026",
+  "lastUpdated": "17:23:48 6/1/2026",
   "totalKits": 83324,
   "todayKits": 162,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 76,
-  "tps": "7.0",
-  "ping": 252,
+  "tps": "9.0",
+  "ping": 312,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7041
+      "count": 7042
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:20] To MDRpX: Hello MDRpX!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:20] <stuck_alt> !kit Pvp ",
-    "[10:20] [8b8t] >> Teleporting to home 0...",
-    "[10:20] [8b8t] >> Teleporting to home 1...",
-    "[10:20] To stuck_alt: Your kit (Pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:20] To stuck_alt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:20] [8b8t] >> Request sent to stuck_alt",
-    "[10:20] [8b8t] >> Teleporting...",
     "[10:20] <Sr_Frundles> ok ",
     "[10:20] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[10:20] <.pauljunio> scream fck you ",
@@ -101,7 +93,15 @@
     "[10:22] [BOT] <0_HienBot> Try !кιт survival ",
     "[10:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[10:23] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
-    "[10:23] <MDRpX> kill me if you're gay "
+    "[10:23] <MDRpX> kill me if you're gay ",
+    "[10:23] Hadez123766 has made the advancement [The End?]",
+    "[10:23] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
+    "[10:23] <MDRpX> !kit pvp ",
+    "[10:23] [8b8t] >> Teleporting to home 0...",
+    "[10:23] [8b8t] >> Teleporting to home 1...",
+    "[10:23] To MDRpX: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:23] To MDRpX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:23] [8b8t] >> Request sent to MDRpX"
   ],
   "userStats": {
     "76756": 38,
@@ -2764,12 +2764,13 @@
     "swimdi": 5,
     "InTheLimit": 1,
     ".pauljunio": 1,
-    "Sunther_": 1
+    "Sunther_": 1,
+    "MDRpX": 1
   },
   "kitStats": {
     "build": 1409,
     "survival": 5483,
-    "pvp": 7041,
+    "pvp": 7042,
     "dupe": 1649,
     "tools": 1666,
     "stash": 850,
