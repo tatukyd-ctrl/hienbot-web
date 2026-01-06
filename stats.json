@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:35:22 6/1/2026",
+  "lastUpdated": "17:35:48 6/1/2026",
   "totalKits": 83330,
   "todayKits": 168,
   "onlineCount": 27,
   "peakPlayers": 76,
-  "tps": "2.0",
-  "ping": 257,
+  "tps": "9.0",
+  "ping": 312,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7043
+      "count": 7044
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:33] [8b8t] >> Teleporting...",
-    "[10:34] [8b8t] >> You have killed yourself!",
-    "[10:34] <Hien2309> !Kit glass ",
-    "[10:34] [8b8t] >> Teleporting to home 0...",
-    "[10:34] [8b8t] >> Home 2 was not found",
-    "[10:34] [8b8t] >> Teleporting to home 5...",
-    "[10:34] To Hien2309: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:34] To Hien2309: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:34] [8b8t] >> Request sent to Hien2309",
     "[10:34] [8b8t] >> Teleporting...",
     "[10:34] <InTheLimit> whats the frame dupe ",
     "[10:34] <scoutgamer5555> !Kit ",
@@ -101,7 +92,16 @@
     "[10:35] To .VadoseMist36087: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:35] [8b8t] >> Request sent to .VadoseMist36087",
     "[10:35] [8b8t] >> Teleporting...",
-    "[10:35] <scoutgamer5555> !ping "
+    "[10:35] <scoutgamer5555> !ping ",
+    "[10:35] To scoutgamer5555: Your ping is: 280 ms Dont forget to join dsc.gg/hienbot",
+    "[10:35] <ScreaM8989> esta bien por hoy :D ",
+    "[10:35] <scoutgamer5555> !kit pvp ",
+    "[10:35] [8b8t] >> Teleporting to home 0...",
+    "[10:35] [8b8t] >> Teleporting to home 1...",
+    "[10:35] To scoutgamer5555: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:35] To scoutgamer5555: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:35] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[10:35] [8b8t] >> Request sent to scoutgamer5555"
   ],
   "userStats": {
     "76756": 38,
@@ -2765,12 +2765,13 @@
     "InTheLimit": 1,
     ".pauljunio": 1,
     "Sunther_": 1,
-    "MDRpX": 1
+    "MDRpX": 1,
+    "scoutgamer5555": 1
   },
   "kitStats": {
     "build": 1409,
     "survival": 5483,
-    "pvp": 7043,
+    "pvp": 7044,
     "dupe": 1649,
     "tools": 1666,
     "stash": 851,
