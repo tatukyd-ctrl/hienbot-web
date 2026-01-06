@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:29:04 6/1/2026",
+  "lastUpdated": "19:29:18 6/1/2026",
   "totalKits": 83366,
   "todayKits": 204,
-  "onlineCount": 35,
+  "onlineCount": 34,
   "peakPlayers": 76,
-  "tps": "6.0",
+  "tps": "4.0",
   "ping": 238,
   "topUsers": [
     {
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:23] [8b8t] >> The TPA request you sent to Yvxw was successfully canceled.",
-    "[12:23] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[12:23] <Yvxw> !kit pvp ",
     "[12:23] To Yvxw: You're on cooldown, try again in 77 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:24] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
@@ -101,7 +99,9 @@
     "[12:28] To CallMeRuby: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:28] [8b8t] >> Request sent to CallMeRuby",
     "[12:29] [8b8t] >> Teleporting...",
-    "[12:29] [BOT] <0_HienBot> Use /kill to kill yourself! "
+    "[12:29] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[12:29] [8b8t] >> You have killed yourself!",
+    "[12:29] [8b8t] >> Home 2 was not found"
   ],
   "userStats": {
     "76756": 38,
