@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:56:18 6/1/2026",
+  "lastUpdated": "17:56:48 6/1/2026",
   "totalKits": 83335,
   "todayKits": 173,
   "onlineCount": 28,
   "peakPlayers": 76,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 421,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:52] <Broismad> !kit Survival ",
-    "[10:52] [8b8t] >> Teleporting...",
-    "[10:52] To Broismad: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[10:53] [8b8t] >> You have killed yourself!",
-    "[10:53] [8b8t] >> Home 2 was not found",
     "[10:53] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[10:53] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[10:53] <boludo> alguien me saca del spawn ",
@@ -101,7 +95,13 @@
     "[10:55] [8b8t] >> Home 2 was not found",
     "[10:55] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[10:56] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[10:56] <Broismad> !kit "
+    "[10:56] <Broismad> !kit ",
+    "[10:56] To Broismad: Hello Broismad!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:56] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[10:56] <jven830> !kit mineral ",
+    "[10:56] [8b8t] >> Teleporting to home 0...",
+    "[10:56] [8b8t] >> Teleporting to home 4...",
+    "[10:56] To jven830: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2524,7 +2524,7 @@
     ".Im_Aleksa8716": 3,
     "beamyyyy": 1,
     "CelestoVerse": 1,
-    "jven830": 10,
+    "jven830": 11,
     "ChhotuBadmash": 2,
     "SIP_nether": 2,
     "peneauditiv0": 4,
@@ -2781,7 +2781,7 @@
     "exp": 627,
     "dye": 270,
     "wool": 351,
-    "mineral": 514,
+    "mineral": 515,
     "food": 404,
     "redstone": 703,
     "toolbox": 603,
