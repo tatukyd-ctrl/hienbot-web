@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:11:48 6/1/2026",
-  "totalKits": 83387,
-  "todayKits": 225,
-  "onlineCount": 32,
+  "lastUpdated": "20:12:17 6/1/2026",
+  "totalKits": 83388,
+  "todayKits": 226,
+  "onlineCount": 31,
   "peakPlayers": 76,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 241,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 1665
+      "count": 1666
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:08] To MattyBot: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:08] [8b8t] >> Request sent to MattyBot",
-    "[13:08] <randompalyer> !kit Illegal ",
-    "[13:08] To randompalyer: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:08] [Pro+] <lvashl> !kit elytras ",
-    "[13:08] To lvashl: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:09] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
-    "[13:09] [8b8t] >> Teleporting...",
     "[13:09] <ALSIO1243> some1 whants to tp i need human interaction ",
     "[13:09] <randompalyer> !kit Illegal ",
     "[13:09] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[13:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:11] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[13:11] <Saad2001_bot> my chromebook does run 1.21.10 ",
-    "[13:11] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me "
+    "[13:11] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[13:12] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[13:12] <AgonHacck> !kit dupe ",
+    "[13:12] [8b8t] >> Teleporting to home 0...",
+    "[13:12] [8b8t] >> Teleporting to home 8...",
+    "[13:12] To AgonHacck: 你的kit (dupe) 将在30秒内送达！加入 dsc.gg/hienbot",
+    "[13:12] To AgonHacck: 请在35秒内输入 \"/tpayes 0_HienBot\" ！加入 dsc.gg/hienbot 获取更新。",
+    "[13:12] [8b8t] >> Request sent to AgonHacck",
+    "[13:12] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1744,7 +1744,7 @@
     "sonic228765": 3,
     "LordVoidMC": 31,
     "lolbonnie": 2,
-    "AgonHacck": 13,
+    "AgonHacck": 14,
     "xXVo1taikxX": 4,
     "MattysStuff": 3,
     "LifelesssheepYT": 8,
@@ -2777,7 +2777,7 @@
     "build": 1410,
     "survival": 5491,
     "pvp": 7063,
-    "dupe": 1665,
+    "dupe": 1666,
     "tools": 1668,
     "stash": 856,
     "raid": 1118,
