@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:23:35 7/1/2026",
+  "lastUpdated": "10:24:05 7/1/2026",
   "totalKits": 83638,
   "todayKits": 15,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 36,
   "tps": "3.0",
-  "ping": 253,
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:21] [8b8t] >> Teleporting to home 0...",
-    "[03:21] [8b8t] >> Teleporting to home 5...",
-    "[03:21] To WORDIPOP: Your kit (toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[03:21] To WORDIPOP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:21] [8b8t] >> Request sent to WORDIPOP",
-    "[03:21] [8b8t] >> Teleporting...",
-    "[03:21] <pelotudo> !kit survival ",
     "[03:21] To pelotudo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:21] <WenlerMaster> esperame aca ",
     "[03:21] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[03:23] <Clone_Account> ahora si ",
     "[03:23] <.pauljunio> who can /tpahere paulojunio plz ",
     "[03:23] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
-    "[03:23] <Clone_Account> q no me podia teleportar a mi casita "
+    "[03:23] <Clone_Account> q no me podia teleportar a mi casita ",
+    "[03:23] <GaBaus> !kit a ",
+    "[03:23] [8b8t] >> Teleporting to home 0...",
+    "[03:23] [8b8t] >> Teleporting to home 5...",
+    "[03:23] To GaBaus: Kit \"a\" not found! Giving you (glass) instead! dsc.gg/hienbot",
+    "[03:23] To GaBaus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:23] [8b8t] >> Request sent to GaBaus",
+    "[03:23] <Clone_Account> ahh hell naw ",
+    "[03:24] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore "
   ],
   "userStats": {
     "76756": 38,
@@ -212,7 +212,7 @@
     "likkalikkapoo": 5,
     "AtomicMaterials": 3,
     "maskurot": 7,
-    "GaBaus": 51,
+    "GaBaus": 52,
     "ayv3ee": 10,
     "Xoelsouto": 2,
     "3DProphet": 1,
@@ -2841,7 +2841,7 @@
     "highway": 491,
     "ocean": 119,
     "concrete": 323,
-    "glass": 261,
+    "glass": 262,
     "gap": 73,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 67,
