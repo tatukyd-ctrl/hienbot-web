@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:34:35 7/1/2026",
+  "lastUpdated": "09:35:05 7/1/2026",
   "totalKits": 83627,
   "todayKits": 4,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 36,
-  "tps": "9.0",
-  "ping": 271,
+  "tps": "14.0",
+  "ping": 270,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5573
+      "count": 5574
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:31] <hudracraft> al quien me enseña a dupear aka ",
-    "[02:31] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[02:32] [BOT] <0_HienBot> Type !discord ",
-    "[02:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:32] <Leonico27> era con los palos o con los mapas ",
-    "[02:32] [8b8t] >> You have killed yourself!",
-    "[02:32] [8b8t] >> The TPA request you sent to lvashl was successfully canceled.",
-    "[02:32] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[02:32] [Pro+] <lvashl> !kit Survival ",
-    "[02:32] To lvashl: You're on cooldown, try again in 73 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:32] <juhju> te mando tpa ",
     "[02:32] <Amaya72> yo lo hacia con marcos ",
     "[02:33] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
@@ -101,7 +91,17 @@
     "[02:34] [Pro+] <lvashl> el bot no da los kits ",
     "[02:34] [Pro+] <lvashl> esta bug ",
     "[02:34] [8b8t] >> You have killed yourself!",
-    "[02:34] [8b8t] >> The TPA request you sent to 33v_ was successfully canceled."
+    "[02:34] [8b8t] >> The TPA request you sent to 33v_ was successfully canceled.",
+    "[02:34] [Pro+] <lvashl> !kit Survival ",
+    "[02:34] [8b8t] >> Teleporting to home 0...",
+    "[02:34] [8b8t] >> Teleporting to home 1...",
+    "[02:34] To lvashl: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:34] To lvashl: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:34] [8b8t] >> Request sent to lvashl",
+    "[02:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[02:34] <hudracraft> busco amigos para jugar soy de confianza manden msg ",
+    "[02:35] [BOT] <0_HienBot> Type !discord ",
+    "[02:35] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "76756": 38,
@@ -2354,7 +2354,7 @@
     "kobhere": 3,
     "TheOverlord451": 1,
     "j122": 14,
-    "lvashl": 50,
+    "lvashl": 51,
     "joshfrom1984_314": 9,
     "MBKBOZKURT90": 6,
     "miniconquest": 4,
@@ -2817,7 +2817,7 @@
   },
   "kitStats": {
     "build": 1430,
-    "survival": 5573,
+    "survival": 5574,
     "pvp": 7133,
     "dupe": 1741,
     "tools": 1679,
