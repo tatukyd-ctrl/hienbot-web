@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:03:35 7/1/2026",
+  "lastUpdated": "10:04:05 7/1/2026",
   "totalKits": 83634,
   "todayKits": 11,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 36,
-  "tps": "7.0",
+  "tps": "3.0",
   "ping": 262,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5577
+      "count": 5578
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:01] [8b8t] >> Teleporting to home 0...",
-    "[03:01] [8b8t] >> Teleporting to home 1...",
-    "[03:01] To popeye12: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:01] To popeye12: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[03:01] <popeye12> !kit survival ",
-    "[03:01] To popeye12: You're on cooldown, try again in 96 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:01] <popeye12> !kit survival ",
-    "[03:01] To popeye12: You're on cooldown, try again in 94 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:01] <boludo> !kit build ",
-    "[03:01] [8b8t] >> Teleporting to home 0...",
     "[03:01] [8b8t] >> Teleporting to home 3...",
     "[03:01] <popeye12> !kit survival ",
     "[03:01] To boludo: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[03:03] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
     "[03:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[03:03] pelotudo has completed the challenge [Over-Overkill]",
-    "[03:03] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me "
+    "[03:03] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[03:03] <popeye12> !kit SURVIVAL ",
+    "[03:03] [8b8t] >> Teleporting to home 0...",
+    "[03:03] [8b8t] >> Teleporting to home 1...",
+    "[03:03] To popeye12: Your kit (SURVIVAL) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:03] <popeye12> !kit SURVIVAL ",
+    "[03:03] To popeye12: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[03:03] To popeye12: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[03:03] <popeye12> !kit SURVIVAL ",
+    "[03:03] To popeye12: You're on cooldown, try again in 96 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:04] [BOT] <0_HienBot> Bot created by Hien2309. "
   ],
   "userStats": {
     "76756": 38,
@@ -2814,12 +2814,12 @@
     "pokiolucsa12": 4,
     "snaGredXD": 1,
     "33v_": 3,
-    "popeye12": 4,
+    "popeye12": 5,
     "itz_laeeqs": 1
   },
   "kitStats": {
     "build": 1431,
-    "survival": 5577,
+    "survival": 5578,
     "pvp": 7141,
     "dupe": 1743,
     "tools": 1679,
