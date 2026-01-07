@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:43:11 7/1/2026",
+  "lastUpdated": "21:43:41 7/1/2026",
   "totalKits": 83727,
   "todayKits": 54,
-  "onlineCount": 31,
+  "onlineCount": 33,
   "peakPlayers": 38,
-  "tps": "3.0",
-  "ping": 254,
+  "tps": "2.0",
+  "ping": 260,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7167
+      "count": 7168
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:40] [BOT] <0_HienBot> Use /kill to kill yourself! ",
-    "[14:40] <babaproomruh> !kit ",
-    "[14:40] To babaproomruh: Hello babaproomruh!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:40] <aybarsss> !kit ",
-    "[14:40] To aybarsss: Hello aybarsss!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:40] <babaproomruh> !kit toolbox ",
-    "[14:40] To babaproomruh: You're on cooldown, try again in 59 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:40] <MattyBot> !kit ",
-    "[14:40] To MattyBot: Hello MattyBot!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:41] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[14:41] <MattyBot> !kit Survival ",
-    "[14:41] [8b8t] >> Teleporting to home 0...",
     "[14:41] <aybarsss> !kit ahulker ",
     "[14:41] To aybarsss: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:41] To MattyBot: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +88,20 @@
     "[14:42] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[14:42] <uzi_goUUu_12_26> !tps ",
     "[14:42] To uzi_goUUu_12_26: Current TPS: 5.00 Dont forget to join dsc.gg/hienbot",
-    "[14:43] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me "
+    "[14:43] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[14:43] <TheRedW1zard> !ping ",
+    "[14:43] To TheRedW1zard: Your ping is: 220 ms Dont forget to join dsc.gg/hienbot",
+    "[14:43] <aybarsss> !kit pvp ",
+    "[14:43] [8b8t] >> Teleporting to home 0...",
+    "[14:43] [8b8t] >> Teleporting to home 1...",
+    "[14:43] To aybarsss: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:43] To aybarsss: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:43] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[14:43] [8b8t] >> Request sent to aybarsss",
+    "[14:43] <shirooo90> !ping ",
+    "[14:43] To shirooo90: Your ping is: 252 ms Dont forget to join dsc.gg/hienbot",
+    "[14:43] <PrnvDevilXD> !kit ",
+    "[14:43] To PrnvDevilXD: Hello PrnvDevilXD!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2826,12 +2826,12 @@
     ".Orangejv": 1,
     "Altinthehouse": 1,
     "babaproomruh": 4,
-    "aybarsss": 1
+    "aybarsss": 2
   },
   "kitStats": {
     "build": 1441,
     "survival": 5599,
-    "pvp": 7167,
+    "pvp": 7168,
     "dupe": 1767,
     "tools": 1683,
     "stash": 881,
