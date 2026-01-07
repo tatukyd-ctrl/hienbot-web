@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:06:15 8/1/2026",
+  "lastUpdated": "01:06:42 8/1/2026",
   "totalKits": 83838,
   "todayKits": 165,
-  "onlineCount": 44,
+  "onlineCount": 43,
   "peakPlayers": 54,
   "tps": "3.0",
   "ping": 271,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5626
+      "count": 5627
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:05] <TOKEN_Aura> e ",
-    "[18:05] [8b8t] >> Request sent to zkilluaxzs",
-    "[18:05] <.FanDeJesus5641> !kit Illegal ",
-    "[18:05] To .FanDeJesus5641: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
-    "[18:05] <Juztinnnn> !kit inmortal ",
-    "[18:05] <.FanDeJesus5641> !kit Illegal ",
-    "[18:05] To Juztinnnn: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[18:05] To .FanDeJesus5641: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
-    "[18:05] <TOKEN_Aura> I just moved 4 feet! ",
     "[18:05] <.FanDeJesus5641> !kit ",
     "[18:05] To .FanDeJesus5641: Hola .FanDeJesus5641!! Usa !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[18:05] <TOKEN_Aura> e ",
@@ -101,7 +92,16 @@
     "[18:06] [8b8t] >> Request sent to .FanDeJesus5641",
     "[18:06] <TOKEN_Aura> ⒠ ",
     "[18:06] [8b8t] >> Teleporting...",
-    "[18:06] [BOT] <0_HienBot> Do you want kit? Type !кιт "
+    "[18:06] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
+    "[18:06] <TOKEN_Aura> ⓖｅｎｔⓔ ",
+    "[18:06] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[18:06] <Buezito23> !kit Survival ",
+    "[18:06] [8b8t] >> Teleporting to home 0...",
+    "[18:06] [8b8t] >> Teleporting to home 1...",
+    "[18:06] To Buezito23: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:06] To Buezito23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:06] [8b8t] >> Request sent to Buezito23",
+    "[18:06] <TOKEN_Aura> ee "
   ],
   "userStats": {
     "76756": 38,
@@ -2843,11 +2843,12 @@
     "zkilluaxzs": 7,
     "pinto99216": 4,
     "nebtantana": 1,
-    "Crloseladmin": 2
+    "Crloseladmin": 2,
+    "Buezito23": 1
   },
   "kitStats": {
     "build": 1447,
-    "survival": 5626,
+    "survival": 5627,
     "pvp": 7192,
     "dupe": 1776,
     "tools": 1685,
