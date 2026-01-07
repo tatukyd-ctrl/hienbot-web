@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:19:05 7/1/2026",
+  "lastUpdated": "11:19:35 7/1/2026",
   "totalKits": 83660,
   "todayKits": 37,
   "onlineCount": 31,
   "peakPlayers": 40,
-  "tps": "0.0",
+  "tps": "4.0",
   "ping": 307,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5586
+      "count": 5587
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:18] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
-    "[04:18] <.Maddie8171111> !seed ",
-    "[04:18] <GaBaus> !kit ",
-    "[04:18] <.Maddie8171111> !seed ",
-    "[04:18] To GaBaus: Hello GaBaus!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:18] <Fede123xd> !Kit redstone ",
-    "[04:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:18] To Fede123xd: You're on cooldown, try again in 63 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:18] <.Maddie8171111> !seed ",
     "[04:18] <axxus> !seed ",
     "[04:18] <.Maddie8171111> !seed ",
     "[04:18] <.Maddie8171111> !seed ",
@@ -101,7 +92,16 @@
     "[04:18] [8b8t] >> Request sent to GaBaus",
     "[04:18] <axxus> 230.48 64.00 -856.86end ",
     "[04:19] <.Maddie8171111> !kit gear ",
-    "[04:19] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[04:19] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:19] <.Maddie8171111> !kit starter ",
+    "[04:19] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:19] <axxus> base end ",
+    "[04:19] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[04:19] <.Maddie8171111> !kit starter ",
+    "[04:19] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:19] <GaBaus> !kit a ",
+    "[04:19] To GaBaus: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:19] <RomeoXjesus> !kit starter "
   ],
   "userStats": {
     "76756": 38,
@@ -2818,11 +2818,12 @@
     "itz_laeeqs": 1,
     "PedritoPvPhacks": 2,
     "Vegetto248": 4,
-    "Leonico27": 1
+    "Leonico27": 1,
+    "RomeoXjesus": 1
   },
   "kitStats": {
     "build": 1436,
-    "survival": 5586,
+    "survival": 5587,
     "pvp": 7150,
     "dupe": 1755,
     "tools": 1681,
