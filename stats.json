@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:34:11 7/1/2026",
-  "totalKits": 83702,
-  "todayKits": 29,
-  "onlineCount": 11,
+  "lastUpdated": "20:34:33 7/1/2026",
+  "totalKits": 83703,
+  "todayKits": 30,
+  "onlineCount": 12,
   "peakPlayers": 36,
-  "tps": "18.0",
-  "ping": 256,
+  "tps": "16.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7160
+      "count": 7161
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:31] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[13:31] <Manuelly_> !kit firework ",
-    "[13:31] To Manuelly_: You're on cooldown, try again in 53 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:31] <jxstax> yo where do i get kits? ",
-    "[13:31] beje17 has completed the challenge [Great View From Up Here]",
-    "[13:31] [BOT] <0_HienBot> Try !кιт survival ",
-    "[13:31] <Kid_67> i need enderchest pls tp me ",
-    "[13:31] <jxstax> !kit survival ",
-    "[13:31] [8b8t] >> Teleporting to home 0...",
     "[13:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:31] [8b8t] >> Teleporting to home 1...",
     "[13:31] To jxstax: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[13:33] <jxstax> can someone come to spawn and help me out? ",
     "[13:33] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:33] [BOT] <0_HienBot> What's up, MonkeBot? ",
-    "[13:34] [BOT] <0_HienBot> Use !кιт to get kits "
+    "[13:34] [BOT] <0_HienBot> Use !кιт to get kits ",
+    "[13:34] jxstax Whispers: how do i get a kit?",
+    "[13:34] <beje17> !kit pvp ",
+    "[13:34] [8b8t] >> Teleporting to home 0...",
+    "[13:34] [8b8t] >> Teleporting to home 1...",
+    "[13:34] To beje17: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:34] To beje17: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:34] [8b8t] >> Request sent to beje17",
+    "[13:34] [8b8t] >> Teleporting...",
+    "[13:34] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> "
   ],
   "userStats": {
     "76756": 38,
@@ -2641,7 +2641,7 @@
     "aryanthegoat_TV": 2,
     "cmjs": 2,
     "pro100dx": 1,
-    "beje17": 2,
+    "beje17": 3,
     "EldocbrYT2001": 1,
     "everyfaja": 1,
     "iLgnd_": 1,
@@ -2829,7 +2829,7 @@
   "kitStats": {
     "build": 1438,
     "survival": 5595,
-    "pvp": 7160,
+    "pvp": 7161,
     "dupe": 1765,
     "tools": 1681,
     "stash": 880,
