@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:16:11 7/1/2026",
+  "lastUpdated": "22:16:41 7/1/2026",
   "totalKits": 83746,
   "todayKits": 73,
-  "onlineCount": 44,
+  "onlineCount": 42,
   "peakPlayers": 46,
-  "tps": "6.0",
-  "ping": 264,
+  "tps": "1.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1442
+      "count": 1443
     }
   ],
   "chatLog": [
-    "[15:12] [8b8t] >> Teleporting to home 0...",
-    "[15:12] [8b8t] >> Teleporting to home 9...",
-    "[15:12] To nuklear1: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:12] <TheRedW1zard> im making the spawn again xd ",
-    "[15:12] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[15:12] To nuklear1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:12] [8b8t] >> Request sent to nuklear1",
     "[15:12] <TheRedW1zard> look ",
     "[15:12] [8b8t] >> Teleporting...",
     "[15:12] <nuklear1> !0_HienBot ПЛАЧЬ ",
@@ -101,7 +94,14 @@
     "[15:15] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
     "[15:15] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[15:15] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
-    "[15:16] [BOT] <0_HienBot> Try !кιт survival "
+    "[15:16] [BOT] <0_HienBot> Try !кιт survival ",
+    "[15:16] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[15:16] <aybarsss> !kit build ",
+    "[15:16] [8b8t] >> Teleporting to home 0...",
+    "[15:16] [8b8t] >> Teleporting to home 3...",
+    "[15:16] To aybarsss: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:16] To aybarsss: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:16] [8b8t] >> Request sent to aybarsss"
   ],
   "userStats": {
     "76756": 38,
@@ -2826,12 +2826,12 @@
     ".Orangejv": 1,
     "Altinthehouse": 1,
     "babaproomruh": 4,
-    "aybarsss": 3,
+    "aybarsss": 4,
     "OptiConnX": 2,
     "Johnsinho": 1
   },
   "kitStats": {
-    "build": 1442,
+    "build": 1443,
     "survival": 5603,
     "pvp": 7169,
     "dupe": 1768,
