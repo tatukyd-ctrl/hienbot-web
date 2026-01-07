@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:07:11 7/1/2026",
+  "lastUpdated": "22:07:41 7/1/2026",
   "totalKits": 83741,
   "todayKits": 68,
-  "onlineCount": 43,
+  "onlineCount": 42,
   "peakPlayers": 44,
-  "tps": "1.0",
-  "ping": 16839,
+  "tps": "2.0",
+  "ping": 261,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:05] [8b8t] >> Teleporting to home 0...",
-    "[15:05] [8b8t] >> Teleporting to home 9...",
-    "[15:05] To Mobiiik: Your kit (Illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:05] To Mobiiik: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:06] [8b8t] >> Request sent to Mobiiik",
-    "[15:06] [BOT] <0_HienBot> Hey depana! ",
-    "[15:06] [8b8t] >> Teleporting...",
-    "[15:06] <nuklear1> !kit illegal ",
-    "[15:06] To nuklear1: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:06] aybarsss has made the advancement [Ice Bucket Challenge]",
-    "[15:06] [8b8t] >> You have killed yourself!",
-    "[15:06] [8b8t] >> Home 2 was not found",
     "[15:06] <depana> hey 0_HienBot ",
     "[15:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[15:06] <depana> hey 8b8t_net ",
@@ -100,6 +88,18 @@
     "[15:07] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
     "[15:07] To Gufo23_23: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:07] <depana> htp1p0 puedes vc ",
+    "[15:07] <nuklear1> !kit illegal ",
+    "[15:07] To nuklear1: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:07] To Gufo23_23: Try again Join dsc.gg/hienbot to report the error.",
+    "[15:07] <Gufo23_23> !kit illegal ",
+    "[15:07] To Gufo23_23: You're on cooldown, try again in 64 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:07] <Johnsinho> !kit stach ",
+    "[15:07] [8b8t] >> Teleporting to home 0...",
+    "[15:07] [8b8t] >> Teleporting to home 8...",
+    "[15:07] To Johnsinho: Kit \"stach\" not found! Giving you (armortrims) instead! dsc.gg/hienbot",
+    "[15:07] To Johnsinho: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:07] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[15:07] [8b8t] >> Request sent to Johnsinho",
     "[15:07] <nuklear1> !kit illegal ",
     "[15:07] To nuklear1: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
@@ -2827,7 +2827,8 @@
     "Altinthehouse": 1,
     "babaproomruh": 4,
     "aybarsss": 3,
-    "OptiConnX": 2
+    "OptiConnX": 2,
+    "Johnsinho": 1
   },
   "kitStats": {
     "build": 1442,
@@ -2849,7 +2850,7 @@
     "shulker": 504,
     "terracotta": 81,
     "end": 553,
-    "armortrims": 366,
+    "armortrims": 367,
     "highway": 496,
     "ocean": 119,
     "concrete": 326,
