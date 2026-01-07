@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:07:42 8/1/2026",
-  "totalKits": 83817,
-  "todayKits": 144,
-  "onlineCount": 45,
+  "lastUpdated": "00:07:54 8/1/2026",
+  "totalKits": 83818,
+  "todayKits": 145,
+  "onlineCount": 41,
   "peakPlayers": 54,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 242,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7185
+      "count": 7186
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:05] [8b8t] >> Teleporting to home 0...",
-    "[17:05] [8b8t] >> Teleporting to home 8...",
-    "[17:05] To Braian1709: Kit \"foof\" not found! Giving you (tools) instead! dsc.gg/hienbot",
-    "[17:05] <Braian1709> !kit food ",
-    "[17:06] To Braian1709: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:06] To Braian1709: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:06] [8b8t] >> Request sent to Braian1709",
-    "[17:06] SoyUnRamdomXD has made the advancement [Take Aim]",
-    "[17:06] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
-    "[17:06] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[17:06] <arthavonv> what ",
     "[17:06] <arthavonv> whats that sound ",
     "[17:06] <Braian1709> !kit food ",
     "[17:06] To Braian1709: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[17:07] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[17:07] [8b8t] >> You have killed yourself!",
     "[17:07] [8b8t] >> Player Braian1709 is not online",
-    "[17:07] <LEON10> kk "
+    "[17:07] <LEON10> kk ",
+    "[17:07] [Basic] <.VadoseMist36087> $kit pvp ",
+    "[17:07] [8b8t] >> Teleporting to home 0...",
+    "[17:07] [8b8t] >> Teleporting to home 1...",
+    "[17:07] To .VadoseMist36087: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:07] [BOT] <0_HienBot> Use /kill to kill yourself! ",
+    "[17:07] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[17:07] <tenedor878> !kit illegal ",
+    "[17:07] To .VadoseMist36087: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:07] To tenedor878: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:07] [8b8t] >> Request sent to .VadoseMist36087",
+    "[17:07] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -550,7 +550,7 @@
     "POJAVB": 1,
     "randompalyer": 10,
     "YanSaulo2": 1,
-    ".VadoseMist36087": 70,
+    ".VadoseMist36087": 71,
     "Tomoszii": 1,
     "waza_w": 39,
     "Gokalpofficial": 10,
@@ -2844,7 +2844,7 @@
   "kitStats": {
     "build": 1447,
     "survival": 5617,
-    "pvp": 7185,
+    "pvp": 7186,
     "dupe": 1773,
     "tools": 1685,
     "stash": 884,
