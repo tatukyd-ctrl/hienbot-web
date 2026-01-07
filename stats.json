@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:55:35 7/1/2026",
+  "lastUpdated": "22:55:41 7/1/2026",
   "totalKits": 83774,
   "todayKits": 101,
   "onlineCount": 45,
   "peakPlayers": 47,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 273,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:54] <Murad2002> !kit illegal ",
-    "[15:54] To Murad2002: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:54] <IvanZaSilly2> !kit illegal ",
-    "[15:54] To IvanZaSilly2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:54] <m2xsie> !kit dye ",
     "[15:54] To m2xsie: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:55] <NANA_GOOD123> !kit pvp ",
     "[15:55] <Murad2002> !kit illegal\\ ",
@@ -101,7 +96,12 @@
     "[15:55] [8b8t] >> Request sent to NANA_GOOD123",
     "[15:55] <jamer34> bruhh ",
     "[15:55] [8b8t] >> Teleporting...",
-    "[15:55] [BOT] <0_HienBot> Sub to Hien2309 in youtube "
+    "[15:55] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
+    "[15:55] <zorakito> !kit illegal ",
+    "[15:55] [8b8t] >> You have killed yourself!",
+    "[15:55] [8b8t] >> Home 2 was not found",
+    "[15:55] [8b8t] >> Teleporting to home 0...",
+    "[15:55] [8b8t] >> Teleporting to home 9..."
   ],
   "userStats": {
     "76756": 38,
@@ -2711,7 +2711,7 @@
     "vbro": 1,
     "minutetech": 6,
     "juhju": 9,
-    "zorakito": 3,
+    "zorakito": 4,
     "Braian1709": 4,
     "nagebator": 1,
     "IronCarlos396": 1,
@@ -2867,6 +2867,6 @@
     "christmas": 139,
     "gterracotta": 62,
     "banner": 70,
-    "illegal": 43
+    "illegal": 44
   }
 }
