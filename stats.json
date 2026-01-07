@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:16:35 7/1/2026",
+  "lastUpdated": "11:17:05 7/1/2026",
   "totalKits": 83658,
   "todayKits": 35,
-  "onlineCount": 28,
+  "onlineCount": 29,
   "peakPlayers": 40,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 293,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5585
+      "count": 5586
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:15] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[04:15] [8b8t] >> You have killed yourself!",
-    "[04:15] [8b8t] >> Home 2 was not found",
-    "[04:15] <Vegetto248> !kit a ",
-    "[04:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[04:15] [8b8t] >> Teleporting to home 0...",
-    "[04:15] [8b8t] >> Teleporting to home 5...",
-    "[04:15] To Vegetto248: Kit \"a\" not found! Giving you (dye) instead! dsc.gg/hienbot",
-    "[04:15] <.Maddie8171111> !kit a ",
-    "[04:15] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
-    "[04:15] <.Maddie8171111> !kit ",
-    "[04:15] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:15] To .Maddie8171111: Hello .Maddie8171111!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:15] To Vegetto248: Try again Join dsc.gg/hienbot to report the error.",
     "[04:15] <Vegetto248> !kit ",
     "[04:15] To Vegetto248: Hello Vegetto248!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +88,20 @@
     "[04:16] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:16] juhju Whispers: si me consigues barries te puedo dar armas de fuego",
     "[04:16] <Leonico27> !kit pvp ",
-    "[04:16] To Leonico27: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[04:16] To Leonico27: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:16] [8b8t] >> Please do not spam.",
+    "[04:16] [8b8t] >> You have killed yourself!",
+    "[04:16] Chat disabled in client options",
+    "[04:16] <.Maddie8171111> ?kitlist ",
+    "[04:16] <GaBaus> !kit a ",
+    "[04:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[04:16] <.Maddie8171111> !kit ",
+    "[04:16] [8b8t] >> Teleporting to home 0...",
+    "[04:16] [8b8t] >> Teleporting to home 1...",
+    "[04:16] To GaBaus: Kit \"a\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[04:17] To .Maddie8171111: Hello .Maddie8171111!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Highway, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:17] <.Maddie8171111> !kit stacked ",
+    "[04:17] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -212,7 +212,7 @@
     "likkalikkapoo": 5,
     "AtomicMaterials": 3,
     "maskurot": 7,
-    "GaBaus": 58,
+    "GaBaus": 59,
     "ayv3ee": 10,
     "Xoelsouto": 2,
     "3DProphet": 1,
@@ -2822,7 +2822,7 @@
   },
   "kitStats": {
     "build": 1436,
-    "survival": 5585,
+    "survival": 5586,
     "pvp": 7150,
     "dupe": 1754,
     "tools": 1681,
