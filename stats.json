@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:37:03 7/1/2026",
+  "lastUpdated": "12:37:33 7/1/2026",
   "totalKits": 83673,
   "todayKits": 1,
-  "onlineCount": 27,
+  "onlineCount": 24,
   "peakPlayers": 31,
-  "tps": "1.0",
+  "tps": "6.0",
   "ping": 258,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7150
+      "count": 7151
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:35]  your email. By doing so, you",
-    "[05:35]  decrease the chance of being hacked.",
-    "[05:35] ",
-    "[05:35]   [Confirm read]",
-    "[05:35] ",
-    "[05:35] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[05:35] You are already connected to this server!",
-    "[05:35] <pelotudo> ex3cutor56 MANDEN MENSAJE Y PASO CORDENADAS DE CLAN ",
-    "[05:35] <vlonecart> busco clan ",
-    "[05:35] <pelotudo> TENGO CORD DE CLAN VAMOSS ",
     "[05:35] [BOT] <0_HienBot> Hello orasan080! ",
     "[05:35] <.Eden_01655> jajajaj ",
     "[05:35] <Enzytroiz_Mc> NT_KeslerYT manda tpa ",
@@ -101,7 +91,17 @@
     "[05:36] [8b8t] >> Home 2 was not found",
     "[05:36] <rey_del_afk> que paso con los bots que dan kits ",
     "[05:36] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:36] [BOT] <0_HienBot> Hey nguyenthai1! "
+    "[05:36] [BOT] <0_HienBot> Hey nguyenthai1! ",
+    "[05:37] <rey_del_afk> !kit ",
+    "[05:37] To rey_del_afk: Hello rey_del_afk!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:37] [8b8t] >> Please do not spam.",
+    "[05:37] <rey_del_afk> !kit pvp ",
+    "[05:37] [8b8t] >> Teleporting to home 0...",
+    "[05:37] [8b8t] >> griffwings voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
+    "[05:37] [8b8t] >> Teleporting to home 1...",
+    "[05:37] To rey_del_afk: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:37] To rey_del_afk: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:37] [8b8t] >> Request sent to rey_del_afk"
   ],
   "userStats": {
     "76756": 38,
@@ -2820,12 +2820,13 @@
     "Vegetto248": 6,
     "Leonico27": 1,
     "RomeoXjesus": 1,
-    "ReneRoyal27": 1
+    "ReneRoyal27": 1,
+    "rey_del_afk": 1
   },
   "kitStats": {
     "build": 1437,
     "survival": 5590,
-    "pvp": 7150,
+    "pvp": 7151,
     "dupe": 1762,
     "tools": 1681,
     "stash": 880,
