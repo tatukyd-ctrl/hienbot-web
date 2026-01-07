@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:13:23 7/1/2026",
+  "lastUpdated": "21:13:41 7/1/2026",
   "totalKits": 83712,
   "todayKits": 39,
   "onlineCount": 28,
   "peakPlayers": 36,
-  "tps": "4.0",
-  "ping": 284,
+  "tps": "5.0",
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:10] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[14:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:11] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
-    "[14:11] <anibar123> !kit constructor ",
-    "[14:11] To anibar123: You're on cooldown, try again in 37 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:11] <anibar123> !kit pvp ",
-    "[14:11] To anibar123: You're on cooldown, try again in 18 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:11] [8b8t] >> Please do not spam.",
-    "[14:11] <anibar123> !kit pvp ",
     "[14:11] [8b8t] >> Teleporting to home 0...",
     "[14:11] [8b8t] >> Teleporting to home 1...",
     "[14:11] To anibar123: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[14:13] To IvanZaSilly2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:13] [8b8t] >> Request sent to IvanZaSilly2",
     "[14:13] [8b8t] >> Teleporting...",
-    "[14:13] <.LEON50758> what's this "
+    "[14:13] <.LEON50758> what's this ",
+    "[14:13] [8b8t] >> You have killed yourself!",
+    "[14:13] [8b8t] >> Home 2 was not found",
+    "[14:13] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
+    "[14:13] <ASneakySenior> !kit illegal ",
+    "[14:13] [8b8t] >> Teleporting to home 0...",
+    "[14:13] [8b8t] >> Teleporting to home 9...",
+    "[14:13] ASneakySenior is ignoring you",
+    "[14:13] ASneakySenior is ignoring you",
+    "[14:13] [8b8t] >> Request sent to ASneakySenior"
   ],
   "userStats": {
     "76756": 38,
@@ -1303,7 +1303,7 @@
     "IceTeen2": 1,
     "not_server_admin": 7,
     "piculin88": 29,
-    "ASneakySenior": 1,
+    "ASneakySenior": 2,
     "benja5342": 88,
     "pollon123": 1,
     "AgusAecrkr": 1,
@@ -2859,6 +2859,6 @@
     "christmas": 139,
     "gterracotta": 61,
     "banner": 70,
-    "illegal": 18
+    "illegal": 19
   }
 }
