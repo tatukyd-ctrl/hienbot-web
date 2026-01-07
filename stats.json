@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:30:10 7/1/2026",
-  "totalKits": 83701,
-  "todayKits": 28,
-  "onlineCount": 9,
+  "lastUpdated": "20:30:33 7/1/2026",
+  "totalKits": 83702,
+  "todayKits": 29,
+  "onlineCount": 10,
   "peakPlayers": 36,
-  "tps": "19.0",
-  "ping": 0,
+  "tps": "18.0",
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7159
+      "count": 7160
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:25] [Chat] The chat is disabled.",
-    "[13:25] [8b8t] >> Welcome xaki to 8b8t.me Lobby",
-    "[13:25] Unable to connect you to 8b8t. Please try again later.",
-    "[13:25] [8b8t] >> Welcome IvanZaSilly2 to 8b8t.me Lobby",
-    "[13:25] Unable to connect you to 8b8t. Please try again later.",
-    "[13:25] [Chat] The chat is disabled.",
-    "[13:26] [Chat] The chat is disabled.",
-    "[13:26] [8b8t] >> Welcome Henrriqzzim to 8b8t.me Lobby",
-    "[13:26] Unable to connect you to 8b8t. Please try again later.",
-    "[13:26] [Chat] The chat is disabled.",
-    "[13:27] [Chat] The chat is disabled.",
-    "[13:27] [Chat] The chat is disabled.",
-    "[13:28] [Chat] The chat is disabled.",
     "[13:28] [Chat] The chat is disabled.",
     "[13:29] [Chat] The chat is disabled.",
     "[13:29] [Chat] The chat is disabled.",
@@ -101,7 +88,20 @@
     "[13:29] To beje17: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:30] [8b8t] >> Request sent to beje17",
     "[13:30] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[13:30] [8b8t] >> Teleporting..."
+    "[13:30] [8b8t] >> Teleporting...",
+    "[13:30] <Manuelly_> !kit ",
+    "[13:30] To Manuelly_: Hello Manuelly_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:30] [8b8t] >> You have killed yourself!",
+    "[13:30] [8b8t] >> Home 2 was not found",
+    "[13:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[13:30] <Manuelly_> !kit pvp ",
+    "[13:30] [8b8t] >> Teleporting to home 0...",
+    "[13:30] [8b8t] >> Teleporting to home 1...",
+    "[13:30] To Manuelly_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:30] To Manuelly_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:30] [8b8t] >> Request sent to Manuelly_",
+    "[13:30] [8b8t] >> Teleporting...",
+    "[13:30] [BOT] <0_HienBot> Try /cosmetics to change your name color! "
   ],
   "userStats": {
     "76756": 38,
@@ -2052,7 +2052,7 @@
     "mirrandd": 2,
     "Axkulyu": 1,
     "aalpe": 3,
-    "Manuelly_": 1,
+    "Manuelly_": 2,
     "_mexxz_": 1,
     "Daniel287": 2,
     "chimuw": 4,
@@ -2829,7 +2829,7 @@
   "kitStats": {
     "build": 1438,
     "survival": 5593,
-    "pvp": 7159,
+    "pvp": 7160,
     "dupe": 1765,
     "tools": 1681,
     "stash": 880,
