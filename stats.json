@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:11:41 7/1/2026",
-  "totalKits": 83710,
-  "todayKits": 37,
-  "onlineCount": 30,
+  "lastUpdated": "21:11:58 7/1/2026",
+  "totalKits": 83711,
+  "todayKits": 38,
+  "onlineCount": 28,
   "peakPlayers": 36,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 257,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7162
+      "count": 7163
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:08] <Hien2309> !kit stash ",
-    "[14:08] [8b8t] >> Teleporting to home 0...",
-    "[14:08] [8b8t] >> Teleporting to home 3...",
-    "[14:08] To Hien2309: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:08] [BOT] <abays> hi ",
-    "[14:08] To Hien2309: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:08] [8b8t] >> Request sent to Hien2309",
-    "[14:08] [8b8t] >> Teleporting...",
     "[14:08] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[14:08] [BOT] <abays> hi ",
     "[14:09] [BOT] <0_HienBot> Hi Exploterxyz! ",
@@ -101,7 +93,15 @@
     "[14:11] To anibar123: You're on cooldown, try again in 37 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:11] <anibar123> !kit pvp ",
     "[14:11] To anibar123: You're on cooldown, try again in 18 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:11] [8b8t] >> Please do not spam."
+    "[14:11] [8b8t] >> Please do not spam.",
+    "[14:11] <anibar123> !kit pvp ",
+    "[14:11] [8b8t] >> Teleporting to home 0...",
+    "[14:11] [8b8t] >> Teleporting to home 1...",
+    "[14:11] To anibar123: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:11] To anibar123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:11] [8b8t] >> Request sent to anibar123",
+    "[14:11] [8b8t] >> Teleporting...",
+    "[14:11] aybarsss has made the advancement [We Need to Go Deeper]"
   ],
   "userStats": {
     "76756": 38,
@@ -2741,7 +2741,7 @@
     "FREGOSOIC": 1,
     ".Emmettp5": 1,
     "csaba2010": 1,
-    "anibar123": 19,
+    "anibar123": 20,
     "RAFIKA_XD": 1,
     "PPsanchez": 1,
     "agultron": 14,
@@ -2829,7 +2829,7 @@
   "kitStats": {
     "build": 1438,
     "survival": 5597,
-    "pvp": 7162,
+    "pvp": 7163,
     "dupe": 1765,
     "tools": 1681,
     "stash": 881,
