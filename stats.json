@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:09:25 8/1/2026",
+  "lastUpdated": "05:09:55 8/1/2026",
   "totalKits": 83930,
   "todayKits": 1,
-  "onlineCount": 45,
+  "onlineCount": 41,
   "peakPlayers": 45,
-  "tps": "2.0",
-  "ping": 267,
+  "tps": "5.0",
+  "ping": 249,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5650
+      "count": 5651
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:08] [8b8t] >> Your login session has been continued.",
-    "[22:08] ",
-    "[22:08]  [8builders8tools]",
-    "[22:08]  Perform the command /email associate to register",
-    "[22:08]  your email. By doing so, you",
-    "[22:08]  decrease the chance of being hacked.",
-    "[22:08] ",
-    "[22:08]   [Confirm read]",
     "[22:08] ",
     "[22:08] <ruazinnn989423> !kit survival ",
     "[22:08] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[22:09] <WenlerMaster> q paso? v:, ",
     "[22:09] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[22:09] [Pro] <MintKoala997563> hi ",
-    "[22:09] [Pro] <MintKoala997563> im car "
+    "[22:09] [Pro] <MintKoala997563> im car ",
+    "[22:09] [Pro] <MintKoala997563> i was asked to make a hotspot ",
+    "[22:09] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[22:09] <SYTHR0> !kit survival ",
+    "[22:09] [8b8t] >> Teleporting to home 0...",
+    "[22:09] [8b8t] >> Teleporting to home 1...",
+    "[22:09] To SYTHR0: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:09] To SYTHR0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:09] [8b8t] >> Request sent to SYTHR0"
   ],
   "userStats": {
     "76756": 38,
@@ -2856,11 +2856,12 @@
     ".Livingmule9080": 9,
     "CaLdodepoLLo17": 1,
     "HEROBRINE84589": 3,
-    "TOKEN_Aura": 1
+    "TOKEN_Aura": 1,
+    "SYTHR0": 1
   },
   "kitStats": {
     "build": 1456,
-    "survival": 5650,
+    "survival": 5651,
     "pvp": 7211,
     "dupe": 1779,
     "tools": 1688,
