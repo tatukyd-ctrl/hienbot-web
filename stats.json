@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:03:11 7/1/2026",
+  "lastUpdated": "23:03:41 7/1/2026",
   "totalKits": 83781,
   "todayKits": 108,
-  "onlineCount": 45,
+  "onlineCount": 46,
   "peakPlayers": 47,
-  "tps": "4.0",
-  "ping": 244,
+  "tps": "3.0",
+  "ping": 703,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7174
+      "count": 7175
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:02] [8b8t] >> Teleporting to home 9...",
-    "[16:02] To IvanZaSilly2: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:02] To IvanZaSilly2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:02] [8b8t] >> Request sent to IvanZaSilly2",
-    "[16:02] [8b8t] >> Teleporting...",
-    "[16:02] <Mariana_nyx> !kit Survival ",
-    "[16:02] To Mariana_nyx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:02] <Ouzooooo> !kit pvp ",
-    "[16:02] To Ouzooooo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:02] [8b8t] >> You have killed yourself!",
-    "[16:02] [8b8t] >> Home 2 was not found",
-    "[16:02] <Ouzooooo> !kit pvp ",
     "[16:02] To Ouzooooo: You're on cooldown, try again in 18 seconds! Dont forget to join dsc.gg/hienbot",
     "[16:02] <Tevrard> merci ",
     "[16:02] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
@@ -101,7 +89,19 @@
     "[16:02] To Mariana_nyx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:02] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
     "[16:03] [8b8t] >> You have killed yourself!",
-    "[16:03] [8b8t] >> The TPA request you sent to sksbosshero was successfully canceled."
+    "[16:03] [8b8t] >> The TPA request you sent to sksbosshero was successfully canceled.",
+    "[16:03] <deimaavl> !kit ",
+    "[16:03] To deimaavl: Hello deimaavl!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[16:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[16:03] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[16:03] <zorakito> lmao ",
+    "[16:03] <Tevrard> re ah! ",
+    "[16:03] <deimaavl> !kit pvp ",
+    "[16:03] <Mariana_nyx> !kit ",
+    "[16:03] [8b8t] >> Teleporting to home 0...",
+    "[16:03] [8b8t] >> Teleporting to home 1...",
+    "[16:03] To deimaavl: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:03] To Mariana_nyx: Hello Mariana_nyx!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2834,12 +2834,13 @@
     "Iampauloo": 2,
     "Mariana_nyx": 1,
     "Ouzooooo": 2,
-    "sksbosshero": 1
+    "sksbosshero": 1,
+    "deimaavl": 1
   },
   "kitStats": {
     "build": 1445,
     "survival": 5608,
-    "pvp": 7174,
+    "pvp": 7175,
     "dupe": 1768,
     "tools": 1684,
     "stash": 883,
