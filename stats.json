@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:26:11 7/1/2026",
+  "lastUpdated": "21:26:41 7/1/2026",
   "totalKits": 83719,
   "todayKits": 46,
   "onlineCount": 28,
   "peakPlayers": 36,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 272,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1681
+      "count": 1682
     },
     {
       "name": "build",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:24] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[14:24] <IvanZaSilly2> !kit armortrims ",
-    "[14:24] [8b8t] >> Teleporting to home 0...",
-    "[14:24] [8b8t] >> Teleporting to home 8...",
-    "[14:24] To IvanZaSilly2: Your kit (armortrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:24] To IvanZaSilly2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:24] [8b8t] >> Request sent to IvanZaSilly2",
     "[14:24] [8b8t] >> Teleporting...",
@@ -101,7 +96,12 @@
     "[14:26] [8b8t] >> Teleporting to home 5...",
     "[14:26] To anibar123: Kit \"cofres\" not found! Giving you (dye) instead! dsc.gg/hienbot",
     "[14:26] To anibar123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:26] [8b8t] >> Request sent to anibar123"
+    "[14:26] [8b8t] >> Request sent to anibar123",
+    "[14:26] <IvanZaSilly2> !kit tools ",
+    "[14:26] [8b8t] >> You have killed yourself!",
+    "[14:26] To IvanZaSilly2: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:26] [8b8t] >> Teleporting to home 0...",
+    "[14:26] [8b8t] >> Teleporting to home 8..."
   ],
   "userStats": {
     "76756": 38,
@@ -2237,7 +2237,7 @@
     "MrSevenEleven": 2,
     "unknown_2121_": 4,
     "Jwit_": 1,
-    "IvanZaSilly2": 34,
+    "IvanZaSilly2": 35,
     "blackwolf480": 4,
     "asadullaayevdi": 1,
     ".OptiConnXs": 10,
@@ -2831,7 +2831,7 @@
     "survival": 5598,
     "pvp": 7163,
     "dupe": 1766,
-    "tools": 1681,
+    "tools": 1682,
     "stash": 881,
     "raid": 1134,
     "wood": 477,
