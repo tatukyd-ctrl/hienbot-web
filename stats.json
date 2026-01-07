@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:34:28 8/1/2026",
-  "totalKits": 83869,
-  "todayKits": 3,
+  "lastUpdated": "02:34:38 8/1/2026",
+  "totalKits": 83870,
+  "todayKits": 4,
   "onlineCount": 49,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 0,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:32] <ChicoThiago> 1.21.11 ",
-    "[19:32] <thefingerthing> I'M STUCK ABOVE A BODY OF WATER ",
-    "[19:32] <stuck_alt> ?kit illagal ",
-    "[19:32] [8b8t] >> Teleporting to home 0...",
-    "[19:32] [8b8t] >> Teleporting to home 7...",
-    "[19:32] To stuck_alt: Kit \"illagal\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
-    "[19:32] To stuck_alt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:32] [8b8t] >> Request sent to stuck_alt",
     "[19:32] [8b8t] >> Teleporting...",
     "[19:32] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[19:34] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
@@ -101,7 +93,15 @@
     "[19:34] <.FanDeJesus5641> !kit illegal ",
     "[19:34] [8b8t] >> Teleporting to home 0...",
     "[19:34] [8b8t] >> Teleporting to home 9...",
-    "[19:34] To .FanDeJesus5641: Tu kit (illegal) se entregara en 30 segundos! Unete a dsc.gg/hienbot"
+    "[19:34] To .FanDeJesus5641: Tu kit (illegal) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[19:34] To .FanDeJesus5641: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[19:34] [8b8t] >> Request sent to .FanDeJesus5641",
+    "[19:34] [8b8t] >> Teleporting...",
+    "[19:34] <DDevill6> !kit illegal ",
+    "[19:34] [8b8t] >> Teleporting to home 0...",
+    "[19:34] [8b8t] >> Teleporting to home 9...",
+    "[19:34] To DDevill6: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:34] <sebasfut29> Music to my ears facussss2 "
   ],
   "userStats": {
     "76756": 38,
@@ -2850,7 +2850,8 @@
     "Binladem13c": 2,
     "Joaquintp11": 1,
     "facussss2": 2,
-    "thefingerthing": 1
+    "thefingerthing": 1,
+    "DDevill6": 1
   },
   "kitStats": {
     "build": 1448,
@@ -2885,6 +2886,6 @@
     "christmas": 139,
     "gterracotta": 63,
     "banner": 71,
-    "illegal": 92
+    "illegal": 93
   }
 }
