@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:04:13 7/1/2026",
-  "totalKits": 83621,
-  "todayKits": 10,
+  "lastUpdated": "08:04:40 7/1/2026",
+  "totalKits": 83622,
+  "todayKits": 11,
   "onlineCount": 34,
   "peakPlayers": 58,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 242,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:56] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[00:57] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[00:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:57] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[00:58] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
-    "[00:58] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
-    "[00:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[00:59] [BOT] <0_HienBot> What's up, PistonCubeB0T? ",
-    "[00:59] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[01:00] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
     "[01:00] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[01:00] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
     "[01:01] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
@@ -101,7 +91,17 @@
     "[01:03] [8b8t] >> Request sent to boludo",
     "[01:03] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[01:04] [8b8t] >> You have killed yourself!",
-    "[01:04] [8b8t] >> No TPA request found"
+    "[01:04] [8b8t] >> No TPA request found",
+    "[01:04] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
+    "[01:04] <boludo> !kit end ",
+    "[01:04] To boludo: You're on cooldown, try again in 87 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:04] <mateo_valenzuela> !kit end ",
+    "[01:04] [8b8t] >> Teleporting to home 0...",
+    "[01:04] [8b8t] >> Teleporting to home 6...",
+    "[01:04] To mateo_valenzuela: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:04] To mateo_valenzuela: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:04] [8b8t] >> Request sent to mateo_valenzuela",
+    "[01:04] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2809,7 +2809,8 @@
     "Rubin_11": 4,
     ".PRO569177324": 16,
     "xx_da": 2,
-    "zzky0": 1
+    "zzky0": 1,
+    "mateo_valenzuela": 1
   },
   "kitStats": {
     "build": 1430,
@@ -2830,7 +2831,7 @@
     "quartz": 243,
     "shulker": 499,
     "terracotta": 80,
-    "end": 544,
+    "end": 545,
     "armortrims": 364,
     "highway": 491,
     "ocean": 119,
