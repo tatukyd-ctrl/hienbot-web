@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:57:58 8/1/2026",
+  "lastUpdated": "02:58:28 8/1/2026",
   "totalKits": 83891,
   "todayKits": 25,
-  "onlineCount": 53,
+  "onlineCount": 51,
   "peakPlayers": 57,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "5.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5637
+      "count": 5638
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:55] [8b8t] >> Teleporting to home 0...",
-    "[19:55] [8b8t] >> Teleporting to home 6...",
-    "[19:55] To DDevill6: Kit \"adventure\" not found! Giving you (exp) instead! dsc.gg/hienbot",
-    "[19:55] To DDevill6: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:55] [8b8t] >> Request sent to DDevill6",
-    "[19:55] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
-    "[19:55] [8b8t] >> Teleporting...",
     "[19:55] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
     "[19:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[19:56] <DDevill6> !kit traveller ",
@@ -101,7 +94,14 @@
     "[19:57]   [Confirm read]",
     "[19:57] ",
     "[19:57] [8b8t] >> You have killed yourself!",
-    "[19:57] [Pro] <MintKoala997563> to middle of noware "
+    "[19:57] [Pro] <MintKoala997563> to middle of noware ",
+    "[19:58] <DDevill6> hey ",
+    "[19:58] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[19:58] [Pro] <MintKoala997563> ? ",
+    "[19:58] <.Livingmule9080> !kit survival ",
+    "[19:58] [8b8t] >> Teleporting to home 0...",
+    "[19:58] [8b8t] >> Teleporting to home 1...",
+    "[19:58] To .Livingmule9080: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2853,11 +2853,11 @@
     "thefingerthing": 1,
     "DDevill6": 6,
     "lucioo10": 1,
-    ".Livingmule9080": 5
+    ".Livingmule9080": 6
   },
   "kitStats": {
     "build": 1449,
-    "survival": 5637,
+    "survival": 5638,
     "pvp": 7204,
     "dupe": 1776,
     "tools": 1687,
