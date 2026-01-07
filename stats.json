@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:35:11 7/1/2026",
-  "totalKits": 83724,
-  "todayKits": 51,
+  "lastUpdated": "21:35:37 7/1/2026",
+  "totalKits": 83725,
+  "todayKits": 52,
   "onlineCount": 34,
   "peakPlayers": 38,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 254,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1440
+      "count": 1441
     }
   ],
   "chatLog": [
-    "[14:32] [BOT] <0_HienBot> Type !discord ",
-    "[14:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:32] <babaproomruh> !kit dupe ",
-    "[14:32] To babaproomruh: You're on cooldown, try again in 38 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:33] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[14:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:33] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
-    "[14:33] <babaproomruh> !kit pvp ",
     "[14:33] [8b8t] >> Teleporting to home 0...",
     "[14:33] [8b8t] >> Teleporting to home 1...",
     "[14:33] To babaproomruh: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,6 +93,14 @@
     "[14:34] [8b8t] >> Request sent to MutantWall74760",
     "[14:35] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[14:35] <Kyngz123> kit build ",
+    "[14:35] [8b8t] >> Teleporting...",
+    "[14:35] <Kyngz123> !kit build ",
+    "[14:35] [8b8t] >> Teleporting to home 0...",
+    "[14:35] [8b8t] >> Teleporting to home 3...",
+    "[14:35] To Kyngz123: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:35] To Kyngz123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:35] [8b8t] >> Request sent to Kyngz123",
+    "[14:35] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
     "[14:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
@@ -2690,7 +2690,7 @@
     "anticheatbust": 17,
     "Antoliu": 1,
     "_bugbar_": 2,
-    "Kyngz123": 3,
+    "Kyngz123": 4,
     "tandara_yt": 1,
     "mimimi222": 3,
     ".zombieboss30000": 7,
@@ -2828,7 +2828,7 @@
     "babaproomruh": 2
   },
   "kitStats": {
-    "build": 1440,
+    "build": 1441,
     "survival": 5598,
     "pvp": 7165,
     "dupe": 1766,
