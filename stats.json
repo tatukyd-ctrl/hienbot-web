@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:04:28 8/1/2026",
+  "lastUpdated": "03:04:58 8/1/2026",
   "totalKits": 83892,
   "todayKits": 26,
-  "onlineCount": 49,
+  "onlineCount": 48,
   "peakPlayers": 57,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 250,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7204
+      "count": 7205
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:03] To WORDIPOP: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:03] <zorakito> la mace !!!!0 ",
-    "[20:03] To WORDIPOP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:03] <Tevrard> c un mac qui me la passer ",
-    "[20:03] [8b8t] >> Request sent to WORDIPOP",
-    "[20:03] <Tevrard> mec ",
-    "[20:03] <randomnameb> fuck yall ",
     "[20:03] <zorakito> dupe plssss ",
     "[20:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[20:03] [8b8t] >> HEROBRINE84589 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
@@ -101,7 +94,14 @@
     "[20:04] [BOT] <0_HienBot> August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[20:04] <CaLdodepoLLo17> !kit ",
     "[20:04] To CaLdodepoLLo17: Hello CaLdodepoLLo17!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:04] <zorakito> plssssss "
+    "[20:04] <zorakito> plssssss ",
+    "[20:04] <Tevrard> att je test un truck ",
+    "[20:04] <CaLdodepoLLo17> !kit PVP ",
+    "[20:04] [8b8t] >> Teleporting to home 0...",
+    "[20:04] [8b8t] >> Teleporting to home 1...",
+    "[20:04] To CaLdodepoLLo17: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:04] <Tevrard> mdr ",
+    "[20:04] To CaLdodepoLLo17: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2853,12 +2853,13 @@
     "thefingerthing": 1,
     "DDevill6": 6,
     "lucioo10": 1,
-    ".Livingmule9080": 6
+    ".Livingmule9080": 6,
+    "CaLdodepoLLo17": 1
   },
   "kitStats": {
     "build": 1449,
     "survival": 5638,
-    "pvp": 7204,
+    "pvp": 7205,
     "dupe": 1776,
     "tools": 1687,
     "stash": 892,
