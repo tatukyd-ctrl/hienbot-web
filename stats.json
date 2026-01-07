@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:04:27 8/1/2026",
+  "lastUpdated": "05:04:57 8/1/2026",
   "totalKits": 83929,
   "todayKits": 6,
-  "onlineCount": 39,
+  "onlineCount": 41,
   "peakPlayers": 46,
-  "tps": "4.0",
+  "tps": "1.0",
   "ping": 253,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7210
+      "count": 7211
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:02] [8b8t] >> Teleporting to home 0...",
-    "[22:02] [8b8t] >> Teleporting to home 3...",
-    "[22:02] To .darknessmc3203: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:02] To .darknessmc3203: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:02] [8b8t] >> Request sent to .darknessmc3203",
-    "[22:02] [8b8t] >> Teleporting...",
     "[22:02] [Ultra] <KurtzMC> te puedes acercar, solo kickea ",
     "[22:02] [Ultra] <KurtzMC> luego vuelas pa atras ",
     "[22:02] [BOT] <0_HienBot> Type !кιт  to get free kits ",
@@ -101,7 +95,13 @@
     "[22:03] [Ultra] <KurtzMC> /hotspot teleport for free kits and illegals ",
     "[22:04] [BOT] <0_HienBot> Welcome to 8b8t, SYTHR0! ",
     "[22:04] <ruazinnn989423> !kit pvp ",
-    "[22:04] To ruazinnn989423: You're on cooldown, try again in 18 seconds! Dont forget to join dsc.gg/hienbot"
+    "[22:04] To ruazinnn989423: You're on cooldown, try again in 18 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:04] <HeroJV> ok ",
+    "[22:04] [8b8t] >> KurtzMC created a new hotspot, use /hotspot to teleport to it",
+    "[22:04] <ruazinnn989423> !kit pvp ",
+    "[22:04] [8b8t] >> Teleporting to home 0...",
+    "[22:04] [8b8t] >> Teleporting to home 1...",
+    "[22:04] To ruazinnn989423: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1657,7 +1657,7 @@
     "_Lakerek_": 1,
     "Vo1taik": 1,
     "nfkiki": 20,
-    "ruazinnn989423": 39,
+    "ruazinnn989423": 40,
     "doxedap": 1,
     "peakar": 99,
     "6xyz_": 1,
@@ -2861,7 +2861,7 @@
   "kitStats": {
     "build": 1456,
     "survival": 5648,
-    "pvp": 7210,
+    "pvp": 7211,
     "dupe": 1779,
     "tools": 1688,
     "stash": 893,
