@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:28:07 8/1/2026",
+  "lastUpdated": "04:28:37 8/1/2026",
   "totalKits": 83915,
   "todayKits": 4,
   "onlineCount": 47,
   "peakPlayers": 50,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "5.0",
+  "ping": 275,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1451
+      "count": 1452
     }
   ],
   "chatLog": [
-    "[21:26] [8b8t] >> Teleporting to home 0...",
-    "[21:26] [8b8t] >> Teleporting to home 9...",
-    "[21:26] To Rubin_11: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:26] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[21:26] To Rubin_11: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:26] [8b8t] >> Request sent to Rubin_11",
-    "[21:26] [8b8t] >> Teleporting...",
     "[21:26] <ruazinnn989423> !kit survival ",
     "[21:26] To ruazinnn989423: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:26] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[21:28] ",
     "[21:28]   [Confirm read]",
     "[21:28] ",
-    "[21:28] [8b8t] >> You have killed yourself!"
+    "[21:28] [8b8t] >> You have killed yourself!",
+    "[21:28] <.darknessmc3203> !kit build ",
+    "[21:28] [8b8t] >> Teleporting to home 0...",
+    "[21:28] [8b8t] >> Teleporting to home 3...",
+    "[21:28] To .darknessmc3203: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:28] To .darknessmc3203: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:28] [8b8t] >> Request sent to .darknessmc3203",
+    "[21:28] [BOT] <0_HienBot> Hi SrGokuto! "
   ],
   "userStats": {
     "76756": 38,
@@ -1593,7 +1593,7 @@
     "EXODO__": 6,
     "Xarnether": 1,
     "RaZeX2": 2,
-    ".darknessmc3203": 29,
+    ".darknessmc3203": 30,
     "ChaosX": 2,
     "RamiGod": 1,
     "boutz": 7,
@@ -2858,7 +2858,7 @@
     "HEROBRINE84589": 3
   },
   "kitStats": {
-    "build": 1451,
+    "build": 1452,
     "survival": 5643,
     "pvp": 7210,
     "dupe": 1776,
