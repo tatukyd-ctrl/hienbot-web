@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:17:58 8/1/2026",
+  "lastUpdated": "03:18:28 8/1/2026",
   "totalKits": 83898,
   "todayKits": 32,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 57,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 248,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:14] [8b8t] >> Teleporting to home 3...",
-    "[20:14] To .Livingmule9080: Your kit (block) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:14] To .Livingmule9080: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:14] [8b8t] >> Request sent to .Livingmule9080",
-    "[20:14] <WORDIPOP> e ",
-    "[20:14] [8b8t] >> Teleporting...",
     "[20:14] [BOT] <0_HienBot> Bot created by Hien2309. ",
     "[20:14] [8b8t] >> You have killed yourself!",
     "[20:14] [8b8t] >> Home 2 was not found",
@@ -101,7 +95,13 @@
     "[20:17] <WORDIPOP> fua ",
     "[20:17] <WORDIPOP> de q son los mapas ",
     "[20:17] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[20:17] <WORDIPOP> me regalas mapas? "
+    "[20:17] <WORDIPOP> me regalas mapas? ",
+    "[20:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[20:18] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[20:18] <.Livingmule9080> !kit mace ",
+    "[20:18] [8b8t] >> Teleporting to home 0...",
+    "[20:18] [8b8t] >> Teleporting to home 7...",
+    "[20:18] To .Livingmule9080: Kit \"mace\" not found! Giving you (flower) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2853,7 +2853,7 @@
     "thefingerthing": 1,
     "DDevill6": 7,
     "lucioo10": 1,
-    ".Livingmule9080": 7,
+    ".Livingmule9080": 8,
     "CaLdodepoLLo17": 1
   },
   "kitStats": {
@@ -2883,7 +2883,7 @@
     "glass": 266,
     "gap": 75,
     "constructor": "function Object() { [native code] }111111111",
-    "flower": 68,
+    "flower": 69,
     "music": 164,
     "c": 3,
     "christmas": 139,
