@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:37:05 7/1/2026",
-  "totalKits": 83643,
-  "todayKits": 20,
-  "onlineCount": 37,
+  "lastUpdated": "10:37:35 7/1/2026",
+  "totalKits": 83644,
+  "todayKits": 21,
+  "onlineCount": 36,
   "peakPlayers": 37,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 243,
   "topUsers": [
     {
@@ -68,22 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1432
+      "count": 1433
     }
   ],
   "chatLog": [
-    "[03:35] [8b8t] >> Teleporting to home 1...",
-    "[03:35] To MrMidnight89: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:35] To MrMidnight89: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:35] [8b8t] >> Request sent to MrMidnight89",
-    "[03:35] <ASXN> bua ",
-    "[03:36] <Basado__> ala ",
-    "[03:36] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[03:36] <Basado__> esto crashea ",
-    "[03:36] <ASXN> si tengo pero estan en mi base ",
-    "[03:36] <pelotudo> los de ahora ",
-    "[03:36] <pelotudo> y dupeo ",
-    "[03:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[03:36] <agultron> !kit build ",
     "[03:36] To agultron: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:36] [8b8t] >> TPA cancelled because MrMidnight89 left",
@@ -101,7 +89,19 @@
     "[03:36] <cristoferlugo> qn pvp ",
     "[03:36] <ASXN> autototem c: ",
     "[03:36] <Clone_Account> doy un kit de entidades y un kit de totems por una armor decente ",
-    "[03:37] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs "
+    "[03:37] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
+    "[03:37] [8b8t] >> You have killed yourself!",
+    "[03:37] [8b8t] >> Player MrMidnight89 is not online",
+    "[03:37] <agultron> !kit build ",
+    "[03:37] <cristoferlugo> Clone_Account tengo un kit bueno ",
+    "[03:37] [8b8t] >> Teleporting to home 0...",
+    "[03:37] [8b8t] >> Teleporting to home 3...",
+    "[03:37] To agultron: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:37] To agultron: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:37] [8b8t] >> Request sent to agultron",
+    "[03:37] <Clone_Account> dale t mando tp ",
+    "[03:37] [8b8t] >> Teleporting...",
+    "[03:37] [BOT] <0_HienBot> Hmmmmmmmmm "
   ],
   "userStats": {
     "76756": 38,
@@ -2744,7 +2744,7 @@
     "anibar123": 18,
     "RAFIKA_XD": 1,
     "PPsanchez": 1,
-    "agultron": 12,
+    "agultron": 13,
     "XORDIPOP": 1,
     "crisgt43": 19,
     "RapozGamerss": 1,
@@ -2818,7 +2818,7 @@
     "itz_laeeqs": 1
   },
   "kitStats": {
-    "build": 1432,
+    "build": 1433,
     "survival": 5584,
     "pvp": 7144,
     "dupe": 1748,
