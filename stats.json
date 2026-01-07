@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:23:11 7/1/2026",
+  "lastUpdated": "22:23:41 7/1/2026",
   "totalKits": 83752,
   "todayKits": 79,
   "onlineCount": 40,
   "peakPlayers": 47,
-  "tps": "1.0",
-  "ping": 252,
+  "tps": "0.0",
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:22] <SoyUnRamdomXD> !Kit survival ",
-    "[15:22] To SoyUnRamdomXD: You're on cooldown, try again in 47 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:22] To nuklear1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:22] [8b8t] >> Request sent to nuklear1",
     "[15:22] <TheRedW1zard> !ping ",
     "[15:22] To TheRedW1zard: Your ping is: 292 ms Dont forget to join dsc.gg/hienbot",
@@ -101,7 +98,10 @@
     "[15:22] [8b8t] >> Teleporting...",
     "[15:23] <IvanZaSilly2> 3 TICKS PER SECOND??? ",
     "[15:23] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[15:23] <IvanZaSilly2> theres def a lag machine somewhere "
+    "[15:23] <IvanZaSilly2> theres def a lag machine somewhere ",
+    "[15:23] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[15:23] <or4acle> !kit illegal ",
+    "[15:23] [8b8t] >> You have killed yourself!"
   ],
   "userStats": {
     "76756": 38,
@@ -2698,7 +2698,7 @@
     "k4fb": 1,
     "thexjaj1": 3,
     "ItEZPez": 1,
-    "or4acle": 9,
+    "or4acle": 10,
     "RainbowGlassCat": 2,
     "Booosah": 1,
     "PaoloIsHere09": 13,
@@ -2865,6 +2865,6 @@
     "christmas": 139,
     "gterracotta": 62,
     "banner": 70,
-    "illegal": 36
+    "illegal": 37
   }
 }
