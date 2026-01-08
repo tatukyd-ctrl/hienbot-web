@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:52:01 8/1/2026",
+  "lastUpdated": "15:52:31 8/1/2026",
   "totalKits": 84062,
   "todayKits": 10,
   "onlineCount": 24,
   "peakPlayers": 26,
-  "tps": "6.0",
-  "ping": 246,
+  "tps": "3.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5679
+      "count": 5680
     },
     {
       "name": "dupe",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:50] <.PRO569177324> !kit food ",
-    "[08:50] To .PRO569177324: You're on cooldown, try again in 66 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:50] [8b8t] >> Please do not spam.",
-    "[08:50] TheKillerTroll has made the advancement [Monster Hunter]",
-    "[08:50] <nguyenthai1> !kit ",
-    "[08:50] To nguyenthai1: Hello nguyenthai1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[08:50] [BOT] <0_HienBot> Hi 8b8tCommunity! ",
-    "[08:50] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:51] <nguyenthai1> !kit Illegal ",
-    "[08:51] [8b8t] >> Teleporting to home 0...",
-    "[08:51] [8b8t] >> Teleporting to home 9...",
-    "[08:51] To nguyenthai1: Your kit (Illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:51] To nguyenthai1: Sorry! Light Blue Shulker Box is out of stock. Giving you Purple Shulker Box instead! dsc.gg/hienbot",
-    "[08:51] [8b8t] >> Request sent to nguyenthai1",
-    "[08:51] [8b8t] >> Teleporting...",
     "[08:51] [8b8t] >> You have killed yourself!",
     "[08:51] <DeadlyNyxian> !kit illegal ",
     "[08:51] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +86,22 @@
     "[08:51] [8b8t] >> You have killed yourself!",
     "[08:51] [8b8t] >> Home 2 was not found",
     "[08:51] <ZafiroAfiro> w ",
-    "[08:51] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars "
+    "[08:51] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
+    "[08:52] [8b8t] >> jven830 wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
+    "[08:52] <.DomiO8691> how to set new home ",
+    "[08:52] <ZafiroAfiro> Good nigths / good days guys ",
+    "[08:52] <insanity_death> !kit ",
+    "[08:52] To insanity_death: Hello insanity_death!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[08:52] <jven830> ./home ",
+    "[08:52] <ZafiroAfiro> have a nice day pls ",
+    "[08:52] <insanity_death> !kit survival ",
+    "[08:52] [8b8t] >> Teleporting to home 0...",
+    "[08:52] [8b8t] >> Teleporting to home 1...",
+    "[08:52] To insanity_death: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:52] [BOT] <0_HienBot> In its beginnings 8b8t was actually called 0b0t ",
+    "[08:52] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[08:52] To insanity_death: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:52] [8b8t] >> Request sent to insanity_death"
   ],
   "userStats": {
     "76756": 38,
@@ -2883,12 +2883,12 @@
     "TheKillerTroll": 2,
     "abays": 1,
     ".Alonso33curba": 1,
-    "insanity_death": 8,
+    "insanity_death": 9,
     "gamingalif78": 3
   },
   "kitStats": {
     "build": 1465,
-    "survival": 5679,
+    "survival": 5680,
     "pvp": 7228,
     "dupe": 1793,
     "tools": 1702,
