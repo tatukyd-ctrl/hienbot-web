@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:16:11 9/1/2026",
+  "lastUpdated": "03:16:29 9/1/2026",
   "totalKits": 84320,
   "todayKits": 79,
-  "onlineCount": 54,
+  "onlineCount": 53,
   "peakPlayers": 60,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 248,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5728
+      "count": 5729
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:15] <cristian213> no tengo ",
-    "[20:15] <Sgamestream> now who wants to keep on raigbaiting netherbot ",
-    "[20:15] <Saad2001> !bestping ",
-    "[20:15] <zorakito> lmaoo ",
-    "[20:15] Drem_12 Whispers: pls halp me",
-    "[20:15] To Saad2001: MAXIPAROLO with 0 ms. Dont forget to join dsc.gg/hienbot",
-    "[20:15] <elwuper> asu oe ",
-    "[20:15] <zorakito> sorry bye ",
-    "[20:15] <elwuper> gracias ",
-    "[20:15] <.Hexcolorzz> !kit illegal ",
-    "[20:15] [8b8t] >> Teleporting to home 0...",
     "[20:15] [8b8t] >> Teleporting to home 9...",
     "[20:15] To .Hexcolorzz: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[20:15] To .Hexcolorzz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +90,18 @@
     "[20:16] <nxslouu> !kit illegal ",
     "[20:16] To nxslouu: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:16] <.Graciosa3378> !kit ",
-    "[20:16] To .Graciosa3378: Hello .Graciosa3378!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[20:16] To .Graciosa3378: Hello .Graciosa3378!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[20:16] [8b8t] >> You have killed yourself!",
+    "[20:16] [8b8t] >> Home 2 was not found",
+    "[20:16] <elwuper> ok gracias ",
+    "[20:16] <duimoon> !kit Survival ",
+    "[20:16] [8b8t] >> Teleporting to home 0...",
+    "[20:16] [8b8t] >> Teleporting to home 1...",
+    "[20:16] To duimoon: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:16] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[20:16] To duimoon: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:16] [8b8t] >> Request sent to duimoon",
+    "[20:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -2923,11 +2923,12 @@
     "F3ux": 1,
     "nxslouu": 5,
     "jotape251": 1,
-    ".Hexcolorzz": 1
+    ".Hexcolorzz": 1,
+    "duimoon": 1
   },
   "kitStats": {
     "build": 1484,
-    "survival": 5728,
+    "survival": 5729,
     "pvp": 7281,
     "dupe": 1806,
     "tools": 1717,
