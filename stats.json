@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:04:01 8/1/2026",
+  "lastUpdated": "09:04:32 8/1/2026",
   "totalKits": 83981,
   "todayKits": 33,
-  "onlineCount": 34,
+  "onlineCount": 35,
   "peakPlayers": 43,
-  "tps": "3.0",
-  "ping": 259,
+  "tps": "2.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:01] To Raving_out: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[02:01] <Raving_out> !kit ",
-    "[02:01] To Raving_out: Hello Raving_out!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:02] <Raving_out> !kit illegal ",
-    "[02:02] To Raving_out: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:02] [8b8t] >> You have killed yourself!",
-    "[02:02] [8b8t] >> The TPA request you sent to Raving_out was successfully canceled.",
-    "[02:02] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[02:02] <Raving_out> !kit illegal ",
     "[02:02] To Raving_out: You're on cooldown, try again in 90 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:02] <Raving_out> !kit ",
@@ -101,7 +92,16 @@
     "[02:03] To Raving_out: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:03] To Raving_out: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:03] [8b8t] >> Request sent to Raving_out",
-    "[02:03] [8b8t] >> Teleporting..."
+    "[02:03] [8b8t] >> Teleporting...",
+    "[02:04] [8b8t] >> You have killed yourself!",
+    "[02:04] [8b8t] >> Home 2 was not found",
+    "[02:04] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[02:04] <_Wepts> !kit illegal ",
+    "[02:04] [8b8t] >> Teleporting to home 0...",
+    "[02:04] [8b8t] >> Teleporting to home 9...",
+    "[02:04] To _Wepts: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:04] To _Wepts: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:04] [8b8t] >> Request sent to _Wepts"
   ],
   "userStats": {
     "76756": 38,
@@ -2863,7 +2863,8 @@
     "rojasss3940": 1,
     "LaSoLaTu": 1,
     "Raving_out": 8,
-    ".PoliteOrca33431": 1
+    ".PoliteOrca33431": 1,
+    "_Wepts": 1
   },
   "kitStats": {
     "build": 1458,
@@ -2898,6 +2899,6 @@
     "christmas": 139,
     "gterracotta": 63,
     "banner": 71,
-    "illegal": 135
+    "illegal": 136
   }
 }
