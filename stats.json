@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:32:28 9/1/2026",
-  "totalKits": 84249,
-  "todayKits": 8,
+  "lastUpdated": "00:32:50 9/1/2026",
+  "totalKits": 84250,
+  "todayKits": 9,
   "onlineCount": 47,
   "peakPlayers": 49,
-  "tps": "4.0",
-  "ping": 0,
+  "tps": "3.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:30] <Tevrard> g tout drop ",
-    "[17:30] [8b8t] >> Home 2 was not found",
-    "[17:30] <zorakito> je vais t'en donner ",
-    "[17:30] <Tevrard> c fait expret ",
-    "[17:30] [Basic] <.VadoseMist36087> ur fast ",
-    "[17:30] <Tevrard> je l'ai fait devent toi en plus ",
-    "[17:30] [Pro] <ARNOSHEEP> i know ",
-    "[17:30] <BakkSzabi> !kit ",
     "[17:30] To BakkSzabi: Hello BakkSzabi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[17:30] .SoulRanger53204 has made the advancement [Monster Hunter]",
     "[17:30] <abuelo_123> !kit illegal ",
@@ -101,7 +93,15 @@
     "[17:32] [Pro] <ARNOSHEEP> alrr ",
     "[17:32] [Basic] <.VadoseMist36087> sorry ",
     "[17:32] <sksbosshero> guys whats the best godkit ",
-    "[17:32] <IvanZaSilly8B8T> :( "
+    "[17:32] <IvanZaSilly8B8T> :( ",
+    "[17:32] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
+    "[17:32] <.SoulRanger53204> !kit toolbox ",
+    "[17:32] [8b8t] >> Teleporting to home 0...",
+    "[17:32] [8b8t] >> Teleporting to home 5...",
+    "[17:32] To .SoulRanger53204: Your kit (toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:32] To .SoulRanger53204: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:32] [8b8t] >> Request sent to .SoulRanger53204",
+    "[17:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2909,7 +2909,7 @@
     "0_.HienBot": 1,
     "ADR1FLAN": 2,
     "FLAMEalem12": 1,
-    ".SoulRanger53204": 4
+    ".SoulRanger53204": 5
   },
   "kitStats": {
     "build": 1480,
@@ -2926,7 +2926,7 @@
     "mineral": 528,
     "food": 429,
     "redstone": 729,
-    "toolbox": 644,
+    "toolbox": 645,
     "quartz": 248,
     "shulker": 520,
     "terracotta": 88,
