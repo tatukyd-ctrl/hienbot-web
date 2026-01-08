@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:51:59 9/1/2026",
+  "lastUpdated": "00:52:29 9/1/2026",
   "totalKits": 84265,
   "todayKits": 24,
-  "onlineCount": 39,
+  "onlineCount": 41,
   "peakPlayers": 49,
-  "tps": "2.0",
-  "ping": 275,
+  "tps": "4.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5715
+      "count": 5716
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:50] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[17:50] <Tevrard> who can tp my att the spawn please? ",
-    "[17:50] [BOT] <0_HienBot> Use !кιт to get kits ",
-    "[17:50] <bautost2> !kit redstone ",
-    "[17:50] [8b8t] >> Teleporting to home 0...",
-    "[17:50] [8b8t] >> Teleporting to home 3...",
-    "[17:50] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[17:50] To bautost2: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:51] To bautost2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:51] [8b8t] >> Request sent to bautost2",
-    "[17:51] [8b8t] >> Teleporting...",
     "[17:51] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[17:51] [8b8t] >> You have killed yourself!",
     "[17:51] [8b8t] >> Home 2 was not found",
@@ -101,7 +90,18 @@
     "[17:51] [8b8t] >> Teleporting...",
     "[17:51] <Tevrard> who can tp my in a spawn please???? ",
     "[17:51] <FilixSNP> !kit ",
-    "[17:51] To FilixSNP: Hello FilixSNP!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[17:51] To FilixSNP: Hello FilixSNP!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:52] [BOT] <0_HienBot> Type !discord ",
+    "[17:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:52] <FilixSNP> 1kit survival ",
+    "[17:52] <FilixSNP> !kit survival ",
+    "[17:52] [8b8t] >> Teleporting to home 0...",
+    "[17:52] [8b8t] >> Teleporting to home 1...",
+    "[17:52] <IvanZaSilly8B8T> i can ",
+    "[17:52] To FilixSNP: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:52] To FilixSNP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:52] [8b8t] >> Request sent to FilixSNP",
+    "[17:52] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -2910,11 +2910,12 @@
     "ADR1FLAN": 2,
     "FLAMEalem12": 1,
     ".SoulRanger53204": 9,
-    "SavageJfs": 2
+    "SavageJfs": 2,
+    "FilixSNP": 1
   },
   "kitStats": {
     "build": 1480,
-    "survival": 5715,
+    "survival": 5716,
     "pvp": 7273,
     "dupe": 1805,
     "tools": 1712,
