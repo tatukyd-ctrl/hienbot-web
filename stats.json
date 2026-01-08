@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:46:33 8/1/2026",
+  "lastUpdated": "08:47:02 8/1/2026",
   "totalKits": 83975,
   "todayKits": 27,
   "onlineCount": 33,
   "peakPlayers": 43,
-  "tps": "2.0",
-  "ping": 255,
+  "tps": "1.0",
+  "ping": 252,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:43] Raving_out has made the advancement [Stone Age]",
-    "[01:43] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[01:43] <.Andres241318> alguien me ayuda a salir del spaw ",
-    "[01:44] <Basado__> aa ql como le ago pa poner mas cofres en un chunck ",
-    "[01:44] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[01:44] <sexbas> !kit food ",
-    "[01:44] [8b8t] >> Teleporting to home 0...",
-    "[01:44] [8b8t] >> Teleporting to home 5...",
-    "[01:44] To sexbas: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:44] To sexbas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:44] [8b8t] >> Request sent to sexbas",
     "[01:44] [8b8t] >> Teleporting...",
     "[01:44] sexbas has made the advancement [Suit Up]",
@@ -101,7 +91,17 @@
     "[01:46] To sexbas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:46] [8b8t] >> Request sent to sexbas",
     "[01:46] <.Andres241318> quien me saca del spaw ",
-    "[01:46] [8b8t] >> Teleporting..."
+    "[01:46] [8b8t] >> Teleporting...",
+    "[01:46] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[01:46] <Raving_out> !kit iilegal ",
+    "[01:46] [8b8t] >> Teleporting to home 0...",
+    "[01:46] [8b8t] >> Teleporting to home 3...",
+    "[01:46] To Raving_out: Kit \"iilegal\" not found! Giving you (gap) instead! dsc.gg/hienbot",
+    "[01:46] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[01:46] To Raving_out: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:46] [8b8t] >> Request sent to Raving_out",
+    "[01:46] <Raving_out> !kit toolbox ",
+    "[01:46] To Raving_out: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2861,7 +2861,8 @@
     "Zephyra_Dragon": 2,
     "Valenz07": 1,
     "rojasss3940": 1,
-    "LaSoLaTu": 1
+    "LaSoLaTu": 1,
+    "Raving_out": 1
   },
   "kitStats": {
     "build": 1458,
@@ -2888,7 +2889,7 @@
     "ocean": 123,
     "concrete": 330,
     "glass": 269,
-    "gap": 75,
+    "gap": 76,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 69,
     "music": 164,
