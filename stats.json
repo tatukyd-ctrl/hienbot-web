@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:18:27 8/1/2026",
+  "lastUpdated": "12:18:57 8/1/2026",
   "totalKits": 84028,
   "todayKits": 7,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 32,
-  "tps": "3.0",
-  "ping": 251,
+  "tps": "5.0",
+  "ping": 289,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:14] [8b8t] >> Request sent to axxus",
-    "[05:15] Zems has made the advancement [Under Lock and Key]",
-    "[05:15] ItsTraits has made the advancement [Minecraft: Trial(s) Edition]",
-    "[05:15] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[05:15] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[05:15] <AgussVLLC> encontre stacks de concreto ",
-    "[05:15] [8b8t] >> You have killed yourself!",
-    "[05:15] [8b8t] >> The TPA request you sent to axxus was successfully canceled.",
-    "[05:15] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[05:16] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
     "[05:16] <axxus> hola ",
     "[05:16] <AgussVLLC> hola ",
@@ -101,7 +92,16 @@
     "[05:18] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:18] [Pro+] <lvashl> !kit Ilegal ",
     "[05:18] To lvashl: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:18] [8b8t] >> Teleporting..."
+    "[05:18] [8b8t] >> Teleporting...",
+    "[05:18] [8b8t] >> You have killed yourself!",
+    "[05:18] [8b8t] >> Home 2 was not found",
+    "[05:18] [Pro+] <lvashl> !kit Ilegal ",
+    "[05:18] [8b8t] >> Teleporting to home 0...",
+    "[05:18] [8b8t] >> Teleporting to home 7...",
+    "[05:18] To lvashl: Kit \"Ilegal\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
+    "[05:18] To lvashl: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:18] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
+    "[05:18] [8b8t] >> Request sent to lvashl"
   ],
   "userStats": {
     "76756": 38,
@@ -2354,7 +2354,7 @@
     "kobhere": 3,
     "TheOverlord451": 1,
     "j122": 14,
-    "lvashl": 62,
+    "lvashl": 63,
     "joshfrom1984_314": 9,
     "MBKBOZKURT90": 6,
     "miniconquest": 4,
@@ -2894,7 +2894,7 @@
     "redstone": 725,
     "toolbox": 636,
     "quartz": 247,
-    "shulker": 511,
+    "shulker": 512,
     "terracotta": 82,
     "end": 567,
     "armortrims": 372,
