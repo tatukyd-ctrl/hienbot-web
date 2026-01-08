@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:37:29 9/1/2026",
-  "totalKits": 84279,
-  "todayKits": 38,
-  "onlineCount": 47,
+  "lastUpdated": "01:37:58 9/1/2026",
+  "totalKits": 84280,
+  "todayKits": 39,
+  "onlineCount": 45,
   "peakPlayers": 49,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 250,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1480
+      "count": 1481
     }
   ],
   "chatLog": [
-    "[18:35] ",
-    "[18:35]   [Confirm read]",
-    "[18:35] ",
-    "[18:35] [8b8t] >> You have killed yourself!",
-    "[18:35] <MasterWo> hola ",
-    "[18:35] <Basado__> !kit ",
-    "[18:35] To Basado__: Hello Basado__!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:35] <MasterWo> hello ",
     "[18:35] <Basado__> !kit mineral ",
     "[18:35] [8b8t] >> Teleporting to home 0...",
     "[18:35] [8b8t] >> Teleporting to home 4...",
@@ -101,7 +93,15 @@
     "[18:37] <.RubenXD7771446> SavageJfs ",
     "[18:37] <.RubenXD7771446> ya llegue ",
     "[18:37] [BOT] <0_HienBot> August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[18:37] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[18:37] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[18:37] <Basado__> !kit build ",
+    "[18:37] [8b8t] >> Teleporting to home 0...",
+    "[18:37] [8b8t] >> Teleporting to home 3...",
+    "[18:37] To Basado__: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:37] To Basado__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:37] [8b8t] >> Request sent to Basado__",
+    "[18:37] [8b8t] >> Teleporting...",
+    "[18:37] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe "
   ],
   "userStats": {
     "76756": 38,
@@ -2914,10 +2914,10 @@
     "FilixSNP": 1,
     "hola_soy_german": 1,
     "Riiper3268171": 1,
-    "Basado__": 1
+    "Basado__": 2
   },
   "kitStats": {
-    "build": 1480,
+    "build": 1481,
     "survival": 5720,
     "pvp": 7273,
     "dupe": 1805,
