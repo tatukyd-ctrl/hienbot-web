@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:13:01 8/1/2026",
+  "lastUpdated": "19:13:31 8/1/2026",
   "totalKits": 84118,
   "todayKits": 66,
-  "onlineCount": 24,
+  "onlineCount": 25,
   "peakPlayers": 31,
   "tps": "8.0",
-  "ping": 268,
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7239
+      "count": 7240
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:10] To fares_x: You're on cooldown, try again in 81 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:10] <Red_Fragment_> me ",
-    "[12:10] <Red_Fragment_> i mean almost everyone ",
-    "[12:10] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[12:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:10] <fares_x> can u give me 1 ",
-    "[12:10] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[12:10] .Will12098092 has made the advancement [Monster Hunter]",
-    "[12:11] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[12:11] [Pro] <bigbear> !kit wood ",
     "[12:11] [8b8t] >> Teleporting to home 0...",
     "[12:11] [8b8t] >> Teleporting to home 4...",
     "[12:11] To BigBear: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[12:12] [8b8t] >> The TPA request you sent to fares_x was successfully canceled.",
     "[12:12] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
     "[12:12] PenguinKingReal has completed the challenge [Subspace Bubble]",
-    "[12:12] <PenguinKingReal> guys who can help mee "
+    "[12:12] <PenguinKingReal> guys who can help mee ",
+    "[12:13] <Red_Fragment_> if u need gear do !kit pvp ",
+    "[12:13] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[12:13] <PenguinKingReal> !kit pvp ",
+    "[12:13] [8b8t] >> Teleporting to home 0...",
+    "[12:13] [8b8t] >> Teleporting to home 1...",
+    "[12:13] To PenguinKingReal: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:13] <fares_x> who's using hacks? ",
+    "[12:13] To PenguinKingReal: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:13] [8b8t] >> Request sent to PenguinKingReal",
+    "[12:13] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -2891,12 +2891,13 @@
     "AprilIsHere": 1,
     "ZeR0hEll": 2,
     "superemeking": 1,
-    "fares_x": 2
+    "fares_x": 2,
+    "PenguinKingReal": 1
   },
   "kitStats": {
     "build": 1467,
     "survival": 5688,
-    "pvp": 7239,
+    "pvp": 7240,
     "dupe": 1798,
     "tools": 1704,
     "stash": 907,
