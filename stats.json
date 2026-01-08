@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:32:45 8/1/2026",
+  "lastUpdated": "21:33:15 8/1/2026",
   "totalKits": 84184,
   "todayKits": 1,
-  "onlineCount": 41,
+  "onlineCount": 39,
   "peakPlayers": 42,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 264,
   "topUsers": [
     {
@@ -68,16 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1475
+      "count": 1476
     }
   ],
   "chatLog": [
-    "[14:30] [8b8t] >> Teleporting to home 0...",
-    "[14:30] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[14:30] [8b8t] >> Teleporting to home 3...",
-    "[14:30] To bautost2: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:30] To bautost2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:30] [8b8t] >> Request sent to bautost2",
     "[14:30] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[14:30] [8b8t] >> You have killed yourself!",
     "[14:30] [8b8t] >> The TPA request you sent to bautost2 was successfully canceled.",
@@ -101,7 +95,13 @@
     "[14:32] To PrnvDevilXD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:32] [8b8t] >> Request sent to PrnvDevilXD",
     "[14:32] [8b8t] >> Teleporting...",
-    "[14:32] [8b8t] >> You have killed yourself!"
+    "[14:32] [8b8t] >> You have killed yourself!",
+    "[14:32] [8b8t] >> Home 2 was not found",
+    "[14:32] <bautost2> !kit build ",
+    "[14:33] [8b8t] >> Teleporting to home 0...",
+    "[14:33] [8b8t] >> Teleporting to home 3...",
+    "[14:33] To bautost2: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:33] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -2787,7 +2787,7 @@
     "espinos": 27,
     "GirlPuncher2014": 4,
     "FlameeX3": 2,
-    "bautost2": 12,
+    "bautost2": 13,
     "matibrodbr": 3,
     ".JhosepMC3341": 1,
     "LEON10": 12,
@@ -2901,7 +2901,7 @@
     "erkoerko12": 2
   },
   "kitStats": {
-    "build": 1475,
+    "build": 1476,
     "survival": 5701,
     "pvp": 7260,
     "dupe": 1803,
