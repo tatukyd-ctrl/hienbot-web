@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:27:16 8/1/2026",
+  "lastUpdated": "22:27:46 8/1/2026",
   "totalKits": 84196,
   "todayKits": 4,
-  "onlineCount": 38,
-  "peakPlayers": 38,
-  "tps": "1.0",
-  "ping": 244,
+  "onlineCount": 41,
+  "peakPlayers": 41,
+  "tps": "6.0",
+  "ping": 252,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5702
+      "count": 5703
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:24] [8b8t] >> Request sent to jamer34",
-    "[15:24] [8b8t] >> Teleporting...",
-    "[15:25] [8b8t] >> You have killed yourself!",
-    "[15:25] [8b8t] >> Home 2 was not found",
-    "[15:25] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[15:25] SnowFl3a has reached the goal [Postmortal]",
-    "[15:25] <DeathZuka> compro generadores de creeper ",
-    "[15:25] Malikhad__594 Whispers: how to use kits command",
-    "[15:25] <ElJorge_a> !bestping ",
-    "[15:25] To ElJorge_a: NANA_GOOD123 with 0 ms. Dont forget to join dsc.gg/hienbot",
-    "[15:25] <DeathZuka> doy buenos kits ",
-    "[15:25] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[15:25] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[15:25] <.KaputBucket1563> yo guys did someone named baritone ever come online? ",
     "[15:26] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
@@ -101,7 +89,19 @@
     "[15:26] To jamer34: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:26] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[15:27] <DreadfulBug480> 1 ",
-    "[15:27] [BOT] <0_HienBot> Try !ᴋɪᴛ stash "
+    "[15:27] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[15:27] <ElJorge_a> !kit ",
+    "[15:27] To ElJorge_a: Hello ElJorge_a!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[15:27] <.KaputBucket1563> !kit ",
+    "[15:27] To .KaputBucket1563: Hello .KaputBucket1563!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[15:27] <DeathZuka> I pay for creeper egg ",
+    "[15:27] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
+    "[15:27] <ElJorge_a> !kit Survival ",
+    "[15:27] [8b8t] >> You have killed yourself!",
+    "[15:27] To ElJorge_a: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:27] [8b8t] >> Teleporting to home 0...",
+    "[15:27] [8b8t] >> Teleporting to home 1...",
+    "[15:27] To ElJorge_a: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2900,11 +2900,12 @@
     "JuanitoMC123": 1,
     "erkoerko12": 2,
     "dominator_111": 2,
-    ".KaputBucket1563": 1
+    ".KaputBucket1563": 1,
+    "ElJorge_a": 1
   },
   "kitStats": {
     "build": 1478,
-    "survival": 5702,
+    "survival": 5703,
     "pvp": 7264,
     "dupe": 1804,
     "tools": 1707,
