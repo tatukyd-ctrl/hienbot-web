@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:28:01 8/1/2026",
-  "totalKits": 84155,
-  "todayKits": 103,
+  "lastUpdated": "20:28:28 8/1/2026",
+  "totalKits": 84156,
+  "todayKits": 104,
   "onlineCount": 34,
   "peakPlayers": 34,
-  "tps": "5.0",
-  "ping": 261,
+  "tps": "6.0",
+  "ping": 265,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7252
+      "count": 7253
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:23] <PenguinKingReal> !kit escape ",
-    "[13:23] [8b8t] >> Teleporting to home 0...",
-    "[13:23] [8b8t] >> Teleporting to home 3...",
-    "[13:23] To PenguinKingReal: Kit \"escape\" not found! Giving you (build) instead! dsc.gg/hienbot",
-    "[13:23] To PenguinKingReal: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:23] [8b8t] >> Request sent to PenguinKingReal",
-    "[13:23] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
-    "[13:23] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:23] [8b8t] >> Teleporting...",
-    "[13:24] [8b8t] >> Please do not spam.",
-    "[13:24] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[13:24] <PenguinKingReal> can i tp to someone ",
     "[13:25] <PenguinKingReal> can someone tp me to them ",
     "[13:25] [BOT] <0_HienBot> Type !discord ",
     "[13:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -101,7 +89,19 @@
     "[13:26] <.yuu18m> Recently Hien chan often plays 8b8t ",
     "[13:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[13:27] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[13:27] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot "
+    "[13:27] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
+    "[13:28] <erkoerko12> kit veren varmı ",
+    "[13:28] <JuanitoMC123> !kit pvp ",
+    "[13:28] [8b8t] >> Teleporting to home 0...",
+    "[13:28] [8b8t] >> Teleporting to home 1...",
+    "[13:28] To JuanitoMC123: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:28] To JuanitoMC123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:28] [8b8t] >> Request sent to JuanitoMC123",
+    "[13:28] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[13:28] [8b8t] >> Teleporting...",
+    "[13:28] <erkoerko12> !kit pvp ",
+    "[13:28] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:28] To erkoerko12: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2896,12 +2896,13 @@
     "Pornografico": 4,
     "PrimalJeremy08": 5,
     "crisprogx": 4,
-    "Theetroll2001": 1
+    "Theetroll2001": 1,
+    "JuanitoMC123": 1
   },
   "kitStats": {
     "build": 1473,
     "survival": 5693,
-    "pvp": 7252,
+    "pvp": 7253,
     "dupe": 1802,
     "tools": 1707,
     "stash": 908,
