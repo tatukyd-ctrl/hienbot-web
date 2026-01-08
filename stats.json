@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:08:27 8/1/2026",
+  "lastUpdated": "14:08:57 8/1/2026",
   "totalKits": 84036,
   "todayKits": 15,
-  "onlineCount": 12,
+  "onlineCount": 16,
   "peakPlayers": 37,
-  "tps": "15.0",
-  "ping": 255,
+  "tps": "20.0",
+  "ping": 260,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:06] <2young2care> qemu-system-x86_64 \\ -machine q35 \\ -m 1024 \\ -smp cpus=2 \\ -cpu qemu64 \\ -drive if=pflash,format=raw,read-only=on,file=$PREFIX/share/qemu/edk2-x86_64-code.fd \\ -netdev user,id=n1,dns=8.8.8.8,hostfwd=tcp::2222-:22 \\ -device virtio-net,netdev=n1 \\ -",
-    "[07:06] <Cherubin> a q hora",
     "[07:06] [8b8t] >> Welcome MarcoARG22 to 8b8t.me Lobby",
     "[07:06] <0_HienBot> >Try !кιт survival",
     "[07:06] Unable to connect you to 8b8t. Please try again later.",
@@ -101,7 +99,9 @@
     "[07:07] <NetherB0T> > 3876: \"Cheap/free darkweb 𝕔𝕡 + 25$ of credit on join rentry,co/tordex (link)\" - RBot4041044 (hacer *addfact para agregar un hecho).",
     "[07:07] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[07:08] <MrBarraVajaZ_> aja baraja ",
-    "[07:08] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ "
+    "[07:08] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[07:08] [BOT] <0_HienBot> Try !кιт survival ",
+    "[07:08] <xxx_osolord_xxx> ya te doy perdon "
   ],
   "userStats": {
     "76756": 38,
