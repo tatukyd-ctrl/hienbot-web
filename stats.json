@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:44:32 8/1/2026",
-  "totalKits": 83995,
-  "todayKits": 47,
+  "lastUpdated": "09:44:49 8/1/2026",
+  "totalKits": 83996,
+  "todayKits": 48,
   "onlineCount": 38,
   "peakPlayers": 43,
-  "tps": "2.0",
-  "ping": 252,
+  "tps": "0.0",
+  "ping": 241,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7219
+      "count": 7220
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:42] To diloloff: Hello diloloff!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:42] To rekcahami: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:42] To rekcahami: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:42] [8b8t] >> Request sent to rekcahami",
-    "[02:42] [8b8t] >> Teleporting...",
-    "[02:43] [BOT] <0_HienBot> Type !кιт  to get free kits ",
-    "[02:43] [8b8t] >> You have killed yourself!",
-    "[02:43] <WORDIPOP> mas abajo ",
     "[02:43] [8b8t] >> Home 2 was not found",
     "[02:43] <pelotudo> te cambio ese por uno tuyo ",
     "[02:43] rekcahami has made the advancement [Spooky Scary Skeleton]",
@@ -101,7 +93,15 @@
     "[02:44] [8b8t] >> The TPA request you sent to diloloff was successfully canceled.",
     "[02:44] <sebasfut29> quedo brutal ",
     "[02:44] <rekcahami> !kit ",
-    "[02:44] To rekcahami: Hello rekcahami!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[02:44] To rekcahami: Hello rekcahami!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:44] [BOT] <0_HienBot> Bot created by Hien2309. ",
+    "[02:44] <rekcahami> !kit pvp ",
+    "[02:44] [8b8t] >> Teleporting to home 0...",
+    "[02:44] [8b8t] >> Teleporting to home 1...",
+    "[02:44] To rekcahami: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:44] To rekcahami: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:44] [8b8t] >> Request sent to rekcahami",
+    "[02:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2866,13 +2866,13 @@
     ".PoliteOrca33431": 1,
     "_Wepts": 3,
     "JuanDash": 1,
-    "rekcahami": 2,
+    "rekcahami": 3,
     "diloloff": 1
   },
   "kitStats": {
     "build": 1458,
     "survival": 5664,
-    "pvp": 7219,
+    "pvp": 7220,
     "dupe": 1787,
     "tools": 1696,
     "stash": 899,
