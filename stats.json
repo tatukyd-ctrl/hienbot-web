@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:20:31 8/1/2026",
+  "lastUpdated": "19:21:01 8/1/2026",
   "totalKits": 84121,
   "todayKits": 69,
   "onlineCount": 22,
   "peakPlayers": 31,
-  "tps": "10.0",
+  "tps": "7.0",
   "ping": 277,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7244
+      "count": 7245
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:17] [8b8t] >> Request sent to fares_x",
-    "[12:17] [BOT] <0_HienBot> Bot created by Hien2309. ",
-    "[12:17] <fares_x> !tps ",
-    "[12:17] To fares_x: Current TPS: 8.00 Dont forget to join dsc.gg/hienbot",
-    "[12:17] <PenguinKingReal> !kit pvp ",
-    "[12:17] To PenguinKingReal: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:17] ElMartiaras1008 has made the advancement [Isn't It Iron Pick]",
     "[12:17] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
     "[12:17] [8b8t] >> You have killed yourself!",
@@ -101,7 +95,13 @@
     "[12:19] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[12:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:19] [BOT] <0_HienBot> What's up, Leeewiith3Es? ",
-    "[12:20] [BOT] <0_HienBot> Try !кιт survival "
+    "[12:20] [BOT] <0_HienBot> Try !кιт survival ",
+    "[12:20] [BOT] <0_HienBot> Use !кιт to get kits ",
+    "[12:20] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[12:20] <fares_x> !kit pvp ",
+    "[12:20] [8b8t] >> Teleporting to home 0...",
+    "[12:21] [8b8t] >> Teleporting to home 1...",
+    "[12:21] To fares_x: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2891,13 +2891,13 @@
     "AprilIsHere": 1,
     "ZeR0hEll": 2,
     "superemeking": 1,
-    "fares_x": 4,
+    "fares_x": 5,
     "PenguinKingReal": 3
   },
   "kitStats": {
     "build": 1467,
     "survival": 5688,
-    "pvp": 7244,
+    "pvp": 7245,
     "dupe": 1798,
     "tools": 1704,
     "stash": 907,
