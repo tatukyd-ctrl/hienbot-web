@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:12:01 8/1/2026",
+  "lastUpdated": "19:12:31 8/1/2026",
   "totalKits": 84118,
   "todayKits": 66,
-  "onlineCount": 24,
+  "onlineCount": 23,
   "peakPlayers": 31,
-  "tps": "5.0",
-  "ping": 266,
+  "tps": "9.0",
+  "ping": 268,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:09] To fares_x: Kit \"surviva\" not found! Giving you (survival) instead! dsc.gg/hienbot",
-    "[12:09] To fares_x: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:09] [8b8t] >> Request sent to fares_x",
-    "[12:09] <fares_x> !kit survival ",
-    "[12:09] To fares_x: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:09] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
-    "[12:09] <u_r_bad> yo BigBear ",
     "[12:09] [8b8t] >> You have killed yourself!",
     "[12:09] [8b8t] >> The TPA request you sent to fares_x was successfully canceled.",
     "[12:09] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
@@ -101,7 +94,14 @@
     "[12:11] To BigBear: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:11] [8b8t] >> Request sent to BigBear",
     "[12:11] [8b8t] >> Teleporting...",
-    "[12:11] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[12:11] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[12:12] <fares_x> !kit wood ",
+    "[12:12] [8b8t] >> Teleporting to home 0...",
+    "[12:12] [8b8t] >> Teleporting to home 4...",
+    "[12:12] To fares_x: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:12] To fares_x: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:12] [8b8t] >> Request sent to fares_x",
+    "[12:12] [BOT] <0_HienBot> Hi .Will12098092! "
   ],
   "userStats": {
     "76756": 38,
@@ -2891,7 +2891,7 @@
     "AprilIsHere": 1,
     "ZeR0hEll": 2,
     "superemeking": 1,
-    "fares_x": 1
+    "fares_x": 2
   },
   "kitStats": {
     "build": 1467,
@@ -2901,7 +2901,7 @@
     "tools": 1704,
     "stash": 907,
     "raid": 1156,
-    "wood": 486,
+    "wood": 487,
     "exp": 653,
     "dye": 293,
     "wool": 370,
