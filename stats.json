@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:52:02 8/1/2026",
+  "lastUpdated": "08:52:32 8/1/2026",
   "totalKits": 83977,
   "todayKits": 29,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 43,
   "tps": "3.0",
-  "ping": 260,
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5658
+      "count": 5659
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:49] [8b8t] >> Home 2 was not found",
-    "[01:50] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
-    "[01:50] <Raving_out> !kit pvp ",
-    "[01:50] To Raving_out: You're on cooldown, try again in 55 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:50] [8b8t] >> Please do not spam.",
-    "[01:50] <Raving_out> !kit pvp ",
-    "[01:50] To Raving_out: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:50] <sebasfut29> wardipop perdon por lo de tu basesita es que se me corrienron mis demonios internos ",
-    "[01:51] <Basado__> diablos ",
-    "[01:51] <WORDIPOP> sebasfut29 no era mi base xddddd ",
     "[01:51] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[01:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[01:51] <sebasfut29> ahh mejor ",
@@ -101,7 +91,17 @@
     "[01:51] <WORDIPOP> no xd ",
     "[01:51] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[01:51] Raving_out has completed the challenge [Cover Me in Debris]",
-    "[01:51] <Basado__> cmo supiste donde aser? "
+    "[01:51] <Basado__> cmo supiste donde aser? ",
+    "[01:52] <WORDIPOP> ps si encontraran mi base si me cago a la vrg ",
+    "[01:52] [BOT] <0_HienBot> Hmmmmmmmmm ",
+    "[01:52] <.PoliteOrca33431> !kit survival ",
+    "[01:52] [8b8t] >> Teleporting to home 0...",
+    "[01:52] <Raving_out> !kit ",
+    "[01:52] To Raving_out: Hello Raving_out!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:52] To .PoliteOrca33431: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:52] <Raving_out> !kit illegal ",
+    "[01:52] To Raving_out: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:52] <sebasfut29> putto lag "
   ],
   "userStats": {
     "76756": 38,
@@ -2862,11 +2862,12 @@
     "Valenz07": 1,
     "rojasss3940": 1,
     "LaSoLaTu": 1,
-    "Raving_out": 3
+    "Raving_out": 3,
+    ".PoliteOrca33431": 1
   },
   "kitStats": {
     "build": 1458,
-    "survival": 5658,
+    "survival": 5659,
     "pvp": 7219,
     "dupe": 1782,
     "tools": 1692,
