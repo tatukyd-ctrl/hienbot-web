@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:34:27 8/1/2026",
+  "lastUpdated": "12:34:57 8/1/2026",
   "totalKits": 84029,
   "todayKits": 8,
-  "onlineCount": 28,
+  "onlineCount": 29,
   "peakPlayers": 32,
-  "tps": "9.0",
+  "tps": "4.0",
   "ping": 253,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5672
+      "count": 5673
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:30] [8b8t] >> Teleporting...",
-    "[05:30] <Zems> !kit illegal ",
-    "[05:30] [8b8t] >> Teleporting to home 0...",
-    "[05:30] [8b8t] >> Teleporting to home 9...",
-    "[05:30] To Zems: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:30] To Zems: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:30] [8b8t] >> Request sent to Zems",
-    "[05:30] [BOT] <0_HienBot> What's up, imnotoldmacbook? ",
-    "[05:31] [BOT] <0_HienBot> Welcome to 8b8t, MonkeBot! ",
-    "[05:31] [8b8t] >> You have killed yourself!",
     "[05:31] [8b8t] >> The TPA request you sent to Zems was successfully canceled.",
     "[05:31] [BOT] <0_HienBot> Welcome to 8b8t, ItsTraits! ",
     "[05:31] <.PRO569177324> che alguien espańol ",
@@ -101,7 +91,17 @@
     "[05:34] To samnnibal: Hello samnnibal!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:34] [BOT] <0_HienBot> Try !кιт survival ",
     "[05:34] <Cherubin> !kit ",
-    "[05:34] To Cherubin: Hello Cherubin!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[05:34] To Cherubin: Hello Cherubin!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:34] <Cherubin> !kit Survival ",
+    "[05:34] [8b8t] >> Teleporting to home 0...",
+    "[05:34] [8b8t] >> Teleporting to home 1...",
+    "[05:34] To Cherubin: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:34] To Cherubin: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:34] [8b8t] >> Request sent to Cherubin",
+    "[05:34] [BOT] <0_HienBot> Hi TNGB0T! ",
+    "[05:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[05:34] <samnnibal> !kit survival ",
+    "[05:34] To samnnibal: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2876,11 +2876,12 @@
     "stelaOwO": 1,
     "_jbl_thaicarla": 1,
     "AgussVLLC": 1,
-    "Zems": 1
+    "Zems": 1,
+    "Cherubin": 1
   },
   "kitStats": {
     "build": 1461,
-    "survival": 5672,
+    "survival": 5673,
     "pvp": 7224,
     "dupe": 1790,
     "tools": 1701,
