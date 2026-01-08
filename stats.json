@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:49:02 8/1/2026",
+  "lastUpdated": "08:49:32 8/1/2026",
   "totalKits": 83975,
   "todayKits": 27,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 43,
-  "tps": "4.0",
-  "ping": 259,
+  "tps": "8.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:46] <Raving_out> !kit iilegal ",
-    "[01:46] [8b8t] >> Teleporting to home 0...",
-    "[01:46] [8b8t] >> Teleporting to home 3...",
-    "[01:46] To Raving_out: Kit \"iilegal\" not found! Giving you (gap) instead! dsc.gg/hienbot",
-    "[01:46] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:46] To Raving_out: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:46] [8b8t] >> Request sent to Raving_out",
     "[01:46] <Raving_out> !kit toolbox ",
     "[01:46] To Raving_out: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[01:48] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[01:48] <Raving_out> !kit pvp ",
     "[01:48] To Raving_out: You're on cooldown, try again in 36 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:48] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ "
+    "[01:48] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[01:49] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[01:49] <Raving_out> !kit ",
+    "[01:49] To Raving_out: Hello Raving_out!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:49] <Raving_out> !kit toolbox ",
+    "[01:49] [8b8t] >> Teleporting to home 0...",
+    "[01:49] [8b8t] >> Teleporting to home 5..."
   ],
   "userStats": {
     "76756": 38,
@@ -2862,7 +2862,7 @@
     "Valenz07": 1,
     "rojasss3940": 1,
     "LaSoLaTu": 1,
-    "Raving_out": 1
+    "Raving_out": 2
   },
   "kitStats": {
     "build": 1458,
@@ -2879,7 +2879,7 @@
     "mineral": 523,
     "food": 423,
     "redstone": 724,
-    "toolbox": 631,
+    "toolbox": 632,
     "quartz": 247,
     "shulker": 509,
     "terracotta": 82,
