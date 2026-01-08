@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:56:31 8/1/2026",
+  "lastUpdated": "20:57:01 8/1/2026",
   "totalKits": 84163,
   "todayKits": 111,
   "onlineCount": 36,
   "peakPlayers": 40,
-  "tps": "2.0",
-  "ping": 265,
+  "tps": "4.0",
+  "ping": 271,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5694
+      "count": 5695
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:52] <Pornografico> !kit ",
-    "[13:52] To Pornografico: Hello Pornografico!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:53] <bautost2> !kit dupe ",
-    "[13:53] [8b8t] >> Teleporting to home 0...",
-    "[13:53] [8b8t] >> Teleporting to home 8...",
-    "[13:53] To bautost2: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:53] To bautost2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:53] [8b8t] >> Request sent to bautost2",
     "[13:53] <Pornografico> !kit toolbox ",
@@ -101,7 +95,13 @@
     "[13:55] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[13:56] <sebasfut29> xo ",
     "[13:56] [BOT] <0_HienBot> Hey Pornografico! ",
-    "[13:56] <crisprogx> boludo "
+    "[13:56] <crisprogx> boludo ",
+    "[13:56] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[13:56] <crisprogx> !kit survival ",
+    "[13:56] [8b8t] >> Teleporting to home 0...",
+    "[13:56] [8b8t] >> Teleporting to home 1...",
+    "[13:56] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:56] To crisprogx: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2895,14 +2895,14 @@
     "PenguinKingReal": 16,
     "Pornografico": 5,
     "PrimalJeremy08": 5,
-    "crisprogx": 4,
+    "crisprogx": 5,
     "Theetroll2001": 1,
     "JuanitoMC123": 1,
     "erkoerko12": 2
   },
   "kitStats": {
     "build": 1473,
-    "survival": 5694,
+    "survival": 5695,
     "pvp": 7257,
     "dupe": 1803,
     "tools": 1707,
