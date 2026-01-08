@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:37:57 8/1/2026",
-  "totalKits": 84030,
-  "todayKits": 9,
-  "onlineCount": 28,
+  "lastUpdated": "12:38:33 8/1/2026",
+  "totalKits": 84031,
+  "todayKits": 10,
+  "onlineCount": 27,
   "peakPlayers": 32,
   "tps": "7.0",
-  "ping": 247,
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5673
+      "count": 5674
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:34] To samnnibal: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:35] [8b8t] >> You have killed yourself!",
-    "[05:35] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[05:35] [8b8t] >> The TPA request you sent to Cherubin was successfully canceled.",
-    "[05:35] <samnnibal> !kit ",
-    "[05:35] To samnnibal: Hello samnnibal!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:35] <.ANGEL2482726> xd ",
-    "[05:35] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
     "[05:36] <samnnibal> !kit ",
     "[05:36] To samnnibal: Hello samnnibal!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:36] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
@@ -101,7 +93,15 @@
     "[05:37] [BOT] <0_HienBot> Try !кιт survival ",
     "[05:37] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:37] <samnnibal> !kit survival ",
-    "[05:37] To samnnibal: You're on cooldown, try again in 16 seconds! Dont forget to join dsc.gg/hienbot"
+    "[05:37] To samnnibal: You're on cooldown, try again in 16 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:38] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[05:38] <samnnibal> !kit survival ",
+    "[05:38] [8b8t] >> Teleporting to home 0...",
+    "[05:38] [8b8t] >> Teleporting to home 1...",
+    "[05:38] To samnnibal: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:38] To samnnibal: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:38] [8b8t] >> Request sent to samnnibal",
+    "[05:38] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2878,11 +2878,11 @@
     "AgussVLLC": 1,
     "Zems": 1,
     "Cherubin": 1,
-    "samnnibal": 1
+    "samnnibal": 2
   },
   "kitStats": {
     "build": 1461,
-    "survival": 5673,
+    "survival": 5674,
     "pvp": 7225,
     "dupe": 1790,
     "tools": 1701,
