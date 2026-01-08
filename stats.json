@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:15:31 8/1/2026",
+  "lastUpdated": "20:16:01 8/1/2026",
   "totalKits": 84147,
   "todayKits": 95,
-  "onlineCount": 26,
+  "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 278,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 1800
+      "count": 1801
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:12] [BOT] <0_HienBot> Hey boludo! ",
-    "[13:12] To PenguinKingReal: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:12] <vulpr> my grim config somehow dosent ",
-    "[13:12] [8b8t] >> Request sent to PenguinKingReal",
-    "[13:12] [8b8t] >> Teleporting...",
-    "[13:12] [8b8t] >> You have killed yourself!",
-    "[13:12] [Ultra] <MindComplexity> it's not grim though ",
-    "[13:12] [8b8t] >> Home 2 was not found",
-    "[13:12] [Ultra] <MindComplexity> you are configing for the wrong ac ",
     "[13:12] <vulpr> is it prediction? ",
     "[13:12] [Ultra] <MindComplexity> no ",
     "[13:12] [BOT] <0_HienBot> Use /kill to kill yourself! ",
@@ -101,7 +92,16 @@
     "[13:14] [8b8t] >> Teleporting...",
     "[13:14] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[13:14] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[13:15] [BOT] <0_HienBot> What's up, .Will12098092? "
+    "[13:15] [BOT] <0_HienBot> What's up, .Will12098092? ",
+    "[13:15] <boludo> !kit build ",
+    "[13:15] To boludo: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:15] <crisprogx> !kit dupe ",
+    "[13:15] [8b8t] >> Teleporting to home 0...",
+    "[13:15] [8b8t] >> Teleporting to home 8...",
+    "[13:15] To crisprogx: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:15] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
+    "[13:15] To crisprogx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:15] [8b8t] >> Request sent to crisprogx"
   ],
   "userStats": {
     "76756": 38,
@@ -2895,13 +2895,13 @@
     "PenguinKingReal": 14,
     "Pornografico": 4,
     "PrimalJeremy08": 5,
-    "crisprogx": 2
+    "crisprogx": 3
   },
   "kitStats": {
     "build": 1471,
     "survival": 5692,
     "pvp": 7252,
-    "dupe": 1800,
+    "dupe": 1801,
     "tools": 1707,
     "stash": 908,
     "raid": 1157,
