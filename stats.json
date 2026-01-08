@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:24:01 8/1/2026",
+  "lastUpdated": "19:24:31 8/1/2026",
   "totalKits": 84121,
   "todayKits": 69,
   "onlineCount": 23,
   "peakPlayers": 31,
-  "tps": "10.0",
-  "ping": 267,
+  "tps": "9.0",
+  "ping": 268,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7245
+      "count": 7246
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:18] [8b8t] >> Please do not spam.",
-    "[12:18] <fares_x> !kit pvp ",
-    "[12:18] To fares_x: You're on cooldown, try again in 49 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:18] <fares_x> !kit pvp ",
-    "[12:18] To fares_x: You're on cooldown, try again in 47 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:18] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
     "[12:19] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[12:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +96,12 @@
     "[12:22] [BOT] <0_HienBot> Use /lobby to return to the lobby! ",
     "[12:23] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
     "[12:23] [BOT] <0_HienBot> Hello 8b8t_net! ",
-    "[12:23] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[12:23] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:24] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
+    "[12:24] <PenguinKingReal> !kit pvp ",
+    "[12:24] [8b8t] >> Teleporting to home 0...",
+    "[12:24] [8b8t] >> Teleporting to home 1...",
+    "[12:24] To PenguinKingReal: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2892,12 +2892,12 @@
     "ZeR0hEll": 2,
     "superemeking": 1,
     "fares_x": 5,
-    "PenguinKingReal": 3
+    "PenguinKingReal": 4
   },
   "kitStats": {
     "build": 1467,
     "survival": 5688,
-    "pvp": 7245,
+    "pvp": 7246,
     "dupe": 1798,
     "tools": 1704,
     "stash": 907,
