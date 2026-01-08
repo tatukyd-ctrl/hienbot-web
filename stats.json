@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:15:57 8/1/2026",
+  "lastUpdated": "11:16:27 8/1/2026",
   "totalKits": 84023,
   "todayKits": 2,
-  "onlineCount": 28,
+  "onlineCount": 29,
   "peakPlayers": 30,
-  "tps": "8.0",
+  "tps": "3.0",
   "ping": 275,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:12] <.Maddie8171111> !kit illegal ",
-    "[04:12] To .Maddie8171111: You're on cooldown, try again in 95 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:12] <.Maddie8171111> $kit ",
-    "[04:12] To .Maddie8171111: Hello .Maddie8171111!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:12] [BOT] <0_HienBot> August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[04:12] <.Maddie8171111> $kit illegal ",
-    "[04:12] To .Maddie8171111: You're on cooldown, try again in 75 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:13] <.Maddie8171111> !kit illegal ",
     "[04:13] To .Maddie8171111: You're on cooldown, try again in 52 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:13] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
@@ -101,7 +94,14 @@
     "[04:15] [BOT] <0_HienBot> For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[04:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[04:15] ItsTraits has made the advancement [Ol' Betsy]",
-    "[04:15] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[04:15] [BOT] <0_HienBot> Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[04:16] <stelaOwO> !kit illegal ",
+    "[04:16] [8b8t] >> Teleporting to home 0...",
+    "[04:16] [8b8t] >> Teleporting to home 9...",
+    "[04:16] To stelaOwO: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:16] To stelaOwO: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:16] [8b8t] >> Request sent to stelaOwO",
+    "[04:16] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "76756": 38,
@@ -2872,7 +2872,8 @@
     "pelotudo": 1,
     "samuelx01": 1,
     "CuteAnshika": 4,
-    "XxLEGENDMAXxX": 1
+    "XxLEGENDMAXxX": 1,
+    "stelaOwO": 1
   },
   "kitStats": {
     "build": 1459,
@@ -2907,6 +2908,6 @@
     "christmas": 139,
     "gterracotta": 63,
     "banner": 72,
-    "illegal": 149
+    "illegal": 150
   }
 }
