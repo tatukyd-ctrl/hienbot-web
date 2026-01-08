@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:48:16 9/1/2026",
+  "lastUpdated": "00:48:29 9/1/2026",
   "totalKits": 84261,
   "todayKits": 20,
   "onlineCount": 39,
   "peakPlayers": 49,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 247,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:47] .SoulRanger53204 has completed the challenge [Serious Dedication]",
-    "[17:47] <Tevrard> zora bouge ",
-    "[17:47] [BOT] <0_HienBot> Hmmmmmmmmm ",
-    "[17:47] <nuklear1> !kit illegal ",
-    "[17:47] [8b8t] >> Teleporting to home 0...",
-    "[17:47] [8b8t] >> Teleporting to home 9...",
-    "[17:47] To nuklear1: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:47] <IvanZaSilly8B8T> what ",
     "[17:47] To nuklear1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:47] <qqcs1515> PVP at spawn ",
     "[17:47] [8b8t] >> Request sent to nuklear1",
@@ -101,7 +93,15 @@
     "[17:48] [BOT] <0_HienBot> Use /kill to kill yourself! ",
     "[17:48] <IvanZaSilly8B8T> !kit illegal ",
     "[17:48] To IvanZaSilly8B8T: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:48] [8b8t] >> Teleporting..."
+    "[17:48] [8b8t] >> Teleporting...",
+    "[17:48] [8b8t] >> You have killed yourself!",
+    "[17:48] [8b8t] >> Home 2 was not found",
+    "[17:48] <IvanZaSilly8B8T> !kit illegal ",
+    "[17:48] [8b8t] >> Teleporting to home 0...",
+    "[17:48] [8b8t] >> Teleporting to home 9...",
+    "[17:48] To IvanZaSilly8B8T: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:48] To IvanZaSilly8B8T: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:48] [8b8t] >> Request sent to IvanZaSilly8B8T"
   ],
   "userStats": {
     "76756": 38,
@@ -2903,7 +2903,7 @@
     ".KaputBucket1563": 2,
     "ElJorge_a": 1,
     "estychlol24io": 1,
-    "IvanZaSilly8B8T": 6,
+    "IvanZaSilly8B8T": 7,
     "56476fcg": 1,
     "IamNuke_": 4,
     "0_.HienBot": 1,
@@ -2945,6 +2945,6 @@
     "christmas": 139,
     "gterracotta": 64,
     "banner": 72,
-    "illegal": 200
+    "illegal": 201
   }
 }
