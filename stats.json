@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:03:32 8/1/2026",
-  "totalKits": 83980,
-  "todayKits": 32,
+  "lastUpdated": "09:04:01 8/1/2026",
+  "totalKits": 83981,
+  "todayKits": 33,
   "onlineCount": 34,
   "peakPlayers": 43,
-  "tps": "0.0",
-  "ping": 254,
+  "tps": "3.0",
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:01] [8b8t] >> Teleporting to home 0...",
-    "[02:01] [8b8t] >> Teleporting to home 8...",
-    "[02:01] To Raving_out: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:01] <Xafrank> Nice try diddy ",
-    "[02:01] To Raving_out: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:01] [8b8t] >> Request sent to Raving_out",
-    "[02:01] <Raving_out> !kit dupe ",
-    "[02:01] To Raving_out: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:01] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[02:01] <Raving_out> !kit dupe ",
     "[02:01] To Raving_out: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:01] <Raving_out> !kit ",
@@ -101,7 +91,17 @@
     "[02:03] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[02:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[02:03] ROBETIKO has made the advancement [Those Were the Days]",
-    "[02:03] ROBETIKO has made the advancement [War Pigs]"
+    "[02:03] ROBETIKO has made the advancement [War Pigs]",
+    "[02:03] <Raving_out> !kit illegal ",
+    "[02:03] To Raving_out: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:03] [BOT] <0_HienBot> Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[02:03] <Raving_out> !kit illegal ",
+    "[02:03] [8b8t] >> Teleporting to home 0...",
+    "[02:03] [8b8t] >> Teleporting to home 9...",
+    "[02:03] To Raving_out: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:03] To Raving_out: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:03] [8b8t] >> Request sent to Raving_out",
+    "[02:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2862,7 +2862,7 @@
     "Valenz07": 1,
     "rojasss3940": 1,
     "LaSoLaTu": 1,
-    "Raving_out": 7,
+    "Raving_out": 8,
     ".PoliteOrca33431": 1
   },
   "kitStats": {
@@ -2898,6 +2898,6 @@
     "christmas": 139,
     "gterracotta": 63,
     "banner": 71,
-    "illegal": 134
+    "illegal": 135
   }
 }
