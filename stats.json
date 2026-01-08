@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:35:57 8/1/2026",
+  "lastUpdated": "12:36:27 8/1/2026",
   "totalKits": 84029,
   "todayKits": 8,
-  "onlineCount": 29,
+  "onlineCount": 27,
   "peakPlayers": 32,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 418,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7224
+      "count": 7225
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:32] [BOT] <0_HienBot> Hey dani8976! ",
-    "[05:32] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[05:33] samnnibal has made the advancement [Stone Age]",
-    "[05:33] <Cherubin> !kit ",
-    "[05:33] To Cherubin: Hello Cherubin!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:33] [BOT] <0_HienBot> Hi 8b8tCommunity! ",
-    "[05:33] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:33] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[05:34] <samnnibal> !kit ",
-    "[05:34] To samnnibal: Hello samnnibal!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:34] [BOT] <0_HienBot> Try !кιт survival ",
     "[05:34] <Cherubin> !kit ",
     "[05:34] To Cherubin: Hello Cherubin!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[05:35] <samnnibal> !kit ",
     "[05:35] To samnnibal: Hello samnnibal!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:35] <.ANGEL2482726> xd ",
-    "[05:35] [BOT] <0_HienBot> Try /cosmetics to change your name color! "
+    "[05:35] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
+    "[05:36] <samnnibal> !kit ",
+    "[05:36] To samnnibal: Hello samnnibal!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:36] [BOT] <0_HienBot> Voting for the server will give you access to the donkey dupe ",
+    "[05:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[05:36] <samnnibal> !kit pvp ",
+    "[05:36] [8b8t] >> Teleporting to home 0...",
+    "[05:36] [8b8t] >> Teleporting to home 1...",
+    "[05:36] To samnnibal: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:36] To samnnibal: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:36] [8b8t] >> Request sent to samnnibal"
   ],
   "userStats": {
     "76756": 38,
@@ -2877,12 +2877,13 @@
     "_jbl_thaicarla": 1,
     "AgussVLLC": 1,
     "Zems": 1,
-    "Cherubin": 1
+    "Cherubin": 1,
+    "samnnibal": 1
   },
   "kitStats": {
     "build": 1461,
     "survival": 5673,
-    "pvp": 7224,
+    "pvp": 7225,
     "dupe": 1790,
     "tools": 1701,
     "stash": 901,
