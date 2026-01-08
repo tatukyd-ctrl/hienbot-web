@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:06:31 8/1/2026",
-  "totalKits": 84172,
-  "todayKits": 120,
-  "onlineCount": 40,
+  "lastUpdated": "21:06:51 8/1/2026",
+  "totalKits": 84173,
+  "todayKits": 121,
+  "onlineCount": 39,
   "peakPlayers": 42,
-  "tps": "5.0",
+  "tps": "7.0",
   "ping": 269,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5698
+      "count": 5699
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:05] <crisprogx> !kit pvp ",
-    "[14:05] To crisprogx: You're on cooldown, try again in 1 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:05] <nuklear1> Spermageddon ",
-    "[14:05] <crisprogx> !kit pvp ",
-    "[14:05] [8b8t] >> Teleporting to home 0...",
-    "[14:05] [8b8t] >> Teleporting to home 1...",
-    "[14:05] To crisprogx: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:05] To crisprogx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:05] [8b8t] >> Request sent to crisprogx",
     "[14:05] <nuklear1> !kit survival ",
     "[14:05] To nuklear1: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[14:06] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
     "[14:06] <boludo> pvp ",
     "[14:06] <nuklear1> !kit survival ",
-    "[14:06] To nuklear1: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot"
+    "[14:06] To nuklear1: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:06] <nuklear1> !kit survival ",
+    "[14:06] [8b8t] >> Teleporting to home 0...",
+    "[14:06] [8b8t] >> Teleporting to home 1...",
+    "[14:06] To nuklear1: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:06] To nuklear1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:06] [8b8t] >> Request sent to nuklear1",
+    "[14:06] [8b8t] >> Teleporting...",
+    "[14:06] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "76756": 38,
@@ -2002,7 +2002,7 @@
     "qowti": 6,
     "SEXY_SAIIKO": 5,
     "HDAayoub": 6,
-    "nuklear1": 124,
+    "nuklear1": 125,
     "miguel1223": 1,
     "Canamed21": 7,
     "Hanyss_": 61,
@@ -2902,7 +2902,7 @@
   },
   "kitStats": {
     "build": 1473,
-    "survival": 5698,
+    "survival": 5699,
     "pvp": 7260,
     "dupe": 1803,
     "tools": 1707,
