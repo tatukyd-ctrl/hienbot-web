@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:48:57 8/1/2026",
+  "lastUpdated": "13:49:27 8/1/2026",
   "totalKits": 84036,
   "todayKits": 15,
   "onlineCount": 30,
   "peakPlayers": 37,
-  "tps": "2.0",
+  "tps": "0.0",
   "ping": 249,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7226
+      "count": 7227
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:47] <xxx_osolord_xxx> que cliente usas? ",
-    "[06:47] <SavageJfs> meteor ",
-    "[06:47] <.PRO569177324> !kit ",
-    "[06:47] To .PRO569177324: Hello .PRO569177324!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:47] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[06:47] <xxx_osolord_xxx> shift derecho pulsa y ponte kill aura ",
-    "[06:47] <.PRO569177324> !kit wool ",
-    "[06:47] [8b8t] >> Teleporting to home 0...",
-    "[06:47] [8b8t] >> Teleporting to home 4...",
     "[06:47] To .PRO569177324: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:47] <2young2care> ez ",
     "[06:47] To .PRO569177324: Sorry! Lime Shulker Box is out of stock. Giving you Gray Shulker Box instead! dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[06:48] [BOT] <0_HienBot> Hate those who destroy Hien2309's base ",
     "[06:48] <xxx_osolord_xxx> gapea ",
     "[06:48] <Enzytroiz_Mc> go fuckin nigga ",
-    "[06:48] .TLANDER3924 has made the advancement [Cover Me With Diamonds]"
+    "[06:48] .TLANDER3924 has made the advancement [Cover Me With Diamonds]",
+    "[06:48] <xxx_osolord_xxx> no me pegues ",
+    "[06:49] <shardah> !kit pvp ",
+    "[06:49] <SavageJfs> alrght ",
+    "[06:49] [8b8t] >> Teleporting to home 0...",
+    "[06:49] [8b8t] >> Teleporting to home 1...",
+    "[06:49] To shardah: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:49] <xxx_osolord_xxx> ponte crystal air place ",
+    "[06:49] To shardah: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:49] [8b8t] >> Request sent to shardah"
   ],
   "userStats": {
     "76756": 38,
@@ -402,7 +402,7 @@
     "Abanoub67": 49,
     "grxyhdhshs": 1,
     "OPMARZAN12": 16,
-    "shardah": 19,
+    "shardah": 20,
     "AZFurryT_C": 9,
     "tehnogamer123": 8,
     "ulisesotazo2134": 6,
@@ -2883,7 +2883,7 @@
   "kitStats": {
     "build": 1461,
     "survival": 5676,
-    "pvp": 7226,
+    "pvp": 7227,
     "dupe": 1790,
     "tools": 1701,
     "stash": 902,
