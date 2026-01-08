@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:59:27 8/1/2026",
+  "lastUpdated": "11:59:57 8/1/2026",
   "totalKits": 84026,
   "todayKits": 5,
   "onlineCount": 27,
   "peakPlayers": 30,
   "tps": "6.0",
-  "ping": 244,
+  "ping": 396,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:55] <_jbl_thaicarla> !kit pvp ",
-    "[04:55] [8b8t] >> Please do not spam.",
-    "[04:55] [8b8t] >> Teleporting to home 0...",
-    "[04:55] [8b8t] >> Teleporting to home 1...",
-    "[04:55] To _jbl_thaicarla: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:55] To _jbl_thaicarla: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:55] [8b8t] >> Request sent to _jbl_thaicarla",
     "[04:55] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
     "[04:55] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[04:55] [8b8t] >> TPA cancelled because _jbl_thaicarla left",
@@ -101,7 +94,14 @@
     "[04:58] [BOT] <0_HienBot> Hmmmmmmmmm ",
     "[04:58] [BOT] <0_HienBot> July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[04:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:59] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ "
+    "[04:59] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[04:59] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[04:59] <AgussVLLC> !kit stash ",
+    "[04:59] [8b8t] >> Teleporting to home 0...",
+    "[04:59] [8b8t] >> Teleporting to home 3...",
+    "[04:59] To AgussVLLC: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:59] To AgussVLLC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:59] [8b8t] >> Request sent to AgussVLLC"
   ],
   "userStats": {
     "76756": 38,
@@ -2874,7 +2874,8 @@
     "CuteAnshika": 4,
     "XxLEGENDMAXxX": 1,
     "stelaOwO": 1,
-    "_jbl_thaicarla": 1
+    "_jbl_thaicarla": 1,
+    "AgussVLLC": 1
   },
   "kitStats": {
     "build": 1459,
@@ -2882,7 +2883,7 @@
     "pvp": 7224,
     "dupe": 1790,
     "tools": 1701,
-    "stash": 900,
+    "stash": 901,
     "raid": 1150,
     "wood": 482,
     "exp": 650,
