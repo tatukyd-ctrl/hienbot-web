@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:09:01 8/1/2026",
+  "lastUpdated": "19:09:31 8/1/2026",
   "totalKits": 84117,
   "todayKits": 65,
   "onlineCount": 25,
   "peakPlayers": 31,
-  "tps": "4.0",
+  "tps": "10.0",
   "ping": 264,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5687
+      "count": 5688
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:02] [BOT] <0_HienBot> Hello Ondrasitek! ",
-    "[12:02] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:03] [BOT] <0_HienBot> Hi TNGB0T! ",
-    "[12:03] [BOT] <0_HienBot> Hi fares_x! ",
-    "[12:04] [BOT] <0_HienBot> Save your password well, resetting it will cost you $5 dollars ",
-    "[12:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:04] [BOT] <0_HienBot> Type !discord ",
-    "[12:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:05] fares_x has made the advancement [Monster Hunter]",
-    "[12:05] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[12:05] <u_r_bad> $dox Leeewiith3Es ",
     "[12:05] <mordere> helloooo ",
     "[12:05] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
@@ -101,7 +91,17 @@
     "[12:08] [BOT] <8b8t_net> <vlesmentie> BigBear never walked again ",
     "[12:08] [BOT] <0_HienBot> Bot created by Hien2309. ",
     "[12:08] [BOT] <0_HienBot> Try !кιт survival ",
-    "[12:08] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[12:08] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[12:09] <fares_x> !kit surviva ",
+    "[12:09] [8b8t] >> Teleporting to home 0...",
+    "[12:09] [8b8t] >> Teleporting to home 1...",
+    "[12:09] To fares_x: Kit \"surviva\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[12:09] To fares_x: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:09] [8b8t] >> Request sent to fares_x",
+    "[12:09] <fares_x> !kit survival ",
+    "[12:09] To fares_x: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:09] [BOT] <0_HienBot> Try /cosmetics to change your name color! ",
+    "[12:09] <u_r_bad> yo BigBear "
   ],
   "userStats": {
     "76756": 38,
@@ -2890,11 +2890,12 @@
     "Melany_opp": 1,
     "AprilIsHere": 1,
     "ZeR0hEll": 2,
-    "superemeking": 1
+    "superemeking": 1,
+    "fares_x": 1
   },
   "kitStats": {
     "build": 1467,
-    "survival": 5687,
+    "survival": 5688,
     "pvp": 7239,
     "dupe": 1798,
     "tools": 1704,
