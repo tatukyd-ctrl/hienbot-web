@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:51:22 8/1/2026",
+  "lastUpdated": "15:51:31 8/1/2026",
   "totalKits": 84061,
   "todayKits": 9,
-  "onlineCount": 24,
+  "onlineCount": 25,
   "peakPlayers": 26,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 242,
   "topUsers": [
     {
@@ -38,7 +38,7 @@
     },
     {
       "name": "DeadlyNyxian",
-      "count": 146
+      "count": 147
     },
     {
       "name": "Regentmmc",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:49] You were kicked from 8b8t: Timed out",
-    "[08:49] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[08:49] [8b8t] >> Welcome sksbosshero to 8b8t.me Lobby",
-    "[08:49] [8b8t] Unknown command do /help",
-    "[08:49] [8b8t] Unknown command do /help",
-    "[08:49] [8b8t] Unknown command do /help",
-    "[08:49] <AppleBot> > ¡Hola! Soy el bot de The Apple Group. ¡Únete a nuestro Disc0rd con !invite!",
-    "[08:49] [8b8t] >> Welcome joiger444 to 8b8t.me Lobby",
-    "[08:49] [8b8t] Unknown command do /help",
     "[08:49] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[08:49] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[08:49] You are already connected to this server!",
@@ -101,7 +92,16 @@
     "[08:51] To nguyenthai1: Your kit (Illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:51] To nguyenthai1: Sorry! Light Blue Shulker Box is out of stock. Giving you Purple Shulker Box instead! dsc.gg/hienbot",
     "[08:51] [8b8t] >> Request sent to nguyenthai1",
-    "[08:51] [8b8t] >> Teleporting..."
+    "[08:51] [8b8t] >> Teleporting...",
+    "[08:51] [8b8t] >> You have killed yourself!",
+    "[08:51] <DeadlyNyxian> !kit illegal ",
+    "[08:51] [8b8t] >> Teleporting to home 0...",
+    "[08:51] [8b8t] >> Home 2 was not found",
+    "[08:51] [8b8t] >> Teleporting to home 9...",
+    "[08:51] To DeadlyNyxian: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:51] [BOT] <0_HienBot> HienBot Group: dsc,gg/hienbot ",
+    "[08:51] To DeadlyNyxian: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:51] [8b8t] >> Request sent to DeadlyNyxian"
   ],
   "userStats": {
     "76756": 38,
@@ -1010,7 +1010,7 @@
     "man_altt07": 1,
     "zzxgp_ThIGS": 1,
     "vexynox": 1,
-    "DeadlyNyxian": 146,
+    "DeadlyNyxian": 147,
     "Leucosyts": 3,
     ".SPYDER2091": 1,
     "frogwavesz": 3,
@@ -2919,6 +2919,6 @@
     "christmas": 139,
     "gterracotta": 63,
     "banner": 72,
-    "illegal": 157
+    "illegal": 158
   }
 }
