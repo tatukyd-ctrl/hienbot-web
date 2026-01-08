@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:14:42 8/1/2026",
-  "totalKits": 84014,
-  "todayKits": 66,
-  "onlineCount": 38,
+  "lastUpdated": "10:14:55 8/1/2026",
+  "totalKits": 84015,
+  "todayKits": 67,
+  "onlineCount": 36,
   "peakPlayers": 45,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 258,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:13] [8b8t] >> Request sent to CuteAnshika",
-    "[03:13] [8b8t] >> Teleporting...",
-    "[03:13] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
-    "[03:13] [8b8t] >> You have killed yourself!",
-    "[03:13] [8b8t] >> Home 2 was not found",
-    "[03:13] [Ultra] <imnotoldmacbook> ?leave ",
-    "[03:13] [Ultra] <imnotoldmacbook> ?commands ",
     "[03:13] [BOT] <0_HienBot> Use !кιт to get kits ",
     "[03:13] <CuteAnshika> !kit illegal ",
     "[03:13] To CuteAnshika: You're on cooldown, try again in 61 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[03:14] To sexbas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:14] [8b8t] >> Request sent to sexbas",
     "[03:14] [8b8t] >> Teleporting...",
-    "[03:14] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ "
+    "[03:14] [BOT] <0_HienBot> Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[03:14] <CuteAnshika> !kit illegal ",
+    "[03:14] [8b8t] >> Teleporting to home 0...",
+    "[03:14] [8b8t] >> Teleporting to home 9...",
+    "[03:14] To CuteAnshika: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:14] To CuteAnshika: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:14] [8b8t] >> Request sent to CuteAnshika",
+    "[03:14] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2871,7 +2871,7 @@
     "bigboy4474": 2,
     "pelotudo": 1,
     "samuelx01": 1,
-    "CuteAnshika": 1
+    "CuteAnshika": 2
   },
   "kitStats": {
     "build": 1459,
@@ -2906,6 +2906,6 @@
     "christmas": 139,
     "gterracotta": 63,
     "banner": 72,
-    "illegal": 144
+    "illegal": 145
   }
 }
