@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:54:59 9/1/2026",
+  "lastUpdated": "01:55:29 9/1/2026",
   "totalKits": 84290,
   "todayKits": 49,
   "onlineCount": 53,
   "peakPlayers": 55,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 255,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5720
+      "count": 5721
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:53] [8b8t] >> Request sent to .VadoseMist36087",
-    "[18:53] <ZafiroAfiro> i remember this site save after one hours . . . ",
-    "[18:53] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[18:53] [Pro] <ARNOSHEEP> $kit pvp ",
-    "[18:53] To ARNOSHEEP: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[18:54] <ByRussX> !kit illegal ",
-    "[18:54] To ByRussX: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[18:54] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
-    "[18:54] [8b8t] >> Teleporting...",
-    "[18:54] [8b8t] >> You have killed yourself!",
-    "[18:54] [8b8t] >> Home 2 was not found",
-    "[18:54] <0Noxx0> !kit stash ",
     "[18:54] <ByRussX> !kit pvp ",
     "[18:54] [8b8t] >> Teleporting to home 0...",
     "[18:54] To 0Noxx0: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +89,19 @@
     "[18:54] [8b8t] >> You have killed yourself!",
     "[18:54] [8b8t] >> The TPA request you sent to ByRussX was successfully canceled.",
     "[18:54] <ByRussX> !kit pvp ",
-    "[18:54] To ByRussX: You're on cooldown, try again in 93 seconds! Dont forget to join dsc.gg/hienbot"
+    "[18:54] To ByRussX: You're on cooldown, try again in 93 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:54] <ByRussX> !kit pvp ",
+    "[18:54] To ByRussX: You're on cooldown, try again in 91 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:55] [BOT] <0_HienBot> To change your password use the command /changepass <current password> <new password> ",
+    "[18:55] [Basic] <.VadoseMist36087> $kit illegal ",
+    "[18:55] To .VadoseMist36087: You're on cooldown, try again in 19 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:55] <jsjsjsjsjsjs> !kit survival ",
+    "[18:55] [8b8t] >> Teleporting to home 0...",
+    "[18:55] [8b8t] >> Teleporting to home 1...",
+    "[18:55] To jsjsjsjsjsjs: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:55] To jsjsjsjsjsjs: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:55] [8b8t] >> Request sent to jsjsjsjsjsjs",
+    "[18:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -2219,7 +2219,7 @@
     "Ray13": 39,
     "Buezito22": 3,
     "TriKaDZ": 1,
-    "jsjsjsjsjsjs": 66,
+    "jsjsjsjsjsjs": 67,
     "ItzRealGaby": 2,
     "elmartin50": 31,
     "xbsdg": 2,
@@ -2919,7 +2919,7 @@
   },
   "kitStats": {
     "build": 1481,
-    "survival": 5720,
+    "survival": 5721,
     "pvp": 7276,
     "dupe": 1805,
     "tools": 1714,
