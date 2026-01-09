@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:03:26 9/1/2026",
+  "lastUpdated": "08:03:56 9/1/2026",
   "totalKits": 84392,
   "todayKits": 25,
-  "onlineCount": 25,
+  "onlineCount": 23,
   "peakPlayers": 51,
-  "tps": "9.0",
+  "tps": "3.0",
   "ping": 329,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5739
+      "count": 5740
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:00] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
-    "[01:01] [Youtuber] <Malbacoo> DO /hotspot for free kit ",
-    "[01:01] [BOT] <0_HienBot> Try !ᴋɪᴛ pvp ",
-    "[01:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:01] [8b8t] >> Malbacoo created a new hotspot, use /hotspot to teleport to it",
-    "[01:01] <Foro1> !kit dupe ",
-    "[01:01] [8b8t] >> Teleporting to home 0...",
-    "[01:01] [8b8t] >> Teleporting to home 8...",
     "[01:01] To Foro1: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:01] [Youtuber] <Malbacoo> Foro1 do you want a kit ",
     "[01:01] To Foro1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +93,15 @@
     "[01:02] [BOT] <0_HienBot> Want to see the server's tps? Chat !ᴛᴘs ",
     "[01:02] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[01:03] progamer6342938 has reached the goal [Sky's the Limit]",
-    "[01:03] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me "
+    "[01:03] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
+    "[01:03] <progamer6342938> !kit survival ",
+    "[01:03] [8b8t] >> Teleporting to home 0...",
+    "[01:03] [8b8t] >> Teleporting to home 1...",
+    "[01:03] To progamer6342938: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:03] To progamer6342938: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:03] [8b8t] >> Request sent to progamer6342938",
+    "[01:03] [8b8t] >> TPA cancelled because progamer6342938 left",
+    "[01:03] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "76756": 38,
@@ -2936,11 +2936,12 @@
     "Laura3124": 1,
     ".redrussian63845": 5,
     "BSon": 7,
-    "action_jackson8": 2
+    "action_jackson8": 2,
+    "progamer6342938": 1
   },
   "kitStats": {
     "build": 1486,
-    "survival": 5739,
+    "survival": 5740,
     "pvp": 7301,
     "dupe": 1811,
     "tools": 1723,
