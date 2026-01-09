@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:44:14 9/1/2026",
+  "lastUpdated": "20:44:44 9/1/2026",
   "totalKits": 84394,
   "todayKits": 0,
   "onlineCount": 29,
   "peakPlayers": 36,
   "tps": "1.0",
-  "ping": 0,
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1723
+      "count": 1724
     },
     {
       "name": "build",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:41] [8b8t] >> You have killed yourself!",
-    "[13:41] You are already connected to this server!",
-    "[13:41] [8b8t] >> You have killed yourself!",
-    "[13:41] You are already connected to this server!",
     "[13:41] [8b8t] >> You have killed yourself!",
     "[13:41] You are already connected to this server!",
     "[13:41] You are already connected to this server!",
@@ -101,7 +97,11 @@
     "[13:44] You are already connected to this server!",
     "[13:44] [8b8t] >> You have killed yourself!",
     "[13:44] [8b8t] >> You have killed yourself!",
-    "[13:44] You are already connected to this server!"
+    "[13:44] You are already connected to this server!",
+    "[13:44] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:44] [8b8t] >> Please do not spam.",
+    "[13:44] <or4acle> !kit tools ",
+    "[13:44] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2698,7 +2698,7 @@
     "k4fb": 1,
     "thexjaj1": 3,
     "ItEZPez": 1,
-    "or4acle": 23,
+    "or4acle": 24,
     "RainbowGlassCat": 2,
     "Booosah": 1,
     "PaoloIsHere09": 13,
@@ -2945,7 +2945,7 @@
     "survival": 5742,
     "pvp": 7301,
     "dupe": 1811,
-    "tools": 1723,
+    "tools": 1724,
     "stash": 925,
     "raid": 1162,
     "wood": 492,
