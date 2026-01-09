@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:57:20 9/1/2026",
-  "totalKits": 84400,
-  "todayKits": 4,
+  "lastUpdated": "20:57:35 9/1/2026",
+  "totalKits": 84401,
+  "todayKits": 5,
   "onlineCount": 37,
   "peakPlayers": 40,
-  "tps": "4.0",
+  "tps": "7.0",
   "ping": 255,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:55] To Abolitis: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:55] To Abolitis: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:55] [8b8t] >> Request sent to Abolitis",
-    "[13:55] whodream has made the advancement [Ice Bucket Challenge]",
-    "[13:55] [8b8t] >> Teleporting...",
-    "[13:55] [8b8t] >> You have killed yourself!",
-    "[13:55] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[13:55] [8b8t] >> Home 2 was not found",
     "[13:55] Abolitis has completed the challenge [Cover Me in Debris]",
     "[13:55] Abolitis has made the advancement [Ice Bucket Challenge]",
     "[13:55] Abolitis has reached the goal [Sky's the Limit]",
@@ -101,7 +93,15 @@
     "[13:56] [8b8t] >> Teleporting...",
     "[13:56] To IvanZaSilly8B8T: Try again dsc.gg/hienbot",
     "[13:57] Exoshi has made the advancement [Diamonds!]",
-    "[13:57] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[13:57] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[13:57] <Abolitis> !kit illegal ",
+    "[13:57] [8b8t] >> You have killed yourself!",
+    "[13:57] To Abolitis: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:57] [8b8t] >> Teleporting to home 0...",
+    "[13:57] [8b8t] >> Teleporting to home 9...",
+    "[13:57] To Abolitis: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:57] [8b8t] >> Request sent to Abolitis",
+    "[13:57] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2939,7 +2939,7 @@
     "action_jackson8": 2,
     "progamer6342938": 1,
     "progamer6342939": 2,
-    "Abolitis": 1
+    "Abolitis": 2
   },
   "kitStats": {
     "build": 1486,
@@ -2974,6 +2974,6 @@
     "christmas": 139,
     "gterracotta": 67,
     "banner": 72,
-    "illegal": 242
+    "illegal": 243
   }
 }
