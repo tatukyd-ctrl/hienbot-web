@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:48:07 9/1/2026",
+  "lastUpdated": "10:48:37 9/1/2026",
   "totalKits": 84394,
   "todayKits": 0,
-  "onlineCount": 21,
+  "onlineCount": 4,
   "peakPlayers": 21,
   "tps": "1.0",
   "ping": 0,
@@ -74,7 +74,7 @@
   "chatLog": [
     "[03:48] You are already trying to connect to a server!",
     "[03:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[03:48] You were kicked from 8b8t: An internal server connection error occurred.",
+    "[03:48] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
     "[03:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[03:48] You are already trying to connect to a server!",
     "[03:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -92,16 +92,16 @@
     "[03:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[03:48] You were kicked from 8b8t: An internal server connection error occurred.",
     "[03:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[03:48] You are already trying to connect to a server!",
     "[03:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[03:48] You are already connected to this server!",
     "[03:48] You were kicked from 8b8t: An internal server connection error occurred.",
     "[03:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[03:48] You are already trying to connect to a server!",
     "[03:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[03:48] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
     "[03:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[03:48] You are already trying to connect to a server!",
-    "[03:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me"
+    "[03:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[03:48] You were kicked from 8b8t: An internal server connection error occurred."
   ],
   "userStats": {
     "76756": 38,
