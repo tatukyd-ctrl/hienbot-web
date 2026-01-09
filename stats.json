@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:06:26 9/1/2026",
+  "lastUpdated": "08:06:56 9/1/2026",
   "totalKits": 84392,
   "todayKits": 25,
   "onlineCount": 31,
   "peakPlayers": 51,
-  "tps": "5.0",
-  "ping": 259,
+  "tps": "1.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5740
+      "count": 5741
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:03] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
-    "[01:03] <progamer6342938> !kit survival ",
-    "[01:03] [8b8t] >> Teleporting to home 0...",
-    "[01:03] [8b8t] >> Teleporting to home 1...",
-    "[01:03] To progamer6342938: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:03] To progamer6342938: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:03] [8b8t] >> Request sent to progamer6342938",
     "[01:03] [8b8t] >> TPA cancelled because progamer6342938 left",
     "[01:03] [8b8t] >> Please do not spam.",
     "[01:04] [Youtuber] <Malbacoo> dam it ",
@@ -101,7 +94,14 @@
     "[01:05] progamer6342939 has reached the goal [Sky's the Limit]",
     "[01:05] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
     "[01:05] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[01:06] [BOT] <0_HienBot> Sub to Hien2309 in youtube "
+    "[01:06] [BOT] <0_HienBot> Sub to Hien2309 in youtube ",
+    "[01:06] <progamer6342939> !kit survival ",
+    "[01:06] [8b8t] >> Teleporting to home 0...",
+    "[01:06] [8b8t] >> Teleporting to home 1...",
+    "[01:06] To progamer6342939: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:06] To progamer6342939: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:06] [8b8t] >> Request sent to progamer6342939",
+    "[01:06] [BOT] <0_HienBot> Try !ᴋɪᴛ stash "
   ],
   "userStats": {
     "76756": 38,
@@ -2937,11 +2937,12 @@
     ".redrussian63845": 5,
     "BSon": 7,
     "action_jackson8": 2,
-    "progamer6342938": 1
+    "progamer6342938": 1,
+    "progamer6342939": 1
   },
   "kitStats": {
     "build": 1486,
-    "survival": 5740,
+    "survival": 5741,
     "pvp": 7301,
     "dupe": 1811,
     "tools": 1723,
