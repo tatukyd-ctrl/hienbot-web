@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:00:01 10/1/2026",
+  "lastUpdated": "06:00:31 10/1/2026",
   "totalKits": 84658,
   "todayKits": 66,
   "onlineCount": 39,
   "peakPlayers": 59,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 265,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7361
+      "count": 7362
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:58] [8b8t] >> You have killed yourself!",
-    "[22:58] [Ultra] <KurtzMC> entonces? ",
-    "[22:58] [8b8t] >> The TPA request you sent to ElChacalDemon was successfully canceled.",
-    "[22:58] <ElChacalDemon> !kit Stash ",
-    "[22:58] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[22:58] To ElChacalDemon: You're on cooldown, try again in 96 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:58] [XMAS2025] <Tobias> le metieron un dildo por el culo ",
-    "[22:58] [Ultra] <KurtzMC> pero la pregunta es ",
-    "[22:58] [XMAS2025] <Tobias> le costo la fuerza de voluntad para sacarselo ",
-    "[22:58] <Sunther_> q rico ",
     "[22:58] <AgussVLLC> !kit ",
     "[22:58] To AgussVLLC: Hello AgussVLLC!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[22:58] thedk777 has made the advancement [Ice Bucket Challenge]",
@@ -101,7 +91,17 @@
     "[22:59] <ElChacalDemon> !kit stash ",
     "[22:59] To ElChacalDemon: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:59] [BOT] <0_HienBot> >Welcome to 8b8t, MaxFK166! ",
-    "[22:59] [8b8t] >> AgussVLLC wants to teleport you to them /tpayes USERNAME /tpano USERNAME"
+    "[22:59] [8b8t] >> AgussVLLC wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
+    "[23:00] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[23:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[23:00] <efraddada> !kit pvp ",
+    "[23:00] [8b8t] >> Teleporting to home 0...",
+    "[23:00] [8b8t] >> Teleporting to home 1...",
+    "[23:00] SeriusCinema has made the advancement [The City at the End of the Game]",
+    "[23:00] To efraddada: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:00] To efraddada: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:00] [8b8t] >> Request sent to efraddada",
+    "[23:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2575,7 +2575,7 @@
     "seashell8950": 4,
     "SENIOREMONEY": 1,
     "stuck_alt": 45,
-    "efraddada": 11,
+    "efraddada": 12,
     "hmadyuh": 41,
     ".XBLAZEFOOTX": 3,
     "Floobius446": 1,
@@ -2982,7 +2982,7 @@
   "kitStats": {
     "build": 1507,
     "survival": 5809,
-    "pvp": 7361,
+    "pvp": 7362,
     "dupe": 1831,
     "tools": 1743,
     "stash": 940,
