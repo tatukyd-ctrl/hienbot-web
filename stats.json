@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:33:20 9/1/2026",
-  "totalKits": 84456,
-  "todayKits": 60,
-  "onlineCount": 36,
+  "lastUpdated": "22:33:46 9/1/2026",
+  "totalKits": 84457,
+  "todayKits": 61,
+  "onlineCount": 37,
   "peakPlayers": 43,
   "tps": "4.0",
-  "ping": 320,
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7314
+      "count": 7315
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:30] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[15:30] <SlimeCrafter_99> good? ",
-    "[15:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[15:30] <SavageJfs> ye ",
-    "[15:30] <SavageJfs> thanks ",
-    "[15:31] <SlimeCrafter_99> okay ",
-    "[15:31] Exoshi has made the advancement [Ol' Betsy]",
-    "[15:31] Exoshi has made the advancement [Take Aim]",
     "[15:31] <Abolitis> i want knockback sword kaput ",
     "[15:31] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[15:31] <SlimeCrafter_99> sory ",
@@ -101,7 +93,15 @@
     "[15:32] <SavageJfs> well ",
     "[15:32] <SlimeCrafter_99> illegal ",
     "[15:33] <obitokkkk> !ki PVP ",
-    "[15:33] [8b8t] >> Please do not spam."
+    "[15:33] [8b8t] >> Please do not spam.",
+    "[15:33] <obitokkkk> !kit pvp ",
+    "[15:33] [8b8t] >> Teleporting to home 0...",
+    "[15:33] [8b8t] >> Teleporting to home 1...",
+    "[15:33] To obitokkkk: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:33] To obitokkkk: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:33] [8b8t] >> Request sent to obitokkkk",
+    "[15:33] [8b8t] >> Teleporting...",
+    "[15:33] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "76756": 38,
@@ -2947,12 +2947,13 @@
     "WaVaUlan6103": 7,
     "whodream": 3,
     "jakolas": 2,
-    "elpepitoo": 1
+    "elpepitoo": 1,
+    "obitokkkk": 1
   },
   "kitStats": {
     "build": 1492,
     "survival": 5753,
-    "pvp": 7314,
+    "pvp": 7315,
     "dupe": 1814,
     "tools": 1727,
     "stash": 926,
