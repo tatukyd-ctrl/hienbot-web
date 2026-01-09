@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:57:12 9/1/2026",
+  "lastUpdated": "16:57:42 9/1/2026",
   "totalKits": 84394,
   "todayKits": 0,
-  "onlineCount": 19,
+  "onlineCount": 5,
   "peakPlayers": 22,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 0,
   "topUsers": [
     {
@@ -72,6 +72,13 @@
     }
   ],
   "chatLog": [
+    "[09:57] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
+    "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[09:57] You are already trying to connect to a server!",
+    "[09:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[09:57] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
+    "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[09:57] You are already trying to connect to a server!",
     "[09:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:57] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
     "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
@@ -83,12 +90,7 @@
     "[09:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:57] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
     "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:57] You were kicked from 8b8t: An internal server connection error occurred.",
-    "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:57] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
-    "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[09:57] You are already trying to connect to a server!",
     "[09:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:57] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
     "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
@@ -98,10 +100,8 @@
     "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[09:57] You are already trying to connect to a server!",
     "[09:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:57] You were kicked from 8b8t: An internal server connection error occurred.",
-    "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:57] You are already trying to connect to a server!"
+    "[09:57] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
+    "[09:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby"
   ],
   "userStats": {
     "76756": 38,
