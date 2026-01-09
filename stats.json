@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:16:50 9/1/2026",
-  "totalKits": 84411,
-  "todayKits": 15,
+  "lastUpdated": "21:17:10 9/1/2026",
+  "totalKits": 84412,
+  "todayKits": 16,
   "onlineCount": 34,
   "peakPlayers": 40,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 253,
   "topUsers": [
     {
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1486
+      "count": 1487
     }
   ],
   "chatLog": [
-    "[14:16] 0_.HienBot Whispers: !kit illegal",
-    "[14:16] To 0_.HienBot: You're on cooldown, try again in 48 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:16] 0_.HienBot Whispers: !kit illegal",
-    "[14:16] To 0_.HienBot: You're on cooldown, try again in 48 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:16] 0_.HienBot Whispers: !kit illegal",
-    "[14:16] To 0_.HienBot: You're on cooldown, try again in 47 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:16] 0_.HienBot Whispers: !kit illegal",
     "[14:16] To 0_.HienBot: You're on cooldown, try again in 46 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:16] 0_.HienBot Whispers: !kit illegal",
     "[14:16] To 0_.HienBot: You're on cooldown, try again in 45 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[14:16] [8b8t] Unknown command do /help",
     "[14:16] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[14:16] You are already connected to this server!",
-    "[14:16] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
+    "[14:16] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[14:16] NEXUS_1 Whispers: !kit Build",
+    "[14:16] [8b8t] >> Teleporting to home 0...",
+    "[14:16] [8b8t] >> Teleporting to home 3...",
+    "[14:16] To NEXUS_1: Your kit (Build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:17] To NEXUS_1: Sorry! Lime Shulker Box is out of stock. Giving you Light Blue Shulker Box instead! dsc.gg/hienbot",
+    "[14:17] [8b8t] >> Request sent to NEXUS_1",
+    "[14:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2753,7 +2753,7 @@
     "sota____": 2,
     "PlayerNoPro505": 1,
     "DonAxx21": 1,
-    "NEXUS_1": 18,
+    "NEXUS_1": 19,
     "Renzo845YTTT": 1,
     "shorgo": 1,
     "ghostfh": 1,
@@ -2943,7 +2943,7 @@
     "thinh18052009": 1
   },
   "kitStats": {
-    "build": 1486,
+    "build": 1487,
     "survival": 5742,
     "pvp": 7306,
     "dupe": 1811,
