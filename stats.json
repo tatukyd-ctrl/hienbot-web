@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:20:26 9/1/2026",
+  "lastUpdated": "07:20:56 9/1/2026",
   "totalKits": 84373,
   "todayKits": 6,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 51,
-  "tps": "5.0",
-  "ping": 279,
+  "tps": "4.0",
+  "ping": 258,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7297
+      "count": 7298
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:17] [8b8t] >> Teleporting...",
-    "[00:17] [BOT] <0_HienBot> Hey .KaputBucket1563! ",
-    "[00:17] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[00:18] <400ks> apagala ph ",
-    "[00:18] [BOT] <0_HienBot> Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[00:18] [BOT] <0_HienBot> The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[00:19] <.KaputBucket1563> !kit redstone ",
-    "[00:19] [8b8t] >> Teleporting to home 0...",
-    "[00:19] [8b8t] >> Teleporting to home 3...",
     "[00:19] To .KaputBucket1563: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[00:19] To .KaputBucket1563: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:19] [8b8t] >> Request sent to .KaputBucket1563",
@@ -101,7 +92,16 @@
     "[00:20] <insanity_death> !kit ",
     "[00:20] To insanity_death: Hello insanity_death!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[00:20] [8b8t] >> You have killed yourself!",
-    "[00:20] [8b8t] >> The TPA request you sent to .redrussian63845 was successfully canceled."
+    "[00:20] [8b8t] >> The TPA request you sent to .redrussian63845 was successfully canceled.",
+    "[00:20] [BOT] <0_HienBot> Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[00:20] <insanity_death> !kit pvp ",
+    "[00:20] [8b8t] >> Teleporting to home 0...",
+    "[00:20] [8b8t] >> Teleporting to home 1...",
+    "[00:20] To insanity_death: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:20] To insanity_death: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:20] [8b8t] >> Request sent to insanity_death",
+    "[00:20] [8b8t] >> Teleporting...",
+    "[00:20] <SweetPrm> deja lo configuro bien "
   ],
   "userStats": {
     "76756": 38,
@@ -2883,7 +2883,7 @@
     "TheKillerTroll": 2,
     "abays": 1,
     ".Alonso33curba": 1,
-    "insanity_death": 21,
+    "insanity_death": 22,
     "gamingalif78": 3,
     "zxs_yayca": 3,
     "zxcegoistik": 2,
@@ -2939,7 +2939,7 @@
   "kitStats": {
     "build": 1485,
     "survival": 5736,
-    "pvp": 7297,
+    "pvp": 7298,
     "dupe": 1810,
     "tools": 1723,
     "stash": 924,
