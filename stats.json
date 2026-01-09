@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:42:14 9/1/2026",
+  "lastUpdated": "20:42:44 9/1/2026",
   "totalKits": 84394,
   "todayKits": 0,
-  "onlineCount": 33,
+  "onlineCount": 28,
   "peakPlayers": 36,
-  "tps": "3.0",
-  "ping": 0,
+  "tps": "7.0",
+  "ping": 269,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:41] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
-    "[13:41] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[13:41] [8b8t] Unknown command do /help",
     "[13:41] You are already trying to connect to a server!",
     "[13:41] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[13:41] You were kicked from 8b8t: Internal Exception: io.netty.handler.codec.EncoderException: Packet too large: size 2120799 is over 8",
@@ -101,7 +98,10 @@
     "[13:41] You are already connected to this server!",
     "[13:41] You are already connected to this server!",
     "[13:41] IvanZaSilly8B8T has made the advancement [Suit Up]",
-    "[13:41] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
+    "[13:41] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[13:42] OhioGamer_1488 has made the advancement [Getting an Upgrade]",
+    "[13:42] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[13:42] Adamminecraft15 Whispers: how can i switch gamemode"
   ],
   "userStats": {
     "76756": 38,
