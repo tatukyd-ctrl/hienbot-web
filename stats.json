@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:05:28 9/1/2026",
+  "lastUpdated": "22:05:50 9/1/2026",
   "totalKits": 84445,
   "todayKits": 49,
   "onlineCount": 40,
   "peakPlayers": 43,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 259,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5752
+      "count": 5753
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:04] <davidpro077> o saben donde vivo ya? ",
-    "[15:04] <Vox_Shade> tp abolitas ",
-    "[15:04] <MG_GT10> s ",
-    "[15:04] <davidpro077> mo creo no?, sino me hubieran destruido todo o que? ",
-    "[15:04] <Abolitis> i did ",
-    "[15:04] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[15:04] <NEXUS_1> es por el server ",
-    "[15:04] <davidpro077> a va ",
-    "[15:04] <NEXUS_1> es un bug crep ",
     "[15:04] <whodream> im new i need a elytra pls helpme who anyone ",
     "[15:05] Tevrard has made the advancement [Spooky Scary Skeleton]",
     "[15:05] [BOT] <0_HienBot> >What's up, rerg_rerg3? ",
@@ -101,7 +92,16 @@
     "[15:05] <WaVaUlan6103> !kit Raid ",
     "[15:05] [8b8t] >> Teleporting to home 0...",
     "[15:05] [8b8t] >> Teleporting to home 3...",
-    "[15:05] To WaVaUlan6103: Your kit (Raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
+    "[15:05] To WaVaUlan6103: Your kit (Raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:05] To WaVaUlan6103: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:05] [8b8t] >> Request sent to WaVaUlan6103",
+    "[15:05] <davidpro077> bueno brothers muchas suerte y un saludo de pparte de mi secta oscura malvada ",
+    "[15:05] [8b8t] >> Teleporting...",
+    "[15:05] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[15:05] <whodream> !kit survival ",
+    "[15:05] [8b8t] >> You have killed yourself!",
+    "[15:05] <NEXUS_1> xd igual ",
+    "[15:05] To whodream: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2944,11 +2944,12 @@
     "34po8iogn4u9oe": 1,
     "Stormyvfx462521": 2,
     "8b8t_atl_acc_1": 3,
-    "WaVaUlan6103": 5
+    "WaVaUlan6103": 5,
+    "whodream": 1
   },
   "kitStats": {
     "build": 1491,
-    "survival": 5752,
+    "survival": 5753,
     "pvp": 7312,
     "dupe": 1812,
     "tools": 1727,
