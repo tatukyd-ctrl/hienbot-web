@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:40:50 9/1/2026",
+  "lastUpdated": "22:41:20 9/1/2026",
   "totalKits": 84464,
   "todayKits": 68,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 43,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 254,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 1815
+      "count": 1816
     },
     {
       "name": "tools",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:39] <Throwaway1> !kit illegal ",
-    "[15:39] [8b8t] >> Teleporting to home 0...",
-    "[15:39] [8b8t] >> Teleporting to home 9...",
-    "[15:39] To Throwaway1: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:39] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[15:39] To Throwaway1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:39] [8b8t] >> Request sent to Throwaway1",
-    "[15:39] [Basic] <.VadoseMist36087> etu ke ne ka kori so ",
-    "[15:39] [8b8t] >> Teleporting...",
-    "[15:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[15:39] [8b8t] >> You have killed yourself!",
     "[15:39] [8b8t] >> Home 2 was not found",
     "[15:39] [Basic] <.VadoseMist36087> etu kane o 20K blocks lage ",
     "[15:40] <.DorsalLand9978> tpayes pothabo paru ",
@@ -101,7 +90,18 @@
     "[15:40] [8b8t] >> Home 2 was not found",
     "[15:40] <Throwaway1> !kit dupe ",
     "[15:40] To Throwaway1: You're on cooldown, try again in 33 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:40] [Basic] <.VadoseMist36087> khun "
+    "[15:40] [Basic] <.VadoseMist36087> khun ",
+    "[15:40] [Basic] <.VadoseMist36087> mur elytra kit loi anim ",
+    "[15:41] <Throwaway1> !kit dupe ",
+    "[15:41] To Throwaway1: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:41] <.DorsalLand9978> ok ",
+    "[15:41] [BOT] <0_HienBot> >Type !discord ",
+    "[15:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:41] <.DorsalLand9978> moi tpapotham ",
+    "[15:41] <Throwaway1> !kit dupe ",
+    "[15:41] [8b8t] >> Teleporting to home 0...",
+    "[15:41] [8b8t] >> Teleporting to home 8...",
+    "[15:41] To Throwaway1: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2949,13 +2949,13 @@
     "jakolas": 3,
     "elpepitoo": 1,
     "obitokkkk": 3,
-    "Throwaway1": 1
+    "Throwaway1": 2
   },
   "kitStats": {
     "build": 1492,
     "survival": 5753,
     "pvp": 7317,
-    "dupe": 1815,
+    "dupe": 1816,
     "tools": 1727,
     "stash": 926,
     "raid": 1166,
