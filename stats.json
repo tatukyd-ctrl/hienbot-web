@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:35:26 9/1/2026",
-  "totalKits": 84381,
-  "todayKits": 14,
-  "onlineCount": 35,
+  "lastUpdated": "07:35:56 9/1/2026",
+  "totalKits": 84382,
+  "todayKits": 15,
+  "onlineCount": 37,
   "peakPlayers": 51,
-  "tps": "5.0",
-  "ping": 268,
+  "tps": "3.0",
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5737
+      "count": 5738
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:33] [Youtuber] <Malbacoo> Phi1l0soph3r? ",
-    "[00:33] [Ultra] <L1derrFrog> Malbacoo what exploit? ",
-    "[00:33] [8b8t] >> You have killed yourself!",
-    "[00:33] [8b8t] >> Home 2 was not found",
-    "[00:33] <Noli> no exploit ",
-    "[00:33] <Noli> he's joking ",
-    "[00:33] [Youtuber] <Malbacoo> im not :P ",
-    "[00:33] [Ultra] <L1derrFrog> the mapart crash ",
-    "[00:33] [BOT] <0_HienBot> Do you want kit? Type !кιт ",
     "[00:33] [Youtuber] <Malbacoo> nope ",
     "[00:34] [Youtuber] <Malbacoo> not a crash ",
     "[00:34] BSon has reached the goal [Sky's the Limit]",
@@ -101,7 +92,16 @@
     "[00:35] [8b8t] >> Request sent to .Graciosa3378",
     "[00:35] <lukiixd666> !kit survival ",
     "[00:35] To lukiixd666: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:35] [BOT] <0_HienBot> Try !ᴋɪᴛ stash "
+    "[00:35] [BOT] <0_HienBot> Try !ᴋɪᴛ stash ",
+    "[00:35] [8b8t] >> You have killed yourself!",
+    "[00:35] <lukiixd666> !kit survival ",
+    "[00:35] [8b8t] >> Teleporting to home 0...",
+    "[00:35] [8b8t] >> No TPA request found",
+    "[00:35] [8b8t] >> Teleporting to home 1...",
+    "[00:35] To lukiixd666: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:35] To lukiixd666: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:35] [8b8t] >> Request sent to lukiixd666",
+    "[00:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1514,7 +1514,7 @@
     "maximusSEBASTIAN": 1,
     "Bodyguards": 1,
     "blass": 3,
-    "lukiixd666": 37,
+    "lukiixd666": 38,
     "IC_ALI": 1,
     "Andrespdxd": 6,
     "MrAlien": 15,
@@ -2940,7 +2940,7 @@
   },
   "kitStats": {
     "build": 1485,
-    "survival": 5737,
+    "survival": 5738,
     "pvp": 7300,
     "dupe": 1810,
     "tools": 1723,
