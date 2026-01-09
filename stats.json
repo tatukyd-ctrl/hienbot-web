@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:07:10 9/1/2026",
+  "lastUpdated": "07:07:26 9/1/2026",
   "totalKits": 84368,
   "todayKits": 1,
-  "onlineCount": 36,
+  "onlineCount": 37,
   "peakPlayers": 51,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 258,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:04] [8b8t] >> The TPA request you sent to .Graciosa3378 was successfully canceled.",
-    "[00:04] [Pro] <Paidpopbob> you are a bum ",
-    "[00:04] [Pro+] <volpl> hiuoh ",
-    "[00:04] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[00:05] [Pro] <Paidpopbob> L ",
-    "[00:05] [Pro] <Paidpopbob> no name behavior ",
-    "[00:05] <.KaputBucket1563> yo did someone named baritone come online? ",
-    "[00:05] [BOT] <0_HienBot> Donate to maintain this great server donate▪8b8t▪me ",
     "[00:05] [BOT] <0_HienBot> Hey axxus! ",
     "[00:05] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[00:06] <.KaputBucket1563> no? ",
@@ -101,7 +93,15 @@
     "[00:07] [8b8t] >> Teleporting...",
     "[00:07] <.KaputBucket1563> yo which kit got some stuff for brewing? ",
     "[00:07] <insanity_death> !kit mapart ",
-    "[00:07] To insanity_death: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[00:07] To insanity_death: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:07] [8b8t] >> You have killed yourself!",
+    "[00:07] [8b8t] >> Home 2 was not found",
+    "[00:07] <.Graciosa3378> !kit mapart ",
+    "[00:07] [8b8t] >> Teleporting to home 0...",
+    "[00:07] [8b8t] >> Teleporting to home 4...",
+    "[00:07] To .Graciosa3378: Kit \"mapart\" not found! Giving you (wood) instead! dsc.gg/hienbot",
+    "[00:07] To .Graciosa3378: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:07] [8b8t] >> Request sent to .Graciosa3378"
   ],
   "userStats": {
     "76756": 38,
@@ -2925,7 +2925,7 @@
     "jotape251": 1,
     ".Hexcolorzz": 1,
     "duimoon": 1,
-    ".Graciosa3378": 5,
+    ".Graciosa3378": 6,
     "MindComplexity": 1,
     "isaaauc": 1,
     "Jesufficl": 4,
@@ -2943,7 +2943,7 @@
     "tools": 1723,
     "stash": 924,
     "raid": 1162,
-    "wood": 489,
+    "wood": 490,
     "exp": 666,
     "dye": 294,
     "wool": 374,
