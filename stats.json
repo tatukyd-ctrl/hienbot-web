@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:26:08 9/1/2026",
+  "lastUpdated": "07:26:26 9/1/2026",
   "totalKits": 84376,
   "todayKits": 9,
-  "onlineCount": 41,
+  "onlineCount": 39,
   "peakPlayers": 51,
-  "tps": "6.0",
-  "ping": 257,
+  "tps": "5.0",
+  "ping": 268,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5736
+      "count": 5737
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:24] [8b8t] >> Home 2 was not found",
-    "[00:24] <Basado__> qn pvp sin pots ilegales? ",
-    "[00:24] [BOT] <0_HienBot> Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[00:24] <.Graciosa3378> !tp ",
-    "[00:24] <Basado__> !tp ",
-    "[00:24] <Basado__> !kits ",
-    "[00:24] <Basado__> !kit ",
     "[00:24] To Basado__: Hello Basado__!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[00:24] [BOT] <0_HienBot> What's up, _Hienbot? ",
     "[00:24] <ScreaM8989> que dia terminan los ilegales? ",
@@ -101,7 +94,14 @@
     "[00:25] To insanity_death: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[00:26] To insanity_death: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:26] [8b8t] >> Request sent to insanity_death",
-    "[00:26] [8b8t] >> Teleporting..."
+    "[00:26] [8b8t] >> Teleporting...",
+    "[00:26] <BSon> !kit survival ",
+    "[00:26] [8b8t] >> Teleporting to home 0...",
+    "[00:26] [8b8t] >> Teleporting to home 1...",
+    "[00:26] To BSon: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:26] To BSon: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:26] [8b8t] >> Request sent to BSon",
+    "[00:26] [BOT] <0_HienBot> Bot created by Hien2309. "
   ],
   "userStats": {
     "76756": 38,
@@ -2934,11 +2934,12 @@
     "David4261": 1,
     "El_Axel": 1,
     "Laura3124": 1,
-    ".redrussian63845": 3
+    ".redrussian63845": 3,
+    "BSon": 1
   },
   "kitStats": {
     "build": 1485,
-    "survival": 5736,
+    "survival": 5737,
     "pvp": 7298,
     "dupe": 1810,
     "tools": 1723,
