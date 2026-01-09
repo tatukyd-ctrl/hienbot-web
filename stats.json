@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:33:50 9/1/2026",
+  "lastUpdated": "21:34:20 9/1/2026",
   "totalKits": 84424,
   "todayKits": 28,
-  "onlineCount": 33,
+  "onlineCount": 31,
   "peakPlayers": 40,
-  "tps": "1.0",
+  "tps": "0.0",
   "ping": 480,
   "topUsers": [
     {
@@ -68,13 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1488
+      "count": 1489
     }
   ],
   "chatLog": [
-    "[14:31] [8b8t] >> Teleporting...",
-    "[14:31] <zorakito> goo ",
-    "[14:31] [8b8t] >> You have killed yourself!",
     "[14:31] [8b8t] >> Home 2 was not found",
     "[14:31] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[14:31] [BOT] <8b8t_net> ><vlesmentie> hi ",
@@ -101,7 +98,10 @@
     "[14:33] [8b8t] >> Request sent to Ben9304",
     "[14:33] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
     "[14:33] <.KaputBucket1563> !kit build ",
-    "[14:33] To .KaputBucket1563: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[14:33] To .KaputBucket1563: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[14:34] <.KaputBucket1563> !kit build ",
+    "[14:34] [8b8t] >> You have killed yourself!"
   ],
   "userStats": {
     "76756": 38,
@@ -2900,7 +2900,7 @@
     "JuanitoMC123": 1,
     "erkoerko12": 2,
     "dominator_111": 2,
-    ".KaputBucket1563": 7,
+    ".KaputBucket1563": 8,
     "ElJorge_a": 1,
     "estychlol24io": 1,
     "IvanZaSilly8B8T": 27,
@@ -2945,7 +2945,7 @@
     "Stormyvfx462521": 2
   },
   "kitStats": {
-    "build": 1488,
+    "build": 1489,
     "survival": 5749,
     "pvp": 7306,
     "dupe": 1811,
