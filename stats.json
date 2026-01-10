@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:10:03 10/1/2026",
+  "lastUpdated": "23:10:25 10/1/2026",
   "totalKits": 85078,
   "todayKits": 106,
-  "onlineCount": 48,
+  "onlineCount": 47,
   "peakPlayers": 56,
-  "tps": "4.0",
-  "ping": 291,
+  "tps": "6.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5925
+      "count": 5926
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:09] To likubik2: Kit \"hero\" not found! Giving you (music) instead! dsc.gg/hienbot",
-    "[16:09] [8b8t] >> Request sent to likubik2",
-    "[16:09] <MaxFK166> !kit armortrims ",
-    "[16:09] To MaxFK166: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:09] To likubik2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:09] [8b8t] >> Teleporting...",
-    "[16:09] <zorakito> you have not kit ! ",
-    "[16:09] [8b8t] >> Request sent to likubik2",
-    "[16:09] [Basic] <.VadoseMist36087> he is lying ",
-    "[16:09] <zorakito> ? ",
-    "[16:09] <SavageJfs> i have kits ",
-    "[16:09] [8b8t] >> You have killed yourself!",
     "[16:09] [8b8t] >> Teleporting...",
     "[16:09] [8b8t] >> Home 2 was not found",
     "[16:09] [BOT] <0_HienBot> >Hello MrNullYT! ",
@@ -101,7 +89,19 @@
     "[16:09] <.Maddie8171111> Use +kit for a kit! ",
     "[16:09] <sevatico> !kit ",
     "[16:09] To sevatico: Hello sevatico!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:09] [8b8t] >> Teleporting..."
+    "[16:09] [8b8t] >> Teleporting...",
+    "[16:10] <sevatico> !kit survival ",
+    "[16:10] [8b8t] >> Teleporting to home 0...",
+    "[16:10] [8b8t] >> Teleporting to home 1...",
+    "[16:10] To sevatico: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:10] [Pro] <ARNOSHEEP> wheres the highway ",
+    "[16:10] To sevatico: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:10] [8b8t] >> Request sent to sevatico",
+    "[16:10] [Basic] <.VadoseMist36087> travel from here ",
+    "[16:10] [BOT] <0_HienBot> >Hello zorakito! ",
+    "[16:10] [Basic] <.VadoseMist36087> highway is at 0 ",
+    "[16:10] [Pro] <ARNOSHEEP> first i have to get to the highway ",
+    "[16:10] [Basic] <.VadoseMist36087> we are at 23K or smth "
   ],
   "userStats": {
     "76756": 38,
@@ -3036,11 +3036,12 @@
     "kagankii": 2,
     "Bobil": 1,
     "Xrack_": 1,
-    "likubik2": 1
+    "likubik2": 1,
+    "sevatico": 1
   },
   "kitStats": {
     "build": 1523,
-    "survival": 5925,
+    "survival": 5926,
     "pvp": 7443,
     "dupe": 1870,
     "tools": 1771,
