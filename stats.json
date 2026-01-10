@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:27:55 10/1/2026",
+  "lastUpdated": "21:28:25 10/1/2026",
   "totalKits": 84978,
   "todayKits": 6,
   "onlineCount": 40,
   "peakPlayers": 48,
-  "tps": "2.0",
+  "tps": "0.0",
   "ping": 366,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7426
+      "count": 7427
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:27] [8b8t] >> Teleporting to home 6...",
-    "[14:27] To doyoda1292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:27] To darkee_67589: Kit \"ilegal\" not found! Giving you (end) instead! dsc.gg/hienbot",
     "[14:27] To darkee_67589: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:27] [8b8t] >> Request sent to darkee_67589",
     "[14:27] <.Azer4213> !kit stash ",
@@ -101,7 +98,10 @@
     "[14:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[14:27] [8b8t] >> Teleporting...",
     "[14:27] <.Azer4213> !kit pvp ",
-    "[14:27] To .Azer4213: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[14:27] To .Azer4213: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:27] [8b8t] >> You have killed yourself!",
+    "[14:28] [8b8t] >> Home 2 was not found",
+    "[14:28] <XanderSB> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3025,12 +3025,13 @@
     "xX4foce4pXx": 1,
     "desadasz": 1,
     "urgedstorm": 2,
-    ".Azer4213": 1
+    ".Azer4213": 1,
+    "XanderSB": 1
   },
   "kitStats": {
     "build": 1516,
     "survival": 5910,
-    "pvp": 7426,
+    "pvp": 7427,
     "dupe": 1867,
     "tools": 1768,
     "stash": 955,
