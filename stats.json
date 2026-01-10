@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:15:12 10/1/2026",
+  "lastUpdated": "17:15:31 10/1/2026",
   "totalKits": 84864,
   "todayKits": 183,
   "onlineCount": 31,
   "peakPlayers": 59,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 283,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 1848
+      "count": 1849
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:14] To 6ex90ne_top: You're on cooldown, try again in 32 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:14] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[10:14] <nastywarno> Oui. Mais ca me dit que je ne suis pas à 20 000 bloc. ",
-    "[10:14] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[10:14] <seim> !kit illegal ",
-    "[10:14] To seim: You're on cooldown, try again in 35 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:14] [Mini] <Hien2309> @seed ",
-    "[10:14] <zorakito> raa ",
-    "[10:14] [8b8t] >> Please do not spam.",
     "[10:14] [Pro] <bigbear> @seed ",
     "[10:14] <xx1_abbas_1xx> @swwd ",
     "[10:14] <xx1_abbas_1xx> @seed ",
@@ -101,7 +92,16 @@
     "[10:15] To seim: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:15] To Senpaidipendi: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:15] [8b8t] >> Teleporting..."
+    "[10:15] [8b8t] >> Teleporting...",
+    "[10:15] [8b8t] >> You have killed yourself!",
+    "[10:15] <Senpaidipendi> !kit illegal ",
+    "[10:15] [8b8t] >> Home 2 was not found",
+    "[10:15] [8b8t] >> Teleporting to home 0...",
+    "[10:15] [8b8t] >> Teleporting to home 9...",
+    "[10:15] To Senpaidipendi: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:15] <seim> !kit dupe ",
+    "[10:15] To Senpaidipendi: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:15] <zorakito> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -505,7 +505,7 @@
     "itzanty": 1,
     "abelino_pepino": 2,
     "fox_gam1": 1,
-    "seim": 10,
+    "seim": 11,
     "caseoh3": 5,
     "crack1226": 1,
     "xXCasterXx": 2,
@@ -2967,7 +2967,7 @@
     ".Qqt9020": 4,
     "Mr_fino": 7,
     "szconzinheirosz": 12,
-    "Senpaidipendi": 14,
+    "Senpaidipendi": 15,
     "FemboyGerald": 5,
     "Foro2": 2,
     "gotonovostore": 1,
@@ -3017,7 +3017,7 @@
     "build": 1515,
     "survival": 5882,
     "pvp": 7411,
-    "dupe": 1848,
+    "dupe": 1849,
     "tools": 1762,
     "stash": 951,
     "raid": 1197,
@@ -3046,6 +3046,6 @@
     "christmas": 139,
     "gterracotta": 69,
     "banner": 79,
-    "illegal": 401
+    "illegal": 402
   }
 }
