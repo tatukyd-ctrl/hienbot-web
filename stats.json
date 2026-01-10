@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:29:31 10/1/2026",
-  "totalKits": 84750,
-  "todayKits": 69,
+  "lastUpdated": "11:29:46 10/1/2026",
+  "totalKits": 84751,
+  "todayKits": 70,
   "onlineCount": 44,
   "peakPlayers": 59,
   "tps": "4.0",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7387
+      "count": 7388
     },
     {
       "name": "survival",
@@ -74,15 +74,6 @@
   "chatLog": [
     "[04:28] <RconRMC> !kit Survival ",
     "[04:28] To RconRMC: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:28] To exyn0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:28] [8b8t] >> Request sent to exyn0",
-    "[04:28] <RconRMC> !kit Survival ",
-    "[04:28] To RconRMC: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:28] [8b8t] >> Teleporting...",
-    "[04:28] <RconRMC> !kit Survival ",
-    "[04:28] To RconRMC: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:28] <RconRMC> !kit Survival ",
-    "[04:28] To RconRMC: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:28] <RconRMC> !kit Survival ",
     "[04:28] To RconRMC: You're on cooldown, try again in 72 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:28] <tt12> !kit Survival ",
@@ -101,7 +92,16 @@
     "[04:29] [8b8t] >> You have killed yourself!",
     "[04:29] [8b8t] >> The TPA request you sent to tt12 was successfully canceled.",
     "[04:29] <RconRMC> !kit ",
-    "[04:29] RconRMC is ignoring you"
+    "[04:29] RconRMC is ignoring you",
+    "[04:29] <Tyxks> !kit PVP ",
+    "[04:29] [8b8t] >> Teleporting to home 0...",
+    "[04:29] [8b8t] >> Teleporting to home 1...",
+    "[04:29] To Tyxks: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:29] To Tyxks: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:29] <Messitraba10> !kit pvp ",
+    "[04:29] To Messitraba10: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:29] [8b8t] >> Request sent to Tyxks",
+    "[04:29] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2675,7 +2675,7 @@
     "KlNPAKU": 5,
     "nico_master": 7,
     "Enzytroiz_Mc": 2,
-    "Tyxks": 21,
+    "Tyxks": 22,
     "limij2": 1,
     "areamx": 9,
     "NotK5": 1,
@@ -3002,7 +3002,7 @@
   "kitStats": {
     "build": 1511,
     "survival": 5839,
-    "pvp": 7387,
+    "pvp": 7388,
     "dupe": 1840,
     "tools": 1761,
     "stash": 947,
