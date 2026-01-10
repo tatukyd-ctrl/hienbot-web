@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:30:01 10/1/2026",
-  "totalKits": 84751,
-  "todayKits": 70,
+  "lastUpdated": "11:30:14 10/1/2026",
+  "totalKits": 84752,
+  "todayKits": 71,
   "onlineCount": 45,
   "peakPlayers": 59,
-  "tps": "0.0",
+  "tps": "2.0",
   "ping": 267,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7388
+      "count": 7389
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:28] <tt12> !kit Survival ",
-    "[04:28] [8b8t] >> Teleporting to home 0...",
-    "[04:28] [8b8t] >> Teleporting to home 1...",
-    "[04:28] To tt12: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:28] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:28] To tt12: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:28] [8b8t] >> Request sent to tt12",
     "[04:28] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[04:29] <tt12> dupe ",
     "[04:29] juliotl9 has made the advancement [Stone Age]",
@@ -101,7 +94,14 @@
     "[04:29] [8b8t] >> You have killed yourself!",
     "[04:29] [8b8t] >> Home 2 was not found",
     "[04:29] <RconRMC> !kit ",
-    "[04:29] RconRMC is ignoring you"
+    "[04:29] RconRMC is ignoring you",
+    "[04:30] <RconRMC> !kit PVP ",
+    "[04:30] [8b8t] >> Teleporting to home 0...",
+    "[04:30] [8b8t] >> Teleporting to home 1...",
+    "[04:30] RconRMC is ignoring you",
+    "[04:30] RconRMC is ignoring you",
+    "[04:30] [8b8t] >> Request sent to RconRMC",
+    "[04:30] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2996,13 +2996,13 @@
     "juliotl9": 4,
     "MisterNoItAll": 1,
     "JX1DX1_BOT": 2,
-    "RconRMC": 2,
+    "RconRMC": 3,
     "tt12": 1
   },
   "kitStats": {
     "build": 1511,
     "survival": 5839,
-    "pvp": 7388,
+    "pvp": 7389,
     "dupe": 1840,
     "tools": 1761,
     "stash": 947,
