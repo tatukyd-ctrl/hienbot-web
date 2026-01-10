@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:18:27 11/1/2026",
+  "lastUpdated": "05:18:57 11/1/2026",
   "totalKits": 85186,
   "todayKits": 3,
-  "onlineCount": 49,
+  "onlineCount": 52,
   "peakPlayers": 56,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 298,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1783
+      "count": 1784
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:15] <SemiDen> +kit ",
-    "[22:16] To SemiDen: Hello SemiDen!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:16] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[22:16] Esteban448866 has made the advancement [Diamonds!]",
-    "[22:16] <SemiDen> +kit build ",
-    "[22:16] To SemiDen: You're on cooldown, try again in 85 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:16] <HahaGirlYs> !kit stash ",
-    "[22:16] To HahaGirlYs: You're on cooldown, try again in 89 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:16] Esteban448866 has made the advancement [Cover Me With Diamonds]",
     "[22:16] <TheRedW1zard> ok im comming ",
     "[22:16] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
@@ -101,7 +93,15 @@
     "[22:18] <superemeking> ok ",
     "[22:18] ToxcEX has made the advancement [Local Brewery]",
     "[22:18] <_TATl_> @kit ",
-    "[22:18] To _TATl_: Hello _TATl_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[22:18] To _TATl_: Hello _TATl_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:18] <TulagrandBot> >Try @ping to get your ping ",
+    "[22:18] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[22:18] <_TATl_> @kit tools ",
+    "[22:18] [8b8t] >> Teleporting to home 0...",
+    "[22:18] [8b8t] >> Teleporting to home 8...",
+    "[22:18] To _TATl_: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:18] To _TATl_: Try again dsc.gg/hienbot",
+    "[22:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -1846,7 +1846,7 @@
     "20172472617": 4,
     ".PeppyTiger85208": 3,
     "SP_0": 14,
-    "_TATl_": 10,
+    "_TATl_": 11,
     "DonkyHot": 4,
     "aNasaDude": 16,
     "Elpajitas32": 1,
@@ -3073,7 +3073,7 @@
     "survival": 5958,
     "pvp": 7489,
     "dupe": 1900,
-    "tools": 1783,
+    "tools": 1784,
     "stash": 975,
     "raid": 1208,
     "wood": 509,
