@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:28:25 11/1/2026",
+  "lastUpdated": "00:28:55 11/1/2026",
   "totalKits": 85132,
   "todayKits": 160,
-  "onlineCount": 53,
+  "onlineCount": 51,
   "peakPlayers": 56,
-  "tps": "5.0",
-  "ping": 287,
+  "tps": "6.0",
+  "ping": 258,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5931
+      "count": 5932
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:26] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[17:26] <ItzDuckyYT25> !ping ",
-    "[17:26] To ItzDuckyYT25: Your ping is: 177 ms Dont forget to join dsc.gg/hienbot",
-    "[17:27] <ItzDuckyYT25> !kit Dupe ",
-    "[17:27] [8b8t] >> Teleporting to home 0...",
-    "[17:27] [8b8t] >> Teleporting to home 8...",
-    "[17:27] To ItzDuckyYT25: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:27] To ItzDuckyYT25: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:27] [8b8t] >> Request sent to ItzDuckyYT25",
     "[17:27] [BOT] <0_HienBot> >Welcome to 8b8t, deantheneek! ",
     "[17:27] [8b8t] >> The TPA request you sent to ItzDuckyYT25 has expired.",
     "[17:27] <TulagrandBot> >Hello, sofiax ",
@@ -101,7 +92,16 @@
     "[17:28] [8b8t] >> Teleporting...",
     "[17:28] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[17:28] <TulagrandBot> > TULAGRANDE 1.4! ",
-    "[17:28] <1kJ> how can I get kits? "
+    "[17:28] <1kJ> how can I get kits? ",
+    "[17:28] [XMAS2025] <Tobias> make em yourself ",
+    "[17:28] <1kJ> !kit ",
+    "[17:28] To 1kJ: Hello 1kJ!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:28] [BOT] <0_HienBot> >Type !discord ",
+    "[17:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:28] <1kJ> !kit Survival ",
+    "[17:28] [8b8t] >> Teleporting to home 0...",
+    "[17:28] [8b8t] >> Teleporting to home 1...",
+    "[17:28] To 1kJ: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3041,11 +3041,12 @@
     "GGFroggy": 1,
     "HAKURYU56": 1,
     "fast_bot": 1,
-    "ItzDuckyYT25": 3
+    "ItzDuckyYT25": 3,
+    "1kJ": 1
   },
   "kitStats": {
     "build": 1525,
-    "survival": 5931,
+    "survival": 5932,
     "pvp": 7449,
     "dupe": 1875,
     "tools": 1774,
