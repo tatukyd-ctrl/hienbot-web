@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:16:31 10/1/2026",
-  "totalKits": 84864,
-  "todayKits": 183,
+  "lastUpdated": "17:16:49 10/1/2026",
+  "totalKits": 84865,
+  "todayKits": 184,
   "onlineCount": 32,
   "peakPlayers": 59,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 346,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5882
+      "count": 5883
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:15] To Senpaidipendi: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:15] [8b8t] >> Teleporting...",
-    "[10:15] [8b8t] >> You have killed yourself!",
-    "[10:15] <Senpaidipendi> !kit illegal ",
-    "[10:15] [8b8t] >> Home 2 was not found",
-    "[10:15] [8b8t] >> Teleporting to home 0...",
-    "[10:15] [8b8t] >> Teleporting to home 9...",
-    "[10:15] To Senpaidipendi: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[10:15] <seim> !kit dupe ",
     "[10:15] To Senpaidipendi: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[10:15] <zorakito> !kit pvp ",
@@ -101,7 +93,15 @@
     "[10:16] <seim> !kit illegal ",
     "[10:16] To seim: You're on cooldown, try again in 51 seconds! Dont forget to join dsc.gg/hienbot",
     "[10:16] <6ex90ne_top> !ping ",
-    "[10:16] To 6ex90ne_top: Your ping is: 1114 ms Dont forget to join dsc.gg/hienbot"
+    "[10:16] To 6ex90ne_top: Your ping is: 1114 ms Dont forget to join dsc.gg/hienbot",
+    "[10:16] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[10:16] <zorakito> !kit survival ",
+    "[10:16] [8b8t] >> Teleporting to home 0...",
+    "[10:16] [8b8t] >> Teleporting to home 1...",
+    "[10:16] To zorakito: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:16] To zorakito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:16] [8b8t] >> Request sent to zorakito",
+    "[10:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2711,7 +2711,7 @@
     "vbro": 1,
     "minutetech": 6,
     "juhju": 9,
-    "zorakito": 15,
+    "zorakito": 16,
     "Braian1709": 5,
     "nagebator": 1,
     "IronCarlos396": 1,
@@ -3015,7 +3015,7 @@
   },
   "kitStats": {
     "build": 1515,
-    "survival": 5882,
+    "survival": 5883,
     "pvp": 7411,
     "dupe": 1849,
     "tools": 1762,
