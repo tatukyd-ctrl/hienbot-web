@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:19:01 10/1/2026",
+  "lastUpdated": "12:19:31 10/1/2026",
   "totalKits": 84772,
   "todayKits": 91,
-  "onlineCount": 40,
+  "onlineCount": 38,
   "peakPlayers": 59,
-  "tps": "6.0",
-  "ping": 260,
+  "tps": "0.0",
+  "ping": 267,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5848
+      "count": 5849
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:16] <King_of_Flavor> !kill ",
-    "[05:16] <RconRMC> solo cabezas me da ",
-    "[05:16] <RconRMC> :( ",
-    "[05:16] <santi_ripxd> anda de vago el bot xdxd ",
-    "[05:16] <RconRMC> xd ",
-    "[05:16] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[05:16] <King_of_Flavor> !kit travel ",
-    "[05:16] [8b8t] >> Teleporting to home 0...",
-    "[05:16] [8b8t] >> Teleporting to home 7...",
     "[05:16] To King_of_Flavor: Your kit (travel) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:16] To King_of_Flavor: Sorry! Black Shulker Box is out, no other kits available! dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[05:18] [8b8t] >> Request sent to Arielnsky",
     "[05:18] [BOT] <0_HienBot> >What's up, Taguachal? ",
     "[05:18] [8b8t] >> Teleporting...",
-    "[05:19] [8b8t] >> You have killed yourself!"
+    "[05:19] [8b8t] >> You have killed yourself!",
+    "[05:19] [8b8t] >> Home 2 was not found",
+    "[05:19] <SnowFl3a> ipotichi teni puro nombre de puta ",
+    "[05:19] <King_of_Flavor> !kit Survival ",
+    "[05:19] [8b8t] >> Teleporting to home 0...",
+    "[05:19] [8b8t] >> Teleporting to home 1...",
+    "[05:19] To King_of_Flavor: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:19] To King_of_Flavor: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:19] [8b8t] >> Request sent to King_of_Flavor",
+    "[05:19] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
   ],
   "userStats": {
     "76756": 38,
@@ -2999,12 +2999,12 @@
     "RconRMC": 15,
     "tt12": 1,
     "renzo_nano": 1,
-    "King_of_Flavor": 3,
+    "King_of_Flavor": 4,
     "Arielnsky": 1
   },
   "kitStats": {
     "build": 1511,
-    "survival": 5848,
+    "survival": 5849,
     "pvp": 7394,
     "dupe": 1842,
     "tools": 1761,
