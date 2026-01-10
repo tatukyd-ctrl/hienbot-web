@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:59:16 10/1/2026",
+  "lastUpdated": "21:59:25 10/1/2026",
   "totalKits": 85018,
   "todayKits": 46,
   "onlineCount": 48,
   "peakPlayers": 56,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 259,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:58] To XanderSB: Hello XanderSB!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:58] <.Maddie8171111> @kit ",
-    "[14:58] To .Maddie8171111: Hello .Maddie8171111!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:58] <amur6556> \\hub ",
-    "[14:58] <SavageJfs> !ping ",
-    "[14:58] To SavageJfs: Your ping is: 158 ms Dont forget to join dsc.gg/hienbot",
-    "[14:58] <.Maddie8171111> @kit PvP ",
-    "[14:58] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:58] <TulagrandBot> >How are you KurtzWasTaken? ",
     "[14:58] <zorakito> Theotyrex1010 ",
     "[14:58] [8b8t] >> You have killed yourself!",
     "[14:58] [8b8t] >> The TPA request you sent to darkee_67589 was successfully canceled.",
@@ -101,7 +92,16 @@
     "[14:59] To XanderSB: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:59] <XanderSB> !kit obsidian ",
     "[14:59] To XanderSB: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:59] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[14:59] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[14:59] <XanderSB> !kit obsidian ",
+    "[14:59] To XanderSB: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:59] [8b8t] >> You have killed yourself!",
+    "[14:59] [8b8t] >> Home 2 was not found",
+    "[14:59] <XanderSB> !kit obsidian ",
+    "[14:59] Bazuka2374 has made the advancement [Stone Age]",
+    "[14:59] [8b8t] >> Teleporting to home 0...",
+    "[14:59] [8b8t] >> Teleporting to home 4...",
+    "[14:59] To XanderSB: Kit \"obsidian\" not found! Giving you (concrete) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3026,7 +3026,7 @@
     "desadasz": 1,
     "urgedstorm": 5,
     ".Azer4213": 1,
-    "XanderSB": 12,
+    "XanderSB": 13,
     "ShinerGlassB2": 4
   },
   "kitStats": {
@@ -3052,7 +3052,7 @@
     "armortrims": 404,
     "highway": 536,
     "ocean": 132,
-    "concrete": 350,
+    "concrete": 351,
     "glass": 288,
     "gap": 85,
     "constructor": "function Object() { [native code] }111111111",
