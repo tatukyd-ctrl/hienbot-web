@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:27:57 11/1/2026",
+  "lastUpdated": "05:28:27 11/1/2026",
   "totalKits": 85186,
   "todayKits": 3,
   "onlineCount": 55,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 257,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:26] <Tyxks> RedzWizard ",
-    "[22:26] <TulagrandBot> >Hola silver5352 ",
-    "[22:26] <IsaacM_E> !kit survival ",
-    "[22:26] [8b8t] >> Teleporting to home 9...",
-    "[22:26] To IsaacM_E: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:26] To WenlerMaster: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:26] <NobodyF34R> download meteor client ",
-    "[22:26] <TroJan_real4> ?kit ",
     "[22:26] To TroJan_real4: Hello TroJan_real4!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[22:27] <TulagrandBot> >Hello, 0_HienBot ",
     "[22:27] Esteban448866 has made the advancement [Hot Stuff]",
@@ -101,7 +93,15 @@
     "[22:27] [8b8t] >> Teleporting to home 0...",
     "[22:27] [8b8t] >> Teleporting to home 1...",
     "[22:27] <TulagrandBot> >Want kit? Try @kit ",
-    "[22:27] To TroJan_real4: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
+    "[22:27] To TroJan_real4: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:27] To TroJan_real4: Try again dsc.gg/hienbot",
+    "[22:28] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[22:28] <TulagrandBot> >How are you _TATl_? ",
+    "[22:28] <IsaacM_E> !kit builderw ",
+    "[22:28] [8b8t] >> Teleporting to home 0...",
+    "[22:28] [8b8t] >> Teleporting to home 4...",
+    "[22:28] Chat disabled in client options",
+    "[22:28] To IsaacM_E: Try again dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3069,7 +3069,7 @@
     "ToxcEX": 1,
     "MasterWo": 1,
     "marioytb10": 2,
-    "IsaacM_E": 1
+    "IsaacM_E": 2
   },
   "kitStats": {
     "build": 1528,
@@ -3094,7 +3094,7 @@
     "armortrims": 412,
     "highway": 548,
     "ocean": 133,
-    "concrete": 356,
+    "concrete": 357,
     "glass": 290,
     "gap": 86,
     "constructor": "function Object() { [native code] }111111111",
