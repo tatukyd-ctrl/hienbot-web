@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:18:20 10/1/2026",
+  "lastUpdated": "10:18:31 10/1/2026",
   "totalKits": 84723,
   "todayKits": 42,
-  "onlineCount": 26,
+  "onlineCount": 30,
   "peakPlayers": 59,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 0,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5825
+      "count": 5826
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:14]  decrease the chance of being hacked.",
-    "[03:14] ",
-    "[03:14]   [Confirm read]",
-    "[03:14] ",
-    "[03:18] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[03:18] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
     "[03:18] [8b8t] >> Your login session has been continued.",
     "[03:18] mati_el_rancio has reached the goal [Sky's the Limit]",
     "[03:18] ",
@@ -101,7 +95,13 @@
     "[03:18] [8b8t] >> Request sent to Gaspilol",
     "[03:18] To SuperFnYT: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:18] [8b8t] >> Teleporting...",
-    "[03:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[03:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[03:18] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[03:18] <boludo> !kit survival ",
+    "[03:18] [8b8t] >> Teleporting to home 0...",
+    "[03:18] [8b8t] >> Teleporting to home 1...",
+    "[03:18] To boludo: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:18] To boludo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -2309,7 +2309,7 @@
     "seasnail8191": 4,
     "hosni_chan05": 6,
     "hector_star": 1,
-    "boludo": 71,
+    "boludo": 72,
     "hacker2014131930": 4,
     "HahaGirlYs": 73,
     "LAKAKAFG": 11,
@@ -2995,7 +2995,7 @@
   },
   "kitStats": {
     "build": 1509,
-    "survival": 5825,
+    "survival": 5826,
     "pvp": 7379,
     "dupe": 1837,
     "tools": 1758,
