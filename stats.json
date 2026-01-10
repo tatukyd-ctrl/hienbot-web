@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:02:01 10/1/2026",
-  "totalKits": 84681,
-  "todayKits": 0,
+  "lastUpdated": "07:02:29 10/1/2026",
+  "totalKits": 84682,
+  "todayKits": 1,
   "onlineCount": 33,
   "peakPlayers": 59,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 255,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7369
+      "count": 7370
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:00] <isaaauc> ya me he caido unas 20 vecez ",
-    "[00:00] [BOT] <0_HienBot> >What's up, CuloGangTobias? ",
-    "[00:00] <efraddada> !kit tools ",
-    "[00:00] [8b8t] >> Teleporting to home 0...",
-    "[00:00] [8b8t] >> Teleporting to home 8...",
-    "[00:00] To efraddada: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:00] <lautarito888> ahora tirate no te vas a morir ",
-    "[00:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[00:00] To efraddada: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:00] <lautarito888> confia ",
     "[00:00] [8b8t] >> Request sent to efraddada",
     "[00:00] [8b8t] >> Teleporting...",
     "[00:00] [8b8t] >> You have killed yourself!",
@@ -101,7 +91,17 @@
     "[00:01] <lautarito888> sio ",
     "[00:01] <lautarito888> vamos ",
     "[00:01] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[00:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[00:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[00:02] <cmjs> kit ",
+    "[00:02] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[00:02] <cmjs> \"kit ",
+    "[00:02] <MrShadow_O> !kit pvp ",
+    "[00:02] [8b8t] >> Teleporting to home 0...",
+    "[00:02] [8b8t] >> Teleporting to home 1...",
+    "[00:02] To MrShadow_O: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:02] To MrShadow_O: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:02] [8b8t] >> Request sent to MrShadow_O",
+    "[00:02] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2978,12 +2978,13 @@
     ".daualtibaqia": 1,
     "MRdashpro": 1,
     "ElChacalDemon": 5,
-    "Zerinnoxit_": 1
+    "Zerinnoxit_": 1,
+    "MrShadow_O": 1
   },
   "kitStats": {
     "build": 1508,
     "survival": 5810,
-    "pvp": 7369,
+    "pvp": 7370,
     "dupe": 1831,
     "tools": 1750,
     "stash": 942,
