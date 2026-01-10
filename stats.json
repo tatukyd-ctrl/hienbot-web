@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:04:37 10/1/2026",
+  "lastUpdated": "20:05:07 10/1/2026",
   "totalKits": 84923,
   "todayKits": 21,
-  "onlineCount": 30,
+  "onlineCount": 32,
   "peakPlayers": 36,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 264,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5898
+      "count": 5899
     },
     {
       "name": "dupe",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:02] <Sgamestream> i saw ",
-    "[13:02] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[13:02] <_Lumora_> u like it ",
-    "[13:03] <Sgamestream> yes ",
-    "[13:03] <_Lumora_> its not done jet ",
-    "[13:03] <.MC_meester_Lars> !Kit illegal ",
-    "[13:03] To .MC_meester_Lars: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:03] [8b8t] >> You have killed yourself!",
-    "[13:03] <Sgamestream> its nice ",
-    "[13:03] <TulagrandBot> >Try @tps to get server's tps ",
-    "[13:03] [8b8t] >> The TPA request you sent to GGClowny was successfully canceled.",
-    "[13:03] <.MC_meester_Lars> !Kit illegal ",
-    "[13:03] [8b8t] >> Teleporting to home 0...",
-    "[13:03] [8b8t] >> Teleporting to home 9...",
-    "[13:03] To .MC_meester_Lars: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:03] To .MC_meester_Lars: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[13:03] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
     "[13:03] <Sgamestream> dis for everyone or is it a \"u only\" room ",
     "[13:03] <Abdul_Rafay_989> i canttttttttg ",
@@ -101,7 +85,23 @@
     "[13:04] <TulagrandBot> >Hi angelohavard0 ",
     "[13:04] <Sgamestream> its like 6 am rn ",
     "[13:04] <Saad2001_bot> >Welcome iTrisstan! Type #help for menu. ",
-    "[13:04] <.MC_meester_Lars> !Kit survival "
+    "[13:04] <.MC_meester_Lars> !Kit survival ",
+    "[13:04] To .MC_meester_Lars: You're on cooldown, try again in 21 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:04] <nfkiki> sory ",
+    "[13:04] <Abdul_Rafay_989> !kit illegal ",
+    "[13:04] [8b8t] >> Teleporting to home 0...",
+    "[13:04] [8b8t] >> Teleporting to home 9...",
+    "[13:04] To Abdul_Rafay_989: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:04] <nfkiki> tpa ",
+    "[13:04] To Abdul_Rafay_989: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:04] [8b8t] >> Please do not spam.",
+    "[13:04] <TulagrandBot> >How are you TNGB0T? ",
+    "[13:05] <.MC_meester_Lars> !Kit survival ",
+    "[13:05] [8b8t] >> Teleporting to home 0...",
+    "[13:05] [8b8t] >> Teleporting to home 1...",
+    "[13:05] To .MC_meester_Lars: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:05] To .MC_meester_Lars: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:05] [8b8t] >> Request sent to .MC_meester_Lars"
   ],
   "userStats": {
     "76756": 38,
@@ -1252,7 +1252,7 @@
     "lewis676767": 1,
     "Mineberryz": 3,
     "hossen1224": 8,
-    "Abdul_Rafay_989": 84,
+    "Abdul_Rafay_989": 85,
     "porngay67": 2,
     "ItzJust": 29,
     "russyta": 42,
@@ -1707,7 +1707,7 @@
     "BeNJa_147": 1,
     "Vince_Masuka": 1,
     "pyro88384": 7,
-    ".MC_meester_Lars": 90,
+    ".MC_meester_Lars": 91,
     "pepe23gftnico": 57,
     "JINdz1": 1,
     "izzleon": 1,
@@ -3023,7 +3023,7 @@
   },
   "kitStats": {
     "build": 1516,
-    "survival": 5898,
+    "survival": 5899,
     "pvp": 7421,
     "dupe": 1858,
     "tools": 1765,
@@ -3054,6 +3054,6 @@
     "christmas": 139,
     "gterracotta": 69,
     "banner": 79,
-    "illegal": 431
+    "illegal": 432
   }
 }
