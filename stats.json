@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:57:31 10/1/2026",
+  "lastUpdated": "09:58:01 10/1/2026",
   "totalKits": 84716,
   "todayKits": 35,
   "onlineCount": 35,
   "peakPlayers": 59,
-  "tps": "4.0",
-  "ping": 280,
+  "tps": "1.0",
+  "ping": 276,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5818
+      "count": 5819
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:54] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[02:54] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[02:54] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[02:54] [Ultra] <imnotoldmacbook> JESUS ",
-    "[02:54] [Ultra] <imnotoldmacbook> mf got a nuke ",
-    "[02:55] DonnaDaDealer has reached the goal [Sky's the Limit]",
-    "[02:55] DonnaDaDealer has completed the challenge [Cover Me in Debris]",
-    "[02:55] [BOT] <0_HienBot> >Hello Vox_Shade! ",
     "[02:55] <LIXM_RIVERX17> quien me hace tp para salir del nether ",
     "[02:55] DonnaDaDealer has made the advancement [Ice Bucket Challenge]",
     "[02:55] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
@@ -101,7 +93,15 @@
     "[02:57] <exyn0> btw how do i go to the obsidian bridges ",
     "[02:57] <LIXM_RIVERX17> salir del spaw ",
     "[02:57] <jven830> spawn bro ",
-    "[02:57] [Ultra] <imnotoldmacbook> the mindlord9k "
+    "[02:57] [Ultra] <imnotoldmacbook> the mindlord9k ",
+    "[02:57] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[02:57] <exyn0> !kit survival ",
+    "[02:57] [8b8t] >> Teleporting to home 0...",
+    "[02:57] [8b8t] >> Teleporting to home 1...",
+    "[02:57] To exyn0: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:57] To exyn0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:57] [8b8t] >> Request sent to exyn0",
+    "[02:57] [Ultra] <imnotoldmacbook> done "
   ],
   "userStats": {
     "76756": 38,
@@ -2988,11 +2988,12 @@
     "LIXM_RIVERX17": 4,
     "IdleTaguachal": 1,
     "StupidTaguachal": 2,
-    "elpibedown": 1
+    "elpibedown": 1,
+    "exyn0": 1
   },
   "kitStats": {
     "build": 1509,
-    "survival": 5818,
+    "survival": 5819,
     "pvp": 7379,
     "dupe": 1836,
     "tools": 1758,
