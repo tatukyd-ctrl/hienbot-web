@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:37:45 10/1/2026",
+  "lastUpdated": "21:37:55 10/1/2026",
   "totalKits": 84990,
   "todayKits": 18,
-  "onlineCount": 51,
-  "peakPlayers": 51,
-  "tps": "2.0",
+  "onlineCount": 52,
+  "peakPlayers": 52,
+  "tps": "3.0",
   "ping": 264,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7430
+      "count": 7431
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:37] To .yuu18m: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:37] <Tevrard> no ",
-    "[14:37] <doyoda1292> !kit firework ",
-    "[14:37] To doyoda1292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:37] <darkee_67589> !kit illegal ",
-    "[14:37] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:37] To darkee_67589: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:37] [8b8t] >> Request sent to .yuu18m",
-    "[14:37] <doyoda1292> !kit firework ",
-    "[14:37] To doyoda1292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:37] <doyoda1292> !kit firework ",
     "[14:37] To doyoda1292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:37] [8b8t] >> Teleporting...",
     "[14:37] <darkee_67589> !kit illegal ",
@@ -101,7 +90,18 @@
     "[14:37] [8b8t] >> Teleporting...",
     "[14:37] <ShinerGlassB2> @kit PVP ",
     "[14:37] To ShinerGlassB2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:37] <.Maddie8171111> use $kit for a kit! "
+    "[14:37] <.Maddie8171111> use $kit for a kit! ",
+    "[14:37] <ShinerGlassB2> @kit PVP ",
+    "[14:37] [8b8t] >> You have killed yourself!",
+    "[14:37] [8b8t] >> Home 2 was not found",
+    "[14:37] <ShinerGlassB2> @kit PVP ",
+    "[14:37] To ShinerGlassB2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:37] [8b8t] >> Teleporting to home 0...",
+    "[14:37] [8b8t] >> Teleporting to home 1...",
+    "[14:37] To ShinerGlassB2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:37] <ShinerGlassB2> @kit PVP ",
+    "[14:37] To ShinerGlassB2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:37] <.Graciosa3378> ! hey you wanna kit try this cmmand !kit or @kit ! "
   ],
   "userStats": {
     "76756": 38,
@@ -3026,12 +3026,13 @@
     "desadasz": 1,
     "urgedstorm": 3,
     ".Azer4213": 1,
-    "XanderSB": 3
+    "XanderSB": 3,
+    "ShinerGlassB2": 1
   },
   "kitStats": {
     "build": 1516,
     "survival": 5913,
-    "pvp": 7430,
+    "pvp": 7431,
     "dupe": 1867,
     "tools": 1768,
     "stash": 956,
