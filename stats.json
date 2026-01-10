@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:07:07 10/1/2026",
+  "lastUpdated": "19:07:37 10/1/2026",
   "totalKits": 84907,
   "todayKits": 5,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 36,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 254,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1763
+      "count": 1764
     },
     {
       "name": "build",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:05] [8b8t] >> Teleporting to home 5...",
-    "[12:05] To TACOCAT_12: Kit \"mapart\" not found! Giving you (food) instead! dsc.gg/hienbot",
-    "[12:05] To TACOCAT_12: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:05] [8b8t] >> Request sent to TACOCAT_12",
-    "[12:05] <TulagrandBot> >Try @tps to get server's tps ",
-    "[12:05] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:05] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[12:05] [8b8t] >> You have killed yourself!",
     "[12:05] <sksbosshero> why ",
     "[12:05] [8b8t] >> The TPA request you sent to TACOCAT_12 was successfully canceled.",
@@ -101,7 +94,14 @@
     "[12:06] <sksbosshero> give me miulk ",
     "[12:06] <sksbosshero> milk ",
     "[12:06] [BOT] <0_HienBot> >What's up, _Lumora_? ",
-    "[12:06] <polpaccio> miulk 100% "
+    "[12:06] <polpaccio> miulk 100% ",
+    "[12:07] <TulagrandBot> >Try @tps to get server's tps ",
+    "[12:07] [BOT] <0_HienBot> >Welcome to 8b8t, Ben9304! ",
+    "[12:07] <TACOCAT_12> @kit mapart ",
+    "[12:07] [8b8t] >> Teleporting to home 0...",
+    "[12:07] [8b8t] >> Teleporting to home 8...",
+    "[12:07] To TACOCAT_12: Kit \"mapart\" not found! Giving you (tools) instead! dsc.gg/hienbot",
+    "[12:07] <botchaosonix666> bruh "
   ],
   "userStats": {
     "76756": 38,
@@ -3017,14 +3017,14 @@
     "herobrinejr11111": 1,
     "Sevie_YT": 1,
     "LeWith1E": 1,
-    "TACOCAT_12": 1
+    "TACOCAT_12": 2
   },
   "kitStats": {
     "build": 1516,
     "survival": 5892,
     "pvp": 7418,
     "dupe": 1856,
-    "tools": 1763,
+    "tools": 1764,
     "stash": 954,
     "raid": 1203,
     "wood": 503,
