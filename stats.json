@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:07:37 10/1/2026",
+  "lastUpdated": "21:08:07 10/1/2026",
   "totalKits": 84960,
   "todayKits": 58,
-  "onlineCount": 40,
-  "peakPlayers": 40,
-  "tps": "1.0",
+  "onlineCount": 41,
+  "peakPlayers": 41,
+  "tps": "3.0",
   "ping": 264,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7424
+      "count": 7425
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:06] [8b8t] >> Request sent to .MC_meester_Lars",
-    "[14:06] [8b8t] >> Teleporting...",
-    "[14:06] <zorakito> Theotyrex1010 ",
-    "[14:06] [8b8t] >> You have killed yourself!",
-    "[14:06] [8b8t] >> Home 2 was not found",
-    "[14:06] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[14:06] <ALSIO1243> some1 tp ",
-    "[14:06] <ALSIO1243> plz ",
-    "[14:06] <zorakito> Tevrard ",
-    "[14:06] <efraddada> !kit end ",
-    "[14:06] [8b8t] >> Teleporting to home 0...",
-    "[14:06] [8b8t] >> Teleporting to home 6...",
     "[14:06] To efraddada: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:06] To efraddada: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:06] [8b8t] >> Request sent to efraddada",
@@ -101,7 +89,19 @@
     "[14:07] <TulagrandBot> >How are you ALSIO1243? ",
     "[14:07] <zorakito> justement ",
     "[14:07] <zorakito> fais /tpahere ",
-    "[14:07] <asadullaayevdi> hi "
+    "[14:07] <asadullaayevdi> hi ",
+    "[14:07] <Theotyrex1010> fiat /tpaccept ",
+    "[14:07] <Theotyrex1010> zora ",
+    "[14:07] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[14:07] <Theotyrex1010> j siis a ta base ",
+    "[14:07] <TulagrandBot> > TULAGRANDE 1.4! ",
+    "[14:07] <Theotyrex1010> fiat /tpaccept ",
+    "[14:08] <zorakito> merde je peux pas je suis au sapwn ",
+    "[14:08] <xX4foce4pXx> @kit pvp ",
+    "[14:08] [8b8t] >> Teleporting to home 0...",
+    "[14:08] [8b8t] >> Teleporting to home 1...",
+    "[14:08] To xX4foce4pXx: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:08] To xX4foce4pXx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3021,12 +3021,13 @@
     ".Swazzienatio": 1,
     "GGClowny": 1,
     "medusapro": 4,
-    "KanK_409": 1
+    "KanK_409": 1,
+    "xX4foce4pXx": 1
   },
   "kitStats": {
     "build": 1516,
     "survival": 5906,
-    "pvp": 7424,
+    "pvp": 7425,
     "dupe": 1865,
     "tools": 1766,
     "stash": 954,
