@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:50:31 10/1/2026",
-  "totalKits": 84852,
-  "todayKits": 171,
+  "lastUpdated": "16:50:48 10/1/2026",
+  "totalKits": 84853,
+  "todayKits": 172,
   "onlineCount": 22,
   "peakPlayers": 59,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 244,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5879
+      "count": 5880
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:49] <nfkiki> !kit ",
-    "[09:49] To nfkiki: Hello nfkiki!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[09:49] <MATA2207> !kit PVP ",
-    "[09:49] [8b8t] >> Teleporting to home 0...",
-    "[09:49] [8b8t] >> Teleporting to home 1...",
-    "[09:49] To MATA2207: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:49] To MATA2207: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:49] <nfkiki> !kit spawneg ",
-    "[09:49] [8b8t] >> Request sent to MATA2207",
     "[09:49] To nfkiki: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:50] [8b8t] >> Teleporting...",
     "[09:50] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
@@ -101,7 +92,16 @@
     "[09:50] To Senpaidipendi: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:50] [8b8t] >> Teleporting...",
     "[09:50] <Senpaidipendi> !kit Survival ",
-    "[09:50] To Senpaidipendi: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot"
+    "[09:50] To Senpaidipendi: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:50] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[09:50] <6ex90ne_top> !kit survival ",
+    "[09:50] [8b8t] >> Teleporting to home 0...",
+    "[09:50] [8b8t] >> Teleporting to home 1...",
+    "[09:50] To 6ex90ne_top: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:50] To 6ex90ne_top: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:50] [8b8t] >> Request sent to 6ex90ne_top",
+    "[09:50] [8b8t] >> Teleporting...",
+    "[09:50] <zorakito> Theotyrex1010 t ou "
   ],
   "userStats": {
     "76756": 38,
@@ -3008,12 +3008,12 @@
     "fabrixdnt123": 11,
     "PuchinitoLopez": 1,
     "KrogerPurified": 2,
-    "6ex90ne_top": 4,
+    "6ex90ne_top": 5,
     "MATA2207": 1
   },
   "kitStats": {
     "build": 1515,
-    "survival": 5879,
+    "survival": 5880,
     "pvp": 7408,
     "dupe": 1847,
     "tools": 1762,
