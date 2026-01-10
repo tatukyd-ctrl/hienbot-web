@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:28:25 11/1/2026",
+  "lastUpdated": "01:28:55 11/1/2026",
   "totalKits": 85182,
   "todayKits": 210,
-  "onlineCount": 57,
+  "onlineCount": 56,
   "peakPlayers": 67,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 673,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7458
+      "count": 7459
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:21] <Messitraba10> quien pvp ",
-    "[18:21] <Messitraba10> quien pvp ",
-    "[18:21] <yuithethethe> help ",
-    "[18:21] <Messitraba10> quien pvp ",
-    "[18:21] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[18:21] <doyoda1292> !kit illegal ",
-    "[18:21] To doyoda1292: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[18:21] [8b8t] >> Teleporting to home 0...",
     "[18:21] [8b8t] >> Teleporting to home 9...",
     "[18:21] Chat disabled in client options",
     "[18:27] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -101,7 +93,15 @@
     "[18:28] <TulagrandBot> >Try @list to get list of players ",
     "[18:28] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[18:28] [Ultra] <L1derrFrog> asd1 ",
-    "[18:28] [Ultra] <KurtzMC> >guys why its 0hienbot not giving me my kit "
+    "[18:28] [Ultra] <KurtzMC> >guys why its 0hienbot not giving me my kit ",
+    "[18:28] <TulagrandBot> >Try @tps to get server's tps ",
+    "[18:28] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[18:28] <xcqu> @pt ",
+    "[18:28] <xcqu> useless ",
+    "[18:28] <Messitraba10> !kit pvp ",
+    "[18:28] [8b8t] >> Teleporting to home 0...",
+    "[18:28] Chat disabled in client options",
+    "[18:28] To Messitraba10: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2592,7 +2592,7 @@
     "youngballinn": 1,
     "Axelito_1721": 7,
     "Salpton": 1,
-    "Messitraba10": 8,
+    "Messitraba10": 9,
     "ace_prime001": 20,
     "WafflePod13": 1,
     "ksvxx": 3,
@@ -3052,7 +3052,7 @@
   "kitStats": {
     "build": 1525,
     "survival": 5939,
-    "pvp": 7458,
+    "pvp": 7459,
     "dupe": 1885,
     "tools": 1775,
     "stash": 968,
