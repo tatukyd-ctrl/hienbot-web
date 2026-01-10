@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:49:31 10/1/2026",
+  "lastUpdated": "11:50:01 10/1/2026",
   "totalKits": 84766,
   "todayKits": 85,
-  "onlineCount": 42,
+  "onlineCount": 40,
   "peakPlayers": 59,
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 266,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5845
+      "count": 5846
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:48] [8b8t] >> Teleporting to home 0...",
-    "[04:48] [8b8t] >> Teleporting to home 7...",
-    "[04:48] To Messitraba10: Kit \"fireworks\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
-    "[04:48] To Messitraba10: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:48] [8b8t] >> Request sent to Messitraba10",
-    "[04:48] [8b8t] >> Teleporting...",
-    "[04:48] <fabrixdnt123> dale ",
     "[04:48] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[04:48] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[04:48] <dragonsej2025> q paso ",
@@ -101,7 +94,14 @@
     "[04:49] RconRMC is ignoring you",
     "[04:49] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[04:49] [8b8t] >> You have killed yourself!",
-    "[04:49] [8b8t] >> No TPA request found"
+    "[04:49] [8b8t] >> No TPA request found",
+    "[04:49] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[04:49] King_of_Flavor has made the advancement [We Need to Go Deeper]",
+    "[04:49] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[04:49] <Messitraba10> !kit survival ",
+    "[04:49] [8b8t] >> Teleporting to home 0...",
+    "[04:49] [8b8t] >> Teleporting to home 1...",
+    "[04:49] To Messitraba10: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2592,7 +2592,7 @@
     "youngballinn": 1,
     "Axelito_1721": 7,
     "Salpton": 1,
-    "Messitraba10": 6,
+    "Messitraba10": 7,
     "ace_prime001": 20,
     "WafflePod13": 1,
     "ksvxx": 3,
@@ -3001,7 +3001,7 @@
   },
   "kitStats": {
     "build": 1511,
-    "survival": 5845,
+    "survival": 5846,
     "pvp": 7392,
     "dupe": 1841,
     "tools": 1761,
