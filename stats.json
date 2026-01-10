@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:35:19 11/1/2026",
+  "lastUpdated": "00:35:25 11/1/2026",
   "totalKits": 85140,
   "todayKits": 168,
   "onlineCount": 50,
   "peakPlayers": 56,
-  "tps": "8.0",
+  "tps": "7.0",
   "ping": 253,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:33] <Zems> ayee ",
-    "[17:34] <TulagrandBot> >Hi TNGB0T ",
-    "[17:34] <geniusbaqer> now that I have the dry ghast block ",
-    "[17:34] <geniusbaqer> uhh ",
-    "[17:34] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[17:34] <UNHORIZON1> kit gon ",
     "[17:34] <ItzDuckyYT25> !kit shulker ",
     "[17:34] [8b8t] >> Teleporting to home 0...",
     "[17:34] [8b8t] >> Teleporting to home 7...",
@@ -101,7 +95,13 @@
     "[17:35] To 1kJ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:35] [8b8t] >> Request sent to 1kJ",
     "[17:35] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[17:35] [8b8t] >> Teleporting..."
+    "[17:35] [8b8t] >> Teleporting...",
+    "[17:35] [8b8t] >> You have killed yourself!",
+    "[17:35] [8b8t] >> Home 2 was not found",
+    "[17:35] <geniusbaqer> !kit pringles ",
+    "[17:35] [8b8t] >> Teleporting to home 0...",
+    "[17:35] [8b8t] >> Teleporting to home 6...",
+    "[17:35] geniusbaqer is ignoring you"
   ],
   "userStats": {
     "76756": 38,
@@ -3043,7 +3043,8 @@
     "fast_bot": 1,
     "ItzDuckyYT25": 6,
     "1kJ": 3,
-    "admjj": 1
+    "admjj": 1,
+    "geniusbaqer": 1
   },
   "kitStats": {
     "build": 1525,
@@ -3076,7 +3077,7 @@
     "music": 178,
     "c": 3,
     "christmas": 139,
-    "gterracotta": 70,
+    "gterracotta": 71,
     "banner": 84,
     "illegal": 496
   }
