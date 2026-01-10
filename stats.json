@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:31:25 10/1/2026",
-  "totalKits": 84981,
-  "todayKits": 9,
-  "onlineCount": 41,
+  "lastUpdated": "21:31:39 10/1/2026",
+  "totalKits": 84982,
+  "todayKits": 10,
+  "onlineCount": 40,
   "peakPlayers": 48,
-  "tps": "5.0",
-  "ping": 262,
+  "tps": "2.0",
+  "ping": 265,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5911
+      "count": 5912
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:30] To XanderSB: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:30] [8b8t] >> Request sent to XanderSB",
-    "[14:30] <.Maddie8171111> Use $kit for a kit! ",
-    "[14:30] <TulagrandBot> >Tulagrande on top! ",
-    "[14:30] [8b8t] >> Teleporting...",
-    "[14:30] <doyoda1292> !kit Exp ",
-    "[14:30] To doyoda1292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:30] <doyoda1292> !kit Exp ",
-    "[14:30] To doyoda1292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:30] [8b8t] >> You have killed yourself!",
     "[14:30] [8b8t] >> Home 2 was not found",
     "[14:30] <doyoda1292> !kit Exp ",
@@ -101,7 +92,16 @@
     "[14:30] <exyn0> !kit survival ",
     "[14:31] To exyn0: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:31] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[14:31] <TulagrandBot> >Try @kit to get kit "
+    "[14:31] <TulagrandBot> >Try @kit to get kit ",
+    "[14:31] <darkee_67589> @kit idk ",
+    "[14:31] [8b8t] >> Teleporting to home 0...",
+    "[14:31] [8b8t] >> Teleporting to home 1...",
+    "[14:31] To darkee_67589: Kit \"idk\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[14:31] To darkee_67589: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:31] [8b8t] >> Request sent to darkee_67589",
+    "[14:31] [8b8t] >> Teleporting...",
+    "[14:31] <.MC_meester_Lars> !Kit illegal ",
+    "[14:31] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
   ],
   "userStats": {
     "76756": 38,
@@ -816,7 +816,7 @@
     "Ben9304": 114,
     "prroaso123": 4,
     "Abols152362": 91,
-    "darkee_67589": 65,
+    "darkee_67589": 66,
     "PyrosImperator": 4,
     "peacebringer12": 119,
     "PixySprawl": 5,
@@ -3030,7 +3030,7 @@
   },
   "kitStats": {
     "build": 1516,
-    "survival": 5911,
+    "survival": 5912,
     "pvp": 7428,
     "dupe": 1867,
     "tools": 1768,
