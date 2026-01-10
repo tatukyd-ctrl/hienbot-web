@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:00:31 10/1/2026",
-  "totalKits": 84717,
-  "todayKits": 36,
-  "onlineCount": 40,
+  "lastUpdated": "10:00:54 10/1/2026",
+  "totalKits": 84718,
+  "todayKits": 37,
+  "onlineCount": 42,
   "peakPlayers": 59,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 261,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5819
+      "count": 5820
     },
     {
       "name": "dupe",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:57] [8b8t] >> Request sent to exyn0",
-    "[02:57] [Ultra] <imnotoldmacbook> done ",
-    "[02:58] <edw106> Que hace aqui Leee ",
-    "[02:58] [8b8t] >> Teleporting...",
-    "[02:58] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[02:58] [8b8t] >> You have killed yourself!",
-    "[02:58] [8b8t] >> Home 2 was not found",
-    "[02:58] [Pro+] <lvashl> acepta ",
-    "[02:58] <Tyxks> Lva ",
-    "[02:58] <LIXM_RIVERX17> bro no me deja ",
-    "[02:58] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[02:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[02:58] [Pro+] <lvashl> tienes que ir a mas de 20k de bloques xd ",
-    "[02:59] [BOT] <0_HienBot> >Hey sofiax! ",
     "[02:59] sofiax Whispers: que",
     "[02:59] Vox_Shade has completed the challenge [Subspace Bubble]",
     "[02:59] <LIXM_RIVERX17> estoy en el nether ",
@@ -101,7 +87,21 @@
     "[03:00] <Sunther_> no puede aceptar tpa a menos de 20k de blques ",
     "[03:00] <Vox_Shade> ya sabo ",
     "[03:00] <LIXM_RIVERX17> X2 ",
-    "[03:00] <boludo> !kit end "
+    "[03:00] <boludo> !kit end ",
+    "[03:00] [8b8t] >> Teleporting to home 0...",
+    "[03:00] [8b8t] >> Teleporting to home 6...",
+    "[03:00] To boludo: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:00] To boludo: Try again dsc.gg/hienbot",
+    "[03:00] <Gaspilol> !kit survival ",
+    "[03:00] [8b8t] >> Teleporting to home 0...",
+    "[03:00] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[03:00] [8b8t] >> Teleporting to home 1...",
+    "[03:00] To Gaspilol: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:00] To Gaspilol: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:00] [8b8t] >> Request sent to Gaspilol",
+    "[03:00] <boludo> !kit end ",
+    "[03:00] To boludo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[03:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2989,11 +2989,12 @@
     "IdleTaguachal": 1,
     "StupidTaguachal": 2,
     "elpibedown": 1,
-    "exyn0": 1
+    "exyn0": 1,
+    "Gaspilol": 1
   },
   "kitStats": {
     "build": 1509,
-    "survival": 5819,
+    "survival": 5820,
     "pvp": 7379,
     "dupe": 1836,
     "tools": 1758,
