@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:17:25 11/1/2026",
-  "totalKits": 85123,
-  "todayKits": 151,
-  "onlineCount": 51,
+  "lastUpdated": "00:17:48 11/1/2026",
+  "totalKits": 85124,
+  "todayKits": 152,
+  "onlineCount": 49,
   "peakPlayers": 56,
-  "tps": "6.0",
+  "tps": "2.0",
   "ping": 260,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7448
+      "count": 7449
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:16] <efraddada> !kit illegal ",
-    "[17:16] [8b8t] >> Teleporting to home 0...",
-    "[17:16] [8b8t] >> Teleporting to home 9...",
-    "[17:16] To efraddada: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:16] To efraddada: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:16] <Cristiann_8> @tps ",
-    "[17:16] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[17:16] [8b8t] >> Request sent to efraddada",
     "[17:16] [8b8t] >> Teleporting...",
     "[17:16] [8b8t] >> You have killed yourself!",
     "[17:16] [8b8t] >> Home 2 was not found",
@@ -101,7 +93,15 @@
     "[17:17] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[17:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[17:17] <efraddada> !kit tools ",
-    "[17:17] To efraddada: You're on cooldown, try again in 25 seconds! Dont forget to join dsc.gg/hienbot"
+    "[17:17] To efraddada: You're on cooldown, try again in 25 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:17] fast_bot Whispers: !kit pvp",
+    "[17:17] [8b8t] >> Teleporting to home 0...",
+    "[17:17] [8b8t] >> Teleporting to home 1...",
+    "[17:17] To fast_bot: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:17] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[17:17] To fast_bot: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:17] [8b8t] >> Request sent to fast_bot",
+    "[17:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3039,12 +3039,13 @@
     "likubik2": 1,
     "sevatico": 3,
     "GGFroggy": 1,
-    "HAKURYU56": 1
+    "HAKURYU56": 1,
+    "fast_bot": 1
   },
   "kitStats": {
     "build": 1524,
     "survival": 5930,
-    "pvp": 7448,
+    "pvp": 7449,
     "dupe": 1874,
     "tools": 1773,
     "stash": 965,
