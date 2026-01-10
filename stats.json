@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:11:01 10/1/2026",
+  "lastUpdated": "12:11:31 10/1/2026",
   "totalKits": 84769,
   "todayKits": 88,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 59,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 258,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5847
+      "count": 5848
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:07] [8b8t] >> Teleporting to home 0...",
-    "[05:07] [8b8t] >> Teleporting to home 1...",
-    "[05:07] RconRMC is ignoring you",
-    "[05:07] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[05:07] RconRMC is ignoring you",
-    "[05:07] [8b8t] >> Request sent to RconRMC",
-    "[05:07] <santi_ripxd> !Bestping ",
     "[05:08] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[05:08] [8b8t] >> You have killed yourself!",
     "[05:08] [8b8t] >> The TPA request you sent to RconRMC was successfully canceled.",
@@ -101,7 +94,14 @@
     "[05:10] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:10] <RconRMC> ZafiroAfiro ahhh no sabia ",
     "[05:10] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[05:10] <RconRMC> es que tenia un monton de cosas y parecia de otra dimension "
+    "[05:10] <RconRMC> es que tenia un monton de cosas y parecia de otra dimension ",
+    "[05:11] prolol1234X2 has made the advancement [A Terrible Fortress]",
+    "[05:11] <RconRMC> creo q era en 6b6t o ac ",
+    "[05:11] <ZafiroAfiro> RconRMC ¿estaba cerca del spawn? ",
+    "[05:11] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[05:11] <RconRMC> no se sinceramente ",
+    "[05:11] <King_of_Flavor> !kit survival ",
+    "[05:11] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2998,11 +2998,12 @@
     "JX1DX1_BOT": 2,
     "RconRMC": 13,
     "tt12": 1,
-    "renzo_nano": 1
+    "renzo_nano": 1,
+    "King_of_Flavor": 1
   },
   "kitStats": {
     "build": 1511,
-    "survival": 5847,
+    "survival": 5848,
     "pvp": 7393,
     "dupe": 1842,
     "tools": 1761,
