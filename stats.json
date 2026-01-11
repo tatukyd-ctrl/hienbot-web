@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:06:47 11/1/2026",
+  "lastUpdated": "22:07:17 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 44,
-  "tps": "0.0",
+  "tps": "3.0",
   "ping": 261,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:04] To .LEON50758: Kit \"mystic\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
-    "[15:04] <GamingPandaM> +kit ",
-    "[15:04] To GamingPandaM: Hello GamingPandaM!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:04] <SlimeCrafter_99> doy ",
-    "[15:04] To .LEON50758: Try again dsc.gg/hienbot",
-    "[15:05] <.LEON50758> +kit ",
-    "[15:05] To .LEON50758: Hello .LEON50758!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:05] TheBetterJames has made the advancement [Stone Age]",
-    "[15:05] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[15:05] [BOT] <0_HienBot> >What's up, _TATl_? ",
     "[15:05] <GamingPandaM> !kit toolbox ",
     "[15:05] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[15:06] <TheBetterJames> hello friends :) ",
     "[15:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:06] [BOT] <0_HienBot> >Hey TheBetterJames! ",
-    "[15:06] <SlimeCrafter_99> hello "
+    "[15:06] <SlimeCrafter_99> hello ",
+    "[15:06] <lexomorey> !kit redstone ",
+    "[15:06] [8b8t] >> Teleporting to home 0...",
+    "[15:06] [8b8t] >> Teleporting to home 3...",
+    "[15:06] To lexomorey: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:06] varun has completed the challenge [Over-Overkill]",
+    "[15:07] <BigDensity910> any1 help me im stuck in spawn and i dont have hunger ",
+    "[15:07] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[15:07] <lexomorey> !kit redstone ",
+    "[15:07] To lexomorey: You're on cooldown, try again in 74 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1413,7 +1413,7 @@
     "1000yrs": 19,
     "stzG0D": 1,
     "Nikumara": 7,
-    "lexomorey": 1,
+    "lexomorey": 2,
     "Potion100": 1,
     "10HACKER01": 31,
     "MatMagg": 30,
@@ -3133,7 +3133,7 @@
     "wool": 396,
     "mineral": 559,
     "food": 474,
-    "redstone": 763,
+    "redstone": 764,
     "toolbox": 683,
     "quartz": 261,
     "shulker": 558,
