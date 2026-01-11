@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:43:47 11/1/2026",
+  "lastUpdated": "22:44:17 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 43,
+  "onlineCount": 42,
   "peakPlayers": 51,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 262,
   "topUsers": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": ".LEON50758",
-      "count": 214
+      "count": 215
     },
     {
       "name": "botchaosonix666",
@@ -68,27 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1540
+      "count": 1541
     }
   ],
   "chatLog": [
-    "[15:42] <DaneJustinYT> +kit dupe ",
-    "[15:42] [8b8t] >> Teleporting to home 0...",
-    "[15:42] [8b8t] >> Teleporting to home 8...",
-    "[15:42] To DaneJustinYT: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:42] To DaneJustinYT: Try again dsc.gg/hienbot",
-    "[15:42] <IMBADMC> +kit pvp ",
-    "[15:42] <Doraemon073> +kit dupe ",
-    "[15:42] To IMBADMC: You're on cooldown, try again in 35 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:42] [8b8t] >> Teleporting to home 0...",
-    "[15:42] [8b8t] >> Teleporting to home 8...",
-    "[15:42] To Doraemon073: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:42] To Doraemon073: Try again dsc.gg/hienbot",
-    "[15:42] <IMBADMC> doesnt work ",
-    "[15:42] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[15:42] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[15:42] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
-    "[15:42] [SE] <dragonkit> lowk i hate the illegal event but also its useful ",
     "[15:42] <IMBADMC> +kits ",
     "[15:43] ibaad has made the advancement [We Need to Go Deeper]",
     "[15:43] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
@@ -101,7 +84,24 @@
     "[15:43] <.LEON50758> +kit ",
     "[15:43] To .LEON50758: Hello .LEON50758!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[15:43] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[15:43] <UnBot> >Available kits are mystic, pvp, flight, escape use +kit "
+    "[15:43] <UnBot> >Available kits are mystic, pvp, flight, escape use +kit ",
+    "[15:43] <IMBADMC> +kit mystic ",
+    "[15:43] To IMBADMC: You're on cooldown, try again in 70 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:43] <DaneJustinYT> |kit survival ",
+    "[15:43] To DaneJustinYT: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:43] <.LEON50758> +kit escape ",
+    "[15:43] [8b8t] >> Teleporting to home 0...",
+    "[15:43] [8b8t] >> Teleporting to home 3...",
+    "[15:43] To .LEON50758: Kit \"escape\" not found! Giving you (build) instead! dsc.gg/hienbot",
+    "[15:44] <IMBADMC> !kit surviva; ",
+    "[15:44] To .LEON50758: Try again dsc.gg/hienbot",
+    "[15:44] <IMBADMC> +kit duping ",
+    "[15:44] To IMBADMC: You're on cooldown, try again in 50 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:44] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[15:44] [8b8t] >> Please do not spam.",
+    "[15:44] <Doraemon073> +kit duping ",
+    "[15:44] [8b8t] >> You have killed yourself!",
+    "[15:44] To Doraemon073: Kit \"duping\" not found! Giving you (toolbox) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -324,7 +324,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 19,
     "alastor_gamer89": 6,
-    ".LEON50758": 214,
+    ".LEON50758": 215,
     "Saad2001": 44,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -3122,11 +3122,11 @@
     "depix_": 1,
     "ibaad": 5,
     ".TheBigThanos818": 1,
-    "Doraemon073": 4,
+    "Doraemon073": 5,
     "DaneJustinYT": 2
   },
   "kitStats": {
-    "build": 1540,
+    "build": 1541,
     "survival": 6062,
     "pvp": 7590,
     "dupe": 1928,
@@ -3140,7 +3140,7 @@
     "mineral": 559,
     "food": 475,
     "redstone": 764,
-    "toolbox": 684,
+    "toolbox": 685,
     "quartz": 261,
     "shulker": 560,
     "terracotta": 99,
