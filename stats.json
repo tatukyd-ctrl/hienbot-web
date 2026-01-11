@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:12:08 11/1/2026",
+  "lastUpdated": "14:12:38 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 26,
+  "onlineCount": 28,
   "peakPlayers": 52,
-  "tps": "9.0",
-  "ping": 269,
+  "tps": "10.0",
+  "ping": 287,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6024
+      "count": 6025
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:09] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[07:10] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[07:10] <Aeriak64HD> !kit illegal ",
-    "[07:10] [8b8t] >> Teleporting to home 0...",
-    "[07:10] [8b8t] >> Teleporting to home 9...",
-    "[07:10] To Aeriak64HD: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:10] To Aeriak64HD: Try again dsc.gg/hienbot",
     "[07:10] <DeadlyNyxian> !kit illegal ",
     "[07:10] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +95,13 @@
     "[07:11] <godpvpho42> !kit survival ",
     "[07:11] To godpvpho42: You're on cooldown, try again in 61 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:11] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[07:12] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[07:12] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[07:12] <godpvpho42> !kit survival ",
+    "[07:12] [8b8t] >> Teleporting to home 0...",
+    "[07:12] [8b8t] >> Teleporting to home 1...",
+    "[07:12] To godpvpho42: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:12] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[07:12] <xxx_osolord_xxx> tpa pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -1887,7 +1887,7 @@
     "freddison": 1,
     "capyy": 17,
     "MCWemmbu2": 5,
-    "godpvpho42": 33,
+    "godpvpho42": 34,
     "_354": 1,
     "CR7GOOT": 3,
     "NooraniXD": 3,
@@ -3097,7 +3097,7 @@
   },
   "kitStats": {
     "build": 1533,
-    "survival": 6024,
+    "survival": 6025,
     "pvp": 7541,
     "dupe": 1914,
     "tools": 1789,
