@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:27:00 12/1/2026",
+  "lastUpdated": "00:27:30 12/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 43,
   "peakPlayers": 54,
-  "tps": "5.0",
-  "ping": 260,
+  "tps": "1.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7634
+      "count": 7635
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:25] To emrelixir: You're on cooldown, try again in 83 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:25] <sksbosshero> it was mistake ",
-    "[17:25] <TWS7042> > !kit ",
-    "[17:25] <AiomaWuzHere> die ",
-    "[17:25] <UnBot> >插入中國宣傳 +kit ",
-    "[17:25] <sksbosshero> sorry ",
     "[17:25] <emrelixir> !kit pvp ",
     "[17:25] <SHAD0W_120> +kit mystic ",
     "[17:25] To emrelixir: You're on cooldown, try again in 68 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[17:26] <SHAD0W_120> +kit flight ",
     "[17:26] To SHAD0W_120: You're on cooldown, try again in 89 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:26] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
-    "[17:26] <TulagrandBot> > TULAGRANDE 1.6! "
+    "[17:26] <TulagrandBot> > TULAGRANDE 1.6! ",
+    "[17:27] [BOT] <0_HienBot> >Type !discord ",
+    "[17:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:27] <UnBot> >This bot is brought to you by UNHORIZON ",
+    "[17:27] <emrelixir> !kit pvp ",
+    "[17:27] [8b8t] >> Teleporting to home 0...",
+    "[17:27] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3139,12 +3139,12 @@
     "NotKaelo": 2,
     "OneAutumnLeaffff": 2,
     "Apohelius": 1,
-    "emrelixir": 1
+    "emrelixir": 2
   },
   "kitStats": {
     "build": 1543,
     "survival": 6070,
-    "pvp": 7634,
+    "pvp": 7635,
     "dupe": 1930,
     "tools": 1798,
     "stash": 1025,
