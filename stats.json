@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:40:08 11/1/2026",
+  "lastUpdated": "13:40:38 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 35,
+  "onlineCount": 37,
   "peakPlayers": 52,
   "tps": "3.0",
   "ping": 256,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7539
+      "count": 7540
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:36] To FastForward: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:36] To FastForward: Try again dsc.gg/hienbot",
-    "[06:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:37] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[06:37] FastForward has made the advancement [We Need to Go Deeper]",
-    "[06:37] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[06:37] ruben_159 has made the advancement [The End?]",
-    "[06:37] <seim> !kit illegal ",
     "[06:37] [8b8t] >> Teleporting to home 0...",
     "[06:37] [8b8t] >> Teleporting to home 9...",
     "[06:37] To seim: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[06:39] [8b8t] >> Teleporting to home 8...",
     "[06:39] To seim: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:39] To seim: Try again dsc.gg/hienbot",
-    "[06:40] [BOT] <0_HienBot> >Hello TNGB0T! "
+    "[06:40] [BOT] <0_HienBot> >Hello TNGB0T! ",
+    "[06:40] <FastForward> !kit pvp ",
+    "[06:40] [8b8t] >> Teleporting to home 0...",
+    "[06:40] [8b8t] >> Teleporting to home 1...",
+    "[06:40] To FastForward: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:40] <TulagrandBot> >Hello, .Eden_01655 ",
+    "[06:40] To FastForward: Try again dsc.gg/hienbot",
+    "[06:40] <exyn0> when the potion so OP it lags and doesnt work: ",
+    "[06:40] [BOT] <0_HienBot> >Hey ElKevOly369! "
   ],
   "userStats": {
     "76756": 38,
@@ -3092,12 +3092,12 @@
     "EvenGrail": 4,
     "Cats_AreCool1": 1,
     "zAarex": 1,
-    "FastForward": 4
+    "FastForward": 5
   },
   "kitStats": {
     "build": 1533,
     "survival": 6023,
-    "pvp": 7539,
+    "pvp": 7540,
     "dupe": 1914,
     "tools": 1788,
     "stash": 983,
