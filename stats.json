@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:29:17 11/1/2026",
+  "lastUpdated": "21:29:47 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 42,
-  "tps": "10.0",
-  "ping": 253,
+  "tps": "12.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6058
+      "count": 6059
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:25] [8b8t] >> Teleporting to home 6...",
-    "[14:25] To PaulBro: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:25] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[14:26] <TylerDurden098> >ANYONE TP ME OUT ",
-    "[14:26] <urgedstorm> polito can i see inside the boxes ",
-    "[14:26] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:26] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[14:26] <urgedstorm> i wont take anything ",
     "[14:26] <urgedstorm> holy ",
     "[14:26] <urgedstorm> what ",
@@ -101,7 +94,14 @@
     "[14:29] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:29] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[14:29] <urgedstorm> !kit ",
-    "[14:29] To urgedstorm: Hello urgedstorm!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[14:29] To urgedstorm: Hello urgedstorm!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[14:29] <urgedstorm> !kit survival ",
+    "[14:29] [8b8t] >> Teleporting to home 0...",
+    "[14:29] [8b8t] >> Teleporting to home 1...",
+    "[14:29] To urgedstorm: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:29] To urgedstorm: Try again dsc.gg/hienbot",
+    "[14:29] <Polito84> tyler what are u doing? ",
+    "[14:29] [BOT] <0_HienBot> >Type !кιт  to get free kits "
   ],
   "userStats": {
     "76756": 38,
@@ -3024,7 +3024,7 @@
     "KanK_409": 1,
     "xX4foce4pXx": 1,
     "desadasz": 3,
-    "urgedstorm": 6,
+    "urgedstorm": 7,
     ".Azer4213": 1,
     "XanderSB": 23,
     "ShinerGlassB2": 4,
@@ -3118,7 +3118,7 @@
   },
   "kitStats": {
     "build": 1540,
-    "survival": 6058,
+    "survival": 6059,
     "pvp": 7577,
     "dupe": 1921,
     "tools": 1794,
