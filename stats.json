@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:33:47 11/1/2026",
+  "lastUpdated": "22:34:17 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 43,
+  "onlineCount": 45,
   "peakPlayers": 51,
-  "tps": "0.0",
-  "ping": 267,
+  "tps": "4.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7589
+      "count": 7590
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:31] [8b8t] >> Teleporting to home 3...",
-    "[15:31] To ibaad: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:31] To ibaad: Try again dsc.gg/hienbot",
-    "[15:31] <Doraemon073> !kit pvp ",
-    "[15:31] To Doraemon073: You're on cooldown, try again in 49 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:31] <superemeking> who are you ",
-    "[15:31] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[15:31] [Ultra] <L1derrFrog> asd ",
-    "[15:31] <deantheneek> supereme tp i have free kit ",
     "[15:32] <MrShadow_O> alguien tiene kit de obsi? ",
     "[15:32] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[15:32] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +92,16 @@
     "[15:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:33] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[15:33] <manchen_33> helpme ",
-    "[15:33] <UnBot> >Available kits are mystic, pvp, flight, escape use +kit "
+    "[15:33] <UnBot> >Available kits are mystic, pvp, flight, escape use +kit ",
+    "[15:33] <ibaad> +kit pvp ",
+    "[15:33] [8b8t] >> Teleporting to home 0...",
+    "[15:33] Chat disabled in client options",
+    "[15:33] To ibaad: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:33] To ibaad: Try again dsc.gg/hienbot",
+    "[15:34] <superemeking> TP YES PLZ DANKE ",
+    "[15:34] <Doraemon073> volvi ",
+    "[15:34] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[15:34] <UnBot> >PVP kit is now available type +kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3120,14 +3120,14 @@
     "GamingPandaM": 2,
     ".htp1p0.": 1,
     "depix_": 1,
-    "ibaad": 3,
+    "ibaad": 4,
     ".TheBigThanos818": 1,
     "Doraemon073": 2
   },
   "kitStats": {
     "build": 1540,
     "survival": 6062,
-    "pvp": 7589,
+    "pvp": 7590,
     "dupe": 1924,
     "tools": 1795,
     "stash": 1017,
