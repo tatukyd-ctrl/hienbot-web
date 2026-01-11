@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:25:17 11/1/2026",
+  "lastUpdated": "23:25:47 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 48,
   "peakPlayers": 51,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 266,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7612
+      "count": 7613
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:23] <lolpop> si ",
-    "[16:23] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
     "[16:23] <VoryxMC> wait i got it ",
     "[16:24] <lolpop> !kit ilegal ",
     "[16:24] To lolpop: You're on cooldown, try again in 80 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +99,9 @@
     "[16:25] [8b8t] >> Teleporting to home 0...",
     "[16:25] [8b8t] >> Teleporting to home 9...",
     "[16:25] To temp373874474: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:25] To temp373874474: Try again dsc.gg/hienbot"
+    "[16:25] To temp373874474: Try again dsc.gg/hienbot",
+    "[16:25] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
+    "[16:25] <UNHORIZON> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -156,7 +156,7 @@
     "Live_Leak": 2,
     "Skullziy": 10,
     "ReljKo7": 6,
-    "UNHORIZON": 101,
+    "UNHORIZON": 102,
     "KUTYA123676": 1,
     "The_Bot_father": 10,
     "Vladmir25": 7,
@@ -3135,7 +3135,7 @@
   "kitStats": {
     "build": 1541,
     "survival": 6067,
-    "pvp": 7612,
+    "pvp": 7613,
     "dupe": 1928,
     "tools": 1798,
     "stash": 1021,
