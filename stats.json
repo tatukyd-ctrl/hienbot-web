@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:36:05 12/1/2026",
+  "lastUpdated": "01:36:35 12/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 35,
+  "onlineCount": 33,
   "peakPlayers": 47,
-  "tps": "7.0",
-  "ping": 256,
+  "tps": "3.0",
+  "ping": 279,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6081
+      "count": 6082
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:33] [8b8t] >> Teleporting to home 0...",
-    "[18:33] [8b8t] >> Teleporting to home 1...",
-    "[18:33] To Night_883: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[18:33] To Night_883: Try again dsc.gg/hienbot",
-    "[18:33] <asadullaayevdi> whaattt ",
-    "[18:33] <SHAD0W_120> here ",
     "[18:33] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[18:33] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[18:33] <SHAD0W_120> ok ",
@@ -101,7 +95,13 @@
     "[18:35] <.LEON50758> +kit ",
     "[18:35] To .LEON50758: Hello .LEON50758!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[18:35] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[18:35] Feis7yJay has completed the challenge [Over-Overkill]"
+    "[18:35] Feis7yJay has completed the challenge [Over-Overkill]",
+    "[18:36] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[18:36] <Nixon2> !kit survival ",
+    "[18:36] [8b8t] >> Teleporting to home 0...",
+    "[18:36] [8b8t] >> Teleporting to home 1...",
+    "[18:36] To Nixon2: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:36] To Nixon2: Try again dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1487,7 +1487,7 @@
     "sebasfut29": 12,
     ".FiftyPanda1905": 3,
     "Greenlad7": 1,
-    "Nixon2": 4,
+    "Nixon2": 5,
     "Czikaole": 24,
     "SlimeCrafter_99": 6,
     "Thomi47": 6,
@@ -3148,7 +3148,7 @@
   },
   "kitStats": {
     "build": 1544,
-    "survival": 6081,
+    "survival": 6082,
     "pvp": 7644,
     "dupe": 1936,
     "tools": 1798,
