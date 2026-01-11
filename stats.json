@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:11:47 11/1/2026",
+  "lastUpdated": "23:12:17 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 51,
   "tps": "2.0",
-  "ping": 254,
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7601
+      "count": 7602
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:10] <UnBot> > ",
-    "[16:10] <lolj33> put## ",
-    "[16:10] <.crazy419J> !kit survival ",
-    "[16:10] <lolpop> hostia ",
-    "[16:10] To .crazy419J: You're on cooldown, try again in 74 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:10] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[16:10] <Oliverx12345> !kit ",
     "[16:10] To Oliverx12345: Hello Oliverx12345!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[16:10] <.crazy419J> !kit escape ",
     "[16:10] To .crazy419J: You're on cooldown, try again in 66 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[16:11] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[16:11] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
     "[16:11] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[16:11] <UNHORIZON> &b&ltt "
+    "[16:11] <UNHORIZON> &b&ltt ",
+    "[16:11] <.crazy419J> !kit pvp ",
+    "[16:11] [8b8t] >> Teleporting to home 0...",
+    "[16:11] [8b8t] >> Teleporting to home 1...",
+    "[16:11] To .crazy419J: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:12] <UnBot> >This bot is brought to you by UNHORIZON ",
+    "[16:12] [BOT] <0_HienBot> >Type !discord ",
+    "[16:12] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "76756": 38,
@@ -3124,14 +3124,14 @@
     ".TheBigThanos818": 1,
     "Doraemon073": 7,
     "DaneJustinYT": 3,
-    ".crazy419J": 3,
+    ".crazy419J": 4,
     "Alonewolfff": 1,
     "nemos_zxc": 2
   },
   "kitStats": {
     "build": 1541,
     "survival": 6064,
-    "pvp": 7601,
+    "pvp": 7602,
     "dupe": 1928,
     "tools": 1797,
     "stash": 1020,
