@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:05:35 12/1/2026",
+  "lastUpdated": "06:06:05 12/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 42,
   "peakPlayers": 61,
   "tps": "5.0",
-  "ping": 258,
+  "ping": 272,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:03] [8b8t] >> Teleporting to home 0...",
-    "[23:03] [8b8t] >> Teleporting to home 3...",
-    "[23:03] To Jetsjet: Your kit (Stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:03] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[23:03] To Jetsjet: Try again dsc.gg/hienbot",
-    "[23:03] <.Preston4448087> !kit pvp ",
-    "[23:03] [8b8t] >> Teleporting to home 0...",
-    "[23:03] [8b8t] >> Teleporting to home 1...",
-    "[23:03] To .Preston4448087: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:03] To .Preston4448087: Try again dsc.gg/hienbot",
-    "[23:03] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[23:03] <.PRO569177324> !kit ",
-    "[23:03] Chat disabled in client options",
     "[23:03] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[23:03] <.PRO569177324> @kit ",
     "[23:03] To .PRO569177324: Hello .PRO569177324!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +88,20 @@
     "[23:05] <Chrisss772jhss> ontan we ",
     "[23:05] <chucky> quitate ",
     "[23:05] <.Preston4448087> !kit ",
-    "[23:05] To .Preston4448087: Hello .Preston4448087!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[23:05] To .Preston4448087: Hello .Preston4448087!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[23:05] <BeThaMob> do u have immortal potions btw? ",
+    "[23:05] <.Preston4448087> !kit Survial ",
+    "[23:05] [8b8t] >> Teleporting to home 0...",
+    "[23:05] [8b8t] >> Teleporting to home 3...",
+    "[23:05] To .Preston4448087: Kit \"Survial\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[23:05] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[23:05] To .Preston4448087: Try again dsc.gg/hienbot",
+    "[23:05] <Basado__> ne ",
+    "[23:05] <chucky> a bueno estas asiondo lo que iba a aser ",
+    "[23:05] <.Preston4448087> !kit Survivial ",
+    "[23:05] To .Preston4448087: You're on cooldown, try again in 91 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:05] <BeThaMob> can i have it? ",
+    "[23:06] <Basado__> in mi base "
   ],
   "userStats": {
     "76756": 38,
@@ -3162,7 +3162,7 @@
     "masha_bear3": 2,
     "beabalazs": 1,
     "mr_monkeyman123": 1,
-    ".Preston4448087": 1
+    ".Preston4448087": 2
   },
   "kitStats": {
     "build": 1546,
@@ -3170,7 +3170,7 @@
     "pvp": 7671,
     "dupe": 1950,
     "tools": 1807,
-    "stash": 1038,
+    "stash": 1039,
     "raid": 1235,
     "wood": 519,
     "exp": 707,
