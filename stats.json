@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:03:05 12/1/2026",
+  "lastUpdated": "06:03:35 12/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 45,
+  "onlineCount": 42,
   "peakPlayers": 61,
-  "tps": "6.0",
-  "ping": 260,
+  "tps": "4.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7670
+      "count": 7671
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:00] [BOT] <0_HienBot> >Type !discord ",
-    "[23:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:00] <MultiCraftero> :3 ",
-    "[23:00] <MultiCraftero> casi iguales no? ",
-    "[23:00] <TheRedW1zard> xd ",
-    "[23:01] <Basado__> ta bueno tu kit ",
-    "[23:01] birdostt has completed the challenge [Cover Me in Debris]",
-    "[23:01] birdostt has reached the goal [Sky's the Limit]",
-    "[23:01] birdostt has made the advancement [Ice Bucket Challenge]",
     "[23:01] <chucky> ya vengo crismas ",
     "[23:01] [BOT] <0_HienBot> >Welcome to 8b8t, grafo500! ",
     "[23:01] <BeThaMob> bro ",
@@ -101,7 +92,16 @@
     "[23:02] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[23:02] <Basado__> pòn techo ",
     "[23:03] beabalazs has reached the goal [Postmortal]",
-    "[23:03] <Jetsjet> !kit "
+    "[23:03] <Jetsjet> !kit ",
+    "[23:03] To Jetsjet: Hello Jetsjet!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[23:03] <Jetsjet> !kit Stash ",
+    "[23:03] [8b8t] >> Teleporting to home 0...",
+    "[23:03] [8b8t] >> Teleporting to home 3...",
+    "[23:03] To Jetsjet: Your kit (Stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:03] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[23:03] To Jetsjet: Try again dsc.gg/hienbot",
+    "[23:03] <.Preston4448087> !kit pvp ",
+    "[23:03] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3150,7 +3150,7 @@
     "rip_giyuripguy67": 1,
     "ThonyPro_21": 2,
     "lolj33": 3,
-    "Jetsjet": 4,
+    "Jetsjet": 5,
     "catalin3214": 1,
     "HughCoolGuy123": 2,
     "SternQuill": 5,
@@ -3161,15 +3161,16 @@
     "BlackMerit": 2,
     "masha_bear3": 2,
     "beabalazs": 1,
-    "mr_monkeyman123": 1
+    "mr_monkeyman123": 1,
+    ".Preston4448087": 1
   },
   "kitStats": {
     "build": 1546,
     "survival": 6128,
-    "pvp": 7670,
+    "pvp": 7671,
     "dupe": 1950,
     "tools": 1807,
-    "stash": 1037,
+    "stash": 1038,
     "raid": 1235,
     "wood": 519,
     "exp": 707,
