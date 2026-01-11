@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:49:08 11/1/2026",
+  "lastUpdated": "12:49:38 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 52,
-  "tps": "3.0",
-  "ping": 241,
+  "tps": "5.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6019
+      "count": 6020
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:46] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[05:46] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[05:47] <0Manhdoi> !kit ",
-    "[05:47] To 0Manhdoi: Hello 0Manhdoi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:47] <EvenGrail> !kit ",
-    "[05:47] To EvenGrail: Hello EvenGrail!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:47] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[05:47] <0Manhdoi> !kit survival ",
     "[05:47] [8b8t] >> Teleporting to home 0...",
     "[05:47] [8b8t] >> Teleporting to home 1...",
     "[05:47] To 0Manhdoi: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[05:48] To EvenGrail: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:48] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[05:49] <Cats_AreCool1> !kit ",
-    "[05:49] To Cats_AreCool1: Hello Cats_AreCool1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[05:49] To Cats_AreCool1: Hello Cats_AreCool1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:49] <Cats_AreCool1> !kit survival ",
+    "[05:49] [8b8t] >> You have killed yourself!",
+    "[05:49] To Cats_AreCool1: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:49] [8b8t] >> Teleporting to home 0...",
+    "[05:49] [8b8t] >> Teleporting to home 1...",
+    "[05:49] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[05:49] To Cats_AreCool1: Try again dsc.gg/hienbot",
+    "[05:49] <EvenGrail> 0_HienBot "
   ],
   "userStats": {
     "76756": 38,
@@ -3089,11 +3089,12 @@
     "Gabo2447": 3,
     "Itzrealme_Abyss": 10,
     "prolol1234X2": 1,
-    "EvenGrail": 2
+    "EvenGrail": 2,
+    "Cats_AreCool1": 1
   },
   "kitStats": {
     "build": 1533,
-    "survival": 6019,
+    "survival": 6020,
     "pvp": 7529,
     "dupe": 1913,
     "tools": 1788,
