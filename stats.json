@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:25:08 11/1/2026",
+  "lastUpdated": "09:25:38 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 46,
+  "onlineCount": 45,
   "peakPlayers": 52,
-  "tps": "3.0",
-  "ping": 260,
+  "tps": "5.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6004
+      "count": 6005
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:22] <sk_gaming_dd> tpaccept ne ",
-    "[02:22] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[02:22] <ParaCraftero> jsut follow me ",
-    "[02:22] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[02:23] <Aeriak64HD> !kit illegal ",
-    "[02:23] [8b8t] >> Teleporting to home 0...",
-    "[02:23] [8b8t] >> Teleporting to home 9...",
-    "[02:23] To Aeriak64HD: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:23] To Aeriak64HD: Try again dsc.gg/hienbot",
     "[02:23] <ParaCraftero> go this direcction ",
     "[02:23] [8b8t] >> The TPA request you received from ASXN has expired.",
     "[02:23] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +92,16 @@
     "[02:24] <wolfycrzxy> np ",
     "[02:24] IdleTaguachal has made the advancement [Oh Shiny]",
     "[02:24] <SantisElmesias> !kit ",
-    "[02:25] To SantisElmesias: Hello SantisElmesias!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[02:25] To SantisElmesias: Hello SantisElmesias!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:25] <SantisElmesias> !kit Survival ",
+    "[02:25] [8b8t] >> Teleporting to home 0...",
+    "[02:25] [8b8t] >> Teleporting to home 1...",
+    "[02:25] To SantisElmesias: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:25] To SantisElmesias: Try again dsc.gg/hienbot",
+    "[02:25] Aeriak64HD has completed the challenge [Cover Me in Debris]",
+    "[02:25] <ParaCraftero> Muy bien aeriak ",
+    "[02:25] [BOT] <0_HienBot> >Type !discord ",
+    "[02:25] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "76756": 38,
@@ -3080,11 +3080,12 @@
     "Aeriak64HD": 21,
     ".BattyClock07029": 1,
     "JustAJoeGuy": 2,
-    "speedttapir": 4
+    "speedttapir": 4,
+    "SantisElmesias": 1
   },
   "kitStats": {
     "build": 1530,
-    "survival": 6004,
+    "survival": 6005,
     "pvp": 7513,
     "dupe": 1906,
     "tools": 1788,
