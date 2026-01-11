@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:34:00 12/1/2026",
+  "lastUpdated": "00:34:30 12/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 45,
   "peakPlayers": 54,
-  "tps": "4.0",
-  "ping": 251,
+  "tps": "7.0",
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7639
+      "count": 7641
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[17:32] To MrShadow_O: Try again dsc.gg/hienbot",
-    "[17:32] <TulagrandBot> >Try @ping to get your ping ",
-    "[17:32] <UnBot> >Type +kit escape to escape the spawn ",
-    "[17:32] <SHAD0W_120> +kit raid ",
-    "[17:32] To SHAD0W_120: You're on cooldown, try again in 7 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:32] <TWS7042> pvp anyone? ",
-    "[17:32] <TulagrandBot> >Hola dani8976 ",
-    "[17:32] <UnBot> >Available kits are mystic, pvp, flight, escape use +kit ",
-    "[17:32] <nastywarno> Impérial on top. ",
-    "[17:33] [BOT] <0_HienBot> >Hey UnBot! ",
-    "[17:33] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[17:33] <SHAD0W_120> +kit pvp ",
-    "[17:33] [8b8t] >> Teleporting to home 0...",
     "[17:33] [8b8t] >> Teleporting to home 1...",
     "[17:33] To SHAD0W_120: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:33] To SHAD0W_120: Try again dsc.gg/hienbot",
@@ -101,7 +87,21 @@
     "[17:33] To MrShadow_O: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:33] <UnBot> >插入中國宣傳 +kit ",
     "[17:33] <Amur2918> !kit pvp ",
-    "[17:33] To Amur2918: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[17:33] To Amur2918: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:34] <Amur2918> !kit pvp ",
+    "[17:34] [8b8t] >> You have killed yourself!",
+    "[17:34] To Amur2918: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:34] [BOT] <0_HienBot> >What's up, ekhi_12? ",
+    "[17:34] [8b8t] >> Teleporting to home 0...",
+    "[17:34] [8b8t] >> Teleporting to home 1...",
+    "[17:34] <TulagrandBot> >Tulagrande on top! ",
+    "[17:34] To Amur2918: Try again dsc.gg/hienbot",
+    "[17:34] <turimkk> +kit pvp ",
+    "[17:34] [8b8t] >> Teleporting to home 0...",
+    "[17:34] [8b8t] >> Teleporting to home 1...",
+    "[17:34] To turimkk: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:34] To turimkk: Try again dsc.gg/hienbot",
+    "[17:34] <UnBot> > "
   ],
   "userStats": {
     "76756": 38,
@@ -3140,12 +3140,14 @@
     "OneAutumnLeaffff": 3,
     "Apohelius": 1,
     "emrelixir": 3,
-    "TWS7042": 1
+    "TWS7042": 1,
+    "Amur2918": 1,
+    "turimkk": 1
   },
   "kitStats": {
     "build": 1543,
     "survival": 6070,
-    "pvp": 7639,
+    "pvp": 7641,
     "dupe": 1930,
     "tools": 1798,
     "stash": 1025,
