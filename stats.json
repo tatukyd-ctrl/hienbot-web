@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:46:38 11/1/2026",
+  "lastUpdated": "17:47:08 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 52,
-  "tps": "5.0",
-  "ping": 285,
+  "tps": "3.0",
+  "ping": 276,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6042
+      "count": 6043
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:43] <IMBADMC> !kit survival ",
-    "[10:43] [8b8t] >> Teleporting to home 0...",
-    "[10:43] [8b8t] >> Teleporting to home 1...",
-    "[10:43] To IMBADMC: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:43] To IMBADMC: Try again dsc.gg/hienbot",
-    "[10:43] [Ultra] <.htp1p0.> ParaCraftero cuales? ",
-    "[10:43] [BOT] <0_HienBot> >What's up, dragonxspider? ",
     "[10:43] <ParaCraftero> cualquiera que pedis ",
     "[10:43] <ParaCraftero> yo le pido a hienbot ",
     "[10:43] <ParaCraftero> y me dice: ",
@@ -101,7 +94,14 @@
     "[10:46] <TulagrandBot> >Tulagrande on top! ",
     "[10:46] [Ultra] <.htp1p0.> !kit ",
     "[10:46] [8b8t] >> Could not find player .htp1p0.",
-    "[10:46] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[10:46] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[10:47] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[10:47] <IMBADMC> !kit survival ",
+    "[10:47] [8b8t] >> Teleporting to home 0...",
+    "[10:47] [8b8t] >> Teleporting to home 1...",
+    "[10:47] <TulagrandBot> >This bot has been created by Felek btw. ",
+    "[10:47] To IMBADMC: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:47] To IMBADMC: Try again dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2960,7 +2960,7 @@
     "hatman_Defender": 3,
     "uanra75": 2,
     ".Greadmaster2313": 2,
-    "IMBADMC": 2,
+    "IMBADMC": 3,
     "doyoda1292": 59,
     "heroxsenator55": 1,
     "Spiderboost67": 11,
@@ -3105,7 +3105,7 @@
   },
   "kitStats": {
     "build": 1534,
-    "survival": 6042,
+    "survival": 6043,
     "pvp": 7555,
     "dupe": 1915,
     "tools": 1791,
