@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:36:17 11/1/2026",
+  "lastUpdated": "21:36:47 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 37,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 277,
+  "tps": "5.0",
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,11 +52,11 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7579
+      "count": 7580
     },
     {
       "name": "survival",
-      "count": 6061
+      "count": 6062
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:34] [8b8t] >> Teleporting to home 0...",
-    "[14:34] Chat disabled in client options",
-    "[14:34] To Player_BOT_plays: Kit \"shilke\" not found! Giving you (end) instead! dsc.gg/hienbot",
-    "[14:34] [BOT] <0_HienBot> >Welcome to 8b8t, DaneJustinYT! ",
-    "[14:34] <bautost2> !kit pvp ",
-    "[14:34] To bautost2: You're on cooldown, try again in 52 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:34] <tzi_OK6Dj_01_04> !kit stash ",
-    "[14:34] To tzi_OK6Dj_01_04: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:34] <Player_BOT_plays> !kit shulker ",
-    "[14:34] To Player_BOT_plays: You're on cooldown, try again in 91 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:34] <bautost2> !kit pvp ",
     "[14:34] To bautost2: You're on cooldown, try again in 38 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:35] <Cristiann_8> !kit ",
     "[14:35] To Cristiann_8: Hello Cristiann_8!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[14:35] To tzi_OK6Dj_01_04: Try again dsc.gg/hienbot",
     "[14:35] <Player_BOT_plays> !kit pvp ",
     "[14:35] To Player_BOT_plays: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:36] [BOT] <0_HienBot> >Try !кιт survival "
+    "[14:36] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[14:36] <Player_BOT_plays> !kit survival ",
+    "[14:36] [8b8t] >> Teleporting to home 0...",
+    "[14:36] [8b8t] >> Teleporting to home 1...",
+    "[14:36] To Player_BOT_plays: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:36] To Player_BOT_plays: Try again dsc.gg/hienbot",
+    "[14:36] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[14:36] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[14:36] <bautost2> !kit pvp ",
+    "[14:36] [8b8t] >> Teleporting to home 0...",
+    "[14:36] [8b8t] >> Teleporting to home 1...",
+    "[14:36] To bautost2: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2787,7 +2787,7 @@
     "espinos": 27,
     "GirlPuncher2014": 4,
     "FlameeX3": 2,
-    "bautost2": 25,
+    "bautost2": 26,
     "matibrodbr": 4,
     ".JhosepMC3341": 1,
     "LEON10": 17,
@@ -3115,13 +3115,13 @@
     "iamgayboi": 1,
     "WhiteMan_150": 1,
     "PaulBro": 1,
-    "Player_BOT_plays": 2,
+    "Player_BOT_plays": 3,
     "tzi_OK6Dj_01_04": 2
   },
   "kitStats": {
     "build": 1540,
-    "survival": 6061,
-    "pvp": 7579,
+    "survival": 6062,
+    "pvp": 7580,
     "dupe": 1922,
     "tools": 1794,
     "stash": 1014,
