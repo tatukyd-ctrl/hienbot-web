@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:09:47 11/1/2026",
+  "lastUpdated": "23:10:17 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 40,
   "peakPlayers": 51,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 251,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:08] <VoryxMC> +kit pvp ",
-    "[16:08] To VoryxMC: You're on cooldown, try again in 72 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:08] <.crazy419J> !kit survival ",
-    "[16:08] [8b8t] >> Teleporting to home 0...",
-    "[16:08] [8b8t] >> Teleporting to home 1...",
-    "[16:08] To .crazy419J: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[16:08] To .crazy419J: Try again dsc.gg/hienbot",
     "[16:08] <MBKBOZKURT90> 1 ",
     "[16:08] <nemos_zxc> !kit ",
@@ -101,7 +95,13 @@
     "[16:09] To .crazy419J: You're on cooldown, try again in 46 seconds! Dont forget to join dsc.gg/hienbot",
     "[16:09] <MrShadow_O> oye sofiax ya viste esto ",
     "[16:09] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[16:09] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[16:09] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[16:10] <MrShadow_O> una sala llena de mapas q crashean ",
+    "[16:10] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[16:10] <.crazy419J> !kit escape ",
+    "[16:10] [8b8t] >> Teleporting to home 0...",
+    "[16:10] [8b8t] >> Teleporting to home 4...",
+    "[16:10] To .crazy419J: Kit \"escape\" not found! Giving you (wool) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3124,7 +3124,7 @@
     ".TheBigThanos818": 1,
     "Doraemon073": 7,
     "DaneJustinYT": 3,
-    ".crazy419J": 2,
+    ".crazy419J": 3,
     "Alonewolfff": 1,
     "nemos_zxc": 2
   },
@@ -3139,7 +3139,7 @@
     "wood": 515,
     "exp": 704,
     "dye": 314,
-    "wool": 396,
+    "wool": 397,
     "mineral": 560,
     "food": 476,
     "redstone": 764,
