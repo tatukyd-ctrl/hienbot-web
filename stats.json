@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:49:38 11/1/2026",
+  "lastUpdated": "12:50:08 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 33,
   "peakPlayers": 52,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 263,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7529
+      "count": 7530
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:47] [8b8t] >> Teleporting to home 0...",
-    "[05:47] [8b8t] >> Teleporting to home 1...",
-    "[05:47] To 0Manhdoi: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:47] To 0Manhdoi: Try again dsc.gg/hienbot",
-    "[05:47] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[05:47] <EvenGrail> !kit pvp ",
     "[05:47] [8b8t] >> Teleporting to home 0...",
     "[05:47] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[05:48] <PrnvDevilXD> !kit illegal ",
@@ -101,7 +95,13 @@
     "[05:49] [8b8t] >> Teleporting to home 1...",
     "[05:49] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[05:49] To Cats_AreCool1: Try again dsc.gg/hienbot",
-    "[05:49] <EvenGrail> 0_HienBot "
+    "[05:49] <EvenGrail> 0_HienBot ",
+    "[05:49] <EvenGrail> !kit pvp ",
+    "[05:49] [8b8t] >> Teleporting to home 0...",
+    "[05:49] [8b8t] >> Teleporting to home 1...",
+    "[05:49] To EvenGrail: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:49] To EvenGrail: Try again dsc.gg/hienbot",
+    "[05:49] [BOT] <0_HienBot> >Welcome to 8b8t, BigBear! "
   ],
   "userStats": {
     "76756": 38,
@@ -3089,13 +3089,13 @@
     "Gabo2447": 3,
     "Itzrealme_Abyss": 10,
     "prolol1234X2": 1,
-    "EvenGrail": 2,
+    "EvenGrail": 3,
     "Cats_AreCool1": 1
   },
   "kitStats": {
     "build": 1533,
     "survival": 6020,
-    "pvp": 7529,
+    "pvp": 7530,
     "dupe": 1913,
     "tools": 1788,
     "stash": 983,
