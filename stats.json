@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:26:00 12/1/2026",
+  "lastUpdated": "00:26:30 12/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 41,
   "peakPlayers": 54,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 253,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:24] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
-    "[17:24] <TWS7042> > hi ",
-    "[17:24] <Apohelius> !kit ",
-    "[17:24] To Apohelius: Hello Apohelius!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[17:24] <emrelixir> !kit pvp ",
-    "[17:24] [8b8t] >> Teleporting to home 0...",
-    "[17:24] [8b8t] >> Teleporting to home 1...",
-    "[17:24] To emrelixir: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:24] To emrelixir: Try again dsc.gg/hienbot",
     "[17:25] <Apohelius> !kit pvp ",
     "[17:25] To Apohelius: You're on cooldown, try again in 76 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:25] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
@@ -101,7 +92,16 @@
     "[17:25] <TulagrandBot> >Building a base? Try @kit build2 ",
     "[17:25] <UnBot> >Type '+kit mystic' to satisfy your depression ",
     "[17:25] <emrelixir> !kit pvp ",
-    "[17:25] To emrelixir: You're on cooldown, try again in 38 seconds! Dont forget to join dsc.gg/hienbot"
+    "[17:25] To emrelixir: You're on cooldown, try again in 38 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:26] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[17:26] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[17:26] <sksbosshero> wjere are you ",
+    "[17:26] <UnBot> >This bot is cord logger free +kit ",
+    "[17:26] <GamingPandaM> I don't know who dropped a random stack of fireworks on the nether highway at 6631 X but thx ",
+    "[17:26] <SHAD0W_120> +kit mystic ",
+    "[17:26] [8b8t] >> Teleporting to home 0...",
+    "[17:26] [8b8t] >> Teleporting to home 4...",
+    "[17:26] To SHAD0W_120: Kit \"mystic\" not found! Giving you (concrete) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3133,7 +3133,7 @@
     "temp373874474": 1,
     "Sr_RexGG": 1,
     "Polito84": 1,
-    "SHAD0W_120": 12,
+    "SHAD0W_120": 13,
     "AiomaWuzHere": 2,
     "fdsfsdgssa": 4,
     "NotKaelo": 2,
@@ -3164,7 +3164,7 @@
     "armortrims": 421,
     "highway": 557,
     "ocean": 137,
-    "concrete": 361,
+    "concrete": 362,
     "glass": 294,
     "gap": 87,
     "constructor": "function Object() { [native code] }111111111",
