@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:07:38 11/1/2026",
+  "lastUpdated": "08:08:08 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 42,
+  "onlineCount": 41,
   "peakPlayers": 52,
   "tps": "0.0",
-  "ping": 259,
+  "ping": 240,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 5996
+      "count": 5997
     },
     {
       "name": "dupe",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:05] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[01:05] <TulagrandBot> >Try @ping to get your ping ",
-    "[01:06] <juliotl9> @kit ",
-    "[01:06] To juliotl9: Hello juliotl9!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:06] <.unknownguy59093> !kit survival ",
     "[01:06] To .unknownguy59093: You're on cooldown, try again in 66 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:06] <.unknownguy59093> @kit ",
     "[01:06] To .unknownguy59093: Hello .unknownguy59093!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[01:07] To JustAJoeGuy: Hello JustAJoeGuy!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[01:07] [XMAS2025] <kendricklover132> no we ",
     "[01:07] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[01:07] larajaye has reached the goal [Postmortal]"
+    "[01:07] larajaye has reached the goal [Postmortal]",
+    "[01:07] <Aeriak64HD> !kit survival ",
+    "[01:07] To Aeriak64HD: You're on cooldown, try again in 41 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:07] <TulagrandBot> >Try @seed to get 8b8t's seed ",
+    "[01:07] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[01:08] <.unknownguy59093> !kit survival "
   ],
   "userStats": {
     "76756": 38,
@@ -249,7 +249,7 @@
     "ZojiFujita": 13,
     "EliseoBana": 1,
     ".AoDxPrince": 39,
-    ".unknownguy59093": 38,
+    ".unknownguy59093": 39,
     "Luminus542": 6,
     "i212": 1,
     ".ZvXoid2873": 2,
@@ -3083,7 +3083,7 @@
   },
   "kitStats": {
     "build": 1530,
-    "survival": 5996,
+    "survival": 5997,
     "pvp": 7506,
     "dupe": 1906,
     "tools": 1786,
