@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:49:17 11/1/2026",
+  "lastUpdated": "22:49:47 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 39,
   "peakPlayers": 51,
-  "tps": "4.0",
+  "tps": "0.0",
   "ping": 258,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7592
+      "count": 7593
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:48] <DaneJustinYT> +kit pvp ",
-    "[15:48] [8b8t] >> Teleporting to home 0...",
     "[15:48] [8b8t] >> Teleporting to home 1...",
     "[15:48] To DaneJustinYT: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:48] [BOT] <0_HienBot> >Hmmmmmmmmm ",
@@ -101,7 +99,9 @@
     "[15:49] To IMBADMC: Hello IMBADMC!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[15:49] <sudoboneman> help me ",
     "[15:49] [BOT] <0_HienBot> >Hello ASneakySenior! ",
-    "[15:49] <UnBot> >Type '+kit mystic' to satisfy your depression "
+    "[15:49] <UnBot> >Type '+kit mystic' to satisfy your depression ",
+    "[15:49] <Doraemon073> hello ",
+    "[15:49] <UNHORIZON> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -156,7 +156,7 @@
     "Live_Leak": 2,
     "Skullziy": 10,
     "ReljKo7": 6,
-    "UNHORIZON": 97,
+    "UNHORIZON": 98,
     "KUTYA123676": 1,
     "The_Bot_father": 10,
     "Vladmir25": 7,
@@ -3128,7 +3128,7 @@
   "kitStats": {
     "build": 1541,
     "survival": 6062,
-    "pvp": 7592,
+    "pvp": 7593,
     "dupe": 1928,
     "tools": 1797,
     "stash": 1018,
