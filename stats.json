@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:36:38 11/1/2026",
+  "lastUpdated": "13:37:08 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 34,
+  "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "6.0",
+  "tps": "2.0",
   "ping": 254,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6022
+      "count": 6023
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:34] [8b8t] >> Teleporting to home 0...",
-    "[06:34] [8b8t] >> Teleporting to home 1...",
-    "[06:34] To FastForward: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:34] To FastForward: Try again dsc.gg/hienbot",
-    "[06:34] [8b8t] >> Please do not spam.",
-    "[06:34] <RT_agarie143> !kit illegal ",
-    "[06:34] To RT_agarie143: You're on cooldown, try again in 52 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:34] <RT_agarie143> !kit ",
     "[06:34] To RT_agarie143: Hello RT_agarie143!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[06:34] TulagrandBot Whispers: Join tulagrande",
@@ -101,7 +94,14 @@
     "[06:35] To seim: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:36] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[06:36] TulagrandBot Whispers: Best kits ---> Join TULAGRANDE - discord.gg/XWBkeQGNpt",
-    "[06:36] [8b8t] >> Please do not spam."
+    "[06:36] [8b8t] >> Please do not spam.",
+    "[06:36] <FastForward> !kit survival ",
+    "[06:36] [8b8t] >> Teleporting to home 0...",
+    "[06:36] [8b8t] >> Teleporting to home 1...",
+    "[06:36] To FastForward: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:36] To FastForward: Try again dsc.gg/hienbot",
+    "[06:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[06:37] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks "
   ],
   "userStats": {
     "76756": 38,
@@ -3092,11 +3092,11 @@
     "EvenGrail": 4,
     "Cats_AreCool1": 1,
     "zAarex": 1,
-    "FastForward": 3
+    "FastForward": 4
   },
   "kitStats": {
     "build": 1533,
-    "survival": 6022,
+    "survival": 6023,
     "pvp": 7539,
     "dupe": 1913,
     "tools": 1788,
