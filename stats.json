@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:04:38 11/1/2026",
+  "lastUpdated": "20:05:08 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 34,
   "peakPlayers": 52,
-  "tps": "7.0",
-  "ping": 328,
+  "tps": "4.0",
+  "ping": 286,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 1916
+      "count": 1917
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:01] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[13:01] <PRO1567565> :v ",
-    "[13:02] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[13:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:02] <zorakito> Red_Fragment_ ! ",
-    "[13:02] [BOT] <0_HienBot> >Welcome to 8b8t, 8b8t_net! ",
-    "[13:02] <TulagrandBot> >Hello, 0_HienBot ",
     "[13:03] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[13:03] <bautost2> !kit stash ",
     "[13:03] <TulagrandBot> >Try @list to get list of players ",
@@ -101,7 +94,14 @@
     "[13:04] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[13:04] <TulagrandBot> >Want kit? Try @kit ",
     "[13:04] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[13:04] <TulagrandBot> >Try /nc to change your nick color "
+    "[13:04] <TulagrandBot> >Try /nc to change your nick color ",
+    "[13:04] <IMBADMC> !kit survivalo ",
+    "[13:04] <TulagrandBot> >Want kit? Try @kit ",
+    "[13:04] [8b8t] >> Teleporting to home 0...",
+    "[13:04] [8b8t] >> Teleporting to home 8...",
+    "[13:05] To IMBADMC: Kit \"survivalo\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
+    "[13:05] To IMBADMC: Try again dsc.gg/hienbot",
+    "[13:05] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
   ],
   "userStats": {
     "76756": 38,
@@ -2960,7 +2960,7 @@
     "hatman_Defender": 3,
     "uanra75": 2,
     ".Greadmaster2313": 2,
-    "IMBADMC": 19,
+    "IMBADMC": 20,
     "doyoda1292": 59,
     "heroxsenator55": 1,
     "Spiderboost67": 11,
@@ -3116,7 +3116,7 @@
     "build": 1538,
     "survival": 6054,
     "pvp": 7566,
-    "dupe": 1916,
+    "dupe": 1917,
     "tools": 1793,
     "stash": 1005,
     "raid": 1214,
