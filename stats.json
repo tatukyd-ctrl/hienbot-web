@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:17:17 11/1/2026",
+  "lastUpdated": "23:17:47 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
   "onlineCount": 43,
   "peakPlayers": 51,
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 248,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6064
+      "count": 6065
     },
     {
       "name": "dupe",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:15] [8b8t] Unknown command do /help",
-    "[16:15] You may not interact with objects!",
-    "[16:15] [8b8t] Unknown command do /help",
-    "[16:15] [8b8t] Unknown command do /help",
-    "[16:15] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[16:15] You are already connected to this server!",
-    "[16:16] <UnBot> >PVP kit is now available type +kit pvp ",
-    "[16:16] <VoryxMC> bro ",
-    "[16:16] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[16:16] <UNHORIZON> +kit pvp ",
-    "[16:16] [8b8t] >> Teleporting to home 0...",
-    "[16:16] [8b8t] >> Teleporting to home 1...",
-    "[16:16] To UNHORIZON: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:16] To UNHORIZON: Try again dsc.gg/hienbot",
-    "[16:16] <VoryxMC> bro ",
     "[16:16] [Ultra] <.htp1p0.> !kit pvp ",
     "[16:16] [8b8t] >> Teleporting to home 0...",
     "[16:16] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +86,22 @@
     "[16:17] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[16:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[16:17] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[16:17] <VoryxMC> test "
+    "[16:17] <VoryxMC> test ",
+    "[16:17] <VoryxMC> why doesnt thr animation work ",
+    "[16:17] <MBKBOZKURT90> !kit survival ",
+    "[16:17] [8b8t] >> Teleporting to home 0...",
+    "[16:17] [8b8t] >> Teleporting to home 1...",
+    "[16:17] To MBKBOZKURT90: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:17] To MBKBOZKURT90: Try again dsc.gg/hienbot",
+    "[16:17] <UnBot> > ",
+    "[16:17] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[16:17] <Oliverx12345> !kit surival ",
+    "[16:17] [8b8t] >> Teleporting to home 0...",
+    "[16:17] <charter_day> !kit ",
+    "[16:17] [8b8t] >> Teleporting to home 7...",
+    "[16:17] To charter_day: Hello charter_day!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[16:17] To Oliverx12345: Kit \"surival\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
+    "[16:17] To Oliverx12345: Try again dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2356,7 +2356,7 @@
     "j122": 14,
     "lvashl": 75,
     "joshfrom1984_314": 9,
-    "MBKBOZKURT90": 12,
+    "MBKBOZKURT90": 13,
     "miniconquest": 4,
     "corona_6": 1,
     "kahdjgs3242": 1,
@@ -3127,11 +3127,11 @@
     ".crazy419J": 5,
     "Alonewolfff": 1,
     "nemos_zxc": 2,
-    "Oliverx12345": 2
+    "Oliverx12345": 3
   },
   "kitStats": {
     "build": 1541,
-    "survival": 6064,
+    "survival": 6065,
     "pvp": 7607,
     "dupe": 1928,
     "tools": 1798,
@@ -3146,7 +3146,7 @@
     "redstone": 764,
     "toolbox": 685,
     "quartz": 261,
-    "shulker": 560,
+    "shulker": 561,
     "terracotta": 100,
     "end": 643,
     "armortrims": 420,
