@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:51:08 11/1/2026",
+  "lastUpdated": "18:51:38 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 37,
+  "onlineCount": 35,
   "peakPlayers": 52,
-  "tps": "0.0",
+  "tps": "11.0",
   "ping": 291,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7562
+      "count": 7563
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:49] <BeThaMob> HELPPPPPPP MEEEEEE ",
-    "[11:49] <TulagrandBot> >How are you BeThaMob? ",
-    "[11:49] derogz has made the advancement [Acquire Hardware]",
-    "[11:49] <SlimeCrafter_99> tpahere bed ",
-    "[11:49] <IMBADMC> !kit illegal ",
-    "[11:49] To IMBADMC: You're on cooldown, try again in 40 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:49] <IMBADMC> ?kit illegal ",
     "[11:49] To IMBADMC: You're on cooldown, try again in 33 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:50] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[11:50] <IMBADMC> *kit illegal ",
@@ -101,7 +94,14 @@
     "[11:50] <TulagrandBot> >Want kit? Try @kit ",
     "[11:50] <BeThaMob> dit me dai ca ",
     "[11:51] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[11:51] <darkee_67589> I just made my weapon silk touch! This is not possible and will now crash my game. "
+    "[11:51] <darkee_67589> I just made my weapon silk touch! This is not possible and will now crash my game. ",
+    "[11:51] <TulagrandBot> >Want kit? Try @kit ",
+    "[11:51] <TheRealSquidward> @kit pvp ",
+    "[11:51] [8b8t] >> Teleporting to home 0...",
+    "[11:51] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[11:51] [8b8t] >> Teleporting to home 1...",
+    "[11:51] To TheRealSquidward: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:51] To TheRealSquidward: Try again dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3106,12 +3106,12 @@
     "cinseddi_54": 1,
     "BeThaMob": 3,
     "ImBaldz": 4,
-    "TheRealSquidward": 2
+    "TheRealSquidward": 3
   },
   "kitStats": {
     "build": 1534,
     "survival": 6050,
-    "pvp": 7562,
+    "pvp": 7563,
     "dupe": 1915,
     "tools": 1792,
     "stash": 993,
