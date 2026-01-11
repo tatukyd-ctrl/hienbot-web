@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:19:38 11/1/2026",
+  "lastUpdated": "19:20:08 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 30,
+  "onlineCount": 28,
   "peakPlayers": 52,
-  "tps": "9.0",
-  "ping": 283,
+  "tps": "4.0",
+  "ping": 285,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:16] <Tevrard> merde ",
-    "[12:16] <TulagrandBot> >Want kit? Try @kit ",
-    "[12:16] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[12:17] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[12:17] <.PRO569177324> I'm trading a kit +18 for a stack of 64 milk buckets. Who? ",
     "[12:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:17] <Murad2002> !kit illegal ",
@@ -101,7 +97,11 @@
     "[12:19] <Ondrasitek> !KIT hopper ",
     "[12:19] [8b8t] >> Teleporting to home 0...",
     "[12:19] [8b8t] >> Teleporting to home 7...",
-    "[12:19] To Ondrasitek: Kit \"hopper\" not found! Giving you (flower) instead! dsc.gg/hienbot"
+    "[12:19] To Ondrasitek: Kit \"hopper\" not found! Giving you (flower) instead! dsc.gg/hienbot",
+    "[12:19] To Ondrasitek: Try again dsc.gg/hienbot",
+    "[12:19] <Ondrasitek> !KIT stash ",
+    "[12:19] To Ondrasitek: You're on cooldown, try again in 88 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:20] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
   ],
   "userStats": {
     "76756": 38,
