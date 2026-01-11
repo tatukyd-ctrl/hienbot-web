@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:28:17 11/1/2026",
+  "lastUpdated": "20:28:47 11/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 42,
-  "tps": "1.0",
-  "ping": 290,
+  "tps": "7.0",
+  "ping": 260,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7572
+      "count": 7573
     },
     {
       "name": "survival",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1793
+      "count": 1794
     },
     {
       "name": "build",
@@ -72,24 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:26] <Foro2> !kit pvp ",
-    "[13:26] [8b8t] >> Teleporting to home 0...",
-    "[13:26] [8b8t] >> Teleporting to home 1...",
-    "[13:26] To Foro2: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:26] To Foro2: Try again dsc.gg/hienbot",
-    "[13:26] Phi1l0soph3r has made the advancement [War Pigs]",
-    "[13:26] <Tevrard> att ",
-    "[13:26] <Foro2> !kit pvp ",
-    "[13:26] To Foro2: You're on cooldown, try again in 89 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:26] [BOT] <0_HienBot> >Hi IMBADMC! ",
-    "[13:26] <KimiMili> !kit pvp ",
-    "[13:26] [8b8t] >> Teleporting to home 0...",
-    "[13:26] [8b8t] >> Teleporting to home 1...",
-    "[13:26] To KimiMili: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:26] To KimiMili: Try again dsc.gg/hienbot",
-    "[13:27] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[13:27] <TulagrandBot> >Hola UNHORIZON ",
-    "[13:27] <KimiMili> rp ",
     "[13:27] WhiteMan_150 has made the advancement [We Need to Go Deeper]",
     "[13:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:27] <KimiMili> tp ",
@@ -101,7 +83,25 @@
     "[13:28] <KimiMili> !kit pvp ",
     "[13:28] To KimiMili: You're on cooldown, try again in 31 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:28] <Foro2> !kit ovo ",
-    "[13:28] To Foro2: You're on cooldown, try again in 6 seconds! Dont forget to join dsc.gg/hienbot"
+    "[13:28] To Foro2: You're on cooldown, try again in 6 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:28] <KimiMili> !kit ",
+    "[13:28] To KimiMili: Hello KimiMili!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:28] <iamgayboi> !kit ",
+    "[13:28] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[13:28] To iamgayboi: Hello iamgayboi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Illegal, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:28] <TulagrandBot> >Hi GGClowny ",
+    "[13:28] <Foro2> !kit pvp ",
+    "[13:28] [8b8t] >> Teleporting to home 0...",
+    "[13:28] [8b8t] >> Teleporting to home 1...",
+    "[13:28] To Foro2: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:28] <KimiMili> !kit stash ",
+    "[13:28] [8b8t] >> Teleporting to home 0...",
+    "[13:28] [8b8t] >> Teleporting to home 3...",
+    "[13:28] To KimiMili: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:28] To KimiMili: Try again dsc.gg/hienbot",
+    "[13:28] <iamgayboi> !kit Tools ",
+    "[13:28] [8b8t] >> You have killed yourself!",
+    "[13:28] To iamgayboi: Your kit (Tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2969,7 +2969,7 @@
     "szconzinheirosz": 12,
     "Senpaidipendi": 18,
     "FemboyGerald": 10,
-    "Foro2": 6,
+    "Foro2": 7,
     "gotonovostore": 1,
     "kickdroper9351": 1,
     "xxx_osolord_xxx": 1,
@@ -3111,15 +3111,16 @@
     "pratik55801": 1,
     "arno": 5,
     "PRO1567565": 1,
-    "KimiMili": 4
+    "KimiMili": 5,
+    "iamgayboi": 1
   },
   "kitStats": {
     "build": 1538,
     "survival": 6055,
-    "pvp": 7572,
+    "pvp": 7573,
     "dupe": 1917,
-    "tools": 1793,
-    "stash": 1008,
+    "tools": 1794,
+    "stash": 1009,
     "raid": 1216,
     "wood": 515,
     "exp": 704,
