@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:41:18 13/1/2026",
-  "totalKits": 85523,
-  "todayKits": 201,
-  "onlineCount": 39,
+  "lastUpdated": "02:41:36 13/1/2026",
+  "totalKits": 85524,
+  "todayKits": 202,
+  "onlineCount": 40,
   "peakPlayers": 53,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 265,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6174
+      "count": 6175
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:40] To .Preston4448087: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:40] <.Preston4448087> !kit elytra ",
-    "[19:40] To .Preston4448087: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:40] <Doraemon073> !kit wool ",
-    "[19:40] To Doraemon073: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:40] [8b8t] >> Teleporting...",
-    "[19:40] <.Preston4448087> !kit elytra ",
-    "[19:40] To .Preston4448087: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:40] <xxnewcuboxx> !kit stash ",
-    "[19:40] To xxnewcuboxx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:40] <D3rlord3> !kit pvp ",
-    "[19:40] To D3rlord3: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:41] [8b8t] >> You have killed yourself!",
     "[19:41] <D3rlord3> !kit survival ",
     "[19:41] <.Preston4448087> !kit elytra ",
@@ -101,7 +89,19 @@
     "[19:41] elxit has made the advancement [War Pigs]",
     "[19:41] [8b8t] >> Teleporting...",
     "[19:41] Chat disabled in client options",
-    "[19:41] elxit has made the advancement [Hidden in the Depths]"
+    "[19:41] elxit has made the advancement [Hidden in the Depths]",
+    "[19:41] [8b8t] >> You have killed yourself!",
+    "[19:41] <.Preston4448087> !kit Tools ",
+    "[19:41] [8b8t] >> Teleporting to home 0...",
+    "[19:41] [8b8t] >> Teleporting to home 1...",
+    "[19:41] To .Preston4448087: Your kit (Tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:41] <Doraemon073> !kit wool ",
+    "[19:41] To Doraemon073: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:41] To .Preston4448087: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:41] [8b8t] >> Request sent to .Preston4448087",
+    "[19:41] [8b8t] >> Teleporting...",
+    "[19:41] <Doraemon073> !kit shulker ",
+    "[19:41] To Doraemon073: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3162,7 +3162,7 @@
     "masha_bear3": 2,
     "beabalazs": 1,
     "mr_monkeyman123": 1,
-    ".Preston4448087": 29,
+    ".Preston4448087": 30,
     "Bostonek_PL": 31,
     "preston4448087": 7,
     "Nic0laxxd": 3,
@@ -3209,7 +3209,7 @@
   },
   "kitStats": {
     "build": 1549,
-    "survival": 6174,
+    "survival": 6175,
     "pvp": 7802,
     "dupe": 2026,
     "tools": 1818,
