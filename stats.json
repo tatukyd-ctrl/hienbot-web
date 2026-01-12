@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:12:10 12/1/2026",
+  "lastUpdated": "21:12:40 12/1/2026",
   "totalKits": 85290,
   "todayKits": 47,
   "onlineCount": 28,
   "peakPlayers": 33,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 254,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:08] <UGhvc2hNZTE3MTA> !kits flight ",
-    "[14:08] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[14:08] <UGhvc2hNZTE3MTA> !kit ",
-    "[14:08] To UGhvc2hNZTE3MTA: Hello UGhvc2hNZTE3MTA!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:08] <UGhvc2hNZTE3MTA> !kits Elytra ",
-    "[14:08] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:09] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[14:09] <UnBot> >This bot is cord logger free +kit ",
-    "[14:09] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[14:09] <UnBot> >Want some Coke? type +kit mystic ",
     "[14:09] <UGhvc2hNZTE3MTA> +kit mystic ",
     "[14:09] [8b8t] >> Teleporting to home 0...",
     "[14:09] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +91,17 @@
     "[14:11] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[14:11] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[14:12] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[14:12] <UGhvc2hNZTE3MTA> +kits flight "
+    "[14:12] <UGhvc2hNZTE3MTA> +kits flight ",
+    "[14:12] <UGhvc2hNZTE3MTA> +kits elytra ",
+    "[14:12] <UnBot> >Type '+kit mystic' to satisfy your depression ",
+    "[14:12] <UGhvc2hNZTE3MTA> +kits escape ",
+    "[14:12] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[14:12] <UGhvc2hNZTE3MTA> +kit mystic ",
+    "[14:12] [8b8t] >> Teleporting to home 0...",
+    "[14:12] [8b8t] >> Teleporting to home 3...",
+    "[14:12] To UGhvc2hNZTE3MTA: Kit \"mystic\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
+    "[14:12] To UGhvc2hNZTE3MTA: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:12] [8b8t] >> Request sent to UGhvc2hNZTE3MTA"
   ],
   "userStats": {
     "76756": 38,
@@ -3180,7 +3180,7 @@
     ".RASPBERRY0V0": 4,
     "BigBear": 2,
     "htp1p0": 3,
-    "UGhvc2hNZTE3MTA": 5
+    "UGhvc2hNZTE3MTA": 6
   },
   "kitStats": {
     "build": 1548,
@@ -3205,7 +3205,7 @@
     "armortrims": 437,
     "highway": 565,
     "ocean": 141,
-    "concrete": 363,
+    "concrete": 364,
     "glass": 298,
     "gap": 104,
     "constructor": "function Object() { [native code] }111111111",
