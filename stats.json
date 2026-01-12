@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:14:42 12/1/2026",
+  "lastUpdated": "19:15:12 12/1/2026",
   "totalKits": 85241,
   "todayKits": 45,
   "onlineCount": 23,
   "peakPlayers": 25,
-  "tps": "8.0",
+  "tps": "5.0",
   "ping": 244,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7723
+      "count": 7724
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:12] <SHAD0W_120> why is the dupr off ",
-    "[12:12] <TheRedW1zard> xd ",
-    "[12:12] <TheRedW1zard> idk ",
-    "[12:12] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[12:12] <SHAD0W_120> !kit eyeofender ",
-    "[12:12] [8b8t] >> Teleporting to home 0...",
-    "[12:12] <SlimeCrafter_99> bro give me shulker stack ",
-    "[12:12] [8b8t] >> Teleporting to home 4...",
-    "[12:12] To SHAD0W_120: Kit \"eyeofender\" not found! Giving you (food) instead! dsc.gg/hienbot",
     "[12:12] To SHAD0W_120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:12] [8b8t] >> Request sent to SHAD0W_120",
     "[12:12] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[12:14] [8b8t] >> Request sent to SHAD0W_120",
     "[12:14] [8b8t] >> Teleporting...",
     "[12:14] [8b8t] >> You have killed yourself!",
-    "[12:14] [8b8t] >> Please do not spam."
+    "[12:14] [8b8t] >> Please do not spam.",
+    "[12:14] <SHAD0W_120> !kit pot ",
+    "[12:14] To SHAD0W_120: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:14] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[12:15] [Ultra] <.htp1p0.> !kit pvp ",
+    "[12:15] [8b8t] >> Teleporting to home 0...",
+    "[12:15] [8b8t] >> Teleporting to home 1...",
+    "[12:15] htp1p0 is ignoring you",
+    "[12:15] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[12:15] htp1p0 is ignoring you"
   ],
   "userStats": {
     "76756": 38,
@@ -3179,12 +3179,12 @@
     "SpreenDMC.": 1,
     ".RASPBERRY0V0": 4,
     "BigBear": 1,
-    "htp1p0": 2
+    "htp1p0": 3
   },
   "kitStats": {
     "build": 1547,
     "survival": 6158,
-    "pvp": 7723,
+    "pvp": 7724,
     "dupe": 1973,
     "tools": 1815,
     "stash": 1048,
