@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:24:20 12/1/2026",
+  "lastUpdated": "18:24:42 12/1/2026",
   "totalKits": 85202,
   "todayKits": 6,
-  "onlineCount": 21,
-  "peakPlayers": 21,
-  "tps": "10.0",
-  "ping": 261,
+  "onlineCount": 22,
+  "peakPlayers": 22,
+  "tps": "7.0",
+  "ping": 270,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:22] To Aeriak64HD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:22] [8b8t] >> Request sent to Aeriak64HD",
-    "[11:22] [8b8t] >> Teleporting...",
-    "[11:22] <godpvpho42> !kit survival ",
-    "[11:22] [8b8t] >> Teleporting to home 0...",
-    "[11:22] [8b8t] >> Home 2 was not found",
     "[11:22] To godpvpho42: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:23] To godpvpho42: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:23] [8b8t] >> Request sent to godpvpho42",
@@ -101,7 +95,13 @@
     "[11:24] To SHAD0W_120: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:24] To SHAD0W_120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:24] [8b8t] >> Request sent to SHAD0W_120",
-    "[11:24] [8b8t] >> Teleporting..."
+    "[11:24] [8b8t] >> Teleporting...",
+    "[11:24] [8b8t] >> You have killed yourself!",
+    "[11:24] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[11:24] <godpvpho42> !kit survival ",
+    "[11:24] [8b8t] >> Teleporting to home 0...",
+    "[11:24] [8b8t] >> Home 2 was not found",
+    "[11:24] To godpvpho42: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1887,7 +1887,7 @@
     "freddison": 1,
     "capyy": 17,
     "MCWemmbu2": 5,
-    "godpvpho42": 36,
+    "godpvpho42": 37,
     "_354": 1,
     "CR7GOOT": 3,
     "NooraniXD": 3,
@@ -3205,7 +3205,7 @@
     "ocean": 138,
     "concrete": 363,
     "glass": 295,
-    "gap": 93,
+    "gap": 94,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 186,
