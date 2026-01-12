@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:41:00 13/1/2026",
+  "lastUpdated": "02:41:12 13/1/2026",
   "totalKits": 85522,
   "todayKits": 200,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 53,
   "tps": "2.0",
   "ping": 264,
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:40] <Doraemon073> COMPRO KITS ALFOMBRAS ",
-    "[19:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[19:40] <.PerroGuaton1469> !kit elitra ",
-    "[19:40] [8b8t] >> Teleporting to home 0...",
-    "[19:40] [8b8t] >> Teleporting to home 4...",
-    "[19:40] To .PerroGuaton1469: Kit \"elitra\" not found! Giving you (dye) instead! dsc.gg/hienbot",
-    "[19:40] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[19:40] To .PerroGuaton1469: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:40] [8b8t] >> Request sent to .PerroGuaton1469",
-    "[19:40] <Doraemon073> !kit ",
-    "[19:40] To Doraemon073: Hello Doraemon073!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[19:40] <.Preston4448087> !kit elytra ",
     "[19:40] To .Preston4448087: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:40] <D3rlord3> !kit elytra ",
@@ -101,7 +90,18 @@
     "[19:40] <xxnewcuboxx> !kit stash ",
     "[19:40] To xxnewcuboxx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:40] <D3rlord3> !kit pvp ",
-    "[19:40] To D3rlord3: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[19:40] To D3rlord3: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:41] [8b8t] >> You have killed yourself!",
+    "[19:41] <D3rlord3> !kit survival ",
+    "[19:41] <.Preston4448087> !kit elytra ",
+    "[19:41] <JSUGIBHBJG> !kit elytra ",
+    "[19:41] [8b8t] >> Teleporting to home 0...",
+    "[19:41] To JSUGIBHBJG: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:41] [8b8t] >> Home 2 was not found",
+    "[19:41] To D3rlord3: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:41] To D3rlord3: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:41] [8b8t] >> Request sent to D3rlord3",
+    "[19:41] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
   ],
   "userStats": {
     "76756": 38,
@@ -3204,7 +3204,8 @@
     "deividbeicon_": 6,
     "Rhafael999": 3,
     "WTM": 2,
-    ".PerroGuaton1469": 1
+    ".PerroGuaton1469": 1,
+    "D3rlord3": 1
   },
   "kitStats": {
     "build": 1549,
@@ -3231,7 +3232,7 @@
     "ocean": 142,
     "concrete": 365,
     "glass": 301,
-    "gap": 131,
+    "gap": 132,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 188,
