@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:35:12 12/1/2026",
-  "totalKits": 85213,
-  "todayKits": 17,
-  "onlineCount": 18,
+  "lastUpdated": "18:35:40 12/1/2026",
+  "totalKits": 85214,
+  "todayKits": 18,
+  "onlineCount": 17,
   "peakPlayers": 23,
-  "tps": "6.0",
-  "ping": 266,
+  "tps": "7.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7713
+      "count": 7714
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:33] <SHAD0W_120> !kit mace ",
-    "[11:33] [8b8t] >> Teleporting to home 0...",
-    "[11:33] [8b8t] >> Teleporting to home 1...",
-    "[11:33] To SHAD0W_120: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:33] <rastafaricraft> !kit dupe ",
-    "[11:33] To rastafaricraft: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:33] To SHAD0W_120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:33] [8b8t] >> Request sent to SHAD0W_120",
     "[11:33] [8b8t] >> Teleporting...",
     "[11:34] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[11:34] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[11:34] To rastafaricraft: Hello rastafaricraft!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[11:34] <rastafaricraft> !kit PVP ",
     "[11:34] To rastafaricraft: You're on cooldown, try again in 21 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:35] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[11:35] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[11:35] <rastafaricraft> !kit PVP ",
+    "[11:35] [8b8t] >> Teleporting to home 0...",
+    "[11:35] [8b8t] >> Teleporting to home 1...",
+    "[11:35] To rastafaricraft: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:35] To rastafaricraft: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:35] [8b8t] >> Request sent to rastafaricraft",
+    "[11:35] [BOT] <0_HienBot> >Welcome to 8b8t, DPS_Chatbridge! ",
+    "[11:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3146,7 +3146,7 @@
     "LinhTKjps0109": 2,
     "Pigeon_Lover67": 2,
     "ponisalvaje": 8,
-    "rastafaricraft": 5,
+    "rastafaricraft": 6,
     "rip_giyuripguy67": 1,
     "ThonyPro_21": 2,
     "lolj33": 3,
@@ -3183,7 +3183,7 @@
   "kitStats": {
     "build": 1547,
     "survival": 6156,
-    "pvp": 7713,
+    "pvp": 7714,
     "dupe": 1965,
     "tools": 1815,
     "stash": 1048,
