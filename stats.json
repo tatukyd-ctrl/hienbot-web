@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:08:57 12/1/2026",
+  "lastUpdated": "23:09:12 12/1/2026",
   "totalKits": 85369,
   "todayKits": 47,
   "onlineCount": 32,
   "peakPlayers": 37,
-  "tps": "2.0",
-  "ping": 254,
+  "tps": "1.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7758
+      "count": 7759
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:07] To SHAD0W_120: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:07] To SHAD0W_120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[16:07] [8b8t] >> Request sent to SHAD0W_120",
-    "[16:07] [8b8t] >> Teleporting...",
-    "[16:07] <Doraemon073> shadow ",
-    "[16:07] [8b8t] >> You have killed yourself!",
     "[16:07] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[16:07] <DrVenial31> bu sefer home çek islak ",
     "[16:08] <DrVenial31> hilesiz cpvp atacam hile açsam kimse yenemez ",
@@ -101,7 +94,14 @@
     "[16:08] [8b8t] >> Teleporting...",
     "[16:08] islakdonavcizi31 Whispers: penci zorno",
     "[16:08] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[16:08] <DrVenial31> knk meteor güzelmi ? "
+    "[16:08] <DrVenial31> knk meteor güzelmi ? ",
+    "[16:09] [8b8t] >> You have killed yourself!",
+    "[16:09] <MultiCraftero> !kit pvp ",
+    "[16:09] [8b8t] >> Teleporting to home 0...",
+    "[16:09] [8b8t] >> Teleporting to home 1...",
+    "[16:09] To MultiCraftero: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:09] To MultiCraftero: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:09] [8b8t] >> Request sent to MultiCraftero"
   ],
   "userStats": {
     "76756": 38,
@@ -3189,12 +3189,13 @@
     "ElTomatitoFresco": 5,
     "islakdonavcizi31": 10,
     "yusyf_56": 4,
-    "W18": 5
+    "W18": 5,
+    "MultiCraftero": 1
   },
   "kitStats": {
     "build": 1548,
     "survival": 6165,
-    "pvp": 7758,
+    "pvp": 7759,
     "dupe": 1991,
     "tools": 1815,
     "stash": 1062,
