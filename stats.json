@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:38:12 13/1/2026",
+  "lastUpdated": "04:38:42 13/1/2026",
   "totalKits": 85608,
   "todayKits": 286,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 53,
-  "tps": "2.0",
-  "ping": 267,
+  "tps": "0.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6184
+      "count": 6185
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:34] [8b8t] >> Request sent to .MC_meester_Lars",
-    "[21:34] [8b8t] >> Teleporting...",
-    "[21:34] <mengyao_> !kit illegal ",
-    "[21:34] To mengyao_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:34] [8b8t] >> You have killed yourself!",
-    "[21:34] <Espitia_xd1> !kit ",
-    "[21:34] To Espitia_xd1: Hello Espitia_xd1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[21:35] <Doraemon073> WOW ",
-    "[21:35] [BOT] <0_HienBot> >Try !кιт survival ",
     "[21:35] [Ultra] <focoloa> kendricklover132 ",
     "[21:35] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[21:35] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +92,16 @@
     "[21:37] <peneflex> put some music ",
     "[21:37] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[21:38] xxx_ghast has made the advancement [Sweet dreams]",
-    "[21:38] [BOT] <0_HienBot> >Hi felisecundario! "
+    "[21:38] [BOT] <0_HienBot> >Hi felisecundario! ",
+    "[21:38] <Sgamestream> brutha ",
+    "[21:38] <Sgamestream> i thought this is our base ",
+    "[21:38] <.MC_meester_Lars> !Kit tools ",
+    "[21:38] [8b8t] >> Teleporting to home 0...",
+    "[21:38] [8b8t] >> Teleporting to home 1...",
+    "[21:38] To .MC_meester_Lars: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:38] To .MC_meester_Lars: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:38] [8b8t] >> Request sent to .MC_meester_Lars",
+    "[21:38] [BOT] <0_HienBot> >Try !кιт survival "
   ],
   "userStats": {
     "76756": 38,
@@ -1707,7 +1707,7 @@
     "BeNJa_147": 1,
     "Vince_Masuka": 1,
     "pyro88384": 7,
-    ".MC_meester_Lars": 127,
+    ".MC_meester_Lars": 128,
     "pepe23gftnico": 57,
     "JINdz1": 1,
     "izzleon": 1,
@@ -3214,7 +3214,7 @@
   },
   "kitStats": {
     "build": 1549,
-    "survival": 6184,
+    "survival": 6185,
     "pvp": 7815,
     "dupe": 2036,
     "tools": 1820,
