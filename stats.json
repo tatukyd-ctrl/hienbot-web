@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:03:05 12/1/2026",
+  "lastUpdated": "21:03:10 12/1/2026",
   "totalKits": 85284,
   "todayKits": 41,
   "onlineCount": 28,
   "peakPlayers": 33,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 278,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:02] To obitokkkk: Tu kit (pvp) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
-    "[14:02] <geniusbaqer> +kit pvp ",
-    "[14:02] geniusbaqer is ignoring you",
-    "[14:02] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[14:02] To obitokkkk: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[14:02] <MultiCraftero> unhorizon, why you trapped me and you put crash maps on mi account paracraftero? ",
     "[14:02] [8b8t] >> Request sent to obitokkkk",
     "[14:02] <.MC_meester_Lars> !Kit illegals ",
@@ -101,7 +96,12 @@
     "[14:03] To .MC_meester_Lars: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:03] [Pro+] <lvashl> !kit ilegal ",
     "[14:03] To lvashl: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:03] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide "
+    "[14:03] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
+    "[14:03] [8b8t] >> You have killed yourself!",
+    "[14:03] <UGhvc2hNZTE3MTA> !kit Survival ",
+    "[14:03] [8b8t] >> Teleporting to home 0...",
+    "[14:03] [8b8t] >> Home 2 was not found",
+    "[14:03] To UGhvc2hNZTE3MTA: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3180,7 +3180,7 @@
     ".RASPBERRY0V0": 4,
     "BigBear": 2,
     "htp1p0": 3,
-    "UGhvc2hNZTE3MTA": 1
+    "UGhvc2hNZTE3MTA": 2
   },
   "kitStats": {
     "build": 1548,
@@ -3207,7 +3207,7 @@
     "ocean": 140,
     "concrete": 363,
     "glass": 298,
-    "gap": 102,
+    "gap": 103,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 187,
