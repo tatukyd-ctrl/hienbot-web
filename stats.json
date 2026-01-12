@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:18:12 13/1/2026",
+  "lastUpdated": "06:18:42 13/1/2026",
   "totalKits": 85689,
   "todayKits": 367,
   "onlineCount": 31,
   "peakPlayers": 53,
-  "tps": "5.0",
+  "tps": "7.0",
   "ping": 255,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6202
+      "count": 6203
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:17] [8b8t] >> Teleporting to home 0...",
-    "[23:17] [8b8t] >> Teleporting to home 1...",
-    "[23:17] <elxit> !kit dupe ",
-    "[23:17] To IsaacM_E: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:17] To IsaacM_E: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:17] <person1100nc> !kit glass ",
-    "[23:17] To person1100nc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[23:17] <eduA5> !kit explorer ",
     "[23:17] To eduA5: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[23:17] [8b8t] >> Request sent to IsaacM_E",
@@ -101,7 +94,14 @@
     "[23:17] To eduA5: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[23:17] [8b8t] >> You have killed yourself!",
     "[23:17] <Basado__> ohh ya no ay ilegales ",
-    "[23:18] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
+    "[23:18] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[23:18] <eduA5> !kit explorer ",
+    "[23:18] [8b8t] >> Teleporting to home 0...",
+    "[23:18] [8b8t] >> Teleporting to home 1...",
+    "[23:18] To eduA5: Your kit (explorer) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:18] To eduA5: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:18] [8b8t] >> Request sent to eduA5",
+    "[23:18] [BOT] <0_HienBot> >Hey M4R3XX! "
   ],
   "userStats": {
     "76756": 38,
@@ -3217,11 +3217,11 @@
     "ignacio2456": 17,
     "orzc": 17,
     "M4R3XX": 1,
-    "eduA5": 1
+    "eduA5": 2
   },
   "kitStats": {
     "build": 1551,
-    "survival": 6202,
+    "survival": 6203,
     "pvp": 7826,
     "dupe": 2051,
     "tools": 1822,
