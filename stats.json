@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:36:02 12/1/2026",
+  "lastUpdated": "20:36:10 12/1/2026",
   "totalKits": 85263,
   "todayKits": 20,
-  "onlineCount": 25,
+  "onlineCount": 24,
   "peakPlayers": 26,
   "tps": "1.0",
   "ping": 252,
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:35] To duimoon: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:35] [8b8t] >> You have killed yourself!",
-    "[13:35] <rastafaricraft> !kit escape ",
-    "[13:35] [8b8t] >> Teleporting to home 0...",
-    "[13:35] [8b8t] >> Teleporting to home 5...",
-    "[13:35] To rastafaricraft: Kit \"escape\" not found! Giving you (exp) instead! dsc.gg/hienbot",
     "[13:35] To rastafaricraft: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:35] [8b8t] >> Request sent to rastafaricraft",
     "[13:35] <UnBot> >Type +kit escape to escape the spawn ",
@@ -101,7 +95,13 @@
     "[13:35] [8b8t] >> Request sent to MBKBOZKURT90",
     "[13:35] [8b8t] >> Teleporting...",
     "[13:36] <UnBot> >This bot is cord logger free +kit ",
-    "[13:36] [BOT] <0_HienBot> >Welcome to 8b8t, Kurtz! "
+    "[13:36] [BOT] <0_HienBot> >Welcome to 8b8t, Kurtz! ",
+    "[13:36] <8b8t_TBridge_BOT> !kitlist ",
+    "[13:36] [8b8t] >> You have killed yourself!",
+    "[13:36] <duimoon> +kit escaè ",
+    "[13:36] [8b8t] >> Teleporting to home 0...",
+    "[13:36] [8b8t] >> Teleporting to home 6...",
+    "[13:36] To duimoon: Kit \"esca\" not found! Giving you (ocean) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2924,7 +2924,7 @@
     "nxslouu": 25,
     "jotape251": 1,
     ".Hexcolorzz": 1,
-    "duimoon": 2,
+    "duimoon": 3,
     ".Graciosa3378": 9,
     "MindComplexity": 5,
     "isaaauc": 1,
@@ -3203,7 +3203,7 @@
     "end": 655,
     "armortrims": 437,
     "highway": 565,
-    "ocean": 139,
+    "ocean": 140,
     "concrete": 363,
     "glass": 298,
     "gap": 101,
