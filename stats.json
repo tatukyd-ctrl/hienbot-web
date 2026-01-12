@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:06:27 13/1/2026",
+  "lastUpdated": "01:06:42 13/1/2026",
   "totalKits": 85457,
   "todayKits": 135,
   "onlineCount": 40,
   "peakPlayers": 41,
-  "tps": "6.0",
+  "tps": "4.0",
   "ping": 257,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2006
+      "count": 2007
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:05] [BOT] <0_HienBot> >What's up, DPS_Chatbridge? ",
-    "[18:05] <NoImNotPopBop> ./tpa free base ",
-    "[18:05] <Bostonek_PL> !kit ",
-    "[18:05] To Bostonek_PL: Hello Bostonek_PL!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:05] TulagrandBot Whispers: Join tulagrande",
-    "[18:05] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[18:05] <SHAD0W_120> !kit manhunt ",
-    "[18:05] [8b8t] >> Teleporting to home 0...",
     "[18:05] [8b8t] >> Teleporting to home 5...",
     "[18:05] To SHAD0W_120: Kit \"manhunt\" not found! Giving you (quartz) instead! dsc.gg/hienbot",
     "[18:05] <SavageJfs> xd ",
@@ -101,7 +93,15 @@
     "[18:06] To Bostonek_PL: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:06] [8b8t] >> Request sent to Bostonek_PL",
     "[18:06] [8b8t] >> Teleporting...",
-    "[18:06] <TulagrandBot> >Whant something? Try @kit! "
+    "[18:06] <TulagrandBot> >Whant something? Try @kit! ",
+    "[18:06] [8b8t] >> You have killed yourself!",
+    "[18:06] <Night_883> !kit dupe ",
+    "[18:06] [8b8t] >> Teleporting to home 0...",
+    "[18:06] [8b8t] >> Teleporting to home 7...",
+    "[18:06] To Night_883: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:06] To Night_883: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:06] [8b8t] >> Request sent to Night_883",
+    "[18:06] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base "
   ],
   "userStats": {
     "76756": 38,
@@ -2103,7 +2103,7 @@
     "WinterWater": 80,
     "killer_": 1,
     "boam": 4,
-    "Night_883": 101,
+    "Night_883": 102,
     "MRF4T4L3RR0R": 2,
     "ajoqetkafshon": 15,
     "MicterDonater_YT": 1,
@@ -3204,7 +3204,7 @@
     "build": 1548,
     "survival": 6170,
     "pvp": 7787,
-    "dupe": 2006,
+    "dupe": 2007,
     "tools": 1818,
     "stash": 1066,
     "raid": 1248,
