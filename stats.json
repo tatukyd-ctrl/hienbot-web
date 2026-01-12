@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:05:10 12/1/2026",
-  "totalKits": 85286,
-  "todayKits": 43,
-  "onlineCount": 28,
+  "lastUpdated": "21:05:29 12/1/2026",
+  "totalKits": 85287,
+  "todayKits": 44,
+  "onlineCount": 29,
   "peakPlayers": 33,
-  "tps": "2.0",
+  "tps": "7.0",
   "ping": 246,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:04] <UnBot> >Available kits are mystic, pvp, flight, escape use +kit ",
-    "[14:04] <geniusbaqer> !kit pvp ",
-    "[14:04] [8b8t] >> Teleporting to home 0...",
-    "[14:04] [8b8t] >> Teleporting to home 1...",
-    "[14:04] geniusbaqer is ignoring you",
-    "[14:04] geniusbaqer is ignoring you",
-    "[14:04] [8b8t] >> Request sent to geniusbaqer",
-    "[14:04] <UGhvc2hNZTE3MTA> !kit flight ",
     "[14:04] To UGhvc2hNZTE3MTA: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:04] [8b8t] >> Teleporting...",
     "[14:04] Le_chat_pardeur has made the advancement [We Need to Go Deeper]",
@@ -101,7 +93,15 @@
     "[14:04] To UGhvc2hNZTE3MTA: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:04] [8b8t] >> You have killed yourself!",
     "[14:05] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[14:05] <UnBot> >Type +kit escape to escape the spawn "
+    "[14:05] <UnBot> >Type +kit escape to escape the spawn ",
+    "[14:05] <UGhvc2hNZTE3MTA> +kit escape ",
+    "[14:05] [8b8t] >> Teleporting to home 0...",
+    "[14:05] [8b8t] >> Teleporting to home 3...",
+    "[14:05] To UGhvc2hNZTE3MTA: Kit \"escape\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
+    "[14:05] To UGhvc2hNZTE3MTA: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:05] [8b8t] >> Request sent to UGhvc2hNZTE3MTA",
+    "[14:05] Le_chat_pardeur has reached the goal [Postmortal]",
+    "[14:05] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3180,7 +3180,7 @@
     ".RASPBERRY0V0": 4,
     "BigBear": 2,
     "htp1p0": 3,
-    "UGhvc2hNZTE3MTA": 2
+    "UGhvc2hNZTE3MTA": 3
   },
   "kitStats": {
     "build": 1548,
@@ -3194,7 +3194,7 @@
     "exp": 716,
     "dye": 317,
     "wool": 402,
-    "mineral": 565,
+    "mineral": 566,
     "food": 481,
     "redstone": 772,
     "toolbox": 691,
