@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:06:10 12/1/2026",
+  "lastUpdated": "20:06:40 12/1/2026",
   "totalKits": 85245,
   "todayKits": 2,
-  "onlineCount": 21,
+  "onlineCount": 23,
   "peakPlayers": 25,
-  "tps": "6.0",
-  "ping": 250,
+  "tps": "4.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7725
+      "count": 7726
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:04] <SHAD0W_120> AT CRYSTAL ",
-    "[13:04] <geniusbaqer> lemme dupe it rq ",
-    "[13:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:04] [8b8t] >> Teleporting...",
-    "[13:04] [8b8t] >> You have killed yourself!",
     "[13:04] <SHAD0W_120> WHY ",
     "[13:04] <ITZvihaangamer> i am at spawn ",
     "[13:04] <SHAD0W_120> OK ",
@@ -101,7 +96,12 @@
     "[13:05] <SHAD0W_120> !bestping ",
     "[13:05] To SHAD0W_120: TNGB0T with 88 ms. Dont forget to join dsc.gg/hienbot",
     "[13:06] <nabeel13> !kit pvp ",
-    "[13:06] To nabeel13: You're on cooldown, try again in 17 seconds! Dont forget to join dsc.gg/hienbot"
+    "[13:06] To nabeel13: You're on cooldown, try again in 17 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:06] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[13:06] <nabeel13> !kit pvp ",
+    "[13:06] [8b8t] >> Teleporting to home 0...",
+    "[13:06] [8b8t] >> Teleporting to home 1...",
+    "[13:06] To nabeel13: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1540,7 +1540,7 @@
     "mogusengine": 2,
     "HexCrawler_": 1,
     "FlameMCYT": 1,
-    "nabeel13": 21,
+    "nabeel13": 22,
     "overated_": 1,
     "Dunix063": 1,
     "Innocent_Child0": 2,
@@ -3184,7 +3184,7 @@
   "kitStats": {
     "build": 1547,
     "survival": 6158,
-    "pvp": 7725,
+    "pvp": 7726,
     "dupe": 1974,
     "tools": 1815,
     "stash": 1048,
