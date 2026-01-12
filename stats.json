@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:25:12 13/1/2026",
+  "lastUpdated": "06:25:42 13/1/2026",
   "totalKits": 85691,
   "todayKits": 369,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 53,
-  "tps": "6.0",
+  "tps": "2.0",
   "ping": 254,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:22] [8b8t] >> Teleporting to home 7...",
-    "[23:22] To elxit: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:22] To elxit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:22] [8b8t] >> Request sent to elxit",
-    "[23:22] <.Maddie8171111> Use $kit for a kit! ",
-    "[23:22] <loliuwu> WenlerMaster, you probably watch tenebrous videos and are intruiged ",
     "[23:22] <seasnail798> !kits ",
     "[23:23] <seasnail798> !kit ",
     "[23:23] To seasnail798: Hello seasnail798!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[23:24] [Youtuber] <elproplayerxddd> WenlerMaster tene is my favorite youtuber and i bought his badlion client clock so i'm legit ",
     "[23:24] <.Maddie8171111> Who can tpa me too spawn? ",
     "[23:24] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[23:25] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me "
+    "[23:25] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[23:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[23:25] <elxit> !kit food ",
+    "[23:25] [8b8t] >> Teleporting to home 0...",
+    "[23:25] [8b8t] >> Home 2 was not found",
+    "[23:25] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[23:25] To elxit: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2778,7 +2778,7 @@
     "pvp112233": 3,
     "Theotyrex1010": 24,
     "jxstax": 2,
-    "elxit": 13,
+    "elxit": 14,
     "ShadoMC987": 3,
     "Valoma20142008": 2,
     "eggohann": 5,
@@ -3245,7 +3245,7 @@
     "ocean": 142,
     "concrete": 366,
     "glass": 303,
-    "gap": 144,
+    "gap": 145,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 189,
