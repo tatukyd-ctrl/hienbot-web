@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:34:09 13/1/2026",
+  "lastUpdated": "00:34:12 13/1/2026",
   "totalKits": 85429,
   "todayKits": 107,
   "onlineCount": 35,
   "peakPlayers": 41,
-  "tps": "0.0",
+  "tps": "1.0",
   "ping": 263,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 1998
+      "count": 1999
     },
     {
       "name": "tools",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:33] <xxnewcuboxx> h/nc red ",
-    "[17:33] <Doraemon073> BROOO ",
-    "[17:33] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[17:33] <Doraemon073> !kit pvp ",
     "[17:33] To Doraemon073: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:33] To Doraemon073: Try again Join dsc.gg/hienbot to report the error.",
     "[17:33] <Breptacraft_> !kit dupe ",
@@ -101,7 +97,11 @@
     "[17:34] To SavageJfs: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:34] To Doraemon073: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:34] [8b8t] >> Request sent to Doraemon073",
-    "[17:34] [8b8t] >> Teleporting..."
+    "[17:34] [8b8t] >> Teleporting...",
+    "[17:34] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[17:34] [8b8t] >> You have killed yourself!",
+    "[17:34] <xxnewcuboxx> !kit dupe ",
+    "[17:34] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3197,13 +3197,14 @@
     ".Alcalde2022": 2,
     "Shadebornn": 4,
     "Breptacraft_": 6,
-    "lionelpessi100": 1
+    "lionelpessi100": 1,
+    "xxnewcuboxx": 1
   },
   "kitStats": {
     "build": 1548,
     "survival": 6168,
     "pvp": 7782,
-    "dupe": 1998,
+    "dupe": 1999,
     "tools": 1818,
     "stash": 1063,
     "raid": 1248,
