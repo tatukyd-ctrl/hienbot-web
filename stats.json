@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:16:16 12/1/2026",
+  "lastUpdated": "21:16:40 12/1/2026",
   "totalKits": 85295,
   "todayKits": 52,
   "onlineCount": 30,
   "peakPlayers": 33,
-  "tps": "1.0",
-  "ping": 246,
+  "tps": "2.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -18,7 +18,7 @@
     },
     {
       "name": ".LEON50758",
-      "count": 223
+      "count": 224
     },
     {
       "name": "botchaosonix666",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:15] <UGhvc2hNZTE3MTA> +kit flight ",
-    "[14:15] [8b8t] >> Teleporting to home 0...",
-    "[14:15] [8b8t] >> Teleporting to home 6...",
-    "[14:15] To UGhvc2hNZTE3MTA: Your kit (flight) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:15] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[14:15] To UGhvc2hNZTE3MTA: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:15] [8b8t] >> Request sent to UGhvc2hNZTE3MTA",
-    "[14:15] [8b8t] >> Teleporting...",
-    "[14:15] [Pro+] <lvashl> so op 32k kit ",
     "[14:15] <6ex90ne_top> !kit ",
     "[14:15] To 6ex90ne_top: Hello 6ex90ne_top!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[14:15] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[14:16] To 6ex90ne_top: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:16] [8b8t] >> Request sent to 6ex90ne_top",
     "[14:16] [8b8t] >> Teleporting...",
-    "[14:16] [8b8t] >> catalin3214 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days"
+    "[14:16] [8b8t] >> catalin3214 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
+    "[14:16] [8b8t] >> You have killed yourself!",
+    "[14:16] <UnBot> >Available kits are mystic, pvp, flight, escape use +kit ",
+    "[14:16] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[14:16] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[14:16] <.LEON50758> +kit flight ",
+    "[14:16] [8b8t] >> Teleporting to home 0...",
+    "[14:16] <GGClowny> what happend to ts server ",
+    "[14:16] [8b8t] >> Teleporting to home 6...",
+    "[14:16] To .LEON50758: Your kit (flight) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -324,7 +324,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 19,
     "alastor_gamer89": 6,
-    ".LEON50758": 223,
+    ".LEON50758": 224,
     "Saad2001": 44,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -3216,6 +3216,6 @@
     "gterracotta": 75,
     "banner": 90,
     "illegal": 706,
-    "elytra": 9
+    "elytra": 10
   }
 }
