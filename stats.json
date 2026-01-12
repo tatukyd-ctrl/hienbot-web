@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:33:30 12/1/2026",
+  "lastUpdated": "20:33:40 12/1/2026",
   "totalKits": 85259,
   "todayKits": 16,
   "onlineCount": 23,
   "peakPlayers": 26,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 251,
   "topUsers": [
     {
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:32] <UNHORIZON> !kit pvp ",
-    "[13:32] [8b8t] >> Teleporting to home 0...",
-    "[13:32] [8b8t] >> Teleporting to home 1...",
-    "[13:32] To UNHORIZON: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:32] <catalin3214> !kit pvp ",
     "[13:32] To catalin3214: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:32] To UNHORIZON: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +97,11 @@
     "[13:33] To catalin3214: Hello catalin3214!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[13:33] To rastafaricraft: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:33] [8b8t] >> Request sent to rastafaricraft",
-    "[13:33] [8b8t] >> Teleporting..."
+    "[13:33] [8b8t] >> Teleporting...",
+    "[13:33] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[13:33] [8b8t] >> You have killed yourself!",
+    "[13:33] <catalin3214> !kit Armortrims ",
+    "[13:33] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3151,7 +3151,7 @@
     "ThonyPro_21": 2,
     "lolj33": 3,
     "Jetsjet": 7,
-    "catalin3214": 4,
+    "catalin3214": 5,
     "HughCoolGuy123": 2,
     "SternQuill": 5,
     "Antonhysv": 6,
@@ -3201,7 +3201,7 @@
     "shulker": 571,
     "terracotta": 103,
     "end": 655,
-    "armortrims": 436,
+    "armortrims": 437,
     "highway": 564,
     "ocean": 139,
     "concrete": 363,
