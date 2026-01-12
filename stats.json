@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:10:12 12/1/2026",
+  "lastUpdated": "19:10:42 12/1/2026",
   "totalKits": 85236,
   "todayKits": 40,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 23,
-  "tps": "7.0",
+  "tps": "9.0",
   "ping": 240,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7720
+      "count": 7721
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:09] [Ultra] <.htp1p0.> !kit pvp ",
-    "[12:09] [8b8t] >> Teleporting to home 0...",
-    "[12:09] [8b8t] >> Teleporting to home 1...",
-    "[12:09] htp1p0 is ignoring you",
-    "[12:09] <UNHORIZON> !kit pvp ",
-    "[12:09] To UNHORIZON: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:09] htp1p0 is ignoring you",
     "[12:09] [8b8t] >> Request sent to htp1p0",
     "[12:09] <SlimeCrafter_99> how to get shulker stack bro ",
@@ -101,7 +95,13 @@
     "[12:09] [8b8t] >> Request sent to SlimeCrafter_99",
     "[12:10] [8b8t] >> Teleporting...",
     "[12:10] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[12:10] [8b8t] >> You have killed yourself!"
+    "[12:10] [8b8t] >> You have killed yourself!",
+    "[12:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:10] <UNHORIZON> +kit pvp ",
+    "[12:10] [8b8t] >> Teleporting to home 0...",
+    "[12:10] [8b8t] >> Teleporting to home 1...",
+    "[12:10] [BOT] <0_HienBot> >Hi TheRedW1zard! ",
+    "[12:10] To UNHORIZON: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -156,7 +156,7 @@
     "Live_Leak": 2,
     "Skullziy": 10,
     "ReljKo7": 6,
-    "UNHORIZON": 104,
+    "UNHORIZON": 105,
     "KUTYA123676": 1,
     "The_Bot_father": 10,
     "Vladmir25": 7,
@@ -3184,7 +3184,7 @@
   "kitStats": {
     "build": 1547,
     "survival": 6158,
-    "pvp": 7720,
+    "pvp": 7721,
     "dupe": 1973,
     "tools": 1815,
     "stash": 1048,
