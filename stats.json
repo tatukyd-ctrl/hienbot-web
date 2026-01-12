@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:02:07 12/1/2026",
+  "lastUpdated": "18:02:37 12/1/2026",
   "totalKits": 85196,
   "todayKits": 6,
-  "onlineCount": 20,
+  "onlineCount": 18,
   "peakPlayers": 24,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 324,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:00] [8b8t] >> You have killed yourself!",
-    "[11:00] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[11:00] To SHAD0W_120: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:00] [8b8t] >> Teleporting to home 0...",
-    "[11:00] [8b8t] >> Home 2 was not found",
     "[11:00] To SHAD0W_120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:00] <.RASPBERRY0V0> I DIDNT KILL you ",
     "[11:01] [8b8t] >> Request sent to SHAD0W_120",
@@ -101,7 +96,12 @@
     "[11:01] [8b8t] >> You have killed yourself!",
     "[11:01] <SHAD0W_120> +kit armortrims ",
     "[11:01] To SHAD0W_120: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:01] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ "
+    "[11:01] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[11:02] <SHAD0W_120> !kit armortrims ",
+    "[11:02] [8b8t] >> Teleporting to home 0...",
+    "[11:02] [8b8t] >> Teleporting to home 7...",
+    "[11:02] To SHAD0W_120: Your kit (armortrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:02] <.RASPBERRY0V0> who has fire rockets "
   ],
   "userStats": {
     "76756": 38,
@@ -3133,7 +3133,7 @@
     "temp373874474": 1,
     "Sr_RexGG": 1,
     "Polito84": 2,
-    "SHAD0W_120": 75,
+    "SHAD0W_120": 76,
     "AiomaWuzHere": 2,
     "fdsfsdgssa": 4,
     "NotKaelo": 2,
@@ -3199,7 +3199,7 @@
     "shulker": 571,
     "terracotta": 101,
     "end": 655,
-    "armortrims": 429,
+    "armortrims": 430,
     "highway": 559,
     "ocean": 138,
     "concrete": 363,
