@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:37:10 12/1/2026",
-  "totalKits": 85264,
-  "todayKits": 21,
-  "onlineCount": 24,
+  "lastUpdated": "20:37:40 12/1/2026",
+  "totalKits": 85265,
+  "todayKits": 22,
+  "onlineCount": 23,
   "peakPlayers": 26,
-  "tps": "2.0",
-  "ping": 246,
+  "tps": "5.0",
+  "ping": 249,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7729
+      "count": 7730
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:36] [8b8t] >> Teleporting to home 0...",
-    "[13:36] [8b8t] >> Teleporting to home 6...",
-    "[13:36] To duimoon: Kit \"esca\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
-    "[13:36] To duimoon: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:36] <rastafaricraft> !kit escape ",
-    "[13:36] To rastafaricraft: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:36] [8b8t] >> You already have a pending request",
-    "[13:36] <duimoon> +kit escape ",
-    "[13:36] To duimoon: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:36] <catalin3214> +kit escape ",
-    "[13:36] <rastafaricraft> !kit ",
     "[13:36] To catalin3214: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:36] <MBKBOZKURT90> !kit build ",
     "[13:36] <rastafaricraft> !kit ",
@@ -101,7 +90,18 @@
     "[13:37] <UnBot> >Available kits are mystic, pvp, flight, escape use +kit ",
     "[13:37] [BOT] <0_HienBot> >Type !discord ",
     "[13:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:37] [8b8t] >> You have killed yourself!"
+    "[13:37] [8b8t] >> You have killed yourself!",
+    "[13:37] <geniusbaqer> !kitlist ",
+    "[13:37] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[13:37] <geniusbaqer> +kit pvp ",
+    "[13:37] [8b8t] >> Teleporting to home 0...",
+    "[13:37] [8b8t] >> Teleporting to home 1...",
+    "[13:37] geniusbaqer is ignoring you",
+    "[13:37] <UnBot> >This bot is brought to you by UNHORIZON ",
+    "[13:37] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[13:37] geniusbaqer is ignoring you",
+    "[13:37] [8b8t] >> Request sent to geniusbaqer",
+    "[13:37] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3044,7 +3044,7 @@
     "ItzDuckyYT25": 6,
     "1kJ": 4,
     "admjj": 5,
-    "geniusbaqer": 5,
+    "geniusbaqer": 6,
     "SemiDen": 9,
     "chuadry": 5,
     ".TandemTundra902": 2,
@@ -3184,7 +3184,7 @@
   "kitStats": {
     "build": 1547,
     "survival": 6160,
-    "pvp": 7729,
+    "pvp": 7730,
     "dupe": 1975,
     "tools": 1815,
     "stash": 1052,
