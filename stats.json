@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:44:10 12/1/2026",
+  "lastUpdated": "20:44:40 12/1/2026",
   "totalKits": 85270,
   "todayKits": 27,
-  "onlineCount": 26,
-  "peakPlayers": 26,
-  "tps": "5.0",
-  "ping": 249,
+  "onlineCount": 28,
+  "peakPlayers": 28,
+  "tps": "3.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7731
+      "count": 7732
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:42] [8b8t] >> The TPA request you sent to UNHORIZON was successfully canceled.",
-    "[13:42] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
-    "[13:42] <rastafaricraft> !kit ",
-    "[13:42] To rastafaricraft: Hello rastafaricraft!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:42] <rastafaricraft> !kit Tools ",
-    "[13:42] [8b8t] >> Teleporting to home 0...",
-    "[13:42] [8b8t] >> Teleporting to home 1...",
-    "[13:42] To rastafaricraft: Your kit (Tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:42] [BOT] <0_HienBot> >Hello dragonkit! ",
     "[13:42] To rastafaricraft: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:42] [8b8t] >> Request sent to rastafaricraft",
     "[13:42] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[13:44] <SHAD0W_120> ty ",
     "[13:44] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[13:44] <geniusbaqer> np ",
-    "[13:44] catalin3214 has made the advancement [Diamonds!]"
+    "[13:44] catalin3214 has made the advancement [Diamonds!]",
+    "[13:44] <geniusbaqer> theres some other trial chamber stuff in that box btw ",
+    "[13:44] <SHAD0W_120> ok# ",
+    "[13:44] <UNHORIZON> !kit mystic ",
+    "[13:44] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[13:44] [8b8t] >> Teleporting to home 0...",
+    "[13:44] [8b8t] >> Teleporting to home 1...",
+    "[13:44] To UNHORIZON: Kit \"mystic\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[13:44] To UNHORIZON: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:44] [8b8t] >> Request sent to UNHORIZON"
   ],
   "userStats": {
     "76756": 38,
@@ -156,7 +156,7 @@
     "Live_Leak": 2,
     "Skullziy": 10,
     "ReljKo7": 6,
-    "UNHORIZON": 108,
+    "UNHORIZON": 109,
     "KUTYA123676": 1,
     "The_Bot_father": 10,
     "Vladmir25": 7,
@@ -3184,7 +3184,7 @@
   "kitStats": {
     "build": 1547,
     "survival": 6162,
-    "pvp": 7731,
+    "pvp": 7732,
     "dupe": 1976,
     "tools": 1815,
     "stash": 1052,
