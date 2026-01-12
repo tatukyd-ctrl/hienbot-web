@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:35:24 12/1/2026",
-  "totalKits": 85343,
-  "todayKits": 21,
+  "lastUpdated": "22:35:37 12/1/2026",
+  "totalKits": 85344,
+  "todayKits": 22,
   "onlineCount": 27,
   "peakPlayers": 32,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 250,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:34] To W18: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:34] [8b8t] >> You have killed yourself!",
-    "[15:34] [8b8t] >> The TPA request you sent to ElTomatitoFresco was successfully canceled.",
-    "[15:34] <ElTomatitoFresco> !kit ilegal ",
-    "[15:34] To ElTomatitoFresco: You're on cooldown, try again in 53 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:34] <DrVenial31> !kit ",
-    "[15:34] To DrVenial31: Hello DrVenial31!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[15:34] [Ultra] <.htp1p0.> PVP EN EL HOTSPOT ",
-    "[15:34] [BOT] <0_HienBot> >Hello Kurtz! ",
     "[15:34] <DrVenial31> !kit dupe ",
     "[15:34] [8b8t] >> Teleporting to home 0...",
     "[15:34] [8b8t] >> Teleporting to home 7...",
@@ -101,7 +91,17 @@
     "[15:35] [8b8t] >> Request sent to islakdonavcizi31",
     "[15:35] W18 has completed the challenge [Cover Me in Debris]",
     "[15:35] [8b8t] >> Teleporting...",
-    "[15:35] islakdonavcizi31 Whispers: penci zorno"
+    "[15:35] islakdonavcizi31 Whispers: penci zorno",
+    "[15:35] [8b8t] >> You have killed yourself!",
+    "[15:35] <ElTomatitoFresco> !kit ilegal ",
+    "[15:35] [8b8t] >> Teleporting to home 0...",
+    "[15:35] [8b8t] >> Home 2 was not found",
+    "[15:35] To ElTomatitoFresco: Kit \"ilegal\" not found! Giving you (raid) instead! dsc.gg/hienbot",
+    "[15:35] To ElTomatitoFresco: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:35] [8b8t] >> Request sent to ElTomatitoFresco",
+    "[15:35] [8b8t] >> Teleporting...",
+    "[15:35] W18 has made the advancement [Stone Age]",
+    "[15:35] [BOT] <0_HienBot> >Try !кιт survival "
   ],
   "userStats": {
     "76756": 38,
@@ -3186,7 +3186,7 @@
     "Gshou": 3,
     "dragonkit3": 1,
     "DrVenial31": 5,
-    "ElTomatitoFresco": 4,
+    "ElTomatitoFresco": 5,
     "islakdonavcizi31": 1
   },
   "kitStats": {
@@ -3196,7 +3196,7 @@
     "dupe": 1983,
     "tools": 1815,
     "stash": 1057,
-    "raid": 1244,
+    "raid": 1245,
     "wood": 521,
     "exp": 718,
     "dye": 318,
