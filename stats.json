@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:29:24 12/1/2026",
+  "lastUpdated": "18:29:42 12/1/2026",
   "totalKits": 85207,
   "todayKits": 11,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 23,
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 265,
   "topUsers": [
     {
@@ -68,16 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1546
+      "count": 1547
     }
   ],
   "chatLog": [
-    "[11:28] [8b8t] >> Teleporting to home 0...",
-    "[11:28] [8b8t] >> Teleporting to home 7...",
-    "[11:28] To SHAD0W_120: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:28] To SHAD0W_120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:28] [8b8t] >> Request sent to SHAD0W_120",
-    "[11:28] <.RASPBERRY0V0> hey hienhow do I get kits ",
     "[11:28] [8b8t] >> Teleporting...",
     "[11:28] <godpvpho42> !kit illegal ",
     "[11:28] To godpvpho42: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[11:29] [8b8t] >> Request sent to godpvpho42",
     "[11:29] [8b8t] >> Teleporting...",
     "[11:29] <.RASPBERRY0V0> why doesn't the command not work ",
-    "[11:29] <SHAD0W_120> yes "
+    "[11:29] <SHAD0W_120> yes ",
+    "[11:29] [8b8t] >> You have killed yourself!",
+    "[11:29] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[11:29] <SHAD0W_120> what comand ",
+    "[11:29] <SHAD0W_120> !kit ",
+    "[11:29] To SHAD0W_120: Hello SHAD0W_120!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[11:29] <.RASPBERRY0V0> !kit redstome "
   ],
   "userStats": {
     "76756": 38,
@@ -3177,11 +3177,11 @@
     "Benet": 2,
     "8_oz": 3,
     "SpreenDMC.": 1,
-    ".RASPBERRY0V0": 3,
+    ".RASPBERRY0V0": 4,
     "BigBear": 1
   },
   "kitStats": {
-    "build": 1546,
+    "build": 1547,
     "survival": 6155,
     "pvp": 7712,
     "dupe": 1963,
