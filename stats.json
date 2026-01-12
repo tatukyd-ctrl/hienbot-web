@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:55:52 13/1/2026",
+  "lastUpdated": "05:56:12 13/1/2026",
   "totalKits": 85666,
   "todayKits": 344,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 53,
-  "tps": "1.0",
-  "ping": 257,
+  "tps": "3.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2045
+      "count": 2046
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:54] To orzc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:54] [8b8t] >> Request sent to orzc",
-    "[22:54] [Ultra] <focoloa> pero no tendria sentido ",
-    "[22:54] <.FanDeJesus5641> !dupe ",
-    "[22:54] [8b8t] >> Teleporting...",
-    "[22:54] <ignacio2456> y con que ce supea ",
-    "[22:54] [8b8t] >> You have killed yourself!",
     "[22:54] <elXDconLori> con /dupe ",
     "[22:55] <.FanDeJesus5641> mas falso ",
     "[22:55] <ignacio2456> no me sirve ",
@@ -101,7 +94,14 @@
     "[22:55] To .FanDeJesus5641: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
     "[22:55] [8b8t] >> Teleporting...",
     "[22:55] <.FanDeJesus5641> !kit illegal ",
-    "[22:55] To .FanDeJesus5641: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot"
+    "[22:55] To .FanDeJesus5641: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
+    "[22:55] [8b8t] >> You have killed yourself!",
+    "[22:55] <orzc> !kit dupe ",
+    "[22:55] [8b8t] >> Teleporting to home 0...",
+    "[22:55] <.FanDeJesus5641> !kit illegal ",
+    "[22:55] To .FanDeJesus5641: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
+    "[22:56] To orzc: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:56] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars "
   ],
   "userStats": {
     "76756": 38,
@@ -3215,14 +3215,14 @@
     "NS_FRIKI": 2,
     ".acesan4514": 4,
     "ignacio2456": 10,
-    "orzc": 7,
+    "orzc": 8,
     "M4R3XX": 1
   },
   "kitStats": {
     "build": 1549,
     "survival": 6198,
     "pvp": 7824,
-    "dupe": 2045,
+    "dupe": 2046,
     "tools": 1822,
     "stash": 1071,
     "raid": 1254,
