@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:16:35 12/1/2026",
+  "lastUpdated": "09:17:05 12/1/2026",
   "totalKits": 85189,
   "todayKits": 0,
-  "onlineCount": 29,
+  "onlineCount": 31,
   "peakPlayers": 61,
-  "tps": "9.0",
+  "tps": "5.0",
   "ping": 264,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6135
+      "count": 6136
     },
     {
       "name": "dupe",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:12] To .FanDeJesus5641: Estas en espera, intenta en 21 segundos! Unete a dsc.gg/hienbot",
-    "[02:13] <.FanDeJesus5641> !kit survival ",
-    "[02:13] To .FanDeJesus5641: Estas en espera, intenta en 6 segundos! Unete a dsc.gg/hienbot",
-    "[02:13] <.FanDeJesus5641> !kit survival ",
-    "[02:13] [8b8t] >> Teleporting to home 0...",
     "[02:13] [8b8t] >> Teleporting to home 1...",
     "[02:13] To .FanDeJesus5641: Tu kit (survival) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
     "[02:13] To .FanDeJesus5641: Intenta de nuevo dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[02:16] <.FanDeJesus5641> !kit survival ",
     "[02:16] To .FanDeJesus5641: Estas en espera, intenta en 13 segundos! Unete a dsc.gg/hienbot",
     "[02:16] <.FanDeJesus5641> -kit survival ",
-    "[02:16] To .FanDeJesus5641: Estas en espera, intenta en 4 segundos! Unete a dsc.gg/hienbot"
+    "[02:16] To .FanDeJesus5641: Estas en espera, intenta en 4 segundos! Unete a dsc.gg/hienbot",
+    "[02:16] <.FanDeJesus5641> -kit survival ",
+    "[02:16] [8b8t] >> Teleporting to home 0...",
+    "[02:16] [8b8t] >> Teleporting to home 1...",
+    "[02:16] To .FanDeJesus5641: Tu kit (survival) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[02:16] [BOT] <0_HienBot> >Hello Zems! "
   ],
   "userStats": {
     "76756": 38,
@@ -2477,7 +2477,7 @@
     "Opalanie": 2,
     "kendricklover132": 1,
     "3b3tplayer": 4,
-    ".FanDeJesus5641": 90,
+    ".FanDeJesus5641": 91,
     "pierouwu6565": 1,
     ".Shed5627": 4,
     "NotNinja_": 13,
@@ -3173,7 +3173,7 @@
   },
   "kitStats": {
     "build": 1546,
-    "survival": 6135,
+    "survival": 6136,
     "pvp": 7681,
     "dupe": 1954,
     "tools": 1808,
