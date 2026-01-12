@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:23:27 13/1/2026",
+  "lastUpdated": "05:23:42 13/1/2026",
   "totalKits": 85631,
   "todayKits": 309,
-  "onlineCount": 32,
+  "onlineCount": 34,
   "peakPlayers": 53,
-  "tps": "0.0",
+  "tps": "5.0",
   "ping": 256,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2037
+      "count": 2038
     },
     {
       "name": "tools",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:22] [8b8t] >> Home 2 was not found",
-    "[22:22] To _TATl_: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:22] To _TATl_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:22] [8b8t] >> Request sent to _TATl_",
-    "[22:22] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[22:22] <Aeriak64HD> !kit elytra ",
-    "[22:22] To Aeriak64HD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:22] [8b8t] >> Teleporting...",
-    "[22:22] <Aeriak64HD> !kit elytra ",
-    "[22:22] To Aeriak64HD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:22] [8b8t] >> You have killed yourself!",
-    "[22:22] <Aeriak64HD> !kit elytra ",
-    "[22:22] [8b8t] >> Teleporting to home 0...",
-    "[22:22] [8b8t] >> Teleporting to home 6...",
     "[22:22] To Aeriak64HD: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:23] To Aeriak64HD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:23] [8b8t] >> Request sent to Aeriak64HD",
@@ -101,7 +87,21 @@
     "[22:23] To islakdonavcizi31: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:23] [8b8t] >> Request sent to islakdonavcizi31",
     "[22:23] [8b8t] >> Teleporting...",
-    "[22:23] <ignacio2456> !KITS "
+    "[22:23] <ignacio2456> !KITS ",
+    "[22:23] [8b8t] >> You have killed yourself!",
+    "[22:23] <ignacio2456> !kit ",
+    "[22:23] _TATl_ has completed the challenge [Serious Dedication]",
+    "[22:23] To ignacio2456: Hello ignacio2456!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:23] <.acesan4514> !kit illegal ",
+    "[22:23] [8b8t] >> Teleporting to home 0...",
+    "[22:23] [8b8t] >> Teleporting to home 7...",
+    "[22:23] To .acesan4514: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:23] <Aeriak64HD> 卍 ",
+    "[22:23] To .acesan4514: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:23] <Aeriak64HD> !kit 卍 ",
+    "[22:23] To Aeriak64HD: Hello Aeriak64HD!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:23] [8b8t] >> Request sent to .acesan4514",
+    "[22:23] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3212,13 +3212,14 @@
     "pepe69ff": 1,
     "Theoad92025": 1,
     "matiasbbya1234": 2,
-    "NS_FRIKI": 2
+    "NS_FRIKI": 2,
+    ".acesan4514": 1
   },
   "kitStats": {
     "build": 1549,
     "survival": 6193,
     "pvp": 7816,
-    "dupe": 2037,
+    "dupe": 2038,
     "tools": 1820,
     "stash": 1069,
     "raid": 1253,
