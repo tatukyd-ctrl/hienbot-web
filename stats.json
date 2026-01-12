@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:15:29 13/1/2026",
+  "lastUpdated": "05:15:42 13/1/2026",
   "totalKits": 85626,
   "todayKits": 304,
   "onlineCount": 30,
   "peakPlayers": 53,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 256,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6188
+      "count": 6189
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:14] <matiasbbya1234> hay un kid que venga con coetes? ",
-    "[22:14] <Doraemon073> hoy si va aprovechar ",
-    "[22:14] [Ultra] <focoloa> oeee si te dije una manera fácil del burro ",
-    "[22:14] <Doraemon073> Na es joda ",
-    "[22:14] [XMAS2025] <kendricklover132> Doraemon073 skill issue ",
-    "[22:14] <islakdonavcizi31> Qkit tools ",
-    "[22:14] [XMAS2025] <kendricklover132> focoloa pwro ",
-    "[22:14] [BOT] <0_HienBot> >Welcome to 8b8t, Espitia_xd1! ",
     "[22:14] <.Pichuckrak> !kit ",
     "[22:14] To .Pichuckrak: Hello .Pichuckrak!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[22:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +93,15 @@
     "[22:15] [8b8t] >> Request sent to matiasbbya1234",
     "[22:15] [Ultra] <focoloa> pwro q ",
     "[22:15] [8b8t] >> Teleporting...",
-    "[22:15] [XMAS2025] <kendricklover132> ya q "
+    "[22:15] [XMAS2025] <kendricklover132> ya q ",
+    "[22:15] <islakdonavcizi31> !kit tools ",
+    "[22:15] To islakdonavcizi31: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:15] [8b8t] >> You have killed yourself!",
+    "[22:15] <NS_FRIKI> !kit tools ",
+    "[22:15] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[22:15] [8b8t] >> Teleporting to home 0...",
+    "[22:15] [8b8t] >> Teleporting to home 1...",
+    "[22:15] To NS_FRIKI: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3211,11 +3211,12 @@
     ".Pichuckrak": 5,
     "pepe69ff": 1,
     "Theoad92025": 1,
-    "matiasbbya1234": 1
+    "matiasbbya1234": 1,
+    "NS_FRIKI": 1
   },
   "kitStats": {
     "build": 1549,
-    "survival": 6188,
+    "survival": 6189,
     "pvp": 7816,
     "dupe": 2037,
     "tools": 1820,
