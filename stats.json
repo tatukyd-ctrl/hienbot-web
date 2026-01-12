@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:50:42 13/1/2026",
+  "lastUpdated": "05:51:12 13/1/2026",
   "totalKits": 85658,
   "todayKits": 336,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 53,
-  "tps": "3.0",
-  "ping": 253,
+  "tps": "1.0",
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2042
+      "count": 2043
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:49] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[22:49] <orzc> !kit quartz ",
-    "[22:49] To orzc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:49] <ignacio2456> !kit dupe ",
-    "[22:49] To ignacio2456: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:49] <matiasbbya1234> !bestping ",
-    "[22:49] To matiasbbya1234: Espitia_xd1 with 0 ms. Dont forget to join dsc.gg/hienbot",
-    "[22:50] [BOT] <0_HienBot> >Type !discord ",
-    "[22:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:50] [8b8t] >> You have killed yourself!",
     "[22:50] <M4R3XX> !kit ",
     "[22:50] [8b8t] >> The TPA request you sent to orzc was successfully canceled.",
     "[22:50] <ignacio2456> !kit dupe ",
@@ -101,7 +91,17 @@
     "[22:50] [8b8t] >> You have killed yourself!",
     "[22:50] <elXDconLori> pasa un shulker q dropie pls ",
     "[22:50] <.LEON50758> ? ",
-    "[22:50] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ "
+    "[22:50] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[22:50] <Lucaluck201> !pingh ",
+    "[22:50] To Lucaluck201: Your ping is: 242 ms Dont forget to join dsc.gg/hienbot",
+    "[22:50] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[22:50] <Lucaluck201> !ping ",
+    "[22:50] To Lucaluck201: Your ping is: 239 ms Dont forget to join dsc.gg/hienbot",
+    "[22:50] <MasterWo> !pinga ",
+    "[22:50] To MasterWo: Your ping is: 169 ms Dont forget to join dsc.gg/hienbot",
+    "[22:51] <MasterWo> go ",
+    "[22:51] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[22:51] <M4R3XX> !kit dupe "
   ],
   "userStats": {
     "76756": 38,
@@ -3215,13 +3215,14 @@
     "NS_FRIKI": 2,
     ".acesan4514": 4,
     "ignacio2456": 7,
-    "orzc": 4
+    "orzc": 4,
+    "M4R3XX": 1
   },
   "kitStats": {
     "build": 1549,
     "survival": 6197,
     "pvp": 7824,
-    "dupe": 2042,
+    "dupe": 2043,
     "tools": 1822,
     "stash": 1071,
     "raid": 1253,
