@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:51:10 12/1/2026",
-  "totalKits": 85273,
-  "todayKits": 30,
-  "onlineCount": 29,
+  "lastUpdated": "20:51:36 12/1/2026",
+  "totalKits": 85274,
+  "todayKits": 31,
+  "onlineCount": 28,
   "peakPlayers": 31,
-  "tps": "8.0",
+  "tps": "4.0",
   "ping": 247,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7733
+      "count": 7734
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:49] You are already connected to this server!",
-    "[13:49] [8b8t] >> You have killed yourself!",
-    "[13:49] <.MC_meester_Lars> !Kit mystic ",
-    "[13:49] To .MC_meester_Lars: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:49] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[13:49] <SHAD0W_120> !kit windcharges ",
-    "[13:49] To SHAD0W_120: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:49] To peacebringer12: Try again Join dsc.gg/hienbot to report the error.",
-    "[13:49] <.MC_meester_Lars> !Kit mystic ",
-    "[13:49] [8b8t] >> Teleporting to home 0...",
     "[13:49] [8b8t] >> Home 2 was not found",
     "[13:49] To .MC_meester_Lars: Kit \"mystic\" not found! Giving you (stash) instead! dsc.gg/hienbot",
     "[13:49] To .MC_meester_Lars: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +91,17 @@
     "[13:50] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:50] <UnBot> >This bot is brought to you by UNHORIZON ",
     "[13:50] <MultiCraftero> with ilegal kit ",
-    "[13:51] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
+    "[13:51] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[13:51] <UNHORIZON> nga do i look like i need illegals? ",
+    "[13:51] <peacebringer12> !kit pvp ",
+    "[13:51] [8b8t] >> Teleporting to home 0...",
+    "[13:51] [8b8t] >> Teleporting to home 1...",
+    "[13:51] To peacebringer12: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:51] <UnBot> > ",
+    "[13:51] To peacebringer12: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:51] [8b8t] >> Request sent to peacebringer12",
+    "[13:51] [BOT] <0_HienBot> >Welcome to 8b8t, vinarolss! ",
+    "[13:51] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -818,7 +818,7 @@
     "Abols152362": 91,
     "darkee_67589": 77,
     "PyrosImperator": 4,
-    "peacebringer12": 123,
+    "peacebringer12": 124,
     "PixySprawl": 5,
     "emin63emin": 3,
     "Coolieisgamerisp": 1,
@@ -3184,7 +3184,7 @@
   "kitStats": {
     "build": 1547,
     "survival": 6162,
-    "pvp": 7733,
+    "pvp": 7734,
     "dupe": 1977,
     "tools": 1815,
     "stash": 1053,
