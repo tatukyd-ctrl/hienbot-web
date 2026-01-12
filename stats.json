@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:57:22 12/1/2026",
+  "lastUpdated": "20:57:40 12/1/2026",
   "totalKits": 85279,
   "todayKits": 36,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 33,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 248,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:56] <catalin3214> !kit ",
-    "[13:56] <itz_laeeq> h ",
-    "[13:56] To catalin3214: Hello catalin3214!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:56] <geniusbaqer> i ",
-    "[13:56] <itz_laeeq> a ",
-    "[13:56] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[13:56] <catalin3214> !kit dupe ",
-    "[13:56] [8b8t] >> Teleporting to home 0...",
-    "[13:56] [8b8t] >> Teleporting to home 7...",
     "[13:56] To catalin3214: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:56] To catalin3214: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:56] [8b8t] >> Request sent to catalin3214",
@@ -101,7 +92,16 @@
     "[13:57] [8b8t] >> Teleporting...",
     "[13:57] <itz_laeeq> lagggggggg ",
     "[13:57] <UGhvc2hNZTE3MTA> !kit ",
-    "[13:57] To UGhvc2hNZTE3MTA: Hello UGhvc2hNZTE3MTA!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[13:57] To UGhvc2hNZTE3MTA: Hello UGhvc2hNZTE3MTA!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:57] [8b8t] >> You have killed yourself!",
+    "[13:57] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
+    "[13:57] <UGhvc2hNZTE3MTA> !kit escape ",
+    "[13:57] [8b8t] >> Teleporting to home 0...",
+    "[13:57] [8b8t] >> Teleporting to home 3...",
+    "[13:57] [BOT] <0_HienBot> >Hello UnBot! ",
+    "[13:57] To UGhvc2hNZTE3MTA: Kit \"escape\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
+    "[13:57] To UGhvc2hNZTE3MTA: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:57] [8b8t] >> Request sent to UGhvc2hNZTE3MTA"
   ],
   "userStats": {
     "76756": 38,
@@ -3179,7 +3179,8 @@
     "SpreenDMC.": 1,
     ".RASPBERRY0V0": 4,
     "BigBear": 1,
-    "htp1p0": 3
+    "htp1p0": 3,
+    "UGhvc2hNZTE3MTA": 1
   },
   "kitStats": {
     "build": 1548,
@@ -3193,7 +3194,7 @@
     "exp": 716,
     "dye": 317,
     "wool": 402,
-    "mineral": 564,
+    "mineral": 565,
     "food": 480,
     "redstone": 772,
     "toolbox": 691,
