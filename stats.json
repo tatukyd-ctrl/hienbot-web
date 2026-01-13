@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:38:33 13/1/2026",
+  "lastUpdated": "19:39:03 13/1/2026",
   "totalKits": 86057,
   "todayKits": 34,
   "onlineCount": 17,
   "peakPlayers": 26,
-  "tps": "7.0",
-  "ping": 246,
+  "tps": "8.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1556
+      "count": 1557
     }
   ],
   "chatLog": [
-    "[12:30] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:30] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[12:31] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[12:31] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
-    "[12:31] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[12:32] [BOT] <0_HienBot> >Welcome to 8b8t, .SiC419AoR! ",
-    "[12:32] [BOT] <0_HienBot> >What's up, Khoi_Manh? ",
-    "[12:33] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[12:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:33] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[12:34] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
@@ -101,7 +93,15 @@
     "[12:37] To DrVenial31: Your ping is: 428 ms Dont forget to join dsc.gg/hienbot",
     "[12:37] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:38] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[12:38] <DrVenial31> tpa team "
+    "[12:38] <DrVenial31> tpa team ",
+    "[12:38] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[12:38] <DrVenial31> !kit build ",
+    "[12:38] [8b8t] >> Teleporting to home 0...",
+    "[12:38] [8b8t] >> Home 2 was not found",
+    "[12:38] To DrVenial31: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:38] To DrVenial31: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:38] [8b8t] >> Request sent to DrVenial31",
+    "[12:39] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3185,7 +3185,7 @@
     "Void000": 2,
     "Gshou": 3,
     "dragonkit3": 1,
-    "DrVenial31": 30,
+    "DrVenial31": 31,
     "ElTomatitoFresco": 5,
     "islakdonavcizi31": 30,
     "yusyf_56": 7,
@@ -3252,7 +3252,7 @@
     "Senpaimakda2": 5
   },
   "kitStats": {
-    "build": 1556,
+    "build": 1557,
     "survival": 6225,
     "pvp": 7910,
     "dupe": 2092,
