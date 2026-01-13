@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:21:13 13/1/2026",
+  "lastUpdated": "13:21:43 13/1/2026",
   "totalKits": 85897,
   "todayKits": 176,
   "onlineCount": 22,
   "peakPlayers": 53,
-  "tps": "8.0",
-  "ping": 263,
+  "tps": "3.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7881
+      "count": 7882
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:18] <duongiq16> hi ",
-    "[06:18] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[06:18] <PrnvDevilXD> !kit survival ",
-    "[06:18] [8b8t] >> Teleporting to home 0...",
-    "[06:18] [8b8t] >> Home 2 was not found",
-    "[06:18] To PrnvDevilXD: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:18] To PrnvDevilXD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:18] [8b8t] >> Request sent to PrnvDevilXD",
-    "[06:18] <cuccutbtdi> !kit redstone ",
-    "[06:18] To cuccutbtdi: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[06:18] [8b8t] >> Teleporting...",
     "[06:18] [8b8t] >> You have killed yourself!",
     "[06:19] Eden_01655 has made the advancement [Acquire Hardware]",
@@ -101,7 +91,17 @@
     "[06:20] [8b8t] >> You have killed yourself!",
     "[06:20] <duongiq16> anyone want a kit? ",
     "[06:21] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[06:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[06:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[06:21] <cuccutbtdi> !kit pvp ",
+    "[06:21] <duongiq16> anyone want a kit? ",
+    "[06:21] [8b8t] >> Teleporting to home 0...",
+    "[06:21] [8b8t] >> Teleporting to home 1...",
+    "[06:21] To cuccutbtdi: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:21] <PrnvDevilXD> !kit firework ",
+    "[06:21] To PrnvDevilXD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:21] To cuccutbtdi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:21] [8b8t] >> Request sent to cuccutbtdi",
+    "[06:21] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3107,7 +3107,7 @@
     "BeThaMob": 5,
     "ImBaldz": 4,
     "TheRealSquidward": 3,
-    "cuccutbtdi": 4,
+    "cuccutbtdi": 5,
     "pratik55801": 1,
     "arno": 6,
     "PRO1567565": 1,
@@ -3240,7 +3240,7 @@
   "kitStats": {
     "build": 1553,
     "survival": 6213,
-    "pvp": 7881,
+    "pvp": 7882,
     "dupe": 2081,
     "tools": 1827,
     "stash": 1084,
