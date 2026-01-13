@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:38:43 13/1/2026",
-  "totalKits": 85849,
-  "todayKits": 128,
-  "onlineCount": 21,
+  "lastUpdated": "11:39:03 13/1/2026",
+  "totalKits": 85850,
+  "todayKits": 129,
+  "onlineCount": 22,
   "peakPlayers": 53,
-  "tps": "4.0",
+  "tps": "7.0",
   "ping": 263,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:35] <Victua7397> alguien sabe pq no hay ítems ilegales que paso? ",
-    "[04:35] [8b8t] >> You have killed yourself!",
-    "[04:35] [8b8t] >> The TPA request you sent to beary__ was successfully canceled.",
-    "[04:35] <beary__> !kit raid ",
-    "[04:35] To beary__: You're on cooldown, try again in 54 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:36] <El_Ferias> alguien pvp? ",
-    "[04:36] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[04:36] [BOT] <0_HienBot> >What's up, Zems? ",
     "[04:36] <beary__> !kit raid ",
     "[04:36] To beary__: You're on cooldown, try again in 7 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:36] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
@@ -101,7 +93,15 @@
     "[04:38] [8b8t] >> The TPA request you sent to beary__ was successfully canceled.",
     "[04:38] <beary__> !kit raid ",
     "[04:38] To beary__: You're on cooldown, try again in 55 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:38] [8b8t] >> El_Ferias would like to teleport to you /tpayes USERNAME /tpano USERNAME"
+    "[04:38] [8b8t] >> El_Ferias would like to teleport to you /tpayes USERNAME /tpano USERNAME",
+    "[04:38] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[04:38] <El_Ferias> !kit raid ",
+    "[04:38] [8b8t] >> Teleporting to home 0...",
+    "[04:38] [8b8t] >> Home 2 was not found",
+    "[04:38] To El_Ferias: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:38] To El_Ferias: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:38] [8b8t] >> Request sent to El_Ferias",
+    "[04:38] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3231,7 +3231,8 @@
     "Mr_Manznin": 1,
     "Slekzeta": 1,
     "SnowFl3a": 1,
-    "InitialPark983": 1
+    "InitialPark983": 1,
+    "El_Ferias": 1
   },
   "kitStats": {
     "build": 1552,
@@ -3240,7 +3241,7 @@
     "dupe": 2069,
     "tools": 1827,
     "stash": 1083,
-    "raid": 1270,
+    "raid": 1271,
     "wood": 529,
     "exp": 730,
     "dye": 320,
