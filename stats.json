@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:06:13 13/1/2026",
+  "lastUpdated": "11:06:43 13/1/2026",
   "totalKits": 85836,
   "todayKits": 115,
   "onlineCount": 21,
   "peakPlayers": 53,
-  "tps": "3.0",
+  "tps": "6.0",
   "ping": 261,
   "topUsers": [
     {
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:01] [8b8t] >> Teleporting to home 7...",
-    "[04:01] To MultiCraftero: Your kit (Illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:01] To MultiCraftero: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:01] [8b8t] >> Request sent to MultiCraftero",
     "[04:01] [8b8t] >> Teleporting...",
     "[04:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[04:01] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
@@ -101,7 +97,11 @@
     "[04:05] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[04:05] MilangaOxi has made the advancement [Withering Heights]",
     "[04:05] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[04:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[04:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[04:06] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[04:06] <KionYhamma> pasame el tp ",
+    "[04:06] <MultiCraftero> ok ",
+    "[04:06] <Slekzeta> !kit survival "
   ],
   "userStats": {
     "76756": 38,
@@ -3228,7 +3228,8 @@
     "2328jheremy2": 8,
     "VolksWagenJetta_": 11,
     "donzx11": 3,
-    "Mr_Manznin": 1
+    "Mr_Manznin": 1,
+    "Slekzeta": 1
   },
   "kitStats": {
     "build": 1552,
@@ -3255,7 +3256,7 @@
     "ocean": 144,
     "concrete": 367,
     "glass": 306,
-    "gap": 166,
+    "gap": 167,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
