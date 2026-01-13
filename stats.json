@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:11:54 13/1/2026",
+  "lastUpdated": "16:12:13 13/1/2026",
   "totalKits": 85960,
   "todayKits": 239,
-  "onlineCount": 15,
+  "onlineCount": 14,
   "peakPlayers": 53,
-  "tps": "19.0",
-  "ping": 246,
+  "tps": "7.0",
+  "ping": 268,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7895
+      "count": 7896
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:10] To DeadlyNyxian: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:10] [8b8t] >> Teleporting...",
-    "[09:10] <DeadlyNyxian> !kit builf ",
-    "[09:10] To DeadlyNyxian: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:10] [8b8t] >> You have killed yourself!",
-    "[09:10] <DeadlyNyxian> !kit build ",
-    "[09:10] [8b8t] >> Teleporting to home 0...",
     "[09:10] [8b8t] >> Teleporting to home 6...",
     "[09:10] To DeadlyNyxian: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[09:10] <brojustgame> !kit ",
@@ -101,7 +94,14 @@
     "[09:11] To brojustgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:11] [8b8t] >> Request sent to brojustgame",
     "[09:11] [8b8t] >> Teleporting...",
-    "[09:11] [BOT] <0_HienBot> >Use /kill to kill yourself! "
+    "[09:11] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[09:11] [8b8t] >> You have killed yourself!",
+    "[09:12] <Shroom> !kit Spear ",
+    "[09:12] [8b8t] >> Teleporting to home 0...",
+    "[09:12] [8b8t] >> Teleporting to home 1...",
+    "[09:12] To Shroom: Your kit (Spear) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:12] To Shroom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:12] [8b8t] >> Request sent to Shroom"
   ],
   "userStats": {
     "76756": 38,
@@ -1376,7 +1376,7 @@
     "kifl1ke": 92,
     "abrajam26": 7,
     "WESTT": 6,
-    "Shroom": 17,
+    "Shroom": 18,
     "zileMecka": 1,
     "Kuhaes9000HD": 3,
     "meow_akBke_20": 6,
@@ -3246,7 +3246,7 @@
   "kitStats": {
     "build": 1554,
     "survival": 6216,
-    "pvp": 7895,
+    "pvp": 7896,
     "dupe": 2087,
     "tools": 1828,
     "stash": 1086,
