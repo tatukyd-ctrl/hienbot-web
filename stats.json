@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:18:52 14/1/2026",
+  "lastUpdated": "03:19:03 14/1/2026",
   "totalKits": 86457,
   "todayKits": 434,
   "onlineCount": 39,
   "peakPlayers": 50,
-  "tps": "1.0",
+  "tps": "4.0",
   "ping": 261,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8005
+      "count": 8006
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:18] <elxit> !kit end ",
-    "[20:18] To elxit: You're on cooldown, try again in 31 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:18] <zokarito> gg what fkn retard ",
-    "[20:18] <Doraemon073> i am doxing you ",
-    "[20:18] <baute> !kit totems ",
-    "[20:18] [8b8t] >> Teleporting to home 0...",
-    "[20:18] [8b8t] >> Teleporting to home 1...",
-    "[20:18] <matiasbbya1234> !kit wood ",
     "[20:18] To baute: Kit \"totems\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
     "[20:18] To matiasbbya1234: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +93,15 @@
     "[20:18] [8b8t] >> Request sent to matiasbbya1234",
     "[20:18] [8b8t] >> Teleporting...",
     "[20:18] <SHAD0W_120> ASXN can we plz mace pvp ",
-    "[20:18] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[20:18] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[20:18] [8b8t] >> You have killed yourself!",
+    "[20:18] botchaosonix Whispers: !kit pvp",
+    "[20:18] [8b8t] >> Teleporting to home 0...",
+    "[20:18] [8b8t] >> Teleporting to home 1...",
+    "[20:18] To botchaosonix: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:19] To botchaosonix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:19] <zokarito> te dare bases ",
+    "[20:19] [8b8t] >> Request sent to botchaosonix"
   ],
   "userStats": {
     "76756": 38,
@@ -2365,7 +2365,7 @@
     "UnknownBoy_YT": 2,
     "Cadens": 14,
     "1cey": 1,
-    "botchaosonix": 4,
+    "botchaosonix": 5,
     "WxpzFrags": 41,
     "Lazyfacii": 12,
     ".PQueen1221": 6,
@@ -3286,7 +3286,7 @@
   "kitStats": {
     "build": 1576,
     "survival": 6267,
-    "pvp": 8005,
+    "pvp": 8006,
     "dupe": 2145,
     "tools": 1864,
     "stash": 1104,
