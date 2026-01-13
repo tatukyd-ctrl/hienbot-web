@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:33:03 13/1/2026",
-  "totalKits": 86124,
-  "todayKits": 101,
-  "onlineCount": 21,
+  "lastUpdated": "21:33:15 13/1/2026",
+  "totalKits": 86125,
+  "todayKits": 102,
+  "onlineCount": 22,
   "peakPlayers": 29,
   "tps": "6.0",
   "ping": 248,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7927
+      "count": 7928
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:29] <Senpao> !kill ",
-    "[14:29] <1rubenn> !bestping ",
-    "[14:29] To 1rubenn: TulagrandBot with 0 ms. Dont forget to join dsc.gg/hienbot",
-    "[14:29] <Senpao> !bestping ",
-    "[14:29] To Senpao: TulagrandBot with 0 ms. Dont forget to join dsc.gg/hienbot",
-    "[14:29] <.FadingLight9888> Holy lag ",
-    "[14:29] [SE] <dragonkit> laggy ",
-    "[14:29] <1rubenn> !kit ",
     "[14:29] To 1rubenn: Hello 1rubenn!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[14:29] [8b8t] >> Please do not spam.",
     "[14:29] <Senpao> someone give me kit plz any1 team? ",
@@ -101,7 +93,15 @@
     "[14:31] [SE] <dragonkit> lol its in the tree ",
     "[14:31] <1rubenn> italian? ",
     "[14:32] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[14:32] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
+    "[14:32] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[14:33] [SE] <dragonkit> !kit totem ",
+    "[14:33] [8b8t] >> Teleporting to home 0...",
+    "[14:33] [8b8t] >> Teleporting to home 1...",
+    "[14:33] To dragonkit: Your kit (totem) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:33] To dragonkit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:33] [8b8t] >> Request sent to dragonkit",
+    "[14:33] [8b8t] >> Teleporting...",
+    "[14:33] [BOT] <0_HienBot> >Bot created by Hien2309. "
   ],
   "userStats": {
     "76756": 38,
@@ -296,7 +296,7 @@
     "elproplayerxddd": 51,
     "brunoxdxdurhj": 2,
     "Gorka772": 2,
-    "dragonkit": 57,
+    "dragonkit": 58,
     "JUSTLIKED": 20,
     "DaFuqBoomTaken": 1,
     "Xoladliac": 93,
@@ -3260,7 +3260,7 @@
   "kitStats": {
     "build": 1558,
     "survival": 6227,
-    "pvp": 7927,
+    "pvp": 7928,
     "dupe": 2096,
     "tools": 1843,
     "stash": 1091,
