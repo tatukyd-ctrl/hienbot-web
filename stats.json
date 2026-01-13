@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:09:43 13/1/2026",
+  "lastUpdated": "12:10:13 13/1/2026",
   "totalKits": 85861,
   "todayKits": 140,
-  "onlineCount": 22,
+  "onlineCount": 21,
   "peakPlayers": 53,
-  "tps": "5.0",
+  "tps": "7.0",
   "ping": 263,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:06] <Sunther_> manden tpa ",
-    "[05:07] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[05:07] [8b8t] >> You have killed yourself!",
-    "[05:07] [8b8t] >> The TPA request you sent to Jewishc was successfully canceled.",
-    "[05:07] <Jewishc> !kit pvp ",
-    "[05:07] To Jewishc: You're on cooldown, try again in 58 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:07] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:07] [8b8t] >> Please do not spam.",
     "[05:07] <Jewishc> !kit pvp ",
     "[05:07] To Jewishc: You're on cooldown, try again in 25 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[05:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[05:09] Jewishc has completed the challenge [Cover Me in Debris]",
     "[05:09] Jewishc has reached the goal [Sky's the Limit]",
-    "[05:09] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me "
+    "[05:09] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[05:09] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[05:09] <MilangaOxi> !kit ArmorTrim ",
+    "[05:09] [8b8t] >> Teleporting to home 0...",
+    "[05:09] [8b8t] >> Teleporting to home 3...",
+    "[05:09] To MilangaOxi: Kit \"ArmorTrim\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
+    "[05:09] To MilangaOxi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:09] [8b8t] >> Request sent to MilangaOxi"
   ],
   "userStats": {
     "76756": 38,
@@ -3155,7 +3155,7 @@
     "HughCoolGuy123": 2,
     "SternQuill": 5,
     "Antonhysv": 6,
-    "MilangaOxi": 21,
+    "MilangaOxi": 22,
     "xddddf": 1,
     "RoiyerYTXD": 7,
     "BlackMerit": 2,
@@ -3248,7 +3248,7 @@
     "exp": 730,
     "dye": 320,
     "wool": 414,
-    "mineral": 570,
+    "mineral": 571,
     "food": 484,
     "redstone": 775,
     "toolbox": 713,
