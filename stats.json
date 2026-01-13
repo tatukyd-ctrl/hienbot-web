@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:41:13 13/1/2026",
-  "totalKits": 85875,
-  "todayKits": 154,
+  "lastUpdated": "12:41:32 13/1/2026",
+  "totalKits": 85876,
+  "todayKits": 155,
   "onlineCount": 25,
   "peakPlayers": 53,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 265,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7869
+      "count": 7870
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:38] To Ieatkids_003: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:38] [8b8t] >> Request sent to Ieatkids_003",
-    "[05:38] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[05:38] [8b8t] >> You have killed yourself!",
-    "[05:38] [8b8t] >> The TPA request you sent to Ieatkids_003 was successfully canceled.",
-    "[05:39] <MilangaOxi> !kits ",
-    "[05:39] <MilangaOxi> beh ",
-    "[05:39] <MilangaOxi> !kit ",
     "[05:39] To MilangaOxi: Hello MilangaOxi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:39] <PrnvDevilXD> !kits ",
     "[05:39] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +93,15 @@
     "[05:40] <Blaxn> hola ",
     "[05:40] <Blaxn> hola yosmi ",
     "[05:40] <ItsYoavYT> !kit ",
-    "[05:41] To ItsYoavYT: Hello ItsYoavYT!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[05:41] To ItsYoavYT: Hello ItsYoavYT!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:41] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[05:41] <ItsYoavYT> !kit pvp ",
+    "[05:41] [8b8t] >> Teleporting to home 0...",
+    "[05:41] [8b8t] >> Teleporting to home 1...",
+    "[05:41] To ItsYoavYT: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:41] To ItsYoavYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:41] [8b8t] >> Request sent to ItsYoavYT",
+    "[05:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3233,13 +3233,13 @@
     "SnowFl3a": 1,
     "InitialPark983": 4,
     "El_Ferias": 1,
-    "ItsYoavYT": 7,
+    "ItsYoavYT": 8,
     "Jewishc": 8
   },
   "kitStats": {
     "build": 1552,
     "survival": 6213,
-    "pvp": 7869,
+    "pvp": 7870,
     "dupe": 2076,
     "tools": 1827,
     "stash": 1084,
