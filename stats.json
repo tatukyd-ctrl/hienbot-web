@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:19:48 14/1/2026",
+  "lastUpdated": "00:20:03 14/1/2026",
   "totalKits": 86294,
   "todayKits": 271,
-  "onlineCount": 30,
+  "onlineCount": 32,
   "peakPlayers": 41,
-  "tps": "8.0",
-  "ping": 284,
+  "tps": "4.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7960
+      "count": 7961
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:19] [8b8t] >> Teleporting to home 1...",
-    "[17:19] To XJelox: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:19] <BlackLeaf9284> !kit Survival ",
-    "[17:19] To BlackLeaf9284: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:19] To XJelox: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:19] <Sanhpz_7> !kit dupe ",
-    "[17:19] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[17:19] To Sanhpz_7: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:19] [8b8t] >> Request sent to XJelox",
-    "[17:19] <BlackLeaf9284> !kit Survival ",
     "[17:19] To BlackLeaf9284: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:19] <Samuel_procaso> !kit pvp ",
     "[17:19] To Samuel_procaso: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[17:19] [8b8t] >> Request sent to Sanhpz_7",
     "[17:19] [8b8t] >> Teleporting...",
     "[17:19] <BlackLeaf9284> !kit Survival ",
-    "[17:19] To BlackLeaf9284: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[17:19] To BlackLeaf9284: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[17:19] [8b8t] >> You have killed yourself!",
+    "[17:19] Chat disabled in client options",
+    "[17:19] <ismail9090> gg ",
+    "[17:19] <BlackLeaf9284> !kit ",
+    "[17:19] To BlackLeaf9284: Hello BlackLeaf9284!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:20] <Samuel_procaso> !kit pvp ",
+    "[17:20] [8b8t] >> Teleporting to home 0...",
+    "[17:20] [8b8t] >> Teleporting to home 1...",
+    "[17:20] To Samuel_procaso: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3272,13 +3272,13 @@
     "ismail9090": 3,
     "BlackLeaf9284": 7,
     "Herobrine_sb68": 2,
-    "Samuel_procaso": 1,
+    "Samuel_procaso": 2,
     "XJelox": 1
   },
   "kitStats": {
     "build": 1566,
     "survival": 6256,
-    "pvp": 7960,
+    "pvp": 7961,
     "dupe": 2122,
     "tools": 1854,
     "stash": 1096,
