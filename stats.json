@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:55:43 13/1/2026",
+  "lastUpdated": "12:56:13 13/1/2026",
   "totalKits": 85887,
   "todayKits": 166,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 53,
-  "tps": "0.0",
-  "ping": 260,
+  "tps": "3.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7878
+      "count": 7879
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:53] <MilangaOxi> !kit ",
-    "[05:53] To MilangaOxi: Hello MilangaOxi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:53] ITZvihaangamer has made the advancement [Stone Age]",
-    "[05:53] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[05:53] <MilangaOxi> !kit Build ",
-    "[05:53] [8b8t] >> Teleporting to home 0...",
-    "[05:53] [8b8t] >> Teleporting to home 6...",
-    "[05:53] To MilangaOxi: Your kit (Build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:53] <SpokeIsHere635> accept ",
     "[05:53] To MilangaOxi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:53] [8b8t] >> Request sent to MilangaOxi",
     "[05:53] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[05:55] To ITZvihaangamer: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:55] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[05:55] [8b8t] >> Request sent to ITZvihaangamer",
-    "[05:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[05:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[05:55] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[05:55] [8b8t] >> You have killed yourself!",
+    "[05:55] [8b8t] >> The TPA request you sent to ITZvihaangamer was successfully canceled.",
+    "[05:56] <Ieatkids_003> +kit pvp ",
+    "[05:56] [8b8t] >> Teleporting to home 0...",
+    "[05:56] [8b8t] >> Teleporting to home 1...",
+    "[05:56] To Ieatkids_003: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:56] To Ieatkids_003: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:56] [8b8t] >> Request sent to Ieatkids_003"
   ],
   "userStats": {
     "76756": 38,
@@ -2625,7 +2625,7 @@
     "Matas2K": 2,
     "Failmc": 4,
     "NopFoundBedrock": 2,
-    "Ieatkids_003": 19,
+    "Ieatkids_003": 20,
     "dilan144886": 1,
     "Valanis": 2,
     "faszgeci": 2,
@@ -3240,7 +3240,7 @@
   "kitStats": {
     "build": 1552,
     "survival": 6213,
-    "pvp": 7878,
+    "pvp": 7879,
     "dupe": 2080,
     "tools": 1827,
     "stash": 1084,
