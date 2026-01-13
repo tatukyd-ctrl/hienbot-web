@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:31:03 14/1/2026",
+  "lastUpdated": "04:31:33 14/1/2026",
   "totalKits": 86498,
   "todayKits": 475,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 50,
   "tps": "2.0",
   "ping": 248,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6273
+      "count": 6274
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:29] [8b8t] >> The TPA request you sent to PorotoCosmico was successfully canceled.",
-    "[21:29] <matiasbbya1234> !kit survival ",
-    "[21:29] [8b8t] >> Teleporting to home 0...",
-    "[21:29] [8b8t] >> Teleporting to home 1...",
-    "[21:29] To matiasbbya1234: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:29] To matiasbbya1234: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:29] [8b8t] >> Request sent to matiasbbya1234",
-    "[21:29] [8b8t] >> Teleporting...",
-    "[21:29] [8b8t] >> You have killed yourself!",
-    "[21:29] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[21:29] [Basic] <PorotoCosmico> ah? ",
-    "[21:29] <NEXUS_1> ? ",
     "[21:30] [Basic] <PorotoCosmico> nose ",
     "[21:30] <matiasbbya1234> !kit pvp ",
     "[21:30] To matiasbbya1234: You're on cooldown, try again in 12 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +89,19 @@
     "[21:30] [8b8t] >> Request sent to matiasbbya1234",
     "[21:30] [8b8t] >> Teleporting...",
     "[21:30] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[21:30] [8b8t] >> You have killed yourself!"
+    "[21:30] [8b8t] >> You have killed yourself!",
+    "[21:31] [Basic] <PorotoCosmico> !kit survival ",
+    "[21:31] [8b8t] >> Teleporting to home 0...",
+    "[21:31] [8b8t] >> Teleporting to home 1...",
+    "[21:31] To PorotoCosmico: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:31] To PorotoCosmico: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:31] [8b8t] >> Request sent to PorotoCosmico",
+    "[21:31] <matiasbbya1234> !kit pvp ",
+    "[21:31] To matiasbbya1234: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:31] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[21:31] [Basic] <PorotoCosmico> ESTOY EN OTRO LADO WHOPPER ",
+    "[21:31] <baute> buenas ",
+    "[21:31] <Doraemon073> busco team "
   ],
   "userStats": {
     "76756": 38,
@@ -218,7 +218,7 @@
     "3DProphet": 1,
     ".Uqe1": 26,
     "parhamzarea": 40,
-    "PorotoCosmico": 2,
+    "PorotoCosmico": 3,
     "Josemhu12": 8,
     "d3m0n1010": 2,
     "AbdullahRihiczs": 3,
@@ -3290,7 +3290,7 @@
   },
   "kitStats": {
     "build": 1579,
-    "survival": 6273,
+    "survival": 6274,
     "pvp": 8021,
     "dupe": 2149,
     "tools": 1864,
