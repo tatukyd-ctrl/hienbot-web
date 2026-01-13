@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:11:43 13/1/2026",
-  "totalKits": 85959,
-  "todayKits": 238,
+  "lastUpdated": "16:11:54 13/1/2026",
+  "totalKits": 85960,
+  "todayKits": 239,
   "onlineCount": 15,
   "peakPlayers": 53,
-  "tps": "20.0",
+  "tps": "19.0",
   "ping": 246,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:10] <Shroom> !kit Mineral ",
-    "[09:10] [8b8t] >> Teleporting to home 0...",
-    "[09:10] [8b8t] >> Teleporting to home 5...",
-    "[09:10] To Shroom: Your kit (Mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:10] <Shroom> !Kit Spear ",
-    "[09:10] To Shroom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:10] To Shroom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:10] [8b8t] >> Request sent to Shroom",
-    "[09:10] <DeadlyNyxian> !kit builf ",
     "[09:10] To DeadlyNyxian: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:10] [8b8t] >> Teleporting...",
     "[09:10] <DeadlyNyxian> !kit builf ",
@@ -101,7 +92,16 @@
     "[09:11] <Shroom> !kit Spear ",
     "[09:11] To Shroom: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
     "[09:11] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[09:11] <Shroom> !sethome "
+    "[09:11] <Shroom> !sethome ",
+    "[09:11] <brojustgame> !kit mineral ",
+    "[09:11] [8b8t] >> Teleporting to home 0...",
+    "[09:11] [8b8t] >> Teleporting to home 5...",
+    "[09:11] To brojustgame: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:11] <DeadlyNyxian> !sethome ",
+    "[09:11] To brojustgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:11] [8b8t] >> Request sent to brojustgame",
+    "[09:11] [8b8t] >> Teleporting...",
+    "[09:11] [BOT] <0_HienBot> >Use /kill to kill yourself! "
   ],
   "userStats": {
     "76756": 38,
@@ -3241,7 +3241,7 @@
     ".BiggerDoor7800": 1,
     "Adm1rable_Degus": 3,
     "WuguiLuigi": 1,
-    "brojustgame": 12
+    "brojustgame": 13
   },
   "kitStats": {
     "build": 1554,
@@ -3259,7 +3259,7 @@
     "food": 485,
     "redstone": 775,
     "toolbox": 717,
-    "quartz": 277,
+    "quartz": 278,
     "shulker": 576,
     "terracotta": 108,
     "end": 659,
