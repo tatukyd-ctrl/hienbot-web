@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:34:03 13/1/2026",
-  "totalKits": 86036,
-  "todayKits": 13,
+  "lastUpdated": "18:34:33 13/1/2026",
+  "totalKits": 86037,
+  "todayKits": 14,
   "onlineCount": 24,
   "peakPlayers": 26,
   "tps": "2.0",
-  "ping": 245,
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6221
+      "count": 6222
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:31] <pinkerton11_> ti didnt work ",
-    "[11:31] [8b8t] >> You have killed yourself!",
-    "[11:31] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[11:31] <pinkerton11_> ok lemme give u a piece ",
-    "[11:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[11:31] <pinkerton11_> boots ",
-    "[11:32] [SE] <dragonkit> !kit build ",
-    "[11:32] [8b8t] >> Teleporting to home 0...",
     "[11:32] [8b8t] >> Home 2 was not found",
     "[11:32] To dragonkit: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:32] To dragonkit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +93,15 @@
     "[11:33] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[11:33] <pinkerton11_> i need help going to the nether ",
     "[11:33] <superemeking> bro i have some map arts ",
-    "[11:34] <pinkerton11_> lemme see "
+    "[11:34] <pinkerton11_> lemme see ",
+    "[11:34] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[11:34] pinkerton11_ Whispers: !kit survival",
+    "[11:34] [8b8t] >> Teleporting to home 0...",
+    "[11:34] [8b8t] >> Teleporting to home 1...",
+    "[11:34] To pinkerton11_: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:34] To pinkerton11_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:34] [8b8t] >> Request sent to pinkerton11_",
+    "[11:34] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3248,11 +3248,11 @@
     "hobo43136231": 1,
     "srcTe130237": 5,
     "d4rkk_cat": 4,
-    "pinkerton11_": 1
+    "pinkerton11_": 2
   },
   "kitStats": {
     "build": 1556,
-    "survival": 6221,
+    "survival": 6222,
     "pvp": 7905,
     "dupe": 2092,
     "tools": 1830,
