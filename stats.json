@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:57:48 13/1/2026",
+  "lastUpdated": "23:58:03 13/1/2026",
   "totalKits": 86273,
   "todayKits": 250,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 41,
-  "tps": "7.0",
+  "tps": "8.0",
   "ping": 252,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7956
+      "count": 7957
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:56] <Doraemon073> proplayer ",
-    "[16:56] <Juanytoyt208> tpa for pvp ",
-    "[16:56] <ParaCraftero> el segundo ",
-    "[16:56] <Sanhpz_7> !kit survival ",
-    "[16:56] [8b8t] >> Teleporting to home 0...",
-    "[16:56] [8b8t] >> Teleporting to home 1...",
-    "[16:56] To Sanhpz_7: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:56] To Sanhpz_7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:56] [8b8t] >> Request sent to Sanhpz_7",
     "[16:56] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[16:56] [8b8t] >> Teleporting...",
     "[16:57] <Doraemon073> ya vengo ",
@@ -101,7 +92,16 @@
     "[16:57] To zorakito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:57] [8b8t] >> Request sent to zorakito",
     "[16:57] [8b8t] >> Teleporting...",
-    "[16:57] [Ultra] <HTP1P0> tpa for pvp "
+    "[16:57] [Ultra] <HTP1P0> tpa for pvp ",
+    "[16:57] [8b8t] >> You have killed yourself!",
+    "[16:57] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[16:57] <Juanytoyt208> htp1p0 come 00 ",
+    "[16:57] <Sanhpz_7> !kit pvp ",
+    "[16:57] [8b8t] >> Teleporting to home 0...",
+    "[16:57] [8b8t] >> Teleporting to home 1...",
+    "[16:57] To Sanhpz_7: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:58] To Sanhpz_7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:58] [8b8t] >> Request sent to Sanhpz_7"
   ],
   "userStats": {
     "76756": 38,
@@ -3268,12 +3268,12 @@
     ".SedDed0913": 1,
     "Sanhzp_7": 1,
     "GulfamXD7": 2,
-    "Sanhpz_7": 6
+    "Sanhpz_7": 7
   },
   "kitStats": {
     "build": 1566,
     "survival": 6250,
-    "pvp": 7956,
+    "pvp": 7957,
     "dupe": 2119,
     "tools": 1853,
     "stash": 1094,
