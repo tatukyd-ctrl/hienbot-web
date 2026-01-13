@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:02:21 14/1/2026",
+  "lastUpdated": "05:02:33 14/1/2026",
   "totalKits": 86508,
   "todayKits": 485,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 245,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:01] [8b8t] >> Request sent to chula123f",
-    "[22:01] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[22:01] [8b8t] >> Teleporting...",
-    "[22:01] [8b8t] >> You have killed yourself!",
-    "[22:01] <leopro294> xd ",
-    "[22:01] <PRO0098> !kit ",
-    "[22:01] To PRO0098: Hello PRO0098!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:01] <.MC_meester_Lars> !Kit wood ",
-    "[22:01] [8b8t] >> Teleporting to home 0...",
-    "[22:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[22:01] [8b8t] >> Teleporting to home 3...",
     "[22:01] To .MC_meester_Lars: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:01] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
@@ -101,7 +91,17 @@
     "[22:02] [8b8t] >> Request sent to saigolas",
     "[22:02] [8b8t] >> Teleporting...",
     "[22:02] <PRO0098> !kit survival ",
-    "[22:02] To PRO0098: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[22:02] To PRO0098: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:02] [BOT] <0_HienBot> >Type !discord ",
+    "[22:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:02] [8b8t] >> You have killed yourself!",
+    "[22:02] <Aeriak64HD> !kit ilegal ",
+    "[22:02] [8b8t] >> Teleporting to home 0...",
+    "[22:02] [8b8t] >> Teleporting to home 6...",
+    "[22:02] To Aeriak64HD: Kit \"ilegal\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
+    "[22:02] To Aeriak64HD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:02] [8b8t] >> Request sent to Aeriak64HD",
+    "[22:02] <.MC_meester_Lars> Ey wasUp yall "
   ],
   "userStats": {
     "76756": 38,
@@ -3077,7 +3077,7 @@
     "ParaCraftero": 34,
     "goofpoof12": 2,
     "BlameTK": 1,
-    "Aeriak64HD": 66,
+    "Aeriak64HD": 67,
     ".BattyClock07029": 11,
     "JustAJoeGuy": 2,
     "speedttapir": 7,
@@ -3306,7 +3306,7 @@
     "redstone": 790,
     "toolbox": 733,
     "quartz": 288,
-    "shulker": 585,
+    "shulker": 586,
     "terracotta": 113,
     "end": 680,
     "armortrims": 526,
