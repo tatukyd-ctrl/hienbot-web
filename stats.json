@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:34:43 13/1/2026",
+  "lastUpdated": "11:35:13 13/1/2026",
   "totalKits": 85849,
   "todayKits": 128,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 53,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 263,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:31] [8b8t] >> You have killed yourself!",
-    "[04:31] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:31] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[04:32] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[04:32] <Victua7397> alguien sabe pq ya no hay ítems ilegales?? ",
-    "[04:32] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[04:32] <MrPinkEye> !kit ",
     "[04:32] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:33] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[04:33] [BOT] <0_HienBot> >What's up, austindoty? ",
@@ -101,7 +94,14 @@
     "[04:34] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:34] [8b8t] >> Request sent to seim",
     "[04:34] [8b8t] >> The TPA request you sent to seim has expired.",
-    "[04:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[04:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[04:34] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[04:34] <beary__> !kit raid ",
+    "[04:34] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:35] [8b8t] >> You have killed yourself!",
+    "[04:35] [8b8t] >> No TPA request found",
+    "[04:35] <beary__> !kit raid ",
+    "[04:35] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1628,7 +1628,7 @@
     "ghcq": 5,
     "Mistc_": 1,
     "stromMC": 1,
-    "beary__": 12,
+    "beary__": 13,
     "ZzElCruzZ": 53,
     "Dragoon": 1,
     "Onibi_Kui": 12,
@@ -3240,7 +3240,7 @@
     "dupe": 2069,
     "tools": 1827,
     "stash": 1083,
-    "raid": 1268,
+    "raid": 1269,
     "wood": 529,
     "exp": 730,
     "dye": 320,
