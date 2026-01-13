@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:56:17 13/1/2026",
+  "lastUpdated": "12:56:43 13/1/2026",
   "totalKits": 85888,
   "todayKits": 167,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 53,
-  "tps": "0.0",
+  "tps": "4.0",
   "ping": 257,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7879
+      "count": 7880
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:53] [8b8t] >> Teleporting...",
-    "[05:53] <ITZvihaangamer> !kit ",
-    "[05:53] To ITZvihaangamer: Hello ITZvihaangamer!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:53] [8b8t] >> You have killed yourself!",
-    "[05:54] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[05:54] [BOT] <0_HienBot> >Type !discord ",
-    "[05:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:54] <ITZvihaangamer> !kit elytra ",
     "[05:54] To ITZvihaangamer: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:54] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
@@ -101,7 +94,14 @@
     "[05:56] To Ieatkids_003: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:56] [8b8t] >> Request sent to Ieatkids_003",
     "[05:56] [8b8t] >> Teleporting...",
-    "[05:56] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
+    "[05:56] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[05:56] [8b8t] >> You have killed yourself!",
+    "[05:56] <ItsYoavYT> !kit pvp ",
+    "[05:56] [8b8t] >> Teleporting to home 0...",
+    "[05:56] [8b8t] >> Teleporting to home 1...",
+    "[05:56] To ItsYoavYT: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:56] To ItsYoavYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:56] [8b8t] >> Request sent to ItsYoavYT"
   ],
   "userStats": {
     "76756": 38,
@@ -3233,14 +3233,14 @@
     "SnowFl3a": 1,
     "InitialPark983": 4,
     "El_Ferias": 1,
-    "ItsYoavYT": 12,
+    "ItsYoavYT": 13,
     "Jewishc": 11,
     "ITZvihaangamer": 4
   },
   "kitStats": {
     "build": 1552,
     "survival": 6213,
-    "pvp": 7879,
+    "pvp": 7880,
     "dupe": 2080,
     "tools": 1827,
     "stash": 1084,
