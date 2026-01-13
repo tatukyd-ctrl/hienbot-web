@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:10:22 13/1/2026",
+  "lastUpdated": "20:10:33 13/1/2026",
   "totalKits": 86075,
   "todayKits": 52,
-  "onlineCount": 23,
+  "onlineCount": 22,
   "peakPlayers": 26,
-  "tps": "9.0",
-  "ping": 251,
+  "tps": "10.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6225
+      "count": 6226
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:09] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[13:09] <DrVenial31> +kit escape ",
-    "[13:09] To DrVenial31: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:09] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[13:09] <UnBot> >Some even call me 'The back-alley dealer' due to the strange kits I provide ",
-    "[13:09] [8b8t] >> Teleporting...",
-    "[13:09] [8b8t] >> You have killed yourself!",
-    "[13:09] <DrVenial31> !kit mystic ",
-    "[13:09] [8b8t] >> Teleporting to home 0...",
-    "[13:09] [8b8t] >> Teleporting to home 4...",
     "[13:09] To DrVenial31: Kit \"mystic\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
     "[13:09] To DrVenial31: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:09] [8b8t] >> Request sent to DrVenial31",
@@ -101,7 +91,17 @@
     "[13:10] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[13:10] To SHAD0W_120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:10] [8b8t] >> Request sent to SHAD0W_120",
-    "[13:10] [8b8t] >> Teleporting..."
+    "[13:10] [8b8t] >> Teleporting...",
+    "[13:10] [8b8t] >> You have killed yourself!",
+    "[13:10] <donzx11> !kit survival ",
+    "[13:10] [8b8t] >> Teleporting to home 0...",
+    "[13:10] [8b8t] >> Teleporting to home 1...",
+    "[13:10] To donzx11: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:10] <MrPinkEye> !kit ",
+    "[13:10] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:10] <DrVenial31> tpa james ",
+    "[13:10] To donzx11: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:10] [8b8t] >> Request sent to donzx11"
   ],
   "userStats": {
     "76756": 38,
@@ -3227,7 +3227,7 @@
     "teamopapi": 5,
     "2328jheremy2": 8,
     "VolksWagenJetta_": 11,
-    "donzx11": 3,
+    "donzx11": 4,
     "Mr_Manznin": 1,
     "Slekzeta": 1,
     "SnowFl3a": 1,
@@ -3253,7 +3253,7 @@
   },
   "kitStats": {
     "build": 1557,
-    "survival": 6225,
+    "survival": 6226,
     "pvp": 7914,
     "dupe": 2092,
     "tools": 1837,
