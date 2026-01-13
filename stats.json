@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:04:43 13/1/2026",
+  "lastUpdated": "09:05:13 13/1/2026",
   "totalKits": 85781,
   "todayKits": 60,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 53,
   "tps": "4.0",
-  "ping": 258,
+  "ping": 272,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7847
+      "count": 7848
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:03] <_TATl_> !kit ",
-    "[02:03] To _TATl_: Hello _TATl_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:03] [8b8t] >> You have killed yourself!",
-    "[02:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[02:03] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[02:03] <_TATl_> !kit stash ",
-    "[02:03] [8b8t] >> Teleporting to home 0...",
-    "[02:03] [8b8t] >> Home 2 was not found",
     "[02:03] To _TATl_: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:03] To _TATl_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:03] [8b8t] >> Request sent to _TATl_",
@@ -101,7 +93,15 @@
     "[02:04] [8b8t] >> Request sent to VolksWagenJetta_",
     "[02:04] [8b8t] >> Teleporting...",
     "[02:04] [8b8t] >> You have killed yourself!",
-    "[02:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[02:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[02:04] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[02:04] <MultiCraftero> y tocanenas? ",
+    "[02:04] <MultiCraftero> _Tocanenas ",
+    "[02:05] <_Tocanenas> saben las coodrds de el spawn ",
+    "[02:05] <MultiCraftero> ovio ",
+    "[02:05] <_TATl_> !kit PVP ",
+    "[02:05] [8b8t] >> Teleporting to home 0...",
+    "[02:05] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -1846,7 +1846,7 @@
     "20172472617": 4,
     ".PeppyTiger85208": 3,
     "SP_0": 14,
-    "_TATl_": 15,
+    "_TATl_": 16,
     "DonkyHot": 4,
     "aNasaDude": 16,
     "Elpajitas32": 1,
@@ -3231,7 +3231,7 @@
   "kitStats": {
     "build": 1552,
     "survival": 6208,
-    "pvp": 7847,
+    "pvp": 7848,
     "dupe": 2064,
     "tools": 1822,
     "stash": 1080,
