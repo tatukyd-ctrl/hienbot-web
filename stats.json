@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:17:33 14/1/2026",
+  "lastUpdated": "06:18:03 14/1/2026",
   "totalKits": 86561,
   "todayKits": 538,
   "onlineCount": 33,
   "peakPlayers": 50,
-  "tps": "2.0",
-  "ping": 249,
+  "tps": "14.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8035
+      "count": 8036
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:16] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[23:16] <.GENIUS_07091436> !KIT ELYTRAS ",
-    "[23:16] To .GENIUS_07091436: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:16] <PRO0098> !kit survival ",
-    "[23:16] To PRO0098: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:16] [Youtuber] <elproplayerxddd> xd ",
-    "[23:16] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[23:16] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[23:16] [8b8t] >> You have killed yourself!",
-    "[23:16] <.GENIUS_07091436> !kit elytras ",
-    "[23:16] [8b8t] >> Teleporting to home 0...",
     "[23:16] [8b8t] >> No TPA request found",
     "[23:16] [8b8t] >> Teleporting to home 3...",
     "[23:16] To .GENIUS_07091436: Kit \"elytras\" not found! Giving you (wood) instead! dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[23:17] [Pro+] <volpl> no destryuan este men ",
     "[23:17] <Reimonnight> !kit pvp ",
     "[23:17] To Reimonnight: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:17] [8b8t] >> You have killed yourself!"
+    "[23:17] [8b8t] >> You have killed yourself!",
+    "[23:17] [8b8t] >> The TPA request you sent to .GENIUS_07091436 was successfully canceled.",
+    "[23:17] <Reimonnight> !kit pvp ",
+    "[23:17] To Reimonnight: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:17] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
+    "[23:17] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[23:17] <Reimonnight> !kit pvp ",
+    "[23:17] [8b8t] >> Teleporting to home 0...",
+    "[23:17] [8b8t] >> Teleporting to home 1...",
+    "[23:17] <.GENIUS_07091436> oigan por que pongo kit elytras y no me da nada?? ",
+    "[23:17] To Reimonnight: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:18] To Reimonnight: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3294,14 +3294,14 @@
     "GuiltyPath63518": 1,
     "xXxpro123xXx": 2,
     "Facundo02998": 1,
-    "Reimonnight": 3,
+    "Reimonnight": 4,
     "pepeelpepito": 1,
     ".GENIUS_07091436": 2
   },
   "kitStats": {
     "build": 1582,
     "survival": 6283,
-    "pvp": 8035,
+    "pvp": 8036,
     "dupe": 2157,
     "tools": 1866,
     "stash": 1109,
