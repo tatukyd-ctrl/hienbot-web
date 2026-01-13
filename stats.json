@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:18:03 14/1/2026",
-  "totalKits": 86455,
-  "todayKits": 432,
-  "onlineCount": 40,
+  "lastUpdated": "03:18:29 14/1/2026",
+  "totalKits": 86456,
+  "todayKits": 433,
+  "onlineCount": 39,
   "peakPlayers": 50,
   "tps": "4.0",
   "ping": 253,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8004
+      "count": 8005
     },
     {
       "name": "survival",
@@ -72,24 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:17] [8b8t] >> The TPA request you sent to elxit has expired.",
-    "[20:17] <Doraemon073> or i kill you tomorrow ",
-    "[20:17] <zokarito> i wont ",
-    "[20:17] <zokarito> kill me tmrw idc ",
-    "[20:17] <Doraemon073> fast ",
-    "[20:17] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[20:17] <Doraemon073> go out ",
-    "[20:17] <zokarito> why are u so mean ",
-    "[20:17] <MilangaOxi> !kit ",
-    "[20:17] To MilangaOxi: Hello MilangaOxi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:17] <zokarito> bro ",
-    "[20:17] <zokarito> chill ",
-    "[20:17] <Doraemon073> go out ",
-    "[20:17] [8b8t] >> You have killed yourself!",
-    "[20:17] [8b8t] >> No TPA request found",
-    "[20:17] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
-    "[20:17] <zokarito> chill nga ",
-    "[20:17] <MilangaOxi> !kit Build ",
     "[20:17] [8b8t] >> Teleporting to home 0...",
     "[20:17] [8b8t] >> Home 2 was not found",
     "[20:17] To MilangaOxi: Your kit (Build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +83,25 @@
     "[20:17] <matiasbbya1234> !kit wood ",
     "[20:17] To matiasbbya1234: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:17] <Doraemon073> gg ",
-    "[20:18] [8b8t] >> You have killed yourself!"
+    "[20:18] [8b8t] >> You have killed yourself!",
+    "[20:18] <elxit> !kit end ",
+    "[20:18] To elxit: You're on cooldown, try again in 31 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:18] <zokarito> gg what fkn retard ",
+    "[20:18] <Doraemon073> i am doxing you ",
+    "[20:18] <baute> !kit totems ",
+    "[20:18] [8b8t] >> Teleporting to home 0...",
+    "[20:18] [8b8t] >> Teleporting to home 1...",
+    "[20:18] <matiasbbya1234> !kit wood ",
+    "[20:18] To baute: Kit \"totems\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[20:18] To matiasbbya1234: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[20:18] To baute: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:18] [8b8t] >> Request sent to baute",
+    "[20:18] <zokarito> jezuhs ",
+    "[20:18] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[20:18] <Doraemon073> go out server 1 minute ",
+    "[20:18] [8b8t] >> Teleporting...",
+    "[20:18] <Doraemon073> and you see "
   ],
   "userStats": {
     "76756": 38,
@@ -1235,7 +1235,7 @@
     "brunopo6741": 1,
     "TeFfO01007": 1,
     "Golhtlden": 1,
-    "baute": 3,
+    "baute": 4,
     "xdddgf": 1,
     "NinjaTheQuill": 1,
     "Gr4atvarus": 10,
@@ -3286,7 +3286,7 @@
   "kitStats": {
     "build": 1576,
     "survival": 6267,
-    "pvp": 8004,
+    "pvp": 8005,
     "dupe": 2145,
     "tools": 1864,
     "stash": 1104,
