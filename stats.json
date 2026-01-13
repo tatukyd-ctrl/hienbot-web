@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:17:40 14/1/2026",
+  "lastUpdated": "04:18:03 14/1/2026",
   "totalKits": 86495,
   "todayKits": 472,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 50,
-  "tps": "2.0",
-  "ping": 271,
+  "tps": "5.0",
+  "ping": 252,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:16] To platerofgold: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:16] <platerofgold> !kit elytra ",
-    "[21:16] To platerofgold: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:16] [8b8t] >> Teleporting...",
-    "[21:16] <platerofgold> !kit pvp ",
-    "[21:16] [8b8t] >> You have killed yourself!",
-    "[21:16] Chat disabled in client options",
-    "[21:16] To platerofgold: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:16] [8b8t] >> Teleporting to home 0...",
     "[21:16] [8b8t] >> Teleporting to home 1...",
     "[21:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[21:16] To platerofgold: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +92,16 @@
     "[21:17] platerofgold has completed the challenge [Cover Me in Debris]",
     "[21:17] [8b8t] >> Request sent to dani8976",
     "[21:17] platerofgold has made the advancement [Ice Bucket Challenge]",
-    "[21:17] [8b8t] >> Teleporting..."
+    "[21:17] [8b8t] >> Teleporting...",
+    "[21:17] [8b8t] >> You have killed yourself!",
+    "[21:17] <platerofgold> pff i already started with stuff ",
+    "[21:17] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[21:17] <platerofgold> !kit stash ",
+    "[21:17] [8b8t] >> Teleporting to home 0...",
+    "[21:17] [8b8t] >> Home 2 was not found",
+    "[21:17] To platerofgold: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:18] To platerofgold: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:18] [8b8t] >> Request sent to platerofgold"
   ],
   "userStats": {
     "76756": 38,
@@ -3286,7 +3286,7 @@
     "r081ns": 2,
     ".ushina1": 1,
     "Thiagoelpro8925": 2,
-    "platerofgold": 1
+    "platerofgold": 2
   },
   "kitStats": {
     "build": 1579,
@@ -3294,7 +3294,7 @@
     "pvp": 8020,
     "dupe": 2149,
     "tools": 1864,
-    "stash": 1106,
+    "stash": 1107,
     "raid": 1306,
     "wood": 536,
     "exp": 747,
