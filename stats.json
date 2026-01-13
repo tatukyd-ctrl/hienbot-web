@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:56:13 13/1/2026",
+  "lastUpdated": "16:56:43 13/1/2026",
   "totalKits": 85979,
   "todayKits": 258,
   "onlineCount": 16,
   "peakPlayers": 53,
   "tps": "11.0",
-  "ping": 252,
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:54] [8b8t] >> Teleporting to home 0...",
-    "[09:54] [8b8t] >> Home 2 was not found",
-    "[09:54] To .FadingLight9888: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:54] To .FadingLight9888: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:54] [8b8t] >> Request sent to .FadingLight9888",
-    "[09:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:54] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[09:54] [8b8t] >> You have killed yourself!",
     "[09:54] [8b8t] >> The TPA request you sent to .FadingLight9888 was successfully canceled.",
     "[09:54] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[09:55] <.FadingLight9888> !kit food ",
@@ -101,7 +93,15 @@
     "[09:56] To MBKBOZKURT90: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[09:56] To MBKBOZKURT90: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:56] [8b8t] >> Request sent to MBKBOZKURT90",
-    "[09:56] [8b8t] >> Teleporting..."
+    "[09:56] [8b8t] >> Teleporting...",
+    "[09:56] [8b8t] >> You have killed yourself!",
+    "[09:56] <.FadingLight9888> !kit food ",
+    "[09:56] [8b8t] >> Teleporting to home 0...",
+    "[09:56] [8b8t] >> Home 2 was not found",
+    "[09:56] To .FadingLight9888: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:56] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[09:56] To .FadingLight9888: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:56] [8b8t] >> Request sent to .FadingLight9888"
   ],
   "userStats": {
     "76756": 38,
@@ -3243,7 +3243,7 @@
     "WuguiLuigi": 1,
     "brojustgame": 17,
     "hitman008": 1,
-    ".FadingLight9888": 1
+    ".FadingLight9888": 2
   },
   "kitStats": {
     "build": 1555,
@@ -3270,7 +3270,7 @@
     "ocean": 144,
     "concrete": 367,
     "glass": 306,
-    "gap": 193,
+    "gap": 194,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
