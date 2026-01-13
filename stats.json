@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:39:53 13/1/2026",
+  "lastUpdated": "08:40:12 13/1/2026",
   "totalKits": 85761,
   "todayKits": 40,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 53,
   "tps": "6.0",
   "ping": 267,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7842
+      "count": 7843
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:38] [8b8t] >> Teleporting to home 0...",
-    "[01:38] [8b8t] >> Home 2 was not found",
-    "[01:38] To Basado__: Kit \"list\" not found! Giving you (gap) instead! dsc.gg/hienbot",
-    "[01:38] <sk_gaming_dd> 4:00 ",
-    "[01:38] To Basado__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:38] <pktuban> !kit elytra ",
     "[01:38] To pktuban: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:38] [8b8t] >> Request sent to Basado__",
@@ -101,7 +96,12 @@
     "[01:39] To Basado__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:39] [8b8t] >> Request sent to Basado__",
     "[01:39] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[01:39] [8b8t] >> Teleporting..."
+    "[01:39] [8b8t] >> Teleporting...",
+    "[01:39] [8b8t] >> You have killed yourself!",
+    "[01:39] <picc> does donkey dupe still work? ",
+    "[01:40] <RJNinja9> !kit pvp ",
+    "[01:40] [8b8t] >> Teleporting to home 0...",
+    "[01:40] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -1314,7 +1314,7 @@
     "jeshua05": 1,
     "licha4490": 3,
     "YAGLISUCUK": 23,
-    "RJNinja9": 1,
+    "RJNinja9": 2,
     "arthavonv": 69,
     "O_Tuty": 1,
     "Patox00": 1,
@@ -3228,7 +3228,7 @@
   "kitStats": {
     "build": 1552,
     "survival": 6207,
-    "pvp": 7842,
+    "pvp": 7843,
     "dupe": 2063,
     "tools": 1822,
     "stash": 1078,
