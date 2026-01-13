@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:21:51 14/1/2026",
+  "lastUpdated": "00:22:03 14/1/2026",
   "totalKits": 86299,
   "todayKits": 276,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 41,
   "tps": "8.0",
   "ping": 249,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7963
+      "count": 7964
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:20] [8b8t] >> Request sent to BlackLeaf9284",
-    "[17:20] [8b8t] >> Teleporting...",
-    "[17:20] <Samuel_procaso> !kit pvp ",
-    "[17:20] To Samuel_procaso: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:20] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[17:20] <WTM> !kit dupe ",
     "[17:20] To WTM: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[17:21] To BlackLeaf9284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:21] [8b8t] >> Request sent to BlackLeaf9284",
     "[17:21] [8b8t] >> Teleporting...",
-    "[17:21] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it"
+    "[17:21] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
+    "[17:21] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[17:21] [8b8t] >> You have killed yourself!",
+    "[17:22] <oZairon> !Kit pvp ",
+    "[17:22] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -606,7 +606,7 @@
     "Jvpro17": 82,
     "Marcx71": 3,
     "test_P_M": 1,
-    "oZairon": 8,
+    "oZairon": 9,
     "i7Davut": 1,
     ".zero154531": 4,
     "skyhaiff1": 26,
@@ -3278,7 +3278,7 @@
   "kitStats": {
     "build": 1567,
     "survival": 6256,
-    "pvp": 7963,
+    "pvp": 7964,
     "dupe": 2123,
     "tools": 1854,
     "stash": 1096,
