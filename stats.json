@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:32:03 13/1/2026",
-  "totalKits": 86189,
-  "todayKits": 166,
-  "onlineCount": 38,
-  "peakPlayers": 39,
-  "tps": "2.0",
+  "lastUpdated": "22:32:19 13/1/2026",
+  "totalKits": 86190,
+  "todayKits": 167,
+  "onlineCount": 40,
+  "peakPlayers": 40,
+  "tps": "1.0",
   "ping": 251,
   "topUsers": [
     {
@@ -68,20 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1560
+      "count": 1561
     }
   ],
   "chatLog": [
-    "[15:30] [8b8t] >> Request sent to Scterling",
-    "[15:30] [8b8t] >> Teleporting...",
-    "[15:30] JSUGIBHBJG has made the advancement [Acquire Hardware]",
-    "[15:30] [8b8t] >> You have killed yourself!",
-    "[15:30] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[15:31] JSUGIBHBJG has made the advancement [We Need to Go Deeper]",
-    "[15:31] <Scterling> !kit totem ",
-    "[15:31] To Scterling: You're on cooldown, try again in 32 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:31] <lifegamer50> !kit hacker ",
-    "[15:31] <josuealegriaXD> wee ",
     "[15:31] [8b8t] >> Teleporting to home 0...",
     "[15:31] [8b8t] >> Teleporting to home 4...",
     "[15:31] To lifegamer50: Kit \"hacker\" not found! Giving you (terracotta) instead! dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[15:31] [8b8t] >> The TPA request you received from 1rubenn has expired.",
     "[15:31] <JSUGIBHBJG> AAAAAAA ",
     "[15:31] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[15:31] [BOT] <0_HienBot> >Welcome to 8b8t, NetherB0T! "
+    "[15:31] [BOT] <0_HienBot> >Welcome to 8b8t, NetherB0T! ",
+    "[15:32] <JSUGIBHBJG> AAAAA ",
+    "[15:32] [SE] <dragonkit> !kit build ",
+    "[15:32] <WinterWater> !kit totems ",
+    "[15:32] [8b8t] >> Teleporting to home 0...",
+    "[15:32] To WinterWater: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:32] [8b8t] >> Home 2 was not found",
+    "[15:32] To dragonkit: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:32] To dragonkit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:32] [8b8t] >> Request sent to dragonkit",
+    "[15:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -296,7 +296,7 @@
     "elproplayerxddd": 51,
     "brunoxdxdurhj": 2,
     "Gorka772": 2,
-    "dragonkit": 59,
+    "dragonkit": 60,
     "JUSTLIKED": 20,
     "DaFuqBoomTaken": 1,
     "Xoladliac": 93,
@@ -3264,7 +3264,7 @@
     "lifegamer50": 1
   },
   "kitStats": {
-    "build": 1560,
+    "build": 1561,
     "survival": 6235,
     "pvp": 7937,
     "dupe": 2101,
