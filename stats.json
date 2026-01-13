@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:44:13 13/1/2026",
+  "lastUpdated": "13:44:43 13/1/2026",
   "totalKits": 85900,
   "todayKits": 179,
   "onlineCount": 18,
   "peakPlayers": 53,
   "tps": "7.0",
-  "ping": 259,
+  "ping": 268,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2081
+      "count": 2082
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:40] To itsblockyy: Hello itsblockyy!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:40] [8b8t] >> You have killed yourself!",
-    "[06:40] [8b8t] >> Player ITZvihaangamer is not online",
-    "[06:41] [8b8t] >> Please do not spam.",
-    "[06:41] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[06:42] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[06:42] <ITZvihaangamer> !kit elytra ",
-    "[06:42] [8b8t] >> Teleporting to home 0...",
-    "[06:42] [8b8t] >> Teleporting to home 6...",
     "[06:42] To ITZvihaangamer: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:42] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[06:42] To ITZvihaangamer: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +92,16 @@
     "[06:44] <ITZvihaangamer> help ",
     "[06:44] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[06:44] <itsblockyy> !ping ",
-    "[06:44] To itsblockyy: Your ping is: 61 ms Dont forget to join dsc.gg/hienbot"
+    "[06:44] To itsblockyy: Your ping is: 61 ms Dont forget to join dsc.gg/hienbot",
+    "[06:44] <itsblockyy> !kit ",
+    "[06:44] To itsblockyy: Hello itsblockyy!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[06:44] <itsblockyy> !kit dupe ",
+    "[06:44] [8b8t] >> Teleporting to home 0...",
+    "[06:44] [8b8t] >> Teleporting to home 7...",
+    "[06:44] To itsblockyy: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:44] To itsblockyy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:44] [8b8t] >> Request sent to itsblockyy",
+    "[06:44] [BOT] <0_HienBot> >Do you want kit? Type !кιт "
   ],
   "userStats": {
     "76756": 38,
@@ -3236,13 +3236,13 @@
     "ItsYoavYT": 13,
     "Jewishc": 11,
     "ITZvihaangamer": 7,
-    "itsblockyy": 2
+    "itsblockyy": 3
   },
   "kitStats": {
     "build": 1553,
     "survival": 6213,
     "pvp": 7882,
-    "dupe": 2081,
+    "dupe": 2082,
     "tools": 1827,
     "stash": 1084,
     "raid": 1275,
