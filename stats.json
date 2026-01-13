@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:29:13 13/1/2026",
+  "lastUpdated": "11:29:43 13/1/2026",
   "totalKits": 85846,
   "todayKits": 125,
   "onlineCount": 20,
   "peakPlayers": 53,
-  "tps": "4.0",
-  "ping": 267,
+  "tps": "3.0",
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:27] To InitialPark983: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:27] [8b8t] >> Teleporting...",
-    "[04:27] <seim> !kits ",
-    "[04:27] [8b8t] >> You have killed yourself!",
-    "[04:27] [BOT] <0_HienBot> >What's up, TNGB0T? ",
-    "[04:27] <seim> !kit ",
-    "[04:27] To seim: Hello seim!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:27] <MrPinkEye> !kit ",
     "[04:27] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:28] [BOT] <DPS_Chatbridge> ><ygnactic> cumm ",
     "[04:28] <seim> !kit raid ",
@@ -101,7 +93,15 @@
     "[04:28] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[04:29] <seim> !kit dupe ",
     "[04:29] To seim: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:29] [8b8t] >> Teleporting..."
+    "[04:29] [8b8t] >> Teleporting...",
+    "[04:29] [8b8t] >> You have killed yourself!",
+    "[04:29] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[04:29] <seim> !kit end ",
+    "[04:29] [8b8t] >> Teleporting to home 0...",
+    "[04:29] [8b8t] >> Teleporting to home 7...",
+    "[04:29] To seim: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:29] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:29] [8b8t] >> Request sent to seim"
   ],
   "userStats": {
     "76756": 38,
@@ -505,7 +505,7 @@
     "itzanty": 1,
     "abelino_pepino": 2,
     "fox_gam1": 1,
-    "seim": 33,
+    "seim": 34,
     "caseoh3": 5,
     "crack1226": 1,
     "xXCasterXx": 2,
@@ -3252,7 +3252,7 @@
     "shulker": 575,
     "terracotta": 108,
     "end": 659,
-    "armortrims": 501,
+    "armortrims": 502,
     "highway": 586,
     "ocean": 144,
     "concrete": 367,
