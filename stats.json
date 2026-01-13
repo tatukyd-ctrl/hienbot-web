@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:45:06 13/1/2026",
-  "totalKits": 86136,
-  "todayKits": 113,
+  "lastUpdated": "21:45:33 13/1/2026",
+  "totalKits": 86137,
+  "todayKits": 114,
   "onlineCount": 29,
   "peakPlayers": 31,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 252,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6231
+      "count": 6232
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:43] <SHAD0W_120> that got chaneling so u cant riptide up ",
-    "[14:43] <ParaCraftero> who wanna get nick color? people, ",
-    "[14:43] [8b8t] >> You have killed yourself!",
-    "[14:43] [8b8t] >> The TPA request you sent to Scterling was successfully canceled.",
-    "[14:43] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[14:43] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:43] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[14:44] <Scterling> !kit pvp ",
-    "[14:44] To Scterling: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:44] <huevodenso> !kit survival ",
-    "[14:44] [8b8t] >> Teleporting to home 0...",
-    "[14:44] [8b8t] >> Teleporting to home 1...",
     "[14:44] To huevodenso: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:44] To huevodenso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:44] [8b8t] >> Request sent to huevodenso",
@@ -101,7 +89,19 @@
     "[14:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:44] To .Pichuckrak: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:44] [8b8t] >> Request sent to .Pichuckrak",
-    "[14:45] [8b8t] >> Teleporting..."
+    "[14:45] [8b8t] >> Teleporting...",
+    "[14:45] [8b8t] >> You have killed yourself!",
+    "[14:45] <JOS3SFG> !kit survival ",
+    "[14:45] [8b8t] >> Teleporting to home 0...",
+    "[14:45] [8b8t] >> Teleporting to home 1...",
+    "[14:45] To JOS3SFG: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:45] To JOS3SFG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:45] [8b8t] >> Request sent to JOS3SFG",
+    "[14:45] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[14:45] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[14:45] [8b8t] >> Teleporting...",
+    "[14:45] <MrPinkEye> !kit ",
+    "[14:45] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3257,11 +3257,12 @@
     "1rubenn": 6,
     "Senpao": 1,
     "huevodenso": 3,
-    "Scterling": 1
+    "Scterling": 1,
+    "JOS3SFG": 1
   },
   "kitStats": {
     "build": 1558,
-    "survival": 6231,
+    "survival": 6232,
     "pvp": 7928,
     "dupe": 2099,
     "tools": 1847,
