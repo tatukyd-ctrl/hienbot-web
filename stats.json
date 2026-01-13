@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:33:11 13/1/2026",
+  "lastUpdated": "20:33:33 13/1/2026",
   "totalKits": 86096,
   "todayKits": 73,
   "onlineCount": 17,
   "peakPlayers": 27,
-  "tps": "9.0",
+  "tps": "7.0",
   "ping": 276,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2094
+      "count": 2095
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:31] [8b8t] >> Teleporting to home 6...",
-    "[13:31] To itz_laeeq: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:31] [8b8t] >> Request sent to itz_laeeq",
-    "[13:32] <SHAD0W_120> trident ",
-    "[13:32] [8b8t] >> Teleporting...",
-    "[13:32] <DrVenial31> !kit ",
-    "[13:32] To DrVenial31: Hello DrVenial31!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:32] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[13:32] <DrVenial31> die fast concrete ",
     "[13:32] <itz_laeeq> anoyne i want to get way from spanw ",
     "[13:32] <DrVenial31> !kit concrete ",
     "[13:32] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[13:33] [8b8t] >> Request sent to Abolitis",
     "[13:33] <itz_laeeq> !kit dupe ",
     "[13:33] To itz_laeeq: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:33] [8b8t] >> Teleporting..."
+    "[13:33] [8b8t] >> Teleporting...",
+    "[13:33] [8b8t] >> You have killed yourself!",
+    "[13:33] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[13:33] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[13:33] <itz_laeeq> !kit dupe ",
+    "[13:33] [8b8t] >> Teleporting to home 0...",
+    "[13:33] [8b8t] >> Teleporting to home 7...",
+    "[13:33] To itz_laeeq: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:33] To itz_laeeq: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:33] [8b8t] >> Request sent to itz_laeeq"
   ],
   "userStats": {
     "76756": 38,
@@ -3250,13 +3250,13 @@
     "d4rkk_cat": 4,
     "pinkerton11_": 3,
     "Senpaimakda2": 5,
-    "itz_laeeq": 3
+    "itz_laeeq": 4
   },
   "kitStats": {
     "build": 1558,
     "survival": 6226,
     "pvp": 7919,
-    "dupe": 2094,
+    "dupe": 2095,
     "tools": 1839,
     "stash": 1090,
     "raid": 1283,
