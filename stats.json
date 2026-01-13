@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:25:42 13/1/2026",
+  "lastUpdated": "08:26:12 13/1/2026",
   "totalKits": 85749,
   "todayKits": 28,
-  "onlineCount": 22,
+  "onlineCount": 23,
   "peakPlayers": 53,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 259,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:22] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:22] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[01:22] [8b8t] >> You have killed yourself!",
-    "[01:23] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[01:23] <ASXN> !kit pvp ",
-    "[01:23] [8b8t] >> Teleporting to home 0...",
-    "[01:23] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[01:23] [8b8t] >> Teleporting to home 1...",
     "[01:23] To ASXN: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:23] To ASXN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:23] [8b8t] >> Request sent to ASXN",
@@ -101,7 +93,15 @@
     "[01:25] [8b8t] >> Teleporting...",
     "[01:25] [8b8t] >> You have killed yourself!",
     "[01:25] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[01:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[01:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[01:25] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[01:25] <_Tocanenas> !kit stash ",
+    "[01:25] [8b8t] >> Teleporting to home 0...",
+    "[01:25] [8b8t] >> Home 2 was not found",
+    "[01:25] To _Tocanenas: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:25] To _Tocanenas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:25] [8b8t] >> Request sent to _Tocanenas",
+    "[01:26] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it"
   ],
   "userStats": {
     "76756": 38,
@@ -3220,7 +3220,8 @@
     "eduA5": 2,
     "seasnail798": 1,
     "Clipnon": 1,
-    ".Uzibrian123": 2
+    ".Uzibrian123": 2,
+    "_Tocanenas": 1
   },
   "kitStats": {
     "build": 1552,
@@ -3228,7 +3229,7 @@
     "pvp": 7837,
     "dupe": 2059,
     "tools": 1822,
-    "stash": 1077,
+    "stash": 1078,
     "raid": 1259,
     "wood": 528,
     "exp": 726,
