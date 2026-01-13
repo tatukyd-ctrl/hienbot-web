@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:08:17 14/1/2026",
+  "lastUpdated": "00:08:33 14/1/2026",
   "totalKits": 86280,
   "todayKits": 257,
   "onlineCount": 25,
   "peakPlayers": 41,
-  "tps": "8.0",
+  "tps": "9.0",
   "ping": 252,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7957
+      "count": 7958
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:05] [8b8t] >> Please do not spam.",
-    "[17:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[17:06] [8b8t] >> Please do not spam.",
-    "[17:06] BlackLeaf9284 has reached the goal [Sky's the Limit]",
-    "[17:06] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[17:07] [BOT] <0_HienBot> >Welcome to 8b8t, Saad2001! ",
-    "[17:07] <BlackLeaf9284> !kitfood ",
-    "[17:07] <ismail9090> pls kit give ",
-    "[17:07] <BlackLeaf9284> !kit food ",
-    "[17:07] [8b8t] >> Teleporting to home 0...",
-    "[17:07] [8b8t] >> Teleporting to home 4...",
-    "[17:07] To BlackLeaf9284: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:07] To BlackLeaf9284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:07] [8b8t] >> Request sent to BlackLeaf9284",
     "[17:07] <ismail9090> !kit food ",
     "[17:07] [8b8t] >> Teleporting...",
@@ -101,7 +88,20 @@
     "[17:07] To ismail9090: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:08] To ismail9090: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:08] [8b8t] >> Request sent to ismail9090",
-    "[17:08] [8b8t] >> Teleporting..."
+    "[17:08] [8b8t] >> Teleporting...",
+    "[17:08] <BlackLeaf9284> !kit ",
+    "[17:08] To BlackLeaf9284: Hello BlackLeaf9284!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:08] [8b8t] >> You have killed yourself!",
+    "[17:08] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[17:08] <BlackLeaf9284> !kit pvp ",
+    "[17:08] To BlackLeaf9284: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:08] <WTM> !kit mace ",
+    "[17:08] <BlackLeaf9284> !kit pvp ",
+    "[17:08] [8b8t] >> Teleporting to home 0...",
+    "[17:08] To WTM: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:08] [8b8t] >> Teleporting to home 1...",
+    "[17:08] To BlackLeaf9284: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:08] <Juanytoyt208> tpa for pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3270,12 +3270,12 @@
     "GulfamXD7": 2,
     "Sanhpz_7": 8,
     "ismail9090": 2,
-    "BlackLeaf9284": 2
+    "BlackLeaf9284": 3
   },
   "kitStats": {
     "build": 1566,
     "survival": 6252,
-    "pvp": 7957,
+    "pvp": 7958,
     "dupe": 2120,
     "tools": 1853,
     "stash": 1096,
