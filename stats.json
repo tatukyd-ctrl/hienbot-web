@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:30:20 13/1/2026",
+  "lastUpdated": "20:30:33 13/1/2026",
   "totalKits": 86091,
   "todayKits": 68,
   "onlineCount": 18,
   "peakPlayers": 27,
-  "tps": "7.0",
+  "tps": "8.0",
   "ping": 250,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7917
+      "count": 7918
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:29] To itz_laeeq: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:29] To itz_laeeq: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:29] [8b8t] >> Request sent to itz_laeeq",
-    "[13:29] [8b8t] >> Teleporting...",
-    "[13:29] <SHAD0W_120> any u pick ",
-    "[13:29] <DrVenial31> !kit ",
-    "[13:29] To DrVenial31: Hello DrVenial31!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:29] [8b8t] >> You have killed yourself!",
-    "[13:29] <DrVenial31> !kit armortrims ",
     "[13:29] To DrVenial31: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:29] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[13:29] <DrVenial31> !kit armortrims ",
@@ -101,7 +92,16 @@
     "[13:30] [8b8t] >> Request sent to Abolitis",
     "[13:30] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[13:30] [8b8t] >> Teleporting...",
-    "[13:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[13:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:30] [8b8t] >> You have killed yourself!",
+    "[13:30] <itz_laeeq> !kit pvp ",
+    "[13:30] [8b8t] >> Teleporting to home 0...",
+    "[13:30] [8b8t] >> Teleporting to home 1...",
+    "[13:30] To itz_laeeq: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:30] To itz_laeeq: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:30] [8b8t] >> Request sent to itz_laeeq",
+    "[13:30] <MrPinkEye> !kit ",
+    "[13:30] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3250,12 +3250,12 @@
     "d4rkk_cat": 4,
     "pinkerton11_": 3,
     "Senpaimakda2": 5,
-    "itz_laeeq": 1
+    "itz_laeeq": 2
   },
   "kitStats": {
     "build": 1558,
     "survival": 6226,
-    "pvp": 7917,
+    "pvp": 7918,
     "dupe": 2094,
     "tools": 1839,
     "stash": 1090,
