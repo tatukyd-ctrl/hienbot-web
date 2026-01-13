@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:19:42 13/1/2026",
-  "totalKits": 85745,
-  "todayKits": 24,
+  "lastUpdated": "08:20:00 13/1/2026",
+  "totalKits": 85746,
+  "todayKits": 25,
   "onlineCount": 20,
   "peakPlayers": 53,
-  "tps": "8.0",
+  "tps": "5.0",
   "ping": 262,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7833
+      "count": 7834
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:09] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[01:10] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[01:10] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[01:10] [BOT] <0_HienBot> >Hello El_Moli_OK! ",
-    "[01:11] [8b8t] >> ceoofyt voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[01:11] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[01:11] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[01:12] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:12] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[01:12] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[01:13] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
@@ -101,7 +93,15 @@
     "[01:18] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[01:19] .acesan4514 has made the advancement [The End?]",
     "[01:19] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[01:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[01:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[01:19] [8b8t] >> Please do not spam.",
+    "[01:19] <matiasbbya1234> !kit pvp ",
+    "[01:19] [8b8t] >> Teleporting to home 0...",
+    "[01:19] [8b8t] >> Teleporting to home 1...",
+    "[01:19] To matiasbbya1234: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:19] To matiasbbya1234: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:19] [8b8t] >> Request sent to matiasbbya1234",
+    "[01:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3211,7 +3211,7 @@
     ".Pichuckrak": 5,
     "pepe69ff": 1,
     "Theoad92025": 3,
-    "matiasbbya1234": 10,
+    "matiasbbya1234": 11,
     "NS_FRIKI": 2,
     ".acesan4514": 7,
     "ignacio2456": 20,
@@ -3225,7 +3225,7 @@
   "kitStats": {
     "build": 1552,
     "survival": 6207,
-    "pvp": 7833,
+    "pvp": 7834,
     "dupe": 2059,
     "tools": 1822,
     "stash": 1077,
