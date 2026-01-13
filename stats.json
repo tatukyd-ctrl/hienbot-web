@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:31:33 13/1/2026",
+  "lastUpdated": "18:32:03 13/1/2026",
   "totalKits": 86035,
   "todayKits": 12,
-  "onlineCount": 25,
+  "onlineCount": 24,
   "peakPlayers": 26,
   "tps": "5.0",
-  "ping": 243,
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,20 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1555
+      "count": 1556
     }
   ],
   "chatLog": [
-    "[11:30] [8b8t] >> You have killed yourself!",
-    "[11:30] [8b8t] >> The TPA request you sent to SHAD0W_120 was successfully canceled.",
-    "[11:30] <pinkerton11_> ok wait ",
-    "[11:30] <MrPinkEye> !kit ",
-    "[11:30] <SHAD0W_120> !kit survival ",
-    "[11:30] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[11:30] To SHAD0W_120: You're on cooldown, try again in 52 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:30] <superemeking> only one peice ",
-    "[11:30] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[11:30] <ClashRoyal_777> !kit exp ",
     "[11:30] [8b8t] >> Teleporting to home 0...",
     "[11:30] [8b8t] >> Teleporting to home 5...",
     "[11:30] To ClashRoyal_777: Your kit (exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[11:31] <superemeking> only one peice ",
     "[11:31] [8b8t] >> Request sent to Aeriak64HD",
     "[11:31] [8b8t] >> Teleporting...",
-    "[11:31] <pinkerton11_> wait "
+    "[11:31] <pinkerton11_> wait ",
+    "[11:31] <pinkerton11_> ti didnt work ",
+    "[11:31] [8b8t] >> You have killed yourself!",
+    "[11:31] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[11:31] <pinkerton11_> ok lemme give u a piece ",
+    "[11:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[11:31] <pinkerton11_> boots ",
+    "[11:32] [SE] <dragonkit> !kit build ",
+    "[11:32] [8b8t] >> Teleporting to home 0...",
+    "[11:32] [8b8t] >> Home 2 was not found",
+    "[11:32] To dragonkit: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -296,7 +296,7 @@
     "elproplayerxddd": 51,
     "brunoxdxdurhj": 2,
     "Gorka772": 2,
-    "dragonkit": 53,
+    "dragonkit": 54,
     "JUSTLIKED": 20,
     "DaFuqBoomTaken": 1,
     "Xoladliac": 93,
@@ -3251,7 +3251,7 @@
     "pinkerton11_": 1
   },
   "kitStats": {
-    "build": 1555,
+    "build": 1556,
     "survival": 6221,
     "pvp": 7905,
     "dupe": 2092,
