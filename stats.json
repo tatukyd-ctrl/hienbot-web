@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:04:27 13/1/2026",
+  "lastUpdated": "16:04:43 13/1/2026",
   "totalKits": 85948,
   "todayKits": 227,
   "onlineCount": 18,
   "peakPlayers": 53,
-  "tps": "7.0",
-  "ping": 249,
+  "tps": "11.0",
+  "ping": 261,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7893
+      "count": 7894
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[09:03] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[09:03] <GemitoY7166> !kit survival ",
-    "[09:03] [8b8t] >> Teleporting to home 0...",
-    "[09:03] [8b8t] >> Home 2 was not found",
-    "[09:03] To GemitoY7166: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:03] To GemitoY7166: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:03] <Shroom> !kit ",
-    "[09:03] [8b8t] >> Request sent to GemitoY7166",
     "[09:03] To Shroom: Hello Shroom!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[09:03] <brojustgame> !kit wool ",
     "[09:03] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[09:04] [8b8t] >> Request sent to brojustgame",
     "[09:04] [8b8t] >> Teleporting...",
     "[09:04] <Shroom> !kit Elytra ",
-    "[09:04] To Shroom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[09:04] To Shroom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:04] <GemitoY7166> !kit survival ",
+    "[09:04] To GemitoY7166: You're on cooldown, try again in 6 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:04] <SHAD0W_120> !kit mace ",
+    "[09:04] [8b8t] >> You have killed yourself!",
+    "[09:04] To SHAD0W_120: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:04] [8b8t] >> Teleporting to home 0...",
+    "[09:04] [8b8t] >> Teleporting to home 1...",
+    "[09:04] <orange2121> !kit survival ",
+    "[09:04] To orange2121: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3133,7 +3133,7 @@
     "temp373874474": 1,
     "Sr_RexGG": 1,
     "Polito84": 2,
-    "SHAD0W_120": 123,
+    "SHAD0W_120": 124,
     "AiomaWuzHere": 2,
     "fdsfsdgssa": 4,
     "NotKaelo": 2,
@@ -3246,7 +3246,7 @@
   "kitStats": {
     "build": 1553,
     "survival": 6215,
-    "pvp": 7893,
+    "pvp": 7894,
     "dupe": 2087,
     "tools": 1828,
     "stash": 1085,
