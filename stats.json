@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:28:28 13/1/2026",
+  "lastUpdated": "11:28:43 13/1/2026",
   "totalKits": 85845,
   "todayKits": 124,
   "onlineCount": 20,
   "peakPlayers": 53,
-  "tps": "9.0",
+  "tps": "6.0",
   "ping": 265,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:27] <InitialPark983> !kit ",
-    "[04:27] To InitialPark983: Hello InitialPark983!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:27] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[04:27] <beary__> !kit bow ",
-    "[04:27] [8b8t] >> Teleporting to home 0...",
-    "[04:27] [8b8t] >> Teleporting to home 1...",
-    "[04:27] To beary__: Your kit (bow) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:27] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:27] <seim> !kit survive ",
     "[04:27] [8b8t] >> Request sent to beary__",
@@ -101,7 +93,15 @@
     "[04:28] To seim: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:28] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:28] [8b8t] >> Request sent to seim",
-    "[04:28] [8b8t] >> Teleporting..."
+    "[04:28] [8b8t] >> Teleporting...",
+    "[04:28] [8b8t] >> You have killed yourself!",
+    "[04:28] <SnowFl3a> !kit Raid ",
+    "[04:28] [8b8t] >> Teleporting to home 0...",
+    "[04:28] [8b8t] >> Home 2 was not found",
+    "[04:28] To SnowFl3a: Your kit (Raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:28] To SnowFl3a: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:28] [8b8t] >> Request sent to SnowFl3a",
+    "[04:28] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3229,7 +3229,8 @@
     "VolksWagenJetta_": 11,
     "donzx11": 3,
     "Mr_Manznin": 1,
-    "Slekzeta": 1
+    "Slekzeta": 1,
+    "SnowFl3a": 1
   },
   "kitStats": {
     "build": 1552,
@@ -3238,7 +3239,7 @@
     "dupe": 2068,
     "tools": 1827,
     "stash": 1083,
-    "raid": 1267,
+    "raid": 1268,
     "wood": 529,
     "exp": 730,
     "dye": 320,
