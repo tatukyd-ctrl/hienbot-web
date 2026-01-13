@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:00:43 13/1/2026",
+  "lastUpdated": "17:01:13 13/1/2026",
   "totalKits": 85980,
   "todayKits": 259,
   "onlineCount": 17,
   "peakPlayers": 53,
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 245,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:56] To .FadingLight9888: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:56] [8b8t] >> Request sent to .FadingLight9888",
-    "[09:56] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[09:56] [8b8t] >> You have killed yourself!",
-    "[09:56] [8b8t] >> The TPA request you sent to .FadingLight9888 was successfully canceled.",
-    "[09:57] <DeadlyNyxian> !kit build ",
-    "[09:57] [8b8t] >> Teleporting to home 0...",
-    "[09:57] [8b8t] >> Teleporting to home 6...",
-    "[09:57] To DeadlyNyxian: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[09:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[09:57] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[09:57] To DeadlyNyxian: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +92,16 @@
     "[10:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:00] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[10:00] <MrPinkEye> !kit ",
-    "[10:00] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[10:00] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:00] <.FadingLight9888> !kit ",
+    "[10:00] To .FadingLight9888: Hello .FadingLight9888!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:00] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[10:01] <.FadingLight9888> !kit food ",
+    "[10:01] [8b8t] >> Teleporting to home 0...",
+    "[10:01] [8b8t] >> Home 2 was not found",
+    "[10:01] To .FadingLight9888: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:01] To .FadingLight9888: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:01] [8b8t] >> Request sent to .FadingLight9888"
   ],
   "userStats": {
     "76756": 38,
@@ -3243,7 +3243,7 @@
     "WuguiLuigi": 1,
     "brojustgame": 17,
     "hitman008": 1,
-    ".FadingLight9888": 2
+    ".FadingLight9888": 3
   },
   "kitStats": {
     "build": 1555,
@@ -3270,7 +3270,7 @@
     "ocean": 144,
     "concrete": 367,
     "glass": 306,
-    "gap": 194,
+    "gap": 195,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
