@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:45:43 13/1/2026",
+  "lastUpdated": "11:46:13 13/1/2026",
   "totalKits": 85854,
   "todayKits": 133,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 53,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 263,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:40] [8b8t] >> Teleporting...",
-    "[04:40] [8b8t] >> You have killed yourself!",
-    "[04:40] beary__ has made the advancement [A Terrible Fortress]",
-    "[04:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[04:40] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[04:41] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[04:41] MilangaOxi has completed the challenge [Cover Me in Debris]",
-    "[04:41] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[04:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[04:42] [BOT] <0_HienBot> >Hi ItsTraits! ",
     "[04:42] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
@@ -101,7 +93,15 @@
     "[04:44] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[04:44] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[04:45] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[04:45] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
+    "[04:45] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[04:45] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[04:46] <InitialPark983> !kit elytra ",
+    "[04:46] [8b8t] >> Teleporting to home 0...",
+    "[04:46] [8b8t] >> Teleporting to home 6...",
+    "[04:46] To InitialPark983: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:46] To InitialPark983: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:46] [8b8t] >> Request sent to InitialPark983",
+    "[04:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3231,7 +3231,7 @@
     "Mr_Manznin": 1,
     "Slekzeta": 1,
     "SnowFl3a": 1,
-    "InitialPark983": 3,
+    "InitialPark983": 4,
     "El_Ferias": 1
   },
   "kitStats": {
@@ -3268,6 +3268,6 @@
     "gterracotta": 79,
     "banner": 90,
     "illegal": 706,
-    "elytra": 76
+    "elytra": 77
   }
 }
