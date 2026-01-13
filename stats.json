@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:20:13 13/1/2026",
+  "lastUpdated": "15:20:43 13/1/2026",
   "totalKits": 85920,
   "todayKits": 199,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 53,
-  "tps": "6.0",
-  "ping": 245,
+  "tps": "10.0",
+  "ping": 249,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1827
+      "count": 1828
     },
     {
       "name": "build",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:15] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[08:15] <j.abad> !kit survival ",
-    "[08:15] [8b8t] >> Teleporting to home 0...",
-    "[08:15] [8b8t] >> Home 2 was not found",
-    "[08:15] To j.abad: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:16] To j.abad: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:16] [8b8t] >> Request sent to j.abad",
     "[08:16] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[08:16] [8b8t] >> You have killed yourself!",
@@ -101,7 +95,13 @@
     "[08:18] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[08:19] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[08:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:19] [BOT] <0_HienBot> >Try !кιт survival "
+    "[08:19] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[08:20] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[08:20] [Pro] <bigbear> !kit glass ",
+    "[08:20] [8b8t] >> Teleporting to home 0...",
+    "[08:20] [8b8t] >> Teleporting to home 7...",
+    "[08:20] To BigBear: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:20] To BigBear: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3178,7 +3178,7 @@
     "8_oz": 3,
     "SpreenDMC.": 1,
     ".RASPBERRY0V0": 4,
-    "BigBear": 4,
+    "BigBear": 5,
     "htp1p0": 7,
     "UGhvc2hNZTE3MTA": 10,
     "bestpojavpvp": 1,
@@ -3247,7 +3247,7 @@
     "survival": 6213,
     "pvp": 7890,
     "dupe": 2085,
-    "tools": 1827,
+    "tools": 1828,
     "stash": 1084,
     "raid": 1275,
     "wood": 529,
