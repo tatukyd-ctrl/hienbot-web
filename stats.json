@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:08:13 13/1/2026",
+  "lastUpdated": "09:08:43 13/1/2026",
   "totalKits": 85785,
   "todayKits": 64,
-  "onlineCount": 22,
+  "onlineCount": 23,
   "peakPlayers": 53,
-  "tps": "4.0",
-  "ping": 272,
+  "tps": "8.0",
+  "ping": 260,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6208
+      "count": 6209
     },
     {
       "name": "dupe",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:06] <_TATl_> !kit survival ",
-    "[02:06] [8b8t] >> Teleporting to home 0...",
-    "[02:07] [8b8t] >> Home 2 was not found",
-    "[02:07] To _TATl_: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:07] To _TATl_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:07] [8b8t] >> Request sent to _TATl_",
     "[02:07] <_Tocanenas> dale ",
     "[02:07] [8b8t] >> Teleporting...",
@@ -101,7 +96,12 @@
     "[02:07] [8b8t] >> Teleporting...",
     "[02:07] <_Tocanenas> amo ",
     "[02:07] <MultiCraftero> aunque tomara mucho ahcerl ",
-    "[02:08] [8b8t] >> You have killed yourself!"
+    "[02:08] [8b8t] >> You have killed yourself!",
+    "[02:08] [BOT] <0_HienBot> >Welcome to 8b8t, El_Moli_OK! ",
+    "[02:08] <_Tocanenas> te sigo ",
+    "[02:08] _Tocanenas has made the advancement [Monster Hunter]",
+    "[02:08] <MultiCraftero> !kit tools ",
+    "[02:08] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3190,7 +3190,7 @@
     "islakdonavcizi31": 30,
     "yusyf_56": 7,
     "W18": 14,
-    "MultiCraftero": 17,
+    "MultiCraftero": 18,
     "lord_nemesiz": 1,
     "waki_z05x": 6,
     "waximo": 1,
@@ -3230,7 +3230,7 @@
   },
   "kitStats": {
     "build": 1552,
-    "survival": 6208,
+    "survival": 6209,
     "pvp": 7848,
     "dupe": 2064,
     "tools": 1822,
