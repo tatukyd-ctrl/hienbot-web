@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:14:43 13/1/2026",
+  "lastUpdated": "09:15:13 13/1/2026",
   "totalKits": 85788,
   "todayKits": 67,
   "onlineCount": 26,
   "peakPlayers": 53,
-  "tps": "4.0",
-  "ping": 258,
+  "tps": "3.0",
+  "ping": 260,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:12] To VolksWagenJetta_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:12] [8b8t] >> Request sent to VolksWagenJetta_",
-    "[02:12] [8b8t] >> Teleporting...",
-    "[02:12] <donzx11> alo? ",
-    "[02:12] [8b8t] >> You have killed yourself!",
-    "[02:12] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[02:13] <.InsaneDart82465> pornográficos ",
-    "[02:13] <_Tocanenas> !kit tools ",
     "[02:13] [8b8t] >> Teleporting to home 0...",
     "[02:13] [8b8t] >> Teleporting to home 1...",
     "[02:13] To _Tocanenas: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[02:14] <MultiCraftero> grax ",
     "[02:14] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[02:14] <donzx11> !kit ",
-    "[02:14] To donzx11: Hello donzx11!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[02:14] To donzx11: Hello donzx11!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:14] [BOT] <0_HienBot> >What's up, donzx11? ",
+    "[02:15] <donzx11> !KIT Survival ",
+    "[02:15] [8b8t] >> Teleporting to home 0...",
+    "[02:15] [8b8t] >> Home 2 was not found",
+    "[02:15] To donzx11: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:15] To donzx11: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:15] [8b8t] >> Request sent to donzx11",
+    "[02:15] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3226,7 +3226,8 @@
     "LicorneExplosive": 1,
     "teamopapi": 2,
     "2328jheremy2": 4,
-    "VolksWagenJetta_": 5
+    "VolksWagenJetta_": 5,
+    "donzx11": 1
   },
   "kitStats": {
     "build": 1552,
@@ -3253,7 +3254,7 @@
     "ocean": 143,
     "concrete": 367,
     "glass": 306,
-    "gap": 160,
+    "gap": 161,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
