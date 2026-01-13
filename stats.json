@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:51:13 13/1/2026",
-  "totalKits": 85885,
-  "todayKits": 164,
+  "lastUpdated": "12:51:38 13/1/2026",
+  "totalKits": 85886,
+  "todayKits": 165,
   "onlineCount": 30,
   "peakPlayers": 53,
-  "tps": "4.0",
+  "tps": "1.0",
   "ping": 261,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7876
+      "count": 7877
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:50] To PrnvDevilXD: Kit \"portas\" not found! Giving you (food) instead! dsc.gg/hienbot",
-    "[05:50] To PrnvDevilXD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:50] [8b8t] >> Request sent to PrnvDevilXD",
-    "[05:50] <Ieatkids_003> +kit pvp ",
-    "[05:50] To Ieatkids_003: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:50] <PrnvDevilXD> !kit portals ",
-    "[05:50] To PrnvDevilXD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:50] <Jewishc> !kit pvp ",
     "[05:50] To Jewishc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:50] <Jewishc> !kit pvp ",
     "[05:50] To Jewishc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[05:51] [8b8t] >> Teleporting...",
     "[05:51] <PrnvDevilXD> !kit portals ",
     "[05:51] To PrnvDevilXD: You're on cooldown, try again in 48 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:51] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[05:51] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[05:51] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[05:51] <ITZvihaangamer> !kit pvp ",
+    "[05:51] [8b8t] >> Teleporting to home 0...",
+    "[05:51] [8b8t] >> Teleporting to home 1...",
+    "[05:51] To ITZvihaangamer: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:51] To ITZvihaangamer: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:51] [8b8t] >> Request sent to ITZvihaangamer",
+    "[05:51] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3235,12 +3235,12 @@
     "El_Ferias": 1,
     "ItsYoavYT": 12,
     "Jewishc": 11,
-    "ITZvihaangamer": 1
+    "ITZvihaangamer": 2
   },
   "kitStats": {
     "build": 1552,
     "survival": 6213,
-    "pvp": 7876,
+    "pvp": 7877,
     "dupe": 2080,
     "tools": 1827,
     "stash": 1084,
