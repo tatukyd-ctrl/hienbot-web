@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:57:33 14/1/2026",
+  "lastUpdated": "05:58:03 14/1/2026",
   "totalKits": 86550,
   "todayKits": 527,
   "onlineCount": 36,
   "peakPlayers": 50,
-  "tps": "1.0",
-  "ping": 247,
+  "tps": "4.0",
+  "ping": 243,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8032
+      "count": 8033
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:55] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:55] <.GENIUS_07091436> como te mando tp metoro?? ",
-    "[22:55] <ItzJust> !kit raid ",
-    "[22:55] [8b8t] >> Teleporting to home 0...",
-    "[22:55] [8b8t] >> Home 2 was not found",
-    "[22:55] To ItzJust: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:55] To ItzJust: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:55] [8b8t] >> Request sent to ItzJust",
     "[22:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[22:55] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
@@ -101,7 +94,14 @@
     "[22:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[22:57] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[22:57] <ParaCraftero> VEN ELLXDCONLORI ",
-    "[22:57] <ParaCraftero> VEN elXDconLori AHI TE ESPER "
+    "[22:57] <ParaCraftero> VEN elXDconLori AHI TE ESPER ",
+    "[22:57] <MaxFK166> GENIUS_07091436 quieres que te saque del spawn? ",
+    "[22:57] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[22:57] <.GENIUS_07091436> si pls ",
+    "[22:57] <MilangaOxi> !kit pvp ",
+    "[22:58] [8b8t] >> Teleporting to home 0...",
+    "[22:58] [8b8t] >> Teleporting to home 1...",
+    "[22:58] To MilangaOxi: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3155,7 +3155,7 @@
     "HughCoolGuy123": 2,
     "SternQuill": 5,
     "Antonhysv": 6,
-    "MilangaOxi": 41,
+    "MilangaOxi": 42,
     "xddddf": 1,
     "RoiyerYTXD": 7,
     "BlackMerit": 2,
@@ -3298,7 +3298,7 @@
   "kitStats": {
     "build": 1582,
     "survival": 6282,
-    "pvp": 8032,
+    "pvp": 8033,
     "dupe": 2156,
     "tools": 1866,
     "stash": 1109,
