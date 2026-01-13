@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:49:39 13/1/2026",
-  "totalKits": 86140,
-  "todayKits": 117,
-  "onlineCount": 28,
+  "lastUpdated": "21:49:57 13/1/2026",
+  "totalKits": 86141,
+  "todayKits": 118,
+  "onlineCount": 26,
   "peakPlayers": 31,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 252,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6232
+      "count": 6233
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:47] [8b8t] >> You have killed yourself!",
-    "[14:47] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[14:48] <.Pichuckrak> !kit dye ",
-    "[14:48] [8b8t] >> Teleporting to home 0...",
-    "[14:48] Scterling has made the advancement [Ice Bucket Challenge]",
-    "[14:48] [8b8t] >> Teleporting to home 4...",
-    "[14:48] Scterling has reached the goal [Sky's the Limit]",
-    "[14:48] To .Pichuckrak: Your kit (dye) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:48] Scterling has completed the challenge [Cover Me in Debris]",
-    "[14:48] To .Pichuckrak: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:48] [8b8t] >> Request sent to .Pichuckrak",
     "[14:48] [8b8t] >> Teleporting...",
     "[14:48] [8b8t] >> You have killed yourself!",
@@ -101,7 +91,17 @@
     "[14:49] [8b8t] >> Please do not spam.",
     "[14:49] [8b8t] >> Teleporting...",
     "[14:49] <Scterling> !kit survival ",
-    "[14:49] To Scterling: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[14:49] To Scterling: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:49] [8b8t] >> You have killed yourself!",
+    "[14:49] <Scterling> !kit survival ",
+    "[14:49] [8b8t] >> Teleporting to home 0...",
+    "[14:49] [8b8t] >> Teleporting to home 1...",
+    "[14:49] To Scterling: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:49] To Scterling: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[14:49] [8b8t] >> Request sent to Scterling",
+    "[14:49] [8b8t] >> Teleporting...",
+    "[14:49] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3257,12 +3257,12 @@
     "1rubenn": 6,
     "Senpao": 1,
     "huevodenso": 3,
-    "Scterling": 2,
+    "Scterling": 3,
     "JOS3SFG": 1
   },
   "kitStats": {
     "build": 1558,
-    "survival": 6232,
+    "survival": 6233,
     "pvp": 7929,
     "dupe": 2099,
     "tools": 1847,
