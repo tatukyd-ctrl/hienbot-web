@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:47:42 13/1/2026",
-  "totalKits": 85765,
-  "todayKits": 44,
+  "lastUpdated": "08:47:59 13/1/2026",
+  "totalKits": 85766,
+  "todayKits": 45,
   "onlineCount": 23,
   "peakPlayers": 53,
-  "tps": "9.0",
+  "tps": "10.0",
   "ping": 263,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:43] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[01:44] [8b8t] >> Please do not spam.",
-    "[01:44] <.Maddie8171111> Use $kit for a kit! ",
-    "[01:44] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[01:45] <Basado__> qn un pvp riko ",
-    "[01:45] picc has made the advancement [Cover Me With Diamonds]",
-    "[01:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:45] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[01:45] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[01:46] <teamopapi> !kit ",
@@ -101,7 +93,15 @@
     "[01:47] <_Tocanenas> 2328jheremy2 yo ",
     "[01:47] <2328jheremy2> manda tpa ",
     "[01:47] <teamopapi> !kit ",
-    "[01:47] To teamopapi: Hello teamopapi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[01:47] To teamopapi: Hello teamopapi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:47] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
+    "[01:47] <teamopapi> !kit survival ",
+    "[01:47] [8b8t] >> Teleporting to home 0...",
+    "[01:47] [8b8t] >> Home 2 was not found",
+    "[01:47] To teamopapi: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:47] To teamopapi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:47] [8b8t] >> Request sent to teamopapi",
+    "[01:47] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3224,7 +3224,7 @@
     "_Tocanenas": 6,
     "pktuban": 2,
     "LicorneExplosive": 1,
-    "teamopapi": 1
+    "teamopapi": 2
   },
   "kitStats": {
     "build": 1552,
@@ -3251,7 +3251,7 @@
     "ocean": 143,
     "concrete": 366,
     "glass": 305,
-    "gap": 156,
+    "gap": 157,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
