@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:46:13 13/1/2026",
-  "totalKits": 85901,
-  "todayKits": 180,
+  "lastUpdated": "13:46:34 13/1/2026",
+  "totalKits": 85902,
+  "todayKits": 181,
   "onlineCount": 18,
   "peakPlayers": 53,
-  "tps": "5.0",
-  "ping": 258,
+  "tps": "7.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7883
+      "count": 7884
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:43] <itsblockyy> !tps ",
-    "[06:43] To itsblockyy: Current TPS: 7.00 Dont forget to join dsc.gg/hienbot",
-    "[06:44] <ITZvihaangamer> help ",
-    "[06:44] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[06:44] <itsblockyy> !ping ",
-    "[06:44] To itsblockyy: Your ping is: 61 ms Dont forget to join dsc.gg/hienbot",
-    "[06:44] <itsblockyy> !kit ",
-    "[06:44] To itsblockyy: Hello itsblockyy!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:44] <itsblockyy> !kit dupe ",
     "[06:44] [8b8t] >> Teleporting to home 0...",
     "[06:44] [8b8t] >> Teleporting to home 7...",
     "[06:44] To itsblockyy: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[06:45] [8b8t] >> You have killed yourself!",
     "[06:45] [8b8t] >> The TPA request you sent to ITZvihaangamer was successfully canceled.",
     "[06:45] <itsblockyy> !ah ",
-    "[06:46] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
+    "[06:46] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[06:46] <ITZvihaangamer> why it is only giving head ",
+    "[06:46] <itsblockyy> !kitpvp ",
+    "[06:46] <itsblockyy> !kit pvp ",
+    "[06:46] [8b8t] >> Teleporting to home 0...",
+    "[06:46] [8b8t] >> Teleporting to home 1...",
+    "[06:46] To itsblockyy: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:46] To itsblockyy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:46] [8b8t] >> Request sent to itsblockyy",
+    "[06:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3236,12 +3236,12 @@
     "ItsYoavYT": 13,
     "Jewishc": 11,
     "ITZvihaangamer": 8,
-    "itsblockyy": 3
+    "itsblockyy": 4
   },
   "kitStats": {
     "build": 1553,
     "survival": 6213,
-    "pvp": 7883,
+    "pvp": 7884,
     "dupe": 2082,
     "tools": 1827,
     "stash": 1084,
