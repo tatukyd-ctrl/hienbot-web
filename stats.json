@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:58:43 13/1/2026",
+  "lastUpdated": "09:59:13 13/1/2026",
   "totalKits": 85819,
   "todayKits": 98,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 53,
   "tps": "6.0",
-  "ping": 274,
+  "ping": 260,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7851
+      "count": 7852
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:53] [Ultra] <.htp1p0.> PVP EN EL HOTSPOT ",
-    "[02:54] [8b8t] >> .Maddie8171111 has denied your request",
-    "[02:54] [XMAS2025] <kendricklover132> regalen un trava ",
-    "[02:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[02:54] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[02:54] [8b8t] >> You have killed yourself!",
-    "[02:54] [8b8t] >> No TPA request found",
     "[02:54] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[02:55] [BOT] <0_HienBot> >Try !кιт survival ",
     "[02:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +94,14 @@
     "[02:58] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[02:58] [8b8t] >> Teleporting...",
     "[02:58] [8b8t] >> You have killed yourself!",
-    "[02:58] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[02:58] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[02:58] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[02:58] <Mr_Manznin> !kit pvp ",
+    "[02:58] [8b8t] >> Teleporting to home 0...",
+    "[02:58] [8b8t] >> Teleporting to home 1...",
+    "[02:58] To Mr_Manznin: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:58] To Mr_Manznin: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:59] [8b8t] >> Request sent to Mr_Manznin"
   ],
   "userStats": {
     "76756": 38,
@@ -3227,12 +3227,13 @@
     "teamopapi": 3,
     "2328jheremy2": 8,
     "VolksWagenJetta_": 11,
-    "donzx11": 3
+    "donzx11": 3,
+    "Mr_Manznin": 1
   },
   "kitStats": {
     "build": 1552,
     "survival": 6212,
-    "pvp": 7851,
+    "pvp": 7852,
     "dupe": 2065,
     "tools": 1827,
     "stash": 1081,
