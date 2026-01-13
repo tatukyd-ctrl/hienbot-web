@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:13:11 13/1/2026",
-  "totalKits": 86233,
-  "todayKits": 210,
-  "onlineCount": 36,
+  "lastUpdated": "23:13:33 13/1/2026",
+  "totalKits": 86234,
+  "todayKits": 211,
+  "onlineCount": 38,
   "peakPlayers": 41,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 257,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6241
+      "count": 6242
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:12] <ParaCraftero> dora ",
-    "[16:12] <Doraemon073> q ",
-    "[16:12] <ParaCraftero> haslo jsu ",
-    "[16:12] <JSUGIBHBJG> dime para ",
-    "[16:12] <nuklear1> !kit firework ",
-    "[16:12] To nuklear1: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:12] <ParaCraftero> aceptle el tp a dora ",
-    "[16:12] <Doraemon073> tp ",
-    "[16:12] <Doraemon073> mandame tpa ",
-    "[16:12] <nuklear1> !kit firework ",
     "[16:12] To nuklear1: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
     "[16:12] [BOT] <0_HienBot> >Hey Doraemon073! ",
     "[16:12] <Sgamestream> uumm ",
@@ -101,7 +91,17 @@
     "[16:13] [8b8t] >> Teleporting...",
     "[16:13] <1rubenn> !kti survival ",
     "[16:13] <JSUGIBHBJG> ok ",
-    "[16:13] <Doraemon073> q "
+    "[16:13] <Doraemon073> q ",
+    "[16:13] [8b8t] >> You have killed yourself!",
+    "[16:13] <1rubenn> !kit survival ",
+    "[16:13] [8b8t] >> Teleporting to home 0...",
+    "[16:13] [8b8t] >> Teleporting to home 1...",
+    "[16:13] [8b8t] >> Please do not spam.",
+    "[16:13] To 1rubenn: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:13] <Axernal> Hola alguien mandeme tpa ",
+    "[16:13] To 1rubenn: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:13] [8b8t] >> Request sent to 1rubenn",
+    "[16:13] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3254,7 +3254,7 @@
     "111DoMiNaToR111": 2,
     "icemortal99": 1,
     "TinyW0rm_72": 1,
-    "1rubenn": 17,
+    "1rubenn": 18,
     "Senpao": 1,
     "huevodenso": 3,
     "Scterling": 14,
@@ -3267,7 +3267,7 @@
   },
   "kitStats": {
     "build": 1563,
-    "survival": 6241,
+    "survival": 6242,
     "pvp": 7951,
     "dupe": 2111,
     "tools": 1853,
