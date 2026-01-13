@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:58:13 13/1/2026",
+  "lastUpdated": "14:58:43 13/1/2026",
   "totalKits": 85911,
   "todayKits": 190,
-  "onlineCount": 18,
+  "onlineCount": 19,
   "peakPlayers": 53,
-  "tps": "6.0",
-  "ping": 250,
+  "tps": "8.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7886
+      "count": 7887
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:52] JOAKO_CABJ has made the advancement [Stone Age]",
-    "[07:52] <Adm1rable_Degus> alright ",
-    "[07:52] <ClashRoyal_777> !kit pvp ",
-    "[07:52] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[07:52] [8b8t] >> Teleporting to home 0...",
-    "[07:52] [8b8t] >> Teleporting to home 1...",
-    "[07:52] To ClashRoyal_777: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:52] To ClashRoyal_777: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:52] [8b8t] >> Request sent to ClashRoyal_777",
     "[07:52] [8b8t] >> Teleporting...",
     "[07:52] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[07:57] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[07:57] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[07:58] <Adm1rable_Degus> !kit ",
-    "[07:58] To Adm1rable_Degus: Hello Adm1rable_Degus!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[07:58] To Adm1rable_Degus: Hello Adm1rable_Degus!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[07:58] <Adm1rable_Degus> survival ",
+    "[07:58] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[07:58] <Adm1rable_Degus> !kit pvp ",
+    "[07:58] [8b8t] >> Teleporting to home 0...",
+    "[07:58] [8b8t] >> Teleporting to home 1...",
+    "[07:58] To Adm1rable_Degus: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:58] To Adm1rable_Degus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:58] [8b8t] >> Request sent to Adm1rable_Degus"
   ],
   "userStats": {
     "76756": 38,
@@ -3238,12 +3238,13 @@
     "ITZvihaangamer": 8,
     "itsblockyy": 4,
     "JOAKO_CABJ": 3,
-    ".BiggerDoor7800": 1
+    ".BiggerDoor7800": 1,
+    "Adm1rable_Degus": 1
   },
   "kitStats": {
     "build": 1553,
     "survival": 6213,
-    "pvp": 7886,
+    "pvp": 7887,
     "dupe": 2085,
     "tools": 1827,
     "stash": 1084,
