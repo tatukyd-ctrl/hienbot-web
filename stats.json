@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:47:33 14/1/2026",
+  "lastUpdated": "03:48:03 14/1/2026",
   "totalKits": 86473,
   "todayKits": 450,
   "onlineCount": 40,
   "peakPlayers": 50,
-  "tps": "7.0",
-  "ping": 255,
+  "tps": "3.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8010
+      "count": 8011
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:46] <Aeriak64HD> !kit survival ",
-    "[20:46] [8b8t] >> Teleporting to home 0...",
-    "[20:46] <xxx_osolord_xxx> bata ",
-    "[20:46] [8b8t] >> No TPA request found",
-    "[20:46] [8b8t] >> Teleporting to home 1...",
-    "[20:46] To Aeriak64HD: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:46] To Aeriak64HD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:46] [8b8t] >> Request sent to Aeriak64HD",
-    "[20:46] [8b8t] >> Teleporting...",
-    "[20:46] <Doraemon073> no dupee todo ",
     "[20:46] <Night_883> !kit pvp ",
     "[20:46] To Night_883: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:46] <xxx_osolord_xxx> okey bata ",
@@ -101,7 +91,17 @@
     "[20:47] <Doraemon073> acepta ",
     "[20:47] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[20:47] <baute> ahhh ",
-    "[20:47] <FULLTILT64> lkkl "
+    "[20:47] <FULLTILT64> lkkl ",
+    "[20:47] <botchaosonix> that? ",
+    "[20:47] <botchaosonix> this you bedrock? ",
+    "[20:47] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[20:47] <Night_883> !kit pvp ",
+    "[20:47] [8b8t] >> Teleporting to home 0...",
+    "[20:47] [8b8t] >> Teleporting to home 1...",
+    "[20:47] To Night_883: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:47] To Night_883: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:47] [8b8t] >> Request sent to Night_883",
+    "[20:48] <FULLTILT64> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -2103,7 +2103,7 @@
     "WinterWater": 90,
     "killer_": 1,
     "boam": 4,
-    "Night_883": 105,
+    "Night_883": 106,
     "MRF4T4L3RR0R": 2,
     "ajoqetkafshon": 15,
     "MicterDonater_YT": 1,
@@ -3289,7 +3289,7 @@
   "kitStats": {
     "build": 1578,
     "survival": 6270,
-    "pvp": 8010,
+    "pvp": 8011,
     "dupe": 2148,
     "tools": 1864,
     "stash": 1106,
