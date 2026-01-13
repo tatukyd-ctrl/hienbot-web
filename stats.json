@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:53:54 13/1/2026",
+  "lastUpdated": "16:54:13 13/1/2026",
   "totalKits": 85978,
   "todayKits": 257,
-  "onlineCount": 17,
+  "onlineCount": 15,
   "peakPlayers": 53,
-  "tps": "8.0",
-  "ping": 245,
+  "tps": "9.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:50] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[09:50] <DrVenial31> sa ",
-    "[09:50] [BOT] <0_HienBot> >Type !discord ",
-    "[09:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[09:51] <MBKBOZKURT90> !kit eltrya ",
     "[09:51] [8b8t] >> Teleporting to home 0...",
     "[09:51] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[09:51] [8b8t] >> Teleporting to home 7...",
@@ -101,7 +94,14 @@
     "[09:53] <.FadingLight9888> !kit ",
     "[09:53] To .FadingLight9888: Hello .FadingLight9888!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[09:53] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[09:53] [8b8t] >> Teleporting..."
+    "[09:53] [8b8t] >> Teleporting...",
+    "[09:53] [8b8t] >> You have killed yourself!",
+    "[09:54] <.FadingLight9888> !kit food ",
+    "[09:54] [8b8t] >> Teleporting to home 0...",
+    "[09:54] [8b8t] >> Home 2 was not found",
+    "[09:54] To .FadingLight9888: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:54] To .FadingLight9888: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:54] [8b8t] >> Request sent to .FadingLight9888"
   ],
   "userStats": {
     "76756": 38,
@@ -3242,7 +3242,8 @@
     "Adm1rable_Degus": 3,
     "WuguiLuigi": 1,
     "brojustgame": 17,
-    "hitman008": 1
+    "hitman008": 1,
+    ".FadingLight9888": 1
   },
   "kitStats": {
     "build": 1555,
@@ -3269,7 +3270,7 @@
     "ocean": 144,
     "concrete": 367,
     "glass": 306,
-    "gap": 192,
+    "gap": 193,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
