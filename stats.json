@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:22:24 13/1/2026",
+  "lastUpdated": "09:22:43 13/1/2026",
   "totalKits": 85796,
   "todayKits": 75,
   "onlineCount": 25,
   "peakPlayers": 53,
   "tps": "5.0",
-  "ping": 259,
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:21] [8b8t] >> Teleporting...",
-    "[02:21] <.Maddie8171111> !kit dig ",
-    "[02:21] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:21] <2328jheremy2> !kit ",
-    "[02:21] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[02:21] To 2328jheremy2: Hello 2328jheremy2!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:21] [8b8t] >> You have killed yourself!",
     "[02:21] <.Maddie8171111> !kit dig ",
     "[02:21] [8b8t] >> Teleporting to home 0...",
     "[02:21] [8b8t] >> Teleporting to home 7...",
@@ -101,7 +94,14 @@
     "[02:22] [8b8t] >> Teleporting...",
     "[02:22] <VolksWagenJetta_> !kit dig ",
     "[02:22] To VolksWagenJetta_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:22] <MultiCraftero> pera "
+    "[02:22] <MultiCraftero> pera ",
+    "[02:22] [8b8t] >> You have killed yourself!",
+    "[02:22] <2328jheremy2> !kit mine ",
+    "[02:22] [8b8t] >> Teleporting to home 0...",
+    "[02:22] [8b8t] >> Teleporting to home 3...",
+    "[02:22] To 2328jheremy2: Your kit (mine) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[02:22] To 2328jheremy2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3225,7 +3225,7 @@
     "pktuban": 2,
     "LicorneExplosive": 1,
     "teamopapi": 2,
-    "2328jheremy2": 6,
+    "2328jheremy2": 7,
     "VolksWagenJetta_": 9,
     "donzx11": 2
   },
@@ -3241,7 +3241,7 @@
     "exp": 727,
     "dye": 319,
     "wool": 411,
-    "mineral": 568,
+    "mineral": 569,
     "food": 483,
     "redstone": 774,
     "toolbox": 710,
