@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:16:40 14/1/2026",
-  "totalKits": 86493,
-  "todayKits": 470,
-  "onlineCount": 34,
+  "lastUpdated": "04:17:03 14/1/2026",
+  "totalKits": 86494,
+  "todayKits": 471,
+  "onlineCount": 33,
   "peakPlayers": 50,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 251,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8019
+      "count": 8020
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:15] <platerofgold> someone hook me up w stuff ",
-    "[21:15] <MasterWo> xd ",
-    "[21:15] [8b8t] >> Teleporting...",
-    "[21:15] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[21:15] [8b8t] >> You have killed yourself!",
-    "[21:16] <dani8976> !kit Terracotta ",
-    "[21:16] [8b8t] >> Teleporting to home 0...",
-    "[21:16] [8b8t] >> Teleporting to home 4...",
-    "[21:16] To dani8976: Your kit (Terracotta) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:16] To dani8976: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:16] [8b8t] >> Request sent to dani8976",
-    "[21:16] <platerofgold> !kit ",
     "[21:16] To platerofgold: Hello platerofgold!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[21:16] [8b8t] >> Teleporting...",
     "[21:16] <platerofgold> !kit survival ",
@@ -101,7 +89,19 @@
     "[21:16] To platerofgold: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:16] <platerofgold> !kit elytra ",
     "[21:16] To platerofgold: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:16] [8b8t] >> Teleporting..."
+    "[21:16] [8b8t] >> Teleporting...",
+    "[21:16] <platerofgold> !kit pvp ",
+    "[21:16] [8b8t] >> You have killed yourself!",
+    "[21:16] Chat disabled in client options",
+    "[21:16] To platerofgold: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:16] [8b8t] >> Teleporting to home 0...",
+    "[21:16] [8b8t] >> Teleporting to home 1...",
+    "[21:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:16] To platerofgold: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:16] [8b8t] >> Request sent to platerofgold",
+    "[21:16] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[21:17] [8b8t] >> Teleporting...",
+    "[21:17] <Simblebot> algun br "
   ],
   "userStats": {
     "76756": 38,
@@ -3285,12 +3285,13 @@
     "Sxbz23": 8,
     "r081ns": 2,
     ".ushina1": 1,
-    "Thiagoelpro8925": 2
+    "Thiagoelpro8925": 2,
+    "platerofgold": 1
   },
   "kitStats": {
     "build": 1578,
     "survival": 6270,
-    "pvp": 8019,
+    "pvp": 8020,
     "dupe": 2149,
     "tools": 1864,
     "stash": 1106,
