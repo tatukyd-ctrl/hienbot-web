@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:11:33 13/1/2026",
-  "totalKits": 86075,
-  "todayKits": 52,
+  "lastUpdated": "20:11:44 13/1/2026",
+  "totalKits": 86076,
+  "todayKits": 53,
   "onlineCount": 22,
   "peakPlayers": 26,
-  "tps": "11.0",
-  "ping": 247,
+  "tps": "12.0",
+  "ping": 252,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:10] [8b8t] >> You have killed yourself!",
-    "[13:10] <donzx11> !kit survival ",
-    "[13:10] [8b8t] >> Teleporting to home 0...",
-    "[13:10] [8b8t] >> Teleporting to home 1...",
-    "[13:10] To donzx11: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:10] <MrPinkEye> !kit ",
     "[13:10] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[13:10] <DrVenial31> tpa james ",
     "[13:10] To donzx11: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +95,13 @@
     "[13:11] To DrVenial31: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:11] [8b8t] >> Request sent to DrVenial31",
     "[13:11] <SHAD0W_120> +kit ",
-    "[13:11] To SHAD0W_120: Hello SHAD0W_120!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[13:11] To SHAD0W_120: Hello SHAD0W_120!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:11] [8b8t] >> Teleporting...",
+    "[13:11] <SHAD0W_120> +kit mystic ",
+    "[13:11] [8b8t] >> Teleporting to home 0...",
+    "[13:11] [8b8t] >> Teleporting to home 6...",
+    "[13:11] To SHAD0W_120: Kit \"mystic\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
+    "[13:11] [BOT] <0_HienBot> >Hmmmmmmmmm "
   ],
   "userStats": {
     "76756": 38,
@@ -3133,7 +3133,7 @@
     "temp373874474": 1,
     "Sr_RexGG": 1,
     "Polito84": 2,
-    "SHAD0W_120": 135,
+    "SHAD0W_120": 136,
     "AiomaWuzHere": 2,
     "fdsfsdgssa": 4,
     "NotKaelo": 2,
@@ -3273,7 +3273,7 @@
     "end": 661,
     "armortrims": 511,
     "highway": 599,
-    "ocean": 148,
+    "ocean": 149,
     "concrete": 368,
     "glass": 306,
     "gap": 205,
