@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:08:43 13/1/2026",
+  "lastUpdated": "15:09:13 13/1/2026",
   "totalKits": 85916,
   "todayKits": 195,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 53,
   "tps": "10.0",
-  "ping": 245,
+  "ping": 249,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7887
+      "count": 7888
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:06] To Adm1rable_Degus: Hello Adm1rable_Degus!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[08:06] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:06] [8b8t] >> Please do not spam.",
-    "[08:06] <Adm1rable_Degus> !kit Survival ",
-    "[08:06] [8b8t] >> Teleporting to home 0...",
-    "[08:06] [8b8t] >> Home 2 was not found",
-    "[08:06] To Adm1rable_Degus: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:06] To Adm1rable_Degus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:06] [8b8t] >> Request sent to Adm1rable_Degus",
     "[08:06] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[08:08] [8b8t] >> You have killed yourself!",
     "[08:08] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[08:08] <Risky_Jaat> !kit pvp ",
-    "[08:08] To Risky_Jaat: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot"
+    "[08:08] To Risky_Jaat: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:08] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[08:09] <Risky_Jaat> !kit pvp ",
+    "[08:09] To Risky_Jaat: You're on cooldown, try again in 2 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:09] <Risky_Jaat> !kit pvp ",
+    "[08:09] [8b8t] >> Teleporting to home 0...",
+    "[08:09] [8b8t] >> Teleporting to home 1...",
+    "[08:09] To Risky_Jaat: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1829,7 +1829,7 @@
     "ESMZR03I": 37,
     "mrultimer": 1,
     "SKIN_34480": 3,
-    "Risky_Jaat": 30,
+    "Risky_Jaat": 31,
     "luhao": 7,
     "danijel2241": 47,
     "Mustafa121MC": 3,
@@ -3244,7 +3244,7 @@
   "kitStats": {
     "build": 1553,
     "survival": 6213,
-    "pvp": 7887,
+    "pvp": 7888,
     "dupe": 2085,
     "tools": 1827,
     "stash": 1084,
