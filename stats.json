@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:22:33 14/1/2026",
-  "totalKits": 86300,
-  "todayKits": 277,
-  "onlineCount": 30,
+  "lastUpdated": "00:22:56 14/1/2026",
+  "totalKits": 86301,
+  "todayKits": 278,
+  "onlineCount": 31,
   "peakPlayers": 41,
-  "tps": "3.0",
+  "tps": "6.0",
   "ping": 252,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2123
+      "count": 2124
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:21] [8b8t] >> Teleporting to home 7...",
-    "[17:21] <ismail9090> &kit ",
-    "[17:21] To BlackLeaf9284: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:21] To ismail9090: Hello ismail9090!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[17:21] To BlackLeaf9284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:21] [8b8t] >> Request sent to BlackLeaf9284",
-    "[17:21] [8b8t] >> Teleporting...",
-    "[17:21] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
-    "[17:21] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[17:21] [8b8t] >> You have killed yourself!",
-    "[17:22] <oZairon> !Kit pvp ",
-    "[17:22] [8b8t] >> Teleporting to home 0...",
     "[17:22] [8b8t] >> Teleporting to home 1...",
     "[17:22] To oZairon: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:22] <ismail9090> !kit redstone ",
@@ -101,7 +89,19 @@
     "[17:22] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[17:22] <BlackLeaf9284> !kit pvp ",
     "[17:22] To BlackLeaf9284: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:22] [8b8t] >> You have killed yourself!"
+    "[17:22] [8b8t] >> You have killed yourself!",
+    "[17:22] <BlackLeaf9284> !kit pvp ",
+    "[17:22] To BlackLeaf9284: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:22] <Sanhpz_7> !kit dupe ",
+    "[17:22] [8b8t] >> Teleporting to home 0...",
+    "[17:22] [8b8t] >> Teleporting to home 7...",
+    "[17:22] To Sanhpz_7: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:22] To Sanhpz_7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:22] [8b8t] >> Request sent to Sanhpz_7",
+    "[17:22] XJelox Whispers: okok",
+    "[17:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[17:22] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[17:22] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3268,7 +3268,7 @@
     ".SedDed0913": 1,
     "Sanhzp_7": 1,
     "GulfamXD7": 2,
-    "Sanhpz_7": 11,
+    "Sanhpz_7": 12,
     "ismail9090": 3,
     "BlackLeaf9284": 9,
     "Herobrine_sb68": 3,
@@ -3279,7 +3279,7 @@
     "build": 1567,
     "survival": 6256,
     "pvp": 7964,
-    "dupe": 2123,
+    "dupe": 2124,
     "tools": 1854,
     "stash": 1096,
     "raid": 1294,
