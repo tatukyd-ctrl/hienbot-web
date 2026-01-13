@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:21:24 13/1/2026",
+  "lastUpdated": "11:21:43 13/1/2026",
   "totalKits": 85840,
   "todayKits": 119,
   "onlineCount": 21,
   "peakPlayers": 53,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 263,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:17] <InitialPark983> !kit ",
-    "[04:17] To InitialPark983: Hello InitialPark983!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:18] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:18] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[04:18] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[04:19] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[04:19] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[04:19] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[04:19] <InitialPark983> !kit ",
     "[04:19] To InitialPark983: Hello InitialPark983!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[04:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[04:21] [BOT] <0_HienBot> >Type !discord ",
     "[04:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:21] [8b8t] >> Teleporting..."
+    "[04:21] [8b8t] >> Teleporting...",
+    "[04:21] [8b8t] >> You have killed yourself!",
+    "[04:21] [Pro+] <lvashl> !kit ",
+    "[04:21] To lvashl: Hello lvashl!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:21] [Pro+] <lvashl> !kit End ",
+    "[04:21] [8b8t] >> Teleporting to home 0...",
+    "[04:21] [8b8t] >> Teleporting to home 7...",
+    "[04:21] To lvashl: Your kit (End) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2354,7 +2354,7 @@
     "kobhere": 3,
     "TheOverlord451": 1,
     "j122": 14,
-    "lvashl": 82,
+    "lvashl": 83,
     "joshfrom1984_314": 9,
     "MBKBOZKURT90": 14,
     "miniconquest": 4,
@@ -3251,7 +3251,7 @@
     "shulker": 575,
     "terracotta": 108,
     "end": 659,
-    "armortrims": 500,
+    "armortrims": 501,
     "highway": 586,
     "ocean": 144,
     "concrete": 367,
