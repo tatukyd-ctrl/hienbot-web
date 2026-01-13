@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:16:43 13/1/2026",
+  "lastUpdated": "09:17:13 13/1/2026",
   "totalKits": 85789,
   "todayKits": 68,
   "onlineCount": 27,
   "peakPlayers": 53,
-  "tps": "8.0",
-  "ping": 264,
+  "tps": "7.0",
+  "ping": 280,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:14] [BOT] <0_HienBot> >What's up, donzx11? ",
-    "[02:15] <donzx11> !KIT Survival ",
-    "[02:15] [8b8t] >> Teleporting to home 0...",
-    "[02:15] [8b8t] >> Home 2 was not found",
-    "[02:15] To donzx11: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:15] To donzx11: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:15] [8b8t] >> Request sent to donzx11",
     "[02:15] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:15] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[02:15] <VolksWagenJetta_> !kit ",
@@ -101,7 +94,14 @@
     "[02:16] [BOT] <0_HienBot> >Welcome to 8b8t, VolksWagenJetta_! ",
     "[02:16] <donzx11> !kit Survival ",
     "[02:16] To donzx11: You're on cooldown, try again in 27 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[02:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[02:16] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[02:17] <donzx11> !kit Survival ",
+    "[02:17] [8b8t] >> Teleporting to home 0...",
+    "[02:17] [8b8t] >> Home 2 was not found",
+    "[02:17] To donzx11: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:17] To donzx11: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:17] [8b8t] >> Request sent to donzx11"
   ],
   "userStats": {
     "76756": 38,
@@ -3227,7 +3227,7 @@
     "teamopapi": 2,
     "2328jheremy2": 4,
     "VolksWagenJetta_": 6,
-    "donzx11": 1
+    "donzx11": 2
   },
   "kitStats": {
     "build": 1552,
@@ -3254,7 +3254,7 @@
     "ocean": 143,
     "concrete": 367,
     "glass": 306,
-    "gap": 161,
+    "gap": 162,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
