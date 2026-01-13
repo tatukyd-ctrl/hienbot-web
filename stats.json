@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:27:13 13/1/2026",
+  "lastUpdated": "08:27:42 13/1/2026",
   "totalKits": 85751,
   "todayKits": 30,
   "onlineCount": 25,
   "peakPlayers": 53,
-  "tps": "8.0",
-  "ping": 259,
+  "tps": "4.0",
+  "ping": 268,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7838
+      "count": 7839
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:25] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[01:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:25] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[01:25] <_Tocanenas> !kit stash ",
-    "[01:25] [8b8t] >> Teleporting to home 0...",
-    "[01:25] [8b8t] >> Home 2 was not found",
-    "[01:25] To _Tocanenas: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:25] To _Tocanenas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:25] [8b8t] >> Request sent to _Tocanenas",
-    "[01:26] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
     "[01:26] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[01:26] [8b8t] >> Teleporting...",
     "[01:26] [8b8t] >> You have killed yourself!",
@@ -101,7 +91,17 @@
     "[01:27] To _Tocanenas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:27] [8b8t] >> Request sent to _Tocanenas",
     "[01:27] [8b8t] >> Teleporting...",
-    "[01:27] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[01:27] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[01:27] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[01:27] [8b8t] >> You have killed yourself!",
+    "[01:27] _Tocanenas has reached the goal [Sky's the Limit]",
+    "[01:27] <.BattyClock07029> looking for friends ",
+    "[01:27] _Tocanenas has completed the challenge [Cover Me in Debris]",
+    "[01:27] _Tocanenas has made the advancement [Ice Bucket Challenge]",
+    "[01:27] <.BattyClock07029> !kit pvp ",
+    "[01:27] [8b8t] >> Teleporting to home 0...",
+    "[01:27] [8b8t] >> Teleporting to home 1...",
+    "[01:27] To .BattyClock07029: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3078,7 +3078,7 @@
     "goofpoof12": 2,
     "BlameTK": 1,
     "Aeriak64HD": 54,
-    ".BattyClock07029": 1,
+    ".BattyClock07029": 2,
     "JustAJoeGuy": 2,
     "speedttapir": 7,
     "SantisElmesias": 3,
@@ -3226,7 +3226,7 @@
   "kitStats": {
     "build": 1552,
     "survival": 6207,
-    "pvp": 7838,
+    "pvp": 7839,
     "dupe": 2059,
     "tools": 1822,
     "stash": 1078,
