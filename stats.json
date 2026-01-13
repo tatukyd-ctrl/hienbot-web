@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:43:37 13/1/2026",
+  "lastUpdated": "17:44:07 13/1/2026",
   "totalKits": 86012,
   "todayKits": 3,
   "onlineCount": 20,
   "peakPlayers": 20,
-  "tps": "8.0",
-  "ping": 256,
+  "tps": "7.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:42] [8b8t] >> You have killed yourself!",
-    "[10:42] <shardah> !kit EndBuild ",
-    "[10:42] [8b8t] >> Teleporting to home 0...",
-    "[10:42] [8b8t] >> Teleporting to home 6...",
-    "[10:42] To shardah: Kit \"EndBuild\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
-    "[10:42] To shardah: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:42] [8b8t] >> Request sent to shardah",
-    "[10:42] [8b8t] >> Teleporting...",
-    "[10:42] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[10:42] [8b8t] >> You have killed yourself!",
-    "[10:42] <srcTe130237> ?kit endbuild ",
-    "[10:42] [8b8t] >> Teleporting to home 0...",
-    "[10:42] [8b8t] >> Teleporting to home 7...",
-    "[10:42] To srcTe130237: Kit \"endbuild\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
-    "[10:43] To srcTe130237: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:43] [8b8t] >> Request sent to srcTe130237",
     "[10:43] [8b8t] >> Teleporting...",
     "[10:43] [8b8t] >> You have killed yourself!",
@@ -101,7 +86,22 @@
     "[10:43] <shardah> !kits ",
     "[10:43] [8b8t] >> You have killed yourself!",
     "[10:43] <srcTe130237> ?kit ",
-    "[10:43] To srcTe130237: Hello srcTe130237!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[10:43] To srcTe130237: Hello srcTe130237!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:43] <shardah> !help ",
+    "[10:43] To shardah: Cmds: !kit, !lang, !info , !ping, !tps, !player, !bestping, !worstping, !discord, !status, !gay | dsc.gg/hienbot",
+    "[10:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:43] To shardah: Your ping is: 331 ms Dont forget to join dsc.gg/hienbot",
+    "[10:43] [BOT] <0_HienBot> Join HienBot Group discord.gg/2vezgc2VGb ",
+    "[10:43] <srcTe130237> ?kit build ",
+    "[10:43] To srcTe130237: You're on cooldown, try again in 10 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:43] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[10:43] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[10:44] <srcTe130237> ?kit build ",
+    "[10:44] [8b8t] >> Teleporting to home 0...",
+    "[10:44] <shardah> !player ",
+    "[10:44] To shardah: Players: 20 Dont forget to join dsc.gg/hienbot",
+    "[10:44] [8b8t] >> Teleporting to home 6...",
+    "[10:44] To srcTe130237: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3246,7 +3246,7 @@
     ".FadingLight9888": 5,
     "muskan331": 2,
     "hobo43136231": 1,
-    "srcTe130237": 3
+    "srcTe130237": 4
   },
   "kitStats": {
     "build": 1555,
@@ -3269,7 +3269,7 @@
     "terracotta": 109,
     "end": 660,
     "armortrims": 510,
-    "highway": 597,
+    "highway": 598,
     "ocean": 147,
     "concrete": 367,
     "glass": 306,
