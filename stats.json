@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:41:03 13/1/2026",
-  "totalKits": 86044,
-  "todayKits": 21,
+  "lastUpdated": "18:41:27 13/1/2026",
+  "totalKits": 86045,
+  "todayKits": 22,
   "onlineCount": 25,
   "peakPlayers": 26,
-  "tps": "4.0",
-  "ping": 259,
+  "tps": "6.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7906
+      "count": 7907
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:38] [8b8t] >> You have killed yourself!",
-    "[11:39] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[11:39] Senpaimakda2 has completed the challenge [Cover Me in Debris]",
-    "[11:39] Senpaimakda2 has reached the goal [Sky's the Limit]",
-    "[11:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[11:39] <cuccutbtdi> !kit Raid ",
-    "[11:39] [8b8t] >> Teleporting to home 0...",
-    "[11:39] [8b8t] >> Home 2 was not found",
     "[11:39] To cuccutbtdi: Your kit (Raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:39] Senpaimakda2 has made the advancement [Ice Bucket Challenge]",
     "[11:39] To cuccutbtdi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +93,15 @@
     "[11:40] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[11:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:40] <cuccutbtdi> !kit ",
-    "[11:40] To cuccutbtdi: Hello cuccutbtdi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[11:40] To cuccutbtdi: Hello cuccutbtdi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[11:41] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[11:41] <cuccutbtdi> !kit pvp ",
+    "[11:41] [8b8t] >> Teleporting to home 0...",
+    "[11:41] [8b8t] >> Teleporting to home 1...",
+    "[11:41] To cuccutbtdi: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:41] To cuccutbtdi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:41] [8b8t] >> Request sent to cuccutbtdi",
+    "[11:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3107,7 +3107,7 @@
     "BeThaMob": 5,
     "ImBaldz": 4,
     "TheRealSquidward": 3,
-    "cuccutbtdi": 7,
+    "cuccutbtdi": 8,
     "pratik55801": 1,
     "arno": 6,
     "PRO1567565": 1,
@@ -3254,7 +3254,7 @@
   "kitStats": {
     "build": 1556,
     "survival": 6222,
-    "pvp": 7906,
+    "pvp": 7907,
     "dupe": 2092,
     "tools": 1830,
     "stash": 1089,
