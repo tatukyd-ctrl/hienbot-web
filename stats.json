@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:42:33 13/1/2026",
+  "lastUpdated": "20:43:03 13/1/2026",
   "totalKits": 86107,
   "todayKits": 84,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 27,
-  "tps": "8.0",
-  "ping": 247,
+  "tps": "11.0",
+  "ping": 276,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:41] <MultiCraftero> !kit ",
-    "[13:41] To MultiCraftero: Hello MultiCraftero!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:41] <111DoMiNaToR111> !kits ",
-    "[13:41] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[13:41] <111DoMiNaToR111> !kit list ",
-    "[13:41] [8b8t] >> Teleporting to home 0...",
-    "[13:41] [8b8t] >> Teleporting to home 6...",
     "[13:41] To 111DoMiNaToR111: Kit \"list\" not found! Giving you (elytra) instead! dsc.gg/hienbot",
     "[13:41] To 111DoMiNaToR111: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:41] [8b8t] >> Request sent to 111DoMiNaToR111",
@@ -101,7 +94,14 @@
     "[13:42] [8b8t] >> Request sent to MultiCraftero",
     "[13:42] [8b8t] >> Teleporting...",
     "[13:42] <111DoMiNaToR111> !kit elytra ",
-    "[13:42] To 111DoMiNaToR111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[13:42] To 111DoMiNaToR111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:42] [8b8t] >> You have killed yourself!",
+    "[13:42] <111DoMiNaToR111> !kit elytra ",
+    "[13:42] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[13:42] To 111DoMiNaToR111: You're on cooldown, try again in 6 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:43] <icemortal99> !kit elytra ",
+    "[13:43] [8b8t] >> Teleporting to home 0...",
+    "[13:43] [8b8t] >> Teleporting to home 6..."
   ],
   "userStats": {
     "76756": 38,
@@ -3251,7 +3251,8 @@
     "pinkerton11_": 3,
     "Senpaimakda2": 5,
     "itz_laeeq": 5,
-    "111DoMiNaToR111": 1
+    "111DoMiNaToR111": 1,
+    "icemortal99": 1
   },
   "kitStats": {
     "build": 1558,
@@ -3287,6 +3288,6 @@
     "gterracotta": 81,
     "banner": 90,
     "illegal": 706,
-    "elytra": 108
+    "elytra": 109
   }
 }
