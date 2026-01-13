@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:09:33 14/1/2026",
+  "lastUpdated": "05:10:03 14/1/2026",
   "totalKits": 86511,
   "todayKits": 488,
   "onlineCount": 38,
   "peakPlayers": 50,
-  "tps": "7.0",
-  "ping": 252,
+  "tps": "4.0",
+  "ping": 249,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8023
+      "count": 8024
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:05] [8b8t] >> Teleporting to home 0...",
-    "[22:05] [8b8t] >> Home 2 was not found",
-    "[22:05] To Sxbz23: Your kit (Redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:05] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:05] [8b8t] >> Request sent to Sxbz23",
     "[22:05] [8b8t] >> Teleporting...",
     "[22:05] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[22:05] [8b8t] >> You have killed yourself!",
@@ -101,7 +96,12 @@
     "[22:08] <Sgamestream> i am not going there ",
     "[22:08] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[22:09] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[22:09] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base "
+    "[22:09] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
+    "[22:09] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[22:09] <RowuStuff> !kit pvp ",
+    "[22:10] [8b8t] >> Teleporting to home 0...",
+    "[22:10] [8b8t] >> Teleporting to home 1...",
+    "[22:10] To RowuStuff: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3288,12 +3288,13 @@
     "Thiagoelpro8925": 2,
     "platerofgold": 2,
     "chula123f": 1,
-    "PRO0098": 1
+    "PRO0098": 1,
+    "RowuStuff": 1
   },
   "kitStats": {
     "build": 1580,
     "survival": 6275,
-    "pvp": 8023,
+    "pvp": 8024,
     "dupe": 2153,
     "tools": 1865,
     "stash": 1107,
