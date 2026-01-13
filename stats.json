@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:15:43 13/1/2026",
-  "totalKits": 85965,
-  "todayKits": 244,
+  "lastUpdated": "16:16:43 13/1/2026",
+  "totalKits": 85966,
+  "todayKits": 245,
   "onlineCount": 15,
   "peakPlayers": 53,
-  "tps": "7.0",
-  "ping": 291,
+  "tps": "13.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1829
+      "count": 1830
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:13] [8b8t] >> Request sent to Shroom",
-    "[09:13] [8b8t] >> Teleporting...",
-    "[09:13] [8b8t] >> You have killed yourself!",
-    "[09:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:13] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[09:14] <brojustgame> !kit glass ",
-    "[09:14] [8b8t] >> Teleporting to home 0...",
-    "[09:14] [8b8t] >> Teleporting to home 7...",
-    "[09:14] To brojustgame: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:14] To brojustgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:14] [8b8t] >> Request sent to brojustgame",
     "[09:14] [8b8t] >> Teleporting...",
     "[09:14] [8b8t] >> You have killed yourself!",
     "[09:14] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
@@ -101,7 +90,18 @@
     "[09:15] To Shroom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:15] [8b8t] >> Request sent to Shroom",
     "[09:15] [8b8t] >> Teleporting...",
-    "[09:15] [8b8t] >> You have killed yourself!"
+    "[09:15] [8b8t] >> You have killed yourself!",
+    "[09:15] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[09:16] [BOT] <0_HienBot> >Hello DPS_Chatbridge! ",
+    "[09:16] <brojustgame> !kit glass ",
+    "[09:16] [8b8t] >> Teleporting to home 0...",
+    "[09:16] [8b8t] >> Teleporting to home 7...",
+    "[09:16] To brojustgame: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:16] To brojustgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:16] [8b8t] >> Request sent to brojustgame",
+    "[09:16] <bigjuicyboosbsb> !kit survival ",
+    "[09:16] To bigjuicyboosbsb: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3241,14 +3241,14 @@
     ".BiggerDoor7800": 1,
     "Adm1rable_Degus": 3,
     "WuguiLuigi": 1,
-    "brojustgame": 15
+    "brojustgame": 16
   },
   "kitStats": {
     "build": 1554,
     "survival": 6216,
     "pvp": 7896,
     "dupe": 2087,
-    "tools": 1829,
+    "tools": 1830,
     "stash": 1086,
     "raid": 1276,
     "wood": 529,
