@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:16:15 14/1/2026",
+  "lastUpdated": "05:16:33 14/1/2026",
   "totalKits": 86514,
   "todayKits": 491,
   "onlineCount": 39,
   "peakPlayers": 50,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 254,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2155
+      "count": 2156
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:14] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[22:15] <GGGLEVANIKO> can some1 help me to get out of spawn? ",
-    "[22:15] [Ultra] <MindComplexity> no ",
-    "[22:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[22:15] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[22:15] [Youtuber] <elproplayerxddd> acept tp ",
-    "[22:15] [8b8t] >> You have killed yourself!",
     "[22:15] [8b8t] >> The TPA request you sent to PRO0098 was successfully canceled.",
     "[22:15] <MrPinkEye> !kit ",
     "[22:15] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[22:16] RowuStuff has made the advancement [We Need to Go Deeper]",
     "[22:16] To leopro294: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[22:16] [8b8t] >> Request sent to leopro294",
-    "[22:16] [8b8t] >> Teleporting..."
+    "[22:16] [8b8t] >> Teleporting...",
+    "[22:16] <GGGLEVANIKO> !kit dupe ",
+    "[22:16] To GGGLEVANIKO: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:16] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[22:16] <PRO0098> !kit dupe ",
+    "[22:16] [8b8t] >> Teleporting to home 0...",
+    "[22:16] [8b8t] >> Teleporting to home 7...",
+    "[22:16] To PRO0098: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3288,14 +3288,14 @@
     "Thiagoelpro8925": 2,
     "platerofgold": 2,
     "chula123f": 1,
-    "PRO0098": 3,
+    "PRO0098": 4,
     "RowuStuff": 1
   },
   "kitStats": {
     "build": 1581,
     "survival": 6276,
     "pvp": 8024,
-    "dupe": 2155,
+    "dupe": 2156,
     "tools": 1865,
     "stash": 1107,
     "raid": 1306,
