@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:04:51 14/1/2026",
+  "lastUpdated": "03:05:03 14/1/2026",
   "totalKits": 86439,
   "todayKits": 416,
-  "onlineCount": 44,
+  "onlineCount": 43,
   "peakPlayers": 50,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 256,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:04] [8b8t] >> Request sent to Night_883",
-    "[20:04] <MilangaOxi> ok ",
-    "[20:04] [8b8t] >> Teleporting...",
-    "[20:04] <miguel_gamer_777> Me conecto mañana ",
-    "[20:04] <ParaCraftero> !kit ",
     "[20:04] To ParaCraftero: Hello ParaCraftero!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[20:04] <lyzenix> sa ",
     "[20:04] <ParaCraftero> !kit glass ",
@@ -101,7 +96,12 @@
     "[20:04] <Saad2001> ?kit 32k ",
     "[20:04] To Saad2001: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:04] <miguel_gamer_777> Chau ",
-    "[20:04] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
+    "[20:04] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[20:04] [8b8t] >> You have killed yourself!",
+    "[20:05] <stuck_alt> ?kit mapart ",
+    "[20:05] [8b8t] >> Teleporting to home 0...",
+    "[20:05] [8b8t] >> Teleporting to home 4...",
+    "[20:05] To stuck_alt: Kit \"mapart\" not found! Giving you (dye) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2574,7 +2574,7 @@
     "6foot": 1,
     "seashell8950": 4,
     "SENIOREMONEY": 1,
-    "stuck_alt": 53,
+    "stuck_alt": 54,
     "efraddada": 51,
     "hmadyuh": 41,
     ".XBLAZEFOOTX": 5,
@@ -3292,7 +3292,7 @@
     "raid": 1303,
     "wood": 535,
     "exp": 746,
-    "dye": 326,
+    "dye": 327,
     "wool": 427,
     "mineral": 575,
     "food": 497,
