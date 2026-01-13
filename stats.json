@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:43:33 14/1/2026",
+  "lastUpdated": "03:44:03 14/1/2026",
   "totalKits": 86471,
   "todayKits": 448,
-  "onlineCount": 42,
+  "onlineCount": 43,
   "peakPlayers": 50,
-  "tps": "1.0",
-  "ping": 261,
+  "tps": "3.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8009
+      "count": 8010
     },
     {
       "name": "survival",
@@ -72,25 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:42] <r081ns> !kit elytras ",
-    "[20:42] To r081ns: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:42] <.WOOXERMC> ke ",
-    "[20:42] botchaosonix Whispers: !kit pvp",
-    "[20:42] To botchaosonix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:42] [Ultra] <HTP1P0> botchaosonix que flojera das neta deja de ser tan marica ni los de grim putean tanto ",
-    "[20:42] <matiasbbya1234> Ayumii esperame ",
-    "[20:42] <Ayumii> oki ",
-    "[20:42] <Sxbz23> andamos re lejos de mi baseç ",
-    "[20:42] <matiasbbya1234> si quieres as la base ",
-    "[20:42] <botchaosonix> i dont know spain ",
-    "[20:42] [8b8t] >> You have killed yourself!",
-    "[20:42] [8b8t] >> The TPA request you sent to Aeriak64HD was successfully canceled.",
-    "[20:42] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[20:42] <.WOOXERMC> pfff ",
-    "[20:42] <Ayumii> pero aquí no w ",
-    "[20:43] <Sxbz23> !kit elytras ",
-    "[20:43] [8b8t] >> Teleporting to home 0...",
-    "[20:43] [8b8t] >> Home 2 was not found",
     "[20:43] To Sxbz23: Kit \"elytras\" not found! Giving you (raid) instead! dsc.gg/hienbot",
     "[20:43] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:43] [8b8t] >> Request sent to Sxbz23",
@@ -101,7 +82,26 @@
     "[20:43] <Lykeis> t ",
     "[20:43] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[20:43] <Aeriak64HD> !kit pvp ",
-    "[20:43] To Aeriak64HD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[20:43] To Aeriak64HD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:43] <Aeriak64HD> !kit pvp ",
+    "[20:43] To Aeriak64HD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:43] <Aeriak64HD> !kit pvp ",
+    "[20:43] [8b8t] >> You have killed yourself!",
+    "[20:43] To Aeriak64HD: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:43] [8b8t] >> The TPA request you sent to Sxbz23 was successfully canceled.",
+    "[20:43] <Night_883> alguien tiene un nuevo dupeo? ",
+    "[20:43] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[20:43] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[20:43] <Sxbz23> vea su inventario ",
+    "[20:43] <r081ns> !kit pvp ",
+    "[20:43] [8b8t] >> Teleporting to home 0...",
+    "[20:43] [8b8t] >> Teleporting to home 1...",
+    "[20:43] To r081ns: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:43] <Doraemon073> manteca tienes dc ",
+    "[20:43] <Manteca_Prime> Doraemon073 y? ",
+    "[20:44] To r081ns: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:44] <Doraemon073> te paso captura ",
+    "[20:44] [8b8t] >> Request sent to r081ns"
   ],
   "userStats": {
     "76756": 38,
@@ -3282,12 +3282,13 @@
     "Berserk_42": 1,
     "TeddyR1p": 2,
     "PrismarineBricks": 1,
-    "Sxbz23": 7
+    "Sxbz23": 7,
+    "r081ns": 1
   },
   "kitStats": {
     "build": 1578,
     "survival": 6269,
-    "pvp": 8009,
+    "pvp": 8010,
     "dupe": 2148,
     "tools": 1864,
     "stash": 1106,
