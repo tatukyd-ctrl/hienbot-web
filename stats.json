@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:22:50 13/1/2026",
+  "lastUpdated": "09:23:13 13/1/2026",
   "totalKits": 85797,
   "todayKits": 76,
   "onlineCount": 25,
   "peakPlayers": 53,
-  "tps": "6.0",
+  "tps": "7.0",
   "ping": 257,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:22] <donzx11> !kit ",
-    "[02:22] To donzx11: Hello donzx11!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:22] <2328jheremy2> !kit concrete ",
-    "[02:22] To 2328jheremy2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:22] <VolksWagenJetta_> !kit dig ",
-    "[02:22] To VolksWagenJetta_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:22] <_Tocanenas> sabes de algun ",
     "[02:22] <MrPinkEye> !kit ",
     "[02:22] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[02:22] <_Tocanenas> kit que de beacon ",
@@ -101,7 +94,14 @@
     "[02:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:22] [8b8t] >> Teleporting...",
     "[02:22] <_Tocanenas> !kit mine ",
-    "[02:22] To _Tocanenas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[02:22] To _Tocanenas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:22] [8b8t] >> You have killed yourself!",
+    "[02:23] 2328jheremy2 has made the advancement [Stone Age]",
+    "[02:23] <.Maddie8171111> !kit mine ",
+    "[02:23] [8b8t] >> Teleporting to home 0...",
+    "[02:23] [8b8t] >> Teleporting to home 3...",
+    "[02:23] To .Maddie8171111: Your kit (mine) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:23] To .Maddie8171111: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -375,7 +375,7 @@
     "GPT_AI": 15,
     "yagoteaa": 10,
     "Davidsegov": 1,
-    ".Maddie8171111": 72,
+    ".Maddie8171111": 73,
     "UsuX": 26,
     "sandor412": 1,
     "dudax": 4,
@@ -3241,7 +3241,7 @@
     "exp": 727,
     "dye": 319,
     "wool": 411,
-    "mineral": 569,
+    "mineral": 570,
     "food": 483,
     "redstone": 774,
     "toolbox": 710,
