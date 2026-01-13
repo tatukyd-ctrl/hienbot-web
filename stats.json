@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:43:59 13/1/2026",
+  "lastUpdated": "14:44:13 13/1/2026",
   "totalKits": 85907,
   "todayKits": 186,
   "onlineCount": 19,
   "peakPlayers": 53,
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 259,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:40] [8b8t] >> You have killed yourself!",
-    "[07:40] [BOT] <0_HienBot> >Welcome to 8b8t, ItsTraits! ",
-    "[07:40] <.AdrianTecnic> alguien me trae un kit survival por favor ",
-    "[07:40] <.AdrianTecnic> para salir del spawn ",
-    "[07:40] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[07:40] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[07:41] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[07:41] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[07:42] JOAKO_CABJ has made the advancement [Not Quite \"Nine\" Lives]",
     "[07:42] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +94,14 @@
     "[07:43] To SHAD0W_120: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:43] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[07:43] [8b8t] >> Teleporting..."
+    "[07:43] [8b8t] >> Teleporting...",
+    "[07:44] [8b8t] >> You have killed yourself!",
+    "[07:44] <.BiggerDoor7800> !kit survival ",
+    "[07:44] [8b8t] >> Teleporting to home 0...",
+    "[07:44] [8b8t] >> Home 2 was not found",
+    "[07:44] To .BiggerDoor7800: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:44] To .BiggerDoor7800: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:44] [8b8t] >> Request sent to .BiggerDoor7800"
   ],
   "userStats": {
     "76756": 38,
@@ -3237,7 +3237,8 @@
     "Jewishc": 11,
     "ITZvihaangamer": 8,
     "itsblockyy": 4,
-    "JOAKO_CABJ": 1
+    "JOAKO_CABJ": 1,
+    ".BiggerDoor7800": 1
   },
   "kitStats": {
     "build": 1553,
@@ -3264,7 +3265,7 @@
     "ocean": 144,
     "concrete": 367,
     "glass": 306,
-    "gap": 175,
+    "gap": 176,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
