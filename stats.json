@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:15:43 13/1/2026",
+  "lastUpdated": "15:16:13 13/1/2026",
   "totalKits": 85919,
   "todayKits": 198,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 53,
-  "tps": "8.0",
+  "tps": "9.0",
   "ping": 245,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:11] <WuguiLuigi> !kit pvp ",
-    "[08:11] [8b8t] >> Teleporting to home 0...",
-    "[08:11] [8b8t] >> Teleporting to home 1...",
-    "[08:11] To WuguiLuigi: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:11] To WuguiLuigi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:11] [8b8t] >> Request sent to WuguiLuigi",
-    "[08:11] <Risky_Jaat> i am stuck here ",
     "[08:11] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[08:12] <ClashRoyal_777> !kit pvp ",
     "[08:12] To ClashRoyal_777: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[08:14] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[08:14] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[08:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:15] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
+    "[08:15] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[08:15] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[08:15] <j.abad> !kit survival ",
+    "[08:15] [8b8t] >> Teleporting to home 0...",
+    "[08:15] [8b8t] >> Home 2 was not found",
+    "[08:15] To j.abad: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:16] To j.abad: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:16] [8b8t] >> Request sent to j.abad"
   ],
   "userStats": {
     "76756": 38,
@@ -472,7 +472,7 @@
     "nafeje": 3,
     "LEON_NC": 3,
     "shoddyhawk81305": 15,
-    "j.abad": 41,
+    "j.abad": 42,
     "real_weak_bhai": 26,
     "KelpySilva": 8,
     "hackersito974": 1,
@@ -3267,7 +3267,7 @@
     "ocean": 144,
     "concrete": 367,
     "glass": 306,
-    "gap": 181,
+    "gap": 182,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 190,
