@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:00:29 13/1/2026",
+  "lastUpdated": "09:00:42 13/1/2026",
   "totalKits": 85775,
   "todayKits": 54,
   "onlineCount": 25,
   "peakPlayers": 53,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 263,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7845
+      "count": 7846
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:59] <Basado__> como mierdas salgo del spawn ",
-    "[01:59] To _Tocanenas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:59] [8b8t] >> Request sent to _Tocanenas",
     "[01:59] [8b8t] >> Teleporting...",
     "[01:59] <_Tocanenas> Basado__ ",
@@ -101,7 +99,9 @@
     "[02:00] <_Tocanenas> !kit elytra ",
     "[02:00] To _Tocanenas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:00] [8b8t] >> Request sent to _Tocanenas",
-    "[02:00] [8b8t] >> Teleporting..."
+    "[02:00] [8b8t] >> Teleporting...",
+    "[02:00] [8b8t] >> You have killed yourself!",
+    "[02:00] <MultiCraftero> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3190,7 +3190,7 @@
     "islakdonavcizi31": 30,
     "yusyf_56": 7,
     "W18": 14,
-    "MultiCraftero": 16,
+    "MultiCraftero": 17,
     "lord_nemesiz": 1,
     "waki_z05x": 6,
     "waximo": 1,
@@ -3230,7 +3230,7 @@
   "kitStats": {
     "build": 1552,
     "survival": 6208,
-    "pvp": 7845,
+    "pvp": 7846,
     "dupe": 2064,
     "tools": 1822,
     "stash": 1078,
