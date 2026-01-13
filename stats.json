@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:32:19 13/1/2026",
+  "lastUpdated": "22:32:33 13/1/2026",
   "totalKits": 86190,
   "todayKits": 167,
-  "onlineCount": 40,
-  "peakPlayers": 40,
-  "tps": "1.0",
+  "onlineCount": 41,
+  "peakPlayers": 41,
+  "tps": "3.0",
   "ping": 251,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7937
+      "count": 7938
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:31] [8b8t] >> Teleporting to home 0...",
-    "[15:31] [8b8t] >> Teleporting to home 4...",
-    "[15:31] To lifegamer50: Kit \"hacker\" not found! Giving you (terracotta) instead! dsc.gg/hienbot",
-    "[15:31] <donzx11> !kit survival ",
-    "[15:31] To donzx11: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:31] <ParaCraftero> sigueme jsu ",
     "[15:31] To lifegamer50: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:31] [8b8t] >> Request sent to lifegamer50",
     "[15:31] [BOT] <0_HienBot> >Welcome to 8b8t, josuealegriaXD! ",
@@ -101,7 +95,13 @@
     "[15:32] To dragonkit: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:32] To dragonkit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:32] [8b8t] >> Request sent to dragonkit",
-    "[15:32] [8b8t] >> Teleporting..."
+    "[15:32] [8b8t] >> Teleporting...",
+    "[15:32] [8b8t] >> You have killed yourself!",
+    "[15:32] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[15:32] <ParaCraftero> !kit pvp ",
+    "[15:32] [8b8t] >> Teleporting to home 0...",
+    "[15:32] [8b8t] >> Teleporting to home 1...",
+    "[15:32] To ParaCraftero: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3074,7 +3074,7 @@
     "yiddhater586": 2,
     "joacote1209": 3,
     "el4lejoo0o_": 2,
-    "ParaCraftero": 14,
+    "ParaCraftero": 15,
     "goofpoof12": 2,
     "BlameTK": 1,
     "Aeriak64HD": 60,
@@ -3266,7 +3266,7 @@
   "kitStats": {
     "build": 1561,
     "survival": 6235,
-    "pvp": 7937,
+    "pvp": 7938,
     "dupe": 2101,
     "tools": 1852,
     "stash": 1092,
