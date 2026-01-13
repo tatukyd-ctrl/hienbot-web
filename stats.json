@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:03:13 13/1/2026",
+  "lastUpdated": "09:03:43 13/1/2026",
   "totalKits": 85779,
   "todayKits": 58,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 53,
-  "tps": "5.0",
-  "ping": 258,
+  "tps": "8.0",
+  "ping": 262,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:01] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[02:01] [8b8t] >> You have killed yourself!",
-    "[02:01] [BOT] <0_HienBot> >What's up, MindComplexity? ",
-    "[02:01] <VolksWagenJetta_> !kit pvp ",
-    "[02:01] [8b8t] >> Teleporting to home 0...",
-    "[02:01] [8b8t] >> Teleporting to home 1...",
-    "[02:01] To VolksWagenJetta_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:01] To VolksWagenJetta_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:01] [8b8t] >> Request sent to VolksWagenJetta_",
     "[02:02] <.BattyClock07029> !kit ",
     "[02:02] To .BattyClock07029: Hello .BattyClock07029!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[02:03] <_TATl_> !kit ",
     "[02:03] To _TATl_: Hello _TATl_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[02:03] [8b8t] >> You have killed yourself!",
-    "[02:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[02:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[02:03] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[02:03] <_TATl_> !kit stash ",
+    "[02:03] [8b8t] >> Teleporting to home 0...",
+    "[02:03] [8b8t] >> Home 2 was not found",
+    "[02:03] To _TATl_: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:03] To _TATl_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:03] [8b8t] >> Request sent to _TATl_",
+    "[02:03] <_Tocanenas> a quien me tepeo? "
   ],
   "userStats": {
     "76756": 38,
@@ -1846,7 +1846,7 @@
     "20172472617": 4,
     ".PeppyTiger85208": 3,
     "SP_0": 14,
-    "_TATl_": 14,
+    "_TATl_": 15,
     "DonkyHot": 4,
     "aNasaDude": 16,
     "Elpajitas32": 1,
@@ -3234,7 +3234,7 @@
     "pvp": 7847,
     "dupe": 2064,
     "tools": 1822,
-    "stash": 1078,
+    "stash": 1079,
     "raid": 1260,
     "wood": 528,
     "exp": 727,
