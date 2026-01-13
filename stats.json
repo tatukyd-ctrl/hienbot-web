@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:35:42 13/1/2026",
+  "lastUpdated": "08:36:12 13/1/2026",
   "totalKits": 85757,
   "todayKits": 36,
-  "onlineCount": 24,
+  "onlineCount": 25,
   "peakPlayers": 53,
   "tps": "6.0",
   "ping": 261,
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2060
+      "count": 2061
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:32] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[01:32] <.acesan4514> !kit wool ",
-    "[01:32] [8b8t] >> Teleporting to home 0...",
-    "[01:32] [8b8t] >> Teleporting to home 3...",
-    "[01:32] To .acesan4514: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:32] To .acesan4514: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:32] [8b8t] >> Request sent to .acesan4514",
     "[01:32] [8b8t] >> Teleporting...",
     "[01:33] [8b8t] >> You have killed yourself!",
@@ -101,7 +95,13 @@
     "[01:34] [8b8t] >> Please do not spam.",
     "[01:34] [8b8t] >> You have killed yourself!",
     "[01:35] <sk_gaming_dd> tpahere tp ",
-    "[01:35] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
+    "[01:35] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[01:35] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[01:36] <pktuban> !kit op ",
+    "[01:36] [8b8t] >> Teleporting to home 0...",
+    "[01:36] [8b8t] >> Teleporting to home 7...",
+    "[01:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[01:36] To pktuban: Your kit (op) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3222,13 +3222,13 @@
     "Clipnon": 1,
     ".Uzibrian123": 2,
     "_Tocanenas": 4,
-    "pktuban": 1
+    "pktuban": 2
   },
   "kitStats": {
     "build": 1552,
     "survival": 6207,
     "pvp": 7841,
-    "dupe": 2060,
+    "dupe": 2061,
     "tools": 1822,
     "stash": 1078,
     "raid": 1259,
