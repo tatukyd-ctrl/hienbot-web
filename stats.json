@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:07:12 13/1/2026",
+  "lastUpdated": "08:07:42 13/1/2026",
   "totalKits": 85743,
   "todayKits": 22,
-  "onlineCount": 23,
+  "onlineCount": 26,
   "peakPlayers": 53,
   "tps": "3.0",
-  "ping": 268,
+  "ping": 258,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 7832
+      "count": 7833
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:05] [8b8t] >> You have killed yourself!",
-    "[01:05] <Okoksus> $kit ",
-    "[01:05] To Okoksus: Hello Okoksus!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:05] <Okoksus> $kit donkeydupe ",
-    "[01:05] [8b8t] >> Teleporting to home 0...",
-    "[01:05] [8b8t] >> Teleporting to home 3...",
-    "[01:05] To Okoksus: Kit \"donkeydupe\" not found! Giving you (wood) instead! dsc.gg/hienbot",
-    "[01:05] To Okoksus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:05] [8b8t] >> Request sent to Okoksus",
     "[01:05] <Okoksus> $donkey dupe ",
     "[01:05] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
@@ -101,7 +93,15 @@
     "[01:06] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[01:06] [8b8t] >> You have killed yourself!",
     "[01:07] <matiasbbya1234> !kit pvp ",
-    "[01:07] To matiasbbya1234: You're on cooldown, try again in 22 seconds! Dont forget to join dsc.gg/hienbot"
+    "[01:07] To matiasbbya1234: You're on cooldown, try again in 22 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:07] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[01:07] <matiasbbya1234> !kit pvp ",
+    "[01:07] To matiasbbya1234: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:07] <matiasbbya1234> !kit pvp ",
+    "[01:07] [8b8t] >> Teleporting to home 0...",
+    "[01:07] [8b8t] >> Teleporting to home 1...",
+    "[01:07] To matiasbbya1234: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:07] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -3211,7 +3211,7 @@
     ".Pichuckrak": 5,
     "pepe69ff": 1,
     "Theoad92025": 3,
-    "matiasbbya1234": 8,
+    "matiasbbya1234": 9,
     "NS_FRIKI": 2,
     ".acesan4514": 7,
     "ignacio2456": 20,
@@ -3225,7 +3225,7 @@
   "kitStats": {
     "build": 1552,
     "survival": 6207,
-    "pvp": 7832,
+    "pvp": 7833,
     "dupe": 2059,
     "tools": 1822,
     "stash": 1077,
