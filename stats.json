@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:04:34 14/1/2026",
+  "lastUpdated": "18:05:04 14/1/2026",
   "totalKits": 86803,
   "todayKits": 216,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 50,
-  "tps": "9.0",
-  "ping": 254,
+  "tps": "12.0",
+  "ping": 265,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8115
+      "count": 8116
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:03] <osmankral123123> bekliyom ",
-    "[11:03] <DrVenial31> bulamadım tnt ",
-    "[11:03] <osmankral123123> ben çekemem basedeyim ",
-    "[11:03] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[11:03] <DrVenial31> oke bekl ",
-    "[11:03] <osmankral123123> sen kabul et ",
-    "[11:03] <DrVenial31> tp ",
-    "[11:03] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[11:03] <.LEON50758> geldim ",
-    "[11:03] <osmankral123123> attım ",
     "[11:03] <DrVenial31> tp osman ",
     "[11:03] <osmankral123123> attım ",
     "[11:04] <DrVenial31> gene ",
@@ -101,7 +91,17 @@
     "[11:04] [8b8t] >> You have killed yourself!",
     "[11:04] <alghoul_1> !kit ",
     "[11:04] To alghoul_1: Hello alghoul_1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[11:04] <DrVenial31> osman tp "
+    "[11:04] <DrVenial31> osman tp ",
+    "[11:04] <alghoul_1> !kit pvp ",
+    "[11:04] [8b8t] >> Teleporting to home 0...",
+    "[11:04] [8b8t] >> Teleporting to home 1...",
+    "[11:04] To alghoul_1: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:04] To alghoul_1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:04] [8b8t] >> Request sent to alghoul_1",
+    "[11:04] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[11:04] <osmankral123123> al ",
+    "[11:04] <.LEON50758> -41121.28 63.00 -15968.30 ",
+    "[11:05] <DrVenial31> eyw "
   ],
   "userStats": {
     "76756": 38,
@@ -3324,12 +3324,13 @@
     "Rich_miner": 3,
     "cappuccino_": 1,
     "osmankral123123": 5,
-    "Akross17": 4
+    "Akross17": 4,
+    "alghoul_1": 1
   },
   "kitStats": {
     "build": 1600,
     "survival": 6330,
-    "pvp": 8115,
+    "pvp": 8116,
     "dupe": 2189,
     "tools": 1884,
     "stash": 1121,
