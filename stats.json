@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:20:07 14/1/2026",
-  "totalKits": 86950,
-  "todayKits": 40,
-  "onlineCount": 33,
+  "lastUpdated": "22:20:28 14/1/2026",
+  "totalKits": 86951,
+  "todayKits": 41,
+  "onlineCount": 31,
   "peakPlayers": 36,
-  "tps": "5.0",
-  "ping": 265,
+  "tps": "9.0",
+  "ping": 269,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8155
+      "count": 8156
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:18] <Doraemon073> quita eso ",
-    "[15:18] <miguel_gamer_777> Zñxd ",
-    "[15:18] <stuck_alt> baya iyi yapmissin simdiden ",
-    "[15:18] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[15:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:19] <UNHORIZON> !kit survival ",
-    "[15:19] [8b8t] >> Teleporting to home 0...",
-    "[15:19] [8b8t] >> Teleporting to home 1...",
-    "[15:19] To UNHORIZON: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:19] To UNHORIZON: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:19] [8b8t] >> Request sent to UNHORIZON",
     "[15:19] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[15:19] To BlackLeaf9284: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:20] To BlackLeaf9284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:20] [8b8t] >> Request sent to BlackLeaf9284",
-    "[15:20] [8b8t] >> Teleporting..."
+    "[15:20] [8b8t] >> Teleporting...",
+    "[15:20] [8b8t] >> You have killed yourself!",
+    "[15:20] <UNHORIZON> !kit pvp ",
+    "[15:20] [8b8t] >> Teleporting to home 0...",
+    "[15:20] [8b8t] >> Teleporting to home 1...",
+    "[15:20] To UNHORIZON: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:20] To UNHORIZON: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:20] [8b8t] >> Request sent to UNHORIZON",
+    "[15:20] [8b8t] >> Teleporting...",
+    "[15:20] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
   ],
   "userStats": {
     "76756": 38,
@@ -156,7 +156,7 @@
     "Live_Leak": 2,
     "Skullziy": 10,
     "ReljKo7": 6,
-    "UNHORIZON": 113,
+    "UNHORIZON": 114,
     "KUTYA123676": 1,
     "The_Bot_father": 10,
     "Vladmir25": 7,
@@ -3341,7 +3341,7 @@
   "kitStats": {
     "build": 1604,
     "survival": 6356,
-    "pvp": 8155,
+    "pvp": 8156,
     "dupe": 2196,
     "tools": 1889,
     "stash": 1128,
