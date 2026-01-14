@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:18:04 14/1/2026",
+  "lastUpdated": "09:18:34 14/1/2026",
   "totalKits": 86653,
   "todayKits": 66,
   "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 256,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8065
+      "count": 8066
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:15] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[02:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[02:15] [8b8t] >> You have killed yourself!",
-    "[02:15] [8b8t] >> The TPA request you sent to _Tocanenas was successfully canceled.",
-    "[02:15] <MrPinkEye> !kit ",
-    "[02:15] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:15] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[02:16] [BOT] <0_HienBot> >Hello kendricklover132! ",
-    "[02:16] <_Tocanenas> !kit sgamestreams ",
-    "[02:16] To _Tocanenas: You're on cooldown, try again in 9 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:16] <_Tocanenas> !kit sgamestreams ",
     "[02:16] To _Tocanenas: You're on cooldown, try again in 1 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:16] <_Tocanenas> !kit sgamestreams ",
     "[02:16] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +90,18 @@
     "[02:17] Lunilla07 has reached the goal [Sky's the Limit]",
     "[02:17] Lunilla07 has completed the challenge [Cover Me in Debris]",
     "[02:17] <plag4xxx> emos vueltooooooo ",
-    "[02:17] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
+    "[02:17] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[02:18] <_Tocanenas> !kit pvp ",
+    "[02:18] [8b8t] >> Teleporting to home 0...",
+    "[02:18] [8b8t] >> Teleporting to home 1...",
+    "[02:18] To _Tocanenas: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:18] To _Tocanenas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:18] [8b8t] >> Request sent to _Tocanenas",
+    "[02:18] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[02:18] <Okoksus> herwe ",
+    "[02:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[02:18] <plag4xxx> bueno busco team pa dominar sv alguien? ",
+    "[02:18] [8b8t] >> The TPA request you sent to _Tocanenas has expired."
   ],
   "userStats": {
     "76756": 38,
@@ -3221,7 +3221,7 @@
     "seasnail798": 1,
     "Clipnon": 1,
     ".Uzibrian123": 2,
-    "_Tocanenas": 25,
+    "_Tocanenas": 26,
     "pktuban": 2,
     "LicorneExplosive": 1,
     "teamopapi": 6,
@@ -3309,7 +3309,7 @@
   "kitStats": {
     "build": 1587,
     "survival": 6309,
-    "pvp": 8065,
+    "pvp": 8066,
     "dupe": 2169,
     "tools": 1874,
     "stash": 1115,
