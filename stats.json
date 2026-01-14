@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:50:34 14/1/2026",
+  "lastUpdated": "13:51:04 14/1/2026",
   "totalKits": 86733,
   "todayKits": 146,
-  "onlineCount": 20,
+  "onlineCount": 19,
   "peakPlayers": 50,
-  "tps": "6.0",
-  "ping": 284,
+  "tps": "7.0",
+  "ping": 352,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8089
+      "count": 8090
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:48] <player_69> !ping ",
-    "[06:48] To player_69: Your ping is: 276 ms Dont forget to join dsc.gg/hienbot",
-    "[06:48] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[06:49] <player_69> !kit pvp ",
-    "[06:49] [8b8t] >> Teleporting to home 0...",
-    "[06:49] [8b8t] >> Teleporting to home 1...",
-    "[06:49] To player_69: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:49] <Juul> , ",
     "[06:49] To player_69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:49] [8b8t] >> Request sent to player_69",
     "[06:49] [BOT] <0_HienBot> >Type !discord ",
@@ -101,7 +93,15 @@
     "[06:50] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[06:50] [8b8t] >> You have killed yourself!",
     "[06:50] <MrPinkEye> !kit ",
-    "[06:50] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[06:50] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[06:50] <player_69> !kit pvp ",
+    "[06:50] To player_69: You're on cooldown, try again in 1 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:50] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[06:50] <player_69> !kit pvp ",
+    "[06:50] [8b8t] >> Teleporting to home 0...",
+    "[06:50] [8b8t] >> Teleporting to home 1...",
+    "[06:51] To player_69: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:51] To player_69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -398,7 +398,7 @@
     "irodrigo_pro3": 3,
     "om07719": 1,
     "ClashRoyal_777": 18,
-    "player_69": 5,
+    "player_69": 6,
     "Abanoub67": 49,
     "grxyhdhshs": 1,
     "OPMARZAN12": 16,
@@ -3321,7 +3321,7 @@
   "kitStats": {
     "build": 1591,
     "survival": 6322,
-    "pvp": 8089,
+    "pvp": 8090,
     "dupe": 2181,
     "tools": 1876,
     "stash": 1119,
