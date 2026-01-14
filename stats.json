@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:57:04 14/1/2026",
-  "totalKits": 86643,
-  "todayKits": 56,
+  "lastUpdated": "08:57:28 14/1/2026",
+  "totalKits": 86644,
+  "todayKits": 57,
   "onlineCount": 35,
   "peakPlayers": 50,
   "tps": "4.0",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8063
+      "count": 8064
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:55] To .Peng1sPlay: Hello .Peng1sPlay!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:55] <Okoksus> !kit cpvp ",
-    "[01:55] [8b8t] >> Teleporting to home 0...",
-    "[01:55] [8b8t] >> Teleporting to home 1...",
-    "[01:55] To Okoksus: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:55] To Okoksus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:55] [8b8t] >> Request sent to Okoksus",
-    "[01:55] [8b8t] >> Teleporting...",
-    "[01:55] [8b8t] >> You have killed yourself!",
-    "[01:56] <.Peng1sPlay> !kit pvp ",
-    "[01:56] [8b8t] >> Teleporting to home 0...",
     "[01:56] [8b8t] >> Teleporting to home 1...",
     "[01:56] To .Peng1sPlay: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:56] To .Peng1sPlay: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +89,19 @@
     "[01:56] <joquinsa> alguien que me ayude pls ",
     "[01:56] <ASneakySenior> ok ",
     "[01:56] <.Peng1sPlay> !kit ",
-    "[01:56] To .Peng1sPlay: Hello .Peng1sPlay!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[01:56] To .Peng1sPlay: Hello .Peng1sPlay!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:57] <.Peng1sPlay> !kit elytra ",
+    "[01:57] To .Peng1sPlay: You're on cooldown, try again in 35 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:57] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[01:57] <Okoksus> !kit cpvp ",
+    "[01:57] [8b8t] >> Teleporting to home 0...",
+    "[01:57] [XMAS2025] <kendricklover132> c ",
+    "[01:57] [8b8t] >> Teleporting to home 1...",
+    "[01:57] To Okoksus: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:57] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[01:57] To Okoksus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:57] [8b8t] >> Request sent to Okoksus",
+    "[01:57] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3168,7 +3168,7 @@
     "Nic0laxxd": 3,
     "AlexanderMC5431": 4,
     "IrieFlow": 2,
-    "Okoksus": 32,
+    "Okoksus": 33,
     "LuceroWolf": 1,
     "tomasito111": 4,
     "Correasamuji": 3,
@@ -3309,7 +3309,7 @@
   "kitStats": {
     "build": 1587,
     "survival": 6308,
-    "pvp": 8063,
+    "pvp": 8064,
     "dupe": 2169,
     "tools": 1874,
     "stash": 1114,
