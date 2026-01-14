@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:33:23 15/1/2026",
+  "lastUpdated": "06:33:53 15/1/2026",
   "totalKits": 87273,
   "todayKits": 310,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 56,
-  "tps": "1.0",
-  "ping": 268,
+  "tps": "4.0",
+  "ping": 280,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8232
+      "count": 8233
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:31] <.Olm3053> !kit banner ",
-    "[23:31] [8b8t] >> Teleporting to home 0...",
-    "[23:31] [8b8t] >> Teleporting to home 3...",
-    "[23:32] To .Olm3053: Your kit (banner) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:32] <ekravcho132> !kit ",
-    "[23:32] To ekravcho132: Hello ekravcho132!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:32] To .Olm3053: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:32] [8b8t] >> Request sent to .Olm3053",
-    "[23:32] <ekravcho132> !kit survival ",
-    "[23:32] To ekravcho132: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:32] [8b8t] >> Teleporting...",
     "[23:32] .SmoothedRain297 has reached the goal [Postmortal]",
     "[23:32] [BOT] <0_HienBot> >Welcome to 8b8t, CommonHat! ",
     "[23:32] [8b8t] >> You have killed yourself!",
@@ -101,7 +90,18 @@
     "[23:32] ekravcho132 has reached the goal [Sky's the Limit]",
     "[23:32] ekravcho132 has completed the challenge [Serious Dedication]",
     "[23:32] ekravcho132 has made the advancement [Ice Bucket Challenge]",
-    "[23:33] [BOT] <0_HienBot> >Type !кιт  to get free kits "
+    "[23:33] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[23:33] <ekravcho132> !CORDS ",
+    "[23:33] <Manteiga_Gg8> !kit pvp ",
+    "[23:33] [8b8t] >> Teleporting to home 0...",
+    "[23:33] [8b8t] >> Teleporting to home 1...",
+    "[23:33] To Manteiga_Gg8: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:33] To Manteiga_Gg8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:33] [8b8t] >> Request sent to Manteiga_Gg8",
+    "[23:33] <peneflex> muxaxos ",
+    "[23:33] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[23:33] <peneflex> ayudenme ",
+    "[23:33] <peneflex> a salir de spawn "
   ],
   "userStats": {
     "76756": 38,
@@ -3378,13 +3378,13 @@
     "adambicen59": 1,
     "Kazuki_8": 4,
     "FaresBK": 5,
-    "Manteiga_Gg8": 1,
+    "Manteiga_Gg8": 2,
     "ekravcho132": 2
   },
   "kitStats": {
     "build": 1623,
     "survival": 6444,
-    "pvp": 8232,
+    "pvp": 8233,
     "dupe": 2257,
     "tools": 1899,
     "stash": 1144,
