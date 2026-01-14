@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:48:34 14/1/2026",
+  "lastUpdated": "16:49:04 14/1/2026",
   "totalKits": 86761,
   "todayKits": 174,
   "onlineCount": 21,
   "peakPlayers": 50,
   "tps": "10.0",
-  "ping": 261,
+  "ping": 269,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:46] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[09:46] <DrVenial31> lan bunu sen nası aldın ",
-    "[09:47] <.LEON50758> neyi ",
-    "[09:47] <DrVenial31> bunu ",
-    "[09:47] [8b8t] >> You have killed yourself!",
-    "[09:47] [8b8t] >> The TPA request you sent to DrVenial31 was successfully canceled.",
-    "[09:47] <Rich_miner> !kit mixed ",
-    "[09:47] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[09:47] [8b8t] >> Teleporting to home 0...",
     "[09:47] [8b8t] >> Teleporting to home 7...",
     "[09:47] To Rich_miner: Kit \"mixed\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
     "[09:47] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +92,16 @@
     "[09:48] An unexpected error occurred trying to execute that command",
     "[09:48] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[09:48] <Rich_miner> !kit ",
-    "[09:48] To Rich_miner: Hello Rich_miner!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[09:48] To Rich_miner: Hello Rich_miner!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[09:48] <DrVenial31> sen çık ",
+    "[09:48] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[09:48] <Rich_miner> !kit stash ",
+    "[09:48] [8b8t] >> Teleporting to home 0...",
+    "[09:48] [8b8t] >> Home 2 was not found",
+    "[09:48] To Rich_miner: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:48] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:48] [8b8t] >> Request sent to Rich_miner",
+    "[09:48] <DrVenial31> lan çık yenerim "
   ],
   "userStats": {
     "76756": 38,
@@ -3321,7 +3321,7 @@
     "7w7__": 3,
     "subux8": 5,
     "DrSquiddy69": 1,
-    "Rich_miner": 1
+    "Rich_miner": 2
   },
   "kitStats": {
     "build": 1596,
@@ -3329,7 +3329,7 @@
     "pvp": 8102,
     "dupe": 2185,
     "tools": 1878,
-    "stash": 1120,
+    "stash": 1121,
     "raid": 1323,
     "wood": 540,
     "exp": 752,
