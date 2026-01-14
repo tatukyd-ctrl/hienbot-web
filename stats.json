@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:44:04 14/1/2026",
+  "lastUpdated": "16:44:34 14/1/2026",
   "totalKits": 86759,
   "todayKits": 172,
-  "onlineCount": 19,
+  "onlineCount": 21,
   "peakPlayers": 50,
-  "tps": "8.0",
-  "ping": 270,
+  "tps": "9.0",
+  "ping": 265,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -18,7 +18,7 @@
     },
     {
       "name": ".LEON50758",
-      "count": 230
+      "count": 231
     },
     {
       "name": "DeadlyNyxian",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6323
+      "count": 6324
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:38] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[09:38] [8b8t] >> The TPA request you received from DrSquiddy69 has expired.",
-    "[09:38] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:38] <Rich_miner> !kit] ",
-    "[09:38] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[09:38] <Rich_miner> !kit ",
-    "[09:38] To Rich_miner: Hello Rich_miner!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[09:39] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[09:39] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[09:40] DrSquiddy69 has made the advancement [Ice Bucket Challenge]",
@@ -101,7 +94,14 @@
     "[09:43] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[09:43] [BOT] <0_HienBot> >Try !кιт survival ",
     "[09:43] <.LEON50758> onsidyen vr ",
-    "[09:43] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
+    "[09:43] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[09:44] [BOT] <0_HienBot> >What's up, Rich_miner? ",
+    "[09:44] <.LEON50758> !kit survival ",
+    "[09:44] [8b8t] >> Teleporting to home 0...",
+    "[09:44] [8b8t] >> Teleporting to home 1...",
+    "[09:44] To .LEON50758: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:44] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:44] [8b8t] >> Request sent to .LEON50758"
   ],
   "userStats": {
     "76756": 38,
@@ -324,7 +324,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 19,
     "alastor_gamer89": 6,
-    ".LEON50758": 230,
+    ".LEON50758": 231,
     "Saad2001": 53,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -3324,7 +3324,7 @@
   },
   "kitStats": {
     "build": 1596,
-    "survival": 6323,
+    "survival": 6324,
     "pvp": 8101,
     "dupe": 2184,
     "tools": 1878,
