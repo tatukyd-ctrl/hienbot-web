@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:09:33 14/1/2026",
+  "lastUpdated": "08:10:03 14/1/2026",
   "totalKits": 86620,
   "todayKits": 33,
   "onlineCount": 26,
   "peakPlayers": 50,
   "tps": "5.0",
-  "ping": 246,
+  "ping": 280,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:08] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[01:08] <VortexTrapper> !kitlist ",
-    "[01:08] [8b8t] >> Sxbz23 has denied your request",
-    "[01:09] <Sxbz23> !kit elytra ",
-    "[01:09] To Sxbz23: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:09] <.Maddie8171111> !kit highway ",
-    "[01:09] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:09] <Okoksus> !kit toliet ",
-    "[01:09] To Okoksus: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:09] <.Maddie8171111> !kit highway ",
     "[01:09] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:09] <VortexTrapper> !kit ",
@@ -101,7 +92,16 @@
     "[01:09] [8b8t] >> Teleporting...",
     "[01:09] <Okoksus> unlooted bastion ",
     "[01:09] <Sxbz23> cuidao con mi bebe ",
-    "[01:09] [8b8t] >> You have killed yourself!"
+    "[01:09] [8b8t] >> You have killed yourself!",
+    "[01:09] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
+    "[01:09] <Sxbz23> lk espere ",
+    "[01:09] <VortexTrapper> !kit concrete ",
+    "[01:09] [8b8t] >> Teleporting to home 0...",
+    "[01:09] [8b8t] >> Teleporting to home 3...",
+    "[01:09] To VortexTrapper: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:10] To VortexTrapper: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:10] [8b8t] >> Request sent to VortexTrapper",
+    "[01:10] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -887,7 +887,7 @@
     "R29EER": 8,
     "rives": 2,
     "AleeMC": 1,
-    "VortexTrapper": 18,
+    "VortexTrapper": 19,
     "poeutlkflbva": 5,
     "dylan_332323": 12,
     ".Elpro1314G": 16,
@@ -3325,7 +3325,7 @@
     "armortrims": 528,
     "highway": 618,
     "ocean": 152,
-    "concrete": 380,
+    "concrete": 381,
     "glass": 309,
     "gap": 206,
     "constructor": "function Object() { [native code] }111111111",
