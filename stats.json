@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:40:23 15/1/2026",
+  "lastUpdated": "03:40:53 15/1/2026",
   "totalKits": 87172,
   "todayKits": 209,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 56,
-  "tps": "2.0",
-  "ping": 275,
+  "tps": "4.0",
+  "ping": 271,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:38] [8b8t] >> Teleporting to home 3...",
-    "[20:38] To florentinogomez: Kit \"yunque\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
-    "[20:38] To florentinogomez: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:38] [8b8t] >> Request sent to florentinogomez",
-    "[20:38] [8b8t] >> The TPA request you sent to florentinogomez has expired.",
-    "[20:38] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[20:38] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[20:38] <Ascalito> !kit concrete ",
     "[20:38] <MrPinkEye> !kit ",
     "[20:38] To Ascalito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[20:40] [8b8t] >> Request sent to lvashl",
     "[20:40] [8b8t] >> Teleporting...",
     "[20:40] [BOT] <0_HienBot> >Welcome to 8b8t, SavageJfs! ",
-    "[20:40] [8b8t] >> You have killed yourself!"
+    "[20:40] [8b8t] >> You have killed yourself!",
+    "[20:40] <florentinogomez> !kit minerales ",
+    "[20:40] [8b8t] >> Teleporting to home 0...",
+    "[20:40] [8b8t] >> Teleporting to home 3...",
+    "[20:40] To florentinogomez: Kit \"minerales\" not found! Giving you (wool) instead! dsc.gg/hienbot",
+    "[20:40] To florentinogomez: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:40] [8b8t] >> Request sent to florentinogomez",
+    "[20:40] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3346,7 +3346,7 @@
     "Qwasdx": 2,
     "elsanti456": 1,
     "Ust_yonki": 2,
-    "florentinogomez": 23,
+    "florentinogomez": 24,
     "kaperi2": 4,
     ".Hexxitmax": 1,
     "MasterBloXd": 4,
@@ -3380,7 +3380,7 @@
     "wood": 550,
     "exp": 767,
     "dye": 336,
-    "wool": 453,
+    "wool": 454,
     "mineral": 580,
     "food": 510,
     "redstone": 811,
