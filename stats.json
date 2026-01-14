@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:29:16 14/1/2026",
+  "lastUpdated": "12:29:34 14/1/2026",
   "totalKits": 86725,
   "todayKits": 138,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 50,
-  "tps": "3.0",
-  "ping": 256,
+  "tps": "4.0",
+  "ping": 804,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:27] [8b8t] >> You have killed yourself!",
-    "[05:27] [8b8t] >> The TPA request you sent to Braian1709 was successfully canceled.",
-    "[05:28] <Render> !kit survival ",
-    "[05:28] [8b8t] >> Teleporting to home 0...",
-    "[05:28] [8b8t] >> Teleporting to home 1...",
-    "[05:28] To Render: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:28] <Braian1709> !kit survival ",
-    "[05:28] To Braian1709: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:28] To Render: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:28] [8b8t] >> Request sent to Render",
     "[05:28] <ElMaster912> !kit ",
@@ -101,7 +93,15 @@
     "[05:28] To ElMaster912: Your kit (armortrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:29] To ElMaster912: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:29] [8b8t] >> Request sent to ElMaster912",
-    "[05:29] [8b8t] >> Teleporting..."
+    "[05:29] [8b8t] >> Teleporting...",
+    "[05:29] [8b8t] >> You have killed yourself!",
+    "[05:29] [8b8t] >> Please do not spam.",
+    "[05:29] <JOAKO_CABJ> !KIT concrete ",
+    "[05:29] [8b8t] >> Teleporting to home 0...",
+    "[05:29] [8b8t] >> Teleporting to home 3...",
+    "[05:29] To JOAKO_CABJ: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:29] To JOAKO_CABJ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:29] [8b8t] >> Request sent to JOAKO_CABJ"
   ],
   "userStats": {
     "76756": 38,
@@ -3237,7 +3237,7 @@
     "Jewishc": 22,
     "ITZvihaangamer": 8,
     "itsblockyy": 4,
-    "JOAKO_CABJ": 6,
+    "JOAKO_CABJ": 7,
     ".BiggerDoor7800": 1,
     "Adm1rable_Degus": 3,
     "WuguiLuigi": 1,
@@ -3341,7 +3341,7 @@
     "armortrims": 535,
     "highway": 620,
     "ocean": 155,
-    "concrete": 385,
+    "concrete": 386,
     "glass": 309,
     "gap": 208,
     "constructor": "function Object() { [native code] }111111111",
