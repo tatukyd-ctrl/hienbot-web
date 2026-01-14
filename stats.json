@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:50:04 14/1/2026",
+  "lastUpdated": "19:50:34 14/1/2026",
   "totalKits": 86859,
   "todayKits": 272,
   "onlineCount": 22,
   "peakPlayers": 50,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 253,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8131
+      "count": 8132
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:46] [8b8t] >> You have killed yourself!",
-    "[12:47] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[12:47] <ItzMeWOOFY> !kit tools ",
-    "[12:47] To ItzMeWOOFY: You're on cooldown, try again in 7 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:47] <ItzMeWOOFY> !kit tools ",
-    "[12:47] To ItzMeWOOFY: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:47] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[12:47] <ItzMeWOOFY> !kit tools ",
     "[12:47] [8b8t] >> Teleporting to home 0...",
     "[12:47] [8b8t] >> Teleporting to home 7...",
@@ -101,7 +94,14 @@
     "[12:49] <SHAD0W_120> lots of withers ",
     "[12:49] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[12:49] <ItzMeWOOFY> !kits build ",
-    "[12:49] <ItzMeWOOFY> !kits builder "
+    "[12:49] <ItzMeWOOFY> !kits builder ",
+    "[12:50] <ItzMeWOOFY> !kits starter ",
+    "[12:50] <ItzMeWOOFY> !kits pvp ",
+    "[12:50] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[12:50] <ItzMeWOOFY> !kit pvp ",
+    "[12:50] [8b8t] >> Teleporting to home 0...",
+    "[12:50] [8b8t] >> Teleporting to home 1...",
+    "[12:50] To ItzMeWOOFY: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3330,12 +3330,12 @@
     "Mc_paco18": 6,
     "BigDensity910": 2,
     "ItsZerith": 1,
-    "ItzMeWOOFY": 8
+    "ItzMeWOOFY": 9
   },
   "kitStats": {
     "build": 1600,
     "survival": 6343,
-    "pvp": 8131,
+    "pvp": 8132,
     "dupe": 2194,
     "tools": 1888,
     "stash": 1124,
