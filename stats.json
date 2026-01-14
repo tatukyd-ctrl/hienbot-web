@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:54:04 14/1/2026",
+  "lastUpdated": "13:54:34 14/1/2026",
   "totalKits": 86735,
   "todayKits": 148,
-  "onlineCount": 19,
+  "onlineCount": 17,
   "peakPlayers": 50,
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 260,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:51] [8b8t] >> You have killed yourself!",
-    "[06:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:51] expilon has made the advancement [We Need to Go Deeper]",
-    "[06:51] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[06:51] <elpanchowasa> !kit pvp ",
-    "[06:51] [8b8t] >> Teleporting to home 0...",
-    "[06:51] [8b8t] >> Teleporting to home 1...",
-    "[06:51] To elpanchowasa: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:51] To elpanchowasa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:51] [8b8t] >> Request sent to elpanchowasa",
     "[06:51] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
@@ -101,7 +93,15 @@
     "[06:53] To elpanchowasa: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[06:53] [8b8t] >> You have killed yourself!",
     "[06:53] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[06:53] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[06:53] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[06:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[06:54] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[06:54] <elpanchowasa> !kit elytras ",
+    "[06:54] [8b8t] >> Teleporting to home 0...",
+    "[06:54] [8b8t] >> Teleporting to home 4...",
+    "[06:54] To elpanchowasa: Kit \"elytras\" not found! Giving you (dye) instead! dsc.gg/hienbot",
+    "[06:54] To elpanchowasa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:54] [8b8t] >> Request sent to elpanchowasa"
   ],
   "userStats": {
     "76756": 38,
@@ -3317,7 +3317,7 @@
     "Haffu": 1,
     "Calvin2029": 1,
     "Render": 3,
-    "elpanchowasa": 1
+    "elpanchowasa": 2
   },
   "kitStats": {
     "build": 1591,
@@ -3329,7 +3329,7 @@
     "raid": 1322,
     "wood": 540,
     "exp": 752,
-    "dye": 331,
+    "dye": 332,
     "wool": 439,
     "mineral": 576,
     "food": 503,
