@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:31:23 15/1/2026",
+  "lastUpdated": "00:31:53 15/1/2026",
   "totalKits": 87051,
   "todayKits": 88,
   "onlineCount": 45,
   "peakPlayers": 45,
-  "tps": "3.0",
-  "ping": 270,
+  "tps": "5.0",
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -18,7 +18,7 @@
     },
     {
       "name": ".LEON50758",
-      "count": 235
+      "count": 236
     },
     {
       "name": "DeadlyNyxian",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8183
+      "count": 8184
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:29] <botchaosonix666> my profile ",
-    "[17:29] <.Pichuckrak> !kit survival ",
-    "[17:29] To .Pichuckrak: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:29] <Console_REVENGE> !kit survival ",
-    "[17:29] To Console_REVENGE: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:29] <DrVenial31> nası ? ",
-    "[17:29] [8b8t] >> You have killed yourself!",
-    "[17:29] [8b8t] >> No TPA request found",
-    "[17:29] <.LEON50758> iyi ",
-    "[17:29] <.Pichuckrak> !kit survival ",
-    "[17:29] [8b8t] >> Teleporting to home 0...",
-    "[17:29] [8b8t] >> Teleporting to home 1...",
-    "[17:29] To .Pichuckrak: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:30] To .Pichuckrak: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:30] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[17:30] [8b8t] >> Request sent to .Pichuckrak",
     "[17:30] [8b8t] >> Teleporting...",
@@ -101,7 +87,21 @@
     "[17:31] <botchaosonix> come ",
     "[17:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[17:31] <ImNotCheatjng> person with more gaps wins ",
-    "[17:31] <botchaosonix> dont move "
+    "[17:31] <botchaosonix> dont move ",
+    "[17:31] <SHAD0W_120> beautifull ",
+    "[17:31] <SHAD0W_120> why ",
+    "[17:31] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[17:31] <MasterBloXd> tngbot ",
+    "[17:31] <botchaosonix> where ",
+    "[17:31] <DrVenial31> bitti crsyatl ",
+    "[17:31] [8b8t] >> ImNotCheatjng created a new hotspot, use /hotspot to teleport to it",
+    "[17:31] <botchaosonix> i need wither kill ",
+    "[17:31] <.LEON50758> !kit pvp ",
+    "[17:31] [8b8t] >> Teleporting to home 0...",
+    "[17:31] [8b8t] >> Teleporting to home 1...",
+    "[17:31] To .LEON50758: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:31] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:31] [8b8t] >> Request sent to .LEON50758"
   ],
   "userStats": {
     "76756": 38,
@@ -324,7 +324,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 19,
     "alastor_gamer89": 6,
-    ".LEON50758": 235,
+    ".LEON50758": 236,
     "Saad2001": 59,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -3354,7 +3354,7 @@
   "kitStats": {
     "build": 1608,
     "survival": 6396,
-    "pvp": 8183,
+    "pvp": 8184,
     "dupe": 2218,
     "tools": 1893,
     "stash": 1136,
