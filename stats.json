@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:12:33 14/1/2026",
+  "lastUpdated": "08:13:03 14/1/2026",
   "totalKits": 86624,
   "todayKits": 37,
-  "onlineCount": 25,
+  "onlineCount": 24,
   "peakPlayers": 50,
-  "tps": "6.0",
-  "ping": 267,
+  "tps": "4.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6301
+      "count": 6302
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:10] [8b8t] >> Request sent to Sxbz23",
-    "[01:10] [8b8t] >> Teleporting...",
-    "[01:10] <MrPinkEye> !kit ",
-    "[01:10] [8b8t] >> You have killed yourself!",
-    "[01:10] <.WOOXERMC> !kit survival ",
-    "[01:10] [8b8t] >> Teleporting to home 0...",
-    "[01:10] [8b8t] >> Teleporting to home 1...",
     "[01:10] To .WOOXERMC: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:10] To .WOOXERMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:10] [8b8t] >> Request sent to .WOOXERMC",
@@ -101,7 +94,14 @@
     "[01:12] [BOT] <0_HienBot> >Welcome to 8b8t, Okoksus! ",
     "[01:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[01:12] <Okoksus> hm? ",
-    "[01:12] <Okoksus> mhm? "
+    "[01:12] <Okoksus> mhm? ",
+    "[01:12] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[01:12] <.WOOXERMC> !kit survival ",
+    "[01:12] [8b8t] >> Teleporting to home 0...",
+    "[01:12] [8b8t] >> Teleporting to home 1...",
+    "[01:12] To .WOOXERMC: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:12] To .WOOXERMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:12] [8b8t] >> Request sent to .WOOXERMC"
   ],
   "userStats": {
     "76756": 38,
@@ -3301,11 +3301,11 @@
     "erggiN": 1,
     "Darveik1": 3,
     "sanky735": 2,
-    ".WOOXERMC": 1
+    ".WOOXERMC": 2
   },
   "kitStats": {
     "build": 1586,
-    "survival": 6301,
+    "survival": 6302,
     "pvp": 8055,
     "dupe": 2168,
     "tools": 1871,
