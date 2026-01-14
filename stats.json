@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:54:53 15/1/2026",
-  "totalKits": 87067,
-  "todayKits": 104,
+  "lastUpdated": "00:55:23 15/1/2026",
+  "totalKits": 87068,
+  "todayKits": 105,
   "onlineCount": 43,
   "peakPlayers": 46,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 264,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8188
+      "count": 8189
     },
     {
       "name": "survival",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:53] [8b8t] >> Request sent to matiasbbya1234",
-    "[17:53] <5989kk> !kit vanilla ",
-    "[17:53] To 5989kk: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:53] <Saad2001_bot> Free kits available | ?kit ",
-    "[17:53] <MrPinkEye> !kit ",
-    "[17:53] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[17:54] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[17:54] <DrVenial31> lşa cfg denicem ",
-    "[17:54] <5989kk> WHERE IS MY KIT ",
-    "[17:54] <Console_REVENGE> !kit redstone ",
-    "[17:54] To Console_REVENGE: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:54] <.LEON50758> ee kk ",
-    "[17:54] <Console_REVENGE> !kit redstone ",
-    "[17:54] To Console_REVENGE: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:54] <DrVenial31> gel bi ",
-    "[17:54] [8b8t] >> You have killed yourself!",
     "[17:54] [8b8t] >> You have killed yourself!",
     "[17:54] [8b8t] >> Player matiasbbya1234 is not online",
     "[17:54] <Saad2001_bot> Use ?status to check bot state ",
@@ -101,7 +85,23 @@
     "[17:54] <Saad2001_bot> Wrong teleport cancels delivery ",
     "[17:54] <5989kk> !status ",
     "[17:54] <DrVenial31> basemi sana gösteremmi ? ",
-    "[17:54] To 5989kk: Total kits: 87067 | Today: 104 Dont forget to join dsc.gg/hienbot"
+    "[17:54] To 5989kk: Total kits: 87067 | Today: 104 Dont forget to join dsc.gg/hienbot",
+    "[17:54] <Saad2001_bot> Delivery via /tpa ",
+    "[17:54] <Saad2001_bot> Kit bot online | Type ?help ",
+    "[17:55] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[17:55] [8b8t] >> You have killed yourself!",
+    "[17:55] [8b8t] >> Player matiasbbya1234 is not online",
+    "[17:55] <5989kk> !kit pvp ",
+    "[17:55] [8b8t] >> Teleporting to home 0...",
+    "[17:55] [8b8t] >> Teleporting to home 1...",
+    "[17:55] To 5989kk: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[17:55] <Saad2001_bot> Delivery via /tpa ",
+    "[17:55] To 5989kk: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:55] [8b8t] >> Request sent to 5989kk",
+    "[17:55] [8b8t] >> Teleporting...",
+    "[17:55] <Console_REVENGE> !kit Redstone ",
+    "[17:55] To Console_REVENGE: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3352,12 +3352,12 @@
     "MasterBloXd": 2,
     ".oneonefour14": 1,
     "VladUA06": 1,
-    "5989kk": 1
+    "5989kk": 2
   },
   "kitStats": {
     "build": 1609,
     "survival": 6400,
-    "pvp": 8188,
+    "pvp": 8189,
     "dupe": 2224,
     "tools": 1893,
     "stash": 1136,
