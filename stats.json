@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:00:23 15/1/2026",
-  "totalKits": 87099,
-  "todayKits": 136,
-  "onlineCount": 49,
+  "lastUpdated": "02:00:39 15/1/2026",
+  "totalKits": 87100,
+  "todayKits": 137,
+  "onlineCount": 50,
   "peakPlayers": 50,
   "tps": "5.0",
   "ping": 265,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8200
+      "count": 8201
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:58] [8b8t] >> Request sent to Sgamestream",
-    "[18:58] <MrPinkEye> !kit ",
-    "[18:58] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:59] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[18:59] <Cristiann_8> !kit dupe ",
-    "[18:59] To Cristiann_8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[18:59] <Cristiann_8> !kir dupe ",
-    "[18:59] <Cristiann_8> !kit dupe ",
-    "[18:59] To Cristiann_8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[18:59] [8b8t] >> You have killed yourself!",
     "[18:59] [8b8t] >> The TPA request you sent to Sgamestream was successfully canceled.",
     "[18:59] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
@@ -101,7 +92,16 @@
     "[19:00] [BOT] <0_HienBot> >What's up, ScreaM8989? ",
     "[19:00] <MARSHMELLO7130> expliquennnn ",
     "[19:00] <GuilleB737> alguien tiene un kit ilegal? ",
-    "[19:00] <hxcx1> base 41916 32 22194 "
+    "[19:00] <hxcx1> base 41916 32 22194 ",
+    "[19:00] <botchaosonix> !kit pvp ",
+    "[19:00] [8b8t] >> Teleporting to home 0...",
+    "[19:00] [8b8t] >> Teleporting to home 1...",
+    "[19:00] To botchaosonix: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:00] To botchaosonix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:00] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[19:00] [8b8t] >> Request sent to botchaosonix",
+    "[19:00] [8b8t] >> Teleporting...",
+    "[19:00] <botchaosonix> Yeah, these niggas say, I’ll catch a foul, what do they know? "
   ],
   "userStats": {
     "76756": 38,
@@ -2365,7 +2365,7 @@
     "UnknownBoy_YT": 2,
     "Cadens": 14,
     "1cey": 1,
-    "botchaosonix": 17,
+    "botchaosonix": 18,
     "WxpzFrags": 41,
     "Lazyfacii": 12,
     ".PQueen1221": 6,
@@ -3361,7 +3361,7 @@
   "kitStats": {
     "build": 1610,
     "survival": 6411,
-    "pvp": 8200,
+    "pvp": 8201,
     "dupe": 2229,
     "tools": 1893,
     "stash": 1137,
