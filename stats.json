@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:10:33 14/1/2026",
+  "lastUpdated": "08:11:03 14/1/2026",
   "totalKits": 86622,
   "todayKits": 35,
-  "onlineCount": 25,
+  "onlineCount": 27,
   "peakPlayers": 50,
-  "tps": "7.0",
+  "tps": "3.0",
   "ping": 243,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6300
+      "count": 6301
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:09] To .Maddie8171111: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:09] [8b8t] >> Request sent to .Maddie8171111",
-    "[01:09] <VortexTrapper> !kit concrete ",
-    "[01:09] To VortexTrapper: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:09] Okoksus has made the advancement [Those Were the Days]",
-    "[01:09] [8b8t] >> Teleporting...",
-    "[01:09] <Okoksus> unlooted bastion ",
-    "[01:09] <Sxbz23> cuidao con mi bebe ",
-    "[01:09] [8b8t] >> You have killed yourself!",
     "[01:09] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[01:09] <Sxbz23> lk espere ",
     "[01:09] <VortexTrapper> !kit concrete ",
@@ -101,7 +92,16 @@
     "[01:10] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:10] [8b8t] >> Request sent to Sxbz23",
     "[01:10] [8b8t] >> Teleporting...",
-    "[01:10] <MrPinkEye> !kit "
+    "[01:10] <MrPinkEye> !kit ",
+    "[01:10] [8b8t] >> You have killed yourself!",
+    "[01:10] <.WOOXERMC> !kit survival ",
+    "[01:10] [8b8t] >> Teleporting to home 0...",
+    "[01:10] [8b8t] >> Teleporting to home 1...",
+    "[01:10] To .WOOXERMC: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:10] To .WOOXERMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:10] [8b8t] >> Request sent to .WOOXERMC",
+    "[01:10] [8b8t] >> Please do not spam.",
+    "[01:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3300,11 +3300,12 @@
     ".Lol1290zzz": 1,
     "erggiN": 1,
     "Darveik1": 3,
-    "sanky735": 2
+    "sanky735": 2,
+    ".WOOXERMC": 1
   },
   "kitStats": {
     "build": 1586,
-    "survival": 6300,
+    "survival": 6301,
     "pvp": 8055,
     "dupe": 2168,
     "tools": 1870,
