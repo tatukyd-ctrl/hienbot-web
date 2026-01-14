@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:09:44 15/1/2026",
+  "lastUpdated": "03:09:53 15/1/2026",
   "totalKits": 87158,
   "todayKits": 195,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 56,
   "tps": "3.0",
   "ping": 281,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6424
+      "count": 6425
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:08] [8b8t] >> Teleporting to home 0...",
-    "[20:08] [8b8t] >> Home 2 was not found",
-    "[20:08] To .BattyClock07029: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:08] <Saad2001_bot> > Nobody cares about Leee, I’m not gonna lie ",
-    "[20:08] To .BattyClock07029: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:08] [8b8t] >> Request sent to .BattyClock07029",
-    "[20:08] <ROHAN> !kit pvp ",
-    "[20:08] To ROHAN: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:08] [8b8t] >> Teleporting...",
     "[20:08] <MrPinkEye> !kit ",
     "[20:08] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[20:09] [8b8t] >> Request sent to MasterBloXd",
     "[20:09] [8b8t] >> Teleporting...",
     "[20:09] <Saad2001_bot> > Who uses Chromebooks here? ",
-    "[20:09] <Sgamestream> dont hack buddy "
+    "[20:09] <Sgamestream> dont hack buddy ",
+    "[20:09] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[20:09] [8b8t] >> You have killed yourself!",
+    "[20:09] <.BattyClock07029> !kit survival ",
+    "[20:09] [8b8t] >> Teleporting to home 0...",
+    "[20:09] [8b8t] >> Teleporting to home 1...",
+    "[20:09] To .BattyClock07029: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:09] <Saad2001_bot> > Xmas is soon, I wonder if there is any '8b8t' logo that is not AI ",
+    "[20:09] To .BattyClock07029: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3078,7 +3078,7 @@
     "goofpoof12": 2,
     "BlameTK": 1,
     "Aeriak64HD": 74,
-    ".BattyClock07029": 12,
+    ".BattyClock07029": 13,
     "JustAJoeGuy": 2,
     "speedttapir": 7,
     "SantisElmesias": 3,
@@ -3369,7 +3369,7 @@
   },
   "kitStats": {
     "build": 1617,
-    "survival": 6424,
+    "survival": 6425,
     "pvp": 8210,
     "dupe": 2244,
     "tools": 1894,
