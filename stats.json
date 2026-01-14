@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:39:33 14/1/2026",
+  "lastUpdated": "07:40:03 14/1/2026",
   "totalKits": 86598,
   "todayKits": 11,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 50,
-  "tps": "7.0",
+  "tps": "10.0",
   "ping": 244,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:35] [8b8t] >> The TPA request you sent to Okoksus has expired.",
-    "[00:35] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[00:35] Suumito__ has completed the challenge [Serious Dedication]",
-    "[00:36] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[00:36] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[00:36] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[00:37] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[00:37] ItsTraits has completed the challenge [Adventuring Time]",
     "[00:37] <Okoksus> !kit elytra ",
@@ -101,7 +95,13 @@
     "[00:39] <Okoksus> HELP ",
     "[00:39] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[00:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:39] Suumito__ has made the advancement [We Need to Go Deeper]"
+    "[00:39] Suumito__ has made the advancement [We Need to Go Deeper]",
+    "[00:39] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
+    "[00:40] <Okoksus> !KIT ELYTRA ",
+    "[00:40] [8b8t] >> Teleporting to home 0...",
+    "[00:40] [8b8t] >> Teleporting to home 6...",
+    "[00:40] To Okoksus: Your kit (ELYTRA) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:40] To Okoksus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3168,7 +3168,7 @@
     "Nic0laxxd": 3,
     "AlexanderMC5431": 4,
     "IrieFlow": 2,
-    "Okoksus": 21,
+    "Okoksus": 22,
     "LuceroWolf": 1,
     "tomasito111": 4,
     "Correasamuji": 3,
@@ -3334,6 +3334,6 @@
     "gterracotta": 84,
     "banner": 90,
     "illegal": 706,
-    "elytra": 167
+    "elytra": 168
   }
 }
