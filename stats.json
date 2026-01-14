@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:11:32 14/1/2026",
+  "lastUpdated": "23:11:53 14/1/2026",
   "totalKits": 87010,
   "todayKits": 47,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 42,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 259,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:10] <Rich_miner> !kit pvp ",
-    "[16:10] [8b8t] >> Teleporting to home 0...",
-    "[16:10] [8b8t] >> Teleporting to home 1...",
-    "[16:10] To Rich_miner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:10] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:10] [8b8t] >> Request sent to Rich_miner",
-    "[16:10] <y0ur5tru1y> !kit survival ",
-    "[16:10] To y0ur5tru1y: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:10] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[16:10] Slekzeta has made the advancement [Those Were the Days]",
     "[16:10] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[16:11] To MyNewAccountdude: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:11] [8b8t] >> Request sent to MyNewAccountdude",
     "[16:11] [8b8t] >> Teleporting...",
-    "[16:11] [BOT] <0_HienBot> >Try !кιт survival "
+    "[16:11] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[16:11] [8b8t] >> You have killed yourself!",
+    "[16:11] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[16:11] <_Nexus_> !kit elytra ",
+    "[16:11] [8b8t] >> Teleporting to home 0...",
+    "[16:11] [8b8t] >> Teleporting to home 6...",
+    "[16:11] To _Nexus_: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:11] To _Nexus_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:11] [8b8t] >> Request sent to _Nexus_"
   ],
   "userStats": {
     "76756": 38,
@@ -3342,7 +3342,7 @@
     "Console_REVENGE": 7,
     "KIDBEAST12": 5,
     "DarkKnight098": 3,
-    "_Nexus_": 3,
+    "_Nexus_": 4,
     "Qwasdx": 1
   },
   "kitStats": {
@@ -3379,6 +3379,6 @@
     "gterracotta": 86,
     "banner": 90,
     "illegal": 706,
-    "elytra": 230
+    "elytra": 231
   }
 }
