@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:51:34 14/1/2026",
+  "lastUpdated": "13:52:04 14/1/2026",
   "totalKits": 86734,
   "todayKits": 147,
-  "onlineCount": 20,
+  "onlineCount": 19,
   "peakPlayers": 50,
-  "tps": "5.0",
-  "ping": 352,
+  "tps": "7.0",
+  "ping": 258,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8090
+      "count": 8091
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:49] ",
-    "[06:49] [8b8t] >> You have killed yourself!",
-    "[06:49] [8b8t] >> The TPA request you sent to player_69 was successfully canceled.",
-    "[06:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:49] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[06:50] <MBKBOZKURT90> !kit shulker ",
-    "[06:50] [8b8t] >> Teleporting to home 0...",
     "[06:50] [8b8t] >> Teleporting to home 6...",
     "[06:50] To MBKBOZKURT90: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:50] To MBKBOZKURT90: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +94,14 @@
     "[06:51] [8b8t] >> You have killed yourself!",
     "[06:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[06:51] expilon has made the advancement [We Need to Go Deeper]",
-    "[06:51] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
+    "[06:51] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[06:51] <elpanchowasa> !kit pvp ",
+    "[06:51] [8b8t] >> Teleporting to home 0...",
+    "[06:51] [8b8t] >> Teleporting to home 1...",
+    "[06:51] To elpanchowasa: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:51] To elpanchowasa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:51] [8b8t] >> Request sent to elpanchowasa",
+    "[06:51] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
   ],
   "userStats": {
     "76756": 38,
@@ -3316,12 +3316,13 @@
     "Juul": 3,
     "Haffu": 1,
     "Calvin2029": 1,
-    "Render": 3
+    "Render": 3,
+    "elpanchowasa": 1
   },
   "kitStats": {
     "build": 1591,
     "survival": 6322,
-    "pvp": 8090,
+    "pvp": 8091,
     "dupe": 2181,
     "tools": 1876,
     "stash": 1119,
