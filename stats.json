@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:23:26 15/1/2026",
+  "lastUpdated": "06:23:53 15/1/2026",
   "totalKits": 87270,
   "todayKits": 307,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 56,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 270,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8231
+      "count": 8232
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:22] <beary__> !kit stash ",
-    "[23:22] [8b8t] >> Teleporting to home 0...",
-    "[23:22] [8b8t] >> Home 2 was not found",
-    "[23:22] To beary__: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:22] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[23:22] [8b8t] >> Request sent to beary__",
-    "[23:22] [BOT] <0_HienBot> >Hello reymeteoro19! ",
-    "[23:22] [8b8t] >> Teleporting...",
-    "[23:22] [8b8t] >> You have killed yourself!",
-    "[23:22] <elwuper> vamo a lo d miembros ",
     "[23:22] <FaresBK> !kit elytra ",
     "[23:22] [8b8t] >> Teleporting to home 0...",
     "[23:22] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +90,18 @@
     "[23:23] To Kazuki_8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:23] [8b8t] >> Request sent to Kazuki_8",
     "[23:23] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[23:23] [8b8t] >> Teleporting..."
+    "[23:23] [8b8t] >> Teleporting...",
+    "[23:23] <.Olm3053> !kit mineral ",
+    "[23:23] To .Olm3053: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:23] [8b8t] >> You have killed yourself!",
+    "[23:23] <.Alcalde2022> !kit pvp ",
+    "[23:23] [8b8t] >> Teleporting to home 0...",
+    "[23:23] [8b8t] >> Teleporting to home 1...",
+    "[23:23] To .Alcalde2022: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:23] To .Alcalde2022: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:23] [8b8t] >> Request sent to .Alcalde2022",
+    "[23:23] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[23:23] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
   ],
   "userStats": {
     "76756": 38,
@@ -3194,7 +3194,7 @@
     "lord_nemesiz": 1,
     "waki_z05x": 6,
     "waximo": 1,
-    ".Alcalde2022": 3,
+    ".Alcalde2022": 4,
     "Shadebornn": 9,
     "Breptacraft_": 21,
     "lionelpessi100": 1,
@@ -3383,7 +3383,7 @@
   "kitStats": {
     "build": 1623,
     "survival": 6443,
-    "pvp": 8231,
+    "pvp": 8232,
     "dupe": 2256,
     "tools": 1899,
     "stash": 1144,
