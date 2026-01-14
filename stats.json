@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:08:33 14/1/2026",
+  "lastUpdated": "08:09:03 14/1/2026",
   "totalKits": 86619,
   "todayKits": 32,
   "onlineCount": 26,
   "peakPlayers": 50,
-  "tps": "0.0",
+  "tps": "5.0",
   "ping": 263,
   "topUsers": [
     {
@@ -68,24 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1585
+      "count": 1586
     }
   ],
   "chatLog": [
-    "[01:07] <Sxbz23> !kit elytra ",
-    "[01:07] To Sxbz23: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:07] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[01:07] [8b8t] >> Teleporting...",
-    "[01:07] <sanky735> !kit ",
-    "[01:07] To sanky735: Hello sanky735!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:07] [8b8t] >> You have killed yourself!",
-    "[01:07] <sanky735> !kit dupe ",
-    "[01:07] [8b8t] >> Teleporting to home 0...",
-    "[01:07] [8b8t] >> Teleporting to home 7...",
-    "[01:07] To sanky735: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:07] To sanky735: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:07] [8b8t] >> Request sent to sanky735",
-    "[01:07] [8b8t] >> Teleporting...",
     "[01:07] <.Elpatata43> !kit tools ",
     "[01:07] To .Elpatata43: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:07] [8b8t] >> You have killed yourself!",
@@ -101,7 +87,21 @@
     "[01:08] [8b8t] >> Please do not spam.",
     "[01:08] <Sxbz23> oe ",
     "[01:08] [8b8t] >> Teleporting...",
-    "[01:08] <.WOOXERMC> mis manzanas "
+    "[01:08] <.WOOXERMC> mis manzanas ",
+    "[01:08] <Sxbz23> !Kit elytras ",
+    "[01:08] [8b8t] >> Teleporting to home 0...",
+    "[01:08] [8b8t] >> Home 2 was not found",
+    "[01:08] To Sxbz23: Kit \"elytras\" not found! Giving you (build) instead! dsc.gg/hienbot",
+    "[01:08] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:08] [8b8t] >> Request sent to Sxbz23",
+    "[01:08] <Sxbz23> !kit elytra ",
+    "[01:08] To Sxbz23: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:08] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[01:08] <VortexTrapper> !kitlist ",
+    "[01:08] [8b8t] >> Sxbz23 has denied your request",
+    "[01:09] <Sxbz23> !kit elytra ",
+    "[01:09] To Sxbz23: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:09] <.Maddie8171111> !kit highway "
   ],
   "userStats": {
     "76756": 38,
@@ -3282,7 +3282,7 @@
     "Berserk_42": 1,
     "TeddyR1p": 2,
     "PrismarineBricks": 1,
-    "Sxbz23": 20,
+    "Sxbz23": 21,
     "r081ns": 2,
     ".ushina1": 1,
     "Thiagoelpro8925": 2,
@@ -3303,7 +3303,7 @@
     "sanky735": 2
   },
   "kitStats": {
-    "build": 1585,
+    "build": 1586,
     "survival": 6300,
     "pvp": 8055,
     "dupe": 2168,
