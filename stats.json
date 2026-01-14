@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:48:34 14/1/2026",
+  "lastUpdated": "13:49:04 14/1/2026",
   "totalKits": 86732,
   "todayKits": 145,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 50,
   "tps": "7.0",
-  "ping": 0,
+  "ping": 289,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8088
+      "count": 8089
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:45] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[06:45] expilon has completed the challenge [Subspace Bubble]",
-    "[06:45] <MrPinkEye> !kit ",
     "[06:45] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[06:45] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[06:46] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
@@ -101,7 +98,10 @@
     "[06:48] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[06:48] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[06:48] <player_69> !ping ",
-    "[06:48] To player_69: Your ping is: 276 ms Dont forget to join dsc.gg/hienbot"
+    "[06:48] To player_69: Your ping is: 276 ms Dont forget to join dsc.gg/hienbot",
+    "[06:48] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[06:49] <player_69> !kit pvp ",
+    "[06:49] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -398,7 +398,7 @@
     "irodrigo_pro3": 3,
     "om07719": 1,
     "ClashRoyal_777": 18,
-    "player_69": 4,
+    "player_69": 5,
     "Abanoub67": 49,
     "grxyhdhshs": 1,
     "OPMARZAN12": 16,
@@ -3321,7 +3321,7 @@
   "kitStats": {
     "build": 1591,
     "survival": 6322,
-    "pvp": 8088,
+    "pvp": 8089,
     "dupe": 2181,
     "tools": 1876,
     "stash": 1119,
