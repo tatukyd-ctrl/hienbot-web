@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:59:04 14/1/2026",
+  "lastUpdated": "11:59:34 14/1/2026",
   "totalKits": 86712,
   "todayKits": 125,
   "onlineCount": 22,
   "peakPlayers": 50,
-  "tps": "3.0",
-  "ping": 254,
+  "tps": "5.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2179
+      "count": 2180
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:56] [8b8t] >> Teleporting...",
-    "[04:56] _Nexus_ has made the advancement [Stone Age]",
-    "[04:56] [8b8t] >> You have killed yourself!",
-    "[04:56] [BOT] <0_HienBot> >Hey BigBear! ",
-    "[04:56] <yay> also who the fuck took _Hienbot ",
-    "[04:56] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[04:57] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[04:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[04:58] <WenlerMaster> !kit ",
     "[04:58] <yay> i dont know if the anticheat will block my method of donkeydupe but i hope it doesnt ",
@@ -101,7 +94,14 @@
     "[04:58] ",
     "[04:58] [8b8t] >> You have killed yourself!",
     "[04:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:58] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[04:58] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[04:59] [BOT] <0_HienBot> >Type !discord ",
+    "[04:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:59] <yay> !kit dupe ",
+    "[04:59] [8b8t] >> Teleporting to home 0...",
+    "[04:59] [8b8t] >> Teleporting to home 7...",
+    "[04:59] To yay: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:59] To yay: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3311,14 +3311,14 @@
     "Zwaexreal": 2,
     "rolito": 1,
     "warloow": 2,
-    "yay": 3,
+    "yay": 4,
     "Forfal": 1
   },
   "kitStats": {
     "build": 1590,
     "survival": 6314,
     "pvp": 8080,
-    "dupe": 2179,
+    "dupe": 2180,
     "tools": 1876,
     "stash": 1118,
     "raid": 1321,
