@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:53:23 14/1/2026",
+  "lastUpdated": "23:53:53 14/1/2026",
   "totalKits": 87030,
   "todayKits": 67,
   "onlineCount": 36,
   "peakPlayers": 43,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 265,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8177
+      "count": 8178
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:51] <florentinogomez> !kit survival ",
-    "[16:51] To florentinogomez: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:51] <FarFarAwayy> !kit wood ",
-    "[16:51] [8b8t] >> Teleporting to home 0...",
-    "[16:51] <.Thlx9206> dude spawn is crazyyy ",
-    "[16:51] [8b8t] >> Teleporting to home 3...",
-    "[16:51] To FarFarAwayy: Tu kit (wood) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
-    "[16:51] To FarFarAwayy: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[16:51] [8b8t] >> Request sent to FarFarAwayy",
-    "[16:51] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[16:51] <botchaosonix> you need ",
-    "[16:51] <DrVenial31> u test ",
-    "[16:52] <botchaosonix> ok ",
     "[16:52] <Saad2001_bot> Delivery via /tpahere ",
     "[16:52] <ImNotCheatjng> ggs ",
     "[16:52] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +88,20 @@
     "[16:52] <DrVenial31> bad ",
     "[16:52] [BOT] <0_HienBot> >Type !discord ",
     "[16:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:53] targetai has made the advancement [Acquire Hardware]"
+    "[16:53] targetai has made the advancement [Acquire Hardware]",
+    "[16:53] [BOT] <0_HienBot> >Welcome to 8b8t, nfkiki! ",
+    "[16:53] <DrVenial31> bro u on ? ",
+    "[16:53] <botchaosonix> yes ",
+    "[16:53] <DrVenial31> auuto break ? ",
+    "[16:53] <botchaosonix> yes ",
+    "[16:53] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[16:53] <botchaosonix> mio client ",
+    "[16:53] <DrVenial31> dont have ",
+    "[16:53] <DrVenial31> oke ",
+    "[16:53] <botchaosonix> !kit pvp ",
+    "[16:53] [8b8t] >> Teleporting to home 0...",
+    "[16:53] [8b8t] >> Teleporting to home 1...",
+    "[16:53] To botchaosonix: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2365,7 +2365,7 @@
     "UnknownBoy_YT": 2,
     "Cadens": 14,
     "1cey": 1,
-    "botchaosonix": 13,
+    "botchaosonix": 14,
     "WxpzFrags": 41,
     "Lazyfacii": 12,
     ".PQueen1221": 6,
@@ -3351,7 +3351,7 @@
   "kitStats": {
     "build": 1607,
     "survival": 6391,
-    "pvp": 8177,
+    "pvp": 8178,
     "dupe": 2212,
     "tools": 1892,
     "stash": 1135,
