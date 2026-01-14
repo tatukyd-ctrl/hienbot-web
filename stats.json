@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:18:33 14/1/2026",
-  "totalKits": 86625,
-  "todayKits": 38,
-  "onlineCount": 29,
+  "lastUpdated": "08:18:57 14/1/2026",
+  "totalKits": 86626,
+  "todayKits": 39,
+  "onlineCount": 30,
   "peakPlayers": 50,
-  "tps": "4.0",
+  "tps": "1.0",
   "ping": 256,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1871
+      "count": 1872
     },
     {
       "name": "build",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:15] To Jewishc: You're on cooldown, try again in 55 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:15] <MrPinkEye> !kit ",
-    "[01:15] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:15] <.WOOXERMC> !kit pvp ",
-    "[01:15] [8b8t] >> Teleporting to home 0...",
-    "[01:15] [8b8t] >> Teleporting to home 1...",
-    "[01:15] To .WOOXERMC: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:16] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[01:16] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-    "[01:16] [8b8t] >> Your login session has been continued.",
     "[01:16] ",
     "[01:16]  [8builders8tools]",
     "[01:16]  Perform the command /email associate to register",
@@ -101,7 +91,17 @@
     "[01:17] <.WOOXERMC> JAKAKAAKKAA ",
     "[01:17] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[01:18] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[01:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[01:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[01:18] <VortexTrapper> !kit ",
+    "[01:18] To VortexTrapper: Hello VortexTrapper!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:18] [BOT] <0_HienBot> >Hey VortexTrapper! ",
+    "[01:18] <VortexTrapper> !kit glass ",
+    "[01:18] [8b8t] >> Teleporting to home 0...",
+    "[01:18] [8b8t] >> Teleporting to home 7...",
+    "[01:18] To VortexTrapper: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:18] To VortexTrapper: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:18] [8b8t] >> Request sent to VortexTrapper",
+    "[01:18] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -887,7 +887,7 @@
     "R29EER": 8,
     "rives": 2,
     "AleeMC": 1,
-    "VortexTrapper": 20,
+    "VortexTrapper": 21,
     "poeutlkflbva": 5,
     "dylan_332323": 12,
     ".Elpro1314G": 16,
@@ -3308,7 +3308,7 @@
     "survival": 6302,
     "pvp": 8057,
     "dupe": 2168,
-    "tools": 1871,
+    "tools": 1872,
     "stash": 1113,
     "raid": 1316,
     "wood": 539,
