@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:34:53 15/1/2026",
+  "lastUpdated": "03:35:23 15/1/2026",
   "totalKits": 87171,
   "todayKits": 208,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 56,
-  "tps": "5.0",
-  "ping": 298,
+  "tps": "2.0",
+  "ping": 274,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:33] <fatpurpleybooger> !kit wool ",
-    "[20:33] [8b8t] >> Teleporting to home 0...",
-    "[20:33] [8b8t] >> Teleporting to home 3...",
-    "[20:33] To fatpurpleybooger: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:33] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[20:33] To fatpurpleybooger: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:33] [8b8t] >> Request sent to fatpurpleybooger",
     "[20:33] [8b8t] >> Teleporting...",
     "[20:33] <florentinogomez> !kit raid ",
     "[20:33] To florentinogomez: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[20:34] [8b8t] >> You have killed yourself!",
     "[20:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[20:34] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[20:34] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
+    "[20:34] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[20:34] <zZjammieZz> !kit stash ",
+    "[20:34] [8b8t] >> Teleporting to home 0...",
+    "[20:35] [8b8t] >> Home 2 was not found",
+    "[20:35] To zZjammieZz: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:35] To zZjammieZz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:35] [8b8t] >> Request sent to zZjammieZz",
+    "[20:35] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
   ],
   "userStats": {
     "76756": 38,
@@ -3354,7 +3354,7 @@
     "VladUA06": 1,
     "5989kk": 12,
     "fatpurpleybooger": 8,
-    "zZjammieZz": 8,
+    "zZjammieZz": 9,
     "lowkeyjustanoob": 1,
     "Florisvdw1": 1,
     "AtlasB0T": 1,
@@ -3375,7 +3375,7 @@
     "pvp": 8211,
     "dupe": 2245,
     "tools": 1894,
-    "stash": 1140,
+    "stash": 1141,
     "raid": 1338,
     "wood": 550,
     "exp": 767,
