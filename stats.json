@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:26:03 14/1/2026",
+  "lastUpdated": "08:26:33 14/1/2026",
   "totalKits": 86631,
   "todayKits": 44,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 256,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:24] <Okoksus> !kit dupe ",
-    "[01:24] [8b8t] >> Teleporting to home 0...",
-    "[01:24] [8b8t] >> Teleporting to home 7...",
-    "[01:24] To Okoksus: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:24] To Okoksus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:24] [8b8t] >> Request sent to Okoksus",
-    "[01:24] [8b8t] >> Teleporting...",
     "[01:24] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[01:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[01:24] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[01:25] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[01:25] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:25] <Aaron0x00> !kit ",
-    "[01:25] To Aaron0x00: Hello Aaron0x00!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[01:25] To Aaron0x00: Hello Aaron0x00!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:26] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[01:26] <Aaron0x00> !kit redstone ",
+    "[01:26] [8b8t] >> Teleporting to home 0...",
+    "[01:26] [8b8t] >> Home 2 was not found",
+    "[01:26] To Aaron0x00: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:26] To Aaron0x00: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:26] [8b8t] >> Request sent to Aaron0x00"
   ],
   "userStats": {
     "76756": 38,
@@ -3301,7 +3301,8 @@
     "erggiN": 1,
     "Darveik1": 3,
     "sanky735": 2,
-    ".WOOXERMC": 4
+    ".WOOXERMC": 4,
+    "Aaron0x00": 1
   },
   "kitStats": {
     "build": 1586,
@@ -3317,7 +3318,7 @@
     "wool": 435,
     "mineral": 576,
     "food": 498,
-    "redstone": 794,
+    "redstone": 795,
     "toolbox": 733,
     "quartz": 289,
     "shulker": 588,
