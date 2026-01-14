@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:34:04 14/1/2026",
+  "lastUpdated": "19:34:34 14/1/2026",
   "totalKits": 86848,
   "todayKits": 261,
   "onlineCount": 18,
   "peakPlayers": 50,
-  "tps": "5.0",
-  "ping": 253,
+  "tps": "7.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8127
+      "count": 8128
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:26] <leopro294> stop the webs, you damn faggot ",
-    "[12:26] <cappuccino_> oohhh ",
-    "[12:26] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[12:26] <leopro294> hahahahaah ",
-    "[12:26] <WORDIPOP> ;v ",
     "[12:26] <cappuccino_> i won ",
     "[12:26] <cappuccino_> ok it was gg ",
     "[12:26] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +95,13 @@
     "[12:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[12:32] [BOT] <0_HienBot> >What's up, Kurtz? ",
     "[12:33] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[12:33] [BOT] <0_HienBot> >Use !кιт to get kits "
+    "[12:33] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[12:34] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[12:34] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[12:34] <ItzMeWOOFY> !kit pvp ",
+    "[12:34] [8b8t] >> Teleporting to home 0...",
+    "[12:34] [8b8t] >> Teleporting to home 1...",
+    "[12:34] To ItzMeWOOFY: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3329,12 +3329,13 @@
     "Suelen": 6,
     "Mc_paco18": 6,
     "BigDensity910": 2,
-    "ItsZerith": 1
+    "ItsZerith": 1,
+    "ItzMeWOOFY": 1
   },
   "kitStats": {
     "build": 1600,
     "survival": 6340,
-    "pvp": 8127,
+    "pvp": 8128,
     "dupe": 2194,
     "tools": 1885,
     "stash": 1124,
