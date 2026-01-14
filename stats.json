@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:10:23 15/1/2026",
+  "lastUpdated": "04:10:53 15/1/2026",
   "totalKits": 87188,
   "todayKits": 225,
-  "onlineCount": 38,
+  "onlineCount": 36,
   "peakPlayers": 56,
-  "tps": "0.0",
+  "tps": "3.0",
   "ping": 341,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6433
+      "count": 6434
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:09] To RobertoPalos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:09] [Pro] <⛩ᏗᏒᏁᎧ⛏> :kit ",
-    "[21:09] <SlimeCrafter_99> !kit survival ",
-    "[21:09] To SlimeCrafter_99: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:09] <Saad2001_bot> > World’s first bot programmed by its owner, I don’t use Mineflayer, it’s all Java ",
-    "[21:09] [8b8t] >> Teleporting...",
-    "[21:09] <RobertoPalos> tan ocupados los botsitos ",
-    "[21:09] <zelliy> can i ahve kit ",
-    "[21:09] [8b8t] >> You have killed yourself!",
     "[21:09] <SlimeCrafter_99> !kit ",
     "[21:09] <malutkipan> !kit stash ",
     "[21:09] To SlimeCrafter_99: Hello SlimeCrafter_99!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[21:10] [8b8t] >> Teleporting...",
     "[21:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[21:10] [8b8t] >> You have killed yourself!",
-    "[21:10] [BOT] <0_HienBot> >Welcome to 8b8t, _meloudrama! "
+    "[21:10] [BOT] <0_HienBot> >Welcome to 8b8t, _meloudrama! ",
+    "[21:10] <Saad2001_bot> > Bot updated to 1.0.1 → 2.3, edited announcements.json, tried fixing commands but still nothing ",
+    "[21:10] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[21:10] <fdsadsadoasnmdas> !kit survival ",
+    "[21:10] [8b8t] >> Teleporting to home 0...",
+    "[21:10] <malutkipan> !kit illegal ",
+    "[21:10] To malutkipan: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:10] To fdsadsadoasnmdas: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:10] To fdsadsadoasnmdas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:10] [8b8t] >> Request sent to fdsadsadoasnmdas"
   ],
   "userStats": {
     "76756": 38,
@@ -3370,11 +3370,11 @@
     "Sotelldo": 2,
     "plag4xxx": 3,
     "malutkipan": 4,
-    "fdsadsadoasnmdas": 3
+    "fdsadsadoasnmdas": 4
   },
   "kitStats": {
     "build": 1618,
-    "survival": 6433,
+    "survival": 6434,
     "pvp": 8216,
     "dupe": 2248,
     "tools": 1895,
