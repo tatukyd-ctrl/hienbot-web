@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:51:05 15/1/2026",
+  "lastUpdated": "06:51:23 15/1/2026",
   "totalKits": 87286,
   "todayKits": 323,
   "onlineCount": 36,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 280,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:50] [8b8t] >> Teleporting to home 1...",
-    "[23:50] To Samuel_procaso: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:50] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[23:50] <VortexTrapper> !kit end ",
-    "[23:50] To VortexTrapper: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:50] To Samuel_procaso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:50] <Fazzo_7> todo el mapa esa destruido? ",
     "[23:50] [8b8t] >> Request sent to Samuel_procaso",
     "[23:50] <lexomorey> hh ",
@@ -101,7 +95,13 @@
     "[23:50] <fdsadsadoasnmdas> !kit srvuvial ",
     "[23:50] To fdsadsadoasnmdas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[23:51] [8b8t] >> Request sent to VortexTrapper",
-    "[23:51] [8b8t] >> Teleporting..."
+    "[23:51] [8b8t] >> Teleporting...",
+    "[23:51] [8b8t] >> You have killed yourself!",
+    "[23:51] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[23:51] <fdsadsadoasnmdas> !kit surivval ",
+    "[23:51] [8b8t] >> Teleporting to home 0...",
+    "[23:51] [8b8t] >> Teleporting to home 5...",
+    "[23:51] To fdsadsadoasnmdas: Kit \"surivval\" not found! Giving you (end) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3370,7 +3370,7 @@
     "Sotelldo": 2,
     "plag4xxx": 12,
     "malutkipan": 10,
-    "fdsadsadoasnmdas": 21,
+    "fdsadsadoasnmdas": 22,
     "RobertoPalos": 5,
     "sayrox2": 4,
     "TheKoso": 3,
@@ -3401,7 +3401,7 @@
     "quartz": 312,
     "shulker": 604,
     "terracotta": 120,
-    "end": 701,
+    "end": 702,
     "armortrims": 549,
     "highway": 627,
     "ocean": 158,
