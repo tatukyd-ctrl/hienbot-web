@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:42:11 14/1/2026",
+  "lastUpdated": "23:42:23 14/1/2026",
   "totalKits": 87026,
   "todayKits": 63,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 43,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 256,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6385
+      "count": 6386
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:40] <botchaosonix> yes ",
-    "[16:40] <botchaosonix> skill pro ",
-    "[16:40] [BOT] <0_HienBot> >Type !discord ",
-    "[16:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:41] [8b8t] >> The TPA request you received from donzx11 has expired.",
-    "[16:41] [8b8t] >> You have killed yourself!",
     "[16:41] [8b8t] >> The TPA request you sent to florentinogomez was successfully canceled.",
     "[16:41] <florentinogomez> !kit ",
     "[16:41] To florentinogomez: Hello florentinogomez!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[16:42] <PR2CEE> what client DrVenial? ",
     "[16:42] [8b8t] >> Teleporting...",
     "[16:42] <DrVenial31> !kit survival ",
-    "[16:42] To DrVenial31: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[16:42] To DrVenial31: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:42] [8b8t] >> You have killed yourself!",
+    "[16:42] <DrVenial31> meteor ",
+    "[16:42] <DrVenial31> !kit survival ",
+    "[16:42] [8b8t] >> Teleporting to home 0...",
+    "[16:42] [8b8t] >> Teleporting to home 1...",
+    "[16:42] To DrVenial31: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3185,7 +3185,7 @@
     "Void000": 2,
     "Gshou": 3,
     "dragonkit3": 1,
-    "DrVenial31": 82,
+    "DrVenial31": 83,
     "ElTomatitoFresco": 7,
     "islakdonavcizi31": 30,
     "yusyf_56": 7,
@@ -3350,7 +3350,7 @@
   },
   "kitStats": {
     "build": 1607,
-    "survival": 6385,
+    "survival": 6386,
     "pvp": 8176,
     "dupe": 2212,
     "tools": 1892,
