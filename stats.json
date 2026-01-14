@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:47:53 15/1/2026",
+  "lastUpdated": "06:48:23 15/1/2026",
   "totalKits": 87284,
   "todayKits": 321,
-  "onlineCount": 32,
+  "onlineCount": 34,
   "peakPlayers": 56,
-  "tps": "2.0",
-  "ping": 274,
+  "tps": "1.0",
+  "ping": 273,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6447
+      "count": 6448
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:47] [8b8t] >> You have killed yourself!",
-    "[23:47] <.GENIUS_07091436> !KIT ELYTRAS ",
-    "[23:47] <ekravcho132> !kit stash ",
-    "[23:47] [8b8t] >> Teleporting to home 0...",
-    "[23:47] [8b8t] >> No TPA request found",
-    "[23:47] <.Fabiouwu2900> !kit free ",
-    "[23:47] [8b8t] >> Teleporting to home 4...",
-    "[23:47] To .GENIUS_07091436: Kit \"ELYTRAS\" not found! Giving you (terracotta) instead! dsc.gg/hienbot",
     "[23:47] To ekravcho132: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[23:47] To .GENIUS_07091436: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:47] [8b8t] >> Request sent to .GENIUS_07091436",
@@ -101,7 +93,15 @@
     "[23:47] [BOT] <0_HienBot> >What's up, Manteiga_Gg8? ",
     "[23:47] To ekravcho132: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:47] [8b8t] >> Request sent to ekravcho132",
-    "[23:47] [8b8t] >> Teleporting..."
+    "[23:47] [8b8t] >> Teleporting...",
+    "[23:47] [8b8t] >> You have killed yourself!",
+    "[23:48] <Samuel_procaso> !KIT SURVIVAL ",
+    "[23:48] [8b8t] >> Teleporting to home 0...",
+    "[23:48] [8b8t] >> Teleporting to home 1...",
+    "[23:48] To Samuel_procaso: Your kit (SURVIVAL) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:48] To Samuel_procaso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:48] [8b8t] >> Request sent to Samuel_procaso",
+    "[23:48] [BOT] <0_HienBot> >Try !кιт survival "
   ],
   "userStats": {
     "76756": 38,
@@ -3272,7 +3272,7 @@
     "ismail9090": 10,
     "BlackLeaf9284": 17,
     "Herobrine_sb68": 3,
-    "Samuel_procaso": 4,
+    "Samuel_procaso": 5,
     "XJelox": 2,
     "SenpaiYuvii": 3,
     "amur6556_twink": 1,
@@ -3384,7 +3384,7 @@
   },
   "kitStats": {
     "build": 1624,
-    "survival": 6447,
+    "survival": 6448,
     "pvp": 8236,
     "dupe": 2259,
     "tools": 1899,
