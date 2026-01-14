@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:15:33 14/1/2026",
+  "lastUpdated": "08:16:03 14/1/2026",
   "totalKits": 86625,
   "todayKits": 38,
   "onlineCount": 26,
   "peakPlayers": 50,
-  "tps": "4.0",
+  "tps": "0.0",
   "ping": 246,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8056
+      "count": 8057
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:12] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[01:12] <.WOOXERMC> !kit survival ",
-    "[01:12] [8b8t] >> Teleporting to home 0...",
-    "[01:12] [8b8t] >> Teleporting to home 1...",
-    "[01:12] To .WOOXERMC: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:12] To .WOOXERMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:12] [8b8t] >> Request sent to .WOOXERMC",
     "[01:13] [8b8t] >> Teleporting...",
@@ -101,7 +96,12 @@
     "[01:15] [8b8t] >> The TPA request you sent to Jewishc was successfully canceled.",
     "[01:15] <Jewishc> !kit pvp ",
     "[01:15] To Jewishc: You're on cooldown, try again in 55 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:15] <MrPinkEye> !kit "
+    "[01:15] <MrPinkEye> !kit ",
+    "[01:15] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:15] <.WOOXERMC> !kit pvp ",
+    "[01:15] [8b8t] >> Teleporting to home 0...",
+    "[01:15] [8b8t] >> Teleporting to home 1...",
+    "[01:15] To .WOOXERMC: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3301,12 +3301,12 @@
     "erggiN": 1,
     "Darveik1": 3,
     "sanky735": 2,
-    ".WOOXERMC": 2
+    ".WOOXERMC": 3
   },
   "kitStats": {
     "build": 1586,
     "survival": 6302,
-    "pvp": 8056,
+    "pvp": 8057,
     "dupe": 2168,
     "tools": 1871,
     "stash": 1113,
