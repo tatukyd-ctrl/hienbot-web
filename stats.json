@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:32:23 14/1/2026",
-  "totalKits": 87020,
-  "todayKits": 57,
-  "onlineCount": 36,
+  "lastUpdated": "23:32:38 14/1/2026",
+  "totalKits": 87021,
+  "todayKits": 58,
+  "onlineCount": 38,
   "peakPlayers": 43,
-  "tps": "6.0",
+  "tps": "10.0",
   "ping": 257,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8172
+      "count": 8173
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:30] [8b8t] >> Teleporting to home 1...",
-    "[16:30] [8b8t] >> Could not find player MyNewAccountdude",
-    "[16:30] [8b8t] >> Player MyNewAccountdude is not online",
-    "[16:30] <Saad2001> ?reload ",
-    "[16:30] [BOT] <0_HienBot> >What's up, Saad2001? ",
-    "[16:30] <Saad2001_bot> Kit bot online | Type ?help ",
-    "[16:31] <donzx11> alguen ajuda aqui ",
-    "[16:31] [8b8t] >> You have killed yourself!",
-    "[16:31] [8b8t] >> Player MyNewAccountdude is not online",
-    "[16:31] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[16:31] elsanti456 has made the advancement [We Need to Go Deeper]",
     "[16:31] <elsanti456> QUE MIERDA CON EL 00 DEL NETHER ",
     "[16:31] <Saad2001> ?kit ",
@@ -101,7 +91,17 @@
     "[16:32] <botchaosonix> ? ",
     "[16:32] [8b8t] >> You have killed yourself!",
     "[16:32] [8b8t] >> No TPA request found",
-    "[16:32] <TylerDurden098> botchaosonix u called my name "
+    "[16:32] <TylerDurden098> botchaosonix u called my name ",
+    "[16:32] botchaosonix Whispers: !kit pvp",
+    "[16:32] [8b8t] >> Teleporting to home 0...",
+    "[16:32] [8b8t] >> Teleporting to home 1...",
+    "[16:32] To botchaosonix: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:32] <botchaosonix> yes i know ",
+    "[16:32] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[16:32] To botchaosonix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:32] [8b8t] >> Request sent to botchaosonix",
+    "[16:32] <TylerDurden098> why ",
+    "[16:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2365,7 +2365,7 @@
     "UnknownBoy_YT": 2,
     "Cadens": 14,
     "1cey": 1,
-    "botchaosonix": 12,
+    "botchaosonix": 13,
     "WxpzFrags": 41,
     "Lazyfacii": 12,
     ".PQueen1221": 6,
@@ -3348,7 +3348,7 @@
   "kitStats": {
     "build": 1607,
     "survival": 6380,
-    "pvp": 8172,
+    "pvp": 8173,
     "dupe": 2211,
     "tools": 1892,
     "stash": 1134,
