@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:24:04 14/1/2026",
-  "totalKits": 86750,
-  "todayKits": 163,
+  "lastUpdated": "15:24:30 14/1/2026",
+  "totalKits": 86751,
+  "todayKits": 164,
   "onlineCount": 11,
   "peakPlayers": 50,
-  "tps": "14.0",
+  "tps": "11.0",
   "ping": 267,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2183
+      "count": 2184
     },
     {
       "name": "tools",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:20] [8b8t] >> Teleporting to home 0...",
-    "[08:20] [8b8t] >> Teleporting to home 1...",
-    "[08:20] To subux8: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:20] To subux8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:20] [8b8t] >> Request sent to subux8",
-    "[08:20] [8b8t] >> Teleporting...",
-    "[08:20] [8b8t] >> You have killed yourself!",
-    "[08:20] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:20] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[08:21] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[08:21] [BOT] <0_HienBot> >Type !discord ",
     "[08:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -101,7 +92,16 @@
     "[08:23] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[08:23] [8b8t] >> Please do not spam.",
     "[08:23] <subux8> !kit dupe ",
-    "[08:23] To subux8: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot"
+    "[08:23] To subux8: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:24] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[08:24] <subux8> !kit dupe ",
+    "[08:24] [8b8t] >> Teleporting to home 0...",
+    "[08:24] [8b8t] >> Teleporting to home 7...",
+    "[08:24] To subux8: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:24] To subux8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:24] [8b8t] >> Request sent to subux8",
+    "[08:24] <arav_gamer_9999> hi ",
+    "[08:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3319,13 +3319,13 @@
     "Render": 3,
     "elpanchowasa": 6,
     "7w7__": 3,
-    "subux8": 4
+    "subux8": 5
   },
   "kitStats": {
     "build": 1594,
     "survival": 6323,
     "pvp": 8099,
-    "dupe": 2183,
+    "dupe": 2184,
     "tools": 1878,
     "stash": 1120,
     "raid": 1322,
