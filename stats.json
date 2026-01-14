@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:02:53 15/1/2026",
+  "lastUpdated": "02:03:23 15/1/2026",
   "totalKits": 87103,
   "todayKits": 140,
-  "onlineCount": 48,
+  "onlineCount": 50,
   "peakPlayers": 50,
   "tps": "3.0",
   "ping": 266,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6412
+      "count": 6413
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:01] <GartenzwergGnom> !kit ",
-    "[19:01] To AtlasB0T: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:01] To GartenzwergGnom: Hello GartenzwergGnom!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:01] To AtlasB0T: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:01] [8b8t] >> Request sent to AtlasB0T",
-    "[19:01] [8b8t] >> Teleporting...",
-    "[19:01] nitrocr7M291451 has made the advancement [We Need to Go Deeper]",
-    "[19:01] <Sgamestream> lumora ",
-    "[19:01] [8b8t] >> You have killed yourself!",
     "[19:01] <Sgamestream> can we 1v1 ",
     "[19:02] [8b8t] >> Please do not spam.",
     "[19:02] <GuilleB737> en el spawn siguen estando los dragones? ",
@@ -101,7 +92,16 @@
     "[19:02] <Sgamestream> wait ",
     "[19:02] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[19:02] <Sgamestream> k ",
-    "[19:02] <Sgamestream> les go "
+    "[19:02] <Sgamestream> les go ",
+    "[19:03] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[19:03] <SlimeCrafter_99> kontol ",
+    "[19:03] <GartenzwergGnom> !kit Survival ",
+    "[19:03] [8b8t] >> Teleporting to home 0...",
+    "[19:03] [8b8t] >> Teleporting to home 1...",
+    "[19:03] To GartenzwergGnom: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:03] To GartenzwergGnom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:03] [8b8t] >> Request sent to GartenzwergGnom",
+    "[19:03] <SlimeCrafter_99> bangsad "
   ],
   "userStats": {
     "76756": 38,
@@ -3358,11 +3358,12 @@
     "lowkeyjustanoob": 1,
     "Florisvdw1": 1,
     "AtlasB0T": 1,
-    "Leonard": 1
+    "Leonard": 1,
+    "GartenzwergGnom": 1
   },
   "kitStats": {
     "build": 1610,
-    "survival": 6412,
+    "survival": 6413,
     "pvp": 8201,
     "dupe": 2229,
     "tools": 1893,
