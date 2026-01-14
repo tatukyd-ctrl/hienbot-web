@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:57:53 15/1/2026",
+  "lastUpdated": "03:58:23 15/1/2026",
   "totalKits": 87177,
   "todayKits": 214,
-  "onlineCount": 36,
+  "onlineCount": 37,
   "peakPlayers": 56,
-  "tps": "1.0",
-  "ping": 287,
+  "tps": "5.0",
+  "ping": 273,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8214
+      "count": 8215
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:55] [8b8t] >> Request sent to Saad2001",
-    "[20:55] <Saad2001_bot> > Soon the commands will work, but until then I’ll use NodeJS and quit Java ",
-    "[20:55] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[20:55] [8b8t] >> Teleporting...",
-    "[20:56] <Saad2001> :kit_help ",
-    "[20:56] [8b8t] >> You have killed yourself!",
-    "[20:56] <Saad2001_bot> > Is there anyone that now raids bruh ",
-    "[20:56] <Saad2001_bot> > Do you like 8b8t? Well, me too :) ",
-    "[20:56] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[20:56] <Saad2001_bot> > Wonder how we can use Java; you can just download Mineflayer and make your own bots with tutorials using NodeJS ",
     "[20:56] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[20:56] <Saad2001_bot> > Hello ",
@@ -101,7 +92,16 @@
     "[20:57] htp1p0 is ignoring you",
     "[20:57] Saad2001_bot has made the advancement [We Need to Go Deeper]",
     "[20:57] [8b8t] >> Request sent to htp1p0",
-    "[20:57] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
+    "[20:57] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[20:58] <Saad2001_bot> > Is there anyone that now raids bruh ",
+    "[20:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[20:58] [8b8t] >> You have killed yourself!",
+    "[20:58] [8b8t] >> The TPA request you sent to htp1p0 was successfully canceled.",
+    "[20:58] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[20:58] <plag4xxx> !kit pvp ",
+    "[20:58] [8b8t] >> Teleporting to home 0...",
+    "[20:58] [8b8t] >> Teleporting to home 1...",
+    "[20:58] To plag4xxx: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3368,12 +3368,12 @@
     "ROHAN": 3,
     "JJplayerUD": 1,
     "Sotelldo": 2,
-    "plag4xxx": 1
+    "plag4xxx": 2
   },
   "kitStats": {
     "build": 1618,
     "survival": 6427,
-    "pvp": 8214,
+    "pvp": 8215,
     "dupe": 2247,
     "tools": 1894,
     "stash": 1141,
