@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:36:04 14/1/2026",
-  "totalKits": 86832,
-  "todayKits": 245,
+  "lastUpdated": "18:36:26 14/1/2026",
+  "totalKits": 86833,
+  "todayKits": 246,
   "onlineCount": 23,
   "peakPlayers": 50,
-  "tps": "4.0",
-  "ping": 246,
+  "tps": "6.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8122
+      "count": 8123
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:33] [8b8t] >> You have killed yourself!",
-    "[11:33] [BOT] <0_HienBot> >Hey LEON10! ",
-    "[11:34] <.yuu18m> !kit survival ",
-    "[11:34] [8b8t] >> Teleporting to home 0...",
-    "[11:34] [8b8t] >> Teleporting to home 1...",
-    "[11:34] To .yuu18m: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[11:34] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:34] [8b8t] >> Request sent to .yuu18m",
-    "[11:34] [8b8t] >> Teleporting...",
     "[11:34] [8b8t] >> You have killed yourself!",
     "[11:34] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[11:34] <Mc_paco18> kits ",
@@ -101,7 +91,17 @@
     "[11:35] [8b8t] >> Request sent to Suelen",
     "[11:35] [8b8t] >> Teleporting...",
     "[11:35] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[11:35] [8b8t] >> You have killed yourself!"
+    "[11:35] [8b8t] >> You have killed yourself!",
+    "[11:36] <Mc_paco18> !kit pvp ",
+    "[11:36] [8b8t] >> Teleporting to home 0...",
+    "[11:36] [8b8t] >> Teleporting to home 1...",
+    "[11:36] To Mc_paco18: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:36] To Mc_paco18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:36] [8b8t] >> Request sent to Mc_paco18",
+    "[11:36] <Suelen> !kit ",
+    "[11:36] To Suelen: Hello Suelen!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[11:36] [8b8t] >> Teleporting...",
+    "[11:36] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3327,13 +3327,13 @@
     "Akross17": 11,
     "alghoul_1": 1,
     "Suelen": 3,
-    "Mc_paco18": 2,
+    "Mc_paco18": 3,
     "BigDensity910": 1
   },
   "kitStats": {
     "build": 1600,
     "survival": 6338,
-    "pvp": 8122,
+    "pvp": 8123,
     "dupe": 2192,
     "tools": 1884,
     "stash": 1121,
