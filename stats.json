@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:45:33 14/1/2026",
-  "totalKits": 86599,
-  "todayKits": 12,
-  "onlineCount": 28,
+  "lastUpdated": "07:46:00 14/1/2026",
+  "totalKits": 86600,
+  "todayKits": 13,
+  "onlineCount": 26,
   "peakPlayers": 50,
   "tps": "7.0",
   "ping": 244,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8052
+      "count": 8053
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:42] [8b8t] >> You have killed yourself!",
-    "[00:42] [8b8t] >> Please do not spam.",
-    "[00:42] <web_art> mmorre ",
-    "[00:42] .WOOXERMC has completed the challenge [Subspace Bubble]",
-    "[00:43] <GalaxyGG1235> ja to a mais de 6 hr tentendo voltar pro spawn ",
-    "[00:43] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[00:43] [BOT] <0_HienBot> >Hey Okoksus! ",
-    "[00:43] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:44] <Okoksus> $maddie ",
-    "[00:44] [Basic] <PorotoCosmico> !kit survival ",
-    "[00:44] [8b8t] >> Teleporting to home 0...",
     "[00:44] [8b8t] >> Teleporting to home 1...",
     "[00:44] To PorotoCosmico: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[00:44] To PorotoCosmico: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +90,18 @@
     "[00:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[00:45] <Darveik1> !kit ",
     "[00:45] To Darveik1: Hello Darveik1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[00:45] <MrPinkEye> !kit "
+    "[00:45] <MrPinkEye> !kit ",
+    "[00:45] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[00:45] <Darveik1> !kit pvp ",
+    "[00:45] [8b8t] >> Teleporting to home 0...",
+    "[00:45] [8b8t] >> Teleporting to home 1...",
+    "[00:45] To Darveik1: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:45] To Darveik1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:45] [8b8t] >> Request sent to Darveik1",
+    "[00:45] [BOT] <0_HienBot> >Type !discord ",
+    "[00:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:45] <Okoksus> $updates ",
+    "[00:45] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3298,12 +3298,13 @@
     "pepeelpepito": 2,
     ".GENIUS_07091436": 3,
     ".Lol1290zzz": 1,
-    "erggiN": 1
+    "erggiN": 1,
+    "Darveik1": 1
   },
   "kitStats": {
     "build": 1584,
     "survival": 6296,
-    "pvp": 8052,
+    "pvp": 8053,
     "dupe": 2164,
     "tools": 1867,
     "stash": 1113,
