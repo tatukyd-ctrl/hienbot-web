@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:35:34 14/1/2026",
-  "totalKits": 86850,
-  "todayKits": 263,
+  "lastUpdated": "19:35:55 14/1/2026",
+  "totalKits": 86851,
+  "todayKits": 264,
   "onlineCount": 18,
   "peakPlayers": 50,
-  "tps": "10.0",
-  "ping": 254,
+  "tps": "7.0",
+  "ping": 252,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6340
+      "count": 6341
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:33] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[12:33] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[12:34] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:34] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[12:34] <ItzMeWOOFY> !kit pvp ",
-    "[12:34] [8b8t] >> Teleporting to home 0...",
-    "[12:34] [8b8t] >> Teleporting to home 1...",
-    "[12:34] To ItzMeWOOFY: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:34] To ItzMeWOOFY: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:34] [8b8t] >> Request sent to ItzMeWOOFY",
-    "[12:34] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[12:35] <leopro294> !kit webs ",
     "[12:35] To leopro294: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
     "[12:35] [8b8t] >> Teleporting...",
@@ -101,7 +90,18 @@
     "[12:35] To leopro294: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[12:35] [8b8t] >> Request sent to leopro294",
     "[12:35] [8b8t] >> Teleporting...",
-    "[12:35] [8b8t] >> You have killed yourself!"
+    "[12:35] [8b8t] >> You have killed yourself!",
+    "[12:35] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[12:35] <ItzMeWOOFY> !kit survival ",
+    "[12:35] [8b8t] >> Teleporting to home 0...",
+    "[12:35] [8b8t] >> Teleporting to home 1...",
+    "[12:35] To ItzMeWOOFY: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:35] To ItzMeWOOFY: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:35] [8b8t] >> Request sent to ItzMeWOOFY",
+    "[12:35] <leopro294> !kit cowebs ",
+    "[12:35] [8b8t] >> Teleporting...",
+    "[12:35] To leopro294: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
+    "[12:35] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3330,11 +3330,11 @@
     "Mc_paco18": 6,
     "BigDensity910": 2,
     "ItsZerith": 1,
-    "ItzMeWOOFY": 1
+    "ItzMeWOOFY": 2
   },
   "kitStats": {
     "build": 1600,
-    "survival": 6340,
+    "survival": 6341,
     "pvp": 8128,
     "dupe": 2194,
     "tools": 1885,
