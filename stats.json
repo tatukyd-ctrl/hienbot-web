@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:24:38 14/1/2026",
-  "totalKits": 86957,
-  "todayKits": 47,
+  "lastUpdated": "22:24:49 14/1/2026",
+  "totalKits": 86958,
+  "todayKits": 48,
   "onlineCount": 34,
   "peakPlayers": 36,
-  "tps": "2.0",
-  "ping": 276,
+  "tps": "3.0",
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6359
+      "count": 6360
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:24] [8b8t] >> Teleporting to home 0...",
-    "[15:24] [8b8t] >> Teleporting to home 1...",
-    "[15:24] To DrVenial31: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:24] <BlackLeaf9284> !kit mineral ",
-    "[15:24] To DrVenial31: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:24] To BlackLeaf9284: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:24] [8b8t] >> Request sent to DrVenial31",
     "[15:24] [8b8t] >> Teleporting...",
     "[15:24] <MyNewAccountdude> !kiT ",
     "[15:24] <BlackLeaf9284> !kit mineral ",
@@ -101,7 +94,14 @@
     "[15:24] To Pemasandu99: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:24] <BlackLeaf9284> !kit Survival ",
     "[15:24] To BlackLeaf9284: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:24] [8b8t] >> You have killed yourself!"
+    "[15:24] [8b8t] >> You have killed yourself!",
+    "[15:24] <BlackLeaf9284> !kit Survival ",
+    "[15:24] [8b8t] >> Teleporting to home 0...",
+    "[15:24] [8b8t] >> Teleporting to home 1...",
+    "[15:24] To BlackLeaf9284: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:24] To BlackLeaf9284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:24] [8b8t] >> Request sent to BlackLeaf9284",
+    "[15:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3270,7 +3270,7 @@
     "GulfamXD7": 2,
     "Sanhpz_7": 21,
     "ismail9090": 10,
-    "BlackLeaf9284": 14,
+    "BlackLeaf9284": 15,
     "Herobrine_sb68": 3,
     "Samuel_procaso": 2,
     "XJelox": 2,
@@ -3341,7 +3341,7 @@
   },
   "kitStats": {
     "build": 1604,
-    "survival": 6359,
+    "survival": 6360,
     "pvp": 8157,
     "dupe": 2198,
     "tools": 1889,
