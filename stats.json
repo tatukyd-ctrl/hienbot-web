@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:28:38 14/1/2026",
-  "totalKits": 86920,
-  "todayKits": 10,
-  "onlineCount": 26,
+  "lastUpdated": "21:28:58 14/1/2026",
+  "totalKits": 86921,
+  "todayKits": 11,
+  "onlineCount": 27,
   "peakPlayers": 27,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 264,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8146
+      "count": 8147
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:26] <LEON10> -_- ",
-    "[14:26] <Axernal> !tps ",
-    "[14:26] To Axernal: Current TPS: 5.00 Dont forget to join dsc.gg/hienbot",
-    "[14:26] <SHAD0W_120> trims ",
-    "[14:26] <LEON10> kk ",
-    "[14:26] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[14:26] <.yuu18m> thank you ",
-    "[14:26] <SHAD0W_120> trim u self ",
     "[14:26] <Axernal> VEAN TRIPLES HIJUEPUTAS ME VAN A AYUDAR O QUE ",
     "[14:26] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:26] <LEON10> kkk ",
@@ -101,7 +93,15 @@
     "[14:28] [8b8t] >> The TPA request you sent to Axernal was successfully canceled.",
     "[14:28] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[14:28] <Axernal> !kit pvp ",
-    "[14:28] To Axernal: You're on cooldown, try again in 42 seconds! Dont forget to join dsc.gg/hienbot"
+    "[14:28] To Axernal: You're on cooldown, try again in 42 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:28] <.yuu18m> !kit pvp ",
+    "[14:28] [8b8t] >> Teleporting to home 0...",
+    "[14:28] [8b8t] >> Teleporting to home 1...",
+    "[14:28] To .yuu18m: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:28] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:28] [8b8t] >> Request sent to .yuu18m",
+    "[14:28] [8b8t] >> Teleporting...",
+    "[14:28] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ "
   ],
   "userStats": {
     "76756": 38,
@@ -2458,7 +2458,7 @@
     "PlayStation_ALT": 2,
     "HARLIX1354": 5,
     "Fiki64": 5,
-    ".yuu18m": 62,
+    ".yuu18m": 63,
     "Unknown_Addy": 6,
     "fwgehr": 1,
     "isamasi7": 1,
@@ -3338,7 +3338,7 @@
   "kitStats": {
     "build": 1603,
     "survival": 6350,
-    "pvp": 8146,
+    "pvp": 8147,
     "dupe": 2195,
     "tools": 1889,
     "stash": 1127,
