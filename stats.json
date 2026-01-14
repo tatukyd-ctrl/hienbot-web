@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:20:34 14/1/2026",
-  "totalKits": 86654,
-  "todayKits": 67,
+  "lastUpdated": "09:21:01 14/1/2026",
+  "totalKits": 86655,
+  "todayKits": 68,
   "onlineCount": 31,
   "peakPlayers": 50,
-  "tps": "2.0",
-  "ping": 256,
+  "tps": "4.0",
+  "ping": 258,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8067
+      "count": 8068
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:18] [8b8t] >> Request sent to _Tocanenas",
-    "[02:18] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[02:18] <Okoksus> herwe ",
-    "[02:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[02:18] <plag4xxx> bueno busco team pa dominar sv alguien? ",
-    "[02:18] [8b8t] >> The TPA request you sent to _Tocanenas has expired.",
-    "[02:18] <_Tocanenas> quien pvp ",
-    "[02:18] <Sunther_> yo ",
-    "[02:18] <_Tocanenas> Sunther_ tu? ",
-    "[02:18] [8b8t] >> You have killed yourself!",
-    "[02:18] [8b8t] >> No TPA request found",
     "[02:18] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[02:18] <Sunther_> yo ",
     "[02:18] <_Tocanenas> !kit pvp ",
@@ -101,7 +90,18 @@
     "[02:20] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[02:20] [8b8t] >> You have killed yourself!",
     "[02:20] _Tocanenas has completed the challenge [Serious Dedication]",
-    "[02:20] <MrPinkEye> !kit "
+    "[02:20] <MrPinkEye> !kit ",
+    "[02:20] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:20] <Kalashlsl> !kit ",
+    "[02:20] To Kalashlsl: Hello Kalashlsl!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:20] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[02:20] <Kalashlsl> !kit pvp ",
+    "[02:20] [8b8t] >> Teleporting to home 0...",
+    "[02:20] [8b8t] >> Teleporting to home 1...",
+    "[02:20] To Kalashlsl: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:20] To Kalashlsl: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:20] [8b8t] >> Request sent to Kalashlsl",
+    "[02:20] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3304,12 +3304,13 @@
     ".WOOXERMC": 4,
     "Aaron0x00": 1,
     "jwzxs": 1,
-    ".Peng1sPlay": 2
+    ".Peng1sPlay": 2,
+    "Kalashlsl": 1
   },
   "kitStats": {
     "build": 1587,
     "survival": 6309,
-    "pvp": 8067,
+    "pvp": 8068,
     "dupe": 2169,
     "tools": 1874,
     "stash": 1115,
