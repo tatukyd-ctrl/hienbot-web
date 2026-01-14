@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:24:01 15/1/2026",
+  "lastUpdated": "04:24:23 15/1/2026",
   "totalKits": 87205,
   "todayKits": 242,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 56,
-  "tps": "4.0",
-  "ping": 272,
+  "tps": "6.0",
+  "ping": 275,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:22] <RobertoPalos> !kit food ",
-    "[21:22] [8b8t] >> Teleporting to home 0...",
-    "[21:22] [8b8t] >> Teleporting to home 4...",
-    "[21:22] To RobertoPalos: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:22] To RobertoPalos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:22] [8b8t] >> Request sent to RobertoPalos",
-    "[21:22] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[21:23] <Saad2001_bot> > Bot updated to 1.0.1 → 2.3, edited announcements.json, tried fixing commands but still nothing ",
     "[21:23] <plag4xxx> !kit wool ",
     "[21:23] <Saad2001_bot> > I’m not a 24/7 bot, so if you see me online, that means I’m active :) ",
     "[21:23] To plag4xxx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[21:23] [8b8t] >> Request sent to plag4xxx",
     "[21:23] [8b8t] >> Teleporting...",
     "[21:23] <MrPinkEye> !kit ",
-    "[21:23] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[21:23] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[21:24] <Saad2001_bot> > Make sure to have a team here ",
+    "[21:24] [8b8t] >> You have killed yourself!",
+    "[21:24] <Saad2001_bot> > The Saad2001 Universal chest is gone, I’ll never come back to it ",
+    "[21:24] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[21:24] <RobertoPalos> !kit food ",
+    "[21:24] [8b8t] >> Teleporting to home 0...",
+    "[21:24] [8b8t] >> Teleporting to home 4...",
+    "[21:24] To RobertoPalos: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3371,7 +3371,7 @@
     "plag4xxx": 12,
     "malutkipan": 7,
     "fdsadsadoasnmdas": 4,
-    "RobertoPalos": 4
+    "RobertoPalos": 5
   },
   "kitStats": {
     "build": 1619,
@@ -3386,7 +3386,7 @@
     "dye": 336,
     "wool": 455,
     "mineral": 580,
-    "food": 511,
+    "food": 512,
     "redstone": 812,
     "toolbox": 749,
     "quartz": 307,
