@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:01:03 14/1/2026",
-  "totalKits": 86587,
-  "todayKits": 0,
+  "lastUpdated": "07:01:19 14/1/2026",
+  "totalKits": 86588,
+  "todayKits": 1,
   "onlineCount": 29,
   "peakPlayers": 50,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 245,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6292
+      "count": 6293
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:59] [8b8t] >> You have killed yourself!",
-    "[23:59] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[23:59] <Okoksus> $kit obsidian ",
-    "[23:59] [8b8t] >> Teleporting to home 0...",
-    "[23:59] [8b8t] >> Teleporting to home 6...",
-    "[23:59] To Okoksus: Your kit (obsidian) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:59] [8b8t] >> VOLTAIKKKKK created a new hotspot, use /hotspot to teleport to it",
-    "[23:59] To Okoksus: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:59] [8b8t] >> Request sent to Okoksus",
     "[23:59] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
     "[23:59] [8b8t] >> Teleporting...",
     "[00:00] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[00:00] [8b8t] >> You have killed yourself!",
     "[00:00] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[00:00] <BeThaMob> lol ",
-    "[00:01] <xXxpro123xXx> quien me enseña ah dupear "
+    "[00:01] <xXxpro123xXx> quien me enseña ah dupear ",
+    "[00:01] <Gaspilol> !kit survival ",
+    "[00:01] To Gaspilol: You're on cooldown, try again in 18 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:01] <boludo> !kit survival ",
+    "[00:01] [8b8t] >> Teleporting to home 0...",
+    "[00:01] [8b8t] >> Teleporting to home 1...",
+    "[00:01] To boludo: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:01] To boludo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:01] [8b8t] >> Request sent to boludo",
+    "[00:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2309,7 +2309,7 @@
     "seasnail8191": 4,
     "hosni_chan05": 6,
     "hector_star": 1,
-    "boludo": 77,
+    "boludo": 78,
     "hacker2014131930": 4,
     "HahaGirlYs": 79,
     "LAKAKAFG": 11,
@@ -3301,7 +3301,7 @@
   },
   "kitStats": {
     "build": 1583,
-    "survival": 6292,
+    "survival": 6293,
     "pvp": 8045,
     "dupe": 2158,
     "tools": 1867,
