@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:30:33 14/1/2026",
+  "lastUpdated": "08:31:03 14/1/2026",
   "totalKits": 86631,
   "todayKits": 44,
   "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 257,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1872
+      "count": 1873
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:26] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[01:26] <Aaron0x00> !kit redstone ",
-    "[01:26] [8b8t] >> Teleporting to home 0...",
-    "[01:26] [8b8t] >> Home 2 was not found",
-    "[01:26] To Aaron0x00: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:26] To Aaron0x00: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:26] [8b8t] >> Request sent to Aaron0x00",
-    "[01:26] [BOT] <0_HienBot> >Type !discord ",
     "[01:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:26] serprix25_ has made the advancement [Isn't It Iron Pick]",
     "[01:27] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[01:30] <bwsti> sexoooo rico ",
     "[01:30] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[01:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:30] <MrPinkEye> !kit "
+    "[01:30] <MrPinkEye> !kit ",
+    "[01:30] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:30] <bwsti> !kit ",
+    "[01:30] To bwsti: Hello bwsti!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:30] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[01:30] [Basic] <PorotoCosmico> $kit minelord ",
+    "[01:31] [8b8t] >> Teleporting to home 0...",
+    "[01:31] [8b8t] >> Teleporting to home 7...",
+    "[01:31] To PorotoCosmico: Kit \"minelord\" not found! Giving you (tools) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -218,7 +218,7 @@
     "3DProphet": 1,
     ".Uqe1": 26,
     "parhamzarea": 40,
-    "PorotoCosmico": 6,
+    "PorotoCosmico": 7,
     "Josemhu12": 8,
     "d3m0n1010": 2,
     "AbdullahRihiczs": 3,
@@ -3309,7 +3309,7 @@
     "survival": 6302,
     "pvp": 8059,
     "dupe": 2169,
-    "tools": 1872,
+    "tools": 1873,
     "stash": 1113,
     "raid": 1316,
     "wood": 539,
