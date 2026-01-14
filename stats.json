@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:45:53 15/1/2026",
+  "lastUpdated": "04:46:23 15/1/2026",
   "totalKits": 87214,
   "todayKits": 251,
-  "onlineCount": 38,
+  "onlineCount": 40,
   "peakPlayers": 56,
-  "tps": "1.0",
+  "tps": "4.0",
   "ping": 272,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8220
+      "count": 8221
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:44] <leopro294> aww le tiene miedo a papi? ",
-    "[21:44] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[21:44] <Saad2001_bot> > Do you like 8b8t? Well, me too :) ",
-    "[21:44] <fdsadsadoasnmdas> c we ",
-    "[21:44] <leopro294> q? ",
-    "[21:44] <sayrox2> !kit lvl ",
-    "[21:44] [8b8t] >> Teleporting to home 0...",
     "[21:44] [8b8t] >> Teleporting to home 4...",
     "[21:44] To sayrox2: Kit \"lvl\" not found! Giving you (terracotta) instead! dsc.gg/hienbot",
     "[21:44] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +94,14 @@
     "[21:45] To sayrox2: You're on cooldown, try again in 39 seconds! Dont forget to join dsc.gg/hienbot",
     "[21:45] <plag4xxx> busco team alguien para? ",
     "[21:45] [BOT] <0_HienBot> >Hello lexomorey! ",
-    "[21:45] <Saad2001_bot> > Bots are taking over 8b8t "
+    "[21:45] <Saad2001_bot> > Bots are taking over 8b8t ",
+    "[21:46] <Saad2001_bot> > I never use macros >:( ",
+    "[21:46] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:46] [BOT] <0_HienBot> >Type !discord ",
+    "[21:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:46] <Saad2001_bot> > Make sure your account is voted to have access to name color, donkey dupe and more ",
+    "[21:46] <sayrox2> !kit pvp ",
+    "[21:46] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3372,12 +3372,12 @@
     "malutkipan": 10,
     "fdsadsadoasnmdas": 5,
     "RobertoPalos": 5,
-    "sayrox2": 3
+    "sayrox2": 4
   },
   "kitStats": {
     "build": 1620,
     "survival": 6435,
-    "pvp": 8220,
+    "pvp": 8221,
     "dupe": 2250,
     "tools": 1897,
     "stash": 1142,
