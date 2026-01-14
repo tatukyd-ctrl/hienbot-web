@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:43:34 14/1/2026",
+  "lastUpdated": "11:44:04 14/1/2026",
   "totalKits": 86708,
   "todayKits": 121,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 258,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8079
+      "count": 8080
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:40] Repeat has completed the challenge [Serious Dedication]",
-    "[04:40] <MrPinkEye> !kit ",
-    "[04:40] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:40] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[04:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[04:41] <yay> i have free kits ",
-    "[04:41] _Nexus_ has made the advancement [Ice Bucket Challenge]",
-    "[04:41] Repeat has made the advancement [Diamonds!]",
     "[04:41] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
     "[04:41] <yay> !kit ",
     "[04:41] To yay: Hello yay!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[04:42] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[04:43] Repeat has made the advancement [Monster Hunter]",
     "[04:43] <yay> which version of donkey dupe is active? ",
-    "[04:43] [BOT] <0_HienBot> >Sub to Hien2309 in youtube "
+    "[04:43] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
+    "[04:43] [BOT] <0_HienBot> >Hello orasan080! ",
+    "[04:43] <Forfal> !kit pvp ",
+    "[04:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[04:43] [8b8t] >> Teleporting to home 0...",
+    "[04:43] [8b8t] >> Teleporting to home 1...",
+    "[04:43] To Forfal: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:43] To Forfal: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:43] [8b8t] >> Request sent to Forfal"
   ],
   "userStats": {
     "76756": 38,
@@ -3311,12 +3311,13 @@
     "Zwaexreal": 2,
     "rolito": 1,
     "warloow": 2,
-    "yay": 1
+    "yay": 1,
+    "Forfal": 1
   },
   "kitStats": {
     "build": 1590,
     "survival": 6314,
-    "pvp": 8079,
+    "pvp": 8080,
     "dupe": 2177,
     "tools": 1876,
     "stash": 1118,
