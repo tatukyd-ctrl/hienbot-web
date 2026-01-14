@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:22:15 14/1/2026",
-  "totalKits": 86880,
-  "todayKits": 15,
+  "lastUpdated": "20:22:45 14/1/2026",
+  "totalKits": 86881,
+  "todayKits": 16,
   "onlineCount": 26,
   "peakPlayers": 26,
-  "tps": "8.0",
-  "ping": 250,
+  "tps": "6.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8136
+      "count": 8137
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:20] To SHAD0W_120: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:20] To SHAD0W_120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:20] [SE] <dragonkit> !kit wood ",
-    "[13:20] [8b8t] >> Request sent to SHAD0W_120",
-    "[13:20] To dragonkit: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:21] <.LEON50758> türk varmı ",
-    "[13:21] [8b8t] >> Teleporting...",
-    "[13:21] [8b8t] >> You have killed yourself!",
-    "[13:21] [BOT] <0_HienBot> >Hey TNGB0T! ",
-    "[13:21] [SE] <dragonkit> !kit wood ",
-    "[13:21] [8b8t] >> Teleporting to home 0...",
-    "[13:21] [8b8t] >> Teleporting to home 3...",
     "[13:21] To dragonkit: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:21] To dragonkit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:21] [8b8t] >> Request sent to dragonkit",
@@ -101,7 +89,19 @@
     "[13:22] <Lucaluck201> !kit pvp ",
     "[13:22] To Lucaluck201: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:22] [8b8t] >> Teleporting...",
-    "[13:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[13:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:22] [8b8t] >> You have killed yourself!",
+    "[13:22] [8b8t] >> Please do not spam.",
+    "[13:22] <zmowe> !kit pvp ",
+    "[13:22] [8b8t] >> Teleporting to home 0...",
+    "[13:22] [8b8t] >> Teleporting to home 1...",
+    "[13:22] To zmowe: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:22] To zmowe: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:22] [8b8t] >> Request sent to zmowe",
+    "[13:22] <ParaCraftero> s ",
+    "[13:22] <sizs> como se dupea? ",
+    "[13:22] <ParaCraftero> s ",
+    "[13:22] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -784,7 +784,7 @@
     "iRaidenZT": 2,
     "srrenacuajoo3000": 5,
     "Rekon": 1,
-    "zmowe": 3,
+    "zmowe": 4,
     "SapatoMolhado": 2,
     "Pepech98": 1,
     "MexiiX": 1,
@@ -3336,7 +3336,7 @@
   "kitStats": {
     "build": 1600,
     "survival": 6348,
-    "pvp": 8136,
+    "pvp": 8137,
     "dupe": 2194,
     "tools": 1888,
     "stash": 1126,
