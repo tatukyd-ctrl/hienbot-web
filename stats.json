@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:40:30 15/1/2026",
+  "lastUpdated": "06:40:53 15/1/2026",
   "totalKits": 87276,
   "todayKits": 313,
-  "onlineCount": 35,
+  "onlineCount": 34,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 268,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6445
+      "count": 6446
     },
     {
       "name": "dupe",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:39] <ekravcho132> !kit ",
-    "[23:39] To ekravcho132: Hello ekravcho132!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:39] <ekravcho132> !kit end ",
-    "[23:39] [8b8t] >> Teleporting to home 0...",
-    "[23:39] [8b8t] >> Teleporting to home 5...",
-    "[23:39] To ekravcho132: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:39] <black_0> alguien me saca del spawn ",
-    "[23:39] To ekravcho132: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:39] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[23:39] [8b8t] >> Request sent to ekravcho132",
-    "[23:39] [8b8t] >> Teleporting...",
-    "[23:39] <Samuel_procaso> kit elitras ",
-    "[23:39] <fdsadsadoasnmdas> !kit raid ",
-    "[23:39] To fdsadsadoasnmdas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:39] [8b8t] >> You have killed yourself!",
     "[23:40] <.TNTMAN910> !kit ",
     "[23:40] To .TNTMAN910: Hello .TNTMAN910!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[23:40] <fdsadsadoasnmdas> !kit dupe ",
@@ -101,7 +86,22 @@
     "[23:40] <.SmoothedRain297> !kit pvp ",
     "[23:40] To .SmoothedRain297: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[23:40] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[23:40] [8b8t] >> Teleporting..."
+    "[23:40] [8b8t] >> Teleporting...",
+    "[23:40] [8b8t] >> You have killed yourself!",
+    "[23:40] <ekravcho132> !kit dupe ",
+    "[23:40] To ekravcho132: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:40] <beary__> !kit ",
+    "[23:40] To beary__: Hello beary__!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[23:40] ekravcho132 has reached the goal [Postmortal]",
+    "[23:40] <Samuel_procaso> !kit survival ",
+    "[23:40] [8b8t] >> Teleporting to home 0...",
+    "[23:40] [8b8t] >> Teleporting to home 1...",
+    "[23:40] To Samuel_procaso: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:40] <.SmoothedRain297> !kit survival ",
+    "[23:40] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[23:40] To Samuel_procaso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:40] To .SmoothedRain297: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:40] [8b8t] >> Request sent to Samuel_procaso"
   ],
   "userStats": {
     "76756": 38,
@@ -3272,7 +3272,7 @@
     "ismail9090": 10,
     "BlackLeaf9284": 17,
     "Herobrine_sb68": 3,
-    "Samuel_procaso": 2,
+    "Samuel_procaso": 3,
     "XJelox": 2,
     "SenpaiYuvii": 3,
     "amur6556_twink": 1,
@@ -3384,7 +3384,7 @@
   },
   "kitStats": {
     "build": 1623,
-    "survival": 6445,
+    "survival": 6446,
     "pvp": 8235,
     "dupe": 2258,
     "tools": 1899,
