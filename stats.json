@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:59:17 14/1/2026",
+  "lastUpdated": "06:59:33 14/1/2026",
   "totalKits": 86585,
   "todayKits": 562,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 50,
-  "tps": "7.0",
+  "tps": "5.0",
   "ping": 286,
   "topUsers": [
     {
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:58] <.Maddie8171111> ?kit ",
-    "[23:58] To .Maddie8171111: Hello .Maddie8171111!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:58] <.Maddie8171111> !kit decorate ",
-    "[23:58] [8b8t] >> Teleporting to home 0...",
     "[23:58] <BeThaMob> stop clicking ",
     "[23:58] [8b8t] >> Teleporting to home 4...",
     "[23:58] To .Maddie8171111: Your kit (decorate) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[23:59] [8b8t] >> Request sent to Gaspilol",
     "[23:59] <BeThaMob> i said ",
     "[23:59] [8b8t] >> Teleporting...",
-    "[23:59] <BeThaMob> stop clicking "
+    "[23:59] <BeThaMob> stop clicking ",
+    "[23:59] [8b8t] >> You have killed yourself!",
+    "[23:59] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[23:59] <Okoksus> $kit obsidian ",
+    "[23:59] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3168,7 +3168,7 @@
     "Nic0laxxd": 3,
     "AlexanderMC5431": 4,
     "IrieFlow": 2,
-    "Okoksus": 13,
+    "Okoksus": 14,
     "LuceroWolf": 1,
     "tomasito111": 4,
     "Correasamuji": 3,
@@ -3320,7 +3320,7 @@
     "terracotta": 114,
     "end": 681,
     "armortrims": 527,
-    "highway": 613,
+    "highway": 614,
     "ocean": 151,
     "concrete": 380,
     "glass": 308,
