@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:22:04 14/1/2026",
+  "lastUpdated": "12:22:34 14/1/2026",
   "totalKits": 86723,
   "todayKits": 136,
   "onlineCount": 26,
   "peakPlayers": 50,
-  "tps": "1.0",
-  "ping": 260,
+  "tps": "5.0",
+  "ping": 261,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8082
+      "count": 8083
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:20] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[05:20] <MrPinkEye> !kit ",
-    "[05:20] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:20] Haffu has completed the challenge [Subspace Bubble]",
-    "[05:20] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
-    "[05:20] <Gaspilol> !kit survival ",
-    "[05:20] [8b8t] >> Teleporting to home 0...",
     "[05:20] [8b8t] >> Teleporting to home 1...",
     "[05:20] To Gaspilol: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:21] To Gaspilol: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +94,14 @@
     "[05:21] [8b8t] >> Request sent to ElMaster912",
     "[05:21] [8b8t] >> Teleporting...",
     "[05:21] [8b8t] >> You have killed yourself!",
-    "[05:21] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
+    "[05:21] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[05:22] <Calvin2029> !kit pvp ",
+    "[05:22] [8b8t] >> Teleporting to home 0...",
+    "[05:22] [8b8t] >> Teleporting to home 1...",
+    "[05:22] To Calvin2029: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:22] To Calvin2029: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:22] [8b8t] >> Request sent to Calvin2029",
+    "[05:22] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
   ],
   "userStats": {
     "76756": 38,
@@ -3314,12 +3314,13 @@
     "yay": 4,
     "Forfal": 1,
     "Juul": 1,
-    "Haffu": 1
+    "Haffu": 1,
+    "Calvin2029": 1
   },
   "kitStats": {
     "build": 1591,
     "survival": 6318,
-    "pvp": 8082,
+    "pvp": 8083,
     "dupe": 2181,
     "tools": 1876,
     "stash": 1118,
