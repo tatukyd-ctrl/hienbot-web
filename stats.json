@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:25:34 14/1/2026",
-  "totalKits": 86723,
-  "todayKits": 136,
+  "lastUpdated": "12:25:52 14/1/2026",
+  "totalKits": 86724,
+  "todayKits": 137,
   "onlineCount": 25,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "8.0",
   "ping": 268,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:22] [8b8t] >> Teleporting to home 0...",
-    "[05:22] [8b8t] >> Teleporting to home 1...",
-    "[05:22] To Calvin2029: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:22] To Calvin2029: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:22] [8b8t] >> Request sent to Calvin2029",
-    "[05:22] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[05:22] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:22] [8b8t] >> You have killed yourself!",
-    "[05:22] [8b8t] >> The TPA request you sent to Calvin2029 was successfully canceled.",
-    "[05:22] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[05:23] <Pornografico> .// lel ",
     "[05:23] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[05:23] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
@@ -101,7 +91,17 @@
     "[05:25] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[05:25] To Render: Hello Render!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:25] <MrPinkEye> !kit ",
-    "[05:25] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[05:25] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:25] [8b8t] >> You have killed yourself!",
+    "[05:25] [8b8t] >> The TPA request you sent to Braian1709 was successfully canceled.",
+    "[05:25] <Render> !kit toolbox ",
+    "[05:25] [8b8t] >> Teleporting to home 0...",
+    "[05:25] [8b8t] >> Teleporting to home 4...",
+    "[05:25] To Render: Your kit (toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:25] To Render: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:25] [8b8t] >> Request sent to Render",
+    "[05:25] [8b8t] >> Teleporting...",
+    "[05:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3315,7 +3315,8 @@
     "Forfal": 1,
     "Juul": 1,
     "Haffu": 1,
-    "Calvin2029": 1
+    "Calvin2029": 1,
+    "Render": 1
   },
   "kitStats": {
     "build": 1591,
@@ -3332,7 +3333,7 @@
     "mineral": 576,
     "food": 502,
     "redstone": 797,
-    "toolbox": 737,
+    "toolbox": 738,
     "quartz": 291,
     "shulker": 588,
     "terracotta": 114,
