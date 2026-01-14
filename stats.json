@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:28:04 14/1/2026",
+  "lastUpdated": "12:28:34 14/1/2026",
   "totalKits": 86724,
   "todayKits": 137,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 50,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 262,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6318
+      "count": 6319
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:25] [8b8t] >> Teleporting to home 0...",
-    "[05:25] [8b8t] >> Teleporting to home 4...",
-    "[05:25] To Render: Your kit (toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:25] To Render: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:25] [8b8t] >> Request sent to Render",
-    "[05:25] [8b8t] >> Teleporting...",
-    "[05:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:25] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[05:25] [8b8t] >> You have killed yourself!",
-    "[05:26] <Render> !kit toolbox ",
-    "[05:26] To Render: You're on cooldown, try again in 23 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:26] [8b8t] >> Please do not spam.",
-    "[05:26] Calvin2029 has made the advancement [Stone Age]",
     "[05:26] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[05:27] <Braian1709> !kit pvp ",
     "[05:27] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +88,20 @@
     "[05:27] <Braian1709> esta gonorrea no me da los shulkers ",
     "[05:27] [8b8t] >> Please do not spam.",
     "[05:27] [8b8t] >> You have killed yourself!",
-    "[05:27] [8b8t] >> The TPA request you sent to Braian1709 was successfully canceled."
+    "[05:27] [8b8t] >> The TPA request you sent to Braian1709 was successfully canceled.",
+    "[05:28] <Render> !kit survival ",
+    "[05:28] [8b8t] >> Teleporting to home 0...",
+    "[05:28] [8b8t] >> Teleporting to home 1...",
+    "[05:28] To Render: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:28] <Braian1709> !kit survival ",
+    "[05:28] To Braian1709: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:28] To Render: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:28] [8b8t] >> Request sent to Render",
+    "[05:28] <ElMaster912> !kit ",
+    "[05:28] To ElMaster912: Hello ElMaster912!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:28] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[05:28] <ElMaster912> !kit redstone ",
+    "[05:28] To ElMaster912: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3316,11 +3316,11 @@
     "Juul": 1,
     "Haffu": 1,
     "Calvin2029": 1,
-    "Render": 1
+    "Render": 2
   },
   "kitStats": {
     "build": 1591,
-    "survival": 6318,
+    "survival": 6319,
     "pvp": 8085,
     "dupe": 2181,
     "tools": 1876,
