@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:24:04 14/1/2026",
+  "lastUpdated": "10:24:34 14/1/2026",
   "totalKits": 86685,
   "todayKits": 98,
-  "onlineCount": 26,
+  "onlineCount": 24,
   "peakPlayers": 50,
-  "tps": "7.0",
-  "ping": 306,
+  "tps": "4.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8075
+      "count": 8076
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:22] <xXxpro123xXx> perdon ",
-    "[03:22] <Okoksus> esta bien ",
-    "[03:22] <xXxpro123xXx> ok ",
-    "[03:22] <Sxbz23> !kit survival ",
-    "[03:23] [8b8t] >> Teleporting to home 0...",
-    "[03:23] [8b8t] >> Teleporting to home 1...",
-    "[03:23] To Sxbz23: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:23] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:23] [8b8t] >> Request sent to Sxbz23",
-    "[03:23] [8b8t] >> Teleporting...",
-    "[03:23] <ElMaster912> !kit pvp ",
-    "[03:23] To ElMaster912: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:23] [8b8t] >> You have killed yourself!",
     "[03:23] [BOT] <0_HienBot> >Hey fo1dslammer666! ",
     "[03:23] <Okoksus> xxxpro ",
@@ -101,7 +89,19 @@
     "[03:23] <.WOOXERMC> del mundo ",
     "[03:23] <.WOOXERMC> pa kits ",
     "[03:23] <Okoksus> si sabes como aser burro dupe? ",
-    "[03:23] <Sxbz23> que? "
+    "[03:23] <Sxbz23> que? ",
+    "[03:24] <Okoksus> dame que tu queres dupear ",
+    "[03:24] [8b8t] >> You have killed yourself!",
+    "[03:24] <rolito> !kit pvp ",
+    "[03:24] [8b8t] >> The TPA request you sent to ElMaster912 was successfully canceled.",
+    "[03:24] [8b8t] >> Teleporting to home 0...",
+    "[03:24] [8b8t] >> Teleporting to home 1...",
+    "[03:24] To rolito: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:24] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[03:24] To rolito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:24] [8b8t] >> Request sent to rolito",
+    "[03:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[03:24] <.WOOXERMC> de 8b8t "
   ],
   "userStats": {
     "76756": 38,
@@ -3308,12 +3308,13 @@
     "Kalashlsl": 1,
     "anc1": 1,
     "PKDomRT": 5,
-    "Zwaexreal": 2
+    "Zwaexreal": 2,
+    "rolito": 1
   },
   "kitStats": {
     "build": 1587,
     "survival": 6313,
-    "pvp": 8075,
+    "pvp": 8076,
     "dupe": 2176,
     "tools": 1874,
     "stash": 1118,
