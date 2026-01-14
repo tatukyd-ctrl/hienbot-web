@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:22:34 14/1/2026",
+  "lastUpdated": "15:23:04 14/1/2026",
   "totalKits": 86749,
   "todayKits": 162,
-  "onlineCount": 11,
+  "onlineCount": 10,
   "peakPlayers": 50,
-  "tps": "13.0",
-  "ping": 267,
+  "tps": "9.0",
+  "ping": 269,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:19] <subux8> !kit pvp ",
-    "[08:19] [8b8t] >> Teleporting to home 0...",
-    "[08:19] [8b8t] >> Teleporting to home 1...",
-    "[08:19] To subux8: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:19] To subux8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:19] [8b8t] >> Request sent to subux8",
-    "[08:19] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[08:19] [8b8t] >> Teleporting...",
     "[08:19] [8b8t] >> You have killed yourself!",
     "[08:19] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
@@ -101,7 +93,15 @@
     "[08:21] [BOT] <0_HienBot> >Type !discord ",
     "[08:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[08:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:22] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[08:22] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[08:22] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[08:22] <subux8> !Kit ",
+    "[08:22] To subux8: Hello subux8!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[08:23] <subux8> !kit stash ",
+    "[08:23] [8b8t] >> Teleporting to home 0...",
+    "[08:23] [8b8t] >> Home 2 was not found",
+    "[08:23] To subux8: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:23] To subux8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3319,7 +3319,7 @@
     "Render": 3,
     "elpanchowasa": 6,
     "7w7__": 3,
-    "subux8": 3
+    "subux8": 4
   },
   "kitStats": {
     "build": 1594,
@@ -3327,7 +3327,7 @@
     "pvp": 8099,
     "dupe": 2183,
     "tools": 1878,
-    "stash": 1119,
+    "stash": 1120,
     "raid": 1322,
     "wood": 540,
     "exp": 752,
