@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:07:34 14/1/2026",
+  "lastUpdated": "13:08:04 14/1/2026",
   "totalKits": 86728,
   "todayKits": 141,
-  "onlineCount": 15,
+  "onlineCount": 14,
   "peakPlayers": 50,
-  "tps": "8.0",
-  "ping": 259,
+  "tps": "10.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8085
+      "count": 8086
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:00] <MrPinkEye> !kit ",
-    "[06:00] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:00] [BOT] <0_HienBot> >Hello Render! ",
-    "[06:01] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[06:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:01] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[06:02] [8b8t] >> Please do not spam.",
     "[06:02] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[06:03] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +95,13 @@
     "[06:06] [8b8t] >> You have killed yourself!",
     "[06:06] Juul has made the advancement [Acquire Hardware]",
     "[06:06] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[06:07] [BOT] <0_HienBot> >Hi cuccutbtdi! "
+    "[06:07] [BOT] <0_HienBot> >Hi cuccutbtdi! ",
+    "[06:07] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[06:07] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[06:08] <cuccutbtdi> !kit pvp ",
+    "[06:08] [8b8t] >> Teleporting to home 0...",
+    "[06:08] [8b8t] >> Teleporting to home 1...",
+    "[06:08] To cuccutbtdi: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3107,7 +3107,7 @@
     "BeThaMob": 5,
     "ImBaldz": 4,
     "TheRealSquidward": 3,
-    "cuccutbtdi": 14,
+    "cuccutbtdi": 15,
     "pratik55801": 1,
     "arno": 6,
     "PRO1567565": 1,
@@ -3321,7 +3321,7 @@
   "kitStats": {
     "build": 1591,
     "survival": 6320,
-    "pvp": 8085,
+    "pvp": 8086,
     "dupe": 2181,
     "tools": 1876,
     "stash": 1119,
