@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:12:53 15/1/2026",
+  "lastUpdated": "06:13:23 15/1/2026",
   "totalKits": 87265,
   "todayKits": 302,
-  "onlineCount": 35,
+  "onlineCount": 32,
   "peakPlayers": 56,
   "tps": "4.0",
-  "ping": 269,
+  "ping": 272,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8230
+      "count": 8231
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:10] [8b8t] >> You have killed yourself!",
-    "[23:10] <fdsadsadoasnmdas> !kit stash ",
-    "[23:10] To fdsadsadoasnmdas: You're on cooldown, try again in 36 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:10] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[23:11] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[23:11] <fdsadsadoasnmdas> !kit food ",
-    "[23:11] [8b8t] >> Teleporting to home 0...",
-    "[23:11] [8b8t] >> Teleporting to home 4...",
-    "[23:11] To fdsadsadoasnmdas: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:11] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[23:11] To fdsadsadoasnmdas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:11] [8b8t] >> Request sent to fdsadsadoasnmdas",
-    "[23:11] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[23:11] .Olm3053 has made the advancement [Crafting a New Look]",
     "[23:11] [8b8t] >> Teleporting...",
     "[23:11] <FaresBK> !kit ",
@@ -101,7 +88,20 @@
     "[23:12] To Kazuki_8: Hello Kazuki_8!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[23:12] [BOT] <0_HienBot> >Hi brunoescobar34! ",
     "[23:12] [8b8t] >> You have killed yourself!",
-    "[23:12] [BOT] <0_HienBot> >Do you want kit? Type !кιт "
+    "[23:12] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[23:13] <FaresBK> !kit exp ",
+    "[23:13] To FaresBK: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:13] fdsadsadoasnmdas has made the advancement [Best Friends Forever]",
+    "[23:13] <Manteiga_Gg8> !kit pvp ",
+    "[23:13] [8b8t] >> Teleporting to home 0...",
+    "[23:13] [8b8t] >> Teleporting to home 1...",
+    "[23:13] <FaresBK> !kit exp ",
+    "[23:13] To Manteiga_Gg8: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:13] To FaresBK: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[23:13] To Manteiga_Gg8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:13] [8b8t] >> Request sent to Manteiga_Gg8",
+    "[23:13] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3377,12 +3377,13 @@
     "vertex_GqDsX_": 3,
     "adambicen59": 1,
     "Kazuki_8": 2,
-    "FaresBK": 4
+    "FaresBK": 4,
+    "Manteiga_Gg8": 1
   },
   "kitStats": {
     "build": 1623,
     "survival": 6442,
-    "pvp": 8230,
+    "pvp": 8231,
     "dupe": 2256,
     "tools": 1899,
     "stash": 1143,
