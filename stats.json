@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:32:53 15/1/2026",
-  "totalKits": 87125,
-  "todayKits": 162,
-  "onlineCount": 44,
+  "lastUpdated": "02:33:18 15/1/2026",
+  "totalKits": 87126,
+  "todayKits": 163,
+  "onlineCount": 47,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 274,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6418
+      "count": 6419
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:31] [8b8t] >> Home 2 was not found",
-    "[19:31] To Saad2001: Kit \"32k\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
-    "[19:31] To Saad2001: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:31] [8b8t] >> Request sent to Saad2001",
-    "[19:31] <tabanoss> !kit shulcker ",
-    "[19:31] To tabanoss: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:31] <Doraemon073> hacker ",
-    "[19:31] <Saad2001_bot> > Hey you, make sure to vote :) ",
-    "[19:31] <botchaosonix> hacker sybau ",
-    "[19:31] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[19:31] <Doraemon073> lol ",
-    "[19:31] <Saad2001_bot> > Bot made all in Java, I never use NodeJS ",
     "[19:31] <botchaosonix> fuck shit ",
     "[19:31] [8b8t] >> You have killed yourself!",
     "[19:31] [8b8t] >> The TPA request you sent to Saad2001 was successfully canceled.",
@@ -101,7 +89,19 @@
     "[19:32] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[19:32] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[19:32] <Saad2001> :kit mapart ",
-    "[19:32] To Saad2001: You're on cooldown, try again in 9 seconds! Dont forget to join dsc.gg/hienbot"
+    "[19:32] To Saad2001: You're on cooldown, try again in 9 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:32] <WenlerMaster> !kit mapart ",
+    "[19:32] [8b8t] >> Teleporting to home 0...",
+    "[19:32] [8b8t] >> Teleporting to home 1...",
+    "[19:32] To WenlerMaster: Kit \"mapart\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[19:32] <botchaosonix> Music to my ears Exoshi ",
+    "[19:32] <SavageJfs> !kit ",
+    "[19:32] To SavageJfs: Hello SavageJfs!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[19:32] To WenlerMaster: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:33] [8b8t] >> Request sent to WenlerMaster",
+    "[19:33] <Saad2001_bot> > If you want kit Wisp Saad2001gamer21 :), now no one is using me for kits, finally some relax ",
+    "[19:33] [8b8t] >> Teleporting...",
+    "[19:33] [BOT] <0_HienBot> >Hey Cristiann_8! "
   ],
   "userStats": {
     "76756": 38,
@@ -1532,7 +1532,7 @@
     "notnoun": 15,
     "Rango314": 1,
     "Soniccc06": 1,
-    "WenlerMaster": 7,
+    "WenlerMaster": 8,
     "Andra_dra": 41,
     "alvamaster": 13,
     "maxijua": 4,
@@ -3366,7 +3366,7 @@
   },
   "kitStats": {
     "build": 1613,
-    "survival": 6418,
+    "survival": 6419,
     "pvp": 8204,
     "dupe": 2235,
     "tools": 1894,
