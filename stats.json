@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:20:33 14/1/2026",
-  "totalKits": 86627,
-  "todayKits": 40,
-  "onlineCount": 30,
+  "lastUpdated": "08:21:02 14/1/2026",
+  "totalKits": 86628,
+  "todayKits": 41,
+  "onlineCount": 28,
   "peakPlayers": 50,
   "tps": "0.0",
   "ping": 269,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8057
+      "count": 8058
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:18] <VortexTrapper> !kit glass ",
-    "[01:18] [8b8t] >> Teleporting to home 0...",
-    "[01:18] [8b8t] >> Teleporting to home 7...",
-    "[01:18] To VortexTrapper: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:18] To VortexTrapper: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:18] [8b8t] >> Request sent to VortexTrapper",
-    "[01:18] [8b8t] >> Teleporting...",
-    "[01:18] <.WOOXERMC> JAKAJAAKKA ",
-    "[01:19] [8b8t] >> You have killed yourself!",
-    "[01:19] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[01:19] <VortexTrapper> !kit wool ",
-    "[01:19] To VortexTrapper: You're on cooldown, try again in 32 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:19] <.Elpatata43> por fin encontré una trial chamber ",
     "[01:19] <xXxpro123xXx> !kit readstone ",
     "[01:19] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
@@ -101,7 +89,19 @@
     "[01:20] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[01:20] <Okoksus> FINALLY ",
     "[01:20] <Okoksus> IO FOUND A DONEKY ",
-    "[01:20] <MrPinkEye> !kit "
+    "[01:20] <MrPinkEye> !kit ",
+    "[01:20] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:20] <.WOOXERMC> !kit pvp ",
+    "[01:20] [8b8t] >> Teleporting to home 0...",
+    "[01:20] [8b8t] >> Teleporting to home 1...",
+    "[01:20] To .WOOXERMC: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:20] <Jewishc> !kit pvp ",
+    "[01:20] To Jewishc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:20] To .WOOXERMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:20] [8b8t] >> Request sent to .WOOXERMC",
+    "[01:20] <Sxbz23> muy ramdom ",
+    "[01:20] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[01:20] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3301,12 +3301,12 @@
     "erggiN": 1,
     "Darveik1": 3,
     "sanky735": 2,
-    ".WOOXERMC": 3
+    ".WOOXERMC": 4
   },
   "kitStats": {
     "build": 1586,
     "survival": 6302,
-    "pvp": 8057,
+    "pvp": 8058,
     "dupe": 2168,
     "tools": 1872,
     "stash": 1113,
