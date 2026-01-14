@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:45:53 15/1/2026",
-  "totalKits": 87063,
-  "todayKits": 100,
+  "lastUpdated": "00:46:06 15/1/2026",
+  "totalKits": 87064,
+  "todayKits": 101,
   "onlineCount": 37,
   "peakPlayers": 46,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 265,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8187
+      "count": 8188
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:43] To PR2CEE: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:43] [8b8t] >> Request sent to PR2CEE",
-    "[17:43] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[17:43] <baute> !kit pvp ",
-    "[17:43] To baute: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:43] PR2CEE Whispers: tpa",
-    "[17:43] <MrPinkEye> !kit ",
-    "[17:43] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[17:44] [8b8t] >> Teleporting...",
     "[17:44] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[17:44] <botchaosonix> Just tryna score a point in the end zone ",
@@ -101,7 +93,15 @@
     "[17:45] [8b8t] >> Teleporting...",
     "[17:45] <baute> !kit pvp ",
     "[17:45] To baute: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:45] [8b8t] >> You have killed yourself!"
+    "[17:45] [8b8t] >> You have killed yourself!",
+    "[17:45] <baute> !kit pvp ",
+    "[17:45] [8b8t] >> Teleporting to home 0...",
+    "[17:45] [8b8t] >> Teleporting to home 1...",
+    "[17:45] To baute: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:46] To baute: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:46] [BOT] <0_HienBot> >What's up, charter_day? ",
+    "[17:46] [8b8t] >> Request sent to baute",
+    "[17:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1235,7 +1235,7 @@
     "brunopo6741": 1,
     "TeFfO01007": 1,
     "Golhtlden": 1,
-    "baute": 6,
+    "baute": 7,
     "xdddgf": 1,
     "NinjaTheQuill": 1,
     "Gr4atvarus": 10,
@@ -3356,7 +3356,7 @@
   "kitStats": {
     "build": 1609,
     "survival": 6397,
-    "pvp": 8187,
+    "pvp": 8188,
     "dupe": 2224,
     "tools": 1893,
     "stash": 1136,
