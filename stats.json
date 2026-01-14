@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:08:34 14/1/2026",
+  "lastUpdated": "12:09:04 14/1/2026",
   "totalKits": 86714,
   "todayKits": 127,
-  "onlineCount": 25,
+  "onlineCount": 28,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 254,
   "topUsers": [
     {
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:04] <SavageJfs> !kit wool ",
-    "[05:04] [8b8t] >> Teleporting to home 0...",
-    "[05:04] [8b8t] >> Teleporting to home 3...",
-    "[05:04] To SavageJfs: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:04] To SavageJfs: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:04] [8b8t] >> Request sent to SavageJfs",
     "[05:04] <Pyschic_> !kit pvp ",
@@ -101,7 +97,11 @@
     "[05:07] .pepesita33 has made the advancement [Ice Bucket Challenge]",
     "[05:07] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:07] [BOT] <0_HienBot> >Welcome to 8b8t, normalnaisman! ",
-    "[05:08] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[05:08] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[05:08] <Juul> !kit ",
+    "[05:08] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[05:08] To Juul: Hello Juul!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:09] <Juul> !kit Elytra "
   ],
   "userStats": {
     "76756": 38,
@@ -3312,7 +3312,8 @@
     "rolito": 1,
     "warloow": 2,
     "yay": 4,
-    "Forfal": 1
+    "Forfal": 1,
+    "Juul": 1
   },
   "kitStats": {
     "build": 1590,
@@ -3348,6 +3349,6 @@
     "gterracotta": 84,
     "banner": 90,
     "illegal": 706,
-    "elytra": 190
+    "elytra": 191
   }
 }
