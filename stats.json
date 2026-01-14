@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:17:33 15/1/2026",
+  "lastUpdated": "01:17:53 15/1/2026",
   "totalKits": 87086,
   "todayKits": 123,
   "onlineCount": 41,
   "peakPlayers": 48,
-  "tps": "5.0",
-  "ping": 269,
+  "tps": "4.0",
+  "ping": 273,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8194
+      "count": 8195
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:16] [8b8t] >> The TPA request you sent to LEON10 has expired.",
-    "[18:16] <fatpurpleybooger> !kit xp ",
-    "[18:16] [8b8t] >> Teleporting to home 0...",
     "[18:16] [8b8t] >> Teleporting to home 5...",
     "[18:16] <florentinogomez> !kit raid ",
     "[18:16] To florentinogomez: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +98,10 @@
     "[18:17] <zZjammieZz> !kit mace ",
     "[18:17] To zZjammieZz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[18:17] [8b8t] >> Teleporting...",
-    "[18:17] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[18:17] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[18:17] [8b8t] >> You have killed yourself!",
+    "[18:17] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[18:17] <zZjammieZz> !kit mace "
   ],
   "userStats": {
     "76756": 38,
@@ -3354,12 +3354,12 @@
     "VladUA06": 1,
     "5989kk": 6,
     "fatpurpleybooger": 3,
-    "zZjammieZz": 3
+    "zZjammieZz": 4
   },
   "kitStats": {
     "build": 1610,
     "survival": 6407,
-    "pvp": 8194,
+    "pvp": 8195,
     "dupe": 2226,
     "tools": 1893,
     "stash": 1137,
