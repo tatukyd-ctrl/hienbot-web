@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:02:34 14/1/2026",
+  "lastUpdated": "19:03:04 14/1/2026",
   "totalKits": 86841,
   "todayKits": 254,
-  "onlineCount": 24,
+  "onlineCount": 23,
   "peakPlayers": 50,
-  "tps": "0.0",
-  "ping": 307,
+  "tps": "1.0",
+  "ping": 11432,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6339
+      "count": 6340
     },
     {
       "name": "dupe",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:58] <ItsZerith> !kit Survival ",
-    "[11:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[11:58] To ItsZerith: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:58] [8b8t] >> Teleporting...",
     "[11:58] [8b8t] >> You have killed yourself!",
     "[11:58] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
@@ -101,7 +98,10 @@
     "[12:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:01] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[12:01] _Nexus_ has completed the challenge [Serious Dedication]",
-    "[12:01] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
+    "[12:01] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[12:02] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[12:02] <ItsZerith> !kit survival ",
+    "[12:02] <osmankral123123> !kit "
   ],
   "userStats": {
     "76756": 38,
@@ -3328,11 +3328,12 @@
     "alghoul_1": 1,
     "Suelen": 6,
     "Mc_paco18": 6,
-    "BigDensity910": 1
+    "BigDensity910": 1,
+    "ItsZerith": 1
   },
   "kitStats": {
     "build": 1600,
-    "survival": 6339,
+    "survival": 6340,
     "pvp": 8125,
     "dupe": 2192,
     "tools": 1884,
