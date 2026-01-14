@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:25:33 14/1/2026",
+  "lastUpdated": "07:26:03 14/1/2026",
   "totalKits": 86593,
   "todayKits": 6,
   "onlineCount": 28,
   "peakPlayers": 50,
-  "tps": "1.0",
-  "ping": 259,
+  "tps": "3.0",
+  "ping": 1944,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:24] <Jewishc> come to spawn ",
-    "[00:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[00:24] BeThaMob has made the advancement [A Throwaway Joke]",
-    "[00:24] <Okoksus> $kit donkeydupe ",
-    "[00:24] [8b8t] >> Teleporting to home 0...",
     "[00:24] [8b8t] >> Teleporting to home 4...",
     "[00:24] To Okoksus: Kit \"donkeydupe\" not found! Giving you (glass) instead! dsc.gg/hienbot",
     "[00:24] <Jewishc> !kitpvp ",
@@ -101,7 +96,12 @@
     "[00:25] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[00:25] [8b8t] >> You have killed yourself!",
     "[00:25] <Jewishc> !kit pvp ",
-    "[00:25] [8b8t] >> Teleporting to home 0..."
+    "[00:25] [8b8t] >> Teleporting to home 0...",
+    "[00:25] [8b8t] >> Teleporting to home 1...",
+    "[00:25] To Jewishc: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:25] <El_Ferias> !kit obsidian ",
+    "[00:25] <MrPinkEye> !kit ",
+    "[00:25] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
   ],
   "userStats": {
     "76756": 38,
@@ -3232,7 +3232,7 @@
     "Slekzeta": 4,
     "SnowFl3a": 2,
     "InitialPark983": 4,
-    "El_Ferias": 2,
+    "El_Ferias": 3,
     "ItsYoavYT": 13,
     "Jewishc": 12,
     "ITZvihaangamer": 8,
@@ -3320,7 +3320,7 @@
     "terracotta": 114,
     "end": 681,
     "armortrims": 527,
-    "highway": 614,
+    "highway": 615,
     "ocean": 151,
     "concrete": 380,
     "glass": 309,
