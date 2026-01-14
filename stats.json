@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:49:53 15/1/2026",
+  "lastUpdated": "06:50:23 15/1/2026",
   "totalKits": 87285,
   "todayKits": 322,
   "onlineCount": 36,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 328,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6448
+      "count": 6449
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:48] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[23:48] <ekravcho132> !kit ",
-    "[23:48] To ekravcho132: Hello ekravcho132!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:48] <.Fabiouwu2900> Try !kit survival ",
-    "[23:48] [8b8t] >> You have killed yourself!",
-    "[23:48] [BOT] <0_HienBot> >Hello Rayoluz! ",
-    "[23:48] [8b8t] >> The TPA request you sent to Samuel_procaso was successfully canceled.",
-    "[23:48] <ekravcho132> !kit raid ",
-    "[23:48] [8b8t] >> Teleporting to home 0...",
-    "[23:48] [8b8t] >> Home 2 was not found",
-    "[23:48] To ekravcho132: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:48] To ekravcho132: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:48] [8b8t] >> Request sent to ekravcho132",
     "[23:48] [8b8t] >> Teleporting...",
     "[23:48] <Rayoluz> !kit survival ",
@@ -101,7 +89,19 @@
     "[23:49] <.GENIUS_07091436> !Lang ",
     "[23:49] To .GENIUS_07091436: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
     "[23:49] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[23:49] Rayoluz has made the advancement [We Need to Go Deeper]"
+    "[23:49] Rayoluz has made the advancement [We Need to Go Deeper]",
+    "[23:49] <.GENIUS_07091436> es, ",
+    "[23:50] <.GENIUS_07091436> es.! ",
+    "[23:50] <Samuel_procaso> !kit survival ",
+    "[23:50] [8b8t] >> Teleporting to home 0...",
+    "[23:50] [8b8t] >> Teleporting to home 1...",
+    "[23:50] To Samuel_procaso: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:50] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[23:50] <VortexTrapper> !kit end ",
+    "[23:50] To VortexTrapper: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:50] To Samuel_procaso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:50] <Fazzo_7> todo el mapa esa destruido? ",
+    "[23:50] [8b8t] >> Request sent to Samuel_procaso"
   ],
   "userStats": {
     "76756": 38,
@@ -3272,7 +3272,7 @@
     "ismail9090": 10,
     "BlackLeaf9284": 17,
     "Herobrine_sb68": 3,
-    "Samuel_procaso": 5,
+    "Samuel_procaso": 6,
     "XJelox": 2,
     "SenpaiYuvii": 3,
     "amur6556_twink": 1,
@@ -3384,7 +3384,7 @@
   },
   "kitStats": {
     "build": 1624,
-    "survival": 6448,
+    "survival": 6449,
     "pvp": 8236,
     "dupe": 2259,
     "tools": 1899,
