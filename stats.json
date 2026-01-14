@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:27:08 14/1/2026",
+  "lastUpdated": "21:27:38 14/1/2026",
   "totalKits": 86920,
   "todayKits": 10,
   "onlineCount": 23,
   "peakPlayers": 27,
-  "tps": "3.0",
-  "ping": 262,
+  "tps": "5.0",
+  "ping": 261,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8145
+      "count": 8146
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:24] [8b8t] >> Request sent to .yuu18m",
-    "[14:24] [8b8t] >> Teleporting...",
-    "[14:25] [8b8t] >> You have killed yourself!",
-    "[14:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:25] <LEON10> hey ",
-    "[14:25] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[14:25] <SHAD0W_120> !kit armortrims ",
     "[14:25] [8b8t] >> Teleporting to home 0...",
     "[14:25] [8b8t] >> Teleporting to home 7...",
     "[14:25] To SHAD0W_120: Your kit (armortrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[14:26] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:26] <LEON10> kkk ",
     "[14:26] <LEON10> Osman kral ",
-    "[14:26] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks "
+    "[14:26] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[14:27] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[14:27] <Axernal> !kit pvp ",
+    "[14:27] [8b8t] >> Teleporting to home 0...",
+    "[14:27] [8b8t] >> Teleporting to home 1...",
+    "[14:27] To Axernal: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:27] To Axernal: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:27] [8b8t] >> Request sent to Axernal"
   ],
   "userStats": {
     "76756": 38,
@@ -3264,7 +3264,7 @@
     "lifegamer50": 7,
     "Nataliazz": 1,
     "MrOmattyice": 1,
-    "Axernal": 1,
+    "Axernal": 2,
     ".SedDed0913": 1,
     "Sanhzp_7": 1,
     "GulfamXD7": 2,
@@ -3338,7 +3338,7 @@
   "kitStats": {
     "build": 1603,
     "survival": 6350,
-    "pvp": 8145,
+    "pvp": 8146,
     "dupe": 2195,
     "tools": 1889,
     "stash": 1127,
