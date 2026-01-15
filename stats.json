@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:54:24 15/1/2026",
-  "totalKits": 87582,
-  "todayKits": 289,
+  "lastUpdated": "15:54:53 15/1/2026",
+  "totalKits": 87583,
+  "todayKits": 290,
   "onlineCount": 15,
   "peakPlayers": 56,
-  "tps": "9.0",
-  "ping": 261,
+  "tps": "11.0",
+  "ping": 279,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6534
+      "count": 6535
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:50] [8b8t] >> Teleporting to home 0...",
-    "[08:50] [8b8t] >> Teleporting to home 7...",
-    "[08:50] To Voldaren26: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:50] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[08:50] To Voldaren26: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:50] [8b8t] >> Request sent to Voldaren26",
-    "[08:50] Rich_miner has made the advancement [Crafting a New Look]",
-    "[08:50] [8b8t] >> Teleporting...",
-    "[08:51] [8b8t] >> You have killed yourself!",
-    "[08:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[08:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[08:51] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[08:51] Petcraft has made the advancement [Fishy Business]",
@@ -101,7 +91,17 @@
     "[08:53] <Voldaren26> !kit PVP ",
     "[08:53] To Voldaren26: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:53] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[08:54] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[08:54] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[08:54] <ROHAN> !kit survival ",
+    "[08:54] [8b8t] >> You have killed yourself!",
+    "[08:54] To ROHAN: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:54] [8b8t] >> Teleporting to home 0...",
+    "[08:54] [8b8t] >> Teleporting to home 1...",
+    "[08:54] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[08:54] To ROHAN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:54] [8b8t] >> Request sent to ROHAN",
+    "[08:54] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[08:54] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3365,7 +3365,7 @@
     "tabanoss": 11,
     ".FolkSaucer9241": 1,
     "Elmasperron6885": 1,
-    "ROHAN": 16,
+    "ROHAN": 17,
     "JJplayerUD": 1,
     "Sotelldo": 2,
     "plag4xxx": 12,
@@ -3406,7 +3406,7 @@
   },
   "kitStats": {
     "build": 1639,
-    "survival": 6534,
+    "survival": 6535,
     "pvp": 8331,
     "dupe": 2283,
     "tools": 1909,
