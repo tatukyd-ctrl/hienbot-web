@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:08:32 16/1/2026",
+  "lastUpdated": "02:09:02 16/1/2026",
   "totalKits": 87906,
   "todayKits": 92,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 42,
   "tps": "2.0",
   "ping": 253,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6605
+      "count": 6606
     },
     {
       "name": "dupe",
@@ -72,25 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:07] [BOT] <0_HienBot> >Hey KurtzWasTaken! ",
-    "[19:07] <botnet> howdy ",
-    "[19:07] TheRealDrDonut Whispers: !kit totem",
-    "[19:07] [8b8t] >> Teleporting to home 0...",
-    "[19:07] [8b8t] >> Teleporting to home 1...",
-    "[19:07] To TheRealDrDonut: Your kit (totem) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:07] To TheRealDrDonut: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:07] [8b8t] >> Request sent to TheRealDrDonut",
-    "[19:07] [8b8t] >> Teleporting...",
-    "[19:07] <_Lumora_> !kit stash ",
-    "[19:07] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:07] [8b8t] >> You have killed yourself!",
-    "[19:07] <Cry> howdy ",
-    "[19:07] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[19:07] MMartiAras1945 has made the advancement [Acquire Hardware]",
-    "[19:08] <_Lumora_> !kit stash ",
-    "[19:08] [8b8t] >> Teleporting to home 0...",
-    "[19:08] [8b8t] >> Home 2 was not found",
-    "[19:08] To _Lumora_: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[19:08] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[19:08] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:08] [8b8t] >> Request sent to _Lumora_",
@@ -101,7 +82,26 @@
     "[19:08] To LittleRed964: Hello LittleRed964!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[19:08] <_Lumora_> !kit stash ",
     "[19:08] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:08] MMartiAras1945 has made the advancement [Isn't It Iron Pick]"
+    "[19:08] MMartiAras1945 has made the advancement [Isn't It Iron Pick]",
+    "[19:08] <LittleRed964> !kit PVP ",
+    "[19:08] To LittleRed964: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:08] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[19:08] <_Lumora_> !kit stash ",
+    "[19:08] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:08] <larpsix> !kit stash ",
+    "[19:08] To larpsix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:08] [8b8t] >> You have killed yourself!",
+    "[19:08] [8b8t] >> The TPA request you sent to _Lumora_ was successfully canceled.",
+    "[19:08] <REDSBLIN> !kit survival ",
+    "[19:08] [8b8t] >> Teleporting to home 0...",
+    "[19:08] [8b8t] >> Teleporting to home 1...",
+    "[19:08] To REDSBLIN: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:08] To REDSBLIN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:08] [8b8t] >> Request sent to REDSBLIN",
+    "[19:08] <matitas292> !kit pvp ",
+    "[19:08] To matitas292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:09] <larpsix> !kit stash ",
+    "[19:09] To larpsix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3429,11 +3429,12 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 2,
-    "_Lumora_": 4
+    "_Lumora_": 4,
+    "REDSBLIN": 1
   },
   "kitStats": {
     "build": 1656,
-    "survival": 6605,
+    "survival": 6606,
     "pvp": 8437,
     "dupe": 2305,
     "tools": 1924,
