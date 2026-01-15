@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:18:54 15/1/2026",
-  "totalKits": 87598,
-  "todayKits": 305,
-  "onlineCount": 18,
+  "lastUpdated": "16:19:14 15/1/2026",
+  "totalKits": 87599,
+  "todayKits": 306,
+  "onlineCount": 17,
   "peakPlayers": 56,
-  "tps": "10.0",
-  "ping": 262,
+  "tps": "8.0",
+  "ping": 306,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6536
+      "count": 6537
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:17] To Voldaren26: You're on cooldown, try again in 1 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:17] <Voldaren26> !kit End ",
-    "[09:17] [8b8t] >> Teleporting to home 0...",
-    "[09:17] [8b8t] >> Teleporting to home 5...",
-    "[09:17] To Voldaren26: Your kit (End) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:17] To Voldaren26: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:17] [8b8t] >> Request sent to Voldaren26",
-    "[09:17] <DrVenial31> al bunu ",
-    "[09:17] [8b8t] >> Teleporting...",
-    "[09:17] <DrVenial31> hile varmı ? ",
-    "[09:17] [8b8t] >> You have killed yourself!",
-    "[09:17] <zenciseven31776> yok ",
-    "[09:17] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[09:17] <DrVenial31> 20k burdan gitmelisin ",
     "[09:17] <zenciseven31776> enderchest koyarkisin ",
     "[09:18] <DrVenial31> yokki ",
@@ -101,7 +88,20 @@
     "[09:18] <zenciseven31776> !kit pvp ",
     "[09:18] To zenciseven31776: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:18] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars "
+    "[09:18] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
+    "[09:18] <Rich_miner> !kit pvp ",
+    "[09:18] To Rich_miner: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:18] [8b8t] >> You have killed yourself!",
+    "[09:18] [8b8t] >> No TPA request found",
+    "[09:19] <Rich_miner> !kit survival ",
+    "[09:19] [8b8t] >> Teleporting to home 0...",
+    "[09:19] [8b8t] >> Teleporting to home 1...",
+    "[09:19] To Rich_miner: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:19] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:19] [8b8t] >> Request sent to Rich_miner",
+    "[09:19] [8b8t] >> Teleporting...",
+    "[09:19] <DrVenial31> !kit survival ",
+    "[09:19] To DrVenial31: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3321,7 +3321,7 @@
     "7w7__": 3,
     "subux8": 5,
     "DrSquiddy69": 1,
-    "Rich_miner": 45,
+    "Rich_miner": 46,
     "cappuccino_": 1,
     "osmankral123123": 18,
     "Akross17": 11,
@@ -3407,7 +3407,7 @@
   },
   "kitStats": {
     "build": 1639,
-    "survival": 6536,
+    "survival": 6537,
     "pvp": 8334,
     "dupe": 2283,
     "tools": 1911,
