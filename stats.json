@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:05:54 15/1/2026",
-  "totalKits": 87467,
-  "todayKits": 174,
+  "lastUpdated": "11:06:06 15/1/2026",
+  "totalKits": 87468,
+  "todayKits": 175,
   "onlineCount": 24,
   "peakPlayers": 56,
-  "tps": "4.0",
-  "ping": 260,
+  "tps": "7.0",
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1629
+      "count": 1630
     }
   ],
   "chatLog": [
-    "[04:02] [BOT] <0_HienBot> >What's up, nico_master? ",
-    "[04:03] [8b8t] >> Please do not spam.",
-    "[04:03] <nico_master> pera ",
-    "[04:03] <florentinogomez> !kit pvp ",
-    "[04:03] [8b8t] >> Teleporting to home 0...",
-    "[04:03] [8b8t] >> Teleporting to home 1...",
-    "[04:03] To florentinogomez: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:03] To florentinogomez: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:03] [8b8t] >> Request sent to florentinogomez",
     "[04:03] <fdsadsadoasnmdas> nico ",
@@ -101,7 +94,14 @@
     "[04:05] <fdsadsadoasnmdas> tienes o nooo ",
     "[04:05] <nico_master> sh ",
     "[04:05] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[04:05] <fdsadsadoasnmdas> nicooo tienes lana "
+    "[04:05] <fdsadsadoasnmdas> nicooo tienes lana ",
+    "[04:05] <fdsadsadoasnmdas> !kit build ",
+    "[04:05] [8b8t] >> Teleporting to home 0...",
+    "[04:05] [8b8t] >> Home 2 was not found",
+    "[04:05] To fdsadsadoasnmdas: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:06] To fdsadsadoasnmdas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:06] [8b8t] >> Request sent to fdsadsadoasnmdas",
+    "[04:06] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3370,7 +3370,7 @@
     "Sotelldo": 2,
     "plag4xxx": 12,
     "malutkipan": 10,
-    "fdsadsadoasnmdas": 38,
+    "fdsadsadoasnmdas": 39,
     "RobertoPalos": 5,
     "sayrox2": 4,
     "TheKoso": 3,
@@ -3396,7 +3396,7 @@
     "PIpe999": 1
   },
   "kitStats": {
-    "build": 1629,
+    "build": 1630,
     "survival": 6505,
     "pvp": 8298,
     "dupe": 2273,
