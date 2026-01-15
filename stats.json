@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:34:02 16/1/2026",
+  "lastUpdated": "05:34:32 16/1/2026",
   "totalKits": 88020,
   "todayKits": 206,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 42,
   "tps": "4.0",
-  "ping": 258,
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8494
+      "count": 8495
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:32] <NEXUS_1> q? ",
-    "[22:32] [Basic] <PorotoCosmico> me llevare los kits y los dupeare ",
-    "[22:32] [Basic] <PorotoCosmico> me dieron de tarea el whopper ",
-    "[22:32] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[22:32] <Slekzeta> !kit elyta ",
-    "[22:32] [8b8t] >> Teleporting to home 0...",
-    "[22:32] [8b8t] >> Teleporting to home 5...",
-    "[22:32] To Slekzeta: Kit \"elyta\" not found! Giving you (end) instead! dsc.gg/hienbot",
     "[22:32] <NEXUS_1> cuales kits ",
     "[22:32] To Slekzeta: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:32] [8b8t] >> Request sent to Slekzeta",
@@ -101,7 +93,15 @@
     "[22:33] <NEXUS_1> ey dijo whopper no hablar x este chat xd ",
     "[22:33] [Basic] <PorotoCosmico> xD ",
     "[22:34] <Slekzeta> !kit elytra ",
-    "[22:34] To Slekzeta: You're on cooldown, try again in 19 seconds! Dont forget to join dsc.gg/hienbot"
+    "[22:34] To Slekzeta: You're on cooldown, try again in 19 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:34] [BOT] <0_HienBot> >What's up, EzequielCre? ",
+    "[22:34] <Valoma20142000> !kit pvp ",
+    "[22:34] [8b8t] >> Teleporting to home 0...",
+    "[22:34] [8b8t] >> Teleporting to home 1...",
+    "[22:34] To Valoma20142000: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:34] [Basic] <PorotoCosmico> victua no puedo ",
+    "[22:34] To Valoma20142000: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:34] [8b8t] >> Request sent to Valoma20142000"
   ],
   "userStats": {
     "76756": 38,
@@ -3443,12 +3443,12 @@
     ".End3r3876": 12,
     "tirex548": 2,
     "CallenBam": 8,
-    "Valoma20142000": 1
+    "Valoma20142000": 2
   },
   "kitStats": {
     "build": 1661,
     "survival": 6622,
-    "pvp": 8494,
+    "pvp": 8495,
     "dupe": 2313,
     "tools": 1929,
     "stash": 1170,
