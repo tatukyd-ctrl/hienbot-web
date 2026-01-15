@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:54:24 15/1/2026",
-  "totalKits": 87519,
-  "todayKits": 226,
+  "lastUpdated": "13:54:46 15/1/2026",
+  "totalKits": 87520,
+  "todayKits": 227,
   "onlineCount": 16,
   "peakPlayers": 56,
-  "tps": "5.0",
-  "ping": 252,
+  "tps": "3.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8318
+      "count": 8319
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:51] [BOT] <0_HienBot> >Type !discord ",
-    "[06:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:51] [8b8t] >> Teleporting...",
-    "[06:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[06:51] <ROHAN> !kit pvp ",
-    "[06:51] [8b8t] >> Teleporting to home 0...",
-    "[06:51] [8b8t] >> Teleporting to home 1...",
     "[06:51] To ROHAN: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:51] To ROHAN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:51] [8b8t] >> Request sent to ROHAN",
@@ -101,7 +94,14 @@
     "[06:53] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[06:53] <MrPinkEye> !kit ",
     "[06:53] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:54] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
+    "[06:54] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[06:54] <ROHAN> !kit pvp ",
+    "[06:54] [8b8t] >> Teleporting to home 0...",
+    "[06:54] [8b8t] >> Teleporting to home 1...",
+    "[06:54] To ROHAN: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:54] To ROHAN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:54] [8b8t] >> Request sent to ROHAN",
+    "[06:54] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3365,7 +3365,7 @@
     "tabanoss": 11,
     ".FolkSaucer9241": 1,
     "Elmasperron6885": 1,
-    "ROHAN": 6,
+    "ROHAN": 7,
     "JJplayerUD": 1,
     "Sotelldo": 2,
     "plag4xxx": 12,
@@ -3402,7 +3402,7 @@
   "kitStats": {
     "build": 1635,
     "survival": 6515,
-    "pvp": 8318,
+    "pvp": 8319,
     "dupe": 2277,
     "tools": 1906,
     "stash": 1154,
