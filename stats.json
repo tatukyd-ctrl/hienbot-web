@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:52:31 15/1/2026",
+  "lastUpdated": "19:53:03 15/1/2026",
   "totalKits": 87677,
   "todayKits": 12,
-  "onlineCount": 18,
+  "onlineCount": 17,
   "peakPlayers": 19,
-  "tps": "12.0",
+  "tps": "13.0",
   "ping": 247,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8353
+      "count": 8354
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:51] <.LEON50758> a ",
-    "[12:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[12:51] <baute> tienes otra base ",
-    "[12:51] <ParaCraftero> si ",
-    "[12:51] <.LEON50758> It didn't happen ",
-    "[12:51] <nabeel13> g ",
-    "[12:51] <baute> podemos ir ",
-    "[12:51] <miguel_gamer_777> Paracrafteo ",
-    "[12:52] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[12:52] <.LEON50758> !kit redstone ",
     "[12:52] [8b8t] >> Teleporting to home 0...",
     "[12:52] [8b8t] >> Home 2 was not found",
     "[12:52] To .LEON50758: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[12:52] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:52] [8b8t] >> Request sent to Rich_miner",
     "[12:52] [8b8t] >> Teleporting...",
-    "[12:52] <baute> ok "
+    "[12:52] <baute> ok ",
+    "[12:52] [8b8t] >> You have killed yourself!",
+    "[12:52] [BOT] <0_HienBot> >Hi Rich_miner! ",
+    "[12:52] <baute> !kit pvp ",
+    "[12:52] [8b8t] >> Teleporting to home 0...",
+    "[12:52] <ParaCraftero> lo unico q se es que andube trabajando y medio canzaado para alegrarme el dia con mi primo pequeño. me meiti al minecraft ",
+    "[12:52] [8b8t] >> Teleporting to home 1...",
+    "[12:52] brojsutgame has made the advancement [Monster Hunter]",
+    "[12:52] To baute: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:53] To baute: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:53] [8b8t] >> Request sent to baute"
   ],
   "userStats": {
     "76756": 38,
@@ -1235,7 +1235,7 @@
     "brunopo6741": 1,
     "TeFfO01007": 1,
     "Golhtlden": 1,
-    "baute": 8,
+    "baute": 9,
     "xdddgf": 1,
     "NinjaTheQuill": 1,
     "Gr4atvarus": 10,
@@ -3415,7 +3415,7 @@
   "kitStats": {
     "build": 1639,
     "survival": 6560,
-    "pvp": 8353,
+    "pvp": 8354,
     "dupe": 2286,
     "tools": 1917,
     "stash": 1158,
