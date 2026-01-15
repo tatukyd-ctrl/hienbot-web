@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:05:22 15/1/2026",
-  "totalKits": 87590,
-  "todayKits": 297,
-  "onlineCount": 15,
+  "lastUpdated": "16:05:38 15/1/2026",
+  "totalKits": 87591,
+  "todayKits": 298,
+  "onlineCount": 14,
   "peakPlayers": 56,
-  "tps": "8.0",
+  "tps": "3.0",
   "ping": 457,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6535
+      "count": 6536
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:03] <HighwayCleaner> test ",
-    "[09:03] <Rich_miner> !kit exp ",
-    "[09:03] To Rich_miner: You're on cooldown, try again in 7 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:03] <Rich_miner> !kit exp ",
-    "[09:03] To Rich_miner: You're on cooldown, try again in 1 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:03] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:03] <Rich_miner> !kit exp ",
-    "[09:03] [8b8t] >> Teleporting to home 0...",
-    "[09:03] [8b8t] >> Teleporting to home 5...",
     "[09:03] To Rich_miner: Your kit (exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[09:03] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[09:03] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,6 +92,15 @@
     "[09:05] [8b8t] >> Request sent to Rich_miner",
     "[09:05] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[09:05] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[09:05] [8b8t] >> Teleporting...",
+    "[09:05] <Voldaren26> !kit Survival ",
+    "[09:05] [8b8t] >> Teleporting to home 0...",
+    "[09:05] [8b8t] >> Teleporting to home 1...",
+    "[09:05] To Voldaren26: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:05] <Voldaren26> !kit Food ",
+    "[09:05] To Voldaren26: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:05] To Voldaren26: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:05] [8b8t] >> Request sent to Voldaren26",
     "[09:05] [8b8t] >> Teleporting..."
   ],
   "userStats": {
@@ -3402,11 +3402,11 @@
     "fjgjfjfdd": 1,
     ".Kalvinou8079": 1,
     "sdlgtumami": 4,
-    "Voldaren26": 7
+    "Voldaren26": 8
   },
   "kitStats": {
     "build": 1639,
-    "survival": 6535,
+    "survival": 6536,
     "pvp": 8332,
     "dupe": 2283,
     "tools": 1909,
