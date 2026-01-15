@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:01:53 15/1/2026",
-  "totalKits": 87347,
-  "todayKits": 54,
+  "lastUpdated": "09:02:11 15/1/2026",
+  "totalKits": 87348,
+  "todayKits": 55,
   "onlineCount": 29,
   "peakPlayers": 56,
-  "tps": "9.0",
+  "tps": "3.0",
   "ping": 279,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8264
+      "count": 8265
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:59] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[01:59] [8b8t] >> Teleporting...",
-    "[01:59] [8b8t] >> You have killed yourself!",
-    "[01:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:59] <ParaCraftero> mira llos cofres. pero no raidees la base. (es la unica que tengo( ",
-    "[01:59] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[01:59] <Antonhysv> yo pensaba que no me cargaba ",
-    "[01:59] <Antonhysv> y era el cuadro xd ",
     "[02:00] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[02:00] [Pro+] <lvashl> si le dices no raidea, yo creo que es lo primero que se le paso por la cabeza xd ",
     "[02:00] <MilangaOxi> fr ",
@@ -101,7 +93,15 @@
     "[02:01] [8b8t] >> Please do not spam.",
     "[02:01] <Antonhysv> tan tryhard? ",
     "[02:01] kiuna_KL has made the advancement [We Need to Go Deeper]",
-    "[02:01] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
+    "[02:01] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[02:02] <beary__> !kit pvp ",
+    "[02:02] [8b8t] >> Teleporting to home 0...",
+    "[02:02] [8b8t] >> Teleporting to home 1...",
+    "[02:02] To beary__: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:02] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:02] [8b8t] >> Request sent to beary__",
+    "[02:02] [8b8t] >> Teleporting...",
+    "[02:02] <Antonhysv> ya has dupeado? "
   ],
   "userStats": {
     "76756": 38,
@@ -1628,7 +1628,7 @@
     "ghcq": 5,
     "Mistc_": 1,
     "stromMC": 1,
-    "beary__": 46,
+    "beary__": 47,
     "ZzElCruzZ": 53,
     "Dragoon": 1,
     "Onibi_Kui": 12,
@@ -3390,7 +3390,7 @@
   "kitStats": {
     "build": 1624,
     "survival": 6456,
-    "pvp": 8264,
+    "pvp": 8265,
     "dupe": 2262,
     "tools": 1901,
     "stash": 1151,
