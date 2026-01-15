@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:13:23 15/1/2026",
-  "totalKits": 87361,
-  "todayKits": 68,
+  "lastUpdated": "09:13:42 15/1/2026",
+  "totalKits": 87362,
+  "todayKits": 69,
   "onlineCount": 24,
   "peakPlayers": 56,
-  "tps": "4.0",
-  "ping": 304,
+  "tps": "8.0",
+  "ping": 271,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8271
+      "count": 8272
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:12] [8b8t] >> Teleporting to home 7...",
-    "[02:12] To Xafrank: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:12] <ParaCraftero> no ",
-    "[02:12] To Xafrank: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:12] [8b8t] >> Request sent to Xafrank",
-    "[02:12] <nico_master> eee paracrafteroooo ",
-    "[02:12] [BOT] <0_HienBot> >Welcome to 8b8t, _meloudrama! ",
-    "[02:12] [8b8t] >> Teleporting...",
-    "[02:12] <Antonhysv> anda atrevido ParaCraftero ",
-    "[02:12] <beary__> !kit exp ",
-    "[02:12] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:12] [8b8t] >> You have killed yourself!",
     "[02:12] <fdsadsadoasnmdas> !kit ",
     "[02:12] To fdsadsadoasnmdas: Hello fdsadsadoasnmdas!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[02:13] [8b8t] >> Teleporting...",
     "[02:13] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[02:13] [8b8t] >> You have killed yourself!",
-    "[02:13] <nico_master> putita "
+    "[02:13] <nico_master> putita ",
+    "[02:13] <ParaCraftero> !kit pvp ",
+    "[02:13] [8b8t] >> Teleporting to home 0...",
+    "[02:13] [8b8t] >> Teleporting to home 1...",
+    "[02:13] To ParaCraftero: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:13] To ParaCraftero: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:13] <nico_master> !kit pvp ",
+    "[02:13] [8b8t] >> Request sent to ParaCraftero",
+    "[02:13] [8b8t] >> Teleporting...",
+    "[02:13] Chat disabled in client options",
+    "[02:13] <fdsadsadoasnmdas> !kit toolbox ",
+    "[02:13] To fdsadsadoasnmdas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3074,7 +3074,7 @@
     "yiddhater586": 8,
     "joacote1209": 3,
     "el4lejoo0o_": 2,
-    "ParaCraftero": 38,
+    "ParaCraftero": 39,
     "goofpoof12": 2,
     "BlameTK": 1,
     "Aeriak64HD": 75,
@@ -3391,7 +3391,7 @@
   "kitStats": {
     "build": 1624,
     "survival": 6456,
-    "pvp": 8271,
+    "pvp": 8272,
     "dupe": 2265,
     "tools": 1901,
     "stash": 1151,
