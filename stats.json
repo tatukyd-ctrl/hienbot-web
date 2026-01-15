@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:08:32 16/1/2026",
-  "totalKits": 87951,
-  "todayKits": 137,
-  "onlineCount": 39,
+  "lastUpdated": "03:09:02 16/1/2026",
+  "totalKits": 87952,
+  "todayKits": 138,
+  "onlineCount": 41,
   "peakPlayers": 42,
   "tps": "4.0",
-  "ping": 269,
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,22 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1657
+      "count": 1658
     }
   ],
   "chatLog": [
-    "[20:05] [8b8t] >> You have killed yourself!",
-    "[20:05] [8b8t] >> The TPA request you sent to poopman2 was successfully canceled.",
-    "[20:05] <.Eden_01655> !kit Redstone ",
-    "[20:05] [8b8t] >> Teleporting to home 0...",
-    "[20:05] [8b8t] >> Home 2 was not found",
-    "[20:05] To .Eden_01655: Your kit (Redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:05] To .Eden_01655: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:05] [8b8t] >> Request sent to .Eden_01655",
-    "[20:06] [8b8t] >> Teleporting...",
-    "[20:06] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[20:06] [8b8t] >> You have killed yourself!",
-    "[20:06] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[20:06] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[20:07] [BOT] <0_HienBot> >Type !discord ",
     "[20:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -101,7 +89,19 @@
     "[20:08] [8b8t] >> You have killed yourself!",
     "[20:08] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[20:08] [8b8t] >> No TPA request found",
-    "[20:08] <.Eden_01655> joder 2 fps "
+    "[20:08] <.Eden_01655> joder 2 fps ",
+    "[20:08] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[20:08] <Sxbz23> !kit build ",
+    "[20:08] [8b8t] >> Teleporting to home 0...",
+    "[20:08] [8b8t] >> Home 2 was not found",
+    "[20:08] To Sxbz23: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:08] <Cristiann_8> !kit raid ",
+    "[20:08] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:08] To Cristiann_8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:08] [8b8t] >> Request sent to Sxbz23",
+    "[20:08] [8b8t] >> Teleporting...",
+    "[20:09] <Cristiann_8> !kit raid ",
+    "[20:09] To Cristiann_8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3282,7 +3282,7 @@
     "Berserk_42": 1,
     "TeddyR1p": 2,
     "PrismarineBricks": 1,
-    "Sxbz23": 49,
+    "Sxbz23": 50,
     "r081ns": 2,
     ".ushina1": 1,
     "Thiagoelpro8925": 10,
@@ -3435,7 +3435,7 @@
     "poopman2": 6
   },
   "kitStats": {
-    "build": 1657,
+    "build": 1658,
     "survival": 6609,
     "pvp": 8466,
     "dupe": 2308,
