@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:43:24 15/1/2026",
-  "totalKits": 87632,
-  "todayKits": 339,
+  "lastUpdated": "17:43:45 15/1/2026",
+  "totalKits": 87633,
+  "todayKits": 340,
   "onlineCount": 13,
   "peakPlayers": 56,
-  "tps": "10.0",
-  "ping": 343,
+  "tps": "9.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:39] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[10:39] [8b8t] Unknown command do /help",
-    "[10:39] <AppleBot> > April 14, 2024: DPS floods 1000x1000 blocks in the End. The greatest engineering feat or pure tomfoolery in 8b8t?",
-    "[10:39] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[10:39] You are already connected to this server!",
-    "[10:39] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[10:39] <SHAD0W_120> what i say ",
     "[10:39] <Jewishc> k ",
     "[10:39] <SHAD0W_120> dropp the crystalks ",
     "[10:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +94,14 @@
     "[10:42] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[10:42] Jewishc has made the advancement [Not Quite \"Nine\" Lives]",
     "[10:42] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[10:43] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks "
+    "[10:43] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[10:43] <Manteca_Prime> !kit wool ",
+    "[10:43] [8b8t] >> Teleporting to home 0...",
+    "[10:43] [8b8t] >> Teleporting to home 3...",
+    "[10:43] To Manteca_Prime: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:43] To Manteca_Prime: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:43] [8b8t] >> Request sent to Manteca_Prime",
+    "[10:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3403,7 +3403,8 @@
     ".Kalvinou8079": 1,
     "sdlgtumami": 4,
     "Voldaren26": 14,
-    "zenciseven31776": 3
+    "zenciseven31776": 3,
+    "Manteca_Prime": 1
   },
   "kitStats": {
     "build": 1639,
@@ -3416,7 +3417,7 @@
     "wood": 556,
     "exp": 777,
     "dye": 341,
-    "wool": 463,
+    "wool": 464,
     "mineral": 580,
     "food": 522,
     "redstone": 817,
