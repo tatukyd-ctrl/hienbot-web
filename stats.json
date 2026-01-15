@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:05:02 16/1/2026",
+  "lastUpdated": "05:05:32 16/1/2026",
   "totalKits": 88003,
   "todayKits": 189,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 263,
+  "tps": "4.0",
+  "ping": 270,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:02] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[22:02] [8b8t] >> Request sent to CallenBam",
-    "[22:02] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[22:02] <nico_master> !kit pvp ",
-    "[22:02] To nico_master: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:02] [BOT] <0_HienBot> >Hi ASneakySenior! ",
-    "[22:02] [8b8t] >> You have killed yourself!",
-    "[22:02] [8b8t] >> The TPA request you sent to CallenBam was successfully canceled.",
-    "[22:03] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[22:03] <xxx_osolord_xxx> acepta poroto ",
     "[22:03] [BOT] <0_HienBot> >What's up, About20ft? ",
     "[22:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[22:04] <Sxbz23> !kit mapa art ",
@@ -101,7 +91,17 @@
     "[22:04] <.End3r3876> !bestping ",
     "[22:04] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[22:04] To .End3r3876: TNGB0T with 84 ms. Dont forget to join dsc.gg/hienbot",
-    "[22:04] <xxx_osolord_xxx> que paso? "
+    "[22:04] <xxx_osolord_xxx> que paso? ",
+    "[22:05] <.End3r3876> !kit ",
+    "[22:05] To .End3r3876: Hello .End3r3876!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:05] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[22:05] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[22:05] <CallenBam> !kit ",
+    "[22:05] To CallenBam: Hello CallenBam!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:05] <CallenBam> !kit food ",
+    "[22:05] [8b8t] >> Teleporting to home 0...",
+    "[22:05] [8b8t] >> Teleporting to home 4...",
+    "[22:05] To CallenBam: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3442,7 +3442,7 @@
     "closepvp": 1,
     ".End3r3876": 4,
     "tirex548": 2,
-    "CallenBam": 2
+    "CallenBam": 3
   },
   "kitStats": {
     "build": 1660,
@@ -3457,7 +3457,7 @@
     "dye": 347,
     "wool": 475,
     "mineral": 581,
-    "food": 529,
+    "food": 530,
     "redstone": 833,
     "toolbox": 768,
     "quartz": 326,
