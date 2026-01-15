@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:03:02 16/1/2026",
+  "lastUpdated": "03:03:32 16/1/2026",
   "totalKits": 87949,
   "todayKits": 135,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 42,
   "tps": "5.0",
-  "ping": 256,
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1924
+      "count": 1925
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:01] [8b8t] >> You have killed yourself!",
-    "[20:01] [8b8t] >> The TPA request you sent to Sxbz23 was successfully canceled.",
-    "[20:01] Psych0_ Whispers: !kit PVP",
-    "[20:01] [8b8t] >> Teleporting to home 0...",
-    "[20:01] [8b8t] >> Teleporting to home 1...",
-    "[20:01] To Psych0_: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:01] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[20:01] To Psych0_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:01] [8b8t] >> Request sent to Psych0_",
     "[20:01] [8b8t] >> Teleporting...",
     "[20:01] <larpsix> !kit build ",
     "[20:01] To larpsix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[20:01] <.Eden_01655> otra vez ",
     "[20:02] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[20:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[20:02] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ "
+    "[20:02] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[20:03] <poopman2> !kit tools ",
+    "[20:03] [8b8t] >> Teleporting to home 0...",
+    "[20:03] [8b8t] >> Teleporting to home 7...",
+    "[20:03] To poopman2: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:03] To poopman2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:03] [8b8t] >> Request sent to poopman2",
+    "[20:03] <miguel_gamer_777> Esta raro ",
+    "[20:03] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[20:03] <miguel_gamer_777> Tô y lag "
   ],
   "userStats": {
     "76756": 38,
@@ -3432,14 +3432,14 @@
     "_Lumora_": 24,
     "REDSBLIN": 1,
     "Citadel": 2,
-    "poopman2": 3
+    "poopman2": 4
   },
   "kitStats": {
     "build": 1657,
     "survival": 6607,
     "pvp": 8466,
     "dupe": 2308,
-    "tools": 1924,
+    "tools": 1925,
     "stash": 1169,
     "raid": 1373,
     "wood": 565,
