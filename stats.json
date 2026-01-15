@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:26:27 15/1/2026",
+  "lastUpdated": "07:26:53 15/1/2026",
   "totalKits": 87311,
   "todayKits": 18,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 56,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 265,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8245
+      "count": 8246
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:23] [8b8t] >> Please do not spam.",
-    "[00:23] aron1127 has made the advancement [Monster Hunter]",
-    "[00:23] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:23] <beary__> !kit pvp ",
-    "[00:23] [8b8t] >> Teleporting to home 0...",
-    "[00:23] [8b8t] >> Teleporting to home 1...",
-    "[00:23] To beary__: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:23] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:23] [8b8t] >> Request sent to beary__",
     "[00:23] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[00:23] [8b8t] >> Teleporting...",
     "[00:23] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[00:26] [8b8t] >> Request sent to beary__",
     "[00:26] <beary__> !kit pvp ",
     "[00:26] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:26] [8b8t] >> Teleporting..."
+    "[00:26] [8b8t] >> Teleporting...",
+    "[00:26] [8b8t] >> You have killed yourself!",
+    "[00:26] <BroddyZX> !kit pvp ",
+    "[00:26] [8b8t] >> Teleporting to home 0...",
+    "[00:26] [8b8t] >> Teleporting to home 1...",
+    "[00:26] To BroddyZX: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:26] To BroddyZX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:26] [8b8t] >> Request sent to BroddyZX",
+    "[00:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[00:26] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
   ],
   "userStats": {
     "76756": 38,
@@ -3381,12 +3381,13 @@
     "Manteiga_Gg8": 2,
     "ekravcho132": 12,
     ".KingKong215338": 2,
-    "a3lo3bobaLP": 2
+    "a3lo3bobaLP": 2,
+    "BroddyZX": 1
   },
   "kitStats": {
     "build": 1624,
     "survival": 6451,
-    "pvp": 8245,
+    "pvp": 8246,
     "dupe": 2260,
     "tools": 1900,
     "stash": 1150,
