@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:29:54 15/1/2026",
+  "lastUpdated": "14:30:24 15/1/2026",
   "totalKits": 87529,
   "todayKits": 236,
   "onlineCount": 13,
   "peakPlayers": 56,
-  "tps": "14.0",
-  "ping": 263,
+  "tps": "13.0",
+  "ping": 279,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6520
+      "count": 6521
     },
     {
       "name": "dupe",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:27] [8b8t] >> Request sent to Rich_miner",
-    "[07:27] [8b8t] >> Teleporting...",
-    "[07:27] [8b8t] >> You have killed yourself!",
-    "[07:27] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[07:27] <ROHAN> !kit pvp ",
     "[07:27] [8b8t] >> Teleporting to home 0...",
     "[07:27] [8b8t] >> Teleporting to home 1...",
     "[07:27] To ROHAN: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[07:29] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[07:29] [8b8t] >> Teleporting...",
     "[07:29] [8b8t] >> You have killed yourself!",
-    "[07:29] [BOT] <0_HienBot> >Hello ROHAN! "
+    "[07:29] [BOT] <0_HienBot> >Hello ROHAN! ",
+    "[07:30] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[07:30] <ROHAN> !kit survival ",
+    "[07:30] [8b8t] >> Teleporting to home 0...",
+    "[07:30] [8b8t] >> Teleporting to home 1...",
+    "[07:30] To ROHAN: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3365,7 +3365,7 @@
     "tabanoss": 11,
     ".FolkSaucer9241": 1,
     "Elmasperron6885": 1,
-    "ROHAN": 11,
+    "ROHAN": 12,
     "JJplayerUD": 1,
     "Sotelldo": 2,
     "plag4xxx": 12,
@@ -3402,7 +3402,7 @@
   },
   "kitStats": {
     "build": 1635,
-    "survival": 6520,
+    "survival": 6521,
     "pvp": 8322,
     "dupe": 2277,
     "tools": 1906,
