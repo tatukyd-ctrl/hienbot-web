@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:30:01 15/1/2026",
+  "lastUpdated": "09:30:23 15/1/2026",
   "totalKits": 87380,
   "todayKits": 87,
-  "onlineCount": 23,
+  "onlineCount": 24,
   "peakPlayers": 56,
-  "tps": "1.0",
+  "tps": "4.0",
   "ping": 266,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:28] [BOT] <0_HienBot> >Hey picc! ",
-    "[02:28] [8b8t] >> You have killed yourself!",
-    "[02:28] <MrPinkEye> !kit ",
-    "[02:28] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:29] <beary__> !kit minerals ",
-    "[02:29] [8b8t] >> Teleporting to home 0...",
-    "[02:29] [8b8t] >> Teleporting to home 4...",
-    "[02:29] To beary__: Kit \"minerals\" not found! Giving you (dye) instead! dsc.gg/hienbot",
-    "[02:29] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:29] [8b8t] >> Request sent to beary__",
     "[02:29] [8b8t] >> Teleporting...",
     "[02:29] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
@@ -101,7 +92,16 @@
     "[02:29] To nico_master: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:29] [8b8t] >> Request sent to nico_master",
     "[02:29] [8b8t] >> Teleporting...",
-    "[02:30] <ParaCraftero> ASI NO WE "
+    "[02:30] <ParaCraftero> ASI NO WE ",
+    "[02:30] <ParaCraftero> la cama explota ",
+    "[02:30] <ParaCraftero> usa esto ",
+    "[02:30] <beary__> !kit mineral ",
+    "[02:30] [8b8t] >> Teleporting to home 0...",
+    "[02:30] [8b8t] >> Teleporting to home 5...",
+    "[02:30] To beary__: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:30] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[02:30] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:30] [8b8t] >> Request sent to beary__"
   ],
   "userStats": {
     "76756": 38,
@@ -1628,7 +1628,7 @@
     "ghcq": 5,
     "Mistc_": 1,
     "stromMC": 1,
-    "beary__": 61,
+    "beary__": 62,
     "ZzElCruzZ": 53,
     "Dragoon": 1,
     "Onibi_Kui": 12,
@@ -3406,7 +3406,7 @@
     "food": 518,
     "redstone": 816,
     "toolbox": 752,
-    "quartz": 313,
+    "quartz": 314,
     "shulker": 607,
     "terracotta": 122,
     "end": 704,
