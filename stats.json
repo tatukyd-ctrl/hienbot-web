@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:01:24 15/1/2026",
+  "lastUpdated": "13:01:54 15/1/2026",
   "totalKits": 87510,
   "todayKits": 217,
-  "onlineCount": 20,
+  "onlineCount": 19,
   "peakPlayers": 56,
-  "tps": "8.0",
-  "ping": 269,
+  "tps": "4.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8316
+      "count": 8317
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:57] [BOT] <0_HienBot> >Hi 1976ASF1GG! ",
-    "[05:57] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[05:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:58] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[05:59] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[05:59] <MrPinkEye> !kit ",
-    "[05:59] <ElTenshi2> !kit pvp ",
     "[05:59] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:59] [8b8t] >> Teleporting to home 0...",
     "[05:59] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +94,14 @@
     "[06:00] <vicente123xd3> What's 2+2? [22bfb5254c1ded5c8ef2c271efe8595bf] ",
     "[06:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[06:01] ElTenshi2 has made the advancement [Monster Hunter]",
-    "[06:01] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language "
+    "[06:01] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[06:01] <HighwayCleaner> !kit pvp ",
+    "[06:01] [8b8t] >> Teleporting to home 0...",
+    "[06:01] [8b8t] >> Teleporting to home 1...",
+    "[06:01] To HighwayCleaner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:01] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
+    "[06:01] To HighwayCleaner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:01] [8b8t] >> Request sent to HighwayCleaner"
   ],
   "userStats": {
     "76756": 38,
@@ -2439,7 +2439,7 @@
     "Alesito_Cotton": 1,
     "Axintar09": 1,
     "caquitarara132": 1,
-    "HighwayCleaner": 22,
+    "HighwayCleaner": 23,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 29,
     "Flame_xz": 21,
@@ -3402,7 +3402,7 @@
   "kitStats": {
     "build": 1634,
     "survival": 6514,
-    "pvp": 8316,
+    "pvp": 8317,
     "dupe": 2276,
     "tools": 1906,
     "stash": 1153,
