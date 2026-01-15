@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:46:22 15/1/2026",
+  "lastUpdated": "19:46:33 15/1/2026",
   "totalKits": 87674,
   "todayKits": 9,
   "onlineCount": 15,
   "peakPlayers": 15,
-  "tps": "7.0",
+  "tps": "8.0",
   "ping": 251,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8352
+      "count": 8353
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:44] <Rich_miner> !ping ",
-    "[12:44] To Rich_miner: Your ping is: 614 ms Dont forget to join dsc.gg/hienbot",
-    "[12:45] [BOT] <0_HienBot> >Type !discord ",
-    "[12:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:45] <leeChung> !kit cpvp ",
     "[12:45] To leeChung: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:45] <leeChung> !kit cpvp ",
     "[12:45] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +96,12 @@
     "[12:46] To brojsutgame: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:46] To brojsutgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:46] [8b8t] >> Request sent to brojsutgame",
-    "[12:46] [8b8t] >> Teleporting..."
+    "[12:46] [8b8t] >> Teleporting...",
+    "[12:46] [8b8t] >> You have killed yourself!",
+    "[12:46] <ParaCraftero> !kit pvp ",
+    "[12:46] [8b8t] >> Teleporting to home 0...",
+    "[12:46] [8b8t] >> Teleporting to home 1...",
+    "[12:46] To ParaCraftero: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3074,7 +3074,7 @@
     "yiddhater586": 8,
     "joacote1209": 3,
     "el4lejoo0o_": 2,
-    "ParaCraftero": 44,
+    "ParaCraftero": 45,
     "goofpoof12": 2,
     "BlameTK": 1,
     "Aeriak64HD": 75,
@@ -3415,7 +3415,7 @@
   "kitStats": {
     "build": 1639,
     "survival": 6560,
-    "pvp": 8352,
+    "pvp": 8353,
     "dupe": 2286,
     "tools": 1916,
     "stash": 1158,
