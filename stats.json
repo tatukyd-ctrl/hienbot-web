@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:47:38 15/1/2026",
+  "lastUpdated": "22:48:08 15/1/2026",
   "totalKits": 87790,
   "todayKits": 4,
-  "onlineCount": 32,
+  "onlineCount": 29,
   "peakPlayers": 34,
-  "tps": "9.0",
-  "ping": 263,
+  "tps": "3.0",
+  "ping": 533,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8396
+      "count": 8397
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:46] [8b8t] >> Teleporting to home 7...",
-    "[15:46] To AdustCloud3179: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:46] To AdustCloud3179: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:46] [8b8t] >> Request sent to AdustCloud3179",
-    "[15:46] [8b8t] >> Teleporting...",
-    "[15:46] <Shardstone> !kit survival ",
-    "[15:46] To Shardstone: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:46] <Cristiann_8> !KIT ",
     "[15:46] To Cristiann_8: Hello Cristiann_8!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[15:46] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[15:47] <Cemx14x> can smwh help me ",
     "[15:47] <Cemx14x> im new ",
     "[15:47] [8b8t] >> You have killed yourself!",
-    "[15:47] [8b8t] >> The TPA request you sent to Cristiann_8 was successfully canceled."
+    "[15:47] [8b8t] >> The TPA request you sent to Cristiann_8 was successfully canceled.",
+    "[15:47] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[15:47] <Shardstone> !kit pvp ",
+    "[15:47] [8b8t] >> Teleporting to home 0...",
+    "[15:47] [8b8t] >> Teleporting to home 1...",
+    "[15:47] To Shardstone: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:47] To Shardstone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:47] [8b8t] >> Request sent to Shardstone"
   ],
   "userStats": {
     "76756": 38,
@@ -3417,12 +3417,13 @@
     "Anonymous204205": 13,
     "dragonkit2": 1,
     "kusursuz": 1,
-    "NaorNewDay": 3
+    "NaorNewDay": 3,
+    "Shardstone": 1
   },
   "kitStats": {
     "build": 1652,
     "survival": 6581,
-    "pvp": 8396,
+    "pvp": 8397,
     "dupe": 2294,
     "tools": 1920,
     "stash": 1161,
