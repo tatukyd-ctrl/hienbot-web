@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:19:32 16/1/2026",
+  "lastUpdated": "02:20:02 16/1/2026",
   "totalKits": 87914,
   "todayKits": 100,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 256,
+  "tps": "2.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8440
+      "count": 8441
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:16] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[19:16] <_Lumora_> !kit pvp ",
-    "[19:16] To _Lumora_: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:17] [8b8t] >> Please do not spam.",
-    "[19:17] <Citadel> !kit elytra ",
-    "[19:17] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[19:17] [8b8t] >> Teleporting to home 0...",
     "[19:17] [8b8t] >> Teleporting to home 6...",
     "[19:17] To Citadel: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[19:17] To Citadel: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +94,14 @@
     "[19:18] Citadel has made the advancement [Ice Bucket Challenge]",
     "[19:18] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[19:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[19:19] [8b8t] >> Please do not spam."
+    "[19:19] [8b8t] >> Please do not spam.",
+    "[19:19] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[19:19] <_Lumora_> !kit pvp ",
+    "[19:19] [8b8t] >> Teleporting to home 0...",
+    "[19:19] [8b8t] >> Teleporting to home 1...",
+    "[19:19] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:19] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:19] [8b8t] >> Request sent to _Lumora_"
   ],
   "userStats": {
     "76756": 38,
@@ -3429,14 +3429,14 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 3,
-    "_Lumora_": 7,
+    "_Lumora_": 8,
     "REDSBLIN": 1,
     "Citadel": 1
   },
   "kitStats": {
     "build": 1656,
     "survival": 6606,
-    "pvp": 8440,
+    "pvp": 8441,
     "dupe": 2307,
     "tools": 1924,
     "stash": 1168,
