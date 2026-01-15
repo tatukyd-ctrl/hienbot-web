@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:26:02 16/1/2026",
+  "lastUpdated": "03:26:32 16/1/2026",
   "totalKits": 87969,
   "todayKits": 155,
-  "onlineCount": 34,
+  "onlineCount": 35,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 257,
+  "tps": "4.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:25] [8b8t] >> Teleporting...",
-    "[20:25] <AfoiwageiLP> !kit toolbox ",
-    "[20:25] To AfoiwageiLP: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:25] [8b8t] >> You have killed yourself!",
-    "[20:25] <camilogod> 361 ",
-    "[20:25] <ekravcho132> !kit toolbox ",
-    "[20:25] [8b8t] >> Teleporting to home 0...",
-    "[20:25] [8b8t] >> Teleporting to home 4...",
     "[20:25] <AfoiwageiLP> !kit toolbox ",
     "[20:25] To ekravcho132: Your kit (toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[20:25] To AfoiwageiLP: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[20:25] [8b8t] >> Teleporting...",
     "[20:25] <WenlerMaster> :helpkit ",
     "[20:26] [8b8t] >> You have killed yourself!",
-    "[20:26] <WenlerMaster> :kithelp "
+    "[20:26] <WenlerMaster> :kithelp ",
+    "[20:26] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[20:26] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[20:26] <AfoiwageiLP> !kit toolbox ",
+    "[20:26] [8b8t] >> Teleporting to home 0...",
+    "[20:26] [8b8t] >> Teleporting to home 4...",
+    "[20:26] To AfoiwageiLP: Your kit (toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:26] To AfoiwageiLP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:26] [8b8t] >> Request sent to AfoiwageiLP"
   ],
   "userStats": {
     "76756": 38,
@@ -3383,7 +3383,7 @@
     ".KingKong215338": 2,
     "a3lo3bobaLP": 2,
     "BroddyZX": 1,
-    "AfoiwageiLP": 2,
+    "AfoiwageiLP": 3,
     "SooDeckOG": 2,
     "Chr1s_th3_s1gma": 2,
     "negro_kiricici": 23,
@@ -3451,7 +3451,7 @@
     "mineral": 581,
     "food": 526,
     "redstone": 832,
-    "toolbox": 763,
+    "toolbox": 764,
     "quartz": 326,
     "shulker": 625,
     "terracotta": 129,
