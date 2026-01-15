@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:25:32 16/1/2026",
+  "lastUpdated": "04:26:02 16/1/2026",
   "totalKits": 87995,
   "todayKits": 181,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 42,
-  "tps": "5.0",
-  "ping": 291,
+  "tps": "3.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2312
+      "count": 2313
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:23] [8b8t] >> You have killed yourself!",
-    "[21:23] [8b8t] >> The TPA request you sent to noletrr was successfully canceled.",
-    "[21:23] <noletrr> !kit fly ",
-    "[21:23] To noletrr: You're on cooldown, try again in 56 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:23] tirex548 has made the advancement [Stone Age]",
-    "[21:23] <tabanoss> !kit ",
-    "[21:23] To tabanoss: Hello tabanoss!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[21:24] <tabanoss> !kit Food ",
     "[21:24] [8b8t] >> Teleporting to home 0...",
     "[21:24] [8b8t] >> Teleporting to home 4...",
     "[21:24] To tabanoss: Your kit (Food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[21:24] [8b8t] >> Request sent to EzequielCre",
     "[21:25] [8b8t] >> Teleporting...",
     "[21:25] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[21:25] [8b8t] >> You have killed yourself!"
+    "[21:25] [8b8t] >> You have killed yourself!",
+    "[21:25] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[21:25] EzequielCre Whispers: !kit",
+    "[21:25] To EzequielCre: Hello EzequielCre!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[21:25] <.LEON50758> sa türk varmı ",
+    "[21:26] EzequielCre Whispers: !kit dupe",
+    "[21:26] [8b8t] >> Teleporting to home 0...",
+    "[21:26] [8b8t] >> Teleporting to home 7...",
+    "[21:26] To EzequielCre: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3438,13 +3438,13 @@
     "BeTiRaN700": 3,
     "DeadKiller1610": 3,
     "jjgg2003": 1,
-    "EzequielCre": 1
+    "EzequielCre": 2
   },
   "kitStats": {
     "build": 1660,
     "survival": 6612,
     "pvp": 8484,
-    "dupe": 2312,
+    "dupe": 2313,
     "tools": 1929,
     "stash": 1170,
     "raid": 1375,
