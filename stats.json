@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:44:54 15/1/2026",
+  "lastUpdated": "16:45:24 15/1/2026",
   "totalKits": 87610,
   "todayKits": 317,
   "onlineCount": 14,
   "peakPlayers": 56,
-  "tps": "8.0",
-  "ping": 280,
+  "tps": "15.0",
+  "ping": 258,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8337
+      "count": 8338
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:42] <j.abad> alguien me saca del spawn por favor ",
-    "[09:42] <DrVenial31> pvp ? no hack ",
-    "[09:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:42] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[09:42] <ROHAN> o ",
-    "[09:42] <DrVenial31> !kit survaival ",
-    "[09:42] [8b8t] >> Teleporting to home 0...",
     "[09:42] [8b8t] >> Teleporting to home 7...",
     "[09:42] To DrVenial31: Kit \"survaival\" not found! Giving you (armortrims) instead! dsc.gg/hienbot",
     "[09:42] To DrVenial31: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +94,14 @@
     "[09:44] [8b8t] >> Teleporting...",
     "[09:44] [BOT] <0_HienBot> >Hmmmmmmmmm ",
     "[09:44] [8b8t] >> You have killed yourself!",
-    "[09:44] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
+    "[09:44] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[09:45] [BOT] <0_HienBot> >Type !discord ",
+    "[09:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:45] <DrVenial31> !kit pvp ",
+    "[09:45] [8b8t] >> Teleporting to home 0...",
+    "[09:45] [8b8t] >> Teleporting to home 1...",
+    "[09:45] To DrVenial31: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:45] To DrVenial31: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3185,7 +3185,7 @@
     "Void000": 2,
     "Gshou": 3,
     "dragonkit3": 1,
-    "DrVenial31": 89,
+    "DrVenial31": 90,
     "ElTomatitoFresco": 7,
     "islakdonavcizi31": 31,
     "yusyf_56": 7,
@@ -3408,7 +3408,7 @@
   "kitStats": {
     "build": 1639,
     "survival": 6541,
-    "pvp": 8337,
+    "pvp": 8338,
     "dupe": 2283,
     "tools": 1912,
     "stash": 1156,
