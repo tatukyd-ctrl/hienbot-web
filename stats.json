@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:58:54 15/1/2026",
-  "totalKits": 87521,
-  "todayKits": 228,
-  "onlineCount": 17,
+  "lastUpdated": "13:59:09 15/1/2026",
+  "totalKits": 87522,
+  "todayKits": 229,
+  "onlineCount": 16,
   "peakPlayers": 56,
-  "tps": "8.0",
+  "tps": "6.0",
   "ping": 251,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8319
+      "count": 8320
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:56] [8b8t] >> Teleporting to home 1...",
-    "[06:56] To ROHAN: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:56] To ROHAN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:56] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:56] [8b8t] >> Request sent to ROHAN",
-    "[06:56] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[06:56] [8b8t] >> The TPA request you sent to ROHAN has expired.",
-    "[06:57] <asciicat> !kit survival ",
-    "[06:57] [8b8t] >> You have killed yourself!",
-    "[06:57] [8b8t] >> Teleporting to home 0...",
-    "[06:57] [8b8t] >> No TPA request found",
-    "[06:57] [8b8t] >> Teleporting to home 1...",
     "[06:57] To asciicat: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:57] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[06:57] To asciicat: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +89,19 @@
     "[06:58] ",
     "[06:58] [8b8t] >> Restarting in 1m!",
     "[06:58] ",
-    "[06:58] [BOT] <0_HienBot> >Welcome to 8b8t, MrPinkEye! "
+    "[06:58] [BOT] <0_HienBot> >Welcome to 8b8t, MrPinkEye! ",
+    "[06:58] <ROHAN> !kit pvp ",
+    "[06:58] [8b8t] >> Teleporting to home 0...",
+    "[06:58] [8b8t] >> Teleporting to home 1...",
+    "[06:58] To ROHAN: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:58] To ROHAN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:58] <MrPinkEye> !kit ",
+    "[06:58] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[06:58] ",
+    "[06:58] [8b8t] >> Restarting in 30s!",
+    "[06:58] ",
+    "[06:58] [8b8t] >> Request sent to ROHAN",
+    "[06:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3365,7 +3365,7 @@
     "tabanoss": 11,
     ".FolkSaucer9241": 1,
     "Elmasperron6885": 1,
-    "ROHAN": 8,
+    "ROHAN": 9,
     "JJplayerUD": 1,
     "Sotelldo": 2,
     "plag4xxx": 12,
@@ -3403,7 +3403,7 @@
   "kitStats": {
     "build": 1635,
     "survival": 6517,
-    "pvp": 8319,
+    "pvp": 8320,
     "dupe": 2277,
     "tools": 1906,
     "stash": 1154,
