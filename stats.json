@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:49:24 15/1/2026",
+  "lastUpdated": "12:49:54 15/1/2026",
   "totalKits": 87507,
   "todayKits": 214,
   "onlineCount": 21,
   "peakPlayers": 56,
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 246,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8312
+      "count": 8313
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:43] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[05:43] [8b8t] >> The TPA request you sent to HighwayCleaner has expired.",
-    "[05:43] <MrPinkEye> !kit ",
-    "[05:43] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:44] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[05:44] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:44] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[05:45] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[05:45] <noobmaster96> sebas ",
     "[05:45] <Sxbz23> si ",
@@ -101,7 +94,14 @@
     "[05:48] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:48] <Sxbz23> como llegaste aca ",
     "[05:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[05:49] [BOT] <0_HienBot> >Hello PyrosImperator! "
+    "[05:49] [BOT] <0_HienBot> >Hello PyrosImperator! ",
+    "[05:49] <PyrosImperator> !kit pvp ",
+    "[05:49] [8b8t] >> Teleporting to home 0...",
+    "[05:49] [8b8t] >> Teleporting to home 1...",
+    "[05:49] To PyrosImperator: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:49] To PyrosImperator: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:49] [8b8t] >> Request sent to PyrosImperator",
+    "[05:49] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
   ],
   "userStats": {
     "76756": 38,
@@ -817,7 +817,7 @@
     "prroaso123": 4,
     "Abols152362": 92,
     "darkee_67589": 77,
-    "PyrosImperator": 6,
+    "PyrosImperator": 7,
     "peacebringer12": 133,
     "PixySprawl": 5,
     "emin63emin": 3,
@@ -3401,7 +3401,7 @@
   "kitStats": {
     "build": 1634,
     "survival": 6512,
-    "pvp": 8312,
+    "pvp": 8313,
     "dupe": 2276,
     "tools": 1906,
     "stash": 1153,
