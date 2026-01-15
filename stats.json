@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:34:02 16/1/2026",
-  "totalKits": 87972,
-  "todayKits": 158,
+  "lastUpdated": "03:34:15 16/1/2026",
+  "totalKits": 87973,
+  "todayKits": 159,
   "onlineCount": 31,
   "peakPlayers": 42,
   "tps": "3.0",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8477
+      "count": 8478
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:32] [8b8t] >> Teleporting to home 0...",
-    "[20:32] [8b8t] >> Teleporting to home 1...",
-    "[20:32] To Thiagoelpro8925: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:32] <AfoiwageiLP> !kit ",
-    "[20:32] To AfoiwageiLP: Hello AfoiwageiLP!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:32] To Thiagoelpro8925: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:32] [8b8t] >> Request sent to Thiagoelpro8925",
-    "[20:32] [8b8t] >> The TPA request you sent to Thiagoelpro8925 has expired.",
-    "[20:32] <camilogod> estoy viajando ",
-    "[20:32] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[20:32] <AfoiwageiLP> !kit Toolbox ",
     "[20:32] To AfoiwageiLP: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:32] <negro_kiricici> !kit tools ",
@@ -101,7 +91,17 @@
     "[20:33] 0_HeinBot. Whispers: !kit pvp",
     "[20:33] To 0_HeinBot.: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:33] [8b8t] >> Teleporting...",
-    "[20:33] [8b8t] >> You have killed yourself!"
+    "[20:33] [8b8t] >> You have killed yourself!",
+    "[20:34] <Thiagoelpro8925> !kit pvp ",
+    "[20:34] 0_HeinBot. Whispers: !kit pvp",
+    "[20:34] To Thiagoelpro8925: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:34] [8b8t] >> Teleporting to home 0...",
+    "[20:34] [8b8t] >> Teleporting to home 1...",
+    "[20:34] To 0_HeinBot.: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:34] To 0_HeinBot.: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:34] [8b8t] >> Request sent to 0_HeinBot.",
+    "[20:34] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
+    "[20:34] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3434,12 +3434,12 @@
     "Citadel": 2,
     "poopman2": 7,
     "ulises2010f": 1,
-    "0_HeinBot.": 6
+    "0_HeinBot.": 7
   },
   "kitStats": {
     "build": 1658,
     "survival": 6610,
-    "pvp": 8477,
+    "pvp": 8478,
     "dupe": 2311,
     "tools": 1927,
     "stash": 1169,
