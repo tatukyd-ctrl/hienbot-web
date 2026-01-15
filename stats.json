@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:32:54 15/1/2026",
-  "totalKits": 87484,
-  "todayKits": 191,
-  "onlineCount": 23,
+  "lastUpdated": "11:33:22 15/1/2026",
+  "totalKits": 87485,
+  "todayKits": 192,
+  "onlineCount": 22,
   "peakPlayers": 56,
   "tps": "8.0",
   "ping": 272,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8304
+      "count": 8305
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:30] [8b8t] >> Request sent to dani8976",
-    "[04:30] [8b8t] >> Teleporting...",
-    "[04:30] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[04:30] [8b8t] >> You have killed yourself!",
-    "[04:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:31] <Zhyvv> !kit starter ",
-    "[04:31] [8b8t] >> Teleporting to home 0...",
-    "[04:31] [8b8t] >> Teleporting to home 1...",
-    "[04:31] To Zhyvv: Your kit (starter) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:31] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[04:31] To Zhyvv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:31] [8b8t] >> Request sent to Zhyvv",
     "[04:31] [8b8t] >> Teleporting...",
@@ -101,7 +91,17 @@
     "[04:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[04:32] [8b8t] >> Teleporting...",
     "[04:32] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[04:32] [8b8t] >> You have killed yourself!"
+    "[04:32] [8b8t] >> You have killed yourself!",
+    "[04:33] <Zhyvv> !kit pvp ",
+    "[04:33] [8b8t] >> Teleporting to home 0...",
+    "[04:33] [8b8t] >> Teleporting to home 1...",
+    "[04:33] To Zhyvv: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:33] To Zhyvv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:33] [8b8t] >> Request sent to Zhyvv",
+    "[04:33] [8b8t] >> Please do not spam.",
+    "[04:33] <SnowFl3a> !kit elytra ",
+    "[04:33] To SnowFl3a: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:33] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3333,7 +3333,7 @@
     "ItzMeWOOFY": 9,
     "Petcraft": 1,
     "KidBeastYT": 5,
-    "Zhyvv": 3,
+    "Zhyvv": 4,
     "C0SM1XZ": 1,
     "damoko_off": 13,
     "blackholeisbig": 3,
@@ -3398,7 +3398,7 @@
   "kitStats": {
     "build": 1632,
     "survival": 6507,
-    "pvp": 8304,
+    "pvp": 8305,
     "dupe": 2273,
     "tools": 1903,
     "stash": 1151,
