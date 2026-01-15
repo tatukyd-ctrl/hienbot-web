@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:02:54 15/1/2026",
+  "lastUpdated": "23:03:08 15/1/2026",
   "totalKits": 87798,
   "todayKits": 12,
   "onlineCount": 30,
   "peakPlayers": 34,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 249,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2296
+      "count": 2297
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:00] <botchaosonix> okay ",
-    "[16:00] <botchaosonix> i watch while so pvp ",
-    "[16:00] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[16:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[16:00] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[16:01] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
-    "[16:01] shark_hood has made the advancement [Ice Bucket Challenge]",
     "[16:01] [BOT] <0_HienBot> >Try !кιт survival ",
     "[16:01] [Ultra] <HTP1P0> shut up gay :) ",
     "[16:01] <.LEON50758> nooooooo ",
@@ -101,7 +94,14 @@
     "[16:02] [8b8t] >> Request sent to Shardstone",
     "[16:02] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[16:02] <DrVenial31> 3pop ? ",
-    "[16:02] [8b8t] >> Teleporting..."
+    "[16:02] [8b8t] >> Teleporting...",
+    "[16:02] <botchaosonix> go ? ",
+    "[16:02] [8b8t] >> You have killed yourself!",
+    "[16:02] <DrVenial31> 3totem ",
+    "[16:03] <Cemx14x> !kit dupe ",
+    "[16:03] [8b8t] >> Teleporting to home 0...",
+    "[16:03] [8b8t] >> Teleporting to home 7...",
+    "[16:03] To Cemx14x: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3419,13 +3419,13 @@
     "kusursuz": 1,
     "NaorNewDay": 3,
     "Shardstone": 5,
-    "Cemx14x": 1
+    "Cemx14x": 2
   },
   "kitStats": {
     "build": 1652,
     "survival": 6583,
     "pvp": 8400,
-    "dupe": 2296,
+    "dupe": 2297,
     "tools": 1920,
     "stash": 1161,
     "raid": 1368,
