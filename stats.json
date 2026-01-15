@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:17:32 16/1/2026",
-  "totalKits": 87913,
-  "todayKits": 99,
-  "onlineCount": 33,
+  "lastUpdated": "02:17:53 16/1/2026",
+  "totalKits": 87914,
+  "todayKits": 100,
+  "onlineCount": 35,
   "peakPlayers": 42,
-  "tps": "2.0",
-  "ping": 262,
+  "tps": "4.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8439
+      "count": 8440
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:15] [8b8t] >> You have killed yourself!",
-    "[19:15] [8b8t] >> No TPA request found",
-    "[19:16] <Grassrealm> !kit illegal ",
-    "[19:16] [8b8t] >> Teleporting to home 0...",
-    "[19:16] [8b8t] >> Teleporting to home 7...",
-    "[19:16] To Grassrealm: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:16] To Grassrealm: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:16] [8b8t] >> Request sent to Grassrealm",
     "[19:16] [8b8t] >> Teleporting...",
     "[19:16] [BOT] <0_HienBot> >Type !discord ",
     "[19:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -101,7 +93,15 @@
     "[19:17] <Doraemon073> !kit ",
     "[19:17] To Doraemon073: Hello Doraemon073!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[19:17] [8b8t] >> You have killed yourself!",
-    "[19:17] Citadel has reached the goal [Sky's the Limit]"
+    "[19:17] Citadel has reached the goal [Sky's the Limit]",
+    "[19:17] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[19:17] <_Lumora_> !kit pvp ",
+    "[19:17] [8b8t] >> Teleporting to home 0...",
+    "[19:17] [8b8t] >> Teleporting to home 1...",
+    "[19:17] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:17] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:17] [8b8t] >> Request sent to _Lumora_",
+    "[19:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3429,14 +3429,14 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 3,
-    "_Lumora_": 6,
+    "_Lumora_": 7,
     "REDSBLIN": 1,
     "Citadel": 1
   },
   "kitStats": {
     "build": 1656,
     "survival": 6606,
-    "pvp": 8439,
+    "pvp": 8440,
     "dupe": 2307,
     "tools": 1924,
     "stash": 1168,
