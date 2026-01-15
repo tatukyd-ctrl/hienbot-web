@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:58:54 15/1/2026",
-  "totalKits": 87638,
-  "todayKits": 345,
+  "lastUpdated": "17:59:08 15/1/2026",
+  "totalKits": 87639,
+  "todayKits": 346,
   "onlineCount": 17,
   "peakPlayers": 56,
-  "tps": "13.0",
-  "ping": 262,
+  "tps": "11.0",
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6548
+      "count": 6549
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:57] [8b8t] >> Teleporting to home 1...",
-    "[10:57] To Sanhzp_7: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:57] To Sanhzp_7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:57] [8b8t] >> Request sent to Sanhzp_7",
-    "[10:57] [BOT] <0_HienBot> >Hi MonkeBot! ",
-    "[10:57] [8b8t] >> Teleporting...",
-    "[10:57] [8b8t] >> You have killed yourself!",
-    "[10:57] <ByOzann> help me pls ",
-    "[10:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:57] <botchaosonix> ni ",
     "[10:57] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[10:57] <botchaosonix> nope ",
@@ -101,7 +92,16 @@
     "[10:58] [8b8t] >> The TPA request you sent to LaParka_239 was successfully canceled.",
     "[10:58] [BOT] <0_HienBot> >Hey Sanhzp_7! ",
     "[10:58] <brojsutgame> !kit ",
-    "[10:58] To brojsutgame: Hello brojsutgame!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[10:58] To brojsutgame: Hello brojsutgame!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:58] <brojsutgame> !kit survival ",
+    "[10:58] [8b8t] >> Teleporting to home 0...",
+    "[10:58] [8b8t] >> Teleporting to home 1...",
+    "[10:58] To brojsutgame: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:58] To brojsutgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:58] <Sanhzp_7> !kit survival ",
+    "[10:59] To Sanhzp_7: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:59] [8b8t] >> Request sent to brojsutgame",
+    "[10:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3405,11 +3405,12 @@
     "Voldaren26": 14,
     "zenciseven31776": 3,
     "Manteca_Prime": 1,
-    "LaParka_239": 1
+    "LaParka_239": 1,
+    "brojsutgame": 1
   },
   "kitStats": {
     "build": 1639,
-    "survival": 6548,
+    "survival": 6549,
     "pvp": 8346,
     "dupe": 2284,
     "tools": 1913,
