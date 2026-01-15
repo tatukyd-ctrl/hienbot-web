@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:37:53 15/1/2026",
-  "totalKits": 87389,
-  "todayKits": 96,
+  "lastUpdated": "09:38:23 15/1/2026",
+  "totalKits": 87390,
+  "todayKits": 97,
   "onlineCount": 24,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 266,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8280
+      "count": 8281
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:36] <nico_master> !kit pvp ",
-    "[02:36] To nico_master: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:36] [8b8t] >> Teleporting...",
-    "[02:36] <Ggonz4_> kit ",
-    "[02:36] <ParaCraftero> probare al mazo ",
-    "[02:36] [8b8t] >> You have killed yourself!",
-    "[02:36] <CornyTheCorn> HELPPP ",
-    "[02:36] <CornyTheCorn> PLSSS ",
-    "[02:36] <Antonhysv> no ",
-    "[02:36] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[02:36] <CornyTheCorn> HELPPP ",
-    "[02:36] <Ggonz4_> ¡kit ",
-    "[02:37] [Pro+] <lvashl> shurt up bro lol ",
-    "[02:37] <nico_master> xd ",
     "[02:37] <CornyTheCorn> HELPPP ",
     "[02:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:37] ParaCraftero has made the advancement [Take Aim]",
@@ -101,7 +87,21 @@
     "[02:37] To nico_master: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:37] [8b8t] >> Request sent to nico_master",
     "[02:37] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[02:37] [8b8t] >> The TPA request you sent to nico_master has expired."
+    "[02:37] [8b8t] >> The TPA request you sent to nico_master has expired.",
+    "[02:37] <CornyTheCorn> !kit pvp ",
+    "[02:37] To CornyTheCorn: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:38] [8b8t] >> You have killed yourself!",
+    "[02:38] [8b8t] >> No TPA request found",
+    "[02:38] <CornyTheCorn> !kit pvp ",
+    "[02:38] [8b8t] >> Teleporting to home 0...",
+    "[02:38] [8b8t] >> Teleporting to home 1...",
+    "[02:38] To CornyTheCorn: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:38] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[02:38] To CornyTheCorn: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:38] <beary__> !kit survival ",
+    "[02:38] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:38] [8b8t] >> Request sent to CornyTheCorn",
+    "[02:38] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3388,12 +3388,13 @@
     "Chr1s_th3_s1gma": 2,
     "negro_kiricici": 4,
     "Alsobruh_": 2,
-    "SEBASRED_01": 2
+    "SEBASRED_01": 2,
+    "CornyTheCorn": 1
   },
   "kitStats": {
     "build": 1626,
     "survival": 6464,
-    "pvp": 8280,
+    "pvp": 8281,
     "dupe": 2265,
     "tools": 1901,
     "stash": 1151,
