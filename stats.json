@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:33:24 16/1/2026",
+  "lastUpdated": "02:33:32 16/1/2026",
   "totalKits": 87917,
   "todayKits": 103,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 42,
   "tps": "6.0",
   "ping": 267,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8444
+      "count": 8445
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:31] WhippyPickle has made the advancement [We Need to Go Deeper]",
-    "[19:31] WhippyPickle has made the advancement [Ice Bucket Challenge]",
-    "[19:31] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:31] [8b8t] >> Request sent to _Lumora_",
     "[19:31] <_Lumora_> !kit pvp ",
     "[19:31] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:32] Citadel has made the advancement [We Need to Go Deeper]",
@@ -101,7 +97,11 @@
     "[19:33] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[19:33] To .Olm3053: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:33] [8b8t] >> Request sent to .Olm3053",
-    "[19:33] [8b8t] >> Teleporting..."
+    "[19:33] [8b8t] >> Teleporting...",
+    "[19:33] [8b8t] >> You have killed yourself!",
+    "[19:33] <Antonhysv> !kit pvp ",
+    "[19:33] [8b8t] >> Teleporting to home 0...",
+    "[19:33] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3154,7 +3154,7 @@
     "catalin3214": 11,
     "HughCoolGuy123": 2,
     "SternQuill": 5,
-    "Antonhysv": 17,
+    "Antonhysv": 18,
     "MilangaOxi": 54,
     "xddddf": 1,
     "RoiyerYTXD": 7,
@@ -3436,7 +3436,7 @@
   "kitStats": {
     "build": 1656,
     "survival": 6607,
-    "pvp": 8444,
+    "pvp": 8445,
     "dupe": 2307,
     "tools": 1924,
     "stash": 1168,
