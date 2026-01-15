@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:31:02 16/1/2026",
+  "lastUpdated": "01:31:32 16/1/2026",
   "totalKits": 87895,
   "todayKits": 81,
-  "onlineCount": 35,
+  "onlineCount": 34,
   "peakPlayers": 42,
-  "tps": "7.0",
+  "tps": "3.0",
   "ping": 258,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6600
+      "count": 6601
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:27] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[18:27] rossikkjj has completed the challenge [Cover Me in Debris]",
-    "[18:27] [Ultra] <HTP1P0> !dupe ",
-    "[18:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[18:27] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[18:28] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[18:28] [BOT] <0_HienBot> >Welcome to 8b8t, vmariofakegg! ",
-    "[18:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[18:29] <catalin3214> 1v1 anyone? ",
     "[18:29] <cagus101> busco team para el evento de la purga alguien? ",
     "[18:29] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
@@ -101,7 +93,15 @@
     "[18:30] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[18:30] <Luple3> kits are for noobs ",
     "[18:30] [BOT] <0_HienBot> >Welcome to 8b8t, catalin3214! ",
-    "[18:31] [Ultra] <HTP1P0> pvp in my hotspot "
+    "[18:31] [Ultra] <HTP1P0> pvp in my hotspot ",
+    "[18:31] <cagus101> !kit survival ",
+    "[18:31] To cagus101: You're on cooldown, try again in 17 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:31] <cagus101> !kit survival ",
+    "[18:31] <Luple3> kit in your ahh ",
+    "[18:31] To cagus101: You're on cooldown, try again in 5 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:31] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[18:31] <cagus101> !kit survival ",
+    "[18:31] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1510,7 +1510,7 @@
     "jwww11": 1,
     "josnelfv": 2,
     "alexanderajc999": 1,
-    "cagus101": 10,
+    "cagus101": 11,
     "maximusSEBASTIAN": 1,
     "Bodyguards": 1,
     "blass": 3,
@@ -3430,7 +3430,7 @@
   },
   "kitStats": {
     "build": 1656,
-    "survival": 6600,
+    "survival": 6601,
     "pvp": 8433,
     "dupe": 2304,
     "tools": 1923,
