@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:06:32 16/1/2026",
+  "lastUpdated": "04:07:02 16/1/2026",
   "totalKits": 87992,
   "todayKits": 178,
   "onlineCount": 32,
   "peakPlayers": 42,
-  "tps": "5.0",
-  "ping": 267,
+  "tps": "2.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8481
+      "count": 8482
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:03] [BOT] <0_HienBot> >Hey TNGB0T! ",
-    "[21:03] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[21:04] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[21:04] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
-    "[21:05] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[21:05] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[21:05] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[21:05] <DeadKiller1610> !kit ",
-    "[21:05] To DeadKiller1610: Hello DeadKiller1610!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[21:05] <Sxbz23> !kit wool ",
-    "[21:05] [8b8t] >> Teleporting to home 0...",
-    "[21:05] [8b8t] >> Teleporting to home 3...",
-    "[21:05] To Sxbz23: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:06] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:06] [8b8t] >> Request sent to Sxbz23",
     "[21:06] [8b8t] >> Teleporting...",
     "[21:06] <larpsix> !kit wood ",
@@ -101,7 +87,21 @@
     "[21:06] [8b8t] >> Request sent to larpsix",
     "[21:06] [8b8t] >> Teleporting...",
     "[21:06] <Sxbz23> !kit ",
-    "[21:06] To Sxbz23: Hello Sxbz23!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[21:06] To Sxbz23: Hello Sxbz23!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[21:06] [8b8t] >> You have killed yourself!",
+    "[21:06] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[21:06] <Sxbz23> !kit Toolbox ",
+    "[21:06] To Sxbz23: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:06] <DeadKiller1610> !kit pvp ",
+    "[21:06] [8b8t] >> Teleporting to home 0...",
+    "[21:06] [8b8t] >> Teleporting to home 1...",
+    "[21:06] To DeadKiller1610: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:06] To DeadKiller1610: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:06] <Sxbz23> !kit Toolbox ",
+    "[21:06] To Sxbz23: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:06] [8b8t] >> Request sent to DeadKiller1610",
+    "[21:06] inksanspwas has made the advancement [Stone Age]"
   ],
   "userStats": {
     "76756": 38,
@@ -3435,12 +3435,13 @@
     "poopman2": 7,
     "ulises2010f": 1,
     "0_HeinBot.": 11,
-    "BeTiRaN700": 3
+    "BeTiRaN700": 3,
+    "DeadKiller1610": 1
   },
   "kitStats": {
     "build": 1660,
     "survival": 6611,
-    "pvp": 8481,
+    "pvp": 8482,
     "dupe": 2312,
     "tools": 1929,
     "stash": 1169,
