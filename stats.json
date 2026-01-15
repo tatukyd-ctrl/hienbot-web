@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:41:24 15/1/2026",
+  "lastUpdated": "12:41:54 15/1/2026",
   "totalKits": 87507,
   "todayKits": 214,
-  "onlineCount": 20,
+  "onlineCount": 19,
   "peakPlayers": 56,
-  "tps": "3.0",
-  "ping": 245,
+  "tps": "8.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6511
+      "count": 6512
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:33] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[05:33] <MrPinkEye> !kit ",
-    "[05:33] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:34] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:34] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[05:34] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[05:35] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[05:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:35] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[05:36] [BOT] <0_HienBot> >Type !discord ",
     "[05:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:36] <serious34> !kit ",
@@ -101,7 +92,16 @@
     "[05:40] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[05:40] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[05:41] <ElTenshi2> ¡kit survival ",
-    "[05:41] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[05:41] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[05:41] <ElTenshi2> !kit survival ",
+    "[05:41] [8b8t] >> Teleporting to home 0...",
+    "[05:41] [8b8t] >> Teleporting to home 1...",
+    "[05:41] To ElTenshi2: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:41] To ElTenshi2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:41] [8b8t] >> Request sent to ElTenshi2",
+    "[05:41] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[05:41] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[05:41] <ElTenshi2> uta "
   ],
   "userStats": {
     "76756": 38,
@@ -3395,11 +3395,12 @@
     "meewpqwe": 1,
     "PIpe999": 1,
     "EclypsitoYT": 1,
-    "heberro223": 2
+    "heberro223": 2,
+    "ElTenshi2": 1
   },
   "kitStats": {
     "build": 1634,
-    "survival": 6511,
+    "survival": 6512,
     "pvp": 8312,
     "dupe": 2276,
     "tools": 1906,
