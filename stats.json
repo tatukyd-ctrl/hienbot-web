@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:50:32 16/1/2026",
-  "totalKits": 87988,
-  "todayKits": 174,
-  "onlineCount": 33,
+  "lastUpdated": "03:50:55 16/1/2026",
+  "totalKits": 87989,
+  "todayKits": 175,
+  "onlineCount": 32,
   "peakPlayers": 42,
   "tps": "2.0",
   "ping": 254,
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1659
+      "count": 1660
     }
   ],
   "chatLog": [
-    "[20:48] [BOT] <0_HienBot> >Type !discord ",
-    "[20:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:48] [Pro+] <lvashl> bye bye stash ",
-    "[20:48] [Pro] <⛩ᏗᏒᏁᎧ⛏> give ur stash to me ",
-    "[20:48] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[20:48] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[20:48] [Ultra] <focoloa> hm ",
-    "[20:48] cristiantty has made the advancement [We Need to Go Deeper]",
     "[20:49] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[20:49] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[20:49] [Ultra] <KurtzMC> 253 338 ",
@@ -101,7 +93,15 @@
     "[20:50] <tabanoss> !kit exp ",
     "[20:50] To tabanoss: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:50] [8b8t] >> Teleporting...",
-    "[20:50] [8b8t] >> You have killed yourself!"
+    "[20:50] [8b8t] >> You have killed yourself!",
+    "[20:50] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[20:50] <larpsix> !kit build ",
+    "[20:50] [8b8t] >> Teleporting to home 0...",
+    "[20:50] [8b8t] >> Home 2 was not found",
+    "[20:50] To larpsix: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:50] To larpsix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:50] [8b8t] >> Request sent to larpsix",
+    "[20:50] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3421,7 +3421,7 @@
     "Shardstone": 8,
     "Cemx14x": 2,
     "iwpo": 8,
-    "larpsix": 7,
+    "larpsix": 8,
     "t2zy": 2,
     "muritomi": 4,
     "noletrr": 1,
@@ -3438,7 +3438,7 @@
     "BeTiRaN700": 3
   },
   "kitStats": {
-    "build": 1659,
+    "build": 1660,
     "survival": 6611,
     "pvp": 8481,
     "dupe": 2312,
