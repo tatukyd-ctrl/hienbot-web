@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:21:24 15/1/2026",
+  "lastUpdated": "16:21:54 15/1/2026",
   "totalKits": 87601,
   "todayKits": 308,
-  "onlineCount": 17,
+  "onlineCount": 16,
   "peakPlayers": 56,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 274,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6538
+      "count": 6539
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:20] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[09:20] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[09:20] <Rich_miner> !kit pvp ",
-    "[09:20] [8b8t] >> Teleporting to home 0...",
-    "[09:20] [8b8t] >> Teleporting to home 1...",
-    "[09:20] To Rich_miner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:20] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:20] [8b8t] >> Voldaren26 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[09:20] <Rich_miner> !kit pvp ",
     "[09:20] To Rich_miner: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:20] [8b8t] >> Request sent to Rich_miner",
     "[09:20] <DrVenial31> tpa pvp ",
@@ -101,7 +92,16 @@
     "[09:21] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[09:21] <Rich_miner> !kit pvp ",
     "[09:21] To Rich_miner: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:21] [8b8t] >> You have killed yourself!"
+    "[09:21] [8b8t] >> You have killed yourself!",
+    "[09:21] <zenciseven31776> !kit survival ",
+    "[09:21] [8b8t] >> Teleporting to home 0...",
+    "[09:21] [8b8t] >> Teleporting to home 1...",
+    "[09:21] To zenciseven31776: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[09:21] To zenciseven31776: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:21] <Rich_miner> !!kit survival ",
+    "[09:21] [8b8t] >> Request sent to zenciseven31776",
+    "[09:21] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
   ],
   "userStats": {
     "76756": 38,
@@ -3403,11 +3403,11 @@
     ".Kalvinou8079": 1,
     "sdlgtumami": 4,
     "Voldaren26": 11,
-    "zenciseven31776": 2
+    "zenciseven31776": 3
   },
   "kitStats": {
     "build": 1639,
-    "survival": 6538,
+    "survival": 6539,
     "pvp": 8335,
     "dupe": 2283,
     "tools": 1911,
