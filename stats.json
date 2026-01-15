@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:04:02 16/1/2026",
+  "lastUpdated": "02:04:32 16/1/2026",
   "totalKits": 87905,
   "todayKits": 91,
   "onlineCount": 32,
   "peakPlayers": 42,
   "tps": "2.0",
-  "ping": 254,
+  "ping": 252,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8435
+      "count": 8436
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:01] <_Lumora_> !kit pvp ",
-    "[19:01] [8b8t] >> Teleporting to home 0...",
-    "[19:01] [8b8t] >> Teleporting to home 1...",
-    "[19:01] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:01] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:01] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[19:01] [8b8t] >> Request sent to _Lumora_",
     "[19:01] <larpsix> !kit builder ",
     "[19:01] To larpsix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:01] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
@@ -101,7 +94,14 @@
     "[19:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[19:03] <LittleRed964> i spawned underground ",
     "[19:03] <LittleRed964> !bestping ",
-    "[19:03] To LittleRed964: asciicat with 66 ms. Dont forget to join dsc.gg/hienbot"
+    "[19:03] To LittleRed964: asciicat with 66 ms. Dont forget to join dsc.gg/hienbot",
+    "[19:04] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[19:04] <_Lumora_> !kit pvp ",
+    "[19:04] [8b8t] >> Teleporting to home 0...",
+    "[19:04] [8b8t] >> Teleporting to home 1...",
+    "[19:04] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:04] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:04] [8b8t] >> Request sent to _Lumora_"
   ],
   "userStats": {
     "76756": 38,
@@ -3429,12 +3429,12 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 1,
-    "_Lumora_": 2
+    "_Lumora_": 3
   },
   "kitStats": {
     "build": 1656,
     "survival": 6605,
-    "pvp": 8435,
+    "pvp": 8436,
     "dupe": 2305,
     "tools": 1924,
     "stash": 1164,
