@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:07:54 15/1/2026",
+  "lastUpdated": "12:08:24 15/1/2026",
   "totalKits": 87500,
   "todayKits": 207,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 56,
-  "tps": "9.0",
-  "ping": 255,
+  "tps": "7.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2274
+      "count": 2275
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:03] [8b8t] >> Teleporting...",
-    "[05:03] [8b8t] >> Please do not spam.",
-    "[05:03] [8b8t] >> You have killed yourself!",
-    "[05:03] <MrPinkEye> !kit ",
-    "[05:03] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[05:04] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[05:04] <heberro223> hola ",
     "[05:04] [8b8t] >> Please do not spam.",
     "[05:04] <sofixddd> ola ",
@@ -101,7 +94,14 @@
     "[05:07] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[05:07] <heberro223> wtf ",
     "[05:07] <sofixddd> esta dificil ",
-    "[05:07] [BOT] <0_HienBot> >Try !кιт survival "
+    "[05:07] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[05:07] <heberro223> !kit dupe ",
+    "[05:07] [8b8t] >> Teleporting to home 0...",
+    "[05:08] [8b8t] >> Teleporting to home 7...",
+    "[05:08] To heberro223: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:08] To heberro223: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:08] [8b8t] >> Request sent to heberro223",
+    "[05:08] [BOT] <0_HienBot> >Hmmmmmmmmm "
   ],
   "userStats": {
     "76756": 38,
@@ -3394,13 +3394,14 @@
     "_Iwss": 1,
     "meewpqwe": 1,
     "PIpe999": 1,
-    "EclypsitoYT": 1
+    "EclypsitoYT": 1,
+    "heberro223": 1
   },
   "kitStats": {
     "build": 1634,
     "survival": 6510,
     "pvp": 8310,
-    "dupe": 2274,
+    "dupe": 2275,
     "tools": 1905,
     "stash": 1153,
     "raid": 1356,
