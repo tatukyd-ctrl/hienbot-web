@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:16:23 15/1/2026",
-  "totalKits": 87324,
-  "todayKits": 31,
+  "lastUpdated": "08:16:42 15/1/2026",
+  "totalKits": 87325,
+  "todayKits": 32,
   "onlineCount": 26,
   "peakPlayers": 56,
-  "tps": "6.0",
+  "tps": "2.0",
   "ping": 272,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8255
+      "count": 8256
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:14] [8b8t] >> You have killed yourself!",
-    "[01:14] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[01:15] <MilangaOxi> !kit elytras ",
-    "[01:15] [8b8t] >> Teleporting to home 0...",
-    "[01:15] [8b8t] >> Teleporting to home 3...",
-    "[01:15] To MilangaOxi: Kit \"elytras\" not found! Giving you (wood) instead! dsc.gg/hienbot",
-    "[01:15] To MilangaOxi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:15] <MilangaOxi> da ",
-    "[01:15] [8b8t] >> Request sent to MilangaOxi",
     "[01:15] [8b8t] >> Teleporting...",
     "[01:15] [8b8t] >> The TPA request you received from ParaCraftero has expired.",
     "[01:15] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[01:16] [8b8t] >> Teleporting...",
     "[01:16] [BOT] <0_HienBot> >Welcome to 8b8t, matimix300! ",
     "[01:16] <Manteiga_Gg8> ! ",
-    "[01:16] [8b8t] >> You have killed yourself!"
+    "[01:16] [8b8t] >> You have killed yourself!",
+    "[01:16] <ParaCraftero> !kit minerals ",
+    "[01:16] [8b8t] >> Teleporting to home 0...",
+    "[01:16] [8b8t] >> Teleporting to home 1...",
+    "[01:16] To ParaCraftero: Kit \"minerals\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[01:16] To ParaCraftero: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:16] <ParaCraftero> !kit mineral ",
+    "[01:16] [8b8t] >> Request sent to ParaCraftero",
+    "[01:16] To ParaCraftero: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3074,7 +3074,7 @@
     "yiddhater586": 8,
     "joacote1209": 3,
     "el4lejoo0o_": 2,
-    "ParaCraftero": 35,
+    "ParaCraftero": 36,
     "goofpoof12": 2,
     "BlameTK": 1,
     "Aeriak64HD": 75,
@@ -3388,7 +3388,7 @@
   "kitStats": {
     "build": 1624,
     "survival": 6455,
-    "pvp": 8255,
+    "pvp": 8256,
     "dupe": 2261,
     "tools": 1900,
     "stash": 1150,
