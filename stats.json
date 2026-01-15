@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:20:45 16/1/2026",
+  "lastUpdated": "03:21:02 16/1/2026",
   "totalKits": 87960,
   "todayKits": 146,
   "onlineCount": 37,
   "peakPlayers": 42,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 271,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8471
+      "count": 8472
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:19] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:19] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[20:19] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:19] [8b8t] >> Request sent to _Lumora_",
     "[20:19] [8b8t] >> Teleporting...",
     "[20:19] <larpsix> !kit build ",
     "[20:19] To larpsix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[20:20] larpsix has made the advancement [A Terrible Fortress]",
     "[20:20] [8b8t] >> Request sent to larpsix",
     "[20:20] [8b8t] >> Teleporting...",
-    "[20:20] Chat disabled in client options"
+    "[20:20] Chat disabled in client options",
+    "[20:20] [8b8t] >> You have killed yourself!",
+    "[20:20] <larpsix> so many 0_HienBot larpers ",
+    "[20:21] <_Lumora_> !kit pvp ",
+    "[20:21] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3429,7 +3429,7 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 4,
-    "_Lumora_": 27,
+    "_Lumora_": 28,
     "REDSBLIN": 1,
     "Citadel": 2,
     "poopman2": 7,
@@ -3438,7 +3438,7 @@
   "kitStats": {
     "build": 1658,
     "survival": 6609,
-    "pvp": 8471,
+    "pvp": 8472,
     "dupe": 2311,
     "tools": 1925,
     "stash": 1169,
