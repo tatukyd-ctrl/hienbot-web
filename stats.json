@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:58:37 16/1/2026",
+  "lastUpdated": "01:59:02 16/1/2026",
   "totalKits": 87904,
   "todayKits": 90,
-  "onlineCount": 31,
+  "onlineCount": 33,
   "peakPlayers": 42,
-  "tps": "4.0",
-  "ping": 252,
+  "tps": "3.0",
+  "ping": 268,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6604
+      "count": 6605
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:56] [8b8t] >> Request sent to matitas292",
-    "[18:57] <CommonHat> quien habla españolll ",
-    "[18:57] <REDSBLIN> yo ",
-    "[18:57] [8b8t] >> Please do not spam.",
-    "[18:57] <REDSBLIN> ayudame ",
-    "[18:57] <CommonHat> wenas ",
-    "[18:57] <CommonHat> okey ",
     "[18:57] <CommonHat> q necesitas ? ",
     "[18:57] [8b8t] >> You have killed yourself!",
     "[18:57] [8b8t] >> The TPA request you sent to matitas292 was successfully canceled.",
@@ -101,7 +94,14 @@
     "[18:58] [8b8t] >> Request sent to TheRealDrDonut",
     "[18:58] [8b8t] >> Teleporting...",
     "[18:58] <matitas292> !kit survival ",
-    "[18:58] To matitas292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[18:58] To matitas292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[18:58] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[18:58] [8b8t] >> You have killed yourself!",
+    "[18:59] <matitas292> !kit survival ",
+    "[18:59] TheRealDrDonut Whispers: !kit dupe",
+    "[18:59] To TheRealDrDonut: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:59] [8b8t] >> Teleporting to home 1...",
+    "[18:59] To matitas292: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3427,12 +3427,12 @@
     "noletrr": 1,
     "rossikkjj": 1,
     "vmariofakegg": 1,
-    "matitas292": 5,
+    "matitas292": 6,
     "TheRealDrDonut": 1
   },
   "kitStats": {
     "build": 1656,
-    "survival": 6604,
+    "survival": 6605,
     "pvp": 8433,
     "dupe": 2305,
     "tools": 1924,
