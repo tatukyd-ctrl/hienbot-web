@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:31:02 16/1/2026",
+  "lastUpdated": "05:31:32 16/1/2026",
   "totalKits": 88020,
   "todayKits": 206,
-  "onlineCount": 30,
+  "onlineCount": 28,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 257,
+  "tps": "2.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8493
+      "count": 8494
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:28] [8b8t] >> Request sent to .End3r3876",
-    "[22:28] [8b8t] >> Teleporting...",
-    "[22:29] [8b8t] >> You have killed yourself!",
-    "[22:29] <CallenBam> !kit armortrims ",
-    "[22:29] [8b8t] >> Teleporting to home 0...",
-    "[22:29] [8b8t] >> Teleporting to home 7...",
-    "[22:29] To CallenBam: Your kit (armortrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:29] To CallenBam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:29] [8b8t] >> Request sent to CallenBam",
-    "[22:29] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[22:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[22:29] [Basic] <PorotoCosmico> como se hace emote ",
     "[22:29] [8b8t] >> Teleporting...",
     "[22:29] [8b8t] >> You have killed yourself!",
     "[22:29] [Basic] <PorotoCosmico> que le pasaba JAJAJJ ",
@@ -101,7 +89,19 @@
     "[22:30] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[22:30] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[22:30] <xxx_osolord_xxx> esta atrapado en medio de piedra ",
-    "[22:30] <WenlerMaster> esta obsi de abajo v: "
+    "[22:30] <WenlerMaster> esta obsi de abajo v: ",
+    "[22:31] CallenBam has completed the challenge [Cover Me in Debris]",
+    "[22:31] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[22:31] [Basic] <PorotoCosmico> a ya ",
+    "[22:31] <WenlerMaster> ahh es que se acaba el materiales del puente, y el bot asi lo busca para no botar el shulker ",
+    "[22:31] <WenlerMaster> xd ",
+    "[22:31] <Valoma20142000> !kit pvp ",
+    "[22:31] CallenBam has made the advancement [Crafting a New Look]",
+    "[22:31] [8b8t] >> Teleporting to home 0...",
+    "[22:31] [8b8t] >> Teleporting to home 1...",
+    "[22:31] To Valoma20142000: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:31] To Valoma20142000: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:31] [8b8t] >> Request sent to Valoma20142000"
   ],
   "userStats": {
     "76756": 38,
@@ -3442,12 +3442,13 @@
     "closepvp": 1,
     ".End3r3876": 12,
     "tirex548": 2,
-    "CallenBam": 8
+    "CallenBam": 8,
+    "Valoma20142000": 1
   },
   "kitStats": {
     "build": 1661,
     "survival": 6622,
-    "pvp": 8493,
+    "pvp": 8494,
     "dupe": 2313,
     "tools": 1929,
     "stash": 1170,
