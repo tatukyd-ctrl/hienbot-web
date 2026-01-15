@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:45:33 15/1/2026",
-  "totalKits": 87672,
-  "todayKits": 7,
+  "lastUpdated": "19:45:43 15/1/2026",
+  "totalKits": 87673,
+  "todayKits": 8,
   "onlineCount": 15,
   "peakPlayers": 15,
   "tps": "8.0",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8350
+      "count": 8351
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:43] <leeChung> !kit cpvp ",
-    "[12:43] [8b8t] >> Teleporting to home 1...",
-    "[12:43] To leeChung: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:43] To brojsutgame: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:43] To brojsutgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:43] [8b8t] >> Request sent to brojsutgame",
-    "[12:43] <leeChung> !kit cpvp ",
-    "[12:43] To leeChung: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:43] <leeChung> !kit cpvp ",
     "[12:43] To leeChung: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:43] [8b8t] >> Teleporting...",
     "[12:44] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[12:45] [BOT] <0_HienBot> >Type !discord ",
     "[12:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:45] <leeChung> !kit cpvp ",
-    "[12:45] To leeChung: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot"
+    "[12:45] To leeChung: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:45] <leeChung> !kit cpvp ",
+    "[12:45] [8b8t] >> Teleporting to home 0...",
+    "[12:45] [8b8t] >> Teleporting to home 1...",
+    "[12:45] To leeChung: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:45] To leeChung: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:45] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[12:45] [8b8t] >> Request sent to leeChung",
+    "[12:45] [8b8t] >> Teleporting...",
+    "[12:45] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3410,12 +3410,12 @@
     "SweetiePieeee__": 2,
     "Jamjox": 1,
     "_Hien2309_": 1,
-    "leeChung": 2
+    "leeChung": 3
   },
   "kitStats": {
     "build": 1639,
     "survival": 6560,
-    "pvp": 8350,
+    "pvp": 8351,
     "dupe": 2286,
     "tools": 1916,
     "stash": 1158,
