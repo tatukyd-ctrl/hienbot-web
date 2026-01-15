@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:33:54 15/1/2026",
+  "lastUpdated": "13:34:24 15/1/2026",
   "totalKits": 87514,
   "todayKits": 221,
   "onlineCount": 19,
   "peakPlayers": 56,
-  "tps": "5.0",
-  "ping": 251,
+  "tps": "7.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,24 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1634
+      "count": 1635
     }
   ],
   "chatLog": [
-    "[06:28] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:29] <xxx_osolord_xxx> sin ",
-    "[06:29] <noobmaster96> dame xp pls ",
-    "[06:29] <xxx_osolord_xxx> con digo ",
-    "[06:29] <noobmaster96> okey ",
-    "[06:29] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[06:29] ",
-    "[06:29] [8b8t] >> Restarting in 30m!",
-    "[06:29] ",
-    "[06:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:29] <Tiago1812> xd ",
-    "[06:29] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[06:29] <xxx_osolord_xxx> dale vamos ",
-    "[06:30] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[06:30] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[06:30] <Tiago1812> agan pvp en /pvp ",
     "[06:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +87,21 @@
     "[06:32] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:32] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[06:33] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[06:33] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
+    "[06:33] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[06:33] <HighwayCleaner> !kit build ",
+    "[06:33] [8b8t] >> Teleporting to home 0...",
+    "[06:33] [8b8t] >> Home 2 was not found",
+    "[06:33] To HighwayCleaner: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:33] To HighwayCleaner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:33] [8b8t] >> You already have a pending request",
+    "[06:33] <MrPinkEye> !kit ",
+    "[06:33] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[06:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[06:34] <HighwayCleaner> !kit build ",
+    "[06:34] To HighwayCleaner: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:34] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[06:34] <HighwayCleaner> !kit build ",
+    "[06:34] To HighwayCleaner: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2439,7 +2439,7 @@
     "Alesito_Cotton": 1,
     "Axintar09": 1,
     "caquitarara132": 1,
-    "HighwayCleaner": 23,
+    "HighwayCleaner": 24,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 29,
     "Flame_xz": 21,
@@ -3400,7 +3400,7 @@
     "Repeat": 2
   },
   "kitStats": {
-    "build": 1634,
+    "build": 1635,
     "survival": 6514,
     "pvp": 8317,
     "dupe": 2277,
