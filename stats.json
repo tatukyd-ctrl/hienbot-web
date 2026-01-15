@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:51:24 15/1/2026",
+  "lastUpdated": "18:51:54 15/1/2026",
   "totalKits": 87663,
   "todayKits": 370,
-  "onlineCount": 11,
+  "onlineCount": 12,
   "peakPlayers": 56,
-  "tps": "14.0",
-  "ping": 286,
+  "tps": "12.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:49] To SweetiePieeee__: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:49] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[11:49] To SweetiePieeee__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:49] [8b8t] >> Request sent to SweetiePieeee__",
-    "[11:50] [8b8t] >> Teleporting...",
-    "[11:50] [8b8t] >> You have killed yourself!",
-    "[11:50] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[11:50] <botchaosonix> !kit survival ",
-    "[11:50] [8b8t] >> Teleporting to home 0...",
-    "[11:50] [8b8t] >> Teleporting to home 1...",
     "[11:50] To botchaosonix: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:50] To botchaosonix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:50] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
@@ -101,7 +91,17 @@
     "[11:50] [8b8t] >> Teleporting...",
     "[11:50] MMartiAras1945 has made the advancement [Stone Age]",
     "[11:51] [8b8t] >> You have killed yourself!",
-    "[11:51] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[11:51] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[11:51] <SweetiePieeee__> !kit survuval ",
+    "[11:51] [8b8t] >> Teleporting to home 0...",
+    "[11:51] [8b8t] >> Home 2 was not found",
+    "[11:51] To SweetiePieeee__: Kit \"survuval\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[11:51] To SweetiePieeee__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:51] [8b8t] >> Request sent to SweetiePieeee__",
+    "[11:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[11:51] <SweetiePieeee__> !kit survival ",
+    "[11:51] To SweetiePieeee__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:51] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars "
   ],
   "userStats": {
     "76756": 38,
@@ -3407,7 +3407,7 @@
     "Manteca_Prime": 1,
     "LaParka_239": 3,
     "brojsutgame": 5,
-    "SweetiePieeee__": 1
+    "SweetiePieeee__": 2
   },
   "kitStats": {
     "build": 1639,
@@ -3415,7 +3415,7 @@
     "pvp": 8346,
     "dupe": 2286,
     "tools": 1916,
-    "stash": 1157,
+    "stash": 1158,
     "raid": 1366,
     "wood": 556,
     "exp": 777,
