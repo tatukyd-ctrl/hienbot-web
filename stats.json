@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:53:02 16/1/2026",
+  "lastUpdated": "04:53:32 16/1/2026",
   "totalKits": 87999,
   "todayKits": 185,
   "onlineCount": 31,
   "peakPlayers": 42,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 262,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6616
+      "count": 6617
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:50] [8b8t] >> Teleporting to home 0...",
-    "[21:50] [8b8t] >> Teleporting to home 1...",
-    "[21:50] To .End3r3876: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:50] [BOT] <0_HienBot> >Hello Sxbz23! ",
-    "[21:50] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[21:50] To .End3r3876: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:50] [8b8t] >> Request sent to .End3r3876",
-    "[21:50] [BOT] <0_HienBot> >Hello Leeewiith3Es! ",
-    "[21:50] [8b8t] >> You have killed yourself!",
-    "[21:50] [8b8t] >> The TPA request you sent to .End3r3876 was successfully canceled.",
     "[21:51] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[21:51] <.End3r3876> This doesnt make sense can you help out? ",
     "[21:51] <tirex548> !kit ",
@@ -101,7 +91,17 @@
     "[21:52] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[21:52] [8b8t] >> You have killed yourself!",
     "[21:52] [8b8t] >> The TPA request you sent to .End3r3876 was successfully canceled.",
-    "[21:52] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[21:52] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[21:53] <.End3r3876> !kit survival ",
+    "[21:53] To .End3r3876: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:53] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
+    "[21:53] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:53] <.End3r3876> !kit survival ",
+    "[21:53] To .End3r3876: You're on cooldown, try again in 9 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:53] <.End3r3876> !kit survival ",
+    "[21:53] [8b8t] >> Teleporting to home 0...",
+    "[21:53] [8b8t] >> Teleporting to home 1...",
+    "[21:53] To .End3r3876: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3440,11 +3440,11 @@
     "jjgg2003": 1,
     "EzequielCre": 2,
     "closepvp": 1,
-    ".End3r3876": 3
+    ".End3r3876": 4
   },
   "kitStats": {
     "build": 1660,
-    "survival": 6616,
+    "survival": 6617,
     "pvp": 8484,
     "dupe": 2313,
     "tools": 1929,
