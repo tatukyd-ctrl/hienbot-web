@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:49:53 15/1/2026",
+  "lastUpdated": "08:50:23 15/1/2026",
   "totalKits": 87340,
   "todayKits": 47,
   "onlineCount": 24,
   "peakPlayers": 56,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 266,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8259
+      "count": 8260
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:47] [8b8t] >> Request sent to lvashl",
-    "[01:47] [8b8t] >> Teleporting...",
     "[01:47] <MilangaOxi> cp de burro ",
     "[01:47] [8b8t] >> Please do not spam.",
     "[01:47] [8b8t] >> You have killed yourself!",
@@ -101,7 +99,9 @@
     "[01:49] <MilangaOxi> depende el tipo d dupe d lo q se ",
     "[01:49] [Pro+] <lvashl> para el dupe actual de burro no necesitas nada ",
     "[01:49] [8b8t] >> You have killed yourself!",
-    "[01:49] [BOT] <0_HienBot> >Hey MonkeBot! "
+    "[01:49] [BOT] <0_HienBot> >Hey MonkeBot! ",
+    "[01:49] <fdsadsadoasnmdas> estoy usando el de hielo y bote ",
+    "[01:50] <beary__> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -1628,7 +1628,7 @@
     "ghcq": 5,
     "Mistc_": 1,
     "stromMC": 1,
-    "beary__": 40,
+    "beary__": 41,
     "ZzElCruzZ": 53,
     "Dragoon": 1,
     "Onibi_Kui": 12,
@@ -3390,7 +3390,7 @@
   "kitStats": {
     "build": 1624,
     "survival": 6456,
-    "pvp": 8259,
+    "pvp": 8260,
     "dupe": 2262,
     "tools": 1901,
     "stash": 1151,
