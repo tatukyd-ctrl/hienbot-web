@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:28:54 15/1/2026",
-  "totalKits": 87528,
-  "todayKits": 235,
+  "lastUpdated": "14:29:24 15/1/2026",
+  "totalKits": 87529,
+  "todayKits": 236,
   "onlineCount": 13,
   "peakPlayers": 56,
-  "tps": "12.0",
-  "ping": 352,
+  "tps": "10.0",
+  "ping": 269,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6519
+      "count": 6520
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:26] <Rich_miner> !kit elytra ",
-    "[07:26] To Rich_miner: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:26] [8b8t] >> Teleporting...",
-    "[07:26] [8b8t] >> You have killed yourself!",
-    "[07:26] <Rich_miner> !kit elytra ",
-    "[07:26] [8b8t] >> Teleporting to home 0...",
-    "[07:26] [8b8t] >> Teleporting to home 6...",
-    "[07:26] To Rich_miner: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:27] <ROHAN> !kit survival ",
     "[07:27] To ROHAN: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:27] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:27] [8b8t] >> Request sent to Rich_miner",
@@ -101,7 +92,16 @@
     "[07:28] <ROHAN> !kit survival ",
     "[07:28] To ROHAN: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:28] ROHAN has made the advancement [Not Quite \"Nine\" Lives]",
-    "[07:28] [BOT] <0_HienBot> >Do you want kit? Type !кιт "
+    "[07:28] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[07:29] <ROHAN> !kit survival ",
+    "[07:29] [8b8t] >> Teleporting to home 0...",
+    "[07:29] [8b8t] >> Teleporting to home 1...",
+    "[07:29] To ROHAN: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[07:29] To ROHAN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:29] [8b8t] >> Request sent to ROHAN",
+    "[07:29] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[07:29] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3365,7 +3365,7 @@
     "tabanoss": 11,
     ".FolkSaucer9241": 1,
     "Elmasperron6885": 1,
-    "ROHAN": 10,
+    "ROHAN": 11,
     "JJplayerUD": 1,
     "Sotelldo": 2,
     "plag4xxx": 12,
@@ -3402,7 +3402,7 @@
   },
   "kitStats": {
     "build": 1635,
-    "survival": 6519,
+    "survival": 6520,
     "pvp": 8322,
     "dupe": 2277,
     "tools": 1906,
