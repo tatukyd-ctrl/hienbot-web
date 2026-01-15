@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:16:02 16/1/2026",
+  "lastUpdated": "03:16:32 16/1/2026",
   "totalKits": 87955,
   "todayKits": 141,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 42,
-  "tps": "5.0",
-  "ping": 256,
+  "tps": "2.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8468
+      "count": 8469
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:13] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[20:13] <ASneakySenior> !kit carpet ",
-    "[20:13] ASneakySenior is ignoring you",
-    "[20:14] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[20:14] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[20:14] <_Lumora_> !kit pvp ",
-    "[20:14] [8b8t] >> Teleporting to home 0...",
-    "[20:14] [8b8t] >> Teleporting to home 1...",
-    "[20:14] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[20:14] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:14] [8b8t] >> Request sent to _Lumora_",
     "[20:14] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[20:15] ASneakySenior is ignoring you",
     "[20:15] [8b8t] >> Request sent to ASneakySenior",
     "[20:15] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[20:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[20:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:16] [8b8t] >> You have killed yourself!",
+    "[20:16] [8b8t] >> The TPA request you sent to ASneakySenior was successfully canceled.",
+    "[20:16] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[20:16] <_Lumora_> !kit pvp ",
+    "[20:16] [8b8t] >> Teleporting to home 0...",
+    "[20:16] [8b8t] >> Teleporting to home 1...",
+    "[20:16] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:16] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:16] [8b8t] >> Request sent to _Lumora_"
   ],
   "userStats": {
     "76756": 38,
@@ -3429,7 +3429,7 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 4,
-    "_Lumora_": 25,
+    "_Lumora_": 26,
     "REDSBLIN": 1,
     "Citadel": 2,
     "poopman2": 7
@@ -3437,7 +3437,7 @@
   "kitStats": {
     "build": 1658,
     "survival": 6609,
-    "pvp": 8468,
+    "pvp": 8469,
     "dupe": 2310,
     "tools": 1925,
     "stash": 1169,
