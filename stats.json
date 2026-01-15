@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:21:22 15/1/2026",
-  "totalKits": 87562,
-  "todayKits": 269,
-  "onlineCount": 19,
+  "lastUpdated": "15:21:37 15/1/2026",
+  "totalKits": 87563,
+  "todayKits": 270,
+  "onlineCount": 18,
   "peakPlayers": 56,
-  "tps": "10.0",
-  "ping": 277,
+  "tps": "8.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,20 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1638
+      "count": 1639
     }
   ],
   "chatLog": [
-    "[08:20] <ROHAN> !kit food ",
-    "[08:20] [8b8t] >> Teleporting to home 0...",
-    "[08:20] [8b8t] >> Teleporting to home 4...",
-    "[08:20] To ROHAN: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:20] To ROHAN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:20] [8b8t] >> Request sent to ROHAN",
-    "[08:20] <kagankii> !kit ",
-    "[08:20] [8b8t] >> Teleporting...",
-    "[08:20] Chat disabled in client options",
-    "[08:20] [BOT] <0_HienBot> >Welcome to 8b8t, kagankii! ",
     "[08:20] [8b8t] >> You have killed yourself!",
     "[08:20] <kagankii> !kit ",
     "[08:20] To kagankii: Hello kagankii!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[08:21] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[08:21] <kagankii> !kit raid ",
     "[08:21] [8b8t] >> Teleporting...",
-    "[08:21] To kagankii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[08:21] To kagankii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:21] [8b8t] >> You have killed yourself!",
+    "[08:21] <Sxbz23> !kit build ",
+    "[08:21] [8b8t] >> Teleporting to home 0...",
+    "[08:21] [8b8t] >> Home 2 was not found",
+    "[08:21] To Sxbz23: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:21] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:21] [8b8t] >> Request sent to Sxbz23",
+    "[08:21] [8b8t] >> Teleporting...",
+    "[08:21] <ROHAN> !kit ",
+    "[08:21] To ROHAN: Hello ROHAN!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3282,7 +3282,7 @@
     "Berserk_42": 1,
     "TeddyR1p": 2,
     "PrismarineBricks": 1,
-    "Sxbz23": 43,
+    "Sxbz23": 44,
     "r081ns": 2,
     ".ushina1": 1,
     "Thiagoelpro8925": 10,
@@ -3403,7 +3403,7 @@
     ".Kalvinou8079": 1
   },
   "kitStats": {
-    "build": 1638,
+    "build": 1639,
     "survival": 6530,
     "pvp": 8328,
     "dupe": 2281,
