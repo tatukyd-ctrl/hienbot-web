@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:53:24 16/1/2026",
+  "lastUpdated": "02:53:32 16/1/2026",
   "totalKits": 87941,
   "todayKits": 127,
   "onlineCount": 38,
   "peakPlayers": 42,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 271,
   "topUsers": [
     {
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:52] Psych0_ Whispers: !kit PVP",
-    "[19:52] [8b8t] >> Teleporting to home 0...",
-    "[19:52] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[19:52] [8b8t] >> Teleporting to home 1...",
     "[19:52] To Psych0_: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[19:52] To Psych0_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +98,10 @@
     "[19:53] [8b8t] >> Request sent to _Lumora_",
     "[19:53] [8b8t] >> Teleporting...",
     "[19:53] <.Olm3053> !kit 67 ",
-    "[19:53] To .Olm3053: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[19:53] To .Olm3053: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:53] [8b8t] >> You have killed yourself!",
+    "[19:53] <Ascalito> !kit 67 ",
+    "[19:53] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2288,7 +2288,7 @@
     "SoFiUwW8": 2,
     "niggabones": 1,
     "deantheneek": 23,
-    "Ascalito": 73,
+    "Ascalito": 74,
     "agartha_citizen": 2,
     "AdustCloud3179": 27,
     "Copetingo": 10,
@@ -3455,7 +3455,7 @@
     "terracotta": 129,
     "end": 711,
     "armortrims": 565,
-    "highway": 632,
+    "highway": 633,
     "ocean": 164,
     "concrete": 398,
     "glass": 320,
