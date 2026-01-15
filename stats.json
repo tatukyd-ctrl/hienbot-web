@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:35:54 15/1/2026",
+  "lastUpdated": "14:36:24 15/1/2026",
   "totalKits": 87533,
   "todayKits": 240,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 56,
-  "tps": "10.0",
-  "ping": 308,
+  "tps": "11.0",
+  "ping": 270,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:33] [8b8t] >> Teleporting...",
-    "[07:34] [8b8t] >> You have killed yourself!",
-    "[07:34] <1976ASF1GG> .clickgui ",
-    "[07:34] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[07:34] <osmankral123123> nah only have 1 stack ",
-    "[07:34] <Rich_miner> !kit survival ",
-    "[07:34] [8b8t] >> Teleporting to home 0...",
-    "[07:34] [8b8t] >> Teleporting to home 1...",
-    "[07:34] To Rich_miner: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:34] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:34] [8b8t] >> Request sent to Rich_miner",
     "[07:34] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[07:35] [8b8t] >> Teleporting...",
     "[07:35] [8b8t] >> You have killed yourself!",
     "[07:35] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[07:35] <osmankral123123> the bot has illegal kit but i cant get it "
+    "[07:35] <osmankral123123> the bot has illegal kit but i cant get it ",
+    "[07:36] <Rich_miner> !kit ",
+    "[07:36] To Rich_miner: Hello Rich_miner!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[07:36] <fjgjfjfdd> !kit ",
+    "[07:36] To fjgjfjfdd: Hello fjgjfjfdd!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[07:36] <Rich_miner> !kit dupe ",
+    "[07:36] To Rich_miner: You're on cooldown, try again in 23 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:36] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[07:36] <fjgjfjfdd> !kit food ",
+    "[07:36] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3398,7 +3398,8 @@
     "heberro223": 2,
     "ElTenshi2": 2,
     "Repeat": 2,
-    "asciicat": 1
+    "asciicat": 1,
+    "fjgjfjfdd": 1
   },
   "kitStats": {
     "build": 1637,
@@ -3413,7 +3414,7 @@
     "dye": 341,
     "wool": 460,
     "mineral": 580,
-    "food": 518,
+    "food": 519,
     "redstone": 817,
     "toolbox": 752,
     "quartz": 316,
