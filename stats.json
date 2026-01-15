@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:58:38 15/1/2026",
+  "lastUpdated": "22:59:08 15/1/2026",
   "totalKits": 87797,
   "todayKits": 11,
   "onlineCount": 32,
   "peakPlayers": 34,
-  "tps": "5.0",
-  "ping": 251,
+  "tps": "3.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8399
+      "count": 8400
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:56] <zorakito> !kit build ",
-    "[15:56] To zorakito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:56] <DrVenial31> oke pvp ? ",
-    "[15:56] To Shardstone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:56] [8b8t] >> Request sent to Shardstone",
-    "[15:56] <DrVenial31> go ",
-    "[15:57] [8b8t] >> Teleporting...",
-    "[15:57] <zorakito> !kit pvp ",
-    "[15:57] To zorakito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:57] <shark_hood> a ",
     "[15:57] [8b8t] >> You have killed yourself!",
     "[15:57] <Cemx14x> can i team with smwh? ",
@@ -101,7 +92,16 @@
     "[15:58] <DrVenial31> goooo ",
     "[15:58] <Cemx14x> !bestping ",
     "[15:58] To Cemx14x: ASneakySenior with 0 ms. Dont forget to join dsc.gg/hienbot",
-    "[15:58] <DrVenial31> go "
+    "[15:58] <DrVenial31> go ",
+    "[15:58] <DrVenial31> gg tp ",
+    "[15:58] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[15:58] <CommonHat> wow ",
+    "[15:58] <Cemx14x> !kit pvp ",
+    "[15:58] [8b8t] >> Teleporting to home 0...",
+    "[15:58] [8b8t] >> Teleporting to home 1...",
+    "[15:59] To Cemx14x: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:59] To Cemx14x: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:59] [8b8t] >> Request sent to Cemx14x"
   ],
   "userStats": {
     "76756": 38,
@@ -3418,12 +3418,13 @@
     "dragonkit2": 1,
     "kusursuz": 1,
     "NaorNewDay": 3,
-    "Shardstone": 4
+    "Shardstone": 4,
+    "Cemx14x": 1
   },
   "kitStats": {
     "build": 1652,
     "survival": 6583,
-    "pvp": 8399,
+    "pvp": 8400,
     "dupe": 2295,
     "tools": 1920,
     "stash": 1161,
