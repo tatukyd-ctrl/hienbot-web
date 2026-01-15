@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:51:24 15/1/2026",
+  "lastUpdated": "13:51:54 15/1/2026",
   "totalKits": 87517,
   "todayKits": 224,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 56,
-  "tps": "9.0",
+  "tps": "4.0",
   "ping": 251,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8317
+      "count": 8318
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:47] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[06:47] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:47] [BOT] <0_HienBot> >What's up, Leeewiith3Es? ",
-    "[06:48] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[06:48] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[06:48] <MrPinkEye> !kit ",
     "[06:48] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[06:51] [8b8t] >> HighwayCleaner would like to teleport to you /tpayes USERNAME /tpano USERNAME",
     "[06:51] [BOT] <0_HienBot> >Type !discord ",
     "[06:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:51] [8b8t] >> Teleporting..."
+    "[06:51] [8b8t] >> Teleporting...",
+    "[06:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[06:51] <ROHAN> !kit pvp ",
+    "[06:51] [8b8t] >> Teleporting to home 0...",
+    "[06:51] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3365,7 +3365,7 @@
     "tabanoss": 11,
     ".FolkSaucer9241": 1,
     "Elmasperron6885": 1,
-    "ROHAN": 4,
+    "ROHAN": 5,
     "JJplayerUD": 1,
     "Sotelldo": 2,
     "plag4xxx": 12,
@@ -3402,7 +3402,7 @@
   "kitStats": {
     "build": 1635,
     "survival": 6515,
-    "pvp": 8317,
+    "pvp": 8318,
     "dupe": 2277,
     "tools": 1906,
     "stash": 1153,
