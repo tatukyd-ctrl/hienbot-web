@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:21:02 16/1/2026",
+  "lastUpdated": "02:21:32 16/1/2026",
   "totalKits": 87914,
   "todayKits": 100,
   "onlineCount": 37,
   "peakPlayers": 42,
   "tps": "2.0",
-  "ping": 1188,
+  "ping": 10344,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6606
+      "count": 6607
     },
     {
       "name": "dupe",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:17] [8b8t] >> You have killed yourself!",
-    "[19:17] Citadel has reached the goal [Sky's the Limit]",
-    "[19:17] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[19:17] <_Lumora_> !kit pvp ",
     "[19:17] [8b8t] >> Teleporting to home 0...",
     "[19:17] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +98,10 @@
     "[19:20] [8b8t] >> The TPA request you sent to _Lumora_ has expired.",
     "[19:20] [8b8t] >> You have killed yourself!",
     "[19:20] [8b8t] >> No TPA request found",
-    "[19:20] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me "
+    "[19:20] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[19:21] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[19:21] <Citadel> !kit survival ",
+    "[19:21] <_Lumora_> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3431,11 +3431,11 @@
     "TheRealDrDonut": 3,
     "_Lumora_": 8,
     "REDSBLIN": 1,
-    "Citadel": 1
+    "Citadel": 2
   },
   "kitStats": {
     "build": 1656,
-    "survival": 6606,
+    "survival": 6607,
     "pvp": 8441,
     "dupe": 2307,
     "tools": 1924,
