@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:28:03 15/1/2026",
-  "totalKits": 87749,
-  "todayKits": 84,
+  "lastUpdated": "21:28:16 15/1/2026",
+  "totalKits": 87750,
+  "todayKits": 85,
   "onlineCount": 35,
   "peakPlayers": 38,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 297,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6572
+      "count": 6573
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:25] To Anonymous204205: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:25] To Anonymous204205: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:25] [8b8t] >> Request sent to Anonymous204205",
-    "[14:25] <MaxFK166> !kit ",
-    "[14:25] MaxFK166 is ignoring you",
-    "[14:25] DeathZuka has made the advancement [Cover Me With Diamonds]",
-    "[14:25] [8b8t] >> Teleporting...",
-    "[14:26] [8b8t] >> You have killed yourself!",
     "[14:26] [BOT] <0_HienBot> >Welcome to 8b8t, .H_INMORTAL_M! ",
     "[14:26] <eduA5> . ",
     "[14:26] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +93,15 @@
     "[14:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:27] [8b8t] >> Teleporting...",
     "[14:27] [8b8t] >> You have killed yourself!",
-    "[14:28] martince22 has made the advancement [Ice Bucket Challenge]"
+    "[14:28] martince22 has made the advancement [Ice Bucket Challenge]",
+    "[14:28] <Anonymous204205> !kit survival ",
+    "[14:28] [8b8t] >> Teleporting to home 0...",
+    "[14:28] [8b8t] >> Teleporting to home 1...",
+    "[14:28] To Anonymous204205: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:28] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[14:28] To Anonymous204205: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:28] [8b8t] >> Request sent to Anonymous204205",
+    "[14:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3414,11 +3414,11 @@
     "Russako": 11,
     "Samioski": 1,
     "Ancresgo1231": 1,
-    "Anonymous204205": 2
+    "Anonymous204205": 3
   },
   "kitStats": {
     "build": 1647,
-    "survival": 6572,
+    "survival": 6573,
     "pvp": 8380,
     "dupe": 2291,
     "tools": 1920,
