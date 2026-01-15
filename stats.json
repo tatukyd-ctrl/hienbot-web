@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:19:32 16/1/2026",
-  "totalKits": 88013,
-  "todayKits": 199,
+  "lastUpdated": "05:19:53 16/1/2026",
+  "totalKits": 88014,
+  "todayKits": 200,
   "onlineCount": 32,
   "peakPlayers": 42,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 255,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8490
+      "count": 8491
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:17] <.End3r3876> !kit pvp ",
-    "[22:17] [8b8t] >> Teleporting to home 0...",
-    "[22:17] [8b8t] >> Teleporting to home 1...",
-    "[22:17] To .End3r3876: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:18] To .End3r3876: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:18] <nico_master> anda mal ",
-    "[22:18] [8b8t] >> Request sent to .End3r3876",
-    "[22:18] [8b8t] >> Teleporting...",
-    "[22:18] [BOT] <0_HienBot> >Type !discord ",
-    "[22:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:18] [8b8t] >> You have killed yourself!",
     "[22:18] [Basic] <PorotoCosmico> sisi ",
     "[22:18] <nico_master> nop ",
@@ -101,7 +91,17 @@
     "[22:19] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[22:19] <plag4xxx> ya xd ",
     "[22:19] [8b8t] >> Teleporting...",
-    "[22:19] [Basic] <PorotoCosmico> bro? "
+    "[22:19] [Basic] <PorotoCosmico> bro? ",
+    "[22:19] [8b8t] >> You have killed yourself!",
+    "[22:19] [Basic] <PorotoCosmico> toma ",
+    "[22:19] <nico_master> !kit pvp ",
+    "[22:19] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[22:19] [8b8t] >> Teleporting to home 0...",
+    "[22:19] [8b8t] >> Teleporting to home 1...",
+    "[22:19] To nico_master: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:19] To nico_master: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:19] [8b8t] >> Request sent to nico_master",
+    "[22:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2673,7 +2673,7 @@
     "Laiwy_123": 4,
     ".ChillxChamp": 1,
     "KlNPAKU": 5,
-    "nico_master": 25,
+    "nico_master": 26,
     "Enzytroiz_Mc": 2,
     "Tyxks": 25,
     "limij2": 1,
@@ -3447,7 +3447,7 @@
   "kitStats": {
     "build": 1661,
     "survival": 6620,
-    "pvp": 8490,
+    "pvp": 8491,
     "dupe": 2313,
     "tools": 1929,
     "stash": 1170,
