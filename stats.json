@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:49:48 16/1/2026",
+  "lastUpdated": "02:50:02 16/1/2026",
   "totalKits": 87932,
   "todayKits": 118,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 42,
   "tps": "4.0",
   "ping": 266,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8457
+      "count": 8458
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:48] [8b8t] >> Request sent to poopman2",
-    "[19:49] [8b8t] >> Teleporting...",
-    "[19:49] <.Olm3053> ? ",
-    "[19:49] [8b8t] >> You have killed yourself!",
-    "[19:49] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[19:49] <_Lumora_> !kit pvp ",
-    "[19:49] [8b8t] >> Teleporting to home 0...",
     "[19:49] [8b8t] >> Teleporting to home 1...",
     "[19:49] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[19:49] <4Diddy4> !kit pvp ",
@@ -101,7 +94,14 @@
     "[19:49] [BOT] <0_HienBot> >Try !кιт survival ",
     "[19:49] <tabanoss> !kit book ",
     "[19:49] [8b8t] >> Teleporting...",
-    "[19:49] To tabanoss: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[19:49] To tabanoss: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:49] [8b8t] >> You have killed yourself!",
+    "[19:49] <poopman2> !kit pvp ",
+    "[19:49] [8b8t] >> Teleporting to home 0...",
+    "[19:49] [8b8t] >> Teleporting to home 1...",
+    "[19:49] To poopman2: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:50] To poopman2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:50] <Ascalito> !kit mob "
   ],
   "userStats": {
     "76756": 38,
@@ -3432,12 +3432,12 @@
     "_Lumora_": 18,
     "REDSBLIN": 1,
     "Citadel": 2,
-    "poopman2": 1
+    "poopman2": 2
   },
   "kitStats": {
     "build": 1656,
     "survival": 6607,
-    "pvp": 8457,
+    "pvp": 8458,
     "dupe": 2308,
     "tools": 1924,
     "stash": 1168,
