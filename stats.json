@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:28:03 15/1/2026",
+  "lastUpdated": "22:28:33 15/1/2026",
   "totalKits": 87778,
   "todayKits": 113,
   "onlineCount": 35,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8388
+      "count": 8389
     },
     {
       "name": "survival",
@@ -72,7 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:25] ",
     "[15:26] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[15:26] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
     "[15:26] [8b8t] >> Your login session has been continued.",
@@ -101,7 +100,8 @@
     "[15:27] [8b8t] >> Teleporting to home 0...",
     "[15:27] [8b8t] >> Home 2 was not found",
     "[15:27] To Anonymous204205: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:27] <Anonymous204205> !kit stash "
+    "[15:27] <Anonymous204205> !kit stash ",
+    "[15:28] <NaorNewDay> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3416,12 +3416,13 @@
     "Ancresgo1231": 1,
     "Anonymous204205": 9,
     "dragonkit2": 1,
-    "kusursuz": 1
+    "kusursuz": 1,
+    "NaorNewDay": 1
   },
   "kitStats": {
     "build": 1649,
     "survival": 6580,
-    "pvp": 8388,
+    "pvp": 8389,
     "dupe": 2293,
     "tools": 1920,
     "stash": 1160,
