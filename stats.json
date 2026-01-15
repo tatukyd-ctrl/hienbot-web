@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:59:24 15/1/2026",
+  "lastUpdated": "10:59:54 15/1/2026",
   "totalKits": 87465,
   "todayKits": 172,
-  "onlineCount": 27,
+  "onlineCount": 25,
   "peakPlayers": 56,
-  "tps": "4.0",
-  "ping": 270,
+  "tps": "3.0",
+  "ping": 262,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8296
+      "count": 8297
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:57] <Antonhysv> me piro vampiro ",
-    "[03:57] <nico_master> xd ",
-    "[03:58] <florentinogomez> !kit raid ",
-    "[03:58] [8b8t] >> Teleporting to home 0...",
-    "[03:58] [8b8t] >> Home 2 was not found",
-    "[03:58] To florentinogomez: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:58] To florentinogomez: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:58] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[03:58] [8b8t] >> Request sent to florentinogomez",
-    "[03:58] <nico_master> xddddddddddd ",
     "[03:58] <nico_master> !kit pvp ",
     "[03:58] To nico_master: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:58] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
@@ -101,7 +91,17 @@
     "[03:58] <MrPinkEye> !kit ",
     "[03:58] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[03:59] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[03:59] [8b8t] >> You have killed yourself!"
+    "[03:59] [8b8t] >> You have killed yourself!",
+    "[03:59] [8b8t] >> The TPA request you sent to PIpe999 was successfully canceled.",
+    "[03:59] <PIpe999> !kit pvp ",
+    "[03:59] To PIpe999: You're on cooldown, try again in 48 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:59] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[03:59] <nico_master> equipate anto ",
+    "[03:59] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[03:59] <nico_master> !kit pvp ",
+    "[03:59] [8b8t] >> Teleporting to home 0...",
+    "[03:59] [8b8t] >> Teleporting to home 1...",
+    "[03:59] To nico_master: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2673,7 +2673,7 @@
     "Laiwy_123": 4,
     ".ChillxChamp": 1,
     "KlNPAKU": 5,
-    "nico_master": 16,
+    "nico_master": 17,
     "Enzytroiz_Mc": 2,
     "Tyxks": 25,
     "limij2": 1,
@@ -3398,7 +3398,7 @@
   "kitStats": {
     "build": 1629,
     "survival": 6505,
-    "pvp": 8296,
+    "pvp": 8297,
     "dupe": 2273,
     "tools": 1903,
     "stash": 1151,
