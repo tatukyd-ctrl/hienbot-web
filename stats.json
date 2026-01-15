@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:26:03 15/1/2026",
+  "lastUpdated": "20:26:33 15/1/2026",
   "totalKits": 87695,
   "todayKits": 30,
-  "onlineCount": 21,
+  "onlineCount": 20,
   "peakPlayers": 21,
-  "tps": "7.0",
-  "ping": 257,
+  "tps": "6.0",
+  "ping": 249,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6561
+      "count": 6562
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:22] [8b8t] >> Teleporting...",
-    "[13:22] <botchaosonix> hi ",
-    "[13:22] [8b8t] >> You have killed yourself!",
-    "[13:22] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[13:23] [BOT] <0_HienBot> >Welcome to 8b8t, baute! ",
-    "[13:23] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[13:23] <.LEON50758> hey ",
-    "[13:23] <botchaosonix> ? ",
     "[13:23] <botchaosonix> tpa ",
     "[13:23] <botchaosonix> im spawn ",
     "[13:23] <baute> para ",
@@ -101,7 +93,15 @@
     "[13:25] Russako has reached the goal [Sky's the Limit]",
     "[13:25] Russako has completed the challenge [Cover Me in Debris]",
     "[13:25] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[13:25] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[13:25] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[13:26] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[13:26] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[13:26] <VladUA06> !kit survival ",
+    "[13:26] [8b8t] >> Teleporting to home 0...",
+    "[13:26] [8b8t] >> Teleporting to home 1...",
+    "[13:26] To VladUA06: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:26] To VladUA06: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:26] [8b8t] >> Request sent to VladUA06"
   ],
   "userStats": {
     "76756": 38,
@@ -3351,7 +3351,7 @@
     ".Hexxitmax": 1,
     "MasterBloXd": 4,
     ".oneonefour14": 2,
-    "VladUA06": 1,
+    "VladUA06": 2,
     "5989kk": 12,
     "fatpurpleybooger": 8,
     "zZjammieZz": 9,
@@ -3415,7 +3415,7 @@
   },
   "kitStats": {
     "build": 1641,
-    "survival": 6561,
+    "survival": 6562,
     "pvp": 8362,
     "dupe": 2288,
     "tools": 1918,
