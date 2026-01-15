@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:41:54 15/1/2026",
+  "lastUpdated": "11:42:24 15/1/2026",
   "totalKits": 87489,
   "todayKits": 196,
   "onlineCount": 19,
@@ -68,21 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1632
+      "count": 1633
     }
   ],
   "chatLog": [
-    "[04:37] [BOT] <0_HienBot> >What's up, DPS_Chatbridge? ",
-    "[04:37] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[04:37] <HighwayCleaner> !kit pvp ",
-    "[04:37] [8b8t] >> Teleporting to home 0...",
-    "[04:37] [8b8t] >> Teleporting to home 1...",
-    "[04:37] To HighwayCleaner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:38] To HighwayCleaner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:38] [8b8t] >> You already have a pending request",
-    "[04:38] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[04:38] <HighwayCleaner> !kit pvp ",
-    "[04:38] To HighwayCleaner: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:38] [8b8t] >> You have killed yourself!",
     "[04:38] [8b8t] >> No TPA request found",
     "[04:38] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +90,18 @@
     "[04:41] [8b8t] >> Please do not spam.",
     "[04:41] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[04:41] [BOT] <0_HienBot> >What's up, HighwayCleaner? ",
-    "[04:41] Zhyvv has made the advancement [We Need to Go Deeper]"
+    "[04:41] Zhyvv has made the advancement [We Need to Go Deeper]",
+    "[04:42] <Antonhysv> !kit ",
+    "[04:42] To Antonhysv: Hello Antonhysv!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:42] <Antonhysv> !kit toolds ",
+    "[04:42] [8b8t] >> Teleporting to home 0...",
+    "[04:42] [8b8t] >> Home 2 was not found",
+    "[04:42] To Antonhysv: Kit \"toolds\" not found! Giving you (build) instead! dsc.gg/hienbot",
+    "[04:42] To Antonhysv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:42] [8b8t] >> Request sent to Antonhysv",
+    "[04:42] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[04:42] <Antonhysv> !kit tools ",
+    "[04:42] To Antonhysv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3154,7 +3154,7 @@
     "catalin3214": 9,
     "HughCoolGuy123": 2,
     "SternQuill": 5,
-    "Antonhysv": 10,
+    "Antonhysv": 11,
     "MilangaOxi": 54,
     "xddddf": 1,
     "RoiyerYTXD": 7,
@@ -3397,7 +3397,7 @@
     "EclypsitoYT": 1
   },
   "kitStats": {
-    "build": 1632,
+    "build": 1633,
     "survival": 6508,
     "pvp": 8307,
     "dupe": 2273,
