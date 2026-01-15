@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:58:54 15/1/2026",
-  "totalKits": 87509,
-  "todayKits": 216,
-  "onlineCount": 19,
+  "lastUpdated": "12:59:23 15/1/2026",
+  "totalKits": 87510,
+  "todayKits": 217,
+  "onlineCount": 18,
   "peakPlayers": 56,
-  "tps": "3.0",
-  "ping": 247,
+  "tps": "4.0",
+  "ping": 12511,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8315
+      "count": 8316
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:55] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[05:55] [8b8t] >> You have killed yourself!",
-    "[05:55] [8b8t] >> The TPA request you sent to Repeat was successfully canceled.",
-    "[05:55] [8b8t] >> Repeat wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
-    "[05:55] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[05:55] <Repeat> !kit survival ",
-    "[05:55] To Repeat: You're on cooldown, try again in 34 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:56] <_Megaa> !kit pvp ",
-    "[05:56] [8b8t] >> Teleporting to home 0...",
-    "[05:56] [8b8t] >> Teleporting to home 1...",
-    "[05:56] To _Megaa: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:56] To _Megaa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:56] [8b8t] >> Request sent to _Megaa",
     "[05:56] [8b8t] >> Teleporting...",
@@ -101,7 +90,18 @@
     "[05:57] [BOT] <0_HienBot> >Hi 1976ASF1GG! ",
     "[05:57] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[05:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:58] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ "
+    "[05:58] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[05:59] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[05:59] <MrPinkEye> !kit ",
+    "[05:59] <ElTenshi2> !kit pvp ",
+    "[05:59] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:59] [8b8t] >> Teleporting to home 0...",
+    "[05:59] [8b8t] >> Teleporting to home 1...",
+    "[05:59] To ElTenshi2: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:59] To ElTenshi2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:59] [8b8t] >> Request sent to ElTenshi2",
+    "[05:59] [8b8t] >> Teleporting...",
+    "[05:59] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
   ],
   "userStats": {
     "76756": 38,
@@ -3396,13 +3396,13 @@
     "PIpe999": 1,
     "EclypsitoYT": 1,
     "heberro223": 2,
-    "ElTenshi2": 1,
+    "ElTenshi2": 2,
     "Repeat": 2
   },
   "kitStats": {
     "build": 1634,
     "survival": 6514,
-    "pvp": 8315,
+    "pvp": 8316,
     "dupe": 2276,
     "tools": 1906,
     "stash": 1153,
