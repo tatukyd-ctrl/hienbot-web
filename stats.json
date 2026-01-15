@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:31:03 15/1/2026",
+  "lastUpdated": "21:31:33 15/1/2026",
   "totalKits": 87750,
   "todayKits": 85,
-  "onlineCount": 34,
+  "onlineCount": 35,
   "peakPlayers": 38,
-  "tps": "3.0",
-  "ping": 268,
+  "tps": "5.0",
+  "ping": 284,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8380
+      "count": 8381
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:27] [8b8t] >> You have killed yourself!",
-    "[14:28] martince22 has made the advancement [Ice Bucket Challenge]",
-    "[14:28] <Anonymous204205> !kit survival ",
-    "[14:28] [8b8t] >> Teleporting to home 0...",
-    "[14:28] [8b8t] >> Teleporting to home 1...",
-    "[14:28] To Anonymous204205: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:28] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[14:28] To Anonymous204205: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:28] [8b8t] >> Request sent to Anonymous204205",
     "[14:28] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[14:30] <TickPerSecond> hello ",
     "[14:30] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[14:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:31] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
+    "[14:31] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[14:31] <Anonymous204205> !kit pvp ",
+    "[14:31] [8b8t] >> Teleporting to home 0...",
+    "[14:31] [8b8t] >> Teleporting to home 1...",
+    "[14:31] To Anonymous204205: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:31] To Anonymous204205: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:31] [8b8t] >> Request sent to Anonymous204205",
+    "[14:31] [BOT] <0_HienBot> >Sub to Hien2309 in youtube "
   ],
   "userStats": {
     "76756": 38,
@@ -3414,12 +3414,12 @@
     "Russako": 11,
     "Samioski": 1,
     "Ancresgo1231": 1,
-    "Anonymous204205": 3
+    "Anonymous204205": 4
   },
   "kitStats": {
     "build": 1647,
     "survival": 6573,
-    "pvp": 8380,
+    "pvp": 8381,
     "dupe": 2291,
     "tools": 1920,
     "stash": 1158,
