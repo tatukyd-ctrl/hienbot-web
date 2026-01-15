@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:35:53 15/1/2026",
+  "lastUpdated": "07:36:23 15/1/2026",
   "totalKits": 87313,
   "todayKits": 20,
   "onlineCount": 28,
   "peakPlayers": 56,
-  "tps": "4.0",
-  "ping": 268,
+  "tps": "5.0",
+  "ping": 273,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6451
+      "count": 6452
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:33] [8b8t] >> You have killed yourself!",
-    "[00:33] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[00:33] <beary__> !kit pvp ",
-    "[00:33] To beary__: You're on cooldown, try again in 32 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:33] <beary__> !kit pvp ",
-    "[00:33] To beary__: You're on cooldown, try again in 12 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:33] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[00:33] <MrPinkEye> !kit ",
     "[00:33] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[00:34] <beary__> !kit pvp ",
@@ -101,7 +94,14 @@
     "[00:35] [8b8t] >> You have killed yourself!",
     "[00:35] [8b8t] >> The TPA request you sent to Manteiga_Gg8 was successfully canceled.",
     "[00:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[00:35] [8b8t] >> Please do not spam."
+    "[00:35] [8b8t] >> Please do not spam.",
+    "[00:35] <Samuel_procaso> !kit survival ",
+    "[00:35] [8b8t] >> Teleporting to home 0...",
+    "[00:36] [8b8t] >> Teleporting to home 1...",
+    "[00:36] To Samuel_procaso: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:36] To Samuel_procaso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:36] [8b8t] >> Request sent to Samuel_procaso",
+    "[00:36] [BOT] <0_HienBot> >Use !кιт to get kits "
   ],
   "userStats": {
     "76756": 38,
@@ -3272,7 +3272,7 @@
     "ismail9090": 10,
     "BlackLeaf9284": 17,
     "Herobrine_sb68": 3,
-    "Samuel_procaso": 8,
+    "Samuel_procaso": 9,
     "XJelox": 2,
     "SenpaiYuvii": 3,
     "amur6556_twink": 1,
@@ -3386,7 +3386,7 @@
   },
   "kitStats": {
     "build": 1624,
-    "survival": 6451,
+    "survival": 6452,
     "pvp": 8250,
     "dupe": 2260,
     "tools": 1900,
