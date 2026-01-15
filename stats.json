@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:11:23 15/1/2026",
+  "lastUpdated": "07:11:53 15/1/2026",
   "totalKits": 87304,
   "todayKits": 11,
   "onlineCount": 28,
   "peakPlayers": 56,
-  "tps": "2.0",
-  "ping": 279,
+  "tps": "7.0",
+  "ping": 269,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8241
+      "count": 8242
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:10] [8b8t] >> Request sent to beary__",
-    "[00:10] <Manteiga_Gg8> my ",
-    "[00:10] <fdsadsadoasnmdas> yo gey ",
-    "[00:10] [8b8t] >> Teleporting...",
-    "[00:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[00:10] [8b8t] >> You have killed yourself!",
-    "[00:10] [BOT] <0_HienBot> >What's up, DPS_Chatbridge? ",
-    "[00:10] <.GENIUS_07091436> QUIEN PVP??? ",
-    "[00:10] <Manteiga_Gg8> me ",
-    "[00:10] <fdsadsadoasnmdas> tu mama ",
-    "[00:10] <fdsadsadoasnmdas> !kit elytra ",
     "[00:10] [8b8t] >> Teleporting to home 0...",
     "[00:10] <.GENIUS_07091436> XD ",
     "[00:10] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +90,18 @@
     "[00:10] To VortexTrapper: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:10] [8b8t] >> Request sent to VortexTrapper",
     "[00:11] [8b8t] >> Teleporting...",
-    "[00:11] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
+    "[00:11] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[00:11] <beary__> !kit pvp ",
+    "[00:11] [8b8t] >> You have killed yourself!",
+    "[00:11] To beary__: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:11] [8b8t] >> Teleporting to home 0...",
+    "[00:11] [8b8t] >> Teleporting to home 1...",
+    "[00:11] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:11] [8b8t] >> Request sent to beary__",
+    "[00:11] <a3lo3bobaLP> !tps ",
+    "[00:11] To a3lo3bobaLP: Current TPS: 2.00 Dont forget to join dsc.gg/hienbot",
+    "[00:11] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[00:11] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
   ],
   "userStats": {
     "76756": 38,
@@ -1628,7 +1628,7 @@
     "ghcq": 5,
     "Mistc_": 1,
     "stromMC": 1,
-    "beary__": 28,
+    "beary__": 29,
     "ZzElCruzZ": 53,
     "Dragoon": 1,
     "Onibi_Kui": 12,
@@ -3385,7 +3385,7 @@
   "kitStats": {
     "build": 1624,
     "survival": 6451,
-    "pvp": 8241,
+    "pvp": 8242,
     "dupe": 2259,
     "tools": 1900,
     "stash": 1150,
