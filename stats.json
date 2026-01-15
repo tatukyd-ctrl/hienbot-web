@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:01:54 15/1/2026",
-  "totalKits": 87497,
-  "todayKits": 204,
+  "lastUpdated": "12:02:24 15/1/2026",
+  "totalKits": 87498,
+  "todayKits": 205,
   "onlineCount": 20,
   "peakPlayers": 56,
-  "tps": "8.0",
-  "ping": 250,
+  "tps": "7.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8309
+      "count": 8310
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:57] [8b8t] >> You have killed yourself!",
-    "[04:57] [8b8t] >> The TPA request you sent to Sxbz23 was successfully canceled.",
-    "[04:57] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[04:57] <Sxbz23> !kit shulker ",
-    "[04:57] To Sxbz23: You're on cooldown, try again in 38 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:57] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[04:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[04:58] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[04:58] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[04:58] <MrPinkEye> !kit ",
     "[04:58] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[05:00] [BOT] <0_HienBot> >Welcome to 8b8t, TNGB0T! ",
     "[05:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:01] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[05:01] [BOT] <0_HienBot> >Do you want kit? Type !кιт "
+    "[05:01] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[05:02] <HighwayCleaner> !kit pvp ",
+    "[05:02] [8b8t] >> Teleporting to home 0...",
+    "[05:02] [8b8t] >> Teleporting to home 1...",
+    "[05:02] To HighwayCleaner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:02] To HighwayCleaner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:02] [8b8t] >> Request sent to HighwayCleaner",
+    "[05:02] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[05:02] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2439,7 +2439,7 @@
     "Alesito_Cotton": 1,
     "Axintar09": 1,
     "caquitarara132": 1,
-    "HighwayCleaner": 21,
+    "HighwayCleaner": 22,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 29,
     "Flame_xz": 21,
@@ -3399,7 +3399,7 @@
   "kitStats": {
     "build": 1634,
     "survival": 6510,
-    "pvp": 8309,
+    "pvp": 8310,
     "dupe": 2273,
     "tools": 1905,
     "stash": 1152,
