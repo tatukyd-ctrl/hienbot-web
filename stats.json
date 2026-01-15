@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:35:30 15/1/2026",
-  "totalKits": 87487,
-  "todayKits": 194,
+  "lastUpdated": "11:35:46 15/1/2026",
+  "totalKits": 87488,
+  "todayKits": 195,
   "onlineCount": 22,
   "peakPlayers": 56,
-  "tps": "6.0",
+  "tps": "4.0",
   "ping": 275,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6507
+      "count": 6508
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:33] [8b8t] >> You have killed yourself!",
-    "[04:33] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[04:33] <MrPinkEye> !kit ",
-    "[04:33] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:34] Zhyvv has completed the challenge [Cover Me in Debris]",
-    "[04:34] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[04:34] <SnowFl3a> !kit elytra ",
-    "[04:34] [8b8t] >> Teleporting to home 0...",
-    "[04:34] [8b8t] >> Teleporting to home 6...",
     "[04:34] To SnowFl3a: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:34] <EclypsitoYT> Hi ",
     "[04:34] To SnowFl3a: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +91,17 @@
     "[04:35] [8b8t] >> Request sent to EclypsitoYT",
     "[04:35] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[04:35] [8b8t] >> Teleporting...",
-    "[04:35] Antonhysv has made the advancement [Best Friends Forever]"
+    "[04:35] Antonhysv has made the advancement [Best Friends Forever]",
+    "[04:35] <HighwayCleaner> !kit survival ",
+    "[04:35] [8b8t] >> You have killed yourself!",
+    "[04:35] [8b8t] >> You have killed yourself!",
+    "[04:35] To HighwayCleaner: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:35] [8b8t] >> Teleporting to home 0...",
+    "[04:35] [8b8t] >> Teleporting to home 1...",
+    "[04:35] To HighwayCleaner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:35] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[04:35] [8b8t] >> Request sent to HighwayCleaner",
+    "[04:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2439,7 +2439,7 @@
     "Alesito_Cotton": 1,
     "Axintar09": 1,
     "caquitarara132": 1,
-    "HighwayCleaner": 18,
+    "HighwayCleaner": 19,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 29,
     "Flame_xz": 21,
@@ -3398,7 +3398,7 @@
   },
   "kitStats": {
     "build": 1632,
-    "survival": 6507,
+    "survival": 6508,
     "pvp": 8306,
     "dupe": 2273,
     "tools": 1903,
