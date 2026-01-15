@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:33:23 15/1/2026",
-  "totalKits": 87384,
-  "todayKits": 91,
+  "lastUpdated": "09:33:41 15/1/2026",
+  "totalKits": 87385,
+  "todayKits": 92,
   "onlineCount": 25,
   "peakPlayers": 56,
-  "tps": "6.0",
+  "tps": "7.0",
   "ping": 263,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6460
+      "count": 6461
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:32] [8b8t] >> You have killed yourself!",
-    "[02:32] [Basic] <PorotoCosmico> !kit wood ",
-    "[02:32] [8b8t] >> Teleporting to home 0...",
-    "[02:32] [8b8t] >> Teleporting to home 3...",
-    "[02:32] To PorotoCosmico: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:32] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[02:32] To PorotoCosmico: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:32] [8b8t] >> Request sent to PorotoCosmico",
-    "[02:32] <Antonhysv> xd ",
-    "[02:32] [8b8t] >> Teleporting...",
-    "[02:32] <nico_master> !kit fly ",
     "[02:32] To nico_master: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:32] [8b8t] >> You have killed yourself!",
     "[02:32] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +90,18 @@
     "[02:33] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[02:33] <IAM_SO_GOOD1> can someone give me some stuff? ",
     "[02:33] <Antonhysv> y el name ",
-    "[02:33] <ParaCraftero> nomames. no se "
+    "[02:33] <ParaCraftero> nomames. no se ",
+    "[02:33] <beary__> !kit survival ",
+    "[02:33] [8b8t] >> Teleporting to home 0...",
+    "[02:33] [8b8t] >> Teleporting to home 1...",
+    "[02:33] To beary__: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:33] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:33] [8b8t] >> Request sent to beary__",
+    "[02:33] <nico_master> !kit survival ",
+    "[02:33] To nico_master: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:33] [8b8t] >> Teleporting...",
+    "[02:33] [Basic] <PorotoCosmico> !KIT MINERAL ",
+    "[02:33] To PorotoCosmico: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1628,7 +1628,7 @@
     "ghcq": 5,
     "Mistc_": 1,
     "stromMC": 1,
-    "beary__": 63,
+    "beary__": 64,
     "ZzElCruzZ": 53,
     "Dragoon": 1,
     "Onibi_Kui": 12,
@@ -3392,7 +3392,7 @@
   },
   "kitStats": {
     "build": 1626,
-    "survival": 6460,
+    "survival": 6461,
     "pvp": 8278,
     "dupe": 2265,
     "tools": 1901,
