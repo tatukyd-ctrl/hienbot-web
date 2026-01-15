@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:42:53 15/1/2026",
+  "lastUpdated": "09:43:23 15/1/2026",
   "totalKits": 87393,
   "todayKits": 100,
-  "onlineCount": 23,
+  "onlineCount": 24,
   "peakPlayers": 56,
-  "tps": "6.0",
-  "ping": 257,
+  "tps": "8.0",
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8281
+      "count": 8282
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:40] To IAM_SO_GOOD1: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:41] To IAM_SO_GOOD1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:41] [8b8t] >> Request sent to IAM_SO_GOOD1",
-    "[02:41] <beary__> !kit survival ",
-    "[02:41] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:41] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[02:41] <beary__> !kit survival ",
-    "[02:41] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:41] [8b8t] >> You have killed yourself!",
-    "[02:41] [8b8t] >> The TPA request you sent to IAM_SO_GOOD1 was successfully canceled.",
-    "[02:41] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[02:41] <IAM_SO_GOOD1> \\ ",
-    "[02:41] [BOT] <0_HienBot> >Hello nico_master! ",
     "[02:41] <nico_master> hello ",
     "[02:42] <ParaCraftero> ANDO PROBANDO EL MAZO Y ES GENIAÑ ",
     "[02:42] <nico_master> xd ",
@@ -101,7 +88,20 @@
     "[02:42] [8b8t] >> You have killed yourself!",
     "[02:42] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[02:42] <IAM_SO_GOOD1> !kit ",
-    "[02:42] To IAM_SO_GOOD1: Hello IAM_SO_GOOD1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[02:42] To IAM_SO_GOOD1: Hello IAM_SO_GOOD1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:43] <_Iwss> !kit ",
+    "[02:43] To _Iwss: Hello _Iwss!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:43] <IAM_SO_GOOD1> !kit pvp ",
+    "[02:43] [8b8t] >> Teleporting to home 0...",
+    "[02:43] [8b8t] >> Teleporting to home 1...",
+    "[02:43] To IAM_SO_GOOD1: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:43] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[02:43] To IAM_SO_GOOD1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:43] [8b8t] >> Request sent to IAM_SO_GOOD1",
+    "[02:43] <_Iwss> !kit PVP ",
+    "[02:43] To _Iwss: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:43] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[02:43] [8b8t] >> IAM_SO_GOOD1 has denied your request"
   ],
   "userStats": {
     "76756": 38,
@@ -3390,12 +3390,12 @@
     "Alsobruh_": 2,
     "SEBASRED_01": 2,
     "CornyTheCorn": 1,
-    "IAM_SO_GOOD1": 1
+    "IAM_SO_GOOD1": 2
   },
   "kitStats": {
     "build": 1626,
     "survival": 6468,
-    "pvp": 8281,
+    "pvp": 8282,
     "dupe": 2265,
     "tools": 1901,
     "stash": 1151,
