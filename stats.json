@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:15:02 16/1/2026",
+  "lastUpdated": "02:15:32 16/1/2026",
   "totalKits": 87911,
   "todayKits": 97,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 42,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 254,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8438
+      "count": 8439
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:12] TheRealDrDonut has reached the goal [Postmortal]",
-    "[19:12] <larpsix> !kit stash ",
-    "[19:12] [8b8t] >> Teleporting to home 0...",
-    "[19:12] [8b8t] >> Home 2 was not found",
-    "[19:12] To larpsix: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:12] To larpsix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:12] [8b8t] >> Request sent to larpsix",
-    "[19:12] [8b8t] >> Teleporting...",
-    "[19:13] [8b8t] >> You have killed yourself!",
-    "[19:13] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[19:13] <.Pichuckrak> !kit dye ",
     "[19:13] [8b8t] >> Teleporting to home 0...",
     "[19:13] [8b8t] >> Teleporting to home 4...",
     "[19:13] To .Pichuckrak: Your kit (dye) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[19:13] [8b8t] >> You have killed yourself!",
     "[19:14] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[19:14] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[19:14] [BOT] <0_HienBot> >Welcome to 8b8t, CommonHat! "
+    "[19:14] [BOT] <0_HienBot> >Welcome to 8b8t, CommonHat! ",
+    "[19:15] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[19:15] <_Lumora_> !kit pvp ",
+    "[19:15] [8b8t] >> Teleporting to home 0...",
+    "[19:15] [8b8t] >> Teleporting to home 1...",
+    "[19:15] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:15] randyrey43gg has made the advancement [Stone Age]",
+    "[19:15] TheRealDrDonut has made the advancement [Monster Hunter]",
+    "[19:15] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:15] [8b8t] >> Request sent to _Lumora_",
+    "[19:15] <matitas292> !kit pvp ",
+    "[19:15] To matitas292: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3429,13 +3429,13 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 3,
-    "_Lumora_": 5,
+    "_Lumora_": 6,
     "REDSBLIN": 1
   },
   "kitStats": {
     "build": 1656,
     "survival": 6606,
-    "pvp": 8438,
+    "pvp": 8439,
     "dupe": 2306,
     "tools": 1924,
     "stash": 1168,
