@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:07:23 15/1/2026",
+  "lastUpdated": "08:07:53 15/1/2026",
   "totalKits": 87318,
   "todayKits": 25,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 56,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 274,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:04] [8b8t] >> Teleporting to home 7...",
-    "[01:04] To .Elpatata43: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:04] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[01:04] To .Elpatata43: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:04] [8b8t] >> Request sent to .Elpatata43",
-    "[01:04] [Ultra] <_aksn> tengo un minelord wool que trae todo ",
-    "[01:04] [8b8t] >> Teleporting...",
     "[01:05] [8b8t] >> You have killed yourself!",
     "[01:05] [Ultra] <_aksn> aca ",
     "[01:05] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
@@ -101,7 +94,14 @@
     "[01:06] [Ultra] <_aksn> o con este que ya está fuera ",
     "[01:07] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[01:07] <Manteiga_Gg8> !pvp elytra ",
-    "[01:07] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[01:07] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[01:07] <Manteiga_Gg8> !kit elytra ",
+    "[01:07] [8b8t] >> Teleporting to home 0...",
+    "[01:07] [8b8t] >> Teleporting to home 6...",
+    "[01:07] To Manteiga_Gg8: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:07] To Manteiga_Gg8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:07] [8b8t] >> Request sent to Manteiga_Gg8",
+    "[01:07] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
   ],
   "userStats": {
     "76756": 38,
@@ -3378,7 +3378,7 @@
     "adambicen59": 1,
     "Kazuki_8": 8,
     "FaresBK": 5,
-    "Manteiga_Gg8": 5,
+    "Manteiga_Gg8": 6,
     "ekravcho132": 12,
     ".KingKong215338": 2,
     "a3lo3bobaLP": 2,
@@ -3419,6 +3419,6 @@
     "gterracotta": 87,
     "banner": 90,
     "illegal": 706,
-    "elytra": 274
+    "elytra": 275
   }
 }
