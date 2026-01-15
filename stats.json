@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:15:53 15/1/2026",
-  "totalKits": 87433,
-  "todayKits": 140,
-  "onlineCount": 27,
+  "lastUpdated": "10:16:09 15/1/2026",
+  "totalKits": 87434,
+  "todayKits": 141,
+  "onlineCount": 28,
   "peakPlayers": 56,
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 262,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8290
+      "count": 8291
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:14] <meewpqwe> $spawn ",
-    "[03:14] <CommonHat> quien para pavear un rato ? ",
-    "[03:14] <beary__> !kit survival ",
-    "[03:14] [8b8t] >> Teleporting to home 0...",
-    "[03:14] [8b8t] >> Teleporting to home 1...",
-    "[03:14] To beary__: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:14] <luk30f> yoo ",
-    "[03:14] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:14] [8b8t] >> Request sent to beary__",
-    "[03:14] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[03:14] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[03:14] [8b8t] >> Teleporting...",
     "[03:14] [8b8t] >> You have killed yourself!",
     "[03:15] <nico_master> quieres segir ? ",
@@ -101,7 +90,18 @@
     "[03:15] [8b8t] >> Teleporting...",
     "[03:15] <fdsadsadoasnmdas> puedo poner sethome aca? ",
     "[03:15] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[03:15] [8b8t] >> You have killed yourself!"
+    "[03:15] [8b8t] >> You have killed yourself!",
+    "[03:15] <meewpqwe> $kit pvp ",
+    "[03:15] [8b8t] >> Teleporting to home 0...",
+    "[03:15] [8b8t] >> Teleporting to home 1...",
+    "[03:15] To meewpqwe: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:16] To meewpqwe: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:16] [8b8t] >> Request sent to meewpqwe",
+    "[03:16] [8b8t] >> Teleporting...",
+    "[03:16] <fdsadsadoasnmdas> Puedo o no ",
+    "[03:16] <ParaCraftero> !kit pvp ",
+    "[03:16] To ParaCraftero: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[03:16] <luk30f> Ordnasil1998 you inghis? "
   ],
   "userStats": {
     "76756": 38,
@@ -3391,12 +3391,13 @@
     "SEBASRED_01": 2,
     "CornyTheCorn": 4,
     "IAM_SO_GOOD1": 9,
-    "_Iwss": 1
+    "_Iwss": 1,
+    "meewpqwe": 1
   },
   "kitStats": {
     "build": 1628,
     "survival": 6494,
-    "pvp": 8290,
+    "pvp": 8291,
     "dupe": 2266,
     "tools": 1902,
     "stash": 1151,
