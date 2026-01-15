@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:16:02 16/1/2026",
-  "totalKits": 88036,
-  "todayKits": 222,
+  "lastUpdated": "06:16:19 16/1/2026",
+  "totalKits": 88037,
+  "todayKits": 223,
   "onlineCount": 24,
   "peakPlayers": 42,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 255,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8500
+      "count": 8501
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:14] [BOT] <0_HienBot> >Hi .Eden_01655! ",
-    "[23:14] [8b8t] >> You have killed yourself!",
-    "[23:14] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[23:14] <.Eden_01655> !kit concrete ",
-    "[23:14] To .Eden_01655: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:14] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[23:14] <MasterBloXd> tengo cohetes infinitos xd ",
-    "[23:14] [Ultra] <grindbeast124> aaaaaaaaaa ",
-    "[23:14] <.Eden_01655> !kit concrete ",
-    "[23:14] [8b8t] >> Teleporting to home 0...",
-    "[23:14] [8b8t] >> Teleporting to home 3...",
     "[23:14] To .Eden_01655: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[23:15] To .Eden_01655: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:15] [8b8t] >> Request sent to .Eden_01655",
@@ -101,7 +90,18 @@
     "[23:15] [8b8t] >> Teleporting...",
     "[23:15] <.Eden_01655> !kit concrete ",
     "[23:15] To .Eden_01655: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:15] [8b8t] >> You have killed yourself!"
+    "[23:15] [8b8t] >> You have killed yourself!",
+    "[23:16] <Valoma20142000> !kit pvp ",
+    "[23:16] [8b8t] >> Teleporting to home 0...",
+    "[23:16] [8b8t] >> Teleporting to home 1...",
+    "[23:16] To Valoma20142000: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:16] [BOT] <0_HienBot> >Type !discord ",
+    "[23:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:16] To Valoma20142000: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:16] [8b8t] >> Request sent to Valoma20142000",
+    "[23:16] <.Eden_01655> !kit concrete ",
+    "[23:16] To .Eden_01655: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3443,13 +3443,13 @@
     ".End3r3876": 13,
     "tirex548": 2,
     "CallenBam": 8,
-    "Valoma20142000": 6,
+    "Valoma20142000": 7,
     "yKey": 2
   },
   "kitStats": {
     "build": 1662,
     "survival": 6622,
-    "pvp": 8500,
+    "pvp": 8501,
     "dupe": 2314,
     "tools": 1929,
     "stash": 1170,
