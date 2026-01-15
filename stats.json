@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:45:23 15/1/2026",
-  "totalKits": 87334,
-  "todayKits": 41,
-  "onlineCount": 27,
+  "lastUpdated": "08:45:53 15/1/2026",
+  "totalKits": 87335,
+  "todayKits": 42,
+  "onlineCount": 26,
   "peakPlayers": 56,
-  "tps": "5.0",
-  "ping": 276,
+  "tps": "6.0",
+  "ping": 275,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8257
+      "count": 8258
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:43] [8b8t] >> Request sent to beary__",
-    "[01:43] [8b8t] >> Teleporting...",
-    "[01:43] MilangaOxi has made the advancement [Voluntary Exile]",
-    "[01:43] [8b8t] >> You have killed yourself!",
-    "[01:43] <ParaCraftero> AHAHAH XD ",
-    "[01:43] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[01:43] <MrPinkEye> !kit ",
-    "[01:43] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:44] <SooDeckOG> alguien me da kits de contruccion ",
-    "[01:44] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[01:44] <beary__> !kit Exp ",
     "[01:44] To beary__: You're on cooldown, try again in 6 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:44] [Pro+] <volpl> a ",
@@ -101,7 +91,17 @@
     "[01:45] SooDeckOG Whispers: relagame kits",
     "[01:45] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[01:45] <beary__> !kit Exp ",
-    "[01:45] To beary__: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot"
+    "[01:45] To beary__: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:45] <SooDeckOG> !kit pvp ",
+    "[01:45] [8b8t] >> Teleporting to home 0...",
+    "[01:45] [8b8t] >> Teleporting to home 1...",
+    "[01:45] To SooDeckOG: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:45] To SooDeckOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:45] [8b8t] >> Request sent to SooDeckOG",
+    "[01:45] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[01:45] [8b8t] >> Teleporting...",
+    "[01:45] <Chr1s_th3_s1gma> !kit ",
+    "[01:45] To Chr1s_th3_s1gma: Hello Chr1s_th3_s1gma!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3383,12 +3383,13 @@
     ".KingKong215338": 2,
     "a3lo3bobaLP": 2,
     "BroddyZX": 1,
-    "AfoiwageiLP": 2
+    "AfoiwageiLP": 2,
+    "SooDeckOG": 1
   },
   "kitStats": {
     "build": 1624,
     "survival": 6455,
-    "pvp": 8257,
+    "pvp": 8258,
     "dupe": 2262,
     "tools": 1901,
     "stash": 1151,
