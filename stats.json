@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:20:54 15/1/2026",
-  "totalKits": 87600,
-  "todayKits": 307,
-  "onlineCount": 16,
+  "lastUpdated": "16:21:18 15/1/2026",
+  "totalKits": 87601,
+  "todayKits": 308,
+  "onlineCount": 17,
   "peakPlayers": 56,
-  "tps": "11.0",
+  "tps": "7.0",
   "ping": 261,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6537
+      "count": 6538
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:18] [8b8t] >> No TPA request found",
-    "[09:19] <Rich_miner> !kit survival ",
-    "[09:19] [8b8t] >> Teleporting to home 0...",
-    "[09:19] [8b8t] >> Teleporting to home 1...",
-    "[09:19] To Rich_miner: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:19] To Rich_miner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:19] [8b8t] >> Request sent to Rich_miner",
-    "[09:19] [8b8t] >> Teleporting...",
-    "[09:19] <DrVenial31> !kit survival ",
-    "[09:19] To DrVenial31: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:19] [8b8t] >> You have killed yourself!",
     "[09:19] [BOT] <0_HienBot> >Hi TNGB0T! ",
     "[09:19] <DrVenial31> stashfinder ",
@@ -101,7 +91,17 @@
     "[09:20] <ROHAN> !kit survival ",
     "[09:20] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[09:20] To ROHAN: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:20] [8b8t] >> Teleporting..."
+    "[09:20] [8b8t] >> Teleporting...",
+    "[09:20] [8b8t] >> You have killed yourself!",
+    "[09:21] <ROHAN> !kit survival ",
+    "[09:21] [8b8t] >> Teleporting to home 0...",
+    "[09:21] [8b8t] >> Teleporting to home 1...",
+    "[09:21] To ROHAN: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:21] To ROHAN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:21] [8b8t] >> Request sent to ROHAN",
+    "[09:21] <zenciseven31776> !kit pvp ",
+    "[09:21] To zenciseven31776: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:21] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3365,7 +3365,7 @@
     "tabanoss": 11,
     ".FolkSaucer9241": 1,
     "Elmasperron6885": 1,
-    "ROHAN": 17,
+    "ROHAN": 18,
     "JJplayerUD": 1,
     "Sotelldo": 2,
     "plag4xxx": 12,
@@ -3407,7 +3407,7 @@
   },
   "kitStats": {
     "build": 1639,
-    "survival": 6537,
+    "survival": 6538,
     "pvp": 8335,
     "dupe": 2283,
     "tools": 1911,
