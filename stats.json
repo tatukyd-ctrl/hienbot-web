@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:40:53 15/1/2026",
+  "lastUpdated": "09:41:23 15/1/2026",
   "totalKits": 87392,
   "todayKits": 99,
-  "onlineCount": 23,
+  "onlineCount": 24,
   "peakPlayers": 56,
   "tps": "7.0",
-  "ping": 275,
+  "ping": 267,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6466
+      "count": 6467
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:38] <beary__> !kit survival ",
-    "[02:38] [8b8t] >> Teleporting to home 0...",
-    "[02:38] <MrPinkEye> !kit ",
-    "[02:38] [8b8t] >> Teleporting to home 1...",
-    "[02:39] To beary__: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:39] <CornyTheCorn> if no one is gonna help me then imm gona help myself ",
-    "[02:39] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:39] [8b8t] >> Request sent to beary__",
-    "[02:39] [8b8t] >> Teleporting...",
     "[02:39] [8b8t] >> You have killed yourself!",
     "[02:39] IAM_SO_GOOD1 has made the advancement [We Need to Go Deeper]",
     "[02:39] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
@@ -101,7 +92,16 @@
     "[02:40] [8b8t] >> You have killed yourself!",
     "[02:40] <nico_master> STASH ",
     "[02:40] <nico_master> a no ",
-    "[02:40] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[02:40] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[02:40] <IAM_SO_GOOD1> !kit survival ",
+    "[02:40] [8b8t] >> Teleporting to home 0...",
+    "[02:40] [8b8t] >> Teleporting to home 1...",
+    "[02:40] To IAM_SO_GOOD1: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:41] To IAM_SO_GOOD1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:41] [8b8t] >> Request sent to IAM_SO_GOOD1",
+    "[02:41] <beary__> !kit survival ",
+    "[02:41] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:41] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "76756": 38,
@@ -3389,11 +3389,12 @@
     "negro_kiricici": 4,
     "Alsobruh_": 2,
     "SEBASRED_01": 2,
-    "CornyTheCorn": 1
+    "CornyTheCorn": 1,
+    "IAM_SO_GOOD1": 1
   },
   "kitStats": {
     "build": 1626,
-    "survival": 6466,
+    "survival": 6467,
     "pvp": 8281,
     "dupe": 2265,
     "tools": 1901,
