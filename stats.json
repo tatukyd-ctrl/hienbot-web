@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:14:54 15/1/2026",
+  "lastUpdated": "12:15:24 15/1/2026",
   "totalKits": 87503,
   "todayKits": 210,
-  "onlineCount": 17,
+  "onlineCount": 19,
   "peakPlayers": 56,
-  "tps": "3.0",
+  "tps": "9.0",
   "ping": 1329,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6510
+      "count": 6511
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:10] [8b8t] >> You have killed yourself!",
-    "[05:10] [BOT] <0_HienBot> >Hey orasan080! ",
-    "[05:10] heberro223 has reached the goal [Sky's the Limit]",
-    "[05:10] [BOT] <0_HienBot> >What's up, TNGB0T? ",
-    "[05:11] <Zhyvv> !kit dupe ",
-    "[05:11] [8b8t] >> Teleporting to home 0...",
-    "[05:11] [8b8t] >> Teleporting to home 7...",
-    "[05:11] To Zhyvv: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:11] To Zhyvv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:11] [8b8t] >> Request sent to Zhyvv",
     "[05:11] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
@@ -101,7 +93,15 @@
     "[05:14] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[05:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[05:14] <Zhyvv> who took a shet ",
-    "[05:14] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
+    "[05:14] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[05:15] <noobmaster96> !kit survival ",
+    "[05:15] <serious34> https://votefor.8b8t,me ",
+    "[05:15] [8b8t] >> Teleporting to home 0...",
+    "[05:15] [8b8t] >> Teleporting to home 1...",
+    "[05:15] To noobmaster96: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:15] [BOT] <0_HienBot> >Hello Luiggi! ",
+    "[05:15] To noobmaster96: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:15] [8b8t] >> Request sent to noobmaster96"
   ],
   "userStats": {
     "76756": 38,
@@ -1585,7 +1585,7 @@
     "Krosh_24": 1,
     "Derrick": 25,
     "RoshFeel": 7,
-    "noobmaster96": 30,
+    "noobmaster96": 31,
     "imnotoldmacbook": 17,
     "qaleeq": 20,
     "DesolatoR": 15,
@@ -3399,7 +3399,7 @@
   },
   "kitStats": {
     "build": 1634,
-    "survival": 6510,
+    "survival": 6511,
     "pvp": 8310,
     "dupe": 2276,
     "tools": 1905,
