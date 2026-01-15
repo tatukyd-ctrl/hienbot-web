@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:24:33 15/1/2026",
-  "totalKits": 87694,
-  "todayKits": 29,
+  "lastUpdated": "20:24:50 15/1/2026",
+  "totalKits": 87695,
+  "todayKits": 30,
   "onlineCount": 19,
   "peakPlayers": 20,
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 248,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8361
+      "count": 8362
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:21] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[13:21] [8b8t] >> You have killed yourself!",
-    "[13:21] [BOT] <0_HienBot> >What's up, haiducnguyen? ",
-    "[13:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[13:21] <Russako> !kit pvp ",
-    "[13:21] [8b8t] >> Teleporting to home 0...",
-    "[13:21] [8b8t] >> Teleporting to home 1...",
-    "[13:21] To Russako: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:21] To Russako: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:21] <ParaCraftero> YOU DRSQUIDDI69 ",
     "[13:21] [8b8t] >> Request sent to Russako",
     "[13:21] <baute> para ",
     "[13:22] <DrSquiddy69> yes? ",
@@ -101,7 +91,17 @@
     "[13:23] <.LEON50758> 18:22 ",
     "[13:23] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[13:23] <botchaosonix> ok ",
-    "[13:24] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[13:24] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[13:24] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[13:24] <Russako> !kit pvp ",
+    "[13:24] [8b8t] >> Teleporting to home 0...",
+    "[13:24] [8b8t] >> Teleporting to home 1...",
+    "[13:24] To Russako: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:24] To Russako: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:24] [8b8t] >> Request sent to Russako",
+    "[13:24] [8b8t] >> Teleporting...",
+    "[13:24] <baute> para "
   ],
   "userStats": {
     "76756": 38,
@@ -3411,12 +3411,12 @@
     "Jamjox": 1,
     "_Hien2309_": 1,
     "leeChung": 4,
-    "Russako": 3
+    "Russako": 4
   },
   "kitStats": {
     "build": 1641,
     "survival": 6561,
-    "pvp": 8361,
+    "pvp": 8362,
     "dupe": 2288,
     "tools": 1918,
     "stash": 1158,
