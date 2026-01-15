@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:03:07 16/1/2026",
+  "lastUpdated": "01:03:32 16/1/2026",
   "totalKits": 87884,
   "todayKits": 70,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 247,
+  "tps": "5.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:00] [8b8t] >> Teleporting to home 1...",
-    "[18:00] <Sgamestream> ? ",
     "[18:00] To larpsix: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[18:00] To larpsix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:00] [8b8t] >> Request sent to larpsix",
@@ -101,7 +99,9 @@
     "[18:02] [Ultra] <HTP1P0> who pvp? ",
     "[18:02] [8b8t] >> Request sent to DrVenial31",
     "[18:03] [8b8t] >> Teleporting...",
-    "[18:03] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
+    "[18:03] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[18:03] [8b8t] >> You have killed yourself!",
+    "[18:03] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "76756": 38,
