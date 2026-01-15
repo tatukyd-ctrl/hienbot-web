@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:59:13 16/1/2026",
+  "lastUpdated": "01:59:32 16/1/2026",
   "totalKits": 87905,
   "todayKits": 91,
   "onlineCount": 33,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 268,
+  "tps": "2.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8433
+      "count": 8434
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:57] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[18:57] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[18:58] TheRealDrDonut Whispers: _Hienbot !kit",
-    "[18:58] <matitas292> bruh ",
-    "[18:58] [BOT] <0_HienBot> >Type !discord ",
-    "[18:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:58] TheRealDrDonut Whispers: !kit",
     "[18:58] To TheRealDrDonut: Hello TheRealDrDonut!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[18:58] <REDSBLIN> salir del spaw ",
     "[18:58] TheRealDrDonut Whispers: !kit dupe",
@@ -101,7 +94,14 @@
     "[18:59] [8b8t] >> Request sent to matitas292",
     "[18:59] [8b8t] >> Teleporting...",
     "[18:59] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[18:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[18:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[18:59] [8b8t] >> You have killed yourself!",
+    "[18:59] <_Lumora_> !kit pvp ",
+    "[18:59] [8b8t] >> Teleporting to home 0...",
+    "[18:59] [8b8t] >> Teleporting to home 1...",
+    "[18:59] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:59] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:59] [8b8t] >> Request sent to _Lumora_"
   ],
   "userStats": {
     "76756": 38,
@@ -3428,12 +3428,13 @@
     "rossikkjj": 1,
     "vmariofakegg": 1,
     "matitas292": 6,
-    "TheRealDrDonut": 1
+    "TheRealDrDonut": 1,
+    "_Lumora_": 1
   },
   "kitStats": {
     "build": 1656,
     "survival": 6605,
-    "pvp": 8433,
+    "pvp": 8434,
     "dupe": 2305,
     "tools": 1924,
     "stash": 1164,
