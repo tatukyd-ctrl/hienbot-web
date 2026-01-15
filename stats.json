@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:37:23 15/1/2026",
+  "lastUpdated": "09:37:53 15/1/2026",
   "totalKits": 87389,
   "todayKits": 96,
   "onlineCount": 24,
   "peakPlayers": 56,
-  "tps": "0.0",
-  "ping": 257,
+  "tps": "3.0",
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8279
+      "count": 8280
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:36] <CornyTheCorn> PLSSS ",
-    "[02:36] [8b8t] >> You have killed yourself!",
-    "[02:36] [8b8t] >> The TPA request you sent to nico_master was successfully canceled.",
-    "[02:36] <beary__> !kit survival ",
-    "[02:36] [8b8t] >> Teleporting to home 0...",
-    "[02:36] Antonhysv has made the advancement [Take Aim]",
-    "[02:36] [8b8t] >> Teleporting to home 1...",
-    "[02:36] To beary__: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:36] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[02:36] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:36] [8b8t] >> Request sent to beary__",
     "[02:36] <nico_master> !kit pvp ",
     "[02:36] To nico_master: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:36] [8b8t] >> Teleporting...",
@@ -101,7 +90,18 @@
     "[02:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:37] ParaCraftero has made the advancement [Take Aim]",
     "[02:37] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[02:37] [Pro+] <lvashl> use /kill plsssssssssssssssssssssssssssssssssss "
+    "[02:37] [Pro+] <lvashl> use /kill plsssssssssssssssssssssssssssssssssss ",
+    "[02:37] <CornyTheCorn> AHH(HH ",
+    "[02:37] <nico_master> !kit pvp ",
+    "[02:37] [8b8t] >> Teleporting to home 0...",
+    "[02:37] [8b8t] >> Teleporting to home 1...",
+    "[02:37] To nico_master: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:37] <beary__> !kit survival ",
+    "[02:37] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:37] To nico_master: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:37] [8b8t] >> Request sent to nico_master",
+    "[02:37] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[02:37] [8b8t] >> The TPA request you sent to nico_master has expired."
   ],
   "userStats": {
     "76756": 38,
@@ -2673,7 +2673,7 @@
     "Laiwy_123": 4,
     ".ChillxChamp": 1,
     "KlNPAKU": 5,
-    "nico_master": 13,
+    "nico_master": 14,
     "Enzytroiz_Mc": 2,
     "Tyxks": 25,
     "limij2": 1,
@@ -3393,7 +3393,7 @@
   "kitStats": {
     "build": 1626,
     "survival": 6464,
-    "pvp": 8279,
+    "pvp": 8280,
     "dupe": 2265,
     "tools": 1901,
     "stash": 1151,
