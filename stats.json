@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:28:23 15/1/2026",
-  "totalKits": 87377,
-  "todayKits": 84,
+  "lastUpdated": "09:28:46 15/1/2026",
+  "totalKits": 87378,
+  "todayKits": 85,
   "onlineCount": 27,
   "peakPlayers": 56,
-  "tps": "0.0",
-  "ping": 261,
+  "tps": "5.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8277
+      "count": 8278
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:27] To SEBASRED_01: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:27] [8b8t] >> Request sent to SEBASRED_01",
-    "[02:27] [Basic] <PorotoCosmico> hi leee ",
-    "[02:27] <nico_master> exite el mazo? ",
-    "[02:27] <ParaCraftero> Si ",
-    "[02:27] <nico_master> quien tiene mazo ",
-    "[02:27] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[02:27] [Ultra] <grindbeast124> yo ",
-    "[02:27] <ParaCraftero> op ",
-    "[02:27] [Basic] <PorotoCosmico> yo ",
-    "[02:27] <ParaCraftero> yo ",
-    "[02:27] beary__ has completed the challenge [Serious Dedication]",
-    "[02:27] <nico_master> me dan uno? ",
     "[02:28] <SEBASRED_01> alguien me regala algo pls ",
     "[02:28] <ParaCraftero> !kit materials ",
     "[02:28] [8b8t] >> You have killed yourself!",
@@ -101,7 +88,20 @@
     "[02:28] <ParaCraftero> kitnso dara ",
     "[02:28] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[02:28] [8b8t] >> You have killed yourself!",
-    "[02:28] <nico_master> :v "
+    "[02:28] <nico_master> :v ",
+    "[02:28] [8b8t] >> The TPA request you sent to SEBASRED_01 has expired.",
+    "[02:28] <Alsobruh_> !kit pvp ",
+    "[02:28] [8b8t] >> Teleporting to home 0...",
+    "[02:28] [8b8t] >> Teleporting to home 1...",
+    "[02:28] To Alsobruh_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:28] <SEBASRED_01> !kit pvp ",
+    "[02:28] To SEBASRED_01: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:28] To Alsobruh_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:28] [8b8t] >> Request sent to Alsobruh_",
+    "[02:28] <ParaCraftero> grax hien ",
+    "[02:28] [8b8t] >> Teleporting...",
+    "[02:28] <beary__> !kit minerals ",
+    "[02:28] To beary__: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3387,13 +3387,13 @@
     "SooDeckOG": 2,
     "Chr1s_th3_s1gma": 2,
     "negro_kiricici": 4,
-    "Alsobruh_": 1,
+    "Alsobruh_": 2,
     "SEBASRED_01": 2
   },
   "kitStats": {
     "build": 1626,
     "survival": 6459,
-    "pvp": 8277,
+    "pvp": 8278,
     "dupe": 2265,
     "tools": 1901,
     "stash": 1151,
