@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:39:01 15/1/2026",
+  "lastUpdated": "15:39:24 15/1/2026",
   "totalKits": 87573,
   "todayKits": 280,
-  "onlineCount": 14,
+  "onlineCount": 15,
   "peakPlayers": 56,
-  "tps": "10.0",
-  "ping": 324,
+  "tps": "11.0",
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6533
+      "count": 6534
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:36] [BOT] <0_HienBot> >Hi Sxbz23! ",
-    "[08:36] sdlgtumami has made the advancement [Stone Age]",
-    "[08:36] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:36] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[08:36] [8b8t] >> You have killed yourself!",
-    "[08:36] [8b8t] >> The TPA request you sent to sdlgtumami was successfully canceled.",
-    "[08:37] [BOT] <0_HienBot> >What's up, sdlgtumami? ",
-    "[08:37] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[08:37] <sdlgtumami> !kit survival ",
     "[08:37] To sdlgtumami: You're on cooldown, try again in 2 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:37] <sdlgtumami> !kit survival ",
     "[08:37] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[08:38] [8b8t] >> Request sent to moks2009",
     "[08:38] [8b8t] >> Teleporting...",
     "[08:38] <sdlgtumami> !kit survival ",
-    "[08:38] To sdlgtumami: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[08:38] To sdlgtumami: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:39] [8b8t] >> You have killed yourself!",
+    "[08:39] <sdlgtumami> !kit survival ",
+    "[08:39] [8b8t] >> Teleporting to home 0...",
+    "[08:39] [8b8t] >> Teleporting to home 1...",
+    "[08:39] To sdlgtumami: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:39] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[08:39] To sdlgtumami: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:39] [8b8t] >> Request sent to sdlgtumami",
+    "[08:39] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3401,11 +3401,11 @@
     "asciicat": 1,
     "fjgjfjfdd": 1,
     ".Kalvinou8079": 1,
-    "sdlgtumami": 3
+    "sdlgtumami": 4
   },
   "kitStats": {
     "build": 1639,
-    "survival": 6533,
+    "survival": 6534,
     "pvp": 8328,
     "dupe": 2282,
     "tools": 1909,
