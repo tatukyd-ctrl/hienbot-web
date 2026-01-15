@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:56:33 15/1/2026",
-  "totalKits": 87723,
-  "todayKits": 58,
+  "lastUpdated": "20:56:51 15/1/2026",
+  "totalKits": 87724,
+  "todayKits": 59,
   "onlineCount": 27,
   "peakPlayers": 29,
-  "tps": "1.0",
-  "ping": 256,
+  "tps": "5.0",
+  "ping": 266,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -22,7 +22,7 @@
     },
     {
       "name": "DeadlyNyxian",
-      "count": 205
+      "count": 206
     },
     {
       "name": "botchaosonix666",
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1645
+      "count": 1646
     }
   ],
   "chatLog": [
-    "[13:55] <DeadlyNyxian> !kit portal ",
-    "[13:55] [8b8t] >> Teleporting to home 0...",
-    "[13:55] [8b8t] >> Teleporting to home 6...",
-    "[13:55] To DeadlyNyxian: Your kit (portal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:55] <ParaCraftero> botcha ",
-    "[13:55] To DeadlyNyxian: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:55] [8b8t] >> Request sent to DeadlyNyxian",
-    "[13:55] [8b8t] >> Teleporting...",
     "[13:55] <ParaCraftero> dont raid. ps ",
     "[13:55] <botchaosonix> yes? ",
     "[13:55] <ParaCraftero> dont raid. ps ",
@@ -101,7 +93,15 @@
     "[13:56] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[13:56] <MasterWo> paracraft esos webones te van a raidear ",
     "[13:56] <MasterWo> putamadre ",
-    "[13:56] <negro_kiricici> máster era español "
+    "[13:56] <negro_kiricici> máster era español ",
+    "[13:56] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[13:56] <DeadlyNyxian> !kit build ",
+    "[13:56] [8b8t] >> Teleporting to home 0...",
+    "[13:56] [8b8t] >> Home 2 was not found",
+    "[13:56] To DeadlyNyxian: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:56] To DeadlyNyxian: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:56] [8b8t] >> Request sent to DeadlyNyxian",
+    "[13:56] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1010,7 +1010,7 @@
     "man_altt07": 1,
     "zzxgp_ThIGS": 1,
     "vexynox": 1,
-    "DeadlyNyxian": 205,
+    "DeadlyNyxian": 206,
     "Leucosyts": 3,
     ".SPYDER2091": 1,
     "frogwavesz": 3,
@@ -3414,7 +3414,7 @@
     "Russako": 7
   },
   "kitStats": {
-    "build": 1645,
+    "build": 1646,
     "survival": 6569,
     "pvp": 8371,
     "dupe": 2288,
