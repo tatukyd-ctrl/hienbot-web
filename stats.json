@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:32:53 15/1/2026",
-  "totalKits": 87311,
-  "todayKits": 18,
+  "lastUpdated": "07:33:07 15/1/2026",
+  "totalKits": 87312,
+  "todayKits": 19,
   "onlineCount": 29,
   "peakPlayers": 56,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 272,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8247
+      "count": 8248
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:29] <ItsTraits> sorry ",
-    "[00:29] <ItsTraits> aura off ",
-    "[00:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[00:29] <ItsTraits> it works well tho ",
-    "[00:29] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[00:29] <ItsTraits> open these two ",
-    "[00:30] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[00:30] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[00:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[00:31] <beary__> !kit pvp ",
@@ -101,7 +94,14 @@
     "[00:32] <ParaCraftero> oye htp ",
     "[00:32] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[00:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:32] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
+    "[00:32] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[00:32] <beary__> !kit pvp ",
+    "[00:32] [8b8t] >> Teleporting to home 0...",
+    "[00:32] [8b8t] >> Teleporting to home 1...",
+    "[00:32] To beary__: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:32] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:33] [8b8t] >> Request sent to beary__",
+    "[00:33] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1628,7 +1628,7 @@
     "ghcq": 5,
     "Mistc_": 1,
     "stromMC": 1,
-    "beary__": 35,
+    "beary__": 36,
     "ZzElCruzZ": 53,
     "Dragoon": 1,
     "Onibi_Kui": 12,
@@ -3387,7 +3387,7 @@
   "kitStats": {
     "build": 1624,
     "survival": 6451,
-    "pvp": 8247,
+    "pvp": 8248,
     "dupe": 2260,
     "tools": 1900,
     "stash": 1150,
