@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:00:53 15/1/2026",
-  "totalKits": 87315,
-  "todayKits": 22,
-  "onlineCount": 29,
+  "lastUpdated": "08:01:17 15/1/2026",
+  "totalKits": 87316,
+  "todayKits": 23,
+  "onlineCount": 30,
   "peakPlayers": 56,
-  "tps": "3.0",
-  "ping": 274,
+  "tps": "4.0",
+  "ping": 271,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8252
+      "count": 8253
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:55] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[00:55] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[00:56] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[00:56] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:56] Luca_932 has made the advancement [Eye Spy]",
-    "[00:56] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[00:57] [BOT] <0_HienBot> >Welcome to 8b8t, Zenka! ",
-    "[00:57] [BOT] <0_HienBot> >Hi NetherB0T! ",
-    "[00:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[00:58] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[00:58] SooDeckOG has made the advancement [Those Were the Days]",
     "[00:58] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[00:58] <Kazuki_8> elytra ",
@@ -101,7 +91,17 @@
     "[01:00] [8b8t] >> The TPA request you sent to Manteiga_Gg8 was successfully canceled.",
     "[01:00] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[01:00] Luiggi has made the advancement [Minecraft: Trial(s) Edition]",
-    "[01:00] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language "
+    "[01:00] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[01:01] <AfoiwageiLP> !kit pvp ",
+    "[01:01] [8b8t] >> Teleporting to home 0...",
+    "[01:01] [8b8t] >> Teleporting to home 1...",
+    "[01:01] To AfoiwageiLP: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[01:01] To AfoiwageiLP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:01] aron1127 has made the advancement [Getting an Upgrade]",
+    "[01:01] [8b8t] >> Request sent to AfoiwageiLP",
+    "[01:01] [8b8t] >> Teleporting...",
+    "[01:01] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "76756": 38,
@@ -3382,12 +3382,13 @@
     "ekravcho132": 12,
     ".KingKong215338": 2,
     "a3lo3bobaLP": 2,
-    "BroddyZX": 1
+    "BroddyZX": 1,
+    "AfoiwageiLP": 1
   },
   "kitStats": {
     "build": 1624,
     "survival": 6453,
-    "pvp": 8252,
+    "pvp": 8253,
     "dupe": 2260,
     "tools": 1900,
     "stash": 1150,
