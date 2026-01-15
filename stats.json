@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:52:58 15/1/2026",
+  "lastUpdated": "20:53:03 15/1/2026",
   "totalKits": 87719,
   "todayKits": 54,
   "onlineCount": 25,
   "peakPlayers": 28,
-  "tps": "8.0",
+  "tps": "7.0",
   "ping": 260,
   "topUsers": [
     {
@@ -68,15 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1643
+      "count": 1644
     }
   ],
   "chatLog": [
-    "[13:50] Exoshi has made the advancement [Withering Heights]",
-    "[13:51] <ParaCraftero> AGAHAHAHHA ",
-    "[13:51] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[13:51] <Exoshi> what r u laughing at ",
-    "[13:51] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[13:51] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[13:51] <VladUA06> !tps ",
     "[13:51] To VladUA06: Current TPS: 5.00 Dont forget to join dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[13:52] To VladUA06: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:52] To VladUA06: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:52] [8b8t] >> Request sent to VladUA06",
-    "[13:52] [8b8t] >> Teleporting..."
+    "[13:52] [8b8t] >> Teleporting...",
+    "[13:53] [8b8t] >> You have killed yourself!",
+    "[13:53] <bautost2> !kit build ",
+    "[13:53] [8b8t] >> Teleporting to home 0...",
+    "[13:53] [8b8t] >> Home 2 was not found",
+    "[13:53] To bautost2: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2787,7 +2787,7 @@
     "espinos": 27,
     "GirlPuncher2014": 4,
     "FlameeX3": 2,
-    "bautost2": 31,
+    "bautost2": 32,
     "matibrodbr": 4,
     ".JhosepMC3341": 1,
     "LEON10": 20,
@@ -3414,7 +3414,7 @@
     "Russako": 6
   },
   "kitStats": {
-    "build": 1643,
+    "build": 1644,
     "survival": 6569,
     "pvp": 8371,
     "dupe": 2288,
