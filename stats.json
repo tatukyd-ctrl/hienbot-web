@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:21:03 16/1/2026",
+  "lastUpdated": "20:21:33 16/1/2026",
   "totalKits": 88386,
   "todayKits": 339,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 291,
+  "tps": "2.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6685
+      "count": 6686
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:19] <unknown_2121_> anyone is newww ",
-    "[13:19] [8b8t] >> Teleporting...",
-    "[13:19] [8b8t] >> You have killed yourself!",
-    "[13:19] [BOT] <0_HienBot> >Type !discord ",
-    "[13:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:19] 000000000000000D has completed the challenge [Cover Me in Debris]",
-    "[13:19] 000000000000000D has reached the goal [Sky's the Limit]",
-    "[13:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:20] 000000000000000D has completed the challenge [Serious Dedication]",
     "[13:20] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[13:20] 000000000000000D has made the advancement [Ice Bucket Challenge]",
@@ -101,7 +93,15 @@
     "[13:20] <DragonPool18> !kit Build ",
     "[13:20] To DragonPool18: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:20] <DragonPool18> !kit Survival ",
-    "[13:20] To DragonPool18: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot"
+    "[13:20] To DragonPool18: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:21] [BOT] <0_HienBot> >Welcome to 8b8t, sayrox2! ",
+    "[13:21] <DragonPool18> !kit Survival ",
+    "[13:21] [8b8t] >> Teleporting to home 0...",
+    "[13:21] [8b8t] >> Teleporting to home 1...",
+    "[13:21] To DragonPool18: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:21] To DragonPool18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:21] [8b8t] >> Request sent to DragonPool18"
   ],
   "userStats": {
     "76756": 38,
@@ -3488,12 +3488,12 @@
     "WA_FI": 4,
     "Nickase": 3,
     "0_HienBott": 2,
-    "DragonPool18": 3,
+    "DragonPool18": 4,
     "000000000000000D": 1
   },
   "kitStats": {
     "build": 1667,
-    "survival": 6685,
+    "survival": 6686,
     "pvp": 8612,
     "dupe": 2342,
     "tools": 1949,
