@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:23:03 16/1/2026",
+  "lastUpdated": "13:23:33 16/1/2026",
   "totalKits": 88181,
   "todayKits": 134,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 42,
-  "tps": "7.0",
+  "tps": "8.0",
   "ping": 245,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2328
+      "count": 2329
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:21] <dat36> !kit survival ",
-    "[06:21] [8b8t] >> Teleporting to home 0...",
-    "[06:21] [8b8t] >> Teleporting to home 1...",
-    "[06:21] To dat36: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:21] To dat36: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:21] [8b8t] >> Request sent to dat36",
-    "[06:21] [8b8t] >> Teleporting...",
-    "[06:21] <Fewsito> !kit survival ",
     "[06:21] To Fewsito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[06:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[06:21] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[06:22] .Niforio has made the advancement [Stone Age]",
     "[06:22] [BOT] <0_HienBot> >Hello Risky_Jaat! ",
     "[06:22] <Risky_Jaat> hello bot ",
-    "[06:22] [BOT] <0_HienBot> >Type !кιт  to get free kits "
+    "[06:22] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[06:23] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[06:23] <dat36> !kit dupe ",
+    "[06:23] [8b8t] >> Teleporting to home 0...",
+    "[06:23] [8b8t] >> Teleporting to home 7...",
+    "[06:23] To dat36: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:23] To dat36: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:23] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[06:23] [8b8t] >> Request sent to dat36"
   ],
   "userStats": {
     "76756": 38,
@@ -3466,13 +3466,13 @@
     "USD": 1,
     "HobGobOnTop": 1,
     ".Niforio": 1,
-    "dat36": 1
+    "dat36": 2
   },
   "kitStats": {
     "build": 1663,
     "survival": 6646,
     "pvp": 8550,
-    "dupe": 2328,
+    "dupe": 2329,
     "tools": 1935,
     "stash": 1186,
     "raid": 1386,
