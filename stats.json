@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:41:03 16/1/2026",
+  "lastUpdated": "18:41:33 16/1/2026",
   "totalKits": 88301,
   "todayKits": 254,
-  "onlineCount": 18,
+  "onlineCount": 17,
   "peakPlayers": 42,
-  "tps": "7.0",
-  "ping": 249,
+  "tps": "9.0",
+  "ping": 347,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8587
+      "count": 8588
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:38] [8b8t] >> Teleporting to home 0...",
-    "[11:38] [8b8t] >> Teleporting to home 1...",
-    "[11:38] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:38] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:38] [8b8t] >> Request sent to _Lumora_",
-    "[11:38] [8b8t] >> Teleporting...",
-    "[11:39] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[11:39] [8b8t] >> You have killed yourself!",
     "[11:39] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[11:39] <unknown_2121_> I can use elytra without rockets ",
     "[11:39] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
@@ -101,7 +93,15 @@
     "[11:40] <_Lumora_> !kit pvp ",
     "[11:40] To _Lumora_: You're on cooldown, try again in 33 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:40] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[11:40] <unknown_2121_> 9 "
+    "[11:40] <unknown_2121_> 9 ",
+    "[11:41] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[11:41] <unknown_2121_> no ",
+    "[11:41] <unknown_2121_> 12 ",
+    "[11:41] <_Lumora_> !kit pvp ",
+    "[11:41] [8b8t] >> Teleporting to home 0...",
+    "[11:41] [8b8t] >> Teleporting to home 1...",
+    "[11:41] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:41] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3429,7 +3429,7 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 4,
-    "_Lumora_": 39,
+    "_Lumora_": 40,
     "REDSBLIN": 1,
     "Citadel": 2,
     "poopman2": 7,
@@ -3489,7 +3489,7 @@
   "kitStats": {
     "build": 1665,
     "survival": 6667,
-    "pvp": 8587,
+    "pvp": 8588,
     "dupe": 2339,
     "tools": 1940,
     "stash": 1192,
