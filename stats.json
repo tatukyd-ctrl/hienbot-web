@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:41:33 16/1/2026",
-  "totalKits": 88129,
-  "todayKits": 82,
-  "onlineCount": 30,
+  "lastUpdated": "09:41:48 16/1/2026",
+  "totalKits": 88130,
+  "todayKits": 83,
+  "onlineCount": 31,
   "peakPlayers": 42,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 245,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:36] [BOT] <0_HienBot> >Hi orasan080! ",
-    "[02:37] <beary__> !kit raid ",
-    "[02:37] [8b8t] >> Teleporting to home 0...",
-    "[02:37] [8b8t] >> Home 2 was not found",
-    "[02:37] To beary__: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:37] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:37] [8b8t] >> Request sent to beary__",
     "[02:37] [8b8t] >> Teleporting...",
     "[02:37] [8b8t] >> You have killed yourself!",
@@ -101,7 +95,13 @@
     "[02:40] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[02:41] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:41] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[02:41] <dronestr1ke> !kit stash "
+    "[02:41] <dronestr1ke> !kit stash ",
+    "[02:41] [8b8t] >> Teleporting to home 0...",
+    "[02:41] [8b8t] >> Home 2 was not found",
+    "[02:41] To dronestr1ke: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:41] To dronestr1ke: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:41] [8b8t] >> Request sent to dronestr1ke",
+    "[02:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3455,7 +3455,8 @@
     "Team_Kowalski": 2,
     "SnowBlueBR": 2,
     "CommonHat": 1,
-    "soyparty": 1
+    "soyparty": 1,
+    "dronestr1ke": 1
   },
   "kitStats": {
     "build": 1662,
@@ -3463,7 +3464,7 @@
     "pvp": 8532,
     "dupe": 2323,
     "tools": 1934,
-    "stash": 1178,
+    "stash": 1179,
     "raid": 1386,
     "wood": 567,
     "exp": 793,
