@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:36:19 16/1/2026",
+  "lastUpdated": "08:36:33 16/1/2026",
   "totalKits": 88101,
   "todayKits": 54,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 42,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 266,
   "topUsers": [
     {
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:34] To .darknessmc3203: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:34] [8b8t] >> Request sent to .darknessmc3203",
-    "[01:34] <ASXN> tengo q salir del spawn para aceptar ",
-    "[01:34] <hiospreerubi> !kit elytra ",
     "[01:34] To hiospreerubi: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:34] <Xxtumbaauelas> !kit dupe ",
     "[01:34] To Xxtumbaauelas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[01:36] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[01:36] To hiospreerubi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:36] [8b8t] >> Request sent to hiospreerubi",
-    "[01:36] [8b8t] >> Teleporting..."
+    "[01:36] [8b8t] >> Teleporting...",
+    "[01:36] <CommonHat> okey ",
+    "[01:36] <SnowBlueBR> !kit elytra ",
+    "[01:36] [8b8t] >> You have killed yourself!",
+    "[01:36] To SnowBlueBR: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3452,7 +3452,8 @@
     "Xxtumbaauelas": 3,
     "JOEYTOM": 1,
     "hiospreerubi": 5,
-    "Team_Kowalski": 1
+    "Team_Kowalski": 1,
+    "SnowBlueBR": 1
   },
   "kitStats": {
     "build": 1662,
@@ -3488,6 +3489,6 @@
     "gterracotta": 90,
     "banner": 90,
     "illegal": 706,
-    "elytra": 360
+    "elytra": 361
   }
 }
