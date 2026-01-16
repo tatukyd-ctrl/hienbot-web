@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:51:31 17/1/2026",
-  "totalKits": 88659,
-  "todayKits": 228,
-  "onlineCount": 37,
+  "lastUpdated": "05:52:01 17/1/2026",
+  "totalKits": 88660,
+  "todayKits": 229,
+  "onlineCount": 36,
   "peakPlayers": 53,
-  "tps": "3.0",
-  "ping": 260,
+  "tps": "2.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6729
+      "count": 6730
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:50] <MasterWo> JAJAJ ",
-    "[22:50] <Ust_yonki> !kit build ",
-    "[22:50] [8b8t] >> Teleporting to home 0...",
-    "[22:50] [8b8t] >> Home 2 was not found",
-    "[22:50] <BypassingSS> deci ",
-    "[22:50] To Ust_yonki: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:50] To Ust_yonki: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:50] <MasterWo> filtra la ip priv noma ",
     "[22:50] [8b8t] >> Request sent to Ust_yonki",
     "[22:50] [8b8t] >> Teleporting...",
     "[22:50] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[22:50] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[22:51] [8b8t] >> You have killed yourself!",
     "[22:51] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[22:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[22:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[22:51] <beary__> !kit survival ",
+    "[22:51] [8b8t] >> Teleporting to home 0...",
+    "[22:51] [8b8t] >> Teleporting to home 1...",
+    "[22:51] To beary__: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:51] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[22:51] To beary__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:51] [8b8t] >> Request sent to beary__",
+    "[22:51] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1628,7 +1628,7 @@
     "ghcq": 5,
     "Mistc_": 1,
     "stromMC": 1,
-    "beary__": 120,
+    "beary__": 121,
     "ZzElCruzZ": 53,
     "Dragoon": 1,
     "Onibi_Kui": 12,
@@ -3538,7 +3538,7 @@
   },
   "kitStats": {
     "build": 1679,
-    "survival": 6729,
+    "survival": 6730,
     "pvp": 8725,
     "dupe": 2369,
     "tools": 1971,
