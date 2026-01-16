@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:22:17 17/1/2026",
+  "lastUpdated": "02:22:31 17/1/2026",
   "totalKits": 88568,
   "todayKits": 137,
   "onlineCount": 39,
   "peakPlayers": 53,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 258,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8692
+      "count": 8693
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:19] [8b8t] >> Teleporting...",
-    "[19:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[19:19] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[19:19] [8b8t] >> You have killed yourself!",
-    "[19:20] <kaufumanJR> Please give me my proper kit. ",
-    "[19:20] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[19:20] <pizzero_estrello> !kit ",
-    "[19:20] To pizzero_estrello: Hello pizzero_estrello!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:20] <pizzero_estrello> !kit pvp ",
     "[19:20] [8b8t] >> Teleporting to home 0...",
     "[19:20] [8b8t] >> Teleporting to home 1...",
     "[19:20] To pizzero_estrello: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[19:22] To Cristiann_8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:22] [8b8t] >> Request sent to Cristiann_8",
     "[19:22] <kaufumanJR> Does anyone have a kit to donate, my friends? ",
-    "[19:22] [8b8t] >> Teleporting..."
+    "[19:22] [8b8t] >> Teleporting...",
+    "[19:22] <pizzero_estrello> !kit pvp ",
+    "[19:22] [8b8t] >> Teleporting to home 0...",
+    "[19:22] [8b8t] >> Teleporting to home 1...",
+    "[19:22] To pizzero_estrello: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:22] <ElZapato_> hi ",
+    "[19:22] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[19:22] To pizzero_estrello: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:22] [8b8t] >> Request sent to pizzero_estrello",
+    "[19:22] [8b8t] >> The TPA request you sent to pizzero_estrello has expired."
   ],
   "userStats": {
     "76756": 38,
@@ -3517,12 +3517,12 @@
     "nesukonichan": 3,
     "Grasseos": 1,
     "diossues4": 2,
-    "pizzero_estrello": 2
+    "pizzero_estrello": 3
   },
   "kitStats": {
     "build": 1670,
     "survival": 6703,
-    "pvp": 8692,
+    "pvp": 8693,
     "dupe": 2356,
     "tools": 1963,
     "stash": 1210,
