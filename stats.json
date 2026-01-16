@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:29:13 16/1/2026",
+  "lastUpdated": "19:29:33 16/1/2026",
   "totalKits": 88343,
   "todayKits": 296,
   "onlineCount": 27,
   "peakPlayers": 42,
-  "tps": "3.0",
+  "tps": "9.0",
   "ping": 258,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 1942
+      "count": 1943
     },
     {
       "name": "build",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:28] [8b8t] >> Teleporting to home 1...",
-    "[12:28] To WA_FI: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:28] <MasterWo> esta td raid ",
-    "[12:28] <miguel_gamer_777> O voy yo?? ",
-    "[12:28] To WA_FI: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:28] [8b8t] >> Request sent to WA_FI",
-    "[12:28] <Nickase> hello heinbot ",
-    "[12:28] <MasterWo> nop ",
     "[12:28] <Nickase> hienbot ",
     "[12:28] [8b8t] >> Teleporting...",
     "[12:28] <MasterWo> hienbot is a bot ",
@@ -101,7 +93,15 @@
     "[12:29] <Nickase> wth does !kit do ",
     "[12:29] To 6ex90ne_top: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:29] [8b8t] >> Request sent to 6ex90ne_top",
-    "[12:29] [8b8t] >> Teleporting..."
+    "[12:29] [8b8t] >> Teleporting...",
+    "[12:29] [8b8t] >> You have killed yourself!",
+    "[12:29] <phonix_01> we get free kit ",
+    "[12:29] <Nickase> !kit ",
+    "[12:29] To Nickase: Hello Nickase!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[12:29] <phonix_01> !kit mace ",
+    "[12:29] [8b8t] >> Teleporting to home 0...",
+    "[12:29] [8b8t] >> Teleporting to home 7...",
+    "[12:29] To phonix_01: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3484,7 +3484,7 @@
     "0_HeinBott": 2,
     "datrauma": 1,
     "Gix3er": 1,
-    "phonix_01": 7,
+    "phonix_01": 8,
     "WA_FI": 1
   },
   "kitStats": {
@@ -3492,7 +3492,7 @@
     "survival": 6674,
     "pvp": 8605,
     "dupe": 2341,
-    "tools": 1942,
+    "tools": 1943,
     "stash": 1192,
     "raid": 1388,
     "wood": 569,
