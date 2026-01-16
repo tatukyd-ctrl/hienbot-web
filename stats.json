@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:47:33 16/1/2026",
+  "lastUpdated": "20:48:03 16/1/2026",
   "totalKits": 88397,
   "todayKits": 350,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 42,
   "tps": "4.0",
   "ping": 257,
@@ -14,7 +14,7 @@
     },
     {
       "name": ".LEON50758",
-      "count": 243
+      "count": 244
     },
     {
       "name": "Bakivn_bot",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6686
+      "count": 6687
     },
     {
       "name": "dupe",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:46] <nfkiki> !kit leavs ",
-    "[13:46] [8b8t] >> Teleporting to home 0...",
-    "[13:46] [8b8t] >> Home 2 was not found",
-    "[13:46] To nfkiki: Kit \"leavs\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
-    "[13:46] To nfkiki: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:46] [8b8t] >> Request sent to nfkiki",
-    "[13:46] <.LEON50758> hey ",
-    "[13:46] <botchaosonix> shit patched ",
-    "[13:46] [8b8t] >> nfkiki has denied your request",
-    "[13:46] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:46] <iwpo> !kit build ",
-    "[13:46] To iwpo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:46] iwpo has reached the goal [Postmortal]",
-    "[13:47] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[13:47] <iwpo> !kit build ",
-    "[13:47] To iwpo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:47] [8b8t] >> You have killed yourself!",
     "[13:47] [8b8t] >> Player nfkiki is not online",
     "[13:47] <iwpo> !kit build ",
@@ -101,7 +85,23 @@
     "[13:47] <.LEON50758> !kit survival ",
     "[13:47] To .LEON50758: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:47] <LivingYuji> !kit elytra ",
-    "[13:47] To LivingYuji: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[13:47] To LivingYuji: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:47] [8b8t] >> Please do not spam.",
+    "[13:47] [8b8t] >> You have killed yourself!",
+    "[13:47] <.LEON50758> !kit survival ",
+    "[13:47] [8b8t] >> Teleporting to home 0...",
+    "[13:47] [8b8t] >> Teleporting to home 1...",
+    "[13:47] To .LEON50758: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:47] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:47] [8b8t] >> Request sent to .LEON50758",
+    "[13:47] [8b8t] >> Teleporting...",
+    "[13:47] <LivingYuji> !kit elytra ",
+    "[13:47] [8b8t] >> You have killed yourself!",
+    "[13:47] To LivingYuji: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:47] [8b8t] >> Teleporting to home 0...",
+    "[13:47] [8b8t] >> Teleporting to home 6...",
+    "[13:48] To LivingYuji: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:48] [8b8t] >> Request sent to LivingYuji"
   ],
   "userStats": {
     "76756": 38,
@@ -324,7 +324,7 @@
     ".Ricsike30016": 1,
     "mmma1rquitosss": 19,
     "alastor_gamer89": 6,
-    ".LEON50758": 243,
+    ".LEON50758": 244,
     "Saad2001": 78,
     "FABRICIO_CAPITO": 3,
     "TraceGuy": 1,
@@ -3490,11 +3490,11 @@
     "0_HienBott": 2,
     "DragonPool18": 4,
     "000000000000000D": 2,
-    "LivingYuji": 3
+    "LivingYuji": 4
   },
   "kitStats": {
     "build": 1668,
-    "survival": 6686,
+    "survival": 6687,
     "pvp": 8614,
     "dupe": 2343,
     "tools": 1949,
@@ -3526,6 +3526,6 @@
     "gterracotta": 91,
     "banner": 90,
     "illegal": 706,
-    "elytra": 410
+    "elytra": 411
   }
 }
