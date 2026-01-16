@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:42:39 16/1/2026",
+  "lastUpdated": "11:43:03 16/1/2026",
   "totalKits": 88159,
   "todayKits": 112,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 42,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 247,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8539
+      "count": 8540
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:40] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[04:40] <Sxbz23> noo no es imposible sal por el nether y ya ",
-    "[04:41] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[04:41] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[04:41] <mtiasd10> hola alguien tiene kit estoy en el spanw y no tengo nada ",
-    "[04:41] <Sxbz23> !kit dupe ",
-    "[04:41] [8b8t] >> Teleporting to home 0...",
-    "[04:41] [8b8t] >> Teleporting to home 7...",
-    "[04:41] To Sxbz23: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:41] To Sxbz23: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:41] [8b8t] >> Request sent to Sxbz23",
-    "[04:41] <xxx_osolord_xxx> que haces? ",
     "[04:41] <mtiasd10> !kit dupe ",
     "[04:41] To mtiasd10: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:41] [8b8t] >> Teleporting...",
@@ -101,7 +89,19 @@
     "[04:42] <IloveYouHarlieee> qn me da un kit ",
     "[04:42] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
     "[04:42] <xxx_osolord_xxx> IloveYouHarlieee send tpaa ",
-    "[04:42] [8b8t] >> Teleporting..."
+    "[04:42] [8b8t] >> Teleporting...",
+    "[04:42] <IloveYouHarlieee> no me deja ",
+    "[04:42] <IloveYouHarlieee> xd ",
+    "[04:42] [8b8t] >> You have killed yourself!",
+    "[04:42] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[04:42] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[04:42] <xxx_osolord_xxx> estas en el spawn? ",
+    "[04:42] <IloveYouHarlieee> !kit ",
+    "[04:42] To IloveYouHarlieee: Hello IloveYouHarlieee!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:43] <IloveYouHarlieee> !kit pvp ",
+    "[04:43] [8b8t] >> Teleporting to home 0...",
+    "[04:43] [8b8t] >> Teleporting to home 1...",
+    "[04:43] To IloveYouHarlieee: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3459,12 +3459,13 @@
     "dronestr1ke": 3,
     "NeitherRecord44": 1,
     "ZetrionZ": 4,
-    "mtiasd10": 2
+    "mtiasd10": 2,
+    "IloveYouHarlieee": 1
   },
   "kitStats": {
     "build": 1662,
     "survival": 6641,
-    "pvp": 8539,
+    "pvp": 8540,
     "dupe": 2327,
     "tools": 1935,
     "stash": 1180,
