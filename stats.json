@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:27:00 16/1/2026",
-  "totalKits": 88450,
-  "todayKits": 19,
-  "onlineCount": 32,
+  "lastUpdated": "23:27:14 16/1/2026",
+  "totalKits": 88451,
+  "todayKits": 20,
+  "onlineCount": 33,
   "peakPlayers": 36,
   "tps": "4.0",
   "ping": 276,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8629
+      "count": 8630
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:24] <AdustCloud3179> !bestping ",
-    "[16:24] To AdustCloud3179: Anonymous204205 with 0 ms. Dont forget to join dsc.gg/hienbot",
-    "[16:24] <xSokai_> lomate:v ",
-    "[16:24] <AdustCloud3179> !bestping ",
-    "[16:24] To AdustCloud3179: Anonymous204205 with 0 ms. Dont forget to join dsc.gg/hienbot",
-    "[16:24] <liviaaaaaaa> !bestping ",
-    "[16:24] To liviaaaaaaa: HyprDash with 76 ms. Dont forget to join dsc.gg/hienbot",
     "[16:24] <AdustCloud3179> !bestpin ",
     "[16:24] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[16:24] <AdustCloud3179> !bestping ",
@@ -101,7 +94,14 @@
     "[16:26] <husuu_sigma> shit ",
     "[16:26] To Anonymous204205: Try again Join dsc.gg/hienbot to report the error.",
     "[16:26] <liviaaaaaaa> what ",
-    "[16:26] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
+    "[16:26] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[16:27] <husuu_sigma> !kit Pvp ",
+    "[16:27] [8b8t] >> Teleporting to home 0...",
+    "[16:27] [8b8t] >> Teleporting to home 1...",
+    "[16:27] To husuu_sigma: Your kit (Pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:27] To husuu_sigma: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:27] [8b8t] >> Request sent to husuu_sigma",
+    "[16:27] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3502,12 +3502,12 @@
     "besiro": 3,
     "xSokai_": 3,
     "Mr_Rubic_exe": 1,
-    "husuu_sigma": 4
+    "husuu_sigma": 5
   },
   "kitStats": {
     "build": 1669,
     "survival": 6698,
-    "pvp": 8629,
+    "pvp": 8630,
     "dupe": 2349,
     "tools": 1958,
     "stash": 1198,
