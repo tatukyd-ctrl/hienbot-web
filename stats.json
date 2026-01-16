@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:35:33 16/1/2026",
-  "totalKits": 88355,
-  "todayKits": 308,
+  "lastUpdated": "19:35:56 16/1/2026",
+  "totalKits": 88356,
+  "todayKits": 309,
   "onlineCount": 23,
   "peakPlayers": 42,
-  "tps": "1.0",
-  "ping": 323,
+  "tps": "6.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6676
+      "count": 6677
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:34] [8b8t] >> Teleporting...",
-    "[12:34] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[12:34] [8b8t] >> You have killed yourself!",
-    "[12:34] phonix_01 has made the advancement [Take Aim]",
-    "[12:34] <botchaosonix> come ",
-    "[12:34] <Nickase> !kit survival ",
-    "[12:34] [8b8t] >> Teleporting to home 0...",
-    "[12:34] [8b8t] >> Teleporting to home 1...",
-    "[12:34] To Nickase: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:34] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:34] To Nickase: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:34] [8b8t] >> Request sent to Nickase",
     "[12:34] [8b8t] >> Teleporting...",
@@ -101,7 +91,17 @@
     "[12:35] Nickase has completed the challenge [Serious Dedication]",
     "[12:35] <WA_FI> !kit ",
     "[12:35] To WA_FI: Hello WA_FI!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:35] [8b8t] >> You have killed yourself!"
+    "[12:35] [8b8t] >> You have killed yourself!",
+    "[12:35] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[12:35] <WA_FI> !kit survival ",
+    "[12:35] [8b8t] >> Teleporting to home 0...",
+    "[12:35] [8b8t] >> Teleporting to home 1...",
+    "[12:35] To WA_FI: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:35] To WA_FI: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:35] [8b8t] >> Request sent to WA_FI",
+    "[12:35] [8b8t] >> Teleporting...",
+    "[12:35] <phonix_01> @kit ",
+    "[12:35] To phonix_01: Hello phonix_01!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3485,12 +3485,12 @@
     "datrauma": 1,
     "Gix3er": 1,
     "phonix_01": 10,
-    "WA_FI": 1,
+    "WA_FI": 2,
     "Nickase": 2
   },
   "kitStats": {
     "build": 1666,
-    "survival": 6676,
+    "survival": 6677,
     "pvp": 8606,
     "dupe": 2342,
     "tools": 1945,
