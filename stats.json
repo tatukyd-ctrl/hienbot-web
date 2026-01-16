@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:46:03 16/1/2026",
-  "totalKits": 88306,
-  "todayKits": 259,
+  "lastUpdated": "18:46:22 16/1/2026",
+  "totalKits": 88307,
+  "todayKits": 260,
   "onlineCount": 17,
   "peakPlayers": 42,
-  "tps": "10.0",
-  "ping": 247,
+  "tps": "5.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8591
+      "count": 8592
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:44] [8b8t] >> Teleporting to home 1...",
-    "[11:44] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:44] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:44] [8b8t] >> Request sent to _Lumora_",
-    "[11:44] [8b8t] >> Teleporting...",
-    "[11:44] [8b8t] >> You have killed yourself!",
-    "[11:44] [BOT] <0_HienBot> >Hi DPS_Chatbridge! ",
-    "[11:45] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[11:45] <_Lumora_> !kit pvp ",
-    "[11:45] [8b8t] >> Teleporting to home 0...",
     "[11:45] [8b8t] >> Teleporting to home 1...",
     "[11:45] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:45] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +91,17 @@
     "[11:45] <itz_laeeq> !kit mace ",
     "[11:45] To itz_laeeq: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:45] [8b8t] >> Teleporting...",
-    "[11:46] [8b8t] >> You have killed yourself!"
+    "[11:46] [8b8t] >> You have killed yourself!",
+    "[11:46] [BOT] <0_HienBot> >Hello SpinexGamerz! ",
+    "[11:46] <_Lumora_> !kit pvp ",
+    "[11:46] To _Lumora_: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:46] <_Lumora_> !kit pvp ",
+    "[11:46] [8b8t] >> Teleporting to home 0...",
+    "[11:46] [8b8t] >> Teleporting to home 1...",
+    "[11:46] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:46] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:46] [8b8t] >> Request sent to _Lumora_",
+    "[11:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3429,7 +3429,7 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 4,
-    "_Lumora_": 43,
+    "_Lumora_": 44,
     "REDSBLIN": 1,
     "Citadel": 2,
     "poopman2": 7,
@@ -3489,7 +3489,7 @@
   "kitStats": {
     "build": 1665,
     "survival": 6667,
-    "pvp": 8591,
+    "pvp": 8592,
     "dupe": 2339,
     "tools": 1941,
     "stash": 1192,
