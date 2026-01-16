@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:18:33 16/1/2026",
+  "lastUpdated": "20:19:03 16/1/2026",
   "totalKits": 88384,
   "todayKits": 337,
-  "onlineCount": 28,
+  "onlineCount": 27,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 248,
+  "tps": "2.0",
+  "ping": 348,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6684
+      "count": 6685
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:16] To DragonPool18: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:16] [8b8t] >> Request sent to unknown_2121_",
-    "[13:16] [8b8t] >> Teleporting...",
-    "[13:16] [8b8t] >> You have killed yourself!",
-    "[13:16] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[13:16] DragonPool18 has reached the goal [Postmortal]",
     "[13:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:16] 0_HienBott has made the advancement [Ice Bucket Challenge]",
     "[13:17] <DragonPool18> ingaaa ",
@@ -101,7 +95,13 @@
     "[13:18] To DragonPool18: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:18] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[13:18] <000000000000000D> !Kit ",
-    "[13:18] To 000000000000000D: Hello 000000000000000D!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[13:18] To 000000000000000D: Hello 000000000000000D!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:18] <unknown_2121_> anyone is new??? ",
+    "[13:18] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[13:18] <000000000000000D> !kit ",
+    "[13:18] To 000000000000000D: Hello 000000000000000D!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:19] <000000000000000D> !kit survival ",
+    "[13:19] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3488,11 +3488,12 @@
     "WA_FI": 4,
     "Nickase": 3,
     "0_HienBott": 2,
-    "DragonPool18": 2
+    "DragonPool18": 2,
+    "000000000000000D": 1
   },
   "kitStats": {
     "build": 1666,
-    "survival": 6684,
+    "survival": 6685,
     "pvp": 8612,
     "dupe": 2342,
     "tools": 1949,
