@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:02:00 16/1/2026",
+  "lastUpdated": "23:02:30 16/1/2026",
   "totalKits": 88439,
   "todayKits": 8,
   "onlineCount": 32,
   "peakPlayers": 33,
-  "tps": "4.0",
-  "ping": 256,
+  "tps": "2.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8626
+      "count": 8627
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:59] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[15:59] <vmariofakegg> a gift 4 u ",
-    "[15:59] <Mr_Rubic_exe> i'm spawn ",
-    "[15:59] You were kicked from 8b8t: Timed out",
-    "[15:59] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[15:59] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
-    "[15:59] [8b8t] Unknown command do /help",
-    "[15:59] [8b8t] >> Welcome .DragonForgeMC to 8b8t.me Lobby",
-    "[15:59] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[15:59] You are already connected to this server!",
     "[15:59] [8b8t] >> You have killed yourself!",
     "[15:59] You are already connected to this server!",
@@ -101,7 +92,16 @@
     "[16:01] [BOT] <0_HienBot> >Hi Dixz_1272! ",
     "[16:01] keitrox has made the advancement [We Need to Go Deeper]",
     "[16:01] <vmariofakegg> my home got destroyed a long ago, i had like 20-30 shulkers full of stuff out spawn in 20k exactly ",
-    "[16:01] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[16:01] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[16:02] Mr_Rubic_exe has made the advancement [Ice Bucket Challenge]",
+    "[16:02] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[16:02] <Sgamestream> !kit pvp ",
+    "[16:02] [8b8t] >> Teleporting to home 0...",
+    "[16:02] [8b8t] >> Teleporting to home 1...",
+    "[16:02] To Sgamestream: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:02] To Sgamestream: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:02] [8b8t] >> Request sent to Sgamestream",
+    "[16:02] <doxedap1> !kit "
   ],
   "userStats": {
     "76756": 38,
@@ -2389,7 +2389,7 @@
     "Yusuphene": 11,
     "leopro312": 1,
     "8uit": 3,
-    "Sgamestream": 29,
+    "Sgamestream": 30,
     "yesNipunpie": 2,
     "LoMejorDeMi463": 3,
     "CroissanatDad": 1,
@@ -3505,7 +3505,7 @@
   "kitStats": {
     "build": 1669,
     "survival": 6694,
-    "pvp": 8626,
+    "pvp": 8627,
     "dupe": 2349,
     "tools": 1957,
     "stash": 1196,
