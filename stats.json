@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:55:01 17/1/2026",
+  "lastUpdated": "03:55:31 17/1/2026",
   "totalKits": 88605,
   "todayKits": 174,
   "onlineCount": 36,
   "peakPlayers": 53,
-  "tps": "2.0",
-  "ping": 260,
+  "tps": "3.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6721
+      "count": 6722
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:53] [8b8t] >> The TPA request you sent to Popeyefemboy was successfully canceled.",
-    "[20:53] To Popeyefemboy: You took too long to accept! 35s cooldown. Dont forget to join dsc.gg/hienbot",
-    "[20:53] [BOT] <0_HienBot> >Type !discord ",
-    "[20:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:53] <L0NESURV1VOR> !kit PVP ",
-    "[20:53] [8b8t] >> Teleporting to home 0...",
-    "[20:53] [8b8t] >> Teleporting to home 1...",
     "[20:53] To L0NESURV1VOR: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[20:53] To L0NESURV1VOR: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:53] [8b8t] >> Request sent to L0NESURV1VOR",
@@ -101,7 +94,14 @@
     "[20:54] To L0NESURV1VOR: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:54] [8b8t] >> You have killed yourself!",
     "[20:54] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[20:54] [8b8t] >> The TPA request you sent to shandy22 was successfully canceled."
+    "[20:54] [8b8t] >> The TPA request you sent to shandy22 was successfully canceled.",
+    "[20:55] <L0NESURV1VOR> !kit survival ",
+    "[20:55] [8b8t] >> Teleporting to home 0...",
+    "[20:55] [8b8t] >> Teleporting to home 1...",
+    "[20:55] To L0NESURV1VOR: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:55] To L0NESURV1VOR: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:55] [8b8t] >> Request sent to L0NESURV1VOR",
+    "[20:55] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "76756": 38,
@@ -3525,12 +3525,12 @@
     "selhemaridy": 3,
     "XxIsrxX": 6,
     "elpepelegana": 2,
-    "L0NESURV1VOR": 1,
+    "L0NESURV1VOR": 2,
     "shandy22": 1
   },
   "kitStats": {
     "build": 1676,
-    "survival": 6721,
+    "survival": 6722,
     "pvp": 8704,
     "dupe": 2358,
     "tools": 1963,
