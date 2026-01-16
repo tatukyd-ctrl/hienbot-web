@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:23:33 16/1/2026",
-  "totalKits": 88221,
-  "todayKits": 174,
+  "lastUpdated": "15:23:49 16/1/2026",
+  "totalKits": 88222,
+  "todayKits": 175,
   "onlineCount": 23,
   "peakPlayers": 42,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 243,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8564
+      "count": 8565
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:21] To ImPulseStory2: You're on cooldown, try again in 56 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:21] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[08:22] <.Fatboi653831> !kit lava ",
-    "[08:22] [8b8t] >> Teleporting to home 0...",
-    "[08:22] [8b8t] >> Teleporting to home 7...",
-    "[08:22] To .Fatboi653831: Your kit (lava) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:22] To .Fatboi653831: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:22] [8b8t] >> Request sent to .Fatboi653831",
     "[08:22] [8b8t] >> Teleporting...",
     "[08:22] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[08:23] Skye120 has made the advancement [Ice Bucket Challenge]",
     "[08:23] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[08:23] <Yamaniko> !kit pvp ",
-    "[08:23] To Yamaniko: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot"
+    "[08:23] To Yamaniko: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:23] <Yamaniko> !kit pvp ",
+    "[08:23] [8b8t] >> Teleporting to home 0...",
+    "[08:23] [8b8t] >> Teleporting to home 1...",
+    "[08:23] To Yamaniko: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:23] To Yamaniko: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:23] [8b8t] >> Request sent to Yamaniko",
+    "[08:23] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -703,7 +703,7 @@
     "Lguru": 7,
     "spoocs1": 7,
     "Devil____69": 25,
-    "Yamaniko": 16,
+    "Yamaniko": 17,
     "ecrinsu": 3,
     "Mrtax11": 61,
     "Pavlegre": 6,
@@ -3479,7 +3479,7 @@
   "kitStats": {
     "build": 1663,
     "survival": 6655,
-    "pvp": 8564,
+    "pvp": 8565,
     "dupe": 2335,
     "tools": 1936,
     "stash": 1188,
