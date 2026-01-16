@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:43:33 16/1/2026",
+  "lastUpdated": "18:44:03 16/1/2026",
   "totalKits": 88303,
   "todayKits": 256,
-  "onlineCount": 16,
+  "onlineCount": 17,
   "peakPlayers": 42,
-  "tps": "8.0",
-  "ping": 249,
+  "tps": "7.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8589
+      "count": 8590
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:41] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:41] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:41] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[11:41] [8b8t] >> Request sent to _Lumora_",
     "[11:41] [8b8t] >> Teleporting...",
     "[11:41] [8b8t] >> You have killed yourself!",
     "[11:41] <unknown_2121_> why ",
@@ -101,7 +97,11 @@
     "[11:42] itz_laeeq Whispers: an",
     "[11:42] [8b8t] >> You have killed yourself!",
     "[11:42] <unknown_2121_> why these questions ",
-    "[11:43] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks "
+    "[11:43] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[11:43] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[11:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[11:43] <unknown_2121_> let's tp player and give this pic to them ",
+    "[11:44] <_Lumora_> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3429,7 +3429,7 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 4,
-    "_Lumora_": 41,
+    "_Lumora_": 42,
     "REDSBLIN": 1,
     "Citadel": 2,
     "poopman2": 7,
@@ -3489,7 +3489,7 @@
   "kitStats": {
     "build": 1665,
     "survival": 6667,
-    "pvp": 8589,
+    "pvp": 8590,
     "dupe": 2339,
     "tools": 1940,
     "stash": 1192,
