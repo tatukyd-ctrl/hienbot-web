@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:34:03 16/1/2026",
+  "lastUpdated": "14:34:33 16/1/2026",
   "totalKits": 88198,
   "todayKits": 151,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 42,
-  "tps": "16.0",
-  "ping": 245,
+  "tps": "7.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6649
+      "count": 6650
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:31] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[07:31] <.LEON50758> hi ",
-    "[07:31] [BOT] <0_HienBot> >Type !discord ",
-    "[07:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:31] <.Stormtroop4926> !kit stash ",
-    "[07:31] [8b8t] >> Teleporting to home 0...",
-    "[07:31] [8b8t] >> Home 2 was not found",
     "[07:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[07:31] To .Stormtroop4926: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:31] To .Stormtroop4926: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +94,14 @@
     "[07:33] <HewJitler> pls kit ",
     "[07:33] [BOT] <0_HienBot> >What's up, HighwayCleaner? ",
     "[07:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[07:33] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
+    "[07:33] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[07:34] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[07:34] <brojsutgame> !kit survival ",
+    "[07:34] [8b8t] >> Teleporting to home 0...",
+    "[07:34] [8b8t] >> Teleporting to home 1...",
+    "[07:34] To brojsutgame: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:34] To brojsutgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:34] [8b8t] >> Request sent to brojsutgame"
   ],
   "userStats": {
     "76756": 38,
@@ -3406,7 +3406,7 @@
     "zenciseven31776": 3,
     "Manteca_Prime": 1,
     "LaParka_239": 5,
-    "brojsutgame": 11,
+    "brojsutgame": 12,
     "SweetiePieeee__": 2,
     "Jamjox": 1,
     "_Hien2309_": 1,
@@ -3474,7 +3474,7 @@
   },
   "kitStats": {
     "build": 1663,
-    "survival": 6649,
+    "survival": 6650,
     "pvp": 8560,
     "dupe": 2332,
     "tools": 1935,
