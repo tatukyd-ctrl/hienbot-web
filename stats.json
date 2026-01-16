@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:24:15 16/1/2026",
+  "lastUpdated": "07:24:33 16/1/2026",
   "totalKits": 88056,
   "todayKits": 9,
   "onlineCount": 29,
   "peakPlayers": 42,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 263,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:22] <Russako> !bestping ",
-    "[00:22] To Russako: yay with 40 ms. Dont forget to join dsc.gg/hienbot",
-    "[00:22] <yay> me ",
-    "[00:22] [BOT] <0_HienBot> >Welcome to 8b8t, WenlerMaster! ",
-    "[00:22] <Herobrai2990> wtf happened ",
-    "[00:22] <Russako> yay tp ",
-    "[00:22] <yay> i have god tier ping] lol' ",
-    "[00:23] <iam_m4rc> !kit elytra ",
-    "[00:23] [8b8t] >> Teleporting to home 0...",
-    "[00:23] [8b8t] >> Teleporting to home 6...",
     "[00:23] To iam_m4rc: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[00:23] <diossues2_java> !kit dupe ",
     "[00:23] To diossues2_java: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[00:23] To diossues2_java: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:23] [8b8t] >> Request sent to diossues2_java",
     "[00:24] [8b8t] >> Teleporting...",
-    "[00:24] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot "
+    "[00:24] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[00:24] [8b8t] >> You have killed yourself!",
+    "[00:24] <.XBLAZEFOOTX> !kit redstone ",
+    "[00:24] [8b8t] >> Teleporting to home 0...",
+    "[00:24] [8b8t] >> Home 2 was not found",
+    "[00:24] To .XBLAZEFOOTX: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:24] <AdustCloud3179> !kit ",
+    "[00:24] To AdustCloud3179: Hello AdustCloud3179!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[00:24] To .XBLAZEFOOTX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:24] [8b8t] >> Request sent to .XBLAZEFOOTX",
+    "[00:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2577,7 +2577,7 @@
     "stuck_alt": 56,
     "efraddada": 51,
     "hmadyuh": 41,
-    ".XBLAZEFOOTX": 14,
+    ".XBLAZEFOOTX": 15,
     "Floobius446": 1,
     "JackMan13244": 1,
     "TheeIceez": 3,
@@ -3463,7 +3463,7 @@
     "wool": 475,
     "mineral": 581,
     "food": 532,
-    "redstone": 833,
+    "redstone": 834,
     "toolbox": 772,
     "quartz": 326,
     "shulker": 627,
