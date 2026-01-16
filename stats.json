@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:15:31 17/1/2026",
+  "lastUpdated": "05:16:01 17/1/2026",
   "totalKits": 88641,
   "todayKits": 210,
   "onlineCount": 37,
   "peakPlayers": 53,
-  "tps": "2.0",
-  "ping": 255,
+  "tps": "6.0",
+  "ping": 265,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8713
+      "count": 8714
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:13] [BOT] <0_HienBot> >Hey DPS_Chatbridge! ",
-    "[22:14] <Antonhysv> !kit raid ",
-    "[22:14] [8b8t] >> Teleporting to home 0...",
-    "[22:14] [8b8t] >> Home 2 was not found",
-    "[22:14] To Antonhysv: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:14] To Antonhysv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:14] <ALSIO1243> PLEASEEEE tp ",
-    "[22:14] [8b8t] >> Request sent to Antonhysv",
-    "[22:14] [8b8t] >> Teleporting...",
-    "[22:14] [BOT] <0_HienBot> >What's up, blememeformymist? ",
-    "[22:14] [8b8t] >> You have killed yourself!",
     "[22:14] LiflexMC has made the advancement [We Need to Go Deeper]",
     "[22:14] blememeformymist has made the advancement [Sweet dreams]",
     "[22:14] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
@@ -101,7 +90,18 @@
     "[22:15] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[22:15] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[22:15] <LiflexMC> !kit ",
-    "[22:15] To LiflexMC: Hello LiflexMC!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[22:15] To LiflexMC: Hello LiflexMC!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:15] [8b8t] >> You have killed yourself!",
+    "[22:15] [8b8t] >> No TPA request found",
+    "[22:15] <LiflexMC> !kit PVP ",
+    "[22:15] [8b8t] >> Teleporting to home 0...",
+    "[22:15] [8b8t] >> Teleporting to home 1...",
+    "[22:15] To LiflexMC: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:15] To LiflexMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:15] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[22:15] <Antonhysv> !kit build ",
+    "[22:15] [8b8t] >> Request sent to LiflexMC",
+    "[22:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3530,12 +3530,13 @@
     "Laudasur69": 1,
     "elrompemachos": 3,
     "joquinsa": 1,
-    "Angxs743": 2
+    "Angxs743": 2,
+    "LiflexMC": 1
   },
   "kitStats": {
     "build": 1676,
     "survival": 6726,
-    "pvp": 8713,
+    "pvp": 8714,
     "dupe": 2366,
     "tools": 1971,
     "stash": 1214,
