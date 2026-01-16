@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:07:03 16/1/2026",
+  "lastUpdated": "09:07:33 16/1/2026",
   "totalKits": 88118,
   "todayKits": 71,
-  "onlineCount": 36,
+  "onlineCount": 33,
   "peakPlayers": 42,
-  "tps": "3.0",
+  "tps": "6.0",
   "ping": 256,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6629
+      "count": 6630
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:04] <SnowBlueBR> !kit ",
-    "[02:04] To SnowBlueBR: Hello SnowBlueBR!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:04] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[02:04] <NeitherRecord44> !kit ",
-    "[02:04] To NeitherRecord44: Hello NeitherRecord44!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:04] <SnowBlueBR> !pvp ",
-    "[02:04] [BOT] <0_HienBot> >Hey rossikkjj! ",
-    "[02:04] <SnowBlueBR> !kit pvp ",
-    "[02:04] [8b8t] >> Teleporting to home 0...",
-    "[02:04] [8b8t] >> Teleporting to home 1...",
-    "[02:04] To SnowBlueBR: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:04] To SnowBlueBR: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:04] [8b8t] >> Request sent to SnowBlueBR",
     "[02:05] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
@@ -101,7 +90,18 @@
     "[02:06] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
     "[02:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[02:06] <SnowBlueBR> !kits ",
-    "[02:07] <Team_Kowalski> !kits "
+    "[02:07] <Team_Kowalski> !kits ",
+    "[02:07] <SnowBlueBR> !kit ",
+    "[02:07] To SnowBlueBR: Hello SnowBlueBR!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:07] <Team_Kowalski> !kit ",
+    "[02:07] To Team_Kowalski: Hello Team_Kowalski!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:07] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[02:07] <Team_Kowalski> !kit survival ",
+    "[02:07] [8b8t] >> Teleporting to home 0...",
+    "[02:07] [8b8t] >> Teleporting to home 1...",
+    "[02:07] To Team_Kowalski: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:07] To Team_Kowalski: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:07] [8b8t] >> Request sent to Team_Kowalski"
   ],
   "userStats": {
     "76756": 38,
@@ -3452,13 +3452,13 @@
     "Xxtumbaauelas": 6,
     "JOEYTOM": 1,
     "hiospreerubi": 9,
-    "Team_Kowalski": 1,
+    "Team_Kowalski": 2,
     "SnowBlueBR": 2,
     "CommonHat": 1
   },
   "kitStats": {
     "build": 1662,
-    "survival": 6629,
+    "survival": 6630,
     "pvp": 8532,
     "dupe": 2322,
     "tools": 1933,
