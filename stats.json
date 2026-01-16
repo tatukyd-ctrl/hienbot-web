@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:48:03 16/1/2026",
+  "lastUpdated": "07:48:33 16/1/2026",
   "totalKits": 88075,
   "todayKits": 28,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 42,
-  "tps": "4.0",
-  "ping": 255,
+  "tps": "6.0",
+  "ping": 304,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:46] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[00:46] <Russako> lol ",
-    "[00:46] <fabric_XxX> santi pvp  o miedo? ",
-    "[00:46] <RT_agarie143> !kit totem ",
-    "[00:46] To RT_agarie143: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:47] <Willythebilly61> no ",
-    "[00:47] <RT_agarie143> !kit Mazo ",
-    "[00:47] To RT_agarie143: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:47] <santipedro> si vos hakersito de mierda ",
     "[00:47] [BOT] <0_HienBot> >Try !кιт survival ",
     "[00:47] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[00:47] <santipedro> ni en pedo ",
@@ -101,7 +92,16 @@
     "[00:47] To Chr1s_th3_s1gma: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[00:47] To Chr1s_th3_s1gma: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:47] [8b8t] >> Request sent to Chr1s_th3_s1gma",
-    "[00:47] [8b8t] >> Teleporting..."
+    "[00:47] [8b8t] >> Teleporting...",
+    "[00:48] [8b8t] >> You have killed yourself!",
+    "[00:48] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[00:48] <fabric_XxX> alguien pvp?¿¿¿ ",
+    "[00:48] <RT_agarie143> !kit Mazo ",
+    "[00:48] To RT_agarie143: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:48] <RT_agarie143> !kit Mazo ",
+    "[00:48] [8b8t] >> Teleporting to home 0...",
+    "[00:48] [8b8t] >> Home 2 was not found",
+    "[00:48] To RT_agarie143: Kit \"Mazo\" not found! Giving you (gap) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1390,7 +1390,7 @@
     "RealityFlame": 19,
     "fearjeffy": 36,
     "Juanytoyt208": 15,
-    "RT_agarie143": 17,
+    "RT_agarie143": 18,
     "HelloItsMeAgain": 2,
     "TheWrlQ": 11,
     "FaxMachine5712": 1,
@@ -3474,7 +3474,7 @@
     "ocean": 164,
     "concrete": 404,
     "glass": 323,
-    "gap": 217,
+    "gap": 218,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 201,
