@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:56:31 17/1/2026",
+  "lastUpdated": "04:57:01 17/1/2026",
   "totalKits": 88634,
   "todayKits": 203,
   "onlineCount": 38,
   "peakPlayers": 53,
   "tps": "3.0",
-  "ping": 263,
+  "ping": 290,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6725
+      "count": 6726
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:51] [8b8t] >> You have killed yourself!",
-    "[21:51] <joquinsa> alguien me regala un kit pls ",
-    "[21:51] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
-    "[21:52] [Ultra] <HTP1P0> 14mate w ",
-    "[21:52] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[21:52] <Boreksizpogaca> t ",
-    "[21:52] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[21:52] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[21:53] [8b8t] >> Please do not spam.",
     "[21:53] <joquinsa> como ",
     "[21:53] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[21:54] <joquinsa> !kit ",
@@ -101,7 +92,16 @@
     "[21:56] To Sgamestream: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:56] [8b8t] >> Request sent to Sgamestream",
     "[21:56] <Sgamestream> .. ",
-    "[21:56] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
+    "[21:56] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[21:56] [8b8t] >> You have killed yourself!",
+    "[21:56] [8b8t] >> The TPA request you sent to Sgamestream was successfully canceled.",
+    "[21:56] <joquinsa> !kit survival ",
+    "[21:56] [8b8t] >> Teleporting to home 0...",
+    "[21:56] [8b8t] >> Teleporting to home 1...",
+    "[21:56] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[21:56] To joquinsa: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:56] To joquinsa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:57] [8b8t] >> Request sent to joquinsa"
   ],
   "userStats": {
     "76756": 38,
@@ -3528,11 +3528,12 @@
     "L0NESURV1VOR": 2,
     "shandy22": 1,
     "Laudasur69": 1,
-    "elrompemachos": 3
+    "elrompemachos": 3,
+    "joquinsa": 1
   },
   "kitStats": {
     "build": 1676,
-    "survival": 6725,
+    "survival": 6726,
     "pvp": 8711,
     "dupe": 2366,
     "tools": 1968,
