@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:01:31 17/1/2026",
+  "lastUpdated": "04:02:01 17/1/2026",
   "totalKits": 88606,
   "todayKits": 175,
-  "onlineCount": 31,
+  "onlineCount": 33,
   "peakPlayers": 53,
-  "tps": "6.0",
-  "ping": 254,
+  "tps": "4.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:57] To Laudasur69: Hello Laudasur69!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:58] <6ex90ne_top> !kit pvp ",
-    "[20:58] [8b8t] >> Teleporting to home 0...",
-    "[20:58] [8b8t] >> Teleporting to home 1...",
-    "[20:58] To 6ex90ne_top: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:58] To 6ex90ne_top: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:58] [8b8t] >> Request sent to 6ex90ne_top",
-    "[20:58] [8b8t] >> Teleporting...",
     "[20:58] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[20:58] [8b8t] >> You have killed yourself!",
     "[20:58] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +93,15 @@
     "[21:00] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[21:00] <XxIsrxX> !kit illegal ",
     "[21:00] To XxIsrxX: You're on cooldown, try again in 19 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:01] [BOT] <0_HienBot> >Type !кιт  to get free kits "
+    "[21:01] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[21:01] <Laudasur69> !kit mixed ",
+    "[21:01] [8b8t] >> Teleporting to home 0...",
+    "[21:01] [8b8t] >> Home 2 was not found",
+    "[21:01] To Laudasur69: Kit \"mixed\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[21:01] To Laudasur69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:01] [8b8t] >> Request sent to Laudasur69",
+    "[21:01] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[21:01] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
   ],
   "userStats": {
     "76756": 38,
@@ -3526,7 +3526,8 @@
     "XxIsrxX": 7,
     "elpepelegana": 2,
     "L0NESURV1VOR": 2,
-    "shandy22": 1
+    "shandy22": 1,
+    "Laudasur69": 1
   },
   "kitStats": {
     "build": 1676,
@@ -3534,7 +3535,7 @@
     "pvp": 8705,
     "dupe": 2359,
     "tools": 1963,
-    "stash": 1211,
+    "stash": 1212,
     "raid": 1396,
     "wood": 569,
     "exp": 811,
