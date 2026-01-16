@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:10:01 17/1/2026",
+  "lastUpdated": "03:10:31 17/1/2026",
   "totalKits": 88593,
   "todayKits": 162,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 53,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 260,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8698
+      "count": 8699
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:04] [8b8t] >> Please do not spam.",
-    "[20:04] <Shisuim1> !kit satsh ",
-    "[20:04] [8b8t] >> Teleporting to home 0...",
-    "[20:04] [8b8t] >> Teleporting to home 1...",
-    "[20:04] To Shisuim1: Kit \"satsh\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
-    "[20:05] To Shisuim1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:05] [8b8t] >> Request sent to Shisuim1",
     "[20:05] [8b8t] >> Teleporting...",
     "[20:05] [8b8t] >> You have killed yourself!",
     "[20:05] [BOT] <0_HienBot> >Hmmmmmmmmm ",
@@ -101,7 +94,14 @@
     "[20:09] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[20:09] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[20:09] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[20:09] [Ultra] <KurtzMC> 339 254 "
+    "[20:09] [Ultra] <KurtzMC> 339 254 ",
+    "[20:10] <nesterpel> !kit pvp ",
+    "[20:10] [8b8t] >> Teleporting to home 0...",
+    "[20:10] [8b8t] >> Teleporting to home 1...",
+    "[20:10] To nesterpel: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:10] To nesterpel: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:10] [8b8t] >> Request sent to nesterpel",
+    "[20:10] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "76756": 38,
@@ -3518,12 +3518,13 @@
     "Grasseos": 1,
     "diossues4": 5,
     "pizzero_estrello": 6,
-    "Popeyefemboy": 1
+    "Popeyefemboy": 1,
+    "nesterpel": 1
   },
   "kitStats": {
     "build": 1676,
     "survival": 6706,
-    "pvp": 8698,
+    "pvp": 8699,
     "dupe": 2357,
     "tools": 1963,
     "stash": 1210,
