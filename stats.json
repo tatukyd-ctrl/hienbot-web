@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:59:28 16/1/2026",
+  "lastUpdated": "21:59:33 16/1/2026",
   "totalKits": 88414,
   "todayKits": 367,
   "onlineCount": 27,
   "peakPlayers": 42,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 255,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8620
+      "count": 8621
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:56] mxmi666 has made the advancement [Stone Age]",
-    "[14:56] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[14:57] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[14:57] <unknown_2121_> hello mxmi666 ",
-    "[14:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:57] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[14:57] <mxmi666> thank you ",
     "[14:57] <yra112> can someone tp me 20k out? ",
     "[14:58] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
@@ -101,7 +95,13 @@
     "[14:59] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:59] [8b8t] >> Teleporting...",
     "[14:59] <_Lumora_> !kit pvp ",
-    "[14:59] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[14:59] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:59] <yra112> ty ",
+    "[14:59] [8b8t] >> You have killed yourself!",
+    "[14:59] <_Lumora_> !kit pvp ",
+    "[14:59] [8b8t] >> Teleporting to home 0...",
+    "[14:59] [8b8t] >> Teleporting to home 1...",
+    "[14:59] To _Lumora_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3429,7 +3429,7 @@
     "vmariofakegg": 1,
     "matitas292": 6,
     "TheRealDrDonut": 4,
-    "_Lumora_": 65,
+    "_Lumora_": 66,
     "REDSBLIN": 1,
     "Citadel": 2,
     "poopman2": 7,
@@ -3499,7 +3499,7 @@
   "kitStats": {
     "build": 1668,
     "survival": 6690,
-    "pvp": 8620,
+    "pvp": 8621,
     "dupe": 2345,
     "tools": 1952,
     "stash": 1196,
