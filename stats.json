@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:01:03 16/1/2026",
-  "totalKits": 88172,
-  "todayKits": 125,
+  "lastUpdated": "13:01:13 16/1/2026",
+  "totalKits": 88173,
+  "todayKits": 126,
   "onlineCount": 17,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 242,
+  "tps": "7.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:56] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[05:56] [8b8t] >> You have killed yourself!",
-    "[05:56] [8b8t] >> The TPA request you sent to Fewsito was successfully canceled.",
-    "[05:57] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[05:57] <Fewsito> !kit stash ",
-    "[05:57] To Fewsito: You're on cooldown, try again in 21 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:57] HobGobOnTop has completed the challenge [Subspace Bubble]",
     "[05:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[05:57] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[05:58] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
@@ -101,7 +94,14 @@
     "[05:59] <.LEON50758> !nc ",
     "[06:00] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[06:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:00] [BOT] <0_HienBot> >Hi Fewsito! "
+    "[06:00] [BOT] <0_HienBot> >Hi Fewsito! ",
+    "[06:01] <Fewsito> !kit stash ",
+    "[06:01] [8b8t] >> Teleporting to home 0...",
+    "[06:01] [8b8t] >> Home 2 was not found",
+    "[06:01] To Fewsito: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:01] To Fewsito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:01] [8b8t] >> Request sent to Fewsito",
+    "[06:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3462,7 +3462,7 @@
     "mtiasd10": 4,
     "IloveYouHarlieee": 1,
     "tocagordas": 6,
-    "Fewsito": 3,
+    "Fewsito": 4,
     "USD": 1,
     "HobGobOnTop": 1
   },
@@ -3472,7 +3472,7 @@
     "pvp": 8545,
     "dupe": 2328,
     "tools": 1935,
-    "stash": 1183,
+    "stash": 1184,
     "raid": 1386,
     "wood": 567,
     "exp": 793,
