@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:46:01 17/1/2026",
+  "lastUpdated": "02:46:31 17/1/2026",
   "totalKits": 88589,
   "todayKits": 158,
-  "onlineCount": 40,
+  "onlineCount": 38,
   "peakPlayers": 53,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 261,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8696
+      "count": 8697
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:44] <unknown_2121_> !kit build ",
-    "[19:44] [8b8t] >> Teleporting to home 0...",
-    "[19:44] [8b8t] >> Home 2 was not found",
-    "[19:44] To unknown_2121_: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:44] To unknown_2121_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:44] [8b8t] >> Request sent to unknown_2121_",
-    "[19:44] <GartenzwergGnom> can some one give me stuff ",
     "[19:44] <GartenzwergGnom> spawn ",
     "[19:44] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[19:44] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[19:45] <Exoshi> is there someone st spawn ? ",
     "[19:45] <Jhon2_87> primera ves que pvp con hacks ",
     "[19:45] <SavageJfs> configuralos bien ",
-    "[19:45] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
+    "[19:45] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[19:46] <ASneakySenior> Anyone know AoDxPrince? ",
+    "[19:46] elxit Whispers: ya tengo 3 burros",
+    "[19:46] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[19:46] <SavageJfs> !kit pvp ",
+    "[19:46] [8b8t] >> Teleporting to home 0...",
+    "[19:46] [8b8t] >> Teleporting to home 1...",
+    "[19:46] To SavageJfs: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2910,7 +2910,7 @@
     "ADR1FLAN": 2,
     "FLAMEalem12": 1,
     ".SoulRanger53204": 17,
-    "SavageJfs": 18,
+    "SavageJfs": 19,
     "FilixSNP": 1,
     "hola_soy_german": 1,
     "Riiper3268171": 1,
@@ -3522,7 +3522,7 @@
   "kitStats": {
     "build": 1676,
     "survival": 6705,
-    "pvp": 8696,
+    "pvp": 8697,
     "dupe": 2357,
     "tools": 1963,
     "stash": 1210,
