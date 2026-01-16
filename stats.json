@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:23:33 16/1/2026",
-  "totalKits": 88339,
-  "todayKits": 292,
+  "lastUpdated": "19:23:57 16/1/2026",
+  "totalKits": 88340,
+  "todayKits": 293,
   "onlineCount": 27,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 248,
+  "tps": "3.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:22] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[12:22] <SlimeCrafter_99> gahaha ",
-    "[12:22] <unknown_2121_> !kit maxe ",
-    "[12:22] [8b8t] >> Teleporting to home 0...",
-    "[12:22] [8b8t] >> Teleporting to home 6...",
-    "[12:22] To unknown_2121_: Kit \"maxe\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
-    "[12:22] To unknown_2121_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:22] [8b8t] >> Request sent to unknown_2121_",
     "[12:22] [8b8t] >> Teleporting...",
     "[12:22] [8b8t] >> You have killed yourself!",
     "[12:22] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
@@ -101,7 +93,15 @@
     "[12:23] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[12:23] <6ex90ne_top> phonix_01 sorry ",
     "[12:23] [8b8t] >> You have killed yourself!",
-    "[12:23] [8b8t] >> The TPA request you sent to _Lumora_ was successfully canceled."
+    "[12:23] [8b8t] >> The TPA request you sent to _Lumora_ was successfully canceled.",
+    "[12:23] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[12:23] <phonix_01> !kit elytra ",
+    "[12:23] [8b8t] >> Teleporting to home 0...",
+    "[12:23] [8b8t] >> Teleporting to home 6...",
+    "[12:23] To phonix_01: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:23] To phonix_01: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:23] [8b8t] >> Request sent to phonix_01",
+    "[12:23] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3484,7 +3484,7 @@
     "0_HeinBott": 2,
     "datrauma": 1,
     "Gix3er": 1,
-    "phonix_01": 6
+    "phonix_01": 7
   },
   "kitStats": {
     "build": 1666,
@@ -3520,6 +3520,6 @@
     "gterracotta": 90,
     "banner": 90,
     "illegal": 706,
-    "elytra": 405
+    "elytra": 406
   }
 }
