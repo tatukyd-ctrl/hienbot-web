@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:03:03 16/1/2026",
+  "lastUpdated": "07:03:33 16/1/2026",
   "totalKits": 88048,
   "todayKits": 1,
   "onlineCount": 22,
   "peakPlayers": 42,
-  "tps": "9.0",
-  "ping": 254,
+  "tps": "1.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8503
+      "count": 8504
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:00] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[00:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[00:00] <WenlerMaster> aun se puede v: ",
-    "[00:00] <.XBLAZEFOOTX> !kit pvp ",
-    "[00:00] To .XBLAZEFOOTX: You're on cooldown, try again in 9 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:01] <BypassingSS> entren para kits gratis ",
-    "[00:01] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[00:01] <.XBLAZEFOOTX> !kit pvp ",
     "[00:01] [8b8t] >> Teleporting to home 0...",
     "[00:01] [8b8t] >> Teleporting to home 1...",
     "[00:01] To .XBLAZEFOOTX: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[00:02] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[00:02] <yay> !bestping ",
     "[00:02] To yay: yay with 30 ms. Dont forget to join dsc.gg/hienbot",
-    "[00:02] <yay> 30ms "
+    "[00:02] <yay> 30ms ",
+    "[00:03] [8b8t] >> Please do not spam.",
+    "[00:03] <.XBLAZEFOOTX> !kit pvp ",
+    "[00:03] [8b8t] >> Teleporting to home 0...",
+    "[00:03] [8b8t] >> Teleporting to home 1...",
+    "[00:03] To .XBLAZEFOOTX: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:03] <WenlerMaster> ese es ",
+    "[00:03] To .XBLAZEFOOTX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:03] [8b8t] >> Request sent to .XBLAZEFOOTX"
   ],
   "userStats": {
     "76756": 38,
@@ -2577,7 +2577,7 @@
     "stuck_alt": 56,
     "efraddada": 51,
     "hmadyuh": 41,
-    ".XBLAZEFOOTX": 10,
+    ".XBLAZEFOOTX": 11,
     "Floobius446": 1,
     "JackMan13244": 1,
     "TheeIceez": 3,
@@ -3451,7 +3451,7 @@
   "kitStats": {
     "build": 1662,
     "survival": 6623,
-    "pvp": 8503,
+    "pvp": 8504,
     "dupe": 2315,
     "tools": 1930,
     "stash": 1176,
