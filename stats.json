@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:20:03 16/1/2026",
+  "lastUpdated": "22:20:33 16/1/2026",
   "totalKits": 88420,
   "todayKits": 373,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 42,
-  "tps": "2.0",
-  "ping": 249,
+  "tps": "5.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:16] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[15:16] <DrSquiddy69> nice ",
-    "[15:16] <botchaosonix> you need surround ",
-    "[15:16] <botchaosonix> turn on surround ",
-    "[15:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[15:17] <botchaosonix> Pop pop pop wont stop till you drop Simblebot ",
     "[15:17] <botchaosonix> Music to my ears Simblebot ",
     "[15:17] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[15:17] <botchaosonix> I love it when you pop Simblebot ",
@@ -101,7 +94,14 @@
     "[15:19] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[15:19] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[15:19] <Mobiiik> unknown_2121_ accept ",
-    "[15:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[15:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[15:20] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[15:20] <SnowBlueBR> !kit elaytra ",
+    "[15:20] [8b8t] >> Teleporting to home 0...",
+    "[15:20] [8b8t] >> Teleporting to home 3...",
+    "[15:20] To SnowBlueBR: Kit \"elaytra\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
+    "[15:20] To SnowBlueBR: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:20] [8b8t] >> Request sent to SnowBlueBR"
   ],
   "userStats": {
     "76756": 38,
@@ -3453,7 +3453,7 @@
     "JOEYTOM": 1,
     "hiospreerubi": 9,
     "Team_Kowalski": 2,
-    "SnowBlueBR": 2,
+    "SnowBlueBR": 3,
     "CommonHat": 1,
     "soyparty": 1,
     "dronestr1ke": 3,
@@ -3520,7 +3520,7 @@
     "armortrims": 575,
     "highway": 637,
     "ocean": 165,
-    "concrete": 410,
+    "concrete": 411,
     "glass": 326,
     "gap": 218,
     "constructor": "function Object() { [native code] }111111111",
