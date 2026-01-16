@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:23:31 16/1/2026",
+  "lastUpdated": "07:24:03 16/1/2026",
   "totalKits": 88055,
   "todayKits": 8,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 42,
-  "tps": "6.0",
+  "tps": "1.0",
   "ping": 251,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2316
+      "count": 2317
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:22] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[00:22] <Russako> !tp ",
-    "[00:22] <Russako> !tps ",
-    "[00:22] To Russako: Current TPS: 4.00 Dont forget to join dsc.gg/hienbot",
-    "[00:22] fabric_XxX has made the advancement [Stone Age]",
-    "[00:22] <yay> !tps ",
-    "[00:22] To yay: Current TPS: 6.00 Dont forget to join dsc.gg/hienbot",
-    "[00:22] <Herobrai2990> where are the pots???? ",
     "[00:22] <yay> !bestping ",
     "[00:22] To yay: yay with 40 ms. Dont forget to join dsc.gg/hienbot",
     "[00:22] <Russako> !bestping ",
@@ -101,7 +93,15 @@
     "[00:23] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[00:23] <.XBLAZEFOOTX> !kit ",
     "[00:23] To .XBLAZEFOOTX: Hello .XBLAZEFOOTX!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[00:23] [8b8t] >> Teleporting..."
+    "[00:23] [8b8t] >> Teleporting...",
+    "[00:23] [8b8t] >> You have killed yourself!",
+    "[00:23] [BOT] <0_HienBot> >Hey iam_m4rc! ",
+    "[00:23] <diossues2_java> !kit dupe ",
+    "[00:23] [8b8t] >> Teleporting to home 0...",
+    "[00:23] [8b8t] >> Teleporting to home 7...",
+    "[00:23] To diossues2_java: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:23] To diossues2_java: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:23] [8b8t] >> Request sent to diossues2_java"
   ],
   "userStats": {
     "76756": 38,
@@ -3447,13 +3447,13 @@
     "yKey": 2,
     "lucia_uwu_": 1,
     "Makrom1980": 1,
-    "diossues2_java": 2
+    "diossues2_java": 3
   },
   "kitStats": {
     "build": 1662,
     "survival": 6624,
     "pvp": 8506,
-    "dupe": 2316,
+    "dupe": 2317,
     "tools": 1931,
     "stash": 1176,
     "raid": 1379,
