@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:31:33 16/1/2026",
+  "lastUpdated": "13:32:03 16/1/2026",
   "totalKits": 88185,
   "todayKits": 138,
-  "onlineCount": 20,
+  "onlineCount": 21,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 244,
+  "tps": "7.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6646
+      "count": 6647
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:28] [8b8t] >> Teleporting...",
-    "[06:28] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[06:28] [8b8t] >> You have killed yourself!",
-    "[06:28] dat36 has reached the goal [The Next Generation]",
-    "[06:28] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[06:29] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[06:29] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[06:29] ",
-    "[06:29] [8b8t] >> Restarting in 30m!",
-    "[06:29] ",
-    "[06:29] <Anti_Spiral> ok ",
-    "[06:29] [BOT] <0_HienBot> >Type !discord ",
-    "[06:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:30] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[06:30] axel16mc has made the advancement [Stone Age]",
     "[06:30] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +88,20 @@
     "[06:31] <.Niforio> !kit pvp ",
     "[06:31] To .Niforio: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[06:31] [BOT] <0_HienBot> >What's up, .Niforio? ",
-    "[06:31] [8b8t] >> The TPA request you sent to Anti_Spiral has expired."
+    "[06:31] [8b8t] >> The TPA request you sent to Anti_Spiral has expired.",
+    "[06:31] <Anti_Spiral> !kit totem ",
+    "[06:31] To Anti_Spiral: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:31] <.Niforio> !kit stash ",
+    "[06:31] To .Niforio: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:31] [8b8t] >> You have killed yourself!",
+    "[06:31] [8b8t] >> No TPA request found",
+    "[06:31] <Fewsito> !kit survival ",
+    "[06:31] [8b8t] >> Teleporting to home 0...",
+    "[06:31] [8b8t] >> Teleporting to home 1...",
+    "[06:31] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[06:31] To Fewsito: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:31] To Fewsito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:31] [8b8t] >> Request sent to Fewsito"
   ],
   "userStats": {
     "76756": 38,
@@ -3462,7 +3462,7 @@
     "mtiasd10": 4,
     "IloveYouHarlieee": 1,
     "tocagordas": 6,
-    "Fewsito": 10,
+    "Fewsito": 11,
     "USD": 1,
     "HobGobOnTop": 1,
     ".Niforio": 1,
@@ -3471,7 +3471,7 @@
   },
   "kitStats": {
     "build": 1663,
-    "survival": 6646,
+    "survival": 6647,
     "pvp": 8552,
     "dupe": 2331,
     "tools": 1935,
