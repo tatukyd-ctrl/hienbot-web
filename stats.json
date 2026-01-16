@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:48:03 16/1/2026",
-  "totalKits": 88307,
-  "todayKits": 260,
+  "lastUpdated": "18:48:30 16/1/2026",
+  "totalKits": 88308,
+  "todayKits": 261,
   "onlineCount": 18,
   "peakPlayers": 42,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 247,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6667
+      "count": 6668
     },
     {
       "name": "dupe",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:45] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[11:45] <unknown_2121_> !kit mace ",
-    "[11:45] [8b8t] >> Teleporting to home 0...",
-    "[11:45] [8b8t] >> Teleporting to home 7...",
-    "[11:45] To unknown_2121_: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:45] To unknown_2121_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:45] <_Lumora_> !kit pvp ",
-    "[11:45] [8b8t] >> Request sent to unknown_2121_",
-    "[11:45] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:45] <itz_laeeq> !kit mace ",
-    "[11:45] To itz_laeeq: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:45] [8b8t] >> Teleporting...",
-    "[11:46] [8b8t] >> You have killed yourself!",
-    "[11:46] [BOT] <0_HienBot> >Hello SpinexGamerz! ",
     "[11:46] <_Lumora_> !kit pvp ",
     "[11:46] To _Lumora_: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:46] <_Lumora_> !kit pvp ",
@@ -101,7 +87,21 @@
     "[11:46] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[11:47] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[11:47] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[11:48] <unknown_2121_> bruh I can't accept to because I want to travel 20000 block away "
+    "[11:48] <unknown_2121_> bruh I can't accept to because I want to travel 20000 block away ",
+    "[11:48] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[11:48] <unknown_2121_> !kit survival ",
+    "[11:48] [8b8t] >> Teleporting to home 0...",
+    "[11:48] [8b8t] >> Teleporting to home 1...",
+    "[11:48] To unknown_2121_: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:48] To unknown_2121_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:48] [8b8t] >> Request sent to unknown_2121_",
+    "[11:48] <unknown_2121_> no ",
+    "[11:48] <_Lumora_> !kit pvp ",
+    "[11:48] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[11:48] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[11:48] [8b8t] >> Teleporting...",
+    "[11:48] <_Lumora_> !kit pvp ",
+    "[11:48] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2235,7 +2235,7 @@
     "Escannn": 1,
     "Alcope": 1,
     "MrSevenEleven": 2,
-    "unknown_2121_": 12,
+    "unknown_2121_": 13,
     "Jwit_": 1,
     "IvanZaSilly2": 62,
     "blackwolf480": 4,
@@ -3488,7 +3488,7 @@
   },
   "kitStats": {
     "build": 1665,
-    "survival": 6667,
+    "survival": 6668,
     "pvp": 8592,
     "dupe": 2339,
     "tools": 1941,
