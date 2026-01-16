@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:51:33 16/1/2026",
-  "totalKits": 88398,
-  "todayKits": 351,
-  "onlineCount": 28,
+  "lastUpdated": "20:51:51 16/1/2026",
+  "totalKits": 88399,
+  "todayKits": 352,
+  "onlineCount": 27,
   "peakPlayers": 42,
-  "tps": "4.0",
+  "tps": "7.0",
   "ping": 253,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6687
+      "count": 6688
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:49] <LivingYuji> !kit elytra ",
-    "[13:49] [8b8t] >> Teleporting to home 0...",
-    "[13:49] [8b8t] >> Teleporting to home 6...",
-    "[13:49] To LivingYuji: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:49] To LivingYuji: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:49] <unknown_2121_> ok ",
-    "[13:49] [8b8t] >> Request sent to LivingYuji",
-    "[13:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[13:50] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[13:50] LivingYuji has made the advancement [Stone Age]",
-    "[13:50] <_Lumora_> !kit mineral ",
     "[13:50] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:50] [8b8t] >> You have killed yourself!",
     "[13:50] [8b8t] >> The TPA request you sent to LivingYuji was successfully canceled.",
@@ -101,7 +90,18 @@
     "[13:51] [8b8t] >> Request sent to unknown_2121_",
     "[13:51] <LivingYuji> !kit elytra ",
     "[13:51] To LivingYuji: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:51] [8b8t] >> Teleporting..."
+    "[13:51] [8b8t] >> Teleporting...",
+    "[13:51] [BOT] <0_HienBot> >Hey .LEON50758! ",
+    "[13:51] [8b8t] >> You have killed yourself!",
+    "[13:51] <.Pichuckrak> !kit survival ",
+    "[13:51] [8b8t] >> Teleporting to home 0...",
+    "[13:51] [8b8t] >> Teleporting to home 1...",
+    "[13:51] To .Pichuckrak: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:51] To .Pichuckrak: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:51] <.LEON50758> Simblebot ",
+    "[13:51] [8b8t] >> Request sent to .Pichuckrak",
+    "[13:51] [8b8t] >> Teleporting...",
+    "[13:51] <.LEON50758> Look at this "
   ],
   "userStats": {
     "76756": 38,
@@ -3208,7 +3208,7 @@
     "D3rlord3": 1,
     "JSUGIBHBJG": 22,
     ".Djnickgaming418": 16,
-    ".Pichuckrak": 54,
+    ".Pichuckrak": 55,
     "pepe69ff": 1,
     "Theoad92025": 3,
     "matiasbbya1234": 29,
@@ -3494,7 +3494,7 @@
   },
   "kitStats": {
     "build": 1668,
-    "survival": 6687,
+    "survival": 6688,
     "pvp": 8614,
     "dupe": 2343,
     "tools": 1949,
