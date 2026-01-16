@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:03:33 16/1/2026",
-  "totalKits": 88378,
-  "todayKits": 331,
-  "onlineCount": 24,
+  "lastUpdated": "20:03:54 16/1/2026",
+  "totalKits": 88379,
+  "todayKits": 332,
+  "onlineCount": 22,
   "peakPlayers": 42,
-  "tps": "3.0",
+  "tps": "6.0",
   "ping": 258,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6681
+      "count": 6682
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:02] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[13:02] <MasterWo> mm ",
-    "[13:02] <MasterWo> what r u doing rn ",
-    "[13:02] [8b8t] >> 0_HienBott voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[13:02] <DabPenDarryl> wandering spawn. ",
-    "[13:02] <0_HienBott> !kit elytra ",
-    "[13:02] [8b8t] >> Teleporting to home 0...",
-    "[13:02] [8b8t] >> Teleporting to home 6...",
     "[13:02] To 0_HienBott: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:03] To 0_HienBott: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:03] <unknown_2121_> !kit survival ",
@@ -101,7 +93,15 @@
     "[13:03] [8b8t] >> Request sent to hmadyuh",
     "[13:03] [8b8t] >> Teleporting...",
     "[13:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:03] [8b8t] >> You have killed yourself!"
+    "[13:03] [8b8t] >> You have killed yourself!",
+    "[13:03] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[13:03] <unknown_2121_> !kit survival ",
+    "[13:03] [8b8t] >> Teleporting to home 0...",
+    "[13:03] [8b8t] >> Teleporting to home 1...",
+    "[13:03] To unknown_2121_: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:03] To unknown_2121_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:03] [8b8t] >> Request sent to unknown_2121_",
+    "[13:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2235,7 +2235,7 @@
     "Escannn": 1,
     "Alcope": 1,
     "MrSevenEleven": 2,
-    "unknown_2121_": 25,
+    "unknown_2121_": 26,
     "Jwit_": 1,
     "IvanZaSilly2": 62,
     "blackwolf480": 4,
@@ -3491,7 +3491,7 @@
   },
   "kitStats": {
     "build": 1666,
-    "survival": 6681,
+    "survival": 6682,
     "pvp": 8611,
     "dupe": 2342,
     "tools": 1949,
