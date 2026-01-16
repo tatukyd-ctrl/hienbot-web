@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:43:33 16/1/2026",
-  "totalKits": 88277,
-  "todayKits": 230,
-  "onlineCount": 13,
+  "lastUpdated": "17:43:50 16/1/2026",
+  "totalKits": 88278,
+  "todayKits": 231,
+  "onlineCount": 12,
   "peakPlayers": 42,
-  "tps": "11.0",
-  "ping": 242,
+  "tps": "10.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:38] [8b8t] >> Home 2 was not found",
-    "[10:38] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[10:38] To .Fatboi653831: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:38] To .Fatboi653831: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:38] [8b8t] >> Request sent to .Fatboi653831",
-    "[10:38] [8b8t] >> .Fatboi653831 would like to teleport to you /tpayes USERNAME /tpano USERNAME",
-    "[10:39] [8b8t] >> Teleporting...",
-    "[10:39] [8b8t] >> You have killed yourself!",
     "[10:39] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[10:39] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:39] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
@@ -101,7 +93,15 @@
     "[10:42] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:42] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[10:43] <unknown_2121_> hello AppleBot ",
-    "[10:43] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[10:43] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[10:43] <unknown_2121_> !kit lovers ",
+    "[10:43] [8b8t] >> Teleporting to home 0...",
+    "[10:43] [8b8t] >> Teleporting to home 3...",
+    "[10:43] To unknown_2121_: Kit \"lovers\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
+    "[10:43] To unknown_2121_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:43] [8b8t] >> Request sent to unknown_2121_",
+    "[10:43] [8b8t] >> Teleporting...",
+    "[10:43] [BOT] <0_HienBot> >Type !discord "
   ],
   "userStats": {
     "76756": 38,
@@ -2235,7 +2235,7 @@
     "Escannn": 1,
     "Alcope": 1,
     "MrSevenEleven": 2,
-    "unknown_2121_": 5,
+    "unknown_2121_": 6,
     "Jwit_": 1,
     "IvanZaSilly2": 62,
     "blackwolf480": 4,
@@ -3504,7 +3504,7 @@
     "armortrims": 573,
     "highway": 636,
     "ocean": 164,
-    "concrete": 406,
+    "concrete": 407,
     "glass": 324,
     "gap": 218,
     "constructor": "function Object() { [native code] }111111111",
