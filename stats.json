@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:07:03 16/1/2026",
+  "lastUpdated": "18:07:33 16/1/2026",
   "totalKits": 88282,
   "todayKits": 235,
-  "onlineCount": 14,
+  "onlineCount": 15,
   "peakPlayers": 42,
-  "tps": "8.0",
-  "ping": 266,
+  "tps": "11.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6662
+      "count": 6663
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:04] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[11:04] To 0_HeinBott: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:04] To 0_HeinBott: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:04] [8b8t] >> Request sent to 0_HeinBott",
-    "[11:04] [8b8t] >> Teleporting...",
-    "[11:05] [8b8t] >> You have killed yourself!",
-    "[11:05] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[11:05] <unknown_2121_> !kit food ",
     "[11:05] [8b8t] >> Teleporting to home 0...",
     "[11:05] [8b8t] >> Teleporting to home 4...",
@@ -101,7 +94,14 @@
     "[11:06] [8b8t] >> You have killed yourself!",
     "[11:06] <dat36> nice try nigger ",
     "[11:06] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[11:06] <Memen_canavari> -146 319 -328 ı m here "
+    "[11:06] <Memen_canavari> -146 319 -328 ı m here ",
+    "[11:07] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[11:07] <datrauma> !kit survival ",
+    "[11:07] [8b8t] >> Teleporting to home 0...",
+    "[11:07] [8b8t] >> Teleporting to home 1...",
+    "[11:07] To datrauma: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:07] <unknown_2121_> !kit stash ",
+    "[11:07] To unknown_2121_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3481,11 +3481,12 @@
     "c_ops": 1,
     "Akari44": 11,
     "Memen_canavari": 2,
-    "0_HeinBott": 1
+    "0_HeinBott": 1,
+    "datrauma": 1
   },
   "kitStats": {
     "build": 1665,
-    "survival": 6662,
+    "survival": 6663,
     "pvp": 8578,
     "dupe": 2339,
     "tools": 1940,
