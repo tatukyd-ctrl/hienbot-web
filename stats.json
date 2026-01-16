@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:38:03 16/1/2026",
-  "totalKits": 88391,
-  "todayKits": 344,
-  "onlineCount": 30,
+  "lastUpdated": "20:38:20 16/1/2026",
+  "totalKits": 88392,
+  "todayKits": 345,
+  "onlineCount": 31,
   "peakPlayers": 42,
   "tps": "1.0",
-  "ping": 400,
+  "ping": 675,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8613
+      "count": 8614
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:36] [8b8t] >> Home 2 was not found",
-    "[13:36] To LivingYuji: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:36] To LivingYuji: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:36] [8b8t] >> Request sent to LivingYuji",
-    "[13:37] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[13:37] [Ultra] <MrBeax31> uy ",
-    "[13:37] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
-    "[13:37] [Pro+] <volpl> ,rd ",
     "[13:37] [Ultra] <MrBeax31> !kitlist ",
     "[13:37] [Pro+] <volpl> lag ",
     "[13:37] [Ultra] <MrBeax31> !kit survival ",
@@ -101,7 +93,15 @@
     "[13:37] <itz_laeeq> !kit pvp ",
     "[13:37] To itz_laeeq: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:37] [Ultra] <HTP1P0> PVP IN THE HOTSPOT ",
-    "[13:37] [8b8t] >> You have killed yourself!"
+    "[13:37] [8b8t] >> You have killed yourself!",
+    "[13:38] <LivingYuji> !kit pvp ",
+    "[13:38] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[13:38] [8b8t] >> Teleporting to home 0...",
+    "[13:38] [8b8t] >> Teleporting to home 1...",
+    "[13:38] To LivingYuji: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:38] To LivingYuji: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:38] [8b8t] >> Request sent to LivingYuji",
+    "[13:38] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3490,12 +3490,12 @@
     "0_HienBott": 2,
     "DragonPool18": 4,
     "000000000000000D": 2,
-    "LivingYuji": 1
+    "LivingYuji": 2
   },
   "kitStats": {
     "build": 1667,
     "survival": 6686,
-    "pvp": 8613,
+    "pvp": 8614,
     "dupe": 2342,
     "tools": 1949,
     "stash": 1196,
