@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:24:36 16/1/2026",
+  "lastUpdated": "07:25:03 16/1/2026",
   "totalKits": 88057,
   "todayKits": 10,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 42,
-  "tps": "1.0",
-  "ping": 263,
+  "tps": "3.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8506
+      "count": 8507
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:23] To iam_m4rc: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:23] <diossues2_java> !kit dupe ",
-    "[00:23] To diossues2_java: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:23] To iam_m4rc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:23] [8b8t] >> Request sent to iam_m4rc",
     "[00:23] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[00:23] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +97,11 @@
     "[00:24] To AdustCloud3179: Hello AdustCloud3179!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[00:24] To .XBLAZEFOOTX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:24] [8b8t] >> Request sent to .XBLAZEFOOTX",
-    "[00:24] [8b8t] >> Teleporting..."
+    "[00:24] [8b8t] >> Teleporting...",
+    "[00:24] [8b8t] >> You have killed yourself!",
+    "[00:24] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[00:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[00:25] <AdustCloud3179> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -2290,7 +2290,7 @@
     "deantheneek": 23,
     "Ascalito": 76,
     "agartha_citizen": 2,
-    "AdustCloud3179": 27,
+    "AdustCloud3179": 28,
     "Copetingo": 10,
     "Neto290908": 7,
     "TSDJuan": 1,
@@ -3452,7 +3452,7 @@
   "kitStats": {
     "build": 1662,
     "survival": 6624,
-    "pvp": 8506,
+    "pvp": 8507,
     "dupe": 2317,
     "tools": 1931,
     "stash": 1176,
