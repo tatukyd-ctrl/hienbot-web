@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:36:30 16/1/2026",
+  "lastUpdated": "23:37:00 16/1/2026",
   "totalKits": 88455,
   "todayKits": 24,
-  "onlineCount": 34,
-  "peakPlayers": 36,
-  "tps": "7.0",
-  "ping": 796,
+  "onlineCount": 37,
+  "peakPlayers": 37,
+  "tps": "4.0",
+  "ping": 273,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8633
+      "count": 8634
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:34] <Anonymous204205> !kit illegal ",
-    "[16:34] To Anonymous204205: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:34] [8b8t] >> You have killed yourself!",
-    "[16:34] <liviaaaaaaa> husuu_sigma want my cords ",
-    "[16:34] [8b8t] >> No TPA request found",
-    "[16:34] [BOT] <0_HienBot> >What's up, TNGB0T? ",
-    "[16:34] <husuu_sigma> what is cords? ",
     "[16:34] <besiro> vamo ",
     "[16:34] <liviaaaaaaa> like the xyz things ",
     "[16:34] husuu_sigma has made the advancement [Monster Hunter]",
@@ -101,7 +94,14 @@
     "[16:36] [BOT] <0_HienBot> >Hey Simblebot! ",
     "[16:36] <liviaaaaaaa> how are you ",
     "[16:36] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[16:36] <Exoshi> good "
+    "[16:36] <Exoshi> good ",
+    "[16:36] <kaminek_CZLP> !kit pvp ",
+    "[16:36] [8b8t] >> Teleporting to home 0...",
+    "[16:36] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[16:36] [8b8t] >> Teleporting to home 1...",
+    "[16:36] To kaminek_CZLP: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:36] To kaminek_CZLP: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:36] [8b8t] >> Request sent to kaminek_CZLP"
   ],
   "userStats": {
     "76756": 38,
@@ -3502,12 +3502,13 @@
     "besiro": 3,
     "xSokai_": 4,
     "Mr_Rubic_exe": 1,
-    "husuu_sigma": 6
+    "husuu_sigma": 6,
+    "kaminek_CZLP": 1
   },
   "kitStats": {
     "build": 1669,
     "survival": 6699,
-    "pvp": 8633,
+    "pvp": 8634,
     "dupe": 2350,
     "tools": 1959,
     "stash": 1198,
