@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:51:51 16/1/2026",
+  "lastUpdated": "20:52:03 16/1/2026",
   "totalKits": 88399,
   "todayKits": 352,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 42,
-  "tps": "7.0",
+  "tps": "12.0",
   "ping": 253,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:50] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:50] [8b8t] >> You have killed yourself!",
-    "[13:50] [8b8t] >> The TPA request you sent to LivingYuji was successfully canceled.",
-    "[13:50] <LivingYuji> !kit elytra ",
-    "[13:50] To LivingYuji: You're on cooldown, try again in 48 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:50] <.LEON50758> hey Look at this ",
-    "[13:50] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[13:51] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[13:51] didyouknow200 has made the advancement [Stone Age]",
     "[13:51] <unknown_2121_> !kit elytra ",
@@ -101,7 +94,14 @@
     "[13:51] <.LEON50758> Simblebot ",
     "[13:51] [8b8t] >> Request sent to .Pichuckrak",
     "[13:51] [8b8t] >> Teleporting...",
-    "[13:51] <.LEON50758> Look at this "
+    "[13:51] <.LEON50758> Look at this ",
+    "[13:51] [8b8t] >> You have killed yourself!",
+    "[13:51] <LivingYuji> !kit elytra ",
+    "[13:51] [8b8t] >> Teleporting to home 0...",
+    "[13:51] [8b8t] >> Teleporting to home 6...",
+    "[13:51] To LivingYuji: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:51] To LivingYuji: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:52] [8b8t] >> Request sent to LivingYuji"
   ],
   "userStats": {
     "76756": 38,
@@ -3490,7 +3490,7 @@
     "0_HienBott": 2,
     "DragonPool18": 4,
     "000000000000000D": 2,
-    "LivingYuji": 5
+    "LivingYuji": 6
   },
   "kitStats": {
     "build": 1668,
@@ -3526,6 +3526,6 @@
     "gterracotta": 91,
     "banner": 90,
     "illegal": 706,
-    "elytra": 413
+    "elytra": 414
   }
 }
