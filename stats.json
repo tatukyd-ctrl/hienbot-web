@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:37:03 16/1/2026",
+  "lastUpdated": "15:37:33 16/1/2026",
   "totalKits": 88232,
   "todayKits": 185,
-  "onlineCount": 23,
+  "onlineCount": 22,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 249,
+  "tps": "8.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:34] To ImPulseStory2: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:34] To ImPulseStory2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:34] [8b8t] >> Request sent to ImPulseStory2",
-    "[08:34] [8b8t] >> Teleporting...",
-    "[08:34] Chat disabled in client options",
-    "[08:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:34] [8b8t] >> You have killed yourself!",
     "[08:35] <Busysimmin1221> which one of you greasy ass mother fuckers spawned in all these withers holy shit ",
     "[08:35] ImPulseStory2 has made the advancement [Acquire Hardware]",
     "[08:35] <Preclude> def not me ",
@@ -101,7 +94,14 @@
     "[08:36] [8b8t] >> Teleporting...",
     "[08:36] [8b8t] >> You have killed yourself!",
     "[08:36] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[08:36] <Preclude> no i need fireworks "
+    "[08:36] <Preclude> no i need fireworks ",
+    "[08:37] <Preclude> !kit Elytra ",
+    "[08:37] To Preclude: You're on cooldown, try again in 16 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:37] [BOT] <0_HienBot> >Welcome to 8b8t, mfQ! ",
+    "[08:37] <Preclude> !kit Elytra ",
+    "[08:37] [8b8t] >> Teleporting to home 0...",
+    "[08:37] [8b8t] >> Teleporting to home 6...",
+    "[08:37] To Preclude: Your kit (Elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3475,7 +3475,7 @@
     "ImPulseStory2": 10,
     "HewJitler": 2,
     "Busysimmin1221": 1,
-    "Preclude": 3
+    "Preclude": 4
   },
   "kitStats": {
     "build": 1663,
@@ -3511,6 +3511,6 @@
     "gterracotta": 90,
     "banner": 90,
     "illegal": 706,
-    "elytra": 386
+    "elytra": 387
   }
 }
