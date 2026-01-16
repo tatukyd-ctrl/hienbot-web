@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:51:03 16/1/2026",
+  "lastUpdated": "19:51:33 16/1/2026",
   "totalKits": 88365,
   "todayKits": 318,
   "onlineCount": 23,
   "peakPlayers": 42,
-  "tps": "2.0",
-  "ping": 250,
+  "tps": "8.0",
+  "ping": 255,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -26,7 +26,7 @@
     },
     {
       "name": "botchaosonix666",
-      "count": 191
+      "count": 192
     },
     {
       "name": "SHAD0W_120",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:45] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[12:45] WA_FI has reached the goal [Postmortal]",
-    "[12:45] <itz_laeeq> !kit pvp ",
-    "[12:45] <miguel_gamer_777> Ya cruze todos los biomas ",
-    "[12:45] [8b8t] >> Teleporting to home 0...",
-    "[12:45] [8b8t] >> Teleporting to home 1...",
-    "[12:45] To itz_laeeq: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:45] To itz_laeeq: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:45] [8b8t] >> Request sent to itz_laeeq",
     "[12:45] [8b8t] >> Teleporting...",
     "[12:45] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[12:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:50] [BOT] <0_HienBot> >What's up, Jamjox? ",
     "[12:50] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[12:50] <DabPenDarryl> this server is so cooked. shit spawning in the sky "
+    "[12:50] <DabPenDarryl> this server is so cooked. shit spawning in the sky ",
+    "[12:51] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[12:51] <Nickase> !kit ",
+    "[12:51] To Nickase: Hello Nickase!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[12:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[12:51] <botchaosonix666> !kit redstone ",
+    "[12:51] [8b8t] >> Teleporting to home 0...",
+    "[12:51] [8b8t] >> Home 2 was not found",
+    "[12:51] To botchaosonix666: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:51] To botchaosonix666: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -420,7 +420,7 @@
     "Dmitch10": 1,
     "ali8989": 1,
     "Jhon2_87": 4,
-    "botchaosonix666": 191,
+    "botchaosonix666": 192,
     "47_": 57,
     "atritzz": 6,
     "Fantasmitapirobo": 1,
@@ -3502,7 +3502,7 @@
     "wool": 480,
     "mineral": 585,
     "food": 538,
-    "redstone": 839,
+    "redstone": 840,
     "toolbox": 779,
     "quartz": 334,
     "shulker": 636,
