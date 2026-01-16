@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:32:43 17/1/2026",
+  "lastUpdated": "05:33:01 17/1/2026",
   "totalKits": 88651,
   "todayKits": 220,
-  "onlineCount": 44,
+  "onlineCount": 45,
   "peakPlayers": 53,
-  "tps": "1.0",
+  "tps": "4.0",
   "ping": 267,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8719
+      "count": 8720
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:31] To alejandro1015xd: Hello alejandro1015xd!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:31] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[22:31] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[22:31] sofi_linduri Whispers: oe",
-    "[22:32] <alejandro1015xd> !kit Survival ",
-    "[22:32] To alejandro1015xd: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:32] <Pacov255> !kit pvp ",
-    "[22:32] To Pacov255: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:32] <reymeteoro19> qn esta en el spawn? ",
-    "[22:32] [8b8t] >> You have killed yourself!",
-    "[22:32] [8b8t] >> The TPA request you sent to Pacov255 was successfully canceled.",
-    "[22:32] sir_handy has reached the goal [Postmortal]",
     "[22:32] <magmitamp4> yo ",
     "[22:32] <LiflexMC> !kit dupe ",
     "[22:32] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
@@ -101,7 +89,19 @@
     "[22:32] To Pacov255: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[22:32] To Angxs743: Aretorangtwo with 69 ms. Dont forget to join dsc.gg/hienbot",
     "[22:32] babynigger88 has made the advancement [Stone Age]",
-    "[22:32] [8b8t] >> Teleporting..."
+    "[22:32] [8b8t] >> Teleporting...",
+    "[22:32] <Angxs743> !kit ",
+    "[22:32] To Angxs743: Hello Angxs743!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:32] [8b8t] >> You have killed yourself!",
+    "[22:32] babynigger88 has made the advancement [Getting an Upgrade]",
+    "[22:32] <Zongalos> !kit pvp ",
+    "[22:32] [BOT] <0_HienBot> >Hello dmtaddict! ",
+    "[22:32] [8b8t] >> Teleporting to home 0...",
+    "[22:32] [8b8t] >> Teleporting to home 1...",
+    "[22:32] To Zongalos: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:33] <Angxs743> !kit dupe ",
+    "[22:33] To Zongalos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:33] To Angxs743: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3532,12 +3532,13 @@
     "joquinsa": 1,
     "Angxs743": 3,
     "LiflexMC": 5,
-    "Pacov255": 1
+    "Pacov255": 1,
+    "Zongalos": 1
   },
   "kitStats": {
     "build": 1677,
     "survival": 6728,
-    "pvp": 8719,
+    "pvp": 8720,
     "dupe": 2368,
     "tools": 1971,
     "stash": 1214,
