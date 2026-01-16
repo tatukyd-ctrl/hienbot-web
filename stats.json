@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:05:33 16/1/2026",
-  "totalKits": 88379,
-  "todayKits": 332,
+  "lastUpdated": "20:05:47 16/1/2026",
+  "totalKits": 88380,
+  "todayKits": 333,
   "onlineCount": 22,
   "peakPlayers": 42,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 247,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8611
+      "count": 8612
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:03] hmadyuh Whispers: !kit stash pvp",
-    "[13:03] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[13:03] [8b8t] >> You have killed yourself!",
-    "[13:03] <Zhyvv> you really have to vote to dupe? ",
-    "[13:03] hmadyuh Whispers: !kit stash",
-    "[13:03] [8b8t] >> Teleporting to home 0...",
-    "[13:03] [8b8t] >> Home 2 was not found",
-    "[13:03] To hmadyuh: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:03] <unknown_2121_> !kit survival ",
     "[13:03] To unknown_2121_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:03] 0_HienBott has reached the goal [Sky's the Limit]",
@@ -101,7 +93,15 @@
     "[13:04] [BOT] <0_HienBot> >Hmmmmmmmmm ",
     "[13:04] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[13:05] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[13:05] sayrox2 has completed the challenge [Hot Tourist Destinations]"
+    "[13:05] sayrox2 has completed the challenge [Hot Tourist Destinations]",
+    "[13:05] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[13:05] <0_HienBott> !kit pvp ",
+    "[13:05] [8b8t] >> Teleporting to home 0...",
+    "[13:05] [8b8t] >> Teleporting to home 1...",
+    "[13:05] To 0_HienBott: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:05] To 0_HienBott: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:05] [8b8t] >> Request sent to 0_HienBott",
+    "[13:05] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3487,12 +3487,12 @@
     "phonix_01": 11,
     "WA_FI": 4,
     "Nickase": 2,
-    "0_HienBott": 1
+    "0_HienBott": 2
   },
   "kitStats": {
     "build": 1666,
     "survival": 6682,
-    "pvp": 8611,
+    "pvp": 8612,
     "dupe": 2342,
     "tools": 1949,
     "stash": 1194,
