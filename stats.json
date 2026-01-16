@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:41:03 16/1/2026",
-  "totalKits": 88201,
-  "todayKits": 154,
+  "lastUpdated": "14:41:26 16/1/2026",
+  "totalKits": 88202,
+  "todayKits": 155,
   "onlineCount": 15,
   "peakPlayers": 42,
-  "tps": "11.0",
+  "tps": "9.0",
   "ping": 243,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6652
+      "count": 6653
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:35] To brojsutgame: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:35] To brojsutgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:35] [8b8t] >> Request sent to brojsutgame",
-    "[07:36] [8b8t] >> Teleporting...",
-    "[07:36] .Niforio has made the advancement [Monster Hunter]",
-    "[07:36] [8b8t] >> You have killed yourself!",
-    "[07:36] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[07:36] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[07:36] [BOT] <0_HienBot> >Hey .Niforio! ",
     "[07:37] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[07:37] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
@@ -101,7 +93,15 @@
     "[07:40] [8b8t] >> You have killed yourself!",
     "[07:40] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[07:40] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[07:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[07:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[07:41] <brojsutgame> !kit survival ",
+    "[07:41] [8b8t] >> Teleporting to home 0...",
+    "[07:41] [8b8t] >> Teleporting to home 1...",
+    "[07:41] To brojsutgame: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:41] To brojsutgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:41] [8b8t] >> Request sent to brojsutgame",
+    "[07:41] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[07:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3406,7 +3406,7 @@
     "zenciseven31776": 3,
     "Manteca_Prime": 1,
     "LaParka_239": 5,
-    "brojsutgame": 13,
+    "brojsutgame": 14,
     "SweetiePieeee__": 2,
     "Jamjox": 1,
     "_Hien2309_": 1,
@@ -3474,7 +3474,7 @@
   },
   "kitStats": {
     "build": 1663,
-    "survival": 6652,
+    "survival": 6653,
     "pvp": 8560,
     "dupe": 2332,
     "tools": 1935,
