@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:48:03 16/1/2026",
-  "totalKits": 88109,
-  "todayKits": 62,
-  "onlineCount": 35,
+  "lastUpdated": "08:48:31 16/1/2026",
+  "totalKits": 88110,
+  "todayKits": 63,
+  "onlineCount": 31,
   "peakPlayers": 42,
-  "tps": "4.0",
-  "ping": 260,
+  "tps": "6.0",
+  "ping": 277,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8526
+      "count": 8527
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:46] <hiospreerubi> !kit elytra ",
-    "[01:46] [8b8t] >> Teleporting to home 0...",
-    "[01:46] [8b8t] >> Teleporting to home 6...",
-    "[01:46] To hiospreerubi: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:46] <Team_Kowalski> n da para aceitar ",
-    "[01:46] To hiospreerubi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:46] <rossikkjj> prq ",
-    "[01:46] [8b8t] >> Request sent to hiospreerubi",
-    "[01:46] <Juanytoyt208> tpa for pvp ",
-    "[01:46] <ASXN> oe ",
-    "[01:46] <Juanytoyt208> q ",
     "[01:46] <ASXN> acepta el tpahere ",
     "[01:46] [8b8t] >> Teleporting...",
     "[01:46] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
@@ -101,7 +90,18 @@
     "[01:47] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[01:47] <.BennettWilliam1> !klt ",
     "[01:47] <SnowBlueBR> !kit ",
-    "[01:47] To SnowBlueBR: Hello SnowBlueBR!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[01:47] To SnowBlueBR: Hello SnowBlueBR!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:48] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[01:48] <ASXN> !kit pvp ",
+    "[01:48] [8b8t] >> Teleporting to home 0...",
+    "[01:48] [8b8t] >> Teleporting to home 1...",
+    "[01:48] To ASXN: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:48] To ASXN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:48] <SnowBlueBR> !kit sutvival ",
+    "[01:48] To SnowBlueBR: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:48] [8b8t] >> Request sent to ASXN",
+    "[01:48] cactus0401 has made the advancement [Suit Up]",
+    "[01:48] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2718,7 +2718,7 @@
     "ElsapotopoMC": 5,
     "ivan56": 13,
     "Exoshi": 5,
-    "ASXN": 26,
+    "ASXN": 27,
     "panana777": 15,
     "Alexisfemboy": 1,
     "Mal_wPjGeV": 1,
@@ -3459,7 +3459,7 @@
   "kitStats": {
     "build": 1662,
     "survival": 6628,
-    "pvp": 8526,
+    "pvp": 8527,
     "dupe": 2321,
     "tools": 1933,
     "stash": 1178,
