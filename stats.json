@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:26:24 16/1/2026",
+  "lastUpdated": "22:26:33 16/1/2026",
   "totalKits": 88425,
   "todayKits": 378,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 42,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 247,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:24] <m4rc_xyz8> !kit pvp ",
-    "[15:24] [8b8t] >> Teleporting to home 0...",
-    "[15:24] [8b8t] >> Teleporting to home 1...",
-    "[15:24] To m4rc_xyz8: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:24] To m4rc_xyz8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:24] [Ultra] <HTP1P0> !kit nether ",
-    "[15:24] To htp1p0: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:24] [8b8t] >> Request sent to m4rc_xyz8",
     "[15:24] <Enzytroiz_Mc> wtf ",
     "[15:24] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[15:26] To htp1p0: Your kit (nether) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:26] To htp1p0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:26] [8b8t] >> Request sent to htp1p0",
-    "[15:26] [8b8t] >> Teleporting..."
+    "[15:26] [8b8t] >> Teleporting...",
+    "[15:26] <m4rc_xyz8> !kit toolbox ",
+    "[15:26] To m4rc_xyz8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:26] [8b8t] >> You have killed yourself!",
+    "[15:26] <nfkiki> !kit quiarts ",
+    "[15:26] [8b8t] >> Teleporting to home 0...",
+    "[15:26] [8b8t] >> Teleporting to home 7...",
+    "[15:26] To nfkiki: Kit \"quiarts\" not found! Giving you (armortrims) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1656,7 +1656,7 @@
     "luantrungdai": 8,
     "_Lakerek_": 1,
     "Vo1taik": 1,
-    "nfkiki": 30,
+    "nfkiki": 31,
     "ruazinnn989423": 43,
     "doxedap": 1,
     "peakar": 99,
@@ -3517,7 +3517,7 @@
     "shulker": 638,
     "terracotta": 136,
     "end": 714,
-    "armortrims": 577,
+    "armortrims": 578,
     "highway": 637,
     "ocean": 165,
     "concrete": 411,
