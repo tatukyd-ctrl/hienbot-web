@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:44:33 16/1/2026",
-  "totalKits": 88188,
-  "todayKits": 141,
+  "lastUpdated": "13:44:47 16/1/2026",
+  "totalKits": 88189,
+  "todayKits": 142,
   "onlineCount": 18,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 246,
+  "tps": "8.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8556
+      "count": 8557
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:41] <Fewsito> !kit totem ",
-    "[06:41] [8b8t] >> Teleporting...",
-    "[06:41] To Fewsito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:41] [8b8t] >> You have killed yourself!",
-    "[06:42] <Fewsito> !kit totem ",
-    "[06:42] To Fewsito: You're on cooldown, try again in 5 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:42] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[06:42] <Fewsito> !kit totem ",
     "[06:42] [8b8t] >> Teleporting to home 0...",
     "[06:42] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +94,14 @@
     "[06:43] [8b8t] >> You have killed yourself!",
     "[06:43] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[06:44] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[06:44] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[06:44] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[06:44] <HighwayCleaner> !kit pvp ",
+    "[06:44] [8b8t] >> Teleporting to home 0...",
+    "[06:44] [8b8t] >> Teleporting to home 1...",
+    "[06:44] To HighwayCleaner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:44] To HighwayCleaner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:44] [8b8t] >> Request sent to HighwayCleaner",
+    "[06:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2439,7 +2439,7 @@
     "Alesito_Cotton": 1,
     "Axintar09": 1,
     "caquitarara132": 1,
-    "HighwayCleaner": 30,
+    "HighwayCleaner": 31,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 29,
     "Flame_xz": 21,
@@ -3472,7 +3472,7 @@
   "kitStats": {
     "build": 1663,
     "survival": 6648,
-    "pvp": 8556,
+    "pvp": 8557,
     "dupe": 2331,
     "tools": 1935,
     "stash": 1186,
