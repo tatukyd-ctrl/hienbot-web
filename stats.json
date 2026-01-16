@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:38:33 16/1/2026",
+  "lastUpdated": "19:39:03 16/1/2026",
   "totalKits": 88358,
   "todayKits": 311,
   "onlineCount": 22,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 251,
+  "tps": "4.0",
+  "ping": 253,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8606
+      "count": 8607
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:35] [8b8t] >> You have killed yourself!",
-    "[12:36] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[12:36] <miguel_gamer_777> el hanster se quedo dormido ",
-    "[12:36] <phonix_01> !kit stash ",
-    "[12:36] [8b8t] >> Teleporting to home 0...",
-    "[12:36] [8b8t] >> Home 2 was not found",
-    "[12:36] To phonix_01: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:36] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[12:36] To phonix_01: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:36] [8b8t] >> Request sent to phonix_01",
@@ -101,7 +94,14 @@
     "[12:37] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[12:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[12:38] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[12:38] WA_FI has made the advancement [Ice Bucket Challenge]"
+    "[12:38] WA_FI has made the advancement [Ice Bucket Challenge]",
+    "[12:38] [BOT] <0_HienBot> >Welcome to 8b8t, unknown_2121_! ",
+    "[12:38] WA_FI has completed the challenge [Cover Me in Debris]",
+    "[12:38] WA_FI has reached the goal [Sky's the Limit]",
+    "[12:39] <WA_FI> !kit pvp ",
+    "[12:39] [8b8t] >> Teleporting to home 0...",
+    "[12:39] [8b8t] >> Teleporting to home 1...",
+    "[12:39] To WA_FI: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3485,13 +3485,13 @@
     "datrauma": 1,
     "Gix3er": 1,
     "phonix_01": 11,
-    "WA_FI": 3,
+    "WA_FI": 4,
     "Nickase": 2
   },
   "kitStats": {
     "build": 1666,
     "survival": 6678,
-    "pvp": 8606,
+    "pvp": 8607,
     "dupe": 2342,
     "tools": 1945,
     "stash": 1193,
