@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:42:03 16/1/2026",
+  "lastUpdated": "13:42:33 16/1/2026",
   "totalKits": 88186,
   "todayKits": 139,
   "onlineCount": 20,
   "peakPlayers": 42,
   "tps": "7.0",
-  "ping": 252,
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8555
+      "count": 8556
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:38] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[06:39] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[06:39] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:39] [BOT] <0_HienBot> >Type !discord ",
-    "[06:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:40] [BOT] <0_HienBot> >Type !discord ",
-    "[06:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:40] <Fewsito> !kit totem ",
     "[06:40] [8b8t] >> Teleporting to home 0...",
     "[06:40] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +94,14 @@
     "[06:41] <Fewsito> !kit totem ",
     "[06:41] [8b8t] >> Teleporting...",
     "[06:41] To Fewsito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:41] [8b8t] >> You have killed yourself!"
+    "[06:41] [8b8t] >> You have killed yourself!",
+    "[06:42] <Fewsito> !kit totem ",
+    "[06:42] To Fewsito: You're on cooldown, try again in 5 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:42] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[06:42] <Fewsito> !kit totem ",
+    "[06:42] [8b8t] >> Teleporting to home 0...",
+    "[06:42] [8b8t] >> Teleporting to home 1...",
+    "[06:42] To Fewsito: Your kit (totem) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3462,7 +3462,7 @@
     "mtiasd10": 4,
     "IloveYouHarlieee": 1,
     "tocagordas": 6,
-    "Fewsito": 12,
+    "Fewsito": 13,
     "USD": 1,
     "HobGobOnTop": 1,
     ".Niforio": 1,
@@ -3472,7 +3472,7 @@
   "kitStats": {
     "build": 1663,
     "survival": 6647,
-    "pvp": 8555,
+    "pvp": 8556,
     "dupe": 2331,
     "tools": 1935,
     "stash": 1186,
