@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:21:03 16/1/2026",
+  "lastUpdated": "13:21:33 16/1/2026",
   "totalKits": 88179,
   "todayKits": 132,
   "onlineCount": 20,
   "peakPlayers": 42,
-  "tps": "8.0",
-  "ping": 245,
+  "tps": "7.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6644
+      "count": 6645
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:17] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[06:17] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[06:18] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[06:18] <HighwayCleaner> !kit pvp ",
-    "[06:18] [8b8t] >> Teleporting to home 0...",
-    "[06:18] [8b8t] >> Teleporting to home 1...",
-    "[06:18] To HighwayCleaner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:18] To HighwayCleaner: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:18] [8b8t] >> Request sent to HighwayCleaner",
     "[06:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +94,14 @@
     "[06:20] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[06:20] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[06:20] <dat36> !kit ",
-    "[06:20] To dat36: Hello dat36!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[06:20] To dat36: Hello dat36!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[06:21] [8b8t] >> Please do not spam.",
+    "[06:21] <dat36> !kit survival ",
+    "[06:21] [8b8t] >> Teleporting to home 0...",
+    "[06:21] [8b8t] >> Teleporting to home 1...",
+    "[06:21] To dat36: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:21] To dat36: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:21] [8b8t] >> Request sent to dat36"
   ],
   "userStats": {
     "76756": 38,
@@ -3465,11 +3465,12 @@
     "Fewsito": 9,
     "USD": 1,
     "HobGobOnTop": 1,
-    ".Niforio": 1
+    ".Niforio": 1,
+    "dat36": 1
   },
   "kitStats": {
     "build": 1663,
-    "survival": 6644,
+    "survival": 6645,
     "pvp": 8550,
     "dupe": 2328,
     "tools": 1935,
