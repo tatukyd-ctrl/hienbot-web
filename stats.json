@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:49:33 16/1/2026",
+  "lastUpdated": "20:50:03 16/1/2026",
   "totalKits": 88397,
   "todayKits": 350,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 42,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 245,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:47] [8b8t] >> Request sent to .LEON50758",
-    "[13:47] [8b8t] >> Teleporting...",
-    "[13:47] <LivingYuji> !kit elytra ",
-    "[13:47] [8b8t] >> You have killed yourself!",
-    "[13:47] To LivingYuji: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:47] [8b8t] >> Teleporting to home 0...",
-    "[13:47] [8b8t] >> Teleporting to home 6...",
-    "[13:48] To LivingYuji: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:48] [8b8t] >> Request sent to LivingYuji",
-    "[13:48] [BOT] <0_HienBot> >Try !кιт survival ",
     "[13:48] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:48] <unknown_2121_> what ",
     "[13:48] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
@@ -101,7 +91,17 @@
     "[13:49] To LivingYuji: You're on cooldown, try again in 22 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:49] <.LEON50758> Look at this ",
     "[13:49] <unknown_2121_> -15 ",
-    "[13:49] <.LEON50758> ._. "
+    "[13:49] <.LEON50758> ._. ",
+    "[13:49] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[13:49] LivingYuji has reached the goal [Postmortal]",
+    "[13:49] <LivingYuji> !kit elytra ",
+    "[13:49] [8b8t] >> Teleporting to home 0...",
+    "[13:49] [8b8t] >> Teleporting to home 6...",
+    "[13:49] To LivingYuji: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:49] To LivingYuji: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:49] <unknown_2121_> ok ",
+    "[13:49] [8b8t] >> Request sent to LivingYuji",
+    "[13:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3490,7 +3490,7 @@
     "0_HienBott": 2,
     "DragonPool18": 4,
     "000000000000000D": 2,
-    "LivingYuji": 4
+    "LivingYuji": 5
   },
   "kitStats": {
     "build": 1668,
@@ -3526,6 +3526,6 @@
     "gterracotta": 91,
     "banner": 90,
     "illegal": 706,
-    "elytra": 411
+    "elytra": 412
   }
 }
