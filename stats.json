@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:32:16 16/1/2026",
+  "lastUpdated": "14:32:33 16/1/2026",
   "totalKits": 88197,
   "todayKits": 150,
-  "onlineCount": 18,
+  "onlineCount": 19,
   "peakPlayers": 42,
-  "tps": "6.0",
+  "tps": "8.0",
   "ping": 243,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8559
+      "count": 8560
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:28] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[07:28] <HewJitler> guys can someone help me ",
-    "[07:28] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:29] <HewJitler> just give me anything im new ",
-    "[07:29] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[07:29] <.Stormtroop4926> !kit elytra ",
-    "[07:29] [8b8t] >> Teleporting to home 0...",
     "[07:29] [8b8t] >> Teleporting to home 6...",
     "[07:29] To .Stormtroop4926: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:29] To .Stormtroop4926: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +94,14 @@
     "[07:31] To .Stormtroop4926: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:31] To .Stormtroop4926: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:31] [8b8t] >> Request sent to .Stormtroop4926",
-    "[07:32] [8b8t] >> Teleporting..."
+    "[07:32] [8b8t] >> Teleporting...",
+    "[07:32] [8b8t] >> You have killed yourself!",
+    "[07:32] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[07:32] <.LEON50758> -2.59 320.00 -43.21 ",
+    "[07:32] <HighwayCleaner> !kit pvp ",
+    "[07:32] [8b8t] >> Teleporting to home 0...",
+    "[07:32] [8b8t] >> Teleporting to home 1...",
+    "[07:32] To HighwayCleaner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2439,7 +2439,7 @@
     "Alesito_Cotton": 1,
     "Axintar09": 1,
     "caquitarara132": 1,
-    "HighwayCleaner": 31,
+    "HighwayCleaner": 32,
     "teenagepopstar": 5,
     "YourWorstN8tmr": 29,
     "Flame_xz": 21,
@@ -3475,7 +3475,7 @@
   "kitStats": {
     "build": 1663,
     "survival": 6649,
-    "pvp": 8559,
+    "pvp": 8560,
     "dupe": 2332,
     "tools": 1935,
     "stash": 1187,
