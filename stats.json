@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:26:03 16/1/2026",
-  "totalKits": 88183,
-  "todayKits": 136,
-  "onlineCount": 19,
+  "lastUpdated": "13:26:33 16/1/2026",
+  "totalKits": 88184,
+  "todayKits": 137,
+  "onlineCount": 20,
   "peakPlayers": 42,
-  "tps": "3.0",
+  "tps": "7.0",
   "ping": 244,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2330
+      "count": 2331
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:23] [8b8t] >> Teleporting to home 7...",
-    "[06:23] To dat36: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:23] To dat36: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:23] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[06:23] [8b8t] >> Request sent to dat36",
-    "[06:23] [8b8t] >> Teleporting...",
-    "[06:23] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[06:23] .Niforio has made the advancement [Getting an Upgrade]",
-    "[06:24] <dat36> !kit dupe ",
-    "[06:24] To dat36: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:24] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[06:24] <Enzytroiz_Mc> hola mis amores ",
     "[06:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +91,17 @@
     "[06:25] dat36 has made the advancement [We Need to Go Deeper]",
     "[06:25] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[06:25] <Anti_Spiral> !kit ",
-    "[06:25] To Anti_Spiral: Hello Anti_Spiral!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[06:25] To Anti_Spiral: Hello Anti_Spiral!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[06:26] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[06:26] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[06:26] <Anti_Spiral> !kit illegal ",
+    "[06:26] [8b8t] >> Teleporting to home 0...",
+    "[06:26] [8b8t] >> Teleporting to home 7...",
+    "[06:26] To Anti_Spiral: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:26] <axel16mc> ora ni me acordaba de mi base XD ",
+    "[06:26] To Anti_Spiral: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:26] [8b8t] >> Request sent to Anti_Spiral",
+    "[06:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3466,13 +3466,14 @@
     "USD": 1,
     "HobGobOnTop": 1,
     ".Niforio": 1,
-    "dat36": 3
+    "dat36": 3,
+    "Anti_Spiral": 1
   },
   "kitStats": {
     "build": 1663,
     "survival": 6646,
     "pvp": 8550,
-    "dupe": 2330,
+    "dupe": 2331,
     "tools": 1935,
     "stash": 1186,
     "raid": 1386,
