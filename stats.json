@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:32:33 16/1/2026",
+  "lastUpdated": "15:33:03 16/1/2026",
   "totalKits": 88229,
   "todayKits": 182,
   "onlineCount": 21,
   "peakPlayers": 42,
-  "tps": "8.0",
-  "ping": 241,
+  "tps": "7.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2335
+      "count": 2336
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:30] To Fewsito: You're on cooldown, try again in 9 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:30] <Preclude> YOOO ",
-    "[08:30] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[08:30] <Fewsito> !kit elytra ",
-    "[08:30] [8b8t] >> Teleporting to home 0...",
-    "[08:30] [8b8t] >> Teleporting to home 6...",
-    "[08:30] To Fewsito: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:30] To Fewsito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:30] [8b8t] >> Request sent to Fewsito",
     "[08:30] <ROHAN> !kit pvp ",
     "[08:30] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[08:32] <Preclude> !kit ",
     "[08:32] To Preclude: Hello Preclude!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[08:32] <ROHAN> !/tpa ",
-    "[08:32] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
+    "[08:32] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[08:32] <DIRECHEESE> is anyone far from spawn ",
+    "[08:32] <ROHAN> yahh ",
+    "[08:32] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[08:32] <ROHAN> wa ",
+    "[08:33] <Preclude> !kit dupe ",
+    "[08:33] [8b8t] >> Teleporting to home 0...",
+    "[08:33] [8b8t] >> Teleporting to home 7...",
+    "[08:33] To Preclude: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3475,13 +3475,13 @@
     "ImPulseStory2": 9,
     "HewJitler": 2,
     "Busysimmin1221": 1,
-    "Preclude": 1
+    "Preclude": 2
   },
   "kitStats": {
     "build": 1663,
     "survival": 6657,
     "pvp": 8567,
-    "dupe": 2335,
+    "dupe": 2336,
     "tools": 1936,
     "stash": 1190,
     "raid": 1386,
