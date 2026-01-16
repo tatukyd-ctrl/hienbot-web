@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:27:03 16/1/2026",
+  "lastUpdated": "22:27:33 16/1/2026",
   "totalKits": 88425,
   "todayKits": 378,
   "onlineCount": 32,
   "peakPlayers": 42,
-  "tps": "8.0",
+  "tps": "0.0",
   "ping": 351,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6690
+      "count": 6691
     },
     {
       "name": "dupe",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:25] <m4rc_xyz8> !kit ",
-    "[15:25] To m4rc_xyz8: Hello m4rc_xyz8!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:25] <botchaosonix> yes pvp ",
-    "[15:25] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[15:25] <botchaosonix> ready so pvp fight like ",
-    "[15:26] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[15:26] [Ultra] <HTP1P0> !kit nether ",
-    "[15:26] [8b8t] >> Teleporting to home 0...",
-    "[15:26] [8b8t] >> Teleporting to home 7...",
-    "[15:26] To htp1p0: Your kit (nether) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:26] To htp1p0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:26] [8b8t] >> Request sent to htp1p0",
-    "[15:26] [8b8t] >> Teleporting...",
-    "[15:26] <m4rc_xyz8> !kit toolbox ",
     "[15:26] To m4rc_xyz8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:26] [8b8t] >> You have killed yourself!",
     "[15:26] <nfkiki> !kit quiarts ",
@@ -101,7 +87,21 @@
     "[15:26] To m4rc_xyz8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:26] <bapehnk2282> !kit ",
     "[15:26] To bapehnk2282: Hello bapehnk2282!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:26] <LEON10> Simblebot "
+    "[15:26] <LEON10> Simblebot ",
+    "[15:27] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[15:27] <nfkiki> !kit quarts ",
+    "[15:27] To nfkiki: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:27] [8b8t] >> You have killed yourself!",
+    "[15:27] [8b8t] >> The TPA request you sent to nfkiki was successfully canceled.",
+    "[15:27] <Ust_yonki> !tps ",
+    "[15:27] To Ust_yonki: Current TPS: 6.00 Dont forget to join dsc.gg/hienbot",
+    "[15:27] <nfkiki> !kit quarts ",
+    "[15:27] To nfkiki: You're on cooldown, try again in 56 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:27] <LEON10> Is there no light? ",
+    "[15:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[15:27] <botchaosonix> pvp? ",
+    "[15:27] <bapehnk2282> !kit survival ",
+    "[15:27] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3495,11 +3495,12 @@
     "Melkin": 1,
     "mxmi666": 1,
     "MaximB2010": 2,
-    "usNexu": 1
+    "usNexu": 1,
+    "bapehnk2282": 1
   },
   "kitStats": {
     "build": 1669,
-    "survival": 6690,
+    "survival": 6691,
     "pvp": 8623,
     "dupe": 2347,
     "tools": 1953,
