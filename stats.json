@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:15:02 18/1/2026",
+  "lastUpdated": "00:15:27 18/1/2026",
   "totalKits": 89393,
   "todayKits": 155,
   "onlineCount": 31,
   "peakPlayers": 44,
-  "tps": "11.0",
+  "tps": "8.0",
   "ping": 217,
   "topUsers": [
     {
@@ -52,11 +52,11 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8965
+      "count": 8966
     },
     {
       "name": "survival",
-      "count": 6884
+      "count": 6885
     },
     {
       "name": "dupe",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:14] <TulagrandBot> >How are you .SaneMitten1070? ",
-    "[17:14] <botchaosonix> cool ",
-    "[17:14] <maxanachy> !kit pvp ",
-    "[17:14] [8b8t] >> Teleporting to home 0...",
-    "[17:14] [8b8t] >> Teleporting to home 1...",
-    "[17:14] To maxanachy: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:14] To maxanachy: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[17:14] <botchaosonix> again 3 or 2? ",
-    "[17:14] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[17:14] <seansil123456> oke ",
-    "[17:14] <TulagrandBot> >Try @list to get list of players ",
-    "[17:14] <botchaosonix> Pop pop pop wont stop till you drop seansil123456 ",
-    "[17:14] <ManePear_fannn> !kit survival ",
-    "[17:14] [8b8t] >> Teleporting to home 0...",
-    "[17:14] [8b8t] >> Teleporting to home 1...",
     "[17:14] [Ultra] <HTP1P0> !kit ",
     "[17:14] To htp1p0: Hello htp1p0!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[17:14] To ManePear_fannn: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +86,22 @@
     "[17:14] <botchaosonix> im use metor ",
     "[17:14] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[17:14] [8b8t] >> Teleporting...",
-    "[17:15] <seansil123456> me have redstone wait "
+    "[17:15] <seansil123456> me have redstone wait ",
+    "[17:15] [8b8t] >> You have killed yourself!",
+    "[17:15] <HewJitler> !kit pvp ",
+    "[17:15] [8b8t] >> Teleporting to home 0...",
+    "[17:15] <botchaosonix> ok later bro ",
+    "[17:15] [8b8t] >> Teleporting to home 1...",
+    "[17:15] To HewJitler: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:15] To HewJitler: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[17:15] <HewJitler> can someone help me plz ",
+    "[17:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[17:15] <maxanachy> !kit survival ",
+    "[17:15] [8b8t] >> Teleporting to home 0...",
+    "[17:15] [8b8t] >> Teleporting to home 1...",
+    "[17:15] To maxanachy: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:15] To maxanachy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:15] [8b8t] >> Request sent to maxanachy"
   ],
   "userStats": {
     "76756": 38,
@@ -3473,7 +3473,7 @@
     ".Stormtroop4926": 5,
     "nCBH7": 3,
     "ImPulseStory2": 17,
-    "HewJitler": 6,
+    "HewJitler": 7,
     "Busysimmin1221": 1,
     "Preclude": 39,
     "NeizYT31": 4,
@@ -3538,7 +3538,7 @@
     "SensaiBro123": 2,
     "n0cap69": 2,
     "Benjita_12": 5,
-    "maxanachy": 36,
+    "maxanachy": 37,
     "Aretorangtwo": 7,
     "SPREENQ": 40,
     "oro_888": 1,
@@ -3591,8 +3591,8 @@
   },
   "kitStats": {
     "build": 1805,
-    "survival": 6884,
-    "pvp": 8965,
+    "survival": 6885,
+    "pvp": 8966,
     "dupe": 2432,
     "tools": 2013,
     "stash": 1242,
