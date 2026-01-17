@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:02:48 17/1/2026",
-  "totalKits": 88773,
-  "todayKits": 83,
+  "lastUpdated": "09:03:01 17/1/2026",
+  "totalKits": 88774,
+  "todayKits": 84,
   "onlineCount": 35,
   "peakPlayers": 53,
   "tps": "3.0",
@@ -68,24 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1700
+      "count": 1701
     }
   ],
   "chatLog": [
-    "[02:02] <dantecavii> !kit food ",
-    "[02:02] To dantecavii: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:02] <NeitherRecord44> !kit ",
-    "[02:02] To NeitherRecord44: Hello NeitherRecord44!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:02] <dantecavii> !kit food ",
-    "[02:02] To dantecavii: You're on cooldown, try again in 1 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:02] <dantecavii> !kit food ",
-    "[02:02] [8b8t] >> Teleporting to home 0...",
-    "[02:02] [8b8t] >> Teleporting to home 4...",
-    "[02:02] To dantecavii: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:02] <aaronlardone> !kit survival ",
-    "[02:02] <blandixxx_226> !kit tools ",
-    "[02:02] To aaronlardone: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:02] To blandixxx_226: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:02] To dantecavii: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:02] <dantecavii> !kit food ",
     "[02:02] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +87,21 @@
     "[02:02] To NeitherRecord44: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:02] [8b8t] >> Request sent to NeitherRecord44",
     "[02:02] [8b8t] >> Teleporting...",
-    "[02:02] <.Fatboi653831> heyy "
+    "[02:02] <.Fatboi653831> heyy ",
+    "[02:02] [8b8t] >> You have killed yourself!",
+    "[02:02] <CallenBam> !kit build ",
+    "[02:02] <dantecavii> !kit ",
+    "[02:02] [8b8t] >> Teleporting to home 0...",
+    "[02:02] To dantecavii: Hello dantecavii!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:02] [8b8t] >> Home 2 was not found",
+    "[02:02] To CallenBam: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:02] To CallenBam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:02] [8b8t] >> Request sent to CallenBam",
+    "[02:02] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[02:02] [8b8t] >> Teleporting...",
+    "[02:02] <dantecavii> !kit redstone ",
+    "[02:02] <.Fatboi653831> wha ",
+    "[02:02] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3442,7 +3442,7 @@
     "closepvp": 1,
     ".End3r3876": 13,
     "tirex548": 2,
-    "CallenBam": 27,
+    "CallenBam": 28,
     "Valoma20142000": 7,
     "yKey": 2,
     "lucia_uwu_": 1,
@@ -3551,7 +3551,7 @@
     "aaronlardone": 2
   },
   "kitStats": {
-    "build": 1700,
+    "build": 1701,
     "survival": 6767,
     "pvp": 8746,
     "dupe": 2378,
