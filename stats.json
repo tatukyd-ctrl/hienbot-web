@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:25:01 17/1/2026",
-  "totalKits": 88742,
-  "todayKits": 52,
+  "lastUpdated": "08:25:31 17/1/2026",
+  "totalKits": 88743,
+  "todayKits": 53,
   "onlineCount": 45,
   "peakPlayers": 53,
   "tps": "3.0",
-  "ping": 274,
+  "ping": 264,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6754
+      "count": 6755
     },
     {
       "name": "dupe",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:23] [8b8t] >> Request sent to SPREENQ",
-    "[01:23] <SPREENQ> !kit elitra ",
-    "[01:23] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:23] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[01:24] <CallenBam> !kit build ",
-    "[01:24] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:24] <SPREENQ> !kit elitra ",
-    "[01:24] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:24] <CallenBam> !kit build ",
-    "[01:24] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:24] <SPREENQ> v ",
-    "[01:24] <Jonicua> !kit survival ",
-    "[01:24] To Jonicua: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:24] <SPREENQ> !kit elitra ",
-    "[01:24] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:24] [8b8t] >> You have killed yourself!",
     "[01:24] [8b8t] >> The TPA request you sent to SPREENQ was successfully canceled.",
     "[01:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[01:24] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
@@ -101,7 +85,23 @@
     "[01:24] To rolito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:24] [8b8t] >> Request sent to rolito",
     "[01:24] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[01:24] [8b8t] >> Teleporting..."
+    "[01:24] [8b8t] >> Teleporting...",
+    "[01:25] <Jonicua> !kit survival ",
+    "[01:25] To Jonicua: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:25] [8b8t] >> You have killed yourself!",
+    "[01:25] <blandixxx_226> !kit survival ",
+    "[01:25] [8b8t] >> Teleporting to home 0...",
+    "[01:25] [8b8t] >> Teleporting to home 1...",
+    "[01:25] To blandixxx_226: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:25] To blandixxx_226: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:25] [8b8t] >> Request sent to blandixxx_226",
+    "[01:25] <2bAdmin> hi ",
+    "[01:25] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[01:25] <CallenBam> !kit build ",
+    "[01:25] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:25] [8b8t] >> Teleporting...",
+    "[01:25] <Jonicua> !kit survival ",
+    "[01:25] To Jonicua: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3545,11 +3545,12 @@
     "dragonsej2025": 1,
     "Jonicua": 5,
     "dantecavii": 3,
-    ".Dgomegarato": 2
+    ".Dgomegarato": 2,
+    "blandixxx_226": 1
   },
   "kitStats": {
     "build": 1693,
-    "survival": 6754,
+    "survival": 6755,
     "pvp": 8740,
     "dupe": 2376,
     "tools": 1973,
