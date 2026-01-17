@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:41:01 17/1/2026",
-  "totalKits": 88756,
-  "todayKits": 66,
-  "onlineCount": 42,
+  "lastUpdated": "08:41:24 17/1/2026",
+  "totalKits": 88757,
+  "todayKits": 67,
+  "onlineCount": 43,
   "peakPlayers": 53,
   "tps": "3.0",
-  "ping": 307,
+  "ping": 271,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8742
+      "count": 8743
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:40] To dantecavii: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:40] <dantecavii> !kit survival ",
-    "[01:40] To dantecavii: You're on cooldown, try again in 1 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:40] <dantecavii> !kit survival ",
-    "[01:40] [8b8t] >> Teleporting to home 0...",
-    "[01:40] [8b8t] >> Teleporting to home 1...",
-    "[01:40] To dantecavii: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:40] <aaronlardone> !kit pvp ",
-    "[01:40] To aaronlardone: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:40] To dantecavii: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:40] [8b8t] >> Request sent to dantecavii",
-    "[01:40] <magmitamp4> !kit build ",
     "[01:40] To magmitamp4: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:40] [8b8t] >> Teleporting...",
     "[01:40] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
@@ -101,7 +89,19 @@
     "[01:40] Chat disabled in client options",
     "[01:40] <aaronlardone> !kit ",
     "[01:40] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[01:40] To aaronlardone: Hello aaronlardone!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[01:40] To aaronlardone: Hello aaronlardone!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:41] creeperawman120 has made the advancement [Monster Hunter]",
+    "[01:41] <aaronlardone> !kit pvp ",
+    "[01:41] [8b8t] >> Teleporting to home 0...",
+    "[01:41] [8b8t] >> Teleporting to home 1...",
+    "[01:41] To aaronlardone: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:41] To aaronlardone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:41] <rolito> !kit Elytra ",
+    "[01:41] [8b8t] >> Request sent to aaronlardone",
+    "[01:41] To rolito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:41] <creeperawman120> !kit stash ",
+    "[01:41] To creeperawman120: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3547,12 +3547,13 @@
     "dantecavii": 8,
     ".Dgomegarato": 3,
     "blandixxx_226": 3,
-    "peneflex": 1
+    "peneflex": 1,
+    "aaronlardone": 1
   },
   "kitStats": {
     "build": 1698,
     "survival": 6762,
-    "pvp": 8742,
+    "pvp": 8743,
     "dupe": 2376,
     "tools": 1974,
     "stash": 1221,
