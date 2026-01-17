@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:53:31 17/1/2026",
-  "totalKits": 88936,
-  "todayKits": 246,
+  "lastUpdated": "11:53:42 17/1/2026",
+  "totalKits": 88937,
+  "todayKits": 247,
   "onlineCount": 27,
   "peakPlayers": 53,
-  "tps": "4.0",
+  "tps": "9.0",
   "ping": 225,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6799
+      "count": 6800
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:51] [8b8t] >> Request sent to SPREENQ",
-    "[04:51] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[04:51] <Akari44> !kit diamon ",
-    "[04:51] To Akari44: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:52] [8b8t] >> Teleporting...",
-    "[04:52] [8b8t] >> You have killed yourself!",
-    "[04:52] <Akari44> !kit build ",
     "[04:52] [8b8t] >> Teleporting to home 0...",
     "[04:52] [8b8t] >> Home 2 was not found",
     "[04:52] To Akari44: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[04:53] [8b8t] >> Teleporting to home 1...",
     "[04:53] To Akari44: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:53] To Akari44: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[04:53] [BOT] <0_HienBot> >Try !кιт survival "
+    "[04:53] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[04:53] <Akari44> !kit survival ",
+    "[04:53] [8b8t] >> Teleporting to home 0...",
+    "[04:53] [8b8t] >> Teleporting to home 1...",
+    "[04:53] To Akari44: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:53] To Akari44: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:53] [8b8t] >> Request sent to Akari44",
+    "[04:53] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3479,7 +3479,7 @@
     "NeizYT31": 4,
     "SupRoiT_MC": 1,
     "c_ops": 1,
-    "Akari44": 29,
+    "Akari44": 30,
     "Memen_canavari": 2,
     "0_HeinBott": 2,
     "datrauma": 1,
@@ -3562,7 +3562,7 @@
   },
   "kitStats": {
     "build": 1720,
-    "survival": 6799,
+    "survival": 6800,
     "pvp": 8798,
     "dupe": 2395,
     "tools": 1987,
