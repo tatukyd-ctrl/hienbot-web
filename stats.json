@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:42:15 17/1/2026",
-  "totalKits": 89164,
-  "todayKits": 223,
+  "lastUpdated": "19:42:31 17/1/2026",
+  "totalKits": 89165,
+  "todayKits": 224,
   "onlineCount": 32,
   "peakPlayers": 37,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 246,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8863
+      "count": 8864
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:40] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[12:40] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[12:40] <TulagrandBot> >Try /nc to change your nick color ",
-    "[12:41] <DrVenial31> accept ",
-    "[12:41] <base_hunter_1> !kit survival ",
-    "[12:41] [8b8t] >> Teleporting to home 0...",
-    "[12:41] [8b8t] >> Teleporting to home 1...",
-    "[12:41] To base_hunter_1: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:41] To base_hunter_1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:41] [8b8t] >> Request sent to base_hunter_1",
     "[12:41] [BOT] <0_HienBot> >Type !discord ",
     "[12:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:41] [8b8t] >> Teleporting...",
@@ -101,7 +91,17 @@
     "[12:41] [8b8t] >> Request sent to DrVenial31",
     "[12:42] [8b8t] >> Teleporting...",
     "[12:42] UraniumChilling has made the advancement [Stone Age]",
-    "[12:42] [8b8t] >> You have killed yourself!"
+    "[12:42] [8b8t] >> You have killed yourself!",
+    "[12:42] <unknown_2121_> !kit build2 ",
+    "[12:42] [8b8t] >> Teleporting to home 0...",
+    "[12:42] [8b8t] >> Teleporting to home 1...",
+    "[12:42] <TulagrandBot> > TULAGRANDE 1.6! ",
+    "[12:42] To unknown_2121_: Kit \"build2\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[12:42] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[12:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[12:42] To unknown_2121_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:42] [8b8t] >> Request sent to unknown_2121_",
+    "[12:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2235,7 +2235,7 @@
     "Escannn": 1,
     "Alcope": 1,
     "MrSevenEleven": 2,
-    "unknown_2121_": 44,
+    "unknown_2121_": 45,
     "Jwit_": 1,
     "IvanZaSilly2": 62,
     "blackwolf480": 4,
@@ -3580,7 +3580,7 @@
   "kitStats": {
     "build": 1772,
     "survival": 6850,
-    "pvp": 8863,
+    "pvp": 8864,
     "dupe": 2412,
     "tools": 1998,
     "stash": 1236,
