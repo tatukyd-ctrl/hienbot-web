@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:11:44 17/1/2026",
+  "lastUpdated": "13:12:14 17/1/2026",
   "totalKits": 88967,
   "todayKits": 26,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 34,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 250,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:10] [8b8t] >> Teleporting to home 1...",
-    "[06:10] To lucasel_008: Kit \"elytras\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
-    "[06:10] To lucasel_008: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[06:10] <.Keviinjm12> !kit Stash ",
-    "[06:10] [8b8t] >> Teleporting to home 0...",
-    "[06:10] [8b8t] >> Home 2 was not found",
-    "[06:10] To .Keviinjm12: Your kit (Stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:10] To .Keviinjm12: Sorry! White Shulker Box is out of stock. Giving you Red Shulker Box instead! dsc.gg/hienbot",
     "[06:10] [8b8t] >> Request sent to .Keviinjm12",
     "[06:10] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[06:11] [8b8t] >> Request sent to .Keviinjm12",
     "[06:11] [8b8t] >> Teleporting...",
     "[06:11] <Risky_Jaat> for kits tp me ",
-    "[06:11] [8b8t] >> You have killed yourself!"
+    "[06:11] [8b8t] >> You have killed yourself!",
+    "[06:11] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[06:12] <lucasel_008> !kit elytras ",
+    "[06:12] [8b8t] >> Teleporting to home 0...",
+    "[06:12] [8b8t] >> Teleporting to home 7...",
+    "[06:12] To lucasel_008: Kit \"elytras\" not found! Giving you (armortrims) instead! dsc.gg/hienbot",
+    "[06:12] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:12] [8b8t] >> Request sent to lucasel_008"
   ],
   "userStats": {
     "76756": 38,
@@ -3562,7 +3562,7 @@
     "baopuki30": 3,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 1
+    "lucasel_008": 2
   },
   "kitStats": {
     "build": 1725,
@@ -3584,7 +3584,7 @@
     "shulker": 652,
     "terracotta": 136,
     "end": 731,
-    "armortrims": 589,
+    "armortrims": 590,
     "highway": 639,
     "ocean": 168,
     "concrete": 416,
