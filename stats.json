@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:35:14 17/1/2026",
-  "totalKits": 88979,
-  "todayKits": 38,
+  "lastUpdated": "13:35:39 17/1/2026",
+  "totalKits": 88980,
+  "todayKits": 39,
   "onlineCount": 24,
   "peakPlayers": 34,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 247,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6811
+      "count": 6812
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:33] To FLAMEalem12: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[06:33] [BOT] <0_HienBot> >Welcome to 8b8t, Risky_Jaat! ",
-    "[06:33] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[06:33] <ROMANJAVA> !kit pvp ",
-    "[06:33] [8b8t] >> Teleporting to home 0...",
-    "[06:33] [8b8t] >> Teleporting to home 1...",
-    "[06:33] <lucasel_008> !kit elytra ",
-    "[06:33] To ROMANJAVA: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:33] To lucasel_008: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:33] To ROMANJAVA: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[06:33] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[06:33] <FLAMEalem12> !kit pvp ",
     "[06:33] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +91,17 @@
     "[06:34] [8b8t] >> You have killed yourself!",
     "[06:34] <kaufumanJR> pvp here ",
     "[06:34] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[06:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[06:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[06:35] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[06:35] <lucasel_008> !kit survival ",
+    "[06:35] [8b8t] >> Teleporting to home 0...",
+    "[06:35] [8b8t] >> Teleporting to home 1...",
+    "[06:35] To lucasel_008: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:35] <baopuki30> !kit ",
+    "[06:35] To baopuki30: Hello baopuki30!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[06:35] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:35] [8b8t] >> Request sent to lucasel_008",
+    "[06:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3562,11 +3562,11 @@
     "baopuki30": 5,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 10
+    "lucasel_008": 11
   },
   "kitStats": {
     "build": 1726,
-    "survival": 6811,
+    "survival": 6812,
     "pvp": 8811,
     "dupe": 2398,
     "tools": 1988,
