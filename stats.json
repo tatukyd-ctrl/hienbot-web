@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:32:57 18/1/2026",
-  "totalKits": 89651,
-  "todayKits": 413,
+  "lastUpdated": "05:33:19 18/1/2026",
+  "totalKits": 89652,
+  "todayKits": 414,
   "onlineCount": 47,
   "peakPlayers": 51,
   "tps": "4.0",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6946
+      "count": 6947
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:31] <MrPinkEye> !kit ",
-    "[22:31] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[22:31] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[22:31] Zhyvv has made the advancement [Hot Stuff]",
-    "[22:31] <CallenBam> !kit enderpearl ",
-    "[22:31] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:31] [8b8t] >> You have killed yourself!",
-    "[22:31] [BOT] <0_HienBot> >What's up, fast_bot? ",
-    "[22:32] <CallenBam> !kit enderpearl ",
-    "[22:32] [8b8t] >> Teleporting to home 0...",
-    "[22:32] [8b8t] >> Teleporting to home 5...",
-    "[22:32] To CallenBam: Your kit (enderpearl) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:32] To CallenBam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:32] [8b8t] >> Request sent to CallenBam",
     "[22:32] [8b8t] >> Teleporting...",
@@ -101,7 +88,20 @@
     "[22:32] <TulagrandBot> >Want kit? Try @kit ",
     "[22:32] [8b8t] >> You have killed yourself!",
     "[22:32] <blake56> kit at end ",
-    "[22:32] <CallenBam> !kit blaze "
+    "[22:32] <CallenBam> !kit blaze ",
+    "[22:32] To CallenBam: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:32] [BOT] <0_HienBot> >Hi blake56! ",
+    "[22:33] <CallenBam> !kit blaze ",
+    "[22:33] [8b8t] >> Teleporting to home 0...",
+    "[22:33] [8b8t] >> Teleporting to home 1...",
+    "[22:33] To CallenBam: Kit \"blaze\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[22:33] <TulagrandBot> >Hello, lDEMOlLiTiOn ",
+    "[22:33] <BdubH2015> i only have that so far ",
+    "[22:33] To CallenBam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:33] [8b8t] >> Request sent to CallenBam",
+    "[22:33] [8b8t] >> Teleporting...",
+    "[22:33] lDEMOlLiTiOn has made the advancement [The End?]",
+    "[22:33] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3442,7 +3442,7 @@
     "closepvp": 1,
     ".End3r3876": 15,
     "tirex548": 2,
-    "CallenBam": 59,
+    "CallenBam": 60,
     "Valoma20142000": 7,
     "yKey": 2,
     "lucia_uwu_": 1,
@@ -3621,7 +3621,7 @@
   },
   "kitStats": {
     "build": 1834,
-    "survival": 6946,
+    "survival": 6947,
     "pvp": 9084,
     "dupe": 2456,
     "tools": 2029,
