@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:10:27 18/1/2026",
+  "lastUpdated": "03:10:57 18/1/2026",
   "totalKits": 89542,
   "todayKits": 304,
   "onlineCount": 40,
   "peakPlayers": 51,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 206,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9040
+      "count": 9042
     },
     {
       "name": "survival",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:08] [8b8t] >> Request sent to BdubH2015",
-    "[20:08] <BdubH2015> !kit dupe ",
-    "[20:08] To BdubH2015: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:08] [8b8t] >> Teleporting...",
-    "[20:08] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[20:08] [8b8t] >> You have killed yourself!",
-    "[20:08] <OLAIFING78> alguno sabe si es posible ir al end? ",
-    "[20:08] [Basic] <PorotoCosmico> si s posible ",
-    "[20:08] <TulagrandBot> >Want kit? Try @kit ",
-    "[20:08] <GAVI345213> busco clan gente ",
-    "[20:08] <GAVI345213> alguno que no estafe ",
-    "[20:08] [Basic] <PorotoCosmico> hay bases ahi ",
-    "[20:08] <GAVI345213> y que sea clan enserio ",
-    "[20:08] <BdubH2015> como dupes?? ",
-    "[20:08] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[20:09] YoureIronic Whispers: > want to try out a new anarchy server and become one of the first people to make history? join mc.trace.rip | d70d00",
     "[20:09] <GAVI345213> alguno tiene clan para unirme? ",
     "[20:09] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +86,22 @@
     "[20:10] <GAVI345213> tenia clan y en un pvp me cague muriendo ",
     "[20:10] <TulagrandBot> >Building a base? Try @kit build1 ",
     "[20:10] <GAVI345213> ahora busco clan ",
-    "[20:10] <bittertolueneboy> how do you get out of spawn?? "
+    "[20:10] <bittertolueneboy> how do you get out of spawn?? ",
+    "[20:10] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[20:10] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[20:10] HAKURYU56 has made the advancement [A Terrible Fortress]",
+    "[20:10] HAKURYU56 has completed the challenge [Hot Tourist Destinations]",
+    "[20:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[20:10] GAVI345213 has made the advancement [Cover Me With Diamonds]",
+    "[20:10] <bittertolueneboy> @kit pvp ",
+    "[20:10] [8b8t] >> Teleporting to home 0...",
+    "[20:10] [8b8t] >> Teleporting to home 1...",
+    "[20:10] To bittertolueneboy: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:10] To bittertolueneboy: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[20:10] <BdubH2015> @kit pvp ",
+    "[20:10] [8b8t] >> Teleporting to home 0...",
+    "[20:10] [8b8t] >> Teleporting to home 1...",
+    "[20:10] To BdubH2015: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2064,7 +2064,7 @@
     "ItzRealDown": 2,
     "DonIanaco": 3,
     "laureeledesmaa": 1,
-    "BdubH2015": 128,
+    "BdubH2015": 129,
     ".clanJF": 10,
     "Cheesecake1336": 3,
     "davidpro077": 63,
@@ -3607,12 +3607,13 @@
     "MRtotototin": 1,
     "Quwim": 1,
     "_xuwuhou": 1,
-    "LyoxYT": 2
+    "LyoxYT": 2,
+    "bittertolueneboy": 1
   },
   "kitStats": {
     "build": 1820,
     "survival": 6925,
-    "pvp": 9040,
+    "pvp": 9042,
     "dupe": 2448,
     "tools": 2019,
     "stash": 1248,
