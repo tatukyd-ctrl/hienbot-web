@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:33:14 17/1/2026",
+  "lastUpdated": "13:33:44 17/1/2026",
   "totalKits": 88978,
   "todayKits": 37,
-  "onlineCount": 25,
+  "onlineCount": 27,
   "peakPlayers": 34,
-  "tps": "2.0",
-  "ping": 255,
+  "tps": "3.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8809
+      "count": 8810
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:31] [8b8t] >> You have killed yourself!",
-    "[06:31] <kaufumanJR> !kit elytra ",
-    "[06:31] [8b8t] >> Teleporting to home 0...",
-    "[06:31] [8b8t] >> Teleporting to home 6...",
-    "[06:31] To kaufumanJR: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:31] To kaufumanJR: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:31] [8b8t] >> Request sent to kaufumanJR",
-    "[06:31] <lucasel_008> !kit elytra ",
-    "[06:31] [8b8t] >> Teleporting...",
-    "[06:31] Chat disabled in client options",
     "[06:31] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[06:31] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[06:31] [8b8t] >> You have killed yourself!",
@@ -101,7 +91,17 @@
     "[06:33] <FLAMEalem12> !kit pvp ",
     "[06:33] [8b8t] >> Teleporting to home 0...",
     "[06:33] [8b8t] >> Teleporting to home 1...",
-    "[06:33] To FLAMEalem12: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
+    "[06:33] To FLAMEalem12: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:33] To FLAMEalem12: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[06:33] [BOT] <0_HienBot> >Welcome to 8b8t, Risky_Jaat! ",
+    "[06:33] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[06:33] <ROMANJAVA> !kit pvp ",
+    "[06:33] [8b8t] >> Teleporting to home 0...",
+    "[06:33] [8b8t] >> Teleporting to home 1...",
+    "[06:33] <lucasel_008> !kit elytra ",
+    "[06:33] To ROMANJAVA: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:33] To lucasel_008: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:33] To ROMANJAVA: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3557,7 +3557,7 @@
     "Nyxion49": 6,
     "flashebas77": 8,
     "ickkck786": 2,
-    "ROMANJAVA": 24,
+    "ROMANJAVA": 25,
     "Toomani": 1,
     "baopuki30": 5,
     "j3vu": 1,
@@ -3567,7 +3567,7 @@
   "kitStats": {
     "build": 1726,
     "survival": 6810,
-    "pvp": 8809,
+    "pvp": 8810,
     "dupe": 2398,
     "tools": 1988,
     "stash": 1229,
