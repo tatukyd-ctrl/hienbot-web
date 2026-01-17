@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:02:31 17/1/2026",
-  "totalKits": 88772,
-  "todayKits": 82,
-  "onlineCount": 36,
+  "lastUpdated": "09:02:48 17/1/2026",
+  "totalKits": 88773,
+  "todayKits": 83,
+  "onlineCount": 35,
   "peakPlayers": 53,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 280,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:01] To aaronlardone: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:01] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[02:02] <dantecavii> !kit food ",
-    "[02:02] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:02] [8b8t] >> You have killed yourself!",
-    "[02:02] [8b8t] >> The TPA request you sent to aaronlardone has expired.",
-    "[02:02] <dantecavii> !kit food ",
-    "[02:02] To dantecavii: You're on cooldown, try again in 5 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:02] <dantecavii> !kit food ",
     "[02:02] To dantecavii: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:02] <NeitherRecord44> !kit ",
@@ -101,7 +93,15 @@
     "[02:02] MRtotototin has reached the goal [Postmortal]",
     "[02:02] [8b8t] >> Teleporting...",
     "[02:02] [BOT] <0_HienBot> >Type !discord ",
-    "[02:02] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[02:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:02] <NeitherRecord44> !kit elytra ",
+    "[02:02] [8b8t] >> Teleporting to home 0...",
+    "[02:02] [8b8t] >> Teleporting to home 6...",
+    "[02:02] To NeitherRecord44: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:02] To NeitherRecord44: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:02] [8b8t] >> Request sent to NeitherRecord44",
+    "[02:02] [8b8t] >> Teleporting...",
+    "[02:02] <.Fatboi653831> heyy "
   ],
   "userStats": {
     "76756": 38,
@@ -3457,7 +3457,7 @@
     "CommonHat": 1,
     "soyparty": 1,
     "dronestr1ke": 3,
-    "NeitherRecord44": 2,
+    "NeitherRecord44": 3,
     "ZetrionZ": 4,
     "mtiasd10": 4,
     "IloveYouHarlieee": 1,
@@ -3584,6 +3584,6 @@
     "gterracotta": 91,
     "banner": 90,
     "illegal": 706,
-    "elytra": 481
+    "elytra": 482
   }
 }
