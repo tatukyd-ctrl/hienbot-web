@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:20:14 17/1/2026",
+  "lastUpdated": "15:20:44 17/1/2026",
   "totalKits": 89040,
   "todayKits": 99,
   "onlineCount": 25,
   "peakPlayers": 34,
   "tps": "2.0",
-  "ping": 227,
+  "ping": 225,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8827
+      "count": 8828
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:17] [8b8t] >> Teleporting to home 0...",
-    "[08:17] [8b8t] >> Teleporting to home 1...",
-    "[08:17] To Hien2309: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:17] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[08:17] To Hien2309: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:17] [8b8t] >> Request sent to Hien2309",
-    "[08:17] [8b8t] >> Teleporting...",
     "[08:17] Ikoner has reached the goal [Postmortal]",
     "[08:18] [8b8t] >> You have killed yourself!",
     "[08:18] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
@@ -101,7 +94,14 @@
     "[08:20] The_KylerALK has made the advancement [Stone Age]",
     "[08:20] <Lunariels> !ᴋɪᴛ ᴩᴠᴩ ",
     "[08:20] <The_KylerALK> cuidado xd ",
-    "[08:20] [8b8t] >> The TPA request you sent to baopuki30 has expired."
+    "[08:20] [8b8t] >> The TPA request you sent to baopuki30 has expired.",
+    "[08:20] [8b8t] >> Please do not spam.",
+    "[08:20] mistermooninger has made the advancement [Oh Shiny]",
+    "[08:20] <Lunariels> ɪ ɴᴇᴇᴅ qᴜɪᴄᴋ ᴋɪᴛ ",
+    "[08:20] [8b8t] >> You have killed yourself!",
+    "[08:20] [8b8t] >> No TPA request found",
+    "[08:20] <Tacspin> !kit pvp ",
+    "[08:20] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3567,12 +3567,12 @@
     "ItzRealBull": 1,
     "Ikoner": 6,
     "The_KylerALK": 4,
-    "Tacspin": 1
+    "Tacspin": 2
   },
   "kitStats": {
     "build": 1763,
     "survival": 6823,
-    "pvp": 8827,
+    "pvp": 8828,
     "dupe": 2404,
     "tools": 1991,
     "stash": 1230,
