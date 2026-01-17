@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:15:14 17/1/2026",
-  "totalKits": 88994,
-  "todayKits": 53,
-  "onlineCount": 19,
+  "lastUpdated": "14:15:43 17/1/2026",
+  "totalKits": 88995,
+  "todayKits": 54,
+  "onlineCount": 21,
   "peakPlayers": 34,
-  "tps": "9.0",
+  "tps": "5.0",
   "ping": 260,
   "topUsers": [
     {
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1739
+      "count": 1740
     }
   ],
   "chatLog": [
-    "[07:13] [8b8t] >> The TPA request you sent to rolito was successfully canceled.",
-    "[07:13] <SPREENQ> !kit build ",
-    "[07:13] [8b8t] >> Teleporting to home 0...",
-    "[07:13] [8b8t] >> Home 2 was not found",
-    "[07:13] To SPREENQ: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:13] To SPREENQ: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[07:13] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[07:13] <lucasel_008> !kit pvp ",
-    "[07:13] [8b8t] >> Teleporting to home 0...",
     "[07:13] <rolito> !kit Redstone ",
     "[07:13] [8b8t] >> Teleporting to home 1...",
     "[07:13] To rolito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[07:14] SPREENQ has made the advancement [Hot Stuff]",
     "[07:14] [BOT] <0_HienBot> >Hi DPS_Chatbridge! ",
     "[07:14] <xoan69> ping ",
-    "[07:15] [BOT] <0_HienBot> >Hello DPS_Chatbridge! "
+    "[07:15] [BOT] <0_HienBot> >Hello DPS_Chatbridge! ",
+    "[07:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[07:15] <lucasel_008> !kit build ",
+    "[07:15] [8b8t] >> Teleporting to home 0...",
+    "[07:15] [8b8t] >> Home 2 was not found",
+    "[07:15] To lucasel_008: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:15] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[07:15] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:15] [8b8t] >> Request sent to lucasel_008",
+    "[07:15] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3562,10 +3562,10 @@
     "baopuki30": 8,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 24
+    "lucasel_008": 25
   },
   "kitStats": {
-    "build": 1739,
+    "build": 1740,
     "survival": 6818,
     "pvp": 8817,
     "dupe": 2400,
