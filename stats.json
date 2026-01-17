@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:00:12 17/1/2026",
+  "lastUpdated": "23:00:27 17/1/2026",
   "totalKits": 89322,
   "todayKits": 84,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 44,
-  "tps": "0.0",
+  "tps": "2.0",
   "ping": 218,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8924
+      "count": 8925
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:59] <CallenBam> !kit exp ",
-    "[15:59] [8b8t] >> Teleporting to home 0...",
-    "[15:59] [8b8t] >> Teleporting to home 5...",
-    "[15:59] To CallenBam: Your kit (exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:59] <seansil123456> go ",
-    "[15:59] To CallenBam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:59] [8b8t] >> Request sent to CallenBam",
-    "[15:59] <Merxiless> !kit elytra ",
-    "[15:59] To Merxiless: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:59] [8b8t] >> Teleporting...",
-    "[15:59] <botchaosonix> Music to my ears seansil123456 ",
-    "[15:59] [8b8t] >> You have killed yourself!",
-    "[15:59] <botchaosonix> I love it when you pop seansil123456 ",
     "[15:59] <TulagrandBot> >Try @kit to get kit ",
     "[15:59] <Cristiann_8> !kit end ",
     "[15:59] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +88,20 @@
     "[16:00] <Cristiann_8> 7tpayes ",
     "[16:00] <botchaosonix> gg ",
     "[16:00] <seansil123456> u bedrackkkk gg ",
-    "[16:00] [8b8t] >> Teleporting..."
+    "[16:00] [8b8t] >> Teleporting...",
+    "[16:00] <botchaosonix> ok go again no bedrock ",
+    "[16:00] <seansil123456> !kit pvp ",
+    "[16:00] [8b8t] >> Teleporting to home 0...",
+    "[16:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[16:00] [8b8t] >> Teleporting to home 1...",
+    "[16:00] To seansil123456: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:00] <CallenBam> !kit survival ",
+    "[16:00] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:00] To seansil123456: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[16:00] [Ultra] <HTP1P0> PVP IN THE HOTSPOT ",
+    "[16:00] <CallenBam> !kit survival ",
+    "[16:00] To CallenBam: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:00] <botchaosonix> no bedrock and you ok fine go place bedrock "
   ],
   "userStats": {
     "76756": 38,
@@ -3581,7 +3581,7 @@
     "kyngz_on_java": 8,
     "DIRECHEESE": 11,
     "RefluxzIsHere": 2,
-    "seansil123456": 12,
+    "seansil123456": 13,
     "TheMrTomate8": 9,
     "ghost_itot": 1,
     "ManePear_fannn": 2
@@ -3589,7 +3589,7 @@
   "kitStats": {
     "build": 1795,
     "survival": 6869,
-    "pvp": 8924,
+    "pvp": 8925,
     "dupe": 2424,
     "tools": 2006,
     "stash": 1240,
