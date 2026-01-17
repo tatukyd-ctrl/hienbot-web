@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:00:44 17/1/2026",
+  "lastUpdated": "16:01:14 17/1/2026",
   "totalKits": 89058,
   "todayKits": 117,
-  "onlineCount": 22,
+  "onlineCount": 23,
   "peakPlayers": 34,
-  "tps": "4.0",
-  "ping": 236,
+  "tps": "6.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8834
+      "count": 8835
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:58] [8b8t] >> You have killed yourself!",
-    "[08:58] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[08:58] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[08:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:59] <TulagrandBot> >Hi base_hunter_1 ",
-    "[08:59] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[08:59] <TulagrandBot> >Hola Sr_Frundles ",
-    "[08:59] <evlszz> !kit PVP ",
-    "[08:59] [8b8t] >> Teleporting to home 0...",
     "[08:59] [8b8t] >> Teleporting to home 1...",
     "[08:59] To evlszz: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:59] To evlszz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +92,16 @@
     "[09:00] <evlszz> !kit PVP ",
     "[09:00] To evlszz: You're on cooldown, try again in 37 seconds! Dont forget to join dsc.gg/hienbot",
     "[09:00] <evlszz> !kit PVP ",
-    "[09:00] To evlszz: You're on cooldown, try again in 32 seconds! Dont forget to join dsc.gg/hienbot"
+    "[09:00] To evlszz: You're on cooldown, try again in 32 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:00] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[09:00] <MikiFarr> !kit pvp ",
+    "[09:00] [8b8t] >> Teleporting to home 0...",
+    "[09:00] [8b8t] >> Teleporting to home 1...",
+    "[09:00] To MikiFarr: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:00] <evlszz> !kit PVP ",
+    "[09:00] To evlszz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:00] To MikiFarr: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:00] [8b8t] >> Request sent to MikiFarr"
   ],
   "userStats": {
     "76756": 38,
@@ -3569,12 +3569,13 @@
     "The_KylerALK": 16,
     "Tacspin": 2,
     "EAhYAJOvY": 1,
-    ".SweetDaisy1042": 3
+    ".SweetDaisy1042": 3,
+    "MikiFarr": 1
   },
   "kitStats": {
     "build": 1763,
     "survival": 6829,
-    "pvp": 8834,
+    "pvp": 8835,
     "dupe": 2404,
     "tools": 1992,
     "stash": 1230,
