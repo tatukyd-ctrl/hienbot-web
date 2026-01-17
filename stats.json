@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:31:31 17/1/2026",
-  "totalKits": 88808,
-  "todayKits": 118,
+  "lastUpdated": "09:31:50 17/1/2026",
+  "totalKits": 88809,
+  "todayKits": 119,
   "onlineCount": 33,
   "peakPlayers": 53,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 258,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8749
+      "count": 8750
     },
     {
       "name": "survival",
@@ -72,23 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:30] To .Lightshadow2013: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:30] [BOT] <0_HienBot> >Hello MrPinkEye! ",
-    "[02:30] [8b8t] >> You have killed yourself!",
-    "[02:30] <.Lightshadow2013> !kit illegal ",
-    "[02:30] [8b8t] >> Teleporting to home 0...",
-    "[02:30] [8b8t] >> No TPA request found",
-    "[02:30] [8b8t] >> Teleporting to home 7...",
-    "[02:30] To .Lightshadow2013: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:31] To .Lightshadow2013: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:31] [8b8t] >> Request sent to .Lightshadow2013",
-    "[02:31] <evlszz> !kit ",
-    "[02:31] To evlszz: Hello evlszz!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:31] <CallenBam> !kit redstone ",
-    "[02:31] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:31] <CallenBam> !kit redstone ",
-    "[02:31] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:31] <CallenBam> !kit redstone ",
     "[02:31] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:31] NeitherRecord44 has made the advancement [The End?]",
     "[02:31] <evlszz> !kit PVP ",
@@ -101,7 +84,24 @@
     "[02:31] <mtiasd10> !kit EXP ",
     "[02:31] To mtiasd10: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:31] <evlszz> !kit PVP ",
-    "[02:31] To evlszz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[02:31] To evlszz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:31] <evlszz> !kit PVP ",
+    "[02:31] To evlszz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:31] [8b8t] >> You have killed yourself!",
+    "[02:31] [8b8t] >> The TPA request you sent to .Lightshadow2013 was successfully canceled.",
+    "[02:31] <evlszz> !kit PVP ",
+    "[02:31] [8b8t] >> Teleporting to home 0...",
+    "[02:31] [8b8t] >> Teleporting to home 1...",
+    "[02:31] <fabric_XxX> tan lejos tas xd ",
+    "[02:31] To evlszz: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:31] Aretorangtwo Whispers: !kit survival",
+    "[02:31] To Aretorangtwo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:31] To evlszz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:31] [8b8t] >> Request sent to evlszz",
+    "[02:31] [8b8t] >> Teleporting...",
+    "[02:31] Aretorangtwo Whispers: !kit survival",
+    "[02:31] To Aretorangtwo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:31] <fabric_XxX> me toco ir 4mill bloques "
   ],
   "userStats": {
     "76756": 38,
@@ -3549,12 +3549,13 @@
     "blandixxx_226": 10,
     "peneflex": 1,
     "aaronlardone": 2,
-    ".Lightshadow2013": 2
+    ".Lightshadow2013": 2,
+    "evlszz": 1
   },
   "kitStats": {
     "build": 1702,
     "survival": 6771,
-    "pvp": 8749,
+    "pvp": 8750,
     "dupe": 2383,
     "tools": 1977,
     "stash": 1224,
