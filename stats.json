@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:29:44 17/1/2026",
-  "totalKits": 88973,
-  "todayKits": 32,
-  "onlineCount": 24,
+  "lastUpdated": "13:30:06 17/1/2026",
+  "totalKits": 88974,
+  "todayKits": 33,
+  "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 251,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:28] <ROMANJAVA> !kit pvp ",
-    "[06:28] [8b8t] >> Teleporting to home 0...",
-    "[06:28] [8b8t] >> Teleporting to home 1...",
-    "[06:28] To ROMANJAVA: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:28] To ROMANJAVA: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[06:28] <HighwayCleaner> !kit pvp ",
-    "[06:28] [8b8t] >> Teleporting to home 0...",
-    "[06:28] [8b8t] >> Teleporting to home 1...",
-    "[06:28] To HighwayCleaner: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:28] To HighwayCleaner: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[06:28] <ROMANJAVA> !kit pvp ",
     "[06:28] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[06:29] [8b8t] >> Teleporting to home 0...",
     "[06:29] [8b8t] >> Teleporting to home 1...",
     "[06:29] To ROMANJAVA: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:29] To ROMANJAVA: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[06:29] To ROMANJAVA: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[06:29] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[06:29] <lucasel_008> !kit elytras ",
+    "[06:29] [8b8t] >> Teleporting to home 0...",
+    "[06:29] [8b8t] >> Teleporting to home 6...",
+    "[06:29] To lucasel_008: Kit \"elytras\" not found! Giving you (elytra) instead! dsc.gg/hienbot",
+    "[06:29] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:29] [8b8t] >> Request sent to lucasel_008",
+    "[06:30] [8b8t] >> Teleporting...",
+    "[06:30] <baopuki30> !ping "
   ],
   "userStats": {
     "76756": 38,
@@ -3562,7 +3562,7 @@
     "baopuki30": 5,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 8
+    "lucasel_008": 9
   },
   "kitStats": {
     "build": 1726,
@@ -3598,6 +3598,6 @@
     "gterracotta": 93,
     "banner": 90,
     "illegal": 706,
-    "elytra": 502
+    "elytra": 503
   }
 }
