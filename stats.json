@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:15:44 17/1/2026",
-  "totalKits": 88967,
-  "todayKits": 26,
+  "lastUpdated": "13:16:12 17/1/2026",
+  "totalKits": 88968,
+  "todayKits": 27,
   "onlineCount": 26,
   "peakPlayers": 34,
-  "tps": "2.0",
-  "ping": 272,
+  "tps": "1.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1725
+      "count": 1726
     }
   ],
   "chatLog": [
-    "[06:12] [8b8t] >> You have killed yourself!",
-    "[06:12] [8b8t] >> The TPA request you sent to lucasel_008 was successfully canceled.",
-    "[06:12] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[06:13] [BOT] <0_HienBot> >Type !discord ",
-    "[06:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:13] <lucasel_008> !kit elytras ",
-    "[06:13] [8b8t] >> Teleporting to home 0...",
-    "[06:13] [8b8t] >> Teleporting to home 1...",
-    "[06:13] To lucasel_008: Kit \"elytras\" not found! Giving you (music) instead! dsc.gg/hienbot",
     "[06:13] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:13] [8b8t] >> Request sent to lucasel_008",
     "[06:13] [BOT] <0_HienBot> >Hmmmmmmmmm ",
@@ -101,7 +92,16 @@
     "[06:15] [8b8t] >> You have killed yourself!",
     "[06:15] [8b8t] >> The TPA request you sent to baopuki30 was successfully canceled.",
     "[06:15] <baopuki30> !kit Survival ",
-    "[06:15] To baopuki30: You're on cooldown, try again in 56 seconds! Dont forget to join dsc.gg/hienbot"
+    "[06:15] To baopuki30: You're on cooldown, try again in 56 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:15] [BOT] <0_HienBot> >Hello lucasel_008! ",
+    "[06:15] <lucasel_008> !kit elytras ",
+    "[06:15] [8b8t] >> Teleporting to home 0...",
+    "[06:15] [8b8t] >> Home 2 was not found",
+    "[06:15] To lucasel_008: Kit \"elytras\" not found! Giving you (build) instead! dsc.gg/hienbot",
+    "[06:16] <Akari44> ?kit ",
+    "[06:16] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:16] [8b8t] >> Request sent to lucasel_008",
+    "[06:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3562,10 +3562,10 @@
     "baopuki30": 4,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 3
+    "lucasel_008": 4
   },
   "kitStats": {
-    "build": 1725,
+    "build": 1726,
     "survival": 6808,
     "pvp": 8802,
     "dupe": 2398,
