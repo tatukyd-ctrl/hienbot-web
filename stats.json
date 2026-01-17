@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:13:44 17/1/2026",
+  "lastUpdated": "13:14:14 17/1/2026",
   "totalKits": 88967,
   "todayKits": 26,
   "onlineCount": 27,
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:10] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[06:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[06:11] <.Keviinjm12> !kit ",
-    "[06:11] To .Keviinjm12: Hello .Keviinjm12!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:11] <.Keviinjm12> !kit Exp ",
-    "[06:11] [8b8t] >> Teleporting to home 0...",
-    "[06:11] [BOT] <0_HienBot> >What's up, lucasel_008? ",
-    "[06:11] [8b8t] >> Teleporting to home 5...",
     "[06:11] To .Keviinjm12: Your kit (Exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:11] <lucasel_008> !kit elytras ",
     "[06:11] To lucasel_008: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[06:12] [8b8t] >> The TPA request you sent to lucasel_008 was successfully canceled.",
     "[06:12] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[06:13] [BOT] <0_HienBot> >Type !discord ",
-    "[06:13] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[06:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:13] <lucasel_008> !kit elytras ",
+    "[06:13] [8b8t] >> Teleporting to home 0...",
+    "[06:13] [8b8t] >> Teleporting to home 1...",
+    "[06:13] To lucasel_008: Kit \"elytras\" not found! Giving you (music) instead! dsc.gg/hienbot",
+    "[06:13] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:13] [8b8t] >> Request sent to lucasel_008",
+    "[06:13] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[06:13] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3562,7 +3562,7 @@
     "baopuki30": 3,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 2
+    "lucasel_008": 3
   },
   "kitStats": {
     "build": 1725,
@@ -3592,7 +3592,7 @@
     "gap": 223,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
-    "music": 203,
+    "music": 204,
     "c": 3,
     "christmas": 139,
     "gterracotta": 92,
