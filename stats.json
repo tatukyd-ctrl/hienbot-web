@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:29:08 18/1/2026",
+  "lastUpdated": "05:29:27 18/1/2026",
   "totalKits": 89647,
   "todayKits": 409,
-  "onlineCount": 47,
+  "onlineCount": 46,
   "peakPlayers": 51,
-  "tps": "2.0",
-  "ping": 215,
+  "tps": "5.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:28] To .Truett2013: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:28] To .Truett2013: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:28] [8b8t] >> You already have a pending request",
-    "[22:28] [8b8t] >> The TPA request you sent to .Truett2013 has expired.",
-    "[22:28] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[22:28] [Ultra] <focoloa> thats good leee, btw where is my book ",
-    "[22:28] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[22:28] [8b8t] >> You have killed yourself!",
     "[22:28] <BdubH2015> !kit shulker ",
     "[22:28] To BdubH2015: You're on cooldown, try again in 2 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:28] [8b8t] >> No TPA request found",
@@ -101,7 +93,15 @@
     "[22:29] To CreeperKing6041: Hello CreeperKing6041!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[22:29] <TulagrandBot> >Tulagrande on top! ",
     "[22:29] <BdubH2015> !kit shulker ",
-    "[22:29] To BdubH2015: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[22:29] To BdubH2015: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:29] [8b8t] >> You have killed yourself!",
+    "[22:29] <.DIEGOSO134599> !kit armor ",
+    "[22:29] [8b8t] >> Teleporting to home 0...",
+    "[22:29] <blememeformymist> bruh ",
+    "[22:29] [8b8t] >> Teleporting to home 7...",
+    "[22:29] To .DIEGOSO134599: Your kit (armor) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:29] To .DIEGOSO134599: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:29] [8b8t] >> Request sent to .DIEGOSO134599"
   ],
   "userStats": {
     "76756": 38,
@@ -3616,7 +3616,8 @@
     "lDEMOlLiTiOn": 1,
     "hackxdr": 2,
     ".Truett2013": 2,
-    "Parmama": 1
+    "Parmama": 1,
+    ".DIEGOSO134599": 1
   },
   "kitStats": {
     "build": 1834,
@@ -3638,7 +3639,7 @@
     "shulker": 663,
     "terracotta": 141,
     "end": 749,
-    "armortrims": 623,
+    "armortrims": 624,
     "highway": 647,
     "ocean": 172,
     "concrete": 431,
