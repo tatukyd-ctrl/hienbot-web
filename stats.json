@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:52:33 18/1/2026",
-  "totalKits": 89570,
-  "todayKits": 332,
-  "onlineCount": 38,
+  "lastUpdated": "03:52:51 18/1/2026",
+  "totalKits": 89571,
+  "todayKits": 333,
+  "onlineCount": 35,
   "peakPlayers": 51,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 207,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6930
+      "count": 6931
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:51] [8b8t] >> Teleporting...",
-    "[20:51] [8b8t] >> You have killed yourself!",
-    "[20:51] <rolito> !kit arrows ",
-    "[20:51] [8b8t] >> Teleporting to home 0...",
-    "[20:51] [8b8t] >> Teleporting to home 3...",
-    "[20:51] To rolito: Kit \"arrows\" not found! Giving you (wool) instead! dsc.gg/hienbot",
-    "[20:51] <fabric_XxX> elva no mil osea ",
-    "[20:51] <CallenBam> !kit firework ",
-    "[20:51] To rolito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:51] [8b8t] >> Request sent to rolito",
     "[20:51] <SPREENQ> !kit firework ",
     "[20:51] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[20:52] [8b8t] >> Request sent to CallenBam",
     "[20:52] <.MysticSoul2912> !kits ",
     "[20:52] [8b8t] >> Teleporting...",
-    "[20:52] [BOT] <0_HienBot> >What's up, PorotoCosmico? "
+    "[20:52] [BOT] <0_HienBot> >What's up, PorotoCosmico? ",
+    "[20:52] [8b8t] >> You have killed yourself!",
+    "[20:52] <Wemmbu_fannn> @kit survival ",
+    "[20:52] [8b8t] >> Teleporting to home 0...",
+    "[20:52] [8b8t] >> Teleporting to home 1...",
+    "[20:52] To Wemmbu_fannn: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:52] To Wemmbu_fannn: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:52] [8b8t] >> Request sent to Wemmbu_fannn",
+    "[20:52] [8b8t] >> Teleporting...",
+    "[20:52] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -3572,7 +3572,7 @@
     ".SweetDaisy1042": 3,
     "MikiFarr": 2,
     "Btman0812": 1,
-    "Wemmbu_fannn": 26,
+    "Wemmbu_fannn": 27,
     "E7KwasTaken": 10,
     "iamsuckkkk": 1,
     "liviaaaaaaa": 1,
@@ -3614,7 +3614,7 @@
   },
   "kitStats": {
     "build": 1822,
-    "survival": 6930,
+    "survival": 6931,
     "pvp": 9052,
     "dupe": 2449,
     "tools": 2019,
