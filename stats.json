@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:22:51 17/1/2026",
+  "lastUpdated": "14:23:14 17/1/2026",
   "totalKits": 88999,
   "todayKits": 58,
-  "onlineCount": 23,
+  "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "9.0",
-  "ping": 362,
+  "tps": "6.0",
+  "ping": 290,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1752
+      "count": 1753
     }
   ],
   "chatLog": [
-    "[07:21] [8b8t] >> Teleporting to home 0...",
-    "[07:21] [8b8t] >> Home 2 was not found",
-    "[07:21] To rolito: Your kit (Build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:21] To rolito: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[07:21] [8b8t] >> Please do not spam.",
-    "[07:21] [8b8t] >> griffwings voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
     "[07:21] <baopuki30> !kit ",
     "[07:21] To baopuki30: Hello baopuki30!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[07:21] <lucasel_008> !kit food ",
@@ -101,7 +94,14 @@
     "[07:22] [8b8t] >> Request sent to baopuki30",
     "[07:22] lucasel_008 has made the advancement [Ice Bucket Challenge]",
     "[07:22] [8b8t] >> Teleporting...",
-    "[07:22] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[07:22] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[07:22] [8b8t] >> You have killed yourself!",
+    "[07:23] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[07:23] <SPREENQ> !kit build ",
+    "[07:23] [8b8t] >> Teleporting to home 0...",
+    "[07:23] [8b8t] >> Home 2 was not found",
+    "[07:23] To SPREENQ: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:23] To SPREENQ: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3540,7 +3540,7 @@
     "Benjita_12": 5,
     "maxanachy": 1,
     "Aretorangtwo": 7,
-    "SPREENQ": 26,
+    "SPREENQ": 27,
     "oro_888": 1,
     "dragonsej2025": 1,
     "Jonicua": 6,
@@ -3565,7 +3565,7 @@
     "lucasel_008": 30
   },
   "kitStats": {
-    "build": 1752,
+    "build": 1753,
     "survival": 6819,
     "pvp": 8817,
     "dupe": 2401,
