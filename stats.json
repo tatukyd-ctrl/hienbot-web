@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:32:41 18/1/2026",
+  "lastUpdated": "02:32:57 18/1/2026",
   "totalKits": 89523,
   "todayKits": 285,
   "onlineCount": 46,
   "peakPlayers": 47,
-  "tps": "3.0",
-  "ping": 226,
+  "tps": "1.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9030
+      "count": 9031
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:31] [8b8t] >> Teleporting to home 0...",
-    "[19:31] To The_Bot_father: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:31] [8b8t] >> Home 2 was not found",
-    "[19:31] To LeoBurst: Kit \"spam\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
-    "[19:31] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[19:32] To LeoBurst: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:32] [8b8t] >> Request sent to LeoBurst",
-    "[19:32] <LeoBurst> !kit ",
-    "[19:32] To LeoBurst: Hello LeoBurst!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:32] <seansil123456> tpa pvp ",
-    "[19:32] [8b8t] >> Teleporting...",
     "[19:32] <The_Bot_father> !kit ",
     "[19:32] To The_Bot_father: Hello The_Bot_father!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[19:32] <seansil123456> !ping ",
@@ -101,7 +90,18 @@
     "[19:32] <E7KwasTaken> @kit ",
     "[19:32] To E7KwasTaken: Hello E7KwasTaken!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[19:32] [8b8t] >> Teleporting...",
-    "[19:32] <0Noxx0> !dupe "
+    "[19:32] <0Noxx0> !dupe ",
+    "[19:32] <Quwim> @kit ",
+    "[19:32] <TulagrandBot> >This bot has been created by Felek btw. ",
+    "[19:32] To Quwim: Hello Quwim!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[19:32] [8b8t] >> You have killed yourself!",
+    "[19:32] <Quwim> @kit pvp ",
+    "[19:32] [8b8t] >> Teleporting to home 0...",
+    "[19:32] [8b8t] >> Teleporting to home 1...",
+    "[19:32] To Quwim: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:32] <E7KwasTaken> @kit raid ",
+    "[19:32] To E7KwasTaken: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:32] To Quwim: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3604,12 +3604,13 @@
     "sportano789": 7,
     "Bray2897": 1,
     "ZentoriPK": 1,
-    "MRtotototin": 1
+    "MRtotototin": 1,
+    "Quwim": 1
   },
   "kitStats": {
     "build": 1817,
     "survival": 6924,
-    "pvp": 9030,
+    "pvp": 9031,
     "dupe": 2447,
     "tools": 2019,
     "stash": 1247,
