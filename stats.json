@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:44:31 17/1/2026",
-  "totalKits": 88837,
-  "todayKits": 147,
+  "lastUpdated": "09:44:50 17/1/2026",
+  "totalKits": 88838,
+  "todayKits": 148,
   "onlineCount": 35,
   "peakPlayers": 53,
   "tps": "4.0",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8755
+      "count": 8756
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:43] [8b8t] >> Request sent to LiflexMC",
-    "[02:43] [8b8t] >> Teleporting...",
-    "[02:43] <fabric_XxX> estoy ya me ves? ",
-    "[02:43] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[02:43] [8b8t] >> You have killed yourself!",
-    "[02:43] <blandixxx_226> !kit raid ",
-    "[02:43] To blandixxx_226: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:43] <.Lightshadow2013> !kit survival ",
     "[02:43] [8b8t] >> Teleporting to home 0...",
     "[02:43] [8b8t] >> Teleporting to home 1...",
     "[02:43] To .Lightshadow2013: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[02:44] [8b8t] >> Teleporting...",
     "[02:44] <fabric_XxX> estoy cerca ",
     "[02:44] [8b8t] >> You have killed yourself!",
-    "[02:44] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me "
+    "[02:44] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[02:44] .Lightshadow2013 has completed the challenge [Serious Dedication]",
+    "[02:44] <Mixrq> !kit PVP ",
+    "[02:44] [8b8t] >> Teleporting to home 0...",
+    "[02:44] [8b8t] >> Teleporting to home 1...",
+    "[02:44] To Mixrq: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:44] To Mixrq: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:44] [8b8t] >> Request sent to Mixrq",
+    "[02:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3551,12 +3551,13 @@
     "aaronlardone": 2,
     ".Lightshadow2013": 9,
     "evlszz": 5,
-    "Russ0kk": 1
+    "Russ0kk": 1,
+    "Mixrq": 1
   },
   "kitStats": {
     "build": 1706,
     "survival": 6777,
-    "pvp": 8755,
+    "pvp": 8756,
     "dupe": 2385,
     "tools": 1980,
     "stash": 1225,
