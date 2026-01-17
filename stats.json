@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:31:57 17/1/2026",
-  "totalKits": 89355,
-  "todayKits": 117,
-  "onlineCount": 38,
+  "lastUpdated": "23:32:14 17/1/2026",
+  "totalKits": 89356,
+  "todayKits": 118,
+  "onlineCount": 39,
   "peakPlayers": 44,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 252,
   "topUsers": [
     {
@@ -68,24 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1801
+      "count": 1802
     }
   ],
   "chatLog": [
-    "[16:30] <SlimeCrafter_99> !kit Concrete ",
-    "[16:30] [8b8t] >> Teleporting to home 0...",
-    "[16:30] <botchaosonix> hey ",
-    "[16:30] To SlimeCrafter_99: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:30] [8b8t] >> Home 2 was not found",
-    "[16:30] To aaronlardone: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:30] <seansil123456> me cant use ",
-    "[16:30] <botchaosonix> wait ",
-    "[16:30] To aaronlardone: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:30] [8b8t] >> Request sent to aaronlardone",
-    "[16:30] <botchaosonix> here ",
-    "[16:30] [8b8t] >> Teleporting...",
-    "[16:30] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
-    "[16:30] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[16:31] <.XBLAZEFOOTX> !kit crafting table ",
     "[16:31] <SlimeCrafter_99> hi ",
     "[16:31] <TulagrandBot> >This bot has been created by Felek btw. ",
@@ -101,7 +87,21 @@
     "[16:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[16:31] <SlimeCrafter_99> !kit ",
     "[16:31] To SlimeCrafter_99: Hello SlimeCrafter_99!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:31] <botchaosonix> wait "
+    "[16:31] <botchaosonix> wait ",
+    "[16:31] [BOT] <0_HienBot> >Type !discord ",
+    "[16:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:32] <.XBLAZEFOOTX> !kit build ",
+    "[16:32] [8b8t] >> You have killed yourself!",
+    "[16:32] To .XBLAZEFOOTX: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:32] [8b8t] >> Teleporting to home 0...",
+    "[16:32] [8b8t] >> Home 2 was not found",
+    "[16:32] <SlimeCrafter_99> !kit Concrete ",
+    "[16:32] To SlimeCrafter_99: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:32] To .XBLAZEFOOTX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:32] [8b8t] >> Request sent to .XBLAZEFOOTX",
+    "[16:32] [8b8t] >> Teleporting...",
+    "[16:32] <seansil123456> !kit pvp ",
+    "[16:32] To seansil123456: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2577,7 +2577,7 @@
     "stuck_alt": 56,
     "efraddada": 51,
     "hmadyuh": 46,
-    ".XBLAZEFOOTX": 28,
+    ".XBLAZEFOOTX": 29,
     "Floobius446": 1,
     "JackMan13244": 1,
     "TheeIceez": 3,
@@ -3588,7 +3588,7 @@
     "qYunuss": 2
   },
   "kitStats": {
-    "build": 1801,
+    "build": 1802,
     "survival": 6874,
     "pvp": 8950,
     "dupe": 2426,
