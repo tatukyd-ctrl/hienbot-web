@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:19:16 18/1/2026",
+  "lastUpdated": "02:19:27 18/1/2026",
   "totalKits": 89511,
   "todayKits": 273,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 44,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 221,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9019
+      "count": 9020
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:18] <seansil123456> sen atamazsın ki spawm dasın dimi ? ",
-    "[19:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[19:18] <TulagrandBot> >Whant something? Try @kit! ",
-    "[19:18] YoureIronic Whispers: >Want a server with no anticheat and actually no rules? Join mc.trace.rip 6092e9",
-    "[19:18] <dragonsej2025> te mando tpa? ",
     "[19:18] <ZentoriPK> evt ",
     "[19:18] <dantecavii> !kit ",
     "[19:18] To dantecavii: Hello dantecavii!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[19:19] [8b8t] >> Teleporting...",
     "[19:19] <TulagrandBot> > TULAGRANDE 1.6! ",
     "[19:19] <sportano789> !kit pvp ",
-    "[19:19] To sportano789: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[19:19] To sportano789: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:19] [8b8t] >> You have killed yourself!",
+    "[19:19] <sportano789> !kit pvp ",
+    "[19:19] [8b8t] >> Teleporting to home 0...",
+    "[19:19] [8b8t] >> Teleporting to home 1...",
+    "[19:19] To sportano789: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3601,14 +3601,14 @@
     "ALFX": 10,
     "ewe124tr": 1,
     "Funk1c": 2,
-    "sportano789": 4,
+    "sportano789": 5,
     "Bray2897": 1,
     "ZentoriPK": 1
   },
   "kitStats": {
     "build": 1816,
     "survival": 6918,
-    "pvp": 9019,
+    "pvp": 9020,
     "dupe": 2446,
     "tools": 2019,
     "stash": 1247,
