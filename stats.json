@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:48:01 17/1/2026",
-  "totalKits": 88840,
-  "todayKits": 150,
+  "lastUpdated": "09:48:12 17/1/2026",
+  "totalKits": 88841,
+  "todayKits": 151,
   "onlineCount": 36,
   "peakPlayers": 53,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 260,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6778
+      "count": 6779
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:47] [8b8t] >> Teleporting to home 0...",
-    "[02:47] [8b8t] >> Teleporting to home 5...",
-    "[02:47] To VolksWagenJetta_: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:47] <dantecavii> !kit pvp ",
-    "[02:47] To VolksWagenJetta_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:47] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:47] [8b8t] >> Request sent to VolksWagenJetta_",
     "[02:47] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[02:47] <dantecavii> !kit pvp ",
     "[02:47] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[02:47] <Mixrq> !kit survival ",
     "[02:47] To Mixrq: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:47] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[02:47] [8b8t] >> You have killed yourself!"
+    "[02:47] [8b8t] >> You have killed yourself!",
+    "[02:48] <Mixrq> !kit survival ",
+    "[02:48] [8b8t] >> Teleporting to home 0...",
+    "[02:48] [8b8t] >> Teleporting to home 1...",
+    "[02:48] To Mixrq: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:48] To Mixrq: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:48] [8b8t] >> Request sent to Mixrq",
+    "[02:48] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3552,11 +3552,11 @@
     ".Lightshadow2013": 9,
     "evlszz": 5,
     "Russ0kk": 1,
-    "Mixrq": 2
+    "Mixrq": 3
   },
   "kitStats": {
     "build": 1706,
-    "survival": 6778,
+    "survival": 6779,
     "pvp": 8757,
     "dupe": 2385,
     "tools": 1980,
