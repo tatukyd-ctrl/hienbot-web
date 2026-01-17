@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:26:31 17/1/2026",
+  "lastUpdated": "19:26:45 17/1/2026",
   "totalKits": 89146,
   "todayKits": 205,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 37,
-  "tps": "8.0",
+  "tps": "3.0",
   "ping": 228,
   "topUsers": [
     {
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1769
+      "count": 1770
     }
   ],
   "chatLog": [
-    "[12:25] <Sgamestream> !kit raid ",
-    "[12:25] [8b8t] >> Teleporting to home 0...",
-    "[12:25] [8b8t] >> Home 2 was not found",
-    "[12:25] To Sgamestream: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:25] [Pro] <⛩ᏗᏒᏁᎧ⛏> can u giev me it at spawn? ",
-    "[12:25] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[12:25] To Sgamestream: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:25] [8b8t] >> Request sent to Sgamestream",
-    "[12:25] <.yuu18m> u got those in duping / illegal items age? ",
     "[12:25] ijnnji has made the advancement [Crafting a New Look]",
     "[12:25] <dantecavii> !kit ",
     "[12:25] To dantecavii: Hello dantecavii!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[12:26] [8b8t] >> Teleporting...",
     "[12:26] <dat36> !kit ",
     "[12:26] To dat36: Hello dat36!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:26] <TulagrandBot> >Try @kit to get kit "
+    "[12:26] <TulagrandBot> >Try @kit to get kit ",
+    "[12:26] <dat36> !kit build ",
+    "[12:26] [8b8t] >> You have killed yourself!",
+    "[12:26] To dat36: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:26] [8b8t] >> Teleporting to home 0...",
+    "[12:26] [8b8t] >> Home 2 was not found",
+    "[12:26] <dantecavii> !kit redstone ",
+    "[12:26] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:26] To dat36: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:26] [8b8t] >> Request sent to dat36"
   ],
   "userStats": {
     "76756": 38,
@@ -3466,7 +3466,7 @@
     "USD": 1,
     "HobGobOnTop": 1,
     ".Niforio": 1,
-    "dat36": 6,
+    "dat36": 7,
     "Anti_Spiral": 4,
     "ganster1234": 1,
     "9cwn": 1,
@@ -3578,7 +3578,7 @@
     "liviaaaaaaa": 1
   },
   "kitStats": {
-    "build": 1769,
+    "build": 1770,
     "survival": 6848,
     "pvp": 8857,
     "dupe": 2411,
