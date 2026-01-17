@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:24:11 17/1/2026",
+  "lastUpdated": "22:24:27 17/1/2026",
   "totalKits": 89272,
   "todayKits": 34,
   "onlineCount": 34,
   "peakPlayers": 44,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 226,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8903
+      "count": 8904
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:23] [8b8t] >> Request sent to maxanachy",
-    "[15:23] <Wemmbu_fannn> guys ",
-    "[15:23] <TheMrTomate8> !kit ",
-    "[15:23] To TheMrTomate8: Hello TheMrTomate8!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:23] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
-    "[15:23] <botchaosonix> wat? ",
-    "[15:23] <Wemmbu_fannn> tp to me I need elytra plsssss ",
-    "[15:23] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[15:23] <ezeyup> kit veren varmi ",
-    "[15:23] [8b8t] >> You have killed yourself!",
-    "[15:23] [8b8t] >> The TPA request you sent to maxanachy was successfully canceled.",
-    "[15:23] <TheMrTomate8> !kit ",
-    "[15:23] To TheMrTomate8: Hello TheMrTomate8!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[15:23] <botchaosonix> you do have pvp ? ",
     "[15:23] <TulagrandBot> >Hi Ascalito ",
     "[15:23] <Wemmbu_fannn> !kit ",
@@ -101,7 +88,20 @@
     "[15:24] [8b8t] >> Request sent to seansil123456",
     "[15:24] [8b8t] >> Teleporting...",
     "[15:24] <botchaosonix> ok ",
-    "[15:24] <maxanachy> !kit pvp "
+    "[15:24] <maxanachy> !kit pvp ",
+    "[15:24] To maxanachy: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:24] [8b8t] >> You have killed yourself!",
+    "[15:24] <botchaosonix> 0_HienBot /friend me so we can talk about how useless you are ",
+    "[15:24] <TheMrTomate8> !kit pvp ",
+    "[15:24] [8b8t] >> Teleporting to home 0...",
+    "[15:24] [8b8t] >> Teleporting to home 1...",
+    "[15:24] <TulagrandBot> >Try /nc to change your nick color ",
+    "[15:24] To TheMrTomate8: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[15:24] <Wemmbu_fannn> !kit TulagrandBot ",
+    "[15:24] To Wemmbu_fannn: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:24] To TheMrTomate8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:24] [8b8t] >> Request sent to TheMrTomate8"
   ],
   "userStats": {
     "76756": 38,
@@ -3581,12 +3581,13 @@
     "kyngz_on_java": 8,
     "DIRECHEESE": 11,
     "RefluxzIsHere": 2,
-    "seansil123456": 3
+    "seansil123456": 3,
+    "TheMrTomate8": 1
   },
   "kitStats": {
     "build": 1787,
     "survival": 6866,
-    "pvp": 8903,
+    "pvp": 8904,
     "dupe": 2416,
     "tools": 2005,
     "stash": 1239,
