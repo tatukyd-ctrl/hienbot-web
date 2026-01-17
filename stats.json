@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:29:42 18/1/2026",
-  "totalKits": 89519,
-  "todayKits": 281,
+  "lastUpdated": "02:29:58 18/1/2026",
+  "totalKits": 89520,
+  "todayKits": 282,
   "onlineCount": 47,
   "peakPlayers": 47,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 215,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6922
+      "count": 6923
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:29] <ZentoriPK> tm ",
-    "[19:29] [8b8t] >> You have killed yourself!",
-    "[19:29] <SPREENQ> !kit ",
-    "[19:29] To SPREENQ: Hello SPREENQ!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:29] <blememeformymist> @kit ",
-    "[19:29] To blememeformymist: Ola blememeformymist!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:29] <seansil123456> dünyaya gel 20k git ",
-    "[19:29] <seansil123456> @kit ",
-    "[19:29] To seansil123456: Hello seansil123456!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:29] <ZentoriPK> - mi ",
-    "[19:29] <blememeformymist> @survival ",
-    "[19:29] <SPREENQ> !kit build ",
     "[19:29] [8b8t] >> Teleporting to home 0...",
     "[19:29] [8b8t] >> Home 2 was not found",
     "[19:29] [8b8t] >> Please do not spam.",
@@ -101,7 +89,19 @@
     "[19:29] To seansil123456: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:29] <0Noxx0> !kit cpvp ",
     "[19:29] To 0Noxx0: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:29] <dragonsej2025> creo q es la última capa de la 1?12?2 "
+    "[19:29] <dragonsej2025> creo q es la última capa de la 1?12?2 ",
+    "[19:29] [8b8t] >> You have killed yourself!",
+    "[19:29] <blememeformymist> @kit survival ",
+    "[19:29] [8b8t] >> Teleporting to home 0...",
+    "[19:29] [8b8t] >> Teleporting to home 1...",
+    "[19:29] To blememeformymist: Seu kit (survival) sera entregue em 30 segundos! Entre em dsc.gg/hienbot",
+    "[19:29] <seansil123456> @kit totem ",
+    "[19:29] To seansil123456: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:29] To blememeformymist: Digite \"/tpayes 0_HienBot\" em 35 segundos! Entre em dsc.gg/hienbot.",
+    "[19:29] [8b8t] >> Request sent to blememeformymist",
+    "[19:29] [8b8t] >> Teleporting...",
+    "[19:29] <seansil123456> @kit totem ",
+    "[19:29] To seansil123456: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3534,7 +3534,7 @@
     "LiflexMC": 15,
     "Pacov255": 2,
     "Zongalos": 1,
-    "blememeformymist": 8,
+    "blememeformymist": 9,
     "SensaiBro123": 2,
     "n0cap69": 2,
     "Benjita_12": 5,
@@ -3608,7 +3608,7 @@
   },
   "kitStats": {
     "build": 1817,
-    "survival": 6922,
+    "survival": 6923,
     "pvp": 9027,
     "dupe": 2446,
     "tools": 2019,
