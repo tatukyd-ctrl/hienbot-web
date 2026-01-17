@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:39:33 17/1/2026",
-  "totalKits": 88825,
-  "todayKits": 135,
-  "onlineCount": 35,
+  "lastUpdated": "09:40:00 17/1/2026",
+  "totalKits": 88826,
+  "todayKits": 136,
+  "onlineCount": 36,
   "peakPlayers": 53,
   "tps": "3.0",
   "ping": 259,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8752
+      "count": 8753
     },
     {
       "name": "survival",
@@ -72,23 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:38] <evlszz> !kit stash ",
-    "[02:38] [8b8t] >> Teleporting to home 0...",
-    "[02:38] [8b8t] >> Home 2 was not found",
-    "[02:38] To evlszz: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:38] To evlszz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:38] [8b8t] >> Request sent to evlszz",
-    "[02:38] [8b8t] >> Teleporting...",
-    "[02:38] <CallenBam> !kit build ",
-    "[02:38] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:38] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[02:38] [8b8t] >> You have killed yourself!",
-    "[02:39] <CallenBam> !kit build ",
-    "[02:39] To CallenBam: You're on cooldown, try again in 36 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:39] Aretorangtwo Whispers: !kit",
-    "[02:39] To Aretorangtwo: Hello Aretorangtwo!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:39] <evlszz> !kit ",
-    "[02:39] To evlszz: Hello evlszz!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[02:39] <.Lightshadow2013> !kit survival ",
     "[02:39] [8b8t] >> Teleporting to home 0...",
     "[02:39] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +84,24 @@
     "[02:39] [8b8t] >> Request sent to .Lightshadow2013",
     "[02:39] <CallenBam> !kit build ",
     "[02:39] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:39] [8b8t] >> Teleporting..."
+    "[02:39] [8b8t] >> Teleporting...",
+    "[02:39] <evlszz> !kit PVP ",
+    "[02:39] To evlszz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:39] [8b8t] >> You have killed yourself!",
+    "[02:39] <evlszz> !kit PVP ",
+    "[02:39] To evlszz: You're on cooldown, try again in 5 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:39] <evlszz> !kit PVP ",
+    "[02:39] [8b8t] >> Teleporting to home 0...",
+    "[02:39] [8b8t] >> Teleporting to home 1...",
+    "[02:39] To evlszz: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:39] Aretorangtwo Whispers: !kit wool",
+    "[02:39] To Aretorangtwo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:39] To evlszz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:39] [8b8t] >> Request sent to evlszz",
+    "[02:39] [8b8t] >> Teleporting...",
+    "[02:39] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[02:39] Aretorangtwo Whispers: !kit wool",
+    "[02:39] To Aretorangtwo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3550,13 +3550,13 @@
     "peneflex": 1,
     "aaronlardone": 2,
     ".Lightshadow2013": 7,
-    "evlszz": 3,
+    "evlszz": 4,
     "Russ0kk": 1
   },
   "kitStats": {
     "build": 1703,
     "survival": 6776,
-    "pvp": 8752,
+    "pvp": 8753,
     "dupe": 2384,
     "tools": 1980,
     "stash": 1225,
