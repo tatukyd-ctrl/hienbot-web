@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:23:14 17/1/2026",
-  "totalKits": 88999,
-  "todayKits": 58,
-  "onlineCount": 25,
+  "lastUpdated": "14:23:34 17/1/2026",
+  "totalKits": 89000,
+  "todayKits": 59,
+  "onlineCount": 26,
   "peakPlayers": 34,
-  "tps": "6.0",
+  "tps": "11.0",
   "ping": 290,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:21] <baopuki30> !kit ",
-    "[07:21] To baopuki30: Hello baopuki30!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[07:21] <lucasel_008> !kit food ",
-    "[07:21] [8b8t] >> Teleporting to home 0...",
-    "[07:21] [8b8t] >> Teleporting to home 4...",
-    "[07:21] To lucasel_008: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:21] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:21] [8b8t] >> Request sent to lucasel_008",
-    "[07:22] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[07:22] <baopuki30> !kit dupe ",
     "[07:22] To baopuki30: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:22] [8b8t] >> Teleporting...",
     "[07:22] [8b8t] >> You have killed yourself!",
@@ -101,7 +91,17 @@
     "[07:23] [8b8t] >> Teleporting to home 0...",
     "[07:23] [8b8t] >> Home 2 was not found",
     "[07:23] To SPREENQ: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:23] To SPREENQ: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[07:23] To SPREENQ: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:23] <lucasel_008> !kit food ",
+    "[07:23] [8b8t] >> Teleporting to home 0...",
+    "[07:23] [8b8t] >> Teleporting to home 4...",
+    "[07:23] To lucasel_008: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:23] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:23] [8b8t] >> Request sent to lucasel_008",
+    "[07:23] <SPREENQ> !kit buiñd ",
+    "[07:23] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:23] [8b8t] >> Teleporting...",
+    "[07:23] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "76756": 38,
@@ -3562,7 +3562,7 @@
     "baopuki30": 9,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 30
+    "lucasel_008": 31
   },
   "kitStats": {
     "build": 1753,
@@ -3577,7 +3577,7 @@
     "dye": 356,
     "wool": 493,
     "mineral": 588,
-    "food": 548,
+    "food": 549,
     "redstone": 862,
     "toolbox": 793,
     "quartz": 347,
