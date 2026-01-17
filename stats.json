@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:52:07 17/1/2026",
+  "lastUpdated": "23:52:27 17/1/2026",
   "totalKits": 89374,
   "todayKits": 136,
   "onlineCount": 31,
   "peakPlayers": 44,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 226,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8956
+      "count": 8957
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:51] <seansil123456> off crystal ",
-    "[16:51] [8b8t] >> Teleporting to home 0...",
-    "[16:51] [8b8t] >> Teleporting to home 1...",
-    "[16:51] To m4rc_xyz8: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:51] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[16:51] To m4rc_xyz8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:51] [8b8t] >> Request sent to m4rc_xyz8",
-    "[16:51] <kaufumanJR> !kit pvp ",
     "[16:51] To kaufumanJR: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:51] [8b8t] >> Teleporting...",
     "[16:51] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
@@ -101,7 +93,15 @@
     "[16:52] [8b8t] >> Request sent to botchaosonix",
     "[16:52] <TulagrandBot> >Try /kill to kill yourself ",
     "[16:52] [8b8t] >> Teleporting...",
-    "[16:52] [Ultra] <HTP1P0> anyone pvp? "
+    "[16:52] [Ultra] <HTP1P0> anyone pvp? ",
+    "[16:52] [8b8t] >> You have killed yourself!",
+    "[16:52] <botchaosonix> 0_HienBot I'm not using reach, you just need to click faster. ",
+    "[16:52] <kaufumanJR> !kit pvp ",
+    "[16:52] [8b8t] >> Teleporting to home 0...",
+    "[16:52] [8b8t] >> Teleporting to home 1...",
+    "[16:52] To kaufumanJR: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:52] To kaufumanJR: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[16:52] <kaufumanJR> !Kits pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3505,7 +3505,7 @@
     "husuu_sigma": 20,
     "kaminek_CZLP": 1,
     "Alpedrosigma": 6,
-    "kaufumanJR": 26,
+    "kaufumanJR": 27,
     "Axwerr53": 11,
     "Gigansky": 11,
     "ITZ_Kaido": 5,
@@ -3592,7 +3592,7 @@
   "kitStats": {
     "build": 1802,
     "survival": 6879,
-    "pvp": 8956,
+    "pvp": 8957,
     "dupe": 2431,
     "tools": 2012,
     "stash": 1241,
