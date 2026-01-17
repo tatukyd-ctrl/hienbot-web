@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:30:44 17/1/2026",
+  "lastUpdated": "13:31:14 17/1/2026",
   "totalKits": 88975,
   "todayKits": 34,
   "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "2.0",
-  "ping": 304,
+  "tps": "0.0",
+  "ping": 1073,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,23 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:29] [8b8t] >> Restarting in 30m!",
-    "[06:29] ",
-    "[06:29] <ROMANJAVA> !kit pvp ",
-    "[06:29] [8b8t] >> Teleporting to home 0...",
-    "[06:29] [8b8t] >> Teleporting to home 1...",
-    "[06:29] To ROMANJAVA: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:29] To ROMANJAVA: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[06:29] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[06:29] <lucasel_008> !kit elytras ",
-    "[06:29] [8b8t] >> Teleporting to home 0...",
-    "[06:29] [8b8t] >> Teleporting to home 6...",
-    "[06:29] To lucasel_008: Kit \"elytras\" not found! Giving you (elytra) instead! dsc.gg/hienbot",
-    "[06:29] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:29] [8b8t] >> Request sent to lucasel_008",
-    "[06:30] [8b8t] >> Teleporting...",
-    "[06:30] <baopuki30> !ping ",
-    "[06:30] To baopuki30: Your ping is: 236 ms Dont forget to join dsc.gg/hienbot",
     "[06:30] [8b8t] >> You have killed yourself!",
     "[06:30] <ROMANJAVA> !kit elytra ",
     "[06:30] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +84,24 @@
     "[06:30] <kaufumanJR> !kit elytra ",
     "[06:30] To kaufumanJR: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[06:30] [8b8t] >> Teleporting...",
-    "[06:30] [8b8t] >> You have killed yourself!"
+    "[06:30] [8b8t] >> You have killed yourself!",
+    "[06:30] <SpinexGamerz> !kit elytra ",
+    "[06:30] [8b8t] >> Teleporting to home 0...",
+    "[06:30] [8b8t] >> Teleporting to home 6...",
+    "[06:30] To SpinexGamerz: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:30] <baopuki30> !kit tnt ",
+    "[06:30] To baopuki30: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:30] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[06:30] <kaufumanJR> !kits elytra ",
+    "[06:31] <SpinexGamerz> !kit elytra ",
+    "[06:31] To SpinexGamerz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:31] <lucasel_008> !kit elytras ",
+    "[06:31] To lucasel_008: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[06:31] To SpinexGamerz: Try again Join dsc.gg/hienbot to report the error.",
+    "[06:31] <SpinexGamerz> !kit elytra ",
+    "[06:31] [8b8t] >> Teleporting to home 0...",
+    "[06:31] [8b8t] >> Teleporting to home 6...",
+    "[06:31] To SpinexGamerz: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2360,7 +2360,7 @@
     "miniconquest": 4,
     "corona_6": 1,
     "kahdjgs3242": 1,
-    "SpinexGamerz": 26,
+    "SpinexGamerz": 28,
     "Monokrane": 16,
     "UnknownBoy_YT": 2,
     "Cadens": 14,
@@ -3598,6 +3598,6 @@
     "gterracotta": 93,
     "banner": 90,
     "illegal": 706,
-    "elytra": 504
+    "elytra": 506
   }
 }
