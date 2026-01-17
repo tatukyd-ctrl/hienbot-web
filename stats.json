@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:19:31 17/1/2026",
+  "lastUpdated": "08:20:01 17/1/2026",
   "totalKits": 88739,
   "todayKits": 49,
-  "onlineCount": 40,
+  "onlineCount": 39,
   "peakPlayers": 53,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 259,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6748
+      "count": 6749
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:18] [8b8t] >> You have killed yourself!",
-    "[01:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[01:18] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[01:18] <dantecavii> !kit survival ",
-    "[01:18] [8b8t] >> Teleporting to home 0...",
-    "[01:18] [8b8t] >> Teleporting to home 1...",
-    "[01:18] To dantecavii: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:18] To dantecavii: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:18] [8b8t] >> Request sent to dantecavii",
-    "[01:18] <dragonsej2025> no lo siento no puedo haceptar el tpa .Fatboi653831 ",
-    "[01:18] <dantecavii> !kit survival ",
-    "[01:18] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:18] <dragonsej2025> rey ",
     "[01:18] <CurativeApple44> !kit ",
     "[01:18] To CurativeApple44: Hello CurativeApple44!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +89,19 @@
     "[01:19] To .Dgomegarato: Hello .Dgomegarato!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[01:19] <dantecavii> !kit survival ",
     "[01:19] To dantecavii: You're on cooldown, try again in 42 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:19] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls "
+    "[01:19] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[01:19] <.Dgomegarato> !kit survival ",
+    "[01:19] [8b8t] >> Teleporting to home 0...",
+    "[01:19] [8b8t] >> Teleporting to home 1...",
+    "[01:19] To .Dgomegarato: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:19] To .Dgomegarato: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:19] [8b8t] >> Request sent to .Dgomegarato",
+    "[01:19] <dantecavii> !kit survival ",
+    "[01:19] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:19] <dantecavii> !kit survival ",
+    "[01:19] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[01:19] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
   ],
   "userStats": {
     "76756": 38,
@@ -3544,11 +3544,12 @@
     "oro_888": 1,
     "dragonsej2025": 1,
     "Jonicua": 3,
-    "dantecavii": 2
+    "dantecavii": 2,
+    ".Dgomegarato": 1
   },
   "kitStats": {
     "build": 1692,
-    "survival": 6748,
+    "survival": 6749,
     "pvp": 8740,
     "dupe": 2375,
     "tools": 1973,
