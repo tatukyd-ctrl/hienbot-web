@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:01:47 17/1/2026",
+  "lastUpdated": "08:02:01 17/1/2026",
   "totalKits": 88726,
   "todayKits": 36,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 53,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 261,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8739
+      "count": 8740
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:00] <nico_master> !kit pvp ",
-    "[01:00] [8b8t] >> Teleporting to home 0...",
-    "[01:00] [8b8t] >> Teleporting to home 1...",
-    "[01:00] To nico_master: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:00] To nico_master: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:00] Aretorangtwo Whispers: !kit toolbox",
-    "[01:00] To Aretorangtwo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:00] [8b8t] >> Request sent to nico_master",
-    "[01:00] [8b8t] >> Teleporting...",
     "[01:00] [8b8t] >> You have killed yourself!",
     "[01:00] <dragonsej2025> >acepta .Greef500 ",
     "[01:00] <rolito> !kit toolbox ",
@@ -101,7 +92,16 @@
     "[01:01] [8b8t] >> Request sent to Aretorangtwo",
     "[01:01] <rolito> !kit toolbox ",
     "[01:01] To rolito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:01] [8b8t] >> Teleporting..."
+    "[01:01] [8b8t] >> Teleporting...",
+    "[01:01] [8b8t] >> You have killed yourself!",
+    "[01:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[01:01] <dragonsej2025> !kit pvp ",
+    "[01:01] [8b8t] >> Teleporting to home 0...",
+    "[01:01] [8b8t] >> Teleporting to home 1...",
+    "[01:01] To dragonsej2025: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:01] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[01:01] To dragonsej2025: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:02] [8b8t] >> Request sent to dragonsej2025"
   ],
   "userStats": {
     "76756": 38,
@@ -3541,12 +3541,13 @@
     "maxanachy": 1,
     "Aretorangtwo": 2,
     "SPREENQ": 4,
-    "oro_888": 1
+    "oro_888": 1,
+    "dragonsej2025": 1
   },
   "kitStats": {
     "build": 1691,
     "survival": 6743,
-    "pvp": 8739,
+    "pvp": 8740,
     "dupe": 2374,
     "tools": 1973,
     "stash": 1219,
