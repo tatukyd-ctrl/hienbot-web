@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:13:14 17/1/2026",
+  "lastUpdated": "14:13:44 17/1/2026",
   "totalKits": 88993,
   "todayKits": 52,
   "onlineCount": 19,
   "peakPlayers": 34,
-  "tps": "10.0",
-  "ping": 243,
+  "tps": "11.0",
+  "ping": 322,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8815
+      "count": 8816
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:11] [8b8t] >> Teleporting...",
-    "[07:11] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[07:11] <lucasel_008> !kit build ",
-    "[07:11] [8b8t] >> Teleporting to home 0...",
-    "[07:11] [8b8t] >> Home 2 was not found",
-    "[07:11] To lucasel_008: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:12] [8b8t] >> Please do not spam.",
-    "[07:12] To lucasel_008: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[07:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:12] deko_watch68 has made the advancement [We Need to Go Deeper]",
     "[07:12] <rolito> !kit redstone ",
     "[07:12] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[07:13] <SPREENQ> !kit build ",
     "[07:13] [8b8t] >> Teleporting to home 0...",
     "[07:13] [8b8t] >> Home 2 was not found",
-    "[07:13] To SPREENQ: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
+    "[07:13] To SPREENQ: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:13] To SPREENQ: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:13] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[07:13] <lucasel_008> !kit pvp ",
+    "[07:13] [8b8t] >> Teleporting to home 0...",
+    "[07:13] <rolito> !kit Redstone ",
+    "[07:13] [8b8t] >> Teleporting to home 1...",
+    "[07:13] To rolito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:13] To lucasel_008: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:13] To lucasel_008: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3562,12 +3562,12 @@
     "baopuki30": 8,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 22
+    "lucasel_008": 23
   },
   "kitStats": {
     "build": 1739,
     "survival": 6818,
-    "pvp": 8815,
+    "pvp": 8816,
     "dupe": 2400,
     "tools": 1989,
     "stash": 1229,
