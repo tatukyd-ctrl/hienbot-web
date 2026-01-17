@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:28:14 17/1/2026",
-  "totalKits": 89005,
-  "todayKits": 64,
+  "lastUpdated": "14:28:37 17/1/2026",
+  "totalKits": 89006,
+  "todayKits": 65,
   "onlineCount": 28,
   "peakPlayers": 34,
   "tps": "5.0",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6819
+      "count": 6820
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:27] <lucasel_008> !kit ",
-    "[07:27] To SPREENQ: Hello SPREENQ!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[07:27] To lucasel_008: Hello lucasel_008!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[07:27] <rolito> !kit dupe ",
-    "[07:27] To rolito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:27] <lucasel_008> !kit raid ",
-    "[07:27] To lucasel_008: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:27] <rolito> !kit raid ",
     "[07:27] To rolito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:27] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
@@ -101,7 +93,15 @@
     "[07:28] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[07:28] [8b8t] >> Teleporting...",
     "[07:28] <Salmup> !kit ",
-    "[07:28] To Salmup: Hello Salmup!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[07:28] To Salmup: Hello Salmup!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[07:28] <lucasel_008> !kit survival ",
+    "[07:28] [8b8t] >> Teleporting to home 0...",
+    "[07:28] [8b8t] >> Teleporting to home 1...",
+    "[07:28] To lucasel_008: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:28] To lucasel_008: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:28] [8b8t] >> Request sent to lucasel_008",
+    "[07:28] [8b8t] >> Teleporting...",
+    "[07:28] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3562,12 +3562,12 @@
     "baopuki30": 9,
     "j3vu": 1,
     ".Keviinjm12": 8,
-    "lucasel_008": 31,
+    "lucasel_008": 32,
     "deko_watch68": 1
   },
   "kitStats": {
     "build": 1755,
-    "survival": 6819,
+    "survival": 6820,
     "pvp": 8819,
     "dupe": 2401,
     "tools": 1989,
