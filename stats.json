@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:29:57 18/1/2026",
+  "lastUpdated": "05:30:27 18/1/2026",
   "totalKits": 89647,
   "todayKits": 409,
-  "onlineCount": 45,
+  "onlineCount": 47,
   "peakPlayers": 51,
-  "tps": "5.0",
+  "tps": "8.0",
   "ping": 209,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9082
+      "count": 9084
     },
     {
       "name": "survival",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:28] <blememeformymist> @kit glowstone ",
-    "[22:28] [8b8t] >> Teleporting to home 0...",
-    "[22:28] [8b8t] >> Teleporting to home 3...",
-    "[22:28] To blememeformymist: Seu kit (glowstone) sera entregue em 30 segundos! Entre em dsc.gg/hienbot",
-    "[22:28] <BdubH2015> !kit shulker ",
-    "[22:28] To BdubH2015: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:28] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[22:29] To blememeformymist: Digite \"/tpayes 0_HienBot\" em 35 segundos! Entre em dsc.gg/hienbot.",
-    "[22:29] [8b8t] >> Request sent to blememeformymist",
-    "[22:29] <.Truett2013> Yes ",
-    "[22:29] <blake56> test run 1 ",
-    "[22:29] [8b8t] >> Teleporting...",
-    "[22:29] <CreeperKing6041> !kit armor ",
-    "[22:29] To CreeperKing6041: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:29] <CreeperKing6041> !kit ",
-    "[22:29] To CreeperKing6041: Hello CreeperKing6041!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[22:29] <TulagrandBot> >Tulagrande on top! ",
     "[22:29] <BdubH2015> !kit shulker ",
     "[22:29] To BdubH2015: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +85,23 @@
     "[22:29] [8b8t] >> Request sent to .DIEGOSO134599",
     "[22:29] [BOT] <0_HienBot> >Hi Quasaredix! ",
     "[22:29] <TulagrandBot> >Whant something? Try @kit! ",
-    "[22:29] Zhyvv has made the advancement [Diamonds!]"
+    "[22:29] Zhyvv has made the advancement [Diamonds!]",
+    "[22:29] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[22:30] <.Mattaus213> !kit pvp ",
+    "[22:30] [8b8t] >> You have killed yourself!",
+    "[22:30] [8b8t] >> Teleporting to home 0...",
+    "[22:30] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[22:30] [8b8t] >> No TPA request found",
+    "[22:30] [8b8t] >> Teleporting to home 1...",
+    "[22:30] To .Mattaus213: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:30] To .Mattaus213: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[22:30] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[22:30] <.DIEGOSO134599> !kit armor ",
+    "[22:30] To .DIEGOSO134599: You're on cooldown, try again in 40 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:30] <.Mattaus213> !kit pvp ",
+    "[22:30] [8b8t] >> Teleporting to home 0...",
+    "[22:30] [8b8t] >> Teleporting to home 1...",
+    "[22:30] To .Mattaus213: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1273,7 +1273,7 @@
     "Exeeeeee4444444": 7,
     "mohamed_xo2": 28,
     "Kiss": 1,
-    ".Mattaus213": 9,
+    ".Mattaus213": 11,
     "Ishantxp": 39,
     "AgusAe": 17,
     "DEEP_X9": 6,
@@ -3622,7 +3622,7 @@
   "kitStats": {
     "build": 1834,
     "survival": 6945,
-    "pvp": 9082,
+    "pvp": 9084,
     "dupe": 2455,
     "tools": 2029,
     "stash": 1249,
