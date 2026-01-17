@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:02:05 17/1/2026",
+  "lastUpdated": "23:02:27 17/1/2026",
   "totalKits": 89324,
   "todayKits": 86,
-  "onlineCount": 36,
+  "onlineCount": 37,
   "peakPlayers": 44,
-  "tps": "2.0",
-  "ping": 256,
+  "tps": "3.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8930
+      "count": 8932
     },
     {
       "name": "survival",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:01] [8b8t] >> Teleporting...",
-    "[16:01] <.XBLAZEFOOTX> !kit pvp ",
-    "[16:01] To .XBLAZEFOOTX: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:01] <Cristiann_8> !kit biuld ",
-    "[16:01] To Cristiann_8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:01] [8b8t] >> You have killed yourself!",
-    "[16:01] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[16:01] <miguel_gamer_777> !kit pvp ",
-    "[16:01] [8b8t] >> Teleporting to home 0...",
-    "[16:01] [8b8t] >> Teleporting to home 1...",
-    "[16:01] To miguel_gamer_777: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:01] <Cristiann_8> !kit build ",
-    "[16:01] To Cristiann_8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:01] <botchaosonix> !kit pvp ",
-    "[16:01] To botchaosonix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:01] To miguel_gamer_777: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[16:01] <DrDonutt.> yo yo yo ",
     "[16:01] <Cristiann_8> !kit build ",
@@ -101,7 +86,22 @@
     "[16:02] [8b8t] >> Request sent to Cristiann_8",
     "[16:02] [8b8t] >> Teleporting...",
     "[16:02] <Rasmus1578> !kit ",
-    "[16:02] To Rasmus1578: Hello Rasmus1578!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[16:02] To Rasmus1578: Hello Rasmus1578!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[16:02] [8b8t] >> You have killed yourself!",
+    "[16:02] <Rasmus1578> !kit ",
+    "[16:02] To Rasmus1578: Hello Rasmus1578!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[16:02] botchaosonix Whispers: !kit pvp",
+    "[16:02] [8b8t] >> Teleporting to home 0...",
+    "[16:02] [8b8t] >> Teleporting to home 1...",
+    "[16:02] To botchaosonix: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:02] To botchaosonix: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[16:02] <.XBLAZEFOOTX> !kit pvp ",
+    "[16:02] [8b8t] >> Teleporting to home 0...",
+    "[16:02] [8b8t] >> Teleporting to home 1...",
+    "[16:02] <miguel_gamer_777> !kit elitra ",
+    "[16:02] To miguel_gamer_777: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:02] To .XBLAZEFOOTX: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[16:02] aaronlardone has made the advancement [Monster Hunter]"
   ],
   "userStats": {
     "76756": 38,
@@ -2365,7 +2365,7 @@
     "UnknownBoy_YT": 2,
     "Cadens": 14,
     "1cey": 1,
-    "botchaosonix": 58,
+    "botchaosonix": 59,
     "WxpzFrags": 41,
     "Lazyfacii": 12,
     ".PQueen1221": 6,
@@ -2577,7 +2577,7 @@
     "stuck_alt": 56,
     "efraddada": 51,
     "hmadyuh": 46,
-    ".XBLAZEFOOTX": 17,
+    ".XBLAZEFOOTX": 18,
     "Floobius446": 1,
     "JackMan13244": 1,
     "TheeIceez": 3,
@@ -3589,7 +3589,7 @@
   "kitStats": {
     "build": 1796,
     "survival": 6870,
-    "pvp": 8930,
+    "pvp": 8932,
     "dupe": 2424,
     "tools": 2006,
     "stash": 1240,
