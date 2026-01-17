@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:24:31 17/1/2026",
-  "totalKits": 88741,
-  "todayKits": 51,
-  "onlineCount": 43,
+  "lastUpdated": "08:25:01 17/1/2026",
+  "totalKits": 88742,
+  "todayKits": 52,
+  "onlineCount": 45,
   "peakPlayers": 53,
-  "tps": "5.0",
-  "ping": 266,
+  "tps": "3.0",
+  "ping": 274,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6753
+      "count": 6754
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:23] <CallenBam> !kit build ",
-    "[01:23] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:23] [8b8t] >> The TPA request you sent to .Dgomegarato was successfully canceled.",
-    "[01:23] <.Nick_IV4558> eso digo yo Jonicua ",
-    "[01:23] <SPREENQ> !kit elitra ",
-    "[01:23] [8b8t] >> You have killed yourself!",
-    "[01:23] To SPREENQ: Kit \"elitra\" not found! Giving you (build) instead! dsc.gg/hienbot",
-    "[01:23] [8b8t] >> Teleporting to home 0...",
-    "[01:23] [8b8t] >> Home 2 was not found",
-    "[01:23] To SPREENQ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:23] [8b8t] >> Request sent to SPREENQ",
     "[01:23] <SPREENQ> !kit elitra ",
     "[01:23] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[01:24] [8b8t] >> The TPA request you sent to SPREENQ was successfully canceled.",
     "[01:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[01:24] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[01:24] <.Dgomegarato> why my kit dont appear "
+    "[01:24] <.Dgomegarato> why my kit dont appear ",
+    "[01:24] <kgaputazarme> kit ramdon ",
+    "[01:24] <rolito> !kit survival ",
+    "[01:24] [8b8t] >> Teleporting to home 0...",
+    "[01:24] [8b8t] >> Teleporting to home 1...",
+    "[01:24] To rolito: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:24] <SPREENQ> -13038 63 1023 ",
+    "[01:24] To rolito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:24] [8b8t] >> Request sent to rolito",
+    "[01:24] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[01:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3309,7 +3309,7 @@
     "anc1": 1,
     "PKDomRT": 5,
     "Zwaexreal": 7,
-    "rolito": 27,
+    "rolito": 28,
     "warloow": 2,
     "yay": 4,
     "Forfal": 1,
@@ -3549,7 +3549,7 @@
   },
   "kitStats": {
     "build": 1693,
-    "survival": 6753,
+    "survival": 6754,
     "pvp": 8740,
     "dupe": 2376,
     "tools": 1973,
