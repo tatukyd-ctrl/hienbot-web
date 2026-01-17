@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:28:29 17/1/2026",
+  "lastUpdated": "12:28:44 17/1/2026",
   "totalKits": 88948,
   "todayKits": 7,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 31,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 249,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:27] [Pro+] <lvashl> !kit Dupe ",
-    "[05:27] [8b8t] >> Teleporting to home 0...",
-    "[05:27] [8b8t] >> Teleporting to home 7...",
-    "[05:27] To lvashl: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:27] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:27] To lvashl: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:27] [8b8t] >> Request sent to lvashl",
     "[05:27] [8b8t] >> Teleporting...",
@@ -101,7 +96,12 @@
     "[05:28] To SPREENQ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:28] [8b8t] >> Request sent to SPREENQ",
     "[05:28] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[05:28] [8b8t] >> Teleporting..."
+    "[05:28] [8b8t] >> Teleporting...",
+    "[05:28] [8b8t] >> You have killed yourself!",
+    "[05:28] <rolito> !kit Raid ",
+    "[05:28] [8b8t] >> Teleporting to home 0...",
+    "[05:28] [8b8t] >> Home 2 was not found",
+    "[05:28] To rolito: Your kit (Raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3309,7 +3309,7 @@
     "anc1": 1,
     "PKDomRT": 5,
     "Zwaexreal": 7,
-    "rolito": 49,
+    "rolito": 50,
     "warloow": 2,
     "yay": 4,
     "Forfal": 1,
@@ -3568,7 +3568,7 @@
     "dupe": 2396,
     "tools": 1987,
     "stash": 1228,
-    "raid": 1414,
+    "raid": 1415,
     "wood": 571,
     "exp": 825,
     "dye": 355,
