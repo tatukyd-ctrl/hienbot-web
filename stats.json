@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:04:00 17/1/2026",
-  "totalKits": 88777,
-  "todayKits": 87,
+  "lastUpdated": "09:04:20 17/1/2026",
+  "totalKits": 88778,
+  "todayKits": 88,
   "onlineCount": 36,
   "peakPlayers": 53,
-  "tps": "3.0",
-  "ping": 261,
+  "tps": "5.0",
+  "ping": 269,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6767
+      "count": 6768
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:03] [8b8t] >> Teleporting to home 0...",
-    "[02:03] [8b8t] >> Home 2 was not found",
-    "[02:03] <.Fatboi653831> CQN I GET A BOOK SIGN ",
-    "[02:03] To dantecavii: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:03] To dantecavii: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:03] [8b8t] >> Request sent to dantecavii",
-    "[02:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[02:03] [8b8t] >> Teleporting...",
     "[02:03] <blandixxx_226> !kit exp ",
     "[02:03] To blandixxx_226: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:03] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
@@ -101,7 +93,15 @@
     "[02:03] To VolksWagenJetta_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:03] [8b8t] >> Request sent to VolksWagenJetta_",
     "[02:03] [8b8t] >> Teleporting...",
-    "[02:03] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[02:03] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[02:04] [8b8t] >> You have killed yourself!",
+    "[02:04] <NeitherRecord44> !kit survival ",
+    "[02:04] [8b8t] >> Teleporting to home 0...",
+    "[02:04] [8b8t] >> Teleporting to home 1...",
+    "[02:04] To NeitherRecord44: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:04] To NeitherRecord44: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:04] [8b8t] >> Request sent to NeitherRecord44",
+    "[02:04] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3457,7 +3457,7 @@
     "CommonHat": 1,
     "soyparty": 1,
     "dronestr1ke": 3,
-    "NeitherRecord44": 3,
+    "NeitherRecord44": 4,
     "ZetrionZ": 4,
     "mtiasd10": 4,
     "IloveYouHarlieee": 1,
@@ -3552,7 +3552,7 @@
   },
   "kitStats": {
     "build": 1701,
-    "survival": 6767,
+    "survival": 6768,
     "pvp": 8746,
     "dupe": 2378,
     "tools": 1975,
