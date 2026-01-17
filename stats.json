@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:50:01 17/1/2026",
+  "lastUpdated": "11:50:31 17/1/2026",
   "totalKits": 88934,
   "todayKits": 244,
   "onlineCount": 25,
   "peakPlayers": 53,
-  "tps": "1.0",
-  "ping": 229,
+  "tps": "7.0",
+  "ping": 222,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6797
+      "count": 6798
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:48] <Akari44> !kit barrier ",
-    "[04:48] [8b8t] >> Teleporting to home 0...",
-    "[04:48] [8b8t] >> Teleporting to home 7...",
-    "[04:48] To Akari44: Kit \"barrier\" not found! Giving you (armortrims) instead! dsc.gg/hienbot",
-    "[04:48] To Akari44: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:48] [8b8t] >> Request sent to Akari44",
-    "[04:48] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:48] <ROMANJAVA> !kit pvp ",
-    "[04:48] To ROMANJAVA: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:48] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[04:48] [8b8t] >> You have killed yourself!",
     "[04:48] [8b8t] >> The TPA request you sent to Akari44 was successfully canceled.",
     "[04:48] <Akari44> !kit location ",
@@ -101,7 +91,17 @@
     "[04:49] <SPREENQ> !kit ",
     "[04:49] To SPREENQ: Hello SPREENQ!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[04:49] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[04:49] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[04:50] <SPREENQ> !kit survival ",
+    "[04:50] [8b8t] >> Teleporting to home 0...",
+    "[04:50] [8b8t] >> Teleporting to home 1...",
+    "[04:50] To SPREENQ: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:50] To SPREENQ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:50] [8b8t] >> Request sent to SPREENQ",
+    "[04:50] <SweetPrm> t ",
+    "[04:50] <ROMANJAVA> !kit pvp ",
+    "[04:50] To ROMANJAVA: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:50] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3540,7 +3540,7 @@
     "Benjita_12": 5,
     "maxanachy": 1,
     "Aretorangtwo": 7,
-    "SPREENQ": 8,
+    "SPREENQ": 9,
     "oro_888": 1,
     "dragonsej2025": 1,
     "Jonicua": 6,
@@ -3562,7 +3562,7 @@
   },
   "kitStats": {
     "build": 1719,
-    "survival": 6797,
+    "survival": 6798,
     "pvp": 8791,
     "dupe": 2395,
     "tools": 1987,
