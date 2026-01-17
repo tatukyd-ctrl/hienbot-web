@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:33:00 17/1/2026",
+  "lastUpdated": "13:33:14 17/1/2026",
   "totalKits": 88978,
   "todayKits": 37,
   "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 255,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8808
+      "count": 8809
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:31] To baopuki30: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:31] [8b8t] >> Please do not spam.",
-    "[06:31] [8b8t] >> Teleporting...",
-    "[06:31] <kaufumanJR> !kit elytra ",
-    "[06:31] To kaufumanJR: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[06:31] [8b8t] >> You have killed yourself!",
     "[06:31] <kaufumanJR> !kit elytra ",
     "[06:31] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +96,12 @@
     "[06:32] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[06:32] <ROMANJAVA> !kit survival ",
     "[06:32] To ROMANJAVA: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[06:32] [8b8t] >> Teleporting..."
+    "[06:32] [8b8t] >> Teleporting...",
+    "[06:33] [8b8t] >> You have killed yourself!",
+    "[06:33] <FLAMEalem12> !kit pvp ",
+    "[06:33] [8b8t] >> Teleporting to home 0...",
+    "[06:33] [8b8t] >> Teleporting to home 1...",
+    "[06:33] To FLAMEalem12: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2908,7 +2908,7 @@
     "IamNuke_": 4,
     "0_.HienBot": 2,
     "ADR1FLAN": 2,
-    "FLAMEalem12": 1,
+    "FLAMEalem12": 2,
     ".SoulRanger53204": 17,
     "SavageJfs": 19,
     "FilixSNP": 1,
@@ -3567,7 +3567,7 @@
   "kitStats": {
     "build": 1726,
     "survival": 6810,
-    "pvp": 8808,
+    "pvp": 8809,
     "dupe": 2398,
     "tools": 1988,
     "stash": 1229,
