@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:52:31 17/1/2026",
+  "lastUpdated": "11:53:01 17/1/2026",
   "totalKits": 88936,
   "todayKits": 246,
   "onlineCount": 26,
   "peakPlayers": 53,
-  "tps": "2.0",
-  "ping": 223,
+  "tps": "4.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8796
+      "count": 8797
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:51] To SPREENQ: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:51] <Akari44> !kit ",
-    "[04:51] To Akari44: Hello Akari44!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:51] <ROMANJAVA> !kit pvp ",
-    "[04:51] [8b8t] >> Teleporting to home 0...",
-    "[04:51] [8b8t] >> Teleporting to home 1...",
-    "[04:51] To ROMANJAVA: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:51] To ROMANJAVA: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[04:51] <SPREENQ> !kit survival ",
     "[04:51] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +94,14 @@
     "[04:52] [8b8t] >> You have killed yourself!",
     "[04:52] <ROMANJAVA> !kit ",
     "[04:52] To ROMANJAVA: Hello ROMANJAVA!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:52] [BOT] <0_HienBot> >Bot created by Hien2309. "
+    "[04:52] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[04:52] <ROMANJAVA> !kit PVP ",
+    "[04:52] [8b8t] >> Teleporting to home 0...",
+    "[04:52] [8b8t] >> Teleporting to home 1...",
+    "[04:52] To ROMANJAVA: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:52] To ROMANJAVA: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[04:52] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[04:52] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3557,13 +3557,13 @@
     "Nyxion49": 6,
     "flashebas77": 8,
     "ickkck786": 2,
-    "ROMANJAVA": 16,
+    "ROMANJAVA": 17,
     "Toomani": 1
   },
   "kitStats": {
     "build": 1720,
     "survival": 6799,
-    "pvp": 8796,
+    "pvp": 8797,
     "dupe": 2395,
     "tools": 1987,
     "stash": 1228,
