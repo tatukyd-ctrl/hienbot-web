@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:25:44 17/1/2026",
-  "totalKits": 89001,
-  "todayKits": 60,
-  "onlineCount": 28,
+  "lastUpdated": "14:26:13 17/1/2026",
+  "totalKits": 89002,
+  "todayKits": 61,
+  "onlineCount": 27,
   "peakPlayers": 34,
   "tps": "5.0",
-  "ping": 265,
+  "ping": 260,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8817
+      "count": 8818
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:23] <Ateebhero> how ",
-    "[07:24] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[07:24] <SPREENQ> !kit build ",
-    "[07:24] [8b8t] >> Teleporting to home 0...",
-    "[07:24] [8b8t] >> Home 2 was not found",
-    "[07:24] To SPREENQ: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:24] To SPREENQ: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[07:24] <lucasel_008> !kit build ",
-    "[07:24] To lucasel_008: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:24] [BOT] <0_HienBot> >Welcome to 8b8t, rolito! ",
-    "[07:24] <deko_watch68> !kit ",
-    "[07:24] To deko_watch68: Hello deko_watch68!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[07:25] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[07:25] <rolito> !kit food ",
     "[07:25] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +88,20 @@
     "[07:25] <xoan69> !kit pvp ",
     "[07:25] To xoan69: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:25] [8b8t] >> You have killed yourself!",
-    "[07:25] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
+    "[07:25] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[07:25] <rolito> !kit Redstone ",
+    "[07:25] To rolito: You're on cooldown, try again in 21 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:25] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[07:25] <xoan69> !kit pvp ",
+    "[07:25] [8b8t] >> Teleporting to home 0...",
+    "[07:25] [8b8t] >> Teleporting to home 1...",
+    "[07:25] To xoan69: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:25] <lucasel_008> !kit build ",
+    "[07:26] To lucasel_008: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:26] To xoan69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:26] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[07:26] [8b8t] >> Request sent to xoan69",
+    "[07:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -840,7 +840,7 @@
     "jatekosvagyok": 62,
     "Skyster12": 57,
     "dimgo12": 1,
-    "xoan69": 25,
+    "xoan69": 26,
     "Elcrias": 1,
     "CaliDas1708F": 1,
     "LYROXxx": 29,
@@ -3567,7 +3567,7 @@
   "kitStats": {
     "build": 1755,
     "survival": 6819,
-    "pvp": 8817,
+    "pvp": 8818,
     "dupe": 2401,
     "tools": 1989,
     "stash": 1229,
