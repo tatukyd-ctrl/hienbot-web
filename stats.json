@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:09:31 17/1/2026",
+  "lastUpdated": "09:10:01 17/1/2026",
   "totalKits": 88784,
   "todayKits": 94,
   "onlineCount": 35,
   "peakPlayers": 53,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 259,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8746
+      "count": 8747
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:08] [8b8t] >> Teleporting to home 0...",
-    "[02:08] [8b8t] >> Teleporting to home 7...",
-    "[02:08] To rolito: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:08] To rolito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:08] [8b8t] >> Request sent to rolito",
-    "[02:08] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[02:08] [8b8t] >> Teleporting...",
-    "[02:08] <dantecavii> !kit ",
-    "[02:08] To dantecavii: Hello dantecavii!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:08] [8b8t] >> You have killed yourself!",
     "[02:08] <dantecavii> !kit toolbox ",
     "[02:08] To dantecavii: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:08] <dantecavii> !kit toolbox ",
@@ -101,7 +91,17 @@
     "[02:09] [8b8t] >> Teleporting...",
     "[02:09] [8b8t] >> You have killed yourself!",
     "[02:09] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[02:09] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
+    "[02:09] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[02:09] <Chr1s_th3_s1gma> !kit pvp ",
+    "[02:09] [8b8t] >> Teleporting to home 0...",
+    "[02:09] [8b8t] >> Teleporting to home 1...",
+    "[02:09] To Chr1s_th3_s1gma: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:09] <CallenBam> come ",
+    "[02:09] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[02:09] <dantecavii> !kit ",
+    "[02:09] To dantecavii: Hello dantecavii!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:09] To Chr1s_th3_s1gma: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:10] [8b8t] >> Request sent to Chr1s_th3_s1gma"
   ],
   "userStats": {
     "76756": 38,
@@ -3385,7 +3385,7 @@
     "BroddyZX": 1,
     "AfoiwageiLP": 6,
     "SooDeckOG": 3,
-    "Chr1s_th3_s1gma": 13,
+    "Chr1s_th3_s1gma": 14,
     "negro_kiricici": 27,
     "Alsobruh_": 2,
     "SEBASRED_01": 2,
@@ -3553,7 +3553,7 @@
   "kitStats": {
     "build": 1701,
     "survival": 6769,
-    "pvp": 8746,
+    "pvp": 8747,
     "dupe": 2379,
     "tools": 1975,
     "stash": 1221,
