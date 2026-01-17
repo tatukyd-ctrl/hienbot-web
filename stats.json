@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:36:57 18/1/2026",
+  "lastUpdated": "03:37:27 18/1/2026",
   "totalKits": 89555,
   "todayKits": 317,
-  "onlineCount": 40,
+  "onlineCount": 39,
   "peakPlayers": 51,
   "tps": "3.0",
   "ping": 209,
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1821
+      "count": 1822
     }
   ],
   "chatLog": [
-    "[20:34] [8b8t] >> Teleporting to home 0...",
-    "[20:34] <TulagrandBot> >Building a castle? Try @kit bricks ",
-    "[20:34] [8b8t] >> Teleporting to home 1...",
-    "[20:34] To Wemmbu_fannn: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:34] To Wemmbu_fannn: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:34] [8b8t] >> Request sent to Wemmbu_fannn",
-    "[20:34] [8b8t] >> Teleporting...",
-    "[20:34] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[20:35] [8b8t] >> You have killed yourself!",
     "[20:35] <sayimege> kit ",
     "[20:35] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[20:35] <Wemmbu_fannn> @kit elytra ",
@@ -101,7 +92,16 @@
     "[20:36] <BdubH2015> what ",
     "[20:36] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[20:36] <CKLL2000> now I'm somewhere else ",
-    "[20:36] <LyoxYT> : !kit "
+    "[20:36] <LyoxYT> : !kit ",
+    "[20:36] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[20:37] <TulagrandBot> >Whant something? Try @kit! ",
+    "[20:37] <LyoxYT> : @kit elytra ",
+    "[20:37] <LyoxYT> : !kit ",
+    "[20:37] <.End3r3876> !kit build ",
+    "[20:37] [8b8t] >> Teleporting to home 0...",
+    "[20:37] [8b8t] >> Home 2 was not found",
+    "[20:37] To .End3r3876: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:37] To .End3r3876: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3440,7 +3440,7 @@
     "jjgg2003": 15,
     "EzequielCre": 3,
     "closepvp": 1,
-    ".End3r3876": 14,
+    ".End3r3876": 15,
     "tirex548": 2,
     "CallenBam": 56,
     "Valoma20142000": 7,
@@ -3613,7 +3613,7 @@
     "sayimege": 1
   },
   "kitStats": {
-    "build": 1821,
+    "build": 1822,
     "survival": 6929,
     "pvp": 9044,
     "dupe": 2449,
