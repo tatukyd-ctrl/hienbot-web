@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:41:57 18/1/2026",
-  "totalKits": 89663,
-  "todayKits": 425,
+  "lastUpdated": "05:42:16 18/1/2026",
+  "totalKits": 89664,
+  "todayKits": 426,
   "onlineCount": 47,
   "peakPlayers": 51,
-  "tps": "3.0",
-  "ping": 218,
+  "tps": "2.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6947
+      "count": 6948
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:39] [8b8t] >> Request sent to 0_HeinBott",
-    "[22:39] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[22:40] [8b8t] >> Teleporting...",
-    "[22:40] [8b8t] >> You have killed yourself!",
-    "[22:40] MGalindez has made the advancement [Stone Age]",
-    "[22:40] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[22:40] <.Truett2013> !kit pvp ",
-    "[22:40] [8b8t] >> Teleporting to home 0...",
     "[22:40] [8b8t] >> Teleporting to home 1...",
     "[22:40] To .Truett2013: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:40] To .Truett2013: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[22:41] <blememeformymist> WOW ",
     "[22:41] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[22:41] <MrPinkEye> !kit ",
-    "[22:41] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[22:41] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:41] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[22:42] <Zhyvv> !kit survival ",
+    "[22:42] [8b8t] >> Teleporting to home 0...",
+    "[22:42] [8b8t] >> Teleporting to home 1...",
+    "[22:42] To Zhyvv: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:42] To Zhyvv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:42] [8b8t] >> Request sent to Zhyvv",
+    "[22:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3333,7 +3333,7 @@
     "ItzMeWOOFY": 18,
     "Petcraft": 1,
     "KidBeastYT": 5,
-    "Zhyvv": 13,
+    "Zhyvv": 14,
     "C0SM1XZ": 1,
     "damoko_off": 13,
     "blackholeisbig": 3,
@@ -3621,7 +3621,7 @@
   },
   "kitStats": {
     "build": 1834,
-    "survival": 6947,
+    "survival": 6948,
     "pvp": 9085,
     "dupe": 2457,
     "tools": 2032,
