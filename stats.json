@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:27:31 17/1/2026",
+  "lastUpdated": "11:28:01 17/1/2026",
   "totalKits": 88925,
   "todayKits": 235,
   "onlineCount": 28,
   "peakPlayers": 53,
-  "tps": "3.0",
-  "ping": 224,
+  "tps": "4.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8781
+      "count": 8782
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:25] <ROMANJAVA> !kit pvp ",
-    "[04:25] To ROMANJAVA: You're on cooldown, try again in 37 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:25] <ROMANJAVA> !kit pvp ",
-    "[04:25] To ROMANJAVA: You're on cooldown, try again in 35 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:25] <ROMANJAVA> !kit pvp ",
     "[04:25] To ROMANJAVA: You're on cooldown, try again in 33 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:25] DrDonutt. Whispers: !kit pvp 2",
@@ -101,7 +97,11 @@
     "[04:27] <ROMANJAVA> ayudame ",
     "[04:27] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[04:27] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[04:27] <rolito> ! kits "
+    "[04:27] <rolito> ! kits ",
+    "[04:27] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[04:28] <ROMANJAVA> !kit pvp ",
+    "[04:28] [8b8t] >> Teleporting to home 0...",
+    "[04:28] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3557,12 +3557,12 @@
     "Nyxion49": 6,
     "flashebas77": 8,
     "ickkck786": 2,
-    "ROMANJAVA": 1
+    "ROMANJAVA": 2
   },
   "kitStats": {
     "build": 1718,
     "survival": 6795,
-    "pvp": 8781,
+    "pvp": 8782,
     "dupe": 2393,
     "tools": 1987,
     "stash": 1227,
