@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:52:22 18/1/2026",
+  "lastUpdated": "00:52:27 18/1/2026",
   "totalKits": 89438,
   "todayKits": 200,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 44,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 234,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 8983
+      "count": 8984
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:51] To dantecavii: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:51] <Florigame12> !kit all ",
-    "[17:51] To Florigame12: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:51] <seansil123456> my dont have loot u wait me ",
     "[17:51] [8b8t] >> You have killed yourself!",
     "[17:51] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[17:52] <seansil123456> noob ",
@@ -101,7 +97,11 @@
     "[17:52] <seansil123456> !kit survival ",
     "[17:52] [8b8t] >> Teleporting...",
     "[17:52] To seansil123456: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:52] <TulagrandBot> >Try @tps to get server's tps "
+    "[17:52] <TulagrandBot> >Try @tps to get server's tps ",
+    "[17:52] [8b8t] >> You have killed yourself!",
+    "[17:52] <rolito> !kit pvp ",
+    "[17:52] [8b8t] >> Teleporting to home 0...",
+    "[17:52] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3309,7 +3309,7 @@
     "anc1": 1,
     "PKDomRT": 5,
     "Zwaexreal": 7,
-    "rolito": 72,
+    "rolito": 73,
     "warloow": 2,
     "yay": 4,
     "Forfal": 1,
@@ -3597,7 +3597,7 @@
   "kitStats": {
     "build": 1808,
     "survival": 6896,
-    "pvp": 8983,
+    "pvp": 8984,
     "dupe": 2436,
     "tools": 2015,
     "stash": 1245,
