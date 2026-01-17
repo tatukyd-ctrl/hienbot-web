@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:03:31 17/1/2026",
+  "lastUpdated": "08:04:01 17/1/2026",
   "totalKits": 88727,
   "todayKits": 37,
   "onlineCount": 36,
   "peakPlayers": 53,
-  "tps": "1.0",
-  "ping": 259,
+  "tps": "4.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6743
+      "count": 6744
     },
     {
       "name": "dupe",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:01] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[01:01] To dragonsej2025: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:02] [8b8t] >> Request sent to dragonsej2025",
-    "[01:02] <dragonsej2025> )tpayes ",
-    "[01:02] [8b8t] >> Teleporting...",
-    "[01:02] [8b8t] >> You have killed yourself!",
-    "[01:02] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[01:02] <CallenBam> !kit elytra ",
-    "[01:02] [8b8t] >> Teleporting to home 0...",
-    "[01:02] <nico_master> ParaCraftero ",
-    "[01:02] [8b8t] >> Teleporting to home 6...",
-    "[01:02] To CallenBam: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:02] To CallenBam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:02] [8b8t] >> Request sent to CallenBam",
     "[01:02] <ParaCraftero> q nico ",
     "[01:02] [8b8t] >> The TPA request you sent to CallenBam has expired.",
     "[01:02] [BOT] <0_HienBot> >Hello ParaCraftero! ",
@@ -101,7 +87,21 @@
     "[01:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:03] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[01:03] <Jonicua> !kit ",
-    "[01:03] To Jonicua: Hello Jonicua!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[01:03] To Jonicua: Hello Jonicua!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:03] <nico_master> ya voy pera ",
+    "[01:03] <ParaCraftero> nic ",
+    "[01:03] <Jonicua> !kit survival ",
+    "[01:03] [8b8t] >> Teleporting to home 0...",
+    "[01:03] [8b8t] >> Teleporting to home 1...",
+    "[01:03] To Jonicua: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:03] To Jonicua: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:03] [8b8t] >> Request sent to Jonicua",
+    "[01:03] <nico_master> q ",
+    "[01:03] <MasterWo> hola bro ",
+    "[01:03] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[01:03] <ParaCraftero> hola MasterWo ",
+    "[01:03] <CallenBam> !kit pvp ",
+    "[01:03] To CallenBam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3542,11 +3542,12 @@
     "Aretorangtwo": 2,
     "SPREENQ": 4,
     "oro_888": 1,
-    "dragonsej2025": 1
+    "dragonsej2025": 1,
+    "Jonicua": 1
   },
   "kitStats": {
     "build": 1691,
-    "survival": 6743,
+    "survival": 6744,
     "pvp": 8740,
     "dupe": 2374,
     "tools": 1973,
