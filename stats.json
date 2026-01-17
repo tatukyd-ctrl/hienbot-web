@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:23:14 18/1/2026",
+  "lastUpdated": "05:23:27 18/1/2026",
   "totalKits": 89639,
   "todayKits": 401,
   "onlineCount": 39,
   "peakPlayers": 51,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 211,
   "topUsers": [
     {
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1832
+      "count": 1833
     }
   ],
   "chatLog": [
-    "[22:21] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[22:21] <MrPinkEye> !kit ",
-    "[22:21] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:21] Zhyvv has made the advancement [Suit Up]",
-    "[22:21] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[22:22] .Pichuckrak has made the advancement [The Parrots and the Bats]",
-    "[22:22] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[22:22] <Ascalito> !kit food ",
     "[22:22] [8b8t] >> Teleporting to home 0...",
     "[22:22] [8b8t] >> Teleporting to home 4...",
@@ -101,7 +94,14 @@
     "[22:23] To South___: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:23] To South___: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:23] [8b8t] >> Request sent to South___",
-    "[22:23] [8b8t] >> Teleporting..."
+    "[22:23] [8b8t] >> Teleporting...",
+    "[22:23] [8b8t] >> You have killed yourself!",
+    "[22:23] <Ascalito> !kit dupe ",
+    "[22:23] <.Truett2013> @kit build ",
+    "[22:23] To Ascalito: You're on cooldown, try again in 21 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:23] [8b8t] >> Teleporting to home 0...",
+    "[22:23] [8b8t] >> Home 2 was not found",
+    "[22:23] To .Truett2013: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3614,10 +3614,11 @@
     "SPYxBOND": 2,
     "Diegucchi": 1,
     "lDEMOlLiTiOn": 1,
-    "hackxdr": 2
+    "hackxdr": 2,
+    ".Truett2013": 1
   },
   "kitStats": {
-    "build": 1832,
+    "build": 1833,
     "survival": 6943,
     "pvp": 9082,
     "dupe": 2452,
