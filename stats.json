@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:49:00 19/1/2026",
+  "lastUpdated": "05:49:11 19/1/2026",
   "totalKits": 90647,
   "todayKits": 874,
   "onlineCount": 37,
   "peakPlayers": 52,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 240,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7131
+      "count": 7132
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:47] <ilovecatsvr57364> !kit tools ",
-    "[22:47] [8b8t] >> Teleporting to home 0...",
-    "[22:47] [8b8t] >> Teleporting to home 7...",
-    "[22:47] <TulagrandBot> >Hola xaki ",
-    "[22:47] To ilovecatsvr57364: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:47] To ilovecatsvr57364: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:47] <ij76> !lang ",
     "[22:47] To ij76: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
     "[22:47] [8b8t] >> Request sent to ilovecatsvr57364",
     "[22:47] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[22:48] To or4acle: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:48] <TulagrandBot> >Building a base? Try @kit build2 ",
     "[22:48] [8b8t] >> Request sent to or4acle",
-    "[22:48] [8b8t] >> Teleporting..."
+    "[22:48] [8b8t] >> Teleporting...",
+    "[22:49] [8b8t] >> You have killed yourself!",
+    "[22:49] <MortemMetallum> ... ",
+    "[22:49] <NeitherRecord44> !kit survival ",
+    "[22:49] [8b8t] >> Teleporting to home 0...",
+    "[22:49] [8b8t] >> Teleporting to home 1...",
+    "[22:49] To NeitherRecord44: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:49] .Amamagram7 has made the advancement [Getting an Upgrade]"
   ],
   "userStats": {
     "76756": 38,
@@ -3457,7 +3457,7 @@
     "CommonHat": 1,
     "soyparty": 1,
     "dronestr1ke": 4,
-    "NeitherRecord44": 13,
+    "NeitherRecord44": 14,
     "ZetrionZ": 4,
     "mtiasd10": 12,
     "IloveYouHarlieee": 1,
@@ -3708,7 +3708,7 @@
   },
   "kitStats": {
     "build": 1931,
-    "survival": 7131,
+    "survival": 7132,
     "pvp": 9285,
     "dupe": 2582,
     "tools": 2102,
