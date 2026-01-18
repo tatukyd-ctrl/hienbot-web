@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:39:40 18/1/2026",
+  "lastUpdated": "11:40:10 18/1/2026",
   "totalKits": 89875,
   "todayKits": 102,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 47,
   "tps": "2.0",
-  "ping": 214,
+  "ping": 213,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:36] [8b8t] >> You have killed yourself!",
-    "[04:36] Chat disabled in client options",
-    "[04:36] [8b8t] >> No TPA request found",
-    "[04:36] To martince22: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:36] [8b8t] >> Teleporting to home 0...",
     "[04:36] [8b8t] >> Teleporting to home 1...",
     "[04:36] <martince22> !kit survival ",
     "[04:36] To martince22: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[04:38] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[04:39] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[04:39] Fred has reached the goal [Sky's the Limit]",
-    "[04:39] [BOT] <0_HienBot> >Use /kill to kill yourself! "
+    "[04:39] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[04:39] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[04:40] <OmHackz> !kit stash ",
+    "[04:40] [8b8t] >> Teleporting to home 0...",
+    "[04:40] [8b8t] >> Home 2 was not found",
+    "[04:40] To OmHackz: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3638,7 +3638,7 @@
     "KinetikSk8er57": 1,
     "martince22": 3,
     ".SaneMitten1070": 1,
-    "OmHackz": 1
+    "OmHackz": 2
   },
   "kitStats": {
     "build": 1857,
@@ -3646,7 +3646,7 @@
     "pvp": 9132,
     "dupe": 2483,
     "tools": 2041,
-    "stash": 1261,
+    "stash": 1262,
     "raid": 1474,
     "wood": 580,
     "exp": 870,
