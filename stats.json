@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:03:12 18/1/2026",
+  "lastUpdated": "20:03:40 18/1/2026",
   "totalKits": 90204,
   "todayKits": 431,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 47,
-  "tps": "4.0",
-  "ping": 247,
+  "tps": "5.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1869
+      "count": 1870
     }
   ],
   "chatLog": [
-    "[13:02] [8b8t] >> Teleporting...",
-    "[13:02] <TulagrandBot> >Try @tps to get server's tps ",
-    "[13:02] [8b8t] >> You have killed yourself!",
-    "[13:02] <Sgamestream> all u do is wine wine wine, ",
-    "[13:02] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[13:02] <IvanZaSilly8B8T> !kit tools ",
-    "[13:02] [8b8t] >> Teleporting to home 0...",
     "[13:02] [8b8t] >> Teleporting to home 7...",
     "[13:02] To IvanZaSilly8B8T: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:02] [8b8t] >> evlszz wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
@@ -101,7 +94,14 @@
     "[13:03] To South___: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:03] <TulagrandBot> >Try @seed to get 8b8t's seed ",
     "[13:03] [8b8t] >> Request sent to South___",
-    "[13:03] [8b8t] >> Teleporting..."
+    "[13:03] [8b8t] >> Teleporting...",
+    "[13:03] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[13:03] <TulagrandBot> >Building a base? Try @kit build ",
+    "[13:03] <Abosteno2000> !kit minerals ",
+    "[13:03] [8b8t] >> You have killed yourself!",
+    "[13:03] To Abosteno2000: Kit \"minerals\" not found! Giving you (build) instead! dsc.gg/hienbot",
+    "[13:03] [8b8t] >> Teleporting to home 0...",
+    "[13:03] [8b8t] >> Home 2 was not found"
   ],
   "userStats": {
     "76756": 38,
@@ -3663,10 +3663,10 @@
     "Neythstra": 3,
     "Itz_Duckey": 3,
     "BuhBoy": 1,
-    "Abosteno2000": 1
+    "Abosteno2000": 2
   },
   "kitStats": {
-    "build": 1869,
+    "build": 1870,
     "survival": 7041,
     "pvp": 9183,
     "dupe": 2546,
