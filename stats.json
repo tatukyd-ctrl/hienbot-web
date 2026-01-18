@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:30:40 18/1/2026",
+  "lastUpdated": "17:31:10 18/1/2026",
   "totalKits": 90108,
   "todayKits": 335,
   "onlineCount": 26,
   "peakPlayers": 47,
-  "tps": "5.0",
-  "ping": 243,
+  "tps": "3.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7025
+      "count": 7026
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:28] <TulagrandBot> >Try @ping to get your ping ",
-    "[10:28] <unknown_2121_> !kit armortrims ",
-    "[10:28] To unknown_2121_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:28] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[10:28] [8b8t] >> You have killed yourself!",
-    "[10:28] [8b8t] >> The TPA request you sent to unknown_2121_ was successfully canceled.",
-    "[10:28] <unknown_2121_> !kit ",
-    "[10:28] To unknown_2121_: Hello unknown_2121_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:29] <unknown_2121_> !kit armortrims ",
-    "[10:29] To unknown_2121_: You're on cooldown, try again in 45 seconds! Dont forget to join dsc.gg/hienbot",
     "[10:29] <NgocHoangVN> !kit ",
     "[10:29] To NgocHoangVN: Hello NgocHoangVN!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[10:29] <NgocHoangVN> !kit survival ",
@@ -101,7 +91,17 @@
     "[10:30] <ALBARAA211> ho at spown ",
     "[10:30] <TulagrandBot> >How are you Angel542XD? ",
     "[10:30] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[10:30] <.LEON50758> a "
+    "[10:30] <.LEON50758> a ",
+    "[10:30] <.LEON50758> new place ",
+    "[10:30] <NgocHoangVN> !kit survival ",
+    "[10:30] [8b8t] >> Teleporting to home 0...",
+    "[10:30] [8b8t] >> Teleporting to home 1...",
+    "[10:30] To NgocHoangVN: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:30] [BOT] <0_HienBot> >Hello smpucca! ",
+    "[10:30] To NgocHoangVN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:30] [8b8t] >> Request sent to NgocHoangVN",
+    "[10:31] <TulagrandBot> >Hi DPS_Chatbridge ",
+    "[10:31] [8b8t] >> The TPA request you sent to NgocHoangVN has expired."
   ],
   "userStats": {
     "76756": 38,
@@ -3655,11 +3655,11 @@
     "ForPainOrGlory": 2,
     "_lliam": 2,
     "erenpasaoffical": 2,
-    "NgocHoangVN": 2
+    "NgocHoangVN": 3
   },
   "kitStats": {
     "build": 1867,
-    "survival": 7025,
+    "survival": 7026,
     "pvp": 9168,
     "dupe": 2535,
     "tools": 2060,
