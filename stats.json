@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:56:18 19/1/2026",
+  "lastUpdated": "05:56:41 19/1/2026",
   "totalKits": 90654,
   "todayKits": 881,
   "onlineCount": 40,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "0.0",
   "ping": 236,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9286
+      "count": 9287
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:54] [8b8t] >> Request sent to MattyBot",
-    "[22:54] <NeitherRecord44> !tps ",
-    "[22:54] To NeitherRecord44: Current TPS: 2.00 Dont forget to join dsc.gg/hienbot",
-    "[22:54] [8b8t] >> Teleporting...",
-    "[22:54] <cooperx14> help ",
-    "[22:54] [8b8t] >> You have killed yourself!",
-    "[22:54] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[22:55] <MortemMetallum> If your device is using a screenreader, enable narrator in the Accessibility options ",
-    "[22:55] <TulagrandBot> >Try /nc to change your nick color ",
-    "[22:55] <cooperx14> help im at spawn ",
     "[22:55] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[22:55] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[22:55] <MortemMetallum> sus... ",
@@ -101,7 +91,17 @@
     "[22:56] To Elfachas2147: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[22:56] To SPYxBOND: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:56] [8b8t] >> Request sent to SPYxBOND",
-    "[22:56] [8b8t] >> Teleporting..."
+    "[22:56] [8b8t] >> Teleporting...",
+    "[22:56] [8b8t] >> You have killed yourself!",
+    "[22:56] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[22:56] <Chr1s_th3_s1gma> !kit pvp ",
+    "[22:56] [8b8t] >> Teleporting to home 0...",
+    "[22:56] [8b8t] >> Teleporting to home 1...",
+    "[22:56] To Chr1s_th3_s1gma: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:56] To Chr1s_th3_s1gma: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:56] [8b8t] >> Request sent to Chr1s_th3_s1gma",
+    "[22:56] <Elfachas2147> !kit pvp ",
+    "[22:56] To Elfachas2147: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3385,7 +3385,7 @@
     "BroddyZX": 1,
     "AfoiwageiLP": 6,
     "SooDeckOG": 3,
-    "Chr1s_th3_s1gma": 14,
+    "Chr1s_th3_s1gma": 15,
     "negro_kiricici": 29,
     "Alsobruh_": 2,
     "SEBASRED_01": 2,
@@ -3712,7 +3712,7 @@
   "kitStats": {
     "build": 1931,
     "survival": 7133,
-    "pvp": 9286,
+    "pvp": 9287,
     "dupe": 2582,
     "tools": 2102,
     "stash": 1285,
