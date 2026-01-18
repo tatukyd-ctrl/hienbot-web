@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:39:10 19/1/2026",
-  "totalKits": 90403,
-  "todayKits": 630,
-  "onlineCount": 38,
+  "lastUpdated": "00:39:23 19/1/2026",
+  "totalKits": 90404,
+  "todayKits": 631,
+  "onlineCount": 39,
   "peakPlayers": 50,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 334,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9227
+      "count": 9228
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:37] <ALSIO1243> bet ",
-    "[17:37] [8b8t] >> Please do not spam.",
-    "[17:38] <ALSIO1243> im at spawn ",
-    "[17:38] <ALSIO1243> send tphare ",
-    "[17:38] <ALSIO1243> tpahere ",
-    "[17:38] <ALBARAA211> @kit pvp ",
-    "[17:38] [8b8t] >> Teleporting to home 0...",
-    "[17:38] [8b8t] >> Teleporting to home 1...",
     "[17:38] To ALBARAA211: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:38] To ALBARAA211: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:38] [8b8t] >> Request sent to ALBARAA211",
@@ -101,7 +93,15 @@
     "[17:39] <MinephaMC_YT_ALT> msg me ",
     "[17:39] <ALBARAA211> @kit pvp ",
     "[17:39] To ALBARAA211: You're on cooldown, try again in 5 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:39] <MinephaMC_YT_ALT> dont say it in pub chat "
+    "[17:39] <MinephaMC_YT_ALT> dont say it in pub chat ",
+    "[17:39] <ALBARAA211> @kit pvp ",
+    "[17:39] [8b8t] >> Teleporting to home 0...",
+    "[17:39] [8b8t] >> Teleporting to home 1...",
+    "[17:39] To ALBARAA211: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:39] To ALBARAA211: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:39] [8b8t] >> Request sent to ALBARAA211",
+    "[17:39] [8b8t] >> Teleporting...",
+    "[17:39] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -2089,7 +2089,7 @@
     "UBZENITSU": 1,
     "jonas239": 1,
     "SheepStar_TW": 1,
-    "ALBARAA211": 37,
+    "ALBARAA211": 38,
     ".HEROBRINE32937": 4,
     "gontiago": 1,
     "JediBran3989": 2,
@@ -3683,7 +3683,7 @@
   "kitStats": {
     "build": 1890,
     "survival": 7084,
-    "pvp": 9227,
+    "pvp": 9228,
     "dupe": 2561,
     "tools": 2088,
     "stash": 1278,
