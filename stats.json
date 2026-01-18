@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:42:10 18/1/2026",
+  "lastUpdated": "21:42:40 18/1/2026",
   "totalKits": 90273,
   "todayKits": 500,
   "onlineCount": 37,
   "peakPlayers": 50,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 235,
   "topUsers": [
     {
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:40] [8b8t] >> Teleporting to home 1...",
-    "[14:40] To WingsofDeath1: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:40] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[14:40] To WingsofDeath1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:40] [8b8t] >> Request sent to WingsofDeath1",
-    "[14:40] <trieudeptrai> !kit survival ",
-    "[14:40] To trieudeptrai: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:41] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[14:41] [8b8t] >> You have killed yourself!",
-    "[14:41] <trieudeptrai> !kit survival ",
-    "[14:41] [8b8t] >> Teleporting to home 0...",
     "[14:41] [8b8t] >> No TPA request found",
     "[14:41] [8b8t] >> Teleporting to home 1...",
     "[14:41] To trieudeptrai: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[14:42] [8b8t] >> You have killed yourself!",
     "[14:42] [8b8t] >> The TPA request you sent to trieudeptrai was successfully canceled.",
     "[14:42] <IvanZaSilly8B8T> Anyone wanna PvP to death? :< ",
-    "[14:42] <DrVenial31> la bak "
+    "[14:42] <DrVenial31> la bak ",
+    "[14:42] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[14:42] <Suchac2> !kit elytra ",
+    "[14:42] [8b8t] >> Teleporting to home 0...",
+    "[14:42] Z3NC1 has made the advancement [Ice Bucket Challenge]",
+    "[14:42] [8b8t] >> Teleporting to home 6...",
+    "[14:42] To Suchac2: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:42] To Suchac2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:42] <LEON10> he oda vardı ",
+    "[14:42] [8b8t] >> Request sent to Suchac2",
+    "[14:42] <TulagrandBot> >Building a base? Try @kit build ",
+    "[14:42] <LEON10> ama o 64 dü "
   ],
   "userStats": {
     "76756": 38,
@@ -3669,7 +3669,8 @@
     "Halvexx": 9,
     "WingsofDeath1": 4,
     "ReoTheClapper": 1,
-    "CrazyLazy3": 1
+    "CrazyLazy3": 1,
+    "Suchac2": 1
   },
   "kitStats": {
     "build": 1874,
@@ -3705,6 +3706,6 @@
     "gterracotta": 96,
     "banner": 90,
     "illegal": 706,
-    "elytra": 643
+    "elytra": 644
   }
 }
