@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:16:40 19/1/2026",
+  "lastUpdated": "02:17:10 19/1/2026",
   "totalKits": 90489,
   "todayKits": 716,
-  "onlineCount": 44,
+  "onlineCount": 46,
   "peakPlayers": 51,
   "tps": "1.0",
   "ping": 241,
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1902
+      "count": 1903
     }
   ],
   "chatLog": [
-    "[19:14] [8b8t] >> The TPA request you sent to pig_the_cool was successfully canceled.",
-    "[19:14] <.LEON50758> !kit mineral ",
-    "[19:14] [8b8t] >> Teleporting to home 0...",
-    "[19:14] [8b8t] >> Teleporting to home 5...",
-    "[19:14] To .LEON50758: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:14] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:14] <TulagrandBot> >Try @kit to get kit ",
     "[19:14] [8b8t] >> Request sent to .LEON50758",
     "[19:14] <.LEON50758> a ",
     "[19:14] TulagrandBot Whispers: >Join TULAGRANDE, a clan like no one you have seen before.",
@@ -101,7 +94,14 @@
     "[19:16] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[19:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[19:16] <.LEON50758> wait here ",
-    "[19:16] <BasedTurtle6444> oigan, como le hago para saber si estoy fuera del spawn? "
+    "[19:16] <BasedTurtle6444> oigan, como le hago para saber si estoy fuera del spawn? ",
+    "[19:16] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[19:16] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[19:17] <DR_Dunott> !kit AppleBot ",
+    "[19:17] [8b8t] >> Teleporting to home 0...",
+    "[19:17] [8b8t] >> Home 2 was not found",
+    "[19:17] To DR_Dunott: Kit \"AppleBot\" not found! Giving you (build) instead! dsc.gg/hienbot",
+    "[19:17] To DR_Dunott: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3689,11 +3689,11 @@
     ".Noel5858": 11,
     "salvador06tnt": 6,
     "Smiley_XDDD": 1,
-    "DR_Dunott": 1,
+    "DR_Dunott": 2,
     "pig_the_cool": 1
   },
   "kitStats": {
-    "build": 1902,
+    "build": 1903,
     "survival": 7109,
     "pvp": 9245,
     "dupe": 2568,
