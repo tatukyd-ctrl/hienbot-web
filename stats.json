@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:03:44 19/1/2026",
-  "totalKits": 90528,
-  "todayKits": 755,
-  "onlineCount": 45,
+  "lastUpdated": "03:04:10 19/1/2026",
+  "totalKits": 90529,
+  "todayKits": 756,
+  "onlineCount": 47,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 233,
   "topUsers": [
     {
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1911
+      "count": 1912
     }
   ],
   "chatLog": [
-    "[20:02] <vcxvxxv> !kit build ",
-    "[20:02] [8b8t] >> Teleporting to home 0...",
-    "[20:02] [8b8t] >> Home 2 was not found",
-    "[20:02] To vcxvxxv: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:02] <ALBARAA211> @kit pvp ",
-    "[20:02] To ALBARAA211: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:02] To vcxvxxv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:02] [8b8t] >> Request sent to vcxvxxv",
-    "[20:02] [8b8t] >> Teleporting...",
     "[20:02] <SPYxBOND> !kit build ",
     "[20:02] To SPYxBOND: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:02] <TulagrandBot> >Try @kit to get kit ",
@@ -101,7 +92,16 @@
     "[20:03] To SHTHR0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:03] [8b8t] >> Request sent to SHTHR0",
     "[20:03] [8b8t] >> fabric_XxX voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[20:03] [8b8t] >> Teleporting..."
+    "[20:03] [8b8t] >> Teleporting...",
+    "[20:03] [8b8t] >> You have killed yourself!",
+    "[20:03] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[20:04] <SPYxBOND> !kit build ",
+    "[20:04] [8b8t] >> Teleporting to home 0...",
+    "[20:04] [8b8t] >> Home 2 was not found",
+    "[20:04] To SPYxBOND: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:04] To SPYxBOND: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:04] [8b8t] >> Request sent to SPYxBOND",
+    "[20:04] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3611,7 +3611,7 @@
     "bittertolueneboy": 5,
     "diasy2k": 1,
     "sayimege": 1,
-    "SPYxBOND": 6,
+    "SPYxBOND": 7,
     "Diegucchi": 1,
     "lDEMOlLiTiOn": 1,
     "hackxdr": 2,
@@ -3698,7 +3698,7 @@
     "SHTHR0": 3
   },
   "kitStats": {
-    "build": 1911,
+    "build": 1912,
     "survival": 7114,
     "pvp": 9258,
     "dupe": 2573,
