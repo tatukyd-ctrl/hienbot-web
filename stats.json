@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:08:36 19/1/2026",
+  "lastUpdated": "01:08:40 19/1/2026",
   "totalKits": 90424,
   "todayKits": 651,
   "onlineCount": 42,
   "peakPlayers": 50,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 234,
   "topUsers": [
     {
@@ -46,13 +46,13 @@
     },
     {
       "name": "BdubH2015",
-      "count": 163
+      "count": 164
     }
   ],
   "topKits": [
     {
       "name": "pvp",
-      "count": 9236
+      "count": 9237
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:06] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[18:06] <IvanZaSilly8B8T> who ",
-    "[18:06] <MinephaMC_YT_ALT> everybody would know our location ",
-    "[18:07] <peacebringer12> not İf I dont show anything ",
     "[18:07] <MinephaMC_YT_ALT> they can ltierally 2 tap us ",
     "[18:07] <TulagrandBot> >Whant something? Try @kit! ",
     "[18:07] <peacebringer12> speak for yourself on that ",
@@ -101,7 +97,11 @@
     "[18:08] [8b8t] >> Request sent to 0_HeinBott",
     "[18:08] <IvanZaSilly8B8T> i hate those withers bro ",
     "[18:08] <TulagrandBot> >Want kit? Try @kit ",
-    "[18:08] [8b8t] >> Teleporting..."
+    "[18:08] [8b8t] >> Teleporting...",
+    "[18:08] [8b8t] >> You have killed yourself!",
+    "[18:08] <BdubH2015> !kit pvp ",
+    "[18:08] [8b8t] >> Teleporting to home 0...",
+    "[18:08] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -2064,7 +2064,7 @@
     "ItzRealDown": 2,
     "DonIanaco": 3,
     "laureeledesmaa": 1,
-    "BdubH2015": 163,
+    "BdubH2015": 164,
     ".clanJF": 10,
     "Cheesecake1336": 3,
     "davidpro077": 63,
@@ -3687,7 +3687,7 @@
   "kitStats": {
     "build": 1891,
     "survival": 7092,
-    "pvp": 9236,
+    "pvp": 9237,
     "dupe": 2565,
     "tools": 2088,
     "stash": 1278,
