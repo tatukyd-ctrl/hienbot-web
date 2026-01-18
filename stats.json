@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:50:10 18/1/2026",
-  "totalKits": 89905,
-  "todayKits": 132,
-  "onlineCount": 34,
+  "lastUpdated": "12:50:37 18/1/2026",
+  "totalKits": 89906,
+  "todayKits": 133,
+  "onlineCount": 33,
   "peakPlayers": 47,
   "tps": "3.0",
-  "ping": 199,
+  "ping": 202,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6984
+      "count": 6985
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:48] To 94__kyng: Sorry! Pink Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[05:48] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[05:48] <.yuu18m> !kit wood ",
-    "[05:48] [8b8t] >> Teleporting to home 0...",
-    "[05:48] [8b8t] >> Teleporting to home 3...",
-    "[05:48] To .yuu18m: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:48] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[05:48] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:48] [8b8t] >> Request sent to .yuu18m",
-    "[05:49] [8b8t] >> Teleporting...",
-    "[05:49] <94__kyng> !kit Dupe... ",
-    "[05:49] [8b8t] >> You have killed yourself!",
     "[05:49] <94__kyng> !kit Dupe ",
     "[05:49] [8b8t] >> Teleporting to home 0...",
     "[05:49] [8b8t] >> Teleporting to home 7...",
@@ -101,7 +89,19 @@
     "[05:49] [8b8t] >> Teleporting to home 0...",
     "[05:49] [8b8t] >> Teleporting to home 7...",
     "[05:49] To 94__kyng: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:50] To 94__kyng: Sorry! Pink Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[05:50] To 94__kyng: Sorry! Pink Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[05:50] <bobco_> !kit survival ",
+    "[05:50] [8b8t] >> Teleporting to home 0...",
+    "[05:50] [8b8t] >> Teleporting to home 1...",
+    "[05:50] To bobco_: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:50] <94__kyng> !kit pvp ",
+    "[05:50] To 94__kyng: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:50] To bobco_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:50] [8b8t] >> Request sent to bobco_",
+    "[05:50] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[05:50] [8b8t] >> Teleporting...",
+    "[05:50] <94__kyng> !kit pvp ",
+    "[05:50] To 94__kyng: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3642,11 +3642,12 @@
     "didyouknow200": 1,
     "Sonic_Rewrite": 2,
     "94__kyng": 5,
-    "asd412txr5": 1
+    "asd412txr5": 1,
+    "bobco_": 1
   },
   "kitStats": {
     "build": 1859,
-    "survival": 6984,
+    "survival": 6985,
     "pvp": 9137,
     "dupe": 2496,
     "tools": 2043,
