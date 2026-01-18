@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:01:57 18/1/2026",
+  "lastUpdated": "08:02:27 18/1/2026",
   "totalKits": 89704,
   "todayKits": 18,
-  "onlineCount": 44,
+  "onlineCount": 43,
   "peakPlayers": 51,
   "tps": "3.0",
   "ping": 207,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9103
+      "count": 9104
     },
     {
       "name": "survival",
@@ -68,27 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1839
+      "count": 1840
     }
   ],
   "chatLog": [
-    "[01:00] <zachisone1> can someone help me get out of spawn ",
-    "[01:00] To Senseixd45: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[01:00] <baopuki30> !kit redstone ",
-    "[01:00] [8b8t] >> Teleporting to home 0...",
-    "[01:00] [8b8t] >> Home 2 was not found",
-    "[01:00] To baopuki30: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:00] To baopuki30: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:00] [8b8t] >> Request sent to baopuki30",
-    "[01:00] [8b8t] >> Teleporting...",
-    "[01:00] <Ascalito> !kit stash ",
-    "[01:00] To Ascalito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:00] [BOT] <0_HienBot> >Hi dealerdeskiles! ",
-    "[01:01] <.Eden_01655> !kit stash ",
-    "[01:01] To .Eden_01655: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:01] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[01:01] [8b8t] >> You have killed yourself!",
-    "[01:01] <.yuu18m> !kit exp ",
     "[01:01] [8b8t] >> Teleporting to home 0...",
     "[01:01] [8b8t] >> Teleporting to home 5...",
     "[01:01] To .yuu18m: Your kit (exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +84,24 @@
     "[01:01] Goblinii has completed the challenge [Cover Me in Debris]",
     "[01:01] <MrPinkEye> !kit ",
     "[01:01] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[01:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[01:01] <TulagrandBot> >Building a base? Try @kit build1 ",
+    "[01:01] [BOT] <0_HienBot> >Type !discord ",
+    "[01:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:02] <Senseixd45> !kit pvp ",
+    "[01:02] [8b8t] >> Teleporting to home 0...",
+    "[01:02] [8b8t] >> Teleporting to home 1...",
+    "[01:02] To Senseixd45: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:02] To Senseixd45: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[01:02] <.yuu18m> !kit build ",
+    "[01:02] [8b8t] >> Teleporting to home 0...",
+    "[01:02] [8b8t] >> Home 2 was not found",
+    "[01:02] To .yuu18m: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:02] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:02] [8b8t] >> Request sent to .yuu18m",
+    "[01:02] <Senseixd45> !kit vp ",
+    "[01:02] [8b8t] >> The TPA request you sent to .yuu18m has expired.",
+    "[01:02] To Senseixd45: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2458,7 +2458,7 @@
     "PlayStation_ALT": 2,
     "HARLIX1354": 5,
     "Fiki64": 5,
-    ".yuu18m": 89,
+    ".yuu18m": 90,
     "Unknown_Addy": 6,
     "fwgehr": 1,
     "isamasi7": 1,
@@ -3625,12 +3625,12 @@
     "losmanotas": 1,
     "ElSebastianito2": 1,
     "Goblinii": 2,
-    "Senseixd45": 1
+    "Senseixd45": 2
   },
   "kitStats": {
-    "build": 1839,
+    "build": 1840,
     "survival": 6957,
-    "pvp": 9103,
+    "pvp": 9104,
     "dupe": 2465,
     "tools": 2034,
     "stash": 1251,
