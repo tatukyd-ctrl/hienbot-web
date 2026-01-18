@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:12:10 18/1/2026",
+  "lastUpdated": "15:12:40 18/1/2026",
   "totalKits": 90009,
   "todayKits": 236,
   "onlineCount": 26,
   "peakPlayers": 47,
-  "tps": "2.0",
-  "ping": 396,
+  "tps": "3.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7006
+      "count": 7007
     },
     {
       "name": "dupe",
@@ -73,19 +73,6 @@
   ],
   "chatLog": [
     "[08:11] [8b8t] >> Teleporting...",
-    "[08:11] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:11] <SPREENQ> !kit base ",
-    "[08:11] <Preclude> !kit concrete ",
-    "[08:11] [8b8t] >> You have killed yourself!",
-    "[08:11] [8b8t] >> Teleporting to home 0...",
-    "[08:11] To SPREENQ: Your kit (base) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:11] <OmHackz> !kit spear ",
-    "[08:11] To Preclude: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:11] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:11] To SPREENQ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:11] [8b8t] >> Request sent to SPREENQ",
-    "[08:11] <rolito> veni ",
-    "[08:11] [8b8t] >> Teleporting...",
     "[08:11] <OmHackz> !kit concrete ",
     "[08:11] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[08:11] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
@@ -101,7 +88,20 @@
     "[08:12] [8b8t] >> Request sent to Preclude",
     "[08:12] [8b8t] >> Teleporting...",
     "[08:12] <SPREENQ> !kit gta ",
-    "[08:12] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[08:12] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:12] [8b8t] >> You have killed yourself!",
+    "[08:12] <OmHackz> !ping ",
+    "[08:12] To OmHackz: Your ping is: 971 ms Dont forget to join dsc.gg/hienbot",
+    "[08:12] <SPREENQ> !kit gta ",
+    "[08:12] To SPREENQ: You're on cooldown, try again in 16 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:12] [BOT] <0_HienBot> >Welcome to 8b8t, LarryCaberga! ",
+    "[08:12] <HahaGirlYs> can any1 tpa me pls ",
+    "[08:12] <OmHackz> !kit starter ",
+    "[08:12] [8b8t] >> Teleporting to home 0...",
+    "[08:12] [8b8t] >> Teleporting to home 1...",
+    "[08:12] To OmHackz: Your kit (starter) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:12] To OmHackz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:12] [8b8t] >> Request sent to OmHackz"
   ],
   "userStats": {
     "76756": 38,
@@ -3638,7 +3638,7 @@
     "KinetikSk8er57": 1,
     "martince22": 14,
     ".SaneMitten1070": 1,
-    "OmHackz": 34,
+    "OmHackz": 35,
     "didyouknow200": 1,
     "Sonic_Rewrite": 2,
     "94__kyng": 5,
@@ -3652,7 +3652,7 @@
   },
   "kitStats": {
     "build": 1865,
-    "survival": 7006,
+    "survival": 7007,
     "pvp": 9149,
     "dupe": 2517,
     "tools": 2046,
