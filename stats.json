@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:11:10 19/1/2026",
+  "lastUpdated": "02:11:40 19/1/2026",
   "totalKits": 90485,
   "todayKits": 712,
-  "onlineCount": 44,
+  "onlineCount": 45,
   "peakPlayers": 51,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 249,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9244
+      "count": 9245
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:07] [8b8t] >> Request sent to vcxvxxv",
-    "[19:07] [8b8t] >> Teleporting...",
-    "[19:07] [8b8t] >> You have killed yourself!",
-    "[19:07] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[19:07] <TulagrandBot> >Try /kill to kill yourself ",
-    "[19:07] <Exoshi> is there someone at spawn ? ",
-    "[19:08] <BasedTurtle6444> Hay frame dupe? ",
-    "[19:08] <salvador06tnt> si ",
-    "[19:08] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[19:08] <BasedTurtle6444> No me funciona ",
-    "[19:08] <TulagrandBot> >Try @kit to get kit ",
-    "[19:08] [BOT] <0_HienBot> >Hmmmmmmmmm ",
     "[19:08] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[19:09] <.Noel5858> quien me ayuda a dupear ",
     "[19:09] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
@@ -101,7 +89,19 @@
     "[19:10] <Smiley_XDDD> tengo kits ",
     "[19:10] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[19:10] <.Noel5858> regala ",
-    "[19:11] <TulagrandBot> >Want kit? Try @kit "
+    "[19:11] <TulagrandBot> >Want kit? Try @kit ",
+    "[19:11] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[19:11] <DR_Dunott> !kit ",
+    "[19:11] To DR_Dunott: Hello DR_Dunott!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[19:11] <TulagrandBot> > TULAGRANDE 1.6! ",
+    "[19:11] <DR_Dunott> !kit cpvp ",
+    "[19:11] [8b8t] >> Teleporting to home 0...",
+    "[19:11] [8b8t] >> Teleporting to home 1...",
+    "[19:11] To DR_Dunott: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:11] To DR_Dunott: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:11] [8b8t] >> Request sent to DR_Dunott",
+    "[19:11] <.LEON50758> !kit mineral ",
+    "[19:11] To .LEON50758: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3688,12 +3688,13 @@
     "PTS_sant1x": 1,
     ".Noel5858": 11,
     "salvador06tnt": 6,
-    "Smiley_XDDD": 1
+    "Smiley_XDDD": 1,
+    "DR_Dunott": 1
   },
   "kitStats": {
     "build": 1901,
     "survival": 7109,
-    "pvp": 9244,
+    "pvp": 9245,
     "dupe": 2568,
     "tools": 2090,
     "stash": 1279,
