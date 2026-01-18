@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:03:58 19/1/2026",
+  "lastUpdated": "04:04:11 19/1/2026",
   "totalKits": 90583,
   "todayKits": 810,
   "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 235,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9270
+      "count": 9271
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[21:01] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[21:02] <EL_Super_Troll> !kit ",
-    "[21:02] To EL_Super_Troll: Hello EL_Super_Troll!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[21:02] <TulagrandBot> >Try /kill to kill yourself ",
     "[21:02] <EL_Super_Troll> !kit survival ",
     "[21:02] [8b8t] >> You have killed yourself!",
@@ -101,7 +97,11 @@
     "[21:03] [8b8t] >> Request sent to vcxvxxv",
     "[21:03] [8b8t] >> Teleporting...",
     "[21:03] <.yuu18m> !kit pvp ",
-    "[21:03] To .yuu18m: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[21:03] To .yuu18m: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:04] <TulagrandBot> >Try /nc to change your nick color ",
+    "[21:04] [8b8t] >> You have killed yourself!",
+    "[21:04] <.Pichuckrak> Ascalito, que quieres que haga pereira ",
+    "[21:04] <.yuu18m> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -2458,7 +2458,7 @@
     "PlayStation_ALT": 2,
     "HARLIX1354": 5,
     "Fiki64": 5,
-    ".yuu18m": 142,
+    ".yuu18m": 143,
     "Unknown_Addy": 6,
     "fwgehr": 1,
     "isamasi7": 1,
@@ -3704,7 +3704,7 @@
   "kitStats": {
     "build": 1917,
     "survival": 7121,
-    "pvp": 9270,
+    "pvp": 9271,
     "dupe": 2577,
     "tools": 2098,
     "stash": 1283,
