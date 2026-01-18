@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:47:10 18/1/2026",
+  "lastUpdated": "16:47:40 18/1/2026",
   "totalKits": 90072,
   "todayKits": 299,
-  "onlineCount": 23,
+  "onlineCount": 21,
   "peakPlayers": 47,
   "tps": "6.0",
   "ping": 233,
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2059
+      "count": 2060
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:45] [8b8t] >> Teleporting to home 0...",
-    "[09:45] [8b8t] >> Teleporting to home 1...",
-    "[09:45] To _lliam: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:46] <TulagrandBot> >Try @list to get list of players ",
-    "[09:46] To _lliam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:46] [8b8t] >> Request sent to _lliam",
-    "[09:46] <0_HeinBott> !kit tintes ",
-    "[09:46] To 0_HeinBott: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:46] <0_HeinBott> !kit ",
-    "[09:46] To 0_HeinBott: Hello 0_HeinBott!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[09:46] [8b8t] >> Teleporting...",
     "[09:46] <Preclude> why does the bot teleport away when i try to get the kit ",
     "[09:46] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[09:46] [8b8t] >> You have killed yourself!",
@@ -101,7 +90,18 @@
     "[09:46] <_lliam> ,gamemode creative ",
     "[09:46] <TulagrandBot> >Building a base? Try @kit build ",
     "[09:46] [8b8t] >> You have killed yourself!",
-    "[09:47] <Preclude> YESSS "
+    "[09:47] <Preclude> YESSS ",
+    "[09:47] <0_HeinBott> !kitlist ",
+    "[09:47] <TulagrandBot> >Tulagrande on top! ",
+    "[09:47] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[09:47] <Angel542XD> !kit list ",
+    "[09:47] [8b8t] >> Teleporting to home 0...",
+    "[09:47] [8b8t] >> Teleporting to home 7...",
+    "[09:47] To Angel542XD: Kit \"list\" not found! Giving you (tools) instead! dsc.gg/hienbot",
+    "[09:47] To Angel542XD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:47] [8b8t] >> Request sent to Angel542XD",
+    "[09:47] <0_HeinBott> !kit dye ",
+    "[09:47] To 0_HeinBott: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3589,7 +3589,7 @@
     "kocper2345": 1,
     "Rasmus1578": 1,
     "aaaaasaa": 5,
-    "Angel542XD": 29,
+    "Angel542XD": 30,
     "zz_VhcKn_01_10": 4,
     "Florigame12": 5,
     "Unyme": 1,
@@ -3660,7 +3660,7 @@
     "survival": 7018,
     "pvp": 9158,
     "dupe": 2528,
-    "tools": 2059,
+    "tools": 2060,
     "stash": 1270,
     "raid": 1487,
     "wood": 587,
