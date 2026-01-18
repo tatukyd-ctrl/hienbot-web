@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:52:40 19/1/2026",
+  "lastUpdated": "01:53:10 19/1/2026",
   "totalKits": 90470,
   "todayKits": 697,
-  "onlineCount": 42,
+  "onlineCount": 40,
   "peakPlayers": 51,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 239,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9241
+      "count": 9242
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:51] <TulagrandBot> >Try @list to get list of players ",
-    "[18:51] <botchaosonix> wat ",
-    "[18:51] <botchaosonix> nah move not ",
-    "[18:51] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[18:51] <botchaosonix> im test ",
-    "[18:51] <salvador06tnt> como pido kits? ",
-    "[18:51] <.Noel5858> !kit ",
-    "[18:51] To .Noel5858: Hello .Noel5858!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:52] <botchaosonix> !kit survival ",
-    "[18:52] [8b8t] >> Teleporting to home 0...",
-    "[18:52] [8b8t] >> Teleporting to home 1...",
-    "[18:52] To botchaosonix: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[18:52] <.Noel5858> !kit concrete ",
     "[18:52] To .Noel5858: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[18:52] [8b8t] >> Request sent to botchaosonix",
     "[18:52] [8b8t] >> Teleporting...",
@@ -101,7 +88,20 @@
     "[18:52] <.LEON50758> !kit eliyrta ",
     "[18:52] To .LEON50758: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[18:52] [8b8t] >> Request sent to .Noel5858",
-    "[18:52] [8b8t] >> Teleporting..."
+    "[18:52] [8b8t] >> Teleporting...",
+    "[18:52] <salvador06tnt> !kit pvp ",
+    "[18:52] [8b8t] >> You have killed yourself!",
+    "[18:52] To salvador06tnt: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:52] [8b8t] >> Teleporting to home 0...",
+    "[18:52] [8b8t] >> Teleporting to home 1...",
+    "[18:52] To salvador06tnt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:52] [8b8t] >> Request sent to salvador06tnt",
+    "[18:52] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[18:52] botchaosonix Whispers: !kit pvp",
+    "[18:52] To botchaosonix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[18:53] <TulagrandBot> >Building a base? Try @kit build ",
+    "[18:53] botchaosonix Whispers: !kit pvp",
+    "[18:53] To botchaosonix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3686,12 +3686,13 @@
     "Vitin": 1,
     "Ayaz0101_pro": 4,
     "PTS_sant1x": 1,
-    ".Noel5858": 10
+    ".Noel5858": 10,
+    "salvador06tnt": 1
   },
   "kitStats": {
     "build": 1898,
     "survival": 7107,
-    "pvp": 9241,
+    "pvp": 9242,
     "dupe": 2568,
     "tools": 2090,
     "stash": 1279,
