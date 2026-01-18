@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:28:33 19/1/2026",
+  "lastUpdated": "01:28:40 19/1/2026",
   "totalKits": 90445,
   "todayKits": 672,
   "onlineCount": 47,
   "peakPlayers": 51,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 231,
   "topUsers": [
     {
@@ -68,12 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1896
+      "count": 1897
     }
   ],
   "chatLog": [
-    "[18:27] <blememeformymist> bruh ",
-    "[18:27] <ALSIO1243> !kit glass ",
     "[18:27] <SlimeCrafter_99> !kit Survival ",
     "[18:27] [8b8t] >> You have killed yourself!",
     "[18:27] Chat disabled in client options",
@@ -101,7 +99,9 @@
     "[18:28] <botchaosonix> okay ",
     "[18:28] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[18:28] [8b8t] >> Teleporting...",
-    "[18:28] <blememeformymist> 1 seg "
+    "[18:28] <blememeformymist> 1 seg ",
+    "[18:28] [8b8t] >> You have killed yourself!",
+    "[18:28] <MinephaMC_YT_ALT> !kit build "
   ],
   "userStats": {
     "76756": 38,
@@ -1562,7 +1562,7 @@
     "0_HienBot": 2,
     "mikanMC": 20,
     "TrayNeh": 10,
-    "MinephaMC_YT_ALT": 32,
+    "MinephaMC_YT_ALT": 33,
     "pannss": 8,
     "Manitololo": 1,
     "versaexe": 3,
@@ -3687,7 +3687,7 @@
     "Ayaz0101_pro": 4
   },
   "kitStats": {
-    "build": 1896,
+    "build": 1897,
     "survival": 7102,
     "pvp": 9237,
     "dupe": 2566,
