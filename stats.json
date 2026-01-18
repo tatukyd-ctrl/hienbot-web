@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:44:01 18/1/2026",
+  "lastUpdated": "16:44:10 18/1/2026",
   "totalKits": 90070,
   "todayKits": 297,
   "onlineCount": 25,
   "peakPlayers": 47,
-  "tps": "5.0",
-  "ping": 232,
+  "tps": "4.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7017
+      "count": 7018
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:42] To Preclude: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:42] [Pro] <⛩ᏗᏒᏁᎧ⛏> shutup ",
-    "[09:42] [8b8t] >> Request sent to Preclude",
-    "[09:42] [8b8t] >> Teleporting...",
-    "[09:42] <TulagrandBot> >How are you Preclude? ",
-    "[09:42] [Pro] <⛩ᏗᏒᏁᎧ⛏> its version one of the kit ",
     "[09:42] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[09:42] <Sgamestream> (basically) ",
     "[09:42] [Pro] <⛩ᏗᏒᏁᎧ⛏> ill make version 2 ",
@@ -101,7 +95,13 @@
     "[09:43] To Preclude: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:43] [8b8t] >> Request sent to Preclude",
     "[09:43] [8b8t] >> Teleporting...",
-    "[09:44] <Sgamestream> i alr made my own kit "
+    "[09:44] <Sgamestream> i alr made my own kit ",
+    "[09:44] <Preclude> OH MY GOD ",
+    "[09:44] <_lliam> !kit survival ",
+    "[09:44] [8b8t] >> You have killed yourself!",
+    "[09:44] To _lliam: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:44] [8b8t] >> Teleporting to home 0...",
+    "[09:44] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3652,11 +3652,12 @@
     "Zynawww": 13,
     "Nitesh_001": 1,
     "LarryCaberga": 1,
-    "ForPainOrGlory": 2
+    "ForPainOrGlory": 2,
+    "_lliam": 1
   },
   "kitStats": {
     "build": 1867,
-    "survival": 7017,
+    "survival": 7018,
     "pvp": 9157,
     "dupe": 2528,
     "tools": 2059,
