@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:34:13 19/1/2026",
-  "totalKits": 90562,
-  "todayKits": 789,
-  "onlineCount": 40,
+  "lastUpdated": "03:34:30 19/1/2026",
+  "totalKits": 90563,
+  "todayKits": 790,
+  "onlineCount": 42,
   "peakPlayers": 52,
   "tps": "5.0",
   "ping": 231,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9266
+      "count": 9267
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:33] <.ZeusPro2972> !kit elytra ",
-    "[20:33] To .ZeusPro2972: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:33] <LeakingHero> !kit ",
-    "[20:33] [8b8t] >> You have killed yourself!",
-    "[20:33] To LeakingHero: Hello LeakingHero!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:33] [8b8t] >> The TPA request you sent to LeakingHero was successfully canceled.",
-    "[20:33] <LeakingHero> !kit survival ",
-    "[20:33] To LeakingHero: You're on cooldown, try again in 54 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:33] <SPYxBOND> !kit stash ",
-    "[20:33] [8b8t] >> Teleporting to home 0...",
-    "[20:33] [8b8t] >> Home 2 was not found",
-    "[20:33] To SPYxBOND: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[20:33] To SPYxBOND: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:33] [8b8t] >> Request sent to SPYxBOND",
     "[20:33] <LeakingHero> ! ",
@@ -101,6 +89,18 @@
     "[20:34] [8b8t] >> Request sent to .ZeusPro2972",
     "[20:34] <usNexu> !kit pvp ",
     "[20:34] To usNexu: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:34] [8b8t] >> Teleporting...",
+    "[20:34] <usNexu> !kit ",
+    "[20:34] To usNexu: Hello usNexu!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[20:34] [8b8t] >> You have killed yourself!",
+    "[20:34] <usNexu> !kit pvp ",
+    "[20:34] [8b8t] >> Teleporting to home 0...",
+    "[20:34] [8b8t] >> Teleporting to home 1...",
+    "[20:34] To usNexu: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:34] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[20:34] To usNexu: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:34] [8b8t] >> Request sent to usNexu",
+    "[20:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[20:34] [8b8t] >> Teleporting..."
   ],
   "userStats": {
@@ -3495,7 +3495,7 @@
     "Melkin": 1,
     "mxmi666": 1,
     "MaximB2010": 2,
-    "usNexu": 1,
+    "usNexu": 2,
     "bapehnk2282": 1,
     "business2run": 1,
     "sebas_360": 4,
@@ -3702,7 +3702,7 @@
   "kitStats": {
     "build": 1915,
     "survival": 7118,
-    "pvp": 9266,
+    "pvp": 9267,
     "dupe": 2576,
     "tools": 2097,
     "stash": 1283,
