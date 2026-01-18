@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:06:39 19/1/2026",
-  "totalKits": 90531,
-  "todayKits": 758,
-  "onlineCount": 46,
+  "lastUpdated": "03:06:58 19/1/2026",
+  "totalKits": 90532,
+  "todayKits": 759,
+  "onlineCount": 45,
   "peakPlayers": 52,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 241,
   "topUsers": [
     {
@@ -68,22 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1912
+      "count": 1913
     }
   ],
   "chatLog": [
-    "[20:05] <SHTHR0> !KIT PVP ",
-    "[20:05] To SHTHR0: You're on cooldown, try again in 49 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:05] <ALBARAA211> @ki ",
-    "[20:05] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[20:06] <ALBARAA211> @kit ",
-    "[20:06] To ALBARAA211: Hello ALBARAA211!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:06] <ALBARAA211> @kit pvp ",
-    "[20:06] [8b8t] >> Teleporting to home 0...",
-    "[20:06] [8b8t] >> Teleporting to home 1...",
-    "[20:06] To ALBARAA211: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:06] <HAKURYU56> !fact ",
-    "[20:06] To ALBARAA211: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:06] [8b8t] >> Request sent to ALBARAA211",
     "[20:06] <HAKURYU56> ! ",
     "[20:06] [8b8t] >> Teleporting...",
@@ -101,7 +89,19 @@
     "[20:06] <blememeformymist> @kit build ",
     "[20:06] To blememeformymist: Aguarde um momento. Entre no HienBot Group dsc.gg/hienbot",
     "[20:06] <vcxvxxv> !kit stash ",
-    "[20:06] To vcxvxxv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[20:06] To vcxvxxv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:06] [8b8t] >> You have killed yourself!",
+    "[20:06] <blememeformymist> @kit build ",
+    "[20:06] [8b8t] >> Teleporting to home 0...",
+    "[20:06] [8b8t] >> Home 2 was not found",
+    "[20:06] To blememeformymist: Seu kit (build) sera entregue em 30 segundos! Entre em dsc.gg/hienbot",
+    "[20:06] To blememeformymist: Digite \"/tpayes 0_HienBot\" em 35 segundos! Entre em dsc.gg/hienbot.",
+    "[20:06] [8b8t] >> Request sent to blememeformymist",
+    "[20:06] <vcxvxxv> !kit ",
+    "[20:06] To vcxvxxv: Hello vcxvxxv!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[20:06] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[20:06] <TulagrandBot> >Try /nc to change your nick color ",
+    "[20:06] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3534,7 +3534,7 @@
     "LiflexMC": 15,
     "Pacov255": 2,
     "Zongalos": 1,
-    "blememeformymist": 47,
+    "blememeformymist": 48,
     "SensaiBro123": 2,
     "n0cap69": 2,
     "Benjita_12": 5,
@@ -3698,7 +3698,7 @@
     "SHTHR0": 4
   },
   "kitStats": {
-    "build": 1912,
+    "build": 1913,
     "survival": 7114,
     "pvp": 9262,
     "dupe": 2573,
