@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:24:41 19/1/2026",
+  "lastUpdated": "03:25:11 19/1/2026",
   "totalKits": 90552,
   "todayKits": 779,
-  "onlineCount": 43,
+  "onlineCount": 42,
   "peakPlayers": 52,
-  "tps": "4.0",
-  "ping": 237,
+  "tps": "6.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7117
+      "count": 7118
     },
     {
       "name": "dupe",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:22] [8b8t] >> Teleporting to home 5...",
-    "[20:22] To SPYxBOND: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:22] To SPYxBOND: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:22] [8b8t] >> Request sent to SPYxBOND",
-    "[20:22] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[20:22] [8b8t] >> Teleporting...",
     "[20:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[20:22] [8b8t] >> You have killed yourself!",
@@ -101,7 +96,12 @@
     "[20:24] [8b8t] >> Request sent to SPYxBOND",
     "[20:24] [8b8t] >> Teleporting...",
     "[20:24] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[20:24] [8b8t] >> You have killed yourself!"
+    "[20:24] [8b8t] >> You have killed yourself!",
+    "[20:24] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[20:25] <.ZeusPro2972> !kit survival ",
+    "[20:25] [8b8t] >> Teleporting to home 0...",
+    "[20:25] [8b8t] >> Teleporting to home 1...",
+    "[20:25] To .ZeusPro2972: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3696,11 +3696,11 @@
     "craztyn": 2,
     "Gato77": 1,
     "SHTHR0": 6,
-    ".ZeusPro2972": 1
+    ".ZeusPro2972": 2
   },
   "kitStats": {
     "build": 1915,
-    "survival": 7117,
+    "survival": 7118,
     "pvp": 9266,
     "dupe": 2573,
     "tools": 2097,
