@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:45:40 18/1/2026",
+  "lastUpdated": "13:46:10 18/1/2026",
   "totalKits": 89952,
   "todayKits": 179,
   "onlineCount": 31,
   "peakPlayers": 47,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 200,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9142
+      "count": 9143
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:42] [8b8t] >> Request sent to FastForward",
-    "[06:42] [8b8t] >> Teleporting...",
-    "[06:42] <waximo> >usa -kit para pedir un kit ",
-    "[06:42] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[06:43] [8b8t] >> You have killed yourself!",
-    "[06:43] bobco_ has made the advancement [Diamonds!]",
-    "[06:43] bobco_ has made the advancement [Acquire Hardware]",
-    "[06:43] <.yuu18m> !kit trim ",
     "[06:43] [8b8t] >> Teleporting to home 0...",
     "[06:43] [8b8t] >> Teleporting to home 7...",
     "[06:43] To .yuu18m: Your kit (trim) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[06:44] ManePear_fannn has completed the challenge [Subspace Bubble]",
     "[06:45] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:45] <waximo> >quieres silenciar a alguien usa /ignore (nombre del jugador) ",
-    "[06:45] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
+    "[06:45] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[06:45] <waximo> >usa -kit para pedir un kit ",
+    "[06:45] <FastForward> !kit pvp ",
+    "[06:45] [8b8t] >> Teleporting to home 0...",
+    "[06:45] [8b8t] >> Teleporting to home 1...",
+    "[06:45] To FastForward: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:45] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[06:45] To FastForward: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:45] [8b8t] >> Request sent to FastForward"
   ],
   "userStats": {
     "76756": 38,
@@ -3092,7 +3092,7 @@
     "EvenGrail": 4,
     "Cats_AreCool1": 1,
     "zAarex": 1,
-    "FastForward": 10,
+    "FastForward": 11,
     "roley123": 2,
     "pornohub2025": 1,
     "0_H1enBot": 7,
@@ -3650,7 +3650,7 @@
   "kitStats": {
     "build": 1864,
     "survival": 6996,
-    "pvp": 9142,
+    "pvp": 9143,
     "dupe": 2506,
     "tools": 2044,
     "stash": 1265,
