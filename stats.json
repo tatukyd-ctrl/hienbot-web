@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:32:40 19/1/2026",
-  "totalKits": 90506,
-  "todayKits": 733,
-  "onlineCount": 49,
+  "lastUpdated": "02:32:53 19/1/2026",
+  "totalKits": 90507,
+  "todayKits": 734,
+  "onlineCount": 47,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 237,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1906
+      "count": 1907
     }
   ],
   "chatLog": [
-    "[19:31] <craztyn> !kit PVP ",
-    "[19:31] [8b8t] >> Teleporting to home 0...",
-    "[19:31] [8b8t] >> Teleporting to home 1...",
-    "[19:31] To craztyn: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:31] To craztyn: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:31] [8b8t] >> Request sent to craztyn",
-    "[19:31] [8b8t] >> Teleporting...",
-    "[19:31] <TulagrandBot> >Try @list to get list of players ",
     "[19:31] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[19:31] [8b8t] >> You have killed yourself!",
     "[19:31] <rolito> TULAGRANDE 1.6! ",
@@ -101,7 +93,15 @@
     "[19:32] [8b8t] >> You have killed yourself!",
     "[19:32] [8b8t] >> The TPA request you sent to Gato77 was successfully canceled.",
     "[19:32] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[19:32] <.MrPuppy10> why is there withers!! "
+    "[19:32] <.MrPuppy10> why is there withers!! ",
+    "[19:32] <blememeformymist> @kit build ",
+    "[19:32] [8b8t] >> Teleporting to home 0...",
+    "[19:32] [8b8t] >> Home 2 was not found",
+    "[19:32] To blememeformymist: Seu kit (build) sera entregue em 30 segundos! Entre em dsc.gg/hienbot",
+    "[19:32] To blememeformymist: Digite \"/tpayes 0_HienBot\" em 35 segundos! Entre em dsc.gg/hienbot.",
+    "[19:32] [8b8t] >> Request sent to blememeformymist",
+    "[19:32] [8b8t] >> Teleporting...",
+    "[19:32] [BOT] <0_HienBot> >Try !кιт survival "
   ],
   "userStats": {
     "76756": 38,
@@ -3534,7 +3534,7 @@
     "LiflexMC": 15,
     "Pacov255": 2,
     "Zongalos": 1,
-    "blememeformymist": 43,
+    "blememeformymist": 44,
     "SensaiBro123": 2,
     "n0cap69": 2,
     "Benjita_12": 5,
@@ -3697,7 +3697,7 @@
     "Gato77": 1
   },
   "kitStats": {
-    "build": 1906,
+    "build": 1907,
     "survival": 7110,
     "pvp": 9249,
     "dupe": 2568,
