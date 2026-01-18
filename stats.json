@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:06:31 18/1/2026",
+  "lastUpdated": "10:06:40 18/1/2026",
   "totalKits": 89803,
   "todayKits": 30,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 45,
   "tps": "4.0",
   "ping": 205,
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1849
+      "count": 1850
     }
   ],
   "chatLog": [
-    "[03:05] <usNexu> !kit ilegal ",
-    "[03:05] <SpectralCodex> !kit ilegal ",
-    "[03:05] To usNexu: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:05] [8b8t] >> Barrerics_2011 has denied your request",
-    "[03:05] <.yuu18m> spectal may I go there? ",
-    "[03:05] <SPREENQ> !kit build ",
-    "[03:05] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:05] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[03:05] <Barrerics_2011> !kit xp ",
     "[03:05] To Barrerics_2011: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:06] <SPREENQ> !kit build ",
@@ -101,7 +93,15 @@
     "[03:06] To or4acle: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:06] [8b8t] >> Request sent to or4acle",
     "[03:06] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[03:06] [8b8t] >> Teleporting..."
+    "[03:06] [8b8t] >> Teleporting...",
+    "[03:06] <usNexu> !kit pvp ",
+    "[03:06] <SPREENQ> !kit build ",
+    "[03:06] To usNexu: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[03:06] [8b8t] >> You have killed yourself!",
+    "[03:06] To SPREENQ: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:06] [8b8t] >> Teleporting to home 0...",
+    "[03:06] [8b8t] >> Home 2 was not found",
+    "[03:06] <TulagrandBot> >Building a base? Try @kit build2 "
   ],
   "userStats": {
     "76756": 38,
@@ -3540,7 +3540,7 @@
     "Benjita_12": 5,
     "maxanachy": 51,
     "Aretorangtwo": 7,
-    "SPREENQ": 56,
+    "SPREENQ": 57,
     "oro_888": 1,
     "dragonsej2025": 9,
     "Jonicua": 6,
@@ -3632,7 +3632,7 @@
     "SpectralCodex": 3
   },
   "kitStats": {
-    "build": 1849,
+    "build": 1850,
     "survival": 6968,
     "pvp": 9120,
     "dupe": 2475,
