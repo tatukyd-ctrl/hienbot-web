@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:13:24 18/1/2026",
+  "lastUpdated": "12:13:40 18/1/2026",
   "totalKits": 89891,
   "todayKits": 118,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 47,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 200,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2490
+      "count": 2491
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:12] <martince22> !kit ",
-    "[05:12] To martince22: Hello martince22!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:12] <martince22> !kit Shulker ",
-    "[05:12] [8b8t] >> Teleporting to home 0...",
-    "[05:12] [8b8t] >> Teleporting to home 6...",
-    "[05:12] To martince22: Your kit (Shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:12] To martince22: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:12] [8b8t] >> Request sent to martince22",
     "[05:12] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[05:12] <OmHackz> !kit ",
@@ -101,7 +94,14 @@
     "[05:13] [8b8t] >> Request sent to Srt8Jadonn",
     "[05:13] [8b8t] >> Teleporting...",
     "[05:13] <martince22> !kit Shulker ",
-    "[05:13] To martince22: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[05:13] To martince22: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:13] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[05:13] [8b8t] >> You have killed yourself!",
+    "[05:13] <OmHackz> !kit dupe ",
+    "[05:13] [8b8t] >> Teleporting to home 0...",
+    "[05:13] [8b8t] >> Teleporting to home 7...",
+    "[05:13] To OmHackz: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:13] To OmHackz: Sorry! Pink Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3638,14 +3638,14 @@
     "KinetikSk8er57": 1,
     "martince22": 13,
     ".SaneMitten1070": 1,
-    "OmHackz": 11,
+    "OmHackz": 12,
     "didyouknow200": 1
   },
   "kitStats": {
     "build": 1858,
     "survival": 6983,
     "pvp": 9135,
-    "dupe": 2490,
+    "dupe": 2491,
     "tools": 2041,
     "stash": 1262,
     "raid": 1474,
