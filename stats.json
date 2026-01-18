@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:06:10 18/1/2026",
+  "lastUpdated": "15:06:40 18/1/2026",
   "totalKits": 90000,
   "todayKits": 227,
   "onlineCount": 26,
   "peakPlayers": 47,
-  "tps": "6.0",
+  "tps": "4.0",
   "ping": 264,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7004
+      "count": 7005
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:04] [8b8t] >> Teleporting to home 6...",
-    "[08:04] To SPREENQ: Kit \"posion\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
-    "[08:05] To SPREENQ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:05] [8b8t] >> Request sent to SPREENQ",
-    "[08:05] [8b8t] >> Teleporting...",
-    "[08:05] <BeThaMob> a ",
-    "[08:05] <herobrinejr11111> i am not 20000 blocks away ",
-    "[08:05] <FastForward> !kit mace ",
-    "[08:05] To FastForward: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:05] [8b8t] >> You have killed yourself!",
-    "[08:05] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[08:05] <herobrinejr11111> !kit elytra ",
-    "[08:05] [8b8t] >> Teleporting to home 0...",
     "[08:05] cocoloco12 has reached the goal [Sky's the Limit]",
     "[08:05] [8b8t] >> Teleporting to home 6...",
     "[08:05] To herobrinejr11111: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +88,20 @@
     "[08:05] cocoloco12 has made the advancement [We Need to Go Deeper]",
     "[08:05] <SPREENQ> !kit illegal ",
     "[08:05] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:05] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[08:05] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[08:06] [8b8t] >> You have killed yourself!",
+    "[08:06] [8b8t] >> The TPA request you sent to herobrinejr11111 was successfully canceled.",
+    "[08:06] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[08:06] <herobrinejr11111> !kit ",
+    "[08:06] To herobrinejr11111: Hello herobrinejr11111!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[08:06] <FastForward> !kit basic ",
+    "[08:06] [8b8t] >> Teleporting to home 0...",
+    "[08:06] <SPREENQ> !kit illegal ",
+    "[08:06] [8b8t] >> Teleporting to home 1...",
+    "[08:06] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:06] To FastForward: Your kit (basic) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:06] To FastForward: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:06] [8b8t] >> Request sent to FastForward"
   ],
   "userStats": {
     "76756": 38,
@@ -3092,7 +3092,7 @@
     "EvenGrail": 4,
     "Cats_AreCool1": 1,
     "zAarex": 1,
-    "FastForward": 25,
+    "FastForward": 26,
     "roley123": 2,
     "pornohub2025": 1,
     "0_H1enBot": 7,
@@ -3652,7 +3652,7 @@
   },
   "kitStats": {
     "build": 1864,
-    "survival": 7004,
+    "survival": 7005,
     "pvp": 9147,
     "dupe": 2516,
     "tools": 2045,
