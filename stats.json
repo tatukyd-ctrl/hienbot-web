@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:26:08 19/1/2026",
+  "lastUpdated": "02:26:40 19/1/2026",
   "totalKits": 90502,
   "todayKits": 729,
   "onlineCount": 48,
   "peakPlayers": 51,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 237,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2093
+      "count": 2094
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:24] <0_HeinBott> !kit redstone ",
-    "[19:25] To 0_HeinBott: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:25] <TulagrandBot> >Whant something? Try @kit! ",
-    "[19:25] [8b8t] >> Teleporting...",
-    "[19:25] [8b8t] >> You have killed yourself!",
-    "[19:25] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[19:25] <0_HeinBott> !kit redstone ",
-    "[19:25] [8b8t] >> Teleporting to home 0...",
-    "[19:25] [8b8t] >> Home 2 was not found",
     "[19:25] To 0_HeinBott: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[19:25] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[19:25] To 0_HeinBott: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +92,16 @@
     "[19:25] To .TempBead7252257: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:25] To .LEON50758: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:25] [8b8t] >> Request sent to .LEON50758",
-    "[19:26] [8b8t] >> Teleporting..."
+    "[19:26] [8b8t] >> Teleporting...",
+    "[19:26] <.TempBead7252257> !kit tools ",
+    "[19:26] [8b8t] >> Teleporting to home 0...",
+    "[19:26] [8b8t] >> Teleporting to home 7...",
+    "[19:26] To .TempBead7252257: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:26] To .TempBead7252257: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:26] [8b8t] >> Request sent to .TempBead7252257",
+    "[19:26] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[19:26] <TulagrandBot> > TULAGRANDE 1.6! ",
+    "[19:26] [Pro+] <totembait_> a "
   ],
   "userStats": {
     "76756": 38,
@@ -3692,14 +3692,14 @@
     "DR_Dunott": 4,
     "pig_the_cool": 1,
     "dangv2": 4,
-    ".TempBead7252257": 1
+    ".TempBead7252257": 2
   },
   "kitStats": {
     "build": 1906,
     "survival": 7110,
     "pvp": 9246,
     "dupe": 2568,
-    "tools": 2093,
+    "tools": 2094,
     "stash": 1279,
     "raid": 1514,
     "wood": 596,
