@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:39:40 18/1/2026",
+  "lastUpdated": "22:40:10 18/1/2026",
   "totalKits": 90312,
   "todayKits": 539,
-  "onlineCount": 42,
+  "onlineCount": 44,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 243,
   "topUsers": [
     {
@@ -68,15 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1876
+      "count": 1877
     }
   ],
   "chatLog": [
-    "[15:37] To Apohelius: Hello Apohelius!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:37] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[15:37] <SpawnArchive> !jd ",
-    "[15:37] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[15:37] <TulagrandBot> >Try @list to get list of players ",
     "[15:37] <Apohelius> !kit pvp ",
     "[15:37] [8b8t] >> Teleporting to home 0...",
     "[15:37] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +96,12 @@
     "[15:38] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[15:39] <asadullaayevdi> ratings bases tpahere ",
     "[15:39] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[15:39] <0_HeinBott> Sgamestream put your color and BOLD ITALIC AND UNDERLINE "
+    "[15:39] <0_HeinBott> Sgamestream put your color and BOLD ITALIC AND UNDERLINE ",
+    "[15:39] <TulagrandBot> >Try @tps to get server's tps ",
+    "[15:39] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[15:40] <blememeformymist> @kit build ",
+    "[15:40] [8b8t] >> Teleporting to home 0...",
+    "[15:40] [8b8t] >> Home 2 was not found"
   ],
   "userStats": {
     "76756": 38,
@@ -3534,7 +3534,7 @@
     "LiflexMC": 15,
     "Pacov255": 2,
     "Zongalos": 1,
-    "blememeformymist": 28,
+    "blememeformymist": 29,
     "SensaiBro123": 2,
     "n0cap69": 2,
     "Benjita_12": 5,
@@ -3676,7 +3676,7 @@
     "crafteraris": 4
   },
   "kitStats": {
-    "build": 1876,
+    "build": 1877,
     "survival": 7066,
     "pvp": 9211,
     "dupe": 2554,
