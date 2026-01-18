@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:02:11 19/1/2026",
+  "lastUpdated": "04:02:41 19/1/2026",
   "totalKits": 90582,
   "todayKits": 809,
-  "onlineCount": 36,
+  "onlineCount": 35,
   "peakPlayers": 52,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 238,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7120
+      "count": 7121
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:59] [BOT] <DPS_Chatbridge> ><exxacto> /FingerVlesmentie ",
-    "[20:59] <TulagrandBot> >Hola Ascalito ",
-    "[20:59] [BOT] <DPS_Chatbridge> ><solar0an> vles is cooked ",
-    "[20:59] [BOT] <DPS_Chatbridge> ><exxacto> he is bro ",
-    "[20:59] Exoshi has reached the goal [The Next Generation]",
-    "[20:59] [BOT] <DPS_Chatbridge> ><exxacto> he's gone ",
-    "[20:59] <vcxvxxv> !kit woodf ",
-    "[20:59] [8b8t] >> Teleporting to home 0...",
-    "[20:59] [8b8t] >> Teleporting to home 6...",
     "[20:59] To vcxvxxv: Kit \"woodf\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
     "[20:59] <vcxvxxv> !kit wood ",
     "[20:59] To vcxvxxv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[21:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[21:01] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[21:02] <EL_Super_Troll> !kit ",
-    "[21:02] To EL_Super_Troll: Hello EL_Super_Troll!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[21:02] To EL_Super_Troll: Hello EL_Super_Troll!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[21:02] <TulagrandBot> >Try /kill to kill yourself ",
+    "[21:02] <EL_Super_Troll> !kit survival ",
+    "[21:02] [8b8t] >> You have killed yourself!",
+    "[21:02] To EL_Super_Troll: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:02] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[21:02] [8b8t] >> Teleporting to home 0...",
+    "[21:02] [8b8t] >> Teleporting to home 1...",
+    "[21:02] To EL_Super_Troll: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:02] [8b8t] >> Request sent to EL_Super_Troll"
   ],
   "userStats": {
     "76756": 38,
@@ -3698,11 +3698,12 @@
     "SHTHR0": 6,
     ".ZeusPro2972": 3,
     "LeakingHero": 1,
-    "Stiven_ban": 3
+    "Stiven_ban": 3,
+    "EL_Super_Troll": 1
   },
   "kitStats": {
     "build": 1917,
-    "survival": 7120,
+    "survival": 7121,
     "pvp": 9270,
     "dupe": 2577,
     "tools": 2098,
