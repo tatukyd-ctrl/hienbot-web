@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:18:40 18/1/2026",
+  "lastUpdated": "15:19:10 18/1/2026",
   "totalKits": 90016,
   "todayKits": 243,
-  "onlineCount": 22,
+  "onlineCount": 20,
   "peakPlayers": 47,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 235,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2518
+      "count": 2519
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:16] <OmHackz> !kit pvp ",
-    "[08:16] [8b8t] >> Teleporting to home 0...",
-    "[08:16] [8b8t] >> Teleporting to home 1...",
-    "[08:16] To OmHackz: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:16] <Zynawww> !kit survival ",
-    "[08:16] To OmHackz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:16] To Zynawww: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:16] [8b8t] >> Request sent to OmHackz",
     "[08:16] <OmHackz> !kit pvp ",
     "[08:16] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[08:16] [BOT] <0_HienBot> >Hello MonkeBot! ",
@@ -101,7 +93,15 @@
     "[08:17] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
     "[08:17] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[08:18] [BOT] <0_HienBot> >Type !discord ",
-    "[08:18] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[08:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:18] [8b8t] >> Please do not spam.",
+    "[08:19] <kaufumanJR> !kit dupe ",
+    "[08:19] [8b8t] >> Teleporting to home 0...",
+    "[08:19] [8b8t] >> Teleporting to home 7...",
+    "[08:19] To kaufumanJR: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:19] cocoloco12 has completed the challenge [Subspace Bubble]",
+    "[08:19] To kaufumanJR: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:19] [8b8t] >> Request sent to kaufumanJR"
   ],
   "userStats": {
     "76756": 38,
@@ -3505,7 +3505,7 @@
     "husuu_sigma": 20,
     "kaminek_CZLP": 1,
     "Alpedrosigma": 6,
-    "kaufumanJR": 31,
+    "kaufumanJR": 32,
     "Axwerr53": 11,
     "Gigansky": 11,
     "ITZ_Kaido": 5,
@@ -3654,7 +3654,7 @@
     "build": 1865,
     "survival": 7007,
     "pvp": 9150,
-    "dupe": 2518,
+    "dupe": 2519,
     "tools": 2046,
     "stash": 1269,
     "raid": 1480,
