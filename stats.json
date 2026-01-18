@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:11:53 19/1/2026",
+  "lastUpdated": "03:12:11 19/1/2026",
   "totalKits": 90539,
   "todayKits": 766,
   "onlineCount": 49,
   "peakPlayers": 52,
-  "tps": "5.0",
+  "tps": "8.0",
   "ping": 238,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7116
+      "count": 7117
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:10] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[20:10] [8b8t] >> Teleporting...",
-    "[20:10] [Pro+] <totembait_> where pay ",
-    "[20:10] <TulagrandBot> >Try @ping to get your ping ",
-    "[20:11] <botchaosonix> dang ",
-    "[20:11] <ilovecatsvr57364> owner can u make it rain? ",
-    "[20:11] [8b8t] >> You have killed yourself!",
     "[20:11] [OWNER✔] <SrGokuto> ilovecatsvr57364 why ",
     "[20:11] JTF3 has reached the goal [Sky's the Limit]",
     "[20:11] <ilovecatsvr57364> uhhhhhh ",
@@ -101,7 +94,14 @@
     "[20:11] [8b8t] >> Teleporting...",
     "[20:11] <botchaosonix> TY ",
     "[20:11] <TulagrandBot> >How are you Tomislav_Seselj? ",
-    "[20:11] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
+    "[20:11] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[20:11] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:11] [8b8t] >> You have killed yourself!",
+    "[20:12] <.ZeusPro2972> !kit survival ",
+    "[20:12] [8b8t] >> Teleporting to home 0...",
+    "[20:12] [8b8t] >> Teleporting to home 1...",
+    "[20:12] To .ZeusPro2972: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:12] To .ZeusPro2972: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3695,11 +3695,12 @@
     ".TempBead7252257": 3,
     "craztyn": 2,
     "Gato77": 1,
-    "SHTHR0": 6
+    "SHTHR0": 6,
+    ".ZeusPro2972": 1
   },
   "kitStats": {
     "build": 1913,
-    "survival": 7116,
+    "survival": 7117,
     "pvp": 9263,
     "dupe": 2573,
     "tools": 2097,
