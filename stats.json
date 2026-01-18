@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:01:40 18/1/2026",
+  "lastUpdated": "11:02:10 18/1/2026",
   "totalKits": 89848,
   "todayKits": 75,
   "onlineCount": 42,
   "peakPlayers": 47,
-  "tps": "1.0",
+  "tps": "5.0",
   "ping": 205,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 6974
+      "count": 6975
     },
     {
       "name": "dupe",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:00] <Srt8Jadonn> !kit stash ",
-    "[04:00] To Srt8Jadonn: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:00] <NeitherRecord44> im 17000 blocks from spawn wait ",
-    "[04:00] <flashebas77> ok ",
-    "[04:00] [8b8t] >> You have killed yourself!",
-    "[04:00] [8b8t] >> No TPA request found",
-    "[04:00] <Srt8Jadonn> !kit stash ",
-    "[04:00] To Srt8Jadonn: You're on cooldown, try again in 54 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:00] [BOT] <0_HienBot> >Hi flashebas77! ",
-    "[04:00] <benja_ssj2> !kit survival ",
-    "[04:00] [8b8t] >> Teleporting to home 0...",
-    "[04:00] <creeperawman120> !kit nether ",
-    "[04:00] To creeperawman120: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:00] [8b8t] >> Teleporting to home 1...",
-    "[04:00] To benja_ssj2: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:00] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
     "[04:01] To benja_ssj2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:01] [8b8t] >> Request sent to benja_ssj2",
@@ -101,7 +86,22 @@
     "[04:01] <yra112> ??????????? ",
     "[04:01] [BOT] <0_HienBot> >Try !кιт survival ",
     "[04:01] <evlszz> my bad ",
-    "[04:01] <evlszz> sry "
+    "[04:01] <evlszz> sry ",
+    "[04:01] <NeitherRecord44> bro ",
+    "[04:01] <.ValuedVase90284> !kit survival ",
+    "[04:01] [8b8t] >> Teleporting to home 0...",
+    "[04:01] [8b8t] >> Teleporting to home 1...",
+    "[04:01] To .ValuedVase90284: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:01] <MrPinkEye> !kit ",
+    "[04:01] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[04:01] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:01] To .ValuedVase90284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:01] [8b8t] >> Request sent to .ValuedVase90284",
+    "[04:01] [BOT] <0_HienBot> >Hi normalnaisman! ",
+    "[04:01] benja_ssj2 has completed the challenge [Cover Me in Debris]",
+    "[04:01] [8b8t] >> The TPA request you received from creeperawman120 has expired.",
+    "[04:02] <creeperawman120> !kit build ",
+    "[04:02] To creeperawman120: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3633,11 +3633,12 @@
     "Srt8Jadonn": 6,
     "ZPK_PVP": 2,
     "thomililili": 2,
-    "benja_ssj2": 1
+    "benja_ssj2": 1,
+    ".ValuedVase90284": 1
   },
   "kitStats": {
     "build": 1852,
-    "survival": 6974,
+    "survival": 6975,
     "pvp": 9127,
     "dupe": 2481,
     "tools": 2041,
