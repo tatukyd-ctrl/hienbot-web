@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:42:41 19/1/2026",
-  "totalKits": 90612,
-  "todayKits": 839,
-  "onlineCount": 39,
+  "lastUpdated": "04:43:09 19/1/2026",
+  "totalKits": 90613,
+  "todayKits": 840,
+  "onlineCount": 38,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 232,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1922
+      "count": 1923
     }
   ],
   "chatLog": [
-    "[21:39] To SPREENQ: Your kit (music) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:39] [8b8t] >> Teleporting to home 0...",
-    "[21:39] [8b8t] >> Teleporting to home 1...",
-    "[21:40] To SPREENQ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:40] [8b8t] >> Request sent to SPREENQ",
-    "[21:40] <TulagrandBot> >Try @ping to get your ping ",
-    "[21:40] [8b8t] >> Teleporting...",
-    "[21:40] [8b8t] >> You have killed yourself!",
     "[21:40] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[21:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[21:40] Power_OFF has made the advancement [We Need to Go Deeper]",
@@ -101,7 +93,15 @@
     "[21:41] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[21:42] steamingwmrnr has made the advancement [Monster Hunter]",
     "[21:42] <TulagrandBot> >Hi steamingwmrnr ",
-    "[21:42] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
+    "[21:42] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[21:42] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[21:42] <blememeformymist> @kit build ",
+    "[21:42] [8b8t] >> Teleporting to home 0...",
+    "[21:42] [8b8t] >> Home 2 was not found",
+    "[21:42] To blememeformymist: Seu kit (build) sera entregue em 30 segundos! Entre em dsc.gg/hienbot",
+    "[21:43] To blememeformymist: Digite \"/tpayes 0_HienBot\" em 35 segundos! Entre em dsc.gg/hienbot.",
+    "[21:43] [8b8t] >> Request sent to blememeformymist",
+    "[21:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3534,7 +3534,7 @@
     "LiflexMC": 15,
     "Pacov255": 2,
     "Zongalos": 1,
-    "blememeformymist": 54,
+    "blememeformymist": 55,
     "SensaiBro123": 2,
     "n0cap69": 2,
     "Benjita_12": 5,
@@ -3704,7 +3704,7 @@
     "steamingwmrnr": 1
   },
   "kitStats": {
-    "build": 1922,
+    "build": 1923,
     "survival": 7128,
     "pvp": 9277,
     "dupe": 2578,
