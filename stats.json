@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:03:40 18/1/2026",
+  "lastUpdated": "13:04:10 18/1/2026",
   "totalKits": 89918,
   "todayKits": 145,
   "onlineCount": 36,
   "peakPlayers": 47,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 211,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9138
+      "count": 9139
     },
     {
       "name": "survival",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2499
+      "count": 2500
     },
     {
       "name": "tools",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:01] To bobco_: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:01] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[06:01] <bobco_> !kit pvp ",
-    "[06:01] To bobco_: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:01] <RT_agarie143> 8b8t en decadencia ",
-    "[06:01] <MrPinkEye> !kit ",
-    "[06:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:01] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:01] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[06:02] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[06:02] <RT_agarie143> tremendo xd ",
-    "[06:02] <RT_agarie143> !kit ",
-    "[06:02] To RT_agarie143: Hello RT_agarie143!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[06:02] <bobco_> !kit pvp ",
     "[06:02] [8b8t] >> Teleporting to home 0...",
     "[06:02] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +88,20 @@
     "[06:03] <Proctin> !kit ",
     "[06:03] To Proctin: Hello Proctin!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[06:03] <bobco_> !kit dupe ",
-    "[06:03] To bobco_: You're on cooldown, try again in 17 seconds! Dont forget to join dsc.gg/hienbot"
+    "[06:03] To bobco_: You're on cooldown, try again in 17 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:03] <asd412txr5> v ",
+    "[06:03] <Sddjios298dej> !kit dupe ",
+    "[06:03] [8b8t] >> Teleporting to home 0...",
+    "[06:03] [8b8t] >> Teleporting to home 7...",
+    "[06:03] To Sddjios298dej: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:03] To Sddjios298dej: Sorry! Pink Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[06:03] [BOT] <0_HienBot> >Hi Zems! ",
+    "[06:04] <Sddjios298dej> !kit pvp ",
+    "[06:04] [8b8t] >> Teleporting to home 0...",
+    "[06:04] [8b8t] >> Teleporting to home 1...",
+    "[06:04] To Sddjios298dej: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:04] To Sddjios298dej: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:04] [8b8t] >> Request sent to Sddjios298dej"
   ],
   "userStats": {
     "76756": 38,
@@ -3643,13 +3643,14 @@
     "Sonic_Rewrite": 2,
     "94__kyng": 5,
     "asd412txr5": 5,
-    "bobco_": 9
+    "bobco_": 9,
+    "Sddjios298dej": 2
   },
   "kitStats": {
     "build": 1859,
     "survival": 6990,
-    "pvp": 9138,
-    "dupe": 2499,
+    "pvp": 9139,
+    "dupe": 2500,
     "tools": 2043,
     "stash": 1263,
     "raid": 1476,
