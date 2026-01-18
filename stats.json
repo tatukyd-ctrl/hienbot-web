@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:20:17 19/1/2026",
+  "lastUpdated": "04:20:41 19/1/2026",
   "totalKits": 90597,
   "todayKits": 824,
-  "onlineCount": 34,
+  "onlineCount": 35,
   "peakPlayers": 52,
-  "tps": "1.0",
-  "ping": 234,
+  "tps": "2.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9272
+      "count": 9273
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:19] To mastertoilet123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:19] [BOT] <DPS_Chatbridge> ><kingterrantheterrible> hello\\ ",
-    "[21:19] [8b8t] >> You have killed yourself!",
-    "[21:19] [8b8t] >> You have killed yourself!",
-    "[21:19] [8b8t] >> Player _aki is not online",
-    "[21:19] <TulagrandBot> >Try @tps to get server's tps ",
-    "[21:19] [8b8t] >> Teleporting to home 0...",
-    "[21:19] [8b8t] >> Teleporting to home 1...",
-    "[21:19] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[21:19] To _aki: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:19] <mastertoilet123> !kit pvp ",
     "[21:19] To mastertoilet123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[21:20] [8b8t] >> Teleporting...",
     "[21:20] <TulagrandBot> >Try @ping to get your ping ",
     "[21:20] <mastertoilet123> !kit pvp ",
-    "[21:20] To mastertoilet123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[21:20] To mastertoilet123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:20] <mastertoilet123> kits no free??' ",
+    "[21:20] [8b8t] >> You have killed yourself!",
+    "[21:20] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[21:20] <mastertoilet123> !kit pvp ",
+    "[21:20] [8b8t] >> Teleporting to home 0...",
+    "[21:20] [8b8t] >> Teleporting to home 1...",
+    "[21:20] To mastertoilet123: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:20] To mastertoilet123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:20] [8b8t] >> Request sent to mastertoilet123"
   ],
   "userStats": {
     "76756": 38,
@@ -3699,12 +3699,13 @@
     ".ZeusPro2972": 3,
     "LeakingHero": 1,
     "Stiven_ban": 3,
-    "EL_Super_Troll": 1
+    "EL_Super_Troll": 1,
+    "mastertoilet123": 1
   },
   "kitStats": {
     "build": 1918,
     "survival": 7124,
-    "pvp": 9272,
+    "pvp": 9273,
     "dupe": 2578,
     "tools": 2100,
     "stash": 1283,
