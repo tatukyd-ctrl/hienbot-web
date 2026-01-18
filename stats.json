@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:35:34 18/1/2026",
+  "lastUpdated": "21:35:40 18/1/2026",
   "totalKits": 90268,
   "todayKits": 495,
   "onlineCount": 41,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 250,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7050
+      "count": 7051
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:34] [8b8t] >> Teleporting to home 0...",
-    "[14:34] [8b8t] >> Home 2 was not found",
-    "[14:34] To _Lumora_: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:34] [BOT] <0_HienBot> >Type !discord ",
-    "[14:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:34] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:34] [8b8t] >> Request sent to _Lumora_",
     "[14:34] [8b8t] >> Teleporting...",
     "[14:34] <.Pichuckrak> !kit survival ",
@@ -101,7 +95,13 @@
     "[14:35] [8b8t] >> Request sent to cuccutbtdi",
     "[14:35] [8b8t] >> Teleporting...",
     "[14:35] <.Pichuckrak> !kit survival ",
-    "[14:35] To .Pichuckrak: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[14:35] To .Pichuckrak: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:35] <.Pichuckrak> !kit survival ",
+    "[14:35] To .Pichuckrak: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:35] [8b8t] >> You have killed yourself!",
+    "[14:35] <.Pichuckrak> !kit survival ",
+    "[14:35] [8b8t] >> Teleporting to home 0...",
+    "[14:35] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3208,7 +3208,7 @@
     "D3rlord3": 1,
     "JSUGIBHBJG": 22,
     ".Djnickgaming418": 16,
-    ".Pichuckrak": 71,
+    ".Pichuckrak": 72,
     "pepe69ff": 1,
     "Theoad92025": 3,
     "matiasbbya1234": 29,
@@ -3673,7 +3673,7 @@
   },
   "kitStats": {
     "build": 1874,
-    "survival": 7050,
+    "survival": 7051,
     "pvp": 9199,
     "dupe": 2551,
     "tools": 2079,
