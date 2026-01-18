@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:27:23 18/1/2026",
-  "totalKits": 90307,
-  "todayKits": 534,
-  "onlineCount": 40,
+  "lastUpdated": "22:27:40 18/1/2026",
+  "totalKits": 90308,
+  "todayKits": 535,
+  "onlineCount": 41,
   "peakPlayers": 50,
   "tps": "2.0",
   "ping": 242,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9208
+      "count": 9209
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:26] [8b8t] >> Teleporting...",
-    "[15:26] <0_HeinBott> uff ",
-    "[15:26] <LyoxYT> : !kit building ",
-    "[15:26] <TulagrandBot> >Hello, 0_HienBot ",
-    "[15:26] <xbabapiro> bWhat are the dupes for Botchaosonix? (I'd appreciate it if you wrote it in Turkish) ",
-    "[15:26] [BOT] <0_HienBot> >Hi Apohelius! ",
-    "[15:26] <crafteraris> !kitpvp ",
-    "[15:26] <xbabapiro> !kit pvp ",
-    "[15:26] [8b8t] >> Teleporting to home 0...",
-    "[15:26] <zelliy> tp to me ",
     "[15:26] [8b8t] >> Teleporting to home 1...",
     "[15:26] To xbabapiro: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:26] To xbabapiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +91,17 @@
     "[15:27] To AdustCloud3179: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:27] [8b8t] >> Request sent to AdustCloud3179",
     "[15:27] [8b8t] >> Teleporting...",
-    "[15:27] [BOT] <0_HienBot> >Hey .Pichuckrak! "
+    "[15:27] [BOT] <0_HienBot> >Hey .Pichuckrak! ",
+    "[15:27] <zelliy> tp to me ",
+    "[15:27] [8b8t] >> You have killed yourself!",
+    "[15:27] <crafteraris> !kit pvp ",
+    "[15:27] [8b8t] >> Teleporting to home 0...",
+    "[15:27] [8b8t] >> Teleporting to home 1...",
+    "[15:27] To crafteraris: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:27] <Sgamestream> ok better ",
+    "[15:27] To crafteraris: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:27] [8b8t] >> Request sent to crafteraris",
+    "[15:27] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3673,12 +3673,12 @@
     "Suchac2": 1,
     "xbabapiro": 7,
     "kncz": 1,
-    "crafteraris": 2
+    "crafteraris": 3
   },
   "kitStats": {
     "build": 1876,
     "survival": 7063,
-    "pvp": 9208,
+    "pvp": 9209,
     "dupe": 2554,
     "tools": 2083,
     "stash": 1275,
