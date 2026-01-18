@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:03:52 18/1/2026",
+  "lastUpdated": "20:04:10 18/1/2026",
   "totalKits": 90205,
   "todayKits": 432,
-  "onlineCount": 40,
+  "onlineCount": 42,
   "peakPlayers": 47,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 256,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9183
+      "count": 9184
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:02] [8b8t] >> You have killed yourself!",
-    "[13:02] <TulagrandBot> >Try @kit to get kit ",
-    "[13:02] Halvexx has reached the goal [Revaulting]",
-    "[13:02] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[13:02] [SE] <dragonkit> e ",
     "[13:02] <vasuhu63> !kit ",
     "[13:02] To vasuhu63: Hello vasuhu63!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[13:03] To vasuhu63: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:03] <Sgamestream> no wait ",
     "[13:03] [8b8t] >> Teleporting...",
-    "[13:03] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me "
+    "[13:03] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[13:03] [8b8t] >> You have killed yourself!",
+    "[13:04] <.LEON50758> kk benide dupele :) ",
+    "[13:04] <South___> !kit pvp ",
+    "[13:04] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -582,7 +582,7 @@
     "Regentmmc": 134,
     "bl3ss902Py": 2,
     "penitente_bd": 3,
-    "South___": 58,
+    "South___": 59,
     "TYPI": 68,
     "sleep2012XD": 1,
     "Meliodaspro4_DMC": 5,
@@ -3668,7 +3668,7 @@
   "kitStats": {
     "build": 1870,
     "survival": 7041,
-    "pvp": 9183,
+    "pvp": 9184,
     "dupe": 2546,
     "tools": 2072,
     "stash": 1273,
