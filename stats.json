@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:22:09 19/1/2026",
-  "totalKits": 90601,
-  "todayKits": 828,
-  "onlineCount": 34,
+  "lastUpdated": "04:22:26 19/1/2026",
+  "totalKits": 90602,
+  "todayKits": 829,
+  "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "5.0",
   "ping": 234,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7124
+      "count": 7125
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:21] [8b8t] >> Request sent to blememeformymist",
-    "[21:21] [8b8t] >> Teleporting...",
-    "[21:21] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[21:21] [8b8t] >> You have killed yourself!",
-    "[21:21] <mastertoilet123> !kit elytra ",
-    "[21:21] [8b8t] >> Teleporting to home 0...",
-    "[21:21] [8b8t] >> Teleporting to home 6...",
-    "[21:21] To mastertoilet123: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:21] EL_Super_Troll has reached the goal [Sky's the Limit]",
-    "[21:21] EL_Super_Troll has completed the challenge [Cover Me in Debris]",
-    "[21:21] To mastertoilet123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:21] [8b8t] >> Request sent to mastertoilet123",
     "[21:21] [8b8t] >> Teleporting...",
     "[21:21] <TulagrandBot> >This bot has been created by Felek btw. ",
@@ -101,7 +90,18 @@
     "[21:22] [8b8t] >> Teleporting...",
     "[21:22] <EnzoTryHard> !kit pvp ",
     "[21:22] To EnzoTryHard: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:22] EL_Super_Troll has made the advancement [Diamonds!]"
+    "[21:22] EL_Super_Troll has made the advancement [Diamonds!]",
+    "[21:22] Aheded has made the advancement [Getting an Upgrade]",
+    "[21:22] [8b8t] >> You have killed yourself!",
+    "[21:22] [BOT] <DPS_Chatbridge> ><solar0an> ",
+    "[21:22] <blememeformymist> @kit survival ",
+    "[21:22] [8b8t] >> Teleporting to home 0...",
+    "[21:22] [8b8t] >> Teleporting to home 1...",
+    "[21:22] To blememeformymist: Seu kit (survival) sera entregue em 30 segundos! Entre em dsc.gg/hienbot",
+    "[21:22] To blememeformymist: Digite \"/tpayes 0_HienBot\" em 35 segundos! Entre em dsc.gg/hienbot.",
+    "[21:22] [8b8t] >> Request sent to blememeformymist",
+    "[21:22] [8b8t] >> Teleporting...",
+    "[21:22] Chat disabled in client options"
   ],
   "userStats": {
     "76756": 38,
@@ -3534,7 +3534,7 @@
     "LiflexMC": 15,
     "Pacov255": 2,
     "Zongalos": 1,
-    "blememeformymist": 53,
+    "blememeformymist": 54,
     "SensaiBro123": 2,
     "n0cap69": 2,
     "Benjita_12": 5,
@@ -3704,7 +3704,7 @@
   },
   "kitStats": {
     "build": 1920,
-    "survival": 7124,
+    "survival": 7125,
     "pvp": 9273,
     "dupe": 2578,
     "tools": 2100,
