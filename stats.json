@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:35:13 18/1/2026",
+  "lastUpdated": "09:35:27 18/1/2026",
   "totalKits": 89767,
   "todayKits": 81,
-  "onlineCount": 43,
+  "onlineCount": 42,
   "peakPlayers": 51,
-  "tps": "3.0",
-  "ping": 208,
+  "tps": "2.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9109
+      "count": 9110
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:33] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[02:34] <.Eden_01655> PIDE UN KIT AL CLAN CERBERUS Y RECIVE A UNA CHICA MIEMBRO DE NUESTRO CLAN Y TE AYUDARA CON TUS NECESIDADES ",
-    "[02:34] <Quwim> y ",
-    "[02:34] <Barrerics_2011> !kit xp ",
-    "[02:34] <.Eden_01655> EL CLAN CERBERUS ES UN CLAN EN CRECIMIENTO QUE SOLO INTENTA AYUDAR A LOS NUEVOS SI ALGUIN TE MANDA TP Y NO ES UN MIEMBRO DE NUESTRO CLAN NO ACEPTES ",
     "[02:34] [8b8t] >> Teleporting to home 0...",
     "[02:34] [8b8t] >> Teleporting to home 5...",
     "[02:34] To Barrerics_2011: Your kit (xp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[02:35] To Galacticoast: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:35] [8b8t] >> Request sent to Galacticoast",
     "[02:35] <TulagrandBot> >Want kit? Try @kit ",
-    "[02:35] [8b8t] >> Teleporting..."
+    "[02:35] [8b8t] >> Teleporting...",
+    "[02:35] [8b8t] >> You have killed yourself!",
+    "[02:35] <noobmaster96> !kit pvp ",
+    "[02:35] [8b8t] >> Teleporting to home 0...",
+    "[02:35] [8b8t] >> Teleporting to home 1...",
+    "[02:35] To noobmaster96: Tu kit (pvp) se entregara en 30 segundos! Unete a dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1585,7 +1585,7 @@
     "Krosh_24": 1,
     "Derrick": 25,
     "RoshFeel": 7,
-    "noobmaster96": 34,
+    "noobmaster96": 35,
     "imnotoldmacbook": 17,
     "qaleeq": 20,
     "DesolatoR": 15,
@@ -3632,7 +3632,7 @@
   "kitStats": {
     "build": 1847,
     "survival": 6967,
-    "pvp": 9109,
+    "pvp": 9110,
     "dupe": 2471,
     "tools": 2039,
     "stash": 1255,
