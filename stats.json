@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:17:58 18/1/2026",
+  "lastUpdated": "20:18:10 18/1/2026",
   "totalKits": 90218,
   "todayKits": 445,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 48,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 234,
   "topUsers": [
     {
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1871
+      "count": 1872
     }
   ],
   "chatLog": [
-    "[13:17] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:17] <OmHackz> @kit pvp ",
-    "[13:17] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:17] [8b8t] >> Teleporting...",
-    "[13:17] <OmHackz> @kit pvp ",
-    "[13:17] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:17] <.LEON50758> ben bı koyun buluyim ",
     "[13:17] <OmHackz> @kit pvp ",
     "[13:17] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:17] <OmHackz> @kit pvp ",
@@ -101,7 +94,14 @@
     "[13:17] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:17] <_Lumora_> !kit armortrim ",
     "[13:17] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:17] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[13:17] To _Lumora_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:18] [8b8t] >> You have killed yourself!",
+    "[13:18] <_Lumora_> !kit armortrim ",
+    "[13:18] [8b8t] >> Teleporting to home 0...",
+    "[13:18] [8b8t] >> Home 2 was not found",
+    "[13:18] To _Lumora_: Kit \"armortrim\" not found! Giving you (build) instead! dsc.gg/hienbot",
+    "[13:18] To _Lumora_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:18] [8b8t] >> Request sent to _Lumora_"
   ],
   "userStats": {
     "76756": 38,
@@ -3429,7 +3429,7 @@
     "vmariofakegg": 2,
     "matitas292": 12,
     "TheRealDrDonut": 4,
-    "_Lumora_": 80,
+    "_Lumora_": 81,
     "REDSBLIN": 1,
     "Citadel": 2,
     "poopman2": 7,
@@ -3667,7 +3667,7 @@
     "vasuhu63": 1
   },
   "kitStats": {
-    "build": 1871,
+    "build": 1872,
     "survival": 7042,
     "pvp": 9187,
     "dupe": 2547,
