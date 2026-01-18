@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:29:10 18/1/2026",
-  "totalKits": 89971,
-  "todayKits": 198,
+  "lastUpdated": "14:29:33 18/1/2026",
+  "totalKits": 89972,
+  "todayKits": 199,
   "onlineCount": 27,
   "peakPlayers": 47,
-  "tps": "2.0",
-  "ping": 229,
+  "tps": "1.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7001
+      "count": 7002
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:24] [8b8t] >> Teleporting...",
-    "[07:24] [8b8t] >> You have killed yourself!",
-    "[07:24] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[07:25] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[07:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[07:25] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[07:26] <OmHackz> !kit Toolbox ",
-    "[07:26] [8b8t] >> Teleporting to home 0...",
-    "[07:26] [8b8t] >> Teleporting to home 4...",
-    "[07:26] To OmHackz: Your kit (Toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:26] To OmHackz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:26] [8b8t] >> Request sent to OmHackz",
     "[07:26] [8b8t] >> Teleporting...",
@@ -101,7 +91,17 @@
     "[07:28] To ManePear_fannn: Kit \"suvival\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
     "[07:28] To ManePear_fannn: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:28] [8b8t] >> Request sent to ManePear_fannn",
-    "[07:28] [BOT] <0_HienBot> >Use /kill to kill yourself! "
+    "[07:28] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[07:29] [8b8t] >> You have killed yourself!",
+    "[07:29] <WOOXERMC> !kit survival ",
+    "[07:29] [8b8t] >> The TPA request you sent to ManePear_fannn was successfully canceled.",
+    "[07:29] [8b8t] >> Teleporting to home 0...",
+    "[07:29] [8b8t] >> Teleporting to home 1...",
+    "[07:29] To WOOXERMC: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:29] To WOOXERMC: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:29] [8b8t] >> Request sent to WOOXERMC",
+    "[07:29] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[07:29] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3648,11 +3648,11 @@
     "Z1Dead": 3,
     "GokulUrGod": 1,
     "eIndomitable5511": 1,
-    "WOOXERMC": 2
+    "WOOXERMC": 3
   },
   "kitStats": {
     "build": 1864,
-    "survival": 7001,
+    "survival": 7002,
     "pvp": 9144,
     "dupe": 2509,
     "tools": 2044,
