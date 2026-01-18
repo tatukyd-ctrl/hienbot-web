@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:14:11 19/1/2026",
+  "lastUpdated": "04:14:41 19/1/2026",
   "totalKits": 90593,
   "todayKits": 820,
   "onlineCount": 32,
   "peakPlayers": 52,
-  "tps": "4.0",
-  "ping": 237,
+  "tps": "3.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9271
+      "count": 9272
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:12] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[21:12] <ilovecatsvr57364> !kit tools ",
-    "[21:12] [8b8t] >> Teleporting to home 0...",
-    "[21:12] [8b8t] >> Teleporting to home 7...",
-    "[21:12] To ilovecatsvr57364: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:12] <yiddhater586> !kit End ",
     "[21:12] To yiddhater586: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:12] To ilovecatsvr57364: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:12] [8b8t] >> Request sent to ilovecatsvr57364",
@@ -101,7 +95,13 @@
     "[21:13] [BOT] <0_HienBot> >Hello TNGB0T! ",
     "[21:13] <ilovecatsvr57364> !kits tools ",
     "[21:13] <TulagrandBot> >Try @tps to get server's tps ",
-    "[21:13] [8b8t] >> You have killed yourself!"
+    "[21:13] [8b8t] >> You have killed yourself!",
+    "[21:14] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[21:14] <TulagrandBot> >Try @ping to get your ping ",
+    "[21:14] <vcxvxxv> !kit PVP ",
+    "[21:14] [8b8t] >> Teleporting to home 0...",
+    "[21:14] [8b8t] >> Teleporting to home 1...",
+    "[21:14] To vcxvxxv: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3682,7 +3682,7 @@
     "DRAGUKS_YT": 1,
     "Blobenfoo": 6,
     "Merxiless": 1,
-    "vcxvxxv": 23,
+    "vcxvxxv": 24,
     "Vitin": 1,
     "Ayaz0101_pro": 4,
     "PTS_sant1x": 1,
@@ -3704,7 +3704,7 @@
   "kitStats": {
     "build": 1917,
     "survival": 7122,
-    "pvp": 9271,
+    "pvp": 9272,
     "dupe": 2578,
     "tools": 2100,
     "stash": 1283,
