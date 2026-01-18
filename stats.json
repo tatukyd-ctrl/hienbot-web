@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:57:40 19/1/2026",
-  "totalKits": 90414,
-  "todayKits": 641,
-  "onlineCount": 42,
+  "lastUpdated": "00:58:05 19/1/2026",
+  "totalKits": 90415,
+  "todayKits": 642,
+  "onlineCount": 41,
   "peakPlayers": 50,
-  "tps": "1.0",
+  "tps": "4.0",
   "ping": 260,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7088
+      "count": 7089
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:56] [Ultra] <HTP1P0> -kit pvp ",
-    "[17:56] [8b8t] >> Teleporting to home 0...",
-    "[17:56] [8b8t] >> Teleporting to home 1...",
-    "[17:56] To htp1p0: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:56] <MinephaMC_YT_ALT> >BYE :D ",
-    "[17:56] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[17:56] To htp1p0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:56] [8b8t] >> Request sent to htp1p0",
-    "[17:56] <TulagrandBot> >Try @list to get list of players ",
-    "[17:56] <MinephaMC_YT_ALT> >How about NO! @0_HienBot ",
-    "[17:56] Proynsysf has made the advancement [Ice Bucket Challenge]",
-    "[17:56] <waximo> >HI :) ",
-    "[17:56] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[17:56] <GAVI345213> !kit dupe ",
     "[17:56] <MinephaMC_YT_ALT> >BYE :D ",
     "[17:56] To GAVI345213: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +88,20 @@
     "[17:57] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[17:57] <peacebringer12> no ",
     "[17:57] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[17:57] <MinephaMC_YT_ALT> -_- "
+    "[17:57] <MinephaMC_YT_ALT> -_- ",
+    "[17:57] <MinephaMC_YT_ALT> !kit survival ",
+    "[17:57] [8b8t] >> Teleporting to home 0...",
+    "[17:57] [8b8t] >> Teleporting to home 1...",
+    "[17:57] To MinephaMC_YT_ALT: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:57] <waximo> >usa -kit para pedir un kit ",
+    "[17:57] To MinephaMC_YT_ALT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:57] <Cristiann_8> !kit dye ",
+    "[17:57] To Cristiann_8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:57] [BOT] <0_HienBot> >Welcome to 8b8t, Kurtz! ",
+    "[17:57] [8b8t] >> Request sent to MinephaMC_YT_ALT",
+    "[17:58] <Cristiann_8> !kit dye ",
+    "[17:58] To Cristiann_8: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -1562,7 +1562,7 @@
     "0_HienBot": 2,
     "mikanMC": 20,
     "TrayNeh": 10,
-    "MinephaMC_YT_ALT": 26,
+    "MinephaMC_YT_ALT": 27,
     "pannss": 8,
     "Manitololo": 1,
     "versaexe": 3,
@@ -3685,7 +3685,7 @@
   },
   "kitStats": {
     "build": 1890,
-    "survival": 7088,
+    "survival": 7089,
     "pvp": 9233,
     "dupe": 2565,
     "tools": 2088,
