@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:29:10 18/1/2026",
-  "totalKits": 90107,
-  "todayKits": 334,
-  "onlineCount": 22,
+  "lastUpdated": "17:29:39 18/1/2026",
+  "totalKits": 90108,
+  "todayKits": 335,
+  "onlineCount": 23,
   "peakPlayers": 47,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 231,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7024
+      "count": 7025
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:27] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[10:27] <unknown_2121_> !lang en ",
-    "[10:27] To unknown_2121_: Language set to English! | dsc.gg/hienbot",
-    "[10:28] <.LEON50758> sa ",
-    "[10:28] <unknown_2121_> !kit armortrim ",
-    "[10:28] [8b8t] >> Teleporting to home 0...",
-    "[10:28] [8b8t] >> Teleporting to home 6...",
-    "[10:28] To unknown_2121_: Kit \"armortrim\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
-    "[10:28] <xbabapiro> as ",
-    "[10:28] To unknown_2121_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:28] <TulagrandBot> >Try /nc to change your nick color ",
-    "[10:28] [8b8t] >> Request sent to unknown_2121_",
     "[10:28] [BOT] <0_HienBot> >Welcome to 8b8t, NgocHoangVN! ",
     "[10:28] <.LEON50758> nerdeejn ",
     "[10:28] <unknown_2121_> !kit armortrims ",
@@ -101,7 +89,19 @@
     "[10:28] To unknown_2121_: Hello unknown_2121_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[10:29] <unknown_2121_> !kit armortrims ",
     "[10:29] To unknown_2121_: You're on cooldown, try again in 45 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:29] <NgocHoangVN> !kit "
+    "[10:29] <NgocHoangVN> !kit ",
+    "[10:29] To NgocHoangVN: Hello NgocHoangVN!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:29] <NgocHoangVN> !kit survival ",
+    "[10:29] [8b8t] >> Teleporting to home 0...",
+    "[10:29] [8b8t] >> Teleporting to home 1...",
+    "[10:29] To NgocHoangVN: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:29] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[10:29] To NgocHoangVN: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:29] [8b8t] >> Request sent to NgocHoangVN",
+    "[10:29] <ALBARAA211> ho at spown ",
+    "[10:29] [8b8t] >> Teleporting...",
+    "[10:29] Angel542XD has made the advancement [Stone Age]",
+    "[10:29] <TulagrandBot> >Want kit? Try @kit "
   ],
   "userStats": {
     "76756": 38,
@@ -3655,11 +3655,11 @@
     "ForPainOrGlory": 2,
     "_lliam": 2,
     "erenpasaoffical": 2,
-    "NgocHoangVN": 1
+    "NgocHoangVN": 2
   },
   "kitStats": {
     "build": 1867,
-    "survival": 7024,
+    "survival": 7025,
     "pvp": 9168,
     "dupe": 2535,
     "tools": 2060,
