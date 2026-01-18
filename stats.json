@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:39:11 19/1/2026",
+  "lastUpdated": "04:39:41 19/1/2026",
   "totalKits": 90611,
   "todayKits": 838,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 240,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9276
+      "count": 9277
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:37] [8b8t] >> Please do not spam.",
-    "[21:37] [8b8t] >> You have killed yourself!",
-    "[21:37] <mgzinbr9299> whats the server seed ",
-    "[21:37] <SPREENQ> !kit musi ",
-    "[21:37] [8b8t] >> Teleporting to home 0...",
-    "[21:37] [8b8t] >> Home 2 was not found",
     "[21:37] To SPREENQ: Kit \"musi\" not found! Giving you (build) instead! dsc.gg/hienbot",
     "[21:38] To SPREENQ: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:38] [8b8t] >> Request sent to SPREENQ",
@@ -101,7 +95,13 @@
     "[21:38] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[21:38] [8b8t] >> Teleporting...",
     "[21:38] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[21:39] [8b8t] >> You have killed yourself!"
+    "[21:39] [8b8t] >> You have killed yourself!",
+    "[21:39] [BOT] <0_HienBot> >Hi Rucosas! ",
+    "[21:39] <TulagrandBot> >Try /kill to kill yourself ",
+    "[21:39] <.yuu18m> !kit pvp ",
+    "[21:39] [8b8t] >> Teleporting to home 0...",
+    "[21:39] [8b8t] >> Teleporting to home 1...",
+    "[21:39] To .yuu18m: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2458,7 +2458,7 @@
     "PlayStation_ALT": 2,
     "HARLIX1354": 5,
     "Fiki64": 5,
-    ".yuu18m": 144,
+    ".yuu18m": 145,
     "Unknown_Addy": 6,
     "fwgehr": 1,
     "isamasi7": 1,
@@ -3705,7 +3705,7 @@
   "kitStats": {
     "build": 1922,
     "survival": 7128,
-    "pvp": 9276,
+    "pvp": 9277,
     "dupe": 2578,
     "tools": 2100,
     "stash": 1284,
