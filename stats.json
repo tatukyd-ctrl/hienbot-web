@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:37:21 19/1/2026",
+  "lastUpdated": "03:37:41 19/1/2026",
   "totalKits": 90566,
   "todayKits": 793,
   "onlineCount": 37,
@@ -68,20 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1915
+      "count": 1916
     }
   ],
   "chatLog": [
-    "[20:35] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[20:35] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[20:35] <usNexu> !kit survival ",
-    "[20:35] [8b8t] >> Teleporting to home 0...",
-    "[20:35] [8b8t] >> Teleporting to home 1...",
-    "[20:35] To usNexu: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[20:35] To usNexu: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:35] [8b8t] >> Request sent to usNexu",
-    "[20:36] <LeakingHero> -1397 320 -1451 ",
     "[20:36] [8b8t] >> Teleporting...",
     "[20:36] <TulagrandBot> >Try @list to get list of players ",
     "[20:36] [8b8t] >> You have killed yourself!",
@@ -101,7 +91,17 @@
     "[20:37] To usNexu: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:37] [8b8t] >> Request sent to usNexu",
     "[20:37] [8b8t] >> Teleporting...",
-    "[20:37] TulagrandBot Whispers: Best kits ---> Join TULAGRANDE - discord.gg/XWBkeQGNpt"
+    "[20:37] TulagrandBot Whispers: Best kits ---> Join TULAGRANDE - discord.gg/XWBkeQGNpt",
+    "[20:37] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[20:37] [8b8t] >> You have killed yourself!",
+    "[20:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[20:37] <TulagrandBot> > TULAGRANDE 1.6! ",
+    "[20:37] <blememeformymist> @kit build ",
+    "[20:37] [8b8t] >> Teleporting to home 0...",
+    "[20:37] [8b8t] >> Home 2 was not found",
+    "[20:37] To blememeformymist: Seu kit (build) sera entregue em 30 segundos! Entre em dsc.gg/hienbot",
+    "[20:37] To blememeformymist: Digite \"/tpayes 0_HienBot\" em 35 segundos! Entre em dsc.gg/hienbot.",
+    "[20:37] [8b8t] >> Request sent to blememeformymist"
   ],
   "userStats": {
     "76756": 38,
@@ -3534,7 +3534,7 @@
     "LiflexMC": 15,
     "Pacov255": 2,
     "Zongalos": 1,
-    "blememeformymist": 50,
+    "blememeformymist": 51,
     "SensaiBro123": 2,
     "n0cap69": 2,
     "Benjita_12": 5,
@@ -3700,7 +3700,7 @@
     "LeakingHero": 1
   },
   "kitStats": {
-    "build": 1915,
+    "build": 1916,
     "survival": 7120,
     "pvp": 9267,
     "dupe": 2576,
