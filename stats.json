@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:09:52 18/1/2026",
+  "lastUpdated": "15:10:10 18/1/2026",
   "totalKits": 90005,
   "todayKits": 232,
-  "onlineCount": 24,
+  "onlineCount": 25,
   "peakPlayers": 47,
-  "tps": "3.0",
-  "ping": 282,
+  "tps": "5.0",
+  "ping": 230,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2045
+      "count": 2046
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:08] To OmHackz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:08] [8b8t] >> Request sent to OmHackz",
-    "[08:09] [8b8t] >> Teleporting...",
-    "[08:09] <LarryCaberga> hello bros ",
-    "[08:09] <rolito> !kit pvp ",
-    "[08:09] To rolito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:09] [8b8t] >> You have killed yourself!",
-    "[08:09] <rolito> kit! ",
-    "[08:09] <rolito> !kit ",
     "[08:09] To rolito: Hello rolito!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[08:09] <HahaGirlYs> can any1 tpa me pls ",
     "[08:09] <OmHackz> !kit ",
@@ -101,7 +92,16 @@
     "[08:09] [8b8t] >> Teleporting...",
     "[08:09] <FastForward> !kit mace ",
     "[08:09] To FastForward: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:09] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[08:09] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[08:09] [8b8t] >> You have killed yourself!",
+    "[08:09] <FastForward> !kit mace ",
+    "[08:09] [8b8t] >> Teleporting to home 0...",
+    "[08:09] [8b8t] >> Teleporting to home 7...",
+    "[08:09] To FastForward: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:10] To FastForward: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:10] [8b8t] >> Request sent to FastForward",
+    "[08:10] <OmHackz> !kit mace ",
+    "[08:10] To OmHackz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3092,7 +3092,7 @@
     "EvenGrail": 4,
     "Cats_AreCool1": 1,
     "zAarex": 1,
-    "FastForward": 26,
+    "FastForward": 27,
     "roley123": 2,
     "pornohub2025": 1,
     "0_H1enBot": 7,
@@ -3655,7 +3655,7 @@
     "survival": 7006,
     "pvp": 9149,
     "dupe": 2516,
-    "tools": 2045,
+    "tools": 2046,
     "stash": 1269,
     "raid": 1480,
     "wood": 587,
