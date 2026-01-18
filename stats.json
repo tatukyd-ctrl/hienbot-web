@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:26:10 18/1/2026",
+  "lastUpdated": "10:26:40 18/1/2026",
   "totalKits": 89815,
   "todayKits": 42,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 45,
-  "tps": "1.0",
-  "ping": 219,
+  "tps": "4.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9122
+      "count": 9123
     },
     {
       "name": "survival",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2477
+      "count": 2478
     },
     {
       "name": "tools",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:25] .I_am_myster1on has reached the goal [Sky's the Limit]",
-    "[03:25] <creeperawman120> !kit raid ",
-    "[03:25] [8b8t] >> Teleporting to home 0...",
-    "[03:25] [8b8t] >> Home 2 was not found",
-    "[03:25] To creeperawman120: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:25] To creeperawman120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:25] [8b8t] >> Request sent to creeperawman120",
-    "[03:25] [BOT] <0_HienBot> >What's up, NeitherRecord44? ",
-    "[03:25] <Srt8Jadonn> !kitpvp ",
-    "[03:25] [8b8t] >> Teleporting...",
-    "[03:25] <TulagrandBot> >Try @tps to get server's tps ",
-    "[03:25] <ZPK_PVP> $kit ",
-    "[03:25] To ZPK_PVP: Hello ZPK_PVP!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[03:25] [8b8t] >> You have killed yourself!",
-    "[03:25] <Sxbz23> !kit dupe ",
     "[03:25] [8b8t] >> Teleporting to home 0...",
     "[03:25] [8b8t] >> Teleporting to home 7...",
     "[03:25] <Srt8Jadonn> ! kit pvp ",
@@ -101,7 +86,22 @@
     "[03:25] [8b8t] >> Request sent to Srt8Jadonn",
     "[03:25] [BOT] <0_HienBot> >Hey MonkeBot! ",
     "[03:26] [8b8t] >> Teleporting...",
-    "[03:26] [8b8t] >> You have killed yourself!"
+    "[03:26] [8b8t] >> You have killed yourself!",
+    "[03:26] <Sxbz23> !kir dupe ",
+    "[03:26] <NeitherRecord44> !kit dupe ",
+    "[03:26] [8b8t] >> Teleporting to home 0...",
+    "[03:26] [8b8t] >> Teleporting to home 7...",
+    "[03:26] To NeitherRecord44: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:26] To NeitherRecord44: Sorry! Pink Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[03:26] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[03:26] Srt8Jadonn has completed the challenge [Cover Me in Debris]",
+    "[03:26] Srt8Jadonn has reached the goal [Sky's the Limit]",
+    "[03:26] <flashebas77> !bestping ",
+    "[03:26] To flashebas77: Leee con 19 ms. No olvides unirte a dsc.gg/hienbot",
+    "[03:26] <NeitherRecord44> !kit pvp ",
+    "[03:26] [8b8t] >> Teleporting to home 0...",
+    "[03:26] [8b8t] >> Teleporting to home 1...",
+    "[03:26] To NeitherRecord44: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3457,7 +3457,7 @@
     "CommonHat": 1,
     "soyparty": 1,
     "dronestr1ke": 4,
-    "NeitherRecord44": 7,
+    "NeitherRecord44": 9,
     "ZetrionZ": 4,
     "mtiasd10": 12,
     "IloveYouHarlieee": 1,
@@ -3635,8 +3635,8 @@
   "kitStats": {
     "build": 1851,
     "survival": 6968,
-    "pvp": 9122,
-    "dupe": 2477,
+    "pvp": 9123,
+    "dupe": 2478,
     "tools": 2039,
     "stash": 1257,
     "raid": 1467,
