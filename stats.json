@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:51:11 19/1/2026",
-  "totalKits": 90649,
-  "todayKits": 876,
+  "lastUpdated": "05:51:32 19/1/2026",
+  "totalKits": 90650,
+  "todayKits": 877,
   "onlineCount": 38,
   "peakPlayers": 52,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 238,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9285
+      "count": 9286
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:49] To NeitherRecord44: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:49] [8b8t] >> Request sent to NeitherRecord44",
-    "[22:49] [8b8t] >> Teleporting...",
-    "[22:49] [8b8t] >> You have killed yourself!",
-    "[22:49] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[22:49] <MattyBot> !kit concrete ",
-    "[22:49] [8b8t] >> Teleporting to home 0...",
-    "[22:49] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[22:49] [8b8t] >> Teleporting to home 3...",
-    "[22:49] To MattyBot: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:49] To MattyBot: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:49] [8b8t] >> Request sent to MattyBot",
     "[22:49] <MortemMetallum> I'm a spy bot ",
     "[22:49] [8b8t] >> Teleporting...",
@@ -101,7 +90,18 @@
     "[22:50] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[22:50] <Saturnssx> @kits ",
     "[22:51] <cooperx14> help ",
-    "[22:51] <TulagrandBot> >Try @seed to get 8b8t's seed "
+    "[22:51] <TulagrandBot> >Try @seed to get 8b8t's seed ",
+    "[22:51] <cooperx14> @kits ",
+    "[22:51] <cooperx14> @kit pvp ",
+    "[22:51] [8b8t] >> Teleporting to home 0...",
+    "[22:51] [8b8t] >> Teleporting to home 1...",
+    "[22:51] To cooperx14: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:51] [8b8t] >> Please do not spam.",
+    "[22:51] To cooperx14: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:51] [8b8t] >> Request sent to cooperx14",
+    "[22:51] <DanFMV> !kit ",
+    "[22:51] [8b8t] >> Teleporting...",
+    "[22:51] To DanFMV: Hello DanFMV!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3704,12 +3704,13 @@
     "steamingwmrnr": 1,
     "BJLD": 2,
     "nnagi_789": 9,
-    "panwhatsapp12": 1
+    "panwhatsapp12": 1,
+    "cooperx14": 1
   },
   "kitStats": {
     "build": 1931,
     "survival": 7132,
-    "pvp": 9285,
+    "pvp": 9286,
     "dupe": 2582,
     "tools": 2102,
     "stash": 1285,
