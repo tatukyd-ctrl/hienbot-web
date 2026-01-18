@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:29:10 19/1/2026",
+  "lastUpdated": "02:29:40 19/1/2026",
   "totalKits": 90503,
   "todayKits": 730,
   "onlineCount": 47,
   "peakPlayers": 51,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 235,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9246
+      "count": 9247
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:27] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[19:27] <.TempBead7252257> !kit tools ",
-    "[19:27] <0_HeinBott> !kit redstone ",
-    "[19:27] [8b8t] >> Teleporting to home 0...",
-    "[19:27] To 0_HeinBott: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:27] [8b8t] >> Teleporting to home 7...",
-    "[19:27] To .TempBead7252257: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:27] To .TempBead7252257: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:28] [8b8t] >> You already have a pending request",
-    "[19:28] _Megaa has completed the challenge [Subspace Bubble]",
-    "[19:28] <dangv2> !Kit pvp ",
-    "[19:28] To dangv2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:28] <TulagrandBot> > TULAGRANDE 1.6! ",
     "[19:28] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[19:28] <0_HeinBott> !kut redstone ",
@@ -101,7 +89,19 @@
     "[19:28] To astolfothekitten: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:28] [8b8t] >> Request sent to astolfothekitten",
     "[19:28] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[19:29] <TulagrandBot> >Hola ManePear_fannn "
+    "[19:29] <TulagrandBot> >Hola ManePear_fannn ",
+    "[19:29] [8b8t] >> You have killed yourself!",
+    "[19:29] [8b8t] >> The TPA request you sent to astolfothekitten was successfully canceled.",
+    "[19:29] [BOT] <0_HienBot> >Welcome to 8b8t, TNGB0T! ",
+    "[19:29] <TulagrandBot> >Try /kill to kill yourself ",
+    "[19:29] <MaxFK166> !kit ",
+    "[19:29] <dangv2> !kit pvp ",
+    "[19:29] [8b8t] >> Teleporting to home 0...",
+    "[19:29] MaxFK166 is ignoring you",
+    "[19:29] [8b8t] >> Teleporting to home 1...",
+    "[19:29] To dangv2: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:29] To dangv2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:29] [8b8t] >> Request sent to dangv2"
   ],
   "userStats": {
     "76756": 38,
@@ -3691,13 +3691,13 @@
     "Smiley_XDDD": 1,
     "DR_Dunott": 4,
     "pig_the_cool": 1,
-    "dangv2": 4,
+    "dangv2": 5,
     ".TempBead7252257": 3
   },
   "kitStats": {
     "build": 1906,
     "survival": 7110,
-    "pvp": 9246,
+    "pvp": 9247,
     "dupe": 2568,
     "tools": 2095,
     "stash": 1279,
