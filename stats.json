@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:56:40 18/1/2026",
+  "lastUpdated": "09:57:10 18/1/2026",
   "totalKits": 89788,
   "todayKits": 15,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 45,
-  "tps": "5.0",
-  "ping": 201,
+  "tps": "7.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9116
+      "count": 9117
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:55] To Barrerics_2011: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:55] <noobmaster96> w ",
-    "[02:55] To SpectralCodex: Hello SpectralCodex!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:55] [8b8t] >> Request sent to Barrerics_2011",
-    "[02:55] <BdubH2015> @kit build2 ",
-    "[02:55] To BdubH2015: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:55] <Barrerics_2011> @kit build2 ",
-    "[02:55] To Barrerics_2011: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:55] <SpectralCodex> !kit Elytra ",
-    "[02:55] To SpectralCodex: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:55] <SpectralCodex> !kit Elytra ",
-    "[02:55] To SpectralCodex: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[02:55] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[02:55] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[02:55] <Barrerics_2011> @kit build2 ",
     "[02:55] To Barrerics_2011: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:55] <SpectralCodex> !kit pvp ",
@@ -101,7 +87,21 @@
     "[02:56] <flashebas77> hola ",
     "[02:56] <.yuu18m> berrerics, cerberus is not here ",
     "[02:56] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[02:56] <SpectralCodex> Alguien regala kits? "
+    "[02:56] <SpectralCodex> Alguien regala kits? ",
+    "[02:56] <flashebas77> usa !kit ",
+    "[02:56] <TulagrandBot> >Try @kit to get kit ",
+    "[02:56] <MrPinkEye> !kit ",
+    "[02:56] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:56] <flashebas77> y mira todos los kits que hay ",
+    "[02:56] <SpectralCodex> No me da nada ",
+    "[02:56] <flashebas77> te recomiendo el !kit pvp ",
+    "[02:56] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[02:57] <SpectralCodex> !kit pvp ",
+    "[02:57] [8b8t] >> Teleporting to home 0...",
+    "[02:57] [8b8t] >> Teleporting to home 1...",
+    "[02:57] To SpectralCodex: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:57] To SpectralCodex: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:57] [8b8t] >> Request sent to SpectralCodex"
   ],
   "userStats": {
     "76756": 38,
@@ -3628,12 +3628,13 @@
     "Senseixd45": 2,
     "Heis3nborg": 2,
     "Barrerics_2011": 7,
-    "Blindo24": 1
+    "Blindo24": 1,
+    "SpectralCodex": 1
   },
   "kitStats": {
     "build": 1848,
     "survival": 6968,
-    "pvp": 9116,
+    "pvp": 9117,
     "dupe": 2471,
     "tools": 2039,
     "stash": 1256,
