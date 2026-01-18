@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:23:10 18/1/2026",
-  "totalKits": 89869,
-  "todayKits": 96,
+  "lastUpdated": "11:23:40 18/1/2026",
+  "totalKits": 89870,
+  "todayKits": 97,
   "onlineCount": 43,
   "peakPlayers": 47,
-  "tps": "2.0",
-  "ping": 203,
+  "tps": "4.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9129
+      "count": 9130
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:21] <MrPinkEye> !kit ",
-    "[04:21] To MrPinkEye: Hello MrPinkEye!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:21] <martince22> !kit ",
-    "[04:21] To martince22: Hello martince22!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:21] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[04:22] <martince22> !kit survival ",
-    "[04:22] [8b8t] >> Teleporting to home 0...",
-    "[04:22] [8b8t] >> Teleporting to home 1...",
-    "[04:22] To martince22: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:22] To martince22: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:22] [8b8t] >> Request sent to martince22",
     "[04:22] <BdubH2015> !kit obsidian ",
     "[04:22] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[04:22] To BdubH2015: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[04:22] [8b8t] >> Request sent to BdubH2015",
     "[04:22] [8b8t] >> Teleporting...",
     "[04:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:22] [BOT] <0_HienBot> >Hello MrPinkEye! "
+    "[04:22] [BOT] <0_HienBot> >Hello MrPinkEye! ",
+    "[04:23] <martince22> !kit ",
+    "[04:23] To martince22: Hello martince22!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:23] <martince22> !kit pvp ",
+    "[04:23] [8b8t] >> Teleporting to home 0...",
+    "[04:23] [8b8t] >> Teleporting to home 1...",
+    "[04:23] To martince22: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:23] [BOT] <0_HienBot> >Hey Fred! ",
+    "[04:23] To martince22: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:23] [8b8t] >> Request sent to martince22",
+    "[04:23] <Kerto87> quien me manda tp? no soy grifer ",
+    "[04:23] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3636,12 +3636,12 @@
     "benja_ssj2": 7,
     ".ValuedVase90284": 1,
     "KinetikSk8er57": 1,
-    "martince22": 1
+    "martince22": 2
   },
   "kitStats": {
     "build": 1857,
     "survival": 6978,
-    "pvp": 9129,
+    "pvp": 9130,
     "dupe": 2483,
     "tools": 2041,
     "stash": 1261,
