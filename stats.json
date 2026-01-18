@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:50:34 18/1/2026",
+  "lastUpdated": "23:50:40 18/1/2026",
   "totalKits": 90349,
   "todayKits": 576,
   "onlineCount": 47,
   "peakPlayers": 50,
-  "tps": "5.0",
+  "tps": "7.0",
   "ping": 233,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9216
+      "count": 9217
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:48] <botchaosonix> lag ",
-    "[16:48] [BOT] <0_HienBot> >Type !discord ",
-    "[16:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:48] <botchaosonix> fuck nga lag ",
     "[16:48] <Sgamestream> im talking forever it not gonna uncrah the server ",
     "[16:49] JoniXx28 has made the advancement [Withering Heights]",
     "[16:49] <TulagrandBot> > TULAGRANDE 1.6! ",
@@ -101,7 +97,11 @@
     "[16:50] To JoniXx28: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:50] [8b8t] >> Request sent to JoniXx28",
     "[16:50] [8b8t] >> Teleporting...",
-    "[16:50] <flashebas77> ? "
+    "[16:50] <flashebas77> ? ",
+    "[16:50] [8b8t] >> You have killed yourself!",
+    "[16:50] <flashebas77> !kit totem ",
+    "[16:50] [8b8t] >> Teleporting to home 0...",
+    "[16:50] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3555,7 +3555,7 @@
     "Mixrq": 4,
     "DrDonutt.": 21,
     "Nyxion49": 6,
-    "flashebas77": 14,
+    "flashebas77": 15,
     "ickkck786": 2,
     "ROMANJAVA": 51,
     "Toomani": 1,
@@ -3683,7 +3683,7 @@
   "kitStats": {
     "build": 1887,
     "survival": 7075,
-    "pvp": 9216,
+    "pvp": 9217,
     "dupe": 2555,
     "tools": 2087,
     "stash": 1276,
