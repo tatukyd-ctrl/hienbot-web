@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:56:47 19/1/2026",
+  "lastUpdated": "02:57:10 19/1/2026",
   "totalKits": 90522,
   "todayKits": 749,
   "onlineCount": 43,
   "peakPlayers": 52,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 239,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7113
+      "count": 7114
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:55] <ilovecatsvr57364> !kits iwdi ",
-    "[19:55] <BdubH2015> in kit tools ",
-    "[19:55] <Wemmbu_fannn> yea ",
-    "[19:55] <ilovecatsvr57364> ok ",
-    "[19:55] <ilovecatsvr57364> !kit tools ",
-    "[19:55] [8b8t] >> Teleporting to home 0...",
-    "[19:55] [8b8t] >> Teleporting to home 7...",
-    "[19:55] To ilovecatsvr57364: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:55] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[19:55] To ilovecatsvr57364: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:55] [8b8t] >> Request sent to ilovecatsvr57364",
     "[19:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +92,16 @@
     "[19:56] To vcxvxxv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:56] [8b8t] >> Request sent to vcxvxxv",
     "[19:56] [8b8t] >> Teleporting...",
-    "[19:56] <ilovecatsvr57364> elytra mace !!!!!!!!!!!!!!!!!! "
+    "[19:56] <ilovecatsvr57364> elytra mace !!!!!!!!!!!!!!!!!! ",
+    "[19:56] [8b8t] >> You have killed yourself!",
+    "[19:56] <SHTHR0> !kit ",
+    "[19:56] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[19:56] To SHTHR0: Hello SHTHR0!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[19:56] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[19:57] <SHTHR0> !kit survival ",
+    "[19:57] [8b8t] >> Teleporting to home 0...",
+    "[19:57] [8b8t] >> Teleporting to home 1...",
+    "[19:57] To SHTHR0: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3694,11 +3694,12 @@
     "dangv2": 6,
     ".TempBead7252257": 3,
     "craztyn": 2,
-    "Gato77": 1
+    "Gato77": 1,
+    "SHTHR0": 1
   },
   "kitStats": {
     "build": 1910,
-    "survival": 7113,
+    "survival": 7114,
     "pvp": 9252,
     "dupe": 2573,
     "tools": 2096,
