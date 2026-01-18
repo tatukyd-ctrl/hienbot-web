@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:51:34 19/1/2026",
+  "lastUpdated": "02:51:40 19/1/2026",
   "totalKits": 90518,
   "todayKits": 745,
   "onlineCount": 44,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 245,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7112
+      "count": 7113
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:50] [BOT] <DPS_Chatbridge> tpa ",
-    "[19:50] <SHTHR0> !kit ",
-    "[19:50] To SHTHR0: Hello SHTHR0!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:50] [BOT] <DPS_Chatbridge> mira lo q paso ",
-    "[19:50] [BOT] <0_HienBot> >Hey 14mate! ",
-    "[19:50] [BOT] <DPS_Chatbridge> fue un creeper ",
     "[19:50] <TulagrandBot> >Try @seed to get 8b8t's seed ",
     "[19:50] <Wemmbu_fannn> yoo ",
     "[19:50] <OmniNova247> !kit ",
@@ -101,7 +95,13 @@
     "[19:51] To HAKURYU56: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:51] [8b8t] >> Request sent to HAKURYU56",
     "[19:51] [8b8t] >> Teleporting...",
-    "[19:51] <TulagrandBot> >Try /nc to change your nick color "
+    "[19:51] <TulagrandBot> >Try /nc to change your nick color ",
+    "[19:51] lpgmedia has completed the challenge [Subspace Bubble]",
+    "[19:51] <botchaosonix> weemmbu come ",
+    "[19:51] [8b8t] >> You have killed yourself!",
+    "[19:51] <rolito> !kit ilegal ",
+    "[19:51] [8b8t] >> Teleporting to home 0...",
+    "[19:51] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "76756": 38,
@@ -3309,7 +3309,7 @@
     "anc1": 1,
     "PKDomRT": 5,
     "Zwaexreal": 7,
-    "rolito": 103,
+    "rolito": 104,
     "warloow": 2,
     "yay": 4,
     "Forfal": 1,
@@ -3698,7 +3698,7 @@
   },
   "kitStats": {
     "build": 1910,
-    "survival": 7112,
+    "survival": 7113,
     "pvp": 9252,
     "dupe": 2571,
     "tools": 2095,
