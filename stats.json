@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:04:10 18/1/2026",
+  "lastUpdated": "12:04:40 18/1/2026",
   "totalKits": 89885,
   "todayKits": 112,
-  "onlineCount": 35,
+  "onlineCount": 37,
   "peakPlayers": 47,
-  "tps": "1.0",
-  "ping": 198,
+  "tps": "3.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[05:00] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[05:00] <cubans999s> !kit ",
-    "[05:00] To cubans999s: Hello cubans999s!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:00] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[05:01] cubans999s has completed the challenge [Cover Me in Debris]",
     "[05:01] cubans999s has reached the goal [Sky's the Limit]",
     "[05:01] [BOT] <0_HienBot> >Type !discord ",
     "[05:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -101,7 +95,13 @@
     "[05:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:03] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[05:03] 0vaqreset_old has made the advancement [Ice Bucket Challenge]",
-    "[05:03] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[05:03] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[05:04] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[05:04] 0vaqreset_old has made the advancement [Stone Age]",
+    "[05:04] <OmHackz> !kit mineral ",
+    "[05:04] [8b8t] >> Teleporting to home 0...",
+    "[05:04] [8b8t] >> Teleporting to home 5...",
+    "[05:04] To OmHackz: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3638,7 +3638,7 @@
     "KinetikSk8er57": 1,
     "martince22": 12,
     ".SaneMitten1070": 1,
-    "OmHackz": 5,
+    "OmHackz": 6,
     "didyouknow200": 1
   },
   "kitStats": {
@@ -3657,7 +3657,7 @@
     "food": 568,
     "redstone": 903,
     "toolbox": 830,
-    "quartz": 375,
+    "quartz": 376,
     "shulker": 666,
     "terracotta": 141,
     "end": 754,
