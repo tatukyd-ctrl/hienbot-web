@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:17:40 19/1/2026",
+  "lastUpdated": "00:18:10 19/1/2026",
   "totalKits": 90386,
   "todayKits": 613,
   "onlineCount": 41,
   "peakPlayers": 50,
-  "tps": "2.0",
-  "ping": 234,
+  "tps": "3.0",
+  "ping": 307,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9220
+      "count": 9221
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:15] <TulagrandBot> >Building a castle? Try @kit bricks ",
-    "[17:15] [BOT] <0_HienBot> >Hello Luminus542! ",
-    "[17:16] <TulagrandBot> >Hello, iTrisstan ",
-    "[17:16] <ALBARAA211> @kit stash ",
-    "[17:16] [8b8t] >> Teleporting to home 0...",
-    "[17:16] [8b8t] >> Home 2 was not found",
-    "[17:16] To ALBARAA211: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:16] To ALBARAA211: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:16] <JoniXx28> !kit pvp ",
-    "[17:16] To JoniXx28: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:16] [8b8t] >> Request sent to ALBARAA211",
-    "[17:16] [8b8t] >> Teleporting...",
     "[17:16] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[17:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[17:16] [8b8t] >> You have killed yourself!",
@@ -101,7 +89,19 @@
     "[17:17] <ALBARAA211> @kit ",
     "[17:17] To ALBARAA211: Hello ALBARAA211!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[17:17] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[17:17] <TulagrandBot> >How are you MindComplexity? "
+    "[17:17] <TulagrandBot> >How are you MindComplexity? ",
+    "[17:17] <ALBARAA211> @kit ",
+    "[17:17] To ALBARAA211: Hello ALBARAA211!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:17] <TulagrandBot> >Building a base? Try @kit build ",
+    "[17:17] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[17:17] <likkalikkapoo> !kit ",
+    "[17:17] To likkalikkapoo: Hello likkalikkapoo!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[17:18] JoniXx28 has made the advancement [Not Quite \"Nine\" Lives]",
+    "[17:18] <likkalikkapoo> !kit PVP ",
+    "[17:18] [8b8t] >> Teleporting to home 0...",
+    "[17:18] [8b8t] >> Teleporting to home 1...",
+    "[17:18] To likkalikkapoo: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -209,7 +209,7 @@
     "SiegeF16": 4,
     "mini_lake": 4,
     "gmares9919": 10,
-    "likkalikkapoo": 20,
+    "likkalikkapoo": 21,
     "AtomicMaterials": 3,
     "maskurot": 7,
     "GaBaus": 66,
@@ -3683,7 +3683,7 @@
   "kitStats": {
     "build": 1888,
     "survival": 7084,
-    "pvp": 9220,
+    "pvp": 9221,
     "dupe": 2559,
     "tools": 2088,
     "stash": 1278,
