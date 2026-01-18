@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:22:10 18/1/2026",
-  "totalKits": 90103,
-  "todayKits": 330,
-  "onlineCount": 24,
+  "lastUpdated": "17:22:40 18/1/2026",
+  "totalKits": 90104,
+  "todayKits": 331,
+  "onlineCount": 22,
   "peakPlayers": 47,
-  "tps": "3.0",
-  "ping": 345,
+  "tps": "4.0",
+  "ping": 435,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9166
+      "count": 9167
     },
     {
       "name": "survival",
@@ -73,19 +73,6 @@
   ],
   "chatLog": [
     "[10:21] [8b8t] >> You have killed yourself!",
-    "[10:21] To ALBARAA211: You're on cooldown, try again in 60 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:21] [BOT] <0_HienBot> >Type !discord ",
-    "[10:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:21] [8b8t] >> No TPA request found",
-    "[10:21] <IvanZaSilly8B8T> !kit survival ",
-    "[10:21] [8b8t] >> Teleporting to home 0...",
-    "[10:21] [8b8t] >> Teleporting to home 1...",
-    "[10:21] To IvanZaSilly8B8T: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:21] To IvanZaSilly8B8T: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:21] [8b8t] >> Request sent to IvanZaSilly8B8T",
-    "[10:21] [8b8t] >> Teleporting...",
-    "[10:21] <TulagrandBot> >Try @kit to get kit ",
-    "[10:21] [8b8t] >> You have killed yourself!",
     "[10:21] <erenpasaoffical> !kit survical ",
     "[10:21] [8b8t] >> Teleporting to home 0...",
     "[10:21] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +88,20 @@
     "[10:22] <ALBARAA211> @kit pvp ",
     "[10:22] To ALBARAA211: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:22] <ALBARAA211> @kit pvp ",
-    "[10:22] To ALBARAA211: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[10:22] To ALBARAA211: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:22] [8b8t] >> You have killed yourself!",
+    "[10:22] [8b8t] >> The TPA request you sent to erenpasaoffical was successfully canceled.",
+    "[10:22] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[10:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[10:22] <TulagrandBot> >Building a castle? Try @kit bricks ",
+    "[10:22] <ALBARAA211> @kit pvp ",
+    "[10:22] [8b8t] >> Teleporting to home 0...",
+    "[10:22] [8b8t] >> Teleporting to home 1...",
+    "[10:22] To ALBARAA211: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:22] To ALBARAA211: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:22] [8b8t] >> Request sent to ALBARAA211",
+    "[10:22] [8b8t] >> Teleporting...",
+    "[10:22] <NgocHoangVN> @kit bricks "
   ],
   "userStats": {
     "76756": 38,
@@ -2089,7 +2089,7 @@
     "UBZENITSU": 1,
     "jonas239": 1,
     "SheepStar_TW": 1,
-    "ALBARAA211": 6,
+    "ALBARAA211": 7,
     ".HEROBRINE32937": 4,
     "gontiago": 1,
     "JediBran3989": 2,
@@ -3659,7 +3659,7 @@
   "kitStats": {
     "build": 1867,
     "survival": 7022,
-    "pvp": 9166,
+    "pvp": 9167,
     "dupe": 2535,
     "tools": 2060,
     "stash": 1270,
