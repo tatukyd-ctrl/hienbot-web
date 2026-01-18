@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:21:40 18/1/2026",
+  "lastUpdated": "19:22:10 18/1/2026",
   "totalKits": 90170,
   "todayKits": 397,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 47,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 234,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7036
+      "count": 7037
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:19] <DrVenial31> lan amk tam alıyorum gidiyor ",
-    "[12:19] [8b8t] >> Teleporting to home 0...",
-    "[12:19] [8b8t] >> Teleporting to home 4...",
-    "[12:19] To 0_HeinBott: Your kit (tool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:19] <likkalikkapoo> !kit pvp ",
-    "[12:19] To likkalikkapoo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:19] To 0_HeinBott: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:19] [8b8t] >> Request sent to 0_HeinBott",
-    "[12:19] [8b8t] >> Teleporting...",
-    "[12:19] [8b8t] >> You have killed yourself!",
-    "[12:19] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[12:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:19] <.LEON50758> fixlendimi? ",
     "[12:19] SpectralCodex has made the advancement [Spooky Scary Skeleton]",
@@ -101,7 +90,18 @@
     "[12:21] <Neythstra> !kit ",
     "[12:21] To Neythstra: Hello Neythstra!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[12:21] <DrVenial31> bekle azıcık kit alcam ",
-    "[12:21] [8b8t] >> The TPA request you received from 0_HeinBott has expired."
+    "[12:21] [8b8t] >> The TPA request you received from 0_HeinBott has expired.",
+    "[12:21] <TulagrandBot> >Try @list to get list of players ",
+    "[12:21] <Neythstra> !kit ",
+    "[12:21] To Neythstra: Hello Neythstra!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[12:21] [BOT] <0_HienBot> >Hey ASneakySenior! ",
+    "[12:22] <Neythstra> !kit survival ",
+    "[12:22] [8b8t] >> Teleporting to home 0...",
+    "[12:22] [8b8t] >> Teleporting to home 1...",
+    "[12:22] To Neythstra: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:22] To Neythstra: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:22] [8b8t] >> Request sent to Neythstra",
+    "[12:22] <TulagrandBot> >Hello, 0_HeinBott "
   ],
   "userStats": {
     "76756": 38,
@@ -3659,11 +3659,12 @@
     "uwylo": 2,
     "SQSs": 6,
     "B0risJohns0n": 1,
-    ".WitherStorm1817": 1
+    ".WitherStorm1817": 1,
+    "Neythstra": 1
   },
   "kitStats": {
     "build": 1868,
-    "survival": 7036,
+    "survival": 7037,
     "pvp": 9179,
     "dupe": 2544,
     "tools": 2067,
