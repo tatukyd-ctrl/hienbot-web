@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:18:41 19/1/2026",
+  "lastUpdated": "06:19:11 19/1/2026",
   "totalKits": 90670,
   "todayKits": 897,
-  "onlineCount": 43,
+  "onlineCount": 42,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 235,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9289
+      "count": 9290
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:16] [8b8t] >> Teleporting to home 0...",
-    "[23:16] [8b8t] >> Teleporting to home 1...",
-    "[23:16] To jhiropro: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:16] To jhiropro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:16] [8b8t] >> Request sent to jhiropro",
-    "[23:16] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[23:16] <jhiropro> !kit pvp ",
-    "[23:16] To jhiropro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:17] <.Eden_01655> !kit dupe ",
-    "[23:17] To .Eden_01655: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:17] [8b8t] >> You have killed yourself!",
     "[23:17] [8b8t] >> The TPA request you sent to jhiropro was successfully canceled.",
     "[23:17] <TulagrandBot> > TULAGRANDE 1.6! ",
     "[23:17] <reymeteoro19> who is this ",
@@ -101,7 +90,18 @@
     "[23:18] <Calvin2029> alguien me hace tp estoy en medio de la nada ",
     "[23:18] panwhatsapp12 has reached the goal [Sky's the Limit]",
     "[23:18] <Calvin2029> doy totem ",
-    "[23:18] <TulagrandBot> >Try /kill to kill yourself "
+    "[23:18] <TulagrandBot> >Try /kill to kill yourself ",
+    "[23:18] <jhiropro> !kit pvp ",
+    "[23:18] [8b8t] >> Teleporting to home 0...",
+    "[23:18] [8b8t] >> Teleporting to home 1...",
+    "[23:18] To jhiropro: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:18] To jhiropro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:18] [8b8t] >> Request sent to jhiropro",
+    "[23:18] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[23:18] picc has made the advancement [Hot Stuff]",
+    "[23:19] <TulagrandBot> >This bot has been created by Felek btw. ",
+    "[23:19] <jhiropro> !kit pvp ",
+    "[23:19] To jhiropro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3709,12 +3709,12 @@
     "DanFMV": 1,
     "Blaarpy": 1,
     ".argenis9973": 1,
-    "jhiropro": 1
+    "jhiropro": 2
   },
   "kitStats": {
     "build": 1933,
     "survival": 7135,
-    "pvp": 9289,
+    "pvp": 9290,
     "dupe": 2582,
     "tools": 2102,
     "stash": 1285,
