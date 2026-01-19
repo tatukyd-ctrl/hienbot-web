@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:08:11 19/1/2026",
-  "totalKits": 90838,
-  "todayKits": 136,
-  "onlineCount": 33,
+  "lastUpdated": "11:08:30 19/1/2026",
+  "totalKits": 90839,
+  "todayKits": 137,
+  "onlineCount": 35,
   "peakPlayers": 52,
-  "tps": "2.0",
-  "ping": 236,
+  "tps": "1.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,22 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:07] <MilitaryManYT> @ping ",
-    "[04:07] <MilitaryManYT> BRO ",
-    "[04:07] <SooDeckOG> !kit redstone ",
-    "[04:07] [8b8t] >> Teleporting to home 0...",
-    "[04:07] [8b8t] >> Home 2 was not found",
-    "[04:07] To SooDeckOG: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:07] <Ordnasil1998> !kit elytra ",
-    "[04:07] To Ordnasil1998: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:07] To SooDeckOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:07] [8b8t] >> Request sent to SooDeckOG",
-    "[04:07] [8b8t] >> Teleporting...",
-    "[04:07] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[04:07] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[04:07] [8b8t] >> You have killed yourself!",
-    "[04:07] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[04:07] <MilitaryManYT> !PING ",
     "[04:07] <MilitaryManYT> BRO ",
     "[04:07] <MilitaryManYT> !ping ",
     "[04:07] To MilitaryManYT: Your ping is: 90 ms Dont forget to join dsc.gg/hienbot",
@@ -101,7 +85,23 @@
     "[04:08] [8b8t] >> Teleporting to home 6...",
     "[04:08] To Ordnasil1998: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:08] <MilitaryManYT> is 90 ms ping bad? ",
-    "[04:08] To Ordnasil1998: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[04:08] To Ordnasil1998: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[04:08] <MilitaryManYT> !kit elytra ",
+    "[04:08] [8b8t] >> Teleporting to home 0...",
+    "[04:08] [8b8t] >> Teleporting to home 6...",
+    "[04:08] To MilitaryManYT: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:08] To MilitaryManYT: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[04:08] <yra112> !ping ",
+    "[04:08] To yra112: Your ping is: 54 ms Dont forget to join dsc.gg/hienbot",
+    "[04:08] <SooDeckOG> !kit raid ",
+    "[04:08] [8b8t] >> Teleporting to home 0...",
+    "[04:08] [8b8t] >> Home 2 was not found",
+    "[04:08] [BOT] <0_HienBot> >Hi Ordnasil1998! ",
+    "[04:08] To SooDeckOG: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:08] To SooDeckOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:08] [8b8t] >> Request sent to SooDeckOG",
+    "[04:08] [8b8t] >> Teleporting...",
+    "[04:08] <TulagrandBot> >Building a castle? Try @kit bricks "
   ],
   "userStats": {
     "76756": 38,
@@ -3384,7 +3384,7 @@
     "a3lo3bobaLP": 2,
     "BroddyZX": 1,
     "AfoiwageiLP": 6,
-    "SooDeckOG": 10,
+    "SooDeckOG": 11,
     "Chr1s_th3_s1gma": 15,
     "negro_kiricici": 30,
     "Alsobruh_": 2,
@@ -3730,7 +3730,8 @@
     "yra112": 1,
     "MINHMC2077": 2,
     "openvoid": 1,
-    "Ordnasil1998": 4
+    "Ordnasil1998": 4,
+    "MilitaryManYT": 1
   },
   "kitStats": {
     "build": 1940,
@@ -3739,7 +3740,7 @@
     "dupe": 2595,
     "tools": 2109,
     "stash": 1292,
-    "raid": 1530,
+    "raid": 1531,
     "wood": 600,
     "exp": 898,
     "dye": 371,
@@ -3766,6 +3767,6 @@
     "gterracotta": 102,
     "banner": 90,
     "illegal": 706,
-    "elytra": 701
+    "elytra": 702
   }
 }
