@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:10:41 19/1/2026",
+  "lastUpdated": "11:11:11 19/1/2026",
   "totalKits": 90840,
   "todayKits": 138,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 52,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 234,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:09] [8b8t] >> Teleporting to home 0...",
-    "[04:09] [8b8t] >> Home 2 was not found",
-    "[04:09] To SooDeckOG: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:09] <TulagrandBot> >Want kit? Try @kit ",
-    "[04:09] To SooDeckOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:09] [8b8t] >> Request sent to SooDeckOG",
-    "[04:09] <.Eman_Gaming988> @kit ",
-    "[04:09] [8b8t] >> The TPA request you sent to SooDeckOG has expired.",
     "[04:09] To .Eman_Gaming988: Hello .Eman_Gaming988!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:09] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[04:09] <Ordnasil1998> @kit ",
@@ -101,7 +93,15 @@
     "[04:10] <SooDeckOG> @kit stash ",
     "[04:10] [8b8t] >> No TPA request found",
     "[04:10] To SooDeckOG: You're on cooldown, try again in 59 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[04:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[04:10] <TulagrandBot> >Try @list to get list of players ",
+    "[04:10] <Ordnasil1998> !kit elytra ",
+    "[04:10] [8b8t] >> Teleporting to home 0...",
+    "[04:10] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[04:10] [8b8t] >> Teleporting to home 6...",
+    "[04:10] To Ordnasil1998: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:10] To Ordnasil1998: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[04:11] <TulagrandBot> >Hi .Eden_01655 "
   ],
   "userStats": {
     "76756": 38,
@@ -3730,7 +3730,7 @@
     "yra112": 1,
     "MINHMC2077": 2,
     "openvoid": 1,
-    "Ordnasil1998": 4,
+    "Ordnasil1998": 5,
     "MilitaryManYT": 1
   },
   "kitStats": {
@@ -3767,6 +3767,6 @@
     "gterracotta": 102,
     "banner": 90,
     "illegal": 706,
-    "elytra": 702
+    "elytra": 703
   }
 }
