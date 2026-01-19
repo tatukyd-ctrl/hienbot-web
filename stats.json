@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:55:09 19/1/2026",
-  "totalKits": 90975,
-  "todayKits": 273,
+  "lastUpdated": "16:55:38 19/1/2026",
+  "totalKits": 90976,
+  "todayKits": 274,
   "onlineCount": 20,
   "peakPlayers": 52,
-  "tps": "2.0",
-  "ping": 242,
+  "tps": "11.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7213
+      "count": 7214
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:52] <Red_Fragment_> !lang en ",
-    "[09:52] To Red_Fragment_: Language set to English! | dsc.gg/hienbot",
-    "[09:52] To alexander35664: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[09:52] [8b8t] >> Request sent to alexander35664",
-    "[09:53] [8b8t] >> Teleporting...",
-    "[09:53] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[09:53] [8b8t] >> You have killed yourself!",
-    "[09:53] didyouknow200 has completed the challenge [Serious Dedication]",
-    "[09:53] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[09:53] <xbabapiro> arabic omer ",
-    "[09:54] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[09:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:54] <xbabapiro> !kit 2 ",
     "[09:54] [8b8t] >> Teleporting to home 0...",
     "[09:54] [8b8t] >> Teleporting to home 4...",
     "[09:54] To xbabapiro: Kit \"2\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
@@ -101,7 +88,20 @@
     "[09:55] [8b8t] >> Request sent to alexander35664",
     "[09:55] [8b8t] >> Teleporting...",
     "[09:55] [8b8t] >> Please do not spam.",
-    "[09:55] <DrVenial31> ts, "
+    "[09:55] <DrVenial31> ts, ",
+    "[09:55] [8b8t] >> You have killed yourself!",
+    "[09:55] <xbabapiro> !kit 1 ",
+    "[09:55] To xbabapiro: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:55] <phonix_01> !kit survival ",
+    "[09:55] [8b8t] >> Teleporting to home 0...",
+    "[09:55] [8b8t] >> Teleporting to home 1...",
+    "[09:55] To phonix_01: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:55] To phonix_01: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:55] [8b8t] >> Request sent to phonix_01",
+    "[09:55] <xbabapiro> !kit help ",
+    "[09:55] To xbabapiro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:55] [8b8t] >> Teleporting...",
+    "[09:55] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3484,7 +3484,7 @@
     "0_HeinBott": 47,
     "datrauma": 1,
     "Gix3er": 1,
-    "phonix_01": 16,
+    "phonix_01": 17,
     "WA_FI": 7,
     "Nickase": 3,
     "0_HienBott": 2,
@@ -3750,7 +3750,7 @@
   },
   "kitStats": {
     "build": 1948,
-    "survival": 7213,
+    "survival": 7214,
     "pvp": 9354,
     "dupe": 2601,
     "tools": 2127,
