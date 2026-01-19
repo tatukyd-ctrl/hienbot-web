@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:43:41 19/1/2026",
-  "totalKits": 91002,
-  "todayKits": 300,
+  "lastUpdated": "17:44:04 19/1/2026",
+  "totalKits": 91003,
+  "todayKits": 301,
   "onlineCount": 16,
   "peakPlayers": 52,
-  "tps": "6.0",
+  "tps": "7.0",
   "ping": 279,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:41] [8b8t] >> You have killed yourself!",
-    "[10:41] [8b8t] >> No TPA request found",
-    "[10:41] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[10:41] <Neythstra> @kit ",
-    "[10:41] To Neythstra: Hello Neythstra!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:41] <phonix_01> @kit ",
-    "[10:41] To phonix_01: Hello phonix_01!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:41] <Neythstra> @kit pvp ",
     "[10:41] [8b8t] >> Teleporting to home 0...",
     "[10:41] [8b8t] >> Teleporting to home 1...",
     "[10:41] To Neythstra: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[10:42] [8b8t] >> Teleporting...",
     "[10:43] [8b8t] >> You have killed yourself!",
     "[10:43] [BOT] <0_HienBot> >What's up, MrPinkEye? ",
-    "[10:43] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[10:43] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[10:43] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[10:43] <Neythstra> @kit sea_lantern ",
+    "[10:43] [8b8t] >> Teleporting to home 0...",
+    "[10:43] [8b8t] >> Home 2 was not found",
+    "[10:43] To Neythstra: Kit \"sea_lantern\" not found! Giving you (gap) instead! dsc.gg/hienbot",
+    "[10:43] To Neythstra: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:43] [8b8t] >> Request sent to Neythstra",
+    "[10:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3660,7 +3660,7 @@
     "SQSs": 6,
     "B0risJohns0n": 1,
     ".WitherStorm1817": 5,
-    "Neythstra": 6,
+    "Neythstra": 7,
     "Itz_Duckey": 3,
     "BuhBoy": 1,
     "Abosteno2000": 7,
@@ -3775,7 +3775,7 @@
     "ocean": 197,
     "concrete": 459,
     "glass": 363,
-    "gap": 234,
+    "gap": 235,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 219,
