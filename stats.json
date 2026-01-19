@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:03:07 19/1/2026",
+  "lastUpdated": "11:03:11 19/1/2026",
   "totalKits": 90831,
   "todayKits": 129,
   "onlineCount": 33,
   "peakPlayers": 52,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 236,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7166
+      "count": 7167
     },
     {
       "name": "dupe",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:01] <SooDeckOG> !kits tools ",
-    "[04:01] To Ordnasil1998: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:01] [8b8t] >> Teleporting...",
     "[04:02] [8b8t] >> You have killed yourself!",
     "[04:02] <Ordnasil1998> !kit tools ",
     "[04:02] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +98,10 @@
     "[04:02] To SooDeckOG: Hello SooDeckOG!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:03] <Ordnasil1998> !kit pvp ",
     "[04:03] To Ordnasil1998: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:03] [8b8t] >> Teleporting..."
+    "[04:03] [8b8t] >> Teleporting...",
+    "[04:03] [8b8t] >> You have killed yourself!",
+    "[04:03] <SooDeckOG> !KIT SURVIVAL ",
+    "[04:03] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3384,7 +3384,7 @@
     "a3lo3bobaLP": 2,
     "BroddyZX": 1,
     "AfoiwageiLP": 6,
-    "SooDeckOG": 6,
+    "SooDeckOG": 7,
     "Chr1s_th3_s1gma": 15,
     "negro_kiricici": 30,
     "Alsobruh_": 2,
@@ -3734,7 +3734,7 @@
   },
   "kitStats": {
     "build": 1939,
-    "survival": 7166,
+    "survival": 7167,
     "pvp": 9328,
     "dupe": 2595,
     "tools": 2109,
