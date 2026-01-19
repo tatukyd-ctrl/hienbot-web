@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:05:11 19/1/2026",
-  "totalKits": 90878,
-  "todayKits": 176,
-  "onlineCount": 37,
+  "lastUpdated": "12:05:40 19/1/2026",
+  "totalKits": 90879,
+  "todayKits": 177,
+  "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "4.0",
-  "ping": 233,
+  "tps": "5.0",
+  "ping": 230,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9334
+      "count": 9335
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:59] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[04:59] AnarchyGooD Whispers: -> Ip: 46.247.94.222 Token: YifACETxoDSW7THHpEQly7v1aPPoYSQIsEw314IDfKPorcfa1z ??????? [wlZ8s1oFo4prM9I7pKkp]",
-    "[04:59] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[04:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[05:00] rikialiascrakk2 has made the advancement [Spooky Scary Skeleton]",
-    "[05:00] rikialiascrakk2 has made the advancement [Withering Heights]",
-    "[05:00] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[05:00] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[05:00] <Fred> anyone team? ",
-    "[05:00] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[05:01] <TulagrandBot> >Try /kill to kill yourself ",
-    "[05:01] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[05:01] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:01] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
     "[05:01] [BOT] <0_HienBot> >Hmmmmmmmmm ",
@@ -101,7 +89,19 @@
     "[05:04] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[05:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:04] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[05:05] <TulagrandBot> >Tulagrande on top! "
+    "[05:05] <TulagrandBot> >Tulagrande on top! ",
+    "[05:05] [BOT] <0_HienBot> >Hi yra112! ",
+    "[05:05] Frubrop has completed the challenge [Subspace Bubble]",
+    "[05:05] <ImPulseStory> !kit pvp ",
+    "[05:05] [8b8t] >> Teleporting to home 0...",
+    "[05:05] [8b8t] >> Teleporting to home 1...",
+    "[05:05] To ImPulseStory: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:05] To ImPulseStory: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:05] [8b8t] >> Request sent to ImPulseStory",
+    "[05:05] <TulagrandBot> >Hello, hechizero77 ",
+    "[05:05] [8b8t] >> Teleporting...",
+    "[05:05] <Frubrop> !kit survival ",
+    "[05:05] To Frubrop: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3734,12 +3734,13 @@
     "MilitaryManYT": 1,
     "Frubrop": 5,
     "rikialiascrakk2": 3,
-    "Fred": 1
+    "Fred": 1,
+    "ImPulseStory": 1
   },
   "kitStats": {
     "build": 1941,
     "survival": 7182,
-    "pvp": 9334,
+    "pvp": 9335,
     "dupe": 2601,
     "tools": 2114,
     "stash": 1295,
