@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:56:41 19/1/2026",
-  "totalKits": 90978,
-  "todayKits": 276,
+  "lastUpdated": "16:56:53 19/1/2026",
+  "totalKits": 90979,
+  "todayKits": 277,
   "onlineCount": 20,
   "peakPlayers": 52,
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 249,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:55] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[09:55] [8b8t] >> You have killed yourself!",
-    "[09:55] <xbabapiro> !kit 1 ",
-    "[09:55] [8b8t] >> Teleporting to home 0...",
-    "[09:55] [8b8t] >> Home 2 was not found",
-    "[09:55] To xbabapiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:55] <xbabapiro> !kit 1 ",
-    "[09:55] To xbabapiro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:55] [8b8t] >> Request sent to xbabapiro",
     "[09:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[09:55] [8b8t] >> Teleporting...",
     "[09:55] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[09:56] <phonix_01> !kit survival ",
     "[09:56] To phonix_01: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:56] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[09:56] [8b8t] >> You have killed yourself!"
+    "[09:56] [8b8t] >> You have killed yourself!",
+    "[09:56] <xbabapiro> !kit 3 ",
+    "[09:56] [8b8t] >> Teleporting to home 0...",
+    "[09:56] [8b8t] >> Teleporting to home 3...",
+    "[09:56] To xbabapiro: Kit \"3\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
+    "[09:56] To xbabapiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:56] <phonix_01> !kit survival ",
+    "[09:56] To phonix_01: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:56] [8b8t] >> Request sent to xbabapiro",
+    "[09:56] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3671,7 +3671,7 @@
     "ReoTheClapper": 1,
     "CrazyLazy3": 1,
     "Suchac2": 1,
-    "xbabapiro": 9,
+    "xbabapiro": 10,
     "kncz": 1,
     "crafteraris": 4,
     "Suleman_op": 2,
@@ -3771,7 +3771,7 @@
     "armortrims": 672,
     "highway": 657,
     "ocean": 197,
-    "concrete": 458,
+    "concrete": 459,
     "glass": 363,
     "gap": 234,
     "constructor": "function Object() { [native code] }111111111",
