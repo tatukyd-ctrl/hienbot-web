@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:37:41 19/1/2026",
-  "totalKits": 90964,
-  "todayKits": 262,
-  "onlineCount": 15,
+  "lastUpdated": "16:37:58 19/1/2026",
+  "totalKits": 90965,
+  "todayKits": 263,
+  "onlineCount": 16,
   "peakPlayers": 52,
   "tps": "7.0",
-  "ping": 247,
+  "ping": 298,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9351
+      "count": 9352
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:30] [8b8t] >> Request sent to .yuu18m",
-    "[09:30] [8b8t] >> Teleporting...",
-    "[09:30] [8b8t] >> You have killed yourself!",
-    "[09:30] [BOT] <0_HienBot> >Welcome to 8b8t, Griff! ",
-    "[09:31] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[09:31] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
-    "[09:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:32] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[09:32] [BOT] <0_HienBot> >Hey Griff! ",
     "[09:33] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[09:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +93,15 @@
     "[09:36] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[09:36] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[09:37] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[09:37] [8b8t] >> Please do not spam."
+    "[09:37] [8b8t] >> Please do not spam.",
+    "[09:37] [Pro+] <lvashl> !kit pvp ",
+    "[09:37] [8b8t] >> Teleporting to home 0...",
+    "[09:37] [8b8t] >> Teleporting to home 1...",
+    "[09:37] To lvashl: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:37] To lvashl: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:37] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[09:37] [8b8t] >> Request sent to lvashl",
+    "[09:37] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2354,7 +2354,7 @@
     "kobhere": 3,
     "TheOverlord451": 1,
     "j122": 14,
-    "lvashl": 106,
+    "lvashl": 107,
     "joshfrom1984_314": 9,
     "MBKBOZKURT90": 38,
     "miniconquest": 4,
@@ -3749,7 +3749,7 @@
   "kitStats": {
     "build": 1948,
     "survival": 7210,
-    "pvp": 9351,
+    "pvp": 9352,
     "dupe": 2601,
     "tools": 2127,
     "stash": 1300,
