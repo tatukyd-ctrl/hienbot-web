@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:17:11 19/1/2026",
-  "totalKits": 90989,
-  "todayKits": 287,
+  "lastUpdated": "17:17:41 19/1/2026",
+  "totalKits": 90990,
+  "todayKits": 288,
   "onlineCount": 15,
   "peakPlayers": 52,
-  "tps": "10.0",
-  "ping": 244,
+  "tps": "9.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1948
+      "count": 1949
     }
   ],
   "chatLog": [
-    "[10:09] [8b8t] >> Request sent to hunam",
-    "[10:09] [8b8t] >> Teleporting...",
-    "[10:09] [8b8t] >> You have killed yourself!",
-    "[10:10] [BOT] <0_HienBot> >Welcome to 8b8t, .WitherStorm1817! ",
-    "[10:10] [BOT] <0_HienBot> >Type !discord ",
-    "[10:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:10] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[10:11] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[10:11] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[10:11] <phonix_01> me ",
     "[10:12] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
@@ -101,7 +93,15 @@
     "[10:16] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:17] <.WitherStorm1817> !kit ",
     "[10:17] To .WitherStorm1817: Hello .WitherStorm1817!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:17] [8b8t] >> Please do not spam."
+    "[10:17] [8b8t] >> Please do not spam.",
+    "[10:17] <.WitherStorm1817> !kit build ",
+    "[10:17] [8b8t] >> Teleporting to home 0...",
+    "[10:17] [8b8t] >> Home 2 was not found",
+    "[10:17] To .WitherStorm1817: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:17] To .WitherStorm1817: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:17] [8b8t] >> Request sent to .WitherStorm1817",
+    "[10:17] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[10:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3659,7 +3659,7 @@
     "uwylo": 2,
     "SQSs": 6,
     "B0risJohns0n": 1,
-    ".WitherStorm1817": 3,
+    ".WitherStorm1817": 4,
     "Neythstra": 5,
     "Itz_Duckey": 3,
     "BuhBoy": 1,
@@ -3750,7 +3750,7 @@
     "hunam": 2
   },
   "kitStats": {
-    "build": 1948,
+    "build": 1949,
     "survival": 7219,
     "pvp": 9359,
     "dupe": 2602,
