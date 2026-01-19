@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:45:41 19/1/2026",
-  "totalKits": 90825,
-  "todayKits": 123,
-  "onlineCount": 30,
+  "lastUpdated": "10:46:09 19/1/2026",
+  "totalKits": 90826,
+  "todayKits": 124,
+  "onlineCount": 31,
   "peakPlayers": 52,
-  "tps": "2.0",
-  "ping": 286,
+  "tps": "3.0",
+  "ping": 260,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7165
+      "count": 7166
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:42] [8b8t] >> Request sent to .Eden_01655",
-    "[03:42] <TulagrandBot> >Try @tps to get server's tps ",
-    "[03:42] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[03:42] [8b8t] >> Teleporting...",
-    "[03:43] <.Maddie8171111> !kit survival ",
-    "[03:43] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:43] <Skittlesjace> this is my stash ",
-    "[03:43] <.Maddie8171111> !kit survival ",
     "[03:43] To .Maddie8171111: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:43] [8b8t] >> You have killed yourself!",
     "[03:43] <.Maddie8171111> !kit survival ",
@@ -101,7 +93,15 @@
     "[03:44] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[03:44] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[03:45] Ikomms has made the advancement [We Need to Go Deeper]",
-    "[03:45] [BOT] <0_HienBot> >Do you want kit? Type !кιт "
+    "[03:45] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[03:45] [8b8t] >> Please do not spam.",
+    "[03:45] <.Maddie8171111> !kit survival ",
+    "[03:45] [8b8t] >> Teleporting to home 0...",
+    "[03:45] [8b8t] >> Teleporting to home 1...",
+    "[03:45] To .Maddie8171111: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:46] To .Maddie8171111: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:46] [8b8t] >> Request sent to .Maddie8171111",
+    "[03:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -375,7 +375,7 @@
     "GPT_AI": 15,
     "yagoteaa": 10,
     "Davidsegov": 1,
-    ".Maddie8171111": 108,
+    ".Maddie8171111": 109,
     "UsuX": 26,
     "sandor412": 1,
     "dudax": 4,
@@ -3731,7 +3731,7 @@
   },
   "kitStats": {
     "build": 1938,
-    "survival": 7165,
+    "survival": 7166,
     "pvp": 9326,
     "dupe": 2595,
     "tools": 2104,
