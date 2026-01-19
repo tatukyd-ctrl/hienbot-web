@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:42:41 19/1/2026",
-  "totalKits": 90869,
-  "todayKits": 167,
-  "onlineCount": 35,
+  "lastUpdated": "11:43:04 19/1/2026",
+  "totalKits": 90870,
+  "todayKits": 168,
+  "onlineCount": 34,
   "peakPlayers": 52,
   "tps": "2.0",
-  "ping": 290,
+  "ping": 259,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7172
+      "count": 7173
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:41] [Ultra] <Marlboro> !kit raid ",
-    "[04:41] To htp1p0: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:41] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[04:41] <rikialiascrakk2> !kit ",
-    "[04:41] [Ultra] <Marlboro> !kit raid ",
-    "[04:41] To htp1p0: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:41] To rikialiascrakk2: Hello rikialiascrakk2!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:41] [Ultra] <Marlboro> !kit raid ",
-    "[04:41] To htp1p0: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:41] <SooDeckOG> !kit build2 ",
-    "[04:41] To SooDeckOG: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:41] [8b8t] >> You have killed yourself!",
     "[04:41] [8b8t] >> No TPA request found",
     "[04:41] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
@@ -101,7 +90,18 @@
     "[04:42] <TulagrandBot> >Try @kit to get kit ",
     "[04:42] [8b8t] >> You have killed yourself!",
     "[04:42] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[04:42] <TulagrandBot> >Hello, glo26 "
+    "[04:42] <TulagrandBot> >Hello, glo26 ",
+    "[04:42] <xxx_osolord_xxx> tpa pvp ",
+    "[04:42] <SooDeckOG> @kit build2 ",
+    "[04:42] To SooDeckOG: You're on cooldown, try again in 7 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:42] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[04:42] <SooDeckOG> !KIT BUILD2 ",
+    "[04:42] [8b8t] >> Teleporting to home 0...",
+    "[04:42] [8b8t] >> Teleporting to home 1...",
+    "[04:42] To SooDeckOG: Kit \"BUILD2\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[04:42] To SooDeckOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:42] [8b8t] >> Request sent to SooDeckOG",
+    "[04:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3384,7 +3384,7 @@
     "a3lo3bobaLP": 2,
     "BroddyZX": 1,
     "AfoiwageiLP": 6,
-    "SooDeckOG": 27,
+    "SooDeckOG": 28,
     "Chr1s_th3_s1gma": 15,
     "negro_kiricici": 30,
     "Alsobruh_": 2,
@@ -3735,7 +3735,7 @@
   },
   "kitStats": {
     "build": 1941,
-    "survival": 7172,
+    "survival": 7173,
     "pvp": 9333,
     "dupe": 2601,
     "tools": 2112,
