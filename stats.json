@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:54:11 19/1/2026",
+  "lastUpdated": "16:54:41 19/1/2026",
   "totalKits": 90973,
   "todayKits": 271,
   "onlineCount": 20,
   "peakPlayers": 52,
-  "tps": "7.0",
+  "tps": "8.0",
   "ping": 256,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:52] [8b8t] >> Request sent to didyouknow200",
-    "[09:52] [8b8t] >> Teleporting...",
-    "[09:52] <alexander35664> !lang ",
-    "[09:52] [8b8t] >> You have killed yourself!",
-    "[09:52] To alexander35664: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
-    "[09:52] <Red_Fragment_> !lang ",
-    "[09:52] To Red_Fragment_: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
-    "[09:52] <alexander35664> !lang en ",
     "[09:52] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[09:52] To alexander35664: Language set to English! | dsc.gg/hienbot",
     "[09:52] <Red_Fragment_> !lang hi ",
@@ -101,7 +93,15 @@
     "[09:53] didyouknow200 has completed the challenge [Serious Dedication]",
     "[09:53] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[09:53] <xbabapiro> arabic omer ",
-    "[09:54] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
+    "[09:54] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[09:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[09:54] <xbabapiro> !kit 2 ",
+    "[09:54] [8b8t] >> Teleporting to home 0...",
+    "[09:54] [8b8t] >> Teleporting to home 4...",
+    "[09:54] To xbabapiro: Kit \"2\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
+    "[09:54] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[09:54] To xbabapiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:54] [8b8t] >> Request sent to xbabapiro"
   ],
   "userStats": {
     "76756": 38,
@@ -3671,7 +3671,7 @@
     "ReoTheClapper": 1,
     "CrazyLazy3": 1,
     "Suchac2": 1,
-    "xbabapiro": 7,
+    "xbabapiro": 8,
     "kncz": 1,
     "crafteraris": 4,
     "Suleman_op": 2,
@@ -3763,7 +3763,7 @@
     "mineral": 596,
     "food": 588,
     "redstone": 942,
-    "toolbox": 856,
+    "toolbox": 857,
     "quartz": 404,
     "shulker": 690,
     "terracotta": 145,
