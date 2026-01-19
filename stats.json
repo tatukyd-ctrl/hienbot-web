@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:38:41 19/1/2026",
-  "totalKits": 90775,
-  "todayKits": 73,
+  "lastUpdated": "08:38:54 19/1/2026",
+  "totalKits": 90776,
+  "todayKits": 74,
   "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "3.0",
-  "ping": 236,
+  "tps": "4.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9309
+      "count": 9310
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:37] <blememeformymist> again ",
-    "[01:37] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[01:37] <.I_am_myster1on> !kit survival ",
-    "[01:37] [8b8t] >> Teleporting to home 0...",
-    "[01:37] [8b8t] >> Teleporting to home 1...",
-    "[01:37] To .I_am_myster1on: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:37] <erikkoptero18> tgive me the shulker ",
-    "[01:37] To .I_am_myster1on: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:37] <someone_account> it says alr a pending req ",
     "[01:37] [8b8t] >> Request sent to .I_am_myster1on",
     "[01:37] <gastontulaxica> !kit pvp ",
@@ -101,7 +93,15 @@
     "[01:38] <ElExcremento> thank you so much ",
     "[01:38] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[01:38] <.I_am_myster1on> !kit survival ",
-    "[01:38] To .I_am_myster1on: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot"
+    "[01:38] To .I_am_myster1on: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:38] <erikkoptero18> !kit pvp ",
+    "[01:38] [8b8t] >> Teleporting to home 0...",
+    "[01:38] [8b8t] >> Teleporting to home 1...",
+    "[01:38] To erikkoptero18: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:38] To erikkoptero18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:38] [8b8t] >> Request sent to erikkoptero18",
+    "[01:38] [8b8t] >> Teleporting...",
+    "[01:38] [BOT] <0_HienBot> >Hey TulagrandBot! "
   ],
   "userStats": {
     "76756": 38,
@@ -1326,7 +1326,7 @@
     "LimityYT": 13,
     "Advik667": 2,
     "Glr6127": 2,
-    "erikkoptero18": 25,
+    "erikkoptero18": 26,
     "skythompson_6": 7,
     "benjarejas": 1,
     "Krah0ss": 1,
@@ -3725,7 +3725,7 @@
   "kitStats": {
     "build": 1936,
     "survival": 7154,
-    "pvp": 9309,
+    "pvp": 9310,
     "dupe": 2592,
     "tools": 2103,
     "stash": 1287,
