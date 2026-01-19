@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:34:41 19/1/2026",
+  "lastUpdated": "11:35:11 19/1/2026",
   "totalKits": 90867,
   "todayKits": 165,
   "onlineCount": 39,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 244,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:32] [8b8t] >> Home 2 was not found",
-    "[04:32] To blememeformymist: Seu kit (raid) sera entregue em 30 segundos! Entre em dsc.gg/hienbot",
-    "[04:32] To blememeformymist: Digite \"/tpayes 0_HienBot\" em 35 segundos! Entre em dsc.gg/hienbot.",
-    "[04:32] [8b8t] >> Request sent to blememeformymist",
-    "[04:32] [8b8t] >> Teleporting...",
-    "[04:32] <TulagrandBot> >Hola MrPinkEye ",
-    "[04:32] [8b8t] >> You have killed yourself!",
     "[04:32] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
     "[04:32] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[04:32] <OmHackz> !kit totem ",
@@ -101,7 +94,14 @@
     "[04:34] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[04:34] <SooDeckOG> @seed ",
     "[04:34] aaronlardone has made the advancement [We Need to Go Deeper]",
-    "[04:34] <TulagrandBot> >Try /kill to kill yourself "
+    "[04:34] <TulagrandBot> >Try /kill to kill yourself ",
+    "[04:34] [BOT] <0_HienBot> >Hello aaronlardone! ",
+    "[04:34] <SooDeckOG> @kit ilegal ",
+    "[04:34] [8b8t] >> Teleporting to home 0...",
+    "[04:34] [8b8t] >> Teleporting to home 6...",
+    "[04:34] To SooDeckOG: Kit \"ilegal\" not found! Giving you (elytra) instead! dsc.gg/hienbot",
+    "[04:34] <TulagrandBot> >Hola MonkeBot ",
+    "[04:35] To SooDeckOG: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3384,7 +3384,7 @@
     "a3lo3bobaLP": 2,
     "BroddyZX": 1,
     "AfoiwageiLP": 6,
-    "SooDeckOG": 25,
+    "SooDeckOG": 26,
     "Chr1s_th3_s1gma": 15,
     "negro_kiricici": 30,
     "Alsobruh_": 2,
@@ -3767,6 +3767,6 @@
     "gterracotta": 103,
     "banner": 90,
     "illegal": 706,
-    "elytra": 709
+    "elytra": 710
   }
 }
