@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:21:15 19/1/2026",
-  "totalKits": 90852,
-  "todayKits": 150,
-  "onlineCount": 36,
+  "lastUpdated": "11:21:30 19/1/2026",
+  "totalKits": 90853,
+  "todayKits": 151,
+  "onlineCount": 38,
   "peakPlayers": 52,
-  "tps": "6.0",
-  "ping": 252,
+  "tps": "4.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7169
+      "count": 7170
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:20] [8b8t] >> Teleporting to home 0...",
-    "[04:20] [8b8t] >> Teleporting to home 6...",
-    "[04:20] [BOT] <0_HienBot> >Hello Leee! ",
-    "[04:20] To warloow: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:20] <yra112> GANG ",
-    "[04:20] To warloow: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[04:20] <Neythstra> !kit dupe ",
-    "[04:20] <SooDeckOG> @kit food ",
-    "[04:20] [8b8t] >> Teleporting to home 0...",
-    "[04:20] To SooDeckOG: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:20] [8b8t] >> Teleporting to home 7...",
-    "[04:20] To Neythstra: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:20] <TulagrandBot> >Try @list to get list of players ",
     "[04:20] To Neythstra: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:20] <warloow> !kit survival ",
@@ -101,7 +89,19 @@
     "[04:21] <yiddhater586> !kit elytra ",
     "[04:21] To yiddhater586: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:21] [8b8t] >> Request sent to SooDeckOG",
-    "[04:21] [8b8t] >> Teleporting..."
+    "[04:21] [8b8t] >> Teleporting...",
+    "[04:21] [8b8t] >> You have killed yourself!",
+    "[04:21] <warloow> !kit survival ",
+    "[04:21] [8b8t] >> Teleporting to home 0...",
+    "[04:21] [8b8t] >> Teleporting to home 1...",
+    "[04:21] To warloow: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:21] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[04:21] <.Eman_Gaming988> !kit elytra ",
+    "[04:21] To .Eman_Gaming988: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:21] To warloow: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:21] [8b8t] >> Request sent to warloow",
+    "[04:21] [8b8t] >> Teleporting...",
+    "[04:21] <TulagrandBot> >Hello, yra112 "
   ],
   "userStats": {
     "76756": 38,
@@ -3310,7 +3310,7 @@
     "PKDomRT": 5,
     "Zwaexreal": 7,
     "rolito": 116,
-    "warloow": 3,
+    "warloow": 4,
     "yay": 4,
     "Forfal": 1,
     "Juul": 4,
@@ -3735,7 +3735,7 @@
   },
   "kitStats": {
     "build": 1940,
-    "survival": 7169,
+    "survival": 7170,
     "pvp": 9332,
     "dupe": 2597,
     "tools": 2110,
