@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:09:41 19/1/2026",
+  "lastUpdated": "12:10:11 19/1/2026",
   "totalKits": 90883,
   "todayKits": 181,
   "onlineCount": 35,
   "peakPlayers": 52,
-  "tps": "7.0",
-  "ping": 230,
+  "tps": "3.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9336
+      "count": 9337
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:08] [8b8t] >> Teleporting to home 7...",
-    "[05:08] To ImPulseStory: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:08] To ImPulseStory: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:08] [8b8t] >> Request sent to ImPulseStory",
-    "[05:08] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
-    "[05:08] [8b8t] >> Teleporting...",
-    "[05:08] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[05:08] <FastForward> !kit Elytra ",
     "[05:08] To FastForward: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:08] [8b8t] >> You have killed yourself!",
     "[05:08] <TulagrandBot> >Try /kill to kill yourself ",
@@ -101,7 +93,15 @@
     "[05:09] <ImPulseStory> !kit tools ",
     "[05:09] To ImPulseStory: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:09] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[05:09] [8b8t] >> You have killed yourself!"
+    "[05:09] [8b8t] >> You have killed yourself!",
+    "[05:09] <Frubrop> @kit ",
+    "[05:09] To Frubrop: Hello Frubrop!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:09] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[05:10] <TulagrandBot> >Building a base? Try @kit build ",
+    "[05:10] <Frubrop> !kit pvp ",
+    "[05:10] [8b8t] >> Teleporting to home 0...",
+    "[05:10] [8b8t] >> Teleporting to home 1...",
+    "[05:10] To Frubrop: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3732,7 +3732,7 @@
     "openvoid": 1,
     "Ordnasil1998": 10,
     "MilitaryManYT": 1,
-    "Frubrop": 7,
+    "Frubrop": 8,
     "rikialiascrakk2": 4,
     "Fred": 1,
     "ImPulseStory": 4
@@ -3740,7 +3740,7 @@
   "kitStats": {
     "build": 1941,
     "survival": 7184,
-    "pvp": 9336,
+    "pvp": 9337,
     "dupe": 2601,
     "tools": 2115,
     "stash": 1295,
