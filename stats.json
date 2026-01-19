@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:01:11 19/1/2026",
-  "totalKits": 90984,
-  "todayKits": 282,
+  "lastUpdated": "17:01:37 19/1/2026",
+  "totalKits": 90985,
+  "todayKits": 283,
   "onlineCount": 20,
   "peakPlayers": 52,
-  "tps": "6.0",
-  "ping": 244,
+  "tps": "7.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7215
+      "count": 7216
     },
     {
       "name": "dupe",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:59] [8b8t] >> Teleporting to home 0...",
-    "[09:59] [8b8t] >> Teleporting to home 6...",
-    "[09:59] To didyouknow200: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:59] To didyouknow200: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:59] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[09:59] [8b8t] >> Request sent to didyouknow200",
-    "[09:59] [8b8t] >> Teleporting...",
-    "[09:59] <hunam> !kit cooked_beef ",
-    "[09:59] To hunam: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:59] [8b8t] >> You have killed yourself!",
-    "[10:00] <xbabapiro> !kit pvp ",
-    "[10:00] To xbabapiro: You're on cooldown, try again in 12 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:00] [BOT] <0_HienBot> >Hi TNGB0T! ",
-    "[10:00] <xbabapiro> TNGB0T ",
-    "[10:00] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:00] <xbabapiro> !kit pvp ",
     "[10:00] [8b8t] >> Teleporting to home 0...",
     "[10:00] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +86,22 @@
     "[10:01] To xbabapiro: You're on cooldown, try again in 16 seconds! Dont forget to join dsc.gg/hienbot",
     "[10:01] <xbabapiro> !kit pvp2 ",
     "[10:01] To xbabapiro: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:01] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[10:01] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[10:01] <hunam> !kit survival ",
+    "[10:01] [8b8t] >> Teleporting to home 0...",
+    "[10:01] [8b8t] >> Teleporting to home 1...",
+    "[10:01] To hunam: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:01] To hunam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:01] [8b8t] >> Request sent to hunam",
+    "[10:01] <xbabapiro> !kit pvp2 ",
+    "[10:01] To xbabapiro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:01] <xbabapiro> !kit pvp ",
+    "[10:01] To xbabapiro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:01] <xbabapiro> !kit pvp ",
+    "[10:01] To xbabapiro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:01] <xbabapiro> !kit pvp ",
+    "[10:01] To xbabapiro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[10:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3746,11 +3746,12 @@
     "base_hunter_3": 1,
     "DarwinGardas": 5,
     "thinhlohahahaa": 1,
-    "alexander35664": 5
+    "alexander35664": 5,
+    "hunam": 1
   },
   "kitStats": {
     "build": 1948,
-    "survival": 7215,
+    "survival": 7216,
     "pvp": 9357,
     "dupe": 2602,
     "tools": 2127,
