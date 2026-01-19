@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:59:11 19/1/2026",
-  "totalKits": 90981,
-  "todayKits": 279,
+  "lastUpdated": "16:59:27 19/1/2026",
+  "totalKits": 90982,
+  "todayKits": 280,
   "onlineCount": 21,
   "peakPlayers": 52,
-  "tps": "8.0",
+  "tps": "6.0",
   "ping": 247,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9355
+      "count": 9356
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:57] To Popeyefemboy: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:57] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[09:57] [8b8t] >> You have killed yourself!",
-    "[09:57] [8b8t] >> No TPA request found",
-    "[09:58] <xbabapiro> !kit 5 ",
-    "[09:58] [8b8t] >> Teleporting to home 0...",
-    "[09:58] [8b8t] >> Home 2 was not found",
-    "[09:58] To xbabapiro: Kit \"5\" not found! Giving you (raid) instead! dsc.gg/hienbot",
-    "[09:58] To xbabapiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:58] [8b8t] >> Request sent to xbabapiro",
     "[09:58] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[09:58] [8b8t] >> Teleporting...",
@@ -101,7 +92,16 @@
     "[09:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[09:58] Popeyefemboy has completed the challenge [Serious Dedication]",
     "[09:59] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[09:59] <xbabapiro> Guys, is there a frame duplication on the server? "
+    "[09:59] <xbabapiro> Guys, is there a frame duplication on the server? ",
+    "[09:59] <xbabapiro> !kit cpvp ",
+    "[09:59] [8b8t] >> Teleporting to home 0...",
+    "[09:59] [8b8t] >> Teleporting to home 1...",
+    "[09:59] To xbabapiro: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:59] didyouknow200 has made the advancement [Who is Cutting Onions?]",
+    "[09:59] To xbabapiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:59] [8b8t] >> Request sent to xbabapiro",
+    "[09:59] [8b8t] >> Teleporting...",
+    "[09:59] <hunam> !kit "
   ],
   "userStats": {
     "76756": 38,
@@ -3671,7 +3671,7 @@
     "ReoTheClapper": 1,
     "CrazyLazy3": 1,
     "Suchac2": 1,
-    "xbabapiro": 11,
+    "xbabapiro": 12,
     "kncz": 1,
     "crafteraris": 4,
     "Suleman_op": 2,
@@ -3751,7 +3751,7 @@
   "kitStats": {
     "build": 1948,
     "survival": 7215,
-    "pvp": 9355,
+    "pvp": 9356,
     "dupe": 2602,
     "tools": 2127,
     "stash": 1301,
