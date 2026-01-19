@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:37:11 19/1/2026",
+  "lastUpdated": "10:37:41 19/1/2026",
   "totalKits": 90821,
   "todayKits": 119,
-  "onlineCount": 34,
+  "onlineCount": 32,
   "peakPlayers": 52,
-  "tps": "3.0",
-  "ping": 266,
+  "tps": "5.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9325
+      "count": 9326
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:32] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[03:33] <TulagrandBot> >Whant something? Try @kit! ",
-    "[03:33] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[03:33] <Skittlesjace> he plays? ",
-    "[03:33] [8b8t] >> Please do not spam.",
-    "[03:34] TiziMistico has completed the challenge [Cover Me in Debris]",
-    "[03:34] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[03:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[03:34] .Eden_01655 has made the advancement [Local Brewery]",
     "[03:34] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[03:35] <TulagrandBot> >Tulagrande on top! ",
     "[03:35] <SooDeckOG> !KIT ELITRA ",
@@ -101,7 +92,16 @@
     "[03:36] [BOT] <0_HienBot> >Hmmmmmmmmm ",
     "[03:36] <TulagrandBot> >Try /nc to change your nick color ",
     "[03:36] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[03:36] <TulagrandBot> >Hi MINHMC2077 "
+    "[03:36] <TulagrandBot> >Hi MINHMC2077 ",
+    "[03:37] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[03:37] <TulagrandBot> >Whant something? Try @kit! ",
+    "[03:37] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[03:37] <SooDeckOG> !kit pvp ",
+    "[03:37] [8b8t] >> Teleporting to home 0...",
+    "[03:37] [8b8t] >> Teleporting to home 1...",
+    "[03:37] To SooDeckOG: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:37] To SooDeckOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:37] [8b8t] >> Request sent to SooDeckOG"
   ],
   "userStats": {
     "76756": 38,
@@ -3384,7 +3384,7 @@
     "a3lo3bobaLP": 2,
     "BroddyZX": 1,
     "AfoiwageiLP": 6,
-    "SooDeckOG": 5,
+    "SooDeckOG": 6,
     "Chr1s_th3_s1gma": 15,
     "negro_kiricici": 30,
     "Alsobruh_": 2,
@@ -3732,7 +3732,7 @@
   "kitStats": {
     "build": 1938,
     "survival": 7164,
-    "pvp": 9325,
+    "pvp": 9326,
     "dupe": 2594,
     "tools": 2104,
     "stash": 1292,
