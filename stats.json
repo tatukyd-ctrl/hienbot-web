@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:41:41 19/1/2026",
-  "totalKits": 91000,
-  "todayKits": 298,
+  "lastUpdated": "17:42:05 19/1/2026",
+  "totalKits": 91001,
+  "todayKits": 299,
   "onlineCount": 16,
   "peakPlayers": 52,
-  "tps": "5.0",
-  "ping": 414,
+  "tps": "4.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9360
+      "count": 9361
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:39] [BOT] <0_HienBot> >Hey Azanjod_1! ",
-    "[10:39] <phonix_01> !kit all ",
-    "[10:39] To phonix_01: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:40] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[10:40] [BOT] <0_HienBot> >Welcome to 8b8t, MrPinkEye! ",
-    "[10:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:40] <Neythstra> tps ",
-    "[10:40] <Neythstra> !tps ",
-    "[10:40] To Neythstra: Current TPS: 7.00 Dont forget to join dsc.gg/hienbot",
     "[10:40] <phonix_01> !kit all ",
     "[10:40] [8b8t] >> Teleporting to home 0...",
     "[10:40] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +92,16 @@
     "[10:41] [8b8t] >> No TPA request found",
     "[10:41] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[10:41] <Neythstra> @kit ",
-    "[10:41] To Neythstra: Hello Neythstra!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[10:41] To Neythstra: Hello Neythstra!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:41] <phonix_01> @kit ",
+    "[10:41] To phonix_01: Hello phonix_01!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:41] <Neythstra> @kit pvp ",
+    "[10:41] [8b8t] >> Teleporting to home 0...",
+    "[10:41] [8b8t] >> Teleporting to home 1...",
+    "[10:41] To Neythstra: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:41] To Neythstra: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:41] [8b8t] >> Request sent to Neythstra",
+    "[10:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3660,7 +3660,7 @@
     "SQSs": 6,
     "B0risJohns0n": 1,
     ".WitherStorm1817": 5,
-    "Neythstra": 5,
+    "Neythstra": 6,
     "Itz_Duckey": 3,
     "BuhBoy": 1,
     "Abosteno2000": 7,
@@ -3753,7 +3753,7 @@
   "kitStats": {
     "build": 1949,
     "survival": 7220,
-    "pvp": 9360,
+    "pvp": 9361,
     "dupe": 2604,
     "tools": 2127,
     "stash": 1303,
