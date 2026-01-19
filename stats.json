@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:42:41 19/1/2026",
+  "lastUpdated": "09:43:11 19/1/2026",
   "totalKits": 90807,
   "todayKits": 105,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 52,
-  "tps": "7.0",
-  "ping": 232,
+  "tps": "5.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:39] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[02:39] antorch1423 has made the advancement [Stone Age]",
-    "[02:40] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[02:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[02:40] LargeMallow has made the advancement [We Need to Go Deeper]",
-    "[02:40] Poe__Pin has completed the challenge [Cover Me in Debris]",
-    "[02:40] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[02:41] <TulagrandBot> >Try @list to get list of players ",
     "[02:41] <someone_account> !kit ",
     "[02:41] To someone_account: Hello someone_account!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[02:42] To someone_account: You're on cooldown, try again in 18 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:42] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[02:42] <0Stress> !kit ",
-    "[02:42] To 0Stress: Hello 0Stress!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[02:42] To 0Stress: Hello 0Stress!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:42] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[02:42] <TulagrandBot> >Hola LargeMallow ",
+    "[02:42] <0Stress> !kit elytra ",
+    "[02:42] [8b8t] >> Teleporting to home 0...",
+    "[02:42] [8b8t] >> Teleporting to home 6...",
+    "[02:42] To 0Stress: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:43] To 0Stress: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3724,7 +3724,8 @@
     "ElExcremento": 1,
     "ADLCat": 2,
     "oMayhem": 1,
-    "uniantGD": 1
+    "uniantGD": 1,
+    "0Stress": 1
   },
   "kitStats": {
     "build": 1938,
@@ -3760,6 +3761,6 @@
     "gterracotta": 100,
     "banner": 90,
     "illegal": 706,
-    "elytra": 696
+    "elytra": 697
   }
 }
