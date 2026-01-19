@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:35:41 19/1/2026",
-  "totalKits": 90912,
-  "todayKits": 210,
-  "onlineCount": 34,
+  "lastUpdated": "12:36:08 19/1/2026",
+  "totalKits": 90913,
+  "todayKits": 211,
+  "onlineCount": 33,
   "peakPlayers": 52,
   "tps": "4.0",
   "ping": 231,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7195
+      "count": 7196
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:32] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[05:32] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[05:32] <TulagrandBot> >Try @ping to get your ping ",
-    "[05:32] <SooDeckOG> !KIT CONCRETE ",
-    "[05:32] [8b8t] >> Teleporting to home 0...",
-    "[05:32] [8b8t] >> Teleporting to home 3...",
-    "[05:32] To SooDeckOG: Your kit (CONCRETE) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:32] To SooDeckOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:32] [8b8t] >> Request sent to SooDeckOG",
-    "[05:32] [8b8t] >> Teleporting...",
-    "[05:32] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[05:32] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:32] [8b8t] >> You have killed yourself!",
     "[05:33] <TulagrandBot> >How are you yra112? ",
@@ -101,7 +90,18 @@
     "[05:34] <Skittlesjace> :O ",
     "[05:34] <Skittlesjace> my ec is fulll ",
     "[05:34] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[05:35] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language "
+    "[05:35] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[05:35] <TulagrandBot> >Want kit? Try @kit ",
+    "[05:35] <FastForward> !kit basic ",
+    "[05:35] [8b8t] >> Teleporting to home 0...",
+    "[05:35] [8b8t] >> Teleporting to home 1...",
+    "[05:35] To FastForward: Your kit (basic) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:35] [8b8t] >> Please do not spam.",
+    "[05:35] To FastForward: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:35] [8b8t] >> Request sent to FastForward",
+    "[05:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[05:35] <Skittlesjace> perfect, build kits ",
+    "[05:36] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3092,7 +3092,7 @@
     "EvenGrail": 4,
     "Cats_AreCool1": 1,
     "zAarex": 1,
-    "FastForward": 33,
+    "FastForward": 34,
     "roley123": 2,
     "pornohub2025": 1,
     "0_H1enBot": 7,
@@ -3740,7 +3740,7 @@
   },
   "kitStats": {
     "build": 1944,
-    "survival": 7195,
+    "survival": 7196,
     "pvp": 9339,
     "dupe": 2601,
     "tools": 2120,
