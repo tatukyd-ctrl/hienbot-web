@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:17:41 19/1/2026",
+  "lastUpdated": "20:18:11 19/1/2026",
   "totalKits": 91095,
   "todayKits": 393,
   "onlineCount": 29,
   "peakPlayers": 52,
-  "tps": "5.0",
-  "ping": 251,
+  "tps": "10.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9383
+      "count": 9384
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[13:15] [BOT] <0_HienBot> >Hello felipe_000! ",
-    "[13:15] <peneflex> >who wants some cool maparts ",
-    "[13:15] <D4rk_Nightsh4d3> me ",
-    "[13:15] <DrVenial31> tpa team ",
-    "[13:15] <RedSlime6169> who can give me kit ",
-    "[13:15] <D4rk_Nightsh4d3> i want mapparts ",
-    "[13:16] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[13:16] <yra112> im bored i just wanna chill with someone \\ ",
-    "[13:16] felipe_000 Whispers: hello",
     "[13:16] <RedSlime6169> ı want kit from a PLAYER ",
     "[13:16] <peneflex> nah ts is in spawn ",
     "[13:16] <peneflex> lol ",
@@ -101,7 +91,17 @@
     "[13:17] <DrVenial31> me have ",
     "[13:17] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[13:17] <Rich_miner> !kit survival ",
-    "[13:17] To Rich_miner: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot"
+    "[13:17] To Rich_miner: You're on cooldown, try again in 26 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:17] <RedSlime6169> !kit ",
+    "[13:17] To RedSlime6169: Hello RedSlime6169!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:17] <RedSlime6169> !kit pvp ",
+    "[13:17] [8b8t] >> Teleporting to home 0...",
+    "[13:17] [8b8t] >> Teleporting to home 1...",
+    "[13:17] To RedSlime6169: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:18] <DrVenial31> pvp ? ",
+    "[13:18] To RedSlime6169: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:18] [8b8t] >> Request sent to RedSlime6169",
+    "[13:18] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "76756": 38,
@@ -3752,12 +3752,13 @@
     "Yamen0awl": 24,
     "Narimattr_535": 4,
     "D4rk_Nightsh4d3": 2,
-    "Athenaa": 3
+    "Athenaa": 3,
+    "RedSlime6169": 1
   },
   "kitStats": {
     "build": 1950,
     "survival": 7225,
-    "pvp": 9383,
+    "pvp": 9384,
     "dupe": 2610,
     "tools": 2137,
     "stash": 1310,
