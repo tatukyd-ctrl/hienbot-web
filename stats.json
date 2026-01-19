@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:20:43 19/1/2026",
+  "lastUpdated": "08:21:11 19/1/2026",
   "totalKits": 90767,
   "todayKits": 65,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 236,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7150
+      "count": 7151
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:19] [8b8t] >> Request sent to SPREENQ",
-    "[01:20] <.I_am_myster1on> @kit ",
-    "[01:20] To .I_am_myster1on: Hello .I_am_myster1on!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:20] <rolito> !kit raid ",
-    "[01:20] To rolito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:20] [8b8t] >> Teleporting...",
-    "[01:20] [8b8t] >> You have killed yourself!",
-    "[01:20] <rolito> !kit raid ",
-    "[01:20] [8b8t] >> Teleporting to home 0...",
-    "[01:20] [8b8t] >> Home 2 was not found",
-    "[01:20] To rolito: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:20] To rolito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:20] <someone_account> !kit ",
     "[01:20] [8b8t] >> Request sent to rolito",
     "[01:20] To someone_account: Hello someone_account!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +89,19 @@
     "[01:20] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:20] <.I_am_myster1on> !kit survival ",
     "[01:20] To .I_am_myster1on: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:20] [8b8t] >> Teleporting..."
+    "[01:20] [8b8t] >> Teleporting...",
+    "[01:20] <SPREENQ> !kit survival ",
+    "[01:20] To SPREENQ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:20] [8b8t] >> You have killed yourself!",
+    "[01:20] <SPREENQ> !kit surival ",
+    "[01:20] To SPREENQ: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:20] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[01:20] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[01:21] <TulagrandBot> >Tulagrande on top! ",
+    "[01:21] <SPREENQ> !kit survival ",
+    "[01:21] [8b8t] >> Teleporting to home 0...",
+    "[01:21] [8b8t] >> Teleporting to home 1...",
+    "[01:21] To SPREENQ: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3540,7 +3540,7 @@
     "Benjita_12": 5,
     "maxanachy": 51,
     "Aretorangtwo": 7,
-    "SPREENQ": 67,
+    "SPREENQ": 68,
     "oro_888": 1,
     "dragonsej2025": 9,
     "Jonicua": 6,
@@ -3723,7 +3723,7 @@
   },
   "kitStats": {
     "build": 1936,
-    "survival": 7150,
+    "survival": 7151,
     "pvp": 9307,
     "dupe": 2592,
     "tools": 2103,
