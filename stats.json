@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:11:11 19/1/2026",
-  "totalKits": 90754,
-  "todayKits": 52,
+  "lastUpdated": "08:11:33 19/1/2026",
+  "totalKits": 90755,
+  "todayKits": 53,
   "onlineCount": 39,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "5.0",
   "ping": 244,
   "topUsers": [
     {
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:09] [8b8t] >> Teleporting...",
-    "[01:09] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[01:09] [8b8t] >> You have killed yourself!",
-    "[01:09] someone_account has made the advancement [Stone Age]",
-    "[01:09] <ur_Zoro_> tp me in team ",
-    "[01:10] <CallenBam> i sent request ",
-    "[01:10] <erikkoptero18> !kit build ",
-    "[01:10] [8b8t] >> Teleporting to home 0...",
-    "[01:10] [8b8t] >> Home 2 was not found",
-    "[01:10] To erikkoptero18: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:10] <falsin0ms> !kit survival ",
-    "[01:10] To falsin0ms: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:10] <Skittlesjace> ok ",
-    "[01:10] To erikkoptero18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:10] [8b8t] >> Request sent to erikkoptero18",
     "[01:10] [8b8t] >> Teleporting...",
     "[01:10] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
@@ -101,7 +87,21 @@
     "[01:10] <Skittlesjace> i was at the world border ",
     "[01:11] <CallenBam> hello ",
     "[01:11] <Skittlesjace> your lucky i set a home there ",
-    "[01:11] <TulagrandBot> >Building a base? Try @kit build2 "
+    "[01:11] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[01:11] <someone_account> @kit build2 ",
+    "[01:11] [8b8t] >> Teleporting to home 0...",
+    "[01:11] [8b8t] >> Home 2 was not found",
+    "[01:11] To someone_account: Kit \"build2\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
+    "[01:11] <Skittlesjace> wait do you not have hacks? ",
+    "[01:11] <CallenBam> im not at my base cuz my last was greifed ",
+    "[01:11] To someone_account: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:11] [8b8t] >> Request sent to someone_account",
+    "[01:11] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[01:11] <Skittlesjace> rip ",
+    "[01:11] <erikkoptero18> !kit pvp ",
+    "[01:11] To erikkoptero18: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[01:11] <ur_Zoro_> tp me kit ",
+    "[01:11] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3718,7 +3718,7 @@
     "falsin0ms": 3,
     "zetasprin": 2,
     "Super_jj9000": 2,
-    "someone_account": 1
+    "someone_account": 2
   },
   "kitStats": {
     "build": 1936,
@@ -3734,7 +3734,7 @@
     "wool": 520,
     "mineral": 593,
     "food": 582,
-    "redstone": 936,
+    "redstone": 937,
     "toolbox": 850,
     "quartz": 402,
     "shulker": 687,
