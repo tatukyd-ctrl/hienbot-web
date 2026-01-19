@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:03:41 19/1/2026",
+  "lastUpdated": "11:04:11 19/1/2026",
   "totalKits": 90832,
   "todayKits": 130,
   "onlineCount": 34,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9328
+      "count": 9329
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:02] <SooDeckOG> !kit tools ",
-    "[04:02] To SooDeckOG: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:02] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[04:02] <El_Axel> !kit pvp ",
-    "[04:02] To El_Axel: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:02] [8b8t] >> You have killed yourself!",
-    "[04:02] [8b8t] >> The TPA request you sent to Ordnasil1998 was successfully canceled.",
-    "[04:02] [8b8t] >> Please do not spam.",
     "[04:02] El_Axel Whispers: !kit pvp",
     "[04:02] [8b8t] >> Teleporting to home 0...",
     "[04:02] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +93,15 @@
     "[04:03] [8b8t] >> Request sent to SooDeckOG",
     "[04:03] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[04:03] [8b8t] >> Teleporting...",
-    "[04:03] [8b8t] >> You have killed yourself!"
+    "[04:03] [8b8t] >> You have killed yourself!",
+    "[04:03] <Ordnasil1998> !kit pvp ",
+    "[04:03] [8b8t] >> Teleporting to home 0...",
+    "[04:03] [8b8t] >> Teleporting to home 1...",
+    "[04:03] To Ordnasil1998: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:03] To Ordnasil1998: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:03] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[04:03] [8b8t] >> Request sent to Ordnasil1998",
+    "[04:03] <TulagrandBot> >Try @tps to get server's tps "
   ],
   "userStats": {
     "76756": 38,
@@ -3730,12 +3730,12 @@
     "yra112": 1,
     "MINHMC2077": 2,
     "openvoid": 1,
-    "Ordnasil1998": 1
+    "Ordnasil1998": 2
   },
   "kitStats": {
     "build": 1939,
     "survival": 7167,
-    "pvp": 9328,
+    "pvp": 9329,
     "dupe": 2595,
     "tools": 2109,
     "stash": 1292,
