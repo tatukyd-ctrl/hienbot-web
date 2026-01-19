@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:24:41 19/1/2026",
-  "totalKits": 91100,
-  "todayKits": 398,
+  "lastUpdated": "20:25:01 19/1/2026",
+  "totalKits": 91101,
+  "todayKits": 399,
   "onlineCount": 25,
   "peakPlayers": 52,
-  "tps": "18.0",
-  "ping": 247,
+  "tps": "7.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2610
+      "count": 2611
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:23] To DrVenial31: Your ping is: 1858 ms Dont forget to join dsc.gg/hienbot",
-    "[13:23] <DrVenial31> 2kms ",
-    "[13:23] <JUSTLIKED> 1v1 tpa ",
-    "[13:23] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[13:23] <xxxkdtcom> !kit ilegal ",
-    "[13:23] [8b8t] >> Teleporting to home 0...",
-    "[13:23] [8b8t] >> Home 2 was not found",
     "[13:23] To xxxkdtcom: Kit \"ilegal\" not found! Giving you (build) instead! dsc.gg/hienbot",
     "[13:23] To xxxkdtcom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:23] [8b8t] >> Request sent to xxxkdtcom",
@@ -101,7 +94,14 @@
     "[13:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:24] <xxxkdtcom> !kit ",
     "[13:24] To xxxkdtcom: Hello xxxkdtcom!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:24] [BOT] <0_HienBot> >Type !кιт  to get free kits "
+    "[13:24] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[13:24] <xxxkdtcom> !kit dupe ",
+    "[13:24] [8b8t] >> Teleporting to home 0...",
+    "[13:24] [8b8t] >> Teleporting to home 7...",
+    "[13:24] To xxxkdtcom: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:24] To xxxkdtcom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:24] [8b8t] >> Request sent to xxxkdtcom",
+    "[13:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3754,13 +3754,13 @@
     "D4rk_Nightsh4d3": 3,
     "Athenaa": 3,
     "RedSlime6169": 1,
-    "xxxkdtcom": 2
+    "xxxkdtcom": 3
   },
   "kitStats": {
     "build": 1951,
     "survival": 7226,
     "pvp": 9386,
-    "dupe": 2610,
+    "dupe": 2611,
     "tools": 2137,
     "stash": 1310,
     "raid": 1541,
