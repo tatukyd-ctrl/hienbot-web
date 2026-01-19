@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:14:34 19/1/2026",
+  "lastUpdated": "19:14:41 19/1/2026",
   "totalKits": 91061,
   "todayKits": 359,
   "onlineCount": 24,
   "peakPlayers": 52,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 244,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9372
+      "count": 9373
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:11] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[12:12] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[12:12] <xbabapiro> atcaz mı yine ",
     "[12:12] <xbabapiro> DrVenial31 ",
     "[12:12] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[12:12] <DrVenial31> he lag daha yeni gitti ",
@@ -101,7 +98,10 @@
     "[12:14] [8b8t] >> Request sent to Yamen0awl",
     "[12:14] <DrVenial31> ayıp la kaçma ne aq ",
     "[12:14] [8b8t] >> Teleporting...",
-    "[12:14] <xbabapiro> asay gelsene "
+    "[12:14] <xbabapiro> asay gelsene ",
+    "[12:14] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[12:14] <Axwerr53> !kit PVP ",
+    "[12:14] [8b8t] >> You have killed yourself!"
   ],
   "userStats": {
     "76756": 38,
@@ -3506,7 +3506,7 @@
     "kaminek_CZLP": 1,
     "Alpedrosigma": 6,
     "kaufumanJR": 34,
-    "Axwerr53": 11,
+    "Axwerr53": 12,
     "Gigansky": 11,
     "ITZ_Kaido": 5,
     "_meloudrama": 1,
@@ -3754,7 +3754,7 @@
   "kitStats": {
     "build": 1950,
     "survival": 7223,
-    "pvp": 9372,
+    "pvp": 9373,
     "dupe": 2607,
     "tools": 2136,
     "stash": 1308,
