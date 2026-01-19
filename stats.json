@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:54:11 19/1/2026",
+  "lastUpdated": "08:54:41 19/1/2026",
   "totalKits": 90786,
   "todayKits": 84,
   "onlineCount": 35,
   "peakPlayers": 52,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 232,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7156
+      "count": 7157
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:52] [8b8t] >> Teleporting to home 0...",
-    "[01:52] <TulagrandBot> >Building a base? Try @kit build2 ",
-    "[01:52] [8b8t] >> Teleporting to home 1...",
-    "[01:52] To .I_am_myster1on: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:52] To .I_am_myster1on: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:52] [8b8t] >> Request sent to .I_am_myster1on",
-    "[01:52] <blememeformymist> armor whit ",
     "[01:52] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[01:52] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[01:52] <TulagrandBot> > TULAGRANDE 1.6! ",
@@ -101,7 +94,14 @@
     "[01:53] [8b8t] >> You have killed yourself!",
     "[01:53] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[01:53] <TulagrandBot> >Hola kazammo ",
-    "[01:53] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[01:53] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[01:54] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[01:54] <.I_am_myster1on> !kit survival ",
+    "[01:54] [8b8t] >> Teleporting to home 0...",
+    "[01:54] [8b8t] >> Teleporting to home 1...",
+    "[01:54] To .I_am_myster1on: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:54] To .I_am_myster1on: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:54] [8b8t] >> Request sent to .I_am_myster1on"
   ],
   "userStats": {
     "76756": 38,
@@ -3719,13 +3719,13 @@
     "zetasprin": 2,
     "Super_jj9000": 2,
     "someone_account": 17,
-    ".I_am_myster1on": 6,
+    ".I_am_myster1on": 7,
     "gastontulaxica": 3,
     "ElExcremento": 1
   },
   "kitStats": {
     "build": 1938,
-    "survival": 7156,
+    "survival": 7157,
     "pvp": 9316,
     "dupe": 2592,
     "tools": 2103,
