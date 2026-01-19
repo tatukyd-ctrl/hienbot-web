@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:12:11 19/1/2026",
+  "lastUpdated": "08:12:41 19/1/2026",
   "totalKits": 90756,
   "todayKits": 54,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 52,
   "tps": "3.0",
-  "ping": 239,
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9306
+      "count": 9307
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:11] <CallenBam> hello ",
-    "[01:11] <Skittlesjace> your lucky i set a home there ",
-    "[01:11] <TulagrandBot> >Building a base? Try @kit build2 ",
-    "[01:11] <someone_account> @kit build2 ",
-    "[01:11] [8b8t] >> Teleporting to home 0...",
-    "[01:11] [8b8t] >> Home 2 was not found",
-    "[01:11] To someone_account: Kit \"build2\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
-    "[01:11] <Skittlesjace> wait do you not have hacks? ",
-    "[01:11] <CallenBam> im not at my base cuz my last was greifed ",
-    "[01:11] To someone_account: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:11] [8b8t] >> Request sent to someone_account",
-    "[01:11] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[01:11] <Skittlesjace> rip ",
     "[01:11] <erikkoptero18> !kit pvp ",
     "[01:11] To erikkoptero18: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:11] <ur_Zoro_> tp me kit ",
@@ -101,7 +88,20 @@
     "[01:11] [8b8t] >> Teleporting...",
     "[01:11] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[01:11] [8b8t] >> You have killed yourself!",
-    "[01:11] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[01:11] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[01:12] <erikkoptero18> !kit pvp ",
+    "[01:12] To erikkoptero18: You're on cooldown, try again in 23 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:12] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[01:12] <CallenBam> hello ",
+    "[01:12] <erikkoptero18> !kit pvp ",
+    "[01:12] To erikkoptero18: You're on cooldown, try again in 12 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:12] <Skittlesjace> tbh ",
+    "[01:12] <erikkoptero18> !kit pvp ",
+    "[01:12] To erikkoptero18: You're on cooldown, try again in 7 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:12] <erikkoptero18> !kit pvp ",
+    "[01:12] [8b8t] >> Teleporting to home 0...",
+    "[01:12] [8b8t] >> Teleporting to home 1...",
+    "[01:12] To erikkoptero18: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1326,7 +1326,7 @@
     "LimityYT": 13,
     "Advik667": 2,
     "Glr6127": 2,
-    "erikkoptero18": 22,
+    "erikkoptero18": 23,
     "skythompson_6": 7,
     "benjarejas": 1,
     "Krah0ss": 1,
@@ -3723,7 +3723,7 @@
   "kitStats": {
     "build": 1936,
     "survival": 7146,
-    "pvp": 9306,
+    "pvp": 9307,
     "dupe": 2590,
     "tools": 2103,
     "stash": 1287,
