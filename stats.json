@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:09:41 19/1/2026",
-  "totalKits": 90988,
-  "todayKits": 286,
+  "lastUpdated": "17:09:56 19/1/2026",
+  "totalKits": 90989,
+  "todayKits": 287,
   "onlineCount": 19,
   "peakPlayers": 52,
-  "tps": "8.0",
+  "tps": "7.0",
   "ping": 246,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9358
+      "count": 9359
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:05] To .WitherStorm1817: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:05] <xbabapiro> vs tpa ez ",
-    "[10:05] To .WitherStorm1817: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:05] [8b8t] >> Request sent to .WitherStorm1817",
-    "[10:05] [BOT] <0_HienBot> >What's up, DPS_Chatbridge? ",
-    "[10:05] alexander35664 has reached the goal [Postmortal]",
-    "[10:05] [BOT] <DPS_Chatbridge> ><solar0an> wsg ",
     "[10:06] <xbabapiro> vs tpa ez ",
     "[10:06] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[10:06] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[10:09] hunam has reached the goal [Postmortal]",
     "[10:09] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[10:09] hunam has made the advancement [Diamonds!]",
-    "[10:09] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
+    "[10:09] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[10:09] <hunam> !kit pvp ",
+    "[10:09] [8b8t] >> Teleporting to home 0...",
+    "[10:09] [8b8t] >> Teleporting to home 1...",
+    "[10:09] To hunam: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:09] To hunam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:09] [8b8t] >> Request sent to hunam",
+    "[10:09] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3747,12 +3747,12 @@
     "DarwinGardas": 5,
     "thinhlohahahaa": 1,
     "alexander35664": 5,
-    "hunam": 1
+    "hunam": 2
   },
   "kitStats": {
     "build": 1948,
     "survival": 7219,
-    "pvp": 9358,
+    "pvp": 9359,
     "dupe": 2602,
     "tools": 2127,
     "stash": 1302,
