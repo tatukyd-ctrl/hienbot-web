@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:48:11 19/1/2026",
+  "lastUpdated": "11:48:41 19/1/2026",
   "totalKits": 90872,
   "todayKits": 170,
   "onlineCount": 34,
   "peakPlayers": 52,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 232,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7176
+      "count": 7177
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:45] [8b8t] >> Request sent to rikialiascrakk2",
-    "[04:45] <xxx_osolord_xxx> tpa pvp ",
-    "[04:45] <rikialiascrakk2> !kit survival ",
-    "[04:45] To rikialiascrakk2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:45] <rikialiascrakk2> !kit survival ",
-    "[04:45] To rikialiascrakk2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:45] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[04:46] <rikialiascrakk2> !kit survival ",
-    "[04:46] To rikialiascrakk2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:46] <Fred> any tp? ",
-    "[04:46] [8b8t] >> You have killed yourself!",
-    "[04:46] <TulagrandBot> >Hi MrPinkEye ",
     "[04:46] [8b8t] >> The TPA request you sent to rikialiascrakk2 was successfully canceled.",
     "[04:46] [BOT] <0_HienBot> >Try !кιт survival ",
     "[04:46] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +89,19 @@
     "[04:47] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[04:47] <Fred> !kit ilegal ",
     "[04:47] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:47] To Fred: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[04:47] To Fred: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:48] <rikialiascrakk2> !kit survival ",
+    "[04:48] To rikialiascrakk2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:48] <Frubrop> !kit survival ",
+    "[04:48] [8b8t] >> You have killed yourself!",
+    "[04:48] [8b8t] >> You have killed yourself!",
+    "[04:48] [8b8t] >> No TPA request found",
+    "[04:48] To Frubrop: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:48] [8b8t] >> Teleporting to home 0...",
+    "[04:48] [8b8t] >> Teleporting to home 1...",
+    "[04:48] To Frubrop: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:48] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[04:48] [8b8t] >> Request sent to Frubrop"
   ],
   "userStats": {
     "76756": 38,
@@ -3732,12 +3732,12 @@
     "openvoid": 1,
     "Ordnasil1998": 7,
     "MilitaryManYT": 1,
-    "Frubrop": 1,
+    "Frubrop": 2,
     "rikialiascrakk2": 2
   },
   "kitStats": {
     "build": 1941,
-    "survival": 7176,
+    "survival": 7177,
     "pvp": 9333,
     "dupe": 2601,
     "tools": 2112,
