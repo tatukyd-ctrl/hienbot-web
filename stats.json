@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:42:41 19/1/2026",
-  "totalKits": 91001,
-  "todayKits": 299,
+  "lastUpdated": "17:43:03 19/1/2026",
+  "totalKits": 91002,
+  "todayKits": 300,
   "onlineCount": 16,
   "peakPlayers": 52,
-  "tps": "7.0",
-  "ping": 245,
+  "tps": "10.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:41] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[10:41] [8b8t] >> phonix_01 has denied your request",
-    "[10:41] <Neythstra> !kit pvp ",
-    "[10:41] To Neythstra: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:41] <phonix_01> !kit 549883 ",
-    "[10:41] To phonix_01: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:41] <phonix_01> !kit 549883 ",
     "[10:41] To phonix_01: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:41] <phonix_01> !kit 54 ",
     "[10:41] To phonix_01: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[10:42] <phonix_01> !kit stash ",
     "[10:42] To phonix_01: You're on cooldown, try again in 22 seconds! Dont forget to join dsc.gg/hienbot",
     "[10:42] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[10:42] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
+    "[10:42] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[10:42] <phonix_01> !kit stash ",
+    "[10:42] [8b8t] >> Teleporting to home 0...",
+    "[10:42] [8b8t] >> Home 2 was not found",
+    "[10:42] To phonix_01: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:42] To phonix_01: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:42] [8b8t] >> Request sent to phonix_01",
+    "[10:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3484,7 +3484,7 @@
     "0_HeinBott": 47,
     "datrauma": 1,
     "Gix3er": 1,
-    "phonix_01": 23,
+    "phonix_01": 24,
     "WA_FI": 7,
     "Nickase": 3,
     "0_HienBott": 2,
@@ -3756,7 +3756,7 @@
     "pvp": 9361,
     "dupe": 2604,
     "tools": 2127,
-    "stash": 1303,
+    "stash": 1304,
     "raid": 1539,
     "wood": 601,
     "exp": 902,
