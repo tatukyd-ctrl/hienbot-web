@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:28:41 19/1/2026",
-  "totalKits": 90861,
-  "todayKits": 159,
-  "onlineCount": 42,
+  "lastUpdated": "11:28:53 19/1/2026",
+  "totalKits": 90862,
+  "todayKits": 160,
+  "onlineCount": 44,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 289,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7171
+      "count": 7172
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:27] [8b8t] >> Teleporting...",
-    "[04:27] <yiddhater586> !kit pvp ",
-    "[04:27] To yiddhater586: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:28] <WenlerMaster> !kit ",
-    "[04:28] [8b8t] >> You have killed yourself!",
-    "[04:28] To WenlerMaster: Hello WenlerMaster!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:28] <Toomani> !kit survival ",
-    "[04:28] [8b8t] >> Teleporting to home 0...",
-    "[04:28] [8b8t] >> Teleporting to home 1...",
     "[04:28] To Toomani: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:28] To Toomani: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:28] <KingToxic6008> wdw ",
@@ -101,7 +92,16 @@
     "[04:28] To aaronlardone: Hello aaronlardone!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:28] <Skittlesjace> warning its nsfw ",
     "[04:28] <SooDeckOG> !kit armortrims ",
-    "[04:28] To SooDeckOG: You're on cooldown, try again in 16 seconds! Dont forget to join dsc.gg/hienbot"
+    "[04:28] To SooDeckOG: You're on cooldown, try again in 16 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:28] <TulagrandBot> >Building a base? Try @kit build1 ",
+    "[04:28] <WenlerMaster> !kit survival ",
+    "[04:28] [8b8t] >> Teleporting to home 0...",
+    "[04:28] [8b8t] >> Teleporting to home 1...",
+    "[04:28] To WenlerMaster: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:28] To WenlerMaster: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:28] [8b8t] >> Request sent to WenlerMaster",
+    "[04:28] [8b8t] >> Teleporting...",
+    "[04:28] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
   ],
   "userStats": {
     "76756": 38,
@@ -1532,7 +1532,7 @@
     "notnoun": 15,
     "Rango314": 1,
     "Soniccc06": 1,
-    "WenlerMaster": 10,
+    "WenlerMaster": 11,
     "Andra_dra": 41,
     "alvamaster": 14,
     "maxijua": 4,
@@ -3735,7 +3735,7 @@
   },
   "kitStats": {
     "build": 1941,
-    "survival": 7171,
+    "survival": 7172,
     "pvp": 9332,
     "dupe": 2599,
     "tools": 2111,
