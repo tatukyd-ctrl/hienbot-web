@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:47:41 19/1/2026",
+  "lastUpdated": "11:48:11 19/1/2026",
   "totalKits": 90872,
   "todayKits": 170,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 52,
-  "tps": "1.0",
-  "ping": 233,
+  "tps": "5.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7175
+      "count": 7176
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:45] [8b8t] >> Request sent to SooDeckOG",
-    "[04:45] [8b8t] >> Teleporting...",
-    "[04:45] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[04:45] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[04:45] [8b8t] >> You have killed yourself!",
-    "[04:45] <rikialiascrakk2> !kit survival ",
-    "[04:45] [8b8t] >> Teleporting to home 0...",
-    "[04:45] [8b8t] >> Teleporting to home 1...",
-    "[04:45] To rikialiascrakk2: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:45] To rikialiascrakk2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:45] [8b8t] >> Request sent to rikialiascrakk2",
     "[04:45] <xxx_osolord_xxx> tpa pvp ",
     "[04:45] <rikialiascrakk2> !kit survival ",
@@ -101,7 +91,17 @@
     "[04:46] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[04:47] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[04:47] [BOT] <0_HienBot> >Type !discord ",
-    "[04:47] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[04:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:47] <rikialiascrakk2> !kit survival ",
+    "[04:47] [8b8t] >> Teleporting to home 0...",
+    "[04:47] [8b8t] >> Teleporting to home 1...",
+    "[04:47] To rikialiascrakk2: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:47] To rikialiascrakk2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:47] [8b8t] >> Request sent to rikialiascrakk2",
+    "[04:47] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[04:47] <Fred> !kit ilegal ",
+    "[04:47] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[04:47] To Fred: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3733,11 +3733,11 @@
     "Ordnasil1998": 7,
     "MilitaryManYT": 1,
     "Frubrop": 1,
-    "rikialiascrakk2": 1
+    "rikialiascrakk2": 2
   },
   "kitStats": {
     "build": 1941,
-    "survival": 7175,
+    "survival": 7176,
     "pvp": 9333,
     "dupe": 2601,
     "tools": 2112,
