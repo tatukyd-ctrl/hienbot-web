@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:17:41 19/1/2026",
+  "lastUpdated": "14:18:11 19/1/2026",
   "totalKits": 90933,
   "todayKits": 231,
-  "onlineCount": 14,
+  "onlineCount": 15,
   "peakPlayers": 52,
-  "tps": "13.0",
-  "ping": 256,
+  "tps": "11.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9342
+      "count": 9343
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:10] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[07:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[07:10] [BOT] <0_HienBot> >Hi 0_HeinBott! ",
-    "[07:11] [BOT] <0_HienBot> >Welcome to 8b8t, DPS_Chatbridge! ",
-    "[07:11] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[07:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:12] [BOT] <0_HienBot> >Hi iTrisstan! ",
-    "[07:12] <yra112> !kit exp ",
     "[07:12] [8b8t] >> Teleporting to home 0...",
     "[07:12] [8b8t] >> Teleporting to home 5...",
     "[07:12] To yra112: Your kit (exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[07:16] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[07:17] [8b8t] >> BigBear wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
     "[07:17] [8b8t] >> Teleporting...",
-    "[07:17] [BOT] <0_HienBot> >What's up, .YT_Toxic212? "
+    "[07:17] [BOT] <0_HienBot> >What's up, .YT_Toxic212? ",
+    "[07:17] [8b8t] >> Request sent to base_hunter_2",
+    "[07:17] [8b8t] >> Teleporting...",
+    "[07:17] [8b8t] >> Please do not spam.",
+    "[07:17] <.YT_Toxic212> +kit pvp ",
+    "[07:17] [8b8t] >> Teleporting to home 0...",
+    "[07:17] [8b8t] >> Teleporting to home 1...",
+    "[07:18] To .YT_Toxic212: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:18] To .YT_Toxic212: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3739,12 +3739,13 @@
     "ROBETIKO": 1,
     "JamieVardy29": 3,
     "Poe__Pin": 1,
-    "hechizero77": 1
+    "hechizero77": 1,
+    ".YT_Toxic212": 1
   },
   "kitStats": {
     "build": 1947,
     "survival": 7203,
-    "pvp": 9342,
+    "pvp": 9343,
     "dupe": 2601,
     "tools": 2122,
     "stash": 1298,
