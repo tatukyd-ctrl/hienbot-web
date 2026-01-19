@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:11:11 19/1/2026",
-  "totalKits": 90884,
-  "todayKits": 182,
+  "lastUpdated": "12:11:25 19/1/2026",
+  "totalKits": 90885,
+  "todayKits": 183,
   "onlineCount": 35,
   "peakPlayers": 52,
   "tps": "3.0",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2115
+      "count": 2116
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:09] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[05:09] [8b8t] >> You have killed yourself!",
-    "[05:09] <Frubrop> @kit ",
-    "[05:09] To Frubrop: Hello Frubrop!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:09] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[05:10] <TulagrandBot> >Building a base? Try @kit build ",
-    "[05:10] <Frubrop> !kit pvp ",
-    "[05:10] [8b8t] >> Teleporting to home 0...",
-    "[05:10] [8b8t] >> Teleporting to home 1...",
     "[05:10] To Frubrop: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:10] To Frubrop: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:10] [8b8t] >> Request sent to Frubrop",
@@ -101,7 +92,16 @@
     "[05:10] <ImPulseStory> !lang ",
     "[05:10] To ImPulseStory: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
     "[05:11] <ImPulseStory> !lang ru ",
-    "[05:11] To ImPulseStory: Yazyk izmenen na Russkiy! | dsc.gg/hienbot"
+    "[05:11] To ImPulseStory: Yazyk izmenen na Russkiy! | dsc.gg/hienbot",
+    "[05:11] <ImPulseStory> !kit tools ",
+    "[05:11] [8b8t] >> You have killed yourself!",
+    "[05:11] To ImPulseStory: Ваш набор (tools) будет доставлен за 30 секунд! Присоединяйтесь dsc.gg/hienbot",
+    "[05:11] [8b8t] >> Teleporting to home 0...",
+    "[05:11] [8b8t] >> Teleporting to home 7...",
+    "[05:11] To ImPulseStory: Напишите \"/tpayes 0_HienBot\" в течение 35 секунд! Присоединяйтесь dsc.gg/hienbot.",
+    "[05:11] [8b8t] >> Request sent to ImPulseStory",
+    "[05:11] [8b8t] >> Teleporting...",
+    "[05:11] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
   ],
   "userStats": {
     "76756": 38,
@@ -3735,14 +3735,14 @@
     "Frubrop": 8,
     "rikialiascrakk2": 4,
     "Fred": 1,
-    "ImPulseStory": 4
+    "ImPulseStory": 5
   },
   "kitStats": {
     "build": 1941,
     "survival": 7184,
     "pvp": 9337,
     "dupe": 2601,
-    "tools": 2115,
+    "tools": 2116,
     "stash": 1295,
     "raid": 1534,
     "wood": 601,
