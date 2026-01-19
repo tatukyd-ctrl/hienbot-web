@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:06:52 19/1/2026",
+  "lastUpdated": "12:07:11 19/1/2026",
   "totalKits": 90880,
   "todayKits": 178,
   "onlineCount": 35,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "6.0",
   "ping": 252,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:05] [8b8t] >> Teleporting to home 1...",
-    "[05:05] To rikialiascrakk2: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:05] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[05:05] <Frubrop> !kit survival ",
-    "[05:05] To rikialiascrakk2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:05] [8b8t] >> Request sent to rikialiascrakk2",
     "[05:06] <Frubrop> !kit survival ",
     "[05:06] To Frubrop: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:06] <TulagrandBot> >Hello, yra112 ",
@@ -101,7 +95,13 @@
     "[05:06] [8b8t] >> Teleporting...",
     "[05:06] <ImPulseStory> !KIT ELYTRA ",
     "[05:06] To ImPulseStory: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:06] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
+    "[05:06] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[05:06] [8b8t] >> You have killed yourself!",
+    "[05:07] Frubrop has completed the challenge [Serious Dedication]",
+    "[05:07] <ImPulseStory> !KIT ELYTRA ",
+    "[05:07] [8b8t] >> Teleporting to home 0...",
+    "[05:07] [8b8t] >> Teleporting to home 6...",
+    "[05:07] To ImPulseStory: Your kit (ELYTRA) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3735,7 +3735,7 @@
     "Frubrop": 6,
     "rikialiascrakk2": 4,
     "Fred": 1,
-    "ImPulseStory": 1
+    "ImPulseStory": 2
   },
   "kitStats": {
     "build": 1941,
@@ -3771,6 +3771,6 @@
     "gterracotta": 103,
     "banner": 90,
     "illegal": 706,
-    "elytra": 711
+    "elytra": 712
   }
 }
