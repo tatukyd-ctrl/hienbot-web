@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:01:59 19/1/2026",
+  "lastUpdated": "11:02:11 19/1/2026",
   "totalKits": 90830,
   "todayKits": 128,
   "onlineCount": 33,
   "peakPlayers": 52,
-  "tps": "1.0",
-  "ping": 236,
+  "tps": "3.0",
+  "ping": 267,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2108
+      "count": 2109
     },
     {
       "name": "build",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:00] [BOT] <0_HienBot> >Hi .Maddie8171111! ",
-    "[04:00] <openvoid> !kit pvp ",
-    "[04:00] [8b8t] >> Teleporting to home 0...",
-    "[04:00] [8b8t] >> Teleporting to home 1...",
-    "[04:00] To openvoid: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:00] To openvoid: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:00] [8b8t] >> Request sent to openvoid",
     "[04:00] <SooDeckOG> @kits ",
@@ -101,7 +96,12 @@
     "[04:01] <Ordnasil1998> !kit tools ",
     "[04:01] <SooDeckOG> !kits tools ",
     "[04:01] To Ordnasil1998: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:01] [8b8t] >> Teleporting..."
+    "[04:01] [8b8t] >> Teleporting...",
+    "[04:02] [8b8t] >> You have killed yourself!",
+    "[04:02] <Ordnasil1998> !kit tools ",
+    "[04:02] [8b8t] >> Teleporting to home 0...",
+    "[04:02] [8b8t] >> Teleporting to home 7...",
+    "[04:02] To Ordnasil1998: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3729,14 +3729,15 @@
     "larajaye": 1,
     "yra112": 1,
     "MINHMC2077": 2,
-    "openvoid": 1
+    "openvoid": 1,
+    "Ordnasil1998": 1
   },
   "kitStats": {
     "build": 1939,
     "survival": 7166,
     "pvp": 9327,
     "dupe": 2595,
-    "tools": 2108,
+    "tools": 2109,
     "stash": 1292,
     "raid": 1530,
     "wood": 600,
