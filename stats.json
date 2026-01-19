@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:57:11 19/1/2026",
-  "totalKits": 90738,
-  "todayKits": 36,
+  "lastUpdated": "07:57:30 19/1/2026",
+  "totalKits": 90739,
+  "todayKits": 37,
   "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 235,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9301
+      "count": 9302
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:56] To zetasprin: Hello zetasprin!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[00:56] To Antonhysv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:56] [8b8t] >> Request sent to Antonhysv",
-    "[00:56] <falsin0ms> !kit elytra ",
-    "[00:56] To falsin0ms: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:56] <zetasprin> !kit elytra ",
-    "[00:56] To zetasprin: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:56] <blememeformymist> @kit elytra ",
-    "[00:56] To blememeformymist: Aguarde um momento. Entre no HienBot Group dsc.gg/hienbot",
-    "[00:56] [8b8t] >> Teleporting...",
-    "[00:56] [BOT] <DPS_Chatbridge> ><whirlmoreau717> ",
     "[00:56] [8b8t] >> You have killed yourself!",
     "[00:56] <blememeformymist> vou colocar uns whiters na minha base antes ",
     "[00:56] <blememeformymist> @kit elytra ",
@@ -101,7 +90,18 @@
     "[00:56] To zetasprin: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[00:57] <.Tsuy2> okok ",
     "[00:57] [8b8t] >> You have killed yourself!",
-    "[00:57] <blememeformymist> ngm usa xit aqui nn seu esquisito "
+    "[00:57] <blememeformymist> ngm usa xit aqui nn seu esquisito ",
+    "[00:57] <falsin0ms> !kit pvp ",
+    "[00:57] [8b8t] >> Teleporting to home 0...",
+    "[00:57] [8b8t] >> Teleporting to home 1...",
+    "[00:57] <.Tsuy2> !kit survival ",
+    "[00:57] To falsin0ms: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:57] To .Tsuy2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:57] To falsin0ms: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:57] [8b8t] >> Request sent to falsin0ms",
+    "[00:57] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[00:57] zetasprin has made the advancement [Ice Bucket Challenge]",
+    "[00:57] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3715,13 +3715,13 @@
     ".Thiago_Z_137326": 14,
     "ZPower124": 1,
     "Skittlesjace": 3,
-    "falsin0ms": 1,
+    "falsin0ms": 2,
     "zetasprin": 1
   },
   "kitStats": {
     "build": 1935,
     "survival": 7145,
-    "pvp": 9301,
+    "pvp": 9302,
     "dupe": 2589,
     "tools": 2103,
     "stash": 1286,
