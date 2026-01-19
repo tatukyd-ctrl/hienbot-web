@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:57:11 19/1/2026",
+  "lastUpdated": "08:57:41 19/1/2026",
   "totalKits": 90789,
   "todayKits": 87,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 52,
-  "tps": "3.0",
-  "ping": 233,
+  "tps": "5.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:55] <someone_account> !kit end ",
-    "[01:55] [8b8t] >> Teleporting to home 0...",
-    "[01:55] [8b8t] >> Teleporting to home 5...",
-    "[01:55] To someone_account: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:55] To someone_account: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:55] [8b8t] >> Request sent to someone_account",
-    "[01:55] [8b8t] >> Teleporting...",
-    "[01:55] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[01:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[01:55] [8b8t] >> You have killed yourself!",
     "[01:55] <.I_am_myster1on> !kit survival ",
     "[01:55] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[01:56] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[01:57] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[01:57] <miguel_gamer_777> Yo pero eres nuevo? ",
-    "[01:57] <miguel_gamer_777> Xd "
+    "[01:57] <miguel_gamer_777> Xd ",
+    "[01:57] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[01:57] <TulagrandBot> >Try @tps to get server's tps ",
+    "[01:57] ElExcremento has made the advancement [Getting an Upgrade]",
+    "[01:57] <ADLCat> !kit elytra ",
+    "[01:57] sir_handy has made the advancement [A Throwaway Joke]",
+    "[01:57] [8b8t] >> Teleporting to home 0...",
+    "[01:57] [8b8t] >> Teleporting to home 6...",
+    "[01:57] To ADLCat: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:57] To ADLCat: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3721,7 +3721,8 @@
     "someone_account": 18,
     ".I_am_myster1on": 8,
     "gastontulaxica": 3,
-    "ElExcremento": 1
+    "ElExcremento": 1,
+    "ADLCat": 1
   },
   "kitStats": {
     "build": 1938,
@@ -3757,6 +3758,6 @@
     "gterracotta": 100,
     "banner": 90,
     "illegal": 706,
-    "elytra": 694
+    "elytra": 695
   }
 }
