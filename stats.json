@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:02:41 19/1/2026",
+  "lastUpdated": "17:03:11 19/1/2026",
   "totalKits": 90985,
   "todayKits": 283,
   "onlineCount": 20,
   "peakPlayers": 52,
-  "tps": "10.0",
+  "tps": "6.0",
   "ping": 246,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7216
+      "count": 7217
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:01] <xbabapiro> !kit pvp ",
-    "[10:01] To xbabapiro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:01] [8b8t] >> Teleporting...",
-    "[10:01] <xbabapiro> !kit pvp ",
-    "[10:01] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[10:01] To xbabapiro: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:01] [8b8t] >> You have killed yourself!",
-    "[10:01] <xbabapiro> !kit stash ",
-    "[10:01] [8b8t] >> Teleporting to home 0...",
-    "[10:01] [8b8t] >> Home 2 was not found",
-    "[10:01] To xbabapiro: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[10:01] To xbabapiro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:01] [8b8t] >> Request sent to xbabapiro",
     "[10:01] [8b8t] >> The TPA request you sent to xbabapiro has expired.",
@@ -101,7 +90,18 @@
     "[10:02] <xbabapiro> turkhisssssss ",
     "[10:02] <xbabapiro> !kit pvp ",
     "[10:02] To xbabapiro: You're on cooldown, try again in 48 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:02] [BOT] <0_HienBot> >Do you want kit? Type !кιт "
+    "[10:02] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[10:02] <xbabapiro> sarmaaa ",
+    "[10:02] <xbabapiro> kebab ",
+    "[10:02] hunam has made the advancement [Stone Age]",
+    "[10:02] <xbabapiro> baklava ",
+    "[10:03] <phonix_01> !kit survival ",
+    "[10:03] [8b8t] >> Teleporting to home 0...",
+    "[10:03] [8b8t] >> Teleporting to home 1...",
+    "[10:03] To phonix_01: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:03] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[10:03] To phonix_01: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:03] [8b8t] >> Request sent to phonix_01"
   ],
   "userStats": {
     "76756": 38,
@@ -3484,7 +3484,7 @@
     "0_HeinBott": 47,
     "datrauma": 1,
     "Gix3er": 1,
-    "phonix_01": 18,
+    "phonix_01": 19,
     "WA_FI": 7,
     "Nickase": 3,
     "0_HienBott": 2,
@@ -3751,7 +3751,7 @@
   },
   "kitStats": {
     "build": 1948,
-    "survival": 7216,
+    "survival": 7217,
     "pvp": 9357,
     "dupe": 2602,
     "tools": 2127,
