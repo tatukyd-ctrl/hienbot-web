@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:00:11 19/1/2026",
+  "lastUpdated": "11:00:41 19/1/2026",
   "totalKits": 90828,
   "todayKits": 126,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 52,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 231,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9326
+      "count": 9327
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:57] <TulagrandBot> >Try /kill to kill yourself ",
-    "[03:57] <.Maddie8171111> !kit tools ",
-    "[03:57] [8b8t] >> Teleporting to home 0...",
-    "[03:57] [8b8t] >> Teleporting to home 7...",
-    "[03:57] To .Maddie8171111: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:57] [8b8t] >> Please do not spam.",
-    "[03:57] To .Maddie8171111: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:57] Ikomms has made the advancement [Acquire Hardware]",
-    "[03:57] AnarchyGooD Whispers: Nigga Stupid Mankeys USA is a Nigga ahhahahahhaha [pyM5MKo78yyAdYex8G2Y]",
-    "[03:57] [8b8t] >> Request sent to .Maddie8171111",
-    "[03:57] [8b8t] >> The TPA request you sent to .Maddie8171111 has expired.",
     "[03:58] <TulagrandBot> >How are you TNGB0T? ",
     "[03:58] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[03:58] <.Maddie8171111> !kit tools ",
@@ -101,7 +90,18 @@
     "[03:59] <TulagrandBot> >Try @seed to get 8b8t's seed ",
     "[03:59] Poe__Pin has reached the goal [Postmortal]",
     "[03:59] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:00] [8b8t] >> cheatcodelearn voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days"
+    "[04:00] [8b8t] >> cheatcodelearn voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
+    "[04:00] <openvoid> !kit ",
+    "[04:00] To openvoid: Hello openvoid!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:00] <TulagrandBot> >Building a base? Try @kit build ",
+    "[04:00] [BOT] <0_HienBot> >Hi .Maddie8171111! ",
+    "[04:00] <openvoid> !kit pvp ",
+    "[04:00] [8b8t] >> Teleporting to home 0...",
+    "[04:00] [8b8t] >> Teleporting to home 1...",
+    "[04:00] To openvoid: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:00] To openvoid: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:00] [8b8t] >> Request sent to openvoid",
+    "[04:00] <SooDeckOG> @kits "
   ],
   "userStats": {
     "76756": 38,
@@ -3728,12 +3728,13 @@
     "0Stress": 3,
     "larajaye": 1,
     "yra112": 1,
-    "MINHMC2077": 2
+    "MINHMC2077": 2,
+    "openvoid": 1
   },
   "kitStats": {
     "build": 1939,
     "survival": 7166,
-    "pvp": 9326,
+    "pvp": 9327,
     "dupe": 2595,
     "tools": 2107,
     "stash": 1292,
