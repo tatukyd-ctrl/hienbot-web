@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:14:41 19/1/2026",
-  "totalKits": 90843,
-  "todayKits": 141,
+  "lastUpdated": "11:15:01 19/1/2026",
+  "totalKits": 90844,
+  "todayKits": 142,
   "onlineCount": 35,
   "peakPlayers": 52,
-  "tps": "2.0",
-  "ping": 234,
+  "tps": "3.0",
+  "ping": 242,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7168
+      "count": 7169
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:13] <yiddhater586> !kit ",
-    "[04:13] To yiddhater586: Hello yiddhater586!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[04:13] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:13] <SooDeckOG> @kit concrete ",
-    "[04:13] To SooDeckOG: You're on cooldown, try again in 23 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:13] [8b8t] >> Please do not spam.",
-    "[04:14] <yiddhater586> !kit elytra ",
-    "[04:14] [8b8t] >> Teleporting to home 0...",
-    "[04:14] [8b8t] >> Teleporting to home 6...",
-    "[04:14] To yiddhater586: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:14] To yiddhater586: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[04:14] <Ordnasil1998> @kit ",
     "[04:14] To Ordnasil1998: Hello Ordnasil1998!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:14] <SooDeckOG> @kit concrete ",
     "[04:14] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +89,19 @@
     "[04:14] To .Eden_01655: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[04:14] [8b8t] >> You have killed yourself!",
     "[04:14] <Donni555> !kit ",
-    "[04:14] To Donni555: Hello Donni555!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[04:14] To Donni555: Hello Donni555!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:14] <.Eden_01655> !kit pots ",
+    "[04:14] [8b8t] >> Teleporting to home 0...",
+    "[04:14] [8b8t] >> Teleporting to home 1...",
+    "[04:14] To .Eden_01655: Kit \"pots\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[04:14] <TulagrandBot> >Building a base? Try @kit build ",
+    "[04:14] To .Eden_01655: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:14] [8b8t] >> Request sent to .Eden_01655",
+    "[04:14] <yiddhater586> !kit elytra ",
+    "[04:14] To yiddhater586: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:14] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
+    "[04:14] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[04:14] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2294,7 +2294,7 @@
     "Copetingo": 10,
     "Neto290908": 7,
     "TSDJuan": 1,
-    ".Eden_01655": 49,
+    ".Eden_01655": 50,
     "shirooo90": 4,
     "MrHipan": 39,
     "iMrArma_": 3,
@@ -3735,7 +3735,7 @@
   },
   "kitStats": {
     "build": 1940,
-    "survival": 7168,
+    "survival": 7169,
     "pvp": 9331,
     "dupe": 2595,
     "tools": 2110,
