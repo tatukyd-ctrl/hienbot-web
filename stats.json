@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:47:55 20/1/2026",
+  "lastUpdated": "23:48:09 20/1/2026",
   "totalKits": 91191,
   "todayKits": 4,
   "onlineCount": 33,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9419
+      "count": 9420
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:47] [8b8t] >> You have killed yourself!",
-    "[16:47] [8b8t] >> The TPA request you sent to 40005000 was successfully canceled.",
-    "[16:47] <Elchimuelo08> @kit build2 ",
-    "[16:47] [8b8t] >> Teleporting to home 0...",
-    "[16:47] <botchaosonix> ready ",
-    "[16:47] [8b8t] >> Teleporting to home 1...",
-    "[16:47] <yra112> see ",
     "[16:47] To Elchimuelo08: Kit \"build2\" not found! Giving you (music) instead! dsc.gg/hienbot",
     "[16:47] To Elchimuelo08: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:47] <WildCreativity> wait ",
@@ -101,7 +94,14 @@
     "[16:47] <.Shinigami5455> !kit elytra ",
     "[16:47] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[16:47] To .Shinigami5455: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:47] <Playmogyuer> !kit pvp "
+    "[16:47] <Playmogyuer> !kit pvp ",
+    "[16:47] To Playmogyuer: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:47] [8b8t] >> You have killed yourself!",
+    "[16:48] <TulagrandBot> >Try @seed to get 8b8t's seed ",
+    "[16:48] <.Shinigami5455> !kit pvp ",
+    "[16:48] [8b8t] >> Teleporting to home 0...",
+    "[16:48] [8b8t] >> Teleporting to home 1...",
+    "[16:48] To .Shinigami5455: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3768,12 +3768,13 @@
     "OptiCrack": 1,
     "WildCreativity": 3,
     "Elchimuelo08": 4,
-    "DIAGFV": 2
+    "DIAGFV": 2,
+    ".Shinigami5455": 1
   },
   "kitStats": {
     "build": 1957,
     "survival": 7244,
-    "pvp": 9419,
+    "pvp": 9420,
     "dupe": 2619,
     "tools": 2153,
     "stash": 1315,
