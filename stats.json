@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:50:58 21/1/2026",
+  "lastUpdated": "05:51:28 21/1/2026",
   "totalKits": 91412,
   "todayKits": 127,
-  "onlineCount": 37,
+  "onlineCount": 39,
   "peakPlayers": 41,
   "tps": "3.0",
-  "ping": 221,
+  "ping": 234,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9465
+      "count": 9466
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:49] [8b8t] >> Teleporting to home 0...",
-    "[22:49] [8b8t] >> Teleporting to home 1...",
-    "[22:49] To VRZ7: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:49] To VRZ7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:49] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[22:49] [8b8t] >> Request sent to VRZ7",
-    "[22:49] [8b8t] >> Teleporting...",
-    "[22:49] [8b8t] >> You have killed yourself!",
-    "[22:49] TubeTarasov89 has made the advancement [We Need to Go Deeper]",
     "[22:49] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[22:49] VRZ7 has completed the challenge [Serious Dedication]",
     "[22:49] [BOT] <0_HienBot> >Hi Ikomms! ",
@@ -101,7 +92,16 @@
     "[22:50] KingBomberKill has made the advancement [Ice Bucket Challenge]",
     "[22:50] <TulagrandBot> > TULAGRANDE 1.6! ",
     "[22:50] erikkoptero18 has made the advancement [Cover Me With Diamonds]",
-    "[22:50] LaSoLaTu has made the advancement [Spooky Scary Skeleton]"
+    "[22:50] LaSoLaTu has made the advancement [Spooky Scary Skeleton]",
+    "[22:51] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[22:51] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[22:51] <ahilleas11> !kit pvp ",
+    "[22:51] [8b8t] >> Teleporting to home 0...",
+    "[22:51] [8b8t] >> Teleporting to home 1...",
+    "[22:51] To ahilleas11: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:51] To ahilleas11: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:51] [8b8t] >> Request sent to ahilleas11",
+    "[22:51] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -3795,12 +3795,13 @@
     "two2linear": 2,
     "samfx0": 1,
     "VRZ7": 8,
-    "KingBomberKill": 1
+    "KingBomberKill": 1,
+    "ahilleas11": 1
   },
   "kitStats": {
     "build": 1968,
     "survival": 7269,
-    "pvp": 9465,
+    "pvp": 9466,
     "dupe": 2639,
     "tools": 2178,
     "stash": 1326,
