@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:01:57 21/1/2026",
+  "lastUpdated": "05:02:27 21/1/2026",
   "totalKits": 91378,
   "todayKits": 93,
   "onlineCount": 36,
   "peakPlayers": 41,
-  "tps": "2.0",
-  "ping": 228,
+  "tps": "3.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9455
+      "count": 9456
     },
     {
       "name": "survival",
@@ -72,25 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:00] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[22:00] <yall_uol> !kit ",
-    "[22:00] To yall_uol: Hello yall_uol!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:00] <or4acle> !kit elytra ",
-    "[22:00] [8b8t] >> You have killed yourself!",
-    "[22:00] To or4acle: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:00] [8b8t] >> Teleporting to home 0...",
-    "[22:00] [8b8t] >> Teleporting to home 6...",
-    "[22:00] To or4acle: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:00] <yall_uol> !{kit elytra ",
-    "[22:00] [8b8t] >> Request sent to or4acle",
-    "[22:00] [8b8t] >> Teleporting...",
-    "[22:00] [8b8t] >> You have killed yourself!",
-    "[22:01] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[22:01] <TulagrandBot> >Whant something? Try @kit! ",
-    "[22:01] <.Eman_Gaming988> ok look straight and fly through the withers. act like they arnt there ",
-    "[22:01] <yall_uol> $kit elitra ",
-    "[22:01] [8b8t] >> Teleporting to home 0...",
-    "[22:01] [8b8t] >> Teleporting to home 7...",
     "[22:01] To yall_uol: Kit \"elitra\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
     "[22:01] To yall_uol: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:01] [8b8t] >> Request sent to yall_uol",
@@ -101,7 +82,26 @@
     "[22:01] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[22:01] <two2linear> !kit ",
     "[22:01] To two2linear: Hello two2linear!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[22:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[22:01] <yall_uol> !kit elytra ",
+    "[22:01] To yall_uol: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:02] [BOT] <0_HienBot> >Hi talanleon! ",
+    "[22:02] <Antonhysv> !kit ",
+    "[22:02] To Antonhysv: Hello Antonhysv!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:02] <two2linear> !KIT ",
+    "[22:02] To two2linear: Hello two2linear!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:02] <.Eman_Gaming988> alright. ur free from spawn now. Find a portal many thousands of blocks away and ur free ",
+    "[22:02] <TulagrandBot> >Hello, noobmaster96 ",
+    "[22:02] <Cachew> thank you ",
+    "[22:02] <two2linear> !kit pvp ",
+    "[22:02] [8b8t] >> Teleporting to home 0...",
+    "[22:02] [8b8t] >> Teleporting to home 1...",
+    "[22:02] To two2linear: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:02] To two2linear: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:02] [8b8t] >> Request sent to two2linear",
+    "[22:02] <.Eman_Gaming988> yeah np ",
+    "[22:02] <two2linear> !kit ",
+    "[22:02] To two2linear: Hello two2linear!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3791,12 +3791,13 @@
     "HempfarmerILweed": 1,
     "Mortadela1": 2,
     "reallito": 1,
-    "yall_uol": 2
+    "yall_uol": 2,
+    "two2linear": 1
   },
   "kitStats": {
     "build": 1968,
     "survival": 7263,
-    "pvp": 9455,
+    "pvp": 9456,
     "dupe": 2637,
     "tools": 2175,
     "stash": 1326,
