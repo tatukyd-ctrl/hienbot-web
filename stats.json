@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:22:36 21/1/2026",
+  "lastUpdated": "05:22:57 21/1/2026",
   "totalKits": 91393,
   "todayKits": 108,
-  "onlineCount": 34,
+  "onlineCount": 32,
   "peakPlayers": 41,
-  "tps": "4.0",
-  "ping": 225,
+  "tps": "2.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9459
+      "count": 9460
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:21] [8b8t] >> Request sent to __Solarflare",
-    "[22:21] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[22:21] <__Solarflare> !kit exp ",
-    "[22:21] To __Solarflare: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:21] <Cachew> ofc ",
-    "[22:21] <yall_uol> !kit survival ",
-    "[22:21] To yall_uol: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:21] <__Solarflare> !kit exp ",
-    "[22:21] To __Solarflare: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:22] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[22:22] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[22:22] [8b8t] >> You have killed yourself!",
     "[22:22] [8b8t] >> The TPA request you sent to __Solarflare was successfully canceled.",
     "[22:22] <__Solarflare> !kit exp ",
@@ -101,7 +90,18 @@
     "[22:22] <VRZ7> !kit elytra ",
     "[22:22] To VRZ7: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[22:22] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[22:22] <H_INMORTAL_M> me, d "
+    "[22:22] <H_INMORTAL_M> me, d ",
+    "[22:22] <TulagrandBot> >Hola reymeteoro19 ",
+    "[22:22] [8b8t] >> You have killed yourself!",
+    "[22:22] <two2linear> !klt ",
+    "[22:22] <VRZ7> !KIT PVP ",
+    "[22:22] [8b8t] >> Teleporting to home 0...",
+    "[22:22] [8b8t] >> Teleporting to home 1...",
+    "[22:22] To VRZ7: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:22] To VRZ7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:22] [8b8t] >> Request sent to VRZ7",
+    "[22:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[22:22] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3794,12 +3794,12 @@
     "yall_uol": 5,
     "two2linear": 2,
     "samfx0": 1,
-    "VRZ7": 2
+    "VRZ7": 3
   },
   "kitStats": {
     "build": 1968,
     "survival": 7265,
-    "pvp": 9459,
+    "pvp": 9460,
     "dupe": 2639,
     "tools": 2176,
     "stash": 1326,
