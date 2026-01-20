@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:29:39 21/1/2026",
+  "lastUpdated": "01:30:09 21/1/2026",
   "totalKits": 91232,
   "todayKits": 45,
   "onlineCount": 23,
   "peakPlayers": 37,
-  "tps": "8.0",
-  "ping": 212,
+  "tps": "5.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1961
+      "count": 1962
     }
   ],
   "chatLog": [
-    "[18:26] <DrVenial31> go ",
-    "[18:26] <PR2CEE> !kit build ",
-    "[18:26] [8b8t] >> Teleporting to home 0...",
-    "[18:26] [8b8t] >> Home 2 was not found",
-    "[18:26] To PR2CEE: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[18:26] <botchaosonix> go redy ",
-    "[18:26] To PR2CEE: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:26] [8b8t] >> Request sent to PR2CEE",
     "[18:26] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[18:27] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[18:28] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[18:28] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[18:29] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[18:29] <botchaosonix> I love it when you pop DrVenial31 "
+    "[18:29] <botchaosonix> I love it when you pop DrVenial31 ",
+    "[18:29] <PR2CEE> !kit build ",
+    "[18:29] [8b8t] >> Teleporting to home 0...",
+    "[18:29] [8b8t] >> Home 2 was not found",
+    "[18:29] To PR2CEE: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:29] To PR2CEE: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:29] [8b8t] >> Request sent to PR2CEE",
+    "[18:29] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
   ],
   "userStats": {
     "76756": 38,
@@ -2224,7 +2224,7 @@
     "ItzRealGaby": 2,
     "elmartin50": 31,
     "xbsdg": 2,
-    "PR2CEE": 19,
+    "PR2CEE": 20,
     "Brunosayi": 1,
     "THE_QALEN": 11,
     "4iwurLP": 2,
@@ -3776,7 +3776,7 @@
     "ANTIVILAGER": 1
   },
   "kitStats": {
-    "build": 1961,
+    "build": 1962,
     "survival": 7254,
     "pvp": 9431,
     "dupe": 2622,
