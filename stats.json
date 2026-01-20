@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:51:58 21/1/2026",
+  "lastUpdated": "00:52:09 21/1/2026",
   "totalKits": 91220,
   "todayKits": 33,
   "onlineCount": 26,
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2621
+      "count": 2622
     },
     {
       "name": "tools",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:49] [8b8t] >> Teleporting to home 0...",
-    "[17:49] [8b8t] >> Teleporting to home 1...",
-    "[17:49] <brojsutgame> !kit ",
-    "[17:49] To brojsutgame: 你好 brojsutgame!! 使用 !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[17:49] To kazammo: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:49] To kazammo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:49] [8b8t] >> Request sent to kazammo",
@@ -101,7 +97,11 @@
     "[17:51] <Simblebot> viu ",
     "[17:51] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[17:51] [8b8t] >> Teleporting...",
-    "[17:51] <EL_Super_Troll> sim "
+    "[17:51] <EL_Super_Troll> sim ",
+    "[17:52] [8b8t] >> You have killed yourself!",
+    "[17:52] <rokfox48> !kit dupe ",
+    "[17:52] [8b8t] >> Teleporting to home 0...",
+    "[17:52] [8b8t] >> Teleporting to home 7..."
   ],
   "userStats": {
     "76756": 38,
@@ -3771,13 +3771,14 @@
     "DIAGFV": 2,
     ".Shinigami5455": 2,
     "ObviousVolv0x": 2,
-    "Valucd": 1
+    "Valucd": 1,
+    "rokfox48": 1
   },
   "kitStats": {
     "build": 1958,
     "survival": 7250,
     "pvp": 9428,
-    "dupe": 2621,
+    "dupe": 2622,
     "tools": 2155,
     "stash": 1318,
     "raid": 1548,
