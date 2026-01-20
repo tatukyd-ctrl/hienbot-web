@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:09:27 21/1/2026",
-  "totalKits": 91331,
-  "todayKits": 46,
-  "onlineCount": 31,
+  "lastUpdated": "04:09:40 21/1/2026",
+  "totalKits": 91332,
+  "todayKits": 47,
+  "onlineCount": 32,
   "peakPlayers": 41,
-  "tps": "8.0",
+  "tps": "10.0",
   "ping": 213,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9449
+      "count": 9450
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:08] <liviaaaaaaa> !kit cpvp ",
-    "[21:08] [8b8t] >> Teleporting to home 0...",
-    "[21:08] [8b8t] >> Teleporting to home 1...",
-    "[21:08] To liviaaaaaaa: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:08] To liviaaaaaaa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:08] [8b8t] >> Request sent to liviaaaaaaa",
-    "[21:08] [8b8t] >> Teleporting...",
-    "[21:08] <.Eman_Gaming988> !kit potions ",
     "[21:08] To .Eman_Gaming988: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:08] [8b8t] >> You have killed yourself!",
     "[21:08] <usuario457> kit ",
@@ -101,7 +93,15 @@
     "[21:09] To liviaaaaaaa: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:09] [8b8t] >> You have killed yourself!",
     "[21:09] [8b8t] >> No TPA request found",
-    "[21:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[21:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[21:09] <liviaaaaaaa> !kit cpvp ",
+    "[21:09] [8b8t] >> Teleporting to home 0...",
+    "[21:09] [8b8t] >> Teleporting to home 1...",
+    "[21:09] To liviaaaaaaa: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:09] [BOT] <0_HienBot> >What's up, PistonCubeB0T? ",
+    "[21:09] To liviaaaaaaa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:09] [8b8t] >> Request sent to liviaaaaaaa",
+    "[21:09] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3576,7 +3576,7 @@
     "Wemmbu_fannn": 49,
     "E7KwasTaken": 21,
     "iamsuckkkk": 3,
-    "liviaaaaaaa": 7,
+    "liviaaaaaaa": 8,
     "BADDREAM": 1,
     "angelina12": 1,
     "kyngz_on_java": 8,
@@ -3790,7 +3790,7 @@
   "kitStats": {
     "build": 1967,
     "survival": 7263,
-    "pvp": 9449,
+    "pvp": 9450,
     "dupe": 2630,
     "tools": 2159,
     "stash": 1324,
