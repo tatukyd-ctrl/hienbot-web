@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:06:57 21/1/2026",
+  "lastUpdated": "05:07:27 21/1/2026",
   "totalKits": 91382,
   "todayKits": 97,
   "onlineCount": 38,
   "peakPlayers": 41,
-  "tps": "4.0",
-  "ping": 213,
+  "tps": "1.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9456
+      "count": 9457
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:05] To Antonhysv: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:05] <Cachew> no pero habla espanol ",
-    "[22:05] To Antonhysv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:05] [8b8t] >> Request sent to Antonhysv",
-    "[22:05] <TulagrandBot> >Try @ping to get your ping ",
-    "[22:05] yall_uol has made the advancement [Stone Age]",
-    "[22:05] [8b8t] >> Teleporting...",
-    "[22:05] two2linear has completed the challenge [Cover Me in Debris]",
     "[22:05] <VRZ7> ah ",
     "[22:05] two2linear has reached the goal [Sky's the Limit]",
     "[22:05] two2linear has made the advancement [Ice Bucket Challenge]",
@@ -101,7 +93,15 @@
     "[22:06] <samfx0> !kit ",
     "[22:06] To samfx0: Hello samfx0!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[22:06] <H_INMORTAL_M> \" ",
-    "[22:06] <TulagrandBot> >Want kit? Try @kit "
+    "[22:06] <TulagrandBot> >Want kit? Try @kit ",
+    "[22:07] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[22:07] <ilovecatsvr57364> yo? ",
+    "[22:07] <.Eman_Gaming988> i dont have a mace ",
+    "[22:07] <ilovecatsvr57364> bro??? ",
+    "[22:07] <samfx0> !kit PVP ",
+    "[22:07] [8b8t] >> Teleporting to home 0...",
+    "[22:07] [8b8t] >> Teleporting to home 1...",
+    "[22:07] To samfx0: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3792,12 +3792,13 @@
     "Mortadela1": 2,
     "reallito": 1,
     "yall_uol": 4,
-    "two2linear": 1
+    "two2linear": 1,
+    "samfx0": 1
   },
   "kitStats": {
     "build": 1968,
     "survival": 7264,
-    "pvp": 9456,
+    "pvp": 9457,
     "dupe": 2638,
     "tools": 2175,
     "stash": 1326,
