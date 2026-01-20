@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:58:14 20/1/2026",
+  "lastUpdated": "21:58:44 20/1/2026",
   "totalKits": 91187,
   "todayKits": 0,
   "onlineCount": 30,
   "peakPlayers": 37,
   "tps": "0.0",
-  "ping": 0,
+  "ping": 471,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:57] [8b8t] >> Your login session has been continued.",
-    "[14:57] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[14:57] ",
     "[14:57]  [8builders8tools]",
     "[14:57]  Perform the command /discord add to register",
     "[14:57]  your discord. By doing so, you",
@@ -101,7 +98,10 @@
     "[14:58] ",
     "[14:58]   [Confirm read]",
     "[14:58] ",
-    "[14:58] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me"
+    "[14:58] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[14:58] [8b8t] >> You have killed yourself!",
+    "[14:58] Chat disabled in client options",
+    "[14:58] You are already connected to this server!"
   ],
   "userStats": {
     "76756": 38,
