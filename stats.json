@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:19:12 21/1/2026",
+  "lastUpdated": "04:19:27 21/1/2026",
   "totalKits": 91344,
   "todayKits": 59,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 41,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 210,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:18] <__Solarflare> !kit raid ",
-    "[21:18] [8b8t] >> Teleporting to home 0...",
-    "[21:18] [8b8t] >> Home 2 was not found",
-    "[21:18] To __Solarflare: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:18] To __Solarflare: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:18] [8b8t] >> Request sent to __Solarflare",
     "[21:18] <KARMAA_GD> !kit raid ",
     "[21:18] To KARMAA_GD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[21:19] To IAM_SO_GOOD1: Hello IAM_SO_GOOD1!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[21:19] To liviaaaaaaa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:19] [8b8t] >> Request sent to liviaaaaaaa",
-    "[21:19] [8b8t] >> Teleporting..."
+    "[21:19] [8b8t] >> Teleporting...",
+    "[21:19] [8b8t] >> You have killed yourself!",
+    "[21:19] <IAM_SO_GOOD1> !kit admin ",
+    "[21:19] [8b8t] >> Teleporting to home 0...",
+    "[21:19] [8b8t] >> Teleporting to home 3...",
+    "[21:19] To IAM_SO_GOOD1: Kit \"admin\" not found! Giving you (wool) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3391,7 +3391,7 @@
     "Alsobruh_": 2,
     "SEBASRED_01": 2,
     "CornyTheCorn": 5,
-    "IAM_SO_GOOD1": 9,
+    "IAM_SO_GOOD1": 10,
     "_Iwss": 1,
     "meewpqwe": 1,
     "PIpe999": 1,
@@ -3799,7 +3799,7 @@
     "wood": 609,
     "exp": 916,
     "dye": 372,
-    "wool": 555,
+    "wool": 556,
     "mineral": 597,
     "food": 598,
     "redstone": 950,
