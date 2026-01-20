@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:15:33 21/1/2026",
+  "lastUpdated": "03:15:40 21/1/2026",
   "totalKits": 91274,
   "todayKits": 87,
-  "onlineCount": 46,
+  "onlineCount": 47,
   "peakPlayers": 47,
-  "tps": "1.0",
-  "ping": 219,
+  "tps": "2.0",
+  "ping": 243,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:14] To MattyBot: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:14] [8b8t] >> You have killed yourself!",
     "[20:14] <MattyBot> !kit wool ",
     "[20:14] [8b8t] >> Teleporting to home 0...",
     "[20:14] [8b8t] >> Teleporting to home 3...",
@@ -101,7 +99,9 @@
     "[20:15] To h8yo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:15] <TulagrandBot> >Building a base? Try @kit build1 ",
     "[20:15] [8b8t] >> Request sent to h8yo",
-    "[20:15] [8b8t] >> Teleporting..."
+    "[20:15] [8b8t] >> Teleporting...",
+    "[20:15] [8b8t] >> You have killed yourself!",
+    "[20:15] <or4acle> !kit wool "
   ],
   "userStats": {
     "76756": 38,
@@ -2699,7 +2699,7 @@
     "k4fb": 1,
     "thexjaj1": 3,
     "ItEZPez": 1,
-    "or4acle": 44,
+    "or4acle": 45,
     "RainbowGlassCat": 2,
     "Booosah": 1,
     "PaoloIsHere09": 18,
@@ -3793,7 +3793,7 @@
     "wood": 607,
     "exp": 915,
     "dye": 372,
-    "wool": 536,
+    "wool": 537,
     "mineral": 597,
     "food": 594,
     "redstone": 950,
