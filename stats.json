@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:48:38 21/1/2026",
+  "lastUpdated": "00:49:09 21/1/2026",
   "totalKits": 91218,
   "todayKits": 31,
   "onlineCount": 25,
   "peakPlayers": 37,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 220,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9426
+      "count": 9427
     },
     {
       "name": "survival",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2154
+      "count": 2155
     },
     {
       "name": "build",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:46] [8b8t] >> You have killed yourself!",
-    "[17:46] <Simblebot> agora ta funcionando ",
-    "[17:46] <kazammo> !kit tools ",
-    "[17:46] [8b8t] >> Teleporting to home 0...",
-    "[17:46] [8b8t] >> No TPA request found",
-    "[17:46] [8b8t] >> Teleporting to home 7...",
-    "[17:46] To kazammo: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:47] To kazammo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:47] <brojsutgame> !kit stash ",
-    "[17:47] To brojsutgame: 请稍等。别忘了加入 HienBot Group dsc.gg/hienbot",
-    "[17:47] [8b8t] >> Request sent to kazammo",
-    "[17:47] [8b8t] >> Teleporting...",
-    "[17:47] [8b8t] >> You have killed yourself!",
-    "[17:47] [8b8t] >> The TPA request you sent to brojsutgame has expired.",
-    "[17:47] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[17:47] <HahaGirlYs> nah bruh ",
     "[17:47] [8b8t] >> Please do not spam.",
     "[17:47] <asciicat> unlucky ",
@@ -101,7 +86,22 @@
     "[17:48] [8b8t] >> Request sent to brojsutgame",
     "[17:48] [8b8t] >> Teleporting...",
     "[17:48] <kazammo> !kit tools ",
-    "[17:48] To kazammo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[17:48] To kazammo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:48] <HahaGirlYs> any1 wanna team up ",
+    "[17:48] <kazammo> !kit tools ",
+    "[17:48] [8b8t] >> You have killed yourself!",
+    "[17:48] [8b8t] >> You have killed yourself!",
+    "[17:48] To kazammo: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:49] [8b8t] >> Teleporting to home 0...",
+    "[17:49] [8b8t] >> Teleporting to home 7...",
+    "[17:49] To kazammo: Try again dsc.gg/hienbot",
+    "[17:49] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
+    "[17:49] <kazammo> @kit pvp ",
+    "[17:49] [8b8t] >> Teleporting to home 0...",
+    "[17:49] [8b8t] >> Teleporting to home 1...",
+    "[17:49] <brojsutgame> !kit ",
+    "[17:49] To brojsutgame: 你好 brojsutgame!! 使用 !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:49] To kazammo: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -1133,7 +1133,7 @@
     "LolxiterZZZ": 1,
     "cyleson": 2,
     "hxcx1": 3,
-    "kazammo": 95,
+    "kazammo": 97,
     "cazaresss": 2,
     "17_Ap": 4,
     "Lplaysgames": 3,
@@ -3775,9 +3775,9 @@
   "kitStats": {
     "build": 1958,
     "survival": 7250,
-    "pvp": 9426,
+    "pvp": 9427,
     "dupe": 2621,
-    "tools": 2154,
+    "tools": 2155,
     "stash": 1318,
     "raid": 1548,
     "wood": 607,
