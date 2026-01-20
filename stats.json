@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:16:23 21/1/2026",
+  "lastUpdated": "03:16:40 21/1/2026",
   "totalKits": 91276,
   "todayKits": 89,
   "onlineCount": 45,
   "peakPlayers": 48,
-  "tps": "2.0",
-  "ping": 243,
+  "tps": "5.0",
+  "ping": 239,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:15] To h8yo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:15] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[20:15] [8b8t] >> Request sent to h8yo",
-    "[20:15] [8b8t] >> Teleporting...",
-    "[20:15] [8b8t] >> You have killed yourself!",
-    "[20:15] <or4acle> !kit wool ",
-    "[20:15] [8b8t] >> Teleporting to home 0...",
-    "[20:15] [8b8t] >> Teleporting to home 3...",
-    "[20:15] To or4acle: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:15] To or4acle: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:15] [8b8t] >> Request sent to or4acle",
     "[20:15] [8b8t] >> Teleporting...",
     "[20:15] <fibra_> tramposo ",
@@ -101,7 +91,17 @@
     "[20:16] To MattyBot: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:16] [8b8t] >> Request sent to MattyBot",
     "[20:16] [8b8t] >> Teleporting...",
-    "[20:16] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[20:16] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[20:16] [8b8t] >> You have killed yourself!",
+    "[20:16] <h8yo> @kit build1 ",
+    "[20:16] [8b8t] >> Teleporting to home 0...",
+    "[20:16] [8b8t] >> Teleporting to home 5...",
+    "[20:16] To h8yo: Kit \"build1\" not found! Giving you (end) instead! dsc.gg/hienbot",
+    "[20:16] <dragonsej2025> pone el comando!kits ",
+    "[20:16] To h8yo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:16] [8b8t] >> Request sent to h8yo",
+    "[20:16] chueco835 has completed the challenge [Subspace Bubble]",
+    "[20:16] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3779,7 +3779,7 @@
     "xXxAllajxXx": 1,
     "Souzzaqy7": 3,
     ".Eman_Gaming988": 5,
-    "h8yo": 7,
+    "h8yo": 8,
     "seasnail899": 3
   },
   "kitStats": {
@@ -3801,7 +3801,7 @@
     "quartz": 410,
     "shulker": 694,
     "terracotta": 150,
-    "end": 792,
+    "end": 793,
     "armortrims": 677,
     "highway": 664,
     "ocean": 201,
