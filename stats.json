@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:51:09 21/1/2026",
+  "lastUpdated": "00:51:39 21/1/2026",
   "totalKits": 91219,
   "todayKits": 32,
-  "onlineCount": 28,
+  "onlineCount": 27,
   "peakPlayers": 37,
-  "tps": "3.0",
-  "ping": 211,
+  "tps": "9.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9427
+      "count": 9428
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:48] [8b8t] >> Request sent to brojsutgame",
-    "[17:48] [8b8t] >> Teleporting...",
-    "[17:48] <kazammo> !kit tools ",
-    "[17:48] To kazammo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:48] <HahaGirlYs> any1 wanna team up ",
-    "[17:48] <kazammo> !kit tools ",
     "[17:48] [8b8t] >> You have killed yourself!",
     "[17:48] [8b8t] >> You have killed yourself!",
     "[17:48] To kazammo: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[17:49] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[17:50] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[17:50] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[17:50] <HahaGirlYs> any1 wanna team up "
+    "[17:50] <HahaGirlYs> any1 wanna team up ",
+    "[17:51] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[17:51] <GOJOJUJUTSU> TÜRK VARMI ? ",
+    "[17:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[17:51] <Valucd> !kit pvp ",
+    "[17:51] [8b8t] >> You have killed yourself!",
+    "[17:51] To Valucd: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3770,12 +3770,13 @@
     "Elchimuelo08": 4,
     "DIAGFV": 2,
     ".Shinigami5455": 2,
-    "ObviousVolv0x": 2
+    "ObviousVolv0x": 2,
+    "Valucd": 1
   },
   "kitStats": {
     "build": 1958,
     "survival": 7250,
-    "pvp": 9427,
+    "pvp": 9428,
     "dupe": 2621,
     "tools": 2155,
     "stash": 1318,
