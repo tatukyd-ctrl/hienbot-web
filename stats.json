@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:56:57 21/1/2026",
+  "lastUpdated": "03:57:27 21/1/2026",
   "totalKits": 91319,
   "todayKits": 34,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 41,
-  "tps": "4.0",
-  "ping": 225,
+  "tps": "5.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:55] [8b8t] >> Teleporting to home 4...",
-    "[20:55] To .FanDeJesus5641: Tu kit (apple) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
-    "[20:55] To .FanDeJesus5641: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[20:55] [8b8t] >> Request sent to .FanDeJesus5641",
-    "[20:55] [8b8t] >> Teleporting...",
-    "[20:55] <.Nathanitto> !kit apple ",
-    "[20:55] [8b8t] >> Teleporting to home 0...",
-    "[20:55] [8b8t] >> Teleporting to home 4...",
     "[20:55] <Carlesneri> !kit survival ",
     "[20:55] To Carlesneri: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:55] To .Nathanitto: Your kit (apple) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[20:56] [BOT] <0_HienBot> >Type !discord ",
     "[20:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:56] KARMAA_GD has made the advancement [We Need to Go Deeper]",
-    "[20:56] <TulagrandBot> >Try /nc to change your nick color "
+    "[20:56] <TulagrandBot> >Try /nc to change your nick color ",
+    "[20:57] <.Nathanitto> !kit shulkerbox ",
+    "[20:57] [8b8t] >> Teleporting to home 0...",
+    "[20:57] [8b8t] >> Teleporting to home 6...",
+    "[20:57] To .Nathanitto: Your kit (shulkerbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:57] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[20:57] To .Nathanitto: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:57] [8b8t] >> You already have a pending request",
+    "[20:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -3785,7 +3785,7 @@
     "Carlesneri": 1,
     "_Stellium_": 3,
     "KARMAA_GD": 1,
-    ".Nathanitto": 1
+    ".Nathanitto": 2
   },
   "kitStats": {
     "build": 1967,
@@ -3804,7 +3804,7 @@
     "redstone": 950,
     "toolbox": 864,
     "quartz": 410,
-    "shulker": 697,
+    "shulker": 698,
     "terracotta": 150,
     "end": 793,
     "armortrims": 677,
