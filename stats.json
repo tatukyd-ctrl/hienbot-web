@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:23:44 21/1/2026",
+  "lastUpdated": "06:23:58 21/1/2026",
   "totalKits": 91428,
   "todayKits": 143,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 44,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 223,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9470
+      "count": 9471
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:23] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[23:23] <.Eman_Gaming988> !kit food ",
-    "[23:23] [8b8t] >> Teleporting to home 0...",
-    "[23:23] [8b8t] >> Teleporting to home 4...",
-    "[23:23] To .Eman_Gaming988: Your kit (food) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:23] To .Eman_Gaming988: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:23] [8b8t] >> Request sent to .Eman_Gaming988",
-    "[23:23] <chetilloconqueso> !kit ",
-    "[23:23] To chetilloconqueso: Hello chetilloconqueso!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:23] [8b8t] >> Teleporting...",
-    "[23:23] <oldmilo> !lang ",
     "[23:23] <TulagrandBot> >Hola Ikomms ",
     "[23:23] <Cheleviruz> Con esa cola de 700 o menos recuerdo que habian de 400 ",
     "[23:23] To oldmilo: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[23:23] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[23:23] [8b8t] >> Teleporting...",
     "[23:23] <Saxx> !kit pvp ",
-    "[23:23] To Saxx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[23:23] To Saxx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:23] <oldmilo> !kit stash ",
+    "[23:23] To oldmilo: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
+    "[23:23] <chetilloconqueso> !kit pvp ",
+    "[23:23] [8b8t] >> You have killed yourself!",
+    "[23:23] [8b8t] >> You have killed yourself!",
+    "[23:23] To chetilloconqueso: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:23] [8b8t] >> Teleporting to home 0...",
+    "[23:23] [8b8t] >> Teleporting to home 1...",
+    "[23:23] <TulagrandBot> >Try @list to get list of players ",
+    "[23:23] To chetilloconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:23] [8b8t] >> Request sent to chetilloconqueso"
   ],
   "userStats": {
     "76756": 38,
@@ -3796,12 +3796,13 @@
     "samfx0": 1,
     "VRZ7": 16,
     "KingBomberKill": 1,
-    "ahilleas11": 1
+    "ahilleas11": 1,
+    "chetilloconqueso": 1
   },
   "kitStats": {
     "build": 1968,
     "survival": 7270,
-    "pvp": 9470,
+    "pvp": 9471,
     "dupe": 2642,
     "tools": 2180,
     "stash": 1326,
