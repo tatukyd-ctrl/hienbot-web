@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:36:37 21/1/2026",
+  "lastUpdated": "05:36:57 21/1/2026",
   "totalKits": 91401,
   "todayKits": 116,
-  "onlineCount": 34,
+  "onlineCount": 32,
   "peakPlayers": 41,
-  "tps": "3.0",
-  "ping": 265,
+  "tps": "5.0",
+  "ping": 228,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9461
+      "count": 9462
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:35] <.Eman_Gaming988> oh tuff. It looks really good ",
-    "[22:35] <H_INMORTAL_M> h\" ",
-    "[22:35] <VRZ7> !kit pvp ",
-    "[22:35] [8b8t] >> Teleporting to home 0...",
-    "[22:35] [8b8t] >> Teleporting to home 1...",
-    "[22:35] To VRZ7: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:35] <Cachew> solar you can come i think ",
     "[22:35] To VRZ7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:35] [8b8t] >> Request sent to VRZ7",
@@ -101,7 +95,13 @@
     "[22:36] To VRZ7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:36] [8b8t] >> Request sent to VRZ7",
     "[22:36] [8b8t] >> Teleporting...",
-    "[22:36] [BOT] <0_HienBot> >What's up, noobmaster96? "
+    "[22:36] [BOT] <0_HienBot> >What's up, noobmaster96? ",
+    "[22:36] <TulagrandBot> >Try @list to get list of players ",
+    "[22:36] [8b8t] >> You have killed yourself!",
+    "[22:36] <.Eman_Gaming988> !kit pvp ",
+    "[22:36] [8b8t] >> Teleporting to home 0...",
+    "[22:36] [8b8t] >> Teleporting to home 1...",
+    "[22:36] To .Eman_Gaming988: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3778,7 +3778,7 @@
     "jansf138": 1,
     "xXxAllajxXx": 1,
     "Souzzaqy7": 3,
-    ".Eman_Gaming988": 12,
+    ".Eman_Gaming988": 13,
     "h8yo": 10,
     "seasnail899": 4,
     "juIinX_PAx27": 5,
@@ -3799,7 +3799,7 @@
   "kitStats": {
     "build": 1968,
     "survival": 7265,
-    "pvp": 9461,
+    "pvp": 9462,
     "dupe": 2639,
     "tools": 2176,
     "stash": 1326,
