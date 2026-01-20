@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:03:27 21/1/2026",
-  "totalKits": 91324,
-  "todayKits": 39,
-  "onlineCount": 30,
+  "lastUpdated": "04:03:57 21/1/2026",
+  "totalKits": 91325,
+  "todayKits": 40,
+  "onlineCount": 32,
   "peakPlayers": 41,
-  "tps": "3.0",
+  "tps": "6.0",
   "ping": 212,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9446
+      "count": 9447
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:02] [8b8t] >> Request sent to __Solarflare",
-    "[21:02] <liviaaaaaaa> tytyytytytyytytyty ",
-    "[21:02] [8b8t] >> Teleporting...",
-    "[21:02] <.FanDeJesus5641> @kit bricks ",
-    "[21:02] To .FanDeJesus5641: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
-    "[21:02] <.FanDeJesus5641> @kit bricks ",
-    "[21:02] [8b8t] >> Teleporting to home 0...",
-    "[21:02] [8b8t] >> Teleporting to home 5...",
     "[21:02] To .FanDeJesus5641: Tu kit (bricks) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
     "[21:02] <liviaaaaaaa> !kit survival ",
     "[21:02] To liviaaaaaaa: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[21:03] [8b8t] >> Request sent to liviaaaaaaa",
     "[21:03] [8b8t] >> Teleporting...",
     "[21:03] [8b8t] >> You have killed yourself!",
-    "[21:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[21:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[21:03] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[21:03] <__Solarflare> !kit pvp ",
+    "[21:03] [8b8t] >> Teleporting to home 0...",
+    "[21:03] [8b8t] >> Teleporting to home 1...",
+    "[21:03] To __Solarflare: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:03] To __Solarflare: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:03] [8b8t] >> Request sent to __Solarflare",
+    "[21:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2652,7 +2652,7 @@
     "lkignfirst": 2,
     "elman_1223": 1,
     "volvoHL": 1,
-    "__Solarflare": 22,
+    "__Solarflare": 23,
     "monochrome": 4,
     ".qui23763": 23,
     "seasnail12351": 1,
@@ -3790,7 +3790,7 @@
   "kitStats": {
     "build": 1967,
     "survival": 7261,
-    "pvp": 9446,
+    "pvp": 9447,
     "dupe": 2630,
     "tools": 2159,
     "stash": 1324,
