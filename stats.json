@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:52:05 21/1/2026",
+  "lastUpdated": "06:52:28 21/1/2026",
   "totalKits": 91463,
   "todayKits": 178,
   "onlineCount": 33,
   "peakPlayers": 44,
   "tps": "3.0",
-  "ping": 221,
+  "ping": 236,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9478
+      "count": 9479
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:51] <MasterWo> a onde ",
-    "[23:51] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[23:51] <oldmilo> @kit ",
-    "[23:51] <_YouAreez_> a donde va hacer ",
-    "[23:51] To oldmilo: Hola oldmilo!! Usa !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:51] <oldmilo> @kit Raid ",
-    "[23:51] [8b8t] >> Teleporting to home 0...",
     "[23:51] [8b8t] >> Home 2 was not found",
     "[23:51] To oldmilo: Tu kit (Raid) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
     "[23:51] <MasterWo> a donde va a hacer q xd ",
@@ -101,7 +94,14 @@
     "[23:51] To VRZ7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:51] [8b8t] >> Request sent to VRZ7",
     "[23:52] [8b8t] >> Teleporting...",
-    "[23:52] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
+    "[23:52] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[23:52] [8b8t] >> You have killed yourself!",
+    "[23:52] <VRZ7> !kit pvp ",
+    "[23:52] To VRZ7: You're on cooldown, try again in 35 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:52] <VRZ7> !kit pvp ",
+    "[23:52] To VRZ7: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:52] <masmellou63> !kit pvp ",
+    "[23:52] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3798,12 +3798,13 @@
     "KingBomberKill": 1,
     "ahilleas11": 1,
     "chetilloconqueso": 5,
-    "oldmilo": 8
+    "oldmilo": 8,
+    "masmellou63": 1
   },
   "kitStats": {
     "build": 1968,
     "survival": 7277,
-    "pvp": 9478,
+    "pvp": 9479,
     "dupe": 2645,
     "tools": 2181,
     "stash": 1329,
