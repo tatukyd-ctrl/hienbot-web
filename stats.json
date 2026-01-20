@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:09:02 20/1/2026",
+  "lastUpdated": "20:09:11 20/1/2026",
   "totalKits": 91150,
   "todayKits": 5,
   "onlineCount": 29,
   "peakPlayers": 29,
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 250,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:07] <OmHackz> !kit raid ",
-    "[13:07] [8b8t] >> Teleporting to home 0...",
-    "[13:07] [8b8t] >> Home 2 was not found",
-    "[13:07] To OmHackz: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:07] To OmHackz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:07] <D4rk_Nightsh4d3> !kit raid ",
     "[13:07] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[13:07] To D4rk_Nightsh4d3: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:07] [8b8t] >> Request sent to OmHackz",
@@ -101,7 +95,13 @@
     "[13:08] <TulagrandBot> >Hello, sunDyemaster ",
     "[13:08] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[13:08] <lyzenix> sa ",
-    "[13:08] [8b8t] >> Teleporting..."
+    "[13:08] [8b8t] >> Teleporting...",
+    "[13:09] <GOJOJUJUTSU> !kit ",
+    "[13:09] To GOJOJUJUTSU: Hello GOJOJUJUTSU!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:09] [8b8t] >> You have killed yourself!",
+    "[13:09] <lyzenix> !kit ",
+    "[13:09] To lyzenix: Hello lyzenix!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:09] <lyzenix> !kit duğe "
   ],
   "userStats": {
     "76756": 38,
@@ -3758,7 +3758,8 @@
     "anh_do_mixi": 2,
     "chillguy1402": 2,
     "Meliodes1": 5,
-    "NotRavivYT": 1
+    "NotRavivYT": 1,
+    "lyzenix": 1
   },
   "kitStats": {
     "build": 1951,
@@ -3778,7 +3779,7 @@
     "toolbox": 864,
     "quartz": 408,
     "shulker": 694,
-    "terracotta": 148,
+    "terracotta": 149,
     "end": 791,
     "armortrims": 675,
     "highway": 659,
