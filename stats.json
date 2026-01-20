@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:42:26 21/1/2026",
+  "lastUpdated": "00:42:39 21/1/2026",
   "totalKits": 91210,
   "todayKits": 23,
   "onlineCount": 24,
   "peakPlayers": 37,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 213,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9424
+      "count": 9425
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:40] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[17:40] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[17:40] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[17:41] <brojsutgame> !kit build ",
-    "[17:41] [8b8t] >> Teleporting to home 0...",
-    "[17:41] [8b8t] >> Home 2 was not found",
-    "[17:41] To brojsutgame: 你的kit (build) 将在30秒内送达！加入 dsc.gg/hienbot",
-    "[17:41] To brojsutgame: 请在35秒内输入 \"/tpayes 0_HienBot\" ！加入 dsc.gg/hienbot 获取更新。",
-    "[17:41] [8b8t] >> Request sent to brojsutgame",
     "[17:41] [8b8t] >> Teleporting...",
     "[17:41] [BOT] <0_HienBot> >Hi MrBeax31! ",
     "[17:41] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[17:42] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[17:42] [8b8t] >> Teleporting...",
     "[17:42] <botchaosonix666> ok ",
-    "[17:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[17:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[17:42] [8b8t] >> You have killed yourself!",
+    "[17:42] <deividbeicon_> !kit pvp ",
+    "[17:42] [8b8t] >> Teleporting to home 0...",
+    "[17:42] [8b8t] >> Teleporting to home 1...",
+    "[17:42] To deividbeicon_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:42] <brojsutgame> !kit ",
+    "[17:42] <Simblebot> vou ver se ta funcionando ",
+    "[17:42] To brojsutgame: 你好 brojsutgame!! 使用 !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:42] To deividbeicon_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3202,7 +3202,7 @@
     "xxnewcuboxx": 1,
     "m4nx_40": 1,
     "SRjhmSK3": 1,
-    "deividbeicon_": 6,
+    "deividbeicon_": 7,
     "Rhafael999": 3,
     "WTM": 6,
     ".PerroGuaton1469": 3,
@@ -3775,7 +3775,7 @@
   "kitStats": {
     "build": 1958,
     "survival": 7249,
-    "pvp": 9424,
+    "pvp": 9425,
     "dupe": 2621,
     "tools": 2153,
     "stash": 1315,
