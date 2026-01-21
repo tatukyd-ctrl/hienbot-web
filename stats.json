@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:31:58 21/1/2026",
-  "totalKits": 91522,
-  "todayKits": 58,
-  "onlineCount": 30,
+  "lastUpdated": "08:32:10 21/1/2026",
+  "totalKits": 91523,
+  "todayKits": 59,
+  "onlineCount": 31,
   "peakPlayers": 44,
-  "tps": "8.0",
+  "tps": "9.0",
   "ping": 212,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9487
+      "count": 9488
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:30] <Dayaliz> nether ",
-    "[01:30] <_Stellium_> !kit ",
-    "[01:30] To _Stellium_: Hello _Stellium_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:30] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[01:30] <KARMAA_GD> !kit shulker ",
-    "[01:30] [8b8t] >> Teleporting to home 0...",
-    "[01:30] [8b8t] >> Teleporting to home 6...",
     "[01:30] To KARMAA_GD: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:30] To KARMAA_GD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:30] [8b8t] >> Request sent to KARMAA_GD",
@@ -101,7 +94,14 @@
     "[01:31] To _Stellium_: Hello _Stellium_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[01:31] TulagrandBot Whispers: >Join TULAGRANDE to recieve kits for free!",
     "[01:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:31] <facumario> buso amigos escriban "
+    "[01:31] <facumario> buso amigos escriban ",
+    "[01:31] <KARMAA_GD> !kit pvp ",
+    "[01:32] [8b8t] >> Teleporting to home 0...",
+    "[01:32] [8b8t] >> Teleporting to home 1...",
+    "[01:32] To KARMAA_GD: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:32] To KARMAA_GD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:32] [8b8t] >> Request sent to KARMAA_GD",
+    "[01:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3784,7 +3784,7 @@
     "juIinX_PAx27": 7,
     "Carlesneri": 1,
     "_Stellium_": 3,
-    "KARMAA_GD": 11,
+    "KARMAA_GD": 12,
     ".Nathanitto": 2,
     "srx": 2,
     "Cachew": 2,
@@ -3807,7 +3807,7 @@
   "kitStats": {
     "build": 1974,
     "survival": 7286,
-    "pvp": 9487,
+    "pvp": 9488,
     "dupe": 2650,
     "tools": 2195,
     "stash": 1329,
