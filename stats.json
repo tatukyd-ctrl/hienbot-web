@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:44:28 21/1/2026",
-  "totalKits": 91615,
-  "todayKits": 151,
+  "lastUpdated": "11:44:44 21/1/2026",
+  "totalKits": 91616,
+  "todayKits": 152,
   "onlineCount": 25,
   "peakPlayers": 44,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 215,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9524
+      "count": 9525
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:43] <Matisito> !kit mace ",
-    "[04:43] To Matisito: You're on cooldown, try again in 23 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:43] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[04:43] <Matisito> !kit mace ",
-    "[04:43] To Matisito: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:43] <Matisito> !kit mace ",
-    "[04:43] To Matisito: You're on cooldown, try again in 12 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:43] <Matisito> !kit mace ",
     "[04:43] [8b8t] >> Teleporting to home 0...",
     "[04:43] [8b8t] >> Teleporting to home 7...",
     "[04:43] To Matisito: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[04:44] <Matisito> !kit maze ",
     "[04:44] To Matisito: You're on cooldown, try again in 57 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:44] <xxx_osolord_xxx> tpa pvp ",
-    "[04:44] <TulagrandBot> >Try @tps to get server's tps "
+    "[04:44] <TulagrandBot> >Try @tps to get server's tps ",
+    "[04:44] <Elrompepelotas> !kit pvp ",
+    "[04:44] [8b8t] >> Teleporting to home 0...",
+    "[04:44] [8b8t] >> Teleporting to home 1...",
+    "[04:44] To Elrompepelotas: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:44] To Elrompepelotas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:44] [8b8t] >> Request sent to Elrompepelotas",
+    "[04:44] [8b8t] >> Teleporting...",
+    "[04:44] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "76756": 38,
@@ -3805,7 +3805,7 @@
     "lelolputos": 2,
     "facumario": 4,
     "20_cm": 1,
-    "Elrompepelotas": 11,
+    "Elrompepelotas": 12,
     "Matisito": 15,
     "Xx_chamorro_xX": 22,
     "VRZ8": 1,
@@ -3815,7 +3815,7 @@
   "kitStats": {
     "build": 1980,
     "survival": 7295,
-    "pvp": 9524,
+    "pvp": 9525,
     "dupe": 2658,
     "tools": 2208,
     "stash": 1332,
