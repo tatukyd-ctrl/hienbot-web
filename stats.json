@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:01:58 21/1/2026",
+  "lastUpdated": "07:02:28 21/1/2026",
   "totalKits": 91466,
   "todayKits": 2,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 44,
-  "tps": "3.0",
-  "ping": 246,
+  "tps": "8.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2181
+      "count": 2182
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:01] [8b8t] Unknown command do /help",
-    "[00:01] You may not interact with objects!",
-    "[00:01] [8b8t] Unknown command do /help",
-    "[00:01] [8b8t] Unknown command do /help",
-    "[00:01] [8b8t] Unknown command do /help",
-    "[00:01] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[00:01] You are already connected to this server!",
-    "[00:01] <Super_jj9000> !kit Dupe ",
-    "[00:01] [8b8t] >> Teleporting to home 0...",
     "[00:01] [8b8t] >> Teleporting to home 7...",
     "[00:01] To Super_jj9000: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[00:01] <VRZ7> !kit survival ",
@@ -101,7 +92,16 @@
     "[00:01] [8b8t] >> Request sent to VRZ7",
     "[00:01] <TulagrandBot> >Building a castle? Try @kit bricks ",
     "[00:01] [8b8t] >> Teleporting...",
-    "[00:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[00:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[00:01] [8b8t] >> You have killed yourself!",
+    "[00:02] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[00:02] <Super_jj9000> !kit Mace ",
+    "[00:02] To Super_jj9000: You're on cooldown, try again in 10 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:02] <Cheleviruz> saben cuando volvera 2b2t ? ",
+    "[00:02] <masmellou63> !kit mace ",
+    "[00:02] [8b8t] >> Teleporting to home 0...",
+    "[00:02] [8b8t] >> Teleporting to home 7...",
+    "[00:02] To masmellou63: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3799,14 +3799,14 @@
     "ahilleas11": 1,
     "chetilloconqueso": 5,
     "oldmilo": 8,
-    "masmellou63": 2
+    "masmellou63": 3
   },
   "kitStats": {
     "build": 1969,
     "survival": 7277,
     "pvp": 9480,
     "dupe": 2647,
-    "tools": 2181,
+    "tools": 2182,
     "stash": 1329,
     "raid": 1561,
     "wood": 610,
