@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:34:02 21/1/2026",
-  "totalKits": 91742,
-  "todayKits": 8,
+  "lastUpdated": "21:34:26 21/1/2026",
+  "totalKits": 91743,
+  "todayKits": 9,
   "onlineCount": 34,
   "peakPlayers": 34,
-  "tps": "2.0",
-  "ping": 214,
+  "tps": "8.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2220
+      "count": 2221
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:32] To Najadlaug: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:32] [8b8t] >> Request sent to Najadlaug",
-    "[14:32] <.TatukiiYT> !kit survival ",
-    "[14:32] To .TatukiiYT: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:32] <dylans117877601> !kit dupe ",
-    "[14:32] To dylans117877601: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:32] [BOT] <0_HienBot> >Welcome to 8b8t, iTrisstan! ",
-    "[14:32] <TulagrandBot> >Try @tps to get server's tps ",
-    "[14:33] [8b8t] >> The TPA request you sent to Najadlaug has expired.",
-    "[14:33] <dylans117877601> !kit dupe ",
-    "[14:33] To dylans117877601: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:33] <dylans117877601> !kit dupe ",
     "[14:33] To dylans117877601: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:33] [8b8t] >> You have killed yourself!",
@@ -101,7 +90,18 @@
     "[14:33] [8b8t] >> The TPA request you sent to .TatukiiYT has expired.",
     "[14:33] [8b8t] >> You have killed yourself!",
     "[14:33] [8b8t] >> No TPA request found",
-    "[14:33] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
+    "[14:33] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[14:34] <.TatukiiYT> !kit survival ",
+    "[14:34] To .TatukiiYT: You're on cooldown, try again in 48 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:34] <dylans117877601> !kit ilegal ",
+    "[14:34] [8b8t] >> Teleporting to home 0...",
+    "[14:34] [8b8t] >> Teleporting to home 7...",
+    "[14:34] To dylans117877601: Kit \"ilegal\" not found! Giving you (tools) instead! dsc.gg/hienbot",
+    "[14:34] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:34] [8b8t] >> Request sent to dylans117877601",
+    "[14:34] <.TatukiiYT> !kit Elytra ",
+    "[14:34] [8b8t] >> Teleporting...",
+    "[14:34] To .TatukiiYT: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3830,14 +3830,14 @@
     "Najadlaug": 3,
     ".TatukiiYT": 2,
     "Cheleviruz": 1,
-    "dylans117877601": 1
+    "dylans117877601": 2
   },
   "kitStats": {
     "build": 1989,
     "survival": 7324,
     "pvp": 9549,
     "dupe": 2671,
-    "tools": 2220,
+    "tools": 2221,
     "stash": 1340,
     "raid": 1566,
     "wood": 622,
