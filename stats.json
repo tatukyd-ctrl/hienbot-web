@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:31:27 21/1/2026",
+  "lastUpdated": "22:31:32 21/1/2026",
   "totalKits": 91790,
   "todayKits": 56,
   "onlineCount": 33,
   "peakPlayers": 39,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 216,
   "topUsers": [
     {
@@ -68,14 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1994
+      "count": 1995
     }
   ],
   "chatLog": [
-    "[15:29] [8b8t] >> Teleporting to home 0...",
-    "[15:29] [8b8t] >> Home 2 was not found",
-    "[15:29] To 0pt1fin3: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:29] To 0pt1fin3: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:29] [8b8t] >> Request sent to 0pt1fin3",
     "[15:29] [BOT] <0_HienBot> >Try !кιт survival ",
     "[15:30] dylans117877601 has completed the challenge [Subspace Bubble]",
@@ -101,7 +97,11 @@
     "[15:31] [8b8t] >> Request sent to liviaaaaaaa",
     "[15:31] To 0pt1fin3: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:31] [8b8t] >> Teleporting...",
-    "[15:31] <.TheSmile901> quien m3 saca del spawn? "
+    "[15:31] <.TheSmile901> quien m3 saca del spawn? ",
+    "[15:31] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[15:31] [8b8t] >> You have killed yourself!",
+    "[15:31] <dylans117877601> !kit build ",
+    "[15:31] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3830,12 +3830,12 @@
     "Najadlaug": 15,
     ".TatukiiYT": 7,
     "Cheleviruz": 1,
-    "dylans117877601": 10,
+    "dylans117877601": 11,
     "Nor": 1,
     "0pt1fin3": 12
   },
   "kitStats": {
-    "build": 1994,
+    "build": 1995,
     "survival": 7334,
     "pvp": 9556,
     "dupe": 2674,
