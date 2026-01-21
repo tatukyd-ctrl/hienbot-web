@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:46:27 22/1/2026",
+  "lastUpdated": "05:46:33 22/1/2026",
   "totalKits": 91997,
   "todayKits": 263,
   "onlineCount": 29,
   "peakPlayers": 50,
-  "tps": "0.0",
+  "tps": "2.0",
   "ping": 211,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9618
+      "count": 9619
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:45] [BOT] <0_HienBot> >Hey _Hienbot! ",
-    "[22:45] [8b8t] >> You have killed yourself!",
-    "[22:45] <TulagrandBot> >Tulagrande on top! ",
-    "[22:45] <__Solarflare> !kit tools ",
-    "[22:45] [8b8t] >> Teleporting to home 0...",
     "[22:45] [8b8t] >> Teleporting to home 7...",
     "[22:45] To __Solarflare: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +96,12 @@
     "[22:46] [8b8t] >> Request sent to VRZ8",
     "[22:46] [8b8t] >> Teleporting...",
     "[22:46] <__Solarflare> !kit pvp ",
-    "[22:46] To __Solarflare: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[22:46] To __Solarflare: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:46] [8b8t] >> You have killed yourself!",
+    "[22:46] <__Solarflare> !kit pvp ",
+    "[22:46] [8b8t] >> Teleporting to home 0...",
+    "[22:46] [8b8t] >> Teleporting to home 1...",
+    "[22:46] To __Solarflare: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2652,7 +2652,7 @@
     "lkignfirst": 2,
     "elman_1223": 1,
     "volvoHL": 1,
-    "__Solarflare": 55,
+    "__Solarflare": 56,
     "monochrome": 4,
     ".qui23763": 23,
     "seasnail12351": 1,
@@ -3862,7 +3862,7 @@
   "kitStats": {
     "build": 2004,
     "survival": 7371,
-    "pvp": 9618,
+    "pvp": 9619,
     "dupe": 2703,
     "tools": 2244,
     "stash": 1353,
