@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:16:33 22/1/2026",
-  "totalKits": 91946,
-  "todayKits": 212,
+  "lastUpdated": "03:16:43 22/1/2026",
+  "totalKits": 91947,
+  "todayKits": 213,
   "onlineCount": 40,
   "peakPlayers": 50,
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 216,
   "topUsers": [
     {
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 2000
+      "count": 2001
     }
   ],
   "chatLog": [
-    "[20:14] <verusxd> Hola ",
-    "[20:14] [BOT] <0_HienBot> >Hey Boolyymon! ",
-    "[20:14] <Super_jj9000> rude ",
-    "[20:14] Super_jj9000 has made the advancement [Who Needs Rockets?]",
-    "[20:14] <chetilloconqueso> !kit 7 ",
-    "[20:14] [8b8t] >> Teleporting to home 0...",
-    "[20:14] [8b8t] >> Teleporting to home 3...",
     "[20:14] To chetilloconqueso: Kit \"7\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
     "[20:14] To chetilloconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:14] [8b8t] >> Request sent to chetilloconqueso",
@@ -101,7 +94,14 @@
     "[20:15] [8b8t] >> You have killed yourself!",
     "[20:16] <TulagrandBot> >Building a base? Try @kit build1 ",
     "[20:16] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[20:16] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[20:16] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[20:16] <chetilloconqueso> !kit Blocks ",
+    "[20:16] [8b8t] >> Teleporting to home 0...",
+    "[20:16] [8b8t] >> Home 2 was not found",
+    "[20:16] To chetilloconqueso: Your kit (Blocks) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:16] To chetilloconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:16] [8b8t] >> Request sent to chetilloconqueso",
+    "[20:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3797,7 +3797,7 @@
     "VRZ7": 36,
     "KingBomberKill": 1,
     "ahilleas11": 1,
-    "chetilloconqueso": 15,
+    "chetilloconqueso": 16,
     "oldmilo": 8,
     "masmellou63": 13,
     ".zCastro2010": 3,
@@ -3852,7 +3852,7 @@
     "Linx_571": 1
   },
   "kitStats": {
-    "build": 2000,
+    "build": 2001,
     "survival": 7361,
     "pvp": 9608,
     "dupe": 2694,
