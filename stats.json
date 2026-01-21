@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:01:38 21/1/2026",
-  "totalKits": 91465,
-  "todayKits": 1,
+  "lastUpdated": "07:01:56 21/1/2026",
+  "totalKits": 91466,
+  "todayKits": 2,
   "onlineCount": 30,
   "peakPlayers": 44,
   "tps": "2.0",
-  "ping": 0,
+  "ping": 246,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9479
+      "count": 9480
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:01] [8b8t] >> Please do not spam.",
-    "[00:01] To Super_jj9000: Hello Super_jj9000!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[00:01] <Super_jj9000> oh ",
-    "[00:01] <VRZ7> !kit pvp ",
-    "[00:01] <Super_jj9000> !kit Dupe ",
-    "[00:01] <TulagrandBot> >How are you MattyBot? ",
-    "[00:01] You were kicked from 8b8t: Timed out",
-    "[00:01] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[00:01] [8b8t] Unknown command do /help",
-    "[00:01] [8b8t] Unknown command do /help",
-    "[00:01] [8b8t] Unknown command do /help",
     "[00:01] [8b8t] Unknown command do /help",
     "[00:01] You may not interact with objects!",
     "[00:01] [8b8t] Unknown command do /help",
@@ -101,7 +90,18 @@
     "[00:01] [BOT] <0_HienBot> >Hi dealerdeskiles! ",
     "[00:01] [8b8t] >> Teleporting...",
     "[00:01] <VRZ7> !kit survival ",
-    "[00:01] To VRZ7: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[00:01] To VRZ7: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:01] [8b8t] >> You have killed yourself!",
+    "[00:01] <VRZ7> !kit pvp ",
+    "[00:01] [8b8t] >> Teleporting to home 0...",
+    "[00:01] <VRZ8> ahi llego ",
+    "[00:01] [8b8t] >> Teleporting to home 1...",
+    "[00:01] To VRZ7: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:01] To VRZ7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:01] [8b8t] >> Request sent to VRZ7",
+    "[00:01] <TulagrandBot> >Building a castle? Try @kit bricks ",
+    "[00:01] [8b8t] >> Teleporting...",
+    "[00:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -3794,7 +3794,7 @@
     "yall_uol": 5,
     "two2linear": 2,
     "samfx0": 1,
-    "VRZ7": 22,
+    "VRZ7": 23,
     "KingBomberKill": 1,
     "ahilleas11": 1,
     "chetilloconqueso": 5,
@@ -3804,7 +3804,7 @@
   "kitStats": {
     "build": 1969,
     "survival": 7277,
-    "pvp": 9479,
+    "pvp": 9480,
     "dupe": 2647,
     "tools": 2181,
     "stash": 1329,
