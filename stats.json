@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:46:33 22/1/2026",
+  "lastUpdated": "06:47:03 22/1/2026",
   "totalKits": 92021,
   "todayKits": 287,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 213,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9627
+      "count": 9628
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:44] <TulagrandBot> >Try @tps to get server's tps ",
-    "[23:44] [8b8t] >> The TPA request you sent to PicoGod has expired.",
-    "[23:45] [8b8t] >> You have killed yourself!",
-    "[23:45] [8b8t] >> No TPA request found",
-    "[23:45] <CirooChimi> no queda nadie de 2024 aca ",
-    "[23:45] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[23:45] <Boolyymon> i think most ppl just do it for the social ",
-    "[23:45] <Cachew> yes but if youre far out youre isolated ",
-    "[23:45] <sebasfut29> yo de 2022 ",
-    "[23:45] <Boolyymon> i hate that evrybody is spanish tho ",
     "[23:45] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[23:45] <CirooChimi> why ",
     "[23:45] <Boolyymon> you can use tpa and home so ",
@@ -101,7 +91,17 @@
     "[23:46] <sebasfut29> yooooooo ",
     "[23:46] <Boolyymon> hes * ",
     "[23:46] <CirooChimi> i had a clan of 50 and it got raided.. ",
-    "[23:46] <.Maddie8171111> Who wants to team? "
+    "[23:46] <.Maddie8171111> Who wants to team? ",
+    "[23:46] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[23:46] <dylans117877601> listo fabrix¿¿¿¿¿¿¿¿ ",
+    "[23:46] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[23:46] <TechCrypt1c> @kit pvp ",
+    "[23:46] [8b8t] >> Teleporting to home 0...",
+    "[23:46] [8b8t] >> Teleporting to home 1...",
+    "[23:46] To TechCrypt1c: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:46] To TechCrypt1c: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:46] [8b8t] >> Request sent to TechCrypt1c",
+    "[23:46] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3861,12 +3861,13 @@
     "H_INMORTAL_M": 1,
     "PicoGod": 11,
     "fabric_XxX": 11,
-    "FijianHardscoper": 1
+    "FijianHardscoper": 1,
+    "TechCrypt1c": 1
   },
   "kitStats": {
     "build": 2005,
     "survival": 7378,
-    "pvp": 9627,
+    "pvp": 9628,
     "dupe": 2703,
     "tools": 2245,
     "stash": 1353,
