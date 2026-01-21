@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:11:01 21/1/2026",
+  "lastUpdated": "20:11:31 21/1/2026",
   "totalKits": 91727,
   "todayKits": 1,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 24,
-  "tps": "9.0",
-  "ping": 243,
+  "tps": "7.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9545
+      "count": 9546
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:03] .TatukiiYT has made the advancement [Diamonds!]",
-    "[13:03] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[13:03] <TulagrandBot> >Building a castle? Try @kit bricks ",
-    "[13:04] [BOT] <0_HienBot> >Hi .TatukiiYT! ",
-    "[13:04] <TulagrandBot> >Try /kill to kill yourself ",
-    "[13:04] [BOT] <0_HienBot> >Welcome to 8b8t, .TatukiiYT! ",
-    "[13:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[13:04] .TatukiiYT has made the advancement [Hot Stuff]",
     "[13:05] [BOT] <0_HienBot> >Hi TulagrandBot! ",
     "[13:05] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[13:06] <TulagrandBot> >Try @ping to get your ping ",
@@ -101,7 +93,15 @@
     "[13:10] [BOT] <0_HienBot> >Hello haiducnguyen! ",
     "[13:10] <TulagrandBot> >Try @tps to get server's tps ",
     "[13:10] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[13:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[13:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[13:11] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[13:11] <TulagrandBot> >Try /kill to kill yourself ",
+    "[13:11] <DSroxen> !kit pvp ",
+    "[13:11] [8b8t] >> Teleporting to home 0...",
+    "[13:11] [8b8t] >> Teleporting to home 1...",
+    "[13:11] To DSroxen: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:11] To DSroxen: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:11] [8b8t] >> Request sent to DSroxen"
   ],
   "userStats": {
     "76756": 38,
@@ -3824,12 +3824,13 @@
     "sqrazyy": 2,
     "tons618": 11,
     "DandelionBot": 3,
-    "Efe_alkaya": 2
+    "Efe_alkaya": 2,
+    "DSroxen": 1
   },
   "kitStats": {
     "build": 1989,
     "survival": 7319,
-    "pvp": 9545,
+    "pvp": 9546,
     "dupe": 2669,
     "tools": 2219,
     "stash": 1340,
