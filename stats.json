@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:55:01 21/1/2026",
+  "lastUpdated": "19:55:31 21/1/2026",
   "totalKits": 91726,
   "todayKits": 0,
   "onlineCount": 23,
   "peakPlayers": 24,
-  "tps": "0.0",
-  "ping": 218,
+  "tps": "9.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9544
+      "count": 9545
     },
     {
       "name": "survival",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:48] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:48] <TulagrandBot> >Tulagrande on top! ",
-    "[12:48] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[12:49] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[12:49] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[12:49] <ELMOBALLOON10> !bestping ",
     "[12:49] To ELMOBALLOON10: .TatukiiYT with 0 ms. Dont forget to join dsc.gg/hienbot",
     "[12:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +96,12 @@
     "[12:54] <TulagrandBot> >Want kit? Try @kit ",
     "[12:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[12:54] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[12:54] <TulagrandBot> >Building a base? Try @kit build2 "
+    "[12:54] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[12:55] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[12:55] <VRZ8> !kit pvp ",
+    "[12:55] [8b8t] >> Teleporting to home 0...",
+    "[12:55] [8b8t] >> Teleporting to home 1...",
+    "[12:55] To VRZ8: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3808,7 +3808,7 @@
     "Elrompepelotas": 13,
     "Matisito": 15,
     "Xx_chamorro_xX": 22,
-    "VRZ8": 1,
+    "VRZ8": 2,
     "baninn_": 1,
     "Raistar": 1,
     "XJxmsX": 1,
@@ -3829,7 +3829,7 @@
   "kitStats": {
     "build": 1989,
     "survival": 7319,
-    "pvp": 9544,
+    "pvp": 9545,
     "dupe": 2669,
     "tools": 2219,
     "stash": 1340,
