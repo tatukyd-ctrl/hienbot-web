@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:23:14 21/1/2026",
+  "lastUpdated": "23:23:32 21/1/2026",
   "totalKits": 91832,
   "todayKits": 98,
   "onlineCount": 38,
   "peakPlayers": 39,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 2683,
   "topUsers": [
     {
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:22] <VRZ8> !kit elytra ",
-    "[16:22] [8b8t] >> Teleporting to home 0...",
     "[16:22] [8b8t] >> Teleporting to home 6...",
     "[16:22] To VRZ8: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[16:22] <VRZ7> !kit elytra ",
@@ -101,7 +99,9 @@
     "[16:23] To VRZ7: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[16:23] To VRZ7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:23] [8b8t] >> Request sent to VRZ7",
-    "[16:23] [8b8t] >> Teleporting..."
+    "[16:23] [8b8t] >> Teleporting...",
+    "[16:23] <TulagrandBot> >Try /kill to kill yourself ",
+    "[16:23] <VRZ8> !kit elytra "
   ],
   "userStats": {
     "76756": 38,
@@ -3808,7 +3808,7 @@
     "Elrompepelotas": 13,
     "Matisito": 15,
     "Xx_chamorro_xX": 29,
-    "VRZ8": 4,
+    "VRZ8": 5,
     "baninn_": 1,
     "Raistar": 1,
     "XJxmsX": 1,
@@ -3871,6 +3871,6 @@
     "gterracotta": 107,
     "banner": 90,
     "illegal": 706,
-    "elytra": 824
+    "elytra": 825
   }
 }
