@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:03:30 21/1/2026",
+  "lastUpdated": "10:03:58 21/1/2026",
   "totalKits": 91575,
   "todayKits": 111,
   "onlineCount": 27,
   "peakPlayers": 44,
-  "tps": "5.0",
-  "ping": 221,
+  "tps": "9.0",
+  "ping": 230,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9510
+      "count": 9511
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:00] <waximo> > Did you know you can donate to keep the server running? You can do so at donate▪8b8t▪me. ",
-    "[03:00] [Ultra] <MARLBORO> !kit ",
-    "[03:00] To htp1p0: Hello htp1p0!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[03:00] <Xx_chamorro_xX> !kit elytra ",
-    "[03:00] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[03:00] [8b8t] >> Teleporting to home 0...",
-    "[03:00] [8b8t] >> Teleporting to home 6...",
-    "[03:00] To Xx_chamorro_xX: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:00] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:01] [8b8t] >> Request sent to Xx_chamorro_xX",
     "[03:01] [8b8t] >> Teleporting...",
     "[03:01] [8b8t] >> You have killed yourself!",
     "[03:01] RoalcXD has made the advancement [Ice Bucket Challenge]",
@@ -101,7 +91,17 @@
     "[03:03] To .Jkbra1127: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:03] [8b8t] >> Request sent to .Jkbra1127",
     "[03:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[03:03] [8b8t] >> Teleporting..."
+    "[03:03] [8b8t] >> Teleporting...",
+    "[03:03] <waximo> > Use !kit to get your free kit. ",
+    "[03:03] [8b8t] >> You have killed yourself!",
+    "[03:03] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[03:03] <baninn_> !kit pvp ",
+    "[03:03] [8b8t] >> Teleporting to home 0...",
+    "[03:03] <TulagrandBot> >Building a castle? Try @kit bricks ",
+    "[03:03] [8b8t] >> Teleporting to home 1...",
+    "[03:03] To baninn_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:03] To baninn_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:03] [8b8t] >> Request sent to baninn_"
   ],
   "userStats": {
     "76756": 38,
@@ -3808,12 +3808,13 @@
     "Elrompepelotas": 3,
     "Matisito": 9,
     "Xx_chamorro_xX": 14,
-    "VRZ8": 1
+    "VRZ8": 1,
+    "baninn_": 1
   },
   "kitStats": {
     "build": 1975,
     "survival": 7294,
-    "pvp": 9510,
+    "pvp": 9511,
     "dupe": 2652,
     "tools": 2200,
     "stash": 1332,
