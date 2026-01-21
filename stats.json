@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:22:28 21/1/2026",
-  "totalKits": 91628,
-  "todayKits": 164,
-  "onlineCount": 25,
+  "lastUpdated": "12:22:48 21/1/2026",
+  "totalKits": 91629,
+  "todayKits": 165,
+  "onlineCount": 24,
   "peakPlayers": 44,
   "tps": "4.0",
   "ping": 224,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9527
+      "count": 9528
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:20] [8b8t] >> Teleporting to home 0...",
-    "[05:20] [8b8t] >> Home 2 was not found",
-    "[05:20] To chetilloconqueso: Your kit (Stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:21] To chetilloconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:21] [8b8t] >> Request sent to chetilloconqueso",
-    "[05:21] [8b8t] >> Teleporting...",
-    "[05:21] [8b8t] >> You have killed yourself!",
-    "[05:21] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[05:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:21] <XJxmsX> wsp ",
     "[05:21] <chetilloconqueso> !kit Survival ",
@@ -101,7 +93,15 @@
     "[05:22] <chetilloconqueso> !kit Survival ",
     "[05:22] To chetilloconqueso: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:22] [8b8t] >> You have killed yourself!",
-    "[05:22] [8b8t] >> The TPA request you sent to XJxmsX was successfully canceled."
+    "[05:22] [8b8t] >> The TPA request you sent to XJxmsX was successfully canceled.",
+    "[05:22] <chetilloconqueso> !kit Pvp ",
+    "[05:22] [8b8t] >> Teleporting to home 0...",
+    "[05:22] [8b8t] >> Teleporting to home 1...",
+    "[05:22] To chetilloconqueso: Your kit (Pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:22] To chetilloconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:22] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
+    "[05:22] [8b8t] >> Request sent to chetilloconqueso",
+    "[05:22] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3797,7 +3797,7 @@
     "VRZ7": 28,
     "KingBomberKill": 1,
     "ahilleas11": 1,
-    "chetilloconqueso": 8,
+    "chetilloconqueso": 9,
     "oldmilo": 8,
     "masmellou63": 13,
     ".zCastro2010": 3,
@@ -3816,7 +3816,7 @@
   "kitStats": {
     "build": 1980,
     "survival": 7298,
-    "pvp": 9527,
+    "pvp": 9528,
     "dupe": 2658,
     "tools": 2209,
     "stash": 1333,
