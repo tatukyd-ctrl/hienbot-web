@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:24:31 21/1/2026",
+  "lastUpdated": "20:25:01 21/1/2026",
   "totalKits": 91729,
   "todayKits": 3,
-  "onlineCount": 23,
+  "onlineCount": 22,
   "peakPlayers": 24,
-  "tps": "6.0",
+  "tps": "2.0",
   "ping": 238,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9546
+      "count": 9547
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:21] [8b8t] >> Your login session has been continued.",
-    "[13:21] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[13:21] ",
-    "[13:21]  [8builders8tools]",
-    "[13:21]  Perform the command /discord add to register",
-    "[13:21]  your discord. By doing so, you",
-    "[13:21]  decrease the chance of being hacked.",
-    "[13:21] ",
-    "[13:21]   [Confirm read]",
-    "[13:21] ",
     "[13:21] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[13:21] [8b8t] >> You have killed yourself!",
     "[13:21] Chat disabled in client options",
@@ -101,7 +91,17 @@
     "[13:23] TulagrandBot Whispers: Hello, 0_HienBot",
     "[13:24] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[13:24] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
-    "[13:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[13:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[13:24] <redherolegend> @kit pvp ",
+    "[13:24] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[13:24] [8b8t] >> Teleporting to home 0...",
+    "[13:24] [8b8t] >> Teleporting to home 1...",
+    "[13:24] To redherolegend: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:24] To redherolegend: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:24] <TulagrandBot> >This bot has been created by Felek btw. ",
+    "[13:24] [8b8t] >> Request sent to redherolegend",
+    "[13:24] <VRZ8> alguiien me da un kit de elitras? ",
+    "[13:24] <VRZ8> porfavor "
   ],
   "userStats": {
     "76756": 38,
@@ -3825,12 +3825,13 @@
     "tons618": 11,
     "DandelionBot": 3,
     "Efe_alkaya": 2,
-    "DSroxen": 2
+    "DSroxen": 2,
+    "redherolegend": 1
   },
   "kitStats": {
     "build": 1989,
     "survival": 7319,
-    "pvp": 9546,
+    "pvp": 9547,
     "dupe": 2669,
     "tools": 2220,
     "stash": 1340,
