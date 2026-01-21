@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:34:02 21/1/2026",
-  "totalKits": 91793,
-  "todayKits": 59,
+  "lastUpdated": "22:34:21 21/1/2026",
+  "totalKits": 91794,
+  "todayKits": 60,
   "onlineCount": 29,
   "peakPlayers": 39,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 212,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9556
+      "count": 9557
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:31] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[15:32] <0pt1fin3> !kit stash ",
-    "[15:32] [8b8t] >> Teleporting to home 0...",
-    "[15:32] [8b8t] >> Home 2 was not found",
-    "[15:32] To 0pt1fin3: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:32] To 0pt1fin3: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:32] [8b8t] >> Request sent to 0pt1fin3",
-    "[15:32] [8b8t] >> Please do not spam.",
-    "[15:32] <TulagrandBot> >Try /nc to change your nick color ",
-    "[15:32] <liviaaaaaaa> !kit ",
-    "[15:32] To liviaaaaaaa: Hello liviaaaaaaa!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[15:32] [8b8t] >> Teleporting...",
     "[15:32] [8b8t] >> You have killed yourself!",
     "[15:32] [8b8t] >> Please do not spam.",
@@ -101,7 +90,18 @@
     "[15:33] <liviaaaaaaa> !KIT pvp ",
     "[15:33] To liviaaaaaaa: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:33] Qulland has made the advancement [Suit Up]",
-    "[15:33] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language "
+    "[15:33] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[15:34] <0pt1fin3> !kit pvp ",
+    "[15:34] [8b8t] >> Teleporting to home 0...",
+    "[15:34] [8b8t] >> Teleporting to home 1...",
+    "[15:34] Qulland has made the advancement [Monster Hunter]",
+    "[15:34] To 0pt1fin3: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:34] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[15:34] To 0pt1fin3: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:34] <liviaaaaaaa> !kit cpvp ",
+    "[15:34] To liviaaaaaaa: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:34] [8b8t] >> Request sent to 0pt1fin3",
+    "[15:34] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3832,12 +3832,12 @@
     "Cheleviruz": 1,
     "dylans117877601": 11,
     "Nor": 1,
-    "0pt1fin3": 13
+    "0pt1fin3": 14
   },
   "kitStats": {
     "build": 1995,
     "survival": 7334,
-    "pvp": 9556,
+    "pvp": 9557,
     "dupe": 2674,
     "tools": 2224,
     "stash": 1346,
