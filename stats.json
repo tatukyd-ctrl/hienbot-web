@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:26:14 21/1/2026",
+  "lastUpdated": "12:26:28 21/1/2026",
   "totalKits": 91633,
   "todayKits": 169,
-  "onlineCount": 22,
+  "onlineCount": 20,
   "peakPlayers": 44,
-  "tps": "5.0",
+  "tps": "8.0",
   "ping": 266,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2658
+      "count": 2659
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:25] <TulagrandBot> >Hi MrPinkEye ",
-    "[05:25] <elrompemachos> !kit ",
-    "[05:25] To elrompemachos: Hello elrompemachos!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:25] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[05:25] [8b8t] >> You have killed yourself!",
-    "[05:25] <elrompemachos> !kit glass ",
-    "[05:25] [8b8t] >> Teleporting to home 0...",
     "[05:25] [8b8t] >> Teleporting to home 4...",
     "[05:25] To elrompemachos: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:25] To elrompemachos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +94,14 @@
     "[05:26] To chetilloconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:26] [8b8t] >> Request sent to chetilloconqueso",
     "[05:26] [8b8t] >> Teleporting...",
-    "[05:26] [BOT] <0_HienBot> >Bot created by Hien2309. "
+    "[05:26] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[05:26] [8b8t] >> You have killed yourself!",
+    "[05:26] <elrompemachos> !kit dupe ",
+    "[05:26] To elrompemachos: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:26] <elrompemachos> !kit dupe ",
+    "[05:26] [8b8t] >> Teleporting to home 0...",
+    "[05:26] [8b8t] >> Teleporting to home 7...",
+    "[05:26] To elrompemachos: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3529,7 +3529,7 @@
     "L0NESURV1VOR": 2,
     "shandy22": 1,
     "Laudasur69": 1,
-    "elrompemachos": 4,
+    "elrompemachos": 5,
     "joquinsa": 1,
     "Angxs743": 8,
     "LiflexMC": 15,
@@ -3817,7 +3817,7 @@
     "build": 1980,
     "survival": 7298,
     "pvp": 9528,
-    "dupe": 2658,
+    "dupe": 2659,
     "tools": 2209,
     "stash": 1333,
     "raid": 1563,
