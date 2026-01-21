@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:38:02 21/1/2026",
-  "totalKits": 91745,
-  "todayKits": 11,
+  "lastUpdated": "21:38:17 21/1/2026",
+  "totalKits": 91746,
+  "todayKits": 12,
   "onlineCount": 35,
   "peakPlayers": 35,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 212,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7326
+      "count": 7327
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:37] [8b8t] >> Welcome KurtzMC to 8b8t.me Lobby",
-    "[14:37] [8b8t] Unknown command do /help",
-    "[14:37] [8b8t] Unknown command do /help",
-    "[14:37] [8b8t] Unknown command do /help",
-    "[14:37] [8b8t] Unknown command do /help",
-    "[14:37] [8b8t] Unknown command do /help",
-    "[14:37] You are already trying to connect to a server!",
-    "[14:37] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[14:37] You are already connected to this server!",
     "[14:37] [8b8t] >> You have killed yourself!",
     "[14:37] <.TatukiiYT> !kit ",
@@ -101,7 +93,15 @@
     "[14:37] .Evil_Ghost88915 has made the advancement [We Need to Go Deeper]",
     "[14:37] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:37] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[14:38] [8b8t] >> You have killed yourself!"
+    "[14:38] [8b8t] >> You have killed yourself!",
+    "[14:38] <dylans117877601> !kit survival ",
+    "[14:38] [8b8t] >> Teleporting to home 0...",
+    "[14:38] [8b8t] >> Teleporting to home 1...",
+    "[14:38] To dylans117877601: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:38] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:38] [8b8t] >> Request sent to dylans117877601",
+    "[14:38] [8b8t] >> Teleporting...",
+    "[14:38] <TulagrandBot> >Try /nc to change your nick color "
   ],
   "userStats": {
     "76756": 38,
@@ -3830,12 +3830,12 @@
     "Najadlaug": 3,
     ".TatukiiYT": 5,
     "Cheleviruz": 1,
-    "dylans117877601": 2,
+    "dylans117877601": 3,
     "Nor": 1
   },
   "kitStats": {
     "build": 1989,
-    "survival": 7326,
+    "survival": 7327,
     "pvp": 9549,
     "dupe": 2671,
     "tools": 2221,
