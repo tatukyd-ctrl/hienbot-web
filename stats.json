@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:20:02 22/1/2026",
-  "totalKits": 91895,
-  "todayKits": 161,
-  "onlineCount": 28,
+  "lastUpdated": "01:20:23 22/1/2026",
+  "totalKits": 91896,
+  "todayKits": 162,
+  "onlineCount": 27,
   "peakPlayers": 45,
-  "tps": "5.0",
+  "tps": "0.0",
   "ping": 212,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7350
+      "count": 7351
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:18] <Byukashi> !kit ",
-    "[18:18] [8b8t] >> The TPA request you sent to Byukashi was successfully canceled.",
-    "[18:18] To Byukashi: Hello Byukashi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:18] <Souzzaqy7> !Kit ",
-    "[18:18] To Souzzaqy7: Hello Souzzaqy7!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:19] <Byukashi> !kit ",
-    "[18:19] To Byukashi: Hello Byukashi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:19] <Souzzaqy7> !KIT ELYTRAA ",
-    "[18:19] [8b8t] >> Teleporting to home 0...",
-    "[18:19] [8b8t] >> Teleporting to home 4...",
-    "[18:19] To Souzzaqy7: Kit \"ELYTRAA\" not found! Giving you (glass) instead! dsc.gg/hienbot",
     "[18:19] <Byukashi> !kit ",
     "[18:19] To Byukashi: Hello Byukashi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[18:19] <TulagrandBot> >Try /kill to kill yourself ",
@@ -101,7 +90,18 @@
     "[18:19] [8b8t] >> You have killed yourself!",
     "[18:19] [8b8t] >> The TPA request you sent to Souzzaqy7 was successfully canceled.",
     "[18:19] <Byukashi> !kit ",
-    "[18:19] To Byukashi: Hello Byukashi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[18:19] To Byukashi: Hello Byukashi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[18:20] <Byukashi> !kit survival ",
+    "[18:20] [8b8t] >> Teleporting to home 0...",
+    "[18:20] [8b8t] >> Teleporting to home 1...",
+    "[18:20] To Byukashi: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:20] <.LEON50758> broo ",
+    "[18:20] To Byukashi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:20] [8b8t] >> Request sent to Byukashi",
+    "[18:20] <.LEON50758> finished ",
+    "[18:20] herobrine414 has made the advancement [Those Were the Days]",
+    "[18:20] [8b8t] >> Teleporting...",
+    "[18:20] [BOT] <0_HienBot> >Hello AppleBot! "
   ],
   "userStats": {
     "76756": 38,
@@ -1813,7 +1813,7 @@
     "MrCramyous": 5,
     "massamasinho": 3,
     "KoshiyaYT": 3,
-    "Byukashi": 4,
+    "Byukashi": 5,
     "JWS2008": 5,
     "Hopper9023": 1,
     "Itz_BladeX": 1,
@@ -3846,7 +3846,7 @@
   },
   "kitStats": {
     "build": 1999,
-    "survival": 7350,
+    "survival": 7351,
     "pvp": 9591,
     "dupe": 2692,
     "tools": 2235,
