@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:44:28 21/1/2026",
+  "lastUpdated": "09:44:58 21/1/2026",
   "totalKits": 91565,
   "todayKits": 101,
-  "onlineCount": 29,
+  "onlineCount": 31,
   "peakPlayers": 44,
   "tps": "3.0",
-  "ping": 220,
+  "ping": 219,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:42] [8b8t] >> Teleporting to home 0...",
-    "[02:42] [8b8t] >> Home 2 was not found",
-    "[02:42] To Xx_chamorro_xX: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:42] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:42] [8b8t] >> Request sent to Xx_chamorro_xX",
-    "[02:42] [BOT] <0_HienBot> >Welcome to 8b8t, MrPinkEye! ",
-    "[02:42] [8b8t] >> Teleporting...",
     "[02:42] <TulagrandBot> >Building a base? Try @kit build1 ",
     "[02:42] [8b8t] >> You have killed yourself!",
     "[02:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +94,14 @@
     "[02:44] <TulagrandBot> >Hi papas203 ",
     "[02:44] <Slay_gui> a ",
     "[02:44] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[02:44] KionYhamma has made the advancement [Those Were the Days]"
+    "[02:44] KionYhamma has made the advancement [Those Were the Days]",
+    "[02:44] <TulagrandBot> >Building a base? Try @kit build ",
+    "[02:44] [8b8t] >> Please do not spam.",
+    "[02:44] <Xx_chamorro_xX> @kit build1 ",
+    "[02:44] [8b8t] >> Teleporting to home 0...",
+    "[02:44] [8b8t] >> Home 2 was not found",
+    "[02:44] To Xx_chamorro_xX: Kit \"build1\" not found! Giving you (raid) instead! dsc.gg/hienbot",
+    "[02:44] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3807,7 +3807,7 @@
     "20_cm": 1,
     "Elrompepelotas": 3,
     "Matisito": 7,
-    "Xx_chamorro_xX": 6
+    "Xx_chamorro_xX": 7
   },
   "kitStats": {
     "build": 1975,
@@ -3816,7 +3816,7 @@
     "dupe": 2650,
     "tools": 2200,
     "stash": 1331,
-    "raid": 1562,
+    "raid": 1563,
     "wood": 619,
     "exp": 920,
     "dye": 375,
