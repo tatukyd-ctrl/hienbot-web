@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:07:03 22/1/2026",
+  "lastUpdated": "06:07:33 22/1/2026",
   "totalKits": 92006,
   "todayKits": 272,
   "onlineCount": 33,
   "peakPlayers": 50,
-  "tps": "1.0",
-  "ping": 215,
+  "tps": "5.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7374
+      "count": 7375
     },
     {
       "name": "dupe",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:04] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[23:04] <fabric_XxX> q es eso de guardar respawn ",
-    "[23:04] <EnzoTryHard> Te unes ",
-    "[23:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[23:04] <sebasfut29> eres nuevo en mc vd ",
-    "[23:04] <EnzoTryHard> ?? ",
-    "[23:05] ZoomMaster has made the advancement [We Need to Go Deeper]",
-    "[23:05] <sebasfut29> enzo manda ip de tu server ",
-    "[23:05] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[23:05] <TulagrandBot> >How are you __Solarflare? ",
-    "[23:05] <fabric_XxX> o q es es un server normal q es??? ",
-    "[23:05] <fabric_XxX> pa unirme ",
-    "[23:05] <EnzoTryHard> ese ",
     "[23:05] El_rulo2012 has reached the goal [Sky's the Limit]",
     "[23:05] <EnzoTryHard> Es de lifesteal ",
     "[23:05] El_rulo2012 has completed the challenge [Cover Me in Debris]",
@@ -101,7 +88,20 @@
     "[23:06] <sebasfut29> tf ",
     "[23:06] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[23:06] <EnzoTryHard> q ",
-    "[23:06] <sebasfut29> wtf "
+    "[23:06] <sebasfut29> wtf ",
+    "[23:07] <EnzoTryHard> !kit survival ",
+    "[23:07] [8b8t] >> Teleporting to home 0...",
+    "[23:07] [8b8t] >> Teleporting to home 1...",
+    "[23:07] <dylans117877601> !kit dupe ",
+    "[23:07] To dylans117877601: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[23:07] To EnzoTryHard: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:07] To EnzoTryHard: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:07] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[23:07] <sebasfut29> me dice que mi nombre no esta verificado ?? ",
+    "[23:07] [8b8t] >> Request sent to EnzoTryHard",
+    "[23:07] <Luchadorluk> y no si me quisiste explotar mi base ",
+    "[23:07] <fabric_XxX> alguien me regala algo porfavor ",
+    "[23:07] <TulagrandBot> >Hola H_INMORTAL_M "
   ],
   "userStats": {
     "76756": 38,
@@ -518,7 +518,7 @@
     "matichhh": 1,
     "Emiliano_Rey1": 21,
     "Dream_Pato": 1,
-    "EnzoTryHard": 26,
+    "EnzoTryHard": 27,
     "mazo": 5,
     "holawffttt": 2,
     "itsnotlukke": 37,
@@ -3863,7 +3863,7 @@
   },
   "kitStats": {
     "build": 2004,
-    "survival": 7374,
+    "survival": 7375,
     "pvp": 9622,
     "dupe": 2703,
     "tools": 2245,
