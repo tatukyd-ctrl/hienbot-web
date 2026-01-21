@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:00:03 22/1/2026",
-  "totalKits": 92005,
-  "todayKits": 271,
+  "lastUpdated": "06:00:20 22/1/2026",
+  "totalKits": 92006,
+  "todayKits": 272,
   "onlineCount": 33,
   "peakPlayers": 50,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 209,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7372
+      "count": 7373
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:58] To PicoGod: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:58] <sebasfut29> pvp ",
-    "[22:58] <fabric_XxX> legal ",
-    "[22:58] <sebasfut29> te doy kits ",
-    "[22:58] <fabric_XxX> sin hacks si ",
-    "[22:58] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[22:58] [8b8t] >> You have killed yourself!",
-    "[22:58] [8b8t] >> The TPA request you sent to EnzoTryHard was successfully canceled.",
     "[22:58] <TulagrandBot> >Try @seed to get 8b8t's seed ",
     "[22:58] <fabric_XxX> sin hacks bro ",
     "[22:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +93,15 @@
     "[22:59] [8b8t] >> You have killed yourself!",
     "[22:59] [8b8t] >> The TPA request you sent to PicoGod was successfully canceled.",
     "[22:59] <EnzoTryHard> Quien habla espanol ",
-    "[22:59] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp "
+    "[22:59] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[23:00] <EnzoTryHard> !kit survival ",
+    "[23:00] [8b8t] >> Teleporting to home 0...",
+    "[23:00] [8b8t] >> Teleporting to home 1...",
+    "[23:00] To EnzoTryHard: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:00] [8b8t] >> Please do not spam.",
+    "[23:00] To EnzoTryHard: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:00] [8b8t] >> Request sent to EnzoTryHard",
+    "[23:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -518,7 +518,7 @@
     "matichhh": 1,
     "Emiliano_Rey1": 21,
     "Dream_Pato": 1,
-    "EnzoTryHard": 24,
+    "EnzoTryHard": 25,
     "mazo": 5,
     "holawffttt": 2,
     "itsnotlukke": 37,
@@ -3863,7 +3863,7 @@
   },
   "kitStats": {
     "build": 2004,
-    "survival": 7372,
+    "survival": 7373,
     "pvp": 9622,
     "dupe": 2703,
     "tools": 2245,
