@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:57:52 21/1/2026",
-  "totalKits": 91653,
-  "todayKits": 18,
+  "lastUpdated": "14:58:09 21/1/2026",
+  "totalKits": 91654,
+  "todayKits": 19,
   "onlineCount": 18,
   "peakPlayers": 29,
-  "tps": "7.0",
-  "ping": 262,
+  "tps": "5.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9532
+      "count": 9533
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[07:54] <TulagrandBot> >Hello, DPS_Chatbridge ",
-    "[07:54] Ratet Whispers: !kit wool",
-    "[07:54] To Ratet: You're on cooldown, try again in 2 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:54] Ratet Whispers: !kit wool",
-    "[07:54] [8b8t] >> Teleporting to home 0...",
-    "[07:54] [8b8t] >> Teleporting to home 3...",
-    "[07:54] To Ratet: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:54] To Ratet: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:54] [8b8t] >> Request sent to Ratet",
     "[07:54] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
@@ -101,7 +93,15 @@
     "[07:57] <GOJOJUJUTSU> spawn 20000 block stop ",
     "[07:57] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[07:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:57] <TulagrandBot> >Try @ping to get your ping "
+    "[07:57] <TulagrandBot> >Try @ping to get your ping ",
+    "[07:57] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[07:57] <StubbledBannana> !kit pvp ",
+    "[07:57] [8b8t] >> Teleporting to home 0...",
+    "[07:57] [8b8t] >> Teleporting to home 1...",
+    "[07:57] StubbledBannana is ignoring you",
+    "[07:58] StubbledBannana is ignoring you",
+    "[07:58] [8b8t] >> Request sent to StubbledBannana",
+    "[07:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3815,12 +3815,12 @@
     "0_BadBot": 5,
     "Catito": 1,
     "Doktor_bozi": 1,
-    "StubbledBannana": 1
+    "StubbledBannana": 2
   },
   "kitStats": {
     "build": 1984,
     "survival": 7307,
-    "pvp": 9532,
+    "pvp": 9533,
     "dupe": 2661,
     "tools": 2211,
     "stash": 1333,
