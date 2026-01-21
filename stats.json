@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:35:58 21/1/2026",
-  "totalKits": 91559,
-  "todayKits": 95,
+  "lastUpdated": "09:36:28 21/1/2026",
+  "totalKits": 91560,
+  "todayKits": 96,
   "onlineCount": 29,
   "peakPlayers": 44,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 227,
   "topUsers": [
     {
@@ -68,22 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1974
+      "count": 1975
     }
   ],
   "chatLog": [
-    "[02:33] <Ratet> .goto ",
-    "[02:33] <TulagrandBot> >Hi MrPinkEye ",
-    "[02:33] <Matisito> !kit pvp ",
-    "[02:33] To Matisito: You're on cooldown, try again in 7 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:33] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[02:33] <Matisito> !kit pvp ",
-    "[02:33] [8b8t] >> Teleporting to home 0...",
-    "[02:33] [8b8t] >> Teleporting to home 1...",
-    "[02:33] To Matisito: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:33] To Matisito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:33] [8b8t] >> Request sent to Matisito",
-    "[02:34] <Xx_chamorro_xX> !kit ",
     "[02:34] To Xx_chamorro_xX: Hello Xx_chamorro_xX!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[02:34] [8b8t] >> Teleporting...",
     "[02:34] <TulagrandBot> >Whant something? Try @kit! ",
@@ -101,7 +89,19 @@
     "[02:35] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[02:35] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[02:35] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[02:35] <TulagrandBot> >Try @seed to get 8b8t's seed "
+    "[02:35] <TulagrandBot> >Try @seed to get 8b8t's seed ",
+    "[02:35] <Xx_chamorro_xX> !kit build ",
+    "[02:36] [8b8t] >> Teleporting to home 0...",
+    "[02:36] [8b8t] >> Home 2 was not found",
+    "[02:36] To Xx_chamorro_xX: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:36] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:36] [8b8t] >> Request sent to Xx_chamorro_xX",
+    "[02:36] <Matisito> !kits ",
+    "[02:36] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[02:36] <Matisito> Xx_chamorro_xX pasa kit bueno ",
+    "[02:36] [8b8t] >> Teleporting...",
+    "[02:36] <TulagrandBot> >Try /nc to change your nick color ",
+    "[02:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -3807,10 +3807,10 @@
     "20_cm": 1,
     "Elrompepelotas": 3,
     "Matisito": 3,
-    "Xx_chamorro_xX": 3
+    "Xx_chamorro_xX": 4
   },
   "kitStats": {
-    "build": 1974,
+    "build": 1975,
     "survival": 7294,
     "pvp": 9506,
     "dupe": 2650,
