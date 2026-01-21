@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:21:32 21/1/2026",
-  "totalKits": 91784,
-  "todayKits": 50,
-  "onlineCount": 31,
+  "lastUpdated": "22:21:51 21/1/2026",
+  "totalKits": 91785,
+  "todayKits": 51,
+  "onlineCount": 32,
   "peakPlayers": 39,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 212,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1993
+      "count": 1994
     }
   ],
   "chatLog": [
-    "[15:19] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[15:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[15:19] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[15:20] <Najadlaug> !kit concrete ",
-    "[15:20] [8b8t] >> Teleporting to home 0...",
-    "[15:20] [8b8t] >> Teleporting to home 3...",
-    "[15:20] To Najadlaug: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:20] To Najadlaug: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:20] <TulagrandBot> >Building a castle? Try @kit bricks ",
     "[15:20] [8b8t] >> Request sent to Najadlaug",
     "[15:20] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
@@ -101,7 +93,15 @@
     "[15:21] <Najadlaug> !kit concrete ",
     "[15:21] To Najadlaug: You're on cooldown, try again in 25 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[15:21] [BOT] <0_HienBot> >Hi ARNOSHEEP! "
+    "[15:21] [BOT] <0_HienBot> >Hi ARNOSHEEP! ",
+    "[15:21] <Xx_chamorro_xX> !kit build ",
+    "[15:21] [8b8t] >> Teleporting to home 0...",
+    "[15:21] [8b8t] >> Home 2 was not found",
+    "[15:21] To Xx_chamorro_xX: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:21] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:21] <LEON10> a ",
+    "[15:21] [8b8t] >> Request sent to Xx_chamorro_xX",
+    "[15:21] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3807,7 +3807,7 @@
     "20_cm": 1,
     "Elrompepelotas": 13,
     "Matisito": 15,
-    "Xx_chamorro_xX": 28,
+    "Xx_chamorro_xX": 29,
     "VRZ8": 2,
     "baninn_": 1,
     "Raistar": 1,
@@ -3835,7 +3835,7 @@
     "0pt1fin3": 11
   },
   "kitStats": {
-    "build": 1993,
+    "build": 1994,
     "survival": 7334,
     "pvp": 9554,
     "dupe": 2674,
