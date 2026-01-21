@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:20:58 21/1/2026",
-  "totalKits": 91627,
-  "todayKits": 163,
-  "onlineCount": 23,
+  "lastUpdated": "12:21:07 21/1/2026",
+  "totalKits": 91628,
+  "todayKits": 164,
+  "onlineCount": 22,
   "peakPlayers": 44,
   "tps": "7.0",
-  "ping": 260,
+  "ping": 233,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:17] [8b8t] >> Teleporting to home 0...",
-    "[05:17] [8b8t] >> Teleporting to home 1...",
-    "[05:17] To chetilloconqueso: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:18] To chetilloconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:18] [8b8t] >> Request sent to chetilloconqueso",
-    "[05:18] <TulagrandBot> >Try /kill to kill yourself ",
-    "[05:18] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[05:18] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[05:18] [8b8t] >> You have killed yourself!",
     "[05:18] [8b8t] >> The TPA request you sent to chetilloconqueso was successfully canceled.",
@@ -101,7 +94,14 @@
     "[05:20] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[05:20] TulagrandBot Whispers: Try @kit to get free kit",
     "[05:20] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[05:20] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
+    "[05:20] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[05:20] <chetilloconqueso> !kit Stash ",
+    "[05:20] [8b8t] >> Teleporting to home 0...",
+    "[05:20] [8b8t] >> Home 2 was not found",
+    "[05:20] To chetilloconqueso: Your kit (Stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:21] To chetilloconqueso: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:21] [8b8t] >> Request sent to chetilloconqueso",
+    "[05:21] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3797,7 +3797,7 @@
     "VRZ7": 28,
     "KingBomberKill": 1,
     "ahilleas11": 1,
-    "chetilloconqueso": 7,
+    "chetilloconqueso": 8,
     "oldmilo": 8,
     "masmellou63": 13,
     ".zCastro2010": 3,
@@ -3818,7 +3818,7 @@
     "pvp": 9527,
     "dupe": 2658,
     "tools": 2209,
-    "stash": 1332,
+    "stash": 1333,
     "raid": 1563,
     "wood": 620,
     "exp": 920,
