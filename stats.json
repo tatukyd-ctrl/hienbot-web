@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:09:52 21/1/2026",
+  "lastUpdated": "19:10:22 21/1/2026",
   "totalKits": 91720,
   "todayKits": 85,
   "onlineCount": 22,
   "peakPlayers": 29,
-  "tps": "6.0",
-  "ping": 256,
+  "tps": "5.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:05] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[12:06] <tons618> !kit ",
-    "[12:06] To tons618: Hello tons618!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:06] [8b8t] >> You have killed yourself!",
     "[12:06] [8b8t] >> Player Super_jj9000 is not online",
     "[12:06] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[12:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +97,11 @@
     "[12:09] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[12:09] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[12:09] TulagrandBot Whispers: Best kits ---> Join TULAGRANDE - discord.gg/XWBkeQGNpt",
-    "[12:09] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[12:09] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[12:10] <TulagrandBot> >Try /kill to kill yourself ",
+    "[12:10] <unknown_2121_> !kit totems ",
+    "[12:10] [8b8t] >> Teleporting to home 0...",
+    "[12:10] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "76756": 38,
@@ -2236,7 +2236,7 @@
     "Escannn": 1,
     "Alcope": 1,
     "MrSevenEleven": 2,
-    "unknown_2121_": 67,
+    "unknown_2121_": 68,
     "Jwit_": 1,
     "IvanZaSilly2": 62,
     "blackwolf480": 4,
@@ -3840,7 +3840,7 @@
     "mineral": 598,
     "food": 601,
     "redstone": 960,
-    "toolbox": 876,
+    "toolbox": 877,
     "quartz": 419,
     "shulker": 706,
     "terracotta": 153,
