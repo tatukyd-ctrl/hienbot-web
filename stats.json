@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:48:52 21/1/2026",
+  "lastUpdated": "16:49:22 21/1/2026",
   "totalKits": 91682,
   "todayKits": 47,
   "onlineCount": 24,
   "peakPlayers": 29,
-  "tps": "8.0",
-  "ping": 221,
+  "tps": "6.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2664
+      "count": 2665
     },
     {
       "name": "tools",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:47] <Driftloot> $rules ",
-    "[09:47] <Aeriak64HD> !kit redstone ",
-    "[09:47] To Aeriak64HD: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:47] <DrVenial31> bro tpa me : yaramı yiyin ",
-    "[09:47] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
-    "[09:47] <DrVenial31> tp : yaramı yiyin ",
-    "[09:47] <Aeriak64HD> !kit redstone ",
-    "[09:47] <Driftloot> there are kits? ",
-    "[09:47] To Aeriak64HD: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:47] <Driftloot> !kit ",
-    "[09:47] To Driftloot: Hello Driftloot!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[09:47] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[09:48] <Driftloot> kit dupe? ",
-    "[09:48] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[09:48] <Aeriak64HD> !kit redstomne ",
     "[09:48] [8b8t] >> You have killed yourself!",
     "[09:48] To Aeriak64HD: Kit \"redstomne\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
     "[09:48] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +86,22 @@
     "[09:48] [8b8t] >> Teleporting...",
     "[09:48] [8b8t] >> You have killed yourself!",
     "[09:48] TulagrandBot Whispers: Join tulagrande",
-    "[09:48] <TulagrandBot> >This bot has been created by Felek btw. "
+    "[09:48] <TulagrandBot> >This bot has been created by Felek btw. ",
+    "[09:48] <Driftloot> !kit ",
+    "[09:48] To Driftloot: Hello Driftloot!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[09:48] [8b8t] >> Please do not spam.",
+    "[09:49] <Driftloot> !kit Dupe ",
+    "[09:49] [8b8t] >> Teleporting to home 0...",
+    "[09:49] [8b8t] >> Teleporting to home 7...",
+    "[09:49] To Driftloot: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:49] <Aeriak64HD> !kit redstone ",
+    "[09:49] To Aeriak64HD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:49] To Driftloot: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:49] [8b8t] >> Request sent to Driftloot",
+    "[09:49] <Aeriak64HD> !kit redstone ",
+    "[09:49] To Aeriak64HD: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:49] Ratet Whispers: !kit",
+    "[09:49] To Ratet: Hello Ratet!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3818,13 +3818,14 @@
     "StubbledBannana": 2,
     "TheDreaMBG": 2,
     "Beamy_cristiReal": 2,
-    "ShadowKnight528": 4
+    "ShadowKnight528": 4,
+    "Driftloot": 1
   },
   "kitStats": {
     "build": 1987,
     "survival": 7312,
     "pvp": 9537,
-    "dupe": 2664,
+    "dupe": 2665,
     "tools": 2214,
     "stash": 1333,
     "raid": 1565,
