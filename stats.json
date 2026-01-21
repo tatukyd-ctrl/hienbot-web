@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:44:33 22/1/2026",
+  "lastUpdated": "05:45:03 22/1/2026",
   "totalKits": 91994,
   "todayKits": 260,
   "onlineCount": 28,
   "peakPlayers": 50,
-  "tps": "5.0",
-  "ping": 219,
+  "tps": "1.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2242
+      "count": 2243
     },
     {
       "name": "build",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:43] <TulagrandBot> >Whant something? Try @kit! ",
-    "[22:43] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[22:43] <__Solarflare> !kit ",
-    "[22:43] To __Solarflare: Hello __Solarflare!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:43] <HahaGirlYs> JocKem ",
-    "[22:43] <HahaGirlYs> JocKem ",
     "[22:43] <__Solarflare> !kit toolbox ",
     "[22:43] [8b8t] >> Teleporting to home 0...",
     "[22:43] [8b8t] >> Teleporting to home 4...",
@@ -101,7 +95,13 @@
     "[22:44] <xxXEN0xx_> @ping ",
     "[22:44] [8b8t] >> You have killed yourself!",
     "[22:44] <__Solarflare> !kit tools ",
-    "[22:44] To __Solarflare: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot"
+    "[22:44] To __Solarflare: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:44] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[22:44] <xxXEN0xx_> !kit Tools ",
+    "[22:44] [8b8t] >> Teleporting to home 0...",
+    "[22:44] [8b8t] >> Teleporting to home 7...",
+    "[22:44] To xxXEN0xx_: Your kit (Tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:45] To xxXEN0xx_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3855,7 +3855,7 @@
     ".MaxxBuddy": 1,
     "enzoarrieta": 1,
     "VANNZ1012": 1,
-    "xxXEN0xx_": 10,
+    "xxXEN0xx_": 11,
     "PachonTheWizard": 2,
     "jairoelpro": 3
   },
@@ -3864,7 +3864,7 @@
     "survival": 7371,
     "pvp": 9618,
     "dupe": 2702,
-    "tools": 2242,
+    "tools": 2243,
     "stash": 1353,
     "raid": 1585,
     "wood": 627,
