@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:35:02 21/1/2026",
-  "totalKits": 91743,
-  "todayKits": 9,
-  "onlineCount": 30,
+  "lastUpdated": "21:35:27 21/1/2026",
+  "totalKits": 91744,
+  "todayKits": 10,
+  "onlineCount": 32,
   "peakPlayers": 34,
-  "tps": "1.0",
+  "tps": "5.0",
   "ping": 212,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7324
+      "count": 7325
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:33] [8b8t] >> Teleporting to home 0...",
-    "[14:33] [8b8t] >> Teleporting to home 1...",
-    "[14:33] <Najadlaug> !kit survival ",
-    "[14:33] To .TatukiiYT: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:33] To Najadlaug: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:33] To .TatukiiYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:33] [8b8t] >> You already have a pending request",
-    "[14:33] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:33] Rubi222 has made the advancement [The Parrots and the Bats]",
     "[14:33] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[14:33] [8b8t] >> The TPA request you sent to .TatukiiYT has expired.",
     "[14:33] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[14:34] [8b8t] >> You have killed yourself!",
     "[14:34] <TulagrandBot> >Try /kill to kill yourself ",
     "[14:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:34] [BOT] <0_HienBot> >Type !кιт  to get free kits "
+    "[14:34] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[14:35] <.TatukiiYT> !kit survival ",
+    "[14:35] <Nor> !kit ",
+    "[14:35] [8b8t] >> Teleporting to home 0...",
+    "[14:35] To Nor: Hello Nor!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[14:35] [8b8t] >> Teleporting to home 1...",
+    "[14:35] To .TatukiiYT: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:35] To .TatukiiYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:35] [8b8t] >> Request sent to .TatukiiYT",
+    "[14:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3828,13 +3828,13 @@
     "DSroxen": 2,
     "redherolegend": 1,
     "Najadlaug": 3,
-    ".TatukiiYT": 2,
+    ".TatukiiYT": 3,
     "Cheleviruz": 1,
     "dylans117877601": 2
   },
   "kitStats": {
     "build": 1989,
-    "survival": 7324,
+    "survival": 7325,
     "pvp": 9549,
     "dupe": 2671,
     "tools": 2221,
