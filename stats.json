@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:41:28 21/1/2026",
-  "totalKits": 91580,
-  "todayKits": 116,
-  "onlineCount": 34,
+  "lastUpdated": "10:41:58 21/1/2026",
+  "totalKits": 91581,
+  "todayKits": 117,
+  "onlineCount": 35,
   "peakPlayers": 44,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 391,
   "topUsers": [
     {
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1976
+      "count": 1977
     }
   ],
   "chatLog": [
-    "[03:38] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[03:38] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[03:38] [8b8t] >> Teleporting...",
-    "[03:38] [8b8t] >> You have killed yourself!",
-    "[03:38] pierolozavargas has completed the challenge [Subspace Bubble]",
-    "[03:38] [BOT] <0_HienBot> >Type !discord ",
-    "[03:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:38] <OmHackz> !kit ",
-    "[03:38] To OmHackz: Hello OmHackz!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[03:39] [BOT] <0_HienBot> >Type !discord ",
     "[03:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:39] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +92,16 @@
     "[03:40] [BOT] <0_HienBot> >Try !кιт survival ",
     "[03:40] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[03:41] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[03:41] [BOT] <0_HienBot> >Hello DPS_Chatbridge! "
+    "[03:41] [BOT] <0_HienBot> >Hello DPS_Chatbridge! ",
+    "[03:41] [BOT] <0_HienBot> >Type !discord ",
+    "[03:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:41] ASXN Whispers: !kit build",
+    "[03:41] [8b8t] >> Teleporting to home 0...",
+    "[03:41] [8b8t] >> Home 2 was not found",
+    "[03:41] To ASXN: Tu kit (build) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[03:41] To ASXN: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[03:41] [8b8t] >> Request sent to ASXN",
+    "[03:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2719,7 +2719,7 @@
     "ElsapotopoMC": 5,
     "ivan56": 13,
     "Exoshi": 10,
-    "ASXN": 37,
+    "ASXN": 38,
     "panana777": 15,
     "Alexisfemboy": 1,
     "Mal_wPjGeV": 1,
@@ -3812,7 +3812,7 @@
     "baninn_": 1
   },
   "kitStats": {
-    "build": 1976,
+    "build": 1977,
     "survival": 7294,
     "pvp": 9511,
     "dupe": 2652,
