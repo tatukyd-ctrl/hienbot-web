@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:35:27 21/1/2026",
+  "lastUpdated": "21:35:32 21/1/2026",
   "totalKits": 91744,
   "todayKits": 10,
   "onlineCount": 32,
   "peakPlayers": 34,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 212,
   "topUsers": [
     {
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:33] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[14:33] [8b8t] >> The TPA request you sent to .TatukiiYT has expired.",
     "[14:33] [8b8t] >> You have killed yourself!",
     "[14:33] [8b8t] >> No TPA request found",
     "[14:33] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
@@ -101,7 +99,9 @@
     "[14:35] To .TatukiiYT: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:35] To .TatukiiYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:35] [8b8t] >> Request sent to .TatukiiYT",
-    "[14:35] [8b8t] >> Teleporting..."
+    "[14:35] [8b8t] >> Teleporting...",
+    "[14:35] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[14:35] [8b8t] >> You have killed yourself!"
   ],
   "userStats": {
     "76756": 38,
