@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:52:14 21/1/2026",
+  "lastUpdated": "21:52:32 21/1/2026",
   "totalKits": 91750,
   "todayKits": 16,
   "onlineCount": 36,
   "peakPlayers": 38,
-  "tps": "5.0",
-  "ping": 221,
+  "tps": "1.0",
+  "ping": 300,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7330
+      "count": 7331
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:50] Rubi222 has made the advancement [Fishy Business]",
-    "[14:50] <ThDasAntigas> X -623 Z 176 ",
-    "[14:50] Nor has made the advancement [Suit Up]",
-    "[14:50] [BOT] <0_HienBot> >Welcome to 8b8t, Simblebot! ",
-    "[14:51] <dylans117877601> !kit survival ",
-    "[14:51] [8b8t] >> Teleporting to home 0...",
-    "[14:51] [8b8t] >> Teleporting to home 1...",
-    "[14:51] To dylans117877601: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:51] <TulagrandBot> >How are you ThDasAntigas? ",
     "[14:51] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:51] [8b8t] >> Request sent to dylans117877601",
@@ -101,7 +93,15 @@
     "[14:52] To MattyBot: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:52] [8b8t] >> Request sent to MattyBot",
     "[14:52] [8b8t] >> Teleporting...",
-    "[14:52] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp "
+    "[14:52] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[14:52] [8b8t] >> You have killed yourself!",
+    "[14:52] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[14:52] <Najadlaug> @kit survival ",
+    "[14:52] <dylans117877601> !kit elytra ",
+    "[14:52] [8b8t] >> Teleporting to home 0...",
+    "[14:52] To dylans117877601: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:52] [8b8t] >> Teleporting to home 1...",
+    "[14:52] To Najadlaug: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3827,7 +3827,7 @@
     "Efe_alkaya": 2,
     "DSroxen": 2,
     "redherolegend": 1,
-    "Najadlaug": 3,
+    "Najadlaug": 4,
     ".TatukiiYT": 6,
     "Cheleviruz": 1,
     "dylans117877601": 5,
@@ -3835,7 +3835,7 @@
   },
   "kitStats": {
     "build": 1989,
-    "survival": 7330,
+    "survival": 7331,
     "pvp": 9549,
     "dupe": 2672,
     "tools": 2221,
