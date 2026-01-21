@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:32:02 21/1/2026",
+  "lastUpdated": "22:32:32 21/1/2026",
   "totalKits": 91791,
   "todayKits": 57,
-  "onlineCount": 32,
+  "onlineCount": 30,
   "peakPlayers": 39,
-  "tps": "2.0",
-  "ping": 224,
+  "tps": "9.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:31] <.TheSmile901> che ",
-    "[15:31] <liviaaaaaaa> !KIT BANNER ",
-    "[15:31] [8b8t] >> Teleporting to home 0...",
-    "[15:31] [8b8t] >> Teleporting to home 3...",
-    "[15:31] To liviaaaaaaa: Your kit (BANNER) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:31] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[15:31] Nor has made the advancement [Ice Bucket Challenge]",
-    "[15:31] To liviaaaaaaa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:31] <0pt1fin3> !kit stash ",
     "[15:31] [8b8t] >> Request sent to liviaaaaaaa",
     "[15:31] To 0pt1fin3: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[15:31] [8b8t] >> You have killed yourself!",
     "[15:31] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
     "[15:31] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:31] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[15:31] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[15:32] <0pt1fin3> !kit stash ",
+    "[15:32] [8b8t] >> Teleporting to home 0...",
+    "[15:32] [8b8t] >> Home 2 was not found",
+    "[15:32] To 0pt1fin3: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:32] To 0pt1fin3: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:32] [8b8t] >> Request sent to 0pt1fin3",
+    "[15:32] [8b8t] >> Please do not spam.",
+    "[15:32] <TulagrandBot> >Try /nc to change your nick color "
   ],
   "userStats": {
     "76756": 38,
@@ -3832,7 +3832,7 @@
     "Cheleviruz": 1,
     "dylans117877601": 11,
     "Nor": 1,
-    "0pt1fin3": 12
+    "0pt1fin3": 13
   },
   "kitStats": {
     "build": 1995,
@@ -3840,7 +3840,7 @@
     "pvp": 9556,
     "dupe": 2674,
     "tools": 2224,
-    "stash": 1344,
+    "stash": 1345,
     "raid": 1571,
     "wood": 623,
     "exp": 925,
