@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:26:08 21/1/2026",
-  "totalKits": 91647,
-  "todayKits": 12,
+  "lastUpdated": "14:26:22 21/1/2026",
+  "totalKits": 91648,
+  "todayKits": 13,
   "onlineCount": 24,
   "peakPlayers": 29,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 216,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7306
+      "count": 7307
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:22] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[07:23] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[07:23] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[07:23] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[07:24] <StubbledBannana> @commands ",
-    "[07:24] [Youtuber] <SpreenDMC.> t ",
-    "[07:24] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[07:24] <StubbledBannana> so whats everyone up to ",
     "[07:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[07:24] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[07:24] <GOJOJUJUTSU> d ",
@@ -101,6 +93,14 @@
     "[07:25] [8b8t] >> Request sent to Ratet",
     "[07:26] To .Pig7903: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:26] <H_INMORTAL_M> algien tradea mapas polno ",
+    "[07:26] [8b8t] >> Teleporting...",
+    "[07:26] [8b8t] >> You have killed yourself!",
+    "[07:26] <.Pig7903> !kit survival ",
+    "[07:26] [8b8t] >> Teleporting to home 0...",
+    "[07:26] [8b8t] >> Teleporting to home 1...",
+    "[07:26] To .Pig7903: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:26] To .Pig7903: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:26] [8b8t] >> Request sent to .Pig7903",
     "[07:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
@@ -138,7 +138,7 @@
     "Seasmd": 1,
     "Season12312": 1,
     "nicealts_ZURmw": 6,
-    ".Pig7903": 9,
+    ".Pig7903": 10,
     "Leo_Arcade": 17,
     "Kraxxyz": 27,
     "DeoDevil": 104,
@@ -3818,7 +3818,7 @@
   },
   "kitStats": {
     "build": 1981,
-    "survival": 7306,
+    "survival": 7307,
     "pvp": 9531,
     "dupe": 2661,
     "tools": 2211,
