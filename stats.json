@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:31:52 21/1/2026",
+  "lastUpdated": "18:32:22 21/1/2026",
   "totalKits": 91706,
   "todayKits": 71,
-  "onlineCount": 23,
+  "onlineCount": 22,
   "peakPlayers": 29,
   "tps": "5.0",
   "ping": 224,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7315
+      "count": 7316
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:30] [8b8t] >> Teleporting to home 6...",
-    "[11:30] To DandelionBot: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:30] To DandelionBot: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:30] <DandelionBot> !kit elytra ",
-    "[11:30] To DandelionBot: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:30] <DandelionBot> !kit elytra ",
-    "[11:30] To DandelionBot: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:30] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[11:30] <DandelionBot> !kit elytra ",
-    "[11:30] To DandelionBot: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:30] <DandelionBot> !kit elytra ",
     "[11:30] To DandelionBot: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:30] <DandelionBot> !kit elytra ",
     "[11:30] To DandelionBot: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[11:31] To DandelionBot: You're on cooldown, try again in 42 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:31] <yra112> good boy ",
     "[11:31] [BOT] <0_HienBot> >Type !discord ",
-    "[11:31] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[11:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:31] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[11:31] <tons618> !KIT ",
+    "[11:31] To tons618: Hello tons618!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[11:32] <TulagrandBot> >Building a base? Try @kit build ",
+    "[11:32] <tons618> !kit survival ",
+    "[11:32] [8b8t] >> Teleporting to home 0...",
+    "[11:32] [8b8t] >> Teleporting to home 1...",
+    "[11:32] To tons618: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:32] To tons618: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:32] [8b8t] >> Request sent to tons618",
+    "[11:32] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
   ],
   "userStats": {
     "76756": 38,
@@ -3822,12 +3822,12 @@
     "Driftloot": 1,
     "ravelEfs0BAr": 5,
     "sqrazyy": 2,
-    "tons618": 2,
+    "tons618": 3,
     "DandelionBot": 1
   },
   "kitStats": {
     "build": 1988,
-    "survival": 7315,
+    "survival": 7316,
     "pvp": 9538,
     "dupe": 2666,
     "tools": 2218,
