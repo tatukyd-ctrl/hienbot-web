@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:42:58 21/1/2026",
+  "lastUpdated": "09:43:28 21/1/2026",
   "totalKits": 91565,
   "todayKits": 101,
   "onlineCount": 31,
   "peakPlayers": 44,
-  "tps": "2.0",
-  "ping": 214,
+  "tps": "5.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9507
+      "count": 9508
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:40] [8b8t] >> You have killed yourself!",
-    "[02:41] <TulagrandBot> >Tulagrande on top! ",
-    "[02:41] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[02:41] <Matisito> !kit pro ",
-    "[02:41] [8b8t] >> Teleporting to home 0...",
-    "[02:41] [8b8t] >> Teleporting to home 7...",
-    "[02:41] To Matisito: Kit \"pro\" not found! Giving you (armortrims) instead! dsc.gg/hienbot",
-    "[02:41] To Matisito: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:41] [8b8t] >> Request sent to Matisito",
     "[02:41] [8b8t] >> Teleporting...",
     "[02:41] <Xx_chamorro_xX> @kit redstone ",
@@ -101,7 +93,15 @@
     "[02:42] Matisito has made the advancement [Crafting a New Look]",
     "[02:42] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[02:42] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[02:42] gustambo789 has made the advancement [Withering Heights]"
+    "[02:42] gustambo789 has made the advancement [Withering Heights]",
+    "[02:43] <Xx_chamorro_xX> !kit build1 ",
+    "[02:43] [8b8t] >> Teleporting to home 0...",
+    "[02:43] [8b8t] >> Teleporting to home 1...",
+    "[02:43] To Xx_chamorro_xX: Kit \"build1\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[02:43] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:43] [8b8t] >> Request sent to Xx_chamorro_xX",
+    "[02:43] [BOT] <0_HienBot> >Hey Xx_chamorro_xX! ",
+    "[02:43] <TulagrandBot> >Try /kill to kill yourself "
   ],
   "userStats": {
     "76756": 38,
@@ -3807,12 +3807,12 @@
     "20_cm": 1,
     "Elrompepelotas": 3,
     "Matisito": 7,
-    "Xx_chamorro_xX": 5
+    "Xx_chamorro_xX": 6
   },
   "kitStats": {
     "build": 1975,
     "survival": 7294,
-    "pvp": 9507,
+    "pvp": 9508,
     "dupe": 2650,
     "tools": 2200,
     "stash": 1331,
