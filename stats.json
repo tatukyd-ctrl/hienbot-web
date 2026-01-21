@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:45:58 21/1/2026",
+  "lastUpdated": "07:46:28 21/1/2026",
   "totalKits": 91496,
   "todayKits": 32,
   "onlineCount": 22,
   "peakPlayers": 44,
   "tps": "5.0",
-  "ping": 242,
+  "ping": 222,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9485
+      "count": 9486
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:42] <TulagrandBot> >Try /kill to kill yourself ",
-    "[00:42] [Youtuber] <elproplayerxddd> VRZ8 please be toxic to me, I enjoy it ",
-    "[00:43] [BOT] <0_HienBot> >Hello sebasfut29! ",
     "[00:43] [Youtuber] <elproplayerxddd> !kit ",
     "[00:43] To elproplayerxddd: Hello elproplayerxddd!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[00:43] <TulagrandBot> >Building a base? Try @kit build2 ",
@@ -101,7 +98,10 @@
     "[00:45] [BOT] <0_HienBot> >Welcome to 8b8t, TulagrandBot! ",
     "[00:45] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[00:45] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[00:45] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp "
+    "[00:45] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[00:46] [BOT] <0_HienBot> >Hey MrPinkEye! ",
+    "[00:46] <Fred> !kit pvp ",
+    "[00:46] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3735,7 +3735,7 @@
     "MilitaryManYT": 1,
     "Frubrop": 9,
     "rikialiascrakk2": 4,
-    "Fred": 1,
+    "Fred": 2,
     "ImPulseStory": 9,
     "ROBETIKO": 1,
     "JamieVardy29": 4,
@@ -3804,7 +3804,7 @@
   "kitStats": {
     "build": 1974,
     "survival": 7278,
-    "pvp": 9485,
+    "pvp": 9486,
     "dupe": 2650,
     "tools": 2188,
     "stash": 1329,
