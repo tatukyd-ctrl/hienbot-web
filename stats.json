@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:57:36 21/1/2026",
+  "lastUpdated": "21:58:02 21/1/2026",
   "totalKits": 91759,
   "todayKits": 25,
   "onlineCount": 35,
   "peakPlayers": 39,
-  "tps": "1.0",
-  "ping": 247,
+  "tps": "2.0",
+  "ping": 1213,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7331
+      "count": 7332
     },
     {
       "name": "dupe",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:56] <Xx_chamorro_xX> !kit quartz ",
-    "[14:56] To Xx_chamorro_xX: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:56] [8b8t] >> Teleporting...",
-    "[14:56] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[14:56] <dylans117877601> !kit stash ",
-    "[14:56] To dylans117877601: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:57] [8b8t] >> You have killed yourself!",
-    "[14:57] <Xx_chamorro_xX> !kit quartz ",
-    "[14:57] [8b8t] >> Teleporting to home 0...",
-    "[14:57] [8b8t] >> Teleporting to home 7...",
-    "[14:57] To Xx_chamorro_xX: Your kit (quartz) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:57] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:57] [8b8t] >> Request sent to Xx_chamorro_xX",
     "[14:57] [8b8t] >> Teleporting...",
     "[14:57] ARNOSHEEP has made the advancement [The Cutest Predator]",
@@ -101,7 +89,19 @@
     "[14:57] [8b8t] >> Request sent to Najadlaug",
     "[14:57] [8b8t] >> Teleporting...",
     "[14:57] 0pt1fin3 has made the advancement [Ice Bucket Challenge]",
-    "[14:57] 0pt1fin3 has reached the goal [Sky's the Limit]"
+    "[14:57] 0pt1fin3 has reached the goal [Sky's the Limit]",
+    "[14:57] 0pt1fin3 has completed the challenge [Cover Me in Debris]",
+    "[14:57] [8b8t] >> You have killed yourself!",
+    "[14:57] <dylans117877601> !kit survival ",
+    "[14:57] [Youtuber] <elproplayerxddd> Music to my ears Simblebot ",
+    "[14:57] <Xx_chamorro_xX> !kit build ",
+    "[14:57] [8b8t] >> Teleporting to home 0...",
+    "[14:57] [8b8t] >> Teleporting to home 1...",
+    "[14:57] To dylans117877601: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:57] To Xx_chamorro_xX: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:57] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:57] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[14:57] [8b8t] >> Request sent to dylans117877601"
   ],
   "userStats": {
     "76756": 38,
@@ -3830,13 +3830,13 @@
     "Najadlaug": 5,
     ".TatukiiYT": 7,
     "Cheleviruz": 1,
-    "dylans117877601": 6,
+    "dylans117877601": 7,
     "Nor": 1,
     "0pt1fin3": 1
   },
   "kitStats": {
     "build": 1990,
-    "survival": 7331,
+    "survival": 7332,
     "pvp": 9551,
     "dupe": 2672,
     "tools": 2223,
