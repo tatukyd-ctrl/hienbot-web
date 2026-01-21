@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:54:32 22/1/2026",
+  "lastUpdated": "02:55:02 22/1/2026",
   "totalKits": 91939,
   "todayKits": 205,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 48,
-  "tps": "4.0",
-  "ping": 213,
+  "tps": "2.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7359
+      "count": 7360
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:53] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[19:53] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
-    "[19:53] <YasmiJa> !kit pvp ",
-    "[19:53] To YasmiJa: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:53] [8b8t] >> You have killed yourself!",
-    "[19:53] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[19:53] [8b8t] >> The TPA request you sent to YasmiJa was successfully canceled.",
-    "[19:53] <verusxd> !kit elytra ",
-    "[19:53] [8b8t] >> Teleporting to home 0...",
     "[19:53] [8b8t] >> Teleporting to home 6...",
     "[19:53] <botchaosonix> !kit raid ",
     "[19:53] To botchaosonix: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[19:53] To YasmiJa: You're on cooldown, try again in 37 seconds! Dont forget to join dsc.gg/hienbot",
     "[19:54] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[19:54] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[19:54] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base "
+    "[19:54] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
+    "[19:54] <RUFINO32> !kit survival ",
+    "[19:54] <dragonsej2025> !kit wool ",
+    "[19:54] [8b8t] >> Teleporting to home 0...",
+    "[19:54] To dragonsej2025: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:54] [8b8t] >> Teleporting to home 1...",
+    "[19:54] To RUFINO32: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:54] To RUFINO32: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:54] [8b8t] >> Request sent to RUFINO32",
+    "[19:55] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ "
   ],
   "userStats": {
     "76756": 38,
@@ -3847,11 +3847,12 @@
     "VOLATIKK": 2,
     "Th256405": 1,
     "verusxd": 9,
-    "YasmiJa": 1
+    "YasmiJa": 1,
+    "RUFINO32": 1
   },
   "kitStats": {
     "build": 2000,
-    "survival": 7359,
+    "survival": 7360,
     "pvp": 9607,
     "dupe": 2693,
     "tools": 2236,
