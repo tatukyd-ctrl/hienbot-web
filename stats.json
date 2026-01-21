@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:20:58 21/1/2026",
-  "totalKits": 91552,
-  "todayKits": 88,
-  "onlineCount": 29,
+  "lastUpdated": "09:21:18 21/1/2026",
+  "totalKits": 91553,
+  "todayKits": 89,
+  "onlineCount": 28,
   "peakPlayers": 44,
-  "tps": "4.0",
+  "tps": "7.0",
   "ping": 322,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9498
+      "count": 9499
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:17] <xxx_osolord_xxx> te caiste tu ",
-    "[02:17] <fabric_XxX> la pt mdre perdi mi ultimo kit mano osolord ese empuje nivel 100? ",
-    "[02:17] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[02:17] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[02:17] <fabric_XxX> ta chevere el reacj ",
-    "[02:17] <xxx_osolord_xxx> tpa pvp ",
-    "[02:18] <xxx_osolord_xxx> reach? que mrd es eso? ",
-    "[02:18] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[02:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[02:18] <fabric_XxX> we lit tenias empuje 100 ",
     "[02:18] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[02:18] <xxx_osolord_xxx> empuje dos ",
@@ -101,7 +92,16 @@
     "[02:20] <Xx_chamorro_xX> !kit ",
     "[02:20] To Xx_chamorro_xX: Hello Xx_chamorro_xX!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[02:20] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[02:20] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language "
+    "[02:20] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[02:20] <Xx_chamorro_xX> !kit pvp ",
+    "[02:20] [8b8t] >> Teleporting to home 0...",
+    "[02:20] [8b8t] >> Teleporting to home 1...",
+    "[02:20] To Xx_chamorro_xX: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:21] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:21] [8b8t] >> Request sent to Xx_chamorro_xX",
+    "[02:21] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[02:21] [8b8t] >> Teleporting...",
+    "[02:21] <TulagrandBot> >Try /kill to kill yourself "
   ],
   "userStats": {
     "76756": 38,
@@ -3806,12 +3806,13 @@
     "facumario": 4,
     "20_cm": 1,
     "Elrompepelotas": 3,
-    "Matisito": 1
+    "Matisito": 1,
+    "Xx_chamorro_xX": 1
   },
   "kitStats": {
     "build": 1974,
     "survival": 7294,
-    "pvp": 9498,
+    "pvp": 9499,
     "dupe": 2650,
     "tools": 2200,
     "stash": 1330,
