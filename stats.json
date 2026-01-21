@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:44:28 21/1/2026",
+  "lastUpdated": "10:44:58 21/1/2026",
   "totalKits": 91581,
   "todayKits": 117,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 44,
-  "tps": "5.0",
-  "ping": 438,
+  "tps": "6.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 1977
+      "count": 1978
     }
   ],
   "chatLog": [
-    "[03:40] <OmHackz> !sel cleararea ",
-    "[03:40] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[03:40] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[03:40] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[03:41] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[03:41] [BOT] <0_HienBot> >Hello DPS_Chatbridge! ",
-    "[03:41] [BOT] <0_HienBot> >Type !discord ",
     "[03:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:41] ASXN Whispers: !kit build",
     "[03:41] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +94,14 @@
     "[03:43] <marIcwwww> hmm. ",
     "[03:43] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[03:44] <TulagrandBot> >Try @kit to get kit ",
-    "[03:44] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
+    "[03:44] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[03:44] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[03:44] ASXN Whispers: !kit build",
+    "[03:44] [8b8t] >> Teleporting to home 0...",
+    "[03:44] [8b8t] >> Home 2 was not found",
+    "[03:44] To ASXN: Tu kit (build) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[03:44] To ASXN: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[03:44] [8b8t] >> Request sent to ASXN"
   ],
   "userStats": {
     "76756": 38,
@@ -2719,7 +2719,7 @@
     "ElsapotopoMC": 5,
     "ivan56": 13,
     "Exoshi": 10,
-    "ASXN": 38,
+    "ASXN": 39,
     "panana777": 15,
     "Alexisfemboy": 1,
     "Mal_wPjGeV": 1,
@@ -3812,7 +3812,7 @@
     "baninn_": 1
   },
   "kitStats": {
-    "build": 1977,
+    "build": 1978,
     "survival": 7294,
     "pvp": 9511,
     "dupe": 2652,
