@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:49:22 21/1/2026",
-  "totalKits": 91713,
-  "todayKits": 78,
-  "onlineCount": 22,
+  "lastUpdated": "18:49:49 21/1/2026",
+  "totalKits": 91714,
+  "todayKits": 79,
+  "onlineCount": 23,
   "peakPlayers": 29,
-  "tps": "7.0",
+  "tps": "3.0",
   "ping": 268,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9539
+      "count": 9540
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:44] [BOT] <0_HienBot> >Welcome to 8b8t, ravelEfs0BAr! ",
-    "[11:44] <TulagrandBot> >Tulagrande on top! ",
-    "[11:44] [BOT] <0_HienBot> >Hi _YouAreez_! ",
-    "[11:44] <TulagrandBot> >Whant something? Try @kit! ",
-    "[11:45] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[11:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[11:45] <TulagrandBot> >Want kit? Try @kit ",
     "[11:45] [8b8t] >> Please do not spam.",
     "[11:46] <TulagrandBot> >Hola TNGB0T ",
     "[11:46] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
@@ -101,7 +94,14 @@
     "[11:48] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:48] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[11:49] <TulagrandBot> >Tulagrande on top! ",
-    "[11:49] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
+    "[11:49] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[11:49] <ravelEfs0BAr> !kit pvp ",
+    "[11:49] [8b8t] >> Teleporting to home 0...",
+    "[11:49] [8b8t] >> Teleporting to home 1...",
+    "[11:49] To ravelEfs0BAr: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:49] To ravelEfs0BAr: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:49] [8b8t] >> Request sent to ravelEfs0BAr",
+    "[11:49] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3820,7 +3820,7 @@
     "Beamy_cristiReal": 2,
     "ShadowKnight528": 4,
     "Driftloot": 1,
-    "ravelEfs0BAr": 6,
+    "ravelEfs0BAr": 7,
     "sqrazyy": 2,
     "tons618": 6,
     "DandelionBot": 3
@@ -3828,7 +3828,7 @@
   "kitStats": {
     "build": 1988,
     "survival": 7317,
-    "pvp": 9539,
+    "pvp": 9540,
     "dupe": 2667,
     "tools": 2219,
     "stash": 1337,
