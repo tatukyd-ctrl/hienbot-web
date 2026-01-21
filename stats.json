@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:31:32 21/1/2026",
-  "totalKits": 91740,
-  "todayKits": 6,
-  "onlineCount": 34,
+  "lastUpdated": "21:32:00 21/1/2026",
+  "totalKits": 91741,
+  "todayKits": 7,
+  "onlineCount": 31,
   "peakPlayers": 34,
-  "tps": "0.0",
-  "ping": 1015,
+  "tps": "4.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2670
+      "count": 2671
     },
     {
       "name": "tools",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:29] <Cheleviruz> !kit ",
-    "[14:29] To Cheleviruz: Hello Cheleviruz!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:29] dreazein has made the advancement [Ice Bucket Challenge]",
-    "[14:30] <TulagrandBot> >Try @kit to get kit ",
-    "[14:30] <Najadlaug> !kit ",
-    "[14:30] To Najadlaug: Hello Najadlaug!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:30] <_YouAreez_> !kit wool ",
-    "[14:30] [8b8t] >> Teleporting to home 0...",
-    "[14:30] [8b8t] >> Teleporting to home 3...",
-    "[14:30] To _YouAreez_: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:30] To _YouAreez_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:30] [8b8t] >> Request sent to _YouAreez_",
-    "[14:30] [8b8t] >> Teleporting...",
-    "[14:30] [8b8t] >> You have killed yourself!",
     "[14:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:30] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[14:30] <Najadlaug> !kit Dupe ",
@@ -101,7 +87,21 @@
     "[14:30] To .TatukiiYT: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:30] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[14:31] [8b8t] >> You have killed yourself!",
-    "[14:31] [8b8t] >> The TPA request you sent to Najadlaug was successfully canceled."
+    "[14:31] [8b8t] >> The TPA request you sent to Najadlaug was successfully canceled.",
+    "[14:31] [BOT] <0_HienBot> >What's up, Red_Fragment_? ",
+    "[14:31] <.TatukiiYT> !kit ",
+    "[14:31] To .TatukiiYT: Hello .TatukiiYT!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[14:31] <Cheleviruz> !kit dupe ",
+    "[14:31] [8b8t] >> Teleporting to home 0...",
+    "[14:31] [8b8t] >> Teleporting to home 7...",
+    "[14:31] To Cheleviruz: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:31] <TulagrandBot> >Building a base? Try @kit build1 ",
+    "[14:31] To Cheleviruz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:31] [8b8t] >> Request sent to Cheleviruz",
+    "[14:31] [8b8t] >> Teleporting...",
+    "[14:31] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[14:31] [BOT] <0_HienBot> >Type !discord ",
+    "[14:31] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "76756": 38,
@@ -3828,13 +3828,14 @@
     "DSroxen": 2,
     "redherolegend": 1,
     "Najadlaug": 2,
-    ".TatukiiYT": 1
+    ".TatukiiYT": 1,
+    "Cheleviruz": 1
   },
   "kitStats": {
     "build": 1989,
     "survival": 7321,
     "pvp": 9549,
-    "dupe": 2670,
+    "dupe": 2671,
     "tools": 2220,
     "stash": 1340,
     "raid": 1566,
