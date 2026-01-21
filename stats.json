@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:05:04 21/1/2026",
-  "totalKits": 91547,
-  "todayKits": 83,
+  "lastUpdated": "09:05:28 21/1/2026",
+  "totalKits": 91548,
+  "todayKits": 84,
   "onlineCount": 38,
   "peakPlayers": 44,
-  "tps": "2.0",
-  "ping": 278,
+  "tps": "4.0",
+  "ping": 230,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7291
+      "count": 7292
     },
     {
       "name": "dupe",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:04] <Matisito> alguien me da kit ",
-    "[02:04] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[02:04] [Ultra] <_aksn> what ",
-    "[02:04] <shardah> tfail ",
-    "[02:04] <_Stellium_> do maps work on this server ",
-    "[02:04] <Elrompepelotas> alguien me regala algo porf ",
-    "[02:04] [Ultra] <_aksn> alr ",
-    "[02:04] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[02:04] <Matisito> ay dupe ? ",
-    "[02:04] [Pro+] <lvashl> Elrompepelotas usa !kit Survival ",
-    "[02:04] <ASXN> ay dupe? ",
-    "[02:04] <dantecavii> !kit survival ",
-    "[02:04] [8b8t] >> Teleporting to home 0...",
-    "[02:04] [8b8t] >> Teleporting to home 1...",
     "[02:04] To dantecavii: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:04] <Elrompepelotas> !kit survival ",
     "[02:04] To Elrompepelotas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +87,21 @@
     "[02:04] To Matisito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:05] [8b8t] >> Teleporting...",
     "[02:05] <fabric_XxX> sebas donde tas ",
-    "[02:05] [Pro+] <lvashl> y el bot te dara el kit3 "
+    "[02:05] [Pro+] <lvashl> y el bot te dara el kit3 ",
+    "[02:05] [8b8t] >> You have killed yourself!",
+    "[02:05] <Matisito> no me dio nd ",
+    "[02:05] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[02:05] <Elrompepelotas> !kit Survival ",
+    "[02:05] [8b8t] >> Teleporting to home 0...",
+    "[02:05] [8b8t] >> Teleporting to home 1...",
+    "[02:05] To Elrompepelotas: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:05] To Elrompepelotas: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:05] [8b8t] >> Request sent to Elrompepelotas",
+    "[02:05] [Pro+] <lvashl> prueba con !kit pvp ",
+    "[02:05] [8b8t] >> Teleporting...",
+    "[02:05] <Matisito> !kit pvp ",
+    "[02:05] [Pro+] <lvashl> es casi el mismo kit ",
+    "[02:05] To Matisito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3805,11 +3805,11 @@
     "lelolputos": 2,
     "facumario": 4,
     "20_cm": 1,
-    "Elrompepelotas": 1
+    "Elrompepelotas": 2
   },
   "kitStats": {
     "build": 1974,
-    "survival": 7291,
+    "survival": 7292,
     "pvp": 9496,
     "dupe": 2650,
     "tools": 2200,
