@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:13:33 22/1/2026",
-  "totalKits": 91972,
-  "todayKits": 238,
+  "lastUpdated": "05:13:54 22/1/2026",
+  "totalKits": 91973,
+  "todayKits": 239,
   "onlineCount": 34,
   "peakPlayers": 50,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 210,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7367
+      "count": 7368
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:11] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[22:11] <xxXEN0xx_> !kit Survival ",
-    "[22:11] [8b8t] >> Teleporting to home 0...",
-    "[22:11] [8b8t] >> Teleporting to home 1...",
-    "[22:11] To xxXEN0xx_: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:11] To xxXEN0xx_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:12] [8b8t] >> Request sent to xxXEN0xx_",
-    "[22:12] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[22:12] [8b8t] >> xxXEN0xx_ has denied your request",
     "[22:12] [BOT] <0_HienBot> >Welcome to 8b8t, MrPinkEye! ",
     "[22:12] <xxXEN0xx_> !kit Survival ",
     "[22:12] To xxXEN0xx_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[22:12] To xxXEN0xx_: You're on cooldown, try again in 37 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:13] <fabric_XxX> vr tp ",
     "[22:13] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[22:13] <blake56> tap for kits "
+    "[22:13] <blake56> tap for kits ",
+    "[22:13] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[22:13] <xxXEN0xx_> !kit Survival ",
+    "[22:13] [8b8t] >> Teleporting to home 0...",
+    "[22:13] [8b8t] >> Teleporting to home 1...",
+    "[22:13] To xxXEN0xx_: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:13] To xxXEN0xx_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:13] [8b8t] >> Request sent to xxXEN0xx_",
+    "[22:13] [8b8t] >> Teleporting...",
+    "[22:13] <TulagrandBot> > TULAGRANDE 1.6! "
   ],
   "userStats": {
     "76756": 38,
@@ -3855,11 +3855,11 @@
     ".MaxxBuddy": 1,
     "enzoarrieta": 1,
     "VANNZ1012": 1,
-    "xxXEN0xx_": 1
+    "xxXEN0xx_": 2
   },
   "kitStats": {
     "build": 2002,
-    "survival": 7367,
+    "survival": 7368,
     "pvp": 9613,
     "dupe": 2698,
     "tools": 2239,
