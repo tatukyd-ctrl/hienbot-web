@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:07:22 21/1/2026",
+  "lastUpdated": "14:07:52 21/1/2026",
   "totalKits": 91645,
   "todayKits": 10,
-  "onlineCount": 23,
+  "onlineCount": 24,
   "peakPlayers": 29,
-  "tps": "1.0",
-  "ping": 270,
+  "tps": "3.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9530
+      "count": 9531
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:00] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[07:01] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[07:01] <TulagrandBot> >Hola orasan080 ",
-    "[07:01] <.LEON50758> AppleBot bruh ",
-    "[07:01] [8b8t] >> griffwings voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[07:01] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[07:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:02] <TulagrandBot> >Try @list to get list of players ",
     "[07:02] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
@@ -101,7 +95,13 @@
     "[07:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[07:06] <Ratet> . ",
     "[07:06] <TulagrandBot> >Hello, DPS_Chatbridge ",
-    "[07:06] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[07:06] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[07:07] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[07:07] <Doktor_bozi> !kit pvp ",
+    "[07:07] [8b8t] >> Teleporting to home 0...",
+    "[07:07] [8b8t] >> Teleporting to home 1...",
+    "[07:07] <TulagrandBot> >Try @seed to get 8b8t's seed ",
+    "[07:07] To Doktor_bozi: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3813,12 +3813,13 @@
     "Raistar": 1,
     "XJxmsX": 1,
     "0_BadBot": 5,
-    "Catito": 1
+    "Catito": 1,
+    "Doktor_bozi": 1
   },
   "kitStats": {
     "build": 1980,
     "survival": 7306,
-    "pvp": 9530,
+    "pvp": 9531,
     "dupe": 2660,
     "tools": 2211,
     "stash": 1333,
