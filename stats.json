@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:25:28 21/1/2026",
+  "lastUpdated": "11:25:58 21/1/2026",
   "totalKits": 91602,
   "todayKits": 138,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 44,
-  "tps": "0.0",
-  "ping": 248,
+  "tps": "2.0",
+  "ping": 7964,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9519
+      "count": 9520
     },
     {
       "name": "survival",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:23] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[04:23] [BOT] <0_HienBot> >Type !discord ",
-    "[04:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:23] <TulagrandBot> >Try @ping to get your ping ",
-    "[04:24] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[04:24] Xx_chamorro_xX has made the advancement [Stone Age]",
-    "[04:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:24] <Xx_chamorro_xX> !kit build ",
-    "[04:24] [8b8t] >> Teleporting to home 0...",
-    "[04:24] <Elrompepelotas> !kit totem ",
-    "[04:24] [8b8t] >> Home 2 was not found",
-    "[04:24] To Elrompepelotas: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:24] To Xx_chamorro_xX: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:24] To Xx_chamorro_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:24] [8b8t] >> Request sent to Xx_chamorro_xX",
     "[04:24] [8b8t] >> Teleporting...",
     "[04:24] <Matisito> Xd ",
     "[04:24] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
@@ -101,7 +86,22 @@
     "[04:24] [8b8t] >> You have killed yourself!",
     "[04:25] <Elrompepelotas> tan god los chetos ",
     "[04:25] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[04:25] <Matisito> se "
+    "[04:25] <Matisito> se ",
+    "[04:25] <Matisito> !kit pvp ",
+    "[04:25] <Matisito> !kit pvp ",
+    "[04:25] [8b8t] >> Teleporting to home 0...",
+    "[04:25] [8b8t] >> Teleporting to home 1...",
+    "[04:25] To Matisito: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:25] <TulagrandBot> >Try @list to get list of players ",
+    "[04:25] <Matisito> !kit pvp ",
+    "[04:25] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[04:25] To Matisito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:25] To Matisito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:25] <Matisito> !kit pvp ",
+    "[04:25] To Matisito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:25] <Matisito> !kit pvp ",
+    "[04:25] To Matisito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:25] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "76756": 38,
@@ -3806,7 +3806,7 @@
     "facumario": 4,
     "20_cm": 1,
     "Elrompepelotas": 6,
-    "Matisito": 9,
+    "Matisito": 10,
     "Xx_chamorro_xX": 21,
     "VRZ8": 1,
     "baninn_": 1
@@ -3814,7 +3814,7 @@
   "kitStats": {
     "build": 1980,
     "survival": 7294,
-    "pvp": 9519,
+    "pvp": 9520,
     "dupe": 2658,
     "tools": 2206,
     "stash": 1332,
