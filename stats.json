@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:57:52 21/1/2026",
+  "lastUpdated": "18:58:22 21/1/2026",
   "totalKits": 91718,
   "todayKits": 83,
   "onlineCount": 23,
   "peakPlayers": 29,
-  "tps": "6.0",
+  "tps": "7.0",
   "ping": 228,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9541
+      "count": 9542
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:55] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[11:55] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[11:56] <TulagrandBot> >Try @list to get list of players ",
-    "[11:56] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[11:56] <unknown_2121_> oh fuck ",
-    "[11:56] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[11:57] <unknown_2121_> !kit Survival ",
     "[11:57] <TulagrandBot> >Hi DPS_Chatbridge ",
     "[11:57] [8b8t] >> Teleporting to home 0...",
     "[11:57] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +94,14 @@
     "[11:57] [8b8t] >> You have killed yourself!",
     "[11:57] <TulagrandBot> >Try @kit to get kit ",
     "[11:57] [BOT] <0_HienBot> >Type !discord ",
-    "[11:57] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[11:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:57] <tons618> !kit pvp ",
+    "[11:57] [8b8t] >> Teleporting to home 0...",
+    "[11:57] [8b8t] >> Teleporting to home 1...",
+    "[11:57] To tons618: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:58] To tons618: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:58] [8b8t] >> Request sent to tons618",
+    "[11:58] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3822,13 +3822,13 @@
     "Driftloot": 1,
     "ravelEfs0BAr": 8,
     "sqrazyy": 2,
-    "tons618": 7,
+    "tons618": 8,
     "DandelionBot": 3
   },
   "kitStats": {
     "build": 1988,
     "survival": 7319,
-    "pvp": 9541,
+    "pvp": 9542,
     "dupe": 2667,
     "tools": 2219,
     "stash": 1337,
