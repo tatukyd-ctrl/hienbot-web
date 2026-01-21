@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:50:33 22/1/2026",
+  "lastUpdated": "06:51:03 22/1/2026",
   "totalKits": 92021,
   "todayKits": 287,
-  "onlineCount": 31,
+  "onlineCount": 29,
   "peakPlayers": 50,
-  "tps": "0.0",
-  "ping": 210,
+  "tps": "4.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9628
+      "count": 9629
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:48] [8b8t] >> Request sent to .BESTPLAYER7769",
-    "[23:48] <PicoGod> !kit elytra ",
-    "[23:48] To PicoGod: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:48] <TulagrandBot> >Building a castle? Try @kit bricks ",
-    "[23:49] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[23:49] [8b8t] >> You have killed yourself!",
-    "[23:49] [8b8t] >> The TPA request you sent to .BESTPLAYER7769 was successfully canceled.",
-    "[23:49] <Cachew> @kit ",
     "[23:49] To Cachew: Hello Cachew!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[23:49] <TulagrandBot> >Try /nc to change your nick color ",
     "[23:49] <Boolyymon> does that even work ",
@@ -101,7 +93,15 @@
     "[23:50] [BOT] <0_HienBot> >Hey .BESTPLAYER7769! ",
     "[23:50] <.MaxxBuddy> bro im stuck at 30mil blocks out lagging in the ground unable to do anything ",
     "[23:50] [8b8t] >> You have killed yourself!",
-    "[23:50] [8b8t] >> The TPA request you sent to PicoGod was successfully canceled."
+    "[23:50] [8b8t] >> The TPA request you sent to PicoGod was successfully canceled.",
+    "[23:50] <Cachew> !kit pvp ",
+    "[23:50] [8b8t] >> Teleporting to home 0...",
+    "[23:50] [8b8t] >> Teleporting to home 1...",
+    "[23:50] To Cachew: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:50] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[23:50] To Cachew: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:50] [8b8t] >> Request sent to Cachew",
+    "[23:50] <fabric_XxX> sorry xd "
   ],
   "userStats": {
     "76756": 38,
@@ -3787,7 +3787,7 @@
     "KARMAA_GD": 13,
     ".Nathanitto": 2,
     "srx": 2,
-    "Cachew": 2,
+    "Cachew": 3,
     "HempfarmerILweed": 1,
     "Mortadela1": 2,
     "reallito": 1,
@@ -3868,7 +3868,7 @@
   "kitStats": {
     "build": 2005,
     "survival": 7379,
-    "pvp": 9628,
+    "pvp": 9629,
     "dupe": 2703,
     "tools": 2245,
     "stash": 1353,
