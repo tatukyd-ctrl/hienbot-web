@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:03:26 22/1/2026",
+  "lastUpdated": "20:03:33 22/1/2026",
   "totalKits": 92243,
   "todayKits": 220,
   "onlineCount": 28,
   "peakPlayers": 50,
-  "tps": "5.0",
-  "ping": 9631,
+  "tps": "7.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2728
+      "count": 2729
     },
     {
       "name": "tools",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:01] <TulagrandBot> >Try @tps to get server's tps ",
-    "[13:01] [8b8t] >> You have killed yourself!",
-    "[13:01] <Nat_frrrr> !kit ArmorTrims ",
-    "[13:01] [8b8t] >> Teleporting to home 0...",
-    "[13:01] [8b8t] >> Teleporting to home 7...",
-    "[13:01] [BOT] <0_HienBot> >Welcome to 8b8t, yra112! ",
     "[13:01] To Nat_frrrr: Your kit (ArmorTrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:01] To Nat_frrrr: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:01] [8b8t] >> Request sent to Nat_frrrr",
@@ -101,7 +95,13 @@
     "[13:03] To Narimattr_535: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:03] [8b8t] >> Request sent to Narimattr_535",
     "[13:03] [8b8t] >> Teleporting...",
-    "[13:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[13:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:03] [8b8t] >> You have killed yourself!",
+    "[13:03] <Nat_frrrr> !kit Dupe ",
+    "[13:03] [8b8t] >> Teleporting to home 0...",
+    "[13:03] [8b8t] >> Teleporting to home 7...",
+    "[13:03] <TulagrandBot> >Building a base? Try @kit build1 ",
+    "[13:03] To Nat_frrrr: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3895,13 +3895,13 @@
     "wemmpook": 6,
     ".Antonizk7139": 1,
     "ELTIERRA_001": 1,
-    "Nat_frrrr": 4
+    "Nat_frrrr": 5
   },
   "kitStats": {
     "build": 2021,
     "survival": 7428,
     "pvp": 9687,
-    "dupe": 2728,
+    "dupe": 2729,
     "tools": 2269,
     "stash": 1368,
     "raid": 1596,
