@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:24:45 22/1/2026",
+  "lastUpdated": "22:25:15 22/1/2026",
   "totalKits": 92300,
   "todayKits": 7,
   "onlineCount": 28,
   "peakPlayers": 34,
-  "tps": "3.0",
-  "ping": 302,
+  "tps": "1.0",
+  "ping": 2496,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9702
+      "count": 9703
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:21] <botchaosonix666> _Hienbot, you should look into purchasing vape ",
-    "[15:22] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[15:22] [8b8t] >> You have killed yourself!",
     "[15:22] [8b8t] >> The TPA request you sent to Tiago1812 was successfully canceled.",
     "[15:22] <Tiago1812> !kit pvp ",
@@ -101,7 +99,9 @@
     "[15:24] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[15:24] To Tiago1812: You're on cooldown, try again in 56 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:24] <TulagrandBot> >Try @kit to get kit ",
-    "[15:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[15:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[15:24] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[15:25] <Tiago1812> !kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -1299,7 +1299,7 @@
     "what3": 3,
     "what4": 4,
     "Lunova_0": 3,
-    "Tiago1812": 3,
+    "Tiago1812": 4,
     "olabrodi": 4,
     "IceTeen2": 1,
     "not_server_admin": 12,
@@ -3909,7 +3909,7 @@
   "kitStats": {
     "build": 2027,
     "survival": 7438,
-    "pvp": 9702,
+    "pvp": 9703,
     "dupe": 2736,
     "tools": 2274,
     "stash": 1369,
