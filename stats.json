@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:23:09 22/1/2026",
-  "totalKits": 4,
-  "todayKits": 4,
-  "onlineCount": 36,
+  "lastUpdated": "23:23:36 22/1/2026",
+  "totalKits": 5,
+  "todayKits": 5,
+  "onlineCount": 34,
   "peakPlayers": 36,
-  "tps": "4.0",
-  "ping": 2336,
+  "tps": "3.0",
+  "ping": 427,
   "topUsers": [
     {
       "name": "Super_jj9000",
@@ -27,6 +27,10 @@
     {
       "name": "espinos",
       "count": 1
+    },
+    {
+      "name": "ICommitFraud_",
+      "count": 1
     }
   ],
   "topKits": [
@@ -35,11 +39,11 @@
       "count": 2
     },
     {
-      "name": "build",
-      "count": 1
+      "name": "stash",
+      "count": 2
     },
     {
-      "name": "stash",
+      "name": "build",
       "count": 1
     },
     {
@@ -52,17 +56,6 @@
     }
   ],
   "chatLog": [
-    "[16:22] To espinos: Kit \"armourtrims\" not found! Giving you (wood) instead! dsc.gg/hienbot",
-    "[16:22] To espinos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:22] [8b8t] >> Request sent to espinos",
-    "[16:22] <espinos> !kit armourtrim ",
-    "[16:22] To espinos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:22] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[16:22] <espinos> !kit armourtrim ",
-    "[16:22] To espinos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:22] <Boolyymon> !kit glass ",
-    "[16:22] To Boolyymon: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:22] [8b8t] >> Super_jj9000 wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
     "[16:22] <TulagrandBot> >Building a base? Try @kit build1 ",
     "[16:22] <espinos> !kit armourtrim ",
     "[16:22] To espinos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -81,6 +74,17 @@
     "[16:22] [8b8t] >> Request sent to Super_jj9000",
     "[16:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[16:23] [Mini] <Kozy> s ",
+    "[16:23] [8b8t] >> Teleporting...",
+    "[16:23] [8b8t] >> You have killed yourself!",
+    "[16:23] [Basic] <ICommitFraud_> hello kozy ",
+    "[16:23] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[16:23] [Mini] <Kozy> Hello ",
+    "[16:23] ICommitFraud_ Whispers: !kit stash",
+    "[16:23] [8b8t] >> Teleporting to home 0...",
+    "[16:23] [8b8t] >> Home 2 was not found",
+    "[16:23] To ICommitFraud_: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:23] To ICommitFraud_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:23] [8b8t] >> Request sent to ICommitFraud_",
     "[16:23] [8b8t] >> Teleporting..."
   ],
   "userStats": {
@@ -88,12 +92,13 @@
     "Super_jj9000": 2,
     "obitokkkk": 1,
     "Anonymous204205": 1,
-    "espinos": 1
+    "espinos": 1,
+    "ICommitFraud_": 1
   },
   "kitStats": {
     "build": 1,
     "raid": 2,
-    "stash": 1,
+    "stash": 2,
     "wood": 1,
     "armortrims": 1
   }
