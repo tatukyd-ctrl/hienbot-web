@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:10:45 22/1/2026",
+  "lastUpdated": "22:11:15 22/1/2026",
   "totalKits": 92295,
   "todayKits": 2,
-  "onlineCount": 34,
+  "onlineCount": 32,
   "peakPlayers": 34,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 226,
   "topUsers": [
     {
@@ -68,20 +68,10 @@
     },
     {
       "name": "build",
-      "count": 2024
+      "count": 2025
     }
   ],
   "chatLog": [
-    "[15:09]  decrease the chance of being hacked.",
-    "[15:09] ",
-    "[15:09]   [Confirm read]",
-    "[15:09] ",
-    "[15:09] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[15:09] [8b8t] >> You have killed yourself!",
-    "[15:09] <TulagrandBot> >Whant something? Try @kit! ",
-    "[15:09] You are already connected to this server!",
-    "[15:09] <seim> !kit buils ",
-    "[15:09] [8b8t] >> Teleporting to home 0...",
     "[15:09] [8b8t] >> Teleporting to home 6...",
     "[15:09] To seim: Kit \"buils\" not found! Giving you (highway) instead! dsc.gg/hienbot",
     "[15:09] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +91,17 @@
     "[15:10] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[15:10] [8b8t] >> You have killed yourself!",
     "[15:10] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[15:10] <.TripleCave1010> !ping "
+    "[15:10] <.TripleCave1010> !ping ",
+    "[15:10] To .TripleCave1010: Your ping is: 575 ms Dont forget to join dsc.gg/hienbot",
+    "[15:10] <seim> !kit build ",
+    "[15:10] [8b8t] >> Teleporting to home 0...",
+    "[15:10] [8b8t] >> Home 2 was not found",
+    "[15:10] To seim: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:10] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:10] [8b8t] >> Request sent to seim",
+    "[15:10] [8b8t] >> The TPA request you sent to seim has expired.",
+    "[15:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[15:11] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "76756": 38,
@@ -506,7 +506,7 @@
     "itzanty": 1,
     "abelino_pepino": 2,
     "fox_gam1": 1,
-    "seim": 50,
+    "seim": 51,
     "caseoh3": 5,
     "crack1226": 1,
     "xXCasterXx": 2,
@@ -3906,7 +3906,7 @@
     "chashja": 1
   },
   "kitStats": {
-    "build": 2024,
+    "build": 2025,
     "survival": 7437,
     "pvp": 9699,
     "dupe": 2736,
