@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:17:03 22/1/2026",
+  "lastUpdated": "07:17:33 22/1/2026",
   "totalKits": 92024,
   "todayKits": 1,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 50,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 219,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9632
+      "count": 9633
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:14] <TulagrandBot> >Want kit? Try @kit ",
-    "[00:14] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[00:14] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[00:14] [8b8t] >> Please do not spam.",
-    "[00:15] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[00:15] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:15] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[00:15] <fabric_XxX> volvi ",
     "[00:16] <fabric_XxX> qn para ser mi amigo o team??? confiable ",
     "[00:16] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[00:16] <dylans117877601> !kit elytras ",
@@ -101,7 +93,15 @@
     "[00:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[00:16] 7828FN has reached the goal [Sky's the Limit]",
     "[00:16] <TulagrandBot> >Building a base? Try @kit build2 ",
-    "[00:16] 7828FN has made the advancement [Ice Bucket Challenge]"
+    "[00:16] 7828FN has made the advancement [Ice Bucket Challenge]",
+    "[00:17] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[00:17] <dragonsej2025> !kit pvp ",
+    "[00:17] [8b8t] >> Teleporting to home 0...",
+    "[00:17] [8b8t] >> Teleporting to home 1...",
+    "[00:17] To dragonsej2025: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:17] To dragonsej2025: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:17] 7828FN has made the advancement [Who is Cutting Onions?]",
+    "[00:17] [8b8t] >> Request sent to dragonsej2025"
   ],
   "userStats": {
     "76756": 38,
@@ -3543,7 +3543,7 @@
     "Aretorangtwo": 7,
     "SPREENQ": 70,
     "oro_888": 1,
-    "dragonsej2025": 17,
+    "dragonsej2025": 18,
     "Jonicua": 6,
     "dantecavii": 66,
     ".Dgomegarato": 3,
@@ -3868,7 +3868,7 @@
   "kitStats": {
     "build": 2005,
     "survival": 7380,
-    "pvp": 9632,
+    "pvp": 9633,
     "dupe": 2704,
     "tools": 2246,
     "stash": 1353,
