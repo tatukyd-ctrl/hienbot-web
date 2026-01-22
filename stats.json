@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:23:15 22/1/2026",
+  "lastUpdated": "22:23:45 22/1/2026",
   "totalKits": 92300,
   "todayKits": 7,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 34,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 213,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9701
+      "count": 9702
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:21] <.TripleCave1010> !PING ",
-    "[15:21] <botchaosonix666> !ping ",
-    "[15:21] To botchaosonix666: Your ping is: 279 ms Dont forget to join dsc.gg/hienbot",
-    "[15:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[15:21] <Tiago1812> !kit pvp ",
-    "[15:21] [8b8t] >> Teleporting to home 0...",
-    "[15:21] [8b8t] >> Teleporting to home 1...",
-    "[15:21] To Tiago1812: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:21] <espinos> !kit pvp ",
     "[15:21] To espinos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:21] To Tiago1812: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +93,15 @@
     "[15:22] To Tiago1812: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[15:23] <seim> ,.......? ",
-    "[15:23] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ "
+    "[15:23] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[15:23] <Tiago1812> !kit pvp ",
+    "[15:23] [8b8t] >> Teleporting to home 0...",
+    "[15:23] [8b8t] >> Teleporting to home 1...",
+    "[15:23] To Tiago1812: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:23] To Tiago1812: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:23] [8b8t] >> Request sent to Tiago1812",
+    "[15:23] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[15:23] <TulagrandBot> >How are you MonkeBot? "
   ],
   "userStats": {
     "76756": 38,
@@ -1299,7 +1299,7 @@
     "what3": 3,
     "what4": 4,
     "Lunova_0": 3,
-    "Tiago1812": 2,
+    "Tiago1812": 3,
     "olabrodi": 4,
     "IceTeen2": 1,
     "not_server_admin": 12,
@@ -3909,7 +3909,7 @@
   "kitStats": {
     "build": 2027,
     "survival": 7438,
-    "pvp": 9701,
+    "pvp": 9702,
     "dupe": 2736,
     "tools": 2274,
     "stash": 1369,
