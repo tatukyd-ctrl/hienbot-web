@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:42:33 22/1/2026",
+  "lastUpdated": "18:43:03 22/1/2026",
   "totalKits": 92219,
   "todayKits": 196,
   "onlineCount": 22,
   "peakPlayers": 50,
-  "tps": "3.0",
-  "ping": 347,
+  "tps": "6.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7422
+      "count": 7423
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:41] <.Antonizk7139> @kit ",
-    "[11:41] To .Antonizk7139: Hello .Antonizk7139!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[11:41] [BOT] <0_HienBot> >Type !discord ",
-    "[11:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:41] <oreo_> !kit elytra ",
-    "[11:41] [8b8t] >> Teleporting to home 0...",
-    "[11:41] [8b8t] >> Teleporting to home 6...",
-    "[11:41] To oreo_: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:41] To oreo_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:41] [8b8t] >> Request sent to oreo_",
     "[11:41] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[11:42] [8b8t] >> You have killed yourself!",
     "[11:42] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:42] <TulagrandBot> >Want kit? Try @kit ",
-    "[11:42] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language "
+    "[11:42] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[11:42] <oreo_> !kit survival ",
+    "[11:42] [8b8t] >> Teleporting to home 0...",
+    "[11:42] [8b8t] >> Teleporting to home 1...",
+    "[11:42] To oreo_: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:43] To oreo_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:43] [8b8t] >> Request sent to oreo_",
+    "[11:43] <TulagrandBot> >Building a base? Try @kit build1 ",
+    "[11:43] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls "
   ],
   "userStats": {
     "76756": 38,
@@ -712,7 +712,7 @@
     "ggdggar": 2,
     "xD_FAIZAN": 4,
     "Bossnigel": 1,
-    "oreo_": 67,
+    "oreo_": 68,
     "BakiVN_Mc": 5,
     "Nion34": 2,
     "hzkar": 2,
@@ -3896,7 +3896,7 @@
   },
   "kitStats": {
     "build": 2020,
-    "survival": 7422,
+    "survival": 7423,
     "pvp": 9680,
     "dupe": 2723,
     "tools": 2267,
