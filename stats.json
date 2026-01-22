@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:26:33 22/1/2026",
-  "totalKits": 92249,
-  "todayKits": 226,
+  "lastUpdated": "20:26:52 22/1/2026",
+  "totalKits": 92250,
+  "todayKits": 227,
   "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "2.0",
+  "tps": "6.0",
   "ping": 8591,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9690
+      "count": 9691
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:23] <Listening> can i have kit ",
-    "[13:23] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
-    "[13:23] [8b8t] >> Teleporting...",
-    "[13:24] <Wemmbn> ok ",
-    "[13:24] [8b8t] >> You have killed yourself!",
-    "[13:24] Wemmbn has made the advancement [Ice Bucket Challenge]",
-    "[13:24] Wemmbn has completed the challenge [Serious Dedication]",
-    "[13:24] To Hien2309: doi ti",
-    "[13:24] Wemmbn has reached the goal [Sky's the Limit]",
-    "[13:24] Wemmbn has completed the challenge [Cover Me in Debris]",
     "[13:24] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[13:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[13:24] <TulagrandBot> >Whant something? Try @kit! ",
@@ -101,7 +91,17 @@
     "[13:25] [8b8t] >> The TPA request you sent to Najadlaug was successfully canceled.",
     "[13:26] ArnabHa has made the advancement [Not Quite \"Nine\" Lives]",
     "[13:26] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[13:26] <Wemmbn> !seed "
+    "[13:26] <Wemmbn> !seed ",
+    "[13:26] <Listening> !kit ",
+    "[13:26] To Listening: Hello Listening!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:26] <Listening> !kit pvp ",
+    "[13:26] [8b8t] >> Teleporting to home 0...",
+    "[13:26] [8b8t] >> Teleporting to home 1...",
+    "[13:26] To Listening: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:26] To Listening: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:26] [8b8t] >> Request sent to Listening",
+    "[13:26] [8b8t] >> Teleporting...",
+    "[13:26] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars "
   ],
   "userStats": {
     "76756": 38,
@@ -3896,13 +3896,13 @@
     ".Antonizk7139": 1,
     "ELTIERRA_001": 1,
     "Nat_frrrr": 5,
-    "Listening": 3,
+    "Listening": 4,
     "Wemmbn": 1
   },
   "kitStats": {
     "build": 2022,
     "survival": 7429,
-    "pvp": 9690,
+    "pvp": 9691,
     "dupe": 2729,
     "tools": 2269,
     "stash": 1368,
