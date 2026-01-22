@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:27:03 22/1/2026",
+  "lastUpdated": "07:27:33 22/1/2026",
   "totalKits": 92029,
   "todayKits": 6,
   "onlineCount": 34,
   "peakPlayers": 50,
-  "tps": "4.0",
-  "ping": 219,
+  "tps": "3.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7382
+      "count": 7383
     },
     {
       "name": "dupe",
@@ -72,23 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:25] To ASXN: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[00:25] [8b8t] >> Request sent to ASXN",
-    "[00:25] [8b8t] >> Teleporting...",
-    "[00:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[00:25] [8b8t] >> You have killed yourself!",
-    "[00:26] <sebasfut29> manda tpa te llevo a mi base amistad :) ",
-    "[00:26] Berpi4345 has made the advancement [Isn't It Iron Pick]",
-    "[00:26] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[00:26] <dragonsej2025> q vrg xD ",
-    "[00:26] <TulagrandBot> >Building a base? Try @kit build2 ",
-    "[00:26] PicoGod has made the advancement [Take Aim]",
-    "[00:26] <fabric_XxX> !kit dupeo ",
-    "[00:26] [8b8t] >> Teleporting to home 0...",
-    "[00:26] [8b8t] >> Teleporting to home 6...",
-    "[00:26] To fabric_XxX: Kit \"dupeo\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
-    "[00:26] To fabric_XxX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:26] [8b8t] >> Request sent to fabric_XxX",
     "[00:26] <fabric_XxX> !kit survival ",
     "[00:26] To fabric_XxX: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[00:26] <sebasfut29> manden tpa encontre la base de hanae0 ",
@@ -101,7 +84,24 @@
     "[00:26] <TulagrandBot> >How are you Alesito_Cotton? ",
     "[00:26] <reymeteoro19> jajajsjajjaq hiciste ",
     "[00:26] <fabric_XxX> xd ",
-    "[00:27] <Alesito_Cotton> hola "
+    "[00:27] <Alesito_Cotton> hola ",
+    "[00:27] <fabric_XxX> !kit survival ",
+    "[00:27] To fabric_XxX: You're on cooldown, try again in 21 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:27] [Ultra] <focoloa> pay the ultra ",
+    "[00:27] <Boolyymon> you have to pay i think ",
+    "[00:27] [8b8t] >> Please do not spam.",
+    "[00:27] <dragonsej2025> me dio un paro cardiaco xD ",
+    "[00:27] <Cachew> for faqs sake ",
+    "[00:27] <DeathZuka> como dupeo ahora genteeeeeeeeeeeeee ",
+    "[00:27] <Alesito_Cotton> !kit survival ",
+    "[00:27] [8b8t] >> You have killed yourself!",
+    "[00:27] To Alesito_Cotton: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:27] [8b8t] >> Teleporting to home 0...",
+    "[00:27] [8b8t] >> Teleporting to home 1...",
+    "[00:27] To Alesito_Cotton: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:27] [8b8t] >> Request sent to Alesito_Cotton",
+    "[00:27] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[00:27] <TulagrandBot> >Try @tps to get server's tps "
   ],
   "userStats": {
     "76756": 38,
@@ -2437,7 +2437,7 @@
     "Banxzy": 1,
     "base_hunter_2": 2,
     "Rivo_agency": 1,
-    "Alesito_Cotton": 1,
+    "Alesito_Cotton": 2,
     "Axintar09": 1,
     "caquitarara132": 1,
     "HighwayCleaner": 36,
@@ -3867,7 +3867,7 @@
   },
   "kitStats": {
     "build": 2005,
-    "survival": 7382,
+    "survival": 7383,
     "pvp": 9634,
     "dupe": 2706,
     "tools": 2247,
