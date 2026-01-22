@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:37:09 23/1/2026",
-  "totalKits": 163,
-  "todayKits": 163,
-  "onlineCount": 35,
+  "lastUpdated": "02:37:39 23/1/2026",
+  "totalKits": 164,
+  "todayKits": 164,
+  "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "1.0",
+  "tps": "4.0",
   "ping": 242,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 18
+      "count": 19
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:36] You were kicked from 8b8t: An internal server connection error occurred.",
-    "[19:36] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[19:36] [8b8t] >> Welcome iTrisstan to 8b8t.me Lobby",
-    "[19:36] [8b8t] >> Welcome deantheneek to 8b8t.me Lobby",
-    "[19:36] [8b8t] >> Welcome Alan401K to 8b8t.me Lobby",
-    "[19:36] [8b8t] Unknown command do /help",
-    "[19:36] You are already trying to connect to a server!",
-    "[19:36] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[19:36] You are already connected to this server!",
     "[19:36] You are already connected to this server!",
     "[19:36] [8b8t] >> You have killed yourself!",
@@ -101,7 +93,15 @@
     "[19:36] [8b8t] >> Request sent to Error2211",
     "[19:36] [8b8t] >> Teleporting...",
     "[19:36] .Alonso33curba has made the advancement [Who is Cutting Onions?]",
-    "[19:37] [8b8t] >> You have killed yourself!"
+    "[19:37] [8b8t] >> You have killed yourself!",
+    "[19:37] [BOT] <0_HienBot> >Welcome to 8b8t, PistonCubeB0T! ",
+    "[19:37] <egzoegzo> !kit elytra ",
+    "[19:37] [8b8t] >> Teleporting to home 0...",
+    "[19:37] [8b8t] >> Teleporting to home 6...",
+    "[19:37] To egzoegzo: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:37] To egzoegzo: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:37] [8b8t] >> Request sent to egzoegzo",
+    "[19:37] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 14,
@@ -147,7 +147,8 @@
     "botchaosonix": 1,
     "Elrompepelotas": 2,
     "alexito123456": 1,
-    "ilovecatsvr57364": 3
+    "ilovecatsvr57364": 3,
+    "egzoegzo": 1
   },
   "kitStats": {
     "build": 11,
@@ -167,7 +168,7 @@
     "end": 5,
     "quartz": 1,
     "music": 1,
-    "elytra": 18,
+    "elytra": 19,
     "survival": 23,
     "tools": 16,
     "food": 4,
