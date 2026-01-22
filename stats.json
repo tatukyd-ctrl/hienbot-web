@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:34:23 22/1/2026",
+  "lastUpdated": "12:34:33 22/1/2026",
   "totalKits": 92161,
   "todayKits": 138,
-  "onlineCount": 25,
+  "onlineCount": 24,
   "peakPlayers": 50,
-  "tps": "5.0",
+  "tps": "0.0",
   "ping": 220,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7399
+      "count": 7400
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:31] [8b8t] >> Teleporting to home 1...",
-    "[05:31] To mONITOR2007: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:31] To mONITOR2007: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:31] [8b8t] >> Request sent to mONITOR2007",
-    "[05:31] [8b8t] >> Teleporting...",
-    "[05:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:32] [8b8t] >> You have killed yourself!",
     "[05:32] [BOT] <0_HienBot> >Hello TulagrandBot! ",
     "[05:32] mONITOR2007 has completed the challenge [Cover Me in Debris]",
     "[05:32] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
@@ -101,7 +94,14 @@
     "[05:34] <elknicas69> @kit ",
     "[05:34] To elknicas69: Hello elknicas69!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:34] [8b8t] >> Teleporting...",
-    "[05:34] <TulagrandBot> >Try @seed to get 8b8t's seed "
+    "[05:34] <TulagrandBot> >Try @seed to get 8b8t's seed ",
+    "[05:34] [8b8t] >> You have killed yourself!",
+    "[05:34] <elknicas69> !kit survival ",
+    "[05:34] [8b8t] >> Teleporting to home 0...",
+    "[05:34] [8b8t] >> Teleporting to home 1...",
+    "[05:34] To elknicas69: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:34] To elknicas69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:34] [8b8t] >> Request sent to elknicas69"
   ],
   "userStats": {
     "76756": 38,
@@ -3880,11 +3880,12 @@
     "kingston716333": 5,
     "Nataxixx": 4,
     "SlowingSleet176": 1,
-    "mONITOR2007": 4
+    "mONITOR2007": 4,
+    "elknicas69": 1
   },
   "kitStats": {
     "build": 2019,
-    "survival": 7399,
+    "survival": 7400,
     "pvp": 9665,
     "dupe": 2719,
     "tools": 2258,
