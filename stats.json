@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:44:50 22/1/2026",
+  "lastUpdated": "18:45:03 22/1/2026",
   "totalKits": 92222,
   "todayKits": 199,
   "onlineCount": 23,
   "peakPlayers": 50,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 329,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9681
+      "count": 9682
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:44] <oreo_> !kit illegal ",
-    "[11:44] To oreo_: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:44] <.Antonizk7139> !kit tools ",
     "[11:44] [8b8t] >> Teleporting to home 0...",
     "[11:44] [8b8t] >> Teleporting to home 7...",
     "[11:44] To .Antonizk7139: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +98,10 @@
     "[11:44] [8b8t] >> Teleporting...",
     "[11:44] <RaxZee> !kit end ",
     "[11:44] To RaxZee: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:44] <TulagrandBot> >Hola botchaosonix "
+    "[11:44] <TulagrandBot> >Hola botchaosonix ",
+    "[11:44] <wemmpook> ok ",
+    "[11:45] <RaxZee> !kit pvp ",
+    "[11:45] [8b8t] >> You have killed yourself!"
   ],
   "userStats": {
     "76756": 38,
@@ -2337,7 +2337,7 @@
     "Tao_11": 2,
     "Tomasinsito": 13,
     "Kingston7163333": 4,
-    "RaxZee": 15,
+    "RaxZee": 16,
     "D4RK_IT4CHI": 5,
     "Srlladoselpro": 1,
     "Bifozy": 25,
@@ -3898,7 +3898,7 @@
   "kitStats": {
     "build": 2020,
     "survival": 7423,
-    "pvp": 9681,
+    "pvp": 9682,
     "dupe": 2723,
     "tools": 2268,
     "stash": 1365,
