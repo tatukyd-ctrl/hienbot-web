@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:04:33 22/1/2026",
+  "lastUpdated": "22:05:03 22/1/2026",
   "totalKits": 92288,
   "todayKits": 265,
   "onlineCount": 35,
   "peakPlayers": 50,
-  "tps": "4.0",
-  "ping": 231,
+  "tps": "1.0",
+  "ping": 430,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:03] To itz_laeeqs: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:03] [8b8t] >> Request sent to itz_laeeqs",
-    "[15:03] <Red_Fragment_> trading anything for swift sneak 3 book ",
-    "[15:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:03] [8b8t] >> Teleporting...",
     "[15:03] <chuadry> !kit raid ",
     "[15:03] [8b8t] >> You have killed yourself!",
     "[15:03] To chuadry: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[15:04] [8b8t] >> You have killed yourself!",
     "[15:04] <TulagrandBot> >Building a base? Try @kit build1 ",
     "[15:04] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[15:04] <PlaneMercury749> @kits "
+    "[15:04] <PlaneMercury749> @kits ",
+    "[15:04] <PlaneMercury749> @kit build1 ",
+    "[15:04] [8b8t] >> Teleporting to home 0...",
+    "[15:04] [8b8t] >> Teleporting to home 3...",
+    "[15:04] To PlaneMercury749: Kit \"build1\" not found! Giving you (wool) instead! dsc.gg/hienbot",
+    "[15:05] [BOT] <0_HienBot> >Hmmmmmmmmm "
   ],
   "userStats": {
     "76756": 38,
@@ -3902,7 +3902,7 @@
     "Aaz_Da_": 1,
     "DrNowdy": 1,
     "Kagan2025": 1,
-    "PlaneMercury749": 3
+    "PlaneMercury749": 4
   },
   "kitStats": {
     "build": 2023,
@@ -3915,7 +3915,7 @@
     "wood": 630,
     "exp": 941,
     "dye": 384,
-    "wool": 606,
+    "wool": 607,
     "mineral": 612,
     "food": 611,
     "redstone": 976,
