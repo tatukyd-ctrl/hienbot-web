@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:58:03 22/1/2026",
+  "lastUpdated": "18:58:33 22/1/2026",
   "totalKits": 92231,
   "todayKits": 208,
   "onlineCount": 22,
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2725
+      "count": 2726
     },
     {
       "name": "tools",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:54] [8b8t] >> Teleporting to home 0...",
-    "[11:54] [8b8t] >> Teleporting to home 1...",
-    "[11:54] To oreo_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:54] To oreo_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:54] [8b8t] >> Request sent to oreo_",
     "[11:55] [8b8t] >> Teleporting...",
     "[11:55] [BOT] <0_HienBot> >Hello Aeriak64HD! ",
     "[11:55] [8b8t] >> You have killed yourself!",
@@ -101,7 +96,12 @@
     "[11:57] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[11:57] <alihamzakutlu125> kit verecek tp sa ",
     "[11:57] <oreo_> _hienbot is fake he doesn't give you kits, 0_hienbot is real, he gives you kits ",
-    "[11:58] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[11:58] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[11:58] <oreo_> !kit dupe ",
+    "[11:58] [8b8t] >> Teleporting to home 0...",
+    "[11:58] [8b8t] >> Teleporting to home 7...",
+    "[11:58] To oreo_: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:58] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
   ],
   "userStats": {
     "76756": 38,
@@ -712,7 +712,7 @@
     "ggdggar": 2,
     "xD_FAIZAN": 4,
     "Bossnigel": 1,
-    "oreo_": 72,
+    "oreo_": 73,
     "BakiVN_Mc": 5,
     "Nion34": 2,
     "hzkar": 2,
@@ -3899,7 +3899,7 @@
     "build": 2021,
     "survival": 7424,
     "pvp": 9685,
-    "dupe": 2725,
+    "dupe": 2726,
     "tools": 2268,
     "stash": 1367,
     "raid": 1596,
