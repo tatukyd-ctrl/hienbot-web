@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:04:09 23/1/2026",
+  "lastUpdated": "00:04:39 23/1/2026",
   "totalKits": 44,
   "todayKits": 44,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 48,
-  "tps": "3.0",
-  "ping": 209,
+  "tps": "6.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "fytasx",
@@ -55,6 +55,10 @@
       "count": 5
     },
     {
+      "name": "raid",
+      "count": 5
+    },
+    {
       "name": "dupe",
       "count": 5
     },
@@ -63,26 +67,11 @@
       "count": 5
     },
     {
-      "name": "raid",
-      "count": 4
-    },
-    {
       "name": "exp",
       "count": 4
     }
   ],
   "chatLog": [
-    "[17:01] <verusxd22> Hagamoslo ",
-    "[17:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[17:02] <verusxd22> Hagamos el dupe ",
-    "[17:02] <dylans117877601> !kit exp ",
-    "[17:02] [8b8t] >> Teleporting to home 0...",
-    "[17:02] [8b8t] >> Teleporting to home 5...",
-    "[17:02] To dylans117877601: Your kit (exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:02] <TulagrandBot> >Try @list to get list of players ",
-    "[17:02] <fytasx> !kit raid ",
-    "[17:02] To fytasx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:02] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:02] [8b8t] >> Request sent to dylans117877601",
     "[17:02] [BOT] <0_HienBot> >Try !кιт survival ",
     "[17:02] <verusxd22> Peor bro antes hay que. Yambear mira ",
@@ -101,7 +90,18 @@
     "[17:03] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[17:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[17:03] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
-    "[17:03] dylans117877601 has made the advancement [Diamonds!]"
+    "[17:03] dylans117877601 has made the advancement [Diamonds!]",
+    "[17:04] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[17:04] Banan4ikins has completed the challenge [Hot Tourist Destinations]",
+    "[17:04] <LaSoLaTu> !kit raid ",
+    "[17:04] [8b8t] >> Teleporting to home 0...",
+    "[17:04] [8b8t] >> Home 2 was not found",
+    "[17:04] <TulagrandBot> >Hola sudorDEgorda ",
+    "[17:04] To LaSoLaTu: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:04] To LaSoLaTu: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:04] [8b8t] >> Request sent to LaSoLaTu",
+    "[17:04] <Super_jj9000> !kit ",
+    "[17:04] To Super_jj9000: Hello Super_jj9000!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 7,
@@ -119,11 +119,12 @@
     "ElTomatitoFresco": 3,
     "yra112": 1,
     "MrMidnight89": 1,
-    ".BESTPLAYER7769": 1
+    ".BESTPLAYER7769": 1,
+    "LaSoLaTu": 1
   },
   "kitStats": {
     "build": 5,
-    "raid": 4,
+    "raid": 5,
     "stash": 3,
     "wood": 2,
     "armortrims": 2,
