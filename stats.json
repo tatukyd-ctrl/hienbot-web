@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:54:03 22/1/2026",
+  "lastUpdated": "15:54:33 22/1/2026",
   "totalKits": 92186,
   "todayKits": 163,
   "onlineCount": 17,
   "peakPlayers": 50,
-  "tps": "7.0",
-  "ping": 214,
+  "tps": "6.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9671
+      "count": 9672
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:50] <TulagrandBot> >Try /nc to change your nick color ",
-    "[08:51] [BOT] <0_HienBot> >Hello AppleBot! ",
-    "[08:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:51] <MangoGoloso> hola???? ",
-    "[08:51] <rusherh4ck> MangoGoloso ",
-    "[08:51] <MangoGoloso> kepasha ",
-    "[08:51] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[08:51] <rusherh4ck> porque dices hola we ",
-    "[08:51] <MangoGoloso> que tiene ",
     "[08:51] <rusherh4ck> aquien le dices hola ",
     "[08:52] <MangoGoloso> anadie ",
     "[08:52] <rusherh4ck> xD ",
@@ -101,7 +92,16 @@
     "[08:53] <rusherh4ck> MangoGoloso ",
     "[08:53] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[08:53] <MangoGoloso> dime ",
-    "[08:53] <rusherh4ck> cuando usas el !kit "
+    "[08:53] <rusherh4ck> cuando usas el !kit ",
+    "[08:54] [8b8t] >> Please do not spam.",
+    "[08:54] <rusherh4ck> !kit pvp ",
+    "[08:54] [8b8t] >> Teleporting to home 0...",
+    "[08:54] [8b8t] >> Teleporting to home 1...",
+    "[08:54] To rusherh4ck: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:54] To rusherh4ck: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:54] [8b8t] >> Request sent to rusherh4ck",
+    "[08:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[08:54] <TulagrandBot> > TULAGRANDE 1.6! "
   ],
   "userStats": {
     "76756": 38,
@@ -2489,7 +2489,7 @@
     "sunofoda": 1,
     "jaev": 34,
     "Stealth_YT": 1,
-    "rusherh4ck": 2,
+    "rusherh4ck": 3,
     "Xrisssx": 1,
     "not_Voltaik": 2,
     "phiphicomeback": 1,
@@ -3892,7 +3892,7 @@
   "kitStats": {
     "build": 2020,
     "survival": 7413,
-    "pvp": 9671,
+    "pvp": 9672,
     "dupe": 2720,
     "tools": 2258,
     "stash": 1365,
