@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:01:03 22/1/2026",
+  "lastUpdated": "07:01:33 22/1/2026",
   "totalKits": 92024,
   "todayKits": 1,
   "onlineCount": 31,
   "peakPlayers": 50,
-  "tps": "2.0",
-  "ping": 218,
+  "tps": "3.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9630
+      "count": 9631
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:59] [8b8t] >> Teleporting to home 1...",
-    "[23:59] To fabric_XxX: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:59] <PicoGod> !kit elytra ",
-    "[23:59] To PicoGod: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[23:59] To fabric_XxX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:59] [8b8t] >> Request sent to fabric_XxX",
     "[23:59] [8b8t] >> Teleporting...",
     "[00:00] <TulagrandBot> >Building a castle? Try @kit bricks ",
     "[00:00] <Boolyymon> is this server grim or ncp ",
@@ -101,7 +95,13 @@
     "[00:00] <TulagrandBot> >Try @list to get list of players ",
     "[00:00] [8b8t] >> You have killed yourself!",
     "[00:00] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[00:01] <.Maddie8171111> Hang on u new player? "
+    "[00:01] <.Maddie8171111> Hang on u new player? ",
+    "[00:01] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[00:01] <.MaxxBuddy> tyam ",
+    "[00:01] <.Maddie8171111> u new? ",
+    "[00:01] <.MaxxBuddy> yes ",
+    "[00:01] <fabric_XxX> !kit pvp ",
+    "[00:01] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -3860,7 +3860,7 @@
     "jairoelpro": 3,
     "H_INMORTAL_M": 1,
     "PicoGod": 15,
-    "fabric_XxX": 13,
+    "fabric_XxX": 14,
     "FijianHardscoper": 1,
     "TechCrypt1c": 1,
     ".BESTPLAYER7769": 1
@@ -3868,7 +3868,7 @@
   "kitStats": {
     "build": 2005,
     "survival": 7380,
-    "pvp": 9630,
+    "pvp": 9631,
     "dupe": 2703,
     "tools": 2245,
     "stash": 1353,
