@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:03:52 22/1/2026",
+  "lastUpdated": "22:04:03 22/1/2026",
   "totalKits": 92287,
   "todayKits": 264,
   "onlineCount": 36,
   "peakPlayers": 50,
-  "tps": "5.0",
-  "ping": 235,
+  "tps": "2.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:02] To chuadry: Hello chuadry!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:02] <chuadry> d ",
-    "[15:03] <itz_laeeqs> !kit notcj ",
     "[15:03] To itz_laeeqs: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:03] To itz_laeeqs: Try again Join dsc.gg/hienbot to report the error.",
     "[15:03] <itz_laeeqs> !kit notch ",
@@ -101,7 +98,10 @@
     "[15:03] [Pro+] <lvashl> !kit Notch ",
     "[15:03] To lvashl: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:03] [8b8t] >> Teleporting...",
-    "[15:03] [BOT] <0_HienBot> >Hey SashaGun_Mine! "
+    "[15:03] [BOT] <0_HienBot> >Hey SashaGun_Mine! ",
+    "[15:03] [8b8t] >> You have killed yourself!",
+    "[15:04] [Pro+] <lvashl> !kit Notch ",
+    "[15:04] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -2355,7 +2355,7 @@
     "kobhere": 3,
     "TheOverlord451": 1,
     "j122": 14,
-    "lvashl": 113,
+    "lvashl": 114,
     "joshfrom1984_314": 9,
     "MBKBOZKURT90": 38,
     "miniconquest": 4,
@@ -3929,7 +3929,7 @@
     "ocean": 212,
     "concrete": 481,
     "glass": 375,
-    "gap": 248,
+    "gap": 249,
     "constructor": "function Object() { [native code] }111111111",
     "flower": 88,
     "music": 224,
