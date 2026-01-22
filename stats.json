@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:31:23 22/1/2026",
+  "lastUpdated": "23:31:39 22/1/2026",
   "totalKits": 15,
   "todayKits": 15,
   "onlineCount": 37,
   "peakPlayers": 40,
-  "tps": "4.0",
-  "ping": 215,
+  "tps": "3.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "Super_jj9000",
@@ -29,6 +29,10 @@
       "count": 2
     },
     {
+      "name": "fytasx",
+      "count": 2
+    },
+    {
       "name": "ASXN",
       "count": 2
     },
@@ -42,10 +46,6 @@
     },
     {
       "name": "dragonkit",
-      "count": 1
-    },
-    {
-      "name": "fytasx",
       "count": 1
     }
   ],
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:30] <fytasx> Nah tularande bro ",
-    "[16:30] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[16:30] <dylans117877601> !kit build ",
-    "[16:30] [8b8t] >> Teleporting to home 0...",
-    "[16:30] [8b8t] >> Home 2 was not found",
-    "[16:30] To dylans117877601: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:30] <fytasx> !kit ",
     "[16:30] To fytasx: Hello fytasx!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[16:30] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:30] [8b8t] >> Request sent to dylans117877601",
@@ -101,7 +94,14 @@
     "[16:31] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[16:31] ICommitFraud_ Whispers: !kit illegal",
     "[16:31] To ICommitFraud_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:31] [8b8t] >> Teleporting..."
+    "[16:31] [8b8t] >> Teleporting...",
+    "[16:31] [8b8t] >> You have killed yourself!",
+    "[16:31] <fytasx> !kit trap ",
+    "[16:31] [8b8t] >> Teleporting to home 0...",
+    "[16:31] [8b8t] >> Teleporting to home 4...",
+    "[16:31] To fytasx: Kit \"trap\" not found! Giving you (dye) instead! dsc.gg/hienbot",
+    "[16:31] To fytasx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:31] [8b8t] >> Request sent to fytasx"
   ],
   "userStats": {
     "dylans117877601": 2,
@@ -112,7 +112,7 @@
     "ICommitFraud_": 3,
     "Boolyymon": 2,
     "dragonkit": 1,
-    "fytasx": 1,
+    "fytasx": 2,
     "ASXN": 2
   },
   "kitStats": {
@@ -123,7 +123,7 @@
     "armortrims": 2,
     "glass": 1,
     "pvp": 1,
-    "dye": 1,
+    "dye": 2,
     "dupe": 4,
     "gterracotta": 1,
     "redstone": 1,
