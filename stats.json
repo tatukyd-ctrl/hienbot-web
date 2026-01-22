@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:24:03 22/1/2026",
+  "lastUpdated": "17:24:33 22/1/2026",
   "totalKits": 92203,
   "todayKits": 180,
   "onlineCount": 23,
   "peakPlayers": 50,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "5.0",
+  "ping": 10917,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7417
+      "count": 7418
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:16] [8b8t] >> You have killed yourself!",
-    "[10:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[10:16] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[10:17] Marloowww has made the advancement [We Need to Go Deeper]",
-    "[10:17] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[10:17] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[10:17] <botchaosonix> L Boolyymon dumbass ",
-    "[10:17] <TulagrandBot> >Try @ping to get your ping ",
-    "[10:17] <botchaosonix> stupid nigger ",
-    "[10:17] [BOT] <0_HienBot> >Type !discord ",
-    "[10:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:18] <Boolyymon> because you cant take a no ",
     "[10:18] <botchaosonix> shut up ",
     "[10:23] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
@@ -101,7 +90,18 @@
     "[10:23] [8b8t] >> You have killed yourself!",
     "[10:23] You are already connected to this server!",
     "[10:23] Marloowww has made the advancement [Stone Age]",
-    "[10:24] <Boolyymon> i dont team "
+    "[10:24] <Boolyymon> i dont team ",
+    "[10:24] <TulagrandBot> >Try @kit to get kit ",
+    "[10:24] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[10:24] <m4rc_xyz8> !kit survival ",
+    "[10:24] [8b8t] >> Teleporting to home 0...",
+    "[10:24] [8b8t] >> Teleporting to home 1...",
+    "[10:24] To m4rc_xyz8: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:24] <TulagrandBot> >Building a base? Try @kit build ",
+    "[10:24] To m4rc_xyz8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:24] [8b8t] >> Request sent to m4rc_xyz8",
+    "[10:24] [8b8t] >> Teleporting...",
+    "[10:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "76756": 38,
@@ -2584,7 +2584,7 @@
     "TheeIceez": 3,
     "Mintro_": 11,
     "ianv4741": 1,
-    "m4rc_xyz8": 19,
+    "m4rc_xyz8": 20,
     "Lucaluck201": 17,
     "santi_ripxd": 125,
     "iwannaloveyou": 1,
@@ -3894,7 +3894,7 @@
   },
   "kitStats": {
     "build": 2020,
-    "survival": 7417,
+    "survival": 7418,
     "pvp": 9675,
     "dupe": 2722,
     "tools": 2262,
