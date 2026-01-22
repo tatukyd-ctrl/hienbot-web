@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:55:03 22/1/2026",
+  "lastUpdated": "09:55:33 22/1/2026",
   "totalKits": 92073,
   "todayKits": 50,
   "onlineCount": 31,
   "peakPlayers": 50,
-  "tps": "4.0",
-  "ping": 221,
+  "tps": "0.0",
+  "ping": 5123,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2708
+      "count": 2709
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[02:50] [Pro+] <lvashl> !kit Survival ",
-    "[02:50] [8b8t] >> Teleporting to home 0...",
-    "[02:50] [8b8t] >> Teleporting to home 1...",
-    "[02:50] To lvashl: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:50] To lvashl: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:50] [8b8t] >> Request sent to lvashl",
     "[02:50] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[02:50] <TulagrandBot> >Want kit? Try @kit ",
     "[02:50] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[02:54] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[02:54] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[02:54] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[02:54] [BOT] <0_HienBot> >Use !кιт to get kits "
+    "[02:54] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[02:55] <TulagrandBot> >Try @ping to get your ping ",
+    "[02:55] <ItzRealBull> is there dupe? ",
+    "[02:55] <ItzRealBull> !kit dupe ",
+    "[02:55] [BOT] <0_HienBot> >Welcome to 8b8t, kacymc! ",
+    "[02:55] [8b8t] >> Teleporting to home 0...",
+    "[02:55] [8b8t] >> Teleporting to home 7...",
+    "[02:55] To ItzRealBull: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3565,7 +3565,7 @@
     ".Keviinjm12": 8,
     "lucasel_008": 35,
     "deko_watch68": 1,
-    "ItzRealBull": 1,
+    "ItzRealBull": 2,
     "Ikoner": 7,
     "The_KylerALK": 16,
     "Tacspin": 2,
@@ -3878,7 +3878,7 @@
     "build": 2009,
     "survival": 7393,
     "pvp": 9651,
-    "dupe": 2708,
+    "dupe": 2709,
     "tools": 2248,
     "stash": 1354,
     "raid": 1592,
