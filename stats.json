@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:36:03 22/1/2026",
+  "lastUpdated": "20:36:33 22/1/2026",
   "totalKits": 92251,
   "todayKits": 228,
   "onlineCount": 30,
   "peakPlayers": 50,
-  "tps": "0.0",
+  "tps": "3.0",
   "ping": 284,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9691
+      "count": 9692
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:32] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[13:33] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[13:33] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[13:33] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[13:33] <TulagrandBot> >Want kit? Try @kit ",
-    "[13:34] <Narimattr_535> @kit ",
-    "[13:34] To Narimattr_535: Hello Narimattr_535!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[13:34] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[13:34] <Narimattr_535> !kit concrete ",
     "[13:34] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +94,14 @@
     "[13:35] To Narimattr_535: You're on cooldown, try again in 13 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:35] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[13:35] <ArnabHa> @kit ",
-    "[13:35] To ArnabHa: Hello ArnabHa!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[13:35] To ArnabHa: Hello ArnabHa!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:36] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[13:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:36] <ArnabHa> !kit PVP ",
+    "[13:36] [8b8t] >> Teleporting to home 0...",
+    "[13:36] [8b8t] >> Teleporting to home 1...",
+    "[13:36] To ArnabHa: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:36] To ArnabHa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3897,12 +3897,13 @@
     "ELTIERRA_001": 1,
     "Nat_frrrr": 5,
     "Listening": 4,
-    "Wemmbn": 1
+    "Wemmbn": 1,
+    "ArnabHa": 1
   },
   "kitStats": {
     "build": 2022,
     "survival": 7429,
-    "pvp": 9691,
+    "pvp": 9692,
     "dupe": 2729,
     "tools": 2269,
     "stash": 1368,
