@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:04:03 22/1/2026",
-  "totalKits": 92259,
-  "todayKits": 236,
-  "onlineCount": 27,
+  "lastUpdated": "21:04:31 22/1/2026",
+  "totalKits": 92260,
+  "todayKits": 237,
+  "onlineCount": 28,
   "peakPlayers": 50,
-  "tps": "0.0",
-  "ping": 243,
+  "tps": "6.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2270
+      "count": 2271
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:02] <TulagrandBot> >Hola bautost2 ",
-    "[14:02] <Narimattr_535> !kit redstone ",
-    "[14:02] [8b8t] >> Teleporting to home 0...",
-    "[14:02] [8b8t] >> Home 2 was not found",
-    "[14:02] To Narimattr_535: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:02] To Narimattr_535: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:02] [8b8t] >> Request sent to Narimattr_535",
-    "[14:02] [8b8t] >> Teleporting...",
-    "[14:03] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[14:03] <.yuu18m> !kit survival ",
-    "[14:03] [8b8t] >> You have killed yourself!",
     "[14:03] <TulagrandBot> >How are you MonkeBot? ",
     "[14:03] You were kicked from 8b8t: Timed out",
     "[14:03] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
@@ -101,7 +90,18 @@
     "[14:03] [8b8t] >> Teleporting to home 0...",
     "[14:03] [8b8t] >> Teleporting to home 1...",
     "[14:03] To .yuu18m: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:03] <seim> !kits tools "
+    "[14:03] <seim> !kits tools ",
+    "[14:04] <.yuu18m> !ping ",
+    "[14:04] To .yuu18m: Your ping is: 189 ms Dont forget to join dsc.gg/hienbot",
+    "[14:04] To .yuu18m: Try again Join dsc.gg/hienbot to report the error.",
+    "[14:04] <seim> !kit tools ",
+    "[14:04] [8b8t] >> Teleporting to home 0...",
+    "[14:04] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[14:04] [8b8t] >> Teleporting to home 7...",
+    "[14:04] To seim: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:04] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:04] [8b8t] >> Request sent to seim",
+    "[14:04] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -506,7 +506,7 @@
     "itzanty": 1,
     "abelino_pepino": 2,
     "fox_gam1": 1,
-    "seim": 38,
+    "seim": 39,
     "caseoh3": 5,
     "crack1226": 1,
     "xXCasterXx": 2,
@@ -3907,7 +3907,7 @@
     "survival": 7432,
     "pvp": 9693,
     "dupe": 2732,
-    "tools": 2270,
+    "tools": 2271,
     "stash": 1368,
     "raid": 1598,
     "wood": 630,
