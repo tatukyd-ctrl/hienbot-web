@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:05:33 22/1/2026",
+  "lastUpdated": "20:06:03 22/1/2026",
   "totalKits": 92244,
   "todayKits": 221,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 50,
-  "tps": "6.0",
-  "ping": 218,
+  "tps": "4.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,20 +68,10 @@
     },
     {
       "name": "build",
-      "count": 2021
+      "count": 2022
     }
   ],
   "chatLog": [
-    "[13:03] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[13:03] To Nat_frrrr: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:03] To Nat_frrrr: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:03] [8b8t] >> Request sent to Nat_frrrr",
-    "[13:03] <Listening> !kit ",
-    "[13:03] [8b8t] >> Teleporting...",
-    "[13:03] To Listening: Hello Listening!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:03] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[13:03] [8b8t] >> You have killed yourself!",
-    "[13:03] <Listening> !kit pvp ",
     "[13:03] [8b8t] >> Teleporting to home 0...",
     "[13:03] [8b8t] >> Teleporting to home 1...",
     "[13:03] To Listening: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[13:04] To Listening: You're on cooldown, try again in 37 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[13:05] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[13:05] <botchaosonix> lol lag "
+    "[13:05] <botchaosonix> lol lag ",
+    "[13:05] [BOT] <0_HienBot> >Type !discord ",
+    "[13:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:05] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[13:05] [Pro+] <bugbar> !kit build ",
+    "[13:05] [8b8t] >> Teleporting to home 0...",
+    "[13:05] [8b8t] >> Home 2 was not found",
+    "[13:05] To BigBear: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:05] To BigBear: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:05] [8b8t] >> Request sent to BigBear",
+    "[13:06] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3179,7 +3179,7 @@
     "8_oz": 3,
     "SpreenDMC.": 5,
     ".RASPBERRY0V0": 4,
-    "BigBear": 26,
+    "BigBear": 27,
     "htp1p0": 24,
     "UGhvc2hNZTE3MTA": 10,
     "bestpojavpvp": 1,
@@ -3899,7 +3899,7 @@
     "Listening": 1
   },
   "kitStats": {
-    "build": 2021,
+    "build": 2022,
     "survival": 7428,
     "pvp": 9688,
     "dupe": 2729,
