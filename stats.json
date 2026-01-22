@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:09:45 22/1/2026",
+  "lastUpdated": "17:10:03 22/1/2026",
   "totalKits": 92198,
   "todayKits": 175,
-  "onlineCount": 22,
+  "onlineCount": 25,
   "peakPlayers": 50,
-  "tps": "3.0",
-  "ping": 215,
+  "tps": "2.0",
+  "ping": 532,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:08] To .Shinigami5455: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:08] [8b8t] >> Request sent to .Shinigami5455",
-    "[10:08] [8b8t] >> Teleporting...",
-    "[10:08] <TulagrandBot> >Try @tps to get server's tps ",
-    "[10:08] [8b8t] >> You have killed yourself!",
-    "[10:08] <.WitherStorm1817> !kit mace ",
-    "[10:08] [8b8t] >> Teleporting to home 0...",
     "[10:08] [8b8t] >> Teleporting to home 7...",
     "[10:08] <zToby0709> !kit pvp ",
     "[10:08] To zToby0709: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[10:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:09] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[10:09] [8b8t] >> Teleporting...",
-    "[10:09] <TulagrandBot> > TULAGRANDE 1.6! "
+    "[10:09] <TulagrandBot> > TULAGRANDE 1.6! ",
+    "[10:09] [8b8t] >> You have killed yourself!",
+    "[10:09] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[10:10] <.Shinigami5455> !kit wind_burst ",
+    "[10:10] [8b8t] >> Teleporting to home 0...",
+    "[10:10] [8b8t] >> Home 2 was not found",
+    "[10:10] To .Shinigami5455: Kit \"wind_burst\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
+    "[10:10] To .Shinigami5455: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3769,7 +3769,7 @@
     "WildCreativity": 8,
     "Elchimuelo08": 4,
     "DIAGFV": 2,
-    ".Shinigami5455": 5,
+    ".Shinigami5455": 6,
     "ObviousVolv0x": 3,
     "Valucd": 9,
     "rokfox48": 6,
@@ -3905,7 +3905,7 @@
     "wool": 604,
     "mineral": 611,
     "food": 607,
-    "redstone": 971,
+    "redstone": 972,
     "toolbox": 900,
     "quartz": 424,
     "shulker": 716,
