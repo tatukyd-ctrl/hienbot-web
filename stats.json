@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:02:11 22/1/2026",
+  "lastUpdated": "12:02:33 22/1/2026",
   "totalKits": 92140,
   "todayKits": 117,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "2.0",
+  "tps": "1.0",
   "ping": 217,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:00] [8b8t] Unknown command do /help",
-    "[05:00] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[05:00] You are already connected to this server!",
-    "[05:00] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[05:00] <yra112> u need blocks? ",
-    "[05:00] <Elrompepelotas> !kit mace ",
-    "[05:00] [8b8t] >> Teleporting to home 0...",
-    "[05:00] [8b8t] >> Teleporting to home 7...",
-    "[05:00] To Elrompepelotas: Tu kit (mace) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
-    "[05:00] To Elrompepelotas: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[05:00] [8b8t] >> Request sent to Elrompepelotas",
     "[05:01] [8b8t] >> Teleporting...",
     "[05:01] <TulagrandBot> >Hi yra112 ",
@@ -101,7 +91,17 @@
     "[05:02] To Elrompepelotas: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[05:02] <yra112> cya ",
     "[05:02] [8b8t] >> Request sent to Elrompepelotas",
-    "[05:02] [8b8t] >> Teleporting..."
+    "[05:02] [8b8t] >> Teleporting...",
+    "[05:02] [8b8t] >> You have killed yourself!",
+    "[05:02] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[05:02] <alonsoalvape7> !kit travel ",
+    "[05:02] [8b8t] >> Teleporting to home 0...",
+    "[05:02] [8b8t] >> Teleporting to home 6...",
+    "[05:02] To alonsoalvape7: Your kit (travel) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:02] <kingston716333> ?kit travel ",
+    "[05:02] To kingston716333: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:02] To alonsoalvape7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:02] [8b8t] >> Request sent to alonsoalvape7"
   ],
   "userStats": {
     "76756": 38,
@@ -3876,7 +3876,7 @@
     "kacymc": 2,
     "XimenaPro178xd": 1,
     "Aleeq": 4,
-    "alonsoalvape7": 18
+    "alonsoalvape7": 19
   },
   "kitStats": {
     "build": 2018,
@@ -3912,6 +3912,6 @@
     "gterracotta": 108,
     "banner": 90,
     "illegal": 706,
-    "elytra": 887
+    "elytra": 888
   }
 }
