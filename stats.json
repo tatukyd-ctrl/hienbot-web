@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:33:03 22/1/2026",
+  "lastUpdated": "07:33:33 22/1/2026",
   "totalKits": 92032,
   "todayKits": 9,
-  "onlineCount": 38,
+  "onlineCount": 37,
   "peakPlayers": 50,
-  "tps": "3.0",
+  "tps": "2.0",
   "ping": 220,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9634
+      "count": 9635
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:30] <dylans117877601> !kit survival ",
-    "[00:30] [8b8t] >> You have killed yourself!",
-    "[00:30] To dylans117877601: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:30] [8b8t] >> Teleporting to home 0...",
-    "[00:30] [8b8t] >> Teleporting to home 1...",
-    "[00:30] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:30] [8b8t] >> Request sent to dylans117877601",
-    "[00:30] [8b8t] >> Teleporting...",
-    "[00:30] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[00:30] <Alesito_Cotton> bastardos ctm ",
-    "[00:30] [8b8t] >> You have killed yourself!",
-    "[00:30] <dragonsej2025> a ",
-    "[00:30] <dragonsej2025> a espada? ",
-    "[00:31] [Ultra] <focoloa> Alesito_Cotton se quien eres pero no lo puedo comprobar ",
     "[00:31] <ASXN> Alguien para hacer team? ",
     "[00:31] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[00:31] TulagrandBot Whispers: Try @kit to get free kit",
@@ -101,7 +87,21 @@
     "[00:32] <TulagrandBot> >Building a base? Try @kit build2 ",
     "[00:32] <verusxd22> !kitPvp ",
     "[00:32] <sebasfut29> ezzzzzzzzzzzzzzz ",
-    "[00:32] alonsoalvape7 has made the advancement [Hot Stuff]"
+    "[00:32] alonsoalvape7 has made the advancement [Hot Stuff]",
+    "[00:33] <Alesito_Cotton> que wea el server es medio down ",
+    "[00:33] <verusxd22> !kit pvp ",
+    "[00:33] [8b8t] >> Teleporting to home 0...",
+    "[00:33] [8b8t] >> Teleporting to home 1...",
+    "[00:33] To verusxd22: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:33] <Alesito_Cotton> !kit pvp ",
+    "[00:33] To Alesito_Cotton: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[00:33] To verusxd22: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:33] [8b8t] >> Request sent to verusxd22",
+    "[00:33] <ASXN> alguien team? ",
+    "[00:33] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[00:33] <TulagrandBot> >Hello, or4acle ",
+    "[00:33] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[00:33] [Ultra] <focoloa> \"el server es medio down\" y ponia kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -3863,12 +3863,13 @@
     "fabric_XxX": 20,
     "FijianHardscoper": 1,
     "TechCrypt1c": 1,
-    ".BESTPLAYER7769": 1
+    ".BESTPLAYER7769": 1,
+    "verusxd22": 1
   },
   "kitStats": {
     "build": 2005,
     "survival": 7386,
-    "pvp": 9634,
+    "pvp": 9635,
     "dupe": 2706,
     "tools": 2247,
     "stash": 1353,
