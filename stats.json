@@ -1,16 +1,16 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:02:39 23/1/2026",
-  "totalKits": 43,
-  "todayKits": 43,
+  "lastUpdated": "00:03:09 23/1/2026",
+  "totalKits": 44,
+  "todayKits": 44,
   "onlineCount": 42,
   "peakPlayers": 48,
-  "tps": "3.0",
-  "ping": 210,
+  "tps": "5.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "fytasx",
-      "count": 13
+      "count": 14
     },
     {
       "name": "espinos",
@@ -63,26 +63,15 @@
       "count": 5
     },
     {
-      "name": "exp",
+      "name": "raid",
       "count": 4
     },
     {
-      "name": "raid",
-      "count": 3
+      "name": "exp",
+      "count": 4
     }
   ],
   "chatLog": [
-    "[17:00] <fytasx> !kit raid ",
-    "[17:01] [8b8t] >> You have killed yourself!",
-    "[17:01] [8b8t] >> The TPA request you sent to .BESTPLAYER7769 was successfully canceled.",
-    "[17:01] [8b8t] >> You have killed yourself!",
-    "[17:01] To fytasx: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:01] [8b8t] >> Teleporting to home 0...",
-    "[17:01] [8b8t] >> Home 2 was not found",
-    "[17:01] <TulagrandBot> >Try @ping to get your ping ",
-    "[17:01] [BOT] <0_HienBot> >Welcome to 8b8t, MonkeBot! ",
-    "[17:01] To fytasx: Try again Join dsc.gg/hienbot to report the error.",
-    "[17:01] You were kicked from 8b8t: Timed out",
     "[17:01] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[17:01] [8b8t] Unknown command do /help",
     "[17:01] You are already trying to connect to a server!",
@@ -101,7 +90,18 @@
     "[17:02] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:02] [8b8t] >> Request sent to dylans117877601",
     "[17:02] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[17:02] <verusxd22> Peor bro antes hay que. Yambear mira "
+    "[17:02] <verusxd22> Peor bro antes hay que. Yambear mira ",
+    "[17:02] <TulagrandBot> >Try /nc to change your nick color ",
+    "[17:02] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[17:02] [8b8t] >> You have killed yourself!",
+    "[17:02] [8b8t] >> The TPA request you sent to dylans117877601 was successfully canceled.",
+    "[17:03] <fytasx> !kit raid ",
+    "[17:03] [8b8t] >> Teleporting to home 0...",
+    "[17:03] [8b8t] >> Home 2 was not found",
+    "[17:03] To fytasx: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:03] To fytasx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:03] [8b8t] >> Request sent to fytasx",
+    "[17:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 7,
@@ -112,7 +112,7 @@
     "ICommitFraud_": 4,
     "Boolyymon": 3,
     "dragonkit": 1,
-    "fytasx": 13,
+    "fytasx": 14,
     "ASXN": 2,
     "itz_ju4n": 2,
     "Gintars": 1,
@@ -123,7 +123,7 @@
   },
   "kitStats": {
     "build": 5,
-    "raid": 3,
+    "raid": 4,
     "stash": 3,
     "wood": 2,
     "armortrims": 2,
