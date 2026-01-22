@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:44:03 22/1/2026",
+  "lastUpdated": "21:44:33 22/1/2026",
   "totalKits": 92280,
   "todayKits": 257,
   "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "0.0",
+  "tps": "3.0",
   "ping": 213,
   "topUsers": [
     {
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:41] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[14:41] [8b8t] >> You have killed yourself!",
     "[14:41] <popbob_voco> !kit exp ",
     "[14:41] [8b8t] >> Teleporting to home 0...",
     "[14:41] [8b8t] >> Teleporting to home 5...",
@@ -101,7 +99,9 @@
     "[14:43] [BOT] <0_HienBot> >Hey iTrisstan! ",
     "[14:43] <TulagrandBot> >Whant something? Try @kit! ",
     "[14:43] [8b8t] >> You have killed yourself!",
-    "[14:43] [8b8t] >> The TPA request you sent to seim was successfully canceled."
+    "[14:43] [8b8t] >> The TPA request you sent to seim was successfully canceled.",
+    "[14:44] <chuadry> !kit elytra ",
+    "[14:44] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
   ],
   "userStats": {
     "76756": 38,
@@ -3047,7 +3047,7 @@
     "admjj": 5,
     "geniusbaqer": 18,
     "SemiDen": 9,
-    "chuadry": 12,
+    "chuadry": 13,
     ".TandemTundra902": 2,
     "Adamminecraft15": 3,
     "ZoxyMapper": 1,
@@ -3938,6 +3938,6 @@
     "gterracotta": 109,
     "banner": 90,
     "illegal": 706,
-    "elytra": 907
+    "elytra": 908
   }
 }
