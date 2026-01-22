@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:06:03 22/1/2026",
-  "totalKits": 92290,
-  "todayKits": 267,
+  "lastUpdated": "22:06:21 22/1/2026",
+  "totalKits": 92291,
+  "todayKits": 268,
   "onlineCount": 35,
   "peakPlayers": 50,
-  "tps": "0.0",
-  "ping": 214,
+  "tps": "3.0",
+  "ping": 297,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9698
+      "count": 9699
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:04] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[15:04] <PlaneMercury749> @kits ",
-    "[15:04] <PlaneMercury749> @kit build1 ",
-    "[15:04] [8b8t] >> Teleporting to home 0...",
-    "[15:04] [8b8t] >> Teleporting to home 3...",
-    "[15:04] To PlaneMercury749: Kit \"build1\" not found! Giving you (wool) instead! dsc.gg/hienbot",
-    "[15:05] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[15:05] To PlaneMercury749: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:05] <TulagrandBot> >Try @seed to get 8b8t's seed ",
     "[15:05] [8b8t] >> Request sent to PlaneMercury749",
     "[15:05] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +93,15 @@
     "[15:05] <chashja> !kit pvp ",
     "[15:06] To chashja: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:06] [8b8t] >> You have killed yourself!",
-    "[15:06] <TulagrandBot> >Try @kit to get kit "
+    "[15:06] <TulagrandBot> >Try @kit to get kit ",
+    "[15:06] <chashja> !kit pvp ",
+    "[15:06] [8b8t] >> Teleporting to home 0...",
+    "[15:06] [8b8t] >> Teleporting to home 1...",
+    "[15:06] To chashja: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:06] To chashja: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:06] [8b8t] >> Request sent to chashja",
+    "[15:06] [8b8t] >> Teleporting...",
+    "[15:06] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
   ],
   "userStats": {
     "76756": 38,
@@ -3902,12 +3902,13 @@
     "Aaz_Da_": 1,
     "DrNowdy": 1,
     "Kagan2025": 1,
-    "PlaneMercury749": 4
+    "PlaneMercury749": 4,
+    "chashja": 1
   },
   "kitStats": {
     "build": 2023,
     "survival": 7437,
-    "pvp": 9698,
+    "pvp": 9699,
     "dupe": 2736,
     "tools": 2274,
     "stash": 1369,
