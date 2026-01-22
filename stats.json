@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:08:33 22/1/2026",
+  "lastUpdated": "07:09:03 22/1/2026",
   "totalKits": 92024,
   "todayKits": 1,
   "onlineCount": 29,
   "peakPlayers": 50,
-  "tps": "5.0",
-  "ping": 214,
+  "tps": "2.0",
+  "ping": 315,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9631
+      "count": 9632
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:04] <fabric_XxX> perdon ",
-    "[00:04] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[00:04] <TulagrandBot> >How are you CornFedRaiden? ",
-    "[00:04] [8b8t] >> The TPA request you sent to fabric_XxX has expired.",
-    "[00:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[00:04] [8b8t] >> You have killed yourself!",
-    "[00:05] [8b8t] >> No TPA request found",
-    "[00:05] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[00:05] <.Maddie8171111> Use $kit for a kit! ",
     "[00:05] [BOT] <0_HienBot> >What's up, TulagrandBot? ",
     "[00:06] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[00:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +92,16 @@
     "[00:08] gabrielOne has made the advancement [Stone Age]",
     "[00:08] [BOT] <0_HienBot> >Type !discord ",
     "[00:08] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
-    "[00:08] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[00:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:08] <dragonsej2025> !kit pvp ",
+    "[00:08] [8b8t] >> Teleporting to home 0...",
+    "[00:08] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[00:08] [8b8t] >> Teleporting to home 1...",
+    "[00:08] gabrielOne has reached the goal [Postmortal]",
+    "[00:08] To dragonsej2025: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:08] To dragonsej2025: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:08] [8b8t] >> Request sent to dragonsej2025",
+    "[00:08] <TulagrandBot> >Hi MrPinkEye "
   ],
   "userStats": {
     "76756": 38,
@@ -3543,7 +3543,7 @@
     "Aretorangtwo": 7,
     "SPREENQ": 70,
     "oro_888": 1,
-    "dragonsej2025": 16,
+    "dragonsej2025": 17,
     "Jonicua": 6,
     "dantecavii": 66,
     ".Dgomegarato": 3,
@@ -3868,7 +3868,7 @@
   "kitStats": {
     "build": 2005,
     "survival": 7380,
-    "pvp": 9631,
+    "pvp": 9632,
     "dupe": 2704,
     "tools": 2245,
     "stash": 1353,
