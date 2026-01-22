@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:26:39 22/1/2026",
-  "totalKits": 6,
-  "todayKits": 6,
-  "onlineCount": 39,
+  "lastUpdated": "23:26:52 22/1/2026",
+  "totalKits": 7,
+  "todayKits": 7,
+  "onlineCount": 38,
   "peakPlayers": 39,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 2277,
   "topUsers": [
     {
@@ -43,6 +43,10 @@
     {
       "name": "fytasx",
       "count": 1
+    },
+    {
+      "name": "ASXN",
+      "count": 1
     }
   ],
   "topKits": [
@@ -55,33 +59,19 @@
       "count": 2
     },
     {
+      "name": "armortrims",
+      "count": 2
+    },
+    {
       "name": "build",
       "count": 1
     },
     {
       "name": "wood",
       "count": 1
-    },
-    {
-      "name": "armortrims",
-      "count": 1
     }
   ],
   "chatLog": [
-    "[16:25] To dragonkit: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:25] <TuViejx> !kit pvp ",
-    "[16:25] [8b8t] >> Request sent to dragonkit",
-    "[16:25] [8b8t] >> Teleporting...",
-    "[16:25] <yra112> yea ",
-    "[16:25] [8b8t] >> You have killed yourself!",
-    "[16:25] <Boolyymon> !kit glass ",
-    "[16:25] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[16:25] To Boolyymon: You're on cooldown, try again in 41 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:25] <fytasx> !kit menu ",
-    "[16:25] [8b8t] >> Teleporting to home 0...",
-    "[16:25] [8b8t] >> Teleporting to home 4...",
-    "[16:25] To fytasx: Kit \"menu\" not found! Giving you (dye) instead! dsc.gg/hienbot",
-    "[16:25] <TulagrandBot> >Try /kill to kill yourself ",
     "[16:26] To fytasx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:26] [8b8t] >> Request sent to fytasx",
     "[16:26] <ASXN> !kit armortrims ",
@@ -97,7 +87,21 @@
     "[16:26] <yra112> i alr have my own lowk ",
     "[16:26] <TulagrandBot> >How are you fytasx? ",
     "[16:26] [8b8t] >> You have killed yourself!",
-    "[16:26] [8b8t] >> The TPA request you sent to fytasx was successfully canceled."
+    "[16:26] [8b8t] >> The TPA request you sent to fytasx was successfully canceled.",
+    "[16:26] ASXN Whispers: !kit armortrims",
+    "[16:26] [8b8t] >> Teleporting to home 0...",
+    "[16:26] [8b8t] >> Teleporting to home 7...",
+    "[16:26] <shinzou_otaku> holaa ",
+    "[16:26] To ASXN: Tu kit (armortrims) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[16:26] <espinos> !kit armourtrim ",
+    "[16:26] To espinos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:26] [8b8t] >> Please do not spam.",
+    "[16:26] To ASXN: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[16:26] [8b8t] >> Request sent to ASXN",
+    "[16:26] [8b8t] >> Teleporting...",
+    "[16:26] <yra112> i just saw u here so ye ",
+    "[16:26] <Anonymous204205> !kit pvp ",
+    "[16:26] To Anonymous204205: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 1,
@@ -108,14 +112,15 @@
     "ICommitFraud_": 1,
     "Boolyymon": 1,
     "dragonkit": 1,
-    "fytasx": 1
+    "fytasx": 1,
+    "ASXN": 1
   },
   "kitStats": {
     "build": 1,
     "raid": 2,
     "stash": 2,
     "wood": 1,
-    "armortrims": 1,
+    "armortrims": 2,
     "glass": 1,
     "pvp": 1,
     "dye": 1
