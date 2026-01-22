@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:21:39 22/1/2026",
+  "lastUpdated": "23:22:09 22/1/2026",
   "totalKits": 2,
   "todayKits": 2,
   "onlineCount": 33,
   "peakPlayers": 36,
-  "tps": "1.0",
-  "ping": 0,
+  "tps": "4.0",
+  "ping": 333,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -23,6 +23,10 @@
     {
       "name": "Anonymous204205",
       "count": 1
+    },
+    {
+      "name": "espinos",
+      "count": 1
     }
   ],
   "topKits": [
@@ -37,21 +41,13 @@
     {
       "name": "stash",
       "count": 1
+    },
+    {
+      "name": "wood",
+      "count": 1
     }
   ],
   "chatLog": [
-    "[16:18] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[16:18] <TulagrandBot> >How are you iTrisstan? ",
-    "[16:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[16:18] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[16:18] <verusxd22> !lqng ",
-    "[16:19] [8b8t] >> Ruben34553 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[16:19] <verusxd22> !lang ",
-    "[16:19] To verusxd22: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
-    "[16:19] [BOT] <0_HienBot> >Hey WildCreativity! ",
-    "[16:19] <verusxd22> Es ",
-    "[16:19] <verusxd22> !lang es ",
-    "[16:19] To verusxd22: Idioma cambiado a Espanol! | dsc.gg/hienbot",
     "[16:19] <TulagrandBot> >Building a base? Try @kit build1 ",
     "[16:19] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[16:20] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -69,17 +65,31 @@
     "[16:21] You are already connected to this server!",
     "[16:21] [8b8t] >> You have killed yourself!",
     "[16:21] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[16:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[16:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[16:21] [8b8t] >> Please do not spam.",
+    "[16:21] <TulagrandBot> >Try @seed to get 8b8t's seed ",
+    "[16:21] <Super_jj9000> !kits ",
+    "[16:22] <Super_jj9000> !kit ",
+    "[16:22] To Super_jj9000: Hello Super_jj9000!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[16:22] <espinos> !kit armourtrims ",
+    "[16:22] [8b8t] >> Teleporting to home 0...",
+    "[16:22] [8b8t] >> Teleporting to home 3...",
+    "[16:22] <Super_jj9000> !kit cobblestone ",
+    "[16:22] To espinos: Kit \"armourtrims\" not found! Giving you (wood) instead! dsc.gg/hienbot",
+    "[16:22] To espinos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:22] [8b8t] >> Request sent to espinos"
   ],
   "userStats": {
     "dylans117877601": 1,
     "Super_jj9000": 1,
     "obitokkkk": 1,
-    "Anonymous204205": 1
+    "Anonymous204205": 1,
+    "espinos": 1
   },
   "kitStats": {
     "build": 1,
     "raid": 2,
-    "stash": 1
+    "stash": 1,
+    "wood": 1
   }
 }
