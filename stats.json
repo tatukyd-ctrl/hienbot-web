@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:35:25 23/1/2026",
+  "lastUpdated": "01:35:39 23/1/2026",
   "totalKits": 98,
   "todayKits": 98,
   "onlineCount": 43,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 222,
   "topUsers": [
     {
@@ -33,15 +33,15 @@
       "count": 7
     },
     {
+      "name": "alonsoalvape7",
+      "count": 7
+    },
+    {
       "name": "fabric_XxX",
       "count": 6
     },
     {
       "name": "miro09809808",
-      "count": 6
-    },
-    {
-      "name": "alonsoalvape7",
       "count": 6
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "elytra",
-      "count": 13
+      "count": 14
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:34] bubuleo2 has made the advancement [Getting an Upgrade]",
-    "[18:34] <fabric_XxX> tenes xpe q me compaltas ",
-    "[18:34] <Super_jj9000> !kit wood ",
-    "[18:34] [8b8t] >> Teleporting to home 0...",
     "[18:34] [8b8t] >> Teleporting to home 3...",
     "[18:34] To Super_jj9000: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[18:34] To Super_jj9000: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +97,11 @@
     "[18:35] To fabric_XxX: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[18:35] To fabric_XxX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:35] [8b8t] >> Request sent to fabric_XxX",
-    "[18:35] [8b8t] >> Teleporting..."
+    "[18:35] [8b8t] >> Teleporting...",
+    "[18:35] [8b8t] >> You have killed yourself!",
+    "[18:35] <TulagrandBot> >Building a base? Try @kit build ",
+    "[18:35] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[18:35] <alonsoalvape7> !kit elytra "
   ],
   "userStats": {
     "dylans117877601": 10,
@@ -133,7 +133,7 @@
     "H_INMORTAL_M": 2,
     "ManePear_fannn": 2,
     "Arsago": 2,
-    "alonsoalvape7": 6
+    "alonsoalvape7": 7
   },
   "kitStats": {
     "build": 9,
@@ -153,7 +153,7 @@
     "end": 3,
     "quartz": 1,
     "music": 1,
-    "elytra": 13,
+    "elytra": 14,
     "survival": 13,
     "tools": 6,
     "food": 4,
