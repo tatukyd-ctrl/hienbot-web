@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:14:03 22/1/2026",
+  "lastUpdated": "13:14:33 22/1/2026",
   "totalKits": 92165,
   "todayKits": 142,
   "onlineCount": 20,
   "peakPlayers": 50,
-  "tps": "6.0",
+  "tps": "8.0",
   "ping": 224,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7404
+      "count": 7405
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:11] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[06:11] <TulagrandBot> >Try /kill to kill yourself ",
-    "[06:11] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[06:11] <TulagrandBot> >Try @seed to get 8b8t's seed ",
-    "[06:12] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[06:12] <Horace> How to teleport to someone? ",
-    "[06:12] <TulagrandBot> >Try /nc to change your nick color ",
     "[06:12] mONITOR2007 has completed the challenge [Subspace Bubble]",
     "[06:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:12] <yra112> a /tpahere Horace ",
@@ -101,7 +94,14 @@
     "[06:13] <Eden_01655> !kit survival ",
     "[06:13] To Eden_01655: You're on cooldown, try again in 41 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:13] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:14] <TulagrandBot> >Tulagrande on top! "
+    "[06:14] <TulagrandBot> >Tulagrande on top! ",
+    "[06:14] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[06:14] <Eden_01655> !kit survival ",
+    "[06:14] [8b8t] >> Teleporting to home 0...",
+    "[06:14] [8b8t] >> Teleporting to home 1...",
+    "[06:14] To Eden_01655: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:14] To Eden_01655: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:14] [8b8t] >> Request sent to Eden_01655"
   ],
   "userStats": {
     "76756": 38,
@@ -2472,7 +2472,7 @@
     ".keko756": 1,
     "kayra42_": 2,
     "kikoisgood95": 1,
-    "Eden_01655": 11,
+    "Eden_01655": 12,
     "jordanas2123": 1,
     "KiddKussh": 1,
     "Opalanie": 2,
@@ -3886,7 +3886,7 @@
   },
   "kitStats": {
     "build": 2019,
-    "survival": 7404,
+    "survival": 7405,
     "pvp": 9667,
     "dupe": 2719,
     "tools": 2258,
