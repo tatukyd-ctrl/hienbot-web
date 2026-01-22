@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:55:03 22/1/2026",
+  "lastUpdated": "11:55:33 22/1/2026",
   "totalKits": 92131,
   "todayKits": 108,
   "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "2.0",
-  "ping": 750,
+  "tps": "6.0",
+  "ping": 227,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:52] Matisito has made the advancement [Stone Age]",
-    "[04:52] <.Jkbra1127> !kit elytra ",
-    "[04:52] [8b8t] >> Teleporting to home 0...",
-    "[04:52] [8b8t] >> Teleporting to home 6...",
-    "[04:52] To .Jkbra1127: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:52] To .Jkbra1127: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:52] [8b8t] >> Request sent to .Jkbra1127",
     "[04:52] [BOT] <0_HienBot> >Welcome to 8b8t, .BigshotPurse613! ",
     "[04:52] [8b8t] >> Teleporting...",
     "[04:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +94,14 @@
     "[04:54] To ASXN: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
     "[04:54] To OmHackz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:54] [8b8t] >> Request sent to OmHackz",
-    "[04:55] <alonsoalvape7> !kill "
+    "[04:55] <alonsoalvape7> !kill ",
+    "[04:55] [8b8t] >> Please do not spam.",
+    "[04:55] [8b8t] >> You have killed yourself!",
+    "[04:55] [8b8t] >> The TPA request you sent to OmHackz was successfully canceled.",
+    "[04:55] ASXN Whispers: !kit stash",
+    "[04:55] [8b8t] >> Teleporting to home 0...",
+    "[04:55] [8b8t] >> Home 2 was not found",
+    "[04:55] To ASXN: Tu kit (stash) se entregara en 30 segundos! Unete a dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -2719,7 +2719,7 @@
     "ElsapotopoMC": 5,
     "ivan56": 13,
     "Exoshi": 11,
-    "ASXN": 73,
+    "ASXN": 74,
     "panana777": 15,
     "Alexisfemboy": 1,
     "Mal_wPjGeV": 1,
@@ -3884,7 +3884,7 @@
     "pvp": 9661,
     "dupe": 2716,
     "tools": 2252,
-    "stash": 1361,
+    "stash": 1362,
     "raid": 1595,
     "wood": 628,
     "exp": 936,
