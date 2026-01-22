@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:50:33 22/1/2026",
+  "lastUpdated": "07:51:03 22/1/2026",
   "totalKits": 92039,
   "todayKits": 16,
-  "onlineCount": 32,
+  "onlineCount": 34,
   "peakPlayers": 50,
-  "tps": "1.0",
+  "tps": "5.0",
   "ping": 217,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9638
+      "count": 9639
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:48] [8b8t] >> Teleporting to home 1...",
-    "[00:48] To rniloAM: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[00:49] To rniloAM: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:49] <TulagrandBot> >How are you Cachew? ",
-    "[00:49] [8b8t] >> Request sent to rniloAM",
-    "[00:49] <Chr1s_th3_s1gma> !kit pvp ",
-    "[00:49] <rniloAM> !kit pvp ",
-    "[00:49] To rniloAM: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:49] To Chr1s_th3_s1gma: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[00:49] <ASXN> quien team? ",
     "[00:49] <sebasfut29> yo ",
     "[00:49] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[00:49] <verusxd22> ASXN hola de nuevo ",
@@ -101,7 +91,17 @@
     "[00:50] <TulagrandBot> >Try @seed to get 8b8t's seed ",
     "[00:50] rniloAM has completed the challenge [Cover Me in Debris]",
     "[00:50] <sebasfut29> quien pvp ",
-    "[00:50] rniloAM has reached the goal [Sky's the Limit]"
+    "[00:50] rniloAM has reached the goal [Sky's the Limit]",
+    "[00:50] <sebasfut29> quien pvp ",
+    "[00:50] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[00:50] <Cachew> pvp pero no arma ",
+    "[00:50] <Chr1s_th3_s1gma> !kit pvp ",
+    "[00:50] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[00:50] [8b8t] >> Teleporting to home 0...",
+    "[00:50] [8b8t] >> Teleporting to home 1...",
+    "[00:50] To Chr1s_th3_s1gma: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:50] To Chr1s_th3_s1gma: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:50] [8b8t] >> Request sent to Chr1s_th3_s1gma"
   ],
   "userStats": {
     "76756": 38,
@@ -3386,7 +3386,7 @@
     "BroddyZX": 1,
     "AfoiwageiLP": 6,
     "SooDeckOG": 32,
-    "Chr1s_th3_s1gma": 15,
+    "Chr1s_th3_s1gma": 16,
     "negro_kiricici": 30,
     "Alsobruh_": 2,
     "SEBASRED_01": 2,
@@ -3872,7 +3872,7 @@
   "kitStats": {
     "build": 2006,
     "survival": 7387,
-    "pvp": 9638,
+    "pvp": 9639,
     "dupe": 2707,
     "tools": 2247,
     "stash": 1353,
