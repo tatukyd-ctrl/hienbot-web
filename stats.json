@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:44:39 22/1/2026",
-  "totalKits": 32,
-  "todayKits": 32,
+  "lastUpdated": "23:44:50 22/1/2026",
+  "totalKits": 33,
+  "todayKits": 33,
   "onlineCount": 37,
   "peakPlayers": 40,
-  "tps": "6.0",
-  "ping": 228,
+  "tps": "5.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "espinos",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Super_jj9000",
-      "count": 5
+      "count": 6
     },
     {
       "name": "ICommitFraud_",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:43] <fytasx> @kit elytra ",
-    "[16:43] To fytasx: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:44] <fytasx> @kit elytra ",
-    "[16:44] <.oneonefour14> !kit ",
-    "[16:44] To fytasx: You're on cooldown, try again in 1 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:44] <espinos> !kit redstone ",
-    "[16:44] [8b8t] >> Teleporting to home 0...",
-    "[16:44] [8b8t] >> Home 2 was not found",
-    "[16:44] To espinos: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[16:44] To espinos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:44] <fytasx> @kit elytra ",
     "[16:44] <ElTomatitoFresco> !kit redstone ",
@@ -101,11 +92,20 @@
     "[16:44] To fytasx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:44] [8b8t] >> Request sent to fytasx",
     "[16:44] [8b8t] >> Teleporting...",
-    "[16:44] [8b8t] >> You have killed yourself!"
+    "[16:44] [8b8t] >> You have killed yourself!",
+    "[16:44] <Super_jj9000> !kit survival ",
+    "[16:44] [8b8t] >> Teleporting to home 0...",
+    "[16:44] [8b8t] >> Teleporting to home 1...",
+    "[16:44] To Super_jj9000: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:44] <fytasx> what ",
+    "[16:44] To Super_jj9000: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:44] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[16:44] [8b8t] >> Request sent to Super_jj9000",
+    "[16:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 3,
-    "Super_jj9000": 5,
+    "Super_jj9000": 6,
     "obitokkkk": 1,
     "Anonymous204205": 1,
     "espinos": 7,
@@ -137,6 +137,7 @@
     "end": 2,
     "quartz": 1,
     "music": 1,
-    "elytra": 2
+    "elytra": 2,
+    "survival": 1
   }
 }
