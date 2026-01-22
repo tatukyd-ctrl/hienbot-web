@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:11:33 22/1/2026",
-  "totalKits": 92232,
-  "todayKits": 209,
-  "onlineCount": 17,
+  "lastUpdated": "19:11:54 22/1/2026",
+  "totalKits": 92233,
+  "todayKits": 210,
+  "onlineCount": 16,
   "peakPlayers": 50,
-  "tps": "11.0",
-  "ping": 219,
+  "tps": "10.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7424
+      "count": 7425
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[12:05] [BOT] <0_HienBot> >Hey TNGB0T! ",
-    "[12:05] <TulagrandBot> >Try @ping to get your ping ",
-    "[12:05] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[12:05] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
-    "[12:06] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[12:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[12:06] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
     "[12:07] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[12:07] TulagrandBot Whispers: >Join TULAGRANDE, a clan like no one you have seen before.",
     "[12:07] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
@@ -101,7 +93,15 @@
     "[12:11] [Pro+] <Voltaikk> when eligel evnet ",
     "[12:11] <TulagrandBot> >Whant something? Try @kit! ",
     "[12:11] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[12:11] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot "
+    "[12:11] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[12:11] <exe4exe> !kit survival ",
+    "[12:11] [8b8t] >> Teleporting to home 0...",
+    "[12:11] [8b8t] >> Teleporting to home 1...",
+    "[12:11] To exe4exe: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:11] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[12:11] To exe4exe: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:11] [8b8t] >> Request sent to exe4exe",
+    "[12:11] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -2622,7 +2622,7 @@
     "Swan_Yt": 3,
     "Ozi_Dev": 2,
     "dorukalp25": 11,
-    "exe4exe": 15,
+    "exe4exe": 16,
     "Matas2K": 3,
     "Failmc": 4,
     "NopFoundBedrock": 2,
@@ -3897,7 +3897,7 @@
   },
   "kitStats": {
     "build": 2021,
-    "survival": 7424,
+    "survival": 7425,
     "pvp": 9685,
     "dupe": 2727,
     "tools": 2268,
