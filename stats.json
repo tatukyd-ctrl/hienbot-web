@@ -1,16 +1,16 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:49:21 22/1/2026",
-  "totalKits": 38,
-  "todayKits": 38,
-  "onlineCount": 37,
+  "lastUpdated": "23:49:34 22/1/2026",
+  "totalKits": 39,
+  "todayKits": 39,
+  "onlineCount": 36,
   "peakPlayers": 40,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 234,
   "topUsers": [
     {
       "name": "fytasx",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Super_jj9000",
@@ -51,16 +51,16 @@
   ],
   "topKits": [
     {
+      "name": "build",
+      "count": 5
+    },
+    {
       "name": "dupe",
       "count": 5
     },
     {
       "name": "redstone",
       "count": 5
-    },
-    {
-      "name": "build",
-      "count": 4
     },
     {
       "name": "stash",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:48] <TulagrandBot> >Whant something? Try @kit! ",
-    "[16:48] [8b8t] >> You have killed yourself!",
-    "[16:48] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[16:48] <fytasx> @kit xd ",
-    "[16:48] [8b8t] >> Teleporting to home 0...",
-    "[16:48] [8b8t] >> Teleporting to home 3...",
-    "[16:48] To fytasx: Kit \"xd\" not found! Giving you (wood) instead! dsc.gg/hienbot",
-    "[16:48] To fytasx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:48] [8b8t] >> Request sent to fytasx",
     "[16:48] [8b8t] >> Teleporting...",
     "[16:48] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +93,15 @@
     "[16:49] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[16:49] [8b8t] >> Request sent to Super_jj9000",
     "[16:49] [8b8t] >> Teleporting...",
-    "[16:49] <TulagrandBot> >Building a base? Try @kit build "
+    "[16:49] <TulagrandBot> >Building a base? Try @kit build ",
+    "[16:49] [8b8t] >> You have killed yourself!",
+    "[16:49] <fytasx> @kit build ",
+    "[16:49] [8b8t] >> Teleporting to home 0...",
+    "[16:49] [8b8t] >> Home 2 was not found",
+    "[16:49] To fytasx: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:49] To fytasx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:49] [8b8t] >> Request sent to fytasx",
+    "[16:49] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 4,
@@ -112,7 +112,7 @@
     "ICommitFraud_": 4,
     "Boolyymon": 3,
     "dragonkit": 1,
-    "fytasx": 9,
+    "fytasx": 10,
     "ASXN": 2,
     "itz_ju4n": 2,
     "Gintars": 1,
@@ -120,7 +120,7 @@
     "yra112": 1
   },
   "kitStats": {
-    "build": 4,
+    "build": 5,
     "raid": 2,
     "stash": 3,
     "wood": 2,
