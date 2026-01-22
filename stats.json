@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:11:03 22/1/2026",
+  "lastUpdated": "20:11:33 22/1/2026",
   "totalKits": 92245,
   "todayKits": 222,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 50,
-  "tps": "6.0",
+  "tps": "2.0",
   "ping": 286,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9688
+      "count": 9689
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:08] ",
-    "[13:08]   [Confirm read]",
-    "[13:08] ",
-    "[13:08] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[13:08] [8b8t] >> You have killed yourself!",
-    "[13:08] You are already connected to this server!",
-    "[13:08] orioluh has made the advancement [Not Quite \"Nine\" Lives]",
-    "[13:08] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[13:08] orioluh has completed the challenge [Cover Me in Debris]",
-    "[13:09] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[13:09] [Ultra] <Kurtz> test ",
     "[13:09] <TulagrandBot> >Hola ArnabHa ",
     "[13:09] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +91,17 @@
     "[13:10] [8b8t] >> You have killed yourself!",
     "[13:10] [8b8t] >> You have killed yourself!",
     "[13:10] You are already connected to this server!",
-    "[13:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[13:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:11] <TulagrandBot> >Try /kill to kill yourself ",
+    "[13:11] <botchaosonix> lag ",
+    "[13:11] [8b8t] >> Please do not spam.",
+    "[13:11] orioluh has made the advancement [Stone Age]",
+    "[13:11] <Listening> !kit pvp ",
+    "[13:11] [8b8t] >> Teleporting to home 0...",
+    "[13:11] [8b8t] >> Teleporting to home 1...",
+    "[13:11] To Listening: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:11] To Listening: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:11] [8b8t] >> Request sent to Listening"
   ],
   "userStats": {
     "76756": 38,
@@ -3896,12 +3896,12 @@
     ".Antonizk7139": 1,
     "ELTIERRA_001": 1,
     "Nat_frrrr": 5,
-    "Listening": 1
+    "Listening": 2
   },
   "kitStats": {
     "build": 2022,
     "survival": 7428,
-    "pvp": 9688,
+    "pvp": 9689,
     "dupe": 2729,
     "tools": 2269,
     "stash": 1368,
