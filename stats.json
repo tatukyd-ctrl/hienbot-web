@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:46:33 22/1/2026",
+  "lastUpdated": "09:47:03 22/1/2026",
   "totalKits": 92073,
   "todayKits": 50,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "2.0",
-  "ping": 213,
+  "tps": "1.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7391
+      "count": 7392
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:44] [8b8t] >> Teleporting to home 0...",
-    "[02:44] [8b8t] >> Teleporting to home 6...",
-    "[02:44] To xxXEN0xx_: Kit \"build2\" not found! Giving you (highway) instead! dsc.gg/hienbot",
-    "[02:44] To xxXEN0xx_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:44] [8b8t] >> Request sent to xxXEN0xx_",
-    "[02:44] <TulagrandBot> >Tulagrande on top! ",
-    "[02:44] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[02:44] <peneflex> >estoy en spawn rn ",
-    "[02:44] SlowingSleet176 has made the advancement [We Need to Go Deeper]",
     "[02:44] <peneflex> >dejen salgo ",
     "[02:44] <peneflex> >Ples ",
     "[02:45] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[02:45] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[02:46] [BOT] <0_HienBot> >Type !discord ",
     "[02:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:46] <TulagrandBot> >Try @ping to get your ping "
+    "[02:46] <TulagrandBot> >Try @ping to get your ping ",
+    "[02:46] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[02:46] [Pro+] <lvashl> !kit Survival ",
+    "[02:46] [8b8t] >> Teleporting to home 0...",
+    "[02:46] [8b8t] >> Teleporting to home 1...",
+    "[02:46] <TulagrandBot> >Building a base? Try @kit build1 ",
+    "[02:46] To lvashl: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:46] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[02:46] To lvashl: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:46] [8b8t] >> Request sent to lvashl"
   ],
   "userStats": {
     "76756": 38,
@@ -2355,7 +2355,7 @@
     "kobhere": 3,
     "TheOverlord451": 1,
     "j122": 14,
-    "lvashl": 110,
+    "lvashl": 111,
     "joshfrom1984_314": 9,
     "MBKBOZKURT90": 38,
     "miniconquest": 4,
@@ -3876,7 +3876,7 @@
   },
   "kitStats": {
     "build": 2009,
-    "survival": 7391,
+    "survival": 7392,
     "pvp": 9651,
     "dupe": 2708,
     "tools": 2248,
