@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:14:03 22/1/2026",
-  "totalKits": 92182,
-  "todayKits": 159,
+  "lastUpdated": "15:14:27 22/1/2026",
+  "totalKits": 92183,
+  "todayKits": 160,
   "onlineCount": 20,
   "peakPlayers": 50,
-  "tps": "7.0",
-  "ping": 213,
+  "tps": "9.0",
+  "ping": 220,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7411
+      "count": 7412
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:10] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[08:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[08:11] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[08:11] <TulagrandBot> >Building a base? Try @kit build2 ",
-    "[08:11] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[08:11] <ianfaku> !kit ",
-    "[08:11] To ianfaku: Hello ianfaku!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[08:12] <ianfaku> !kit survival ",
-    "[08:12] [8b8t] >> Teleporting to home 0...",
     "[08:12] [8b8t] >> Teleporting to home 1...",
     "[08:12] To ianfaku: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:12] To ianfaku: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +92,16 @@
     "[08:13] ianfaku has made the advancement [Ice Bucket Challenge]",
     "[08:13] <TulagrandBot> >Try /kill to kill yourself ",
     "[08:13] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[08:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[08:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[08:14] <Gulper> !kit Survival ",
+    "[08:14] [8b8t] >> Teleporting to home 0...",
+    "[08:14] [8b8t] >> Teleporting to home 1...",
+    "[08:14] To Gulper: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:14] <TulagrandBot> >Building a base? Try @kit build ",
+    "[08:14] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
+    "[08:14] To Gulper: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:14] [8b8t] >> Request sent to Gulper",
+    "[08:14] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "76756": 38,
@@ -3886,11 +3886,12 @@
     "CasComw": 1,
     "VINCIBOY_Vinci": 4,
     ".SiC1AoR": 1,
-    "ianfaku": 1
+    "ianfaku": 1,
+    "Gulper": 1
   },
   "kitStats": {
     "build": 2019,
-    "survival": 7411,
+    "survival": 7412,
     "pvp": 9671,
     "dupe": 2719,
     "tools": 2258,
