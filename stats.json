@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:06:33 22/1/2026",
+  "lastUpdated": "22:07:03 22/1/2026",
   "totalKits": 92291,
   "todayKits": 268,
-  "onlineCount": 35,
+  "onlineCount": 38,
   "peakPlayers": 50,
-  "tps": "5.0",
-  "ping": 297,
+  "tps": "4.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 2023
+      "count": 2024
     }
   ],
   "chatLog": [
-    "[15:05] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:05] [8b8t] >> Teleporting...",
-    "[15:05] <Red_Fragment_> trading anything for swift sneak 3 book /msg me | hhuere97r64r8edgk ",
-    "[15:05] [8b8t] >> You have killed yourself!",
-    "[15:05] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[15:05] <seim> !kit ",
-    "[15:05] To seim: Hello seim!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:05] <TulagrandBot> >Tulagrande on top! ",
-    "[15:05] <seim> !kit stash ",
     "[15:05] [8b8t] >> Teleporting to home 0...",
     "[15:05] [8b8t] >> Home 2 was not found",
     "[15:05] To seim: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[15:06] [8b8t] >> Teleporting...",
     "[15:06] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[15:06] [8b8t] >> You have killed yourself!",
-    "[15:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[15:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[15:06] <TulagrandBot> >Try @list to get list of players ",
+    "[15:06] [BOT] <0_HienBot> >Type !discord ",
+    "[15:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:06] <seim> !kit build ",
+    "[15:06] [8b8t] >> Teleporting to home 0...",
+    "[15:06] [8b8t] >> Home 2 was not found",
+    "[15:06] To seim: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:06] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:07] [8b8t] >> Request sent to seim"
   ],
   "userStats": {
     "76756": 38,
@@ -506,7 +506,7 @@
     "itzanty": 1,
     "abelino_pepino": 2,
     "fox_gam1": 1,
-    "seim": 48,
+    "seim": 49,
     "caseoh3": 5,
     "crack1226": 1,
     "xXCasterXx": 2,
@@ -3906,7 +3906,7 @@
     "chashja": 1
   },
   "kitStats": {
-    "build": 2023,
+    "build": 2024,
     "survival": 7437,
     "pvp": 9699,
     "dupe": 2736,
