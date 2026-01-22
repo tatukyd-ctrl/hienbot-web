@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:48:33 22/1/2026",
+  "lastUpdated": "07:49:03 22/1/2026",
   "totalKits": 92039,
   "todayKits": 16,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 50,
-  "tps": "2.0",
-  "ping": 270,
+  "tps": "3.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9637
+      "count": 9638
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:47] [8b8t] >> You have killed yourself!",
-    "[00:47] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[00:47] <TulagrandBot> >Tulagrande on top! ",
-    "[00:47] <rniloAM> quien regala un kit ",
-    "[00:47] verusxd22 has made the advancement [We Need to Go Deeper]",
-    "[00:47] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[00:47] Chris_123459 has made the advancement [We Need to Go Deeper]",
-    "[00:47] <TulagrandBot> >Building a base? Try @kit build2 ",
     "[00:47] <rniloAM> ¡kit ",
     "[00:48] [Pro+] <lvashl> ! ",
     "[00:48] <Xx_chamorro_xX> @kit build2 ",
@@ -101,7 +93,15 @@
     "[00:48] <rniloAM> !kit Survival ",
     "[00:48] To rniloAM: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[00:48] [8b8t] >> You have killed yourself!",
-    "[00:48] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[00:48] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[00:48] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
+    "[00:48] <sebasfut29> quien pvp ",
+    "[00:48] <rniloAM> !kit pvp ",
+    "[00:48] [8b8t] >> Teleporting to home 0...",
+    "[00:48] [8b8t] >> Teleporting to home 1...",
+    "[00:48] To rniloAM: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:49] To rniloAM: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:49] <TulagrandBot> >How are you Cachew? "
   ],
   "userStats": {
     "76756": 38,
@@ -3866,12 +3866,13 @@
     ".BESTPLAYER7769": 1,
     "verusxd22": 4,
     "Berpi4345": 3,
-    "Chris_123459": 1
+    "Chris_123459": 1,
+    "rniloAM": 1
   },
   "kitStats": {
     "build": 2006,
     "survival": 7387,
-    "pvp": 9637,
+    "pvp": 9638,
     "dupe": 2707,
     "tools": 2247,
     "stash": 1353,
