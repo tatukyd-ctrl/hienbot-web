@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:08:03 22/1/2026",
-  "totalKits": 92263,
-  "todayKits": 240,
-  "onlineCount": 27,
+  "lastUpdated": "21:08:21 22/1/2026",
+  "totalKits": 92264,
+  "todayKits": 241,
+  "onlineCount": 28,
   "peakPlayers": 50,
-  "tps": "3.0",
-  "ping": 10904,
+  "tps": "7.0",
+  "ping": 220,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 2272
+      "count": 2273
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:06] <TulagrandBot> >Tulagrande on top! ",
-    "[14:06] You were kicked from 8b8t: Timed out",
-    "[14:06] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[14:06] [8b8t] >> Welcome iTrisstan to 8b8t.me Lobby",
-    "[14:06] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ",
-    "[14:06] [8b8t] Unknown command do /help",
-    "[14:06] [8b8t] Unknown command do /help",
-    "[14:06] [8b8t] Unknown command do /help",
     "[14:06] [8b8t] Unknown command do /help",
     "[14:06] [8b8t] Unknown command do /help",
     "[14:06] You are already trying to connect to a server!",
@@ -101,7 +92,16 @@
     "[14:07] <TulagrandBot> >Try @tps to get server's tps ",
     "[14:07] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[14:07] <seim> @tps ",
-    "[14:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[14:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[14:08] <seim> !kit tools ",
+    "[14:08] [8b8t] >> Teleporting to home 0...",
+    "[14:08] [8b8t] >> Teleporting to home 7...",
+    "[14:08] To seim: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:08] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:08] [8b8t] >> Request sent to seim",
+    "[14:08] <TulagrandBot> >Whant something? Try @kit! ",
+    "[14:08] [8b8t] >> Teleporting...",
+    "[14:08] [BOT] <0_HienBot> >Sub to Hien2309 in youtube "
   ],
   "userStats": {
     "76756": 38,
@@ -506,7 +506,7 @@
     "itzanty": 1,
     "abelino_pepino": 2,
     "fox_gam1": 1,
-    "seim": 40,
+    "seim": 41,
     "caseoh3": 5,
     "crack1226": 1,
     "xXCasterXx": 2,
@@ -3907,7 +3907,7 @@
     "survival": 7435,
     "pvp": 9693,
     "dupe": 2732,
-    "tools": 2272,
+    "tools": 2273,
     "stash": 1368,
     "raid": 1598,
     "wood": 630,
