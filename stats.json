@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:05:33 22/1/2026",
+  "lastUpdated": "17:06:03 22/1/2026",
   "totalKits": 92194,
   "todayKits": 171,
   "onlineCount": 18,
   "peakPlayers": 50,
-  "tps": "7.0",
-  "ping": 214,
+  "tps": "6.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9672
+      "count": 9673
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:01] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[10:01] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[10:01] [8b8t] >> You have killed yourself!",
-    "[10:01] [8b8t] >> The TPA request you sent to Najadlaug was successfully canceled.",
-    "[10:01] <Najadlaug> !kit dupe ",
-    "[10:01] To Najadlaug: You're on cooldown, try again in 52 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:01] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[10:02] <TulagrandBot> >Want kit? Try @kit ",
     "[10:02] [BOT] <0_HienBot> >Type !discord ",
@@ -101,7 +94,14 @@
     "[10:04] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[10:04] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:04] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[10:05] [BOT] <0_HienBot> >Type !кιт  to get free kits "
+    "[10:05] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
+    "[10:05] <Florisvdw1> !kit pvp ",
+    "[10:05] [8b8t] >> Teleporting to home 0...",
+    "[10:05] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[10:05] [8b8t] >> Teleporting to home 1...",
+    "[10:05] To Florisvdw1: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:06] To Florisvdw1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:06] [8b8t] >> Request sent to Florisvdw1"
   ],
   "userStats": {
     "76756": 38,
@@ -3357,7 +3357,7 @@
     "fatpurpleybooger": 16,
     "zZjammieZz": 9,
     "lowkeyjustanoob": 1,
-    "Florisvdw1": 2,
+    "Florisvdw1": 3,
     "AtlasB0T": 1,
     "Leonard": 2,
     "GartenzwergGnom": 3,
@@ -3893,7 +3893,7 @@
   "kitStats": {
     "build": 2020,
     "survival": 7416,
-    "pvp": 9672,
+    "pvp": 9673,
     "dupe": 2722,
     "tools": 2258,
     "stash": 1365,
