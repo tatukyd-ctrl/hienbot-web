@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:10:33 22/1/2026",
+  "lastUpdated": "09:11:03 22/1/2026",
   "totalKits": 92065,
   "todayKits": 42,
-  "onlineCount": 25,
+  "onlineCount": 24,
   "peakPlayers": 50,
-  "tps": "7.0",
-  "ping": 252,
+  "tps": "3.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:06] [8b8t] >> Teleporting...",
-    "[02:06] <TulagrandBot> >Want kit? Try @kit ",
-    "[02:06] [8b8t] >> You have killed yourself!",
-    "[02:06] <facutoto> gracias ",
-    "[02:06] [Pro+] <lvashl> aceptas el tp del bot y te dropeara el kit cuando este muera ",
-    "[02:06] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[02:06] [Pro+] <lvashl> denada ",
-    "[02:07] <TulagrandBot> >Building a base? Try @kit build1 ",
     "[02:07] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[02:07] [BOT] <0_HienBot> >Type !discord ",
     "[02:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -101,7 +93,15 @@
     "[02:10] <TulagrandBot> >Try @seed to get 8b8t's seed ",
     "[02:10] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[02:10] <Quasaredix> @kit ",
-    "[02:10] To Quasaredix: Hello Quasaredix!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[02:10] To Quasaredix: Hello Quasaredix!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:10] <TulagrandBot> >Building a base? Try @kit build2 ",
+    "[02:10] [8b8t] >> Please do not spam.",
+    "[02:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[02:10] <Quasaredix> !kit shulker ",
+    "[02:10] [8b8t] >> Teleporting to home 0...",
+    "[02:10] [8b8t] >> Teleporting to home 6...",
+    "[02:10] To Quasaredix: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:11] To Quasaredix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "76756": 38,
@@ -3871,7 +3871,8 @@
     "Maxzitooo": 1,
     ".CapacityWeb8654": 1,
     "nosoyelrompe": 2,
-    "Cry": 1
+    "Cry": 1,
+    "Quasaredix": 1
   },
   "kitStats": {
     "build": 2008,
@@ -3890,7 +3891,7 @@
     "redstone": 970,
     "toolbox": 892,
     "quartz": 422,
-    "shulker": 714,
+    "shulker": 715,
     "terracotta": 161,
     "end": 809,
     "armortrims": 697,
