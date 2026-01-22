@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:35:21 22/1/2026",
+  "lastUpdated": "23:35:39 22/1/2026",
   "totalKits": 20,
   "todayKits": 20,
   "onlineCount": 36,
   "peakPlayers": 40,
-  "tps": "6.0",
-  "ping": 366,
+  "tps": "4.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "espinos",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:33] [8b8t] >> Home 2 was not found",
-    "[16:33] To espinos: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:33] To espinos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:33] <TulagrandBot> >Try @list to get list of players ",
-    "[16:33] [8b8t] >> Request sent to espinos",
-    "[16:33] [8b8t] >> Teleporting...",
-    "[16:33] [8b8t] >> You have killed yourself!",
-    "[16:33] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[16:33] TuViejx has made the advancement [Monster Hunter]",
-    "[16:34] <itz_ju4n> SERVET TODO MUERTO XD ",
     "[16:34] <TulagrandBot> >Try @ping to get your ping ",
     "[16:34] [8b8t] >> Please do not spam.",
     "[16:34] <itz_ju4n> !kit ",
@@ -101,7 +91,17 @@
     "[16:35] [8b8t] >> Teleporting...",
     "[16:35] <fytasx> !kit escape ",
     "[16:35] To fytasx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:35] <TulagrandBot> >Want kit? Try @kit "
+    "[16:35] <TulagrandBot> >Want kit? Try @kit ",
+    "[16:35] [8b8t] >> You have killed yourself!",
+    "[16:35] <itz_ju4n> !kit escape ",
+    "[16:35] [8b8t] >> Teleporting to home 0...",
+    "[16:35] [8b8t] >> Teleporting to home 6...",
+    "[16:35] To itz_ju4n: Kit \"escape\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
+    "[16:35] To itz_ju4n: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:35] <fytasx> @kit escape ",
+    "[16:35] To fytasx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:35] [8b8t] >> Request sent to itz_ju4n",
+    "[16:35] ianis13 has made the advancement [Not Quite \"Nine\" Lives]"
   ],
   "userStats": {
     "dylans117877601": 3,
@@ -113,7 +113,8 @@
     "Boolyymon": 3,
     "dragonkit": 1,
     "fytasx": 2,
-    "ASXN": 2
+    "ASXN": 2,
+    "itz_ju4n": 1
   },
   "kitStats": {
     "build": 3,
@@ -128,6 +129,7 @@
     "gterracotta": 1,
     "redstone": 2,
     "mineral": 3,
-    "exp": 1
+    "exp": 1,
+    "ocean": 1
   }
 }
