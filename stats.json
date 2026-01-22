@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:24:03 22/1/2026",
+  "lastUpdated": "08:24:33 22/1/2026",
   "totalKits": 92056,
   "todayKits": 33,
   "onlineCount": 32,
   "peakPlayers": 50,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 210,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:20] [8b8t] >> Teleporting...",
-    "[01:20] [8b8t] >> You have killed yourself!",
-    "[01:20] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[01:21] nosoyelrompe has completed the challenge [Cover Me in Debris]",
-    "[01:21] verusxd22 has completed the challenge [Serious Dedication]",
-    "[01:21] nosoyelrompe has made the advancement [Ice Bucket Challenge]",
     "[01:21] [BOT] <0_HienBot> >Try !кιт survival ",
     "[01:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:21] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
@@ -101,7 +95,13 @@
     "[01:23] TulagrandBot Whispers: Want some kits for free? ->>> discord.gg/XWBkeQGNpt",
     "[01:23] [8b8t] >> You have killed yourself!",
     "[01:23] [8b8t] >> The TPA request you sent to nosoyelrompe was successfully canceled.",
-    "[01:24] <TulagrandBot> >Building a castle? Try @kit bricks "
+    "[01:24] <TulagrandBot> >Building a castle? Try @kit bricks ",
+    "[01:24] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[01:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[01:24] <Cry> @kit bricks ",
+    "[01:24] [8b8t] >> Teleporting to home 0...",
+    "[01:24] [8b8t] >> Teleporting to home 5...",
+    "[01:24] To Cry: Your kit (bricks) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3870,7 +3870,8 @@
     "rniloAM": 7,
     "Maxzitooo": 1,
     ".CapacityWeb8654": 1,
-    "nosoyelrompe": 2
+    "nosoyelrompe": 2,
+    "Cry": 1
   },
   "kitStats": {
     "build": 2008,
@@ -3891,7 +3892,7 @@
     "quartz": 422,
     "shulker": 714,
     "terracotta": 161,
-    "end": 808,
+    "end": 809,
     "armortrims": 697,
     "highway": 673,
     "ocean": 207,
