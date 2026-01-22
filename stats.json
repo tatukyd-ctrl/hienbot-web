@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:55:03 22/1/2026",
+  "lastUpdated": "20:55:33 22/1/2026",
   "totalKits": 92255,
   "todayKits": 232,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 50,
-  "tps": "0.0",
-  "ping": 651,
+  "tps": "1.0",
+  "ping": 18046,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9692
+      "count": 9693
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:51] <TulagrandBot> >Hello, botchaosonix666 ",
-    "[13:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[13:51] <botchaosonix666> hi ",
-    "[13:51] <ScreaM8989> ? ",
-    "[13:51] [8b8t] >> You have killed yourself!",
-    "[13:51] [8b8t] >> The TPA request you sent to seim was successfully canceled.",
     "[13:52] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[13:52] <seim> !kits ",
     "[13:52] <sudorDEgorda> debo estar a 20k de bl0okes ",
@@ -101,7 +95,13 @@
     "[13:53] [BOT] <0_HienBot> >Try !кιт survival ",
     "[13:54] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[13:54] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[13:54] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
+    "[13:54] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[13:55] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[13:55] <DrNowdy> !kit pvp ",
+    "[13:55] <TulagrandBot> >Hola Kurtz ",
+    "[13:55] [8b8t] >> Teleporting to home 0...",
+    "[13:55] [8b8t] >> Teleporting to home 1...",
+    "[13:55] To DrNowdy: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "76756": 38,
@@ -3899,12 +3899,13 @@
     "Listening": 4,
     "Wemmbn": 1,
     "ArnabHa": 1,
-    "Aaz_Da_": 1
+    "Aaz_Da_": 1,
+    "DrNowdy": 1
   },
   "kitStats": {
     "build": 2022,
     "survival": 7430,
-    "pvp": 9692,
+    "pvp": 9693,
     "dupe": 2732,
     "tools": 2269,
     "stash": 1368,
