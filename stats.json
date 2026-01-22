@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:54:33 22/1/2026",
-  "totalKits": 92230,
-  "todayKits": 207,
-  "onlineCount": 23,
+  "lastUpdated": "18:55:03 22/1/2026",
+  "totalKits": 92231,
+  "todayKits": 208,
+  "onlineCount": 24,
   "peakPlayers": 50,
-  "tps": "1.0",
-  "ping": 0,
+  "tps": "5.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9684
+      "count": 9685
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:52] To martince22: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:52] To martince22: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:52] [8b8t] >> Request sent to martince22",
-    "[11:52] <alihamzakutlu125> kit vercek varmı ",
-    "[11:52] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[11:52] <TulagrandBot> >Try @list to get list of players ",
-    "[11:53] [8b8t] >> Teleporting...",
-    "[11:53] [BOT] <0_HienBot> >Hey Leee! ",
-    "[11:53] [8b8t] >> You have killed yourself!",
-    "[11:53] <stuck_alt> !kit ",
     "[11:53] To stuck_alt: Hello stuck_alt!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[11:53] <TulagrandBot> >Try @ping to get your ping ",
     "[11:53] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
@@ -101,7 +91,17 @@
     "[11:54] [8b8t] Unknown command do /help",
     "[11:54] You are already trying to connect to a server!",
     "[11:54] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[11:54] You are already connected to this server!"
+    "[11:54] You are already connected to this server!",
+    "[11:54] [8b8t] >> You have killed yourself!",
+    "[11:54] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[11:54] <oreo_> @kit pvp ",
+    "[11:54] [8b8t] >> Teleporting to home 0...",
+    "[11:54] [8b8t] >> Teleporting to home 1...",
+    "[11:54] To oreo_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:54] To oreo_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:54] [8b8t] >> Request sent to oreo_",
+    "[11:55] [8b8t] >> Teleporting...",
+    "[11:55] [BOT] <0_HienBot> >Hello Aeriak64HD! "
   ],
   "userStats": {
     "76756": 38,
@@ -712,7 +712,7 @@
     "ggdggar": 2,
     "xD_FAIZAN": 4,
     "Bossnigel": 1,
-    "oreo_": 71,
+    "oreo_": 72,
     "BakiVN_Mc": 5,
     "Nion34": 2,
     "hzkar": 2,
@@ -3898,7 +3898,7 @@
   "kitStats": {
     "build": 2021,
     "survival": 7424,
-    "pvp": 9684,
+    "pvp": 9685,
     "dupe": 2725,
     "tools": 2268,
     "stash": 1367,
