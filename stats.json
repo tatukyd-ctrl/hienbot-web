@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:54:33 22/1/2026",
+  "lastUpdated": "17:55:03 22/1/2026",
   "totalKits": 92206,
   "todayKits": 183,
-  "onlineCount": 20,
+  "onlineCount": 19,
   "peakPlayers": 50,
-  "tps": "6.0",
-  "ping": 214,
+  "tps": "2.0",
+  "ping": 230,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9676
+      "count": 9677
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:50] <botchaosonix> pvp? ",
-    "[10:51] <TulagrandBot> >Try /nc to change your nick color ",
     "[10:51] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[10:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[10:51] <TulagrandBot> > TULAGRANDE 1.6! ",
@@ -101,7 +99,9 @@
     "[10:53] <AgonHacck> tpa fpr pvp ",
     "[10:54] <TulagrandBot> >Try /kill to kill yourself ",
     "[10:54] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[10:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[10:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[10:54] <TulagrandBot> >Building a base? Try @kit build1 ",
+    "[10:54] <AgonHacck> @kit pvp "
   ],
   "userStats": {
     "76756": 38,
@@ -1745,7 +1745,7 @@
     "sonic228765": 3,
     "LordVoidMC": 31,
     "lolbonnie": 2,
-    "AgonHacck": 19,
+    "AgonHacck": 20,
     "xXVo1taikxX": 4,
     "MattysStuff": 3,
     "LifelesssheepYT": 8,
@@ -3895,7 +3895,7 @@
   "kitStats": {
     "build": 2020,
     "survival": 7419,
-    "pvp": 9676,
+    "pvp": 9677,
     "dupe": 2723,
     "tools": 2262,
     "stash": 1365,
