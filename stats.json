@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:08:23 22/1/2026",
+  "lastUpdated": "12:08:33 22/1/2026",
   "totalKits": 92148,
   "todayKits": 125,
   "onlineCount": 30,
   "peakPlayers": 50,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 347,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:07] <Nataxixx> !kit survival ",
-    "[05:07] To Nataxixx: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:07] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[05:07] <TulagrandBot> >How are you asd412txr5? ",
-    "[05:07] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[05:07] <alonsoalvape7> !kit redstone ",
     "[05:07] [8b8t] >> Teleporting to home 0...",
     "[05:07] [8b8t] >> Home 2 was not found",
     "[05:07] To alonsoalvape7: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[05:08] <Matisito> !kit caca ",
     "[05:08] To Matisito: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:08] <Elrompepelotas> !kit ",
-    "[05:08] To Elrompepelotas: Hola Elrompepelotas!! Usa !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[05:08] To Elrompepelotas: Hola Elrompepelotas!! Usa !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Food, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:08] [8b8t] >> You have killed yourself!",
+    "[05:08] <Elrompepelotas> !kit mineral ",
+    "[05:08] [8b8t] >> Teleporting to home 0...",
+    "[05:08] [8b8t] >> Teleporting to home 3...",
+    "[05:08] To Elrompepelotas: Tu kit (mineral) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[05:08] Nataxixx has completed the challenge [Cover Me in Debris]"
   ],
   "userStats": {
     "76756": 38,
@@ -3805,7 +3805,7 @@
     "lelolputos": 2,
     "facumario": 4,
     "20_cm": 1,
-    "Elrompepelotas": 23,
+    "Elrompepelotas": 24,
     "Matisito": 19,
     "Xx_chamorro_xX": 41,
     "VRZ8": 12,
@@ -3892,7 +3892,7 @@
     "exp": 936,
     "dye": 380,
     "wool": 602,
-    "mineral": 609,
+    "mineral": 610,
     "food": 606,
     "redstone": 971,
     "toolbox": 896,
