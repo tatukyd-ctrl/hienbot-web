@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:06:03 22/1/2026",
-  "totalKits": 92144,
-  "todayKits": 121,
+  "lastUpdated": "12:06:19 22/1/2026",
+  "totalKits": 92145,
+  "todayKits": 122,
   "onlineCount": 32,
   "peakPlayers": 50,
   "tps": "3.0",
-  "ping": 218,
+  "ping": 235,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7395
+      "count": 7396
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:04] [8b8t] >> You have killed yourself!",
-    "[05:04] [8b8t] >> The TPA request you sent to alonsoalvape7 was successfully canceled.",
-    "[05:04] <alonsoalvape7> !kit dupe ",
-    "[05:04] To alonsoalvape7: You're on cooldown, try again in 53 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:04] <TulagrandBot> >Try @kit to get kit ",
-    "[05:04] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[05:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:04] <Nataxixx> !kit mace ",
-    "[05:04] [8b8t] >> Teleporting to home 0...",
-    "[05:05] [8b8t] >> Teleporting to home 7...",
     "[05:05] To Nataxixx: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:05] <Elrompepelotas> 0_HienBot ",
     "[05:05] To Nataxixx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +91,17 @@
     "[05:05] [8b8t] >> Teleporting...",
     "[05:06] <Elrompepelotas> !kit survival ",
     "[05:06] To Elrompepelotas: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
-    "[05:06] <alonsoalvape7> !kit dupe "
+    "[05:06] <alonsoalvape7> !kit dupe ",
+    "[05:06] To alonsoalvape7: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:06] [8b8t] >> You have killed yourself!",
+    "[05:06] <Nataxixx> !kit survival ",
+    "[05:06] [8b8t] >> Teleporting to home 0...",
+    "[05:06] [8b8t] >> Teleporting to home 1...",
+    "[05:06] To Nataxixx: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:06] To Nataxixx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:06] [8b8t] >> Request sent to Nataxixx",
+    "[05:06] [8b8t] >> Teleporting...",
+    "[05:06] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "76756": 38,
@@ -3878,11 +3878,11 @@
     "Aleeq": 4,
     "alonsoalvape7": 20,
     "kingston716333": 2,
-    "Nataxixx": 1
+    "Nataxixx": 2
   },
   "kitStats": {
     "build": 2018,
-    "survival": 7395,
+    "survival": 7396,
     "pvp": 9661,
     "dupe": 2716,
     "tools": 2256,
