@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:56:45 22/1/2026",
+  "lastUpdated": "22:57:15 22/1/2026",
   "totalKits": 92312,
   "todayKits": 19,
   "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "2.0",
+  "tps": "7.0",
   "ping": 228,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7441
+      "count": 7442
     },
     {
       "name": "dupe",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:53] <dylans117877601> !kit Raid ",
-    "[15:53] [8b8t] >> Teleporting to home 0...",
     "[15:53] [8b8t] >> Home 2 was not found",
     "[15:53] To dylans117877601: Your kit (Raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:53] TulagrandBot Whispers: Join TULAGRANDE, a clan like no one you have seen before.",
@@ -101,7 +99,9 @@
     "[15:56] [8b8t] >> Request sent to liviaaaaaaa",
     "[15:56] [8b8t] >> Teleporting...",
     "[15:56] <TulagrandBot> >Hello, amberChimp ",
-    "[15:56] [8b8t] >> You have killed yourself!"
+    "[15:56] [8b8t] >> You have killed yourself!",
+    "[15:56] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[15:57] <liviaaaaaaa> !kit survival "
   ],
   "userStats": {
     "76756": 38,
@@ -3576,7 +3576,7 @@
     "Wemmbu_fannn": 49,
     "E7KwasTaken": 21,
     "iamsuckkkk": 3,
-    "liviaaaaaaa": 43,
+    "liviaaaaaaa": 44,
     "BADDREAM": 1,
     "angelina12": 1,
     "kyngz_on_java": 8,
@@ -3908,7 +3908,7 @@
   },
   "kitStats": {
     "build": 2028,
-    "survival": 7441,
+    "survival": 7442,
     "pvp": 9703,
     "dupe": 2738,
     "tools": 2274,
