@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:25:03 22/1/2026",
+  "lastUpdated": "15:25:33 22/1/2026",
   "totalKits": 92184,
   "todayKits": 161,
   "onlineCount": 17,
   "peakPlayers": 50,
-  "tps": "9.0",
-  "ping": 210,
+  "tps": "10.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -22,7 +22,7 @@
     },
     {
       "name": "DeadlyNyxian",
-      "count": 212
+      "count": 213
     },
     {
       "name": "botchaosonix666",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 7412
+      "count": 7413
     },
     {
       "name": "dupe",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:21] To .Jkbra1127: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:21] To .Jkbra1127: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:21] [8b8t] >> Request sent to .Jkbra1127",
-    "[08:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[08:21] [8b8t] >> Teleporting...",
     "[08:21] [8b8t] >> You have killed yourself!",
     "[08:21] Gulper has made the advancement [Ol' Betsy]",
@@ -101,7 +97,11 @@
     "[08:24] [8b8t] >> The TPA request you sent to DeadlyNyxian was successfully canceled.",
     "[08:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[08:24] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[08:24] <TulagrandBot> >Try /kill to kill yourself "
+    "[08:24] <TulagrandBot> >Try /kill to kill yourself ",
+    "[08:25] [BOT] <0_HienBot> >Welcome to 8b8t, DeadlyNyxian! ",
+    "[08:25] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[08:25] <DeadlyNyxian> !kit survival ",
+    "[08:25] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "76756": 38,
@@ -1011,7 +1011,7 @@
     "man_altt07": 1,
     "zzxgp_ThIGS": 1,
     "vexynox": 1,
-    "DeadlyNyxian": 212,
+    "DeadlyNyxian": 213,
     "Leucosyts": 3,
     ".SPYDER2091": 1,
     "frogwavesz": 3,
@@ -3891,7 +3891,7 @@
   },
   "kitStats": {
     "build": 2020,
-    "survival": 7412,
+    "survival": 7413,
     "pvp": 9671,
     "dupe": 2720,
     "tools": 2258,
