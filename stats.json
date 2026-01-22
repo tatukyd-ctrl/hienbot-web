@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:42:39 23/1/2026",
+  "lastUpdated": "04:43:09 23/1/2026",
   "totalKits": 252,
   "todayKits": 252,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 52,
-  "tps": "4.0",
-  "ping": 227,
+  "tps": "1.0",
+  "ping": 240,
   "topUsers": [
     {
       "name": "Super_jj9000",
@@ -67,20 +67,11 @@
       "count": 21
     },
     {
-      "name": "dupe",
+      "name": "build",
       "count": 18
     }
   ],
   "chatLog": [
-    "[21:39] <Victorium_15> espera ",
-    "[21:39] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[21:39] <Victorium_15> veo un portal ",
-    "[21:39] <TulagrandBot> >How are you Super_jj9000? ",
-    "[21:39] [Ultra] <MrBeax31> q vergas estas haciendo elwuper ",
-    "[21:40] <Victorium_15> voy para alla ",
-    "[21:40] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[21:40] <TulagrandBot> >Try @tps to get server's tps ",
-    "[21:40] <.Dark_Dbx24> cambio totems por tnt ",
     "[21:40] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[21:40] <Victorium_15> NO PUEDO ",
     "[21:40] <Victorium_15> HAY DEMASAIDO LAG ",
@@ -101,7 +92,16 @@
     "[21:42] <.Dark_Dbx24> !kit ",
     "[21:42] To .Dark_Dbx24: Hello .Dark_Dbx24!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[21:42] <Victorium_15> 2495 65 -1420 ",
-    "[21:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[21:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[21:42] <.Dark_Dbx24> !kit build ",
+    "[21:42] [8b8t] >> Teleporting to home 0...",
+    "[21:42] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[21:42] [8b8t] >> Home 2 was not found",
+    "[21:42] To .Dark_Dbx24: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:42] To .Dark_Dbx24: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:42] [8b8t] >> Request sent to .Dark_Dbx24",
+    "[21:42] <Victorium_15> 2495 65 -1420 ",
+    "[21:42] elmataservers has reached the goal [Postmortal]"
   ],
   "userStats": {
     "dylans117877601": 14,
@@ -166,10 +166,11 @@
     "Xx_chamorro_xX": 3,
     "asciicat": 1,
     "NumbyFace": 2,
-    "Exoshi": 1
+    "Exoshi": 1,
+    ".Dark_Dbx24": 1
   },
   "kitStats": {
-    "build": 17,
+    "build": 18,
     "raid": 14,
     "stash": 9,
     "wood": 11,
