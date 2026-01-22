@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:25:52 22/1/2026",
+  "lastUpdated": "23:26:09 22/1/2026",
   "totalKits": 6,
   "todayKits": 6,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 37,
-  "tps": "2.0",
+  "tps": "3.0",
   "ping": 212,
   "topUsers": [
     {
@@ -39,6 +39,10 @@
     {
       "name": "dragonkit",
       "count": 1
+    },
+    {
+      "name": "fytasx",
+      "count": 1
     }
   ],
   "topKits": [
@@ -64,17 +68,6 @@
     }
   ],
   "chatLog": [
-    "[16:24] [8b8t] >> Teleporting to home 0...",
-    "[16:24] [8b8t] >> Teleporting to home 4...",
-    "[16:24] To Boolyymon: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:25] To Boolyymon: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:25] [8b8t] >> Request sent to Boolyymon",
-    "[16:25] <yra112> wsp dragon ",
-    "[16:25] Drag0nXD has made the advancement [We Need to Go Deeper]",
-    "[16:25] <TuViejx> !kit ",
-    "[16:25] To TuViejx: Hello TuViejx!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:25] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[16:25] <Super_jj9000> Anyone got 7 shulkers of cobble? ",
     "[16:25] <TuViejx> !kit Survival ",
     "[16:25] To TuViejx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:25] <TulagrandBot> >Want kit? Try @kit ",
@@ -93,7 +86,18 @@
     "[16:25] <TuViejx> !kit pvp ",
     "[16:25] [8b8t] >> Request sent to dragonkit",
     "[16:25] [8b8t] >> Teleporting...",
-    "[16:25] <yra112> yea "
+    "[16:25] <yra112> yea ",
+    "[16:25] [8b8t] >> You have killed yourself!",
+    "[16:25] <Boolyymon> !kit glass ",
+    "[16:25] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[16:25] To Boolyymon: You're on cooldown, try again in 41 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:25] <fytasx> !kit menu ",
+    "[16:25] [8b8t] >> Teleporting to home 0...",
+    "[16:25] [8b8t] >> Teleporting to home 4...",
+    "[16:25] To fytasx: Kit \"menu\" not found! Giving you (dye) instead! dsc.gg/hienbot",
+    "[16:25] <TulagrandBot> >Try /kill to kill yourself ",
+    "[16:26] To fytasx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:26] [8b8t] >> Request sent to fytasx"
   ],
   "userStats": {
     "dylans117877601": 1,
@@ -103,7 +107,8 @@
     "espinos": 1,
     "ICommitFraud_": 1,
     "Boolyymon": 1,
-    "dragonkit": 1
+    "dragonkit": 1,
+    "fytasx": 1
   },
   "kitStats": {
     "build": 1,
@@ -112,6 +117,7 @@
     "wood": 1,
     "armortrims": 1,
     "glass": 1,
-    "pvp": 1
+    "pvp": 1,
+    "dye": 1
   }
 }
