@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:53:28 23/1/2026",
+  "lastUpdated": "03:53:39 23/1/2026",
   "totalKits": 221,
   "todayKits": 221,
   "onlineCount": 42,
   "peakPlayers": 52,
-  "tps": "2.0",
-  "ping": 246,
+  "tps": "1.0",
+  "ping": 285,
   "topUsers": [
     {
       "name": "Super_jj9000",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:52] <elmataservers> !kit dupe ",
-    "[20:52] [8b8t] >> Teleporting to home 0...",
-    "[20:52] [8b8t] >> Teleporting to home 7...",
     "[20:52] To elmataservers: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[20:52] To elmataservers: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:52] [8b8t] >> Request sent to elmataservers",
@@ -101,7 +98,10 @@
     "[20:53] <TulagrandBot> >How are you xaki? ",
     "[20:53] <hamburguesa1234> !kit elytras ",
     "[20:53] To hamburguesa1234: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:53] [8b8t] >> Teleporting..."
+    "[20:53] [8b8t] >> Teleporting...",
+    "[20:53] [8b8t] >> You have killed yourself!",
+    "[20:53] <Xx_chamorro_xX> !kit xp ",
+    "[20:53] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "dylans117877601": 14,
@@ -162,7 +162,8 @@
     "KionYhamma": 1,
     "elmataservers": 4,
     ".LEON50758": 1,
-    "Aeriak64HD": 2
+    "Aeriak64HD": 2,
+    "Xx_chamorro_xX": 1
   },
   "kitStats": {
     "build": 16,
@@ -177,7 +178,7 @@
     "gterracotta": 4,
     "redstone": 13,
     "mineral": 8,
-    "exp": 10,
+    "exp": 11,
     "ocean": 3,
     "end": 6,
     "quartz": 3,
