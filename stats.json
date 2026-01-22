@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:21:33 22/1/2026",
+  "lastUpdated": "19:22:03 22/1/2026",
   "totalKits": 92233,
   "todayKits": 210,
-  "onlineCount": 18,
+  "onlineCount": 17,
   "peakPlayers": 50,
-  "tps": "6.0",
-  "ping": 219,
+  "tps": "11.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -60,7 +60,7 @@
     },
     {
       "name": "dupe",
-      "count": 2727
+      "count": 2728
     },
     {
       "name": "tools",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:17] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[12:17] [8b8t] >> Teleporting to home 0...",
-    "[12:17] [8b8t] >> Teleporting to home 1...",
-    "[12:17] To Chris_123459: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:17] To Chris_123459: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:17] [8b8t] >> Request sent to Chris_123459",
-    "[12:17] <ELTIERRA_001> !kit sulvival ",
     "[12:17] To ELTIERRA_001: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:18] <TulagrandBot> >Try @tps to get server's tps ",
     "[12:18] [8b8t] >> Please do not spam.",
@@ -101,7 +94,14 @@
     "[12:21] _beno183 has made the advancement [Ice Bucket Challenge]",
     "[12:21] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:21] <TulagrandBot> >Try @list to get list of players ",
-    "[12:21] [BOT] <0_HienBot> >Try !кιт survival "
+    "[12:21] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[12:21] <ELTIERRA_001> !kit lowers ",
+    "[12:21] [8b8t] >> Teleporting to home 0...",
+    "[12:21] [8b8t] >> Teleporting to home 7...",
+    "[12:21] To ELTIERRA_001: Kit \"lowers\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
+    "[12:21] [8b8t] >> Could not find player ELTIERRA_001",
+    "[12:21] [8b8t] >> Player ELTIERRA_001 is not online",
+    "[12:22] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
   ],
   "userStats": {
     "76756": 38,
@@ -3893,13 +3893,14 @@
     "Marloowww": 3,
     "SuaTra": 1,
     "wemmpook": 6,
-    ".Antonizk7139": 1
+    ".Antonizk7139": 1,
+    "ELTIERRA_001": 1
   },
   "kitStats": {
     "build": 2021,
     "survival": 7426,
     "pvp": 9685,
-    "dupe": 2727,
+    "dupe": 2728,
     "tools": 2268,
     "stash": 1367,
     "raid": 1596,
