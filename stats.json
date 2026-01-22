@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:21:15 22/1/2026",
+  "lastUpdated": "22:21:45 22/1/2026",
   "totalKits": 92300,
   "todayKits": 7,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 34,
-  "tps": "2.0",
-  "ping": 220,
+  "tps": "4.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "MintKoala997563",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 9700
+      "count": 9701
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:19] [8b8t] >> Teleporting to home 5...",
-    "[15:19] To seim: Kit \"lighsources\" not found! Giving you (end) instead! dsc.gg/hienbot",
-    "[15:19] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:19] [8b8t] >> Request sent to seim",
-    "[15:19] <Tiago1812> !kit Crystal ",
-    "[15:19] To Tiago1812: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:19] <TulagrandBot> >Building a castle? Try @kit bricks ",
-    "[15:19] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[15:19] [8b8t] >> You have killed yourself!",
-    "[15:19] [8b8t] >> The TPA request you sent to seim was successfully canceled.",
-    "[15:19] <botchaosonix666> hello ",
-    "[15:19] <Tiago1812> hi ",
     "[15:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[15:20] <botchaosonix666> hello ",
     "[15:20] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
@@ -101,7 +89,19 @@
     "[15:21] <Tiago1812> quien team ",
     "[15:21] <Tiago1812> quien team ",
     "[15:21] <.TripleCave1010> !PING ",
-    "[15:21] <botchaosonix666> !ping "
+    "[15:21] <botchaosonix666> !ping ",
+    "[15:21] To botchaosonix666: Your ping is: 279 ms Dont forget to join dsc.gg/hienbot",
+    "[15:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[15:21] <Tiago1812> !kit pvp ",
+    "[15:21] [8b8t] >> Teleporting to home 0...",
+    "[15:21] [8b8t] >> Teleporting to home 1...",
+    "[15:21] To Tiago1812: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:21] <espinos> !kit pvp ",
+    "[15:21] To espinos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:21] To Tiago1812: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:21] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[15:21] [8b8t] >> Request sent to Tiago1812",
+    "[15:21] <seim> anyone add me on your team "
   ],
   "userStats": {
     "76756": 38,
@@ -1299,7 +1299,7 @@
     "what3": 3,
     "what4": 4,
     "Lunova_0": 3,
-    "Tiago1812": 1,
+    "Tiago1812": 2,
     "olabrodi": 4,
     "IceTeen2": 1,
     "not_server_admin": 12,
@@ -3909,7 +3909,7 @@
   "kitStats": {
     "build": 2027,
     "survival": 7438,
-    "pvp": 9700,
+    "pvp": 9701,
     "dupe": 2736,
     "tools": 2274,
     "stash": 1369,
