@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:53:14 23/1/2026",
+  "lastUpdated": "23:53:44 23/1/2026",
   "totalKits": 519,
   "todayKits": 94,
   "onlineCount": 39,
   "peakPlayers": 39,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 335,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 80
+      "count": 81
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:51] Chat disabled in client options",
-    "[16:51] [8b8t] >> You have killed yourself!",
-    "[16:51] [8b8t] >> No TPA request found",
-    "[16:51] To bananastik: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:51] [8b8t] >> Teleporting to home 0...",
-    "[16:51] [8b8t] >> Teleporting to home 6...",
-    "[16:51] To bananastik: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:51] [8b8t] >> Request sent to bananastik",
-    "[16:51] [8b8t] >> Teleporting...",
     "[16:51] <diddymannnnnnnn> @tps ",
     "[16:51] <NyaokBW> !kit food ",
     "[16:51] To NyaokBW: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[16:52] [8b8t] >> The TPA request you sent to .BeetleOak522121 was successfully canceled.",
     "[16:52] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[16:52] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[16:53] <WildCreativity> ggs "
+    "[16:53] <WildCreativity> ggs ",
+    "[16:53] <.BeetleOak522121> !kit ",
+    "[16:53] To .BeetleOak522121: Hello .BeetleOak522121!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[16:53] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[16:53] <.BeetleOak522121> !kit Elytra ",
+    "[16:53] [8b8t] >> Teleporting to home 0...",
+    "[16:53] [8b8t] >> Teleporting to home 6...",
+    "[16:53] To .BeetleOak522121: Your kit (Elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:53] <WildCreativity> why heinbot does not give me kits ",
+    "[16:53] To .BeetleOak522121: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "dylans117877601": 40,
@@ -248,7 +248,7 @@
     "randemlyy": 6,
     "WildCreativity": 3,
     "d2hved": 1,
-    ".BeetleOak522121": 1
+    ".BeetleOak522121": 2
   },
   "kitStats": {
     "build": 46,
@@ -268,7 +268,7 @@
     "end": 15,
     "quartz": 8,
     "music": 7,
-    "elytra": 80,
+    "elytra": 81,
     "survival": 102,
     "tools": 37,
     "food": 13,
