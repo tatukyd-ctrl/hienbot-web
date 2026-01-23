@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:16:44 24/1/2026",
+  "lastUpdated": "05:17:14 24/1/2026",
   "totalKits": 783,
   "todayKits": 358,
-  "onlineCount": 40,
+  "onlineCount": 39,
   "peakPlayers": 49,
-  "tps": "1.0",
-  "ping": 214,
+  "tps": "3.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 181
+      "count": 182
     },
     {
       "name": "survival",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:15] <wooola> !kit ",
-    "[22:15] To wooola: Hello wooola!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:15] <That1spedkid22> bro why u crystal me ",
-    "[22:15] [8b8t] >> You have killed yourself!",
-    "[22:15] <wooola> !kit stash ",
-    "[22:15] [8b8t] >> Teleporting to home 0...",
-    "[22:15] [8b8t] >> Home 2 was not found",
-    "[22:15] Cappuccino4687 has made the advancement [Stone Age]",
-    "[22:15] To wooola: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:15] <LeoBurst> !kit dupe ",
-    "[22:15] To LeoBurst: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:15] To wooola: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:15] [8b8t] >> Request sent to wooola",
     "[22:16] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[22:16] <nashexd123waza> pon !kit stash ",
     "[22:16] <LeoBurst> !kit raid ",
@@ -101,7 +88,20 @@
     "[22:16] [8b8t] >> Request sent to LeoBurst",
     "[22:16] [BOT] <0_HienBot> >What's up, wooola? ",
     "[22:16] [8b8t] >> Teleporting...",
-    "[22:16] [8b8t] >> You have killed yourself!"
+    "[22:16] [8b8t] >> You have killed yourself!",
+    "[22:16] <wooola> !kit stash ",
+    "[22:16] To wooola: You're on cooldown, try again in 44 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:16] [Ultra] <MARLBORO> pvp en mi hotspot ",
+    "[22:16] <wooola> !kit ",
+    "[22:16] To wooola: Hello wooola!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[22:17] <nashexd123waza> !kit pvp ",
+    "[22:17] [8b8t] >> Teleporting to home 0...",
+    "[22:17] [8b8t] >> Teleporting to home 1...",
+    "[22:17] To nashexd123waza: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:17] To nashexd123waza: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:17] [8b8t] >> Request sent to nashexd123waza",
+    "[22:17] [BOT] <0_HienBot> >Welcome to 8b8t, asciicat! "
   ],
   "userStats": {
     "dylans117877601": 46,
@@ -303,7 +303,7 @@
     "LeoBurst": 2,
     "mestredopvp6867": 4,
     "levelfox4597145": 1,
-    "nashexd123waza": 1,
+    "nashexd123waza": 2,
     "wooola": 1
   },
   "kitStats": {
@@ -313,7 +313,7 @@
     "wood": 16,
     "armortrims": 18,
     "glass": 20,
-    "pvp": 181,
+    "pvp": 182,
     "dye": 9,
     "dupe": 63,
     "gterracotta": 6,
