@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:31:10 23/1/2026",
+  "lastUpdated": "09:31:40 23/1/2026",
   "totalKits": 362,
   "todayKits": 52,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 52,
-  "tps": "3.0",
-  "ping": 230,
+  "tps": "1.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 61
+      "count": 62
     },
     {
       "name": "elytra",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:29] <Habitsrabbits> !kit Survival ",
-    "[02:29] [8b8t] >> Teleporting to home 0...",
-    "[02:29] [8b8t] >> Teleporting to home 1...",
-    "[02:29] To Habitsrabbits: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:29] To Habitsrabbits: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:29] [8b8t] >> Request sent to Habitsrabbits",
-    "[02:29] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[02:29] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[02:29] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[02:29] [8b8t] >> You have killed yourself!",
     "[02:29] [8b8t] >> The TPA request you sent to Habitsrabbits was successfully canceled.",
     "[02:29] <TulagrandBot> >Hola 0_HienBot ",
     "[02:30] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
@@ -101,7 +91,17 @@
     "[02:30] <Aryan_SMPScout> !kit ",
     "[02:30] To Aryan_SMPScout: Hello Aryan_SMPScout!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[02:30] <ASXN> Somebody knows bases coords? ",
-    "[02:30] <TulagrandBot> >Want kit? Try @kit "
+    "[02:30] <TulagrandBot> >Want kit? Try @kit ",
+    "[02:31] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[02:31] <Aryan_SMPScout> !kit Survival ",
+    "[02:31] [8b8t] >> Teleporting to home 0...",
+    "[02:31] [8b8t] >> Teleporting to home 1...",
+    "[02:31] To Aryan_SMPScout: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:31] <SmlMor> @kit ",
+    "[02:31] To SmlMor: Hello SmlMor!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:31] To Aryan_SMPScout: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:31] [8b8t] >> Request sent to Aryan_SMPScout",
+    "[02:31] <TulagrandBot> >Try /nc to change your nick color "
   ],
   "userStats": {
     "dylans117877601": 31,
@@ -195,7 +195,8 @@
     "1umvr": 1,
     "Ray13": 1,
     "SmlMor": 2,
-    "Habitsrabbits": 1
+    "Habitsrabbits": 1,
+    "Aryan_SMPScout": 1
   },
   "kitStats": {
     "build": 32,
@@ -216,7 +217,7 @@
     "quartz": 6,
     "music": 7,
     "elytra": 37,
-    "survival": 61,
+    "survival": 62,
     "tools": 29,
     "food": 10,
     "toolbox": 22,
