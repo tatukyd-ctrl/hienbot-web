@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:58:40 23/1/2026",
-  "totalKits": 396,
-  "todayKits": 86,
+  "lastUpdated": "15:58:56 23/1/2026",
+  "totalKits": 397,
+  "todayKits": 87,
   "onlineCount": 15,
   "peakPlayers": 52,
-  "tps": "10.0",
+  "tps": "9.0",
   "ping": 212,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "dupe",
-      "count": 29
+      "count": 30
     }
   ],
   "chatLog": [
-    "[08:55] [BOT] <0_HienBot> >Hey MrPinkEye! ",
-    "[08:55] [8b8t] >> Request sent to Sponge1007754",
-    "[08:55] <TulagrandBot> >Hi MrPinkEye ",
-    "[08:55] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:56] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[08:56] [8b8t] >> You have killed yourself!",
-    "[08:56] [8b8t] >> The TPA request you sent to Sponge1007754 was successfully canceled.",
-    "[08:56] TulagrandBot Whispers: Want some kits for free? ->>> discord.gg/XWBkeQGNpt",
     "[08:56] <Sponge1007754> !kit elytra ",
     "[08:56] To Sponge1007754: You're on cooldown, try again in 50 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:56] [8b8t] >> Please do not spam.",
@@ -101,7 +93,15 @@
     "[08:58] <Sponge1007754> !kit dupe ",
     "[08:58] To Sponge1007754: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:58] <TulagrandBot> >Building a castle? Try @kit bricks ",
-    "[08:58] [BOT] <0_HienBot> >Hello TNGB0T! "
+    "[08:58] [BOT] <0_HienBot> >Hello TNGB0T! ",
+    "[08:58] <Sponge1007754> !kit dupe ",
+    "[08:58] [8b8t] >> Teleporting to home 0...",
+    "[08:58] [8b8t] >> Teleporting to home 7...",
+    "[08:58] To Sponge1007754: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:58] To Sponge1007754: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:58] [8b8t] >> Request sent to Sponge1007754",
+    "[08:58] [8b8t] >> Teleporting...",
+    "[08:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -223,7 +223,7 @@
     "Rich_miner": 1,
     "Zyq_Playz": 1,
     "mertpro999": 3,
-    "Sponge1007754": 2
+    "Sponge1007754": 3
   },
   "kitStats": {
     "build": 35,
@@ -234,7 +234,7 @@
     "glass": 7,
     "pvp": 83,
     "dye": 6,
-    "dupe": 29,
+    "dupe": 30,
     "gterracotta": 6,
     "redstone": 17,
     "mineral": 9,
