@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:39:14 23/1/2026",
+  "lastUpdated": "21:39:44 23/1/2026",
   "totalKits": 441,
   "todayKits": 16,
   "onlineCount": 33,
   "peakPlayers": 35,
-  "tps": "1.0",
-  "ping": 222,
+  "tps": "4.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -37,15 +37,15 @@
       "count": 19
     },
     {
+      "name": "hamburguesa1234",
+      "count": 19
+    },
+    {
       "name": "Sombrapro2011",
       "count": 19
     },
     {
       "name": "ASXN",
-      "count": 18
-    },
-    {
-      "name": "hamburguesa1234",
       "count": 18
     }
   ],
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:34] <elhamst3r1> @kit build1 ",
-    "[14:34] [8b8t] >> Teleporting to home 0...",
-    "[14:34] [8b8t] >> Home 2 was not found",
-    "[14:34] To elhamst3r1: Kit \"build1\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
-    "[14:34] To elhamst3r1: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:34] [8b8t] >> Request sent to elhamst3r1",
     "[14:34] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[14:34] [8b8t] >> You have killed yourself!",
@@ -101,7 +96,12 @@
     "[14:38] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[14:38] <TulagrandBot> >Try /kill to kill yourself ",
     "[14:39] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[14:39] <TulagrandBot> >Building a base? Try @kit build "
+    "[14:39] <TulagrandBot> >Building a base? Try @kit build ",
+    "[14:39] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[14:39] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[14:39] <hamburguesa1234> !kit elitras ",
+    "[14:39] [8b8t] >> Teleporting to home 0...",
+    "[14:39] [8b8t] >> Teleporting to home 6..."
   ],
   "userStats": {
     "dylans117877601": 37,
@@ -142,7 +142,7 @@
     "Banan4ikins": 1,
     ".Alonso33curba": 3,
     "Akross17": 2,
-    "hamburguesa1234": 18,
+    "hamburguesa1234": 19,
     "Error2211": 4,
     "botchaosonix": 7,
     "Elrompepelotas": 16,
@@ -270,6 +270,6 @@
     "gap": 3,
     "wool": 8,
     "lightsources": 10,
-    "shulker": 8
+    "shulker": 9
   }
 }
