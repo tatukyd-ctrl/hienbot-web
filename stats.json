@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:06:40 23/1/2026",
+  "lastUpdated": "11:07:10 23/1/2026",
   "totalKits": 373,
   "todayKits": 63,
   "onlineCount": 30,
   "peakPlayers": 52,
-  "tps": "2.0",
-  "ping": 229,
+  "tps": "3.0",
+  "ping": 629,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 44
+      "count": 45
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:59] <TulagrandBot> > TULAGRANDE 1.6! ",
-    "[03:59] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[04:00] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[04:00] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[04:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[04:00] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[04:01] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[04:01] <TulagrandBot> >Try /kill to kill yourself ",
-    "[04:01] [BOT] <0_HienBot> >Hey Lucky2007_! ",
-    "[04:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:01] <TulagrandBot> > TULAGRANDE 1.6! ",
     "[04:02] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[04:02] <TulagrandBot> >Hello, picc ",
     "[04:02] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
@@ -101,7 +90,18 @@
     "[04:05] [BOT] <0_HienBot> >Welcome to 8b8t, picc! ",
     "[04:06] [BOT] <0_HienBot> >What's up, lucagusano? ",
     "[04:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:06] <TulagrandBot> >Try @kit to get kit "
+    "[04:06] <TulagrandBot> >Try @kit to get kit ",
+    "[04:06] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[04:06] <OmHackz> !kit elytra ",
+    "[04:06] [8b8t] >> Teleporting to home 0...",
+    "[04:06] [8b8t] >> Teleporting to home 6...",
+    "[04:06] To OmHackz: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:06] To OmHackz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:06] [8b8t] >> Request sent to OmHackz",
+    "[04:06] <AnarchyGooD> asm ",
+    "[04:07] Gadiel4000_Demon has made the advancement [Cover Me With Diamonds]",
+    "[04:07] <AnarchyGooD> loader ",
+    "[04:07] <AnarchyGooD> .loader "
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -205,7 +205,8 @@
     ".Jdavidagrrre": 3,
     "SmileyFace009": 1,
     "Dr_Donutt": 2,
-    "Gulper": 1
+    "Gulper": 1,
+    "OmHackz": 1
   },
   "kitStats": {
     "build": 33,
@@ -225,7 +226,7 @@
     "end": 8,
     "quartz": 6,
     "music": 7,
-    "elytra": 44,
+    "elytra": 45,
     "survival": 66,
     "tools": 29,
     "food": 11,
