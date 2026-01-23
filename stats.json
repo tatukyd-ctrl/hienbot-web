@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:27:10 23/1/2026",
+  "lastUpdated": "09:27:40 23/1/2026",
   "totalKits": 361,
   "todayKits": 51,
   "onlineCount": 32,
   "peakPlayers": 52,
-  "tps": "5.0",
-  "ping": 228,
+  "tps": "2.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 58
+      "count": 59
     },
     {
       "name": "elytra",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:25] [8b8t] >> You have killed yourself!",
-    "[02:25] <miro09809808> !kit elytra ",
-    "[02:25] [8b8t] >> Teleporting to home 0...",
-    "[02:25] [8b8t] >> Teleporting to home 6...",
-    "[02:25] To miro09809808: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:25] <LaSoLaTu> damelo porfa ",
-    "[02:25] To miro09809808: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:25] [8b8t] >> Request sent to miro09809808",
-    "[02:25] [8b8t] >> Teleporting...",
-    "[02:25] [Pro+] <lvashl> !kit Highway ",
-    "[02:25] To lvashl: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:25] [8b8t] >> You have killed yourself!",
     "[02:25] [Pro+] <lvashl> !kit Highway ",
     "[02:25] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +90,18 @@
     "[02:26] <.Jdavidagrrre> tpa help ",
     "[02:26] <TulagrandBot> >Want kit? Try @kit ",
     "[02:26] <SmlMor> !kit ",
-    "[02:26] To SmlMor: Hello SmlMor!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[02:26] To SmlMor: Hello SmlMor!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:27] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[02:27] <SmlMor> !kit Survival ",
+    "[02:27] [8b8t] >> Teleporting to home 0...",
+    "[02:27] [8b8t] >> Teleporting to home 1...",
+    "[02:27] To SmlMor: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:27] To SmlMor: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:27] [8b8t] >> Request sent to SmlMor",
+    "[02:27] <Ray13> @kit ",
+    "[02:27] To Ray13: Hello Ray13!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:27] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[02:27] <TulagrandBot> >How are you MrPinkEye? "
   ],
   "userStats": {
     "dylans117877601": 31,
@@ -193,7 +193,8 @@
     "lvashl": 4,
     ".RossNotFound171": 2,
     "1umvr": 1,
-    "Ray13": 1
+    "Ray13": 1,
+    "SmlMor": 1
   },
   "kitStats": {
     "build": 32,
@@ -214,7 +215,7 @@
     "quartz": 6,
     "music": 7,
     "elytra": 37,
-    "survival": 58,
+    "survival": 59,
     "tools": 29,
     "food": 10,
     "toolbox": 22,
