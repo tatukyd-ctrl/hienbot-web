@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:24:40 23/1/2026",
+  "lastUpdated": "08:25:10 23/1/2026",
   "totalKits": 348,
   "todayKits": 38,
-  "onlineCount": 27,
+  "onlineCount": 30,
   "peakPlayers": 52,
-  "tps": "3.0",
-  "ping": 327,
+  "tps": "5.0",
+  "ping": 293,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:22] [8b8t] >> Teleporting to home 0...",
-    "[01:22] [8b8t] >> Teleporting to home 7...",
-    "[01:22] To Berk046pr0: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:22] To Berk046pr0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:22] [8b8t] >> Request sent to Berk046pr0",
-    "[01:22] <z_parnet> !kit dupe ",
-    "[01:22] To z_parnet: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:22] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[01:22] <TulagrandBot> > TULAGRANDE 1.6! ",
     "[01:22] <17_doom> !kit ",
     "[01:22] To 17_doom: Hello 17_doom!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[01:24] <17_doom> @kit ",
     "[01:24] To 17_doom: Hello 17_doom!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[01:24] <z_parnet> @kit ",
-    "[01:24] To z_parnet: Hello z_parnet!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[01:24] To z_parnet: Hello z_parnet!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:24] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[01:24] <z_parnet> !kit survial ",
+    "[01:24] [8b8t] >> Teleporting to home 0...",
+    "[01:24] [8b8t] >> Home 2 was not found",
+    "[01:24] To z_parnet: Kit \"survial\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[01:24] To z_parnet: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:24] [8b8t] >> Request sent to z_parnet",
+    "[01:25] <TulagrandBot> >Try @list to get list of players "
   ],
   "userStats": {
     "dylans117877601": 28,
@@ -187,12 +187,13 @@
     ".ASMODEUS4961": 5,
     "ThePandaGamerYT": 2,
     "Berk046pr0": 5,
-    "Victua7397": 1
+    "Victua7397": 1,
+    "z_parnet": 1
   },
   "kitStats": {
     "build": 30,
     "raid": 21,
-    "stash": 13,
+    "stash": 14,
     "wood": 13,
     "armortrims": 9,
     "glass": 5,
