@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:42:44 24/1/2026",
+  "lastUpdated": "03:43:14 24/1/2026",
   "totalKits": 713,
   "todayKits": 288,
   "onlineCount": 39,
   "peakPlayers": 49,
-  "tps": "6.0",
-  "ping": 221,
+  "tps": "5.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 168
+      "count": 169
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:41] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[20:41] <jairoelpro> !kit pvp ",
-    "[20:41] [8b8t] >> Teleporting to home 0...",
-    "[20:41] [8b8t] >> Teleporting to home 1...",
-    "[20:42] To jairoelpro: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:42] <zaterla> !kit pvp ",
-    "[20:42] To zaterla: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:42] <fabric_XxX> !kit pvp ",
-    "[20:42] To fabric_XxX: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:42] <iKylieee> holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ",
-    "[20:42] To jairoelpro: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:42] <Marci20140> !kit elytra ",
-    "[20:42] [8b8t] >> Request sent to jairoelpro",
-    "[20:42] To Marci20140: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:42] [8b8t] >> Teleporting...",
     "[20:42] <zaterla> !kit totem ",
     "[20:42] [8b8t] >> You have killed yourself!",
@@ -101,7 +87,21 @@
     "[20:42] To zaterla: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:42] <Anonymous204205> @goto -135045 10000 ",
     "[20:42] <Marci20140> why dosent !kit work? ",
-    "[20:42] <zaterla> Türk varmı "
+    "[20:42] <zaterla> Türk varmı ",
+    "[20:42] <fabric_XxX> !kit pvp ",
+    "[20:42] To fabric_XxX: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:42] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[20:42] [8b8t] >> You have killed yourself!",
+    "[20:42] [8b8t] >> The TPA request you sent to zaterla was successfully canceled.",
+    "[20:43] <zaterla> !kit pvo ",
+    "[20:43] To zaterla: You're on cooldown, try again in 58 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:43] <Anonymous204205> !sethome -135456 10000 ",
+    "[20:43] <Marci20140> !kit pvp ",
+    "[20:43] [8b8t] >> Teleporting to home 0...",
+    "[20:43] [8b8t] >> Teleporting to home 1...",
+    "[20:43] To Marci20140: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:43] To Marci20140: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:43] [8b8t] >> Request sent to Marci20140"
   ],
   "userStats": {
     "dylans117877601": 44,
@@ -288,7 +288,7 @@
     "bonyigueta": 2,
     "Cisco8809": 5,
     "kaperi2": 1,
-    "Marci20140": 3,
+    "Marci20140": 4,
     "ptaltsVWNRc": 1,
     "zaterla": 1
   },
@@ -299,7 +299,7 @@
     "wood": 16,
     "armortrims": 18,
     "glass": 20,
-    "pvp": 168,
+    "pvp": 169,
     "dye": 8,
     "dupe": 58,
     "gterracotta": 6,
