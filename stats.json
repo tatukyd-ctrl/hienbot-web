@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:12:30 24/1/2026",
+  "lastUpdated": "05:12:44 24/1/2026",
   "totalKits": 778,
   "todayKits": 353,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 49,
   "tps": "2.0",
-  "ping": 223,
+  "ping": 252,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:11] To mestredopvp6867: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:11] <KionYhamma> !kit elytra ",
-    "[22:11] To KionYhamma: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:11] To mestredopvp6867: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:11] [8b8t] >> Request sent to mestredopvp6867",
-    "[22:11] [8b8t] >> Teleporting...",
-    "[22:11] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[22:11] [8b8t] >> You have killed yourself!",
     "[22:11] <dylans117877601> !kit elytra ",
     "[22:11] [8b8t] >> Teleporting to home 0...",
     "[22:11] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +93,15 @@
     "[22:12] To KionYhamma: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:12] [8b8t] >> Request sent to KionYhamma",
     "[22:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[22:12] [8b8t] >> Teleporting..."
+    "[22:12] [8b8t] >> Teleporting...",
+    "[22:12] [8b8t] >> You have killed yourself!",
+    "[22:12] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[22:12] <mestredopvp6867> !kit tool ",
+    "[22:12] [8b8t] >> Teleporting to home 0...",
+    "[22:12] [8b8t] >> Teleporting to home 4...",
+    "[22:12] To mestredopvp6867: Your kit (tool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:12] To mestredopvp6867: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:12] [8b8t] >> Request sent to mestredopvp6867"
   ],
   "userStats": {
     "dylans117877601": 46,
@@ -301,7 +301,7 @@
     "Eden_01655": 2,
     "m4rc_xyz8": 1,
     "LeoBurst": 1,
-    "mestredopvp6867": 1
+    "mestredopvp6867": 2
   },
   "kitStats": {
     "build": 59,
@@ -325,7 +325,7 @@
     "survival": 147,
     "tools": 49,
     "food": 17,
-    "toolbox": 30,
+    "toolbox": 31,
     "concrete": 18,
     "highway": 12,
     "gap": 4,
