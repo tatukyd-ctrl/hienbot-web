@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:19:40 23/1/2026",
+  "lastUpdated": "10:20:10 23/1/2026",
   "totalKits": 370,
   "todayKits": 60,
   "onlineCount": 27,
   "peakPlayers": 52,
   "tps": "2.0",
-  "ping": 224,
+  "ping": 233,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 65
+      "count": 66
     },
     {
       "name": "elytra",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:15] <.Jdavidagrrre> !kit survival ",
-    "[03:15] To .Jdavidagrrre: You're on cooldown, try again in 37 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:16] <NyaokBW> !kit elytra ",
-    "[03:16] [8b8t] >> Teleporting to home 0...",
-    "[03:16] [8b8t] >> Teleporting to home 6...",
-    "[03:16] To NyaokBW: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:16] To NyaokBW: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:16] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[03:16] [8b8t] >> Request sent to NyaokBW",
-    "[03:16] <.vlesmentie> hola ",
-    "[03:16] <yay> hi ",
-    "[03:16] <TulagrandBot> >Hello, 0_HienBot ",
     "[03:16] [8b8t] >> Please do not spam.",
     "[03:16] [8b8t] >> Teleporting...",
     "[03:16] [8b8t] >> You have killed yourself!",
@@ -101,7 +89,19 @@
     "[03:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:19] <.Jdavidagrrre> kit! survival ",
     "[03:19] <RJNinja9> !kit ",
-    "[03:19] To RJNinja9: Hello RJNinja9!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[03:19] To RJNinja9: Hello RJNinja9!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[03:19] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[03:19] <.Jdavidagrrre> !kit survival ",
+    "[03:19] [8b8t] >> Teleporting to home 0...",
+    "[03:19] [8b8t] >> Teleporting to home 1...",
+    "[03:19] To .Jdavidagrrre: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:19] To .Jdavidagrrre: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:19] [8b8t] >> Request sent to .Jdavidagrrre",
+    "[03:19] [8b8t] >> The TPA request you sent to .Jdavidagrrre has expired.",
+    "[03:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[03:20] xandex has made the advancement [Ice Bucket Challenge]",
+    "[03:20] <wexgabrielsan> !kit op ",
+    "[03:20] wexgabrielsan is ignoring you"
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -202,7 +202,7 @@
     "NyaokBW": 4,
     "kacymc": 1,
     "abiariunna12": 1,
-    ".Jdavidagrrre": 2
+    ".Jdavidagrrre": 3
   },
   "kitStats": {
     "build": 33,
@@ -223,7 +223,7 @@
     "quartz": 6,
     "music": 7,
     "elytra": 43,
-    "survival": 65,
+    "survival": 66,
     "tools": 29,
     "food": 11,
     "toolbox": 22,
