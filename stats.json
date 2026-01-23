@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:44:40 23/1/2026",
+  "lastUpdated": "15:45:10 23/1/2026",
   "totalKits": 395,
   "todayKits": 85,
   "onlineCount": 16,
   "peakPlayers": 52,
-  "tps": "12.0",
-  "ping": 453,
+  "tps": "6.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 34
+      "count": 35
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:40] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[08:40] <mertpro999> !kit survival ",
-    "[08:40] To mertpro999: You're on cooldown, try again in 33 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:40] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:41] <TulagrandBot> >Whant something? Try @kit! ",
-    "[08:41] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[08:41] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[08:41] <TulagrandBot> >Building a castle? Try @kit bricks ",
-    "[08:41] <mertpro999> !kit survival ",
     "[08:41] [8b8t] >> Teleporting to home 0...",
     "[08:41] [8b8t] >> Teleporting to home 1...",
     "[08:41] To mertpro999: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[08:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[08:44] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[08:44] <TulagrandBot> >Building a base? Try @kit build ",
-    "[08:44] [BOT] <0_HienBot> >Try !кιт survival "
+    "[08:44] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[08:45] [8b8t] >> Please do not spam.",
+    "[08:45] <B_DRSdC> can someone help me escape spawn? ",
+    "[08:45] <mertpro999> @kit build ",
+    "[08:45] [8b8t] >> Teleporting to home 0...",
+    "[08:45] [8b8t] >> Home 2 was not found",
+    "[08:45] <TulagrandBot> >This bot has been created by Felek btw. ",
+    "[08:45] To mertpro999: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:45] To mertpro999: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:45] [8b8t] >> Request sent to mertpro999"
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -222,10 +222,10 @@
     "TidalwaveX2": 1,
     "Rich_miner": 1,
     "Zyq_Playz": 1,
-    "mertpro999": 2
+    "mertpro999": 3
   },
   "kitStats": {
-    "build": 34,
+    "build": 35,
     "raid": 24,
     "stash": 19,
     "wood": 13,
