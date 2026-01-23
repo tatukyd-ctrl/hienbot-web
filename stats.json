@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:35:10 23/1/2026",
+  "lastUpdated": "09:35:40 23/1/2026",
   "totalKits": 362,
   "todayKits": 52,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 52,
-  "tps": "4.0",
-  "ping": 228,
+  "tps": "5.0",
+  "ping": 351,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 73
+      "count": 74
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:32] [BOT] <0_HienBot> >What's up, _Hienbot? ",
-    "[02:32] <TulagrandBot> >Building a base? Try @kit build2 ",
-    "[02:32] [8b8t] >> You have killed yourself!",
-    "[02:32] [8b8t] >> The TPA request you sent to SmlMor was successfully canceled.",
-    "[02:33] <SmlMor> @kit ",
-    "[02:33] To SmlMor: Hello SmlMor!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:33] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[02:33] <Aryan_SMPScout> miri what didyou get by killing me bruh ",
-    "[02:33] <Aryan_SMPScout> mir ",
-    "[02:33] <SmlMor> @kit Survival ",
     "[02:33] To SmlMor: You're on cooldown, try again in 42 seconds! Dont forget to join dsc.gg/hienbot",
     "[02:33] <TulagrandBot> >Try @list to get list of players ",
     "[02:33] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,6 +91,16 @@
     "[02:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:34] <miro09809808> who wants 1v1 tpa ",
     "[02:35] <TulagrandBot> >Try /nc to change your nick color ",
+    "[02:35] <ASXN> me ",
+    "[02:35] [BOT] <0_HienBot> >Try !кιт survival ",
+    "[02:35] <SmlMor> !kit PVP ",
+    "[02:35] [8b8t] >> Teleporting to home 0...",
+    "[02:35] [8b8t] >> Teleporting to home 1...",
+    "[02:35] To SmlMor: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:35] To SmlMor: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:35] [8b8t] >> Request sent to SmlMor",
+    "[02:35] [8b8t] >> The TPA request you sent to SmlMor has expired.",
+    "[02:35] <miro09809808> who wants 1v1 tpa ",
     "[02:35] <ASXN> me "
   ],
   "userStats": {
@@ -194,7 +194,7 @@
     ".RossNotFound171": 2,
     "1umvr": 1,
     "Ray13": 1,
-    "SmlMor": 3,
+    "SmlMor": 4,
     "Habitsrabbits": 1,
     "Aryan_SMPScout": 1
   },
@@ -205,7 +205,7 @@
     "wood": 13,
     "armortrims": 9,
     "glass": 5,
-    "pvp": 73,
+    "pvp": 74,
     "dye": 4,
     "dupe": 28,
     "gterracotta": 4,
