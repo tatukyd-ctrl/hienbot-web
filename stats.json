@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:28:40 23/1/2026",
+  "lastUpdated": "09:29:10 23/1/2026",
   "totalKits": 362,
   "todayKits": 52,
-  "onlineCount": 32,
+  "onlineCount": 30,
   "peakPlayers": 52,
-  "tps": "3.0",
-  "ping": 231,
+  "tps": "1.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 59
+      "count": 60
     },
     {
       "name": "elytra",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:26] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[02:26] <.Jdavidagrrre> tpa help ",
-    "[02:26] <TulagrandBot> >Want kit? Try @kit ",
-    "[02:26] <SmlMor> !kit ",
-    "[02:26] To SmlMor: Hello SmlMor!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:27] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[02:27] <SmlMor> !kit Survival ",
     "[02:27] [8b8t] >> Teleporting to home 0...",
     "[02:27] [8b8t] >> Teleporting to home 1...",
     "[02:27] To SmlMor: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[02:28] <ASXN> Alguien sabe coords de base? ",
     "[02:28] <.Jdavidagrrre> tpa help ",
     "[02:28] <TulagrandBot> >Building a castle? Try @kit bricks ",
-    "[02:28] [8b8t] >> Wisto_WT voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days"
+    "[02:28] [8b8t] >> Wisto_WT voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
+    "[02:28] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[02:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[02:29] <Habitsrabbits> !kit Survival ",
+    "[02:29] [8b8t] >> Teleporting to home 0...",
+    "[02:29] [8b8t] >> Teleporting to home 1...",
+    "[02:29] To Habitsrabbits: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:29] To Habitsrabbits: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "dylans117877601": 31,
@@ -194,7 +194,8 @@
     ".RossNotFound171": 2,
     "1umvr": 1,
     "Ray13": 1,
-    "SmlMor": 1
+    "SmlMor": 1,
+    "Habitsrabbits": 1
   },
   "kitStats": {
     "build": 32,
@@ -215,7 +216,7 @@
     "quartz": 6,
     "music": 7,
     "elytra": 37,
-    "survival": 59,
+    "survival": 60,
     "tools": 29,
     "food": 10,
     "toolbox": 22,
