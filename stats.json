@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:13:06 23/1/2026",
+  "lastUpdated": "08:13:10 23/1/2026",
   "totalKits": 345,
   "todayKits": 35,
   "onlineCount": 29,
   "peakPlayers": 52,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 249,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:12] <Berk046pr0> !kit build ",
-    "[01:12] [8b8t] >> Teleporting to home 0...",
-    "[01:12] [8b8t] >> Home 2 was not found",
-    "[01:12] To Berk046pr0: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:12] To Berk046pr0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:12] [8b8t] >> Request sent to Berk046pr0",
     "[01:12] [8b8t] >> Teleporting...",
     "[01:12] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +96,12 @@
     "[01:12] [8b8t] >> Request sent to .ASMODEUS4961",
     "[01:12] <Berk046pr0> !kit ",
     "[01:12] To Berk046pr0: Hello Berk046pr0!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:13] [8b8t] >> Teleporting..."
+    "[01:13] [8b8t] >> Teleporting...",
+    "[01:13] <Berk046pr0> !dupe ",
+    "[01:13] <Victua7397> !kit raid ",
+    "[01:13] [8b8t] >> You have killed yourself!",
+    "[01:13] [8b8t] >> Teleporting to home 0...",
+    "[01:13] [8b8t] >> Home 2 was not found"
   ],
   "userStats": {
     "dylans117877601": 28,
@@ -186,11 +186,12 @@
     "Kayyzo": 1,
     ".ASMODEUS4961": 4,
     "ThePandaGamerYT": 2,
-    "Berk046pr0": 2
+    "Berk046pr0": 2,
+    "Victua7397": 1
   },
   "kitStats": {
     "build": 30,
-    "raid": 20,
+    "raid": 21,
     "stash": 13,
     "wood": 13,
     "armortrims": 9,
