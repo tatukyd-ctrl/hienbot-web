@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:45:14 24/1/2026",
+  "lastUpdated": "05:45:44 24/1/2026",
   "totalKits": 802,
   "todayKits": 377,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 49,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 214,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 190
+      "count": 191
     },
     {
       "name": "survival",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:44] To kekvinskkd: Hello kekvinskkd!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:44] [8b8t] >> You have killed yourself!",
-    "[22:44] <crakgamer172> !kit shulquer ",
-    "[22:44] [8b8t] >> Teleporting to home 0...",
-    "[22:44] [8b8t] >> No TPA request found",
-    "[22:44] [8b8t] >> Teleporting to home 4...",
-    "[22:44] To crakgamer172: Kit \"shulquer\" not found! Giving you (glass) instead! dsc.gg/hienbot",
-    "[22:44] <NoxieTiger> !kit Survival ",
-    "[22:44] To NoxieTiger: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:44] <iCloud7_> !kit pvp ",
-    "[22:44] To iCloud7_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:44] To crakgamer172: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:44] [8b8t] >> Request sent to crakgamer172",
     "[22:44] [8b8t] >> Teleporting...",
     "[22:44] <kekvinskkd> !kit pvp ",
@@ -101,7 +89,19 @@
     "[22:45] [BOT] <0_HienBot> >What's up, MonkeBot? ",
     "[22:45] <iCloud7_> !kit pvp ",
     "[22:45] To iCloud7_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:45] [8b8t] >> You have killed yourself!"
+    "[22:45] [8b8t] >> You have killed yourself!",
+    "[22:45] <NoxieTiger> !kit Survival ",
+    "[22:45] To NoxieTiger: You're on cooldown, try again in 23 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[22:45] <iCloud7_> !kit pvp ",
+    "[22:45] [8b8t] >> Teleporting to home 0...",
+    "[22:45] [8b8t] >> Teleporting to home 1...",
+    "[22:45] To iCloud7_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:45] [8b8t] >> Please do not spam.",
+    "[22:45] To iCloud7_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:45] [8b8t] >> Request sent to iCloud7_",
+    "[22:45] <iCloud7_> !kit pvp ",
+    "[22:45] To iCloud7_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 46,
@@ -308,7 +308,8 @@
     "elcristianegro67": 1,
     "edw106": 1,
     "wsppp908890": 4,
-    "NoxieTiger": 3
+    "NoxieTiger": 3,
+    "iCloud7_": 1
   },
   "kitStats": {
     "build": 60,
@@ -317,7 +318,7 @@
     "wood": 16,
     "armortrims": 19,
     "glass": 21,
-    "pvp": 190,
+    "pvp": 191,
     "dye": 9,
     "dupe": 65,
     "gterracotta": 6,
