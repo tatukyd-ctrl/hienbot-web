@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:46:14 24/1/2026",
-  "totalKits": 850,
-  "todayKits": 425,
+  "lastUpdated": "06:46:31 24/1/2026",
+  "totalKits": 851,
+  "todayKits": 426,
   "onlineCount": 27,
   "peakPlayers": 49,
-  "tps": "4.0",
+  "tps": "9.0",
   "ping": 216,
   "topUsers": [
     {
@@ -68,17 +68,10 @@
     },
     {
       "name": "build",
-      "count": 62
+      "count": 63
     }
   ],
   "chatLog": [
-    "[23:41] <DORITOS_H> bai ",
-    "[23:41] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[23:42] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[23:42] <ElDan> dorito tas dormido xd? ",
-    "[23:42] <ilovecatsvr57364> NIGGA ",
-    "[23:42] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[23:42] <ElDan> mendigo dorito se fue ",
     "[23:42] [BOT] <0_HienBot> >What's up, Eden_01655? ",
     "[23:43] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[23:43] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
@@ -101,7 +94,14 @@
     "[23:45] DORITOS_H has made the advancement [We Need to Go Deeper]",
     "[23:45] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[23:46] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[23:46] ElDan has made the advancement [We Need to Go Deeper]"
+    "[23:46] ElDan has made the advancement [We Need to Go Deeper]",
+    "[23:46] <ilovecatsvr57364> !kit build ",
+    "[23:46] [8b8t] >> Teleporting to home 0...",
+    "[23:46] [8b8t] >> Home 2 was not found",
+    "[23:46] To ilovecatsvr57364: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:46] To ilovecatsvr57364: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:46] [8b8t] >> Request sent to ilovecatsvr57364",
+    "[23:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 46,
@@ -147,7 +147,7 @@
     "botchaosonix": 9,
     "Elrompepelotas": 16,
     "alexito123456": 1,
-    "ilovecatsvr57364": 15,
+    "ilovecatsvr57364": 16,
     "egzoegzo": 6,
     "deantheneek": 3,
     "Antonhysv": 3,
@@ -318,7 +318,7 @@
     "DORITOS_H": 1
   },
   "kitStats": {
-    "build": 62,
+    "build": 63,
     "raid": 46,
     "stash": 39,
     "wood": 16,
