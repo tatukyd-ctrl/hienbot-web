@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:45:51 23/1/2026",
-  "totalKits": 515,
-  "todayKits": 90,
-  "onlineCount": 34,
+  "lastUpdated": "23:46:13 23/1/2026",
+  "totalKits": 516,
+  "todayKits": 91,
+  "onlineCount": 35,
   "peakPlayers": 39,
-  "tps": "4.0",
-  "ping": 327,
+  "tps": "2.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "hamburguesa1234",
@@ -63,28 +63,15 @@
       "count": 77
     },
     {
-      "name": "build",
-      "count": 46
+      "name": "dupe",
+      "count": 47
     },
     {
-      "name": "dupe",
+      "name": "build",
       "count": 46
     }
   ],
   "chatLog": [
-    "[16:44] <TulagrandBot> >Building a base? Try @kit build1 ",
-    "[16:44] [8b8t] >> Request sent to crakgamer172",
-    "[16:44] [8b8t] >> Teleporting...",
-    "[16:44] <crakgamer172> espera consigo kit elytra ",
-    "[16:44] [8b8t] >> You have killed yourself!",
-    "[16:44] <Sombrapro2011> me dfui ",
-    "[16:44] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[16:45] <hamburguesa1234> !kit elytras ",
-    "[16:45] [8b8t] >> Teleporting to home 0...",
-    "[16:45] [8b8t] >> Teleporting to home 7...",
-    "[16:45] To hamburguesa1234: Kit \"elytras\" not found! Giving you (tools) instead! dsc.gg/hienbot",
-    "[16:45] To hamburguesa1234: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:45] [8b8t] >> Request sent to hamburguesa1234",
     "[16:45] <crakgamer172> pipi ",
     "[16:45] [8b8t] >> Teleporting...",
     "[16:45] [8b8t] >> You have killed yourself!",
@@ -101,7 +88,20 @@
     "[16:45] <d2hved> !kit ",
     "[16:45] [8b8t] >> Teleporting...",
     "[16:45] To d2hved: Hello d2hved!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:45] <TulagrandBot> >Try @seed to get 8b8t's seed "
+    "[16:45] <TulagrandBot> >Try @seed to get 8b8t's seed ",
+    "[16:45] <WildCreativity> nope, wont work ",
+    "[16:45] [8b8t] >> You have killed yourself!",
+    "[16:45] <d2hved> !kit Dupe ",
+    "[16:45] [8b8t] >> Teleporting to home 0...",
+    "[16:45] [8b8t] >> Teleporting to home 7...",
+    "[16:45] To d2hved: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:45] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[16:45] To d2hved: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:45] [8b8t] >> Request sent to d2hved",
+    "[16:46] <hamburguesa1234> !kit flight ",
+    "[16:46] To hamburguesa1234: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[16:46] <WildCreativity> HEINBOT HATES MEEE ",
+    "[16:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 40,
@@ -246,7 +246,8 @@
     "bananastik": 10,
     "crakgamer172": 11,
     "randemlyy": 6,
-    "WildCreativity": 2
+    "WildCreativity": 2,
+    "d2hved": 1
   },
   "kitStats": {
     "build": 46,
@@ -257,7 +258,7 @@
     "glass": 14,
     "pvp": 118,
     "dye": 7,
-    "dupe": 46,
+    "dupe": 47,
     "gterracotta": 6,
     "redstone": 19,
     "mineral": 11,
