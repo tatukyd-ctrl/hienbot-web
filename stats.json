@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:50:25 24/1/2026",
+  "lastUpdated": "00:50:44 24/1/2026",
   "totalKits": 580,
   "todayKits": 155,
   "onlineCount": 43,
   "peakPlayers": 49,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 229,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:49] To ChoppyChips: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:49] [8b8t] >> Request sent to ChoppyChips",
-    "[17:49] <vovan666top> !kit Shulker ",
-    "[17:49] To vovan666top: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:49] <17_doom> !kit pvp ",
-    "[17:49] To 17_doom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:49] [BOT] <0_HienBot> >Hmmmmmmmmm ",
     "[17:49] [8b8t] >> ChoppyChips has denied your request",
     "[17:49] <sebasfut29> un hack ",
     "[17:49] [8b8t] >> 6foot3monkey created a new hotspot, use /hotspot to teleport to it",
@@ -101,7 +94,14 @@
     "[17:50] [8b8t] >> Request sent to seim",
     "[17:50] <17_doom> !kit pvp ",
     "[17:50] To 17_doom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:50] [8b8t] >> Teleporting..."
+    "[17:50] [8b8t] >> Teleporting...",
+    "[17:50] [8b8t] >> You have killed yourself!",
+    "[17:50] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[17:50] <ChoppyChips> !kit survival ",
+    "[17:50] To ChoppyChips: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:50] <vovan666top> !kit Shulker ",
+    "[17:50] [8b8t] >> Teleporting to home 0...",
+    "[17:50] [8b8t] >> Teleporting to home 6..."
   ],
   "userStats": {
     "dylans117877601": 41,
@@ -255,7 +255,7 @@
     "iKylieee": 1,
     "Viejaslocas300": 5,
     "godsystem000": 1,
-    "vovan666top": 16,
+    "vovan666top": 17,
     "waxyon99": 3,
     "MrBeax31": 2,
     "osmankral123123": 1,
@@ -292,7 +292,7 @@
     "gap": 4,
     "wool": 13,
     "lightsources": 16,
-    "shulker": 9,
+    "shulker": 10,
     "terracotta": 1
   }
 }
