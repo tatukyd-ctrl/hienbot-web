@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:34:10 23/1/2026",
+  "lastUpdated": "12:34:40 23/1/2026",
   "totalKits": 379,
   "todayKits": 69,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 52,
-  "tps": "5.0",
+  "tps": "7.0",
   "ping": 235,
   "topUsers": [
     {
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:31] [8b8t] >> Teleporting to home 4...",
-    "[05:31] To seim: Your kit (toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:31] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:31] [8b8t] >> Request sent to seim",
     "[05:31] <TulagrandBot> >Building a castle? Try @kit bricks ",
     "[05:31] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[05:31] <H_INMORTAL_M> !kit survival ",
@@ -101,7 +97,11 @@
     "[05:33] [8b8t] >> You have killed yourself!",
     "[05:33] [8b8t] >> The TPA request you sent to H_INMORTAL_M was successfully canceled.",
     "[05:33] <TulagrandBot> >Try @tps to get server's tps ",
-    "[05:34] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
+    "[05:34] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[05:34] <H_INMORTAL_M> !kit survival ",
+    "[05:34] To H_INMORTAL_M: You're on cooldown, try again in 27 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:34] <TulagrandBot> >Try @ping to get your ping ",
+    "[05:34] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
   ],
   "userStats": {
     "dylans117877601": 32,
