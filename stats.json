@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:59:25 24/1/2026",
+  "lastUpdated": "00:59:44 24/1/2026",
   "totalKits": 593,
   "todayKits": 168,
   "onlineCount": 40,
   "peakPlayers": 49,
-  "tps": "2.0",
+  "tps": "6.0",
   "ping": 263,
   "topUsers": [
     {
@@ -33,6 +33,10 @@
       "count": 22
     },
     {
+      "name": "vovan666top",
+      "count": 21
+    },
+    {
       "name": "fabric_XxX",
       "count": 20
     },
@@ -43,16 +47,12 @@
     {
       "name": "Sombrapro2011",
       "count": 20
-    },
-    {
-      "name": "vovan666top",
-      "count": 20
     }
   ],
   "topKits": [
     {
       "name": "pvp",
-      "count": 132
+      "count": 133
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:57] [8b8t] >> Request sent to dylans117877601",
-    "[17:57] <17_doom> !kit build ",
-    "[17:57] To 17_doom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:57] [8b8t] >> Teleporting...",
-    "[17:57] [8b8t] >> You have killed yourself!",
-    "[17:57] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
     "[17:58] <17_doom> !kit ",
     "[17:58] To 17_doom: Hello 17_doom!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[17:58] <17_doom> !kit mineral ",
@@ -101,7 +95,13 @@
     "[17:59] [8b8t] >> Request sent to dylans117877601",
     "[17:59] [8b8t] >> Teleporting...",
     "[17:59] <vovan666top> !kit PVP ",
-    "[17:59] To vovan666top: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[17:59] To vovan666top: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:59] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[17:59] [8b8t] >> You have killed yourself!",
+    "[17:59] <vovan666top> !kit PVP ",
+    "[17:59] [8b8t] >> Teleporting to home 0...",
+    "[17:59] [8b8t] >> Teleporting to home 1...",
+    "[17:59] To vovan666top: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 43,
@@ -255,7 +255,7 @@
     "iKylieee": 1,
     "Viejaslocas300": 5,
     "godsystem000": 1,
-    "vovan666top": 20,
+    "vovan666top": 21,
     "waxyon99": 3,
     "MrBeax31": 2,
     "osmankral123123": 1,
@@ -272,7 +272,7 @@
     "wood": 14,
     "armortrims": 14,
     "glass": 17,
-    "pvp": 132,
+    "pvp": 133,
     "dye": 8,
     "dupe": 50,
     "gterracotta": 6,
