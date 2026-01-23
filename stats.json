@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:10:10 23/1/2026",
-  "totalKits": 397,
-  "todayKits": 87,
+  "lastUpdated": "16:10:40 23/1/2026",
+  "totalKits": 398,
+  "todayKits": 88,
   "onlineCount": 16,
   "peakPlayers": 52,
-  "tps": "9.0",
+  "tps": "5.0",
   "ping": 212,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 83
+      "count": 84
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:03] <TulagrandBot> >This bot has been created by Felek btw. ",
-    "[09:04] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[09:04] arshad777 has made the advancement [We Need to Go Deeper]",
-    "[09:04] <TulagrandBot> >Building a base? Try @kit build2 ",
-    "[09:04] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[09:04] TulagrandBot Whispers: >Join TULAGRANDE, a clan like no one you have seen before.",
-    "[09:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:04] <TulagrandBot> >Tulagrande on top! ",
-    "[09:05] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[09:05] arshad777 has completed the challenge [Hot Tourist Destinations]",
     "[09:05] <TulagrandBot> >Hola TNGB0T ",
     "[09:05] [8b8t] >> Please do not spam.",
     "[09:06] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
@@ -101,7 +91,17 @@
     "[09:09] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[09:09] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[09:09] [BOT] <0_HienBot> >Hello MonkeBot! ",
-    "[09:10] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me "
+    "[09:10] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[09:10] <TulagrandBot> >This bot has been created by Felek btw. ",
+    "[09:10] <.yuu18m> !kit pvp ",
+    "[09:10] [8b8t] >> Teleporting to home 0...",
+    "[09:10] [8b8t] >> Teleporting to home 1...",
+    "[09:10] To .yuu18m: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:10] To .yuu18m: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:10] [8b8t] >> Request sent to .yuu18m",
+    "[09:10] [BOT] <0_HienBot> >Type !discord ",
+    "[09:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:10] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -223,7 +223,8 @@
     "Rich_miner": 1,
     "Zyq_Playz": 1,
     "mertpro999": 3,
-    "Sponge1007754": 3
+    "Sponge1007754": 3,
+    ".yuu18m": 1
   },
   "kitStats": {
     "build": 35,
@@ -232,7 +233,7 @@
     "wood": 13,
     "armortrims": 10,
     "glass": 7,
-    "pvp": 83,
+    "pvp": 84,
     "dye": 6,
     "dupe": 30,
     "gterracotta": 6,
