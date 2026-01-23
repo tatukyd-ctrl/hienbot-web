@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:06:40 23/1/2026",
-  "totalKits": 338,
-  "todayKits": 28,
+  "lastUpdated": "08:07:03 23/1/2026",
+  "totalKits": 339,
+  "todayKits": 29,
   "onlineCount": 32,
   "peakPlayers": 52,
-  "tps": "0.0",
-  "ping": 249,
+  "tps": "2.0",
+  "ping": 287,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 30
+      "count": 31
     },
     {
       "name": "build",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:03] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[01:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[01:03] <TulagrandBot> >Building a base? Try @kit build2 ",
-    "[01:03] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[01:03] <.ASMODEUS4961> !kit pvp ",
-    "[01:03] [8b8t] >> Teleporting to home 0...",
-    "[01:03] [8b8t] >> Teleporting to home 1...",
-    "[01:03] To .ASMODEUS4961: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:03] To .ASMODEUS4961: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:03] [8b8t] >> Request sent to .ASMODEUS4961",
-    "[01:04] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[01:04] [8b8t] >> Teleporting...",
     "[01:04] [8b8t] >> You have killed yourself!",
     "[01:04] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
@@ -101,7 +90,18 @@
     "[01:05] [8b8t] >> You have killed yourself!",
     "[01:06] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[01:06] <TulagrandBot> >Try @tps to get server's tps ",
-    "[01:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[01:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[01:06] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[01:06] <ThePandaGamerYT> !kit ",
+    "[01:06] To ThePandaGamerYT: Hello ThePandaGamerYT!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:06] <ThePandaGamerYT> !kit elytra ",
+    "[01:06] [8b8t] >> Teleporting to home 0...",
+    "[01:06] [8b8t] >> Teleporting to home 6...",
+    "[01:06] To ThePandaGamerYT: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:06] To ThePandaGamerYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:06] [8b8t] >> Request sent to ThePandaGamerYT",
+    "[01:06] <TulagrandBot> >Try @list to get list of players ",
+    "[01:06] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 28,
@@ -185,7 +185,7 @@
     "mrpancekes": 1,
     "Kayyzo": 1,
     ".ASMODEUS4961": 2,
-    "ThePandaGamerYT": 1
+    "ThePandaGamerYT": 2
   },
   "kitStats": {
     "build": 29,
@@ -205,7 +205,7 @@
     "end": 8,
     "quartz": 6,
     "music": 7,
-    "elytra": 30,
+    "elytra": 31,
     "survival": 56,
     "tools": 27,
     "food": 10,
