@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:53:50 24/1/2026",
+  "lastUpdated": "00:54:14 24/1/2026",
   "totalKits": 585,
   "todayKits": 160,
-  "onlineCount": 41,
+  "onlineCount": 39,
   "peakPlayers": 49,
-  "tps": "1.0",
-  "ping": 2574,
+  "tps": "5.0",
+  "ping": 222,
   "topUsers": [
     {
       "name": "hamburguesa1234",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:52] [8b8t] >> You have killed yourself!",
-    "[17:52] <seim> !kit glass ",
-    "[17:52] [8b8t] >> Teleporting to home 0...",
-    "[17:52] [8b8t] >> Teleporting to home 4...",
-    "[17:52] To seim: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:52] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:52] [8b8t] >> Request sent to seim",
     "[17:52] <El_Ferias> !kit redstone ",
@@ -101,7 +96,12 @@
     "[17:53] To El_Ferias: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:53] To El_Ferias: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:53] [8b8t] >> Request sent to El_Ferias",
-    "[17:53] [8b8t] >> Teleporting..."
+    "[17:53] [8b8t] >> Teleporting...",
+    "[17:53] [8b8t] >> You have killed yourself!",
+    "[17:53] [BOT] <0_HienBot> >Type !discord ",
+    "[17:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:54] <vovan666top> !kit Tools' ",
+    "[17:54] <vovan666top> !kit Tools "
   ],
   "userStats": {
     "dylans117877601": 41,
@@ -255,7 +255,7 @@
     "iKylieee": 1,
     "Viejaslocas300": 5,
     "godsystem000": 1,
-    "vovan666top": 18,
+    "vovan666top": 19,
     "waxyon99": 3,
     "MrBeax31": 2,
     "osmankral123123": 1,
@@ -285,7 +285,7 @@
     "music": 8,
     "elytra": 95,
     "survival": 107,
-    "tools": 40,
+    "tools": 41,
     "food": 14,
     "toolbox": 26,
     "concrete": 16,
