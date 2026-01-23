@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:52:10 23/1/2026",
+  "lastUpdated": "13:52:40 23/1/2026",
   "totalKits": 387,
   "todayKits": 77,
-  "onlineCount": 19,
+  "onlineCount": 16,
   "peakPlayers": 52,
-  "tps": "2.0",
-  "ping": 215,
+  "tps": "4.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:49] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[06:49] [BOT] <0_HienBot> >Hello TNGB0T! ",
-    "[06:49] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[06:50] [BOT] <0_HienBot> >Hi BigBear! ",
-    "[06:50] <TulagrandBot> >Building a base? Try @kit build ",
-    "[06:50] <0xPwnd> .wait 5 ",
-    "[06:50] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[06:50] <0xPwnd> .wait 5 ",
     "[06:51] [BOT] <0_HienBot> >Type !discord ",
     "[06:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:51] <AnarchyGooD> hola ",
@@ -101,7 +93,15 @@
     "[06:52] <AnarchyGooD> hl ",
     "[06:52] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[06:52] TulagrandBot Whispers: Join TULAGRANDE, a clan like no one you have seen before.",
-    "[06:52] <AnarchyGooD> aasm "
+    "[06:52] <AnarchyGooD> aasm ",
+    "[06:52] <TulagrandBot> >Try /kill to kill yourself ",
+    "[06:52] <0xPwnd> !kit random ",
+    "[06:52] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
+    "[06:52] [8b8t] >> Teleporting to home 0...",
+    "[06:52] [8b8t] >> Teleporting to home 5...",
+    "[06:52] To 0xPwnd: Kit \"random\" not found! Giving you (gterracotta) instead! dsc.gg/hienbot",
+    "[06:52] To 0xPwnd: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:52] [8b8t] >> Request sent to 0xPwnd"
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -216,7 +216,8 @@
     "seim": 1,
     "ismael10MF": 8,
     "BigBear": 1,
-    "dexaer": 1
+    "dexaer": 1,
+    "0xPwnd": 1
   },
   "kitStats": {
     "build": 34,
@@ -228,7 +229,7 @@
     "pvp": 80,
     "dye": 6,
     "dupe": 28,
-    "gterracotta": 5,
+    "gterracotta": 6,
     "redstone": 17,
     "mineral": 9,
     "exp": 15,
