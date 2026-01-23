@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:17:14 24/1/2026",
+  "lastUpdated": "05:17:44 24/1/2026",
   "totalKits": 783,
   "todayKits": 358,
-  "onlineCount": 39,
+  "onlineCount": 37,
   "peakPlayers": 49,
-  "tps": "3.0",
-  "ping": 212,
+  "tps": "8.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 182
+      "count": 183
     },
     {
       "name": "survival",
@@ -72,24 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:16] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[22:16] <nashexd123waza> pon !kit stash ",
-    "[22:16] <LeoBurst> !kit raid ",
-    "[22:16] To LeoBurst: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:16] [8b8t] >> You have killed yourself!",
-    "[22:16] <LeoBurst> !kit raid ",
-    "[22:16] [8b8t] >> Teleporting to home 0...",
-    "[22:16] [8b8t] >> No TPA request found",
-    "[22:16] [8b8t] >> Home 2 was not found",
-    "[22:16] To LeoBurst: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:16] <elcristianegro67> !kit stash ",
-    "[22:16] To elcristianegro67: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[22:16] To LeoBurst: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:16] [8b8t] >> Request sent to LeoBurst",
-    "[22:16] [BOT] <0_HienBot> >What's up, wooola? ",
-    "[22:16] [8b8t] >> Teleporting...",
-    "[22:16] [8b8t] >> You have killed yourself!",
-    "[22:16] <wooola> !kit stash ",
     "[22:16] To wooola: You're on cooldown, try again in 44 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:16] [Ultra] <MARLBORO> pvp en mi hotspot ",
     "[22:16] <wooola> !kit ",
@@ -101,7 +83,25 @@
     "[22:17] To nashexd123waza: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:17] To nashexd123waza: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:17] [8b8t] >> Request sent to nashexd123waza",
-    "[22:17] [BOT] <0_HienBot> >Welcome to 8b8t, asciicat! "
+    "[22:17] [BOT] <0_HienBot> >Welcome to 8b8t, asciicat! ",
+    "[22:17] <LeoBurst> !kit pvp ",
+    "[22:17] To LeoBurst: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:17] <LeoBurst> !kit pvp ",
+    "[22:17] To LeoBurst: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:17] <LeoBurst> !kit pvp ",
+    "[22:17] To LeoBurst: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:17] <LeoBurst> !kit pvp ",
+    "[22:17] To LeoBurst: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:17] <LeoBurst> !kit pvp ",
+    "[22:17] To LeoBurst: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:17] <LeoBurst> !kit pvp ",
+    "[22:17] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[22:17] To LeoBurst: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:17] [8b8t] >> You have killed yourself!",
+    "[22:17] [8b8t] >> The TPA request you sent to nashexd123waza was successfully canceled.",
+    "[22:17] <nashexd123waza> !kit pvp ",
+    "[22:17] To nashexd123waza: You're on cooldown, try again in 57 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:17] <LeoBurst> !kit pvp "
   ],
   "userStats": {
     "dylans117877601": 46,
@@ -300,7 +300,7 @@
     "Maverick0624": 6,
     "Eden_01655": 2,
     "m4rc_xyz8": 1,
-    "LeoBurst": 2,
+    "LeoBurst": 3,
     "mestredopvp6867": 4,
     "levelfox4597145": 1,
     "nashexd123waza": 2,
@@ -313,7 +313,7 @@
     "wood": 16,
     "armortrims": 18,
     "glass": 20,
-    "pvp": 182,
+    "pvp": 183,
     "dye": 9,
     "dupe": 63,
     "gterracotta": 6,
