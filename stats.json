@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:16:10 23/1/2026",
+  "lastUpdated": "17:16:40 23/1/2026",
   "totalKits": 416,
   "todayKits": 106,
   "onlineCount": 18,
   "peakPlayers": 52,
-  "tps": "7.0",
-  "ping": 213,
+  "tps": "3.0",
+  "ping": 1164,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 88
+      "count": 89
     },
     {
       "name": "elytra",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:13] [8b8t] >> Teleporting to home 1...",
-    "[10:13] To recitar: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:13] To recitar: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:13] [8b8t] >> Request sent to recitar",
-    "[10:13] [8b8t] >> Teleporting...",
-    "[10:13] [8b8t] >> You have killed yourself!",
-    "[10:13] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[10:13] <TulagrandBot> >Try @seed to get 8b8t's seed ",
     "[10:13] Sombrapro2011 has made the advancement [Not Quite \"Nine\" Lives]",
     "[10:13] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:14] <recitar> !kit elytra ",
@@ -101,7 +93,15 @@
     "[10:15] <TulagrandBot> >This bot has been created by Felek btw. ",
     "[10:15] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[10:16] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[10:16] <TulagrandBot> >Try /kill to kill yourself "
+    "[10:16] <TulagrandBot> >Try /kill to kill yourself ",
+    "[10:16] <Sombrapro2011> !kit survival ",
+    "[10:16] [8b8t] >> Teleporting to home 0...",
+    "[10:16] [8b8t] >> Teleporting to home 1...",
+    "[10:16] To Sombrapro2011: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:16] To Sombrapro2011: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:16] <ismael10MF> !kit elytra ",
+    "[10:16] [8b8t] >> Request sent to Sombrapro2011",
+    "[10:16] To ismael10MF: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -226,7 +226,7 @@
     "Sponge1007754": 3,
     ".yuu18m": 1,
     "w0rldbod3r": 1,
-    "Sombrapro2011": 9,
+    "Sombrapro2011": 10,
     "recitar": 5,
     "botchaosonix666": 1
   },
@@ -249,7 +249,7 @@
     "quartz": 7,
     "music": 7,
     "elytra": 56,
-    "survival": 88,
+    "survival": 89,
     "tools": 29,
     "food": 11,
     "toolbox": 23,
