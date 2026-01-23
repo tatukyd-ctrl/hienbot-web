@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:54:44 24/1/2026",
+  "lastUpdated": "01:55:14 24/1/2026",
   "totalKits": 617,
   "todayKits": 192,
-  "onlineCount": 35,
+  "onlineCount": 32,
   "peakPlayers": 49,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 216,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 111
+      "count": 112
     },
     {
       "name": "elytra",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:52] <Boolyymon> everyone? ",
-    "[18:52] <oofsaidyoamazing> !kit elytra ",
-    "[18:52] [8b8t] >> Teleporting to home 0...",
-    "[18:52] [8b8t] >> Teleporting to home 6...",
-    "[18:52] To oofsaidyoamazing: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[18:52] To oofsaidyoamazing: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:52] [8b8t] >> Request sent to oofsaidyoamazing",
     "[18:52] [8b8t] >> Teleporting...",
     "[18:52] <osmankral123123> me ? ",
@@ -101,7 +95,13 @@
     "[18:54] [BOT] <0_HienBot> >Welcome to 8b8t, ismael10MF! ",
     "[18:54] To kianan: Hello kianan!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[18:54] <osmankral123123> sup ",
-    "[18:54] <botchaosonix666> this house who? "
+    "[18:54] <botchaosonix666> this house who? ",
+    "[18:54] <osmankral123123> idn ",
+    "[18:54] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[18:55] <kianan> !kit survival ",
+    "[18:55] [8b8t] >> Teleporting to home 0...",
+    "[18:55] [8b8t] >> Teleporting to home 1...",
+    "[18:55] To kianan: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 44,
@@ -268,7 +268,8 @@
     "undulantLily833": 1,
     "uskhys": 1,
     "NEXUS_1": 1,
-    "oofsaidyoamazing": 8
+    "oofsaidyoamazing": 8,
+    "kianan": 1
   },
   "kitStats": {
     "build": 53,
@@ -289,7 +290,7 @@
     "quartz": 8,
     "music": 8,
     "elytra": 99,
-    "survival": 111,
+    "survival": 112,
     "tools": 42,
     "food": 14,
     "toolbox": 26,
