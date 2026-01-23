@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:18:44 24/1/2026",
+  "lastUpdated": "02:19:14 24/1/2026",
   "totalKits": 641,
   "todayKits": 216,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 49,
-  "tps": "1.0",
+  "tps": "4.0",
   "ping": 226,
   "topUsers": [
     {
@@ -63,26 +63,15 @@
       "count": 101
     },
     {
-      "name": "build",
-      "count": 53
+      "name": "dupe",
+      "count": 54
     },
     {
-      "name": "dupe",
+      "name": "build",
       "count": 53
     }
   ],
   "chatLog": [
-    "[19:17] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[19:17] [8b8t] >> You have killed yourself!",
-    "[19:17] <crakgamer172> !kit ",
-    "[19:17] To crakgamer172: Hello crakgamer172!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:17] <crakgamer172> !kit tools ",
-    "[19:17] To crakgamer172: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:17] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[19:18] <botchaosonix> Music to my ears osmankral123123 ",
-    "[19:18] <botchaosonix> Pop pop pop wont stop till you drop osmankral123123 ",
-    "[19:18] <botchaosonix> I love it when you pop osmankral123123 ",
-    "[19:18] <crakgamer172> !kit tools ",
     "[19:18] [8b8t] >> Teleporting to home 0...",
     "[19:18] [8b8t] >> Teleporting to home 7...",
     "[19:18] To crakgamer172: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +90,18 @@
     "[19:18] [BOT] <0_HienBot> >Hey NetherB0T! ",
     "[19:18] [8b8t] >> Teleporting...",
     "[19:18] <botchaosonix> Hey osmankral123123, want some PvP advice? ",
-    "[19:18] [8b8t] >> You have killed yourself!"
+    "[19:18] [8b8t] >> You have killed yourself!",
+    "[19:18] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[19:19] <darkside1337> !kit ",
+    "[19:19] To darkside1337: Hello darkside1337!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[19:19] <Ujur> !kit survival ",
+    "[19:19] To Ujur: You're on cooldown, try again in 18 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:19] <darkside1337> ?kit ",
+    "[19:19] To darkside1337: Hello darkside1337!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[19:19] <darkside1337> !kit dupe ",
+    "[19:19] [8b8t] >> Teleporting to home 0...",
+    "[19:19] [8b8t] >> Teleporting to home 7...",
+    "[19:19] To darkside1337: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 44,
@@ -271,7 +271,7 @@
     "oofsaidyoamazing": 14,
     "kianan": 2,
     "998877ujur": 1,
-    "darkside1337": 1,
+    "darkside1337": 2,
     "Ujur": 2
   },
   "kitStats": {
@@ -283,7 +283,7 @@
     "glass": 18,
     "pvp": 146,
     "dye": 8,
-    "dupe": 53,
+    "dupe": 54,
     "gterracotta": 6,
     "redstone": 25,
     "mineral": 14,
