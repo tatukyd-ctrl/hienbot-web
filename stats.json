@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:08:40 23/1/2026",
+  "lastUpdated": "09:09:10 23/1/2026",
   "totalKits": 355,
   "todayKits": 45,
   "onlineCount": 29,
   "peakPlayers": 52,
-  "tps": "2.0",
+  "tps": "5.0",
   "ping": 321,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 71
+      "count": 72
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:03] [8b8t] >> You have killed yourself!",
-    "[02:03] [8b8t] >> The TPA request you sent to dylans117877601 was successfully canceled.",
-    "[02:04] [BOT] <0_HienBot> >What's up, dylans117877601? ",
-    "[02:04] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[02:04] <TulagrandBot> >Hello, .RossNotFound171 ",
-    "[02:04] <dylans117877601> !kit concrete ",
-    "[02:04] [8b8t] >> Teleporting to home 0...",
-    "[02:04] [8b8t] >> Teleporting to home 3...",
-    "[02:04] To dylans117877601: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:04] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:04] [8b8t] >> Request sent to dylans117877601",
     "[02:04] [8b8t] >> Teleporting...",
     "[02:04] [8b8t] >> You have killed yourself!",
@@ -101,7 +91,17 @@
     "[02:08] [8b8t] >> Please do not spam.",
     "[02:08] <TulagrandBot> >How are you PistonCubeB0T? ",
     "[02:08] <1umvr> !kit ",
-    "[02:08] To 1umvr: Hello 1umvr!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[02:08] To 1umvr: Hello 1umvr!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[02:08] [BOT] <0_HienBot> >Type !discord ",
+    "[02:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:08] <1umvr> !kit pvp ",
+    "[02:08] [8b8t] >> Teleporting to home 0...",
+    "[02:08] [8b8t] >> Teleporting to home 1...",
+    "[02:08] To 1umvr: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:08] <TulagrandBot> >Try @kit to get kit ",
+    "[02:08] To 1umvr: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:08] [8b8t] >> Request sent to 1umvr",
+    "[02:08] <Zems> some weird ass mf on this server man "
   ],
   "userStats": {
     "dylans117877601": 30,
@@ -191,7 +191,8 @@
     "z_parnet": 1,
     "DA883R": 1,
     "lvashl": 3,
-    ".RossNotFound171": 2
+    ".RossNotFound171": 2,
+    "1umvr": 1
   },
   "kitStats": {
     "build": 32,
@@ -200,7 +201,7 @@
     "wood": 13,
     "armortrims": 9,
     "glass": 5,
-    "pvp": 71,
+    "pvp": 72,
     "dye": 4,
     "dupe": 28,
     "gterracotta": 4,
