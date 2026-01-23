@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:03:34 24/1/2026",
+  "lastUpdated": "00:03:44 24/1/2026",
   "totalKits": 530,
   "todayKits": 105,
   "onlineCount": 48,
@@ -63,18 +63,15 @@
       "count": 87
     },
     {
-      "name": "dupe",
+      "name": "build",
       "count": 47
     },
     {
-      "name": "build",
-      "count": 46
+      "name": "dupe",
+      "count": 47
     }
   ],
   "chatLog": [
-    "[17:01] <NyaokBW> !kit pvp ",
-    "[17:01] [8b8t] >> Teleporting to home 0...",
-    "[17:01] [8b8t] >> Teleporting to home 1...",
     "[17:01] To NyaokBW: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[17:01] To NyaokBW: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +98,10 @@
     "[17:03] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[17:03] [8b8t] >> Request sent to .BeetleOak522121",
     "[17:03] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[17:03] [8b8t] >> Teleporting..."
+    "[17:03] [8b8t] >> Teleporting...",
+    "[17:03] [8b8t] >> You have killed yourself!",
+    "[17:03] <seim> !kit blocks ",
+    "[17:03] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "dylans117877601": 40,
@@ -213,7 +213,7 @@
     "This_is_a_tale_": 1,
     "loliuwu": 1,
     "sad2g1f2df": 2,
-    "seim": 5,
+    "seim": 6,
     "ismael10MF": 23,
     "BigBear": 2,
     "dexaer": 1,
@@ -255,7 +255,7 @@
     "iKylieee": 1
   },
   "kitStats": {
-    "build": 46,
+    "build": 47,
     "raid": 34,
     "stash": 22,
     "wood": 14,
