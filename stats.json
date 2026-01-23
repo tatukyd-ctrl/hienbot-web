@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:06:40 23/1/2026",
+  "lastUpdated": "13:07:10 23/1/2026",
   "totalKits": 384,
   "todayKits": 74,
-  "onlineCount": 23,
+  "onlineCount": 21,
   "peakPlayers": 52,
-  "tps": "4.0",
-  "ping": 221,
+  "tps": "5.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 72
+      "count": 73
     },
     {
       "name": "elytra",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:03] [BOT] <0_HienBot> >Hello .ItzTahielZz2! ",
-    "[06:04] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[06:04] [BOT] <0_HienBot> >Welcome to 8b8t, PistonCubeB0T! ",
-    "[06:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:05] [BOT] <0_HienBot> >Hello dexaer! ",
-    "[06:05] <TulagrandBot> >Tulagrande on top! ",
-    "[06:05] [Pro+] <bugbar> !kit light ",
-    "[06:05] [8b8t] >> Teleporting to home 0...",
-    "[06:05] [8b8t] >> Teleporting to home 7...",
     "[06:05] To BigBear: Your kit (light) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[06:05] To BigBear: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:05] [8b8t] >> Request sent to BigBear",
@@ -101,7 +92,16 @@
     "[06:06] [8b8t] >> You have killed yourself!",
     "[06:06] <TulagrandBot> >Try /nc to change your nick color ",
     "[06:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:06] [BOT] <0_HienBot> >What's up, .ItzTahielZz2? "
+    "[06:06] [BOT] <0_HienBot> >What's up, .ItzTahielZz2? ",
+    "[06:06] <ismael10MF> !kit survival ",
+    "[06:06] To ismael10MF: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:07] <TulagrandBot> > TULAGRANDE 1.6! ",
+    "[06:07] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[06:07] <ismael10MF> !kit survival ",
+    "[06:07] [8b8t] >> Teleporting to home 0...",
+    "[06:07] [8b8t] >> Teleporting to home 1...",
+    "[06:07] To ismael10MF: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:07] To ismael10MF: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -214,7 +214,7 @@
     "loliuwu": 1,
     "sad2g1f2df": 2,
     "seim": 1,
-    "ismael10MF": 2,
+    "ismael10MF": 3,
     "BigBear": 1
   },
   "kitStats": {
@@ -236,7 +236,7 @@
     "quartz": 6,
     "music": 7,
     "elytra": 48,
-    "survival": 72,
+    "survival": 73,
     "tools": 29,
     "food": 11,
     "toolbox": 23,
