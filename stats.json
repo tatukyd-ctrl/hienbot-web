@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:17:40 23/1/2026",
+  "lastUpdated": "08:18:10 23/1/2026",
   "totalKits": 348,
   "todayKits": 38,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 52,
-  "tps": "3.0",
+  "tps": "0.0",
   "ping": 294,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 32
+      "count": 33
     },
     {
       "name": "build",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:14] [8b8t] >> Teleporting to home 0...",
-    "[01:14] [8b8t] >> Teleporting to home 6...",
-    "[01:14] To .ASMODEUS4961: Kit \"elytras\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
-    "[01:14] To .ASMODEUS4961: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:14] [8b8t] >> Request sent to .ASMODEUS4961",
-    "[01:14] [8b8t] >> Teleporting...",
-    "[01:14] [8b8t] >> You have killed yourself!",
     "[01:15] <Berk046pr0> !kit ",
     "[01:15] To Berk046pr0: Hello Berk046pr0!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[01:15] <TulagrandBot> >Want kit? Try @kit ",
@@ -101,7 +94,14 @@
     "[01:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[01:17] [BOT] <0_HienBot> >Bot created by Hien2309. ",
     "[01:17] Berk046pr0 has reached the goal [Sky's the Limit]",
-    "[01:17] <TulagrandBot> >Try /nc to change your nick color "
+    "[01:17] <TulagrandBot> >Try /nc to change your nick color ",
+    "[01:17] [BOT] <0_HienBot> >What's up, dylans117877601? ",
+    "[01:17] <Berk046pr0> !kit elytra ",
+    "[01:17] [8b8t] >> Teleporting to home 0...",
+    "[01:17] [8b8t] >> Teleporting to home 6...",
+    "[01:17] To Berk046pr0: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:18] To Berk046pr0: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:18] [8b8t] >> Request sent to Berk046pr0"
   ],
   "userStats": {
     "dylans117877601": 28,
@@ -186,7 +186,7 @@
     "Kayyzo": 1,
     ".ASMODEUS4961": 5,
     "ThePandaGamerYT": 2,
-    "Berk046pr0": 3,
+    "Berk046pr0": 4,
     "Victua7397": 1
   },
   "kitStats": {
@@ -207,7 +207,7 @@
     "end": 8,
     "quartz": 6,
     "music": 7,
-    "elytra": 32,
+    "elytra": 33,
     "survival": 56,
     "tools": 27,
     "food": 10,
