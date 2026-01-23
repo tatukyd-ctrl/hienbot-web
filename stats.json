@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:20:44 24/1/2026",
-  "totalKits": 644,
-  "todayKits": 219,
-  "onlineCount": 41,
+  "lastUpdated": "02:21:03 24/1/2026",
+  "totalKits": 645,
+  "todayKits": 220,
+  "onlineCount": 43,
   "peakPlayers": 49,
-  "tps": "5.0",
-  "ping": 226,
+  "tps": "3.0",
+  "ping": 262,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:20] [8b8t] >> Teleporting to home 1...",
-    "[19:20] To camilogod: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:20] To camilogod: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:20] [8b8t] >> Request sent to camilogod",
-    "[19:20] [Pro] <MintKoala997563> !kit toolbox ",
-    "[19:20] To MintKoala997563: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:20] [8b8t] >> Teleporting...",
-    "[19:20] [Pro] <MintKoala997563> !kit toolbox ",
-    "[19:20] To MintKoala997563: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:20] <Ujur> !kit pvp ",
-    "[19:20] To Ujur: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:20] [8b8t] >> You have killed yourself!",
     "[19:20] <Ujur> !kit pvp ",
     "[19:20] [8b8t] >> Teleporting to home 0...",
     "[19:20] [BOT] <0_HienBot> >What's up, MasonAreAdmins? ",
@@ -101,7 +89,19 @@
     "[19:20] To oofsaidyoamazing: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:20] [Pro] <MintKoala997563> !kit toolbox ",
     "[19:20] To MintKoala997563: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:20] [8b8t] >> You have killed yourself!"
+    "[19:20] [8b8t] >> You have killed yourself!",
+    "[19:20] [Pro] <MintKoala997563> !kit toolbox ",
+    "[19:20] [8b8t] >> Teleporting to home 0...",
+    "[19:20] [8b8t] >> Teleporting to home 4...",
+    "[19:20] To MintKoala997563: Your kit (toolbox) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:20] <Ujur> !kit survival ",
+    "[19:20] To Ujur: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:20] To MintKoala997563: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:20] [8b8t] >> Request sent to MintKoala997563",
+    "[19:20] [8b8t] >> Teleporting...",
+    "[19:20] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[19:20] <darkside1337> !kit end ",
+    "[19:20] To darkside1337: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 44,
@@ -273,7 +273,8 @@
     "998877ujur": 1,
     "darkside1337": 2,
     "Ujur": 3,
-    "camilogod": 1
+    "camilogod": 1,
+    "MintKoala997563": 1
   },
   "kitStats": {
     "build": 53,
@@ -297,7 +298,7 @@
     "survival": 120,
     "tools": 43,
     "food": 15,
-    "toolbox": 26,
+    "toolbox": 27,
     "concrete": 16,
     "highway": 11,
     "gap": 4,
