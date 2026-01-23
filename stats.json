@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:08:40 23/1/2026",
+  "lastUpdated": "13:09:10 23/1/2026",
   "totalKits": 385,
   "todayKits": 75,
-  "onlineCount": 21,
+  "onlineCount": 19,
   "peakPlayers": 52,
-  "tps": "8.0",
-  "ping": 216,
+  "tps": "4.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:05] <ismael10MF> !kit pvp ",
-    "[06:05] [8b8t] >> Teleporting to home 0...",
-    "[06:05] [8b8t] >> Teleporting to home 1...",
-    "[06:05] To ismael10MF: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:05] <TulagrandBot> >Building a base? Try @kit build ",
-    "[06:05] To ismael10MF: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:05] [8b8t] >> Request sent to ismael10MF",
     "[06:05] [8b8t] >> Teleporting...",
     "[06:06] [BOT] <0_HienBot> >Hi MonkeBot! ",
     "[06:06] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[06:07] <TulagrandBot> >Try @kit to get kit ",
     "[06:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[06:08] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[06:08] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
+    "[06:08] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[06:08] <ismael10MF> !kit 101928 ",
+    "[06:08] [8b8t] >> Teleporting to home 0...",
+    "[06:08] [8b8t] >> Home 2 was not found",
+    "[06:08] To ismael10MF: Kit \"101928\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
+    "[06:08] To ismael10MF: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:08] [8b8t] >> Request sent to ismael10MF",
+    "[06:09] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base "
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -214,7 +214,7 @@
     "loliuwu": 1,
     "sad2g1f2df": 2,
     "seim": 1,
-    "ismael10MF": 3,
+    "ismael10MF": 4,
     "BigBear": 1
   },
   "kitStats": {
@@ -228,7 +228,7 @@
     "dye": 6,
     "dupe": 28,
     "gterracotta": 5,
-    "redstone": 15,
+    "redstone": 16,
     "mineral": 9,
     "exp": 15,
     "ocean": 3,
