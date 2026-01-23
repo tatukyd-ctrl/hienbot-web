@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:00:40 23/1/2026",
+  "lastUpdated": "17:01:10 23/1/2026",
   "totalKits": 405,
   "todayKits": 95,
   "onlineCount": 18,
   "peakPlayers": 52,
-  "tps": "5.0",
-  "ping": 215,
+  "tps": "7.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -64,7 +64,7 @@
     },
     {
       "name": "build",
-      "count": 37
+      "count": 38
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:55] <Sombrapro2011> !kit dupe ",
-    "[09:55] [8b8t] >> Teleporting to home 0...",
-    "[09:55] [8b8t] >> Teleporting to home 7...",
-    "[09:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:55] To Sombrapro2011: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:55] To Sombrapro2011: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:55] [8b8t] >> Request sent to Sombrapro2011",
     "[09:56] [BOT] <0_HienBot> >Hello TulagrandBot! ",
     "[09:56] [8b8t] >> Teleporting...",
     "[09:56] <ismael10MF> ando en el end ",
@@ -101,7 +94,14 @@
     "[09:59] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[10:00] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[10:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:00] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
+    "[10:00] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[10:00] <recitar> !kit build ",
+    "[10:00] [8b8t] >> Teleporting to home 0...",
+    "[10:00] [8b8t] >> Home 2 was not found",
+    "[10:00] To recitar: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:00] To recitar: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:00] [8b8t] >> Request sent to recitar",
+    "[10:01] [BOT] <0_HienBot> >Hello _Hienbot! "
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -226,10 +226,11 @@
     "Sponge1007754": 3,
     ".yuu18m": 1,
     "w0rldbod3r": 1,
-    "Sombrapro2011": 3
+    "Sombrapro2011": 3,
+    "recitar": 1
   },
   "kitStats": {
-    "build": 37,
+    "build": 38,
     "raid": 24,
     "stash": 19,
     "wood": 13,
