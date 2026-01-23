@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:19:44 24/1/2026",
-  "totalKits": 750,
-  "todayKits": 325,
+  "lastUpdated": "04:20:07 24/1/2026",
+  "totalKits": 751,
+  "todayKits": 326,
   "onlineCount": 35,
   "peakPlayers": 49,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 227,
   "topUsers": [
     {
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:18] To Ely777888: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[21:18] To Ely777888: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:18] [8b8t] >> Request sent to Ely777888",
-    "[21:18] [8b8t] >> Teleporting...",
-    "[21:18] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[21:18] [8b8t] >> You have killed yourself!",
-    "[21:18] <kaperi2> !kit survival ",
-    "[21:18] [8b8t] >> Teleporting to home 0...",
-    "[21:18] <Maverick0624> !kit stash ",
-    "[21:18] [8b8t] >> Teleporting to home 1...",
-    "[21:18] To Maverick0624: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:18] To kaperi2: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[21:18] <ilovecatsvr57364> gay ",
     "[21:18] To kaperi2: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:18] [8b8t] >> Request sent to kaperi2",
@@ -101,7 +89,19 @@
     "[21:19] <ilovecatsvr57364> !kit stash ",
     "[21:19] To ilovecatsvr57364: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:19] [8b8t] >> You have killed yourself!",
-    "[21:19] [BOT] <0_HienBot> >Use !кιт to get kits "
+    "[21:19] [BOT] <0_HienBot> >Use !кιт to get kits ",
+    "[21:19] <kaperi2> !kit stash ",
+    "[21:19] To kaperi2: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:19] <ilovecatsvr57364> !kit stash ",
+    "[21:19] [8b8t] >> Teleporting to home 0...",
+    "[21:19] [8b8t] >> Home 2 was not found",
+    "[21:19] To ilovecatsvr57364: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:19] To ilovecatsvr57364: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:19] [8b8t] >> Request sent to ilovecatsvr57364",
+    "[21:19] [8b8t] >> Teleporting...",
+    "[21:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[21:20] <kaperi2> !kit stash ",
+    "[21:20] To kaperi2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 44,
@@ -147,7 +147,7 @@
     "botchaosonix": 9,
     "Elrompepelotas": 16,
     "alexito123456": 1,
-    "ilovecatsvr57364": 3,
+    "ilovecatsvr57364": 4,
     "egzoegzo": 6,
     "deantheneek": 3,
     "Antonhysv": 3,
@@ -302,7 +302,7 @@
   "kitStats": {
     "build": 58,
     "raid": 43,
-    "stash": 31,
+    "stash": 32,
     "wood": 16,
     "armortrims": 18,
     "glass": 20,
