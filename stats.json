@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:50:55 24/1/2026",
+  "lastUpdated": "00:51:14 24/1/2026",
   "totalKits": 581,
   "todayKits": 156,
   "onlineCount": 43,
   "peakPlayers": 49,
-  "tps": "6.0",
+  "tps": "3.0",
   "ping": 360,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 106
+      "count": 107
     },
     {
       "name": "elytra",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:49] <17_doom> !kit pvp ",
-    "[17:49] To 17_doom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:49] [8b8t] >> You have killed yourself!",
-    "[17:49] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[17:49] [8b8t] >> No TPA request found",
-    "[17:49] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[17:50] <seim> !kit glass ",
-    "[17:50] [8b8t] >> Teleporting to home 0...",
-    "[17:50] [8b8t] >> Teleporting to home 4...",
-    "[17:50] To seim: Your kit (glass) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:50] <vovan666top> !kit Shulker ",
     "[17:50] To vovan666top: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:50] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:50] [8b8t] >> Request sent to seim",
@@ -101,7 +90,18 @@
     "[17:50] [8b8t] >> Request sent to vovan666top",
     "[17:50] [8b8t] >> Teleporting...",
     "[17:50] <seim> !kit sand ",
-    "[17:50] To seim: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[17:50] To seim: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:50] [8b8t] >> You have killed yourself!",
+    "[17:50] [BOT] <0_HienBot> >What's up, dylans117877601? ",
+    "[17:51] <seim> !kit glass ",
+    "[17:51] To seim: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:51] dylans117877601 has made the advancement [Withering Heights]",
+    "[17:51] <ChoppyChips> !kit survival ",
+    "[17:51] [8b8t] >> Teleporting to home 0...",
+    "[17:51] [8b8t] >> Teleporting to home 1...",
+    "[17:51] <vovan666top> !kit ",
+    "[17:51] To ChoppyChips: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:51] To vovan666top: Hello vovan666top!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 41,
@@ -262,7 +262,7 @@
     "Ikz_SupReMeYT": 3,
     "Angel542XD": 2,
     "17_doom": 3,
-    "ChoppyChips": 1
+    "ChoppyChips": 2
   },
   "kitStats": {
     "build": 49,
@@ -283,7 +283,7 @@
     "quartz": 8,
     "music": 8,
     "elytra": 95,
-    "survival": 106,
+    "survival": 107,
     "tools": 40,
     "food": 14,
     "toolbox": 26,
