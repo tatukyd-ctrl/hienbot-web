@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:01:10 23/1/2026",
+  "lastUpdated": "10:01:40 23/1/2026",
   "totalKits": 368,
   "todayKits": 58,
-  "onlineCount": 25,
+  "onlineCount": 24,
   "peakPlayers": 52,
-  "tps": "4.0",
-  "ping": 223,
+  "tps": "2.0",
+  "ping": 4102,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[02:59] <LaSoLaTu> !kit dupeado ",
-    "[02:59] [8b8t] >> Teleporting to home 0...",
-    "[02:59] [8b8t] >> Teleporting to home 4...",
-    "[02:59] To LaSoLaTu: Kit \"dupeado\" not found! Giving you (dye) instead! dsc.gg/hienbot",
-    "[02:59] [BOT] <0_HienBot> >Hey picc! ",
-    "[02:59] To LaSoLaTu: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:59] [8b8t] >> Request sent to LaSoLaTu",
     "[02:59] <TulagrandBot> >Try @tps to get server's tps ",
     "[02:59] <LaSoLaTu> !kit dupeado ",
@@ -101,7 +94,14 @@
     "[03:00] [BOT] <0_HienBot> >What's up, pablovilla77? ",
     "[03:00] <LaSoLaTu> !kit dupeado ",
     "[03:00] To LaSoLaTu: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:01] <pablovilla77> YES "
+    "[03:01] <pablovilla77> YES ",
+    "[03:01] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[03:01] <TulagrandBot> >Newbie and want to become cool quickly? Try @kit pvp ",
+    "[03:01] <LaSoLaTu> !kit dupeado ",
+    "[03:01] [8b8t] >> Teleporting to home 0...",
+    "[03:01] [8b8t] >> Teleporting to home 4...",
+    "[03:01] To LaSoLaTu: Kit \"dupeado\" not found! Giving you (food) instead! dsc.gg/hienbot",
+    "[03:01] To LaSoLaTu: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "dylans117877601": 32,
@@ -120,7 +120,7 @@
     "yra112": 1,
     "MrMidnight89": 1,
     ".BESTPLAYER7769": 1,
-    "LaSoLaTu": 12,
+    "LaSoLaTu": 13,
     "verusxd22": 10,
     "angelcrawel": 2,
     "kaya_1": 7,
@@ -223,7 +223,7 @@
     "elytra": 41,
     "survival": 64,
     "tools": 29,
-    "food": 10,
+    "food": 11,
     "toolbox": 22,
     "concrete": 11,
     "highway": 9,
