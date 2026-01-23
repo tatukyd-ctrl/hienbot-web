@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:11:01 24/1/2026",
+  "lastUpdated": "00:11:14 24/1/2026",
   "totalKits": 538,
   "todayKits": 113,
-  "onlineCount": 44,
+  "onlineCount": 43,
   "peakPlayers": 49,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 296,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:09] To seim: Kit \"stone\" not found! Giving you (music) instead! dsc.gg/hienbot",
-    "[17:09] [BOT] <0_HienBot> >Hey AppleBot! ",
-    "[17:09] To seim: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:09] [8b8t] >> Request sent to seim",
-    "[17:09] [8b8t] >> Teleporting...",
-    "[17:09] [8b8t] >> You have killed yourself!",
-    "[17:09] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[17:10] <Viejaslocas300> !kit pvp ",
     "[17:10] [8b8t] >> Teleporting to home 0...",
     "[17:10] [8b8t] >> Teleporting to home 1...",
     "[17:10] To Viejaslocas300: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[17:10] [8b8t] >> Request sent to .BeetleOak522121",
     "[17:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[17:10] [8b8t] >> Teleporting...",
-    "[17:10] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 "
+    "[17:10] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[17:11] <NyaokBW> !kit raid ",
+    "[17:11] [8b8t] >> You have killed yourself!",
+    "[17:11] Chat disabled in client options",
+    "[17:11] To NyaokBW: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:11] [8b8t] >> Teleporting to home 0...",
+    "[17:11] [8b8t] >> Home 2 was not found",
+    "[17:11] To NyaokBW: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:11] [8b8t] >> Request sent to NyaokBW"
   ],
   "userStats": {
     "dylans117877601": 40,
@@ -199,7 +199,7 @@
     "Aryan_SMPScout": 1,
     "ExoGia952": 1,
     "bknight": 1,
-    "NyaokBW": 9,
+    "NyaokBW": 10,
     "kacymc": 1,
     "abiariunna12": 1,
     ".Jdavidagrrre": 3,
@@ -258,7 +258,7 @@
   },
   "kitStats": {
     "build": 47,
-    "raid": 34,
+    "raid": 35,
     "stash": 22,
     "wood": 14,
     "armortrims": 13,
