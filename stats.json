@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:01:30 24/1/2026",
+  "lastUpdated": "11:01:45 24/1/2026",
   "totalKits": 962,
   "todayKits": 103,
   "onlineCount": 21,
   "peakPlayers": 49,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 219,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:59] [8b8t] >> Teleporting to home 0...",
-    "[03:59] [8b8t] >> Teleporting to home 3...",
-    "[03:59] To Scratch: Your kit (netherite) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:59] To Scratch: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:59] [8b8t] >> Request sent to Scratch",
-    "[03:59] <Xx_COCACOLA_xX> puedes aceptar tp? ",
-    "[03:59] [8b8t] >> Teleporting...",
     "[03:59] [8b8t] >> You have killed yourself!",
     "[03:59] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[03:59] <Scratch> alguien pvp? para mandaele tp ",
@@ -101,7 +94,14 @@
     "[04:01] To Scratch: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:01] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[04:01] [8b8t] >> Request sent to Scratch",
-    "[04:01] [8b8t] >> Teleporting..."
+    "[04:01] [8b8t] >> Teleporting...",
+    "[04:01] <Xx_COCACOLA_xX> quien team? ",
+    "[04:01] [8b8t] >> You have killed yourself!",
+    "[04:01] <jaev> !kit stash ",
+    "[04:01] [8b8t] >> Teleporting to home 0...",
+    "[04:01] [8b8t] >> Home 2 was not found",
+    "[04:01] To jaev: Tu kit (stash) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[04:01] To jaev: Lo siento! White Shulker Box agotado, no hay otros kits! dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -346,12 +346,13 @@
     "exegaus1999": 2,
     "Xx_COCACOLA_xX": 2,
     "LAZYJED": 1,
-    "dani8976": 2
+    "dani8976": 2,
+    "jaev": 1
   },
   "kitStats": {
     "build": 67,
     "raid": 53,
-    "stash": 41,
+    "stash": 42,
     "wood": 25,
     "armortrims": 20,
     "glass": 23,
