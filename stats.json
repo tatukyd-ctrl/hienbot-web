@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:52:45 24/1/2026",
-  "totalKits": 1052,
-  "todayKits": 193,
-  "onlineCount": 27,
+  "lastUpdated": "14:53:05 24/1/2026",
+  "totalKits": 1053,
+  "todayKits": 194,
+  "onlineCount": 28,
   "peakPlayers": 49,
-  "tps": "4.0",
-  "ping": 221,
+  "tps": "1.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 172
+      "count": 173
     },
     {
       "name": "dupe",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:50] To froggiestuffgame: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:50] [8b8t] >> Please do not spam.",
-    "[07:50] [8b8t] >> You have killed yourself!",
-    "[07:50] <wemmpook> !kit lava ",
-    "[07:50] [8b8t] >> Teleporting to home 0...",
-    "[07:50] [8b8t] >> Home 2 was not found",
-    "[07:50] To wemmpook: Kit \"lava\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
-    "[07:50] To wemmpook: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:50] <froggiestuffgame> !kit ",
-    "[07:50] [8b8t] >> Request sent to wemmpook",
-    "[07:50] To froggiestuffgame: Hello froggiestuffgame!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[07:50] [8b8t] >> Teleporting...",
     "[07:51] [8b8t] >> You have killed yourself!",
     "[07:51] <froggiestuffgame> !kit build ",
@@ -101,7 +90,18 @@
     "[07:51] [8b8t] >> You have killed yourself!",
     "[07:51] [8b8t] >> The TPA request you sent to froggiestuffgame was successfully canceled.",
     "[07:52] [BOT] <0_HienBot> >Hello _Hienbot! ",
-    "[07:52] <froggiestuffgame> ?? "
+    "[07:52] <froggiestuffgame> ?? ",
+    "[07:52] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[07:52] <.YuyuMeteor_V> !kit elytra ",
+    "[07:52] [8b8t] >> Teleporting to home 0...",
+    "[07:52] [8b8t] >> Teleporting to home 6...",
+    "[07:52] To .YuyuMeteor_V: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:52] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[07:52] <wemmpook> !kit raid ",
+    "[07:52] To wemmpook: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[07:52] To .YuyuMeteor_V: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:52] [8b8t] >> Request sent to .YuyuMeteor_V",
+    "[07:53] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -366,7 +366,7 @@
     "froggiestuffgame": 10,
     "0GAMING_palz": 3,
     "wemmpook": 2,
-    ".YuyuMeteor_V": 1
+    ".YuyuMeteor_V": 2
   },
   "kitStats": {
     "build": 77,
@@ -386,7 +386,7 @@
     "end": 32,
     "quartz": 12,
     "music": 10,
-    "elytra": 172,
+    "elytra": 173,
     "survival": 197,
     "tools": 66,
     "food": 21,
