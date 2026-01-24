@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:03:07 24/1/2026",
+  "lastUpdated": "19:03:33 24/1/2026",
   "totalKits": 1223,
   "todayKits": 162,
   "onlineCount": 29,
   "peakPlayers": 34,
-  "tps": "5.0",
-  "ping": 218,
+  "tps": "3.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -68,23 +68,10 @@
     },
     {
       "name": "tools",
-      "count": 91
+      "count": 92
     }
   ],
   "chatLog": [
-    "[12:02] [8b8t] >> Teleporting to home 7...",
-    "[12:02] To Mahin_op_99: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:02] To Mahin_op_99: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:02] [8b8t] >> Request sent to Mahin_op_99",
-    "[12:02] [8b8t] >> Teleporting...",
-    "[12:02] [8b8t] >> You have killed yourself!",
-    "[12:02] <General_Salvos> !kit tools ",
-    "[12:02] [8b8t] >> Teleporting to home 0...",
-    "[12:02] [8b8t] >> Teleporting to home 7...",
-    "[12:02] To General_Salvos: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:02] To General_Salvos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:02] [8b8t] >> Request sent to General_Salvos",
-    "[12:02] [8b8t] >> Teleporting...",
     "[12:02] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[12:02] [8b8t] >> You have killed yourself!",
     "[12:02] <Widelands> !kit food ",
@@ -101,7 +88,20 @@
     "[12:03] To Widelands: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:03] [8b8t] >> Request sent to Widelands",
     "[12:03] [8b8t] >> Teleporting...",
-    "[12:03] <TheAshedOne> nice try tbh "
+    "[12:03] <TheAshedOne> nice try tbh ",
+    "[12:03] [8b8t] >> You have killed yourself!",
+    "[12:03] <General_Salvos> !kit tools ",
+    "[12:03] To General_Salvos: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:03] <TheAshedOne> yeah ",
+    "[12:03] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[12:03] <General_Salvos> !kit tools ",
+    "[12:03] [8b8t] >> Teleporting to home 0...",
+    "[12:03] [8b8t] >> Teleporting to home 7...",
+    "[12:03] To General_Salvos: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:03] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[12:03] To General_Salvos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:03] [8b8t] >> Request sent to General_Salvos",
+    "[12:03] <7DRS> can somebody tpa me "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -386,7 +386,7 @@
     "Abosteno2000": 4,
     "WhiTteleSS": 3,
     "DeoDevil": 1,
-    "General_Salvos": 8,
+    "General_Salvos": 9,
     "buiZneZZman_pro": 1,
     "Red_Fragment_": 1,
     "Widelands": 12,
@@ -412,7 +412,7 @@
     "music": 11,
     "elytra": 211,
     "survival": 225,
-    "tools": 91,
+    "tools": 92,
     "food": 27,
     "toolbox": 44,
     "concrete": 21,
