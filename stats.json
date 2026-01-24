@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:36:14 24/1/2026",
-  "totalKits": 939,
-  "todayKits": 80,
+  "lastUpdated": "10:36:32 24/1/2026",
+  "totalKits": 940,
+  "todayKits": 81,
   "onlineCount": 21,
   "peakPlayers": 49,
-  "tps": "10.0",
+  "tps": "6.0",
   "ping": 219,
   "topUsers": [
     {
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 77
+      "count": 78
     },
     {
       "name": "build",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:32] [8b8t] >> You have killed yourself!",
-    "[03:33] <Gonzolopepito23> !lang ",
-    "[03:33] To Gonzolopepito23: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
-    "[03:33] <Gonzolopepito23> !lang es ",
-    "[03:33] <Preclude> !kit pvp ",
-    "[03:33] To Preclude: You're on cooldown, try again in 38 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:33] To Gonzolopepito23: Idioma cambiado a Espanol! | dsc.gg/hienbot",
-    "[03:33] Scratch has made the advancement [We Need to Go Deeper]",
-    "[03:33] <Gonzolopepito23> !kit Pvp ",
     "[03:33] [8b8t] >> Teleporting to home 0...",
     "[03:33] [8b8t] >> Teleporting to home 1...",
     "[03:33] To Gonzolopepito23: Tu kit (Pvp) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[03:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[03:35] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[03:35] [BOT] <0_HienBot> >Type !discord ",
-    "[03:35] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[03:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:36] <Gonzolopepito23> !kit Dupe ",
+    "[03:36] [8b8t] >> Teleporting to home 0...",
+    "[03:36] [8b8t] >> Teleporting to home 7...",
+    "[03:36] To Gonzolopepito23: Tu kit (Dupe) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[03:36] To Gonzolopepito23: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[03:36] [8b8t] >> Request sent to Gonzolopepito23",
+    "[03:36] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[03:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[03:36] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -339,7 +339,7 @@
     "Berpi4345": 1,
     "pavotepavon": 5,
     "Preclude": 3,
-    "Gonzolopepito23": 4
+    "Gonzolopepito23": 5
   },
   "kitStats": {
     "build": 66,
@@ -350,7 +350,7 @@
     "glass": 23,
     "pvp": 223,
     "dye": 9,
-    "dupe": 77,
+    "dupe": 78,
     "gterracotta": 8,
     "redstone": 30,
     "mineral": 21,
