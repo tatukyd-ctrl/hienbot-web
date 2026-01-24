@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:19:03 24/1/2026",
-  "totalKits": 1152,
-  "todayKits": 91,
+  "lastUpdated": "17:19:24 24/1/2026",
+  "totalKits": 1153,
+  "todayKits": 92,
   "onlineCount": 23,
   "peakPlayers": 34,
-  "tps": "8.0",
-  "ping": 215,
+  "tps": "10.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:16] <cimaritano> who wants to 1v1 ",
-    "[10:16] <cimaritano> !kit ",
-    "[10:16] To cimaritano: Hello cimaritano!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:16] <cimaritano> !Kit pvp ",
-    "[10:16] [8b8t] >> Teleporting to home 0...",
-    "[10:16] [8b8t] >> Teleporting to home 1...",
-    "[10:16] To cimaritano: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:16] To cimaritano: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:16] [8b8t] >> Request sent to cimaritano",
     "[10:16] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[10:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:16] [8b8t] >> You have killed yourself!",
@@ -101,7 +92,16 @@
     "[10:18] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:18] [BOT] <0_HienBot> >Type !discord ",
     "[10:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:18] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
+    "[10:18] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[10:19] <.YuyuMeteor_V> !kit echest ",
+    "[10:19] [8b8t] >> Teleporting to home 0...",
+    "[10:19] [8b8t] >> Home 2 was not found",
+    "[10:19] To .YuyuMeteor_V: Your kit (echest) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:19] To .YuyuMeteor_V: Sorry! White Shulker Box is out of stock. Giving you Red Shulker Box instead! dsc.gg/hienbot",
+    "[10:19] [8b8t] >> Request sent to .YuyuMeteor_V",
+    "[10:19] [8b8t] >> Teleporting...",
+    "[10:19] <liviaaaaaaa> !kit survival ",
+    "[10:19] To liviaaaaaaa: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -366,7 +366,7 @@
     "froggiestuffgame": 19,
     "0GAMING_palz": 6,
     "wemmpook": 16,
-    ".YuyuMeteor_V": 7,
+    ".YuyuMeteor_V": 8,
     "nam12889": 12,
     "Alfyuwu23": 7,
     "Ben9304": 2,
@@ -384,7 +384,7 @@
   "kitStats": {
     "build": 86,
     "raid": 62,
-    "stash": 49,
+    "stash": 50,
     "wood": 28,
     "armortrims": 26,
     "glass": 25,
