@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:31:21 25/1/2026",
+  "lastUpdated": "04:31:34 25/1/2026",
   "totalKits": 1701,
   "todayKits": 640,
   "onlineCount": 29,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 386
+      "count": 387
     },
     {
       "name": "elytra",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:30] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:30] <smallxyecoc> !kit Survival ",
-    "[21:30] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[21:30] [8b8t] >> You have killed yourself!",
-    "[21:30] <smallxyecoc> !kit Survival ",
-    "[21:30] [8b8t] >> Teleporting to home 0...",
-    "[21:30] [8b8t] >> No TPA request found",
-    "[21:30] [8b8t] >> Teleporting to home 1...",
-    "[21:30] To smallxyecoc: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[21:30] To smallxyecoc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:30] [8b8t] >> Request sent to smallxyecoc",
     "[21:30] <rezhuhohlov> !kit Survival ",
@@ -101,7 +92,16 @@
     "[21:31] <Xx_chamorro_xX> creo que lo deje en la base ",
     "[21:31] [8b8t] >> Teleporting...",
     "[21:31] <rezhuhohlov> !kit Survival ",
-    "[21:31] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[21:31] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[21:31] [8b8t] >> You have killed yourself!",
+    "[21:31] <smallxyecoc> !kit Survival ",
+    "[21:31] To smallxyecoc: You're on cooldown, try again in 19 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:31] <WemBubllyzZam> !kit survival ",
+    "[21:31] [8b8t] >> Teleporting to home 0...",
+    "[21:31] [8b8t] >> Teleporting to home 1...",
+    "[21:31] To WemBubllyzZam: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:31] [BOT] <0_HienBot> >Hello modme! ",
+    "[21:31] To WemBubllyzZam: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "dylans117877601": 55,
@@ -455,7 +455,8 @@
     "CrazyLazy3": 1,
     "modme": 1,
     "TechCrypt1c": 1,
-    ".harryvr7489": 2
+    ".harryvr7489": 2,
+    "WemBubllyzZam": 1
   },
   "kitStats": {
     "build": 116,
@@ -476,7 +477,7 @@
     "quartz": 35,
     "music": 12,
     "elytra": 272,
-    "survival": 386,
+    "survival": 387,
     "tools": 125,
     "food": 38,
     "toolbox": 46,
