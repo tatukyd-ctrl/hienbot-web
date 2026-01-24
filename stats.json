@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:58:07 24/1/2026",
+  "lastUpdated": "19:58:33 24/1/2026",
   "totalKits": 1254,
   "todayKits": 193,
   "onlineCount": 34,
   "peakPlayers": 34,
-  "tps": "5.0",
-  "ping": 702,
+  "tps": "4.0",
+  "ping": 251,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -64,7 +64,7 @@
     },
     {
       "name": "dupe",
-      "count": 99
+      "count": 100
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:57] To CraftKahraman123: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:57] To CraftKahraman123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:57] [8b8t] >> Request sent to CraftKahraman123",
-    "[12:57] Widelands has reached the goal [Postmortal]",
-    "[12:57] <eggohann> !kit Illegal ",
-    "[12:57] To eggohann: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[12:57] <elfolladornato> !kit widelans mom ",
-    "[12:57] <ptaltsVWNRc> !kit elytra ",
     "[12:57] To ptaltsVWNRc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:57] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[12:57] <eggohann> !kit Illegal ",
@@ -101,7 +93,15 @@
     "[12:58] <Cheapity> !kit ",
     "[12:58] [8b8t] >> Teleporting...",
     "[12:58] To Cheapity: Hello Cheapity!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:58] Shark19D has made the advancement [Ice Bucket Challenge]"
+    "[12:58] Shark19D has made the advancement [Ice Bucket Challenge]",
+    "[12:58] [8b8t] >> You have killed yourself!",
+    "[12:58] <Cheapity> !kit Dupe ",
+    "[12:58] [8b8t] >> Teleporting to home 0...",
+    "[12:58] [8b8t] >> Teleporting to home 7...",
+    "[12:58] To Cheapity: Your kit (Dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:58] To Cheapity: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:58] [8b8t] >> Request sent to Cheapity",
+    "[12:58] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -394,7 +394,8 @@
     ".CapacityWeb8654": 2,
     "Meisonn": 1,
     "CraftKahraman123": 2,
-    "eggohann": 1
+    "eggohann": 1,
+    "Cheapity": 1
   },
   "kitStats": {
     "build": 90,
@@ -405,7 +406,7 @@
     "glass": 25,
     "pvp": 310,
     "dye": 10,
-    "dupe": 99,
+    "dupe": 100,
     "gterracotta": 9,
     "redstone": 42,
     "mineral": 33,
