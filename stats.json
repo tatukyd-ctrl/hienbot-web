@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:10:15 24/1/2026",
-  "totalKits": 984,
-  "todayKits": 125,
+  "lastUpdated": "12:10:26 24/1/2026",
+  "totalKits": 985,
+  "todayKits": 126,
   "onlineCount": 14,
   "peakPlayers": 49,
-  "tps": "13.0",
+  "tps": "10.0",
   "ping": 221,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 155
+      "count": 156
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:07] [8b8t] >> Teleporting...",
-    "[05:07] [8b8t] >> You have killed yourself!",
-    "[05:07] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[05:07] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[05:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[05:08] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
-    "[05:08] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[05:09] <Gimlee_777_> !kit pvp ",
     "[05:09] [8b8t] >> Teleporting to home 0...",
     "[05:09] [8b8t] >> Teleporting to home 1...",
     "[05:09] To Gimlee_777_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[05:09] <Gimlee_777_> !kit pvp ",
     "[05:09] To Gimlee_777_: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:09] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[05:09] g570_sandybridge has made the advancement [We Need to Go Deeper]"
+    "[05:09] g570_sandybridge has made the advancement [We Need to Go Deeper]",
+    "[05:10] <Gimlee_777_> !kit elytra ",
+    "[05:10] [8b8t] >> Teleporting to home 0...",
+    "[05:10] [8b8t] >> Teleporting to home 6...",
+    "[05:10] To Gimlee_777_: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:10] To Gimlee_777_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:10] [8b8t] >> Request sent to Gimlee_777_",
+    "[05:10] [8b8t] >> Teleporting...",
+    "[05:10] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -351,7 +351,7 @@
     "RustySurff123": 6,
     "AstralXCCV": 1,
     "Lucas2284": 3,
-    "Gimlee_777_": 5,
+    "Gimlee_777_": 6,
     "pvblossj": 1
   },
   "kitStats": {
@@ -372,7 +372,7 @@
     "end": 31,
     "quartz": 12,
     "music": 10,
-    "elytra": 155,
+    "elytra": 156,
     "survival": 183,
     "tools": 57,
     "food": 21,
