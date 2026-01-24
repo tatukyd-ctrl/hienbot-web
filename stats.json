@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:58:03 24/1/2026",
-  "totalKits": 1212,
-  "todayKits": 151,
+  "lastUpdated": "18:58:16 24/1/2026",
+  "totalKits": 1213,
+  "todayKits": 152,
   "onlineCount": 28,
   "peakPlayers": 34,
-  "tps": "0.0",
+  "tps": "2.0",
   "ping": 213,
   "topUsers": [
     {
@@ -67,20 +67,11 @@
       "count": 98
     },
     {
-      "name": "build",
-      "count": 87
+      "name": "tools",
+      "count": 88
     }
   ],
   "chatLog": [
-    "[11:55] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[11:56] <buiZneZZman_pro> help me please ",
-    "[11:56] [8b8t] >> You have killed yourself!",
-    "[11:56] [8b8t] >> No TPA request found",
-    "[11:56] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[11:56] <Widelands> !kit ",
-    "[11:56] To Widelands: Hello Widelands!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[11:56] <Widelands> !kit Mineral ",
-    "[11:56] To Widelands: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:56] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[11:57] <Widelands> !kit Mineral ",
     "[11:57] To Widelands: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[11:57] To General_Salvos: Hello General_Salvos!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[11:57] Widelands has reached the goal [Sky's the Limit]",
     "[11:57] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
-    "[11:58] <TheAshedOne> M GETTING JUMPED BY 20 WITHERS IN THE NETHER "
+    "[11:58] <TheAshedOne> M GETTING JUMPED BY 20 WITHERS IN THE NETHER ",
+    "[11:58] <Mahin_op_99> +kit tools ",
+    "[11:58] [8b8t] >> Teleporting to home 0...",
+    "[11:58] [8b8t] >> Teleporting to home 7...",
+    "[11:58] To Mahin_op_99: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:58] To Mahin_op_99: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:58] [8b8t] >> Request sent to Mahin_op_99",
+    "[11:58] [8b8t] >> Teleporting...",
+    "[11:58] <General_Salvos> !kit toolbox ",
+    "[11:58] To General_Salvos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -389,7 +389,8 @@
     "General_Salvos": 5,
     "buiZneZZman_pro": 1,
     "Red_Fragment_": 1,
-    "Widelands": 8
+    "Widelands": 8,
+    "Mahin_op_99": 1
   },
   "kitStats": {
     "build": 87,
@@ -411,7 +412,7 @@
     "music": 11,
     "elytra": 211,
     "survival": 225,
-    "tools": 87,
+    "tools": 88,
     "food": 26,
     "toolbox": 41,
     "concrete": 21,
