@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:03:34 25/1/2026",
-  "totalKits": 1415,
-  "todayKits": 354,
+  "lastUpdated": "00:04:04 25/1/2026",
+  "totalKits": 1416,
+  "todayKits": 355,
   "onlineCount": 35,
   "peakPlayers": 44,
-  "tps": "3.0",
-  "ping": 292,
+  "tps": "2.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:01] [8b8t] >> Teleporting to home 0...",
-    "[17:01] [8b8t] >> Teleporting to home 3...",
-    "[17:01] To BdubH2015: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:01] To BdubH2015: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:01] [8b8t] >> Request sent to BdubH2015",
-    "[17:01] [8b8t] >> Teleporting...",
-    "[17:01] [8b8t] >> You have killed yourself!",
-    "[17:01] <bwya09876> !kit ",
     "[17:01] To bwya09876: Hello bwya09876!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[17:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[17:01] <bwya09876> !kit PVP ",
@@ -101,7 +93,15 @@
     "[17:02] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[17:02] <muskan331> what? ",
     "[17:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[17:03] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[17:03] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[17:03] <ilovecatsvr57364> !kit totems ",
+    "[17:03] [8b8t] >> Teleporting to home 0...",
+    "[17:03] [8b8t] >> Home 2 was not found",
+    "[17:03] To ilovecatsvr57364: Kit \"totems\" not found! Giving you (gap) instead! dsc.gg/hienbot",
+    "[17:03] To ilovecatsvr57364: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:03] [8b8t] >> Request sent to ilovecatsvr57364",
+    "[17:03] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[17:04] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 54,
@@ -147,7 +147,7 @@
     "botchaosonix": 9,
     "Elrompepelotas": 16,
     "alexito123456": 1,
-    "ilovecatsvr57364": 26,
+    "ilovecatsvr57364": 27,
     "egzoegzo": 6,
     "deantheneek": 3,
     "Antonhysv": 3,
@@ -447,7 +447,7 @@
     "toolbox": 45,
     "concrete": 23,
     "highway": 21,
-    "gap": 12,
+    "gap": 13,
     "wool": 27,
     "lightsources": 32,
     "shulker": 32,
