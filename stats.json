@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:27:37 25/1/2026",
+  "lastUpdated": "03:28:04 25/1/2026",
   "totalKits": 1638,
   "todayKits": 577,
   "onlineCount": 35,
   "peakPlayers": 44,
-  "tps": "3.0",
+  "tps": "1.0",
   "ping": 238,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 328
+      "count": 329
     },
     {
       "name": "elytra",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:26] <rezhuhohlov> !kit Survival ",
-    "[20:26] [8b8t] >> Teleporting to home 0...",
-    "[20:26] [8b8t] >> Teleporting to home 1...",
-    "[20:26] To rezhuhohlov: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:26] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[20:26] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:26] [8b8t] >> Request sent to rezhuhohlov",
-    "[20:26] <smallxyecoc> !kit Survival ",
-    "[20:26] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:26] <rezhuhohlov> !kit Survival ",
     "[20:26] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[20:26] <smallxyecoc> !kit Survival ",
     "[20:26] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[20:27] [8b8t] >> Request sent to smallxyecoc",
     "[20:27] <DORITOS_H> hola ",
     "[20:27] [8b8t] >> Teleporting...",
-    "[20:27] <Xx_chamorro_xX> violvi "
+    "[20:27] <Xx_chamorro_xX> violvi ",
+    "[20:27] [8b8t] >> You have killed yourself!",
+    "[20:27] <Xx_chamorro_xX> volvi ",
+    "[20:27] <smallxyecoc> !kit Survival ",
+    "[20:27] To smallxyecoc: You're on cooldown, try again in 47 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:27] <DORITOS_H> hare un cuarto ",
+    "[20:27] <ianv4741> !kit Survival ",
+    "[20:27] [8b8t] >> Teleporting to home 0...",
+    "[20:27] <smallxyecoc> !kit Survival ",
+    "[20:27] [8b8t] >> Teleporting to home 1...",
+    "[20:27] To ianv4741: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 55,
@@ -447,7 +447,8 @@
     "nikolozi2478": 1,
     "WenlerMaster": 1,
     "Flxtrjr": 1,
-    "Ayden322": 1
+    "Ayden322": 1,
+    "ianv4741": 1
   },
   "kitStats": {
     "build": 115,
@@ -468,7 +469,7 @@
     "quartz": 34,
     "music": 12,
     "elytra": 271,
-    "survival": 328,
+    "survival": 329,
     "tools": 124,
     "food": 37,
     "toolbox": 46,
