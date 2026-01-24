@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:33:45 24/1/2026",
+  "lastUpdated": "14:34:15 24/1/2026",
   "totalKits": 1035,
   "todayKits": 176,
   "onlineCount": 22,
   "peakPlayers": 49,
-  "tps": "7.0",
-  "ping": 348,
+  "tps": "8.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 245
+      "count": 246
     },
     {
       "name": "survival",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:30] [8b8t] Unknown command do /help",
-    "[07:30] [8b8t] Unknown command do /help",
-    "[07:30] ",
-    "[07:30]  [8builders8tools]",
-    "[07:30]  Perform the command /discord add to register",
-    "[07:30]  your discord. By doing so, you",
-    "[07:30]  decrease the chance of being hacked.",
-    "[07:30] ",
-    "[07:30]   [Confirm read]",
-    "[07:30] ",
-    "[07:30] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[07:30] You are already connected to this server!",
     "[07:31] [BOT] <0_HienBot> >Hi HighwayCleaner! ",
     "[07:31] TheAshedOne has made the advancement [Those Were the Days]",
@@ -101,7 +90,18 @@
     "[07:33] [8b8t] >> Teleporting...",
     "[07:33] [BOT] <0_HienBot> >Use !кιт to get kits ",
     "[07:33] [8b8t] >> You have killed yourself!",
-    "[07:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[07:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[07:33] <froggiestuffgame> !kit ",
+    "[07:33] To froggiestuffgame: Hello froggiestuffgame!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[07:33] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
+    "[07:33] <froggiestuffgame> !kit pvp ",
+    "[07:33] To froggiestuffgame: You're on cooldown, try again in 4 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:34] <froggiestuffgame> !kit pvp ",
+    "[07:34] [8b8t] >> Teleporting to home 0...",
+    "[07:34] [8b8t] >> Teleporting to home 1...",
+    "[07:34] To froggiestuffgame: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:34] To froggiestuffgame: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:34] [8b8t] >> Request sent to froggiestuffgame"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -363,7 +363,7 @@
     "dat36": 2,
     "e4mc": 3,
     "mahmoud2010": 3,
-    "froggiestuffgame": 1
+    "froggiestuffgame": 2
   },
   "kitStats": {
     "build": 72,
@@ -372,7 +372,7 @@
     "wood": 25,
     "armortrims": 24,
     "glass": 23,
-    "pvp": 245,
+    "pvp": 246,
     "dye": 9,
     "dupe": 86,
     "gterracotta": 8,
