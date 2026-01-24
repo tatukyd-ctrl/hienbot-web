@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:10:03 24/1/2026",
-  "totalKits": 1231,
-  "todayKits": 170,
-  "onlineCount": 26,
+  "lastUpdated": "19:10:23 24/1/2026",
+  "totalKits": 1232,
+  "todayKits": 171,
+  "onlineCount": 24,
   "peakPlayers": 34,
-  "tps": "7.0",
+  "tps": "4.0",
   "ping": 217,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:07] [8b8t] >> Teleporting...",
-    "[12:07] [8b8t] >> You have killed yourself!",
-    "[12:07] <General_Salvos> !kit ",
-    "[12:07] To General_Salvos: Hello General_Salvos!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:07] <Widelands> !kit build ",
-    "[12:07] [8b8t] >> Teleporting to home 0...",
-    "[12:07] [8b8t] >> Home 2 was not found",
     "[12:07] To Widelands: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[12:07] To Widelands: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +94,14 @@
     "[12:09] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[12:09] [BOT] <0_HienBot> >Type !discord ",
     "[12:09] rarateropipo123 has made the advancement [Under Lock and Key]",
-    "[12:09] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[12:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:10] <General_Salvos> !kit build ",
+    "[12:10] [8b8t] >> Teleporting to home 0...",
+    "[12:10] [8b8t] >> Home 2 was not found",
+    "[12:10] To General_Salvos: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:10] To General_Salvos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:10] [8b8t] >> Request sent to General_Salvos",
+    "[12:10] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -386,14 +386,14 @@
     "Abosteno2000": 4,
     "WhiTteleSS": 3,
     "DeoDevil": 1,
-    "General_Salvos": 10,
+    "General_Salvos": 11,
     "buiZneZZman_pro": 2,
     "Red_Fragment_": 1,
     "Widelands": 15,
     "Mahin_op_99": 4
   },
   "kitStats": {
-    "build": 88,
+    "build": 89,
     "raid": 65,
     "stash": 57,
     "wood": 28,
