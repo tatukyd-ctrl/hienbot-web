@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:00:14 24/1/2026",
-  "totalKits": 878,
-  "todayKits": 19,
-  "onlineCount": 27,
+  "lastUpdated": "08:00:27 24/1/2026",
+  "totalKits": 879,
+  "todayKits": 20,
+  "onlineCount": 26,
   "peakPlayers": 49,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 217,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 199
+      "count": 200
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:59] <Xx_chamorro_xX> pasamelo por priv ",
-    "[00:59] [Ultra] <focoloa> que ",
-    "[00:59] <sebasfut29> so ",
-    "[00:59] [Ultra] <focoloa> q cojones ",
-    "[00:59] <DORITOS_H> como es para decirtelo ",
-    "[00:59] <zatek__> !kit survival ",
-    "[00:59] [8b8t] >> Teleporting to home 0...",
-    "[00:59] [8b8t] >> Teleporting to home 1...",
-    "[00:59] To zatek__: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[00:59] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[00:59] <DORITOS_H> cual comando era ",
     "[00:59] To zatek__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +92,16 @@
     "[01:00] [Ultra] <focoloa> QUEEEE ",
     "[01:00] [Ultra] <focoloa> yikes ",
     "[01:00] <sebasfut29> so ",
-    "[01:00] [8b8t] >> You have killed yourself!"
+    "[01:00] [8b8t] >> You have killed yourself!",
+    "[01:00] <Kapy__> !kit pvp ",
+    "[01:00] [8b8t] >> Teleporting to home 0...",
+    "[01:00] [8b8t] >> Teleporting to home 1...",
+    "[01:00] To Kapy__: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:00] zatek__ has completed the challenge [Cover Me in Debris]",
+    "[01:00] To Kapy__: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:00] [8b8t] >> Request sent to Kapy__",
+    "[01:00] [8b8t] >> Teleporting...",
+    "[01:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "dylans117877601": 46,
@@ -322,7 +322,8 @@
     "JunkBass3801105": 1,
     ".El_DEAD_BOY": 1,
     ".AdaelSteve": 1,
-    "zatek__": 1
+    "zatek__": 1,
+    "Kapy__": 1
   },
   "kitStats": {
     "build": 66,
@@ -331,7 +332,7 @@
     "wood": 16,
     "armortrims": 20,
     "glass": 22,
-    "pvp": 199,
+    "pvp": 200,
     "dye": 9,
     "dupe": 72,
     "gterracotta": 8,
