@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:57:15 24/1/2026",
-  "totalKits": 974,
-  "todayKits": 115,
-  "onlineCount": 23,
+  "lastUpdated": "11:57:39 24/1/2026",
+  "totalKits": 975,
+  "todayKits": 116,
+  "onlineCount": 22,
   "peakPlayers": 49,
-  "tps": "5.0",
-  "ping": 232,
+  "tps": "7.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 228
+      "count": 229
     },
     {
       "name": "survival",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:55] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[04:55] <LAZYJED> how to set? ",
-    "[04:55] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[04:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:56] <LAZYJED> !kit redstone ",
-    "[04:56] [8b8t] >> Teleporting to home 0...",
-    "[04:56] [8b8t] >> Home 2 was not found",
-    "[04:56] To LAZYJED: Your kit (redstone) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:56] To LAZYJED: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:56] [8b8t] >> Request sent to LAZYJED",
-    "[04:56] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[04:56] [8b8t] >> Teleporting...",
-    "[04:56] <RustySurff123> !kit ",
-    "[04:56] To RustySurff123: Hello RustySurff123!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:56] [8b8t] >> You have killed yourself!",
     "[04:56] <RustySurff123> !kit pvp ",
     "[04:56] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +87,21 @@
     "[04:57] <FreeSword> what ",
     "[04:57] <RustySurff123> !kit pvp ",
     "[04:57] To RustySurff123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[04:57] <LAZYJED> lag machine "
+    "[04:57] <LAZYJED> lag machine ",
+    "[04:57] [8b8t] >> You have killed yourself!",
+    "[04:57] <FreeSword> astral do!kit pvp ",
+    "[04:57] [8b8t] >> The TPA request you sent to RustySurff123 was successfully canceled.",
+    "[04:57] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[04:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[04:57] <AstralXCCV> !kit pvp ",
+    "[04:57] [8b8t] >> Teleporting to home 0...",
+    "[04:57] [8b8t] >> Teleporting to home 1...",
+    "[04:57] To AstralXCCV: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:57] <LAZYJED> !kit shulker ",
+    "[04:57] To LAZYJED: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:57] To AstralXCCV: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:57] [8b8t] >> Request sent to AstralXCCV",
+    "[04:57] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -348,7 +348,8 @@
     "LAZYJED": 3,
     "dani8976": 3,
     "jaev": 4,
-    "RustySurff123": 1
+    "RustySurff123": 1,
+    "AstralXCCV": 1
   },
   "kitStats": {
     "build": 69,
@@ -357,7 +358,7 @@
     "wood": 25,
     "armortrims": 20,
     "glass": 23,
-    "pvp": 228,
+    "pvp": 229,
     "dye": 9,
     "dupe": 80,
     "gterracotta": 8,
