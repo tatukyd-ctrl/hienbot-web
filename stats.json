@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:32:56 24/1/2026",
+  "lastUpdated": "10:33:14 24/1/2026",
   "totalKits": 938,
   "todayKits": 79,
-  "onlineCount": 22,
+  "onlineCount": 23,
   "peakPlayers": 49,
-  "tps": "6.0",
-  "ping": 226,
+  "tps": "7.0",
+  "ping": 291,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 222
+      "count": 223
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:30] Gonzolopepito23 has made the advancement [Monster Hunter]",
-    "[03:31] [Pro+] <lvashl> si votas puedes tener mas que si no vota ",
-    "[03:31] <Gonzolopepito23> !kit ",
-    "[03:31] To Gonzolopepito23: Hello Gonzolopepito23!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[03:31] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
-    "[03:31] dashcurse has made the advancement [We Need to Go Deeper]",
-    "[03:31] <Gonzolopepito23> !kit Stash ",
-    "[03:31] [8b8t] >> Teleporting to home 0...",
-    "[03:31] [8b8t] >> Home 2 was not found",
     "[03:31] To Gonzolopepito23: Your kit (Stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[03:31] To Gonzolopepito23: Sorry! White Shulker Box is out of stock. Giving you Yellow Shulker Box instead! dsc.gg/hienbot",
     "[03:31] [8b8t] >> Request sent to Gonzolopepito23",
@@ -101,7 +92,16 @@
     "[03:32] To Preclude: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:32] [8b8t] >> Request sent to Preclude",
     "[03:32] [8b8t] >> Teleporting...",
-    "[03:32] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language "
+    "[03:32] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[03:32] [8b8t] >> You have killed yourself!",
+    "[03:33] <Gonzolopepito23> !lang ",
+    "[03:33] To Gonzolopepito23: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
+    "[03:33] <Gonzolopepito23> !lang es ",
+    "[03:33] <Preclude> !kit pvp ",
+    "[03:33] To Preclude: You're on cooldown, try again in 38 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:33] To Gonzolopepito23: Idioma cambiado a Espanol! | dsc.gg/hienbot",
+    "[03:33] Scratch has made the advancement [We Need to Go Deeper]",
+    "[03:33] <Gonzolopepito23> !kit Pvp "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -339,7 +339,7 @@
     "Berpi4345": 1,
     "pavotepavon": 5,
     "Preclude": 3,
-    "Gonzolopepito23": 3
+    "Gonzolopepito23": 4
   },
   "kitStats": {
     "build": 66,
@@ -348,7 +348,7 @@
     "wood": 24,
     "armortrims": 20,
     "glass": 23,
-    "pvp": 222,
+    "pvp": 223,
     "dye": 9,
     "dupe": 77,
     "gterracotta": 8,
