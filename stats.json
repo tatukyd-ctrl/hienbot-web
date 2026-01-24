@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:05:33 24/1/2026",
+  "lastUpdated": "17:06:03 24/1/2026",
   "totalKits": 1145,
   "todayKits": 84,
-  "onlineCount": 26,
+  "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "3.0",
+  "tps": "6.0",
   "ping": 224,
   "topUsers": [
     {
@@ -68,24 +68,10 @@
     },
     {
       "name": "build",
-      "count": 84
+      "count": 85
     }
   ],
   "chatLog": [
-    "[10:04] <je18> !kit ",
-    "[10:04] To je18: Hello je18!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:04] <TheAshedOne> no ",
-    "[10:04] <TheAshedOne> bro ",
-    "[10:04] <TheAshedOne> why did you break it ",
-    "[10:04] <Inmelwetrust23> hm? ",
-    "[10:04] <Inmelwetrust23> my fault ",
-    "[10:04] <TheAshedOne> the dragon egg is now gone ",
-    "[10:04] <Inmelwetrust23> SORRYYY ",
-    "[10:04] <je18> !kit survival ",
-    "[10:04] [8b8t] >> Teleporting to home 0...",
-    "[10:04] [8b8t] >> Teleporting to home 1...",
-    "[10:04] To je18: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:04] To je18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:04] <je18> !kit survival ",
     "[10:04] To je18: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +87,21 @@
     "[10:05] <Inmelwetrust23> just tp to me whenever i tell you to tp to me ",
     "[10:05] [BOT] <0_HienBot> >Hey MonkeBot! ",
     "[10:05] [8b8t] >> You have killed yourself!",
-    "[10:05] [8b8t] >> The TPA request you sent to je18 was successfully canceled."
+    "[10:05] [8b8t] >> The TPA request you sent to je18 was successfully canceled.",
+    "[10:05] <je18> !kit survival ",
+    "[10:05] To je18: You're on cooldown, try again in 49 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:05] <cimaritano> !Kit ",
+    "[10:05] To cimaritano: Hello cimaritano!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:05] <je18> yo ",
+    "[10:05] <cimaritano> !Kit build ",
+    "[10:05] [8b8t] >> Teleporting to home 0...",
+    "[10:05] [8b8t] >> Home 2 was not found",
+    "[10:05] To cimaritano: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:05] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[10:05] To cimaritano: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:06] [8b8t] >> Request sent to cimaritano",
+    "[10:06] <je18> !Kit ",
+    "[10:06] To je18: Hello je18!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -371,7 +371,7 @@
     "Alfyuwu23": 7,
     "Ben9304": 2,
     "7DRS": 5,
-    "cimaritano": 4,
+    "cimaritano": 5,
     "TheSyzenGod": 10,
     "Memen_canavari": 2,
     ".Shinigami5455": 5,
@@ -382,7 +382,7 @@
     "je18": 1
   },
   "kitStats": {
-    "build": 84,
+    "build": 85,
     "raid": 62,
     "stash": 49,
     "wood": 28,
