@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:00:45 24/1/2026",
+  "lastUpdated": "12:01:15 24/1/2026",
   "totalKits": 980,
   "todayKits": 121,
   "onlineCount": 22,
   "peakPlayers": 49,
   "tps": "8.0",
-  "ping": 223,
+  "ping": 221,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 181
+      "count": 182
     },
     {
       "name": "elytra",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:59] [8b8t] >> Please do not spam.",
-    "[04:59] <Gimlee_777_> !kit survival ",
-    "[04:59] To Gimlee_777_: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:59] <Lucas2284> !kit dupe ",
-    "[04:59] [8b8t] >> Teleporting to home 0...",
-    "[04:59] [8b8t] >> Teleporting to home 7...",
-    "[04:59] To Lucas2284: Your kit (dupe) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:00] To Lucas2284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:00] [8b8t] >> Request sent to Lucas2284",
     "[05:00] [8b8t] >> The TPA request you received from LAZYJED has expired.",
     "[05:00] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[05:00] <Lucas2284> !kit ",
     "[05:00] To Lucas2284: Hello Lucas2284!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:00] Gimlee_777_ has reached the goal [Sky's the Limit]",
-    "[05:00] Gimlee_777_ has made the advancement [Ice Bucket Challenge]"
+    "[05:00] Gimlee_777_ has made the advancement [Ice Bucket Challenge]",
+    "[05:00] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[05:01] <Lucas2284> !kit survival ",
+    "[05:01] [8b8t] >> Teleporting to home 0...",
+    "[05:01] [8b8t] >> Teleporting to home 1...",
+    "[05:01] To Lucas2284: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:01] To Lucas2284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:01] [8b8t] >> Request sent to Lucas2284",
+    "[05:01] <AstralXCCV> its so destroyed "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -350,7 +350,7 @@
     "jaev": 4,
     "RustySurff123": 2,
     "AstralXCCV": 1,
-    "Lucas2284": 2,
+    "Lucas2284": 3,
     "Gimlee_777_": 1
   },
   "kitStats": {
@@ -372,7 +372,7 @@
     "quartz": 12,
     "music": 10,
     "elytra": 154,
-    "survival": 181,
+    "survival": 182,
     "tools": 57,
     "food": 21,
     "toolbox": 36,
