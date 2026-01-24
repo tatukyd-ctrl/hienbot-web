@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:15:33 24/1/2026",
-  "totalKits": 1323,
-  "todayKits": 262,
+  "lastUpdated": "21:15:57 24/1/2026",
+  "totalKits": 1324,
+  "todayKits": 263,
   "onlineCount": 29,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 215,
+  "tps": "2.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:12] <YoSoyBobox> !kit elytas ",
-    "[14:12] To YoSoyBobox: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:12] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[14:13] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[14:13] <YoSoyBobox> !kit elytas ",
-    "[14:13] [8b8t] >> Teleporting to home 0...",
-    "[14:13] [8b8t] >> Teleporting to home 1...",
     "[14:13] To YoSoyBobox: Kit \"elytas\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
     "[14:13] To YoSoyBobox: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:13] [8b8t] >> Request sent to YoSoyBobox",
@@ -101,7 +94,14 @@
     "[14:15] <YoSoyBobox> !kit elytras ",
     "[14:15] To YoSoyBobox: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[14:15] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[14:15] [BOT] <0_HienBot> >Do you want kit? Type !кιт "
+    "[14:15] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[14:15] <YoSoyBobox> !kit elytras ",
+    "[14:15] [8b8t] >> Teleporting to home 0...",
+    "[14:15] [8b8t] >> Teleporting to home 5...",
+    "[14:15] To YoSoyBobox: Kit \"elytras\" not found! Giving you (end) instead! dsc.gg/hienbot",
+    "[14:15] To YoSoyBobox: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:15] [8b8t] >> Request sent to YoSoyBobox",
+    "[14:15] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -405,7 +405,7 @@
     "_Wemmmbu": 5,
     "Blue_Fragment_": 2,
     "Jorge534": 1,
-    "YoSoyBobox": 8
+    "YoSoyBobox": 9
   },
   "kitStats": {
     "build": 92,
@@ -422,7 +422,7 @@
     "mineral": 33,
     "exp": 37,
     "ocean": 9,
-    "end": 34,
+    "end": 35,
     "quartz": 12,
     "music": 11,
     "elytra": 223,
