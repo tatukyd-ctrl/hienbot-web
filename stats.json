@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:55:20 24/1/2026",
-  "totalKits": 1376,
-  "todayKits": 315,
-  "onlineCount": 35,
+  "lastUpdated": "22:55:34 24/1/2026",
+  "totalKits": 1377,
+  "todayKits": 316,
+  "onlineCount": 34,
   "peakPlayers": 44,
-  "tps": "4.0",
-  "ping": 212,
+  "tps": "3.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:53] [8b8t] >> No TPA request found",
-    "[15:53] [8b8t] >> Please do not spam.",
-    "[15:53] <joquinsa> !store kits ",
-    "[15:53] General_Salvos has made the advancement [Ol' Betsy]",
-    "[15:54] <joquinsa> !kit build ",
-    "[15:54] To joquinsa: You're on cooldown, try again in 23 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:54] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[15:54] <Kralj_Zvonimir> !kit survival ",
-    "[15:54] [8b8t] >> Teleporting to home 0...",
-    "[15:54] [8b8t] >> Teleporting to home 1...",
-    "[15:54] To Kralj_Zvonimir: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:54] <Kralj_Zvonimir> !kit survival ",
     "[15:54] To Kralj_Zvonimir: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:54] To Kralj_Zvonimir: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +90,18 @@
     "[15:54] To joquinsa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:54] [8b8t] >> Request sent to joquinsa",
     "[15:55] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[15:55] [8b8t] >> Teleporting..."
+    "[15:55] [8b8t] >> Teleporting...",
+    "[15:55] [8b8t] >> You have killed yourself!",
+    "[15:55] [8b8t] >> The TPA request you received from ffeli has expired.",
+    "[15:55] <Kralj_Zvonimir> !kit raid ",
+    "[15:55] [8b8t] >> Teleporting to home 0...",
+    "[15:55] [8b8t] >> Home 2 was not found",
+    "[15:55] <.wietyy> Anyone got a base i can rate? kinda bored lol. On my mama i wont grief ",
+    "[15:55] To Kralj_Zvonimir: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:55] To Kralj_Zvonimir: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:55] [8b8t] >> Request sent to Kralj_Zvonimir",
+    "[15:55] [8b8t] >> Teleporting...",
+    "[15:55] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks "
   ],
   "userStats": {
     "dylans117877601": 53,
@@ -412,14 +412,14 @@
     ".KingC0ollinn": 2,
     ".wietyy": 7,
     "MutantWall74760": 2,
-    "Kralj_Zvonimir": 11,
+    "Kralj_Zvonimir": 12,
     "husuu_sigma": 4,
     "joquinsa": 5,
     ".argenis9973": 1
   },
   "kitStats": {
     "build": 98,
-    "raid": 73,
+    "raid": 74,
     "stash": 60,
     "wood": 32,
     "armortrims": 29,
