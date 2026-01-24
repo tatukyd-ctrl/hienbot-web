@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:28:04 24/1/2026",
+  "lastUpdated": "23:28:34 24/1/2026",
   "totalKits": 1391,
   "todayKits": 330,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 44,
-  "tps": "2.0",
-  "ping": 222,
+  "tps": "0.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 242
+      "count": 243
     },
     {
       "name": "dupe",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:26] [8b8t] >> You have killed yourself!",
-    "[16:26] You are already connected to this server!",
-    "[16:26] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[16:27] <.wietyy> !kit elytra ",
     "[16:27] [8b8t] >> Teleporting to home 0...",
     "[16:27] [8b8t] >> Teleporting to home 6...",
     "[16:27] To .wietyy: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[16:27] <Kralj_Zvonimir> !kit Shulker ",
     "[16:27] To Kralj_Zvonimir: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:27] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
-    "[16:28] To Tostax: Try again Join dsc.gg/hienbot to report the error."
+    "[16:28] To Tostax: Try again Join dsc.gg/hienbot to report the error.",
+    "[16:28] <slklskfgk> !kit elytra ",
+    "[16:28] [8b8t] >> Teleporting to home 0...",
+    "[16:28] [8b8t] >> Teleporting to home 6...",
+    "[16:28] To slklskfgk: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 54,
@@ -416,7 +416,7 @@
     "husuu_sigma": 4,
     "joquinsa": 5,
     ".argenis9973": 1,
-    "slklskfgk": 1,
+    "slklskfgk": 2,
     "Tostax": 3
   },
   "kitStats": {
@@ -437,7 +437,7 @@
     "end": 39,
     "quartz": 21,
     "music": 12,
-    "elytra": 242,
+    "elytra": 243,
     "survival": 248,
     "tools": 108,
     "food": 31,
