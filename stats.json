@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:47:34 24/1/2026",
+  "lastUpdated": "15:48:03 24/1/2026",
   "totalKits": 1087,
   "todayKits": 26,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 34,
-  "tps": "5.0",
+  "tps": "9.0",
   "ping": 221,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 175
+      "count": 176
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:46] <froggiestuffgame> oki ",
-    "[08:46] <TheSyzenGod> Ç:D ",
-    "[08:46] <nam12889> !kit elytra ",
-    "[08:46] [8b8t] >> Teleporting to home 0...",
-    "[08:46] [8b8t] >> Teleporting to home 6...",
-    "[08:46] To nam12889: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:46] <TheSyzenGod> :DDD ",
-    "[08:46] To nam12889: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:46] [8b8t] >> This player has TPA requests disabled.",
     "[08:46] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[08:46] <Alfyuwu23> !kit Elytra ",
     "[08:46] To Alfyuwu23: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +92,16 @@
     "[08:47] To YummyLexi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:47] [8b8t] >> Request sent to YummyLexi",
     "[08:47] [8b8t] >> Teleporting...",
-    "[08:47] <TheSyzenGod> Oluyor "
+    "[08:47] <TheSyzenGod> Oluyor ",
+    "[08:47] [8b8t] >> You have killed yourself!",
+    "[08:47] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[08:47] <osmankral123123> geleyim o zaman ",
+    "[08:47] <nam12889> !kit elytra ",
+    "[08:47] To nam12889: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:47] <7DRS> !kit elytra ",
+    "[08:48] [8b8t] >> Teleporting to home 0...",
+    "[08:48] [8b8t] >> Teleporting to home 6...",
+    "[08:48] To 7DRS: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -370,7 +370,7 @@
     "nam12889": 3,
     "Alfyuwu23": 3,
     "Ben9304": 2,
-    "7DRS": 1,
+    "7DRS": 2,
     "cimaritano": 1
   },
   "kitStats": {
@@ -391,7 +391,7 @@
     "end": 34,
     "quartz": 12,
     "music": 10,
-    "elytra": 175,
+    "elytra": 176,
     "survival": 205,
     "tools": 79,
     "food": 23,
