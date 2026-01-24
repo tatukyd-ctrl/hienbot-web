@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:35:15 24/1/2026",
+  "lastUpdated": "12:35:45 24/1/2026",
   "totalKits": 999,
   "todayKits": 140,
   "onlineCount": 19,
   "peakPlayers": 49,
-  "tps": "6.0",
-  "ping": 219,
+  "tps": "7.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 238
+      "count": 239
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:32] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[05:32] <RustySurff123> !kit armortrims ",
-    "[05:32] [8b8t] >> Teleporting to home 0...",
-    "[05:32] Ayden322 has made the advancement [Stone Age]",
-    "[05:32] [8b8t] >> Teleporting to home 7...",
-    "[05:32] To RustySurff123: Your kit (armortrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:32] To RustySurff123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:32] [8b8t] >> Request sent to RustySurff123",
     "[05:32] [8b8t] >> Teleporting...",
@@ -101,7 +95,13 @@
     "[05:34] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[05:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:35] [8b8t] >> You have killed yourself!",
-    "[05:35] <Risky_Jaat> rusty come to me "
+    "[05:35] <Risky_Jaat> rusty come to me ",
+    "[05:35] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[05:35] <steving_it> !kit pvp ",
+    "[05:35] [8b8t] >> Teleporting to home 0...",
+    "[05:35] [8b8t] >> Teleporting to home 1...",
+    "[05:35] To steving_it: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:35] To steving_it: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -354,7 +354,8 @@
     "Gimlee_777_": 10,
     "pvblossj": 1,
     "TheAshedOne": 5,
-    "Risky_Jaat": 1
+    "Risky_Jaat": 1,
+    "steving_it": 1
   },
   "kitStats": {
     "build": 69,
@@ -363,7 +364,7 @@
     "wood": 25,
     "armortrims": 22,
     "glass": 23,
-    "pvp": 238,
+    "pvp": 239,
     "dye": 9,
     "dupe": 85,
     "gterracotta": 8,
