@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:31:15 24/1/2026",
-  "totalKits": 996,
-  "todayKits": 137,
-  "onlineCount": 17,
+  "lastUpdated": "12:31:31 24/1/2026",
+  "totalKits": 997,
+  "todayKits": 138,
+  "onlineCount": 16,
   "peakPlayers": 49,
-  "tps": "3.0",
-  "ping": 222,
+  "tps": "6.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 158
+      "count": 159
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:27] [8b8t] >> You have killed yourself!",
-    "[05:27] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[05:28] [BOT] <0_HienBot> >Hey NetherB0T! ",
-    "[05:28] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[05:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:29] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[05:29] <RustySurff123> !kit ",
-    "[05:29] To RustySurff123: Hello RustySurff123!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:29] Gimlee_777_ has made the advancement [Stone Age]",
     "[05:29] <Risky_Jaat> !kit totem ",
     "[05:29] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +93,15 @@
     "[05:31] [8b8t] >> Request sent to RustySurff123",
     "[05:31] <TheAshedOne> kit! rockets ",
     "[05:31] [8b8t] >> Teleporting...",
-    "[05:31] [8b8t] >> You have killed yourself!"
+    "[05:31] [8b8t] >> You have killed yourself!",
+    "[05:31] <TheAshedOne> !kit elytra ",
+    "[05:31] [8b8t] >> Teleporting to home 0...",
+    "[05:31] [8b8t] >> Teleporting to home 6...",
+    "[05:31] To TheAshedOne: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:31] To TheAshedOne: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:31] [8b8t] >> Request sent to TheAshedOne",
+    "[05:31] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[05:31] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -353,7 +353,7 @@
     "Lucas2284": 4,
     "Gimlee_777_": 10,
     "pvblossj": 1,
-    "TheAshedOne": 4,
+    "TheAshedOne": 5,
     "Risky_Jaat": 1
   },
   "kitStats": {
@@ -374,7 +374,7 @@
     "end": 31,
     "quartz": 12,
     "music": 10,
-    "elytra": 158,
+    "elytra": 159,
     "survival": 185,
     "tools": 59,
     "food": 21,
