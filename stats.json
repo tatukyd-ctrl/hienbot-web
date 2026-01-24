@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:26:14 24/1/2026",
-  "totalKits": 932,
-  "todayKits": 73,
+  "lastUpdated": "10:26:40 24/1/2026",
+  "totalKits": 933,
+  "todayKits": 74,
   "onlineCount": 23,
   "peakPlayers": 49,
-  "tps": "1.0",
-  "ping": 249,
+  "tps": "4.0",
+  "ping": 240,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 220
+      "count": 221
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[03:24] <Eden_01655> !kit survival ",
-    "[03:24] [8b8t] >> Teleporting to home 0...",
-    "[03:24] [8b8t] >> Teleporting to home 1...",
-    "[03:24] To Eden_01655: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:24] <pavotepavon> !kit pvp ",
-    "[03:24] To pavotepavon: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:24] To Eden_01655: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:24] [8b8t] >> Request sent to Eden_01655",
     "[03:24] [8b8t] >> Teleporting...",
     "[03:24] <Scratch> !kit survival ",
@@ -101,7 +93,15 @@
     "[03:25] [8b8t] >> Teleporting...",
     "[03:25] [8b8t] >> You have killed yourself!",
     "[03:25] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[03:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[03:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[03:26] <pavotepavon> !kit pvp ",
+    "[03:26] [8b8t] >> Teleporting to home 0...",
+    "[03:26] [8b8t] >> Teleporting to home 1...",
+    "[03:26] To pavotepavon: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:26] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[03:26] To pavotepavon: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:26] [8b8t] >> Request sent to pavotepavon",
+    "[03:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -337,7 +337,7 @@
     "Alanecuatro1": 1,
     "UsuXario": 1,
     "Berpi4345": 1,
-    "pavotepavon": 4,
+    "pavotepavon": 5,
     "Preclude": 2
   },
   "kitStats": {
@@ -347,7 +347,7 @@
     "wood": 24,
     "armortrims": 20,
     "glass": 23,
-    "pvp": 220,
+    "pvp": 221,
     "dye": 9,
     "dupe": 77,
     "gterracotta": 8,
