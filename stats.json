@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:17:15 24/1/2026",
-  "totalKits": 1030,
-  "todayKits": 171,
+  "lastUpdated": "14:17:38 24/1/2026",
+  "totalKits": 1031,
+  "todayKits": 172,
   "onlineCount": 24,
   "peakPlayers": 49,
-  "tps": "10.0",
-  "ping": 285,
+  "tps": "8.0",
+  "ping": 227,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 171
+      "count": 172
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:12] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[07:13] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[07:13] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
-    "[07:13] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[07:14] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[07:14] <DDOSS> !kit ",
-    "[07:14] To DDOSS: Hello DDOSS!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[07:14] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[07:14] <DDOSS> !kit elytra ",
     "[07:14] [8b8t] >> Teleporting to home 0...",
     "[07:14] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +93,15 @@
     "[07:16] To e4mc: Hello e4mc!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[07:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:17] [BOT] <0_HienBot> >Hey MonkeBot! ",
-    "[07:17] To e4mc: Try again Join dsc.gg/hienbot to report the error."
+    "[07:17] To e4mc: Try again Join dsc.gg/hienbot to report the error.",
+    "[07:17] <e4mc> !kit elytra ",
+    "[07:17] [8b8t] >> Teleporting to home 0...",
+    "[07:17] [8b8t] >> Teleporting to home 6...",
+    "[07:17] To e4mc: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:17] To e4mc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:17] [8b8t] >> Request sent to e4mc",
+    "[07:17] [8b8t] >> Teleporting...",
+    "[07:17] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -361,7 +361,7 @@
     "_YouAreez_": 2,
     "Mango_Kills": 7,
     "dat36": 2,
-    "e4mc": 1
+    "e4mc": 2
   },
   "kitStats": {
     "build": 71,
@@ -381,7 +381,7 @@
     "end": 32,
     "quartz": 12,
     "music": 10,
-    "elytra": 171,
+    "elytra": 172,
     "survival": 194,
     "tools": 63,
     "food": 21,
