@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:11:43 24/1/2026",
-  "totalKits": 1149,
-  "todayKits": 88,
+  "lastUpdated": "17:12:03 24/1/2026",
+  "totalKits": 1150,
+  "todayKits": 89,
   "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "1.0",
+  "tps": "8.0",
   "ping": 217,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 193
+      "count": 194
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:10] To je18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:10] [8b8t] >> Request sent to je18",
-    "[10:10] [BOT] <0_HienBot> >Hi _Hienbot! ",
-    "[10:10] <je18> !kit elytra ",
-    "[10:10] To je18: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:10] <vovan666top> !kit ",
-    "[10:10] To vovan666top: Hello vovan666top!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:10] [8b8t] >> You have killed yourself!",
-    "[10:10] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:10] [8b8t] >> The TPA request you sent to je18 was successfully canceled.",
     "[10:10] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[10:11] <vovan666top> !kit Toolbox ",
@@ -101,7 +92,16 @@
     "[10:11] [8b8t] >> The TPA request you received from cimaritano has expired.",
     "[10:11] To liviaaaaaaa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:11] [8b8t] >> Request sent to liviaaaaaaa",
-    "[10:11] [8b8t] >> Teleporting..."
+    "[10:11] [8b8t] >> Teleporting...",
+    "[10:11] [8b8t] >> You have killed yourself!",
+    "[10:11] <je18> !kit elytra ",
+    "[10:11] [8b8t] >> Teleporting to home 0...",
+    "[10:11] [8b8t] >> Teleporting to home 6...",
+    "[10:11] To je18: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:11] [BOT] <0_HienBot> >Hello BigBear! ",
+    "[10:11] To je18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:12] [8b8t] >> Request sent to je18",
+    "[10:12] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -379,7 +379,7 @@
     "Inmelwetrust23": 16,
     "FrostTheOG": 1,
     "ZeR0hEll": 1,
-    "je18": 3
+    "je18": 4
   },
   "kitStats": {
     "build": 86,
@@ -399,7 +399,7 @@
     "end": 34,
     "quartz": 12,
     "music": 11,
-    "elytra": 193,
+    "elytra": 194,
     "survival": 217,
     "tools": 84,
     "food": 24,
