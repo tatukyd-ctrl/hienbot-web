@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:26:03 24/1/2026",
-  "totalKits": 1159,
-  "todayKits": 98,
+  "lastUpdated": "17:26:17 24/1/2026",
+  "totalKits": 1160,
+  "todayKits": 99,
   "onlineCount": 26,
   "peakPlayers": 34,
-  "tps": "9.0",
+  "tps": "5.0",
   "ping": 216,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 276
+      "count": 277
     },
     {
       "name": "survival",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:24] <je18> !kit elytra ",
-    "[10:24] [8b8t] >> Teleporting to home 0...",
-    "[10:24] [8b8t] >> Teleporting to home 6...",
-    "[10:24] To je18: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:24] [8b8t] >> Could not find player je18",
-    "[10:24] [8b8t] >> Player je18 is not online",
-    "[10:24] [BOT] <0_HienBot> >Try !кιт survival ",
-    "[10:25] je18 has made the advancement [Stone Age]",
     "[10:25] <je18> !kit elytra ",
     "[10:25] To je18: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:25] <WildCreativity> im on my alt acc, my other is sweeep_ ",
@@ -101,7 +93,15 @@
     "[10:25] <TheAshedOne> nether is fucked up ",
     "[10:25] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:25] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[10:25] <WildCreativity> not where i am "
+    "[10:25] <WildCreativity> not where i am ",
+    "[10:26] <stuck_alt> !kit pvp ",
+    "[10:26] [8b8t] >> Teleporting to home 0...",
+    "[10:26] [8b8t] >> Teleporting to home 1...",
+    "[10:26] To stuck_alt: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:26] <TheAshedOne> YAY MY FIRST EVER NEO SUCCESSFUL ",
+    "[10:26] To stuck_alt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:26] [8b8t] >> Request sent to stuck_alt",
+    "[10:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -379,7 +379,8 @@
     "Inmelwetrust23": 16,
     "FrostTheOG": 1,
     "ZeR0hEll": 1,
-    "je18": 7
+    "je18": 7,
+    "stuck_alt": 1
   },
   "kitStats": {
     "build": 86,
@@ -388,7 +389,7 @@
     "wood": 28,
     "armortrims": 26,
     "glass": 25,
-    "pvp": 276,
+    "pvp": 277,
     "dye": 9,
     "dupe": 96,
     "gterracotta": 9,
