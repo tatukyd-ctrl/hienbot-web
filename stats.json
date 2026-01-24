@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:30:34 24/1/2026",
-  "totalKits": 1360,
-  "todayKits": 299,
+  "lastUpdated": "22:30:52 24/1/2026",
+  "totalKits": 1361,
+  "todayKits": 300,
   "onlineCount": 32,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 220,
+  "tps": "2.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:28] [8b8t] >> Teleporting to home 0...",
-    "[15:28] [8b8t] >> Teleporting to home 1...",
-    "[15:28] To Kralj_Zvonimir: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:28] To Kralj_Zvonimir: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:28] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[15:28] <.wietyy> !kit ",
-    "[15:28] To .wietyy: Hello .wietyy!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[15:28] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[15:28] <.wietyy> !kit elytra ",
     "[15:28] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +94,14 @@
     "[15:29] [8b8t] >> You have killed yourself!",
     "[15:30] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[15:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:30] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
+    "[15:30] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[15:30] <Kralj_Zvonimir> !kit raid ",
+    "[15:30] [8b8t] >> Teleporting to home 0...",
+    "[15:30] [8b8t] >> Home 2 was not found",
+    "[15:30] To Kralj_Zvonimir: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:30] To Kralj_Zvonimir: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:30] [8b8t] >> Request sent to Kralj_Zvonimir",
+    "[15:30] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 51,
@@ -412,11 +412,11 @@
     ".KingC0ollinn": 2,
     ".wietyy": 7,
     "MutantWall74760": 2,
-    "Kralj_Zvonimir": 6
+    "Kralj_Zvonimir": 7
   },
   "kitStats": {
     "build": 92,
-    "raid": 72,
+    "raid": 73,
     "stash": 60,
     "wood": 32,
     "armortrims": 29,
