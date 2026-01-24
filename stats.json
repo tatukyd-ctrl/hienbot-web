@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:18:33 24/1/2026",
+  "lastUpdated": "22:19:03 24/1/2026",
   "totalKits": 1353,
   "todayKits": 292,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 42,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 211,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:16] To bananastik: Hello bananastik!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:16] <sebasfut29> tpa raid base ",
-    "[15:16] <Sponge1007754> what dupes work on here? ",
-    "[15:16] <bananastik> idk ",
-    "[15:16] <liviaaaaaaa> tpa me ",
     "[15:16] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[15:16] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[15:17] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
@@ -101,7 +96,12 @@
     "[15:18] To magmitamp4: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:18] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
-    "[15:18] To .wietyy: Try again Join dsc.gg/hienbot to report the error."
+    "[15:18] To .wietyy: Try again Join dsc.gg/hienbot to report the error.",
+    "[15:19] <MutantWall74760> !kit schulker ",
+    "[15:19] [8b8t] >> Teleporting to home 0...",
+    "[15:19] [8b8t] >> Teleporting to home 4...",
+    "[15:19] To MutantWall74760: Kit \"schulker\" not found! Giving you (food) instead! dsc.gg/hienbot",
+    "[15:19] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
   ],
   "userStats": {
     "dylans117877601": 50,
@@ -410,7 +410,8 @@
     "FiveNuts": 1,
     "GrimmTMM": 1,
     ".KingC0ollinn": 2,
-    ".wietyy": 5
+    ".wietyy": 5,
+    "MutantWall74760": 1
   },
   "kitStats": {
     "build": 92,
@@ -433,7 +434,7 @@
     "elytra": 233,
     "survival": 241,
     "tools": 107,
-    "food": 29,
+    "food": 30,
     "toolbox": 44,
     "concrete": 23,
     "highway": 21,
