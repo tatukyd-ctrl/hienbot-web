@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:35:42 25/1/2026",
+  "lastUpdated": "02:36:04 25/1/2026",
   "totalKits": 1558,
   "todayKits": 497,
   "onlineCount": 33,
   "peakPlayers": 44,
-  "tps": "0.0",
+  "tps": "3.0",
   "ping": 211,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 266
+      "count": 267
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:34] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:34] [BOT] <0_HienBot> >Type !discord ",
-    "[19:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:34] <rezhuhohlov> !kit Survival ",
-    "[19:34] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:34] <smallxyecoc> !kit Survival ",
-    "[19:34] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:34] [8b8t] >> You have killed yourself!",
     "[19:34] [8b8t] >> The TPA request you sent to smallxyecoc was successfully canceled.",
     "[19:34] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[19:35] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
@@ -101,7 +93,15 @@
     "[19:35] [8b8t] >> Teleporting...",
     "[19:35] DORITOS_H has made the advancement [Diamonds!]",
     "[19:35] <JunkBass3801105> !kit Survival ",
-    "[19:35] To JunkBass3801105: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[19:35] To JunkBass3801105: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[19:35] [8b8t] >> You have killed yourself!",
+    "[19:35] <smallxyecoc> !kit Survival ",
+    "[19:35] To smallxyecoc: You're on cooldown, try again in 5 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:36] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
+    "[19:36] <JunkBass3801105> !kit Elytra ",
+    "[19:36] [8b8t] >> Teleporting to home 0...",
+    "[19:36] [8b8t] >> Teleporting to home 6...",
+    "[19:36] To JunkBass3801105: Your kit (Elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 55,
@@ -319,7 +319,7 @@
     "ROBETIKO": 1,
     "alo0nsop": 1,
     "BdubH2015": 11,
-    "JunkBass3801105": 12,
+    "JunkBass3801105": 13,
     ".El_DEAD_BOY": 1,
     ".AdaelSteve": 1,
     "zatek__": 1,
@@ -462,7 +462,7 @@
     "end": 41,
     "quartz": 25,
     "music": 12,
-    "elytra": 266,
+    "elytra": 267,
     "survival": 271,
     "tools": 122,
     "food": 37,
