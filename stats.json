@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:56:55 24/1/2026",
+  "lastUpdated": "19:57:03 24/1/2026",
   "totalKits": 1253,
   "todayKits": 192,
   "onlineCount": 32,
   "peakPlayers": 34,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 214,
   "topUsers": [
     {
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:54] <CraftKahraman123> 0_HienBot türk müsün ",
-    "[12:54] <CraftKahraman123> AppleBot ",
-    "[12:54] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[12:55] <CraftKahraman123> !kit pvp ",
     "[12:55] [8b8t] >> Teleporting to home 0...",
     "[12:55] [8b8t] >> Teleporting to home 1...",
     "[12:55] To CraftKahraman123: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +97,11 @@
     "[12:56] [8b8t] >> Request sent to TheAshedOne",
     "[12:56] [8b8t] >> Teleporting...",
     "[12:56] <elfolladornato> !kit wood ",
-    "[12:56] To elfolladornato: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[12:56] To elfolladornato: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:56] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[12:56] .CapacityWeb8654 has made the advancement [Stone Age]",
+    "[12:57] <CraftKahraman123> !kit wood ",
+    "[12:57] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -393,13 +393,13 @@
     "Mahin_op_99": 4,
     ".CapacityWeb8654": 2,
     "Meisonn": 1,
-    "CraftKahraman123": 1
+    "CraftKahraman123": 2
   },
   "kitStats": {
     "build": 90,
     "raid": 66,
     "stash": 57,
-    "wood": 30,
+    "wood": 31,
     "armortrims": 27,
     "glass": 25,
     "pvp": 310,
