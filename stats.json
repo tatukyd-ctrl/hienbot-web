@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:53:03 24/1/2026",
+  "lastUpdated": "18:53:33 24/1/2026",
   "totalKits": 1208,
   "todayKits": 147,
   "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "8.0",
-  "ping": 218,
+  "tps": "3.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:51] To Widelands: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:51] <Widelands> !kit mineral ",
-    "[11:51] [8b8t] >> Teleporting to home 0...",
-    "[11:51] [8b8t] >> Teleporting to home 3...",
-    "[11:51] To Widelands: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:51] To Widelands: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:51] <liviaaaaaaa> !kit mace pvp ",
-    "[11:51] [8b8t] >> Request sent to Widelands",
     "[11:51] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[11:52] <liviaaaaaaa> !kit mace pvp ",
     "[11:52] <TheAshedOne> bro js type !kit pvp ",
@@ -101,7 +93,15 @@
     "[11:52] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[11:52] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[11:52] <TheAshedOne> whats up? ",
-    "[11:53] <Bedo38239> plis kit "
+    "[11:53] <Bedo38239> plis kit ",
+    "[11:53] <TheAshedOne> thats the only kit i have ",
+    "[11:53] <Widelands> !kit mineral ",
+    "[11:53] [8b8t] >> Teleporting to home 0...",
+    "[11:53] [8b8t] >> Please do not spam.",
+    "[11:53] [8b8t] >> Teleporting to home 3...",
+    "[11:53] To Widelands: Your kit (mineral) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:53] To Widelands: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:53] [8b8t] >> Request sent to Widelands"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -389,7 +389,7 @@
     "General_Salvos": 4,
     "buiZneZZman_pro": 1,
     "Red_Fragment_": 1,
-    "Widelands": 5
+    "Widelands": 6
   },
   "kitStats": {
     "build": 87,
@@ -403,7 +403,7 @@
     "dupe": 98,
     "gterracotta": 9,
     "redstone": 42,
-    "mineral": 29,
+    "mineral": 30,
     "exp": 35,
     "ocean": 8,
     "end": 34,
