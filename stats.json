@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:17:03 24/1/2026",
+  "lastUpdated": "22:17:33 24/1/2026",
   "totalKits": 1353,
   "todayKits": 292,
   "onlineCount": 33,
   "peakPlayers": 42,
   "tps": "2.0",
-  "ping": 274,
+  "ping": 1508,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 231
+      "count": 232
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:13] To .wietyy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:13] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[15:13] [8b8t] >> Request sent to .wietyy",
-    "[15:13] [8b8t] >> Teleporting...",
-    "[15:14] [BOT] <0_HienBot> >Hi bananastik! ",
-    "[15:14] [8b8t] >> You have killed yourself!",
     "[15:14] [BOT] <0_HienBot> >Hello KurtzMC! ",
     "[15:15] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[15:15] <.wietyy> !kit elytra ",
@@ -101,7 +95,13 @@
     "[15:16] <bananastik> idk ",
     "[15:16] <liviaaaaaaa> tpa me ",
     "[15:16] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[15:16] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[15:16] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[15:17] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[15:17] <liviaaaaaaa> lol ",
+    "[15:17] <.wietyy> !kit elytra ",
+    "[15:17] [8b8t] >> Teleporting to home 0...",
+    "[15:17] [8b8t] >> Teleporting to home 6...",
+    "[15:17] To .wietyy: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 50,
@@ -410,7 +410,7 @@
     "FiveNuts": 1,
     "GrimmTMM": 1,
     ".KingC0ollinn": 2,
-    ".wietyy": 3
+    ".wietyy": 4
   },
   "kitStats": {
     "build": 92,
@@ -430,7 +430,7 @@
     "end": 36,
     "quartz": 17,
     "music": 11,
-    "elytra": 231,
+    "elytra": 232,
     "survival": 241,
     "tools": 107,
     "food": 29,
