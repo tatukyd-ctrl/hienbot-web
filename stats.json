@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:08:15 24/1/2026",
+  "lastUpdated": "13:08:45 24/1/2026",
   "totalKits": 1015,
   "todayKits": 156,
   "onlineCount": 17,
   "peakPlayers": 49,
-  "tps": "10.0",
+  "tps": "11.0",
   "ping": 217,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "build",
-      "count": 70
+      "count": 71
     }
   ],
   "chatLog": [
-    "[06:05] [8b8t] >> Teleporting to home 6...",
-    "[06:05] To YummyLexi: Your kit (Elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:05] To YummyLexi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:05] [8b8t] >> Request sent to YummyLexi",
-    "[06:05] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[06:05] [8b8t] >> Teleporting...",
-    "[06:05] <_YouAreez_> as ",
-    "[06:05] [8b8t] >> You have killed yourself!",
     "[06:05] [BOT] <0_HienBot> >Hey TheAshedOne! ",
     "[06:05] <TheAshedOne> ? ",
     "[06:06] <_YouAreez_> as ",
@@ -101,7 +93,15 @@
     "[06:07] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[06:07] TheAshedOne has made the advancement [Sweet dreams]",
     "[06:07] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[06:07] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[06:07] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[06:08] [BOT] <0_HienBot> >What's up, NetherB0T? ",
+    "[06:08] <YummyLexi> !kit ",
+    "[06:08] To YummyLexi: Hello YummyLexi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[06:08] <YummyLexi> !kit Build ",
+    "[06:08] [8b8t] >> Teleporting to home 0...",
+    "[06:08] [8b8t] >> Home 2 was not found",
+    "[06:08] To YummyLexi: Your kit (Build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:08] To YummyLexi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -356,12 +356,12 @@
     "TheAshedOne": 10,
     "Risky_Jaat": 1,
     "steving_it": 2,
-    "YummyLexi": 6,
+    "YummyLexi": 7,
     "DDOSS": 1,
     "_YouAreez_": 2
   },
   "kitStats": {
-    "build": 70,
+    "build": 71,
     "raid": 55,
     "stash": 45,
     "wood": 25,
