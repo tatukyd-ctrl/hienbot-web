@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:37:15 24/1/2026",
+  "lastUpdated": "12:37:45 24/1/2026",
   "totalKits": 1000,
   "todayKits": 141,
   "onlineCount": 19,
   "peakPlayers": 49,
-  "tps": "9.0",
+  "tps": "11.0",
   "ping": 227,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:35] <RustySurff123> !kit ",
-    "[05:35] To RustySurff123: Hello RustySurff123!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:35] [8b8t] >> Teleporting...",
-    "[05:36] <RustySurff123> !kit stash ",
-    "[05:36] To RustySurff123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:36] [8b8t] >> You have killed yourself!",
-    "[05:36] <steving_it> yo ",
-    "[05:36] steving_it has reached the goal [Sky's the Limit]",
     "[05:36] steving_it has made the advancement [Ice Bucket Challenge]",
     "[05:36] steving_it has completed the challenge [Cover Me in Debris]",
     "[05:36] <RustySurff123> !kit stash ",
@@ -101,7 +93,15 @@
     "[05:37] <RustySurff123> !kit lightsources ",
     "[05:37] To RustySurff123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:37] [8b8t] >> You have killed yourself!",
-    "[05:37] [8b8t] >> The TPA request you sent to YummyLexi was successfully canceled."
+    "[05:37] [8b8t] >> The TPA request you sent to YummyLexi was successfully canceled.",
+    "[05:37] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
+    "[05:37] <RustySurff123> !kit lightsources ",
+    "[05:37] [8b8t] >> Teleporting to home 0...",
+    "[05:37] [8b8t] >> Teleporting to home 7...",
+    "[05:37] To RustySurff123: Your kit (lightsources) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:37] To RustySurff123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:37] [8b8t] >> Request sent to RustySurff123",
+    "[05:37] [8b8t] >> The TPA request you sent to RustySurff123 has expired."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -348,7 +348,7 @@
     "LAZYJED": 5,
     "dani8976": 3,
     "jaev": 4,
-    "RustySurff123": 11,
+    "RustySurff123": 12,
     "AstralXCCV": 1,
     "Lucas2284": 4,
     "Gimlee_777_": 10,
@@ -385,7 +385,7 @@
     "highway": 18,
     "gap": 7,
     "wool": 17,
-    "lightsources": 23,
+    "lightsources": 24,
     "shulker": 24,
     "terracotta": 3
   }
