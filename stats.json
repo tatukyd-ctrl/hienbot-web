@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:15:15 24/1/2026",
+  "lastUpdated": "12:15:45 24/1/2026",
   "totalKits": 990,
   "todayKits": 131,
   "onlineCount": 16,
   "peakPlayers": 49,
-  "tps": "8.0",
-  "ping": 226,
+  "tps": "7.0",
+  "ping": 263,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 184
+      "count": 185
     },
     {
       "name": "elytra",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:12] [8b8t] >> Teleporting to home 0...",
-    "[05:12] [8b8t] >> Teleporting to home 7...",
-    "[05:12] To Lucas2284: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:12] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[05:12] To Lucas2284: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:12] [8b8t] >> Request sent to Lucas2284",
-    "[05:13] [8b8t] >> Teleporting...",
-    "[05:13] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[05:13] <Gimlee_777_> !kit pvp ",
     "[05:13] [8b8t] >> Teleporting to home 0...",
     "[05:13] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +93,15 @@
     "[05:14] [8b8t] >> Request sent to Gimlee_777_",
     "[05:14] TheAshedOne has made the advancement [We Need to Go Deeper]",
     "[05:14] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[05:14] [8b8t] >> Teleporting..."
+    "[05:14] [8b8t] >> Teleporting...",
+    "[05:15] <TheAshedOne> !kit survival ",
+    "[05:15] [8b8t] >> Teleporting to home 0...",
+    "[05:15] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[05:15] [8b8t] >> Teleporting to home 1...",
+    "[05:15] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[05:15] To TheAshedOne: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:15] To TheAshedOne: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:15] [8b8t] >> Request sent to TheAshedOne"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -352,7 +352,8 @@
     "AstralXCCV": 1,
     "Lucas2284": 4,
     "Gimlee_777_": 9,
-    "pvblossj": 1
+    "pvblossj": 1,
+    "TheAshedOne": 1
   },
   "kitStats": {
     "build": 69,
@@ -373,7 +374,7 @@
     "quartz": 12,
     "music": 10,
     "elytra": 156,
-    "survival": 184,
+    "survival": 185,
     "tools": 59,
     "food": 21,
     "toolbox": 37,
