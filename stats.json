@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:13:36 24/1/2026",
-  "totalKits": 1351,
-  "todayKits": 290,
-  "onlineCount": 28,
+  "lastUpdated": "22:14:01 24/1/2026",
+  "totalKits": 1352,
+  "todayKits": 291,
+  "onlineCount": 26,
   "peakPlayers": 42,
-  "tps": "6.0",
-  "ping": 225,
+  "tps": "4.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:11] [BOT] <0_HienBot> >Welcome to 8b8t, Kurtz! ",
-    "[15:11] <bananastik> !kit quartz ",
-    "[15:11] [8b8t] >> Teleporting to home 0...",
-    "[15:11] [8b8t] >> Teleporting to home 5...",
-    "[15:11] To bananastik: Your kit (quartz) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:11] To bananastik: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:11] [8b8t] >> Request sent to bananastik",
-    "[15:11] [8b8t] >> Teleporting...",
-    "[15:11] <liviaaaaaaa> what do u want put on the armor i gavew u ",
     "[15:11] [8b8t] >> You have killed yourself!",
     "[15:11] <Bedo38239> ok ",
     "[15:11] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
@@ -101,7 +92,16 @@
     "[15:13] To doyoda1292: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:13] [8b8t] >> Request sent to doyoda1292",
     "[15:13] [8b8t] >> Teleporting...",
-    "[15:13] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[15:13] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[15:13] [8b8t] >> You have killed yourself!",
+    "[15:13] <.wietyy> !kit fireworks ",
+    "[15:13] [8b8t] >> Teleporting to home 0...",
+    "[15:13] [8b8t] >> Teleporting to home 6...",
+    "[15:13] To .wietyy: Kit \"fireworks\" not found! Giving you (highway) instead! dsc.gg/hienbot",
+    "[15:13] To .wietyy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:13] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[15:13] [8b8t] >> Request sent to .wietyy",
+    "[15:13] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 50,
@@ -410,7 +410,7 @@
     "FiveNuts": 1,
     "GrimmTMM": 1,
     ".KingC0ollinn": 2,
-    ".wietyy": 1
+    ".wietyy": 2
   },
   "kitStats": {
     "build": 92,
@@ -436,7 +436,7 @@
     "food": 29,
     "toolbox": 44,
     "concrete": 23,
-    "highway": 20,
+    "highway": 21,
     "gap": 12,
     "wool": 25,
     "lightsources": 30,
