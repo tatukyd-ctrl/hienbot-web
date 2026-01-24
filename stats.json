@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:07:04 24/1/2026",
-  "totalKits": 1383,
-  "todayKits": 322,
+  "lastUpdated": "23:07:33 24/1/2026",
+  "totalKits": 1384,
+  "todayKits": 323,
   "onlineCount": 33,
   "peakPlayers": 44,
   "tps": "3.0",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 339
+      "count": 340
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:04] [BOT] <0_HienBot> >Type !discord ",
-    "[16:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:04] <tomnamdz> help my pls ",
-    "[16:04] tomnamdz has made the advancement [Ice Bucket Challenge]",
-    "[16:04] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[16:04] <ffeli> !kit ",
-    "[16:04] To ffeli: Hello ffeli!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[16:04] <ffeli> !kit mineral ",
     "[16:04] [8b8t] >> Teleporting to home 0...",
     "[16:04] [8b8t] >> Teleporting to home 3...",
@@ -101,7 +94,14 @@
     "[16:06] <WildCreativity> my base too good ",
     "[16:06] [BOT] <0_HienBot> >Hi .Pichuckrak! ",
     "[16:06] <.wietyy> i get it bru, u have a good one ",
-    "[16:07] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash "
+    "[16:07] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[16:07] <.wietyy> !kit pvp ",
+    "[16:07] [8b8t] >> Teleporting to home 0...",
+    "[16:07] [8b8t] >> Teleporting to home 1...",
+    "[16:07] To .wietyy: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:07] To .wietyy: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:07] [8b8t] >> Request sent to .wietyy",
+    "[16:07] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 54,
@@ -410,7 +410,7 @@
     "FiveNuts": 1,
     "GrimmTMM": 1,
     ".KingC0ollinn": 2,
-    ".wietyy": 8,
+    ".wietyy": 9,
     "MutantWall74760": 2,
     "Kralj_Zvonimir": 14,
     "husuu_sigma": 4,
@@ -424,7 +424,7 @@
     "wood": 32,
     "armortrims": 29,
     "glass": 26,
-    "pvp": 339,
+    "pvp": 340,
     "dye": 11,
     "dupe": 120,
     "gterracotta": 10,
