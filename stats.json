@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:56:31 24/1/2026",
+  "lastUpdated": "11:56:45 24/1/2026",
   "totalKits": 974,
   "todayKits": 115,
   "onlineCount": 22,
   "peakPlayers": 49,
-  "tps": "5.0",
-  "ping": 222,
+  "tps": "9.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 227
+      "count": 228
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:52] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:53] <LAZYJED> why? ",
-    "[04:53] <FreeSword> I'm not far away from the fuckass spawn ",
-    "[04:53] [BOT] <0_HienBot> >Type !discord ",
-    "[04:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:53] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[04:53] <FreeSword> WHAT TEY FUCK IS THIS ",
     "[04:53] <LAZYJED> accept astral ",
     "[04:54] <AstralXCCV> i cant ",
@@ -101,7 +95,13 @@
     "[04:56] [8b8t] >> Request sent to LAZYJED",
     "[04:56] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[04:56] [8b8t] >> Teleporting...",
-    "[04:56] <RustySurff123> !kit "
+    "[04:56] <RustySurff123> !kit ",
+    "[04:56] To RustySurff123: Hello RustySurff123!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[04:56] [8b8t] >> You have killed yourself!",
+    "[04:56] <RustySurff123> !kit pvp ",
+    "[04:56] [8b8t] >> Teleporting to home 0...",
+    "[04:56] [8b8t] >> Teleporting to home 1...",
+    "[04:56] To RustySurff123: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -347,7 +347,8 @@
     "Xx_COCACOLA_xX": 8,
     "LAZYJED": 3,
     "dani8976": 3,
-    "jaev": 4
+    "jaev": 4,
+    "RustySurff123": 1
   },
   "kitStats": {
     "build": 69,
@@ -356,7 +357,7 @@
     "wood": 25,
     "armortrims": 20,
     "glass": 23,
-    "pvp": 227,
+    "pvp": 228,
     "dye": 9,
     "dupe": 80,
     "gterracotta": 8,
