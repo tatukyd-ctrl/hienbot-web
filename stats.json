@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:22:04 24/1/2026",
+  "lastUpdated": "23:22:34 24/1/2026",
   "totalKits": 1388,
   "todayKits": 327,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 44,
-  "tps": "0.0",
-  "ping": 227,
+  "tps": "2.0",
+  "ping": 222,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 342
+      "count": 343
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:19] To slklskfgk: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:19] <Kralj_Zvonimir> !kit quartz ",
-    "[16:19] [8b8t] >> Teleporting to home 0...",
-    "[16:19] [8b8t] >> Teleporting to home 5...",
-    "[16:19] To Kralj_Zvonimir: Your kit (quartz) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:19] To Kralj_Zvonimir: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:19] [8b8t] >> Request sent to Kralj_Zvonimir",
-    "[16:19] [8b8t] >> Teleporting...",
-    "[16:19] [8b8t] >> You have killed yourself!",
     "[16:19] [8b8t] >> Please do not spam.",
     "[16:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[16:20] <.wietyy> !kit pvp ",
@@ -101,7 +92,16 @@
     "[16:21] <Gato88> i we ",
     "[16:21] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[16:21] <Tostax> ||||||||||||||||| ",
-    "[16:21] <dhanuja2> help me pales "
+    "[16:21] <dhanuja2> help me pales ",
+    "[16:22] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[16:22] <Gato88> ayuda ",
+    "[16:22] <Tostax> !kit pvp ",
+    "[16:22] [8b8t] >> Teleporting to home 0...",
+    "[16:22] <Gato88> saqueme del spaw ",
+    "[16:22] [8b8t] >> Teleporting to home 1...",
+    "[16:22] To Tostax: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:22] To Tostax: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:22] [8b8t] >> Request sent to Tostax"
   ],
   "userStats": {
     "dylans117877601": 54,
@@ -416,7 +416,8 @@
     "husuu_sigma": 4,
     "joquinsa": 5,
     ".argenis9973": 1,
-    "slklskfgk": 1
+    "slklskfgk": 1,
+    "Tostax": 1
   },
   "kitStats": {
     "build": 100,
@@ -425,7 +426,7 @@
     "wood": 32,
     "armortrims": 29,
     "glass": 26,
-    "pvp": 342,
+    "pvp": 343,
     "dye": 11,
     "dupe": 120,
     "gterracotta": 10,
