@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:32:04 25/1/2026",
-  "totalKits": 1844,
-  "todayKits": 783,
-  "onlineCount": 34,
+  "lastUpdated": "06:32:19 25/1/2026",
+  "totalKits": 1845,
+  "todayKits": 784,
+  "onlineCount": 35,
   "peakPlayers": 44,
-  "tps": "2.0",
-  "ping": 895,
+  "tps": "3.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "smallxyecoc",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:31] <smallxyecoc> !kit PVP ",
-    "[23:31] [8b8t] >> Teleporting to home 0...",
-    "[23:31] <ASXN> ptmr ",
-    "[23:31] [8b8t] >> Teleporting to home 1...",
-    "[23:31] To smallxyecoc: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:31] <YummyLexi> !kit Build\\ ",
-    "[23:31] <YummyLexi> !kit Build ",
-    "[23:31] To YummyLexi: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[23:31] To smallxyecoc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:31] [8b8t] >> Request sent to smallxyecoc",
     "[23:31] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
@@ -101,7 +93,15 @@
     "[23:31] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[23:32] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
     "[23:32] <YummyLexi> aaa ",
-    "[23:32] [Youtuber] <elproplayerxddd> debiste haber peusto sorrund "
+    "[23:32] [Youtuber] <elproplayerxddd> debiste haber peusto sorrund ",
+    "[23:32] <Kazuki_8> !kit raid ",
+    "[23:32] [8b8t] >> Teleporting to home 0...",
+    "[23:32] [8b8t] >> Home 2 was not found",
+    "[23:32] To Kazuki_8: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:32] To Kazuki_8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:32] [8b8t] >> Request sent to Kazuki_8",
+    "[23:32] <sebasfut29> si me quede frisado xd ",
+    "[23:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 58,
@@ -465,11 +465,12 @@
     ".Takma_Kafana_16": 1,
     ".Hulk_bostero": 1,
     "D4RK_K1NG": 1,
-    "megapokegamer": 2
+    "megapokegamer": 2,
+    "Kazuki_8": 1
   },
   "kitStats": {
     "build": 130,
-    "raid": 81,
+    "raid": 82,
     "stash": 81,
     "wood": 36,
     "armortrims": 29,
