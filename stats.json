@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:46:14 24/1/2026",
+  "lastUpdated": "10:46:44 24/1/2026",
   "totalKits": 949,
   "todayKits": 90,
   "onlineCount": 26,
   "peakPlayers": 49,
-  "tps": "5.0",
+  "tps": "11.0",
   "ping": 218,
   "topUsers": [
     {
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:45] [8b8t] >> Home 2 was not found",
-    "[03:45] <aaronlardone> @kit pvp ",
-    "[03:45] To aaronlardone: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:45] To alifthepro123: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[03:45] <Akuaman> !kit stash ",
-    "[03:45] To alifthepro123: Sorry! White Shulker Box is out of stock. Giving you Yellow Shulker Box instead! dsc.gg/hienbot",
-    "[03:45] To Akuaman: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:45] [8b8t] >> Request sent to alifthepro123",
-    "[03:45] <Akuaman> !kit stash ",
-    "[03:45] To Akuaman: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[03:45] [8b8t] >> Teleporting...",
     "[03:45] exegaus1999 has made the advancement [Who is Cutting Onions?]",
     "[03:45] [8b8t] >> You have killed yourself!",
     "[03:45] <aaronlardone> @kit shulker ",
@@ -101,7 +90,18 @@
     "[03:46] <alifthepro123> !kit ",
     "[03:46] To alifthepro123: Hello alifthepro123!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[03:46] [8b8t] >> You have killed yourself!",
-    "[03:46] [8b8t] >> The TPA request you sent to aaronlardone was successfully canceled."
+    "[03:46] [8b8t] >> The TPA request you sent to aaronlardone was successfully canceled.",
+    "[03:46] <exegaus1999> !kit shulker ",
+    "[03:46] <xXSam232Xx> !kit Survival ",
+    "[03:46] [8b8t] >> Teleporting to home 0...",
+    "[03:46] [8b8t] >> Teleporting to home 6...",
+    "[03:46] To exegaus1999: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:46] To exegaus1999: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:46] [8b8t] >> Request sent to exegaus1999",
+    "[03:46] <xXSam232Xx> !kit Survival ",
+    "[03:46] To xXSam232Xx: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[03:46] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[03:46] <Xx_COCACOLA_xX> holas soy nuevo "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -342,7 +342,8 @@
     "Gonzolopepito23": 8,
     "alifthepro123": 4,
     "creeperawman120": 1,
-    "xXSam232Xx": 1
+    "xXSam232Xx": 1,
+    "exegaus1999": 1
   },
   "kitStats": {
     "build": 66,
@@ -372,7 +373,7 @@
     "gap": 7,
     "wool": 16,
     "lightsources": 22,
-    "shulker": 21,
+    "shulker": 22,
     "terracotta": 3
   }
 }
