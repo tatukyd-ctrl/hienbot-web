@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:38:44 24/1/2026",
-  "totalKits": 942,
-  "todayKits": 83,
-  "onlineCount": 25,
+  "lastUpdated": "10:38:58 24/1/2026",
+  "totalKits": 943,
+  "todayKits": 84,
+  "onlineCount": 26,
   "peakPlayers": 49,
   "tps": "5.0",
   "ping": 220,
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 175
+      "count": 176
     },
     {
       "name": "elytra",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:36] [8b8t] >> You have killed yourself!",
-    "[03:36] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
-    "[03:37] <Gonzolopepito23> !kit Dupe ",
-    "[03:37] To Gonzolopepito23: Estas en espera, intenta en 2 segundos! Unete a dsc.gg/hienbot",
-    "[03:37] <Gonzolopepito23> !kit Dupe ",
-    "[03:37] [8b8t] >> Teleporting to home 0...",
-    "[03:37] [8b8t] >> Teleporting to home 7...",
-    "[03:37] To Gonzolopepito23: Tu kit (Dupe) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
-    "[03:37] To Gonzolopepito23: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[03:37] [BOT] <0_HienBot> >Type !discord ",
     "[03:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:37] [8b8t] >> Request sent to Gonzolopepito23",
@@ -101,7 +92,16 @@
     "[03:38] Scratch has completed the challenge [Subspace Bubble]",
     "[03:38] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[03:38] [8b8t] >> Teleporting...",
-    "[03:38] [8b8t] >> You have killed yourself!"
+    "[03:38] [8b8t] >> You have killed yourself!",
+    "[03:38] <creeperawman120> !kit survival ",
+    "[03:38] [8b8t] >> Teleporting to home 0...",
+    "[03:38] [8b8t] >> Teleporting to home 1...",
+    "[03:38] To creeperawman120: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:38] To creeperawman120: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:38] [8b8t] >> Request sent to creeperawman120",
+    "[03:38] [8b8t] >> Teleporting...",
+    "[03:38] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[03:38] <Gonzolopepito23> como se dupea "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -340,7 +340,8 @@
     "pavotepavon": 5,
     "Preclude": 3,
     "Gonzolopepito23": 6,
-    "alifthepro123": 1
+    "alifthepro123": 1,
+    "creeperawman120": 1
   },
   "kitStats": {
     "build": 66,
@@ -361,7 +362,7 @@
     "quartz": 12,
     "music": 10,
     "elytra": 149,
-    "survival": 175,
+    "survival": 176,
     "tools": 56,
     "food": 21,
     "toolbox": 34,
