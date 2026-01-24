@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "07:18:32 24/1/2026",
+  "lastUpdated": "07:18:44 24/1/2026",
   "totalKits": 868,
   "todayKits": 9,
-  "onlineCount": 24,
+  "onlineCount": 27,
   "peakPlayers": 49,
   "tps": "4.0",
   "ping": 214,
@@ -68,19 +68,10 @@
     },
     {
       "name": "build",
-      "count": 65
+      "count": 66
     }
   ],
   "chatLog": [
-    "[00:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:16] <ElDan> no has encontrado a doritos xd ",
-    "[00:17] <ElDan> ese men es un caso ",
-    "[00:17] <Xx_chamorro_xX> dame un toque que estoy ayudando a doritos ksjs ",
-    "[00:17] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[00:17] <ElDan> doritos nachos ",
-    "[00:17] <Viejaslocas300> !kit hacker ",
-    "[00:17] [8b8t] >> Teleporting to home 0...",
-    "[00:17] [8b8t] >> Teleporting to home 7...",
     "[00:17] To Viejaslocas300: Kit \"hacker\" not found! Giving you (tools) instead! dsc.gg/hienbot",
     "[00:17] To Viejaslocas300: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[00:17] [8b8t] >> Request sent to Viejaslocas300",
@@ -101,7 +92,16 @@
     "[00:18] [8b8t] >> Request sent to elmataservers",
     "[00:18] [8b8t] >> Teleporting...",
     "[00:18] <DORITOS_H> !kit ",
-    "[00:18] To DORITOS_H: Hello DORITOS_H!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[00:18] To DORITOS_H: Hello DORITOS_H!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[00:18] [8b8t] >> You have killed yourself!",
+    "[00:18] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[00:18] <DORITOS_H> !kit build ",
+    "[00:18] [8b8t] >> Teleporting to home 0...",
+    "[00:18] [8b8t] >> Home 2 was not found",
+    "[00:18] To DORITOS_H: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[00:18] <ElDan> doritos ya deja encontrar xd ",
+    "[00:18] To DORITOS_H: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:18] [8b8t] >> Request sent to DORITOS_H"
   ],
   "userStats": {
     "dylans117877601": 46,
@@ -315,11 +315,11 @@
     "HauntedBlood_": 5,
     "MrUnknwonShadow": 1,
     "xfernando12_": 4,
-    "DORITOS_H": 2,
+    "DORITOS_H": 3,
     "ROBETIKO": 1
   },
   "kitStats": {
-    "build": 65,
+    "build": 66,
     "raid": 46,
     "stash": 39,
     "wood": 16,
