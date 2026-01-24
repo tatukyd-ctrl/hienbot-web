@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:44:04 24/1/2026",
-  "totalKits": 1369,
-  "todayKits": 308,
+  "lastUpdated": "22:44:20 24/1/2026",
+  "totalKits": 1370,
+  "todayKits": 309,
   "onlineCount": 38,
   "peakPlayers": 42,
-  "tps": "2.0",
+  "tps": "4.0",
   "ping": 299,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 245
+      "count": 246
     },
     {
       "name": "elytra",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:43] [8b8t] >> Your login session has been continued.",
-    "[15:43] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[15:43] [8b8t] Unknown command do /help",
-    "[15:43] [8b8t] >> Welcome RogueTester4277 to 8b8t.me Lobby",
-    "[15:43] [8b8t] Unknown command do /help",
-    "[15:43] ",
-    "[15:43]  [8builders8tools]",
-    "[15:43]  Perform the command /discord add to register",
-    "[15:43]  your discord. By doing so, you",
     "[15:43]  decrease the chance of being hacked.",
     "[15:43] ",
     "[15:43]   [Confirm read]",
@@ -101,7 +92,16 @@
     "[15:43] [8b8t] >> Teleporting...",
     "[15:43] <.argenis9973> !kit construcción ",
     "[15:44] To .argenis9973: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:44] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[15:44] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[15:44] [8b8t] >> You have killed yourself!",
+    "[15:44] <gersonpacheco> alguem me ajuda aqui por favor ",
+    "[15:44] <joquinsa> !kit survival ",
+    "[15:44] [8b8t] >> Teleporting to home 0...",
+    "[15:44] [8b8t] >> Teleporting to home 1...",
+    "[15:44] To joquinsa: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:44] To joquinsa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:44] [8b8t] >> Request sent to joquinsa",
+    "[15:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 52,
@@ -414,7 +414,7 @@
     "MutantWall74760": 2,
     "Kralj_Zvonimir": 10,
     "husuu_sigma": 3,
-    "joquinsa": 1
+    "joquinsa": 2
   },
   "kitStats": {
     "build": 95,
@@ -435,7 +435,7 @@
     "quartz": 18,
     "music": 11,
     "elytra": 238,
-    "survival": 245,
+    "survival": 246,
     "tools": 108,
     "food": 30,
     "toolbox": 44,
