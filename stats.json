@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:18:45 24/1/2026",
+  "lastUpdated": "11:19:15 24/1/2026",
   "totalKits": 967,
   "todayKits": 108,
   "onlineCount": 21,
   "peakPlayers": 49,
-  "tps": "4.0",
-  "ping": 230,
+  "tps": "9.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:16] <ilovecatsvr57364> uhhhhhhhhh ",
-    "[04:16] <ilovecatsvr57364> one sec ",
-    "[04:17] <Preclude> ok ",
-    "[04:17] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[04:17] <jaev> !kit elytra ",
-    "[04:17] [8b8t] >> Teleporting to home 0...",
-    "[04:17] [8b8t] >> Teleporting to home 6...",
-    "[04:17] To jaev: Tu kit (elytra) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
     "[04:17] To jaev: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[04:17] [8b8t] >> Request sent to jaev",
     "[04:17] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[04:18] <jaev> !kit totems ",
     "[04:18] To jaev: Estas en espera, intenta en 12 segundos! Unete a dsc.gg/hienbot",
     "[04:18] <jaev> !kit totems ",
-    "[04:18] To jaev: Estas en espera, intenta en 1 segundos! Unete a dsc.gg/hienbot"
+    "[04:18] To jaev: Estas en espera, intenta en 1 segundos! Unete a dsc.gg/hienbot",
+    "[04:18] <ilovecatsvr57364> imagine using totems ",
+    "[04:18] <ilovecatsvr57364> such weaklings ",
+    "[04:18] <jaev> !kit totems ",
+    "[04:18] [8b8t] >> Teleporting to home 0...",
+    "[04:18] [8b8t] >> Home 2 was not found",
+    "[04:18] To jaev: Kit \"totems\" no encontrado! Dandote (stash) en su lugar! dsc.gg/hienbot",
+    "[04:18] To jaev: Lo siento! White Shulker Box agotado, no hay otros kits! dsc.gg/hienbot",
+    "[04:18] [BOT] <0_HienBot> >Hey Akuaman! "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -347,12 +347,12 @@
     "Xx_COCACOLA_xX": 6,
     "LAZYJED": 1,
     "dani8976": 2,
-    "jaev": 2
+    "jaev": 3
   },
   "kitStats": {
     "build": 68,
     "raid": 54,
-    "stash": 42,
+    "stash": 43,
     "wood": 25,
     "armortrims": 20,
     "glass": 23,
