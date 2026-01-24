@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:10:33 24/1/2026",
+  "lastUpdated": "20:11:03 24/1/2026",
   "totalKits": 1268,
   "todayKits": 207,
   "onlineCount": 33,
   "peakPlayers": 36,
-  "tps": "4.0",
-  "ping": 216,
+  "tps": "0.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 312
+      "count": 313
     },
     {
       "name": "survival",
@@ -72,23 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:07] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[13:08] <Cheapity> RawY7 accept my tpa quest ",
-    "[13:08] <RawY7> i cant ",
-    "[13:08] <RawY7> i tried ",
-    "[13:08] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
-    "[13:08] <RawY7> but im not 20K blocks away from spwan ",
-    "[13:08] <Cheapity> RawY7 I can't accept yours, I'm not 15,000 blocks away ",
-    "[13:08] Strogonoffix has made the advancement [Stone Age]",
-    "[13:08] Meisonn has made the advancement [Monster Hunter]",
-    "[13:08] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[13:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[13:09] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[13:09] <Cheapity> omer63270 beleş mace istiyonmu ",
-    "[13:09] <omer63270> sa ",
-    "[13:09] <Cheapity> as ",
-    "[13:09] <omer63270> kit varmı ",
-    "[13:09] <RawY7> !kit elytra ",
     "[13:09] [8b8t] >> Teleporting to home 0...",
     "[13:09] [8b8t] >> Teleporting to home 6...",
     "[13:09] To RawY7: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +84,24 @@
     "[13:10] <Cheapity> tpa kabul et benim ",
     "[13:10] [BOT] <0_HienBot> >Do you want kit? Type !кιт ",
     "[13:10] [8b8t] >> You have killed yourself!",
-    "[13:10] [8b8t] >> No TPA request found"
+    "[13:10] [8b8t] >> No TPA request found",
+    "[13:10] <omer63270> atamıyom spawndayım ",
+    "[13:10] <Strogonoffix> !kit ",
+    "[13:10] To Strogonoffix: Hello Strogonoffix!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:10] <bananastik> !kit ",
+    "[13:10] To bananastik: Hello bananastik!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:10] <Cheapity> omer /tpayes yaz ",
+    "[13:10] <Strogonoffix> !kit PVP ",
+    "[13:10] [8b8t] >> Teleporting to home 0...",
+    "[13:10] [8b8t] >> Teleporting to home 1...",
+    "[13:10] To Strogonoffix: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:10] To Strogonoffix: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:10] [8b8t] >> Request sent to Strogonoffix",
+    "[13:10] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[13:11] <RawY7> !kit ",
+    "[13:11] To RawY7: Hello RawY7!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:11] <omer63270> olmuyo 2000 blok git diyo "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -396,7 +396,8 @@
     "CraftKahraman123": 2,
     "eggohann": 1,
     "Cheapity": 3,
-    "RawY7": 4
+    "RawY7": 4,
+    "Strogonoffix": 1
   },
   "kitStats": {
     "build": 90,
@@ -405,7 +406,7 @@
     "wood": 31,
     "armortrims": 28,
     "glass": 25,
-    "pvp": 312,
+    "pvp": 313,
     "dye": 10,
     "dupe": 102,
     "gterracotta": 9,
