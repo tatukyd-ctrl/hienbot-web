@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:59:08 24/1/2026",
+  "lastUpdated": "18:59:33 24/1/2026",
   "totalKits": 1215,
   "todayKits": 154,
   "onlineCount": 28,
   "peakPlayers": 34,
-  "tps": "3.0",
-  "ping": 213,
+  "tps": "1.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 297
+      "count": 298
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:58] [8b8t] >> Request sent to Mahin_op_99",
-    "[11:58] [8b8t] >> Teleporting...",
-    "[11:58] <General_Salvos> !kit toolbox ",
-    "[11:58] To General_Salvos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[11:58] [8b8t] >> You have killed yourself!",
-    "[11:58] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
     "[11:58] <General_Salvos> !kit toolbox ",
     "[11:58] [8b8t] >> Teleporting to home 0...",
     "[11:58] [8b8t] >> Teleporting to home 4...",
@@ -101,7 +95,13 @@
     "[11:59] To Widelands: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[11:59] To Widelands: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:59] [8b8t] >> Request sent to Widelands",
-    "[11:59] [8b8t] >> Teleporting..."
+    "[11:59] [8b8t] >> Teleporting...",
+    "[11:59] [8b8t] >> You have killed yourself!",
+    "[11:59] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[11:59] <Mahin_op_99> +kit pvp ",
+    "[11:59] [8b8t] >> Teleporting to home 0...",
+    "[11:59] [8b8t] >> Teleporting to home 1...",
+    "[11:59] To Mahin_op_99: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -390,7 +390,7 @@
     "buiZneZZman_pro": 1,
     "Red_Fragment_": 1,
     "Widelands": 9,
-    "Mahin_op_99": 1
+    "Mahin_op_99": 2
   },
   "kitStats": {
     "build": 87,
@@ -399,7 +399,7 @@
     "wood": 28,
     "armortrims": 26,
     "glass": 25,
-    "pvp": 297,
+    "pvp": 298,
     "dye": 9,
     "dupe": 98,
     "gterracotta": 9,
