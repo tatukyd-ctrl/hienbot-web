@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:09:47 25/1/2026",
+  "lastUpdated": "02:10:04 25/1/2026",
   "totalKits": 1525,
   "todayKits": 464,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 44,
-  "tps": "6.0",
-  "ping": 222,
+  "tps": "1.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -68,20 +68,10 @@
     },
     {
       "name": "tools",
-      "count": 119
+      "count": 120
     }
   ],
   "chatLog": [
-    "[19:08] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[19:08] To ksvxx: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:08] [8b8t] >> Request sent to ksvxx",
-    "[19:08] [8b8t] >> Teleporting...",
-    "[19:08] [8b8t] >> You have killed yourself!",
-    "[19:08] <rezhuhohlov> !kit PVP ",
-    "[19:08] [8b8t] >> Teleporting to home 0...",
-    "[19:08] [8b8t] >> Teleporting to home 1...",
-    "[19:08] <smallxyecoc> !kit PVP ",
-    "[19:08] To rezhuhohlov: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[19:08] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:08] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[19:08] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +91,17 @@
     "[19:09] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:09] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:09] [8b8t] >> Request sent to rezhuhohlov",
-    "[19:09] [8b8t] >> Teleporting..."
+    "[19:09] [8b8t] >> Teleporting...",
+    "[19:09] [8b8t] >> You have killed yourself!",
+    "[19:09] <rezhuhohlov> !kit PVP ",
+    "[19:09] To rezhuhohlov: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:10] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[19:10] <ksvxx> !kit tools ",
+    "[19:10] [8b8t] >> Teleporting to home 0...",
+    "[19:10] [8b8t] >> Teleporting to home 7...",
+    "[19:10] To ksvxx: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:10] <smallxyecoc> !kit PVP ",
+    "[19:10] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 55,
@@ -441,7 +441,7 @@
     "SrcTe1302": 2,
     ".TwinGames1221": 2,
     "FlameeX3": 1,
-    "ksvxx": 1
+    "ksvxx": 2
   },
   "kitStats": {
     "build": 109,
@@ -463,7 +463,7 @@
     "music": 12,
     "elytra": 264,
     "survival": 262,
-    "tools": 119,
+    "tools": 120,
     "food": 37,
     "toolbox": 46,
     "concrete": 24,
