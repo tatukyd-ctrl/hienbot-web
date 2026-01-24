@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:54:45 24/1/2026",
+  "lastUpdated": "14:55:15 24/1/2026",
   "totalKits": 1055,
   "todayKits": 196,
   "onlineCount": 28,
   "peakPlayers": 49,
-  "tps": "5.0",
-  "ping": 223,
+  "tps": "1.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:53] To DDOSS: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:53] [8b8t] >> Request sent to DDOSS",
-    "[07:53] [8b8t] >> The TPA request you received from .LEON50758 has expired.",
-    "[07:53] <TheAshedOne> !kit chest ",
-    "[07:53] To TheAshedOne: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[07:53] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
-    "[07:53] <wemmpook> !kit mace ",
     "[07:53] To wemmpook: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[07:53] <TheAshedOne> !kit chest ",
     "[07:53] To TheAshedOne: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[07:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[07:54] [8b8t] >> Teleporting...",
     "[07:54] [8b8t] >> You have killed yourself!",
-    "[07:54] .YuyuMeteor_V has made the advancement [We Need to Go Deeper]"
+    "[07:54] .YuyuMeteor_V has made the advancement [We Need to Go Deeper]",
+    "[07:54] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[07:55] <TheAshedOne> !kit chest ",
+    "[07:55] <wemmpook> !kit mace ",
+    "[07:55] [8b8t] >> Teleporting to home 0...",
+    "[07:55] [8b8t] >> Home 2 was not found",
+    "[07:55] To TheAshedOne: Your kit (chest) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:55] <DDOSS> +kit LEON "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -353,7 +353,7 @@
     "Lucas2284": 5,
     "Gimlee_777_": 10,
     "pvblossj": 1,
-    "TheAshedOne": 14,
+    "TheAshedOne": 15,
     "Risky_Jaat": 1,
     "steving_it": 2,
     "YummyLexi": 10,
@@ -371,7 +371,7 @@
   "kitStats": {
     "build": 77,
     "raid": 57,
-    "stash": 46,
+    "stash": 47,
     "wood": 25,
     "armortrims": 24,
     "glass": 23,
