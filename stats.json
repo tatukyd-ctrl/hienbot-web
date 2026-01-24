@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:13:34 25/1/2026",
-  "totalKits": 1423,
-  "todayKits": 362,
+  "lastUpdated": "00:13:53 25/1/2026",
+  "totalKits": 1424,
+  "todayKits": 363,
   "onlineCount": 35,
   "peakPlayers": 44,
-  "tps": "0.0",
-  "ping": 225,
+  "tps": "4.0",
+  "ping": 226,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 350
+      "count": 351
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:11] To MrBeax31: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:11] [8b8t] >> Request sent to MrBeax31",
-    "[17:11] [8b8t] >> Teleporting...",
-    "[17:11] <sepillin> !kit ",
-    "[17:11] [Youtuber] <elproplayerxddd> spillin 1v1\\ ",
-    "[17:11] To sepillin: Hello sepillin!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[17:11] [8b8t] >> You have killed yourself!",
-    "[17:11] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[17:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[17:12] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[17:12] <braxku> !kit ",
     "[17:12] To braxku: Hello braxku!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[17:12] <braxku> !kit PVP ",
@@ -101,7 +91,17 @@
     "[17:13] ASXN Whispers: !kit silk touch",
     "[17:13] [8b8t] >> You have killed yourself!",
     "[17:13] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[17:13] [Youtuber] <elproplayerxddd> y por el culo de la abrocho "
+    "[17:13] [Youtuber] <elproplayerxddd> y por el culo de la abrocho ",
+    "[17:13] <sepillin> !kit pvp ",
+    "[17:13] [8b8t] >> Teleporting to home 0...",
+    "[17:13] [8b8t] >> Teleporting to home 1...",
+    "[17:13] To sepillin: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:13] To sepillin: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:13] LyomLeo has made the advancement [Getting an Upgrade]",
+    "[17:13] [8b8t] >> Request sent to sepillin",
+    "[17:13] ASXN Whispers: !kit tools",
+    "[17:13] To ASXN: Por favor espera un momento. No olvides unirte a HienBot Group dsc.gg/hienbot",
+    "[17:13] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 54,
@@ -421,7 +421,8 @@
     "bwya09876": 2,
     "braxku": 4,
     "magmitamp4": 1,
-    ".Maddie8171111": 1
+    ".Maddie8171111": 1,
+    "sepillin": 1
   },
   "kitStats": {
     "build": 106,
@@ -430,7 +431,7 @@
     "wood": 33,
     "armortrims": 29,
     "glass": 27,
-    "pvp": 350,
+    "pvp": 351,
     "dye": 11,
     "dupe": 120,
     "gterracotta": 10,
