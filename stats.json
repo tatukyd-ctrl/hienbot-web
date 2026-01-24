@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:02:36 24/1/2026",
+  "lastUpdated": "20:03:03 24/1/2026",
   "totalKits": 1262,
   "todayKits": 201,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 36,
-  "tps": "3.0",
-  "ping": 225,
+  "tps": "4.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 215
+      "count": 216
     },
     {
       "name": "dupe",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:01] [8b8t] >> Teleporting...",
-    "[13:01] RawY7 has reached the goal [Sky's the Limit]",
-    "[13:01] <General_Salvos> !kit exp ",
-    "[13:01] To General_Salvos: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[13:01] Cheapity has made the advancement [Crafting a New Look]",
-    "[13:01] [8b8t] >> You have killed yourself!",
     "[13:01] <.CapacityWeb8654> !kit dupe ",
     "[13:01] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[13:01] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +95,13 @@
     "[13:02] To Super_jj9000: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:02] To General_Salvos: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:02] [8b8t] >> Request sent to General_Salvos",
-    "[13:02] [8b8t] >> Teleporting..."
+    "[13:02] [8b8t] >> Teleporting...",
+    "[13:02] [8b8t] >> You have killed yourself!",
+    "[13:02] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[13:03] <RawY7> !kit elytra ",
+    "[13:03] [8b8t] >> Teleporting to home 0...",
+    "[13:03] [8b8t] >> Teleporting to home 6...",
+    "[13:03] [8b8t] >> Could not find player RawY7"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -396,7 +396,7 @@
     "CraftKahraman123": 2,
     "eggohann": 1,
     "Cheapity": 3,
-    "RawY7": 1
+    "RawY7": 2
   },
   "kitStats": {
     "build": 90,
@@ -416,7 +416,7 @@
     "end": 34,
     "quartz": 12,
     "music": 11,
-    "elytra": 215,
+    "elytra": 216,
     "survival": 225,
     "tools": 97,
     "food": 29,
