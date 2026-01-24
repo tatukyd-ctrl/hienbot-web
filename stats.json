@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:24:45 24/1/2026",
-  "totalKits": 992,
-  "todayKits": 133,
+  "lastUpdated": "12:24:58 24/1/2026",
+  "totalKits": 993,
+  "todayKits": 134,
   "onlineCount": 17,
   "peakPlayers": 49,
-  "tps": "11.0",
+  "tps": "8.0",
   "ping": 220,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 156
+      "count": 157
     },
     {
       "name": "dupe",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:20] To Gimlee_777_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:20] To Gimlee_777_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:20] [8b8t] >> Request sent to Gimlee_777_",
-    "[05:20] <Gimlee_777_> !bestping ",
-    "[05:20] To Gimlee_777_: Gimlee_777_ with 60 ms. Dont forget to join dsc.gg/hienbot",
-    "[05:20] [8b8t] >> Teleporting...",
-    "[05:20] <TheAshedOne> !kit pvp ",
-    "[05:20] [8b8t] >> Teleporting to home 0...",
-    "[05:20] [8b8t] >> Teleporting to home 1...",
-    "[05:20] To TheAshedOne: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:20] Ayden322 has made the advancement [Ice Bucket Challenge]",
     "[05:20] [BOT] <0_HienBot> >Type !discord ",
     "[05:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -101,7 +91,17 @@
     "[05:23] <RustySurff123> hi ",
     "[05:23] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[05:24] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[05:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[05:24] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[05:24] <TheAshedOne> !kit elytra ",
+    "[05:24] [8b8t] >> Teleporting to home 0...",
+    "[05:24] [8b8t] >> Teleporting to home 6...",
+    "[05:24] To TheAshedOne: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:24] To TheAshedOne: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:24] <Gimlee_777_> !kit ",
+    "[05:24] To Gimlee_777_: Hello Gimlee_777_!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[05:24] [8b8t] >> Request sent to TheAshedOne",
+    "[05:24] [8b8t] >> Teleporting...",
+    "[05:24] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -353,7 +353,7 @@
     "Lucas2284": 4,
     "Gimlee_777_": 10,
     "pvblossj": 1,
-    "TheAshedOne": 2
+    "TheAshedOne": 3
   },
   "kitStats": {
     "build": 69,
@@ -373,7 +373,7 @@
     "end": 31,
     "quartz": 12,
     "music": 10,
-    "elytra": 156,
+    "elytra": 157,
     "survival": 185,
     "tools": 59,
     "food": 21,
