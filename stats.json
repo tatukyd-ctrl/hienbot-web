@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:37:04 24/1/2026",
+  "lastUpdated": "23:37:34 24/1/2026",
   "totalKits": 1400,
   "todayKits": 339,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 44,
-  "tps": "3.0",
-  "ping": 221,
+  "tps": "2.0",
+  "ping": 317,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 249
+      "count": 250
     },
     {
       "name": "elytra",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:35] <slklskfgk> !kit survival ",
-    "[16:35] [8b8t] >> Teleporting to home 0...",
-    "[16:35] [8b8t] >> Teleporting to home 1...",
-    "[16:35] To slklskfgk: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[16:35] <Widelands> !kit mace ",
-    "[16:35] To Widelands: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[16:35] <braxku> !kit survival ",
     "[16:35] arshad777 has made the advancement [Who is Cutting Onions?]",
     "[16:35] To braxku: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[16:35] [8b8t] >> Request sent to slklskfgk",
@@ -101,7 +94,14 @@
     "[16:36] [8b8t] >> You have killed yourself!",
     "[16:36] <JunkBass3801105> !ping ",
     "[16:36] To JunkBass3801105: Your ping is: 600 ms Dont forget to join dsc.gg/hienbot",
-    "[16:36] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command "
+    "[16:36] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[16:37] <JunkBass3801105> !kit Survival ",
+    "[16:37] [8b8t] >> Teleporting to home 0...",
+    "[16:37] [8b8t] >> Teleporting to home 1...",
+    "[16:37] To JunkBass3801105: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[16:37] To JunkBass3801105: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:37] [8b8t] >> Request sent to JunkBass3801105",
+    "[16:37] [BOT] <0_HienBot> >What's up, NetherB0T? "
   ],
   "userStats": {
     "dylans117877601": 54,
@@ -319,7 +319,7 @@
     "ROBETIKO": 1,
     "alo0nsop": 1,
     "BdubH2015": 8,
-    "JunkBass3801105": 6,
+    "JunkBass3801105": 7,
     ".El_DEAD_BOY": 1,
     ".AdaelSteve": 1,
     "zatek__": 1,
@@ -440,7 +440,7 @@
     "quartz": 21,
     "music": 12,
     "elytra": 245,
-    "survival": 249,
+    "survival": 250,
     "tools": 111,
     "food": 31,
     "toolbox": 45,
