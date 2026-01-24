@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:20:15 24/1/2026",
-  "totalKits": 990,
-  "todayKits": 131,
+  "lastUpdated": "12:20:41 24/1/2026",
+  "totalKits": 991,
+  "todayKits": 132,
   "onlineCount": 16,
   "peakPlayers": 49,
   "tps": "7.0",
-  "ping": 264,
+  "ping": 222,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 235
+      "count": 236
     },
     {
       "name": "survival",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:15] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[05:15] [8b8t] >> Teleporting to home 1...",
-    "[05:15] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[05:15] To TheAshedOne: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:15] To TheAshedOne: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:15] [8b8t] >> Request sent to TheAshedOne",
-    "[05:15] [BOT] <0_HienBot> >Use !кιт to get kits ",
-    "[05:16] [8b8t] >> You have killed yourself!",
-    "[05:16] <TheAshedOne> !kit survival ",
-    "[05:16] To TheAshedOne: You're on cooldown, try again in 60 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:16] [8b8t] >> The TPA request you sent to TheAshedOne was successfully canceled.",
     "[05:16] TheAshedOne has completed the challenge [Cover Me in Debris]",
     "[05:16] TheAshedOne has reached the goal [Sky's the Limit]",
@@ -101,7 +91,17 @@
     "[05:19] Gimlee_777_ has made the advancement [Monster Hunter]",
     "[05:19] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[05:19] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[05:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[05:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[05:20] <Gimlee_777_> !kit pvp ",
+    "[05:20] [8b8t] >> Teleporting to home 0...",
+    "[05:20] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
+    "[05:20] [8b8t] >> Teleporting to home 1...",
+    "[05:20] To Gimlee_777_: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:20] To Gimlee_777_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:20] [8b8t] >> Request sent to Gimlee_777_",
+    "[05:20] <Gimlee_777_> !bestping ",
+    "[05:20] To Gimlee_777_: Gimlee_777_ with 60 ms. Dont forget to join dsc.gg/hienbot",
+    "[05:20] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -351,7 +351,7 @@
     "RustySurff123": 7,
     "AstralXCCV": 1,
     "Lucas2284": 4,
-    "Gimlee_777_": 9,
+    "Gimlee_777_": 10,
     "pvblossj": 1,
     "TheAshedOne": 1
   },
@@ -362,7 +362,7 @@
     "wood": 25,
     "armortrims": 20,
     "glass": 23,
-    "pvp": 235,
+    "pvp": 236,
     "dye": 9,
     "dupe": 85,
     "gterracotta": 8,
