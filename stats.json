@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:10:03 24/1/2026",
+  "lastUpdated": "17:10:33 24/1/2026",
   "totalKits": 1147,
   "todayKits": 86,
-  "onlineCount": 24,
+  "onlineCount": 25,
   "peakPlayers": 34,
-  "tps": "5.0",
-  "ping": 220,
+  "tps": "8.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 192
+      "count": 193
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:08] [8b8t] >> Teleporting to home 1...",
-    "[10:08] To je18: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[10:08] To je18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:08] <liviaaaaaaa> !kit cpvp ",
-    "[10:08] To liviaaaaaaa: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[10:08] [8b8t] >> Request sent to je18",
-    "[10:08] [8b8t] >> Teleporting...",
     "[10:08] [8b8t] >> You have killed yourself!",
     "[10:08] [8b8t] >> Please do not spam.",
     "[10:08] susmaster420 has reached the goal [Sky's the Limit]",
@@ -101,7 +94,14 @@
     "[10:09] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[10:09] [8b8t] >> You have killed yourself!",
     "[10:09] [8b8t] >> The TPA request you sent to cimaritano was successfully canceled.",
-    "[10:09] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
+    "[10:09] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[10:10] <je18> !kit elytra ",
+    "[10:10] [8b8t] >> Teleporting to home 0...",
+    "[10:10] [8b8t] >> Teleporting to home 6...",
+    "[10:10] To je18: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:10] To je18: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:10] [8b8t] >> Request sent to je18",
+    "[10:10] [BOT] <0_HienBot> >Hi _Hienbot! "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -379,7 +379,7 @@
     "Inmelwetrust23": 16,
     "FrostTheOG": 1,
     "ZeR0hEll": 1,
-    "je18": 2
+    "je18": 3
   },
   "kitStats": {
     "build": 86,
@@ -399,7 +399,7 @@
     "end": 34,
     "quartz": 12,
     "music": 11,
-    "elytra": 192,
+    "elytra": 193,
     "survival": 217,
     "tools": 84,
     "food": 24,
