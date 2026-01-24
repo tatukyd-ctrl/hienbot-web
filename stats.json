@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:24:45 24/1/2026",
+  "lastUpdated": "14:25:15 24/1/2026",
   "totalKits": 1034,
   "todayKits": 175,
   "onlineCount": 24,
   "peakPlayers": 49,
-  "tps": "9.0",
-  "ping": 221,
+  "tps": "6.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:22] [8b8t] >> You have killed yourself!",
-    "[07:22] [8b8t] >> No TPA request found",
-    "[07:22] <e4mc> !kit raid ",
-    "[07:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[07:22] To e4mc: You're on cooldown, try again in 59 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:23] <mahmoud2010> !kit survival ",
-    "[07:23] [8b8t] >> Teleporting to home 0...",
     "[07:23] [8b8t] >> Teleporting to home 1...",
     "[07:23] To mahmoud2010: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[07:23] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
@@ -101,7 +94,14 @@
     "[07:24] <LAZYJED> wqe ",
     "[07:24] e4mc has made the advancement [We Need to Go Deeper]",
     "[07:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[07:24] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language "
+    "[07:24] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
+    "[07:25] [BOT] <0_HienBot> >Try !ᴋɪᴛ pvp ",
+    "[07:25] <mahmoud2010> !kit potion ",
+    "[07:25] [8b8t] >> Teleporting to home 0...",
+    "[07:25] [8b8t] >> Home 2 was not found",
+    "[07:25] To mahmoud2010: Your kit (potion) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:25] To mahmoud2010: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:25] [8b8t] >> Request sent to mahmoud2010"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -362,7 +362,7 @@
     "Mango_Kills": 7,
     "dat36": 2,
     "e4mc": 3,
-    "mahmoud2010": 2
+    "mahmoud2010": 3
   },
   "kitStats": {
     "build": 72,
@@ -389,7 +389,7 @@
     "toolbox": 37,
     "concrete": 19,
     "highway": 18,
-    "gap": 8,
+    "gap": 9,
     "wool": 18,
     "lightsources": 25,
     "shulker": 26,
