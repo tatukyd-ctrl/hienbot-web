@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "13:23:45 24/1/2026",
+  "lastUpdated": "13:24:15 24/1/2026",
   "totalKits": 1021,
   "todayKits": 162,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 49,
-  "tps": "7.0",
-  "ping": 216,
+  "tps": "10.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 164
+      "count": 165
     },
     {
       "name": "dupe",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[06:19] [8b8t] >> Teleporting to home 0...",
-    "[06:19] [8b8t] >> Teleporting to home 6...",
-    "[06:19] To TheAshedOne: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[06:19] To TheAshedOne: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:19] [8b8t] >> Request sent to TheAshedOne",
-    "[06:19] [8b8t] >> Teleporting...",
-    "[06:19] [8b8t] >> You have killed yourself!",
     "[06:19] <Mango_Kills> !kit elytra ",
     "[06:19] [8b8t] >> Teleporting to home 0...",
     "[06:19] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +94,14 @@
     "[06:22] DDOSS has made the advancement [We Need to Go Deeper]",
     "[06:22] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[06:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[06:23] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t "
+    "[06:23] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[06:23] [BOT] <0_HienBot> >Hi Mango_Kills! ",
+    "[06:24] <Mango_Kills> !kit elytra ",
+    "[06:24] [8b8t] >> Teleporting to home 0...",
+    "[06:24] [8b8t] >> Teleporting to home 6...",
+    "[06:24] To Mango_Kills: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[06:24] To Mango_Kills: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:24] [8b8t] >> Request sent to Mango_Kills"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -359,7 +359,7 @@
     "YummyLexi": 9,
     "DDOSS": 1,
     "_YouAreez_": 2,
-    "Mango_Kills": 1
+    "Mango_Kills": 2
   },
   "kitStats": {
     "build": 71,
@@ -379,7 +379,7 @@
     "end": 32,
     "quartz": 12,
     "music": 10,
-    "elytra": 164,
+    "elytra": 165,
     "survival": 191,
     "tools": 63,
     "food": 21,
