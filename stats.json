@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:28:04 24/1/2026",
+  "lastUpdated": "22:28:34 24/1/2026",
   "totalKits": 1358,
   "todayKits": 297,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 42,
-  "tps": "3.0",
-  "ping": 220,
+  "tps": "0.0",
+  "ping": 1020,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 242
+      "count": 243
     },
     {
       "name": "elytra",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:26] <Kralj_Zvonimir> !kit ",
-    "[15:26] To Kralj_Zvonimir: Hello Kralj_Zvonimir!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:26] <doyoda1292> !kit Mineral ",
-    "[15:26] To doyoda1292: You're on cooldown, try again in 57 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:26] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[15:26] <MutantWall74760> !kit raid ",
-    "[15:26] [8b8t] >> Teleporting to home 0...",
     "[15:26] [8b8t] >> Home 2 was not found",
     "[15:26] To MutantWall74760: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:26] <Kralj_Zvonimir> !kit raid ",
@@ -101,7 +94,14 @@
     "[15:27] <Kralj_Zvonimir> !kit raidd ",
     "[15:27] To Kralj_Zvonimir: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
     "[15:27] <Kralj_Zvonimir> !kit raid ",
-    "[15:27] To Kralj_Zvonimir: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot"
+    "[15:27] To Kralj_Zvonimir: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:28] [BOT] <0_HienBot> >Try !ᴋɪᴛ stash ",
+    "[15:28] <Kralj_Zvonimir> !kit survival ",
+    "[15:28] [8b8t] >> Teleporting to home 0...",
+    "[15:28] [8b8t] >> Teleporting to home 1...",
+    "[15:28] To Kralj_Zvonimir: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:28] To Kralj_Zvonimir: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:28] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs "
   ],
   "userStats": {
     "dylans117877601": 51,
@@ -412,7 +412,7 @@
     ".KingC0ollinn": 2,
     ".wietyy": 6,
     "MutantWall74760": 2,
-    "Kralj_Zvonimir": 4
+    "Kralj_Zvonimir": 5
   },
   "kitStats": {
     "build": 92,
@@ -433,7 +433,7 @@
     "quartz": 17,
     "music": 11,
     "elytra": 234,
-    "survival": 242,
+    "survival": 243,
     "tools": 107,
     "food": 30,
     "toolbox": 44,
