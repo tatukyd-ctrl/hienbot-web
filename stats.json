@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:43:57 24/1/2026",
+  "lastUpdated": "21:44:03 24/1/2026",
   "totalKits": 1335,
   "todayKits": 274,
   "onlineCount": 34,
   "peakPlayers": 42,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 212,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 331
+      "count": 332
     },
     {
       "name": "survival",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:42] [8b8t] >> Teleporting to home 0...",
-    "[14:42] [8b8t] >> Teleporting to home 6...",
-    "[14:42] <GrimmTMM> !kit survival ",
-    "[14:42] To GrimmTMM: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[14:42] To osmankral123123: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[14:42] To osmankral123123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:42] [8b8t] >> Request sent to osmankral123123",
-    "[14:42] [8b8t] >> Teleporting...",
-    "[14:42] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[14:43] <Bedo38239> ok go kit ",
     "[14:43] <Xx_COCACOLA_xX> !kit stash ",
     "[14:43] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +92,16 @@
     "[14:43] <.KingC0ollinn> !kit cpvp ",
     "[14:43] To .KingC0ollinn: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[14:43] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[14:43] <.KingC0ollinn> !kit cpvp "
+    "[14:43] <.KingC0ollinn> !kit cpvp ",
+    "[14:43] To .KingC0ollinn: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[14:43] [BOT] <0_HienBot> >Type !discord ",
+    "[14:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:43] [8b8t] >> You have killed yourself!",
+    "[14:43] <.KingC0ollinn> !kit cpvp ",
+    "[14:44] [8b8t] >> Teleporting to home 0...",
+    "[14:44] [Pro] <⛩ᏗᏒᏁᎧ⛏> !kit cpvp ",
+    "[14:44] [8b8t] >> Teleporting to home 1...",
+    "[14:44] To .KingC0ollinn: Your kit (cpvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -408,7 +408,8 @@
     "YoSoyBobox": 9,
     "DropVak": 1,
     "FiveNuts": 1,
-    "GrimmTMM": 1
+    "GrimmTMM": 1,
+    ".KingC0ollinn": 1
   },
   "kitStats": {
     "build": 92,
@@ -417,7 +418,7 @@
     "wood": 32,
     "armortrims": 29,
     "glass": 26,
-    "pvp": 331,
+    "pvp": 332,
     "dye": 10,
     "dupe": 114,
     "gterracotta": 10,
