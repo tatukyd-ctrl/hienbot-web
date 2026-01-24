@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:27:16 25/1/2026",
+  "lastUpdated": "05:27:34 25/1/2026",
   "totalKits": 1775,
   "todayKits": 714,
   "onlineCount": 29,
   "peakPlayers": 44,
-  "tps": "1.0",
-  "ping": 224,
+  "tps": "3.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -14,7 +14,7 @@
     },
     {
       "name": "smallxyecoc",
-      "count": 130
+      "count": 131
     },
     {
       "name": "dylans117877601",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 460
+      "count": 461
     },
     {
       "name": "elytra",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:26] <smallxyecoc> !kit Survival ",
-    "[22:26] [8b8t] >> Teleporting to home 0...",
-    "[22:26] [8b8t] >> Teleporting to home 1...",
-    "[22:26] To smallxyecoc: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[22:26] To smallxyecoc: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[22:26] <ElDan> xd ",
-    "[22:26] [BOT] <0_HienBot> >Type !кιт  to get free kits ",
-    "[22:26] [Ultra] <KurtzMC> in dps dc ",
-    "[22:26] <rezhuhohlov> !kit Survival ",
-    "[22:26] [8b8t] >> Teleporting to home 0...",
     "[22:26] [8b8t] >> Teleporting to home 1...",
     "[22:26] To rezhuhohlov: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[22:26] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -101,7 +91,17 @@
     "[22:27] [8b8t] >> Request sent to dylans117877601",
     "[22:27] [8b8t] >> Teleporting...",
     "[22:27] <rezhuhohlov> !kit Survival ",
-    "[22:27] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[22:27] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:27] [8b8t] >> You have killed yourself!",
+    "[22:27] <smallxyecoc> !kit Survival ",
+    "[22:27] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[22:27] [8b8t] >> Teleporting to home 0...",
+    "[22:27] [8b8t] >> Teleporting to home 1...",
+    "[22:27] To smallxyecoc: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[22:27] <rezhuhohlov> !kit Survival ",
+    "[22:27] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[22:27] To smallxyecoc: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[22:27] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot "
   ],
   "userStats": {
     "dylans117877601": 57,
@@ -432,7 +432,7 @@
     "SUS3106": 23,
     "stesh_Hant_228": 1,
     "carlos22332": 1,
-    "smallxyecoc": 130,
+    "smallxyecoc": 131,
     "ElxDave_MSc": 1,
     "HughCoolGuy123": 1,
     "MINIMO111": 2,
@@ -480,7 +480,7 @@
     "quartz": 35,
     "music": 12,
     "elytra": 276,
-    "survival": 460,
+    "survival": 461,
     "tools": 126,
     "food": 39,
     "toolbox": 48,
