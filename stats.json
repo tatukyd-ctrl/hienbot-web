@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "04:26:04 25/1/2026",
-  "totalKits": 1695,
-  "todayKits": 634,
-  "onlineCount": 26,
+  "lastUpdated": "04:26:23 25/1/2026",
+  "totalKits": 1696,
+  "todayKits": 635,
+  "onlineCount": 28,
   "peakPlayers": 44,
-  "tps": "1.0",
+  "tps": "5.0",
   "ping": 216,
   "topUsers": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "name": "smallxyecoc",
-      "count": 84
+      "count": 85
     },
     {
       "name": "bananastik",
@@ -56,7 +56,7 @@
     },
     {
       "name": "survival",
-      "count": 379
+      "count": 380
     },
     {
       "name": "elytra",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[21:24] <jaev> !kit glass ",
-    "[21:24] [8b8t] >> Teleporting to home 0...",
-    "[21:24] [8b8t] >> Teleporting to home 4...",
-    "[21:24] To jaev: Tu kit (glass) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
-    "[21:25] To jaev: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[21:25] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[21:25] [8b8t] >> Request sent to jaev",
     "[21:25] <smallxyecoc> !kit Survival ",
     "[21:25] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:25] <rezhuhohlov> !kit Survival ",
@@ -101,7 +94,14 @@
     "[21:25] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[21:25] [8b8t] >> You have killed yourself!",
     "[21:25] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[21:26] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[21:26] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[21:26] <smallxyecoc> !kit Survival ",
+    "[21:26] [8b8t] >> Teleporting to home 0...",
+    "[21:26] [8b8t] >> Teleporting to home 1...",
+    "[21:26] To smallxyecoc: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[21:26] To smallxyecoc: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:26] [8b8t] >> Request sent to smallxyecoc",
+    "[21:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 55,
@@ -432,7 +432,7 @@
     "SUS3106": 23,
     "stesh_Hant_228": 1,
     "carlos22332": 1,
-    "smallxyecoc": 84,
+    "smallxyecoc": 85,
     "ElxDave_MSc": 1,
     "HughCoolGuy123": 1,
     "MINIMO111": 2,
@@ -475,7 +475,7 @@
     "quartz": 35,
     "music": 12,
     "elytra": 272,
-    "survival": 379,
+    "survival": 380,
     "tools": 125,
     "food": 38,
     "toolbox": 46,
