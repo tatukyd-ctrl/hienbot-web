@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:59:11 24/1/2026",
+  "lastUpdated": "12:59:15 24/1/2026",
   "totalKits": 1010,
   "todayKits": 151,
   "onlineCount": 17,
   "peakPlayers": 49,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 218,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 241
+      "count": 242
     },
     {
       "name": "survival",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:54] To RustySurff123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:54] [8b8t] >> Request sent to RustySurff123",
     "[05:54] [8b8t] >> Teleporting...",
     "[05:54] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[05:54] <YummyLexi> !kit Elytra ",
@@ -101,7 +99,9 @@
     "[05:59] To TheAshedOne: Your kit (bed) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:59] To TheAshedOne: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:59] [8b8t] >> Request sent to TheAshedOne",
-    "[05:59] [8b8t] >> Teleporting..."
+    "[05:59] [8b8t] >> Teleporting...",
+    "[05:59] [8b8t] >> You have killed yourself!",
+    "[05:59] <_YouAreez_> !kit scissors "
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -357,7 +357,8 @@
     "Risky_Jaat": 1,
     "steving_it": 2,
     "YummyLexi": 5,
-    "DDOSS": 1
+    "DDOSS": 1,
+    "_YouAreez_": 1
   },
   "kitStats": {
     "build": 70,
@@ -366,7 +367,7 @@
     "wood": 25,
     "armortrims": 22,
     "glass": 23,
-    "pvp": 241,
+    "pvp": 242,
     "dye": 9,
     "dupe": 85,
     "gterracotta": 8,
