@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:59:14 24/1/2026",
+  "lastUpdated": "08:59:44 24/1/2026",
   "totalKits": 896,
   "todayKits": 37,
   "onlineCount": 27,
   "peakPlayers": 49,
-  "tps": "5.0",
-  "ping": 217,
+  "tps": "4.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "dylans117877601",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:57] [8b8t] >> Request sent to khoicf",
-    "[01:57] [Ultra] <focoloa> Y ESTOM ",
-    "[01:57] [XMAS2025] <kendricklover132> fr ",
-    "[01:57] [Ultra] <focoloa> el negro ",
-    "[01:57] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[01:57] [Ultra] <focoloa> agarra un libro ",
-    "[01:58] [XMAS2025] <kendricklover132> otra cosa de qail ",
-    "[01:58] [8b8t] >> You have killed yourself!",
     "[01:58] [8b8t] >> The TPA request you sent to khoicf was successfully canceled.",
     "[01:58] [Ultra] <focoloa> oyem q ",
     "[01:58] [Ultra] <focoloa> t agatraste el otrom ",
@@ -101,7 +93,15 @@
     "[01:59] To dylans117877601: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[01:59] To dylans117877601: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:59] [8b8t] >> Request sent to dylans117877601",
-    "[01:59] [8b8t] >> Teleporting..."
+    "[01:59] [8b8t] >> Teleporting...",
+    "[01:59] [8b8t] >> You have killed yourself!",
+    "[01:59] [BOT] <0_HienBot> >What's up, khoicf? ",
+    "[01:59] <khoicf> !kit pvpm ",
+    "[01:59] [8b8t] >> Teleporting to home 0...",
+    "[01:59] [8b8t] >> Teleporting to home 3...",
+    "[01:59] To khoicf: Kit \"pvpm\" not found! Giving you (wood) instead! dsc.gg/hienbot",
+    "[01:59] To khoicf: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:59] [8b8t] >> Request sent to khoicf"
   ],
   "userStats": {
     "dylans117877601": 47,
@@ -331,13 +331,13 @@
     "TheAkross17": 2,
     "sebasfut29": 2,
     "Sosita_Gaming": 1,
-    "khoicf": 1
+    "khoicf": 2
   },
   "kitStats": {
     "build": 66,
     "raid": 46,
     "stash": 39,
-    "wood": 16,
+    "wood": 17,
     "armortrims": 20,
     "glass": 22,
     "pvp": 208,
