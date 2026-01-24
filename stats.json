@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:17:15 24/1/2026",
+  "lastUpdated": "11:17:45 24/1/2026",
   "totalKits": 965,
   "todayKits": 106,
   "onlineCount": 19,
   "peakPlayers": 49,
-  "tps": "8.0",
+  "tps": "10.0",
   "ping": 217,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 153
+      "count": 154
     },
     {
       "name": "dupe",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:13] To Xx_COCACOLA_xX: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:13] To Xx_COCACOLA_xX: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:13] [8b8t] >> Request sent to Xx_COCACOLA_xX",
     "[04:13] [BOT] <0_HienBot> >Save your password well, resetting it will cost you $5 dollars ",
     "[04:13] [8b8t] >> Teleporting...",
     "[04:13] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -101,7 +98,10 @@
     "[04:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[04:16] <ilovecatsvr57364> uhhhhhhhhh ",
     "[04:16] <ilovecatsvr57364> one sec ",
-    "[04:17] <Preclude> ok "
+    "[04:17] <Preclude> ok ",
+    "[04:17] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
+    "[04:17] <jaev> !kit elytra ",
+    "[04:17] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "dylans117877601": 48,
@@ -347,7 +347,7 @@
     "Xx_COCACOLA_xX": 5,
     "LAZYJED": 1,
     "dani8976": 2,
-    "jaev": 1
+    "jaev": 2
   },
   "kitStats": {
     "build": 68,
@@ -367,7 +367,7 @@
     "end": 30,
     "quartz": 12,
     "music": 10,
-    "elytra": 153,
+    "elytra": 154,
     "survival": 179,
     "tools": 57,
     "food": 21,
