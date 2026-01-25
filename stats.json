@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:14:03 25/1/2026",
-  "totalKits": 11,
-  "todayKits": 11,
+  "lastUpdated": "22:14:19 25/1/2026",
+  "totalKits": 12,
+  "todayKits": 12,
   "onlineCount": 28,
   "peakPlayers": 33,
-  "tps": "5.0",
-  "ping": 261,
+  "tps": "4.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "ItsMeMario_XD",
@@ -27,12 +27,16 @@
     {
       "name": ".monolithpm",
       "count": 1
+    },
+    {
+      "name": "ReljKo7",
+      "count": 1
     }
   ],
   "topKits": [
     {
       "name": "pvp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "dupe",
@@ -52,14 +56,6 @@
     }
   ],
   "chatLog": [
-    "[15:11] [8b8t] >> You have killed yourself!",
-    "[15:11] Chat disabled in client options",
-    "[15:11] You are already connected to this server!",
-    "[15:11] <ItsMeMario_XD> !elytra ",
-    "[15:11] [8b8t] >> Teleporting to home 0...",
-    "[15:11] [8b8t] >> Teleporting to home 6...",
-    "[15:12] To ItsMeMario_XD: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[15:12] To ItsMeMario_XD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:12] [8b8t] >> Request sent to ItsMeMario_XD",
     "[15:12] [8b8t] >> Teleporting...",
@@ -81,18 +77,27 @@
     "[15:13] [8b8t] >> Request sent to LyoxYT",
     "[15:13] [8b8t] >> Teleporting...",
     "[15:13] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[15:13] [8b8t] >> You have killed yourself!"
+    "[15:13] [8b8t] >> You have killed yourself!",
+    "[15:14] <ReljKo7> !pvp ",
+    "[15:14] [8b8t] >> Teleporting to home 0...",
+    "[15:14] [8b8t] >> Teleporting to home 1...",
+    "[15:14] To ReljKo7: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:14] To ReljKo7: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:14] [8b8t] >> Request sent to ReljKo7",
+    "[15:14] [BOT] <0_HienBot> >Hey BigBear! ",
+    "[15:14] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 1,
     "doyoda1292": 4,
     ".monolithpm": 1,
     "ItsMeMario_XD": 5,
-    "LyoxYT": 3
+    "LyoxYT": 3,
+    "ReljKo7": 1
   },
   "kitStats": {
     "stash": 1,
-    "pvp": 4,
+    "pvp": 5,
     "build": 1,
     "dupe": 4,
     "survival": 1,
