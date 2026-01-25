@@ -1,16 +1,16 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:34:09 26/1/2026",
+  "lastUpdated": "02:34:28 26/1/2026",
   "totalKits": 210,
   "todayKits": 125,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 43,
-  "tps": "6.0",
+  "tps": "2.0",
   "ping": 218,
   "topUsers": [
     {
       "name": "rezhuhohlov",
-      "count": 92
+      "count": 93
     },
     {
       "name": "Kidpoison",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 115
+      "count": 116
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:33] rezhuhohlov Whispers: !kit PVP",
-    "[19:33] To .oneonefour14: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[19:33] [8b8t] >> Teleporting to home 0...",
-    "[19:33] [8b8t] >> Teleporting to home 1...",
-    "[19:33] To rezhuhohlov: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:33] To rezhuhohlov: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[19:33] <.oneonefour14> !survival ",
     "[19:33] [8b8t] >> Teleporting to home 0...",
     "[19:33] [8b8t] >> Teleporting to home 1...",
     "[19:33] To .oneonefour14: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +94,14 @@
     "[19:33] [8b8t] >> Request sent to .Maddie8171111",
     "[19:34] [8b8t] >> Teleporting...",
     "[19:34] [BOT] <0_HienBot> >Type !discord ",
-    "[19:34] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[19:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:34] [8b8t] >> You have killed yourself!",
+    "[19:34] rezhuhohlov Whispers: !kit PVP",
+    "[19:34] [8b8t] >> Teleporting to home 0...",
+    "[19:34] [8b8t] >> Teleporting to home 1...",
+    "[19:34] To rezhuhohlov: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:34] <J9ffersen> you speak english? ",
+    "[19:34] To rezhuhohlov: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -122,7 +122,7 @@
     "dylans117877601": 3,
     "Nighten2": 3,
     "BdubH2015": 8,
-    "rezhuhohlov": 92,
+    "rezhuhohlov": 93,
     "Maverick0624": 19,
     "Hugoyouh": 3,
     "Kidpoison": 20,
@@ -147,7 +147,7 @@
   },
   "kitStats": {
     "stash": 12,
-    "pvp": 115,
+    "pvp": 116,
     "build": 7,
     "dupe": 26,
     "survival": 37,
