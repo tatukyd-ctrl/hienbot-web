@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:08:33 25/1/2026",
-  "totalKits": 8,
-  "todayKits": 8,
-  "onlineCount": 31,
+  "lastUpdated": "22:08:55 25/1/2026",
+  "totalKits": 9,
+  "todayKits": 9,
+  "onlineCount": 33,
   "peakPlayers": 33,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 216,
   "topUsers": [
     {
@@ -17,15 +17,15 @@
       "count": 4
     },
     {
+      "name": "LyoxYT",
+      "count": 2
+    },
+    {
       "name": "Hien2309",
       "count": 1
     },
     {
       "name": ".monolithpm",
-      "count": 1
-    },
-    {
-      "name": "LyoxYT",
       "count": 1
     }
   ],
@@ -52,16 +52,6 @@
     }
   ],
   "chatLog": [
-    "[15:05] [8b8t] >> You have killed yourself!",
-    "[15:05] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
-    "[15:05] [Ultra] <MindComplexity> the mojang shipped jar I think it works in 1.21.8 single player ",
-    "[15:06] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:06] [XMAS2025] <Tobias> ye i tested it ",
-    "[15:06] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[15:06] [Ultra] <MindComplexity> paper also is pretty frustrating to deal with ",
-    "[15:06] [Ultra] <MindComplexity> they patch things that shouldn't been patched out ",
-    "[15:06] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
-    "[15:06] <ItsMeMario_XD> !illegal ",
     "[15:06] [8b8t] >> Teleporting to home 0...",
     "[15:06] [8b8t] >> Teleporting to home 7...",
     "[15:06] To ItsMeMario_XD: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
@@ -81,20 +71,31 @@
     "[15:08] To ItsMeMario_XD: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:08] [8b8t] >> Request sent to ItsMeMario_XD",
     "[15:08] [8b8t] >> Teleporting...",
-    "[15:08] [8b8t] >> You have killed yourself!"
+    "[15:08] [8b8t] >> You have killed yourself!",
+    "[15:08] <ItsMeMario_XD> !elytra ",
+    "[15:08] To ItsMeMario_XD: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:08] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[15:08] <LyoxYT> !elytra ",
+    "[15:08] [8b8t] >> Teleporting to home 0...",
+    "[15:08] [8b8t] >> Teleporting to home 6...",
+    "[15:08] To LyoxYT: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:08] To LyoxYT: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:08] [8b8t] >> Request sent to LyoxYT",
+    "[15:08] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 1,
     "doyoda1292": 4,
     ".monolithpm": 1,
     "ItsMeMario_XD": 4,
-    "LyoxYT": 1
+    "LyoxYT": 2
   },
   "kitStats": {
     "stash": 1,
     "pvp": 4,
     "build": 1,
     "dupe": 4,
-    "survival": 1
+    "survival": 1,
+    "elytra": 1
   }
 }
