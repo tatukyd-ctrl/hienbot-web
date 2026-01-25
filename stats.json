@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:31:34 25/1/2026",
+  "lastUpdated": "08:32:04 25/1/2026",
   "totalKits": 1914,
   "todayKits": 38,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 44,
-  "tps": "6.0",
-  "ping": 498,
+  "tps": "3.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "smallxyecoc",
@@ -14,7 +14,7 @@
     },
     {
       "name": "rezhuhohlov",
-      "count": 322
+      "count": 323
     },
     {
       "name": "dylans117877601",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 808
+      "count": 810
     },
     {
       "name": "survival",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:30] [8b8t] >> Teleporting to home 1...",
-    "[01:30] To santino426785_ch: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:30] <YummyLexi> !kit ",
-    "[01:30] To YummyLexi: Hello YummyLexi!! Use !kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:30] <rezhuhohlov> !kit PVP ",
-    "[01:30] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:30] <smallxyecoc> !kit PVP ",
-    "[01:30] To santino426785_ch: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:30] To smallxyecoc: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:30] [8b8t] >> Request sent to santino426785_ch",
-    "[01:30] [8b8t] >> Teleporting...",
-    "[01:30] <rezhuhohlov> !kit PVP ",
-    "[01:30] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[01:31] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[01:31] [8b8t] >> You have killed yourself!",
     "[01:31] <rezhuhohlov> !kit PVP ",
     "[01:31] [8b8t] >> Teleporting to home 0...",
     "[01:31] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +86,22 @@
     "[01:31] To rezhuhohlov: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[01:31] ",
     "[01:31] [8b8t] >> Restarting in 1m!",
-    "[01:31] "
+    "[01:31] ",
+    "[01:31] <rezhuhohlov> !kit PVP ",
+    "[01:31] [8b8t] >> Teleporting to home 0...",
+    "[01:31] [8b8t] >> Teleporting to home 1...",
+    "[01:31] To rezhuhohlov: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:31] To rezhuhohlov: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[01:31] <santino426785_ch> !kit pvp ",
+    "[01:31] [8b8t] >> Teleporting to home 0...",
+    "[01:31] [8b8t] >> Teleporting to home 1...",
+    "[01:31] To santino426785_ch: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:31] To santino426785_ch: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[01:31] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[01:32] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
+    "[01:32] ",
+    "[01:32] [8b8t] >> Restarting in 30s!",
+    "[01:32] "
   ],
   "userStats": {
     "dylans117877601": 58,
@@ -424,7 +424,7 @@
     ".Maddie8171111": 2,
     "sepillin": 1,
     "santinoxd498": 2,
-    "rezhuhohlov": 322,
+    "rezhuhohlov": 323,
     "nCBH7": 3,
     "ClopClopClop999": 3,
     "JULIANSPR": 1,
@@ -477,7 +477,7 @@
     ".Noel5858": 4,
     "nndolohh0110": 9,
     "animedudeguy": 1,
-    "santino426785_ch": 2
+    "santino426785_ch": 3
   },
   "kitStats": {
     "build": 132,
@@ -486,7 +486,7 @@
     "wood": 38,
     "armortrims": 30,
     "glass": 32,
-    "pvp": 808,
+    "pvp": 810,
     "dye": 11,
     "dupe": 131,
     "gterracotta": 13,
