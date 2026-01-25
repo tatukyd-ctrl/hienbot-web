@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:08:25 25/1/2026",
-  "totalKits": 1924,
-  "todayKits": 10,
+  "lastUpdated": "09:08:44 25/1/2026",
+  "totalKits": 1925,
+  "todayKits": 11,
   "onlineCount": 21,
   "peakPlayers": 23,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 222,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 294
+      "count": 295
     },
     {
       "name": "dupe",
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:07] [8b8t] >> Teleporting to home 0...",
-    "[02:07] [8b8t] >> Teleporting to home 1...",
-    "[02:07] To santino426785_ch: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:07] To santino426785_ch: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:07] [8b8t] >> Request sent to santino426785_ch",
-    "[02:07] <YummyLexi> *kit ",
-    "[02:07] To YummyLexi: Hello YummyLexi!! Use *kit Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:07] [8b8t] >> Teleporting...",
-    "[02:07] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
     "[02:07] <zCrixz> *kit survival ",
     "[02:07] To zCrixz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[02:07] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -101,7 +92,16 @@
     "[02:08] [8b8t] >> Request sent to YummyLexi",
     "[02:08] [8b8t] >> Teleporting...",
     "[02:08] <zCrixz> *kit survival ",
-    "[02:08] To zCrixz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[02:08] To zCrixz: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[02:08] [8b8t] >> You have killed yourself!",
+    "[02:08] <zCrixz> *kit elytra ",
+    "[02:08] [8b8t] >> Teleporting to home 0...",
+    "[02:08] [8b8t] >> Teleporting to home 6...",
+    "[02:08] To zCrixz: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:08] To zCrixz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:08] [8b8t] >> Request sent to zCrixz",
+    "[02:08] [8b8t] >> Teleporting...",
+    "[02:08] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
   ],
   "userStats": {
     "dylans117877601": 58,
@@ -478,7 +478,7 @@
     "nndolohh0110": 9,
     "animedudeguy": 1,
     "santino426785_ch": 6,
-    "zCrixz": 2
+    "zCrixz": 3
   },
   "kitStats": {
     "build": 133,
@@ -498,7 +498,7 @@
     "end": 47,
     "quartz": 36,
     "music": 12,
-    "elytra": 294,
+    "elytra": 295,
     "survival": 574,
     "tools": 132,
     "food": 41,
