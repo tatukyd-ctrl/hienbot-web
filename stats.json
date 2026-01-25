@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:22:58 26/1/2026",
-  "totalKits": 141,
-  "todayKits": 56,
-  "onlineCount": 37,
+  "lastUpdated": "01:23:24 26/1/2026",
+  "totalKits": 142,
+  "todayKits": 57,
+  "onlineCount": 38,
   "peakPlayers": 41,
-  "tps": "2.0",
-  "ping": 210,
+  "tps": "4.0",
+  "ping": 350,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:21] [8b8t] >> Teleporting to home 0...",
-    "[18:21] [8b8t] >> Teleporting to home 1...",
-    "[18:21] To rezhuhohlov: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[18:21] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
-    "[18:21] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[18:21] [8b8t] >> Request sent to rezhuhohlov",
-    "[18:21] [8b8t] >> Teleporting...",
-    "[18:21] [8b8t] >> You have killed yourself!",
-    "[18:21] rezhuhohlov Whispers: !kit PVP",
-    "[18:21] To rezhuhohlov: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[18:21] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[18:21] <D4RK_K1NG> !bestping ",
     "[18:21] To D4RK_K1NG: MrPinkEye with 86 ms. Dont forget to join dsc.gg/hienbot",
     "[18:21] rezhuhohlov Whispers: !kit PVP",
@@ -101,7 +90,18 @@
     "[18:22] [8b8t] >> Teleporting...",
     "[18:22] <JunkBass3801105> !stash ",
     "[18:22] To JunkBass3801105: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[18:22] [8b8t] >> You have killed yourself!"
+    "[18:22] [8b8t] >> You have killed yourself!",
+    "[18:23] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[18:23] <worldsaverizzler> !stach ",
+    "[18:23] [8b8t] >> Teleporting to home 0...",
+    "[18:23] [8b8t] >> Teleporting to home 7...",
+    "[18:23] To worldsaverizzler: Kit \"stach\" not found! Giving you (lightsources) instead! dsc.gg/hienbot",
+    "[18:23] <ASneakySenior> give me a sec and I will teleport you ",
+    "[18:23] To worldsaverizzler: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:23] [8b8t] >> Request sent to worldsaverizzler",
+    "[18:23] [8b8t] >> Teleporting...",
+    "[18:23] rezhuhohlov Whispers: !kit PVP",
+    "[18:23] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -134,7 +134,8 @@
     "YourWorstN8tmr": 3,
     "AstralAurora": 2,
     "JunkBass3801105": 2,
-    "D4RK_K1NG": 1
+    "D4RK_K1NG": 1,
+    "worldsaverizzler": 1
   },
   "kitStats": {
     "stash": 10,
@@ -146,7 +147,7 @@
     "exp": 1,
     "shulker": 7,
     "redstone": 6,
-    "lightsources": 1,
+    "lightsources": 2,
     "gap": 1,
     "wood": 6,
     "gterracotta": 2,
