@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:57:38 25/1/2026",
+  "lastUpdated": "18:57:47 25/1/2026",
   "totalKits": 1982,
   "todayKits": 20,
   "onlineCount": 25,
   "peakPlayers": 29,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 232,
   "topUsers": [
     {
@@ -63,22 +63,15 @@
       "count": 300
     },
     {
-      "name": "tools",
+      "name": "dupe",
       "count": 142
     },
     {
-      "name": "dupe",
-      "count": 141
+      "name": "tools",
+      "count": 142
     }
   ],
   "chatLog": [
-    "[11:56]  [8builders8tools]",
-    "[11:56]  Perform the command /discord add to register",
-    "[11:56]  your discord. By doing so, you",
-    "[11:56]  decrease the chance of being hacked.",
-    "[11:56] ",
-    "[11:56]   [Confirm read]",
-    "[11:56] ",
     "[11:56] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[11:56] [8b8t] >> You have killed yourself!",
     "[11:56] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[11:57] To alifthepro123: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[11:57] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[11:57] [8b8t] >> Teleporting...",
-    "[11:57] <Richator3000> a "
+    "[11:57] <Richator3000> a ",
+    "[11:57] [8b8t] >> You have killed yourself!",
+    "[11:57] <Richator3000> !illegal ",
+    "[11:57] [8b8t] >> Teleporting to home 0...",
+    "[11:57] [8b8t] >> Teleporting to home 7...",
+    "[11:57] To Richator3000: Your kit (illegal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:57] To Richator3000: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:57] [8b8t] >> Request sent to Richator3000"
   ],
   "userStats": {
     "dylans117877601": 58,
@@ -490,7 +490,7 @@
     "ReljKo7": 1,
     ".cwccc123": 2,
     "Narimattr_535": 5,
-    "Richator3000": 5,
+    "Richator3000": 6,
     "not_server_admin": 1
   },
   "kitStats": {
@@ -502,7 +502,7 @@
     "glass": 33,
     "pvp": 869,
     "dye": 11,
-    "dupe": 141,
+    "dupe": 142,
     "gterracotta": 13,
     "redstone": 53,
     "mineral": 51,
