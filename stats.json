@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "01:17:28 26/1/2026",
+  "lastUpdated": "01:17:58 26/1/2026",
   "totalKits": 135,
   "todayKits": 50,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 41,
-  "tps": "1.0",
+  "tps": "7.0",
   "ping": 211,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 43
+      "count": 44
     },
     {
       "name": "survival",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[18:16] To liviaaaaaaa: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[18:16] [8b8t] >> Request sent to liviaaaaaaa",
-    "[18:16] [8b8t] >> Teleporting...",
-    "[18:16] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[18:16] <dylans117877601> !end ",
-    "[18:16] rezhuhohlov Whispers: !kit PVP",
-    "[18:16] To dylans117877601: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[18:16] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[18:16] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
     "[18:16] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[18:17] [8b8t] >> Request sent to rezhuhohlov",
     "[18:17] <.HornSteak3928> Can someone help me? ",
     "[18:17] [8b8t] >> Teleporting...",
-    "[18:17] [8b8t] >> You have killed yourself!"
+    "[18:17] [8b8t] >> You have killed yourself!",
+    "[18:17] rezhuhohlov Whispers: !kit PVP",
+    "[18:17] To rezhuhohlov: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[18:17] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
+    "[18:17] <D4RK_K1NG> !pvo ",
+    "[18:17] [8b8t] >> Teleporting to home 0...",
+    "[18:17] [8b8t] >> Teleporting to home 1...",
+    "[18:17] To D4RK_K1NG: Kit \"pvo\" not found! Giving you (pvp) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -133,11 +133,12 @@
     "Xx_COCACOLA_xX": 4,
     "YourWorstN8tmr": 3,
     "AstralAurora": 2,
-    "JunkBass3801105": 2
+    "JunkBass3801105": 2,
+    "D4RK_K1NG": 1
   },
   "kitStats": {
     "stash": 10,
-    "pvp": 43,
+    "pvp": 44,
     "build": 5,
     "dupe": 20,
     "survival": 23,
