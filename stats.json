@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:02:47 25/1/2026",
+  "lastUpdated": "19:03:17 25/1/2026",
   "totalKits": 1987,
   "todayKits": 25,
-  "onlineCount": 24,
+  "onlineCount": 25,
   "peakPlayers": 29,
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 220,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 301
+      "count": 302
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:01] ",
-    "[12:01] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[12:01] [8b8t] >> You have killed yourself!",
-    "[12:01] Chat disabled in client options",
-    "[12:01] You are already connected to this server!",
-    "[12:01] <Richator3000> !christmas ",
-    "[12:01] [8b8t] >> Teleporting to home 0...",
-    "[12:01] [8b8t] >> Teleporting to home 3...",
     "[12:01] To Richator3000: Kit \"christmas\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
     "[12:01] To Richator3000: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:01] [8b8t] >> Request sent to Richator3000",
@@ -101,7 +93,15 @@
     "[12:02] [8b8t] >> Request sent to Richator3000",
     "[12:02] [8b8t] >> Teleporting...",
     "[12:02] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
-    "[12:02] [8b8t] >> You have killed yourself!"
+    "[12:02] [8b8t] >> You have killed yourself!",
+    "[12:02] <JoniXx28> !elytra ",
+    "[12:02] [8b8t] >> Teleporting to home 0...",
+    "[12:02] [8b8t] >> Teleporting to home 6...",
+    "[12:02] To JoniXx28: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:02] To JoniXx28: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:02] [8b8t] >> Request sent to JoniXx28",
+    "[12:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:03] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 "
   ],
   "userStats": {
     "dylans117877601": 58,
@@ -491,7 +491,8 @@
     ".cwccc123": 2,
     "Narimattr_535": 5,
     "Richator3000": 9,
-    "not_server_admin": 1
+    "not_server_admin": 1,
+    "JoniXx28": 1
   },
   "kitStats": {
     "build": 135,
@@ -511,7 +512,7 @@
     "end": 47,
     "quartz": 36,
     "music": 12,
-    "elytra": 301,
+    "elytra": 302,
     "survival": 587,
     "tools": 143,
     "food": 41,
