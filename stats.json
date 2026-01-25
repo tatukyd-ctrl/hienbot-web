@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:01:02 26/1/2026",
+  "lastUpdated": "02:01:28 26/1/2026",
   "totalKits": 184,
   "todayKits": 99,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 43,
   "tps": "5.0",
-  "ping": 212,
+  "ping": 211,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -67,23 +67,11 @@
       "count": 12
     },
     {
-      "name": "tools",
+      "name": "stash",
       "count": 11
     }
   ],
   "chatLog": [
-    "[19:00] <sebasfut29> yo ",
-    "[19:00] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[19:00] rezhuhohlov Whispers: !kit PVP",
-    "[19:00] To rezhuhohlov: You're on cooldown, try again in 9 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:00] <SUS3106> Any new people wanna pvp ",
-    "[19:00] [Ultra] <MARLBORO> PVP IN THE HOTSPOT ",
-    "[19:00] rezhuhohlov Whispers: !kit PVP",
-    "[19:00] [8b8t] >> Teleporting to home 0...",
-    "[19:00] [8b8t] >> Teleporting to home 1...",
-    "[19:00] To rezhuhohlov: Your kit (PVP) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:00] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:00] [8b8t] >> Request sent to rezhuhohlov",
     "[19:00] [BOT] <0_HienBot> >Welcome to 8b8t, sebasfut29! ",
     "[19:00] [8b8t] >> Teleporting...",
     "[19:00] <worldsaverizzler> !stach ",
@@ -101,7 +89,19 @@
     "[19:00] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[19:00] [8b8t] >> Request sent to worldsaverizzler",
     "[19:00] [8b8t] >> Teleporting...",
-    "[19:01] <Maverick0624> flame this is beutiful "
+    "[19:01] <Maverick0624> flame this is beutiful ",
+    "[19:01] [8b8t] >> You have killed yourself!",
+    "[19:01] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[19:01] <FlameeX3> thanks ",
+    "[19:01] rezhuhohlov Whispers: !kit PVP",
+    "[19:01] To rezhuhohlov: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:01] <MAKU_PRO_002> !stash ",
+    "[19:01] [8b8t] >> Teleporting to home 0...",
+    "[19:01] [8b8t] >> Home 2 was not found",
+    "[19:01] To MAKU_PRO_002: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:01] To MAKU_PRO_002: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[19:01] [Ultra] <MARLBORO> ANYONE PVP? ",
+    "[19:01] .monolithpm has made the advancement [A Terrible Fortress]"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -140,10 +140,11 @@
     "jtorpey3": 4,
     "MrBeax31": 1,
     "EvenMariotime": 3,
-    ".oneonefour14": 2
+    ".oneonefour14": 2,
+    "MAKU_PRO_002": 1
   },
   "kitStats": {
-    "stash": 10,
+    "stash": 11,
     "pvp": 69,
     "build": 7,
     "dupe": 23,
