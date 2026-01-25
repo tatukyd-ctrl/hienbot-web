@@ -1,19 +1,19 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:24:33 25/1/2026",
-  "totalKits": 2,
-  "todayKits": 2,
+  "lastUpdated": "21:24:54 25/1/2026",
+  "totalKits": 3,
+  "todayKits": 3,
   "onlineCount": 32,
   "peakPlayers": 33,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 240,
   "topUsers": [
     {
-      "name": "Hien2309",
-      "count": 1
+      "name": "doyoda1292",
+      "count": 2
     },
     {
-      "name": "doyoda1292",
+      "name": "Hien2309",
       "count": 1
     },
     {
@@ -29,17 +29,13 @@
     {
       "name": "stash",
       "count": 1
+    },
+    {
+      "name": "build",
+      "count": 1
     }
   ],
   "chatLog": [
-    "[14:21] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[14:21] [XMAS2025] <Tobias> if that \"exploit\" of yours works ",
-    "[14:21] <WildCreativity> how do ik thats true ",
-    "[14:21] [XMAS2025] <Tobias> since im p sure youre just full of shit ",
-    "[14:21] [BOT] <0_HienBot> >Welcome to 8b8t, NetherB0T! ",
-    "[14:22] [XMAS2025] <Tobias> youre gonna do it anyway arent you? ",
-    "[14:22] <WildCreativity> i just wanna break ",
-    "[14:22] [XMAS2025] <Tobias> you dont have anything to lose ",
     "[14:22] <WildCreativity> wym ",
     "[14:22] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[14:22] [XMAS2025] <Tobias> whats there to understand ",
@@ -61,15 +57,24 @@
     "[14:23] [XMAS2025] <Tobias> ah ",
     "[14:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:24] [XMAS2025] <Tobias> one sec ",
-    "[14:24] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore "
+    "[14:24] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[14:24] <doyoda1292> !build ",
+    "[14:24] [8b8t] >> Teleporting to home 0...",
+    "[14:24] [8b8t] >> Home 2 was not found",
+    "[14:24] To doyoda1292: Your kit (build) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:24] To doyoda1292: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:24] [8b8t] >> Request sent to doyoda1292",
+    "[14:24] <WildCreativity> ok so the machine is where nobody can find it and its time to put to the test ",
+    "[14:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 1,
-    "doyoda1292": 1,
+    "doyoda1292": 2,
     ".monolithpm": 1
   },
   "kitStats": {
     "stash": 1,
-    "pvp": 2
+    "pvp": 2,
+    "build": 1
   }
 }
