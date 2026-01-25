@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "06:22:59 26/1/2026",
+  "lastUpdated": "06:23:29 26/1/2026",
   "totalKits": 361,
   "todayKits": 276,
   "onlineCount": 22,
   "peakPlayers": 51,
-  "tps": "0.0",
-  "ping": 213,
+  "tps": "5.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[23:20] [8b8t] >> You have killed yourself!",
-    "[23:20] [8b8t] >> The TPA request you sent to rezhuhohlov has expired.",
-    "[23:20] [8b8t] >> No TPA request found",
-    "[23:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[23:21] rezhuhohlov Whispers: !kit Toolbox",
-    "[23:21] To rezhuhohlov: You're on cooldown, try again in 55 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:21] rezhuhohlov Whispers: !kit Toolbox",
-    "[23:21] To rezhuhohlov: You're on cooldown, try again in 40 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:21] [BOT] <0_HienBot> >What's up, drecobloxrd? ",
-    "[23:21] rezhuhohlov Whispers: !kit Toolbox",
     "[23:21] To rezhuhohlov: You're on cooldown, try again in 25 seconds! Dont forget to join dsc.gg/hienbot",
     "[23:21] rezhuhohlov Whispers: !kit Toolbox",
     "[23:21] To rezhuhohlov: You're on cooldown, try again in 10 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[23:22] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[23:22] rezhuhohlov Whispers: !kit Toolbox",
     "[23:22] To rezhuhohlov: You're on cooldown, try again in 16 seconds! Dont forget to join dsc.gg/hienbot",
-    "[23:22] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 "
+    "[23:22] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
+    "[23:23] rezhuhohlov Whispers: !kit Toolbox",
+    "[23:23] To rezhuhohlov: You're on cooldown, try again in 2 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:23] <Tayfun_MC> !stash ",
+    "[23:23] [8b8t] >> Teleporting to home 0...",
+    "[23:23] [8b8t] >> Home 2 was not found",
+    "[23:23] To Tayfun_MC: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[23:23] To Tayfun_MC: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[23:23] <DORITOS_H> bro ",
+    "[23:23] <DORITOS_H> chamorro ",
+    "[23:23] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
   ],
   "userStats": {
     "Hien2309": 1,
@@ -155,10 +155,11 @@
     "Widelands": 1,
     "breno552": 2,
     "fibra_": 1,
-    "NEXUS_1": 1
+    "NEXUS_1": 1,
+    "Tayfun_MC": 1
   },
   "kitStats": {
-    "stash": 18,
+    "stash": 19,
     "pvp": 147,
     "build": 10,
     "dupe": 34,
