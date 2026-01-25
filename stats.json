@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:04:47 25/1/2026",
-  "totalKits": 1987,
-  "todayKits": 25,
+  "lastUpdated": "19:05:05 25/1/2026",
+  "totalKits": 1988,
+  "todayKits": 26,
   "onlineCount": 26,
   "peakPlayers": 29,
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 218,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 302
+      "count": 303
     },
     {
       "name": "dupe",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:04] <Richator3000> !armortrims ",
-    "[12:04] [8b8t] >> Teleporting to home 0...",
-    "[12:04] [8b8t] >> Teleporting to home 7...",
-    "[12:04] To Richator3000: Your kit (armortrims) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:04] To Richator3000: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:04] [8b8t] >> Request sent to Richator3000",
-    "[12:04] [8b8t] >> The TPA request you sent to Richator3000 has expired.",
-    "[12:04] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[12:04] <nikolozi2478> ty ",
     "[12:04] <JoniXx28> !elytra ",
     "[12:04] To JoniXx28: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +93,15 @@
     "[12:04] To Richator3000: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[12:04] [8b8t] >> You have killed yourself!",
     "[12:04] [8b8t] >> No TPA request found",
-    "[12:04] <Richator3000> !armortrims "
+    "[12:04] <Richator3000> !armortrims ",
+    "[12:04] To Richator3000: You're on cooldown, try again in 56 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:04] <JoniXx28> !elytra ",
+    "[12:04] [8b8t] >> Teleporting to home 0...",
+    "[12:04] [8b8t] >> Teleporting to home 6...",
+    "[12:04] To JoniXx28: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[12:04] To JoniXx28: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:04] [8b8t] >> Request sent to JoniXx28",
+    "[12:05] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "dylans117877601": 58,
@@ -492,7 +492,7 @@
     "Narimattr_535": 5,
     "Richator3000": 10,
     "not_server_admin": 1,
-    "JoniXx28": 1
+    "JoniXx28": 2
   },
   "kitStats": {
     "build": 135,
@@ -512,7 +512,7 @@
     "end": 47,
     "quartz": 36,
     "music": 12,
-    "elytra": 302,
+    "elytra": 303,
     "survival": 587,
     "tools": 143,
     "food": 41,
