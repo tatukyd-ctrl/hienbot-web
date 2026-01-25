@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:30:23 26/1/2026",
+  "lastUpdated": "00:30:33 26/1/2026",
   "totalKits": 65,
   "todayKits": 65,
   "onlineCount": 39,
   "peakPlayers": 40,
-  "tps": "5.0",
+  "tps": "2.0",
   "ping": 216,
   "topUsers": [
     {
@@ -68,17 +68,10 @@
     },
     {
       "name": "stash",
-      "count": 5
+      "count": 6
     }
   ],
   "chatLog": [
-    "[17:28] [8b8t] >> Teleporting to home 0...",
-    "[17:28] [8b8t] >> Teleporting to home 1...",
-    "[17:28] To rezhuhohlov: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:28] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:28] [8b8t] >> Request sent to rezhuhohlov",
-    "[17:28] [8b8t] >> Teleporting...",
-    "[17:28] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[17:28] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[17:28] [8b8t] >> You have killed yourself!",
     "[17:28] <AstralAurora> ! ",
@@ -101,7 +94,14 @@
     "[17:30] <setelezsx> AAAAAAAAAAAAAA ",
     "[17:30] <Maverick0624> !stash ",
     "[17:30] To Maverick0624: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:30] [8b8t] >> Teleporting..."
+    "[17:30] [8b8t] >> Teleporting...",
+    "[17:30] <Kidpoison> no puedo salir ",
+    "[17:30] [8b8t] >> You have killed yourself!",
+    "[17:30] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[17:30] <Maverick0624> !stash ",
+    "[17:30] [8b8t] >> Teleporting to home 0...",
+    "[17:30] [8b8t] >> Home 2 was not found",
+    "[17:30] To Maverick0624: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -122,10 +122,11 @@
     "dylans117877601": 1,
     "Nighten2": 2,
     "BdubH2015": 8,
-    "rezhuhohlov": 10
+    "rezhuhohlov": 10,
+    "Maverick0624": 1
   },
   "kitStats": {
-    "stash": 5,
+    "stash": 6,
     "pvp": 14,
     "build": 2,
     "dupe": 14,
