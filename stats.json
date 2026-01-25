@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:35:16 25/1/2026",
+  "lastUpdated": "17:35:46 25/1/2026",
   "totalKits": 1967,
   "todayKits": 5,
-  "onlineCount": 19,
+  "onlineCount": 16,
   "peakPlayers": 20,
-  "tps": "3.0",
+  "tps": "5.0",
   "ping": 213,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:27] [BOT] <0_HienBot> >What's up, DPS_Chatbridge? ",
-    "[10:28] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
-    "[10:28] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[10:28] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[10:29] [BOT] <0_HienBot> >Hey .Evil_Ghost88915! ",
-    "[10:29] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
     "[10:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:30] [BOT] <0_HienBot> >Hmmmmmmmmm ",
     "[10:30] cwwwecow Whispers: *kit Redstone",
@@ -101,7 +95,13 @@
     "[10:34] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
     "[10:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:34] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[10:35] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
+    "[10:35] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
+    "[10:35] cwwwecow Whispers: *kit Bundle",
+    "[10:35] [8b8t] >> Teleporting to home 0...",
+    "[10:35] [8b8t] >> Home 2 was not found",
+    "[10:35] To cwwwecow: Kit \"Bundle\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[10:35] To cwwwecow: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:35] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me "
   ],
   "userStats": {
     "dylans117877601": 58,
@@ -482,14 +482,14 @@
     "Goroloncio": 1,
     "gmoneygrip18": 1,
     "LocalIceDealer": 1,
-    "cwwwecow": 27,
+    "cwwwecow": 28,
     "Hien2309": 4,
     "ItsMichael12345": 1
   },
   "kitStats": {
     "build": 134,
     "raid": 84,
-    "stash": 85,
+    "stash": 86,
     "wood": 38,
     "armortrims": 30,
     "glass": 33,
