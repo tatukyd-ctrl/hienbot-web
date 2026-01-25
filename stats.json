@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:27:03 26/1/2026",
+  "lastUpdated": "00:27:33 26/1/2026",
   "totalKits": 62,
   "todayKits": 62,
   "onlineCount": 38,
   "peakPlayers": 40,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "1.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": ".Maddie8171111",
@@ -22,7 +22,7 @@
     },
     {
       "name": "rezhuhohlov",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ItsMeMario_XD",
@@ -60,7 +60,7 @@
     },
     {
       "name": "survival",
-      "count": 10
+      "count": 11
     },
     {
       "name": "elytra",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:25] [8b8t] >> Request sent to rezhuhohlov",
-    "[17:25] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[17:25] rezhuhohlov Whispers: !kit Survival",
-    "[17:25] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:25] <egirlcatnip> :3 ",
-    "[17:25] To egirlcatnip: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[17:25] guserghi has made the advancement [Isn't It Iron Pick]",
-    "[17:25] [8b8t] >> Teleporting...",
-    "[17:25] [8b8t] >> You have killed yourself!",
     "[17:25] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[17:25] <Maverick0624> so ",
     "[17:25] <Hugoyouh> puedo ver el stash? ",
@@ -101,7 +91,17 @@
     "[17:27]   [Confirm read]",
     "[17:27] ",
     "[17:27] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[17:27] You are already connected to this server!"
+    "[17:27] You are already connected to this server!",
+    "[17:27] rezhuhohlov Whispers: !kit Survival",
+    "[17:27] [8b8t] >> You have killed yourself!",
+    "[17:27] To rezhuhohlov: Your kit (Survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:27] [8b8t] >> Teleporting to home 0...",
+    "[17:27] AstralAurora has made the advancement [Who is Cutting Onions?]",
+    "[17:27] [8b8t] >> Teleporting to home 1...",
+    "[17:27] To rezhuhohlov: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[17:27] [8b8t] >> Please do not spam.",
+    "[17:27] .Maddie8171111 Whispers: !kit",
+    "[17:27] To .Maddie8171111: Hello .Maddie8171111!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -122,14 +122,14 @@
     "dylans117877601": 1,
     "Nighten2": 2,
     "BdubH2015": 8,
-    "rezhuhohlov": 7
+    "rezhuhohlov": 8
   },
   "kitStats": {
     "stash": 5,
     "pvp": 13,
     "build": 2,
     "dupe": 14,
-    "survival": 10,
+    "survival": 11,
     "elytra": 8,
     "exp": 1,
     "shulker": 3,
