@@ -1,21 +1,25 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:51:33 25/1/2026",
+  "lastUpdated": "20:52:03 25/1/2026",
   "totalKits": 0,
   "todayKits": 0,
   "onlineCount": 28,
   "peakPlayers": 29,
-  "tps": "4.0",
-  "ping": 235,
-  "topUsers": [],
-  "topKits": [],
+  "tps": "1.0",
+  "ping": 229,
+  "topUsers": [
+    {
+      "name": "Hien2309",
+      "count": 1
+    }
+  ],
+  "topKits": [
+    {
+      "name": "stash",
+      "count": 1
+    }
+  ],
   "chatLog": [
-    "[13:47] You are already connected to this server!",
-    "[13:48] <WildCreativity> anyways i didnt destroy ur base ",
-    "[13:48] <WildCreativity> it was elproplayer ",
-    "[13:48] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[13:48] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
-    "[13:48] [Pro] <⛩ᏗᏒᏁᎧ⛏> > how many ppl do you envolved in this fake shit ",
     "[13:48] [Pro] <⛩ᏗᏒᏁᎧ⛏> > i know it was you dumbass nigga ",
     "[13:48] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[13:48] <WildCreativity> keep telling yourself that ",
@@ -39,8 +43,18 @@
     "[13:50] You are already connected to this server!",
     "[13:50] [BOT] <0_HienBot> >Type !𝗽𝘃𝗽  to get free kits ",
     "[13:51] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[13:51] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 "
+    "[13:51] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
+    "[13:51] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[13:51] [Mini] <hein> !stash ",
+    "[13:51] [8b8t] >> Teleporting to home 0...",
+    "[13:51] [8b8t] >> Home 2 was not found",
+    "[13:51] To Hien2309: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:51] To Hien2309: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
-  "userStats": {},
-  "kitStats": {}
+  "userStats": {
+    "Hien2309": 1
+  },
+  "kitStats": {
+    "stash": 1
+  }
 }
