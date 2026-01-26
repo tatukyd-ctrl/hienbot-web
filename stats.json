@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:37:47 26/1/2026",
+  "lastUpdated": "12:38:17 26/1/2026",
   "totalKits": 492,
   "todayKits": 54,
-  "onlineCount": 15,
+  "onlineCount": 16,
   "peakPlayers": 30,
-  "tps": "4.0",
+  "tps": "8.0",
   "ping": 216,
   "topUsers": [
     {
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "toolbox",
-      "count": 420
+      "count": 421
     },
     {
       "name": "pvp",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:35] [8b8t] >> Teleporting...",
-    "[05:35] [8b8t] >> You have killed yourself!",
-    "[05:35] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[05:35] <Doot06> t ",
-    "[05:36] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:36] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲 ",
     "[05:36] <Zoroexe77> !tnt ",
     "[05:36] To Zoroexe77: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:36] <Zoroexe77> !tnt ",
@@ -101,7 +95,13 @@
     "[05:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[05:37] [8b8t] >> Teleporting...",
     "[05:37] [8b8t] >> You have killed yourself!",
-    "[05:37] [BOT] <0_HienBot> >Hmmmmmmmmm "
+    "[05:37] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[05:38] <.SwellDust9988> !armors ",
+    "[05:38] [8b8t] >> Teleporting to home 0...",
+    "[05:38] [8b8t] >> Teleporting to home 4...",
+    "[05:38] To .SwellDust9988: Kit \"armors\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
+    "[05:38] To .SwellDust9988: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[05:38] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe "
   ],
   "userStats": {
     "Hien2309": 1,
@@ -173,7 +173,8 @@
     "Perseverance090": 2,
     "Zoroexe77": 31,
     "Doot06": 1,
-    "AdventuresoAlex": 10
+    "AdventuresoAlex": 10,
+    ".SwellDust9988": 1
   },
   "kitStats": {
     "stash": 36,
@@ -191,7 +192,7 @@
     "gterracotta": 4,
     "armortrims": 80,
     "food": 5,
-    "toolbox": 420,
+    "toolbox": 421,
     "raid": 15,
     "terracotta": 2,
     "tools": 73,
