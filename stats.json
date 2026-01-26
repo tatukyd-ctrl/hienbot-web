@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:08:20 26/1/2026",
+  "lastUpdated": "22:08:50 26/1/2026",
   "totalKits": 586,
   "todayKits": 10,
   "onlineCount": 27,
   "peakPlayers": 29,
-  "tps": "3.0",
+  "tps": "0.0",
   "ping": 219,
   "topUsers": [
     {
@@ -68,19 +68,10 @@
     },
     {
       "name": "survival",
-      "count": 106
+      "count": 107
     }
   ],
   "chatLog": [
-    "[15:07] To rezhuhohlov: Your kit (Exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:07] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:07] [8b8t] >> Request sent to rezhuhohlov",
-    "[15:07] <btclubfvv> !stash ",
-    "[15:07] To btclubfvv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:07] rezhuhohlov Whispers: !kit Exp",
-    "[15:07] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:07] <btclubfvv> !stash ",
-    "[15:07] To btclubfvv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:07] [BOT] <0_HienBot> >Type !discord ",
     "[15:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:07] rezhuhohlov Whispers: !kit Exp",
@@ -101,7 +92,16 @@
     "[15:08] To btclubfvv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:08] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[15:08] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[15:08] [8b8t] >> You have killed yourself!"
+    "[15:08] [8b8t] >> You have killed yourself!",
+    "[15:08] rezhuhohlov Whispers: !kit Exp",
+    "[15:08] To rezhuhohlov: You're on cooldown, try again in 24 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:08] <btclubfvv> !stash ",
+    "[15:08] [8b8t] >> Teleporting to home 0...",
+    "[15:08] [8b8t] >> Home 2 was not found",
+    "[15:08] To btclubfvv: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:08] To btclubfvv: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:08] <Hugoyouh> !survival ",
+    "[15:08] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 "
   ],
   "userStats": {
     "Hien2309": 2,
@@ -124,7 +124,7 @@
     "BdubH2015": 19,
     "rezhuhohlov": 901,
     "Maverick0624": 26,
-    "Hugoyouh": 6,
+    "Hugoyouh": 7,
     "Kidpoison": 20,
     "bananastik": 2,
     "setelezsx": 2,
@@ -189,15 +189,15 @@
     "Narimattr_535": 5,
     "MrDarkEye": 1,
     "itz_laeeqs": 1,
-    "btclubfvv": 7,
+    "btclubfvv": 8,
     "therpgman": 1
   },
   "kitStats": {
-    "stash": 52,
+    "stash": 53,
     "pvp": 198,
     "build": 20,
     "dupe": 43,
-    "survival": 106,
+    "survival": 107,
     "elytra": 167,
     "exp": 55,
     "shulker": 11,
