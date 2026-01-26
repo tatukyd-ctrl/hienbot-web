@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:45:21 26/1/2026",
+  "lastUpdated": "20:45:51 26/1/2026",
   "totalKits": 558,
   "todayKits": 38,
   "onlineCount": 16,
   "peakPlayers": 25,
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 219,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 197
+      "count": 198
     },
     {
       "name": "elytra",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:43] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
-    "[13:43] rezhuhohlov Whispers: !kit Tools",
-    "[13:43] [8b8t] >> Teleporting to home 0...",
-    "[13:43] [8b8t] >> Teleporting to home 7...",
-    "[13:43] To rezhuhohlov: Your kit (Tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:43] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:43] [8b8t] >> Request sent to rezhuhohlov",
-    "[13:44] [8b8t] >> Teleporting...",
-    "[13:44] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[13:44] [8b8t] >> You have killed yourself!",
-    "[13:44] [BOT] <0_HienBot> >Hey MrPinkEye! ",
-    "[13:44] rezhuhohlov Whispers: !kit Tools",
-    "[13:44] To rezhuhohlov: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:44] rezhuhohlov Whispers: !kit Tools",
-    "[13:44] To rezhuhohlov: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:44] [BOT] <0_HienBot> >Hey iTrisstan! ",
     "[13:44] <Mielmo15> whys there anti cheat? ",
     "[13:44] rezhuhohlov Whispers: !kit Tools",
@@ -101,7 +86,22 @@
     "[13:45] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[13:45] <pluto_oficial> tpahere mielmo ",
     "[13:45] [8b8t] >> Teleporting...",
-    "[13:45] <Mielmo15> i cant "
+    "[13:45] <Mielmo15> i cant ",
+    "[13:45] [8b8t] >> You have killed yourself!",
+    "[13:45] <pluto_oficial> try !pvp ",
+    "[13:45] <Mielmo15> !pvp ",
+    "[13:45] rezhuhohlov Whispers: !kit Tools",
+    "[13:45] [8b8t] >> Teleporting to home 0...",
+    "[13:45] [8b8t] >> Teleporting to home 1...",
+    "[13:45] To Mielmo15: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:45] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:45] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:45] To Mielmo15: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:45] [8b8t] >> Request sent to Mielmo15",
+    "[13:45] [BOT] <0_HienBot> >Type !discord ",
+    "[13:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:45] rezhuhohlov Whispers: !kit Tools",
+    "[13:45] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -183,11 +183,12 @@
     "Sandman388": 1,
     "wemmpook": 7,
     "pluto_oficial": 3,
-    "Forevergo": 3
+    "Forevergo": 3,
+    "Mielmo15": 1
   },
   "kitStats": {
     "stash": 44,
-    "pvp": 197,
+    "pvp": 198,
     "build": 20,
     "dupe": 42,
     "survival": 104,
