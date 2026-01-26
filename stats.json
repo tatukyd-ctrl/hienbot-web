@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:19:20 26/1/2026",
-  "totalKits": 591,
-  "todayKits": 15,
+  "lastUpdated": "22:19:44 26/1/2026",
+  "totalKits": 592,
+  "todayKits": 16,
   "onlineCount": 28,
   "peakPlayers": 29,
-  "tps": "6.0",
-  "ping": 230,
+  "tps": "2.0",
+  "ping": 267,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -68,21 +68,10 @@
     },
     {
       "name": "survival",
-      "count": 107
+      "count": 108
     }
   ],
   "chatLog": [
-    "[15:17] [8b8t] >> Teleporting to home 0...",
-    "[15:17] [8b8t] >> Teleporting to home 5...",
-    "[15:17] To rezhuhohlov: Your kit (Exp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:17] <Hugoyouh> !survival ",
-    "[15:17] To Hugoyouh: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:17] To rezhuhohlov: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:17] [8b8t] >> Request sent to rezhuhohlov",
-    "[15:17] rezhuhohlov Whispers: !kit Exp",
-    "[15:17] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[15:17] <btclubfvv> !stash ",
-    "[15:18] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[15:18] To btclubfvv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:18] [8b8t] >> Teleporting...",
     "[15:18] [8b8t] >> You have killed yourself!",
@@ -101,7 +90,18 @@
     "[15:19] [8b8t] >> You have killed yourself!",
     "[15:19] TotemOfUndead has made the advancement [Acquire Hardware]",
     "[15:19] rezhuhohlov Whispers: !kit Exp",
-    "[15:19] To rezhuhohlov: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot"
+    "[15:19] To rezhuhohlov: You're on cooldown, try again in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:19] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[15:19] rezhuhohlov Whispers: !kit Exp",
+    "[15:19] To rezhuhohlov: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:19] <btclubfvv> !survival ",
+    "[15:19] [8b8t] >> Teleporting to home 0...",
+    "[15:19] [8b8t] >> Teleporting to home 1...",
+    "[15:19] To btclubfvv: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:19] To btclubfvv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:19] [8b8t] >> Request sent to btclubfvv",
+    "[15:19] <fibra_> ah ",
+    "[15:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -189,7 +189,7 @@
     "Narimattr_535": 5,
     "MrDarkEye": 1,
     "itz_laeeqs": 2,
-    "btclubfvv": 10,
+    "btclubfvv": 11,
     "therpgman": 1
   },
   "kitStats": {
@@ -197,7 +197,7 @@
     "pvp": 199,
     "build": 20,
     "dupe": 43,
-    "survival": 107,
+    "survival": 108,
     "elytra": 167,
     "exp": 63,
     "shulker": 11,
