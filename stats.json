@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:37:17 26/1/2026",
-  "totalKits": 491,
-  "todayKits": 53,
+  "lastUpdated": "12:37:37 26/1/2026",
+  "totalKits": 492,
+  "todayKits": 54,
   "onlineCount": 15,
   "peakPlayers": 30,
-  "tps": "9.0",
+  "tps": "4.0",
   "ping": 212,
   "topUsers": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "Zoroexe77",
-      "count": 30
+      "count": 31
     },
     {
       "name": ".Maddie8171111",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:34] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[05:35] <Zoroexe77> !wither ",
-    "[05:35] To Zoroexe77: You're on cooldown, try again in 8 seconds! Dont forget to join dsc.gg/hienbot",
-    "[05:35] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
-    "[05:35] <Zoroexe77> !wither ",
-    "[05:35] [8b8t] >> Teleporting to home 0...",
-    "[05:35] [8b8t] >> Home 2 was not found",
-    "[05:35] To Zoroexe77: Your kit (wither) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[05:35] To Zoroexe77: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:35] [8b8t] >> Request sent to Zoroexe77",
     "[05:35] [8b8t] >> Teleporting...",
@@ -101,7 +93,15 @@
     "[05:36] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
     "[05:37] [BOT] <0_HienBot> >Do you want kit? Type *кιт ",
     "[05:37] <Zoroexe77> !armors ",
-    "[05:37] To Zoroexe77: You're on cooldown, try again in 2 seconds! Dont forget to join dsc.gg/hienbot"
+    "[05:37] To Zoroexe77: You're on cooldown, try again in 2 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:37] <Zoroexe77> !armors ",
+    "[05:37] [8b8t] >> Teleporting to home 0...",
+    "[05:37] [8b8t] >> Teleporting to home 3...",
+    "[05:37] To Zoroexe77: Kit \"armors\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
+    "[05:37] To Zoroexe77: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:37] [8b8t] >> Request sent to Zoroexe77",
+    "[05:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[05:37] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 1,
@@ -171,7 +171,7 @@
     "MINIMO111": 5,
     "PorotoCosmico": 2,
     "Perseverance090": 2,
-    "Zoroexe77": 30,
+    "Zoroexe77": 31,
     "Doot06": 1,
     "AdventuresoAlex": 10
   },
@@ -202,7 +202,7 @@
     "highway": 8,
     "music": 6,
     "end": 6,
-    "concrete": 5,
+    "concrete": 6,
     "dye": 4,
     "ocean": 3
   }
