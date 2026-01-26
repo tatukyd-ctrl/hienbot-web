@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:32:18 26/1/2026",
+  "lastUpdated": "22:32:48 26/1/2026",
   "totalKits": 598,
   "todayKits": 5,
-  "onlineCount": 31,
+  "onlineCount": 29,
   "peakPlayers": 31,
-  "tps": "1.0",
-  "ping": 248,
+  "tps": "5.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:31] [BOT] <0_HienBot> >What's up, Other? ",
-    "[15:31] gerby987 has made the advancement [Who is Cutting Onions?]",
-    "[15:31] rezhuhohlov Whispers: !kit Exp",
-    "[15:31] To rezhuhohlov: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:31] <btclubfvv> !survival ",
-    "[15:31] [8b8t] >> Teleporting to home 0...",
-    "[15:31] [8b8t] >> Teleporting to home 1...",
-    "[15:31] To btclubfvv: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[15:31] <Other> hablame español :v ",
-    "[15:31] vovan666top has made the advancement [Best Friends Forever]",
     "[15:31] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[15:31] To btclubfvv: Try again Join dsc.gg/hienbot to report the error.",
     "[15:31] <btclubfvv> !survival ",
@@ -101,7 +91,17 @@
     "[15:32] To btclubfvv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:32] <Other> es ",
     "[15:32] rezhuhohlov Whispers: !kit Exp",
-    "[15:32] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[15:32] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[15:32] To btclubfvv: Try again Join dsc.gg/hienbot to report the error.",
+    "[15:32] <Other> !lang es ",
+    "[15:32] To Other: Idioma cambiado a Espanol! | dsc.gg/hienbot",
+    "[15:32] <Other> :v ",
+    "[15:32] [8b8t] >> Teleporting to home 0...",
+    "[15:32] [8b8t] >> Teleporting to home 5...",
+    "[15:32] To Other: Kit \"v\" no encontrado! Dandote (exp) en su lugar! dsc.gg/hienbot",
+    "[15:32] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[15:32] To Other: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[15:32] [8b8t] >> Request sent to Other"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -190,7 +190,8 @@
     "MrDarkEye": 1,
     "itz_laeeqs": 2,
     "btclubfvv": 13,
-    "therpgman": 1
+    "therpgman": 1,
+    "Other": 1
   },
   "kitStats": {
     "stash": 56,
@@ -199,7 +200,7 @@
     "dupe": 43,
     "survival": 111,
     "elytra": 167,
-    "exp": 69,
+    "exp": 70,
     "shulker": 11,
     "redstone": 16,
     "lightsources": 9,
