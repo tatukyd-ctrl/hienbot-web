@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:00:17 26/1/2026",
+  "lastUpdated": "12:00:47 26/1/2026",
   "totalKits": 465,
   "todayKits": 27,
   "onlineCount": 18,
   "peakPlayers": 30,
-  "tps": "8.0",
-  "ping": 213,
+  "tps": "10.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:59] To rezhuhohlov: You're on cooldown, try again in 11 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:59] <Zoroexe77> !stash ",
-    "[04:59] [8b8t] >> Teleporting to home 0...",
-    "[04:59] [8b8t] >> Home 2 was not found",
-    "[04:59] To Zoroexe77: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[04:59] To Zoroexe77: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[04:59] <AstralAurora> !elytra ",
-    "[04:59] [8b8t] >> Teleporting to home 0...",
-    "[04:59] [8b8t] >> Teleporting to home 6...",
-    "[04:59] <Doot06> i went in a portal and got trapped and now im trying to die as fast as possible ",
     "[04:59] To AstralAurora: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[04:59] rezhuhohlov Whispers: !kit Tools",
     "[04:59] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +91,17 @@
     "[05:00] <Perseverance090> of course of course ",
     "[05:00] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits ",
     "[05:00] <Zoroexe77> !stash ",
-    "[05:00] To Zoroexe77: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[05:00] To Zoroexe77: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:00] [8b8t] >> You have killed yourself!",
+    "[05:00] [8b8t] >> No TPA request found",
+    "[05:00] <Zoroexe77> !stash ",
+    "[05:00] [8b8t] >> Teleporting to home 0...",
+    "[05:00] [8b8t] >> Home 2 was not found",
+    "[05:00] To Zoroexe77: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:00] rezhuhohlov Whispers: !kit Tools",
+    "[05:00] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[05:00] [BOT] <0_HienBot> >Welcome to 8b8t, MonkeBot! ",
+    "[05:00] To Zoroexe77: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -171,10 +171,10 @@
     "MINIMO111": 4,
     "PorotoCosmico": 2,
     "Perseverance090": 1,
-    "Zoroexe77": 1
+    "Zoroexe77": 2
   },
   "kitStats": {
-    "stash": 28,
+    "stash": 29,
     "pvp": 162,
     "build": 14,
     "dupe": 38,
