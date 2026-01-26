@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:31:51 26/1/2026",
-  "totalKits": 551,
-  "todayKits": 31,
-  "onlineCount": 17,
+  "lastUpdated": "20:32:18 26/1/2026",
+  "totalKits": 552,
+  "todayKits": 32,
+  "onlineCount": 16,
   "peakPlayers": 25,
-  "tps": "3.0",
-  "ping": 216,
+  "tps": "6.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 196
+      "count": 197
     },
     {
       "name": "elytra",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:29] Bhagyam has made the advancement [Ice Bucket Challenge]",
-    "[13:29] [8b8t] >> The TPA request you sent to rezhuhohlov was successfully canceled.",
-    "[13:29] rezhuhohlov Whispers: !kit Tools",
-    "[13:29] To rezhuhohlov: You're on cooldown, try again in 55 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:30] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[13:30] <Forevergo> !stash ",
-    "[13:30] [8b8t] >> Teleporting to home 0...",
-    "[13:30] rezhuhohlov Whispers: !kit Tools",
-    "[13:30] [8b8t] >> Home 2 was not found",
-    "[13:30] To Forevergo: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:30] To Forevergo: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[13:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[13:30] <pluto_oficial> !stash ",
     "[13:30] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
@@ -101,7 +90,18 @@
     "[13:31] [8b8t] >> Request sent to Forevergo",
     "[13:31] [8b8t] >> Teleporting...",
     "[13:31] [BOT] <0_HienBot> >Welcome to 8b8t, DPS_Chatbridge! ",
-    "[13:31] [8b8t] >> You have killed yourself!"
+    "[13:31] [8b8t] >> You have killed yourself!",
+    "[13:31] <pluto_oficial> !pvp ",
+    "[13:31] [8b8t] >> Teleporting to home 0...",
+    "[13:31] [8b8t] >> Teleporting to home 1...",
+    "[13:31] To pluto_oficial: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:31] To pluto_oficial: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:31] [8b8t] >> Request sent to pluto_oficial",
+    "[13:31] rezhuhohlov Whispers: !kit Tools",
+    "[13:31] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[13:32] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[13:32] [BOT] <0_HienBot> >Hmmmmmmmmm ",
+    "[13:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -182,12 +182,12 @@
     "cwwwecow": 5,
     "Sandman388": 1,
     "wemmpook": 7,
-    "pluto_oficial": 2,
+    "pluto_oficial": 3,
     "Forevergo": 3
   },
   "kitStats": {
     "stash": 44,
-    "pvp": 196,
+    "pvp": 197,
     "build": 20,
     "dupe": 42,
     "survival": 104,
