@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "22:16:20 26/1/2026",
+  "lastUpdated": "22:16:50 26/1/2026",
   "totalKits": 589,
   "todayKits": 13,
   "onlineCount": 27,
   "peakPlayers": 29,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 221,
   "topUsers": [
     {
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[15:15] [8b8t] Unknown command do /help",
-    "[15:15] [8b8t] Unknown command do /help",
-    "[15:15] [8b8t] Unknown command do /help",
-    "[15:15] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[15:15] You are already connected to this server!",
-    "[15:15] <fibra_> la primera vez q voy a una main xdd ",
-    "[15:15] rezhuhohlov Whispers: !kit Exp",
-    "[15:15] To rezhuhohlov: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:15] <btclubfvv> !stash ",
     "[15:15] To btclubfvv: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[15:15] <ksvxx> jaja ",
@@ -101,7 +93,15 @@
     "[15:15] [8b8t] >> The TPA request you sent to rezhuhohlov has expired.",
     "[15:15] [8b8t] >> Please do not spam.",
     "[15:16] [8b8t] >> You have killed yourself!",
-    "[15:16] [8b8t] >> No TPA request found"
+    "[15:16] [8b8t] >> No TPA request found",
+    "[15:16] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲 ",
+    "[15:16] <btclubfvv> !stash ",
+    "[15:16] [8b8t] >> Teleporting to home 0...",
+    "[15:16] [8b8t] >> Home 2 was not found",
+    "[15:16] To btclubfvv: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[15:16] To btclubfvv: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:16] rezhuhohlov Whispers: !kit Exp",
+    "[15:16] To rezhuhohlov: You're on cooldown, try again in 25 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -189,11 +189,11 @@
     "Narimattr_535": 5,
     "MrDarkEye": 1,
     "itz_laeeqs": 2,
-    "btclubfvv": 9,
+    "btclubfvv": 10,
     "therpgman": 1
   },
   "kitStats": {
-    "stash": 55,
+    "stash": 56,
     "pvp": 199,
     "build": 20,
     "dupe": 43,
