@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:27:47 26/1/2026",
+  "lastUpdated": "15:28:17 26/1/2026",
   "totalKits": 504,
   "todayKits": 66,
   "onlineCount": 13,
   "peakPlayers": 30,
-  "tps": "5.0",
-  "ping": 209,
+  "tps": "8.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:21] [8b8t] >> Teleporting to home 0...",
-    "[08:21] [8b8t] >> Home 2 was not found",
-    "[08:21] To Perseverance090: Kit \"stas\" not found! Giving you (gap) instead! dsc.gg/hienbot",
-    "[08:21] To Perseverance090: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:21] [8b8t] >> Request sent to Perseverance090",
-    "[08:21] <Perseverance090> !stash ",
     "[08:21] To Perseverance090: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[08:21] [BOT] <0_HienBot> >Hello MrPinkEye! ",
     "[08:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
@@ -101,7 +95,13 @@
     "[08:26] [BOT] <0_HienBot> >Hi ASneakySenior! ",
     "[08:27] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
     "[08:27] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[08:27] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
+    "[08:27] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[08:28] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
+    "[08:28] <ABHINAV> !stash ",
+    "[08:28] [8b8t] >> Teleporting to home 0...",
+    "[08:28] [8b8t] >> Home 2 was not found",
+    "[08:28] To ABHINAV: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:28] To ABHINAV: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -177,10 +177,11 @@
     ".SwellDust9988": 1,
     "JustAxolotl5402": 2,
     "UHCDARKKILLER": 2,
-    "5xo_Gomme_6ks": 1
+    "5xo_Gomme_6ks": 1,
+    "ABHINAV": 1
   },
   "kitStats": {
-    "stash": 37,
+    "stash": 38,
     "pvp": 186,
     "build": 19,
     "dupe": 42,
