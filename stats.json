@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:54:06 26/1/2026",
+  "lastUpdated": "17:54:36 26/1/2026",
   "totalKits": 512,
   "todayKits": 5,
   "onlineCount": 12,
   "peakPlayers": 14,
-  "tps": "10.0",
-  "ping": 213,
+  "tps": "11.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:51] You were kicked from 8b8t: Timed out",
-    "[10:51] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[10:51] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits",
-    "[10:51] [8b8t] Unknown command do /help",
-    "[10:51] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[10:51] You are already connected to this server!",
-    "[10:52] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[10:52] [BOT] <0_HienBot> >Welcome to 8b8t, iTrisstan! ",
     "[10:53] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:53] <wemmpook> !pvp ",
@@ -101,7 +94,14 @@
     "[10:53] [8b8t] >> Request sent to ReljKo7",
     "[10:53] [8b8t] >> Teleporting...",
     "[10:53] [8b8t] >> You have killed yourself!",
-    "[10:53] [BOT] <0_HienBot> >Bot created by Hien2309. "
+    "[10:53] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[10:54] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲 ",
+    "[10:54] <ReljKo7> !stash ",
+    "[10:54] [8b8t] >> Teleporting to home 0...",
+    "[10:54] [8b8t] >> Home 2 was not found",
+    "[10:54] To ReljKo7: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:54] To ReljKo7: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 1,
@@ -109,7 +109,7 @@
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
     "LyoxYT": 9,
-    "ReljKo7": 4,
+    "ReljKo7": 5,
     "botchaosonix666": 5,
     "Ayden322": 17,
     ".Maddie8171111": 27,
@@ -184,7 +184,7 @@
     "wemmpook": 5
   },
   "kitStats": {
-    "stash": 38,
+    "stash": 39,
     "pvp": 192,
     "build": 20,
     "dupe": 42,
