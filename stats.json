@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:56:19 27/1/2026",
-  "totalKits": 759,
-  "todayKits": 23,
+  "lastUpdated": "08:56:41 27/1/2026",
+  "totalKits": 760,
+  "todayKits": 24,
   "onlineCount": 27,
   "peakPlayers": 38,
-  "tps": "5.0",
-  "ping": 220,
+  "tps": "4.0",
+  "ping": 290,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 242
+      "count": 243
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:55] <Juanytoyt208> y la de dejar de ser cagon? ",
-    "[01:55] <MINIMO111> esa te la sabes la del curriculum juanito ",
-    "[01:55] <c4_uss> !labura ",
-    "[01:55] [8b8t] >> Teleporting to home 0...",
-    "[01:55] [8b8t] >> Teleporting to home 7...",
-    "[01:55] To c4_uss: Kit \"labura\" not found! Giving you (tools) instead! dsc.gg/hienbot",
-    "[01:55] To c4_uss: Sorry! Yellow Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[01:55] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls ",
     "[01:55] <Juanytoyt208> trabajo ",
     "[01:55] <Juanytoyt208> tpa for cpvp ",
     "[01:55] <c4_uss> tpa para laburo ",
@@ -101,7 +93,15 @@
     "[01:56] [8b8t] >> Teleporting...",
     "[01:56] [BOT] <0_HienBot> >Type !discord ",
     "[01:56] [8b8t] >> You have killed yourself!",
-    "[01:56] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[01:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:56] <Juanytoyt208> has de estar vanilla ",
+    "[01:56] [Pro+] <lvashl> !pvp ",
+    "[01:56] [8b8t] >> Teleporting to home 0...",
+    "[01:56] [8b8t] >> Teleporting to home 1...",
+    "[01:56] To lvashl: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:56] To lvashl: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:56] [8b8t] >> Request sent to lvashl",
+    "[01:56] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -210,11 +210,12 @@
     "srrenacuajoo3000": 1,
     "NoxiousJewel824": 1,
     "SuperMosquita": 2,
-    "Akross17": 1
+    "Akross17": 1,
+    "lvashl": 1
   },
   "kitStats": {
     "stash": 74,
-    "pvp": 242,
+    "pvp": 243,
     "build": 24,
     "dupe": 49,
     "survival": 171,
