@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:18:50 28/1/2026",
+  "lastUpdated": "03:19:20 28/1/2026",
   "totalKits": 1134,
   "todayKits": 398,
   "onlineCount": 30,
   "peakPlayers": 45,
-  "tps": "4.0",
-  "ping": 213,
+  "tps": "1.0",
+  "ping": 571,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -14,7 +14,7 @@
     },
     {
       "name": ".SwellDust9988",
-      "count": 64
+      "count": 65
     },
     {
       "name": "Maverick0624",
@@ -72,17 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:17] To .SwellDust9988: Kit \"bot\" not found! Giving you (elytra) instead! dsc.gg/hienbot",
-    "[20:17] To .SwellDust9988: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:17] [8b8t] >> Request sent to .SwellDust9988",
-    "[20:17] [8b8t] >> Teleporting...",
-    "[20:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[20:17] [8b8t] >> You have killed yourself!",
-    "[20:17] <wolvesbykanye> !invite ",
-    "[20:17] [8b8t] >> Teleporting to home 0...",
-    "[20:17] [8b8t] >> Teleporting to home 6...",
-    "[20:17] To wolvesbykanye: Kit \"invite\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
-    "[20:17] To wolvesbykanye: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:17] [8b8t] >> Request sent to wolvesbykanye",
     "[20:17] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
     "[20:18] <ViolaStockSauces> !bot ",
@@ -101,7 +90,18 @@
     "[20:18] <.SwellDust9988> !bot ",
     "[20:18] [8b8t] >> Teleporting...",
     "[20:18] To .SwellDust9988: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:18] <.SwellDust9988> !bot "
+    "[20:18] <.SwellDust9988> !bot ",
+    "[20:18] To .SwellDust9988: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:18] [8b8t] >> You have killed yourself!",
+    "[20:18] <.SwellDust9988> !bot ",
+    "[20:18] [8b8t] >> Teleporting to home 0...",
+    "[20:18] [8b8t] >> Home 2 was not found",
+    "[20:18] To .SwellDust9988: Kit \"bot\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[20:18] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[20:18] To .SwellDust9988: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[20:18] <wolvesbykanye> !invite ",
+    "[20:18] To wolvesbykanye: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot",
+    "[20:19] <.SwellDust9988> + "
   ],
   "userStats": {
     "Hien2309": 2,
@@ -174,7 +174,7 @@
     "Zoroexe77": 39,
     "Doot06": 1,
     "AdventuresoAlex": 10,
-    ".SwellDust9988": 64,
+    ".SwellDust9988": 65,
     "JustAxolotl5402": 2,
     "UHCDARKKILLER": 2,
     "5xo_Gomme_6ks": 1,
@@ -264,7 +264,7 @@
     "wolvesbykanye": 1
   },
   "kitStats": {
-    "stash": 111,
+    "stash": 112,
     "pvp": 335,
     "build": 38,
     "dupe": 62,
