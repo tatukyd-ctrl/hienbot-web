@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:17:43 28/1/2026",
+  "lastUpdated": "03:17:50 28/1/2026",
   "totalKits": 1133,
   "todayKits": 397,
   "onlineCount": 31,
   "peakPlayers": 45,
-  "tps": "4.0",
+  "tps": "3.0",
   "ping": 216,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:16] To .SwellDust9988: Kit \"bot\" not found! Giving you (elytra) instead! dsc.gg/hienbot",
-    "[20:16] To .SwellDust9988: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:16] [8b8t] >> Request sent to .SwellDust9988",
-    "[20:16] [8b8t] >> Teleporting...",
-    "[20:16] [8b8t] >> You have killed yourself!",
     "[20:16] <ViolaStockSauces> !bot ",
     "[20:16] [8b8t] >> Teleporting to home 0...",
     "[20:16] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
@@ -101,7 +96,12 @@
     "[20:17] To .SwellDust9988: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:17] [8b8t] >> Request sent to .SwellDust9988",
     "[20:17] [8b8t] >> Teleporting...",
-    "[20:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[20:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:17] [8b8t] >> You have killed yourself!",
+    "[20:17] <wolvesbykanye> !invite ",
+    "[20:17] [8b8t] >> Teleporting to home 0...",
+    "[20:17] [8b8t] >> Teleporting to home 6...",
+    "[20:17] To wolvesbykanye: Kit \"invite\" not found! Giving you (ocean) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -260,7 +260,8 @@
     "Laiwy_123": 8,
     "darsacc": 1,
     "Geobo": 3,
-    "ViolaStockSauces": 1
+    "ViolaStockSauces": 1,
+    "wolvesbykanye": 1
   },
   "kitStats": {
     "stash": 111,
@@ -291,6 +292,6 @@
     "end": 22,
     "concrete": 18,
     "dye": 15,
-    "ocean": 8
+    "ocean": 9
   }
 }
