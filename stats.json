@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:59:10 27/1/2026",
+  "lastUpdated": "10:59:19 27/1/2026",
   "totalKits": 859,
   "todayKits": 123,
   "onlineCount": 18,
   "peakPlayers": 38,
-  "tps": "1.0",
+  "tps": "2.0",
   "ping": 218,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:57] [8b8t] >> Teleporting to home 0...",
-    "[03:57] [8b8t] >> Home 2 was not found",
-    "[03:57] To .SwellDust9988: Kit \"bot\" not found! Giving you (raid) instead! dsc.gg/hienbot",
-    "[03:57] To .SwellDust9988: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:57] [8b8t] >> Request sent to .SwellDust9988",
-    "[03:58] [8b8t] >> Teleporting...",
-    "[03:58] [Basic] <PorotoCosmico> !bot ",
     "[03:58] To PorotoCosmico: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[03:58] [Basic] <PorotoCosmico> !bot ",
     "[03:58] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[03:59] To .SwellDust9988: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:59] [8b8t] >> Request sent to .SwellDust9988",
     "[03:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[03:59] [8b8t] >> Teleporting..."
+    "[03:59] [8b8t] >> Teleporting...",
+    "[03:59] [8b8t] >> You have killed yourself!",
+    "[03:59] drecobloxrd Whispers: !tash",
+    "[03:59] [8b8t] >> Teleporting to home 0...",
+    "[03:59] [8b8t] >> Teleporting to home 6...",
+    "[03:59] To drecobloxrd: Kit \"tash\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
+    "[03:59] To drecobloxrd: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:59] [8b8t] >> Request sent to drecobloxrd"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -219,7 +219,7 @@
     "zCrixz": 24,
     "Mau_Tinyy": 2,
     ".unknownguy59093": 1,
-    "drecobloxrd": 1,
+    "drecobloxrd": 2,
     "SooDeckOG": 1
   },
   "kitStats": {
@@ -251,6 +251,6 @@
     "end": 18,
     "concrete": 15,
     "dye": 10,
-    "ocean": 7
+    "ocean": 8
   }
 }
