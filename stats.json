@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:30:49 27/1/2026",
+  "lastUpdated": "08:31:19 27/1/2026",
   "totalKits": 738,
   "todayKits": 2,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 38,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 213,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 238
+      "count": 239
     },
     {
       "name": "tools",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:28] [8b8t] >> Teleporting to home 0...",
-    "[01:28] [8b8t] >> Teleporting to home 1...",
-    "[01:28] To MINIMO111: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[01:28] To MINIMO111: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:29] [8b8t] >> Request sent to MINIMO111",
-    "[01:29] TheAshedOne has made the advancement [Bring Home the Beacon]",
-    "[01:29] c4_uss has made the advancement [Diamonds!]",
-    "[01:29] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:29] [BOT] <0_HienBot> >Hi ElDan! ",
-    "[01:29] [8b8t] >> Teleporting...",
-    "[01:29] gg59 has made the advancement [We Need to Go Deeper]",
-    "[01:29] [8b8t] >> You have killed yourself!",
     "[01:29] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[01:30] <MINIMO111> !totem ",
     "[01:30] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +89,19 @@
     "[01:30] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
     "[01:30] Mau_Tinyy has made the advancement [Spooky Scary Skeleton]",
     "[01:30] MINIMO111 has made the advancement [Bring Home the Beacon]",
-    "[01:30] c4_uss has made the advancement [Bring Home the Beacon]"
+    "[01:30] c4_uss has made the advancement [Bring Home the Beacon]",
+    "[01:30] <ElDan> pera ",
+    "[01:30] <ElDan> rodea de cristales ",
+    "[01:30] <magmitamp4> ok ",
+    "[01:30] <MINIMO111> !dyes ",
+    "[01:31] To MINIMO111: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
+    "[01:31] <MINIMO111> !dyes ",
+    "[01:31] [8b8t] >> Teleporting to home 0...",
+    "[01:31] [8b8t] >> Teleporting to home 1...",
+    "[01:31] To MINIMO111: Kit \"dyes\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[01:31] To MINIMO111: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:31] [8b8t] >> Request sent to MINIMO111",
+    "[01:31] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 "
   ],
   "userStats": {
     "Hien2309": 2,
@@ -168,7 +168,7 @@
     "IKISAKI77": 5,
     "MintKoala997563": 1,
     "_Askn": 3,
-    "MINIMO111": 8,
+    "MINIMO111": 9,
     "PorotoCosmico": 3,
     "Perseverance090": 5,
     "Zoroexe77": 39,
@@ -209,7 +209,7 @@
   },
   "kitStats": {
     "stash": 73,
-    "pvp": 238,
+    "pvp": 239,
     "build": 21,
     "dupe": 49,
     "survival": 169,
