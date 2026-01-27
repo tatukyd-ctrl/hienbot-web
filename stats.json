@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:01:19 27/1/2026",
+  "lastUpdated": "17:01:49 27/1/2026",
   "totalKits": 927,
   "todayKits": 191,
-  "onlineCount": 12,
+  "onlineCount": 13,
   "peakPlayers": 38,
-  "tps": "9.0",
-  "ping": 216,
+  "tps": "11.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:57] [8b8t] >> Teleporting to home 0...",
-    "[09:57] [8b8t] >> Home 2 was not found",
-    "[09:57] <lehodiep210410> !chest ",
-    "[09:57] To rubyruby69: Your kit (chest) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:57] To lehodiep210410: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[09:57] To rubyruby69: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[09:57] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
     "[09:58] [BOT] <0_HienBot> >Hmmmmmmmmm ",
     "[09:58] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
@@ -101,7 +95,13 @@
     "[10:00] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[10:00] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[10:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[10:01] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 "
+    "[10:01] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
+    "[10:01] <rubyruby69> !stash ",
+    "[10:01] [8b8t] >> Teleporting to home 0...",
+    "[10:01] [8b8t] >> Home 2 was not found",
+    "[10:01] To rubyruby69: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:01] To rubyruby69: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:01] [BOT] <0_HienBot> >Type !𝗽𝘃𝗽  to get free kits "
   ],
   "userStats": {
     "Hien2309": 2,
@@ -236,10 +236,10 @@
     "lehodiep210410": 16,
     "DiedSDaniel": 7,
     "MrBaconHair": 1,
-    "rubyruby69": 3
+    "rubyruby69": 4
   },
   "kitStats": {
-    "stash": 95,
+    "stash": 96,
     "pvp": 276,
     "build": 29,
     "dupe": 55,
