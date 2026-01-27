@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "03:50:09 28/1/2026",
+  "lastUpdated": "03:50:20 28/1/2026",
   "totalKits": 1168,
   "todayKits": 432,
   "onlineCount": 40,
   "peakPlayers": 45,
-  "tps": "5.0",
+  "tps": "4.0",
   "ping": 218,
   "topUsers": [
     {
@@ -72,15 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:49] To KyrnR00t: You're on cooldown, try again in 20 seconds! Dont forget to join dsc.gg/hienbot",
-    "[20:49] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
-    "[20:49] <wolvesbykanye> !bot ",
-    "[20:49] [8b8t] >> Teleporting to home 0...",
-    "[20:49] [8b8t] >> Teleporting to home 3...",
-    "[20:49] To wolvesbykanye: Kit \"bot\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
-    "[20:49] <KyrnR00t> !elytra ",
-    "[20:49] To KyrnR00t: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[20:49] To wolvesbykanye: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:49] StockSauce990 has reached the goal [Sky's the Limit]",
     "[20:49] [8b8t] >> Request sent to wolvesbykanye",
     "[20:49] <KyrnR00t> callense jder ",
@@ -101,7 +92,16 @@
     "[20:50] [BOT] <0_HienBot> >Do you want kit? Type *кιт ",
     "[20:50] <shadowCraf_tz> !bot ",
     "[20:50] [8b8t] >> Teleporting...",
-    "[20:50] Chat disabled in client options"
+    "[20:50] Chat disabled in client options",
+    "[20:50] [8b8t] >> You have killed yourself!",
+    "[20:50] <shadowCraf_tz> !bot ",
+    "[20:50] [8b8t] >> Teleporting to home 0...",
+    "[20:50] [8b8t] >> Home 2 was not found",
+    "[20:50] To shadowCraf_tz: Kit \"bot\" not found! Giving you (raid) instead! dsc.gg/hienbot",
+    "[20:50] <StockSauce990> !elytra ",
+    "[20:50] To StockSauce990: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[20:50] To shadowCraf_tz: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:50] [8b8t] >> Request sent to shadowCraf_tz"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -264,7 +264,7 @@
     "wolvesbykanye": 7,
     "StockSauce990": 10,
     "Lukass_012": 1,
-    "shadowCraf_tz": 9,
+    "shadowCraf_tz": 10,
     "KyrnR00t": 7
   },
   "kitStats": {
@@ -284,7 +284,7 @@
     "armortrims": 98,
     "food": 17,
     "toolbox": 443,
-    "raid": 53,
+    "raid": 54,
     "terracotta": 11,
     "tools": 233,
     "quartz": 17,
