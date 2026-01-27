@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:53:49 27/1/2026",
-  "totalKits": 900,
-  "todayKits": 164,
+  "lastUpdated": "15:54:19 27/1/2026",
+  "totalKits": 901,
+  "todayKits": 165,
   "onlineCount": 19,
   "peakPlayers": 38,
-  "tps": "6.0",
+  "tps": "16.0",
   "ping": 211,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 262
+      "count": 263
     },
     {
       "name": "elytra",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:53] <.Cycloid_2pi> !pvp ",
-    "[08:53] <hello7382838> !pvp ",
-    "[08:53] [8b8t] >> Teleporting to home 0...",
-    "[08:53] To hello7382838: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:53] [8b8t] >> Teleporting to home 1...",
-    "[08:53] To .Cycloid_2pi: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:53] To .Cycloid_2pi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:53] [8b8t] >> Request sent to .Cycloid_2pi",
-    "[08:53] <hello7382838> !pvp ",
-    "[08:53] [8b8t] >> Teleporting...",
-    "[08:53] To hello7382838: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:53] <hello7382838> !pvp ",
     "[08:53] To hello7382838: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[08:53] <Zalika_> !bow ",
     "[08:53] To Zalika_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
@@ -101,7 +89,19 @@
     "[08:53] [8b8t] >> Teleporting...",
     "[08:53] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[08:53] <Zalika_> !bow ",
-    "[08:53] To Zalika_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[08:53] To Zalika_: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:53] [8b8t] >> You have killed yourself!",
+    "[08:54] <Zalika_> !bow ",
+    "[08:54] To Zalika_: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:54] <Zalika_> !bow ",
+    "[08:54] [8b8t] >> Teleporting to home 0...",
+    "[08:54] [8b8t] >> Teleporting to home 1...",
+    "[08:54] To Zalika_: Your kit (bow) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:54] [8b8t] >> decox92 wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
+    "[08:54] To Zalika_: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:54] [8b8t] >> Request sent to Zalika_",
+    "[08:54] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits ",
+    "[08:54] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -224,7 +224,7 @@
     "14mate": 2,
     "HEROBRINE84589": 2,
     "Impv": 1,
-    "Zalika_": 15,
+    "Zalika_": 16,
     "maribeli209": 7,
     "martince22": 2,
     "decox92": 2,
@@ -234,7 +234,7 @@
   },
   "kitStats": {
     "stash": 92,
-    "pvp": 262,
+    "pvp": 263,
     "build": 27,
     "dupe": 54,
     "survival": 181,
