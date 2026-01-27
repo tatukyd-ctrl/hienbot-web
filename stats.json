@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:52:18 27/1/2026",
+  "lastUpdated": "15:52:49 27/1/2026",
   "totalKits": 897,
   "todayKits": 161,
   "onlineCount": 19,
   "peakPlayers": 38,
-  "tps": "6.0",
-  "ping": 773,
+  "tps": "10.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 259
+      "count": 260
     },
     {
       "name": "elytra",
@@ -72,21 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:51] [8b8t] >> Teleporting to home 6...",
-    "[08:51] To decox92: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:51] <hello7382838> shader ⏐ 3ᴀʀᴛʜʜ4ᴄᴋ ",
-    "[08:51] To decox92: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:51] [8b8t] >> Request sent to decox92",
-    "[08:51] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[08:51] <ianelpizza1244> !elytra ",
-    "[08:51] To ianelpizza1244: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:51] <.Cycloid_2pi> !pvp ",
-    "[08:51] To .Cycloid_2pi: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:51] <.Cycloid_2pi> ohhh ",
-    "[08:51] [8b8t] >> You have killed yourself!",
-    "[08:51] [8b8t] >> The TPA request you sent to decox92 was successfully canceled.",
-    "[08:51] [BOT] <0_HienBot> >Hello DPS_Chatbridge! ",
-    "[08:51] <Zalika_> use !tools ",
     "[08:51] <.Cycloid_2pi> ok ive just understood ",
     "[08:51] <Zalika_> use !tools ",
     "[08:52] <.Cycloid_2pi> !pvp ",
@@ -101,7 +86,22 @@
     "[08:52] [8b8t] >> Teleporting...",
     "[08:52] <decox92> !elytra ",
     "[08:52] To decox92: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[08:52] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 "
+    "[08:52] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
+    "[08:52] [8b8t] >> You have killed yourself!",
+    "[08:52] <ianelpizza1244> !pvp ",
+    "[08:52] [8b8t] >> Teleporting to home 0...",
+    "[08:52] [8b8t] >> Teleporting to home 1...",
+    "[08:52] To ianelpizza1244: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:52] To ianelpizza1244: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:52] <hello7382838> !pvp ⏐ 3ᴀʀᴛʜʜ4ᴄᴋ ",
+    "[08:52] [8b8t] >> Request sent to ianelpizza1244",
+    "[08:52] <hello7382838> !pvp ",
+    "[08:52] To hello7382838: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:52] <decox92> !elytra ",
+    "[08:52] To decox92: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:52] <hello7382838> !pvp ",
+    "[08:52] To hello7382838: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:52] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
   ],
   "userStats": {
     "Hien2309": 2,
@@ -229,11 +229,12 @@
     "martince22": 2,
     "decox92": 2,
     "hello7382838": 1,
-    ".Cycloid_2pi": 1
+    ".Cycloid_2pi": 1,
+    "ianelpizza1244": 1
   },
   "kitStats": {
     "stash": 92,
-    "pvp": 259,
+    "pvp": 260,
     "build": 27,
     "dupe": 54,
     "survival": 181,
