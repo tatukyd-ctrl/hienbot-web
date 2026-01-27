@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "10:14:49 27/1/2026",
-  "totalKits": 840,
-  "todayKits": 104,
-  "onlineCount": 17,
+  "lastUpdated": "10:15:12 27/1/2026",
+  "totalKits": 841,
+  "todayKits": 105,
+  "onlineCount": 20,
   "peakPlayers": 38,
-  "tps": "5.0",
-  "ping": 211,
+  "tps": "8.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 248
+      "count": 249
     },
     {
       "name": "elytra",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:13] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲 ",
-    "[03:13] <zCrixz> !elytra ",
-    "[03:13] [8b8t] >> Teleporting to home 0...",
-    "[03:13] [8b8t] >> Teleporting to home 6...",
-    "[03:13] To zCrixz: Tu kit (elytra) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
-    "[03:13] To zCrixz: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[03:13] [8b8t] >> Request sent to zCrixz",
-    "[03:13] [8b8t] >> Teleporting...",
     "[03:13] [8b8t] >> You have killed yourself!",
     "[03:13] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
     "[03:13] <Aboundedsafe462> !stash ",
@@ -101,7 +93,15 @@
     "[03:14] [8b8t] >> Request sent to zCrixz",
     "[03:14] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
     "[03:14] [8b8t] >> Teleporting...",
-    "[03:14] [8b8t] >> You have killed yourself!"
+    "[03:14] [8b8t] >> You have killed yourself!",
+    "[03:14] <SooDeckOG> !pvp ",
+    "[03:14] [8b8t] >> Teleporting to home 0...",
+    "[03:14] [8b8t] >> Teleporting to home 1...",
+    "[03:14] To SooDeckOG: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:15] To SooDeckOG: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:15] [8b8t] >> Request sent to SooDeckOG",
+    "[03:15] <verusxd22> I have the maze ",
+    "[03:15] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -219,11 +219,12 @@
     "zCrixz": 21,
     "Mau_Tinyy": 2,
     ".unknownguy59093": 1,
-    "drecobloxrd": 1
+    "drecobloxrd": 1,
+    "SooDeckOG": 1
   },
   "kitStats": {
     "stash": 83,
-    "pvp": 248,
+    "pvp": 249,
     "build": 26,
     "dupe": 50,
     "survival": 177,
