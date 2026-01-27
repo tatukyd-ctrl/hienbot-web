@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:59:22 27/1/2026",
+  "lastUpdated": "15:59:49 27/1/2026",
   "totalKits": 906,
   "todayKits": 170,
   "onlineCount": 18,
   "peakPlayers": 38,
-  "tps": "7.0",
+  "tps": "2.0",
   "ping": 207,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:58] To .Cycloid_2pi: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:58] To .Cycloid_2pi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:58] [8b8t] >> Request sent to .Cycloid_2pi",
-    "[08:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[08:58] [8b8t] >> Teleporting...",
-    "[08:58] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
     "[08:58] [8b8t] >> You have killed yourself!",
     "[08:58] <ianelpizza1244> !stash ",
     "[08:58] [8b8t] >> Teleporting to home 0...",
@@ -101,7 +95,13 @@
     "[08:59] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
     "[08:59] [8b8t] >> Teleporting...",
     "[08:59] <decox92> !dih ",
-    "[08:59] To decox92: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[08:59] To decox92: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[08:59] [8b8t] >> The TPA request you received from ianelpizza1244 has expired.",
+    "[08:59] [8b8t] >> You have killed yourself!",
+    "[08:59] <ianelpizza1244> !dih ",
+    "[08:59] [8b8t] >> Teleporting to home 0...",
+    "[08:59] [8b8t] >> Teleporting to home 7...",
+    "[08:59] To ianelpizza1244: Kit \"dih\" not found! Giving you (dupe) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -230,7 +230,7 @@
     "decox92": 3,
     "hello7382838": 2,
     ".Cycloid_2pi": 3,
-    "ianelpizza1244": 3,
+    "ianelpizza1244": 4,
     "chiquiflow777": 1,
     "osmankral123123": 1
   },
@@ -238,7 +238,7 @@
     "stash": 93,
     "pvp": 267,
     "build": 27,
-    "dupe": 54,
+    "dupe": 55,
     "survival": 181,
     "elytra": 205,
     "exp": 132,
