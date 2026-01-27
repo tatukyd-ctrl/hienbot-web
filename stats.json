@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "14:44:19 27/1/2026",
+  "lastUpdated": "14:44:49 27/1/2026",
   "totalKits": 867,
   "todayKits": 131,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 38,
-  "tps": "11.0",
-  "ping": 211,
+  "tps": "15.0",
+  "ping": 295,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 252
+      "count": 253
     },
     {
       "name": "elytra",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:35] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[07:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[07:35] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
-    "[07:36] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[07:36] [BOT] <0_HienBot> >Hey TNGB0T! ",
-    "[07:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[07:37] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[07:37] Impv has made the advancement [Monster Hunter]",
     "[07:37] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[07:38] [BOT] <0_HienBot> >Hmmmmmmmmm ",
     "[07:38] WA_FI Whispers: bro gimme a kit",
@@ -101,7 +93,15 @@
     "[07:43] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[07:43] [8b8t] >> Please do not spam.",
     "[07:43] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
-    "[07:44] [BOT] <0_HienBot> >Hey DancingFairy112! "
+    "[07:44] [BOT] <0_HienBot> >Hey DancingFairy112! ",
+    "[07:44] <Impv> !pvp ",
+    "[07:44] [8b8t] >> Teleporting to home 0...",
+    "[07:44] [8b8t] >> Teleporting to home 1...",
+    "[07:44] To Impv: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[07:44] To Impv: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:44] [8b8t] >> Request sent to Impv",
+    "[07:44] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[07:44] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits "
   ],
   "userStats": {
     "Hien2309": 2,
@@ -222,11 +222,12 @@
     "drecobloxrd": 3,
     "SooDeckOG": 1,
     "14mate": 2,
-    "HEROBRINE84589": 2
+    "HEROBRINE84589": 2,
+    "Impv": 1
   },
   "kitStats": {
     "stash": 84,
-    "pvp": 252,
+    "pvp": 253,
     "build": 26,
     "dupe": 51,
     "survival": 180,
