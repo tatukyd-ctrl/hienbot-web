@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:53:53 27/1/2026",
+  "lastUpdated": "20:54:20 27/1/2026",
   "totalKits": 986,
   "todayKits": 250,
   "onlineCount": 19,
   "peakPlayers": 38,
-  "tps": "2.0",
-  "ping": 12610,
+  "tps": "6.0",
+  "ping": 301,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:52] <Boolyymon> !wood ",
-    "[13:52] <Cuilla> AppleBot! ",
-    "[13:52] [8b8t] >> Teleporting to home 0...",
-    "[13:52] [8b8t] >> Teleporting to home 3...",
-    "[13:52] To Boolyymon: Your kit (wood) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:52] To Boolyymon: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:52] [8b8t] >> Request sent to Boolyymon",
     "[13:52] <Cuilla> !wood ",
@@ -101,7 +96,12 @@
     "[13:53] To Boolyymon: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:53] [8b8t] >> Request sent to Boolyymon",
     "[13:53] [8b8t] >> Teleporting...",
-    "[13:53] [BOT] <0_HienBot> >Hello PistonCubeB0T! "
+    "[13:53] [BOT] <0_HienBot> >Hello PistonCubeB0T! ",
+    "[13:53] Hugoyouh Whispers: yo whats the name for armor trims",
+    "[13:53] [8b8t] >> You have killed yourself!",
+    "[13:54] <Cuilla> how i can get wood? ",
+    "[13:54] <Boolyymon> do !wood ",
+    "[13:54] <Cuilla> !wood "
   ],
   "userStats": {
     "Hien2309": 2,
@@ -240,7 +240,8 @@
     "minushick": 11,
     "Treviy": 9,
     "skyhaiff1": 1,
-    "Boolyymon": 10
+    "Boolyymon": 10,
+    "Cuilla": 1
   },
   "kitStats": {
     "stash": 99,
@@ -254,7 +255,7 @@
     "redstone": 32,
     "lightsources": 22,
     "gap": 20,
-    "wood": 30,
+    "wood": 31,
     "gterracotta": 11,
     "armortrims": 92,
     "food": 11,
