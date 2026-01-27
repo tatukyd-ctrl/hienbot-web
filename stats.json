@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:01:19 27/1/2026",
-  "totalKits": 906,
-  "todayKits": 170,
+  "lastUpdated": "16:01:35 27/1/2026",
+  "totalKits": 907,
+  "todayKits": 171,
   "onlineCount": 18,
   "peakPlayers": 38,
-  "tps": "8.0",
+  "tps": "5.0",
   "ping": 215,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 206
+      "count": 207
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:59] [8b8t] >> The TPA request you received from ianelpizza1244 has expired.",
-    "[08:59] [8b8t] >> You have killed yourself!",
-    "[08:59] <ianelpizza1244> !dih ",
-    "[08:59] [8b8t] >> Teleporting to home 0...",
-    "[08:59] [8b8t] >> Teleporting to home 7...",
-    "[08:59] To ianelpizza1244: Kit \"dih\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
-    "[08:59] <chiquiflow777> !elytra} ",
-    "[09:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[09:00] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
     "[09:00] <ianelpizza1244> !elytra ",
     "[09:00] <chiquiflow777> !elytra ",
@@ -101,7 +93,15 @@
     "[09:00] To ianelpizza1244: Try again Join dsc.gg/hienbot to report the error.",
     "[09:00] You are already connected to this server!",
     "[09:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:01] To ianelpizza1244: Try again Join dsc.gg/hienbot to report the error."
+    "[09:01] To ianelpizza1244: Try again Join dsc.gg/hienbot to report the error.",
+    "[09:01] <chiquiflow777> !elytra ",
+    "[09:01] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲 ",
+    "[09:01] [8b8t] >> Teleporting to home 0...",
+    "[09:01] [8b8t] >> Teleporting to home 6...",
+    "[09:01] To chiquiflow777: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:01] To chiquiflow777: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:01] [8b8t] >> Request sent to chiquiflow777",
+    "[09:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -231,7 +231,7 @@
     "hello7382838": 2,
     ".Cycloid_2pi": 3,
     "ianelpizza1244": 5,
-    "chiquiflow777": 1,
+    "chiquiflow777": 2,
     "osmankral123123": 1
   },
   "kitStats": {
@@ -240,7 +240,7 @@
     "build": 27,
     "dupe": 55,
     "survival": 181,
-    "elytra": 206,
+    "elytra": 207,
     "exp": 132,
     "shulker": 19,
     "redstone": 29,
