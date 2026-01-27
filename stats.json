@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:37:49 27/1/2026",
+  "lastUpdated": "16:38:19 27/1/2026",
   "totalKits": 912,
   "todayKits": 176,
   "onlineCount": 15,
   "peakPlayers": 38,
-  "tps": "3.0",
-  "ping": 1754,
+  "tps": "10.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 207
+      "count": 208
     },
     {
       "name": "tools",
@@ -72,19 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:34] [BOT] <0_HienBot> >Hey Kurtz! ",
-    "[09:34] <lehodiep210410> !pvp ",
-    "[09:34] [8b8t] >> Teleporting to home 0...",
-    "[09:34] [8b8t] >> Teleporting to home 1...",
-    "[09:34] To lehodiep210410: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:34] To lehodiep210410: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:34] [8b8t] >> Request sent to lehodiep210410",
-    "[09:35] [8b8t] >> Teleporting...",
-    "[09:35] [BOT] <0_HienBot> >Type !discord ",
-    "[09:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:35] [8b8t] >> You have killed yourself!",
-    "[09:35] [BOT] <0_HienBot> >Do you want kit? Type *кιт ",
     "[09:35] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[09:36] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
     "[09:36] [BOT] <0_HienBot> >Hello MrPinkEye! ",
@@ -101,7 +88,20 @@
     "[09:37] [8b8t] >> Teleporting...",
     "[09:37] [8b8t] >> You have killed yourself!",
     "[09:37] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
-    "[09:37] [8b8t] >> ianelpizza1244 wants to teleport you to them /tpayes USERNAME /tpano USERNAME"
+    "[09:37] [8b8t] >> ianelpizza1244 wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
+    "[09:37] DiedSDaniel has made the advancement [We Need to Go Deeper]",
+    "[09:38] <ianelpizza1244> !elytra ",
+    "[09:38] [8b8t] >> Teleporting to home 0...",
+    "[09:38] [8b8t] >> Please do not spam.",
+    "[09:38] [8b8t] >> Teleporting to home 6...",
+    "[09:38] To ianelpizza1244: Your kit (elytra) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:38] To ianelpizza1244: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:38] [8b8t] >> Request sent to ianelpizza1244",
+    "[09:38] <DiedSDaniel> !elytra ",
+    "[09:38] To DiedSDaniel: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:38] <lehodiep210410> !build ",
+    "[09:38] To lehodiep210410: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:38] <lehodiep210410> !elytra "
   ],
   "userStats": {
     "Hien2309": 2,
@@ -230,7 +230,7 @@
     "decox92": 4,
     "hello7382838": 2,
     ".Cycloid_2pi": 3,
-    "ianelpizza1244": 5,
+    "ianelpizza1244": 6,
     "chiquiflow777": 2,
     "osmankral123123": 1,
     "lehodiep210410": 4
@@ -241,7 +241,7 @@
     "build": 27,
     "dupe": 55,
     "survival": 181,
-    "elytra": 207,
+    "elytra": 208,
     "exp": 132,
     "shulker": 19,
     "redstone": 29,
