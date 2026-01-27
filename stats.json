@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:21:01 28/1/2026",
+  "lastUpdated": "00:21:20 28/1/2026",
   "totalKits": 1062,
   "todayKits": 326,
   "onlineCount": 42,
   "peakPlayers": 44,
-  "tps": "5.0",
+  "tps": "1.0",
   "ping": 319,
   "topUsers": [
     {
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:19] [8b8t] >> Teleporting to home 0...",
-    "[17:19] [8b8t] >> Teleporting to home 4...",
-    "[17:19] To .SwellDust9988: Kit \"bot\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
-    "[17:19] To .SwellDust9988: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:19] [8b8t] >> Request sent to .SwellDust9988",
-    "[17:19] [Ultra] <htp1p0> 14mate mande amor ",
     "[17:19] [8b8t] >> Teleporting...",
     "[17:19] [8b8t] >> htp1p0 created a new hotspot, use /hotspot to teleport to it",
     "[17:19] [Ultra] <grindbeast124> vc we ",
@@ -101,7 +95,13 @@
     "[17:20] To tanjibed: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[17:20] <Nighten2> !porno ",
     "[17:20] To Nighten2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[17:21] [BOT] <0_HienBot> >Try /cosmetics to change your name color! "
+    "[17:21] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
+    "[17:21] [8b8t] >> You have killed yourself!",
+    "[17:21] <MrBaconHair> !porno ",
+    "[17:21] [8b8t] >> Teleporting to home 0...",
+    "[17:21] [8b8t] >> Home 2 was not found",
+    "[17:21] To MrBaconHair: Kit \"porno\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[17:21] To MrBaconHair: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -235,7 +235,7 @@
     "osmankral123123": 1,
     "lehodiep210410": 24,
     "DiedSDaniel": 7,
-    "MrBaconHair": 4,
+    "MrBaconHair": 5,
     "rubyruby69": 18,
     "minushick": 15,
     "Treviy": 24,
@@ -251,7 +251,7 @@
     "tanjibed": 1
   },
   "kitStats": {
-    "stash": 108,
+    "stash": 109,
     "pvp": 313,
     "build": 32,
     "dupe": 60,
