@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:49:19 27/1/2026",
+  "lastUpdated": "16:49:49 27/1/2026",
   "totalKits": 922,
   "todayKits": 186,
-  "onlineCount": 16,
+  "onlineCount": 15,
   "peakPlayers": 38,
-  "tps": "4.0",
-  "ping": 230,
+  "tps": "7.0",
+  "ping": 447,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 275
+      "count": 276
     },
     {
       "name": "elytra",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:48] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[09:48] <rubyruby69> !pvp ",
-    "[09:48] <DiedSDaniel> !totem ",
-    "[09:48] [8b8t] >> Teleporting to home 0...",
-    "[09:48] [8b8t] >> Teleporting to home 1...",
-    "[09:48] To DiedSDaniel: Your kit (totem) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:48] You were kicked from 8b8t: Timed out",
-    "[09:48] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:48] [8b8t] Unknown command do /help",
-    "[09:48] [8b8t] Unknown command do /help",
-    "[09:48] [8b8t] Unknown command do /help",
-    "[09:48] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
     "[09:48] [8b8t] Unknown command do /help",
     "[09:48] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:48] You are already connected to this server!",
@@ -101,7 +89,19 @@
     "[09:49] To lehodiep210410: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[09:49] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[09:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:49] [8b8t] >> Teleporting..."
+    "[09:49] [8b8t] >> Teleporting...",
+    "[09:49] [8b8t] >> You have killed yourself!",
+    "[09:49] <DiedSDaniel> !crystal ",
+    "[09:49] [8b8t] >> Teleporting to home 0...",
+    "[09:49] [8b8t] >> Teleporting to home 1...",
+    "[09:49] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits ",
+    "[09:49] To DiedSDaniel: Your kit (crystal) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:49] To DiedSDaniel: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:49] [8b8t] >> Request sent to DiedSDaniel",
+    "[09:49] <lehodiep210410> !pvp ",
+    "[09:49] To lehodiep210410: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[09:49] <lehodiep210410> !pvp ",
+    "[09:49] To lehodiep210410: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -234,13 +234,13 @@
     "chiquiflow777": 2,
     "osmankral123123": 1,
     "lehodiep210410": 11,
-    "DiedSDaniel": 5,
+    "DiedSDaniel": 6,
     "MrBaconHair": 1,
     "rubyruby69": 1
   },
   "kitStats": {
     "stash": 93,
-    "pvp": 275,
+    "pvp": 276,
     "build": 28,
     "dupe": 55,
     "survival": 181,
