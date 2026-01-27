@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "02:04:20 28/1/2026",
-  "totalKits": 1108,
-  "todayKits": 372,
+  "lastUpdated": "02:04:31 28/1/2026",
+  "totalKits": 1109,
+  "todayKits": 373,
   "onlineCount": 37,
   "peakPlayers": 45,
-  "tps": "1.0",
+  "tps": "3.0",
   "ping": 218,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 329
+      "count": 330
     },
     {
       "name": "tools",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:02] Laiwy_123 Whispers: kit",
-    "[19:02] Laiwy_123 Whispers: !kit",
-    "[19:02] To Laiwy_123: Hello Laiwy_123!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[19:02] <Laiwy_123> !Raid ",
-    "[19:02] [8b8t] >> Teleporting to home 0...",
-    "[19:02] [8b8t] >> Home 2 was not found",
-    "[19:02] To Laiwy_123: Your kit (raid) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[19:02] To Laiwy_123: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:02] [BOT] <0_HienBot> >Welcome to 8b8t, wolvesbykanye! ",
     "[19:02] [8b8t] >> Request sent to Laiwy_123",
     "[19:02] [8b8t] >> Teleporting...",
     "[19:02] [8b8t] >> You have killed yourself!",
@@ -101,11 +91,21 @@
     "[19:03] [8b8t] >> Teleporting...",
     "[19:04] [8b8t] >> You have killed yourself!",
     "[19:04] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[19:04] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot "
+    "[19:04] [BOT] <0_HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot ",
+    "[19:04] <doyoda1292> !pvp ",
+    "[19:04] [8b8t] >> Teleporting to home 0...",
+    "[19:04] [8b8t] >> Teleporting to home 1...",
+    "[19:04] To doyoda1292: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[19:04] To doyoda1292: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:04] shadowCraf_tz has made the advancement [Stone Age]",
+    "[19:04] [8b8t] >> Request sent to doyoda1292",
+    "[19:04] [8b8t] >> Teleporting...",
+    "[19:04] <nikolozi2478> !pvp ",
+    "[19:04] To nikolozi2478: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
-    "doyoda1292": 6,
+    "doyoda1292": 7,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
     "LyoxYT": 9,
@@ -261,7 +261,7 @@
   },
   "kitStats": {
     "stash": 110,
-    "pvp": 329,
+    "pvp": 330,
     "build": 32,
     "dupe": 62,
     "survival": 199,
