@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:47:05 28/1/2026",
+  "lastUpdated": "20:47:12 28/1/2026",
   "totalKits": 1568,
   "todayKits": 52,
   "onlineCount": 30,
   "peakPlayers": 33,
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 225,
   "topUsers": [
     {
@@ -68,16 +68,10 @@
     },
     {
       "name": "survival",
-      "count": 234
+      "count": 235
     }
   ],
   "chatLog": [
-    "[13:44] [Pro+] <Unk1nown> tucomolosabe? ",
-    "[13:44] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
-    "[13:44] [Pro+] <Unk1nown> ademas hay q liberarlo xd, pa desbloquearle los fps ",
-    "[13:44] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[13:44] <vincydooom> how to get map art pllzz help me ",
-    "[13:44] [Pro+] <Unk1nown> Kurtz ",
     "[13:44] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
     "[13:44] [Pro+] <Unk1nown> oye we Kurtz ",
     "[13:45] [Pro+] <Unk1nown> la verdad lo siento por ser una persona tan mierda pero ya camnie ",
@@ -101,7 +95,13 @@
     "[13:46] [8b8t] >> Request sent to Messirve123223",
     "[13:47] <eliasspporcel> alguien me mata ",
     "[13:47] [8b8t] >> Teleporting...",
-    "[13:47] <.Herobrine17013> Br no server? "
+    "[13:47] <.Herobrine17013> Br no server? ",
+    "[13:47] [8b8t] >> You have killed yourself!",
+    "[13:47] <Lxna3803> !survival ",
+    "[13:47] [8b8t] >> Teleporting to home 0...",
+    "[13:47] [8b8t] >> Teleporting to home 1...",
+    "[13:47] To Lxna3803: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:47] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
   ],
   "userStats": {
     "Hien2309": 9,
@@ -304,14 +304,14 @@
     "lucassv09LM": 1,
     "hafizdali": 5,
     "LaggyZaggy": 1,
-    "Lxna3803": 1
+    "Lxna3803": 2
   },
   "kitStats": {
     "stash": 138,
     "pvp": 416,
     "build": 59,
     "dupe": 78,
-    "survival": 234,
+    "survival": 235,
     "elytra": 269,
     "exp": 159,
     "shulker": 41,
