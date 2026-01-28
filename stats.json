@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "21:03:12 28/1/2026",
-  "totalKits": 1577,
-  "todayKits": 61,
-  "onlineCount": 26,
+  "lastUpdated": "21:03:34 28/1/2026",
+  "totalKits": 1578,
+  "todayKits": 62,
+  "onlineCount": 25,
   "peakPlayers": 33,
-  "tps": "4.0",
-  "ping": 220,
+  "tps": "5.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:59] [8b8t] >> Teleporting to home 0...",
-    "[13:59] [8b8t] >> Teleporting to home 7...",
-    "[13:59] To Lxna3803: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[13:59] To Lxna3803: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:59] [8b8t] >> Request sent to Lxna3803",
-    "[13:59] [8b8t] >> Teleporting...",
-    "[14:00] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[14:00] <LaggyZaggy> lol ",
     "[14:00] <LaggyZaggy> im not a nob ",
     "[14:00] <LaggyZaggy> nice try ",
@@ -101,7 +94,14 @@
     "[14:02] <LaggyZaggy> of the hotspot ",
     "[14:03] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
     "[14:03] [SE] <dragonkit> gg ",
-    "[14:03] [Pro] <⛩ᏗᏒᏁᎧ⛏> gg "
+    "[14:03] [Pro] <⛩ᏗᏒᏁᎧ⛏> gg ",
+    "[14:03] <Jhon2_87> !stash ",
+    "[14:03] [8b8t] >> Teleporting to home 0...",
+    "[14:03] [8b8t] >> Home 2 was not found",
+    "[14:03] To Jhon2_87: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:03] To Jhon2_87: Sorry! White Shulker Box is out of stock. Giving you Gray Shulker Box instead! dsc.gg/hienbot",
+    "[14:03] [8b8t] >> Request sent to Jhon2_87",
+    "[14:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 9,
@@ -304,10 +304,11 @@
     "lucassv09LM": 1,
     "hafizdali": 5,
     "LaggyZaggy": 2,
-    "Lxna3803": 4
+    "Lxna3803": 4,
+    "Jhon2_87": 1
   },
   "kitStats": {
-    "stash": 138,
+    "stash": 139,
     "pvp": 417,
     "build": 59,
     "dupe": 78,
