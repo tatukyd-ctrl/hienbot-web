@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:21:12 28/1/2026",
+  "lastUpdated": "16:21:42 28/1/2026",
   "totalKits": 1472,
   "todayKits": 36,
-  "onlineCount": 16,
+  "onlineCount": 15,
   "peakPlayers": 23,
   "tps": "7.0",
-  "ping": 214,
+  "ping": 211,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 391
+      "count": 392
     },
     {
       "name": "elytra",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:17] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-    "[09:17] [8b8t] >> Your login session has been continued.",
-    "[09:17] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[09:17] ",
-    "[09:17]  [8builders8tools]",
-    "[09:17]  Perform the command /discord add to register",
-    "[09:17]  your discord. By doing so, you",
-    "[09:17]  decrease the chance of being hacked.",
-    "[09:17] ",
-    "[09:17]   [Confirm read]",
-    "[09:17] ",
-    "[09:17] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[09:17] [8b8t] >> You have killed yourself!",
-    "[09:17] Chat disabled in client options",
     "[09:17] You are already connected to this server!",
     "[09:18] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
     "[09:18] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
@@ -101,7 +87,21 @@
     "[09:20] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
     "[09:20] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[09:20] [BOT] <0_HienBot> >What's up, orasan080? ",
-    "[09:20] <zxawee> 1 "
+    "[09:20] <zxawee> 1 ",
+    "[09:21] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
+    "[09:21] <zxawee> 1 ",
+    "[09:21] <aaluchalu> !stash ",
+    "[09:21] [8b8t] >> Teleporting to home 0...",
+    "[09:21] [8b8t] >> Home 2 was not found",
+    "[09:21] To aaluchalu: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:21] <zxawee> 1 ",
+    "[09:21] To aaluchalu: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:21] <aaluchalu> !pvp ",
+    "[09:21] [8b8t] >> Teleporting to home 0...",
+    "[09:21] [8b8t] >> Teleporting to home 1...",
+    "[09:21] To aaluchalu: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:21] To aaluchalu: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:21] [8b8t] >> Request sent to aaluchalu"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -292,11 +292,11 @@
     "anh_do_mixi": 1,
     "zNashardoz": 7,
     "m4rc_xyz8": 13,
-    "aaluchalu": 1
+    "aaluchalu": 3
   },
   "kitStats": {
-    "stash": 133,
-    "pvp": 391,
+    "stash": 134,
+    "pvp": 392,
     "build": 56,
     "dupe": 71,
     "survival": 226,
