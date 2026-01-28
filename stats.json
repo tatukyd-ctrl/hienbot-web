@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "11:19:51 28/1/2026",
-  "totalKits": 1428,
-  "todayKits": 129,
+  "lastUpdated": "11:20:16 28/1/2026",
+  "totalKits": 1429,
+  "todayKits": 130,
   "onlineCount": 25,
   "peakPlayers": 45,
-  "tps": "7.0",
+  "tps": "11.0",
   "ping": 216,
   "topUsers": [
     {
@@ -68,18 +68,10 @@
     },
     {
       "name": "survival",
-      "count": 225
+      "count": 226
     }
   ],
   "chatLog": [
-    "[04:15] [8b8t] >> 14mate created a new hotspot, use /hotspot to teleport to it",
-    "[04:15] [Ultra] <_aksn> nah ya voy a dormir ",
-    "[04:15] [Ultra] <_aksn> dentro de poco ",
-    "[04:15] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
-    "[04:16] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[04:16] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:16] [Ultra] <_aksn> el daño por sofocación si aumentó, no? ",
-    "[04:16] [Ultra] <_aksn> cuando estas dentro de bloques ",
     "[04:16] [Ultra] <grindbeast124> si we ",
     "[04:16] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[04:16] [Ultra] <_aksn> saca mas daño al chocar con elytra ",
@@ -101,7 +93,15 @@
     "[04:18] [Ultra] <grindbeast124> no w asco ",
     "[04:19] [BOT] <0_HienBot> >Hey Lucky2007_! ",
     "[04:19] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[04:19] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[04:19] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[04:20] [BOT] <0_HienBot> >Do you want kit? Type *кιт ",
+    "[04:20] <anh_do_mixi> !survival ",
+    "[04:20] [8b8t] >> Teleporting to home 0...",
+    "[04:20] [8b8t] >> Teleporting to home 1...",
+    "[04:20] To anh_do_mixi: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[04:20] To anh_do_mixi: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:20] [8b8t] >> Request sent to anh_do_mixi",
+    "[04:20] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -288,14 +288,15 @@
     "octaviochoco": 1,
     "Gonzolopepito23": 3,
     "Jinxs_017": 1,
-    "RED_HAZE__": 1
+    "RED_HAZE__": 1,
+    "anh_do_mixi": 1
   },
   "kitStats": {
     "stash": 132,
     "pvp": 384,
     "build": 49,
     "dupe": 71,
-    "survival": 225,
+    "survival": 226,
     "elytra": 257,
     "exp": 153,
     "shulker": 36,
