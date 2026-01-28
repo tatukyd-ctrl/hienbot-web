@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "18:55:42 28/1/2026",
+  "lastUpdated": "18:56:12 28/1/2026",
   "totalKits": 1506,
   "todayKits": 70,
-  "onlineCount": 2,
+  "onlineCount": 17,
   "peakPlayers": 24,
-  "tps": "4.0",
-  "ping": 0,
+  "tps": "5.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -68,20 +68,10 @@
     },
     {
       "name": "survival",
-      "count": 229
+      "count": 230
     }
   ],
   "chatLog": [
-    "[11:51] <Infernokingjr> !survival ",
-    "[11:51] [8b8t] >> Teleporting to home 0...",
-    "[11:51] [8b8t] >> Teleporting to home 1...",
-    "[11:51] To Infernokingjr: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:51] To Infernokingjr: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:51] [8b8t] >> Request sent to Infernokingjr",
-    "[11:52] [8b8t] >> Teleporting...",
-    "[11:52] [8b8t] >> You have killed yourself!",
-    "[11:52] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe ",
-    "[11:52] lorenzototy has made the advancement [Ice Bucket Challenge]",
     "[11:52] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
     "[11:52] <aaluchalu> !survival/ ",
     "[11:53] <aaluchalu> !survival ",
@@ -101,7 +91,17 @@
     "[11:54] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:55] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[11:55] You were kicked from 8b8t: Timed out",
-    "[11:55] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby"
+    "[11:55] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[11:55] [8b8t] Unknown command do /help",
+    "[11:55] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[11:55] You are already connected to this server!",
+    "[11:55] [BOT] <0_HienBot> >Type !𝗽𝘃𝗽  to get free kits ",
+    "[11:56] <Infernokingjr> !survival ",
+    "[11:56] [8b8t] >> Teleporting to home 0...",
+    "[11:56] [8b8t] >> Teleporting to home 1...",
+    "[11:56] To Infernokingjr: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[11:56] To Infernokingjr: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:56] [8b8t] >> Request sent to Infernokingjr"
   ],
   "userStats": {
     "Hien2309": 5,
@@ -295,14 +295,14 @@
     "aaluchalu": 21,
     "OwenCanyon": 1,
     "WxpzFrags": 2,
-    "Infernokingjr": 5
+    "Infernokingjr": 6
   },
   "kitStats": {
     "stash": 137,
     "pvp": 404,
     "build": 57,
     "dupe": 71,
-    "survival": 229,
+    "survival": 230,
     "elytra": 265,
     "exp": 158,
     "shulker": 40,
