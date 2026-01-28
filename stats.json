@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:52:12 28/1/2026",
-  "totalKits": 1544,
-  "todayKits": 28,
+  "lastUpdated": "19:52:26 28/1/2026",
+  "totalKits": 1545,
+  "todayKits": 29,
   "onlineCount": 16,
   "peakPlayers": 24,
-  "tps": "11.0",
+  "tps": "9.0",
   "ping": 216,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:50] [8b8t] >> Teleporting to home 4...",
-    "[12:50] To vincydooom: Your kit (brewing) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:50] To vincydooom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:50] [8b8t] >> Request sent to vincydooom",
-    "[12:50] [8b8t] >> Teleporting...",
-    "[12:50] [BOT] <0_HienBot> >Hmmmmmmmmm ",
-    "[12:50] [8b8t] >> You have killed yourself!",
     "[12:50] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:50] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽 ",
     "[12:50] <vincydooom> !blaze rod ",
@@ -101,7 +94,14 @@
     "[12:51] <vincydooom> ! ",
     "[12:51] <vincydooom> !info ",
     "[12:51] To vincydooom: Use: !info  Dont forget to join dsc.gg/hienbot",
-    "[12:52] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me "
+    "[12:52] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me ",
+    "[12:52] <vincydooom> !item ",
+    "[12:52] [8b8t] >> Teleporting to home 0...",
+    "[12:52] [8b8t] >> Teleporting to home 6...",
+    "[12:52] To vincydooom: Kit \"item\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
+    "[12:52] To vincydooom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:52] [8b8t] >> Request sent to vincydooom",
+    "[12:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 9,
@@ -299,7 +299,7 @@
     "Exeeeeee44444444": 10,
     "Shadowwastaken": 1,
     "dragonkit": 1,
-    "vincydooom": 9,
+    "vincydooom": 10,
     "Digo_HD7": 1,
     "lucassv09LM": 1
   },
@@ -332,6 +332,6 @@
     "end": 45,
     "concrete": 22,
     "dye": 23,
-    "ocean": 13
+    "ocean": 14
   }
 }
