@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "15:58:12 28/1/2026",
-  "totalKits": 1465,
-  "todayKits": 29,
+  "lastUpdated": "15:58:32 28/1/2026",
+  "totalKits": 1466,
+  "todayKits": 30,
   "onlineCount": 11,
   "peakPlayers": 23,
-  "tps": "10.0",
-  "ping": 221,
+  "tps": "4.0",
+  "ping": 2068,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:54] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:55] <m4rc_xyz8> !end ",
-    "[08:55] [8b8t] >> Teleporting to home 0...",
-    "[08:55] [8b8t] >> Teleporting to home 5...",
-    "[08:55] To m4rc_xyz8: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[08:55] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
-    "[08:55] To m4rc_xyz8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:55] [8b8t] >> Request sent to m4rc_xyz8",
     "[08:55] [8b8t] >> Teleporting...",
     "[08:55] <aaluchalu> nahh you have any ",
@@ -101,7 +94,14 @@
     "[08:57] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
     "[08:57] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits ",
     "[08:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:58] [8b8t] >> Please do not spam."
+    "[08:58] [8b8t] >> Please do not spam.",
+    "[08:58] <m4rc_xyz8> !end ",
+    "[08:58] [8b8t] >> Teleporting to home 0...",
+    "[08:58] [8b8t] >> Teleporting to home 5...",
+    "[08:58] To m4rc_xyz8: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[08:58] To m4rc_xyz8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:58] [8b8t] >> Request sent to m4rc_xyz8",
+    "[08:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -291,7 +291,7 @@
     "RED_HAZE__": 1,
     "anh_do_mixi": 1,
     "zNashardoz": 7,
-    "m4rc_xyz8": 6
+    "m4rc_xyz8": 7
   },
   "kitStats": {
     "stash": 132,
@@ -319,7 +319,7 @@
     "mineral": 37,
     "highway": 21,
     "music": 19,
-    "end": 34,
+    "end": 35,
     "concrete": 22,
     "dye": 22,
     "ocean": 13
