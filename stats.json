@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:07:42 28/1/2026",
+  "lastUpdated": "20:08:12 28/1/2026",
   "totalKits": 1551,
   "todayKits": 35,
   "onlineCount": 21,
   "peakPlayers": 24,
-  "tps": "7.0",
+  "tps": "3.0",
   "ping": 279,
   "topUsers": [
     {
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:06] <vincydooom> !BREWING ",
-    "[13:06] <vincydooom> !BREWING ",
-    "[13:06] [8b8t] >> Teleporting to home 0...",
-    "[13:06] [8b8t] >> Teleporting to home 4...",
-    "[13:06] To vincydooom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[13:06] To vincydooom: Your kit (brewing) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[13:06] To vincydooom: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:06] [8b8t] >> Request sent to vincydooom",
@@ -101,7 +96,12 @@
     "[13:07] [8b8t] >> Request sent to vincydooom",
     "[13:07] [8b8t] >> Teleporting...",
     "[13:07] <eliasspporcel> alguien me guivea ",
-    "[13:07] [8b8t] >> You have killed yourself!"
+    "[13:07] [8b8t] >> You have killed yourself!",
+    "[13:07] [BOT] <0_HienBot> >Welcome to 8b8t, ASneakySenior! ",
+    "[13:07] <vincydooom> !nether ",
+    "[13:08] <eliasspporcel> alguien me guivea ",
+    "[13:08] To vincydooom: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
+    "[13:08] <vincydooom> !nether "
   ],
   "userStats": {
     "Hien2309": 9,
@@ -299,7 +299,7 @@
     "Exeeeeee44444444": 10,
     "Shadowwastaken": 1,
     "dragonkit": 1,
-    "vincydooom": 17,
+    "vincydooom": 18,
     "Digo_HD7": 1,
     "lucassv09LM": 1
   },
@@ -327,7 +327,7 @@
     "wool": 34,
     "glass": 28,
     "mineral": 38,
-    "highway": 22,
+    "highway": 23,
     "music": 21,
     "end": 45,
     "concrete": 22,
