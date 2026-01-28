@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:36:12 28/1/2026",
-  "totalKits": 1446,
-  "todayKits": 10,
+  "lastUpdated": "12:36:35 28/1/2026",
+  "totalKits": 1447,
+  "todayKits": 11,
   "onlineCount": 20,
   "peakPlayers": 23,
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 923,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 258
+      "count": 259
     },
     {
       "name": "tools",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:33] [8b8t] >> Teleporting to home 5...",
-    "[05:33] To zNashardoz: Kit \"invite\" no encontrado! Dandote (exp) en su lugar! dsc.gg/hienbot",
-    "[05:34] To zNashardoz: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[05:34] [8b8t] >> Request sent to zNashardoz",
-    "[05:34] <Nighten2> !invite ",
-    "[05:34] To Nighten2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
-    "[05:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[05:34] [8b8t] >> Teleporting...",
     "[05:34] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
     "[05:34] [8b8t] >> You have killed yourself!",
     "[05:34] <Nighten2> !pvp ",
@@ -101,7 +93,15 @@
     "[05:35] [8b8t] >> The TPA request you received from zNashardoz has expired.",
     "[05:35] [8b8t] >> You have killed yourself!",
     "[05:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:35] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot "
+    "[05:35] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[05:36] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
+    "[05:36] <zNashardoz> !rocket ",
+    "[05:36] [8b8t] >> Teleporting to home 0...",
+    "[05:36] [8b8t] >> Teleporting to home 6...",
+    "[05:36] To zNashardoz: Tu kit (rocket) se entregara en 30 segundos! Unete a dsc.gg/hienbot",
+    "[05:36] To zNashardoz: Por favor escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[05:36] [8b8t] >> Request sent to zNashardoz",
+    "[05:36] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -290,7 +290,7 @@
     "Jinxs_017": 1,
     "RED_HAZE__": 1,
     "anh_do_mixi": 1,
-    "zNashardoz": 2
+    "zNashardoz": 3
   },
   "kitStats": {
     "stash": 132,
@@ -298,7 +298,7 @@
     "build": 56,
     "dupe": 71,
     "survival": 226,
-    "elytra": 258,
+    "elytra": 259,
     "exp": 155,
     "shulker": 37,
     "redstone": 49,
