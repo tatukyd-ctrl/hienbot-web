@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "23:17:24 28/1/2026",
+  "lastUpdated": "23:17:43 28/1/2026",
   "totalKits": 1618,
   "todayKits": 102,
   "onlineCount": 31,
   "peakPlayers": 34,
-  "tps": "3.0",
-  "ping": 223,
+  "tps": "1.0",
+  "ping": 590,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:15] <rubyruby69> i cant ",
-    "[16:15] <merutary> KİT PLS ",
-    "[16:15] <rubyruby69> it wont let me ",
-    "[16:15] <liviaaaaaaa> msg me ur cords ",
-    "[16:15] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[16:15] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[16:16] <rubyruby69> x is 1171 y is 320 ",
     "[16:16] <themightymace> does anyone know a fast way to escape spawn ",
     "[16:16] <themightymace> im stuck here ",
@@ -101,7 +95,13 @@
     "[16:17] To rubyruby69: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:17] [8b8t] >> Request sent to rubyruby69",
     "[16:17] [8b8t] >> Teleporting...",
-    "[16:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[16:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[16:17] [8b8t] >> You have killed yourself!",
+    "[16:17] <.DaNtE27439> !rockets ",
+    "[16:17] [8b8t] >> Teleporting to home 0...",
+    "[16:17] [8b8t] >> Home 2 was not found",
+    "[16:17] To .DaNtE27439: Kit \"rockets\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[16:17] To .DaNtE27439: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 9,
@@ -312,10 +312,11 @@
     "Aalae1254": 4,
     "picatchu1234": 4,
     "Dragoneslipe": 2,
-    "usNexu": 2
+    "usNexu": 2,
+    ".DaNtE27439": 1
   },
   "kitStats": {
-    "stash": 141,
+    "stash": 142,
     "pvp": 428,
     "build": 63,
     "dupe": 80,
