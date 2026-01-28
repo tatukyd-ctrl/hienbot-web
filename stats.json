@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:26:42 28/1/2026",
+  "lastUpdated": "16:27:12 28/1/2026",
   "totalKits": 1472,
   "todayKits": 36,
   "onlineCount": 15,
   "peakPlayers": 23,
   "tps": "7.0",
-  "ping": 213,
+  "ping": 211,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -68,18 +68,10 @@
     },
     {
       "name": "survival",
-      "count": 226
+      "count": 227
     }
   ],
   "chatLog": [
-    "[09:21] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
-    "[09:21] <zxawee> 1 ",
-    "[09:21] <aaluchalu> !stash ",
-    "[09:21] [8b8t] >> Teleporting to home 0...",
-    "[09:21] [8b8t] >> Home 2 was not found",
-    "[09:21] To aaluchalu: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[09:21] <zxawee> 1 ",
-    "[09:21] To aaluchalu: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[09:21] <aaluchalu> !pvp ",
     "[09:21] [8b8t] >> Teleporting to home 0...",
     "[09:21] [8b8t] >> Teleporting to home 1...",
@@ -101,7 +93,15 @@
     "[09:25] [BOT] <0_HienBot> >What's up, MonkeBot? ",
     "[09:25] [BOT] <0_HienBot> >Try /cosmetics to change your name color! ",
     "[09:26] [BOT] <0_HienBot> >Bot created by Hien2309. ",
-    "[09:26] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[09:26] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[09:26] [BOT] <0_HienBot> >Want to see the server's tps? Chat !ᴛᴘs ",
+    "[09:26] <aaluchalu> bro I will make one here for myself ",
+    "[09:26] <IGF1> no we build a big ome ",
+    "[09:27] <IGF1> a mansion for us both ",
+    "[09:27] <OwenCanyon> !survival ",
+    "[09:27] [8b8t] >> Teleporting to home 0...",
+    "[09:27] [8b8t] >> Teleporting to home 1...",
+    "[09:27] To OwenCanyon: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -292,14 +292,15 @@
     "anh_do_mixi": 1,
     "zNashardoz": 7,
     "m4rc_xyz8": 13,
-    "aaluchalu": 3
+    "aaluchalu": 3,
+    "OwenCanyon": 1
   },
   "kitStats": {
     "stash": 134,
     "pvp": 392,
     "build": 56,
     "dupe": 71,
-    "survival": 226,
+    "survival": 227,
     "elytra": 263,
     "exp": 155,
     "shulker": 40,
