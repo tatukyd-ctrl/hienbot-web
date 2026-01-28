@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "00:01:22 29/1/2026",
+  "lastUpdated": "00:01:52 29/1/2026",
   "totalKits": 1623,
   "todayKits": 0,
   "onlineCount": 27,
   "peakPlayers": 29,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "1.0",
+  "ping": 7510,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 430
+      "count": 431
     },
     {
       "name": "elytra",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:58] ",
-    "[16:58] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[16:58] You are already connected to this server!",
     "[16:59] <Narimattr_535> мне рельсы нужны ",
     "[16:59] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits ",
@@ -101,7 +99,9 @@
     "[17:00] To drecobloxrd: Kit \"v\" no encontrado! Dandote (glass) en su lugar! dsc.gg/hienbot",
     "[17:00] bananastik has made the advancement [Minecraft: Trial(s) Edition]",
     "[17:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[17:01] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
+    "[17:01] [BOT] <0_HienBot> >Use /lobby to return to the lobby! ",
+    "[17:01] drecobloxrd Whispers: !pvp",
+    "[17:01] To drecobloxrd: Intenta de nuevo Unete a dsc.gg/hienbot para reportar el error."
   ],
   "userStats": {
     "Hien2309": 9,
@@ -219,7 +219,7 @@
     "zCrixz": 24,
     "Mau_Tinyy": 13,
     ".unknownguy59093": 1,
-    "drecobloxrd": 26,
+    "drecobloxrd": 27,
     "SooDeckOG": 1,
     "14mate": 2,
     "HEROBRINE84589": 2,
@@ -317,7 +317,7 @@
   },
   "kitStats": {
     "stash": 142,
-    "pvp": 430,
+    "pvp": 431,
     "build": 65,
     "dupe": 80,
     "survival": 248,
