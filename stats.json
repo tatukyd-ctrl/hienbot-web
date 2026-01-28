@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "16:01:42 28/1/2026",
-  "totalKits": 1467,
-  "todayKits": 31,
+  "lastUpdated": "16:01:53 28/1/2026",
+  "totalKits": 1468,
+  "todayKits": 32,
   "onlineCount": 13,
   "peakPlayers": 23,
-  "tps": "10.0",
-  "ping": 212,
+  "tps": "9.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[08:57] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[08:57] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits ",
-    "[08:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:58] [8b8t] >> Please do not spam.",
-    "[08:58] <m4rc_xyz8> !end ",
-    "[08:58] [8b8t] >> Teleporting to home 0...",
-    "[08:58] [8b8t] >> Teleporting to home 5...",
     "[08:58] To m4rc_xyz8: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[08:58] To m4rc_xyz8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:58] [8b8t] >> Request sent to m4rc_xyz8",
@@ -101,7 +94,14 @@
     "[09:00] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
     "[09:00] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[09:01] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[09:01] [BOT] <0_HienBot> >Hey m4rc_xyz8! "
+    "[09:01] [BOT] <0_HienBot> >Hey m4rc_xyz8! ",
+    "[09:01] <m4rc_xyz8> !end ",
+    "[09:01] [8b8t] >> Teleporting to home 0...",
+    "[09:01] [8b8t] >> Teleporting to home 5...",
+    "[09:01] To m4rc_xyz8: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:01] To m4rc_xyz8: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:01] [8b8t] >> Request sent to m4rc_xyz8",
+    "[09:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 2,
@@ -291,7 +291,7 @@
     "RED_HAZE__": 1,
     "anh_do_mixi": 1,
     "zNashardoz": 7,
-    "m4rc_xyz8": 8
+    "m4rc_xyz8": 9
   },
   "kitStats": {
     "stash": 132,
@@ -319,7 +319,7 @@
     "mineral": 37,
     "highway": 21,
     "music": 19,
-    "end": 36,
+    "end": 37,
     "concrete": 22,
     "dye": 22,
     "ocean": 13
