@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:32:58 28/1/2026",
+  "lastUpdated": "19:33:12 28/1/2026",
   "totalKits": 1534,
   "todayKits": 18,
   "onlineCount": 19,
   "peakPlayers": 24,
-  "tps": "6.0",
+  "tps": "7.0",
   "ping": 236,
   "topUsers": [
     {
@@ -68,15 +68,10 @@
     },
     {
       "name": "survival",
-      "count": 232
+      "count": 233
     }
   ],
   "chatLog": [
-    "[12:29] [8b8t] >> Request sent to cwwwecow",
-    "[12:29] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:29] [8b8t] >> Teleporting...",
-    "[12:29] cwwwecow Whispers: Meteor on Crack!",
-    "[12:29] [8b8t] >> You have killed yourself!",
     "[12:29] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me ",
     "[12:30] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ ",
     "[12:30] <abdlhmt> !totem ",
@@ -101,7 +96,12 @@
     "[12:32] [8b8t] >> Request sent to Hien2309",
     "[12:32] [8b8t] >> Teleporting...",
     "[12:32] <vincydooom> !survival ",
-    "[12:32] To vincydooom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[12:32] To vincydooom: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:33] [8b8t] >> You have killed yourself!",
+    "[12:33] <vincydooom> !survival ",
+    "[12:33] [8b8t] >> Teleporting to home 0...",
+    "[12:33] [8b8t] >> Teleporting to home 1...",
+    "[12:33] To vincydooom: Your kit (survival) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 9,
@@ -298,14 +298,15 @@
     "Infernokingjr": 13,
     "Exeeeeee44444444": 10,
     "Shadowwastaken": 1,
-    "dragonkit": 1
+    "dragonkit": 1,
+    "vincydooom": 1
   },
   "kitStats": {
     "stash": 137,
     "pvp": 409,
     "build": 58,
     "dupe": 71,
-    "survival": 232,
+    "survival": 233,
     "elytra": 267,
     "exp": 158,
     "shulker": 40,
