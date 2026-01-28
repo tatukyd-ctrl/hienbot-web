@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "20:11:12 28/1/2026",
+  "lastUpdated": "20:11:42 28/1/2026",
   "totalKits": 1552,
   "todayKits": 36,
-  "onlineCount": 22,
+  "onlineCount": 0,
   "peakPlayers": 24,
-  "tps": "3.0",
-  "ping": 567,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[13:07] [8b8t] >> You have killed yourself!",
-    "[13:07] [BOT] <0_HienBot> >Welcome to 8b8t, ASneakySenior! ",
     "[13:07] <vincydooom> !nether ",
     "[13:08] <eliasspporcel> alguien me guivea ",
     "[13:08] To vincydooom: You're on cooldown, try again in 14 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +99,9 @@
     "[13:10] [8b8t] >> Teleporting to home 0...",
     "[13:10] [8b8t] >> Teleporting to home 5...",
     "[13:10] To vincydooom: Kit \"nether\" not found! Giving you (exp) instead! dsc.gg/hienbot",
-    "[13:11] To vincydooom: Try again Join dsc.gg/hienbot to report the error."
+    "[13:11] To vincydooom: Try again Join dsc.gg/hienbot to report the error.",
+    "[13:11] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits ",
+    "[13:11] <vincydooom> !item "
   ],
   "userStats": {
     "Hien2309": 9,
@@ -299,7 +299,7 @@
     "Exeeeeee44444444": 10,
     "Shadowwastaken": 1,
     "dragonkit": 1,
-    "vincydooom": 19,
+    "vincydooom": 20,
     "Digo_HD7": 1,
     "lucassv09LM": 1
   },
@@ -320,7 +320,7 @@
     "armortrims": 103,
     "food": 25,
     "toolbox": 451,
-    "raid": 73,
+    "raid": 74,
     "terracotta": 19,
     "tools": 264,
     "quartz": 25,
