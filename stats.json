@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "12:34:16 28/1/2026",
+  "lastUpdated": "12:34:42 28/1/2026",
   "totalKits": 1445,
   "todayKits": 9,
-  "onlineCount": 20,
+  "onlineCount": 21,
   "peakPlayers": 23,
-  "tps": "7.0",
+  "tps": "1.0",
   "ping": 218,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 386
+      "count": 387
     },
     {
       "name": "elytra",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[05:32] To zNashardoz: Idioma cambiado a Espanol! | dsc.gg/hienbot",
-    "[05:32] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[05:32] zNashardoz Whispers: hola",
-    "[05:32] <Nighten2> !lang us ",
-    "[05:32] To Nighten2: Invalid! Use: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
-    "[05:32] <dealerdeskiles> eres maduro ",
     "[05:32] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[05:32] <Nighten2> !lang es ",
     "[05:32] To Nighten2: Idioma cambiado a Espanol! | dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[05:34] To Nighten2: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[05:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:34] [8b8t] >> Teleporting...",
-    "[05:34] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ "
+    "[05:34] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ ",
+    "[05:34] [8b8t] >> You have killed yourself!",
+    "[05:34] <Nighten2> !pvp ",
+    "[05:34] [8b8t] >> Teleporting to home 0...",
+    "[05:34] [8b8t] >> Teleporting to home 1...",
+    "[05:34] To Nighten2: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[05:34] To Nighten2: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 2,
@@ -120,7 +120,7 @@
     "Murad2002": 4,
     "AdustCloud3179": 2,
     "dylans117877601": 12,
-    "Nighten2": 14,
+    "Nighten2": 15,
     "BdubH2015": 24,
     "rezhuhohlov": 1012,
     "Maverick0624": 47,
@@ -294,7 +294,7 @@
   },
   "kitStats": {
     "stash": 132,
-    "pvp": 386,
+    "pvp": 387,
     "build": 56,
     "dupe": 71,
     "survival": 226,
