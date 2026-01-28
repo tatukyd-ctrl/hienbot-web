@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "05:19:08 29/1/2026",
+  "lastUpdated": "05:19:38 29/1/2026",
   "totalKits": 1623,
   "todayKits": 0,
   "onlineCount": 30,
   "peakPlayers": 33,
   "tps": "0.0",
-  "ping": 0,
+  "ping": 3015,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -64,7 +64,7 @@
     },
     {
       "name": "tools",
-      "count": 276
+      "count": 277
     },
     {
       "name": "survival",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[22:17] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[22:17] [8b8t] Unknown command do /help",
-    "[22:17] [8b8t] Unknown command do /help",
-    "[22:17] ",
     "[22:17]  [8builders8tools]",
     "[22:17]  Perform the command /discord add to register",
     "[22:17]  your discord. By doing so, you",
@@ -101,7 +97,11 @@
     "[22:19] ",
     "[22:19]   [Confirm read]",
     "[22:19] ",
-    "[22:19] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me"
+    "[22:19] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[22:19] <rokfox48> !tools ",
+    "[22:19] [8b8t] >> Teleporting to home 0...",
+    "[22:19] [8b8t] >> Teleporting to home 7...",
+    "[22:19] To rokfox48: Your kit (tools) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 9,
@@ -199,7 +199,7 @@
     "braxku": 1,
     "htp1p0": 1,
     "matthias1234": 1,
-    "rokfox48": 3,
+    "rokfox48": 4,
     "FuchiSama": 4,
     "DancingFairy112": 15,
     "elinsasi2": 8,
@@ -340,7 +340,7 @@
     "toolbox": 454,
     "raid": 79,
     "terracotta": 19,
-    "tools": 276,
+    "tools": 277,
     "quartz": 27,
     "wool": 37,
     "glass": 35,
