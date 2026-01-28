@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "19:28:49 28/1/2026",
+  "lastUpdated": "19:29:12 28/1/2026",
   "totalKits": 1531,
   "todayKits": 15,
   "onlineCount": 22,
   "peakPlayers": 23,
-  "tps": "4.0",
+  "tps": "8.0",
   "ping": 227,
   "topUsers": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 407
+      "count": 408
     },
     {
       "name": "elytra",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[12:28] <abdlhmt> !mace ",
-    "[12:28] To abdlhmt: You're on cooldown, try again in 15 seconds! Dont forget to join dsc.gg/hienbot",
-    "[12:28] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> ",
-    "[12:28] <abdlhmt> !mace ",
-    "[12:28] To abdlhmt: You're on cooldown, try again in 6 seconds! Dont forget to join dsc.gg/hienbot",
     "[12:28] <abdlhmt> !mace ",
     "[12:28] [SE] <dragonkit> !mace ",
     "[12:28] To abdlhmt: You're on cooldown, try again in 3 seconds! Dont forget to join dsc.gg/hienbot",
@@ -101,7 +96,12 @@
     "[12:28] [BOT] <0_HienBot> >Hello MonkeBot! ",
     "[12:28] [8b8t] >> Teleporting...",
     "[12:28] cwwwecow Whispers: *kit bow",
-    "[12:28] To cwwwecow: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[12:28] To cwwwecow: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[12:28] [8b8t] >> You have killed yourself!",
+    "[12:29] cwwwecow Whispers: *kit bow",
+    "[12:29] [8b8t] >> Teleporting to home 0...",
+    "[12:29] [8b8t] >> Teleporting to home 1...",
+    "[12:29] To cwwwecow: Your kit (bow) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 8,
@@ -179,7 +179,7 @@
     "UHCDARKKILLER": 2,
     "5xo_Gomme_6ks": 1,
     "ABHINAV": 1,
-    "cwwwecow": 8,
+    "cwwwecow": 9,
     "Sandman388": 1,
     "wemmpook": 21,
     "pluto_oficial": 3,
@@ -302,7 +302,7 @@
   },
   "kitStats": {
     "stash": 137,
-    "pvp": 407,
+    "pvp": 408,
     "build": 58,
     "dupe": 71,
     "survival": 231,
