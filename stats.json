@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:33:18 29/1/2026",
+  "lastUpdated": "20:33:48 29/1/2026",
   "totalKits": 1626,
   "todayKits": 0,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 22,
-  "tps": "1.0",
-  "ping": 0,
+  "tps": "4.0",
+  "ping": 1840,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -56,7 +56,7 @@
     },
     {
       "name": "pvp",
-      "count": 450
+      "count": 451
     },
     {
       "name": "elytra",
@@ -72,7 +72,6 @@
     }
   ],
   "chatLog": [
-    "[20:31] ",
     "[20:31]  [8builders8tools]",
     "[20:31]  Perform the command /discord add to register",
     "[20:31]  your discord. By doing so, you",
@@ -101,7 +100,8 @@
     "[20:32] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[20:32] [8b8t] >> Teleporting to home 4...",
     "[20:32] [8b8t] >> You have killed yourself!",
-    "[20:32] You are already connected to this server!"
+    "[20:32] You are already connected to this server!",
+    "[20:33] [SE] <dragonkit> !pvp "
   ],
   "userStats": {
     "Hien2309": 9,
@@ -298,7 +298,7 @@
     "Infernokingjr": 19,
     "Exeeeeee44444444": 10,
     "Shadowwastaken": 1,
-    "dragonkit": 2,
+    "dragonkit": 3,
     "vincydooom": 31,
     "Digo_HD7": 1,
     "lucassv09LM": 1,
@@ -332,7 +332,7 @@
   },
   "kitStats": {
     "stash": 146,
-    "pvp": 450,
+    "pvp": 451,
     "build": 70,
     "dupe": 81,
     "survival": 266,
