@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "09:32:03 29/1/2026",
+  "lastUpdated": "09:32:33 29/1/2026",
   "totalKits": 1625,
   "todayKits": 0,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 21,
-  "tps": "1.0",
-  "ping": 0,
+  "tps": "6.0",
+  "ping": 7861,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,7 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:28] [BOT] <0_HienBot> >What's up, Nachowithuke? ",
     "[02:29] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
     "[02:29] [8b8t] >> Your login session has been continued.",
     "[02:29] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
@@ -101,7 +100,8 @@
     "[02:31]   [Confirm read]",
     "[02:31] ",
     "[02:31] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[02:31] You are already connected to this server!"
+    "[02:31] You are already connected to this server!",
+    "[02:32] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password> "
   ],
   "userStats": {
     "Hien2309": 9,
