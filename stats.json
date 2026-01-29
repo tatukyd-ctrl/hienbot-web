@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:25:51 29/1/2026",
+  "lastUpdated": "17:26:21 29/1/2026",
   "totalKits": 1625,
   "todayKits": 0,
-  "onlineCount": 14,
+  "onlineCount": 13,
   "peakPlayers": 21,
-  "tps": "4.0",
-  "ping": 14805,
+  "tps": "3.0",
+  "ping": 14488,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,11 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:21] [8b8t] >> You have killed yourself!",
-    "[10:21] You are already connected to this server!",
-    "[10:22] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
-    "[10:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[10:22] [8b8t] >> Please do not spam.",
     "[10:22] hahahadude has made the advancement [We Need to Go Deeper]",
     "[10:22] You were kicked from 8b8t: Timed out",
     "[10:22] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
@@ -101,7 +96,12 @@
     "[10:24] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
     "[10:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:25] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language ",
-    "[10:25] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot "
+    "[10:25] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
+    "[10:26] <ghostfh> !concrete ",
+    "[10:26] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲 ",
+    "[10:26] [8b8t] >> Teleporting to home 0...",
+    "[10:26] [8b8t] >> Teleporting to home 3...",
+    "[10:26] To ghostfh: Your kit (concrete) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 9,
@@ -327,7 +327,7 @@
     ".Mighty_Z0ltan": 1,
     "zoids_boom": 2,
     "RJNinja9": 1,
-    "ghostfh": 1
+    "ghostfh": 2
   },
   "kitStats": {
     "stash": 146,
@@ -356,7 +356,7 @@
     "highway": 27,
     "music": 23,
     "end": 47,
-    "concrete": 23,
+    "concrete": 24,
     "dye": 26,
     "ocean": 17
   }
