@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:03:51 29/1/2026",
+  "lastUpdated": "17:04:21 29/1/2026",
   "totalKits": 1625,
   "todayKits": 0,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 19,
-  "tps": "1.0",
-  "ping": 0,
+  "tps": "0.0",
+  "ping": 6905,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:02] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[10:02] <AppleBot> > Rumors say that using !kit lowers your ping by 50ms",
     "[10:02] ",
     "[10:02]  [8builders8tools]",
     "[10:02]  Perform the command /discord add to register",
@@ -101,7 +99,9 @@
     "[10:03]   [Confirm read]",
     "[10:03] ",
     "[10:03] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[10:03] [8b8t] >> You have killed yourself!"
+    "[10:03] [8b8t] >> You have killed yourself!",
+    "[10:03] You are already connected to this server!",
+    "[10:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 9,
