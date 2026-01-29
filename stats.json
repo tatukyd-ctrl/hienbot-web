@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "17:29:51 29/1/2026",
-  "totalKits": 1625,
-  "todayKits": 0,
-  "onlineCount": 12,
+  "lastUpdated": "17:30:12 29/1/2026",
+  "totalKits": 1626,
+  "todayKits": 1,
+  "onlineCount": 13,
   "peakPlayers": 21,
   "tps": "4.0",
   "ping": 4062,
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:23] ",
-    "[10:23]   [Confirm read]",
-    "[10:23] ",
-    "[10:23] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[10:23] [8b8t] >> You have killed yourself!",
-    "[10:23] You are already connected to this server!",
-    "[10:23] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:23] [BOT] <0_HienBot> >Welcome to 8b8t, TNGB0T! ",
     "[10:24] probeyilker has reached the goal [Sky's the Limit]",
     "[10:24] [BOT] <0_HienBot> >Hey hahahadude! ",
     "[10:24] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵 ",
@@ -101,7 +93,15 @@
     "[10:28] [BOT] <0_HienBot> >Welcome to 8b8t, MrPinkEye! ",
     "[10:29] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot ",
     "[10:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[10:29] [BOT] <0_HienBot> >Welcome to 8b8t, TheAshedOne! "
+    "[10:29] [BOT] <0_HienBot> >Welcome to 8b8t, TheAshedOne! ",
+    "[10:30] [BOT] <0_HienBot> >Bot created by Hien2309. ",
+    "[10:30] <ghostfh> !wool ",
+    "[10:30] [8b8t] >> Teleporting to home 0...",
+    "[10:30] [8b8t] >> Teleporting to home 3...",
+    "[10:30] To ghostfh: Your kit (wool) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[10:30] To ghostfh: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:30] [8b8t] >> Request sent to ghostfh",
+    "[10:30] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 9,
@@ -327,7 +327,7 @@
     ".Mighty_Z0ltan": 1,
     "zoids_boom": 2,
     "RJNinja9": 1,
-    "ghostfh": 2
+    "ghostfh": 3
   },
   "kitStats": {
     "stash": 146,
@@ -350,7 +350,7 @@
     "terracotta": 19,
     "tools": 277,
     "quartz": 28,
-    "wool": 37,
+    "wool": 38,
     "glass": 35,
     "mineral": 41,
     "highway": 27,
