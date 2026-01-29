@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.me",
-  "lastUpdated": "08:45:32 29/1/2026",
+  "lastUpdated": "08:46:02 29/1/2026",
   "totalKits": 1625,
   "todayKits": 0,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 22,
-  "tps": "1.0",
+  "tps": "8.0",
   "ping": 0,
   "topUsers": [
     {
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:44] <Herobrai2990> !pvp ",
-    "[01:44] <megamixisgay> Hola, soy MegaMixBot 🤖 y te ayudaré a encontrar las coordenadas de los jugadores. ",
-    "[01:44] [8b8t] >> Please do not spam.",
-    "[01:44] <megamixisgay> !coords → Usa este comando para encontrar las coordenadas de un jugador. ",
-    "[01:44] [8b8t] >> Teleporting to home 0...",
-    "[01:44] [8b8t] >> Teleporting to home 5...",
-    "[01:44] To Herobrai2990: Kit \"armortrim\" not found! Giving you (quartz) instead! dsc.gg/hienbot",
     "[01:44] <megamixisgay> ¡Hey! MegaMixBot está activo. Usa !coords para localizar jugadores fácilmente. ",
     "[01:44] To Herobrai2990: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[01:44] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -101,7 +94,14 @@
     "[01:45] [8b8t] >> You have killed yourself!",
     "[01:45] Chat disabled in client options",
     "[01:45] To Herobrai2990: Try again dsc.gg/hienbot",
-    "[01:45] You are already connected to this server!"
+    "[01:45] You are already connected to this server!",
+    "[01:45] <Akuaman> !coords ",
+    "[01:45] <megamixisgay> !tphelp → Información sobre comandos de teletransporte. ",
+    "[01:45] lolrektnoob has made the advancement [Diamonds!]",
+    "[01:45] To Herobrai2990: Try again Join dsc.gg/hienbot to report the error.",
+    "[01:45] <popboco> !coords ",
+    "[01:45] <megamixisgay> Si necesitas ayuda, escribe !help en el chat. ",
+    "[01:46] <megamixisgay> !stats <jugador> → Consulta las estadísticas de un jugador. "
   ],
   "userStats": {
     "Hien2309": 9,
@@ -322,7 +322,8 @@
     "IMluciano10": 1,
     "LEEEVIMC": 1,
     "Ghosttico_": 6,
-    "Herobrai2990": 2
+    "Herobrai2990": 2,
+    "Akuaman": 1
   },
   "kitStats": {
     "stash": 146,
@@ -348,7 +349,7 @@
     "wool": 37,
     "glass": 35,
     "mineral": 41,
-    "highway": 25,
+    "highway": 26,
     "music": 22,
     "end": 47,
     "concrete": 23,
