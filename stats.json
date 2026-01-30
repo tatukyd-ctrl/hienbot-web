@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:31:36 30/1/2026",
+  "lastUpdated": "21:32:06 30/1/2026",
   "totalKits": 1628,
   "todayKits": 0,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 27,
   "tps": "2.0",
   "ping": 24754,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 484
+      "count": 485
     },
     {
       "name": "toolbox",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:29] ",
-    "[14:29]  [8builders8tools]",
-    "[14:29]  Perform the command /discord add to register",
-    "[14:29]  your discord. By doing so, you",
-    "[14:29]  decrease the chance of being hacked.",
-    "[14:29] ",
-    "[14:29]   [Confirm read]",
     "[14:29] ",
     "[14:29] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[14:29] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[14:30] You are already connected to this server!",
     "[14:31] <cool_guy0102> !totems ",
     "[14:31] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲 ",
-    "[14:31] <.YuukaCuteeee> !survival "
+    "[14:31] <.YuukaCuteeee> !survival ",
+    "[14:31] [8b8t] >> Teleporting to home 0...",
+    "[14:31] [8b8t] >> Teleporting to home 3...",
+    "[14:31] To cool_guy0102: Kit \"totems\" not found! Giving you (wool) instead! dsc.gg/hienbot",
+    "[14:31] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[14:31] <.YuukaCuteeee> !pvp ",
+    "[14:31] [BOT] <0_HienBot> >Sub to Hien2309 in youtube ",
+    "[14:31] <KrimeKZN> can some1 tpa me out of spawn "
   ],
   "userStats": {
     "Hien2309": 9,
@@ -344,11 +344,12 @@
     "oofsaidyoamazing": 4,
     "shadowlord6": 1,
     "cool_guy0102": 3,
-    "kadomc0": 1
+    "kadomc0": 1,
+    ".YuukaCuteeee": 1
   },
   "kitStats": {
     "stash": 149,
-    "pvp": 484,
+    "pvp": 485,
     "build": 77,
     "dupe": 84,
     "survival": 286,
