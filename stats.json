@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:01:58 31/1/2026",
+  "lastUpdated": "00:02:28 31/1/2026",
   "totalKits": 1629,
   "todayKits": 0,
-  "onlineCount": 31,
+  "onlineCount": 1,
   "peakPlayers": 38,
   "tps": "0.0",
   "ping": 0,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 494
+      "count": 495
     },
     {
       "name": "toolbox",
@@ -72,10 +72,6 @@
     }
   ],
   "chatLog": [
-    "[16:59] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[16:59] [8b8t] Unknown command do /help",
-    "[16:59] [8b8t] Unknown command do /help",
-    "[16:59] You are already trying to connect to a server!",
     "[16:59] ",
     "[16:59]  [8builders8tools]",
     "[16:59]  Perform the command /discord add to register",
@@ -101,7 +97,11 @@
     "[17:01]   [Confirm read]",
     "[17:01] ",
     "[17:01] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[17:01] You are already connected to this server!"
+    "[17:01] You are already connected to this server!",
+    "[17:02] <MINIBOT111> !hacks ",
+    "[17:02] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
+    "[17:02] [8b8t] >> Your login session has been continued.",
+    "[17:02] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby"
   ],
   "userStats": {
     "Hien2309": 9,
@@ -329,7 +329,7 @@
     "RJNinja9": 1,
     "ghostfh": 3,
     ".VadoseMist36087": 1,
-    "MINIBOT111": 1,
+    "MINIBOT111": 2,
     "Void000": 2,
     "kenzy4633": 1,
     "ASXN": 6,
@@ -352,7 +352,7 @@
   },
   "kitStats": {
     "stash": 150,
-    "pvp": 494,
+    "pvp": 495,
     "build": 77,
     "dupe": 85,
     "survival": 291,
