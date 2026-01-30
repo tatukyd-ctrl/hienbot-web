@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:56:36 30/1/2026",
+  "lastUpdated": "10:57:06 30/1/2026",
   "totalKits": 1627,
   "todayKits": 0,
   "onlineCount": 27,
   "peakPlayers": 29,
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "3.0",
+  "ping": 12221,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 478
+      "count": 479
     },
     {
       "name": "toolbox",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[03:54] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[03:54] [8b8t] Unknown command do /help",
-    "[03:54] [8b8t] Unknown command do /help",
-    "[03:54] You are already trying to connect to a server!",
-    "[03:54] ",
-    "[03:54]  [8builders8tools]",
     "[03:54]  Perform the command /discord add to register",
     "[03:54]  your discord. By doing so, you",
     "[03:54]  decrease the chance of being hacked.",
@@ -101,7 +95,13 @@
     "[03:55] ",
     "[03:55] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[03:55] You are already connected to this server!",
-    "[03:56] <An35as> !pvp "
+    "[03:56] <An35as> !pvp ",
+    "[03:56] [8b8t] >> Teleporting to home 0...",
+    "[03:56] [8b8t] >> Teleporting to home 1...",
+    "[03:56] <An35as> !pvp ",
+    "[03:56] To An35as: Your kit (pvp) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[03:56] [BOT] <0_HienBot> >Hi TNGB0T! ",
+    "[03:57] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 9,
@@ -252,7 +252,7 @@
     "joanot_23": 2,
     "s5der": 2,
     "0xPwnd_Bot": 3,
-    "An35as": 3,
+    "An35as": 4,
     "imnotoldmacbook": 2,
     "ExamplesNBOTS": 1,
     "arda912": 1,
@@ -343,7 +343,7 @@
   },
   "kitStats": {
     "stash": 149,
-    "pvp": 478,
+    "pvp": 479,
     "build": 77,
     "dupe": 82,
     "survival": 283,
