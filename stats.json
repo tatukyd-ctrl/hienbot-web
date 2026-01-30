@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:35:53 31/1/2026",
+  "lastUpdated": "02:36:23 31/1/2026",
   "totalKits": 1629,
   "todayKits": 0,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 31,
-  "tps": "0.0",
+  "tps": "4.0",
   "ping": 0,
   "topUsers": [
     {
@@ -72,7 +72,6 @@
     }
   ],
   "chatLog": [
-    "[19:33] [8b8t] >> Your login session has been continued.",
     "[19:33] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[19:33] [8b8t] Unknown command do /help",
     "[19:33] [8b8t] Unknown command do /help",
@@ -101,7 +100,8 @@
     "[19:35]   [Confirm read]",
     "[19:35] ",
     "[19:35] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[19:35] You are already connected to this server!"
+    "[19:35] You are already connected to this server!",
+    "[19:36] [BOT] <0_HienBot> >Use /lobby to return to the lobby! "
   ],
   "userStats": {
     "Hien2309": 9,
