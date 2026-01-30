@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:10:26 30/1/2026",
+  "lastUpdated": "21:10:56 30/1/2026",
   "totalKits": 1628,
   "todayKits": 0,
-  "onlineCount": 22,
+  "onlineCount": 23,
   "peakPlayers": 29,
-  "tps": "4.0",
-  "ping": 0,
+  "tps": "3.0",
+  "ping": 5636,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -60,7 +60,7 @@
     },
     {
       "name": "elytra",
-      "count": 291
+      "count": 292
     },
     {
       "name": "survival",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:08] \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n ",
-    "[14:08] [8b8t] >> Your login session has been continued.",
-    "[14:08] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[14:08] ",
     "[14:08]  [8builders8tools]",
     "[14:08]  Perform the command /discord add to register",
@@ -101,7 +98,10 @@
     "[14:09] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[14:09] [8b8t] >> You have killed yourself!",
     "[14:09] Chat disabled in client options",
-    "[14:09] You are already connected to this server!"
+    "[14:09] You are already connected to this server!",
+    "[14:10] <kadomc0> !elytra ",
+    "[14:10] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base ",
+    "[14:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 9,
@@ -343,7 +343,8 @@
     "Gold_Trident87": 1,
     "oofsaidyoamazing": 4,
     "shadowlord6": 1,
-    "cool_guy0102": 1
+    "cool_guy0102": 1,
+    "kadomc0": 1
   },
   "kitStats": {
     "stash": 149,
@@ -351,7 +352,7 @@
     "build": 77,
     "dupe": 84,
     "survival": 286,
-    "elytra": 291,
+    "elytra": 292,
     "exp": 173,
     "shulker": 48,
     "redstone": 69,
