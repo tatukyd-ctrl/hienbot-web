@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:22:58 31/1/2026",
+  "lastUpdated": "00:23:28 31/1/2026",
   "totalKits": 1629,
   "todayKits": 0,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 38,
   "tps": "0.0",
   "ping": 0,
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 495
+      "count": 496
     },
     {
       "name": "toolbox",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:21] [8b8t] Unknown command do /help",
-    "[17:21] [8b8t] >> Welcome kr0sspvp to 8b8t.me Lobby",
     "[17:21] You are already trying to connect to a server!",
     "[17:21] ",
     "[17:21]  [8builders8tools]",
@@ -101,7 +99,9 @@
     "[17:22] ",
     "[17:22]   [Confirm read]",
     "[17:22] ",
-    "[17:22] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me"
+    "[17:22] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[17:22] You are already connected to this server!",
+    "[17:23] <osmankral123123> !pvp "
   ],
   "userStats": {
     "Hien2309": 9,
@@ -232,7 +232,7 @@
     ".Cycloid_2pi": 13,
     "ianelpizza1244": 6,
     "chiquiflow777": 2,
-    "osmankral123123": 14,
+    "osmankral123123": 15,
     "lehodiep210410": 24,
     "DiedSDaniel": 7,
     "MrBaconHair": 6,
@@ -352,7 +352,7 @@
   },
   "kitStats": {
     "stash": 150,
-    "pvp": 495,
+    "pvp": 496,
     "build": 77,
     "dupe": 85,
     "survival": 291,
