@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:59:23 31/1/2026",
+  "lastUpdated": "16:59:44 31/1/2026",
   "totalKits": 1656,
   "todayKits": 25,
   "onlineCount": 14,
   "peakPlayers": 27,
-  "tps": "3.0",
-  "ping": 206,
+  "tps": "8.0",
+  "ping": 1399,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:57] [BOT] <0_HienBot> >Do you want kit? Type *кιт ",
-    "[09:57] [8b8t] >> Teleporting...",
-    "[09:58] [8b8t] >> You have killed yourself!",
-    "[09:58] <.YuukaCuteeee> !end ",
-    "[09:58] [8b8t] >> Teleporting to home 0...",
-    "[09:58] [8b8t] >> Teleporting to home 5...",
-    "[09:58] To .YuukaCuteeee: Your kit (end) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[09:58] To .YuukaCuteeee: Sorry! Purple Shulker Box is out of stock. Giving you Lime Shulker Box instead! dsc.gg/hienbot",
     "[09:58] [8b8t] >> Request sent to .YuukaCuteeee",
     "[09:58] [8b8t] >> Teleporting...",
@@ -101,7 +94,14 @@
     "[09:59] To .YuukaCuteeee: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:59] [8b8t] >> Request sent to .YuukaCuteeee",
     "[09:59] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore ",
-    "[09:59] [8b8t] >> Teleporting..."
+    "[09:59] [8b8t] >> Teleporting...",
+    "[09:59] [8b8t] >> You have killed yourself!",
+    "[09:59] <fankabhaismarty> !shulker ",
+    "[09:59] [8b8t] >> Teleporting to home 0...",
+    "[09:59] [8b8t] >> Teleporting to home 6...",
+    "[09:59] To fankabhaismarty: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:59] To fankabhaismarty: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:59] [8b8t] >> Request sent to fankabhaismarty"
   ],
   "userStats": {
     "Hien2309": 10,
@@ -359,7 +359,8 @@
     "Marloowww": 16,
     "fgfds": 3,
     "Cheapity": 1,
-    "LowkGD67": 3
+    "LowkGD67": 3,
+    "fankabhaismarty": 1
   },
   "kitStats": {
     "stash": 154,
@@ -369,7 +370,7 @@
     "survival": 304,
     "elytra": 295,
     "exp": 176,
-    "shulker": 60,
+    "shulker": 61,
     "redstone": 69,
     "lightsources": 46,
     "gap": 48,
