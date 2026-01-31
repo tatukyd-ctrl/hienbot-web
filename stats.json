@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:42:06 31/1/2026",
+  "lastUpdated": "21:42:36 31/1/2026",
   "totalKits": 1661,
   "todayKits": 0,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 38,
-  "tps": "5.0",
-  "ping": 15819,
+  "tps": "1.0",
+  "ping": 13101,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 516
+      "count": 517
     },
     {
       "name": "toolbox",
@@ -72,9 +72,6 @@
     }
   ],
   "chatLog": [
-    "[14:38] <WildCreativity> yoo ",
-    "[14:38] THE_SYL3NT has made the advancement [Cover Me With Diamonds]",
-    "[14:38] <osmankral123123> guy sax ",
     "[14:38] THE_SYL3NT has made the advancement [A Throwaway Joke]",
     "[14:38] <WildCreativity> i think this looks goooooooooood ",
     "[14:38] [Ultra] <CuloGangTobias> it sucks ",
@@ -101,7 +98,10 @@
     "[14:41] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t ",
     "[14:41] [8b8t] >> Teleporting to home 0...",
     "[14:41] [8b8t] >> Home 2 was not found",
-    "[14:41] To noletrr: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
+    "[14:41] To noletrr: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[14:42] To noletrr: Try again Join dsc.gg/hienbot to report the error.",
+    "[14:42] [BOT] <0_HienBot> >Use /kill to kill yourself! ",
+    "[14:42] <noletrr> !pvp "
   ],
   "userStats": {
     "Hien2309": 10,
@@ -366,11 +366,11 @@
     "Yuta1111x": 1,
     "thonsanlo": 1,
     "metatableindex": 1,
-    "noletrr": 1
+    "noletrr": 2
   },
   "kitStats": {
     "stash": 156,
-    "pvp": 516,
+    "pvp": 517,
     "build": 82,
     "dupe": 90,
     "survival": 308,
