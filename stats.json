@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:42:45 1/2/2026",
+  "lastUpdated": "00:43:15 1/2/2026",
   "totalKits": 1665,
   "todayKits": 0,
   "onlineCount": 33,
   "peakPlayers": 33,
-  "tps": "3.0",
+  "tps": "4.0",
   "ping": 17057,
   "topUsers": [
     {
@@ -68,13 +68,10 @@
     },
     {
       "name": "elytra",
-      "count": 300
+      "count": 301
     }
   ],
   "chatLog": [
-    "[17:41] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[17:41] ",
-    "[17:41]  [8builders8tools]",
     "[17:41]  Perform the command /discord add to register",
     "[17:41]  your discord. By doing so, you",
     "[17:41]  decrease the chance of being hacked.",
@@ -101,7 +98,10 @@
     "[17:42] <CachorritasUwu> wifenloof ",
     "[17:42] <Tevrard> who can help my? ",
     "[17:42] <CachorritasUwu> eselifterbraun ",
-    "[17:42] <Tevrard> i find a diamond block nut i don't have pickaxe "
+    "[17:42] <Tevrard> i find a diamond block nut i don't have pickaxe ",
+    "[17:42] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command ",
+    "[17:42] <zean1854> alguien me podria regalar cosas ",
+    "[17:43] <elgerZ> !elytra "
   ],
   "userStats": {
     "Hien2309": 10,
@@ -369,7 +369,7 @@
     "noletrr": 2,
     "JDPlayz101": 3,
     "Nicepro9099": 8,
-    "elgerZ": 4,
+    "elgerZ": 5,
     "DropVak": 1
   },
   "kitStats": {
@@ -378,7 +378,7 @@
     "build": 82,
     "dupe": 90,
     "survival": 309,
-    "elytra": 300,
+    "elytra": 301,
     "exp": 176,
     "shulker": 62,
     "redstone": 72,
