@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:37:14 1/2/2026",
+  "lastUpdated": "00:37:44 1/2/2026",
   "totalKits": 1665,
   "todayKits": 4,
   "onlineCount": 34,
   "peakPlayers": 34,
-  "tps": "4.0",
+  "tps": "2.0",
   "ping": 18058,
   "topUsers": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "tools",
-      "count": 313
+      "count": 314
     },
     {
       "name": "survival",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[17:35] <elgerZ> !mace ",
-    "[17:35] <Nicepro9099> !mace ",
-    "[17:35] [8b8t] >> Teleporting to home 0...",
-    "[17:35] [8b8t] >> Teleporting to home 7...",
-    "[17:35] To elgerZ: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[17:35] [8b8t] >> Teleporting to home 0...",
     "[17:35] [8b8t] >> Teleporting to home 7...",
     "[17:35] To Nicepro9099: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
     "[17:35] To Nicepro9099: Try again dsc.gg/hienbot",
@@ -101,7 +95,13 @@
     "[17:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[17:37] [8b8t] >> Teleporting to home 0...",
     "[17:37] [8b8t] >> Teleporting to home 7...",
-    "[17:37] To elgerZ: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot"
+    "[17:37] To elgerZ: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[17:37] To Nicepro9099: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:37] To Spidersim: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:37] To elgerZ: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[17:37] <DropVak> !mace ",
+    "[17:37] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot ",
+    "[17:37] To elgerZ: Try again Join dsc.gg/hienbot to report the error."
   ],
   "userStats": {
     "Hien2309": 10,
@@ -369,7 +369,8 @@
     "noletrr": 2,
     "JDPlayz101": 3,
     "Nicepro9099": 6,
-    "elgerZ": 2
+    "elgerZ": 2,
+    "DropVak": 1
   },
   "kitStats": {
     "stash": 160,
@@ -390,7 +391,7 @@
     "toolbox": 459,
     "raid": 118,
     "terracotta": 23,
-    "tools": 313,
+    "tools": 314,
     "quartz": 30,
     "wool": 44,
     "glass": 44,
