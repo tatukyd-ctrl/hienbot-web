@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:48:15 31/1/2026",
+  "lastUpdated": "17:48:45 31/1/2026",
   "totalKits": 1660,
   "todayKits": 29,
   "onlineCount": 22,
   "peakPlayers": 27,
-  "tps": "4.0",
-  "ping": 12157,
+  "tps": "3.0",
+  "ping": 12063,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,8 +72,6 @@
     }
   ],
   "chatLog": [
-    "[10:43] [8b8t] >> Teleporting to home 0...",
-    "[10:43] [8b8t] >> Teleporting to home 6...",
     "[10:43] To FlameeX3: Kit \"quote\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
     "[10:43] To FlameeX3: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
     "[10:43] [BOT] <0_HienBot> >Type !discord ",
@@ -101,7 +99,9 @@
     "[10:47] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[10:47] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲 ",
     "[10:47] To FlameeX3: Try again Join dsc.gg/hienbot to report the error.",
-    "[10:48] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks "
+    "[10:48] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks ",
+    "[10:48] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11 ",
+    "[10:48] <FlameGG_> $quote "
   ],
   "userStats": {
     "Hien2309": 10,
@@ -361,7 +361,8 @@
     "Cheapity": 1,
     "LowkGD67": 3,
     "fankabhaismarty": 1,
-    "deantheneek": 1
+    "deantheneek": 1,
+    "FlameGG_": 1
   },
   "kitStats": {
     "stash": 154,
@@ -372,7 +373,7 @@
     "elytra": 295,
     "exp": 176,
     "shulker": 62,
-    "redstone": 69,
+    "redstone": 70,
     "lightsources": 46,
     "gap": 48,
     "wood": 71,
