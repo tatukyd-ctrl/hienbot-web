@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:56:11 17/2/2026",
+  "lastUpdated": "18:56:41 17/2/2026",
   "totalKits": 1675,
   "todayKits": 0,
   "onlineCount": 23,
   "peakPlayers": 28,
-  "tps": "12.0",
-  "ping": 235,
+  "tps": "9.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "waximo",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[11:53] To zabbygamer76: Your kit (highway) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[11:54] <zabbygamer76> !mace",
-    "[11:54] [BOT] <HienBot> >Hi zabbygamer76!",
-    "[11:54] [8b8t] >> Home 0 was not found",
-    "[11:54] [8b8t] >> Home 7 was not found",
-    "[11:54] To zabbygamer76: Your kit (mace) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[11:54] <zabbygamer76> hi",
     "[11:54] [8b8t] >> ▼ Player iTrisstan Left.",
     "[11:54] [BOT] <HienBot> >Try !𝗱𝘂𝗽𝗲",
     "[11:54] [8b8t] >> ▲ Player iTrisstan Joined.",
@@ -101,7 +93,15 @@
     "[11:55] [BOT] <AppleBot> > ¡Hola, soy el bot de The Apple Group, codeado por Pigy! Únete a nuestro Disc0rd: !invite",
     "[11:55] Rixlyyy has made the advancement [Stone Age]",
     "[11:56] iTrisstan decided to sleep with the fishes",
-    "[11:56] [BOT] <HienBot> >Bot created by Hien2309."
+    "[11:56] [BOT] <HienBot> >Bot created by Hien2309.",
+    "[11:56] [BOT] <AppleBot> > If you type !shulker and nothing happens, the hamster probably fell asleep",
+    "[11:56] <zabbygamer76> !higway",
+    "[11:56] [8b8t] >> Home 0 was not found",
+    "[11:56] [8b8t] >> Teleporting to home 2...",
+    "[11:56] To zabbygamer76: Kit \"higway\" not found! Giving you (build) instead! dsc.gg/hienbot",
+    "[11:56] [BOT] <HienBot> >Do you want kit? Type *кιт",
+    "[11:56] <zabbygamer76> !build",
+    "[11:56] [8b8t] >> Home 0 was not found"
   ],
   "userStats": {
     "Hien2309": 11,
@@ -406,12 +406,12 @@
     "Natethandrake": 1,
     "dractorX72": 1,
     "botchaosonix": 3,
-    "zabbygamer76": 9
+    "zabbygamer76": 11
   },
   "kitStats": {
     "stash": 211,
     "pvp": 608,
-    "build": 142,
+    "build": 144,
     "dupe": 135,
     "survival": 379,
     "elytra": 346,
