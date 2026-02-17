@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:59:04 17/2/2026",
+  "lastUpdated": "09:59:34 17/2/2026",
   "totalKits": 1668,
   "todayKits": 3,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 30,
-  "tps": "14.0",
-  "ping": 242,
+  "tps": "15.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:56] [8b8t] >> You have killed yourself!",
-    "[02:56] [8b8t] >> The TPA request you sent to DaRespekt was successfully canceled.",
-    "[02:56] To DaRespekt: You took too long to accept! 35s cooldown. Dont forget to join dsc.gg/hienbot",
-    "[02:56] [8b8t] >> Teleporting to home 0...",
-    "[02:56] [8b8t] >> Teleporting to home 7...",
-    "[02:56] To DaRespekt: Sorry! Pink Shulker Box is out of stock. Giving you Brown Shulker Box instead! dsc.gg/hienbot",
-    "[02:56] To DaRespekt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:56] [8b8t] >> Request sent to DaRespekt",
     "[02:57] [8b8t] >> Teleporting...",
     "[02:57] [8b8t] >> You have killed yourself!",
@@ -101,7 +94,14 @@
     "[02:58] [8b8t] >> The TPA request you sent to DaRespekt has expired.",
     "[02:58] [BOT] <0_HienBot> >What's up, SPREENQ?",
     "[02:58] <DaRespekt> !shulker",
-    "[02:58] To DaRespekt: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot"
+    "[02:58] To DaRespekt: You're on cooldown, try again in 28 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:59] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[02:59] [BOT] <0_HienBot> >Hello Alanxv42!",
+    "[02:59] <DaRespekt> !shulker",
+    "[02:59] [8b8t] >> Teleporting to home 0...",
+    "[02:59] [8b8t] >> Teleporting to home 6...",
+    "[02:59] To DaRespekt: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:59] To DaRespekt: Try again dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 11,
@@ -381,7 +381,7 @@
     "jay4283": 1,
     "inksw_ak": 2,
     "SniperKo": 1,
-    "DaRespekt": 5
+    "DaRespekt": 6
   },
   "kitStats": {
     "stash": 162,
@@ -391,7 +391,7 @@
     "survival": 310,
     "elytra": 301,
     "exp": 176,
-    "shulker": 71,
+    "shulker": 72,
     "redstone": 75,
     "lightsources": 47,
     "gap": 49,
