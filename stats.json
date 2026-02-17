@@ -1,11 +1,11 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:59:34 17/2/2026",
-  "totalKits": 1668,
-  "todayKits": 3,
+  "lastUpdated": "10:00:04 17/2/2026",
+  "totalKits": 1669,
+  "todayKits": 4,
   "onlineCount": 29,
   "peakPlayers": 30,
-  "tps": "15.0",
+  "tps": "10.0",
   "ping": 231,
   "topUsers": [
     {
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[02:56] [8b8t] >> Request sent to DaRespekt",
-    "[02:57] [8b8t] >> Teleporting...",
-    "[02:57] [8b8t] >> You have killed yourself!",
-    "[02:57] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ",
-    "[02:57] DaRespekt has made the advancement [Diamonds!]",
-    "[02:57] DaRespekt has made the advancement [Acquire Hardware]",
-    "[02:57] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[02:57] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[02:57] [8b8t] >> IO_Dev voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[02:58] [BOT] <0_HienBot> >Do you want kit? Type *кιт",
     "[02:58] <DaRespekt> !shulker",
     "[02:58] [8b8t] >> Teleporting to home 0...",
     "[02:58] [8b8t] >> Teleporting to home 6...",
@@ -101,7 +91,17 @@
     "[02:59] [8b8t] >> Teleporting to home 0...",
     "[02:59] [8b8t] >> Teleporting to home 6...",
     "[02:59] To DaRespekt: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[02:59] To DaRespekt: Try again dsc.gg/hienbot"
+    "[02:59] To DaRespekt: Try again dsc.gg/hienbot",
+    "[02:59] [BOT] <0_HienBot> >Bot created by Hien2309.",
+    "[02:59] <DaRespekt> !shulker",
+    "[02:59] [8b8t] >> You have killed yourself!",
+    "[02:59] To DaRespekt: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[02:59] [8b8t] >> Teleporting to home 0...",
+    "[02:59] [8b8t] >> Teleporting to home 6...",
+    "[02:59] To DaRespekt: Sorry! White Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
+    "[02:59] To DaRespekt: Please chat \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:59] [8b8t] >> Request sent to DaRespekt",
+    "[03:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 11,
@@ -381,7 +381,7 @@
     "jay4283": 1,
     "inksw_ak": 2,
     "SniperKo": 1,
-    "DaRespekt": 6
+    "DaRespekt": 7
   },
   "kitStats": {
     "stash": 162,
@@ -391,7 +391,7 @@
     "survival": 310,
     "elytra": 301,
     "exp": 176,
-    "shulker": 72,
+    "shulker": 73,
     "redstone": 75,
     "lightsources": 47,
     "gap": 49,
