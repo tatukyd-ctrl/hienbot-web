@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:20:11 17/2/2026",
+  "lastUpdated": "16:20:41 17/2/2026",
   "totalKits": 1675,
   "todayKits": 0,
   "onlineCount": 18,
   "peakPlayers": 22,
-  "tps": "17.0",
-  "ping": 237,
+  "tps": "14.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "waximo",
@@ -72,16 +72,6 @@
     }
   ],
   "chatLog": [
-    "[09:17] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[09:17] [BOT] <AppleBot> > ¡Attention! Applications now open for new members of The Apple Group",
-    "[09:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:18] [BOT] <HienBot> >Hmmmmmmmmm",
-    "[09:18] [8b8t] >> ▼ Player .Pokemon2295 Left.",
-    "[09:18] [BOT] <AppleBot> > Los rumores dicen que si usas !shulker, tu ping mejora en 50ms",
-    "[09:18] [8b8t] >> ▲ Player nfkiki Joined.",
-    "[09:18] [BOT] <AppleBot> > ¿Ya conoces nuestro Disc0rd? ¡Es genial! !invite",
-    "[09:18] TulagrandKitbot was destroyed by freddison",
-    "[09:18] <botchaosonix> lol drink poiton",
     "[09:18] [8b8t] >> ▼ Player Leeewiith3Es Left.",
     "[09:18] [8b8t] >> ▼ Player nfkiki Left.",
     "[09:18] [BOT] <HienBot> >Welcome to 8b8t, evaletz!",
@@ -101,7 +91,17 @@
     "[09:19] <evaletz> ?",
     "[09:20] <botchaosonix> go",
     "[09:20] [8b8t] >> ▼ Player TulagrandKitbot Left.",
-    "[09:20] [BOT] <HienBot> >Try !𝘀𝘁𝗮𝘀𝗵"
+    "[09:20] [BOT] <HienBot> >Try !𝘀𝘁𝗮𝘀𝗵",
+    "[09:20] [BOT] <AppleBot> > ¡Hola! Soy el bot de The Apple Group. ¡Únete a nuestro Disc0rd con !invite!",
+    "[09:20] <Volt695367> !stash",
+    "[09:20] [8b8t] >> Home 0 was not found",
+    "[09:20] [8b8t] >> Teleporting to home 2...",
+    "[09:20] To Volt695367: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:20] <nfkiki> !stash",
+    "[09:20] [8b8t] >> Home 0 was not found",
+    "[09:20] [8b8t] >> Teleporting to home 2...",
+    "[09:20] To nfkiki: Your kit (stash) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
+    "[09:20] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>"
   ],
   "userStats": {
     "Hien2309": 11,
@@ -398,10 +398,11 @@
     "DeadlyNyxian": 6,
     "Khushal_maxx77": 5,
     "vmpy7": 8,
-    "Volt695367": 1
+    "Volt695367": 2,
+    "nfkiki": 1
   },
   "kitStats": {
-    "stash": 206,
+    "stash": 208,
     "pvp": 605,
     "build": 142,
     "dupe": 135,
