@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:44:21 18/2/2026",
+  "lastUpdated": "05:49:51 18/2/2026",
   "totalKits": 1675,
   "todayKits": 0,
-  "onlineCount": 0,
-  "peakPlayers": 0,
-  "tps": "0.0",
-  "ping": 0,
+  "onlineCount": 33,
+  "peakPlayers": 33,
+  "tps": "6.0",
+  "ping": 279,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,20 @@
       "count": 351
     }
   ],
-  "chatLog": [],
+  "chatLog": [
+    "[22:49] [8b8t] >> Use the command /login <password>.",
+    "[22:49] [8b8t] >> You have successfully logged.",
+    "[22:49] [8b8t] Unknown command do /help",
+    "[22:49] ",
+    "[22:49]  [8builders8tools]",
+    "[22:49]  Perform the command /discord add to register",
+    "[22:49]  your discord. By doing so, you",
+    "[22:49]  decrease the chance of being hacked.",
+    "[22:49] ",
+    "[22:49]   [Confirm read]\n",
+    "[22:49] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[22:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+  ],
   "userStats": {
     "Hien2309": 11,
     "doyoda1292": 8,
