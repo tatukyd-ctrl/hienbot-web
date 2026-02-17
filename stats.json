@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:23:41 17/2/2026",
+  "lastUpdated": "14:24:11 17/2/2026",
   "totalKits": 1675,
   "todayKits": 0,
   "onlineCount": 14,
   "peakPlayers": 22,
-  "tps": "17.0",
-  "ping": 244,
+  "tps": "14.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "waximo",
@@ -72,14 +72,6 @@
     }
   ],
   "chatLog": [
-    "[07:21] [BOT] <HienBot> >Try !𝘀𝘁𝗮𝘀𝗵",
-    "[07:21] [BOT] <AppleBot> > Got killed at spawn? No worries, !shulker and die like a champ again",
-    "[07:22] <Andres_LM5> !shulker",
-    "[07:22] iTrisstan got the wither disease",
-    "[07:22] [8b8t] >> Home 0 was not found",
-    "[07:22] [8b8t] >> Home 6 was not found",
-    "[07:22] To Andres_LM5: Your kit (shulker) will be delivered in 30 seconds! Dont forget to join dsc.gg/hienbot",
-    "[07:22] [BOT] <HienBot> >Try !𝘀𝘁𝗮𝘀𝗵",
     "[07:22] [8b8t] >> ▼ Player iristar Left.",
     "[07:22] [BOT] <AppleBot> > ¿Alguna vez te has preguntado por qué el server va tan lento? Corre en una rueda de hámster y el hámster está cansado",
     "[07:22] [BOT] <AppleBot> > ¡Atención! Postulaciones abiertas para nuevos miembros de The Apple Group",
@@ -101,7 +93,15 @@
     "[07:23] [8b8t] >> ▼ Player iTrisstan Left.",
     "[07:23] <Andres_LM5> !ping",
     "[07:23] To Andres_LM5: Your ping is: 88 ms Dont forget to join dsc.gg/hienbot",
-    "[07:23] [BOT] <HienBot> >Hate those who destroy Hien2309's base"
+    "[07:23] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
+    "[07:23] [BOT] <AppleBot> > If you use !shulker, you'll get a full set of gear!",
+    "[07:23] <0xPwnd> !worseping",
+    "[07:23] [8b8t] >> Home 0 was not found",
+    "[07:23] [8b8t] >> Teleporting to home 2...",
+    "[07:23] To 0xPwnd: Kit \"worseping\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
+    "[07:23] [8b8t] >> ▲ Player NewGenEz Joined.",
+    "[07:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[07:24] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore"
   ],
   "userStats": {
     "Hien2309": 11,
@@ -392,7 +392,8 @@
     "CPVP_player": 472,
     ".CycloidUwU": 2,
     "Andres_LM5": 7,
-    "__Solarflare": 3
+    "__Solarflare": 3,
+    "0xPwnd": 1
   },
   "kitStats": {
     "stash": 202,
@@ -403,7 +404,7 @@
     "elytra": 346,
     "exp": 222,
     "shulker": 170,
-    "redstone": 127,
+    "redstone": 128,
     "lightsources": 101,
     "gap": 113,
     "wood": 123,
