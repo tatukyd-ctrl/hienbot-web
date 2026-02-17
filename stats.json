@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:21:11 17/2/2026",
+  "lastUpdated": "11:21:41 17/2/2026",
   "totalKits": 1675,
   "todayKits": 0,
   "onlineCount": 23,
   "peakPlayers": 26,
-  "tps": "11.0",
-  "ping": 0,
+  "tps": "16.0",
+  "ping": 277,
   "topUsers": [
     {
       "name": "rezhuhohlov",
@@ -14,7 +14,7 @@
     },
     {
       "name": "waximo",
-      "count": 678
+      "count": 679
     },
     {
       "name": ".SwellDust9988",
@@ -72,20 +72,6 @@
     }
   ],
   "chatLog": [
-    "[04:20] [8b8t] >> Home 0 was not found",
-    "[04:21] [8b8t] >> Teleporting to home 1...",
-    "[04:21] To waximo: Kit \"llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll\" not found! Giving you (survival) instead! dsc.gg/hienbot",
-    "[04:21] waximo Whispers: !LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
-    "[04:21] [8b8t] >> Home 0 was not found",
-    "[04:21] [8b8t] >> Home 4 was not found",
-    "[04:21] waximo Whispers: !LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
-    "[04:21] To waximo: Kit \"llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
-    "[04:21] You were kicked from 8b8t: Kicked for spamming",
-    "[04:21] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[04:21] [8b8t] Unknown command do /help",
-    "[04:21] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[04:21] [8b8t] >> ▲ Player HienBot Joined.",
-    "[04:21] You are already connected to this server!",
     "[04:21] waximo Whispers: !LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
     "[04:21] [8b8t] >> Home 0 was not found",
     "[04:21] [8b8t] >> Home 4 was not found",
@@ -101,7 +87,21 @@
     "[04:21] [8b8t] >> Home 0 was not found",
     "[04:21] [8b8t] >> Home 3 was not found",
     "[04:21] waximo Whispers: !LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
-    "[04:21] To waximo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot"
+    "[04:21] To waximo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:21] To waximo: Kit \"llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
+    "[04:21] To waximo: Try again dsc.gg/hienbot",
+    "[04:21] waximo Whispers: !LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
+    "[04:21] [8b8t] >> Home 0 was not found",
+    "[04:21] [8b8t] >> Home 5 was not found",
+    "[04:21] waximo Whispers: !LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL",
+    "[04:21] To waximo: Please wait a moment. Dont forget to join HienBot Group dsc.gg/hienbot",
+    "[04:21] To waximo: Kit \"llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll\" not found! Giving you (quartz) instead! dsc.gg/hienbot",
+    "[04:21] [BOT] <HienBot> >Try !𝗱𝘂𝗽𝗲",
+    "[04:21] [BOT] <AppleBot> > Leee, the owner of 8b8t, is slightly autistic",
+    "[04:21] hxpvp thought a Zombie was friendly",
+    "[04:21] gabriel25075 tried to outswim the water",
+    "[04:21] <.SloppyWalk7907> Is there a Chinese",
+    "[04:21] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 11,
@@ -384,7 +384,7 @@
     "DaRespekt": 7,
     "iristar": 11,
     ".Carlosguada": 1,
-    "waximo": 678,
+    "waximo": 679,
     "ElBuchi": 1
   },
   "kitStats": {
@@ -407,7 +407,7 @@
     "raid": 136,
     "terracotta": 46,
     "tools": 343,
-    "quartz": 52,
+    "quartz": 53,
     "wool": 68,
     "glass": 71,
     "mineral": 69,
