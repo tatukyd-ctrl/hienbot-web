@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:30:48 19/2/2026",
+  "lastUpdated": "03:31:18 19/2/2026",
   "totalKits": 100118,
   "todayKits": 44,
-  "onlineCount": 52,
+  "onlineCount": 50,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 29
   },
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 198,
   "topUsers": [
     {
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:28] [8b8t] >> ▲ Player johanpvp1029 Joined.",
-    "[20:28] [8b8t] >> ▼ Player JeSuisUnJoueur Left.",
-    "[20:28] [8b8t] >> ▲ Player AnarchyGooD Joined.",
-    "[20:28] <closepvp> !shulker",
-    "[20:28] [8b8t] >> Teleporting to home 0...",
-    "[20:28] [8b8t] >> Teleporting to home 6...",
-    "[20:28] To closepvp: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:28] [8b8t] >> ▼ Player AnarchyGooD Left.",
-    "[20:28] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[20:28] To closepvp: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:28] [8b8t] >> Request sent to closepvp",
     "[20:28] [8b8t] >> Teleporting...",
     "[20:28] HienBot has made the advancement [Minecraft: Trial(s) Edition]",
@@ -108,7 +98,17 @@
     "[20:30] To cukinmama: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[20:30] To cukinmama: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:30] [8b8t] >> Request sent to cukinmama",
-    "[20:30] <TulagrandBot> >Hello, _GusanXD"
+    "[20:30] <TulagrandBot> >Hello, _GusanXD",
+    "[20:30] [8b8t] >> ▼ Player andres16ribas Left.",
+    "[20:31] [8b8t] >> ▼ Player PorotoCosmico Left.",
+    "[20:31] [8b8t] >> You have killed yourself!",
+    "[20:31] [8b8t] >> The TPA request you sent to cukinmama was successfully canceled.",
+    "[20:31] <Enabak0LP> !skulkers",
+    "[20:31] [8b8t] >> Teleporting to home 0...",
+    "[20:31] [8b8t] >> Teleporting to home 4...",
+    "[20:31] To Enabak0LP: Kit \"skulkers\" not found! Giving you (dye) instead! dsc.gg/hienbot",
+    "[20:31] To Enabak0LP: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:31] [8b8t] >> Request sent to Enabak0LP"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -517,7 +517,8 @@
     "ValennY2K": 1,
     "Noiobeee49000": 2,
     "SINMENTE_PC": 2,
-    "cukinmama": 1
+    "cukinmama": 1,
+    "Enabak0LP": 1
   },
   "kitStats": {
     "pvp": 45,
@@ -535,7 +536,7 @@
     "stash": 5,
     "ocean": 2,
     "build": 3,
-    "dye": 2,
+    "dye": 3,
     "concrete": 3,
     "dupe": 2,
     "food": 2,
