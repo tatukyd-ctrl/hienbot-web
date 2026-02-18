@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:08:51 18/2/2026",
-  "totalKits": 100073,
-  "todayKits": 36,
-  "onlineCount": 41,
+  "lastUpdated": "23:09:10 18/2/2026",
+  "totalKits": 100074,
+  "todayKits": 37,
+  "onlineCount": 40,
   "peakPlayers": 51,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:53:50 18/2/2026",
     "avg": 23
   },
-  "tps": "11.0",
+  "tps": "7.0",
   "ping": 532,
   "topUsers": [
     {
@@ -66,31 +66,19 @@
       "count": 18
     },
     {
+      "name": "survival",
+      "count": 5
+    },
+    {
       "name": "wool",
       "count": 5
     },
     {
       "name": "stash",
       "count": 5
-    },
-    {
-      "name": "raid",
-      "count": 4
     }
   ],
   "chatLog": [
-    "[16:07] [8b8t] >> Teleporting to home 6...",
-    "[16:07] To Byrobyte: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:07] To Byrobyte: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:07] <Itzking29> !fly",
-    "[16:07] To Itzking29: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[16:07] [8b8t] >> Request sent to Byrobyte",
-    "[16:07] [8b8t] >> Teleporting...",
-    "[16:08] [8b8t] >> You have killed yourself!",
-    "[16:08] HienBot was rekt by Byrobyte and their mighty [卐 𝚛𝚘𝚐𝚎𝚛_𝚕𝚎𝚒𝚐𝚑𝚝𝚘𝚗 卐]",
-    "[16:08] [8b8t] >> ▼ Player ObiBotKenobi Left.",
-    "[16:08] [8b8t] >> ▼ Player FreddieBotcury Left.",
-    "[16:08] [BOT] <PistonCubeB0T> > Type $help to get a list of the commands I have",
     "[16:08] <Itzking29> !shulker",
     "[16:08] MonkeBot decided to sleep with the fishes",
     "[16:08] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +96,19 @@
     "[16:08] <TulagrandBot> >Hi JollyScissors",
     "[16:08] [BOT] <HienBot> >Type !link to see how to reduce the cooldown of the kit",
     "[16:08] You cannot message a player that you have ignored",
-    "[16:08] mchuaa thought they could fly... they couldn't"
+    "[16:08] mchuaa thought they could fly... they couldn't",
+    "[16:08] <Byrobyte> !survival",
+    "[16:08] [8b8t] >> Teleporting to home 0...",
+    "[16:08] [8b8t] >> Teleporting to home 1...",
+    "[16:08] To Byrobyte: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:08] [8b8t] >> ▼ Player mchuaa Left.",
+    "[16:08] Adamit0 encountered a Creeper and got blown sky-high",
+    "[16:08] To Byrobyte: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:08] [8b8t] >> Successfully ignored player Byrobyte",
+    "[16:08] [8b8t] >> Request sent to Byrobyte",
+    "[16:09] Fernanflo4567890 forgot to bring their parachute",
+    "[16:09] [8b8t] >> Teleporting...",
+    "[16:09] <TulagrandBot> >Try @list to get list of players"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -490,12 +490,12 @@
     "Jippolo": 1,
     "Fernanflo4567890": 1,
     "mistercrack11_v3": 2,
-    "Byrobyte": 1
+    "Byrobyte": 2
   },
   "kitStats": {
     "pvp": 35,
     "raid": 4,
-    "survival": 4,
+    "survival": 5,
     "shulker": 18,
     "music": 1,
     "terracotta": 3,
