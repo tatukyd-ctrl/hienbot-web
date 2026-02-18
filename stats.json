@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:23:50 18/2/2026",
-  "totalKits": 100058,
-  "todayKits": 21,
-  "onlineCount": 35,
+  "lastUpdated": "22:24:11 18/2/2026",
+  "totalKits": 100059,
+  "todayKits": 22,
+  "onlineCount": 37,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "21:16:20 18/2/2026",
     "avg": 21
   },
-  "tps": "11.0",
+  "tps": "8.0",
   "ping": 218,
   "topUsers": [
     {
@@ -74,23 +74,11 @@
       "count": 4
     },
     {
-      "name": "survival",
-      "count": 3
+      "name": "wool",
+      "count": 4
     }
   ],
   "chatLog": [
-    "[15:22] <TulagrandBot> >Whant something? Try !gear or !free!",
-    "[15:22] [8b8t] >> ▲ Player .reindyeah Joined.",
-    "[15:22] <kayragojo> !gear",
-    "[15:22] [8b8t] >> Teleporting to home 0...",
-    "[15:22] [8b8t] >> Teleporting to home 1...",
-    "[15:22] To kayragojo: Kit \"gear\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
-    "[15:22] To kayragojo: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:22] <redagamer80> AYUDA",
-    "[15:22] [8b8t] >> Request sent to kayragojo",
-    "[15:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[15:22] <TulagrandBot> >Tulagrande on top!",
-    "[15:22] [Youtuber] <elproplayerxddd> Yes",
     "[15:22] [8b8t] >> Teleporting...",
     "[15:22] [8b8t] >> ▲ Player .Abuubita Joined.",
     "[15:22] [Youtuber] <elproplayerxddd> xd",
@@ -108,7 +96,19 @@
     "[15:23] [Pro] <MintKoala997563> hi",
     "[15:23] [Youtuber] <elproplayerxddd> go?",
     "[15:23] <klcenka> yes",
-    "[15:23] [8b8t] >> ▲ Player Volt695367 Joined."
+    "[15:23] [8b8t] >> ▲ Player Volt695367 Joined.",
+    "[15:23] <kayragojo> !gear",
+    "[15:23] [8b8t] >> Teleporting to home 0...",
+    "[15:23] [8b8t] >> Teleporting to home 3...",
+    "[15:23] To kayragojo: Kit \"gear\" not found! Giving you (wool) instead! dsc.gg/hienbot",
+    "[15:23] To kayragojo: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:23] [8b8t] >> Successfully ignored player kayragojo",
+    "[15:23] [8b8t] >> ▲ Player paidpopbob Joined.",
+    "[15:23] [8b8t] >> Request sent to kayragojo",
+    "[15:24] <TulagrandBot> >Building a base? Try !gear or !free build1",
+    "[15:24] [8b8t] >> Teleporting...",
+    "[15:24] <Nnafily> a;r",
+    "[15:24] [8b8t] >> ▲ Player Filux_ Joined."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -483,7 +483,7 @@
     "kimwolf156456": 2,
     ".Pichuckrak": 2,
     "franolmedo": 1,
-    "kayragojo": 1
+    "kayragojo": 2
   },
   "kitStats": {
     "pvp": 33,
@@ -496,7 +496,7 @@
     "tools": 3,
     "armortrims": 1,
     "toolbox": 1,
-    "wool": 3,
+    "wool": 4,
     "exp": 2,
     "stash": 5,
     "ocean": 1,
