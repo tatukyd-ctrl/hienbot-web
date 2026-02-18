@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:45:48 19/2/2026",
-  "totalKits": 100107,
-  "todayKits": 33,
-  "onlineCount": 55,
+  "lastUpdated": "02:46:11 19/2/2026",
+  "totalKits": 100108,
+  "todayKits": 34,
+  "onlineCount": 53,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 28
   },
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 203,
   "topUsers": [
     {
@@ -58,11 +58,11 @@
   ],
   "topKits": [
     {
-      "name": "pvp",
-      "count": 43
+      "name": "shulker",
+      "count": 44
     },
     {
-      "name": "shulker",
+      "name": "pvp",
       "count": 43
     },
     {
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:43] <arthavonv> !pvp",
-    "[19:43] [8b8t] >> Teleporting to home 0...",
-    "[19:43] [8b8t] >> Teleporting to home 1...",
-    "[19:43] To arthavonv: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:43] To arthavonv: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:43] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[19:43] [8b8t] >> ▲ Player SINMENTE_PC Joined.",
-    "[19:43] [8b8t] >> Successfully ignored player arthavonv",
-    "[19:43] [8b8t] >> ▼ Player Filux_ Left.",
-    "[19:43] [8b8t] >> Request sent to arthavonv",
-    "[19:43] [8b8t] >> Teleporting...",
-    "[19:43] <TulagrandBot> >Building a base? Try !gear or !free build2",
-    "[19:43] [8b8t] >> You have killed yourself!",
     "[19:43] [8b8t] >> ▲ Player Filux_ Joined.",
     "[19:44] Zx51 thought they could fly... they couldn't",
     "[19:44] <TulagrandBot> >This bot has been created by Felek btw.",
@@ -108,7 +95,20 @@
     "[19:45] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[19:45] [8b8t] >> ▼ Player Kaori9281 Left.",
     "[19:45] Zx51 withered away to the 4th dimension",
-    "[19:45] [8b8t] >> ▲ Player moooomoooobot_v2 Joined."
+    "[19:45] [8b8t] >> ▲ Player moooomoooobot_v2 Joined.",
+    "[19:45] [8b8t] >> ▼ Player arthavonv Left.",
+    "[19:45] <Real4Tribe> !shulker",
+    "[19:45] [8b8t] >> Teleporting to home 0...",
+    "[19:45] [8b8t] >> Teleporting to home 6...",
+    "[19:45] To Real4Tribe: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:46] Andres_LM5 got slammed into a wall by his elytra",
+    "[19:46] <TulagrandBot> >Newbie and want to become cool quickly? Try !gear or !free pvp",
+    "[19:46] To Real4Tribe: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:46] [8b8t] >> Request sent to Real4Tribe",
+    "[19:46] [BOT] <HienBot> >Do you want kit? Type *кιт",
+    "[19:46] [8b8t] >> Teleporting...",
+    "[19:46] ValennY2K was pwned by ilegal. wielding [netherite sword]",
+    "[19:46] [8b8t] >> ▼ Player Zx51 Left."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -512,13 +512,14 @@
     "Risky_Jaat": 2,
     "Gabriel2332": 1,
     "Toomani": 1,
-    "arthavonv": 2
+    "arthavonv": 2,
+    "Real4Tribe": 1
   },
   "kitStats": {
     "pvp": 43,
     "raid": 4,
     "survival": 5,
-    "shulker": 43,
+    "shulker": 44,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
