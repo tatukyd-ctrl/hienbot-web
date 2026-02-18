@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:58:50 18/2/2026",
+  "lastUpdated": "21:59:20 18/2/2026",
   "totalKits": 100051,
   "todayKits": 14,
   "onlineCount": 35,
@@ -12,8 +12,8 @@
     "maxTime": "21:16:20 18/2/2026",
     "avg": 20
   },
-  "tps": "12.0",
-  "ping": 205,
+  "tps": "8.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 30
+      "count": 31
     },
     {
       "name": "shulker",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:56] <1234567891011> me",
-    "[14:56] <1234567891011> helo",
-    "[14:56] <DaddyShawn980> tpa 1234567891011",
-    "[14:56] [8b8t] >> ▲ Player Volt695367 Joined.",
-    "[14:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:57] [8b8t] >> ▲ Player Manuchi00 Joined.",
-    "[14:57] [8b8t] >> ▼ Player DaddyShawn980 Left.",
-    "[14:57] <espinos> !elytras",
-    "[14:57] [8b8t] >> Teleporting to home 0...",
-    "[14:57] [8b8t] >> Teleporting to home 7...",
-    "[14:57] To espinos: Kit \"elytras\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
-    "[14:57] To espinos: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:57] [8b8t] >> Request sent to espinos",
-    "[14:57] [Youtuber] <elproplayerxddd> wait",
-    "[14:57] <espinos> !survive",
-    "[14:57] To espinos: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[14:57] [8b8t] >> ▲ Player DaddyShawn980 Joined.",
-    "[14:58] Manuchi00 challenged the Wither and lost their head",
-    "[14:58] [Youtuber] <elproplayerxddd> wait",
     "[14:58] [8b8t] >> You have killed yourself!",
     "[14:58] HienBot forgot to stop, drop, and roll",
     "[14:58] [8b8t] >> The TPA request you sent to espinos was successfully canceled.",
@@ -108,7 +89,26 @@
     "[14:58] [8b8t] >> ▲ Player moooomoooobot_v2 Joined.",
     "[14:58] paidpopbob was pwned by botchaosonix wielding [netherite sword]",
     "[14:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:58] <espinos> !survive"
+    "[14:58] <espinos> !survive",
+    "[14:58] To espinos: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:58] 1234567891011 forgot to bring their parachute",
+    "[14:58] klcenka was destroyed by elproplayerxddd",
+    "[14:58] <moooomoooobot_v2> [idk_42324] hohohoh",
+    "[14:58] [8b8t] >> ▲ Player kimwolf156456 Joined.",
+    "[14:58] [Youtuber] <elproplayerxddd> ggs",
+    "[14:58] <espinos> !pvp",
+    "[14:58] To espinos: You're on cooldown, try again in 11 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:59] <klcenka> gg",
+    "[14:59] [8b8t] >> ▼ Player Volt695367 Left.",
+    "[14:59] <espinos> !pvp",
+    "[14:59] moooomoooobot_v2 thought they could make it to oxygen in time",
+    "[14:59] [8b8t] >> Teleporting to home 0...",
+    "[14:59] [8b8t] >> Teleporting to home 1...",
+    "[14:59] To espinos: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:59] To espinos: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:59] [8b8t] >> Successfully ignored player espinos",
+    "[14:59] [8b8t] >> Request sent to espinos",
+    "[14:59] <klcenka> i have bad config"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -479,10 +479,10 @@
     ".CycloidQwQ": 2,
     "focoloa": 1,
     "Wenstt": 2,
-    "espinos": 1
+    "espinos": 2
   },
   "kitStats": {
-    "pvp": 30,
+    "pvp": 31,
     "raid": 4,
     "survival": 3,
     "shulker": 8,
