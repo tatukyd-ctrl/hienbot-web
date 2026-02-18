@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:20:48 19/2/2026",
-  "totalKits": 100115,
-  "todayKits": 41,
-  "onlineCount": 55,
+  "lastUpdated": "03:21:07 19/2/2026",
+  "totalKits": 100116,
+  "todayKits": 42,
+  "onlineCount": 56,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 29
   },
-  "tps": "6.0",
-  "ping": 208,
+  "tps": "7.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -58,11 +58,11 @@
   ],
   "topKits": [
     {
-      "name": "pvp",
-      "count": 45
+      "name": "shulker",
+      "count": 46
     },
     {
-      "name": "shulker",
+      "name": "pvp",
       "count": 45
     },
     {
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:16] Nouhki decided to test gravity and lost",
-    "[20:17] <TulagrandBot> > Building a base? A free !shulker can help.",
-    "[20:17] [8b8t] >> ▲ Player SINMENTE_PC Joined.",
-    "[20:17] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[20:17] SINMENTE_PC got his head blown off by the Wither",
-    "[20:17] Gabriel2332 got pieced by an End Crystal",
-    "[20:18] Noiobeee49000 has made the advancement [Acquire Hardware]",
-    "[20:18] [8b8t] >> ▲ Player sxbxnn7 Joined.",
-    "[20:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[20:18] SINMENTE_PC was rudely introduced to a Creeper's explosive personality",
     "[20:18] Mr_terrox310 forgot to bring their parachute",
     "[20:18] <TulagrandBot> >How are you ilegal.?",
@@ -108,7 +99,16 @@
     "[20:20] <TulagrandBot> > Need PvP gear? The !gear command has you covered.",
     "[20:20] SINMENTE_PC decided to test gravity and lost",
     "[20:20] [8b8t] >> ▲ Player basti1015 Joined.",
-    "[20:20] <TulagrandBot> >How are you _aksn?"
+    "[20:20] <TulagrandBot> >How are you _aksn?",
+    "[20:20] <SINMENTE_PC> !shulker",
+    "[20:20] [8b8t] >> Teleporting to home 0...",
+    "[20:20] [8b8t] >> Teleporting to home 6...",
+    "[20:20] [8b8t] >> ▲ Player cukinmama Joined.",
+    "[20:20] To SINMENTE_PC: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:20] To SINMENTE_PC: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:20] [8b8t] >> Request sent to SINMENTE_PC",
+    "[20:21] basti1015 forgot to stop, drop, and roll",
+    "[20:21] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -515,13 +515,14 @@
     "arthavonv": 2,
     "Real4Tribe": 2,
     "ValennY2K": 1,
-    "Noiobeee49000": 2
+    "Noiobeee49000": 2,
+    "SINMENTE_PC": 1
   },
   "kitStats": {
     "pvp": 45,
     "raid": 4,
     "survival": 6,
-    "shulker": 45,
+    "shulker": 46,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
