@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:14:04 18/2/2026",
+  "lastUpdated": "18:14:34 18/2/2026",
   "totalKits": 100034,
   "todayKits": 15,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 25,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "9.0",
-  "ping": 198,
+  "tps": "8.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "waximo",
@@ -66,11 +66,11 @@
       "count": 8
     },
     {
-      "name": "raid",
-      "count": 3
+      "name": "stash",
+      "count": 4
     },
     {
-      "name": "stash",
+      "name": "raid",
       "count": 3
     },
     {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:09] [BOT] <HienBot> >Hmmmmmmmmm",
-    "[11:09] <Nnafily> ok",
-    "[11:09] TulagrandKitbot was rudely introduced to a Creeper's explosive personality",
-    "[11:10] <Nnafily> can i have flint and steal",
-    "[11:10] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[11:10] TulagrandKitbot was destroyed by freddison",
-    "[11:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[11:10] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[11:11] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
     "[11:11] MonkeBot forgot to eat",
     "[11:11] [BOT] <HienBot> >Try !𝗱𝘂𝗽𝗲",
@@ -108,7 +100,15 @@
     "[11:13] <Volt695367> !pvp",
     "[11:13] To Volt695367: You're on cooldown, try again in 22 seconds! Don't forget to join dsc.gg/hienbot",
     "[11:13] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[11:13] [BOT] <HienBot> >Use !𝗽𝘃𝗽 to get kits"
+    "[11:13] [BOT] <HienBot> >Use !𝗽𝘃𝗽 to get kits",
+    "[11:14] [BOT] <HienBot> >Try !𝘀𝘁𝗮𝘀𝗵",
+    "[11:14] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[11:14] <mayank8610> !stash",
+    "[11:14] [8b8t] >> Teleporting to home 0...",
+    "[11:14] [8b8t] >> Teleporting to home 2...",
+    "[11:14] To mayank8610: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:14] To mayank8610: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:14] [8b8t] >> Request sent to mayank8610"
   ],
   "userStats": {
     "Hien2309": 20,
@@ -472,7 +472,8 @@
     "VinhMC_YTB": 1,
     "Itzking29": 2,
     "BigBear.": 2,
-    ".LEON50758": 2
+    ".LEON50758": 2,
+    "mayank8610": 1
   },
   "kitStats": {
     "pvp": 20,
@@ -487,7 +488,7 @@
     "toolbox": 1,
     "wool": 2,
     "exp": 1,
-    "stash": 3,
+    "stash": 4,
     "ocean": 1,
     "build": 1,
     "dye": 1,
