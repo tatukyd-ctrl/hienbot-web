@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:14:22 18/2/2026",
-  "totalKits": 1689,
-  "todayKits": 13,
-  "onlineCount": 30,
+  "lastUpdated": "08:14:49 18/2/2026",
+  "totalKits": 1690,
+  "todayKits": 14,
+  "onlineCount": 26,
   "peakPlayers": 39,
-  "tps": "6.0",
-  "ping": 0,
+  "tps": "12.0",
+  "ping": 254,
   "topUsers": [
     {
       "name": "waximo",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:12] [8b8t] >> Teleporting...",
-    "[01:12] [8b8t] >> You have killed yourself!",
-    "[01:12] MrCaret has made the advancement [Who is Cutting Onions?]",
-    "[01:12] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits",
-    "[01:12] <ElDan> :O",
-    "[01:12] [8b8t] >> Teleporting to home 0...",
-    "[01:13] [8b8t] >> Teleporting to home 3...",
-    "[01:13] To ElDan: Kit \"o\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
-    "[01:13] To ElDan: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:13] [8b8t] >> Successfully ignored player ElDan",
-    "[01:13] [8b8t] >> Request sent to ElDan",
-    "[01:13] <Elmonito1234> !shulker",
     "[01:13] To Elmonito1234: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[01:13] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵",
     "[01:13] <uziel2124> !stash",
@@ -101,7 +89,19 @@
     "[01:14] ",
     "[01:14]   [Confirm read]\n",
     "[01:14] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[01:14] To Andres_LM5: Try again dsc.gg/hienbot"
+    "[01:14] To Andres_LM5: Try again dsc.gg/hienbot",
+    "[01:14] <Elmonito1234> !shulker",
+    "[01:14] [8b8t] >> You have killed yourself!",
+    "[01:14] To Elmonito1234: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:14] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[01:14] [8b8t] >> Teleporting to home 0...",
+    "[01:14] [8b8t] >> Teleporting to home 6...",
+    "[01:14] To Elmonito1234: Sorry! White Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
+    "[01:14] To Elmonito1234: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:14] [8b8t] >> Successfully ignored player Elmonito1234",
+    "[01:14] [8b8t] >> Request sent to Elmonito1234",
+    "[01:14] MrCaret has reached the goal [Postmortal]",
+    "[01:14] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 11,
@@ -450,7 +450,7 @@
     "OakThrone137334": 2,
     "Malek_Abunnadi": 2,
     "superbrawl2010": 1,
-    "Elmonito1234": 1
+    "Elmonito1234": 2
   },
   "kitStats": {
     "stash": 225,
@@ -460,7 +460,7 @@
     "survival": 380,
     "elytra": 351,
     "exp": 224,
-    "shulker": 243,
+    "shulker": 244,
     "redstone": 128,
     "lightsources": 102,
     "gap": 113,
