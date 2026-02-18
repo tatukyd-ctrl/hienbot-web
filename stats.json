@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:05:34 18/2/2026",
-  "totalKits": 100025,
-  "todayKits": 6,
+  "lastUpdated": "17:05:58 18/2/2026",
+  "totalKits": 100026,
+  "todayKits": 7,
   "onlineCount": 18,
   "peakPlayers": 25,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "14.0",
-  "ping": 366,
+  "tps": "15.0",
+  "ping": 412,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:04] <BigBear.> !fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk ECMKnb",
-    "[10:04] [8b8t] >> ▲ Player AetherionV26 Joined.",
-    "[10:04] <BigBear.> !fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk qHIoJU",
-    "[10:04] [8b8t] >> You have killed yourself!",
-    "[10:04] <BigBear.> !fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk FthusO",
-    "[10:04] <botchaosonix> oh bigbear",
-    "[10:04] <botchaosonix> shit so",
-    "[10:04] <freddison> accept fr on dc",
-    "[10:04] <Itzking29> !build",
-    "[10:04] To Itzking29: You're on cooldown, try again in 32 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:04] <BigBear.> !fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk l",
     "[10:04] [BOT] <HienBot> >What's up, abhinavop_5923?",
     "[10:04] <VinhMC_YTB> Trời đất ơi",
@@ -108,7 +98,17 @@
     "[10:05] [BOT] <HienBot> t ms ral",
     "[10:05] [8b8t] >> ▼ Player Volt695367 Left.",
     "[10:05] freddison pulverized TulagrandKitbot using [diamond axe]",
-    "[10:05] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command"
+    "[10:05] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[10:05] [8b8t] >> ▲ Player Itzking29 Joined.",
+    "[10:05] <Itzking29> !build",
+    "[10:05] [8b8t] >> Teleporting to home 0...",
+    "[10:05] [8b8t] >> Teleporting to home 2...",
+    "[10:05] To Itzking29: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:05] To Itzking29: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:05] [8b8t] >> Successfully ignored player Itzking29",
+    "[10:05] [8b8t] >> Request sent to Itzking29",
+    "[10:05] [8b8t] >> Teleporting...",
+    "[10:05] [8b8t] >> ▼ Player Natethandrake Left."
   ],
   "userStats": {
     "Hien2309": 17,
@@ -470,7 +470,7 @@
     "HienBot": 1,
     "iamsuckkkk": 2,
     "VinhMC_YTB": 1,
-    "Itzking29": 1
+    "Itzking29": 2
   },
   "kitStats": {
     "pvp": 14,
@@ -486,6 +486,7 @@
     "wool": 1,
     "exp": 1,
     "stash": 2,
-    "ocean": 1
+    "ocean": 1,
+    "build": 1
   }
 }
