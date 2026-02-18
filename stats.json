@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:59:26 18/2/2026",
+  "lastUpdated": "21:59:50 18/2/2026",
   "totalKits": 100052,
   "todayKits": 15,
-  "onlineCount": 35,
+  "onlineCount": 34,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "21:16:20 18/2/2026",
     "avg": 20
   },
-  "tps": "6.0",
-  "ping": 210,
+  "tps": "10.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 31
+      "count": 32
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:58] <espinos> !survive",
-    "[14:58] To espinos: You're on cooldown, try again in 58 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:58] [Youtuber] <elproplayerxddd> go play obsidian phase pvp",
-    "[14:58] <DaddyShawn980> anyone team pls",
-    "[14:58] [8b8t] >> ▲ Player moooomoooobot_v2 Joined.",
-    "[14:58] paidpopbob was pwned by botchaosonix wielding [netherite sword]",
-    "[14:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:58] <espinos> !survive",
-    "[14:58] To espinos: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:58] 1234567891011 forgot to bring their parachute",
     "[14:58] klcenka was destroyed by elproplayerxddd",
     "[14:58] <moooomoooobot_v2> [idk_42324] hohohoh",
     "[14:58] [8b8t] >> ▲ Player kimwolf156456 Joined.",
@@ -108,7 +98,17 @@
     "[14:59] <klcenka> i have bad config",
     "[14:59] [8b8t] >> Teleporting...",
     "[14:59] [Youtuber] <elproplayerxddd> na",
-    "[14:59] Manuchi00 decided to test gravity and lost"
+    "[14:59] Manuchi00 decided to test gravity and lost",
+    "[14:59] [Youtuber] <elproplayerxddd> snow is shit",
+    "[14:59] [8b8t] >> You have killed yourself!",
+    "[14:59] HienBot has been killed by espinos",
+    "[14:59] klcenka forgot to bring their parachute",
+    "[14:59] [8b8t] >> ▼ Player Manuchi00 Left.",
+    "[14:59] <kimwolf156456> !pvp",
+    "[14:59] moooomoooobot_v2 challenged the Wither and lost their head",
+    "[14:59] [8b8t] >> Teleporting to home 0...",
+    "[14:59] [8b8t] >> Teleporting to home 1...",
+    "[14:59] To kimwolf156456: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -479,10 +479,11 @@
     ".CycloidQwQ": 2,
     "focoloa": 1,
     "Wenstt": 2,
-    "espinos": 2
+    "espinos": 2,
+    "kimwolf156456": 1
   },
   "kitStats": {
-    "pvp": 31,
+    "pvp": 32,
     "raid": 4,
     "survival": 3,
     "shulker": 8,
