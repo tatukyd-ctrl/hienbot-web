@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:43:18 19/2/2026",
+  "lastUpdated": "04:43:48 19/2/2026",
   "totalKits": 100122,
   "todayKits": 48,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 30
   },
-  "tps": "5.0",
+  "tps": "8.0",
   "ping": 201,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 52
+      "count": 53
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:40] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[21:40] <TulagrandBot> >How are you Botmau5?",
-    "[21:40] cukinmama decided to test gravity and lost",
-    "[21:41] [BOT] <PistonCubeB0T> > this is server a peaceful christian be sure to read the rules using $rules",
-    "[21:41] <.ThunderDrgn2845> live",
-    "[21:41] [8b8t] >> ▼ Player cukinmama Left.",
-    "[21:41] <TulagrandBot> >Hola ObiBotKenobi",
-    "[21:41] [8b8t] >> ▲ Player swight Joined.",
     "[21:41] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
     "[21:41] InsaneBoi69 has completed the challenge [Cover Me in Debris]",
     "[21:41] InsaneBoi69 has reached the goal [Sky's the Limit]",
@@ -108,7 +100,15 @@
     "[21:42] [8b8t] >> ▲ Player faceless_games Joined.",
     "[21:42] <.ThunderDrgn2845> use elytra :D",
     "[21:43] <TulagrandBot> > TULAGRANDE 1.6!",
-    "[21:43] [8b8t] >> ▼ Player faceless_games Left."
+    "[21:43] [8b8t] >> ▼ Player faceless_games Left.",
+    "[21:43] <MrPolnito> !shulker",
+    "[21:43] [8b8t] >> Teleporting to home 0...",
+    "[21:43] [8b8t] >> Teleporting to home 6...",
+    "[21:43] To MrPolnito: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:43] [8b8t] >> ▲ Player Jx__0 Joined.",
+    "[21:43] To MrPolnito: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:43] [8b8t] >> Request sent to MrPolnito",
+    "[21:43] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -522,13 +522,14 @@
     "Burnak_": 1,
     "Ray13": 1,
     "InsaneBoi69": 1,
-    ".ThunderDrgn2845": 1
+    ".ThunderDrgn2845": 1,
+    "MrPolnito": 1
   },
   "kitStats": {
     "pvp": 45,
     "raid": 4,
     "survival": 7,
-    "shulker": 52,
+    "shulker": 53,
     "music": 1,
     "terracotta": 4,
     "lightsources": 1,
