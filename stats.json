@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:08:48 19/2/2026",
+  "lastUpdated": "06:09:18 19/2/2026",
   "totalKits": 100128,
   "todayKits": 54,
   "onlineCount": 34,
@@ -12,7 +12,7 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 31
   },
-  "tps": "9.0",
+  "tps": "10.0",
   "ping": 196,
   "topUsers": [
     {
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:06] [BOT] <PistonCubeB0T> > New command added $time, $report [report], $addquote, $quote",
-    "[23:06] <TulagrandBot> >How are you Lewis20244968?",
-    "[23:06] [8b8t] >> ▼ Player Gabriel2332 Left.",
-    "[23:06] [8b8t] >> ▼ Player _GusanXD Left.",
-    "[23:07] <SINMENTE_PC> las carreteras son un buen lugar para escapar del spawn?",
-    "[23:07] [8b8t] >> ▼ Player H_INMORTAL_M Left.",
-    "[23:07] turrom777 decided to test gravity and lost",
-    "[23:07] [8b8t] >> ▲ Player Elmonito1234 Joined.",
-    "[23:07] [8b8t] >> ▲ Player H_INMORTAL_M Joined.",
     "[23:07] <TulagrandBot> >Try /nc to change your nick color",
     "[23:07] <meteorontop> a",
     "[23:07] [8b8t] >> ▼ Player .ThunderDrgn2845 Left.",
@@ -108,7 +99,16 @@
     "[23:08] [8b8t] >> You have killed yourself!",
     "[23:08] <TulagrandBot> > What's the best command? I think it's !gift.",
     "[23:08] [BOT] <HienBot> >Type !𝗽𝘃𝗽  to get free kits",
-    "[23:08] turrom777 forgot to bring their parachute"
+    "[23:08] turrom777 forgot to bring their parachute",
+    "[23:08] DontSansansan6 forgot to bring their parachute",
+    "[23:09] <TulagrandBot> >Try @seed to get 8b8t's seed",
+    "[23:09] <VolcanikYT> @seed",
+    "[23:09] [8b8t] >> Teleporting to home 0...",
+    "[23:09] [8b8t] >> Teleporting to home 2...",
+    "[23:09] To VolcanikYT: Kit \"seed\" not found! Giving you (raid) instead! dsc.gg/hienbot",
+    "[23:09] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[23:09] To VolcanikYT: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:09] [8b8t] >> Request sent to VolcanikYT"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -528,11 +528,12 @@
     "lMarioo1": 2,
     "vigilante_54": 2,
     "xsoylimon": 1,
-    "scuardd": 2
+    "scuardd": 2,
+    "VolcanikYT": 1
   },
   "kitStats": {
     "pvp": 47,
-    "raid": 4,
+    "raid": 5,
     "survival": 7,
     "shulker": 61,
     "music": 1,
