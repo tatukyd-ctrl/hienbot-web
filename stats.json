@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:36:31 18/2/2026",
+  "lastUpdated": "13:37:01 18/2/2026",
   "totalKits": 100001,
   "todayKits": 0,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 27,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 21
   },
-  "tps": "13.0",
+  "tps": "16.0",
   "ping": 196,
   "topUsers": [
     {
@@ -72,21 +72,13 @@
     {
       "name": "shulker",
       "count": 1
+    },
+    {
+      "name": "music",
+      "count": 1
     }
   ],
   "chatLog": [
-    "[06:30] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[06:30] ",
-    "[06:30] [8b8t] >> Restarting in 30m!",
-    "[06:30] ",
-    "[06:30] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
-    "[06:30] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[06:30] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[06:31] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[06:31] [BOT] <HienBot> >Use !𝗽𝘃𝗽 to get kits",
-    "[06:32] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[06:32] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[06:32] [8b8t] >> ▼ Player erikaaa_2008 Left.",
     "[06:32] [BOT] <HienBot> >Welcome to 8b8t, inksw_ak!",
     "[06:32] [8b8t] >> ▼ Player Leee Left.",
     "[06:32] [8b8t] >> ▲ Player BigBear Joined.",
@@ -104,7 +96,19 @@
     "[06:35] [8b8t] >> ▲ Player TristanAbyss Joined.",
     "[06:35] [8b8t] >> ▼ Player TristanAbyss Left.",
     "[06:36] [BOT] <HienBot> >Hey idkuser12!",
-    "[06:36] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore"
+    "[06:36] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[06:36] [8b8t] >> ▲ Player TristanAbyss Joined.",
+    "[06:36] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[06:36] [Pro+] <bugbar> !music",
+    "[06:36] [8b8t] >> Teleporting to home 0...",
+    "[06:36] [8b8t] >> Teleporting to home 1...",
+    "[06:36] To BigBear: Your kit (music) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:36] To BigBear: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:36] [8b8t] >> Request sent to BigBear",
+    "[06:36] [8b8t] >> Teleporting...",
+    "[06:36] [8b8t] >> ▼ Player Sik0s Left.",
+    "[06:36] <inksw_ak> sik0s?",
+    "[06:37] [BOT] <HienBot> >Do you want kit? Type *кιт"
   ],
   "userStats": {
     "Hien2309": 17,
@@ -457,12 +461,14 @@
     "idkuser12": 2,
     "Barrerics_2011": 2,
     "idkkkkkkkkkk": 1,
-    "TristanAbyss": 1
+    "TristanAbyss": 1,
+    "BigBear": 1
   },
   "kitStats": {
     "pvp": 5,
     "raid": 2,
     "survival": 1,
-    "shulker": 1
+    "shulker": 1,
+    "music": 1
   }
 }
