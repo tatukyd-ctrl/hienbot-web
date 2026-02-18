@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:33:04 18/2/2026",
-  "totalKits": 100019,
-  "todayKits": 0,
-  "onlineCount": 19,
+  "lastUpdated": "16:33:29 18/2/2026",
+  "totalKits": 100020,
+  "todayKits": 1,
+  "onlineCount": 18,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "14.0",
-  "ping": 214,
+  "tps": "12.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 11
+      "count": 12
     },
     {
       "name": "shulker",
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:31] [8b8t] >> Use the command /login <password>.",
-    "[09:31] [8b8t] >> You have successfully logged.",
-    "[09:31] [8b8t] Unknown command do /help",
     "[09:31] ",
     "[09:31]  [8builders8tools]",
     "[09:31]  Perform the command /discord add to register",
@@ -100,7 +97,18 @@
     "[09:32] .morokosan5660 forgot to bring their parachute",
     "[09:32] [8b8t] >> ▲ Player TheTanvirPagor9 Joined.",
     "[09:32] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[09:33] .morokosan5660 forgot to bring their parachute"
+    "[09:33] .morokosan5660 forgot to bring their parachute",
+    "[09:33] [8b8t] >> ▼ Player .reindyeah Left.",
+    "[09:33] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
+    "[09:33] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[09:33] <iamsuckkkk> !pvp",
+    "[09:33] [8b8t] >> Teleporting to home 0...",
+    "[09:33] [8b8t] >> Teleporting to home 1...",
+    "[09:33] To iamsuckkkk: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:33] To iamsuckkkk: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:33] [8b8t] >> Request sent to iamsuckkkk",
+    "[09:33] [8b8t] >> Teleporting...",
+    "[09:33] [BOT] <PistonCubeB0T> > Type $dox [Username] to get the \"ip\" of a player"
   ],
   "userStats": {
     "Hien2309": 17,
@@ -460,10 +468,10 @@
     "evaletz": 1,
     "datkaaaa": 1,
     "HienBot": 1,
-    "iamsuckkkk": 1
+    "iamsuckkkk": 2
   },
   "kitStats": {
-    "pvp": 11,
+    "pvp": 12,
     "raid": 2,
     "survival": 1,
     "shulker": 7,
