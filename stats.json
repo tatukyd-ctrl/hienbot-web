@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:23:14 18/2/2026",
+  "lastUpdated": "16:23:44 18/2/2026",
   "totalKits": 100018,
   "todayKits": 2,
   "onlineCount": 17,
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "17.0",
-  "ping": 223,
+  "tps": "15.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:20] [8b8t] >> The TPA request you sent to datkaaaa was successfully canceled.",
-    "[09:20] [8b8t] >> ▼ Player TulagrandKitbot Left.",
-    "[09:20] mastro_html forgot to bring their parachute",
-    "[09:20] [BOT] <HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ",
-    "[09:20] [8b8t] >> ▲ Player TulagrandKitbot Joined.",
-    "[09:21] BlueGlaze decided to test gravity and lost",
-    "[09:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:21] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[09:21] <datkaaaa> nigger",
-    "[09:21] Sylo99 decided to test gravity and lost",
-    "[09:21] <datkaaaa> nigger hah",
-    "[09:21] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
     "[09:21] BlueGlaze thought they could fly... they couldn't",
     "[09:21] <datkaaaa> i hate niggas",
     "[09:22] <datkaaaa> nigggaa",
@@ -108,7 +96,19 @@
     "[09:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:22] BlueGlaze decided to test gravity and lost",
     "[09:22] [BOT] <HienBot> e",
-    "[09:23] [8b8t] >> ▼ Player iTrisstan Left."
+    "[09:23] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[09:23] ShangMC got the wither disease",
+    "[09:23] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[09:23] [8b8t] >> ▼ Player mastro_html Left.",
+    "[09:23] [BOT] <HienBot> >Want to see the server's tps? Chat !ᴛᴘs",
+    "[09:23] [8b8t] >> ▼ Player TulagrandKitbot Left.",
+    "[09:23] [BOT] <PistonCubeB0T> > New command added $time, $report [report], $addquote, $quote",
+    "[09:23] [8b8t] >> ▲ Player TulagrandKitbot Joined.",
+    "[09:23] [BOT] <HienBot> $quote",
+    "[09:23] [8b8t] >> Teleporting to home 0...",
+    "[09:23] [8b8t] >> Teleporting to home 6...",
+    "[09:23] To HienBot: Kit \"quote\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
+    "[09:23] HienBot Whispers: Kit \"quote\" not found! Giving you (ocean) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 17,
@@ -466,7 +466,8 @@
     "SINCONOCIMIENTO": 2,
     "gabriel_player": 1,
     "evaletz": 1,
-    "datkaaaa": 1
+    "datkaaaa": 1,
+    "HienBot": 1
   },
   "kitStats": {
     "pvp": 10,
@@ -481,6 +482,7 @@
     "toolbox": 1,
     "wool": 1,
     "exp": 1,
-    "stash": 1
+    "stash": 1,
+    "ocean": 1
   }
 }
