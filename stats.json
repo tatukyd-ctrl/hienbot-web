@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:57:20 18/2/2026",
+  "lastUpdated": "21:57:50 18/2/2026",
   "totalKits": 100051,
   "todayKits": 14,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "21:16:20 18/2/2026",
     "avg": 20
   },
-  "tps": "11.0",
+  "tps": "12.0",
   "ping": 203,
   "topUsers": [
     {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:54] [8b8t] >> ▲ Player DaddyShawn980 Joined.",
-    "[14:55] <klcenka> tpa for pvp",
-    "[14:55] <DaddyShawn980> anyone wanna team guys ?",
-    "[14:55] <Wenstt> !nc",
-    "[14:55] [8b8t] >> Teleporting to home 0...",
-    "[14:55] [8b8t] >> Teleporting to home 4...",
-    "[14:55] To Wenstt: Kit \"nc\" not found! Giving you (glass) instead! dsc.gg/hienbot",
-    "[14:55] To Wenstt: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:55] <1234567891011> me",
     "[14:55] [8b8t] >> Successfully ignored player Wenstt",
     "[14:55] [8b8t] >> Request sent to Wenstt",
@@ -108,7 +100,15 @@
     "[14:56] <DaddyShawn980> tpa 1234567891011",
     "[14:56] [8b8t] >> ▲ Player Volt695367 Joined.",
     "[14:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:57] [8b8t] >> ▲ Player Manuchi00 Joined."
+    "[14:57] [8b8t] >> ▲ Player Manuchi00 Joined.",
+    "[14:57] [8b8t] >> ▼ Player DaddyShawn980 Left.",
+    "[14:57] <espinos> !elytras",
+    "[14:57] [8b8t] >> Teleporting to home 0...",
+    "[14:57] [8b8t] >> Teleporting to home 7...",
+    "[14:57] To espinos: Kit \"elytras\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
+    "[14:57] To espinos: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:57] [8b8t] >> Request sent to espinos",
+    "[14:57] [Youtuber] <elproplayerxddd> wait"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -478,7 +478,8 @@
     "_aksn": 1,
     ".CycloidQwQ": 2,
     "focoloa": 1,
-    "Wenstt": 2
+    "Wenstt": 2,
+    "espinos": 1
   },
   "kitStats": {
     "pvp": 30,
@@ -498,7 +499,7 @@
     "build": 1,
     "dye": 1,
     "concrete": 2,
-    "dupe": 1,
+    "dupe": 2,
     "food": 1,
     "glass": 1
   }
