@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:54:50 18/2/2026",
-  "totalKits": 100040,
-  "todayKits": 3,
+  "lastUpdated": "19:55:20 18/2/2026",
+  "totalKits": 100041,
+  "todayKits": 4,
   "onlineCount": 29,
   "peakPlayers": 30,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "7.0",
-  "ping": 197,
+  "tps": "11.0",
+  "ping": 226,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 26
+      "count": 27
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:51] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:51] [Mini] <hein> !pvp",
-    "[12:51] [8b8t] >> Teleporting to home 0...",
-    "[12:51] [8b8t] >> Teleporting to home 1...",
-    "[12:51] To Hien2309: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:51] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[12:51] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:51] [BOT] <HienBot> >Type !link to see how to reduce the cooldown of the kit",
-    "[12:51] You cannot message a player that you have ignored",
-    "[12:51] [8b8t] >> Request sent to Hien2309",
-    "[12:51] [8b8t] >> Teleporting...",
-    "[12:51] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
     "[12:51] [8b8t] >> You have killed yourself!",
     "[12:51] [8b8t] >> ▼ Player hein Left.",
     "[12:52] [8b8t] >> ▲ Player Hien2309 Joined.",
@@ -108,10 +96,22 @@
     "[12:53] [8b8t] >> ▼ Player hein Left.",
     "[12:53] [8b8t] >> ▲ Player MrNullYT Joined.",
     "[12:54] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:54] [8b8t] >> ▲ Player Hien2309 Joined."
+    "[12:54] [8b8t] >> ▲ Player Hien2309 Joined.",
+    "[12:54] [BOT] <HienBot> >Type !link to see how to reduce the cooldown of the kit",
+    "[12:54] You cannot message a player that you have ignored",
+    "[12:54] [XMAS2025] <Tobias> !voyager teleport 256",
+    "[12:55] [8b8t] >> ▲ Player Volt695367 Joined.",
+    "[12:55] [Mini] <hein> !pvp",
+    "[12:55] [8b8t] >> Teleporting to home 0...",
+    "[12:55] [8b8t] >> Teleporting to home 1...",
+    "[12:55] To Hien2309: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:55] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:55] [8b8t] >> Request sent to Hien2309",
+    "[12:55] [8b8t] >> ▼ Player Volt695367 Left.",
+    "[12:55] [8b8t] >> Teleporting..."
   ],
   "userStats": {
-    "Hien2309": 26,
+    "Hien2309": 27,
     "doyoda1292": 8,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
@@ -477,7 +477,7 @@
     "xq9x": 1
   },
   "kitStats": {
-    "pvp": 26,
+    "pvp": 27,
     "raid": 3,
     "survival": 3,
     "shulker": 8,
