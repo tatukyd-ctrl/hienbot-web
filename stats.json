@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:00:18 19/2/2026",
-  "totalKits": 100102,
-  "todayKits": 28,
-  "onlineCount": 40,
+  "lastUpdated": "02:00:47 19/2/2026",
+  "totalKits": 100103,
+  "todayKits": 29,
+  "onlineCount": 41,
   "peakPlayers": 49,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:53:50 18/2/2026",
     "avg": 26
   },
-  "tps": "5.0",
+  "tps": "8.0",
   "ping": 296,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 40
+      "count": 41
     },
     {
       "name": "wool",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:58] [8b8t] >> ▲ Player .GoodImperial Joined.",
-    "[18:58] [8b8t] >> ▲ Player Risky_Jaat Joined.",
-    "[18:58] [8b8t] >> ▲ Player MrNullYT Joined.",
-    "[18:58] <ilegal.> raid tulagrande",
-    "[18:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[18:58] <ilegal.> proximamente",
-    "[18:58] <.GoodImperial> q",
-    "[18:58] [BOT] <HienBot> >Type !discord",
-    "[18:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:59] salvagamer2 has made the advancement [We Need to Go Deeper]",
-    "[18:59] [8b8t] >> ▼ Player MrNullYT Left.",
     "[18:59] <.GoodImperial> A ostia si",
     "[18:59] DeathZuka has completed the challenge [Adventuring Time]",
     "[18:59] [8b8t] >> ▼ Player ElDan Left.",
@@ -108,7 +97,18 @@
     "[19:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[19:00] <DeathZuka> calzon cagao?",
     "[19:00] salvagamer2 thought they could fly... they couldn't",
-    "[19:00] [8b8t] >> ▲ Player AetherionV26 Joined."
+    "[19:00] [8b8t] >> ▲ Player AetherionV26 Joined.",
+    "[19:00] <Risky_Jaat> !pvp",
+    "[19:00] [8b8t] >> Teleporting to home 0...",
+    "[19:00] [8b8t] >> Teleporting to home 1...",
+    "[19:00] To Risky_Jaat: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:00] <.GoodImperial> na la rompí pq la mitad ni jugaban i me aburri",
+    "[19:00] To Risky_Jaat: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:00] [8b8t] >> Request sent to Risky_Jaat",
+    "[19:00] [8b8t] >> ▲ Player i_am_tobias Joined.",
+    "[19:00] [8b8t] >> ▼ Player PorotoCosmico Left.",
+    "[19:00] [8b8t] >> Teleporting...",
+    "[19:00] [8b8t] >> ▲ Player CuloGangTobias Joined."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -508,10 +508,11 @@
     "h6sx": 2,
     "salvagamer2": 1,
     "cunswunter": 2,
-    "MrNullYT": 1
+    "MrNullYT": 1,
+    "Risky_Jaat": 1
   },
   "kitStats": {
-    "pvp": 40,
+    "pvp": 41,
     "raid": 4,
     "survival": 5,
     "shulker": 42,
