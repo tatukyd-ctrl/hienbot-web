@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:41:48 19/2/2026",
+  "lastUpdated": "04:42:18 19/2/2026",
   "totalKits": 100122,
   "todayKits": 48,
   "onlineCount": 42,
@@ -12,8 +12,8 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 30
   },
-  "tps": "8.0",
-  "ping": 203,
+  "tps": "10.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:37] [8b8t] >> Request sent to SINMENTE_PC",
-    "[21:37] [8b8t] >> Teleporting...",
-    "[21:37] [8b8t] >> You have killed yourself!",
-    "[21:37] HienBot forgot to stop, drop, and roll",
-    "[21:38] [8b8t] >> ▼ Player Nnafily Left.",
-    "[21:38] <TulagrandBot> > Building a base? A free !shulker can help.",
-    "[21:38] InsaneBoi69 got a deadly lesson from the Wither",
-    "[21:38] MrPolnito challenged the Wither and lost their head",
-    "[21:39] <TulagrandBot> >Building a base? Try !gear or !free build",
     "[21:39] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[21:39] <.ThunderDrgn2845> ill be there",
     "[21:39] InsaneBoi69 forgot to bring their parachute",
@@ -108,7 +99,16 @@
     "[21:41] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
     "[21:41] InsaneBoi69 has completed the challenge [Cover Me in Debris]",
     "[21:41] InsaneBoi69 has reached the goal [Sky's the Limit]",
-    "[21:41] <TulagrandBot> >How are you MrPolnito?"
+    "[21:41] <TulagrandBot> >How are you MrPolnito?",
+    "[21:41] <.ThunderDrgn2845> :D",
+    "[21:41] [8b8t] >> Teleporting to home 0...",
+    "[21:41] [8b8t] >> Teleporting to home 4...",
+    "[21:41] To .ThunderDrgn2845: Kit \"d\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
+    "[21:41] To .ThunderDrgn2845: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:41] [8b8t] >> Request sent to .ThunderDrgn2845",
+    "[21:41] MrPolnito forgot to bring their parachute",
+    "[21:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[21:42] <.ThunderDrgn2845> i mean, if you wann be a teammate of mine"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -521,7 +521,8 @@
     "Enabak0LP": 2,
     "Burnak_": 1,
     "Ray13": 1,
-    "InsaneBoi69": 1
+    "InsaneBoi69": 1,
+    ".ThunderDrgn2845": 1
   },
   "kitStats": {
     "pvp": 45,
@@ -533,7 +534,7 @@
     "lightsources": 1,
     "tools": 4,
     "armortrims": 3,
-    "toolbox": 2,
+    "toolbox": 3,
     "wool": 7,
     "exp": 3,
     "stash": 7,
