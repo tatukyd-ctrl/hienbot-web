@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:45:13 18/2/2026",
+  "lastUpdated": "12:45:43 18/2/2026",
   "totalKits": 100000,
   "todayKits": 0,
-  "onlineCount": 22,
+  "onlineCount": 21,
   "peakPlayers": 22,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 18
   },
-  "tps": "14.0",
+  "tps": "16.0",
   "ping": 199,
   "topUsers": [
     {
@@ -59,28 +59,18 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 4
+      "count": 5
     },
     {
       "name": "raid",
       "count": 2
+    },
+    {
+      "name": "survival",
+      "count": 1
     }
   ],
   "chatLog": [
-    "[05:41] [BOT] <HienBot> >Try /cosmetics to change your name color!",
-    "[05:41] [8b8t] >> ▲ Player Duhano Joined.",
-    "[05:42] <keivdeil> insksw?",
-    "[05:42] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[05:42] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[05:42] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[05:42] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:42] [BOT] <HienBot> >Hi secreteztz!",
-    "[05:43] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[05:43] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[05:43] [8b8t] >> Use the command /login <password>.",
-    "[05:43] [8b8t] >> You have successfully logged.",
-    "[05:43] ",
-    "[05:43]  [8builders8tools]",
     "[05:43]  Perform the command /discord add to register",
     "[05:43]  your discord. By doing so, you",
     "[05:43]  decrease the chance of being hacked.",
@@ -96,10 +86,24 @@
     "[05:44] [BOT] <HienBot> >Want to see the server's tps? Chat !ᴛᴘs",
     "[05:44] [8b8t] >> ▲ Player _GusanXD Joined.",
     "[05:44] [8b8t] >> ▼ Player BlindPoleCat Left.",
-    "[05:44] [BOT] <HienBot> >Try !𝗽𝘃𝗽"
+    "[05:44] [BOT] <HienBot> >Try !𝗽𝘃𝗽",
+    "[05:45] [Mini] <hein> !pvp",
+    "[05:45] [8b8t] >> Teleporting to home 0...",
+    "[05:45] [BOT] <HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
+    "[05:45] [8b8t] >> Teleporting to home 1...",
+    "[05:45] manu15 thought they could fly... they couldn't",
+    "[05:45] To Hien2309: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:45] To Hien2309: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[05:45] [8b8t] >> ▼ Player Duhano Left.",
+    "[05:45] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[05:45] [Mini] <hein> !survival",
+    "[05:45] [8b8t] >> Teleporting to home 0...",
+    "[05:45] [8b8t] >> Teleporting to home 1...",
+    "[05:45] To Hien2309: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:45] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
-    "Hien2309": 15,
+    "Hien2309": 17,
     "doyoda1292": 8,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
@@ -452,7 +456,8 @@
     "TristanAbyss": 1
   },
   "kitStats": {
-    "pvp": 4,
-    "raid": 2
+    "pvp": 5,
+    "raid": 2,
+    "survival": 1
   }
 }
