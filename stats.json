@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:28:17 18/2/2026",
-  "totalKits": 100018,
-  "todayKits": 0,
+  "lastUpdated": "16:28:47 18/2/2026",
+  "totalKits": 100019,
+  "todayKits": 1,
   "onlineCount": 17,
   "peakPlayers": 17,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "14.0",
-  "ping": 221,
+  "tps": "12.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 10
+      "count": 11
     },
     {
       "name": "shulker",
@@ -79,8 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:26] [8b8t] >> Use the command /login <password>.",
-    "[09:26] [8b8t] >> You have successfully logged.",
     "[09:26] [8b8t] Unknown command do /help",
     "[09:26] ",
     "[09:26]  [8builders8tools]",
@@ -99,7 +97,18 @@
     "[09:27] [BOT] <HienBot> >Use !𝗽𝘃𝗽 to get kits",
     "[09:27] Sylo99 was rudely introduced to a Creeper's explosive personality",
     "[09:27] TulagrandKitbot has been put down by freddison",
-    "[09:27] [BOT] <HienBot> >Try !𝗽𝘃𝗽"
+    "[09:27] [BOT] <HienBot> >Try !𝗽𝘃𝗽",
+    "[09:28] TulagrandKitbot was EZ clapped by freddison using [netherite sword]",
+    "[09:28] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
+    "[09:28] [BOT] <PistonCubeB0T> > Type $tps to find out how many tps the server has",
+    "[09:28] <iamsuckkkk> !pvp",
+    "[09:28] [8b8t] >> Teleporting to home 0...",
+    "[09:28] [8b8t] >> Teleporting to home 1...",
+    "[09:28] To iamsuckkkk: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:28] To iamsuckkkk: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:28] [8b8t] >> Request sent to iamsuckkkk",
+    "[09:28] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[09:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 17,
@@ -458,10 +467,11 @@
     "gabriel_player": 1,
     "evaletz": 1,
     "datkaaaa": 1,
-    "HienBot": 1
+    "HienBot": 1,
+    "iamsuckkkk": 1
   },
   "kitStats": {
-    "pvp": 10,
+    "pvp": 11,
     "raid": 2,
     "survival": 1,
     "shulker": 7,
