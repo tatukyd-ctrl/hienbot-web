@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:09:04 18/2/2026",
+  "lastUpdated": "17:09:34 18/2/2026",
   "totalKits": 100026,
   "todayKits": 7,
   "onlineCount": 18,
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "15.0",
-  "ping": 332,
+  "tps": "14.0",
+  "ping": 1978,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 14
+      "count": 15
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:07] To htp1p0: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:07] TulagrandKitbot has been put down by botchaosonix",
-    "[10:07] [8b8t] >> Request sent to htp1p0",
-    "[10:07] [8b8t] >> Teleporting...",
-    "[10:07] MonkeBot forgot to bring their parachute",
-    "[10:07] <botchaosonix> inv",
-    "[10:07] [BOT] <HienBot> >Sub to Hien2309 in youtube",
-    "[10:07] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[10:07] <VinhMC_YTB> Nói bình thường được ko. Mày điên quá Fake BigBear",
-    "[10:07] <botchaosonix> im going jon anachry",
-    "[10:07] <botchaosonix> bye",
     "[10:07] TulagrandKitbot was EZ clapped by freddison using [netherite sword]",
     "[10:07] [8b8t] >> ▼ Player botchaosonix Left.",
     "[10:07] [8b8t] >> ▼ Player  Left.",
@@ -108,7 +97,18 @@
     "[10:08] [8b8t] >> ▼ Player DreamBeam Left.",
     "[10:08] Sylo99 has made the advancement [Monster Hunter]",
     "[10:09] [BOT] <HienBot> >Do you want kit? Type *кιт",
-    "[10:09] <Nnafily> still not yet"
+    "[10:09] <Nnafily> still not yet",
+    "[10:09] <Nnafily> i need to find a better way",
+    "[10:09] [8b8t] >> Successfully unignored player BigBear.",
+    "[10:09] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[10:09] <BigBear.> !pvp",
+    "[10:09] [8b8t] >> Teleporting to home 0...",
+    "[10:09] [8b8t] >> Teleporting to home 1...",
+    "[10:09] To BigBear.: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:09] To BigBear.: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:09] [8b8t] >> Successfully ignored player BigBear.",
+    "[10:09] [8b8t] >> Request sent to BigBear.",
+    "[10:09] [BOT] <HienBot> >Want to see whose ping is the best? Chat !ʙᴇsᴛᴘɪɴɢ"
   ],
   "userStats": {
     "Hien2309": 17,
@@ -470,10 +470,11 @@
     "HienBot": 1,
     "iamsuckkkk": 2,
     "VinhMC_YTB": 1,
-    "Itzking29": 2
+    "Itzking29": 2,
+    "BigBear.": 1
   },
   "kitStats": {
-    "pvp": 14,
+    "pvp": 15,
     "raid": 3,
     "survival": 1,
     "shulker": 8,
