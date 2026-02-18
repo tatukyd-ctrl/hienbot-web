@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:00:48 19/2/2026",
+  "lastUpdated": "04:01:18 19/2/2026",
   "totalKits": 100119,
   "todayKits": 45,
   "onlineCount": 44,
@@ -12,8 +12,8 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 30
   },
-  "tps": "4.0",
-  "ping": 595,
+  "tps": "7.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:56] <Gabriel2332> q",
-    "[20:56] johanpvp1029 has made the advancement [Getting an Upgrade]",
-    "[20:56] [8b8t] >> ▲ Player AnarchyGooD Joined.",
-    "[20:57] [8b8t] >> ▲ Player imnotbadhum Joined.",
-    "[20:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[20:57] [8b8t] >> ▼ Player imnotbadhum Left.",
     "[20:57] [8b8t] >> ▲ Player Andres_LM5 Joined.",
     "[20:57] [8b8t] >> ▼ Player AnarchyGooD Left.",
     "[20:58] [8b8t] >> ▲ Player denjismp1 Joined.",
@@ -108,7 +102,13 @@
     "[21:00] <TulagrandBot> >Building a base? Try !gear or !free build1",
     "[21:00] [Ultra] <KurtzMC> !voyager travel 237",
     "[21:00] [8b8t] >> ▲ Player AnarchyGooD Joined.",
-    "[21:00] <TulagrandBot> > Lost? The fastest way back to spawn is `/kill`."
+    "[21:00] <TulagrandBot> > Lost? The fastest way back to spawn is `/kill`.",
+    "[21:00] <Burnak_> !seed",
+    "[21:00] [8b8t] >> Teleporting to home 0...",
+    "[21:00] [8b8t] >> Teleporting to home 6...",
+    "[21:01] To Burnak_: Kit \"seed\" not found! Giving you (elytra) instead! dsc.gg/hienbot",
+    "[21:01] To Burnak_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:01] [8b8t] >> Request sent to Burnak_"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -518,7 +518,8 @@
     "Noiobeee49000": 2,
     "SINMENTE_PC": 2,
     "cukinmama": 1,
-    "Enabak0LP": 2
+    "Enabak0LP": 2,
+    "Burnak_": 1
   },
   "kitStats": {
     "pvp": 45,
@@ -541,7 +542,7 @@
     "dupe": 2,
     "food": 2,
     "glass": 2,
-    "elytra": 2,
+    "elytra": 3,
     "redstone": 1,
     "quartz": 1,
     "highway": 1,
