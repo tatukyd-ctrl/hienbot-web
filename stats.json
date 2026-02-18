@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:55:22 18/2/2026",
+  "lastUpdated": "07:55:52 18/2/2026",
   "totalKits": 1684,
   "todayKits": 8,
   "onlineCount": 37,
   "peakPlayers": 39,
-  "tps": "8.0",
-  "ping": 205,
+  "tps": "5.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "waximo",
@@ -52,7 +52,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 615
+      "count": 617
     },
     {
       "name": "toolbox",
@@ -72,18 +72,6 @@
     }
   ],
   "chatLog": [
-    "[00:50] NBM543 has made the advancement [Who is Cutting Onions?]",
-    "[00:50] <DrakeBit> agarro las shuker y te mando tpa",
-    "[00:50] <diegasogame> ok",
-    "[00:50] [BOT] <0_HienBot> >What's up, _GusanXD?",
-    "[00:51] Ligthsxdpd has made the advancement [Hot Stuff]",
-    "[00:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[00:51] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[00:51] <DeathskulsMC> wowi",
-    "[00:51] <DeathskulsMC> wowi",
-    "[00:51] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[00:52] [BOT] <0_HienBot> >Hmmmmmmmmm",
-    "[00:52] <DeathskulsMC> tu no te has jodido para hacer esta puta base",
     "[00:52] <DeathskulsMC> no",
     "[00:52] <Andres_LM5> hola",
     "[00:52] <DrakeBit> faltan muchas lptm",
@@ -101,7 +89,19 @@
     "[00:54] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
     "[00:55] <.Garou271105> algun consejo para salir del spaw?",
     "[00:55] <.Garou271105> vivo",
-    "[00:55] <OakThrone137334> $info"
+    "[00:55] <OakThrone137334> $info",
+    "[00:55] To OakThrone137334: Usage: !info  Don't forget to join dsc.gg/hienbot",
+    "[00:55] [BOT] <0_HienBot> >Try !𝗽𝘃𝗽",
+    "[00:55] <OakThrone137334> !pvp",
+    "[00:55] [8b8t] >> Teleporting to home 0...",
+    "[00:55] [8b8t] >> Teleporting to home 1...",
+    "[00:55] To OakThrone137334: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:55] To OakThrone137334: Try again dsc.gg/hienbot",
+    "[00:55] <Andres_LM5> !pvp",
+    "[00:55] [8b8t] >> Teleporting to home 0...",
+    "[00:55] [8b8t] >> Teleporting to home 1...",
+    "[00:55] To Andres_LM5: ¡Tu kit (pvp) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
+    "[00:55] To Andres_LM5: Intenta de nuevo dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 11,
@@ -391,7 +391,7 @@
     "yulianroberto": 5,
     "CPVP_player": 472,
     ".CycloidUwU": 2,
-    "Andres_LM5": 10,
+    "Andres_LM5": 11,
     "__Solarflare": 18,
     "0xPwnd": 1,
     "FireSpring94864": 1,
@@ -446,11 +446,12 @@
     "diegasogame": 1,
     "kxyuno": 2,
     "Ligthsxdpd": 1,
-    "brutall_": 2
+    "brutall_": 2,
+    "OakThrone137334": 1
   },
   "kitStats": {
     "stash": 224,
-    "pvp": 615,
+    "pvp": 617,
     "build": 145,
     "dupe": 138,
     "survival": 380,
