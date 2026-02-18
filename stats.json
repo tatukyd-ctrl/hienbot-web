@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:24:17 18/2/2026",
+  "lastUpdated": "23:24:47 18/2/2026",
   "totalKits": 100074,
   "todayKits": 0,
-  "onlineCount": 1,
+  "onlineCount": 35,
   "peakPlayers": 35,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:53:50 18/2/2026",
     "avg": 23
   },
-  "tps": "1.0",
-  "ping": 0,
+  "tps": "5.0",
+  "ping": 222,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "shulker",
-      "count": 20
+      "count": 21
     },
     {
       "name": "survival",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:20] <Sylo99> !ping",
-    "[16:20] To Sylo99: Your ping is: 165 ms Don't forget to join dsc.gg/hienbot",
-    "[16:20] <DavidN3000> !nerd",
-    "[16:20] [8b8t] >> Teleporting to home 0...",
-    "[16:20] [8b8t] >> Teleporting to home 5...",
-    "[16:20] To DavidN3000: Kit \"nerd\" not found! Giving you (exp) instead! dsc.gg/hienbot",
-    "[16:20] To DavidN3000: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:20] [8b8t] >> Request sent to DavidN3000",
-    "[16:21] <Sylo99> hello",
-    "[16:21] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[16:21] <TulagrandBot> >Try @list to get list of players",
-    "[16:21] <DavidN3000> !dumbahh",
-    "[16:21] To DavidN3000: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[16:21] <Sylo99> HELLO !",
-    "[16:21] [8b8t] >> You have killed yourself!",
-    "[16:21] [8b8t] >> The TPA request you sent to DavidN3000 was successfully canceled.",
-    "[16:21] <TulagrandBot> >Try /kill to kill yourself",
-    "[16:21] Fernanflo4567890 was EZ clapped by DavidN3000 using [netherite sword]",
-    "[16:22] [8b8t] >> ▲ Player Bronunder Joined.",
     "[16:22] <TulagrandBot> >Try @tps to get server's tps",
     "[16:22] [8b8t] >> ▲ Player ethanmelena16 Joined.",
     "[16:22] <TulagrandBot> > Lost? The fastest way back to spawn is `/kill`.",
@@ -108,7 +89,26 @@
     "[16:23] <TulagrandBot> >Building a base? Try !gear or !free build",
     "[16:24] [8b8t] >> Use the command /login <password>.",
     "[16:24] [8b8t] >> You have successfully logged.",
-    "[16:24] [8b8t] Unknown command do /help"
+    "[16:24] [8b8t] Unknown command do /help",
+    "[16:24] ",
+    "[16:24]  [8builders8tools]",
+    "[16:24]  Perform the command /discord add to register",
+    "[16:24]  your discord. By doing so, you",
+    "[16:24]  decrease the chance of being hacked.",
+    "[16:24] ",
+    "[16:24]   [Confirm read]\n",
+    "[16:24] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[16:24] [8b8t] >> ▲ Player HienBot Joined.",
+    "[16:24] <TulagrandBot> >Newbie and want to become cool quickly? Try !gear or !free pvp",
+    "[16:24] [8b8t] >> ▲ Player ethanmelena16 Joined.",
+    "[16:24] <DavidN3000> !shulker",
+    "[16:24] [8b8t] >> Teleporting to home 0...",
+    "[16:24] [8b8t] >> Teleporting to home 6...",
+    "[16:24] To DavidN3000: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:24] To DavidN3000: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:24] [8b8t] >> Successfully ignored player DavidN3000",
+    "[16:24] [8b8t] >> Request sent to DavidN3000",
+    "[16:24] MonkeBot tried to outswim the water"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -492,13 +492,13 @@
     "mistercrack11_v3": 2,
     "Byrobyte": 2,
     "Sylo99": 1,
-    "DavidN3000": 1
+    "DavidN3000": 2
   },
   "kitStats": {
     "pvp": 35,
     "raid": 4,
     "survival": 5,
-    "shulker": 20,
+    "shulker": 21,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
