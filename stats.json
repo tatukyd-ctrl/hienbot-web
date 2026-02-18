@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:03:34 18/2/2026",
+  "lastUpdated": "17:04:04 18/2/2026",
   "totalKits": 100024,
   "todayKits": 5,
   "onlineCount": 19,
@@ -12,7 +12,7 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "12.0",
+  "tps": "13.0",
   "ping": 214,
   "topUsers": [
     {
@@ -70,25 +70,15 @@
       "count": 3
     },
     {
-      "name": "survival",
-      "count": 1
+      "name": "stash",
+      "count": 2
     },
     {
-      "name": "music",
+      "name": "survival",
       "count": 1
     }
   ],
   "chatLog": [
-    "[10:01] [8b8t] >> Teleporting to home 0...",
-    "[10:01] [8b8t] >> Teleporting to home 2...",
-    "[10:01] To Volt695367: Kit \"list\" not found! Giving you (raid) instead! dsc.gg/hienbot",
-    "[10:01] To Volt695367: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:01] [8b8t] >> Successfully ignored player Volt695367",
-    "[10:01] [8b8t] >> Request sent to Volt695367",
-    "[10:01] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
-    "[10:01] [8b8t] >> Teleporting...",
-    "[10:01] [8b8t] >> ▼ Player phuc21321841 Left.",
-    "[10:01] [8b8t] >> You have killed yourself!",
     "[10:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[10:01] [8b8t] >> ▼ Player hein Left.",
     "[10:02] [BOT] <HienBot> >Want to see your ping? Chat !ᴘɪɴɢ",
@@ -108,7 +98,17 @@
     "[10:03] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[10:03] [8b8t] >> ▲ Player Itzking29 Joined.",
     "[10:03] [8b8t] >> ▲ Player htp1p0 Joined.",
-    "[10:03] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me"
+    "[10:03] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
+    "[10:03] <freddison> yuh",
+    "[10:03] <freddison> whats ur dc",
+    "[10:03] <BigBear.> !fuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+    "[10:03] To BigBear.: Invalid kit name length.",
+    "[10:03] <freddison> alr i'll crack you BigBear.",
+    "[10:04] <Itzking29> !stash",
+    "[10:04] [8b8t] >> Teleporting to home 0...",
+    "[10:04] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[10:04] [8b8t] >> Teleporting to home 2...",
+    "[10:04] To Itzking29: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 17,
@@ -469,7 +469,8 @@
     "datkaaaa": 1,
     "HienBot": 1,
     "iamsuckkkk": 2,
-    "VinhMC_YTB": 1
+    "VinhMC_YTB": 1,
+    "Itzking29": 1
   },
   "kitStats": {
     "pvp": 14,
@@ -484,7 +485,7 @@
     "toolbox": 1,
     "wool": 1,
     "exp": 1,
-    "stash": 1,
+    "stash": 2,
     "ocean": 1
   }
 }
