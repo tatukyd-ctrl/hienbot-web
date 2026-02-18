@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:14:41 18/2/2026",
-  "totalKits": 100035,
-  "todayKits": 16,
+  "lastUpdated": "18:15:04 18/2/2026",
+  "totalKits": 100036,
+  "todayKits": 17,
   "onlineCount": 19,
   "peakPlayers": 25,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "7.0",
-  "ping": 244,
+  "tps": "11.0",
+  "ping": 284,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:11] [BOT] <HienBot> >Try !𝗱𝘂𝗽𝗲",
-    "[11:11] TulagrandKitbot was EZ clapped by freddison using [end crystal]",
-    "[11:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[11:12] [8b8t] >> ▲ Player Volt695367 Joined.",
-    "[11:12] [BOT] <HienBot> >Welcome to 8b8t, Volt695367!",
-    "[11:12] <Volt695367> !build2",
-    "[11:12] [8b8t] >> Teleporting to home 0...",
-    "[11:12] [8b8t] >> Teleporting to home 3...",
-    "[11:12] To Volt695367: Kit \"build2\" not found! Giving you (wool) instead! dsc.gg/hienbot",
-    "[11:12] To Volt695367: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:12] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[11:12] [8b8t] >> Request sent to Volt695367",
     "[11:12] [8b8t] >> Teleporting...",
@@ -108,7 +98,17 @@
     "[11:14] To mayank8610: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:14] [8b8t] >> Request sent to mayank8610",
     "[11:14] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[11:14] [8b8t] >> Teleporting..."
+    "[11:14] [8b8t] >> Teleporting...",
+    "[11:14] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[11:14] <Volt695367> !concrete",
+    "[11:14] [8b8t] >> You have killed yourself!",
+    "[11:14] To Volt695367: Your kit (concrete) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:14] [8b8t] >> Teleporting to home 0...",
+    "[11:14] [8b8t] >> Teleporting to home 3...",
+    "[11:14] To Volt695367: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:14] [8b8t] >> Successfully ignored player Volt695367",
+    "[11:14] [8b8t] >> Request sent to Volt695367",
+    "[11:15] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 20,
@@ -405,7 +405,7 @@
     "DeadlyNyxian": 6,
     "Khushal_maxx77": 7,
     "vmpy7": 8,
-    "Volt695367": 9,
+    "Volt695367": 10,
     "nfkiki": 5,
     "FreeSword": 2,
     "freddison": 4,
@@ -492,6 +492,6 @@
     "ocean": 1,
     "build": 1,
     "dye": 1,
-    "concrete": 1
+    "concrete": 2
   }
 }
