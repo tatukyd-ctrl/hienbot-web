@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:20:58 18/2/2026",
-  "totalKits": 100015,
-  "todayKits": 7,
+  "lastUpdated": "15:21:18 18/2/2026",
+  "totalKits": 100016,
+  "todayKits": 8,
   "onlineCount": 19,
   "peakPlayers": 21,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "13.0",
+  "tps": "16.0",
   "ping": 214,
   "topUsers": [
     {
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:15] [8b8t] >> ▲ Player shatter_head Joined.",
-    "[08:15] [8b8t] >> ▲ Player thonsanlo Joined.",
-    "[08:15] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
-    "[08:15] jeff_longinins burned up in a pit of lava",
-    "[08:16] [BOT] <HienBot> >Hmmmmmmmmm",
-    "[08:16] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[08:16] [BOT] <PistonCubeB0T> > New command added $time, $report [report], $addquote, $quote",
-    "[08:16] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[08:16] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[08:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[08:17] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
     "[08:17] gabriel_player has reached the goal [Postmortal]",
     "[08:17] [8b8t] >> ▼ Player jeff_longinins Left.",
@@ -108,7 +98,17 @@
     "[08:20] [8b8t] >> ▼ Player Netanyahu Left.",
     "[08:20] [BOT] <HienBot> >Type !discord",
     "[08:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:20] <evaletz> is hienbot back?"
+    "[08:20] <evaletz> is hienbot back?",
+    "[08:21] <evaletz> :DD",
+    "[08:21] [8b8t] >> Teleporting to home 0...",
+    "[08:21] [8b8t] >> Teleporting to home 3...",
+    "[08:21] To evaletz: Kit \"dd\" not found! Giving you (wool) instead! dsc.gg/hienbot",
+    "[08:21] [BOT] <HienBot> >Use /lobby to return to the lobby!",
+    "[08:21] To evaletz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:21] [8b8t] >> Request sent to evaletz",
+    "[08:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[08:21] [8b8t] >> Teleporting...",
+    "[08:21] MonkeBot was eaten alive by a Zombie"
   ],
   "userStats": {
     "Hien2309": 17,
@@ -464,7 +464,8 @@
     "TristanAbyss": 1,
     "BigBear": 1,
     "SINCONOCIMIENTO": 2,
-    "gabriel_player": 1
+    "gabriel_player": 1,
+    "evaletz": 1
   },
   "kitStats": {
     "pvp": 9,
@@ -476,6 +477,7 @@
     "lightsources": 1,
     "tools": 1,
     "armortrims": 1,
-    "toolbox": 1
+    "toolbox": 1,
+    "wool": 1
   }
 }
