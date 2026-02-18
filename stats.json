@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:17:51 18/2/2026",
+  "lastUpdated": "23:19:47 18/2/2026",
   "totalKits": 100074,
-  "todayKits": 37,
-  "onlineCount": 31,
-  "peakPlayers": 51,
+  "todayKits": 0,
+  "onlineCount": 33,
+  "peakPlayers": 33,
   "playerStats": {
     "min": 0,
     "minTime": "09:38:28 18/2/2026",
@@ -12,8 +12,8 @@
     "maxTime": "22:53:50 18/2/2026",
     "avg": 23
   },
-  "tps": "2.0",
-  "ping": 27749,
+  "tps": "5.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "shulker",
-      "count": 19
+      "count": 20
     },
     {
       "name": "survival",
@@ -79,36 +79,19 @@
     }
   ],
   "chatLog": [
-    "[16:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[16:15] <TulagrandBot> >Try @seed to get 8b8t's seed",
-    "[16:15] <TulagrandBot> >Building a castle? Try !gear or !free bricks",
-    "[16:15] <liviaaaaaaa> !gear",
-    "[16:15] [8b8t] >> Teleporting to home 0...",
-    "[16:15] To liviaaaaaaa: Kit \"gear\" not found! Giving you (food) instead! dsc.gg/hienbot",
-    "[16:16] <Sylo99> !shulker",
-    "[16:16] To Sylo99: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[16:16] [8b8t] >> ▼ Player CuloGangTobias Left.",
-    "[16:16] To liviaaaaaaa: Try again Join dsc.gg/hienbot to report the error.",
-    "[16:16] [8b8t] >> ▼ Player Jerome Left.",
-    "[16:16] <Sylo99> !shulker",
-    "[16:16] [8b8t] >> Teleporting to home 0...",
-    "[16:16] [8b8t] >> Teleporting to home 6...",
-    "[16:16] To Sylo99: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:16] [8b8t] >> ▲ Player Jippolo Joined.",
-    "[16:16] To Sylo99: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:16] [8b8t] >> Request sent to Sylo99",
-    "[16:17] [8b8t] >> ▼ Player Rucosa Left.",
-    "[16:17] [8b8t] >> ▼ Player Tobias Left.",
-    "[16:17] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[16:17] [8b8t] >> ▼ Player ohio_sigma69 Left.",
-    "[16:17] [8b8t] >> ▼ Player CalzonCagao Left.",
-    "[16:17] [8b8t] >> ▼ Player liviaaaaaaa Left.",
-    "[16:17] [8b8t] >> ▼ Player AetherionV26 Left.",
-    "[16:17] [8b8t] >> You have killed yourself!",
-    "[16:17] HienBot forgot to stop, drop, and roll",
-    "[16:17] [8b8t] >> The TPA request you sent to Sylo99 was successfully canceled.",
-    "[16:17] [8b8t] >> ▲ Player FreddieBotcury Joined.",
-    "[16:17] <TulagrandBot> >How are you MrPinkEye?"
+    "[16:19] [8b8t] >> Use the command /login <password>.",
+    "[16:19] [8b8t] >> You have successfully logged.",
+    "[16:19] [8b8t] Unknown command do /help",
+    "[16:19] ",
+    "[16:19]  [8builders8tools]",
+    "[16:19]  Perform the command /discord add to register",
+    "[16:19]  your discord. By doing so, you",
+    "[16:19]  decrease the chance of being hacked.",
+    "[16:19] ",
+    "[16:19]   [Confirm read]\n",
+    "[16:19] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[16:19] [8b8t] >> ▲ Player HienBot Joined.",
+    "[16:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -497,7 +480,7 @@
     "pvp": 35,
     "raid": 4,
     "survival": 5,
-    "shulker": 19,
+    "shulker": 20,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
