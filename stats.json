@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:21:48 19/2/2026",
+  "lastUpdated": "03:22:18 19/2/2026",
   "totalKits": 100116,
   "todayKits": 42,
   "onlineCount": 56,
@@ -12,7 +12,7 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 29
   },
-  "tps": "4.0",
+  "tps": "5.0",
   "ping": 207,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 46
+      "count": 47
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:18] [8b8t] >> ▼ Player peje808 Left.",
-    "[20:18] Nouhki has made the advancement [Monster Hunter]",
-    "[20:18] <TulagrandBot> >Try @ping to get your ping",
-    "[20:18] <.Eden_01655> sigues libre?",
-    "[20:19] <.Eden_01655> por que necesito escabar 16 bloques hacia abajo en cada lado",
-    "[20:19] [8b8t] >> ▼ Player klcenka Left.",
-    "[20:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[20:19] [8b8t] >> ▲ Player klcenka Joined.",
-    "[20:20] [8b8t] >> ▲ Player AnarchyGooD Joined.",
-    "[20:20] [8b8t] >> ▼ Player klcenka Left.",
     "[20:20] <TulagrandBot> > Need PvP gear? The !gear command has you covered.",
     "[20:20] SINMENTE_PC decided to test gravity and lost",
     "[20:20] [8b8t] >> ▲ Player basti1015 Joined.",
@@ -108,7 +98,17 @@
     "[20:21] <TulagrandBot> >This bot has been created by Felek btw.",
     "[20:21] <SINMENTE_PC> !shulker",
     "[20:21] To SINMENTE_PC: You're on cooldown, try again in 9 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:21] basti1015 challenged the Wither and lost their head"
+    "[20:21] basti1015 challenged the Wither and lost their head",
+    "[20:21] <basti1015> ?",
+    "[20:22] <TulagrandBot> >Building a base? Try !gear or !free build2",
+    "[20:22] <SINMENTE_PC> !shulker",
+    "[20:22] [8b8t] >> Teleporting to home 0...",
+    "[20:22] [8b8t] >> Teleporting to home 6...",
+    "[20:22] To SINMENTE_PC: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:22] .Eden_01655 thought a Zombie was friendly",
+    "[20:22] To SINMENTE_PC: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:22] [8b8t] >> Successfully ignored player SINMENTE_PC",
+    "[20:22] [8b8t] >> Request sent to SINMENTE_PC"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -516,13 +516,13 @@
     "Real4Tribe": 2,
     "ValennY2K": 1,
     "Noiobeee49000": 2,
-    "SINMENTE_PC": 1
+    "SINMENTE_PC": 2
   },
   "kitStats": {
     "pvp": 45,
     "raid": 4,
     "survival": 6,
-    "shulker": 46,
+    "shulker": 47,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
