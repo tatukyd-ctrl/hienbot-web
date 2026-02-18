@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:14:18 19/2/2026",
+  "lastUpdated": "05:14:48 19/2/2026",
   "totalKits": 100124,
   "todayKits": 50,
   "onlineCount": 41,
@@ -12,8 +12,8 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 31
   },
-  "tps": "4.0",
-  "ping": 194,
+  "tps": "7.0",
+  "ping": 196,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 45
+      "count": 46
     },
     {
       "name": "stash",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:12] <vigilante_54> !give",
-    "[22:12] [8b8t] >> Teleporting to home 0...",
-    "[22:12] [8b8t] >> Teleporting to home 5...",
-    "[22:12] To vigilante_54: Kit \"give\" not found! Giving you (quartz) instead! dsc.gg/hienbot",
-    "[22:12] To vigilante_54: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:12] [8b8t] >> Request sent to vigilante_54",
-    "[22:12] [8b8t] >> ▲ Player floressi Joined.",
-    "[22:12] [8b8t] >> Teleporting...",
-    "[22:12] <TulagrandBot> > Building a base? A free !shulker can help.",
     "[22:12] [8b8t] >> You have killed yourself!",
     "[22:12] vigilante_54 pulverized HienBot using [their hand]",
     "[22:12] SINMENTE_PC challenged the Wither and lost their head",
@@ -108,7 +99,16 @@
     "[22:13] [8b8t] >> You have killed yourself!",
     "[22:13] HienBot has been put down by vigilante_54",
     "[22:14] xsoylimon challenged the Wither and lost their head",
-    "[22:14] <TulagrandBot> >This bot has been created by Felek btw."
+    "[22:14] <TulagrandBot> >This bot has been created by Felek btw.",
+    "[22:14] <xsoylimon> .BESTPLAYER7769",
+    "[22:14] [8b8t] >> Teleporting to home 0...",
+    "[22:14] [8b8t] >> Teleporting to home 1...",
+    "[22:14] To xsoylimon: Kit \"bestplayer7769\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[22:14] To xsoylimon: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:14] [8b8t] >> Request sent to xsoylimon",
+    "[22:14] <TulagrandBot> > Building a base? A free !shulker can help.",
+    "[22:14] [8b8t] >> ▲ Player .Mattu5835 Joined.",
+    "[22:14] [8b8t] >> ▼ Player xsoylimon Left."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -526,10 +526,11 @@
     "MrPolnito": 1,
     "faceless_games": 2,
     "lMarioo1": 2,
-    "vigilante_54": 2
+    "vigilante_54": 2,
+    "xsoylimon": 1
   },
   "kitStats": {
-    "pvp": 45,
+    "pvp": 46,
     "raid": 4,
     "survival": 7,
     "shulker": 57,
