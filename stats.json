@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:26:18 19/2/2026",
-  "totalKits": 100104,
-  "todayKits": 30,
-  "onlineCount": 58,
+  "lastUpdated": "02:26:47 19/2/2026",
+  "totalKits": 100105,
+  "todayKits": 31,
+  "onlineCount": 57,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 27
   },
-  "tps": "0.0",
+  "tps": "1.0",
   "ping": 213,
   "topUsers": [
     {
@@ -58,11 +58,11 @@
   ],
   "topKits": [
     {
-      "name": "pvp",
-      "count": 42
+      "name": "shulker",
+      "count": 43
     },
     {
-      "name": "shulker",
+      "name": "pvp",
       "count": 42
     },
     {
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:24] [8b8t] >> ▼ Player reyesquere Left.",
-    "[19:24] .Eden_01655 flew into a wall and died...?",
-    "[19:24] [8b8t] >> ▼ Player ksvxx Left.",
-    "[19:24] [8b8t] >> ▼ Player no_namez Left.",
-    "[19:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[19:24] .Ratlle2640 thought a Zombie was friendly",
-    "[19:24] unCarlitos thought they could fly... they couldn't",
-    "[19:24] TuxAtTheWindow64 decided to test gravity and lost",
-    "[19:24] <TulagrandBot> >Try @list to get list of players",
-    "[19:24] _GusanXD decided to test gravity and lost",
     "[19:24] [8b8t] >> ▼ Player Kaori9281 Left.",
     "[19:24] [8b8t] >> ▲ Player Jippolo Joined.",
     "[19:24] [8b8t] >> ▲ Player Kaori9281 Joined.",
@@ -108,7 +98,17 @@
     "[19:25] Filux_ pulverized Gabriel2332 using [end crystal]",
     "[19:25] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[19:26] unCarlitos decided to test gravity and lost",
-    "[19:26] [8b8t] >> ▼ Player tiziil Left."
+    "[19:26] [8b8t] >> ▼ Player tiziil Left.",
+    "[19:26] [8b8t] >> ▼ Player S_ErickGaMer1903 Left.",
+    "[19:26] <Gabriel2332> !shulker",
+    "[19:26] [8b8t] >> Teleporting to home 0...",
+    "[19:26] [8b8t] >> Teleporting to home 6...",
+    "[19:26] To Gabriel2332: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:26] To Gabriel2332: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:26] [8b8t] >> Request sent to Gabriel2332",
+    "[19:26] [8b8t] >> You arent ignoring BekkerZsoltPC",
+    "[19:26] <TulagrandBot> >Hi HienBot",
+    "[19:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -509,13 +509,14 @@
     "salvagamer2": 1,
     "cunswunter": 2,
     "MrNullYT": 1,
-    "Risky_Jaat": 2
+    "Risky_Jaat": 2,
+    "Gabriel2332": 1
   },
   "kitStats": {
     "pvp": 42,
     "raid": 4,
     "survival": 5,
-    "shulker": 42,
+    "shulker": 43,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
