@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:07:18 19/2/2026",
+  "lastUpdated": "04:07:48 19/2/2026",
   "totalKits": 100119,
   "todayKits": 45,
-  "onlineCount": 44,
+  "onlineCount": 43,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 30
   },
-  "tps": "9.0",
+  "tps": "6.0",
   "ping": 200,
   "topUsers": [
     {
@@ -66,30 +66,19 @@
       "count": 45
     },
     {
+      "name": "survival",
+      "count": 7
+    },
+    {
       "name": "wool",
       "count": 7
     },
     {
       "name": "stash",
       "count": 7
-    },
-    {
-      "name": "survival",
-      "count": 6
     }
   ],
   "chatLog": [
-    "[21:03] [8b8t] >> ▼ Player SINMENTE_PC Left.",
-    "[21:03] [Ultra] <missedfish> You are duplicating too quickly",
-    "[21:03] [8b8t] >> ▲ Player Ray13 Joined.",
-    "[21:03] [Ultra] <missedfish> smh",
-    "[21:04] IgnacyXDXD encountered a Creeper and got blown sky-high",
-    "[21:04] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[21:05] [8b8t] >> ▼ Player .CycloidQwQ Left.",
-    "[21:05] [8b8t] >> ▲ Player .CycloidQwQ Joined.",
-    "[21:05] TulagrandBot Whispers: Want some kits for free? ->>> discord.gg/XWBkeQGNpt",
-    "[21:05] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[21:05] <IgnacyXDXD> ok",
     "[21:05] <TulagrandBot> >Whant something? Try !gear or !free!",
     "[21:05] [8b8t] >> IgnacyXDXD voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
     "[21:06] [BOT] <HienBot> >Use !𝗽𝘃𝗽 to get kits",
@@ -108,7 +97,18 @@
     "[21:06] <camilo2528> este server es 2b2t ????",
     "[21:07] <Sunther_> no, no creo",
     "[21:07] [8b8t] >> ▲ Player .CycloidQwQ Joined.",
-    "[21:07] <Sunther_> yo creo que su nombre claramente dice"
+    "[21:07] <Sunther_> yo creo que su nombre claramente dice",
+    "[21:07] <Sunther_> 8b8t",
+    "[21:07] IgnacyXDXD decided to test gravity and lost",
+    "[21:07] [8b8t] >> Please do not spam.",
+    "[21:07] <Ray13> !survival",
+    "[21:07] [8b8t] >> Teleporting to home 0...",
+    "[21:07] [8b8t] >> Teleporting to home 1...",
+    "[21:07] To Ray13: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:07] [8b8t] >> ▼ Player .CycloidQwQ Left.",
+    "[21:07] To Ray13: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:07] [8b8t] >> Request sent to Ray13",
+    "[21:07] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -519,12 +519,13 @@
     "SINMENTE_PC": 2,
     "cukinmama": 1,
     "Enabak0LP": 2,
-    "Burnak_": 1
+    "Burnak_": 1,
+    "Ray13": 1
   },
   "kitStats": {
     "pvp": 45,
     "raid": 4,
-    "survival": 6,
+    "survival": 7,
     "shulker": 50,
     "music": 1,
     "terracotta": 4,
