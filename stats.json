@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:50:18 19/2/2026",
+  "lastUpdated": "01:50:48 19/2/2026",
   "totalKits": 100100,
   "todayKits": 26,
-  "onlineCount": 41,
+  "onlineCount": 42,
   "peakPlayers": 49,
   "playerStats": {
     "min": 0,
@@ -63,7 +63,7 @@
     },
     {
       "name": "shulker",
-      "count": 39
+      "count": 40
     },
     {
       "name": "wool",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:47] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[18:47] <TulagrandBot> >This bot has been created by Felek btw.",
-    "[18:47] [8b8t] >> ▲ Player salvagamer2 Joined.",
-    "[18:47] TulagrandBot Whispers: Hello, HienBot",
-    "[18:47] <TulagrandBot> >Tulagrande on top!",
-    "[18:48] salvagamer2 thought they could make it to oxygen in time",
-    "[18:48] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[18:48] <TulagrandBot> >Try /nc to change your nick color",
     "[18:48] [8b8t] >> ▼ Player KurtzMC Left.",
     "[18:48] [8b8t] >> ▲ Player Jippolo Joined.",
     "[18:48] [8b8t] >> ▲ Player KurtzMC Joined.",
@@ -108,7 +100,15 @@
     "[18:49] [BOT] <HienBot> >Type !discord",
     "[18:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:50] <cunswunter> yes",
-    "[18:50] <TulagrandBot> >Try /nc to change your nick color"
+    "[18:50] <TulagrandBot> >Try /nc to change your nick color",
+    "[18:50] [BOT] <HienBot> >Type !link to see how to reduce the cooldown of the kit",
+    "[18:50] You cannot message a player that you have ignored",
+    "[18:50] <salvagamer2> !shulker",
+    "[18:50] [8b8t] >> Teleporting to home 0...",
+    "[18:50] [8b8t] >> You arent ignoring adri989",
+    "[18:50] To salvagamer2: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:50] <salvagamer2> XD",
+    "[18:50] [8b8t] >> ▲ Player PorotoCosmico Joined."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -505,13 +505,14 @@
     "michuaa": 1,
     "legislativo2": 2,
     "BekkerZsoltPC": 2,
-    "h6sx": 2
+    "h6sx": 2,
+    "salvagamer2": 1
   },
   "kitStats": {
     "pvp": 40,
     "raid": 4,
     "survival": 5,
-    "shulker": 39,
+    "shulker": 40,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
