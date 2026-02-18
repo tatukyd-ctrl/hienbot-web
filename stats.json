@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:16:21 18/2/2026",
+  "lastUpdated": "23:16:51 18/2/2026",
   "totalKits": 100074,
   "todayKits": 37,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 51,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:53:50 18/2/2026",
     "avg": 23
   },
-  "tps": "10.0",
-  "ping": 864,
+  "tps": "2.0",
+  "ping": 484,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "shulker",
-      "count": 18
+      "count": 19
     },
     {
       "name": "survival",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:13] Byrobyte has made the advancement [Monster Hunter]",
-    "[16:13] Jerome decided to test gravity and lost",
-    "[16:13] [8b8t] >> ▲ Player .PRO569177324 Joined.",
-    "[16:13] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[16:13] [8b8t] >> Please do not spam.",
-    "[16:13] Fernanflo4567890 got a deadly lesson from the Wither",
-    "[16:13] Jippolo got a deadly lesson from the Wither",
     "[16:14] <TulagrandBot> >Try /nc to change your nick color",
     "[16:14] <manu15> ayudaaaaaaaaaaa",
     "[16:14] [8b8t] >> ▲ Player Elchimuelo08 Joined.",
@@ -108,7 +101,14 @@
     "[16:16] To Sylo99: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[16:16] [8b8t] >> ▼ Player CuloGangTobias Left.",
     "[16:16] To liviaaaaaaa: Try again Join dsc.gg/hienbot to report the error.",
-    "[16:16] [8b8t] >> ▼ Player Jerome Left."
+    "[16:16] [8b8t] >> ▼ Player Jerome Left.",
+    "[16:16] <Sylo99> !shulker",
+    "[16:16] [8b8t] >> Teleporting to home 0...",
+    "[16:16] [8b8t] >> Teleporting to home 6...",
+    "[16:16] To Sylo99: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:16] [8b8t] >> ▲ Player Jippolo Joined.",
+    "[16:16] To Sylo99: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:16] [8b8t] >> Request sent to Sylo99"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -490,13 +490,14 @@
     "Jippolo": 1,
     "Fernanflo4567890": 1,
     "mistercrack11_v3": 2,
-    "Byrobyte": 2
+    "Byrobyte": 2,
+    "Sylo99": 1
   },
   "kitStats": {
     "pvp": 35,
     "raid": 4,
     "survival": 5,
-    "shulker": 18,
+    "shulker": 19,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
