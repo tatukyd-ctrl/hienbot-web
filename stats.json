@@ -1,12 +1,19 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:01:22 18/2/2026",
-  "totalKits": 1693,
-  "todayKits": 17,
-  "onlineCount": 48,
-  "peakPlayers": 50,
-  "tps": "6.0",
-  "ping": 199,
+  "lastUpdated": "09:38:28 18/2/2026",
+  "totalKits": 100000,
+  "todayKits": 0,
+  "onlineCount": 0,
+  "peakPlayers": 0,
+  "playerStats": {
+    "min": 0,
+    "minTime": "09:38:28 18/2/2026",
+    "max": 0,
+    "maxTime": null,
+    "avg": 0
+  },
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -49,60 +56,8 @@
       "count": 44
     }
   ],
-  "topKits": [
-    {
-      "name": "pvp",
-      "count": 618
-    },
-    {
-      "name": "toolbox",
-      "count": 514
-    },
-    {
-      "name": "tools",
-      "count": 381
-    },
-    {
-      "name": "survival",
-      "count": 380
-    },
-    {
-      "name": "elytra",
-      "count": 351
-    }
-  ],
-  "chatLog": [
-    "[01:56] <Ligthsxdpd> aver",
-    "[01:56] <KeleruXD> can u guys help me",
-    "[01:56] <.unknownguy59093> Loik",
-    "[01:56] [BOT] <0_HienBot> >Hmmmmmmmmm",
-    "[01:56] <.unknownguy59093> Look",
-    "[01:56] <Ligthsxdpd> no lo es",
-    "[01:57] <Ligthsxdpd> q no",
-    "[01:57] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[01:57] <Ligthsxdpd> es}",
-    "[01:57] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me",
-    "[01:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[01:57] [8b8t] >> Successfully unignored player OakThrone137334",
-    "[01:58] <Ligthsxdpd> es DeathskulsMC",
-    "[01:58] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[01:58] <Ligthsxdpd> natxs",
-    "[01:58] [BOT] <0_HienBot> >Try !𝗱𝘂𝗽𝗲",
-    "[01:58] [8b8t] >> Successfully unignored player Malek_Abunnadi",
-    "[01:59] [8b8t] >> Please do not spam.",
-    "[01:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:59] [8b8t] >> Hien2309 wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
-    "[01:59] <Ligthsxdpd> dsp veo kxyuno",
-    "[01:59] [8b8t] >> Teleporting...",
-    "[01:59] [BOT] <0_HienBot> >Use !ʟᴀɴɢ and select your language",
-    "[01:59] EVERETT_blight has made the advancement [We Need to Go Deeper]",
-    "[01:59] LaPecheBro has made the advancement [Diamonds!]",
-    "[02:00] [BOT] <0_HienBot> >Hello Leee!",
-    "[02:00] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
-    "[02:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[02:01] [BOT] <0_HienBot> >Hi KeleruXD!",
-    "[02:01] <KeleruXD> hello"
-  ],
+  "topKits": [],
+  "chatLog": [],
   "userStats": {
     "Hien2309": 11,
     "doyoda1292": 8,
@@ -455,35 +410,5 @@
     "Barrerics_2011": 2,
     "idkkkkkkkkkk": 1
   },
-  "kitStats": {
-    "stash": 225,
-    "pvp": 618,
-    "build": 145,
-    "dupe": 138,
-    "survival": 380,
-    "elytra": 351,
-    "exp": 224,
-    "shulker": 251,
-    "redstone": 128,
-    "lightsources": 102,
-    "gap": 113,
-    "wood": 130,
-    "gterracotta": 77,
-    "armortrims": 177,
-    "food": 93,
-    "toolbox": 514,
-    "raid": 173,
-    "terracotta": 75,
-    "tools": 381,
-    "quartz": 80,
-    "wool": 101,
-    "glass": 103,
-    "mineral": 99,
-    "highway": 93,
-    "music": 85,
-    "end": 112,
-    "concrete": 78,
-    "dye": 87,
-    "ocean": 58
-  }
+  "kitStats": {}
 }
