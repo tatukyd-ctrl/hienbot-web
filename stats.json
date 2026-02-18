@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:57:30 18/2/2026",
-  "totalKits": 100003,
-  "todayKits": 0,
+  "lastUpdated": "13:57:45 18/2/2026",
+  "totalKits": 100004,
+  "todayKits": 1,
   "onlineCount": 18,
   "peakPlayers": 18,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 20
   },
-  "tps": "3.0",
-  "ping": 0,
+  "tps": "11.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -62,11 +62,11 @@
       "count": 5
     },
     {
-      "name": "raid",
-      "count": 2
+      "name": "shulker",
+      "count": 3
     },
     {
-      "name": "shulker",
+      "name": "raid",
       "count": 2
     },
     {
@@ -91,7 +91,18 @@
     "[06:57] ",
     "[06:57]   [Confirm read]\n",
     "[06:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[06:57] [8b8t] >> ▲ Player HienBot Joined."
+    "[06:57] [8b8t] >> ▲ Player HienBot Joined.",
+    "[06:57] <SINCONOCIMIENTO> !shulker",
+    "[06:57] [8b8t] >> Teleporting to home 0...",
+    "[06:57] [8b8t] >> Teleporting to home 6...",
+    "[06:57] To SINCONOCIMIENTO: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:57] <gabriel_player> Hienbot",
+    "[06:57] To SINCONOCIMIENTO: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:57] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[06:57] [8b8t] >> Request sent to SINCONOCIMIENTO",
+    "[06:57] <gabriel_player> !pvp",
+    "[06:57] To gabriel_player: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[06:57] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 17,
@@ -445,13 +456,14 @@
     "Barrerics_2011": 2,
     "idkkkkkkkkkk": 1,
     "TristanAbyss": 1,
-    "BigBear": 1
+    "BigBear": 1,
+    "SINCONOCIMIENTO": 1
   },
   "kitStats": {
     "pvp": 5,
     "raid": 2,
     "survival": 1,
-    "shulker": 2,
+    "shulker": 3,
     "music": 1,
     "terracotta": 1
   }
