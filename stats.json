@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:58:35 18/2/2026",
-  "totalKits": 100036,
-  "todayKits": 0,
+  "lastUpdated": "18:58:53 18/2/2026",
+  "totalKits": 100037,
+  "todayKits": 1,
   "onlineCount": 15,
   "peakPlayers": 19,
   "playerStats": {
@@ -75,21 +75,10 @@
     },
     {
       "name": "survival",
-      "count": 2
+      "count": 3
     }
   ],
   "chatLog": [
-    "[11:55] [BOT] <HienBot> >Use the /link command on the HienBot Group Discord server to reduce the cooldonw from 60 seconds to 30 seconds!",
-    "[11:55] <outpoastspyNN_> sorry my armor broke in a fight and i dont have trims natethandrake , are you fine with that?",
-    "[11:55] outpoastspyNN_ has made the advancement [Cover Me With Diamonds]",
-    "[11:55] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[11:55] <Nnafily> no",
-    "[11:55] <Nnafily> shit",
-    "[11:56] <xq9x> Nnafily",
-    "[11:56] <outpoastspyNN_> Nnafily is that you????",
-    "[11:56] <xq9x> can you tp me out spawn?",
-    "[11:56] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
-    "[11:56] <Nnafily> huh? why are you speaking to me lil bro?",
     "[11:56] <xq9x> yo Nnafily",
     "[11:56] <outpoastspyNN_> ok",
     "[11:56] <xq9x> Nnafily can u tp me to a random place?",
@@ -108,7 +97,18 @@
     "[11:58] outpoastspyNN_ has reached the goal [Postmortal]",
     "[11:58] outpoastspyNN_ was slain by Nnafily using [netherite sword]",
     "[11:58] <xq9x> how do u use hienbot vruh",
-    "[11:58] [8b8t] >> ▼ Player outpoastspyNN_ Left."
+    "[11:58] [8b8t] >> ▼ Player outpoastspyNN_ Left.",
+    "[11:58] <Nnafily> he got banned",
+    "[11:58] <xq9x> !survival",
+    "[11:58] [8b8t] >> You have killed yourself!",
+    "[11:58] To xq9x: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[11:58] [8b8t] >> Teleporting to home 0...",
+    "[11:58] [8b8t] >> Teleporting to home 1...",
+    "[11:58] To xq9x: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:58] [8b8t] >> Request sent to xq9x",
+    "[11:58] <Natethandrake> yeah i see",
+    "[11:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 20,
@@ -473,12 +473,13 @@
     "Itzking29": 2,
     "BigBear.": 2,
     ".LEON50758": 2,
-    "mayank8610": 1
+    "mayank8610": 1,
+    "xq9x": 1
   },
   "kitStats": {
     "pvp": 20,
     "raid": 3,
-    "survival": 2,
+    "survival": 3,
     "shulker": 8,
     "music": 1,
     "terracotta": 2,
