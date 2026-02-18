@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:11:52 18/2/2026",
+  "lastUpdated": "08:12:22 18/2/2026",
   "totalKits": 1688,
   "todayKits": 12,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 39,
-  "tps": "14.0",
-  "ping": 205,
+  "tps": "10.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -72,13 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:09] <uziel2124> yo que dead",
-    "[01:09] <superbrawl2010> a",
-    "[01:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:09] <ElDan> AppleBot I don't understand why condoms weren't named by you.",
-    "[01:09] <superbrawl2010> qn me givea?",
-    "[01:09] <superbrawl2010> !shulker",
-    "[01:09] [8b8t] >> Teleporting to home 0...",
     "[01:09] [8b8t] >> Teleporting to home 6...",
     "[01:09] To superbrawl2010: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[01:09] <ElDan> AppleBot plez commit jump out of window for free rank",
@@ -101,7 +94,14 @@
     "[01:10] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[01:11] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[01:11] <Elmonito1234> hi?",
-    "[01:11] [BOT] <0_HienBot> >Type !𝗽𝘃𝗽  to get free kits"
+    "[01:11] [BOT] <0_HienBot> >Type !𝗽𝘃𝗽  to get free kits",
+    "[01:11] [BOT] <0_HienBot> >Try !𝘀𝘁𝗮𝘀𝗵",
+    "[01:12] <Elmonito1234> !shulker",
+    "[01:12] [8b8t] >> Teleporting to home 0...",
+    "[01:12] [8b8t] >> Teleporting to home 6...",
+    "[01:12] To Elmonito1234: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:12] To Elmonito1234: Sorry! White Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
+    "[01:12] [8b8t] >> Request sent to Elmonito1234"
   ],
   "userStats": {
     "Hien2309": 11,
@@ -449,7 +449,8 @@
     "brutall_": 2,
     "OakThrone137334": 2,
     "Malek_Abunnadi": 2,
-    "superbrawl2010": 1
+    "superbrawl2010": 1,
+    "Elmonito1234": 1
   },
   "kitStats": {
     "stash": 224,
@@ -459,7 +460,7 @@
     "survival": 380,
     "elytra": 351,
     "exp": 224,
-    "shulker": 242,
+    "shulker": 243,
     "redstone": 128,
     "lightsources": 102,
     "gap": 113,
