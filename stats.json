@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:46:18 19/2/2026",
-  "totalKits": 100142,
-  "todayKits": 68,
-  "onlineCount": 41,
+  "lastUpdated": "06:46:39 19/2/2026",
+  "totalKits": 100143,
+  "todayKits": 69,
+  "onlineCount": 40,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 31
   },
-  "tps": "10.0",
-  "ping": 198,
+  "tps": "11.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 70
+      "count": 71
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:44] [8b8t] >> Request sent to michuaa",
-    "[23:45] [8b8t] >> ▼ Player Axelitoelmejor Left.",
-    "[23:45] SINMENTE_PC has made the advancement [Stone Age]",
-    "[23:45] [8b8t] >> Teleporting...",
-    "[23:45] [8b8t] >> You have killed yourself!",
-    "[23:45] michuaa pulverized HienBot using [netherite sword]",
-    "[23:45] <Sunther_> por donde me vas a meter el bate",
-    "[23:45] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[23:45] <Antonhysv> ay que rico ay que rico",
     "[23:45] [8b8t] >> Successfully unignored player DPS_Voyager_bot",
     "[23:45] SINMENTE_PC has made the advancement [Cover Me With Diamonds]",
@@ -108,7 +100,15 @@
     "[23:46] [8b8t] >> ▲ Player kevinltk Joined.",
     "[23:46] <Univof> necesitan diamantes?",
     "[23:46] <Antonhysv> monito monito quieres diamantes?",
-    "[23:46] <TuReina> !shulker"
+    "[23:46] <TuReina> !shulker",
+    "[23:46] [8b8t] >> Teleporting to home 0...",
+    "[23:46] [8b8t] >> Teleporting to home 6...",
+    "[23:46] To TuReina: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:46] To TuReina: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:46] [8b8t] >> Request sent to TuReina",
+    "[23:46] [8b8t] >> ▼ Player HugeNutriaPvp Left.",
+    "[23:46] <jhonsonix123> quien tpa",
+    "[23:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -532,13 +532,14 @@
     "VolcanikYT": 1,
     "CloudLevel": 1,
     "BJ_Brachita": 1,
-    "Alanxv42": 1
+    "Alanxv42": 1,
+    "TuReina": 1
   },
   "kitStats": {
     "pvp": 47,
     "raid": 5,
     "survival": 9,
-    "shulker": 70,
+    "shulker": 71,
     "music": 2,
     "terracotta": 4,
     "lightsources": 1,
