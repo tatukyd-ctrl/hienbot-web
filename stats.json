@@ -1,12 +1,12 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:37:22 18/2/2026",
+  "lastUpdated": "08:37:52 18/2/2026",
   "totalKits": 1692,
   "todayKits": 16,
   "onlineCount": 32,
   "peakPlayers": 39,
-  "tps": "12.0",
-  "ping": 201,
+  "tps": "7.0",
+  "ping": 197,
   "topUsers": [
     {
       "name": "waximo",
@@ -72,12 +72,6 @@
     }
   ],
   "chatLog": [
-    "[01:33] <DeathskulsMC> weon culiao",
-    "[01:33] <kxyuno> perdon",
-    "[01:33] <kxyuno> ya lo quite",
-    "[01:33] <kxyuno> enserio",
-    "[01:33] <kxyuno> :(",
-    "[01:33] <DeathskulsMC> nana, yo te dije que te lo quitaras anteriormente",
     "[01:34] [BOT] <0_HienBot> >Use !𝗽𝘃𝗽 to get kits",
     "[01:34] [BOT] <0_HienBot> >Type !discord",
     "[01:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -101,7 +95,13 @@
     "[01:36] To mchuaa: You're on cooldown, try again in 26 seconds! Don't forget to join dsc.gg/hienbot",
     "[01:36] <mchuaa> !shulker",
     "[01:36] [8b8t] >> Successfully ignored player mchuaa",
-    "[01:37] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ"
+    "[01:37] [BOT] <0_HienBot> >Want to see your ping? Chat !ᴘɪɴɢ",
+    "[01:37] [8b8t] >> Please do not spam.",
+    "[01:37] <Barrerics_2011> 8b8tcore:help",
+    "[01:37] <idkuser12> !shulker",
+    "[01:37] [8b8t] >> Teleporting to home 0...",
+    "[01:37] [8b8t] >> Teleporting to home 6...",
+    "[01:37] To idkuser12: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 11,
@@ -450,7 +450,8 @@
     "OakThrone137334": 2,
     "Malek_Abunnadi": 2,
     "superbrawl2010": 1,
-    "Elmonito1234": 2
+    "Elmonito1234": 2,
+    "idkuser12": 1
   },
   "kitStats": {
     "stash": 225,
@@ -460,7 +461,7 @@
     "survival": 380,
     "elytra": 351,
     "exp": 224,
-    "shulker": 246,
+    "shulker": 247,
     "redstone": 128,
     "lightsources": 102,
     "gap": 113,
