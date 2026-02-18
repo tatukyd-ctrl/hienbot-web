@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:22:20 18/2/2026",
+  "lastUpdated": "22:22:50 18/2/2026",
   "totalKits": 100057,
   "todayKits": 20,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "21:16:20 18/2/2026",
     "avg": 21
   },
-  "tps": "11.0",
-  "ping": 714,
+  "tps": "13.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 32
+      "count": 33
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:20] [Pro] <MintKoala997563> shit",
-    "[15:20] [8b8t] >> ▼ Player klcenka Left.",
-    "[15:20] [Youtuber] <elproplayerxddd> ezzzz",
-    "[15:20] [8b8t] >> ▲ Player klcenka Joined.",
-    "[15:20] [8b8t] >> ▼ Player elproplayerxddd Left.",
-    "[15:20] klcenka got blown up by an End Crystal",
-    "[15:20] [8b8t] >> ▲ Player elproplayerxddd Joined.",
-    "[15:20] [Youtuber] <elproplayerxddd> ggs",
-    "[15:20] <klcenka> kicked me",
-    "[15:20] <TulagrandBot> > Lost? The fastest way back to spawn is `/kill`.",
-    "[15:20] <klcenka> fuck",
     "[15:21] [Youtuber] <elproplayerxddd> me too",
     "[15:21] [Youtuber] <elproplayerxddd> bruh",
     "[15:21] <Nnafily> paidpopbob 1v1",
@@ -108,7 +97,18 @@
     "[15:22] <redagamer80> DAMN",
     "[15:22] [8b8t] >> ▼ Player Paidpopbob Left.",
     "[15:22] <Nnafily> i wonder how that mace hack is going",
-    "[15:22] <TulagrandBot> >Whant something? Try !gear or !free!"
+    "[15:22] <TulagrandBot> >Whant something? Try !gear or !free!",
+    "[15:22] [8b8t] >> ▲ Player .reindyeah Joined.",
+    "[15:22] <kayragojo> !gear",
+    "[15:22] [8b8t] >> Teleporting to home 0...",
+    "[15:22] [8b8t] >> Teleporting to home 1...",
+    "[15:22] To kayragojo: Kit \"gear\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[15:22] To kayragojo: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:22] <redagamer80> AYUDA",
+    "[15:22] [8b8t] >> Request sent to kayragojo",
+    "[15:22] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[15:22] <TulagrandBot> >Tulagrande on top!",
+    "[15:22] [Youtuber] <elproplayerxddd> Yes"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -482,10 +482,11 @@
     "espinos": 2,
     "kimwolf156456": 2,
     ".Pichuckrak": 2,
-    "franolmedo": 1
+    "franolmedo": 1,
+    "kayragojo": 1
   },
   "kitStats": {
-    "pvp": 32,
+    "pvp": 33,
     "raid": 4,
     "survival": 3,
     "shulker": 8,
