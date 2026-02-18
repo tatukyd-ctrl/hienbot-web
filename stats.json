@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:16:04 18/2/2026",
-  "totalKits": 100026,
-  "todayKits": 7,
+  "lastUpdated": "17:16:18 18/2/2026",
+  "totalKits": 100027,
+  "todayKits": 8,
   "onlineCount": 20,
   "peakPlayers": 25,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "11:15:53 18/2/2026",
     "avg": 17
   },
-  "tps": "15.0",
+  "tps": "16.0",
   "ping": 214,
   "topUsers": [
     {
@@ -70,23 +70,15 @@
       "count": 3
     },
     {
-      "name": "stash",
+      "name": "survival",
       "count": 2
     },
     {
-      "name": "survival",
-      "count": 1
+      "name": "stash",
+      "count": 2
     }
   ],
   "chatLog": [
-    "[10:12] <VinhMC_YTB> Search VinhMC on YouTube",
-    "[10:12] [8b8t] >> ▼ Player AetherionV26 Left.",
-    "[10:12] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:12] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[10:12] abhinavop_5923 forgot to bring their parachute",
-    "[10:12] BigBear. forgot to stop, drop, and roll",
-    "[10:12] [8b8t] >> ▲ Player AetherionV26 Joined.",
-    "[10:12] <VinhMC_YTB> OfOfOf course",
     "[10:13] [BOT] <HienBot> >Hmmmmmmmmm",
     "[10:13] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
     "[10:13] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
@@ -108,7 +100,15 @@
     "[10:15] abhinavop_5923 thought they could fly... they couldn't",
     "[10:15] [8b8t] >> ▼ Player Sylo99 Left.",
     "[10:16] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[10:16] [8b8t] >> Successfully unignored player BigBear."
+    "[10:16] [8b8t] >> Successfully unignored player BigBear.",
+    "[10:16] <BigBear.> !survival",
+    "[10:16] [8b8t] >> Teleporting to home 0...",
+    "[10:16] [8b8t] >> Teleporting to home 1...",
+    "[10:16] To BigBear.: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:16] To BigBear.: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:16] [8b8t] >> Successfully ignored player BigBear.",
+    "[10:16] [8b8t] >> Request sent to BigBear.",
+    "[10:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 17,
@@ -471,12 +471,12 @@
     "iamsuckkkk": 2,
     "VinhMC_YTB": 1,
     "Itzking29": 2,
-    "BigBear.": 1
+    "BigBear.": 2
   },
   "kitStats": {
     "pvp": 15,
     "raid": 3,
-    "survival": 1,
+    "survival": 2,
     "shulker": 8,
     "music": 1,
     "terracotta": 1,
