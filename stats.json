@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:02:47 19/2/2026",
-  "totalKits": 100076,
-  "todayKits": 2,
+  "lastUpdated": "00:03:02 19/2/2026",
+  "totalKits": 100077,
+  "todayKits": 3,
   "onlineCount": 34,
   "peakPlayers": 46,
   "playerStats": {
@@ -10,9 +10,9 @@
     "minTime": "09:38:28 18/2/2026",
     "max": 51,
     "maxTime": "22:53:50 18/2/2026",
-    "avg": 23
+    "avg": 24
   },
-  "tps": "4.0",
+  "tps": "7.0",
   "ping": 224,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 36
+      "count": 37
     },
     {
       "name": "shulker",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:00] <JollyScissors> I'll be a good slave :<",
-    "[17:01] <IamNuke_> !elytra",
-    "[17:01] To IamNuke_: You're on cooldown, try again in 16 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:01] <Nnafily> no",
-    "[17:01] [8b8t] >> ▲ Player .PRO569177324 Joined.",
-    "[17:01] <Nnafily> accually yes sure",
-    "[17:01] mistercrack11_v3 burned up in a pit of lava",
-    "[17:01] <TulagrandBot> > Lost? The fastest way back to spawn is `/kill`.",
     "[17:01] <Nnafily> you will be my slave now :(",
     "[17:01] IamNuke_ has made the advancement [Acquire Hardware]",
     "[17:01] [8b8t] >> ▲ Player Joax11 Joined.",
@@ -108,7 +100,15 @@
     "[17:02] [8b8t] >> ▼ Player .PRO569177324 Left.",
     "[17:02] [8b8t] >> ▲ Player TheAstronautP1 Joined.",
     "[17:02] <TulagrandBot> >How are you moooomoooobot_v2?",
-    "[17:02] [8b8t] >> ▼ Player Elchimuelo08 Left."
+    "[17:02] [8b8t] >> ▼ Player Elchimuelo08 Left.",
+    "[17:02] <IamNuke_> !pvp",
+    "[17:02] [8b8t] >> Teleporting to home 0...",
+    "[17:02] [8b8t] >> Teleporting to home 1...",
+    "[17:02] To IamNuke_: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:02] To IamNuke_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:02] [8b8t] >> Successfully ignored player IamNuke_",
+    "[17:02] [8b8t] >> Request sent to IamNuke_",
+    "[17:02] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -494,10 +494,10 @@
     "Sylo99": 1,
     "DavidN3000": 2,
     "slave_builder": 1,
-    "IamNuke_": 1
+    "IamNuke_": 2
   },
   "kitStats": {
-    "pvp": 36,
+    "pvp": 37,
     "raid": 4,
     "survival": 5,
     "shulker": 23,
