@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:30:18 19/2/2026",
+  "lastUpdated": "03:30:48 19/2/2026",
   "totalKits": 100118,
   "todayKits": 44,
   "onlineCount": 52,
@@ -12,8 +12,8 @@
     "maxTime": "02:25:48 19/2/2026",
     "avg": 29
   },
-  "tps": "7.0",
-  "ping": 197,
+  "tps": "5.0",
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 48
+      "count": 49
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:27] <TulagrandBot> > TULAGRANDE 1.6!",
-    "[20:27] Lelo155 forgot to bring their parachute",
-    "[20:27] [8b8t] >> ▼ Player SINMENTE_PC Left.",
-    "[20:27] Lelo155 has made the advancement [Ice Bucket Challenge]",
-    "[20:27] <TulagrandBot> >Tired of mining? Get a resource !drop.",
-    "[20:28] <TulagrandBot> >Try @list to get list of players",
-    "[20:28] <Nnafily> can i have some wood",
     "[20:28] [8b8t] >> ▲ Player johanpvp1029 Joined.",
     "[20:28] [8b8t] >> ▼ Player JeSuisUnJoueur Left.",
     "[20:28] [8b8t] >> ▲ Player AnarchyGooD Joined.",
@@ -108,7 +101,14 @@
     "[20:29] Lelo155 thought they could fly... they couldn't",
     "[20:29] [BOT] <PistonCubeB0T> > Type $tps to find out how many tps the server has",
     "[20:29] <TulagrandBot> >Building a base? Try !gear or !free build1",
-    "[20:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[20:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[20:30] <cukinmama> !shulker",
+    "[20:30] [8b8t] >> Teleporting to home 0...",
+    "[20:30] [8b8t] >> Teleporting to home 6...",
+    "[20:30] To cukinmama: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:30] To cukinmama: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:30] [8b8t] >> Request sent to cukinmama",
+    "[20:30] <TulagrandBot> >Hello, _GusanXD"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -516,13 +516,14 @@
     "Real4Tribe": 2,
     "ValennY2K": 1,
     "Noiobeee49000": 2,
-    "SINMENTE_PC": 2
+    "SINMENTE_PC": 2,
+    "cukinmama": 1
   },
   "kitStats": {
     "pvp": 45,
     "raid": 4,
     "survival": 6,
-    "shulker": 48,
+    "shulker": 49,
     "music": 1,
     "terracotta": 3,
     "lightsources": 1,
