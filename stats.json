@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:19:01 19/2/2026",
-  "totalKits": 100184,
-  "todayKits": 22,
+  "lastUpdated": "09:19:13 19/2/2026",
+  "totalKits": 100185,
+  "todayKits": 23,
   "onlineCount": 16,
   "peakPlayers": 31,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 30
   },
-  "tps": "11.0",
+  "tps": "13.0",
   "ping": 216,
   "topUsers": [
     {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:15] [8b8t] >> ▼ Player .vlesmentie Left.",
-    "[02:15] [8b8t] >> ▼ Player .Carlosguada Left.",
-    "[02:15] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[02:15] [8b8t] >> You have killed yourself!",
-    "[02:15] HienBot has been put down by sofyxz",
-    "[02:15] <mistercrack11_v3> !pvp",
-    "[02:15] [8b8t] >> Teleporting to home 0...",
-    "[02:15] [8b8t] >> Teleporting to home 1...",
     "[02:15] To sofyxz: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[02:15] To mistercrack11_v3: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[02:15] To sofyxz: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
@@ -108,7 +100,15 @@
     "[02:17] [BOT] <HienBot> >Type !pvp to get free kits",
     "[02:18] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
     "[02:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[02:18] [BOT] <HienBot> >Use /kill to kill yourself!"
+    "[02:18] [BOT] <HienBot> >Use /kill to kill yourself!",
+    "[02:19] <sofyxz> !faros",
+    "[02:19] [8b8t] >> Teleporting to home 0...",
+    "[02:19] [8b8t] >> Teleporting to home 5...",
+    "[02:19] To sofyxz: Kit \"faros\" not found! Giving you (end) instead! dsc.gg/hienbot",
+    "[02:19] To sofyxz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:19] [8b8t] >> Request sent to sofyxz",
+    "[02:19] [8b8t] >> Teleporting...",
+    "[02:19] [BOT] <HienBot> >Hmmmmmmmmm"
   ],
   "userStats": {
     "Hien2309": 34,
@@ -540,7 +540,7 @@
     "CarelCDK": 2,
     "WildWillRudy": 1,
     "smpucca": 1,
-    "sofyxz": 20,
+    "sofyxz": 21,
     "Mr_Manznin": 2
   },
   "kitStats": {
@@ -572,6 +572,6 @@
     "mineral": 2,
     "gterracotta": 3,
     "wood": 2,
-    "end": 3
+    "end": 4
   }
 }
