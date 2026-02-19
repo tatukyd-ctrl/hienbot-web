@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:00:56 19/2/2026",
+  "lastUpdated": "16:01:26 19/2/2026",
   "totalKits": 100223,
   "todayKits": 5,
-  "onlineCount": 21,
+  "onlineCount": 23,
   "peakPlayers": 24,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "9.0",
+  "tps": "11.0",
   "ping": 249,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 66
+      "count": 67
     },
     {
       "name": "survival",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:59] [8b8t] >> You are already ignoring that player",
-    "[08:59] <jasxnmzk2025> no jodas",
-    "[08:59] <penelopecruz> alguien saca del spawn",
-    "[08:59] [8b8t] >> ▲ Player DPS_Voyager_bot Joined.",
-    "[08:59] [8b8t] >> You are already ignoring that player",
-    "[08:59] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[08:59] <penelopecruz> !pvp",
-    "[08:59] [8b8t] >> Teleporting to home 0...",
-    "[08:59] [8b8t] >> Teleporting to home 1...",
-    "[08:59] To penelopecruz: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:00] [BOT] <HienBot> >Use !info <player> to check someone's stats",
-    "[09:00] [8b8t] >> ▼ Player Itzrealmario Left.",
-    "[09:00] To penelopecruz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:00] <JeSuisUnJoueur> tpa for pvp",
     "[09:00] [8b8t] >> Request sent to penelopecruz",
     "[09:00] [8b8t] >> You are already ignoring that player",
@@ -108,7 +95,20 @@
     "[09:00] To penelopecruz: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:00] To penelopecruz: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
     "[09:00] [8b8t] >> ▼ Player inksw_ak Left.",
-    "[09:00] [8b8t] >> You are already ignoring that player"
+    "[09:00] [8b8t] >> You are already ignoring that player",
+    "[09:01] [8b8t] >> You are already ignoring that player",
+    "[09:01] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[09:01] <jasxnmzk2025> !pvp",
+    "[09:01] [8b8t] >> Teleporting to home 0...",
+    "[09:01] [8b8t] >> Teleporting to home 1...",
+    "[09:01] To jasxnmzk2025: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:01] To jasxnmzk2025: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:01] [8b8t] >> Request sent to jasxnmzk2025",
+    "[09:01] [8b8t] >> You are already ignoring that player",
+    "[09:01] [8b8t] >> ▲ Player Itzrealmario Joined.",
+    "[09:01] [8b8t] >> The TPA request you sent to jasxnmzk2025 has expired.",
+    "[09:01] [8b8t] >> ▲ Player RexlereK Joined.",
+    "[09:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 41,
@@ -554,10 +554,10 @@
     "DaddyShawn980": 4,
     ".CSSX3049": 1,
     "Lyreach": 2,
-    "jasxnmzk2025": 2
+    "jasxnmzk2025": 3
   },
   "kitStats": {
-    "pvp": 66,
+    "pvp": 67,
     "raid": 11,
     "survival": 13,
     "shulker": 99,
