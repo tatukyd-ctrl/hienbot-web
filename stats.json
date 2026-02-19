@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:57:38 19/2/2026",
+  "lastUpdated": "11:58:08 19/2/2026",
   "totalKits": 100197,
   "todayKits": 2,
-  "onlineCount": 13,
-  "peakPlayers": 14,
+  "onlineCount": 15,
+  "peakPlayers": 15,
   "playerStats": {
     "min": 0,
     "minTime": "09:46:31 19/2/2026",
@@ -13,7 +13,7 @@
     "avg": 19
   },
   "tps": "14.0",
-  "ping": 215,
+  "ping": 199,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,19 +75,10 @@
     },
     {
       "name": "stash",
-      "count": 9
+      "count": 10
     }
   ],
   "chatLog": [
-    "[04:53] <Stuff_Thing> !gear",
-    "[04:53] [8b8t] >> Teleporting to home 0...",
-    "[04:53] [8b8t] >> Teleporting to home 4...",
-    "[04:53] To Stuff_Thing: Kit \"gear\" not found! Giving you (food) instead! dsc.gg/hienbot",
-    "[04:53] To Stuff_Thing: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:53] [8b8t] >> Request sent to Stuff_Thing",
-    "[04:53] <Stuff_Thing> @seed",
-    "[04:53] To Stuff_Thing: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[04:53] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[04:54] [8b8t] >> You have killed yourself!",
     "[04:54] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[04:54] [8b8t] >> The TPA request you sent to Stuff_Thing was successfully canceled.",
@@ -108,7 +99,16 @@
     "[04:57] [8b8t] >> ▼ Player KAOSZHAFCROSS Left.",
     "[04:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[04:57] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[04:57] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls"
+    "[04:57] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
+    "[04:57] [BOT] <HienBot> >Use !pvp to get kits",
+    "[04:57] [8b8t] >> ▲ Player KAOSZHAFCROSS Joined.",
+    "[04:57] [8b8t] >> ▲ Player AkashMC7 Joined.",
+    "[04:58] <Stuff_Thing> !gear",
+    "[04:58] [8b8t] >> Teleporting to home 0...",
+    "[04:58] [8b8t] >> Teleporting to home 2...",
+    "[04:58] To Stuff_Thing: Kit \"gear\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[04:58] To Stuff_Thing: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:58] [8b8t] >> Request sent to Stuff_Thing"
   ],
   "userStats": {
     "Hien2309": 37,
@@ -547,7 +547,7 @@
     "aferradoltlt": 1,
     "MxRgB": 1,
     "cutelotl_": 1,
-    "Stuff_Thing": 1
+    "Stuff_Thing": 2
   },
   "kitStats": {
     "pvp": 56,
@@ -562,7 +562,7 @@
     "toolbox": 5,
     "wool": 8,
     "exp": 6,
-    "stash": 9,
+    "stash": 10,
     "ocean": 12,
     "build": 9,
     "dye": 5,
