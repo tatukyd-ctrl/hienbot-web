@@ -1,18 +1,18 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:50:41 19/2/2026",
+  "lastUpdated": "09:51:40 19/2/2026",
   "totalKits": 100193,
   "todayKits": 0,
-  "onlineCount": 0,
-  "peakPlayers": 0,
+  "onlineCount": 7,
+  "peakPlayers": 7,
   "playerStats": {
     "min": 0,
     "minTime": "09:46:31 19/2/2026",
     "max": 43,
     "maxTime": "07:08:18 19/2/2026",
-    "avg": 28
+    "avg": 27
   },
-  "tps": "0.0",
+  "tps": "20.0",
   "ping": 0,
   "topUsers": [
     {
@@ -78,7 +78,23 @@
       "count": 9
     }
   ],
-  "chatLog": [],
+  "chatLog": [
+    "[02:51] [8b8t] >> Use the command /login <password>.",
+    "[02:51] [8b8t] >> You have successfully logged.",
+    "[02:51] [8b8t] Unknown command do /help",
+    "[02:51] ",
+    "[02:51]  [8builders8tools]",
+    "[02:51]  Perform the command /discord add to register",
+    "[02:51]  your discord. By doing so, you",
+    "[02:51]  decrease the chance of being hacked.",
+    "[02:51] ",
+    "[02:51]   [Confirm read]\n",
+    "[02:51] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[02:51] [8b8t] >> ▲ Player HienBot Joined.",
+    "[02:51] [8b8t] >> You are already ignoring that player",
+    "[02:51] [8b8t] >> ▼ Player hein Left.",
+    "[02:51] [8b8t] >> ▲ Player Hien2309 Joined."
+  ],
   "userStats": {
     "Hien2309": 34,
     "doyoda1292": 8,
