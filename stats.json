@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:28:03 20/2/2026",
-  "totalKits": 100442,
-  "todayKits": 199,
-  "onlineCount": 50,
+  "lastUpdated": "03:28:22 20/2/2026",
+  "totalKits": 100443,
+  "todayKits": 200,
+  "onlineCount": 51,
   "peakPlayers": 70,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 25
   },
-  "tps": "7.0",
-  "ping": 198,
+  "tps": "5.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 118
+      "count": 119
     },
     {
       "name": "survival",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:27] To scattosh: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:27] To closepvp: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:27] [8b8t] >> Request sent to closepvp",
-    "[20:27] [Youtuber] <elproplayerxddd> botchaosonix666",
-    "[20:27] [8b8t] >> Teleporting...",
-    "[20:27] [8b8t] >> ▲ Player imnotoldmacbook Joined.",
-    "[20:27] UdoFreak forgot to bring their parachute",
-    "[20:27] [Youtuber] <elproplayerxddd> 1v1 whit hanae",
-    "[20:27] <botchaosonix666> what?",
-    "[20:27] <scattosh> !gear",
-    "[20:27] _Marlowww_ thought they could fly... they couldn't",
-    "[20:27] To scattosh: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:27] [8b8t] >> You have killed yourself!",
-    "[20:27] HienBot was EZ clapped by closepvp using [flint and steel]",
     "[20:27] [Youtuber] <elproplayerxddd> i want to se",
     "[20:27] [8b8t] >> ▼ Player .unknownguy59093 Left.",
     "[20:27] [Youtuber] <elproplayerxddd> gooo",
@@ -108,7 +94,21 @@
     "[20:27] [8b8t] >> Request sent to scattosh",
     "[20:27] [8b8t] >> Teleporting...",
     "[20:27] <UdoFreak> !pvp",
-    "[20:27] To UdoFreak: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot"
+    "[20:27] To UdoFreak: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[20:28] [8b8t] >> You have killed yourself!",
+    "[20:28] To scattosh: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:28] <UdoFreak> !pvp",
+    "[20:28] To scattosh: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
+    "[20:28] [8b8t] >> Teleporting to home 0...",
+    "[20:28] [8b8t] >> Teleporting to home 1...",
+    "[20:28] To UdoFreak: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:28] To UdoFreak: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:28] [8b8t] >> ▲ Player peacebringer12 Joined.",
+    "[20:28] [Youtuber] <elproplayerxddd> ohhh",
+    "[20:28] [8b8t] >> Request sent to UdoFreak",
+    "[20:28] [8b8t] >> Teleporting...",
+    "[20:28] _Marlowww_ decided to test gravity and lost",
+    "[20:28] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -602,10 +602,11 @@
     "klcenka": 4,
     "Lamox": 6,
     "scattosh": 8,
-    "ahhwolf41": 1
+    "ahhwolf41": 1,
+    "UdoFreak": 1
   },
   "kitStats": {
-    "pvp": 118,
+    "pvp": 119,
     "raid": 21,
     "survival": 49,
     "shulker": 152,
