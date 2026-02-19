@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:53:58 19/2/2026",
+  "lastUpdated": "19:54:22 19/2/2026",
   "totalKits": 100252,
   "todayKits": 9,
   "onlineCount": 17,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "12.0",
-  "ping": 200,
+  "tps": "10.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 18
+      "count": 19
     },
     {
       "name": "stash",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:52] To martinh4pro: You're on cooldown, try again in 17 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:52] [8b8t] >> ▲ Player Blue_Fragment_ Joined.",
-    "[12:52] [BOT] <HienBot> >Items for PVP and Building available in !build",
-    "[12:53] <martinh4pro> !build",
-    "[12:53] [8b8t] >> Teleporting to home 0...",
-    "[12:53] [8b8t] >> Teleporting to home 2...",
-    "[12:53] To martinh4pro: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:53] To martinh4pro: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:53] [8b8t] >> Request sent to martinh4pro",
-    "[12:53] [8b8t] >> ▲ Player Volt695367 Joined.",
-    "[12:53] [8b8t] >> Teleporting...",
-    "[12:53] [8b8t] >> You have killed yourself!",
     "[12:53] HienBot was destroyed by martinh4pro",
     "[12:53] To martinh4pro: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:53] To martinh4pro: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
@@ -108,7 +96,19 @@
     "[12:53] [8b8t] >> Request sent to Volt695367",
     "[12:53] [8b8t] >> Teleporting...",
     "[12:53] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:53] [BOT] <HienBot> >Use !lang and select your language"
+    "[12:53] [BOT] <HienBot> >Use !lang and select your language",
+    "[12:54] [8b8t] >> You have killed yourself!",
+    "[12:54] <Blue_Fragment_> !lang",
+    "[12:54] To Blue_Fragment_: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
+    "[12:54] To Volt695367: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[12:54] To Volt695367: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
+    "[12:54] <Blue_Fragment_> !lang en",
+    "[12:54] To Blue_Fragment_: Language set to English! | dsc.gg/hienbot",
+    "[12:54] Volt695367 Whispers: thanks",
+    "[12:54] <martinh4pro> !rocket",
+    "[12:54] [8b8t] >> Teleporting to home 0...",
+    "[12:54] [8b8t] >> Teleporting to home 6...",
+    "[12:54] To martinh4pro: Your kit (rocket) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -562,7 +562,7 @@
     "thedidler": 1,
     "janekv": 1,
     "PURPLEDEMON": 3,
-    "martinh4pro": 6
+    "martinh4pro": 7
   },
   "kitStats": {
     "pvp": 74,
@@ -585,7 +585,7 @@
     "dupe": 3,
     "food": 6,
     "glass": 5,
-    "elytra": 18,
+    "elytra": 19,
     "redstone": 5,
     "quartz": 5,
     "highway": 2,
