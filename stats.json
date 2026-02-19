@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:28:22 19/2/2026",
-  "totalKits": 100325,
-  "todayKits": 82,
+  "lastUpdated": "23:28:42 19/2/2026",
+  "totalKits": 100326,
+  "todayKits": 83,
   "onlineCount": 30,
   "peakPlayers": 35,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 19
   },
-  "tps": "7.0",
+  "tps": "10.0",
   "ping": 201,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 90
+      "count": 91
     },
     {
       "name": "survival",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:25] [8b8t] >> ▲ Player liviaaaaaaa Joined.",
-    "[16:25] [8b8t] >> ▼ Player Holasoynose9 Left.",
-    "[16:25] [8b8t] >> ▲ Player scuardd Joined.",
-    "[16:25] [BOT] <HienBot> >Want to see your ping? Chat !ping",
-    "[16:25] [8b8t] >> ▲ Player Benterdecool Joined.",
-    "[16:26] [8b8t] >> ▲ Player Elchimuelo08 Joined.",
-    "[16:26] [8b8t] >> ▼ Player IgnacyXDXD Left.",
-    "[16:26] [8b8t] >> ▲ Player coldbyte Joined.",
-    "[16:26] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
-    "[16:26] [8b8t] >> ▼ Player liviaaaaaaa Left.",
     "[16:26] [8b8t] >> ▲ Player ArtNickBR Joined.",
     "[16:26] [8b8t] >> ▲ Player cris12wi Joined.",
     "[16:26] <imnewtopvp354868> @ping",
@@ -108,7 +98,17 @@
     "[16:28] [8b8t] >> ▲ Player catcola3 Joined.",
     "[16:28] [8b8t] >> ▼ Player cris12wi Left.",
     "[16:28] ArtNickBR forgot to bring their parachute",
-    "[16:28] [8b8t] >> ▲ Player zScrullx Joined."
+    "[16:28] [8b8t] >> ▲ Player zScrullx Joined.",
+    "[16:28] Benterdecool decided to test gravity and lost",
+    "[16:28] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[16:28] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
+    "[16:28] <imnewtopvp354868> !pvp",
+    "[16:28] [8b8t] >> Teleporting to home 0...",
+    "[16:28] [8b8t] >> Teleporting to home 1...",
+    "[16:28] To imnewtopvp354868: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:28] To imnewtopvp354868: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:28] [8b8t] >> Request sent to imnewtopvp354868",
+    "[16:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 43,
@@ -418,7 +418,7 @@
     "mmddmmm": 1,
     "5K37CH": 1,
     "mako": 1,
-    "imnewtopvp354868": 17,
+    "imnewtopvp354868": 18,
     "missedfish": 1,
     "robbyfox": 1,
     "llvashll": 1,
@@ -578,7 +578,7 @@
     "nuklear1": 1
   },
   "kitStats": {
-    "pvp": 90,
+    "pvp": 91,
     "raid": 13,
     "survival": 36,
     "shulker": 118,
