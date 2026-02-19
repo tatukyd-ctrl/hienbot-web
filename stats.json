@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:41:26 19/2/2026",
+  "lastUpdated": "17:41:56 19/2/2026",
   "totalKits": 100236,
   "todayKits": 18,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 24,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "13.0",
-  "ping": 229,
+  "tps": "12.0",
+  "ping": 222,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 21
+      "count": 22
     },
     {
       "name": "stash",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:39] <Alisha_YT> !survival",
-    "[10:39] To Alisha_YT: You're on cooldown, try again in 14 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:39] <Anormous> Alisha_YT u got stuff>w",
-    "[10:39] [BOT] <HienBot> >Use !info <player> to check someone's stats",
-    "[10:39] [8b8t] >> ▲ Player botchaosonix Joined.",
-    "[10:39] [8b8t] >> Successfully ignored player botchaosonix",
-    "[10:39] [8b8t] >> ▼ Player liviaaaaaaa Left.",
-    "[10:39] <Anormous> !survival",
-    "[10:39] [8b8t] >> Teleporting to home 0...",
-    "[10:39] [8b8t] >> Teleporting to home 1...",
-    "[10:39] To Anormous: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:39] To Anormous: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:39] [8b8t] >> Request sent to Anormous",
     "[10:39] <Alisha_YT> !survival",
     "[10:39] To Alisha_YT: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[10:40] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
@@ -108,7 +95,20 @@
     "[10:40] Anormous thought they could fly... they couldn't",
     "[10:40] [8b8t] >> ▼ Player Alisha_YT Left.",
     "[10:41] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[10:41] [8b8t] >> ▲ Player KurtzMC Joined."
+    "[10:41] [8b8t] >> ▲ Player KurtzMC Joined.",
+    "[10:41] <Anormous> !survival",
+    "[10:41] [8b8t] >> Teleporting to home 0...",
+    "[10:41] [8b8t] >> Teleporting to home 1...",
+    "[10:41] To Anormous: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:41] To Anormous: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:41] [8b8t] >> Request sent to Anormous",
+    "[10:41] [8b8t] >> ▲ Player nerearodrigueezz Joined.",
+    "[10:41] botchaosonix pulverized CatGirlKylie using [netherite sword]",
+    "[10:41] Anormous has made the advancement [Stone Age]",
+    "[10:41] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[10:41] Anormous got his head blown off by the Wither",
+    "[10:41] nerearodrigueezz decided to test gravity and lost",
+    "[10:41] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -557,12 +557,12 @@
     "jasxnmzk2025": 4,
     "coldbyte": 7,
     "Alisha_YT": 1,
-    "Anormous": 1
+    "Anormous": 2
   },
   "kitStats": {
     "pvp": 72,
     "raid": 11,
-    "survival": 21,
+    "survival": 22,
     "shulker": 102,
     "music": 3,
     "terracotta": 5,
