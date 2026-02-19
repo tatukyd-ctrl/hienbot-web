@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:05:27 19/2/2026",
+  "lastUpdated": "08:05:57 19/2/2026",
   "totalKits": 100157,
   "todayKits": 0,
-  "onlineCount": 30,
+  "onlineCount": 28,
   "peakPlayers": 32,
   "playerStats": {
     "min": 28,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 38
   },
-  "tps": "9.0",
-  "ping": 211,
+  "tps": "12.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 80
+      "count": 81
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:01] To BigBear.: You're on cooldown, try again in 60 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:01] [8b8t] >> The TPA request you sent to BigBear. was successfully canceled.",
-    "[01:01] <BigBear.> !a",
-    "[01:01] To BigBear.: You're on cooldown, try again in 57 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:01] <BigBear.> !a",
-    "[01:02] To BigBear.: You're on cooldown, try again in 54 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:02] <BigBear.> !a",
-    "[01:02] To BigBear.: You're on cooldown, try again in 51 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:02] [8b8t] >> Successfully ignored player BigBear.",
-    "[01:02] [8b8t] >> ▼ Player Elmonito1234 Left.",
-    "[01:02] <Dragonfaire> ME AJUDA DOU DIMA",
-    "[01:02] <Dragonfaire> ME AJUDA",
     "[01:02] <MasterWo> !a que oe tarao",
     "[01:02] [8b8t] >> ▲ Player Elmonito1234 Joined.",
     "[01:03] [8b8t] >> ▲ Player Mr_Manznin Joined.",
@@ -108,7 +96,19 @@
     "[01:05] [8b8t] >> ▲ Player kennethhh11 Joined.",
     "[01:05] [8b8t] >> ▼ Player _aksn Left.",
     "[01:05] [8b8t] >> ▲ Player rednigth119 Joined.",
-    "[01:05] [8b8t] >> ▲ Player Elmonito1234 Joined."
+    "[01:05] [8b8t] >> ▲ Player Elmonito1234 Joined.",
+    "[01:05] Dragonfaire forgot to bring their parachute",
+    "[01:05] [8b8t] >> ▼ Player .Krista_052178 Left.",
+    "[01:05] <Mr_Manznin> !shulker",
+    "[01:05] sofyxz decided to test gravity and lost",
+    "[01:05] [8b8t] >> Teleporting to home 0...",
+    "[01:05] [8b8t] >> Teleporting to home 6...",
+    "[01:05] To Mr_Manznin: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:05] [8b8t] >> ▼ Player Leeewiith3Es Left.",
+    "[01:05] To Mr_Manznin: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:05] [8b8t] >> Request sent to Mr_Manznin",
+    "[01:05] [8b8t] >> ▼ Player BigBear. Left.",
+    "[01:05] [8b8t] >> ▲ Player Leeewiith3Es Joined."
   ],
   "userStats": {
     "Hien2309": 31,
@@ -540,13 +540,14 @@
     "CarelCDK": 2,
     "WildWillRudy": 1,
     "smpucca": 1,
-    "sofyxz": 2
+    "sofyxz": 2,
+    "Mr_Manznin": 1
   },
   "kitStats": {
     "pvp": 51,
     "raid": 5,
     "survival": 9,
-    "shulker": 80,
+    "shulker": 81,
     "music": 2,
     "terracotta": 4,
     "lightsources": 1,
