@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:38:41 19/2/2026",
+  "lastUpdated": "17:38:56 19/2/2026",
   "totalKits": 100234,
   "todayKits": 16,
   "onlineCount": 19,
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 255,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 18
+      "count": 19
     },
     {
       "name": "stash",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:37] DeadlyNyxian got the wither disease",
-    "[10:37] <DeadlyNyxian> !survival",
-    "[10:37] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[10:37] <Anormous> !survival",
-    "[10:37] [8b8t] >> Use the command /login <password>.",
-    "[10:37] [8b8t] >> You have successfully logged.",
-    "[10:37] [8b8t] Unknown command do /help",
-    "[10:37] ",
-    "[10:37]  [8builders8tools]",
     "[10:37]  Perform the command /discord add to register",
     "[10:37]  your discord. By doing so, you",
     "[10:37]  decrease the chance of being hacked.",
@@ -108,7 +99,16 @@
     "[10:38] To DeadlyNyxian: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:38] [8b8t] >> Request sent to DeadlyNyxian",
     "[10:38] [8b8t] >> Teleporting...",
-    "[10:38] <Alisha_YT> can anyone help me i am new"
+    "[10:38] <Alisha_YT> can anyone help me i am new",
+    "[10:38] [8b8t] >> You have killed yourself!",
+    "[10:38] <Anormous> i m new to",
+    "[10:38] <Alisha_YT> !survival",
+    "[10:38] [8b8t] >> Teleporting to home 0...",
+    "[10:38] [8b8t] >> Teleporting to home 1...",
+    "[10:38] To Alisha_YT: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:38] To Alisha_YT: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:38] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[10:38] [8b8t] >> Request sent to Alisha_YT"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -555,12 +555,13 @@
     ".CSSX3049": 1,
     "Lyreach": 2,
     "jasxnmzk2025": 4,
-    "coldbyte": 7
+    "coldbyte": 7,
+    "Alisha_YT": 1
   },
   "kitStats": {
     "pvp": 72,
     "raid": 11,
-    "survival": 18,
+    "survival": 19,
     "shulker": 102,
     "music": 3,
     "terracotta": 5,
