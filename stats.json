@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:05:22 19/2/2026",
+  "lastUpdated": "19:05:52 19/2/2026",
   "totalKits": 100243,
   "todayKits": 0,
   "onlineCount": 16,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "12.0",
-  "ping": 246,
+  "tps": "11.0",
+  "ping": 237,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 105
+      "count": 106
     },
     {
       "name": "pvp",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:00] [BOT] <HienBot> testttttttttttttttttt",
-    "[12:00] [BOT] <HienBot> doesn't work",
-    "[12:00] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
-    "[12:00] [Mini] <hein> !invite",
-    "[12:00] To Hien2309: Invite Rewards: 1 Inv=50 kits, 2 Inv=120 kits, 3 Inv=170 kits, 4 Inv=230 kits, 5 Inv=280 kits, 10 Inv=600 kits. dsc.gg/hienbot",
-    "[12:00] [BOT] <HienBot> !invite",
     "[12:00] [8b8t] >> ▼ Player Leeewiith3Es Left.",
     "[12:00] [BOT] <HienBot> >Use !list to choose your kit",
     "[12:01] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
@@ -108,7 +102,13 @@
     "[12:04] [BOT] <HienBot> >What's up, DPS_Voyager_bot?",
     "[12:05] [8b8t] >> ▲ Player janekv Joined.",
     "[12:05] [8b8t] >> ▲ Player BigBear Joined.",
-    "[12:05] <PURPLEDEMON> yo guys?"
+    "[12:05] <PURPLEDEMON> yo guys?",
+    "[12:05] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[12:05] <janekv> !shulker",
+    "[12:05] [8b8t] >> Teleporting to home 0...",
+    "[12:05] [8b8t] >> Teleporting to home 6...",
+    "[12:05] To janekv: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:05] To janekv: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -559,13 +559,14 @@
     "Alisha_YT": 1,
     "Anormous": 3,
     "broncobusted": 2,
-    "thedidler": 1
+    "thedidler": 1,
+    "janekv": 1
   },
   "kitStats": {
     "pvp": 72,
     "raid": 12,
     "survival": 23,
-    "shulker": 105,
+    "shulker": 106,
     "music": 3,
     "terracotta": 6,
     "lightsources": 5,
