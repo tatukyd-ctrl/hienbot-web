@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:06:25 19/2/2026",
+  "lastUpdated": "12:06:38 19/2/2026",
   "totalKits": 100199,
   "todayKits": 4,
   "onlineCount": 18,
@@ -70,17 +70,15 @@
       "count": 12
     },
     {
-      "name": "survival",
-      "count": 10
+      "name": "stash",
+      "count": 11
     },
     {
-      "name": "stash",
+      "name": "survival",
       "count": 10
     }
   ],
   "chatLog": [
-    "[05:03] [8b8t] >> Request sent to AkashMC7",
-    "[05:03] <AkashMC7> !elytra",
     "[05:03] To AkashMC7: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[05:03] [8b8t] >> ▼ Player jackzuz Left.",
     "[05:03] <AkashMC7> !stash",
@@ -108,7 +106,9 @@
     "[05:06] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[05:06] [8b8t] >> Please do not spam.",
     "[05:06] [8b8t] >> ▲ Player Cat6e Joined.",
-    "[05:06] [8b8t] >> Teleporting..."
+    "[05:06] [8b8t] >> Teleporting...",
+    "[05:06] [8b8t] >> You have killed yourself!",
+    "[05:06] <Stuff_Thing> !stash"
   ],
   "userStats": {
     "Hien2309": 37,
@@ -547,7 +547,7 @@
     "aferradoltlt": 1,
     "MxRgB": 1,
     "cutelotl_": 1,
-    "Stuff_Thing": 3,
+    "Stuff_Thing": 4,
     "AkashMC7": 2
   },
   "kitStats": {
@@ -563,7 +563,7 @@
     "toolbox": 5,
     "wool": 8,
     "exp": 6,
-    "stash": 10,
+    "stash": 11,
     "ocean": 12,
     "build": 9,
     "dye": 5,
