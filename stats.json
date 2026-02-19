@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:24:08 19/2/2026",
-  "totalKits": 100195,
-  "todayKits": 0,
-  "onlineCount": 8,
-  "peakPlayers": 8,
+  "lastUpdated": "11:24:30 19/2/2026",
+  "totalKits": 100196,
+  "todayKits": 1,
+  "onlineCount": 9,
+  "peakPlayers": 9,
   "playerStats": {
     "min": 0,
     "minTime": "09:46:31 19/2/2026",
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 20
   },
-  "tps": "17.0",
+  "tps": "19.0",
   "ping": 196,
   "topUsers": [
     {
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:18] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[04:18] [8b8t] >> ▲ Player HienBot Joined.",
-    "[04:18] [8b8t] >> You are already ignoring that player",
-    "[04:19] [BOT] <HienBot> >Use !pvp to get kits",
-    "[04:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:19] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
-    "[04:20] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[04:20] [8b8t] >> ▼ Player AetherionV26 Left.",
-    "[04:20] [BOT] <HienBot> >Type !pvp to get free kits",
-    "[04:21] [Pro+] <bugbar> !ocean",
-    "[04:21] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[04:21] You were kicked from 8b8t: Timed out",
     "[04:21] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
     "[04:23] [8b8t] >> Use the command /login <password>.",
@@ -108,7 +97,18 @@
     "[04:23] [8b8t] >> ▲ Player cutelotl_ Joined.",
     "[04:23] [BOT] <HienBot> >Want to see your ping? Chat !ping",
     "[04:23] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[04:24] [8b8t] >> ▲ Player Leeewiith3Es Joined."
+    "[04:24] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
+    "[04:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[04:24] cutelotl_ Whispers: !kit ilegal",
+    "[04:24] [8b8t] >> Teleporting to home 0...",
+    "[04:24] [8b8t] >> Teleporting to home 5...",
+    "[04:24] To cutelotl_: Kit \"ilegal\" not found! Giving you (quartz) instead! dsc.gg/hienbot",
+    "[04:24] [8b8t] >> ▲ Player TulagrandBot Joined.",
+    "[04:24] [8b8t] >> You are already ignoring that player",
+    "[04:24] [8b8t] >> Please do not spam.",
+    "[04:24] To cutelotl_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:24] [8b8t] >> Request sent to cutelotl_",
+    "[04:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 37,
@@ -545,7 +545,8 @@
     "DeltaRay11": 2,
     "BitRogue": 1,
     "aferradoltlt": 1,
-    "MxRgB": 1
+    "MxRgB": 1,
+    "cutelotl_": 1
   },
   "kitStats": {
     "pvp": 56,
@@ -570,7 +571,7 @@
     "glass": 3,
     "elytra": 5,
     "redstone": 4,
-    "quartz": 4,
+    "quartz": 5,
     "highway": 2,
     "gap": 1,
     "mineral": 3,
