@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:30:05 20/2/2026",
+  "lastUpdated": "05:30:22 20/2/2026",
   "totalKits": 100539,
   "todayKits": 296,
   "onlineCount": 38,
@@ -12,8 +12,8 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 27
   },
-  "tps": "5.0",
-  "ping": 202,
+  "tps": "8.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,16 +75,10 @@
     },
     {
       "name": "stash",
-      "count": 43
+      "count": 44
     }
   ],
   "chatLog": [
-    "[22:29] [Ultra] <KurtzMC> XD",
-    "[22:29] <iDulx> !toolbox",
-    "[22:29] [8b8t] >> Teleporting to home 0...",
-    "[22:29] [8b8t] >> Teleporting to home 4...",
-    "[22:29] To iDulx: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:29] [Ultra] <KurtzMC> bro no confia",
     "[22:29] To iDulx: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:29] [8b8t] >> Request sent to iDulx",
     "[22:29] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
@@ -108,7 +102,13 @@
     "[22:29] To Chocta: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:29] [8b8t] >> Request sent to Chocta",
     "[22:29] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[22:30] [8b8t] >> Teleporting..."
+    "[22:30] [8b8t] >> Teleporting...",
+    "[22:30] <iDulx> !list",
+    "[22:30] To iDulx: Hello iDulx!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:30] [XMAS2025] <Tobias> no toques nada",
+    "[22:30] [BOT] <HienBot> >Use !info <player> to check someone's stats",
+    "[22:30] <iDulx> !stash",
+    "[22:30] [8b8t] >> You have killed yourself!"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -606,7 +606,7 @@
     "UdoFreak": 1,
     "akaza2121": 1,
     "danielff_pro123": 6,
-    "iDulx": 17,
+    "iDulx": 18,
     "EzielChicago": 1,
     "kuorbq": 2,
     "BaseWatcher": 1,
@@ -639,7 +639,7 @@
     "toolbox": 13,
     "wool": 21,
     "exp": 14,
-    "stash": 43,
+    "stash": 44,
     "ocean": 21,
     "build": 27,
     "dye": 16,
