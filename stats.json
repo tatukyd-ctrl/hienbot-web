@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:09:22 20/2/2026",
+  "lastUpdated": "06:09:52 20/2/2026",
   "totalKits": 100545,
   "todayKits": 302,
-  "onlineCount": 25,
+  "onlineCount": 24,
   "peakPlayers": 70,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 28
   },
-  "tps": "6.0",
+  "tps": "11.0",
   "ping": 201,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 154
+      "count": 155
     },
     {
       "name": "survival",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:05] [8b8t] >> ▼ Player SINMENTE_PC Left.",
-    "[23:05] .newfolder9 has made the advancement [Ice Bucket Challenge]",
-    "[23:05] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[23:05] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
-    "[23:05] [8b8t] >> ▼ Player dominator089 Left.",
-    "[23:05] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[23:06] <diegasogame> ok",
     "[23:06] [BOT] <HienBot> >Running low on supplies? Use !survival",
     "[23:06] <Tiger97_7> elproplayerxddd estoy en nether ya | HɪɢʜWᴀy Bᴜɪʟᴅᴇʀ!",
     "[23:06] [Youtuber] <elproplayerxddd> espera",
@@ -108,7 +101,14 @@
     "[23:08] <botchaosonix666> go",
     "[23:08] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
     "[23:08] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[23:09] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!"
+    "[23:09] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
+    "[23:09] <.newfolder9> !gear",
+    "[23:09] [8b8t] >> Teleporting to home 0...",
+    "[23:09] [8b8t] >> Teleporting to home 1...",
+    "[23:09] To .newfolder9: Kit \"gear\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[23:09] To .newfolder9: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[23:09] [BOT] <HienBot> >Try !list to see available kits",
+    "[23:09] [8b8t] >> ▼ Player botchaosonix666 Left."
   ],
   "userStats": {
     "Hien2309": 43,
@@ -624,10 +624,11 @@
     "fen_na_azis": 2,
     "jamer35": 1,
     "oowv": 2,
-    "Chocta": 8
+    "Chocta": 8,
+    ".newfolder9": 1
   },
   "kitStats": {
-    "pvp": 154,
+    "pvp": 155,
     "raid": 23,
     "survival": 71,
     "shulker": 172,
