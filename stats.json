@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:27:22 20/2/2026",
-  "totalKits": 100497,
-  "todayKits": 254,
-  "onlineCount": 47,
+  "lastUpdated": "04:27:43 20/2/2026",
+  "totalKits": 100498,
+  "todayKits": 255,
+  "onlineCount": 46,
   "peakPlayers": 70,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 26
   },
-  "tps": "10.0",
+  "tps": "7.0",
   "ping": 213,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 55
+      "count": 56
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:25] To ezzz_mario222: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[21:25] <InsaneBoi69> u still there",
-    "[21:25] [BOT] <HienBot> >Type !discord",
-    "[21:25] [Ultra] <blake> no",
-    "[21:25] <baleandro> !shulker",
-    "[21:25] [8b8t] >> Teleporting to home 0...",
-    "[21:25] [8b8t] >> Teleporting to home 6...",
-    "[21:25] To baleandro: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:26] To baleandro: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[21:26] [8b8t] >> ▼ Player Alemeja Left.",
-    "[21:26] <mghpthefish> damn someone already found my base",
     "[21:26] [Ultra] <blake> peaced",
     "[21:26] <mghpthefish> i mean expected",
     "[21:26] Cold_1 has made the advancement [Diamonds!]",
@@ -108,7 +97,18 @@
     "[21:27] baleandro has reached the goal [Postmortal]",
     "[21:27] Cold_1 has made the advancement [Acquire Hardware]",
     "[21:27] [Ultra] <blake> brb",
-    "[21:27] [BOT] <HienBot> >Running low on supplies? Use !survival"
+    "[21:27] [BOT] <HienBot> >Running low on supplies? Use !survival",
+    "[21:27] <mghpthefish> or !gift",
+    "[21:27] [Ultra] <blake> !survival",
+    "[21:27] [8b8t] >> Teleporting to home 0...",
+    "[21:27] [8b8t] >> Teleporting to home 1...",
+    "[21:27] To blake56: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:27] To blake56: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:27] [8b8t] >> Request sent to blake56",
+    "[21:27] Cold_1 has made the advancement [Cover Me With Diamonds]",
+    "[21:27] [8b8t] >> ▼ Player .Ratlle2640 Left.",
+    "[21:27] <botchaosonix666> no pearl",
+    "[21:27] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 43,
@@ -615,12 +615,13 @@
     "Alemeja": 1,
     "ezzz_mario222": 2,
     "IamNoah_": 1,
-    "baleandro": 1
+    "baleandro": 1,
+    "blake56": 1
   },
   "kitStats": {
     "pvp": 134,
     "raid": 21,
-    "survival": 55,
+    "survival": 56,
     "shulker": 164,
     "music": 11,
     "terracotta": 7,
