@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:38:25 19/2/2026",
+  "lastUpdated": "22:38:52 19/2/2026",
   "totalKits": 100285,
   "todayKits": 42,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 35,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 18
   },
-  "tps": "12.0",
-  "ping": 205,
+  "tps": "9.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 85
+      "count": 86
     },
     {
       "name": "survival",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:37] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[15:37] [8b8t] >> ▲ Player IgnacyXDXD Joined.",
-    "[15:37] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[15:37] [8b8t] >> ▼ Player _Marlowww_ Left.",
-    "[15:37] <NotBerryXD> !survival",
-    "[15:37] [8b8t] >> Teleporting to home 0...",
-    "[15:37] [8b8t] >> Teleporting to home 1...",
-    "[15:37] To NotBerryXD: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:37] IgnacyXDXD has made the advancement [Monster Hunter]",
-    "[15:37] To NotBerryXD: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:37] [8b8t] >> Request sent to NotBerryXD",
-    "[15:37] [8b8t] >> ▲ Player _Marlowww_ Joined.",
-    "[15:37] [8b8t] >> ▼ Player BOTRKT Left.",
-    "[15:37] [8b8t] >> ▲ Player jasxnmzk2025 Joined.",
-    "[15:37] <.DNS_Craft180> !shulker",
-    "[15:37] To .DNS_Craft180: 请稍等。别忘了加入 HienBot Group dsc.gg/hienbot",
     "[15:37] [BOT] <HienBot> >Want to see the server's tps? Chat !tps",
     "[15:37] [8b8t] >> Teleporting...",
     "[15:38] [8b8t] >> You have killed yourself!",
@@ -108,7 +92,23 @@
     "[15:38] To IgnacyXDXD: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:38] [8b8t] >> Request sent to IgnacyXDXD",
     "[15:38] [8b8t] >> Teleporting...",
-    "[15:38] <sofyxz> !pvp"
+    "[15:38] <sofyxz> !pvp",
+    "[15:38] To sofyxz: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[15:38] [8b8t] >> You have killed yourself!",
+    "[15:38] [BOT] <HienBot> >Get a head start with !survival",
+    "[15:38] <Leo_MendeZz> !pvp",
+    "[15:38] To IgnacyXDXD: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[15:38] [8b8t] >> Teleporting to home 0...",
+    "[15:38] To IgnacyXDXD: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
+    "[15:38] [8b8t] >> Teleporting to home 1...",
+    "[15:38] To Leo_MendeZz: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:38] <NotBerryXD> !kill",
+    "[15:38] To NotBerryXD: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[15:38] <MarcosVinicius27> !pvp",
+    "[15:38] To Leo_MendeZz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:38] To MarcosVinicius27: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[15:38] [8b8t] >> Request sent to Leo_MendeZz",
+    "[15:38] [8b8t] >> ▼ Player KurtzMC Left."
   ],
   "userStats": {
     "Hien2309": 43,
@@ -571,10 +571,10 @@
     "_Marlowww_": 1,
     "NotBerryXD": 2,
     ".DNS_Craft180": 1,
-    "Leo_MendeZz": 1
+    "Leo_MendeZz": 2
   },
   "kitStats": {
-    "pvp": 85,
+    "pvp": 86,
     "raid": 13,
     "survival": 33,
     "shulker": 112,
