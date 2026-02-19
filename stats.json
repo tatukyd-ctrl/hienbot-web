@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:17:08 19/2/2026",
+  "lastUpdated": "15:17:38 19/2/2026",
   "totalKits": 100211,
   "todayKits": 16,
-  "onlineCount": 17,
+  "onlineCount": 15,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 16
   },
-  "tps": "11.0",
-  "ping": 272,
+  "tps": "14.0",
+  "ping": 199,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 12
+      "count": 13
     },
     {
       "name": "stash",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:13] [8b8t] >> Request sent to Hien2309",
-    "[08:13] [8b8t] >> Teleporting...",
-    "[08:13] [8b8t] >> You have killed yourself!",
-    "[08:14] Lyreach forgot to bring their parachute",
-    "[08:14] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[08:14] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[08:14] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[08:14] [BOT] <HienBot> >Want to see whose ping is the best? Chat !bestping",
-    "[08:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:15] Lyreach has made the advancement [Stone Age]",
-    "[08:15] Lyreach got a deadly lesson from the Wither",
     "[08:15] [BOT] <HienBot> >Bot created by Hien2309.",
     "[08:15] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
     "[08:15] spteen forgot to bring their parachute",
@@ -108,7 +97,18 @@
     "[08:16] To Lyreach: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[08:16] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
     "[08:16] To Lyreach: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[08:17] [BOT] <HienBot> >Hey Lyreach!"
+    "[08:17] [BOT] <HienBot> >Hey Lyreach!",
+    "[08:17] Lyreach Whispers: !kit",
+    "[08:17] To Lyreach: Hello Lyreach!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[08:17] [8b8t] >> ▼ Player CPVP_player Left.",
+    "[08:17] [8b8t] >> ▼ Player .CycloidQwQ Left.",
+    "[08:17] <Lyreach> !survival",
+    "[08:17] [8b8t] >> Teleporting to home 0...",
+    "[08:17] [8b8t] >> Teleporting to home 1...",
+    "[08:17] To Lyreach: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:17] [BOT] <HienBot> >Hey Lyreach!",
+    "[08:17] To Lyreach: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:17] [8b8t] >> Request sent to Lyreach"
   ],
   "userStats": {
     "Hien2309": 40,
@@ -553,12 +553,12 @@
     "Pritom_xD": 1,
     "DaddyShawn980": 4,
     ".CSSX3049": 1,
-    "Lyreach": 1
+    "Lyreach": 2
   },
   "kitStats": {
     "pvp": 56,
     "raid": 10,
-    "survival": 12,
+    "survival": 13,
     "shulker": 98,
     "music": 3,
     "terracotta": 5,
