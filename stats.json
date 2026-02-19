@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:02:22 20/2/2026",
+  "lastUpdated": "03:02:52 20/2/2026",
   "totalKits": 100417,
   "todayKits": 174,
   "onlineCount": 64,
@@ -12,8 +12,8 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 24
   },
-  "tps": "3.0",
-  "ping": 227,
+  "tps": "5.0",
+  "ping": 220,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:00] [BOT] <HienBot> >Get fully equipped with !pvp",
-    "[20:00] <kennethhh11> im from argentina",
-    "[20:00] [8b8t] >> You have killed yourself!",
-    "[20:00] <Nnafily> uuh you chat and you act like one",
-    "[20:00] To SaintzysAlterEgo: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[20:00] To SaintzysAlterEgo: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[20:00] <Nnafily> maybe your ot",
-    "[20:00] MIHAI_128 was eaten alive by a Zombie",
-    "[20:01] [8b8t] >> ▲ Player DPS_Chatbridge Joined.",
-    "[20:01] [8b8t] >> ▼ Player elproplayerxddd Left.",
-    "[20:01] [8b8t] >> ▼ Player SINMENTE_PC Left.",
-    "[20:01] <Nnafily> your probably 12",
-    "[20:01] <kennethhh11> can you give me enderchest",
     "[20:01] [BOT] <DPS_Chatbridge> ><vlesmentie> Al finnn weon",
     "[20:01] Lamox has made the advancement [Acquire Hardware]",
     "[20:01] Lamox has made the advancement [Isn't It Iron Pick]",
@@ -108,7 +95,20 @@
     "[20:01] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[20:02] [8b8t] >> ▲ Player SINMENTE_PC Joined.",
     "[20:02] Lamox has made the advancement [Diamonds!]",
-    "[20:02] [BOT] <HienBot> >Type !discord"
+    "[20:02] [BOT] <HienBot> >Type !discord",
+    "[20:02] <_Marlowww_> MintKoala997563 you didnt even take loot you just decided to destroy it",
+    "[20:02] [Ultra] <> lol",
+    "[20:02] Lamox has made the advancement [Suit Up]",
+    "[20:02] klcenka tried to outswim the water",
+    "[20:02] <SaintzysAlterEgo> .!gear",
+    "[20:02] <Lamox> !gear",
+    "[20:02] <_Marlowww_> > thats what a 9 year old would do",
+    "[20:02] [8b8t] >> Teleporting to home 0...",
+    "[20:02] [8b8t] >> Teleporting to home 7...",
+    "[20:02] To Lamox: Kit \"gear\" not found! Giving you (tools) instead! dsc.gg/hienbot",
+    "[20:02] [BOT] <HienBot> >Running low on supplies? Use !survival",
+    "[20:02] To Lamox: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:02] [8b8t] >> Request sent to Lamox"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -599,7 +599,8 @@
     "Lukedroider": 1,
     "SaintzysAlterEgo": 2,
     "TheAirWaster": 1,
-    "klcenka": 2
+    "klcenka": 2,
+    "Lamox": 1
   },
   "kitStats": {
     "pvp": 113,
@@ -609,7 +610,7 @@
     "music": 8,
     "terracotta": 6,
     "lightsources": 6,
-    "tools": 11,
+    "tools": 12,
     "armortrims": 14,
     "toolbox": 12,
     "wool": 13,
