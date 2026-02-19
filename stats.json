@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:54:22 19/2/2026",
-  "totalKits": 100302,
-  "todayKits": 59,
-  "onlineCount": 32,
+  "lastUpdated": "22:54:52 19/2/2026",
+  "totalKits": 100303,
+  "todayKits": 60,
+  "onlineCount": 28,
   "peakPlayers": 35,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 19
   },
-  "tps": "7.0",
+  "tps": "11.0",
   "ping": 321,
   "topUsers": [
     {
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:53] Holasoynose9 tried to outswim the water",
-    "[15:53] To IgnacyXDXD: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:53] To IgnacyXDXD: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:53] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[15:53] [8b8t] >> Request sent to IgnacyXDXD",
-    "[15:53] Flawww_ has made the advancement [Getting an Upgrade]",
-    "[15:53] [8b8t] >> Teleporting...",
-    "[15:53] xShiroo burned up in a pit of lava",
-    "[15:53] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
-    "[15:53] .Ratlle2640 forgot to bring their parachute",
-    "[15:53] [8b8t] >> You have killed yourself!",
-    "[15:53] To IgnacyXDXD: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[15:53] To IgnacyXDXD: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[15:53] <sofyxz> !fly",
-    "[15:53] [8b8t] >> Teleporting to home 0...",
-    "[15:53] [8b8t] >> Teleporting to home 6...",
-    "[15:53] To sofyxz: Your kit (fly) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[15:53] To sofyxz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:53] [8b8t] >> Request sent to sofyxz",
     "[15:53] [8b8t] >> Teleporting...",
@@ -108,7 +91,24 @@
     "[15:53] [8b8t] >> ▼ Player NotBerryXD Left.",
     "[15:53] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[15:54] [8b8t] >> ▲ Player LaVaquita6344 Joined.",
-    "[15:54] [8b8t] >> ▲ Player Demiurg212 Joined."
+    "[15:54] [8b8t] >> ▲ Player Demiurg212 Joined.",
+    "[15:54] [8b8t] >> ▼ Player ilPaglia Left.",
+    "[15:54] [8b8t] >> ▼ Player LaVaquita6344 Left.",
+    "[15:54] [8b8t] >> ▼ Player popboco Left.",
+    "[15:54] [8b8t] >> ▼ Player Leeewiith3Es Left.",
+    "[15:54] [8b8t] >> ▼ Player bugbar Left.",
+    "[15:54] Demiurg212 died",
+    "[15:54] [BOT] <HienBot> >Use !lang and select your language",
+    "[15:54] [8b8t] >> ▲ Player popboco Joined.",
+    "[15:54] <MarcosVinicius27> !pvp3",
+    "[15:54] [8b8t] >> Teleporting to home 0...",
+    "[15:54] [8b8t] >> Teleporting to home 3...",
+    "[15:54] To MarcosVinicius27: Kit \"pvp3\" not found! Giving you (concrete) instead! dsc.gg/hienbot",
+    "[15:54] To MarcosVinicius27: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:54] [8b8t] >> Request sent to MarcosVinicius27",
+    "[15:54] <IgnacyXDXD> !pvp3",
+    "[15:54] To IgnacyXDXD: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[15:54] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 43,
@@ -571,7 +571,8 @@
     "_Marlowww_": 1,
     "NotBerryXD": 5,
     ".DNS_Craft180": 1,
-    "Leo_MendeZz": 5
+    "Leo_MendeZz": 5,
+    "MarcosVinicius27": 1
   },
   "kitStats": {
     "pvp": 90,
@@ -590,7 +591,7 @@
     "ocean": 16,
     "build": 11,
     "dye": 7,
-    "concrete": 6,
+    "concrete": 7,
     "dupe": 5,
     "food": 7,
     "glass": 6,
