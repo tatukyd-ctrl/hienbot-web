@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:05:38 19/2/2026",
+  "lastUpdated": "12:06:08 19/2/2026",
   "totalKits": 100198,
   "todayKits": 3,
-  "onlineCount": 18,
+  "onlineCount": 17,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:03] To Stuff_Thing: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:03] To Stuff_Thing: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:03] [8b8t] >> Please do not spam.",
-    "[05:03] [8b8t] >> Request sent to Stuff_Thing",
-    "[05:03] [8b8t] >> Teleporting...",
-    "[05:03] [8b8t] >> You have killed yourself!",
-    "[05:03] HienBot was pwned by Stuff_Thing wielding [their hand]",
-    "[05:03] <AkashMC7> !elytera",
-    "[05:03] [8b8t] >> Teleporting to home 0...",
     "[05:03] [8b8t] >> Teleporting to home 7...",
     "[05:03] To Stuff_Thing: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[05:03] To Stuff_Thing: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
@@ -108,7 +99,16 @@
     "[05:04] [BOT] <HienBot> >Use !lang and select your language",
     "[05:04] Stuff_Thing has made the advancement [Monster Hunter]",
     "[05:05] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[05:05] Stuff_Thing has reached the goal [Sky's the Limit]"
+    "[05:05] Stuff_Thing has reached the goal [Sky's the Limit]",
+    "[05:05] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[05:05] Stuff_Thing got slammed into a wall by his elytra",
+    "[05:06] <AkashMC7> !drop",
+    "[05:06] [8b8t] >> Teleporting to home 0...",
+    "[05:06] [8b8t] >> Teleporting to home 7...",
+    "[05:06] To AkashMC7: Kit \"drop\" not found! Giving you (armortrims) instead! dsc.gg/hienbot",
+    "[05:06] [8b8t] >> ▼ Player GXlANGELOlXZ Left.",
+    "[05:06] To AkashMC7: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:06] [8b8t] >> Request sent to AkashMC7"
   ],
   "userStats": {
     "Hien2309": 37,
@@ -548,7 +548,7 @@
     "MxRgB": 1,
     "cutelotl_": 1,
     "Stuff_Thing": 3,
-    "AkashMC7": 1
+    "AkashMC7": 2
   },
   "kitStats": {
     "pvp": 56,
@@ -559,7 +559,7 @@
     "terracotta": 5,
     "lightsources": 4,
     "tools": 6,
-    "armortrims": 8,
+    "armortrims": 9,
     "toolbox": 5,
     "wool": 8,
     "exp": 6,
