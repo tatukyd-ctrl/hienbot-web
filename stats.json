@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:54:52 20/2/2026",
+  "lastUpdated": "03:55:22 20/2/2026",
   "totalKits": 100474,
   "todayKits": 231,
   "onlineCount": 45,
@@ -12,7 +12,7 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 26
   },
-  "tps": "7.0",
+  "tps": "5.0",
   "ping": 219,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 157
+      "count": 158
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:54] <danielff_pro123> !pvp",
-    "[20:54] [8b8t] >> ▼ Player KurtzMC Left.",
-    "[20:54] [8b8t] >> Teleporting to home 0...",
-    "[20:54] [8b8t] >> Teleporting to home 1...",
-    "[20:54] To danielff_pro123: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:54] [8b8t] >> ▼ Player ASneakySenior Left.",
-    "[20:54] <iDulx> !shulker",
     "[20:54] To danielff_pro123: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:54] To iDulx: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:54] [8b8t] >> Request sent to danielff_pro123",
@@ -108,7 +101,14 @@
     "[20:54] skycotl19208kn got his head blown off by the Wither",
     "[20:54] [8b8t] >> You have killed yourself!",
     "[20:54] [8b8t] >> ▼ Player skycotl19208kn Left.",
-    "[20:54] [BOT] <HienBot> >Try /cosmetics to change your name color!"
+    "[20:54] [BOT] <HienBot> >Try /cosmetics to change your name color!",
+    "[20:55] [8b8t] >> ▼ Player Leeewiith3Es Left.",
+    "[20:55] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
+    "[20:55] [BOT] <HienBot> >Type !discord",
+    "[20:55] <iDulx> !shulker",
+    "[20:55] [8b8t] >> Teleporting to home 0...",
+    "[20:55] [8b8t] >> Teleporting to home 6...",
+    "[20:55] To iDulx: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -606,13 +606,13 @@
     "UdoFreak": 1,
     "akaza2121": 1,
     "danielff_pro123": 2,
-    "iDulx": 1
+    "iDulx": 2
   },
   "kitStats": {
     "pvp": 128,
     "raid": 21,
     "survival": 50,
-    "shulker": 157,
+    "shulker": 158,
     "music": 11,
     "terracotta": 7,
     "lightsources": 9,
