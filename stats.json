@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:35:22 20/2/2026",
+  "lastUpdated": "00:35:52 20/2/2026",
   "totalKits": 100345,
   "todayKits": 102,
   "onlineCount": 43,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 20
   },
-  "tps": "4.0",
-  "ping": 215,
+  "tps": "8.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 96
+      "count": 97
     },
     {
       "name": "survival",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[17:34] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[17:34] elproplayerxddd was pwned by _Marlowww_ wielding [mace]",
-    "[17:34] [Youtuber] <elproplayerxddd> uh????",
-    "[17:34] <botchaosonix666> bro",
-    "[17:34] [Youtuber] <elproplayerxddd> hahahahahaahaha",
-    "[17:34] [Youtuber] <elproplayerxddd> brooooo",
-    "[17:34] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[17:34] <_wari_> !ender",
-    "[17:34] To _wari_: You're on cooldown, try again in 4 seconds! Don't forget to join dsc.gg/hienbot",
     "[17:34] [8b8t] >> ▲ Player irlbeqs1 Joined.",
     "[17:34] [Youtuber] <elproplayerxddd> hahahahahaa",
     "[17:34] savageTiJi thought they could make it to oxygen in time",
@@ -108,7 +98,17 @@
     "[17:35] <botchaosonix666> hes legi",
     "[17:35] To _wari_: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[17:35] To _wari_: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[17:35] <botchaosonix666> legit"
+    "[17:35] <botchaosonix666> legit",
+    "[17:35] [BOT] <HienBot> >Need gear? Type !pvp to get started!",
+    "[17:35] savageTiJi burned up in a pit of lava",
+    "[17:35] [8b8t] >> ▲ Player Volt695367 Joined.",
+    "[17:35] <irlbeqs1> !pvp",
+    "[17:35] [8b8t] >> Teleporting to home 0...",
+    "[17:35] [8b8t] >> Teleporting to home 1...",
+    "[17:35] To irlbeqs1: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:35] [8b8t] >> ▼ Player maxataa12 Left.",
+    "[17:35] To irlbeqs1: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:35] [8b8t] >> Request sent to irlbeqs1"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -579,10 +579,11 @@
     "lostinapathy": 2,
     "benjarejas": 1,
     "2bits2things": 1,
-    "_wari_": 5
+    "_wari_": 5,
+    "irlbeqs1": 1
   },
   "kitStats": {
-    "pvp": 96,
+    "pvp": 97,
     "raid": 14,
     "survival": 38,
     "shulker": 122,
