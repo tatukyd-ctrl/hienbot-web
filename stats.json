@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:34:40 20/2/2026",
+  "lastUpdated": "04:34:52 20/2/2026",
   "totalKits": 100504,
   "todayKits": 261,
   "onlineCount": 51,
@@ -12,7 +12,7 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 27
   },
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 260,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 136
+      "count": 137
     },
     {
       "name": "survival",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:33] [Ultra] <blake> bye",
-    "[21:33] [8b8t] >> You have killed yourself!",
-    "[21:33] HienBot was rekt by zdeeq23 and their mighty [their hand]",
-    "[21:33] To zdeeq23: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:33] To zdeeq23: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[21:34] <4sph1x1a> !pvp",
-    "[21:34] [8b8t] >> Teleporting to home 0...",
-    "[21:34] [8b8t] >> Teleporting to home 1...",
-    "[21:34] To 4sph1x1a: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:34] <_Marlowww_> blake56 Should we raid it?",
-    "[21:34] To 4sph1x1a: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[21:34] <ajfrmpt> yes",
     "[21:34] <Sharkey> w",
     "[21:34] <zdeeq23> !pvp",
@@ -108,7 +97,18 @@
     "[21:34] To 4sph1x1a: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:34] [8b8t] >> Request sent to 4sph1x1a",
     "[21:34] [8b8t] >> Teleporting...",
-    "[21:34] <mghpthefish> this shit is now ashes so fuck it"
+    "[21:34] <mghpthefish> this shit is now ashes so fuck it",
+    "[21:34] [8b8t] >> You have killed yourself!",
+    "[21:34] HienBot has been killed by 4sph1x1a",
+    "[21:34] ajfrmpt forgot to bring their parachute",
+    "[21:34] To 4sph1x1a: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[21:34] To 4sph1x1a: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
+    "[21:34] <Pereso> ¡gear",
+    "[21:34] <zdeeq23> !pvp",
+    "[21:34] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[21:34] [8b8t] >> Teleporting to home 0...",
+    "[21:34] [8b8t] >> Teleporting to home 1...",
+    "[21:34] To zdeeq23: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -574,7 +574,7 @@
     "Leo_MendeZz": 5,
     "MarcosVinicius27": 3,
     "Flawww_": 1,
-    "zdeeq23": 8,
+    "zdeeq23": 9,
     "nuklear1": 13,
     "lostinapathy": 2,
     "benjarejas": 1,
@@ -620,7 +620,7 @@
     "Sharkey": 1
   },
   "kitStats": {
-    "pvp": 136,
+    "pvp": 137,
     "raid": 22,
     "survival": 57,
     "shulker": 164,
