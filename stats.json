@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:21:01 19/2/2026",
+  "lastUpdated": "09:21:31 19/2/2026",
   "totalKits": 100187,
   "todayKits": 25,
   "onlineCount": 17,
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 30
   },
-  "tps": "10.0",
+  "tps": "12.0",
   "ping": 217,
   "topUsers": [
     {
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[02:19] <sofyxz> oye tenes faros",
-    "[02:19] [8b8t] >> ▲ Player DeltaRay11 Joined.",
-    "[02:19] <mistercrack11_v3> nop",
-    "[02:20] <mistercrack11_v3> !faros",
-    "[02:20] [8b8t] >> Teleporting to home 0...",
-    "[02:20] [8b8t] >> Teleporting to home 5...",
     "[02:20] To mistercrack11_v3: Kit \"faros\" not found! Giving you (exp) instead! dsc.gg/hienbot",
     "[02:20] To mistercrack11_v3: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:20] [8b8t] >> Request sent to mistercrack11_v3",
@@ -108,7 +101,14 @@
     "[02:20] [8b8t] >> You have killed yourself!",
     "[02:20] To sofyxz: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[02:20] To sofyxz: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[02:20] <sofyxz> XD"
+    "[02:20] <sofyxz> XD",
+    "[02:21] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
+    "[02:21] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[02:21] <DeltaRay11> @seed",
+    "[02:21] [8b8t] >> Teleporting to home 0...",
+    "[02:21] [8b8t] >> Teleporting to home 6...",
+    "[02:21] To DeltaRay11: Kit \"seed\" not found! Giving you (ocean) instead! dsc.gg/hienbot",
+    "[02:21] To DeltaRay11: Try again dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 34,
@@ -541,7 +541,8 @@
     "WildWillRudy": 1,
     "smpucca": 1,
     "sofyxz": 22,
-    "Mr_Manznin": 2
+    "Mr_Manznin": 2,
+    "DeltaRay11": 1
   },
   "kitStats": {
     "pvp": 54,
@@ -557,7 +558,7 @@
     "wool": 8,
     "exp": 6,
     "stash": 9,
-    "ocean": 4,
+    "ocean": 5,
     "build": 9,
     "dye": 5,
     "concrete": 3,
