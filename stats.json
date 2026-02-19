@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:55:52 19/2/2026",
+  "lastUpdated": "18:56:22 19/2/2026",
   "totalKits": 100243,
   "todayKits": 0,
   "onlineCount": 12,
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "11.0",
+  "tps": "13.0",
   "ping": 202,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 104
+      "count": 105
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:50]  decrease the chance of being hacked.",
-    "[11:50] ",
-    "[11:50]   [Confirm read]\n",
-    "[11:50] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[11:50] [8b8t] >> ▲ Player HienBot Joined.",
-    "[11:50] <thevoided> can i team with anyone?",
-    "[11:50] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
     "[11:50] [8b8t] >> ▼ Player .morokosan5660 Left.",
     "[11:50] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:50] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
@@ -108,7 +101,14 @@
     "[11:55] [8b8t] >> ▼ Player uanra75 Left.",
     "[11:55] [BOT] <HienBot> >Use /lobby to return to the lobby!",
     "[11:55] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[11:55] [8b8t] >> ▲ Player Leeewiith3Es Joined."
+    "[11:55] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
+    "[11:55] [BOT] <HienBot> >Need gear? Type !pvp to get started!",
+    "[11:56] [8b8t] >> ▲ Player Natethandrake Joined.",
+    "[11:56] [8b8t] >> ▼ Player thevoided Left.",
+    "[11:56] <Natethandrake> !gear",
+    "[11:56] [8b8t] >> Teleporting to home 0...",
+    "[11:56] [8b8t] >> Teleporting to home 6...",
+    "[11:56] To Natethandrake: Kit \"gear\" not found! Giving you (shulker) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -410,7 +410,7 @@
     "FreeSword": 2,
     "freddison": 4,
     ".reindyeah": 2,
-    "Natethandrake": 1,
+    "Natethandrake": 2,
     "dractorX72": 1,
     "botchaosonix": 9,
     "zabbygamer76": 19,
@@ -565,7 +565,7 @@
     "pvp": 72,
     "raid": 12,
     "survival": 23,
-    "shulker": 104,
+    "shulker": 105,
     "music": 3,
     "terracotta": 6,
     "lightsources": 5,
