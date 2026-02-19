@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:47:47 20/2/2026",
+  "lastUpdated": "02:47:52 20/2/2026",
   "totalKits": 100411,
   "todayKits": 168,
   "onlineCount": 65,
@@ -12,7 +12,7 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 23
   },
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 214,
   "topUsers": [
     {
@@ -75,18 +75,10 @@
     },
     {
       "name": "stash",
-      "count": 35
+      "count": 36
     }
   ],
   "chatLog": [
-    "[19:46] <Elmonito1234> si",
-    "[19:46] [8b8t] >> ▼ Player Pia01_Vn Left.",
-    "[19:46] [BOT] <HienBot> >Try /cosmetics to change your name color!",
-    "[19:46] TheAirWaster forgot to bring their parachute",
-    "[19:47] [8b8t] >> ▼ Player smallbear Left.",
-    "[19:47] [8b8t] >> ▲ Player Volt695367 Joined.",
-    "[19:47] [8b8t] >> ▼ Player UdoFreak Left.",
-    "[19:47] <SINMENTE_PC> hacia",
     "[19:47] [BOT] <HienBot> >Want to see your ping? Chat !ping",
     "[19:47] [8b8t] >> ▼ Player Leeewiith3Es Left.",
     "[19:47] [8b8t] >> ▼ Player Copper_2807 Left.",
@@ -108,7 +100,15 @@
     "[19:47] [8b8t] >> Request sent to Volt695367",
     "[19:47] [8b8t] >> Teleporting...",
     "[19:47] Lukedroider challenged the Wither and lost their head",
-    "[19:47] <YujiMyBestFriend> fue el crystal aura"
+    "[19:47] <YujiMyBestFriend> fue el crystal aura",
+    "[19:47] <SINMENTE_PC> ok",
+    "[19:47] [8b8t] >> You have killed yourself!",
+    "[19:47] <TheAirWaster> !stash",
+    "[19:47] [BOT] <HienBot> >Type !invite for invite rewards info",
+    "[19:47] HienBot was slain by Volt695367 using [player head]",
+    "[19:47] [8b8t] >> Teleporting to home 0...",
+    "[19:47] [8b8t] >> Teleporting to home 2...",
+    "[19:47] To TheAirWaster: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -597,7 +597,8 @@
     "JustZarthal": 1,
     "YujiMyBestFriend": 2,
     "Lukedroider": 1,
-    "SaintzysAlterEgo": 1
+    "SaintzysAlterEgo": 1,
+    "TheAirWaster": 1
   },
   "kitStats": {
     "pvp": 110,
@@ -612,7 +613,7 @@
     "toolbox": 12,
     "wool": 13,
     "exp": 10,
-    "stash": 35,
+    "stash": 36,
     "ocean": 16,
     "build": 22,
     "dye": 9,
