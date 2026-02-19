@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:58:52 19/2/2026",
-  "totalKits": 100253,
-  "todayKits": 10,
-  "onlineCount": 15,
+  "lastUpdated": "19:59:21 19/2/2026",
+  "totalKits": 100254,
+  "todayKits": 11,
+  "onlineCount": 16,
   "peakPlayers": 18,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "11.0",
+  "tps": "12.0",
   "ping": 199,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 23
+      "count": 24
     },
     {
       "name": "elytra",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:54] [BOT] <HienBot> >Hi martinh4pro!",
-    "[12:54] [8b8t] >> ▼ Player Blue_Fragment_ Left.",
-    "[12:54] [8b8t] >> ▼ Player JeSuisUnJoueur Left.",
-    "[12:54] [8b8t] >> Teleporting...",
-    "[12:54] [8b8t] >> You have killed yourself!",
-    "[12:54] HienBot has been put down by martinh4pro",
-    "[12:54] To martinh4pro: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:54] To martinh4pro: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[12:54] martinh4pro has made the advancement [Stone Age]",
     "[12:54] [BOT] <HienBot> >Try !stash",
     "[12:55] <martinh4pro> !shulker",
     "[12:55] To martinh4pro: You're on cooldown, try again in 3 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +99,16 @@
     "[12:58] [8b8t] >> ▼ Player Volt695367 Left.",
     "[12:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[12:58] [BOT] <HienBot> >What's up, MrNullYT?",
-    "[12:58] [8b8t] >> ▼ Player ITALOXD040 Left."
+    "[12:58] [8b8t] >> ▼ Player ITALOXD040 Left.",
+    "[12:58] [BOT] <HienBot> >Running low on supplies? Use !survival",
+    "[12:59] <martinh4pro> !survival",
+    "[12:59] [8b8t] >> Teleporting to home 0...",
+    "[12:59] [8b8t] >> Teleporting to home 1...",
+    "[12:59] To martinh4pro: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:59] [8b8t] >> ▲ Player Hien2309 Joined.",
+    "[12:59] To martinh4pro: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:59] [8b8t] >> Request sent to martinh4pro",
+    "[12:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 42,
@@ -562,12 +562,12 @@
     "thedidler": 1,
     "janekv": 1,
     "PURPLEDEMON": 3,
-    "martinh4pro": 7
+    "martinh4pro": 8
   },
   "kitStats": {
     "pvp": 74,
     "raid": 12,
-    "survival": 23,
+    "survival": 24,
     "shulker": 107,
     "music": 4,
     "terracotta": 6,
