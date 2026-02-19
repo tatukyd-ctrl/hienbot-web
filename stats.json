@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:57:22 20/2/2026",
+  "lastUpdated": "00:57:52 20/2/2026",
   "totalKits": 100354,
   "todayKits": 111,
   "onlineCount": 39,
@@ -12,7 +12,7 @@
     "maxTime": "00:37:31 20/2/2026",
     "avg": 21
   },
-  "tps": "10.0",
+  "tps": "5.0",
   "ping": 206,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 126
+      "count": 127
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:55] <Pereso> 7944.471 2647.340",
-    "[17:55] nuklear1 got his head blown off by the Wither",
-    "[17:55] [8b8t] >> ▼ Player AppleBot Left.",
-    "[17:55] [BOT] <HienBot> >Use !info <player> to check someone's stats",
-    "[17:56] <Nnafily> >_<",
-    "[17:56] <Nnafily> tf",
-    "[17:56] [8b8t] >> ▲ Player AppleBot Joined.",
-    "[17:56] <Nnafily> tis",
-    "[17:56] [8b8t] >> ▼ Player Cocacola0 Left.",
-    "[17:56] irlbeqs1 has made the advancement [Monster Hunter]",
     "[17:56] Tinosea went for a swim in lava and got burned",
     "[17:56] [BOT] <HienBot> >Bot created by Hien2309.",
     "[17:56] kijek got his head blown off by the Wither",
@@ -108,7 +98,17 @@
     "[17:57] <kalfa_yt> !shulker",
     "[17:57] [8b8t] >> Teleporting to home 0...",
     "[17:57] [8b8t] >> Teleporting to home 6...",
-    "[17:57] To kalfa_yt: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
+    "[17:57] To kalfa_yt: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:57] To kalfa_yt: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[17:57] <kalfa_yt> !shulker",
+    "[17:57] [8b8t] >> Teleporting to home 0...",
+    "[17:57] [8b8t] >> Teleporting to home 6...",
+    "[17:57] To kalfa_yt: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:57] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
+    "[17:57] To kalfa_yt: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[17:57] nuklear1 was rekt by kalfa_yt and their mighty [netherite sword]",
+    "[17:57] <Elmonito1234> alguien necesita salir del spawn?",
+    "[17:57] kijek decided to test gravity and lost"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -581,13 +581,13 @@
     "2bits2things": 1,
     "_wari_": 14,
     "irlbeqs1": 4,
-    "kalfa_yt": 3
+    "kalfa_yt": 4
   },
   "kitStats": {
     "pvp": 100,
     "raid": 15,
     "survival": 38,
-    "shulker": 126,
+    "shulker": 127,
     "music": 4,
     "terracotta": 6,
     "lightsources": 5,
