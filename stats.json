@@ -1,18 +1,18 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:00:18 19/2/2026",
-  "totalKits": 100145,
-  "todayKits": 71,
+  "lastUpdated": "07:00:47 19/2/2026",
+  "totalKits": 100146,
+  "todayKits": 1,
   "onlineCount": 37,
   "peakPlayers": 59,
   "playerStats": {
-    "min": 0,
-    "minTime": "09:38:28 18/2/2026",
-    "max": 59,
-    "maxTime": "02:25:48 19/2/2026",
-    "avg": 31
+    "min": 37,
+    "minTime": "07:00:47 19/2/2026",
+    "max": 37,
+    "maxTime": "07:00:47 19/2/2026",
+    "avg": 37
   },
-  "tps": "8.0",
+  "tps": "10.0",
   "ping": 202,
   "topUsers": [
     {
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:58] <Univof> master",
-    "[23:58] [8b8t] >> ▼ Player dfam692 Left.",
-    "[23:58] <.ChoraPoXulin> -2031 -1934",
-    "[23:58] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[23:58] <.ChoraPoXulin> porfa ayda me",
-    "[23:58] [8b8t] >> ▲ Player BlackAztec4 Joined.",
-    "[23:58] <MasterWo> xdd",
-    "[23:58] <TulagrandBot> >Newbie and want to become cool quickly? Try !gear or !free pvp",
-    "[23:59] <RenxitoMC> [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[",
-    "[23:59] rednigth119 has completed the challenge [Subspace Bubble]",
-    "[23:59] [8b8t] >> ▲ Player Dreamwonbtw100k Joined.",
-    "[23:59] [8b8t] >> ▼ Player Axelitoelmejor Left.",
-    "[23:59] [8b8t] >> ▼ Player .Pichuckrak Left.",
-    "[23:59] <.ChoraPoXulin> ayuda sinmente",
-    "[23:59] [8b8t] >> ▲ Player WildWillRudy Joined.",
-    "[23:59] <Univof> llevate eso",
-    "[23:59] <.ChoraPoXulin> soy novo",
     "[23:59] <RenxitoMC> !shulker",
     "[23:59] [8b8t] >> Teleporting to home 0...",
     "[23:59] [8b8t] >> Teleporting to home 6...",
@@ -108,7 +91,24 @@
     "[23:59] <.ChoraPoXulin> que paso",
     "[00:00] <Simblebot> fala",
     "[00:00] [BOT] <HienBot> >Do you want kit? Type *кιт",
-    "[00:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[00:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[00:00] <TulagrandBot> > Need PvP gear? The !gear command has you covered.",
+    "[00:00] [8b8t] >> You have killed yourself!",
+    "[00:00] [8b8t] >> The TPA request you sent to RenxitoMC was successfully canceled.",
+    "[00:00] <RenxitoMC> !shulker",
+    "[00:00] To RenxitoMC: You're on cooldown, try again in 54 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:00] [8b8t] >> ▲ Player bazuco Joined.",
+    "[00:00] <Simblebot> tudo esto oq",
+    "[00:00] <Dreamwonbtw100k> !gear",
+    "[00:00] [8b8t] >> Teleporting to home 0...",
+    "[00:00] [8b8t] >> ▼ Player BlackAztec4 Left.",
+    "[00:00] [8b8t] >> Teleporting to home 3...",
+    "[00:00] To Dreamwonbtw100k: Kit \"gear\" not found! Giving you (wood) instead! dsc.gg/hienbot",
+    "[00:00] To Dreamwonbtw100k: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:00] [8b8t] >> Request sent to Dreamwonbtw100k",
+    "[00:00] rednigth119 has made the advancement [Monster Hunter]",
+    "[00:00] [8b8t] >> Teleporting...",
+    "[00:00] <TulagrandBot> >Hola RenxitoMC"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -534,7 +534,8 @@
     "BJ_Brachita": 2,
     "Alanxv42": 1,
     "TuReina": 2,
-    "RenxitoMC": 1
+    "RenxitoMC": 1,
+    "Dreamwonbtw100k": 1
   },
   "kitStats": {
     "pvp": 48,
@@ -564,7 +565,7 @@
     "gap": 1,
     "mineral": 1,
     "gterracotta": 2,
-    "wood": 1,
+    "wood": 2,
     "end": 1
   }
 }
