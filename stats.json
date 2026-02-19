@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:07:08 19/2/2026",
-  "totalKits": 100202,
-  "todayKits": 7,
+  "lastUpdated": "13:07:37 19/2/2026",
+  "totalKits": 100203,
+  "todayKits": 8,
   "onlineCount": 13,
   "peakPlayers": 19,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 18
   },
-  "tps": "14.0",
-  "ping": 254,
+  "tps": "16.0",
+  "ping": 257,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:01] [BOT] <HienBot> >What's up, TulagrandBot?",
-    "[06:01] MonkeBot was eaten alive by a Zombie",
-    "[06:01] [8b8t] >> ▼ Player KhoaVN2111 Left.",
-    "[06:01] [8b8t] >> ▼ Player liam11xz Left.",
-    "[06:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:01] [BOT] <HienBot> >Try !pvp",
-    "[06:01] [8b8t] >> ▲ Player PepeChuyHS Joined.",
-    "[06:02] [BOT] <HienBot> >Try !status",
     "[06:02] MonkeBot thought a Zombie was friendly",
     "[06:02] [8b8t] >> ▼ Player AZXHFRAN121 Left.",
     "[06:02] [BOT] <HienBot> >Use !info <player> to check someone's stats",
@@ -108,7 +100,15 @@
     "[06:05] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
     "[06:06] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[06:06] [BOT] <HienBot> >Want to see your ping? Chat !ping",
-    "[06:06] [BOT] <HienBot> >Welcome to 8b8t, PepeChuyHS!"
+    "[06:06] [BOT] <HienBot> >Welcome to 8b8t, PepeChuyHS!",
+    "[06:07] <Pritom_xD> !gear",
+    "[06:07] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
+    "[06:07] [8b8t] >> Teleporting to home 0...",
+    "[06:07] [8b8t] >> Teleporting to home 4...",
+    "[06:07] To Pritom_xD: Kit \"gear\" not found! Giving you (glass) instead! dsc.gg/hienbot",
+    "[06:07] To Pritom_xD: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:07] [8b8t] >> Request sent to Pritom_xD",
+    "[06:07] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 37,
@@ -549,7 +549,8 @@
     "cutelotl_": 1,
     "Stuff_Thing": 8,
     "AkashMC7": 2,
-    "PepeChuyHS": 1
+    "PepeChuyHS": 1,
+    "Pritom_xD": 1
   },
   "kitStats": {
     "pvp": 56,
@@ -571,7 +572,7 @@
     "concrete": 3,
     "dupe": 3,
     "food": 4,
-    "glass": 3,
+    "glass": 4,
     "elytra": 9,
     "redstone": 4,
     "quartz": 5,
