@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:35:26 19/2/2026",
+  "lastUpdated": "17:35:56 19/2/2026",
   "totalKits": 100232,
   "todayKits": 14,
-  "onlineCount": 18,
+  "onlineCount": 0,
   "peakPlayers": 24,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "5.0",
-  "ping": 881,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:33] Alisha_YT has made the advancement [Monster Hunter]",
-    "[10:33] Alisha_YT has made the advancement [Take Aim]",
-    "[10:33] [BOT] <HienBot> >Want to see your ping? Chat !ping",
-    "[10:34] <DeadlyNyxian> f",
-    "[10:34] [8b8t] >> ▲ Player coldbyte Joined.",
     "[10:34] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:34] [BOT] <HienBot> >Type !pvp to get free kits",
     "[10:34] <coldbyte> !totems",
@@ -108,7 +103,12 @@
     "[10:35] [8b8t] >> ▼ Player botchaosonix666 Left.",
     "[10:35] <DeadlyNyxian> !elytra",
     "[10:35] [Mini] <CatGirlKylie> > EZZZZZZZZZZZZ",
-    "[10:35] [8b8t] >> ▼ Player .CycloidUwU Left."
+    "[10:35] [8b8t] >> ▼ Player .CycloidUwU Left.",
+    "[10:35] [8b8t] >> ▼ Player Leeewiith3Es Left.",
+    "[10:35] <DeadlyNyxian> !elytra",
+    "[10:35] You were kicked from 8b8t: Timed out",
+    "[10:35] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
+    "[10:35] [8b8t] >> Welcome KitBot. to 8b8t.me Lobby"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -402,7 +402,7 @@
     "__Solarflare": 18,
     "0xPwnd": 1,
     "FireSpring94864": 1,
-    "DeadlyNyxian": 9,
+    "DeadlyNyxian": 10,
     "Khushal_maxx77": 7,
     "vmpy7": 8,
     "Volt695367": 10,
@@ -578,7 +578,7 @@
     "dupe": 3,
     "food": 5,
     "glass": 5,
-    "elytra": 11,
+    "elytra": 12,
     "redstone": 5,
     "quartz": 5,
     "highway": 2,
