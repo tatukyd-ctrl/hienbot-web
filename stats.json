@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:58:26 19/2/2026",
+  "lastUpdated": "16:58:56 19/2/2026",
   "totalKits": 100225,
   "todayKits": 7,
   "onlineCount": 21,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "13.0",
-  "ping": 223,
+  "tps": "14.0",
+  "ping": 220,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 99
+      "count": 100
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:53] [BOT] <HienBot> >Hi .CycloidUwU!",
-    "[09:53] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:54] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
-    "[09:54] MonkeBot was eaten alive by a Zombie",
-    "[09:54] [BOT] <HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
-    "[09:54] [8b8t] >> ▲ Player CatGirlKylie Joined.",
-    "[09:54] [8b8t] >> ▲ Player DeadyNyxian Joined.",
-    "[09:55] [BOT] <HienBot> >Use !pvp to get kits",
-    "[09:55] [8b8t] >> ▼ Player Leeewiith3Es Left.",
     "[09:55] [8b8t] >> ▼ Player .CycloidUwU Left.",
     "[09:55] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[09:55] [8b8t] >> Please do not spam.",
@@ -108,7 +99,16 @@
     "[09:58] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
     "[09:58] DeadlyNyxian tried to outswim the water",
     "[09:58] [8b8t] >> ▼ Player HolzCrow Left.",
-    "[09:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me"
+    "[09:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[09:58] <DeadlyNyxian> h",
+    "[09:58] [BOT] <HienBot> >Want to see your ping? Chat !ping",
+    "[09:58] <coldbyte> !shulker",
+    "[09:58] [8b8t] >> You are already ignoring that player",
+    "[09:58] [8b8t] >> Teleporting to home 0...",
+    "[09:58] [8b8t] >> Teleporting to home 6...",
+    "[09:58] To coldbyte: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:58] To coldbyte: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:58] [8b8t] >> Request sent to coldbyte"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -554,13 +554,14 @@
     "DaddyShawn980": 5,
     ".CSSX3049": 1,
     "Lyreach": 2,
-    "jasxnmzk2025": 4
+    "jasxnmzk2025": 4,
+    "coldbyte": 1
   },
   "kitStats": {
     "pvp": 71,
     "raid": 11,
     "survival": 14,
-    "shulker": 99,
+    "shulker": 100,
     "music": 3,
     "terracotta": 5,
     "lightsources": 4,
