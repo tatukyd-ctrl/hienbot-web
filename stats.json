@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:33:22 19/2/2026",
+  "lastUpdated": "21:33:52 19/2/2026",
   "totalKits": 100267,
   "todayKits": 24,
   "onlineCount": 32,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "6.0",
-  "ping": 202,
+  "tps": "5.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:29] [BOT] <HienBot> >Hmmmmmmmmm",
-    "[14:29] [8b8t] >> ▲ Player Nnafily Joined.",
-    "[14:29] .D3adForm thought they could fly... they couldn't",
-    "[14:29] [Ultra] <KurtzMC> if you are using the meteor fork you can read the entire option list in the gui",
-    "[14:29] [8b8t] >> ▼ Player .D3adForm Left.",
     "[14:29] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[14:29] [BOT] <HienBot> >Want to see the server's tps? Chat !tps",
     "[14:30] [Ultra] <KurtzMC> is it for a mapart",
@@ -108,7 +103,12 @@
     "[14:32] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[14:33] _Marlowww_ has made the advancement [We Need to Go Deeper]",
     "[14:33] <mamamamamama1212> who can save me",
-    "[14:33] mamamamamama1212 forgot to bring their parachute"
+    "[14:33] mamamamamama1212 forgot to bring their parachute",
+    "[14:33] [BOT] <HienBot> >Welcome to 8b8t, MrPinkEye!",
+    "[14:33] <mamamamamama1212> !gear",
+    "[14:33] [8b8t] >> Teleporting to home 0...",
+    "[14:33] [8b8t] >> Teleporting to home 5...",
+    "[14:33] To mamamamamama1212: Kit \"gear\" not found! Giving you (gterracotta) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -564,7 +564,8 @@
     "PURPLEDEMON": 3,
     "martinh4pro": 9,
     ".D3adForm": 1,
-    "Kenfarts11": 1
+    "Kenfarts11": 1,
+    "mamamamamama1212": 1
   },
   "kitStats": {
     "pvp": 80,
@@ -593,7 +594,7 @@
     "highway": 2,
     "gap": 3,
     "mineral": 3,
-    "gterracotta": 5,
+    "gterracotta": 6,
     "wood": 4,
     "end": 6
   }
