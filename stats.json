@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:18:52 20/2/2026",
-  "totalKits": 100494,
-  "todayKits": 251,
+  "lastUpdated": "04:19:16 20/2/2026",
+  "totalKits": 100495,
+  "todayKits": 252,
   "onlineCount": 48,
   "peakPlayers": 70,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 26
   },
-  "tps": "6.0",
-  "ping": 208,
+  "tps": "9.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:16] [8b8t] >> ▲ Player DPS_Chatbridge Joined.",
-    "[21:16] ElMarstin tried to outswim the water",
-    "[21:16] [Ultra] <Netanyahu> Leeewiith3Es pls off the phase bro",
-    "[21:17] Cold_1 has completed the challenge [Subspace Bubble]",
-    "[21:17] [8b8t] >> ▼ Player Solygus Left.",
-    "[21:17] [XMAS2025] <Tobias> por que le hablas a un bot de los viets",
-    "[21:17] ajfrmpt decided to test gravity and lost",
-    "[21:17] snoop_2x decided to test gravity and lost",
     "[21:17] [8b8t] >> ▲ Player Alemeja Joined.",
     "[21:17] <_Marlowww_> finally i got some loot and an elytra",
     "[21:17] [BOT] <HienBot> >Use /lobby to return to the lobby!",
@@ -108,7 +100,15 @@
     "[21:18] [8b8t] >> ▼ Player AppleBot Left.",
     "[21:18] [BOT] <HienBot> >Try !list to see available kits",
     "[21:18] baleandro forgot to bring their parachute",
-    "[21:18] SaintzysAlterEgo has completed the challenge [Over-Overkill]"
+    "[21:18] SaintzysAlterEgo has completed the challenge [Over-Overkill]",
+    "[21:18] ElMarstin thought they could fly... they couldn't",
+    "[21:19] <SaintzysAlterEgo> !gear",
+    "[21:19] [8b8t] >> Teleporting to home 0...",
+    "[21:19] [8b8t] >> Teleporting to home 3...",
+    "[21:19] To SaintzysAlterEgo: Kit \"gear\" not found! Giving you (wood) instead! dsc.gg/hienbot",
+    "[21:19] To SaintzysAlterEgo: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:19] [8b8t] >> Request sent to SaintzysAlterEgo",
+    "[21:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 43,
@@ -597,7 +597,7 @@
     "JustZarthal": 1,
     "YujiMyBestFriend": 2,
     "Lukedroider": 1,
-    "SaintzysAlterEgo": 31,
+    "SaintzysAlterEgo": 32,
     "TheAirWaster": 1,
     "klcenka": 4,
     "Lamox": 19,
@@ -641,7 +641,7 @@
     "gap": 12,
     "mineral": 15,
     "gterracotta": 7,
-    "wood": 10,
+    "wood": 11,
     "end": 12
   }
 }
