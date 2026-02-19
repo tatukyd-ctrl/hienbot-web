@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:11:31 19/2/2026",
-  "totalKits": 100180,
-  "todayKits": 18,
+  "lastUpdated": "09:11:56 19/2/2026",
+  "totalKits": 100181,
+  "todayKits": 19,
   "onlineCount": 20,
   "peakPlayers": 31,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 31
   },
-  "tps": "13.0",
+  "tps": "12.0",
   "ping": 217,
   "topUsers": [
     {
@@ -70,23 +70,15 @@
       "count": 10
     },
     {
-      "name": "wool",
-      "count": 8
+      "name": "build",
+      "count": 9
     },
     {
-      "name": "stash",
+      "name": "wool",
       "count": 8
     }
   ],
   "chatLog": [
-    "[02:08] <sofyxz> !build",
-    "[02:08] To sofyxz: You're on cooldown, try again in 3 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:08] [BOT] <HienBot> >Use !info <player> to check someone's stats",
-    "[02:08] [8b8t] >> ▼ Player ASneakySenior Left.",
-    "[02:09] [8b8t] >> ▲ Player DPS_Chatbridge Joined.",
-    "[02:09] [BOT] <HienBot> >Type !pvp to get free kits",
-    "[02:09] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[02:09] <sofyxz> !build",
     "[02:09] [8b8t] >> Teleporting to home 0...",
     "[02:09] [8b8t] >> Teleporting to home 2...",
     "[02:09] To sofyxz: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +100,15 @@
     "[02:10] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:11] [BOT] <HienBot> >Hmmmmmmmmm",
     "[02:11] <sofyxz> !build",
-    "[02:11] To sofyxz: You're on cooldown, try again in 4 seconds! Don't forget to join dsc.gg/hienbot"
+    "[02:11] To sofyxz: You're on cooldown, try again in 4 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:11] [BOT] <HienBot> >Want to see the server's tps? Chat !tps",
+    "[02:11] <sofyxz> !build",
+    "[02:11] [8b8t] >> Teleporting to home 0...",
+    "[02:11] [8b8t] >> Teleporting to home 2...",
+    "[02:11] To sofyxz: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:11] To sofyxz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:11] [8b8t] >> Request sent to sofyxz",
+    "[02:11] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 34,
@@ -540,7 +540,7 @@
     "CarelCDK": 2,
     "WildWillRudy": 1,
     "smpucca": 1,
-    "sofyxz": 17,
+    "sofyxz": 18,
     "Mr_Manznin": 2
   },
   "kitStats": {
@@ -558,7 +558,7 @@
     "exp": 5,
     "stash": 8,
     "ocean": 4,
-    "build": 8,
+    "build": 9,
     "dye": 5,
     "concrete": 3,
     "dupe": 3,
