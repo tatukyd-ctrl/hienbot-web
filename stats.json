@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:02:18 19/2/2026",
+  "lastUpdated": "07:02:48 19/2/2026",
   "totalKits": 100146,
   "todayKits": 1,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 59,
   "playerStats": {
     "min": 37,
@@ -70,30 +70,15 @@
       "count": 9
     },
     {
-      "name": "stash",
+      "name": "wool",
       "count": 8
     },
     {
-      "name": "wool",
-      "count": 7
+      "name": "stash",
+      "count": 8
     }
   ],
   "chatLog": [
-    "[00:00] [8b8t] >> ▼ Player BlackAztec4 Left.",
-    "[00:00] [8b8t] >> Teleporting to home 3...",
-    "[00:00] To Dreamwonbtw100k: Kit \"gear\" not found! Giving you (wood) instead! dsc.gg/hienbot",
-    "[00:00] To Dreamwonbtw100k: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:00] [8b8t] >> Request sent to Dreamwonbtw100k",
-    "[00:00] rednigth119 has made the advancement [Monster Hunter]",
-    "[00:00] [8b8t] >> Teleporting...",
-    "[00:00] <TulagrandBot> >Hola RenxitoMC",
-    "[00:00] RenxitoMC got a deadly lesson from the Wither",
-    "[00:00] <Simblebot> se quiser pega",
-    "[00:00] [8b8t] >> ▲ Player inksw_ak Joined.",
-    "[00:00] [8b8t] >> You have killed yourself!",
-    "[00:00] HienBot has been killed by Dreamwonbtw100k",
-    "[00:01] [8b8t] >> ▲ Player Axelitoelmejor Joined.",
-    "[00:01] [8b8t] >> ▲ Player diegasogame Joined.",
     "[00:01] RenxitoMC got a deadly lesson from the Wither",
     "[00:01] [8b8t] >> ▲ Player blueavis7 Joined.",
     "[00:01] [8b8t] >> ▲ Player Hien2309 Joined.",
@@ -108,7 +93,22 @@
     "[00:01] [8b8t] >> ▼ Player Dreamwonbtw100k Left.",
     "[00:01] [8b8t] >> ▲ Player RenxitoMC Joined.",
     "[00:02] <TulagrandBot> > Lost? The fastest way back to spawn is `/kill`.",
-    "[00:02] [8b8t] >> ▲ Player Axelitoelmejor Joined."
+    "[00:02] [8b8t] >> ▲ Player Axelitoelmejor Joined.",
+    "[00:02] <RenxitoMC> !p1to",
+    "[00:02] [8b8t] >> Teleporting to home 0...",
+    "[00:02] [8b8t] >> Teleporting to home 3...",
+    "[00:02] [8b8t] >> ▼ Player Axelitoelmejor Left.",
+    "[00:02] To RenxitoMC: Kit \"p1to\" not found! Giving you (wool) instead! dsc.gg/hienbot",
+    "[00:02] [8b8t] >> Successfully unignored player Elmonito1234",
+    "[00:02] To RenxitoMC: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:02] [8b8t] >> Successfully ignored player RenxitoMC",
+    "[00:02] [8b8t] >> Request sent to RenxitoMC",
+    "[00:02] [8b8t] >> ▲ Player Jav5WR213 Joined.",
+    "[00:02] <TulagrandBot> >Try @seed to get 8b8t's seed",
+    "[00:02] [8b8t] >> ▼ Player diegasogame Left.",
+    "[00:02] <blueavis7> @seed",
+    "[00:02] To blueavis7: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[00:02] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "Hien2309": 27,
@@ -534,7 +534,7 @@
     "BJ_Brachita": 2,
     "Alanxv42": 1,
     "TuReina": 2,
-    "RenxitoMC": 1,
+    "RenxitoMC": 2,
     "Dreamwonbtw100k": 1
   },
   "kitStats": {
@@ -548,7 +548,7 @@
     "tools": 4,
     "armortrims": 4,
     "toolbox": 3,
-    "wool": 7,
+    "wool": 8,
     "exp": 4,
     "stash": 8,
     "ocean": 2,
