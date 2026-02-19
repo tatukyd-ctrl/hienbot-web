@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:40:40 19/2/2026",
-  "totalKits": 100193,
-  "todayKits": 0,
+  "lastUpdated": "10:41:06 19/2/2026",
+  "totalKits": 100194,
+  "todayKits": 1,
   "onlineCount": 12,
   "peakPlayers": 13,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 23
   },
-  "tps": "16.0",
+  "tps": "13.0",
   "ping": 196,
   "topUsers": [
     {
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:38] [8b8t] >> Use the command /login <password>.",
-    "[03:38] [8b8t] >> You have successfully logged.",
-    "[03:38] [8b8t] Unknown command do /help",
-    "[03:38] ",
-    "[03:38]  [8builders8tools]",
-    "[03:38]  Perform the command /discord add to register",
     "[03:38]  your discord. By doing so, you",
     "[03:38]  decrease the chance of being hacked.",
     "[03:38] ",
@@ -104,7 +98,17 @@
     "[03:40] zluix_X forgot to bring their parachute",
     "[03:40] [BOT] <HienBot> >Use !pvp to get kits",
     "[03:40] [8b8t] >> ▼ Player VortexTrapper Left.",
-    "[03:40] MonkeBot thought a Zombie was friendly"
+    "[03:40] MonkeBot thought a Zombie was friendly",
+    "[03:40] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[03:40] <MxRgB> !elytra",
+    "[03:40] [8b8t] >> Teleporting to home 0...",
+    "[03:40] [8b8t] >> Teleporting to home 6...",
+    "[03:40] To MxRgB: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:40] To MxRgB: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:40] [8b8t] >> Request sent to MxRgB",
+    "[03:40] [BOT] <HienBot> >Hello MrPinkEye!",
+    "[03:40] zluix_X decided to test gravity and lost",
+    "[03:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 34,
@@ -540,7 +544,8 @@
     "Mr_Manznin": 2,
     "DeltaRay11": 2,
     "BitRogue": 1,
-    "aferradoltlt": 1
+    "aferradoltlt": 1,
+    "MxRgB": 1
   },
   "kitStats": {
     "pvp": 55,
@@ -563,7 +568,7 @@
     "dupe": 3,
     "food": 3,
     "glass": 3,
-    "elytra": 4,
+    "elytra": 5,
     "redstone": 4,
     "quartz": 4,
     "highway": 2,
