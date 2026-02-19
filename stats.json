@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:01:22 20/2/2026",
-  "totalKits": 100357,
-  "todayKits": 114,
-  "onlineCount": 34,
+  "lastUpdated": "01:01:41 20/2/2026",
+  "totalKits": 100358,
+  "todayKits": 115,
+  "onlineCount": 38,
   "peakPlayers": 46,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:37:31 20/2/2026",
     "avg": 21
   },
-  "tps": "6.0",
+  "tps": "10.0",
   "ping": 448,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 37
+      "count": 38
     },
     {
       "name": "stash",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:00] [8b8t] >> Teleporting to home 6...",
-    "[18:00] To nuklear1: Your kit (fly) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[18:00] <botchaosonix666> what ping?",
-    "[18:00] To nuklear1: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[18:00] [8b8t] >> Request sent to nuklear1",
-    "[18:00] [8b8t] >> Teleporting...",
-    "[18:00] <botchaosonix666> 500ms",
-    "[18:00] [8b8t] >> ▼ Player botchaosonix666 Left.",
-    "[18:00] [8b8t] >> ▼ Player kalfa_yt Left.",
-    "[18:00] liviaaaaaaa forgot to stop, drop, and roll",
-    "[18:00] [8b8t] >> You have killed yourself!",
-    "[18:00] To nuklear1: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:00] To nuklear1: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
     "[18:00] [8b8t] >> ▲ Player matrexy210 Joined.",
     "[18:00] [BOT] <HienBot> >Welcome to 8b8t, MonkeBot!",
     "[18:00] [8b8t] >> ▲ Player botchaosonix666 Joined.",
@@ -108,7 +95,20 @@
     "[18:01] <vigilante_54> fuck yeah",
     "[18:01] kijek got his head blown off by the Wither",
     "[18:01] sofyxz got a deadly lesson from the Wither",
-    "[18:01] [8b8t] >> ▼ Player nuklear1 Left."
+    "[18:01] [8b8t] >> ▼ Player nuklear1 Left.",
+    "[18:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[18:01] [8b8t] >> ▲ Player Wemmbuumc_ Joined.",
+    "[18:01] <sofyxz> !fly",
+    "[18:01] [BOT] <HienBot> >Use !lang and select your language",
+    "[18:01] [8b8t] >> Teleporting to home 0...",
+    "[18:01] [8b8t] >> Teleporting to home 6...",
+    "[18:01] [8b8t] >> ▲ Player sombra100 Joined.",
+    "[18:01] To sofyxz: Your kit (fly) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:01] To sofyxz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:01] [8b8t] >> Request sent to sofyxz",
+    "[18:01] [8b8t] >> Teleporting...",
+    "[18:01] [8b8t] >> ▲ Player matrexy210 Joined.",
+    "[18:01] [8b8t] >> ▲ Player Leeewiith3Es Joined."
   ],
   "userStats": {
     "Hien2309": 43,
@@ -540,7 +540,7 @@
     "CarelCDK": 2,
     "WildWillRudy": 1,
     "smpucca": 1,
-    "sofyxz": 43,
+    "sofyxz": 44,
     "Mr_Manznin": 2,
     "DeltaRay11": 2,
     "BitRogue": 1,
@@ -604,7 +604,7 @@
     "dupe": 8,
     "food": 8,
     "glass": 9,
-    "elytra": 37,
+    "elytra": 38,
     "redstone": 7,
     "quartz": 5,
     "highway": 2,
