@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:51:52 19/2/2026",
-  "totalKits": 100249,
-  "todayKits": 6,
-  "onlineCount": 16,
+  "lastUpdated": "19:52:10 19/2/2026",
+  "totalKits": 100250,
+  "todayKits": 7,
+  "onlineCount": 15,
   "peakPlayers": 18,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "15.0",
-  "ping": 199,
+  "tps": "12.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,21 +75,10 @@
     },
     {
       "name": "stash",
-      "count": 15
+      "count": 16
     }
   ],
   "chatLog": [
-    "[12:49] To martinh4pro: You're on cooldown, try again in 15 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:49] martinh4pro decided to test gravity and lost",
-    "[12:49] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[12:50] [8b8t] >> ▲ Player Ramiqks Joined.",
-    "[12:50] <martinh4pro> !Stash",
-    "[12:50] [8b8t] >> Teleporting to home 0...",
-    "[12:50] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[12:50] [8b8t] >> Teleporting to home 2...",
-    "[12:50] To martinh4pro: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:50] To martinh4pro: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:50] [8b8t] >> Request sent to martinh4pro",
     "[12:50] [BOT] <HienBot> >Survive safely with a free kit! Type !survival",
     "[12:50] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
     "[12:50] <martinh4pro> !shulker",
@@ -108,7 +97,18 @@
     "[12:51] <martinh4pro> !stash",
     "[12:51] To martinh4pro: You're on cooldown, try again in 27 seconds! Don't forget to join dsc.gg/hienbot",
     "[12:51] Ramiqks challenged the Wither and lost their head",
-    "[12:51] jasxnmzk2025 has reached the goal [Postmortal]"
+    "[12:51] jasxnmzk2025 has reached the goal [Postmortal]",
+    "[12:51] martinh4pro decided to test gravity and lost",
+    "[12:51] [BOT] <HienBot> >Want free items? Just type !survival",
+    "[12:51] <martinh4pro> !stash",
+    "[12:51] [8b8t] >> Teleporting to home 0...",
+    "[12:51] [8b8t] >> Teleporting to home 2...",
+    "[12:52] To martinh4pro: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:52] To martinh4pro: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:52] [8b8t] >> Request sent to martinh4pro",
+    "[12:52] <JeSuisUnJoueur> okk",
+    "[12:52] [8b8t] >> ▼ Player Ramiqks Left.",
+    "[12:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 42,
@@ -562,7 +562,7 @@
     "thedidler": 1,
     "janekv": 1,
     "PURPLEDEMON": 3,
-    "martinh4pro": 4
+    "martinh4pro": 5
   },
   "kitStats": {
     "pvp": 74,
@@ -577,7 +577,7 @@
     "toolbox": 7,
     "wool": 8,
     "exp": 8,
-    "stash": 15,
+    "stash": 16,
     "ocean": 13,
     "build": 9,
     "dye": 5,
