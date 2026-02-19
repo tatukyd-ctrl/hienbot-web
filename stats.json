@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:15:56 19/2/2026",
-  "totalKits": 100228,
-  "todayKits": 10,
+  "lastUpdated": "17:16:26 19/2/2026",
+  "totalKits": 100229,
+  "todayKits": 11,
   "onlineCount": 17,
   "peakPlayers": 24,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "14.0",
-  "ping": 233,
+  "tps": "13.0",
+  "ping": 227,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "stash",
-      "count": 13
+      "count": 14
     },
     {
       "name": "ocean",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:12] [BOT] <HienBot> >Want to see your ping? Chat !ping",
-    "[10:13] [8b8t] >> ▼ Player bugbar Left.",
-    "[10:13] [8b8t] >> ▼ Player TylerDurden098 Left.",
-    "[10:13] liviaaaaaaa Whispers: !kit food",
-    "[10:13] [BOT] <HienBot> >Type !pvp to get free kits",
-    "[10:13] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:13] [8b8t] >> Teleporting to home 0...",
-    "[10:13] [8b8t] >> Teleporting to home 4...",
-    "[10:13] To liviaaaaaaa: Your kit (food) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:13] [8b8t] >> ▲ Player .CycloidUwU Joined.",
     "[10:14] [8b8t] >> ▼ Player .CycloidUwU Left.",
     "[10:14] [BOT] <HienBot> >Welcome to 8b8t, botchaosonix666!",
     "[10:14] To liviaaaaaaa: Try again Join dsc.gg/hienbot to report the error.",
@@ -108,7 +98,17 @@
     "[10:15] CatGirlKylie got pieced by an End Crystal",
     "[10:15] [Mini] <CatGirlKylie> > lets go again",
     "[10:15] [BOT] <HienBot> >Use !pvp to get kits",
-    "[10:15] [Mini] <CatGirlKylie> > tf is this ping"
+    "[10:15] [Mini] <CatGirlKylie> > tf is this ping",
+    "[10:15] [Mini] <CatGirlKylie> > i lagged",
+    "[10:15] [BOT] <HienBot> >Try !stash",
+    "[10:16] <coldbyte> !stash",
+    "[10:16] [8b8t] >> Teleporting to home 0...",
+    "[10:16] [8b8t] >> Teleporting to home 2...",
+    "[10:16] To coldbyte: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:16] To coldbyte: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:16] [8b8t] >> Request sent to coldbyte",
+    "[10:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[10:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 42,
@@ -555,7 +555,7 @@
     ".CSSX3049": 1,
     "Lyreach": 2,
     "jasxnmzk2025": 4,
-    "coldbyte": 4
+    "coldbyte": 5
   },
   "kitStats": {
     "pvp": 71,
@@ -570,7 +570,7 @@
     "toolbox": 7,
     "wool": 8,
     "exp": 7,
-    "stash": 13,
+    "stash": 14,
     "ocean": 12,
     "build": 9,
     "dye": 5,
