@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:05:26 19/2/2026",
+  "lastUpdated": "17:05:56 19/2/2026",
   "totalKits": 100226,
   "todayKits": 8,
   "onlineCount": 19,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "13.0",
-  "ping": 258,
+  "tps": "12.0",
+  "ping": 226,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 15
+      "count": 16
     },
     {
       "name": "stash",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:02] TulagrandKitbot has been put down by freddison",
-    "[10:02] [8b8t] >> ▲ Player Serdar45421 Joined.",
-    "[10:02] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[10:02] Serdar45421 challenged the Wither and lost their head",
-    "[10:03] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[10:03] [8b8t] >> ▲ Player mummyy05 Joined.",
     "[10:03] [8b8t] >> ▼ Player mummyy05 Left.",
     "[10:03] [8b8t] >> ▼ Player Serdar45421 Left.",
     "[10:03] [BOT] <HienBot> >Try /cosmetics to change your name color!",
@@ -108,7 +102,13 @@
     "[10:05] [8b8t] >> You are already ignoring that player",
     "[10:05] To coldbyte: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:05] To coldbyte: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[10:05] coldbyte Whispers: okok"
+    "[10:05] coldbyte Whispers: okok",
+    "[10:05] [BOT] <HienBot> >Try !status",
+    "[10:05] <coldbyte> !survival",
+    "[10:05] [8b8t] >> Teleporting to home 0...",
+    "[10:05] [8b8t] >> Teleporting to home 1...",
+    "[10:05] To coldbyte: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:05] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -555,12 +555,12 @@
     ".CSSX3049": 1,
     "Lyreach": 2,
     "jasxnmzk2025": 4,
-    "coldbyte": 2
+    "coldbyte": 3
   },
   "kitStats": {
     "pvp": 71,
     "raid": 11,
-    "survival": 15,
+    "survival": 16,
     "shulker": 100,
     "music": 3,
     "terracotta": 5,
