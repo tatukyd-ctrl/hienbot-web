@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:58:38 19/2/2026",
+  "lastUpdated": "13:59:08 19/2/2026",
   "totalKits": 100204,
   "todayKits": 9,
   "onlineCount": 15,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "14.0",
-  "ping": 245,
+  "tps": "15.0",
+  "ping": 246,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:55] [8b8t] >> Teleporting to home 0...",
-    "[06:55] [8b8t] >> Teleporting to home 6...",
-    "[06:55] To CPVP_player: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:55] [8b8t] >> ▲ Player .CSSX3049 Joined.",
-    "[06:55] To CPVP_player: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:55] [8b8t] >> Request sent to CPVP_player",
-    "[06:55] [8b8t] >> Teleporting...",
-    "[06:55] [8b8t] >> You have killed yourself!",
-    "[06:55] HienBot forgot to stop, drop, and roll",
-    "[06:55] [BOT] <HienBot> >Try !pvp",
-    "[06:55] To CPVP_player: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:55] To CPVP_player: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[06:55] [8b8t] >> You are already ignoring that player",
-    "[06:55] [8b8t] >> ▼ Player .CSSX3049 Left.",
-    "[06:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:55] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
     "[06:55] [8b8t] >> ▲ Player AetherionV26 Joined.",
     "[06:56] [8b8t] >> ▲ Player .CSSX3049 Joined.",
     "[06:56] [BOT] <HienBot> >Welcome to 8b8t, TulagrandBot!",
@@ -108,7 +92,23 @@
     "[06:58] [8b8t] >> ▼ Player .CSSX3049 Left.",
     "[06:58] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
     "[06:58] thetnt1 has completed the challenge [Hot Tourist Destinations]",
-    "[06:58] [8b8t] >> ▲ Player .CSSX3049 Joined."
+    "[06:58] [8b8t] >> ▲ Player .CSSX3049 Joined.",
+    "[06:58] <.CSSX3049> !shulketr",
+    "[06:58] [8b8t] >> Teleporting to home 0...",
+    "[06:58] [8b8t] >> Teleporting to home 2...",
+    "[06:58] To .CSSX3049: Kit \"shulketr\" not found! Giving you (gap) instead! dsc.gg/hienbot",
+    "[06:58] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[06:58] To .CSSX3049: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:58] <.CSSX3049> !shulker",
+    "[06:58] To .CSSX3049: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[06:58] [8b8t] >> Request sent to .CSSX3049",
+    "[06:58] [8b8t] >> You are already ignoring that player",
+    "[06:58] [BOT] <HienBot> >Want to see whose ping is the best? Chat !bestping",
+    "[06:58] [8b8t] >> ▼ Player Leeewiith3Es Left.",
+    "[06:59] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
+    "[06:59] ",
+    "[06:59] [8b8t] >> Restarting in 1m!",
+    "[06:59] "
   ],
   "userStats": {
     "Hien2309": 37,
@@ -551,7 +551,8 @@
     "AkashMC7": 2,
     "PepeChuyHS": 1,
     "Pritom_xD": 1,
-    "DaddyShawn980": 4
+    "DaddyShawn980": 4,
+    ".CSSX3049": 1
   },
   "kitStats": {
     "pvp": 56,
@@ -578,7 +579,7 @@
     "redstone": 5,
     "quartz": 5,
     "highway": 2,
-    "gap": 1,
+    "gap": 2,
     "mineral": 3,
     "gterracotta": 4,
     "wood": 2,
