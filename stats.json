@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:45:15 20/2/2026",
+  "lastUpdated": "03:45:22 20/2/2026",
   "totalKits": 100462,
   "todayKits": 219,
   "onlineCount": 47,
@@ -12,7 +12,7 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 25
   },
-  "tps": "12.0",
+  "tps": "11.0",
   "ping": 207,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 121
+      "count": 122
     },
     {
       "name": "survival",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:44] To Lamox: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[20:44] <IgnacyXDXD> !base",
-    "[20:44] [8b8t] >> Teleporting to home 0...",
-    "[20:44] [8b8t] >> Teleporting to home 1...",
-    "[20:44] To IgnacyXDXD: Your kit (base) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:44] To IgnacyXDXD: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:44] [8b8t] >> Request sent to IgnacyXDXD",
-    "[20:44] <SaintzysAlterEgo> !drop",
     "[20:44] To SaintzysAlterEgo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:44] [8b8t] >> Teleporting...",
     "[20:44] explotpress challenged the Wither and lost their head",
@@ -108,7 +100,15 @@
     "[20:45] To SaintzysAlterEgo: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:45] [8b8t] >> Request sent to SaintzysAlterEgo",
     "[20:45] [8b8t] >> ▼ Player Joax11 Left.",
-    "[20:45] [8b8t] >> Teleporting..."
+    "[20:45] [8b8t] >> Teleporting...",
+    "[20:45] [8b8t] >> You have killed yourself!",
+    "[20:45] <closepvp> !pvp",
+    "[20:45] [8b8t] >> Teleporting to home 0...",
+    "[20:45] [8b8t] >> Please do not spam.",
+    "[20:45] [8b8t] >> Teleporting to home 1...",
+    "[20:45] To closepvp: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:45] To SaintzysAlterEgo: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:45] To SaintzysAlterEgo: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat "
   ],
   "userStats": {
     "Hien2309": 43,
@@ -435,7 +435,7 @@
     "i_am_tobias": 2,
     "jaredsonic2014": 1,
     "itsfrost0": 1,
-    "closepvp": 20,
+    "closepvp": 21,
     "Cold_1": 1,
     "mchuaa": 11,
     "mrJoyy": 5,
@@ -606,7 +606,7 @@
     "UdoFreak": 1
   },
   "kitStats": {
-    "pvp": 121,
+    "pvp": 122,
     "raid": 21,
     "survival": 50,
     "shulker": 154,
