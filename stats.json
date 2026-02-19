@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:47:08 19/2/2026",
+  "lastUpdated": "13:47:38 19/2/2026",
   "totalKits": 100203,
   "todayKits": 8,
   "onlineCount": 13,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "15.0",
-  "ping": 232,
+  "tps": "12.0",
+  "ping": 235,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:41] [8b8t] >> ▼ Player hein Left.",
-    "[06:41] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[06:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:42] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[06:42] [8b8t] >> ▲ Player Hien2309 Joined.",
-    "[06:42] [8b8t] >> Please do not spam.",
-    "[06:43] [8b8t] >> ▼ Player Leeewiith3Es Left.",
     "[06:43] [BOT] <HienBot> >Use !lang and select your language",
     "[06:43] [8b8t] >> ▼ Player hein Left.",
     "[06:43] [8b8t] >> ▲ Player Hien2309 Joined.",
@@ -108,7 +101,14 @@
     "[06:46] [8b8t] >> ▲ Player DPS_Voyager_bot Joined.",
     "[06:46] [8b8t] >> You are already ignoring that player",
     "[06:46] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[06:46] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me"
+    "[06:46] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
+    "[06:47] [BOT] <HienBot> >Want to see whose ping is the best? Chat !bestping",
+    "[06:47] <DaddyShawn980> .CycloidQwQ",
+    "[06:47] [8b8t] >> Teleporting to home 0...",
+    "[06:47] [8b8t] >> Teleporting to home 2...",
+    "[06:47] To DaddyShawn980: Kit \"cycloidqwq\" not found! Giving you (redstone) instead! dsc.gg/hienbot",
+    "[06:47] To DaddyShawn980: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:47] [8b8t] >> Request sent to DaddyShawn980"
   ],
   "userStats": {
     "Hien2309": 37,
@@ -551,7 +551,7 @@
     "AkashMC7": 2,
     "PepeChuyHS": 1,
     "Pritom_xD": 1,
-    "DaddyShawn980": 1
+    "DaddyShawn980": 2
   },
   "kitStats": {
     "pvp": 56,
@@ -575,7 +575,7 @@
     "food": 4,
     "glass": 5,
     "elytra": 9,
-    "redstone": 4,
+    "redstone": 5,
     "quartz": 5,
     "highway": 2,
     "gap": 1,
