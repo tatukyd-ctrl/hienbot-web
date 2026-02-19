@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:34:22 20/2/2026",
-  "totalKits": 100503,
-  "todayKits": 260,
-  "onlineCount": 50,
+  "lastUpdated": "04:34:40 20/2/2026",
+  "totalKits": 100504,
+  "todayKits": 261,
+  "onlineCount": 51,
   "peakPlayers": 70,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 27
   },
-  "tps": "8.0",
-  "ping": 223,
+  "tps": "7.0",
+  "ping": 260,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 56
+      "count": 57
     },
     {
       "name": "elytra",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:33] <mghpthefish> tell peacebringer im not part of the 8b team anymore",
-    "[21:33] Sharkey challenged the Wither and lost their head",
-    "[21:33] [Ultra] <blake> k",
-    "[21:33] <zdeeq23> !gear",
-    "[21:33] [8b8t] >> Teleporting to home 0...",
-    "[21:33] [8b8t] >> Teleporting to home 2...",
-    "[21:33] To zdeeq23: Kit \"gear\" not found! Giving you (raid) instead! dsc.gg/hienbot",
-    "[21:33] [8b8t] >> ▲ Player .CycloidQwQ Joined.",
-    "[21:33] To zdeeq23: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:33] [8b8t] >> Request sent to zdeeq23",
-    "[21:33] [BOT] <HienBot> >Type !list for a list of kits",
-    "[21:33] [8b8t] >> Teleporting...",
-    "[21:33] [8b8t] >> ▼ Player PistonCubeB0T Left.",
     "[21:33] [Ultra] <blake> bye",
     "[21:33] [8b8t] >> You have killed yourself!",
     "[21:33] HienBot was rekt by zdeeq23 and their mighty [their hand]",
@@ -108,7 +95,20 @@
     "[21:34] <zdeeq23> !pvp",
     "[21:34] To zdeeq23: You're on cooldown, try again in 29 seconds! Don't forget to join dsc.gg/hienbot",
     "[21:34] [BOT] <HienBot> >Try !dupe",
-    "[21:34] <mghpthefish> do what you want"
+    "[21:34] <mghpthefish> do what you want",
+    "[21:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[21:34] Sharkey thought they could fly... they couldn't",
+    "[21:34] <4sph1x1a> !survival",
+    "[21:34] [8b8t] >> Teleporting to home 0...",
+    "[21:34] [8b8t] >> Teleporting to home 1...",
+    "[21:34] To 4sph1x1a: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:34] <zdeeq23> !pvp",
+    "[21:34] To zdeeq23: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[21:34] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
+    "[21:34] To 4sph1x1a: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:34] [8b8t] >> Request sent to 4sph1x1a",
+    "[21:34] [8b8t] >> Teleporting...",
+    "[21:34] <mghpthefish> this shit is now ashes so fuck it"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -610,7 +610,7 @@
     "EzielChicago": 1,
     "kuorbq": 2,
     "BaseWatcher": 1,
-    "4sph1x1a": 2,
+    "4sph1x1a": 3,
     "snoop_2x": 1,
     "Alemeja": 1,
     "ezzz_mario222": 2,
@@ -622,7 +622,7 @@
   "kitStats": {
     "pvp": 136,
     "raid": 22,
-    "survival": 56,
+    "survival": 57,
     "shulker": 164,
     "music": 11,
     "terracotta": 7,
