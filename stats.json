@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:54:38 19/2/2026",
+  "lastUpdated": "13:55:08 19/2/2026",
   "totalKits": 100203,
   "todayKits": 8,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "16.0",
-  "ping": 286,
+  "tps": "17.0",
+  "ping": 247,
   "topUsers": [
     {
       "name": "waximo",
@@ -25,7 +25,7 @@
     },
     {
       "name": "CPVP_player",
-      "count": 472
+      "count": 473
     },
     {
       "name": ".SwellDust9988",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 94
+      "count": 95
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:51] [8b8t] >> Request sent to DaddyShawn980",
-    "[06:52] [8b8t] >> ▼ Player htp1p0 Left.",
-    "[06:52] [8b8t] >> ▲ Player htp1p0 Joined.",
-    "[06:52] [8b8t] >> ▼ Player htp1p0 Left.",
-    "[06:52] [8b8t] >> ▲ Player Hien2309 Joined.",
-    "[06:52] [8b8t] >> ▲ Player htp1p0 Joined.",
-    "[06:52] [8b8t] >> ▼ Player htp1p0 Left.",
     "[06:52] [8b8t] >> ▼ Player bugbar Left.",
     "[06:52] [8b8t] >> ▲ Player htp1p0 Joined.",
     "[06:52] [8b8t] >> ▼ Player htp1p0 Left.",
@@ -108,7 +101,14 @@
     "[06:54] DaddyShawn980 has made the advancement [Monster Hunter]",
     "[06:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:54] [BOT] <HienBot> >Sub to Hien2309 in youtube",
-    "[06:54] [8b8t] >> ▼ Player .CSSX3049 Left."
+    "[06:54] [8b8t] >> ▼ Player .CSSX3049 Left.",
+    "[06:54] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[06:55] <CPVP_player> !shulker",
+    "[06:55] [8b8t] >> You are already ignoring that player",
+    "[06:55] [8b8t] >> Teleporting to home 0...",
+    "[06:55] [8b8t] >> Teleporting to home 6...",
+    "[06:55] To CPVP_player: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:55] [8b8t] >> ▲ Player .CSSX3049 Joined."
   ],
   "userStats": {
     "Hien2309": 37,
@@ -396,7 +396,7 @@
     "dragonsej2025": 2,
     "sirossge": 1,
     "yulianroberto": 5,
-    "CPVP_player": 472,
+    "CPVP_player": 473,
     ".CycloidUwU": 4,
     "Andres_LM5": 14,
     "__Solarflare": 18,
@@ -557,7 +557,7 @@
     "pvp": 56,
     "raid": 7,
     "survival": 11,
-    "shulker": 94,
+    "shulker": 95,
     "music": 3,
     "terracotta": 5,
     "lightsources": 4,
