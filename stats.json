@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:08:22 19/2/2026",
+  "lastUpdated": "23:08:52 19/2/2026",
   "totalKits": 100311,
   "todayKits": 68,
   "onlineCount": 32,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 19
   },
-  "tps": "7.0",
-  "ping": 205,
+  "tps": "11.0",
+  "ping": 273,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 114
+      "count": 115
     },
     {
       "name": "pvp",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:06] [8b8t] >> ▼ Player Holasoynose9 Left.",
-    "[16:06] [8b8t] >> Please do not spam.",
-    "[16:06] Flawww_ forgot to bring their parachute",
-    "[16:06] MarcosVinicius27 got blown up by an End Crystal",
-    "[16:06] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
-    "[16:07] <IgnacyXDXD> !donate",
     "[16:07] [8b8t] >> Teleporting to home 0...",
     "[16:07] [8b8t] >> Teleporting to home 3...",
     "[16:07] To IgnacyXDXD: Kit \"donate\" not found! Giving you (wood) instead! dsc.gg/hienbot",
@@ -108,7 +102,13 @@
     "[16:08] <coldbyte> !shulker",
     "[16:08] [8b8t] >> Teleporting to home 0...",
     "[16:08] [8b8t] >> Teleporting to home 6...",
-    "[16:08] To coldbyte: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
+    "[16:08] To coldbyte: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:08] To coldbyte: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[16:08] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[16:08] <sofyxz> alguien para hacer una base",
+    "[16:08] <Leo_MendeZz> a",
+    "[16:08] <Flawww_> !shulker",
+    "[16:08] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 43,
@@ -572,13 +572,14 @@
     "NotBerryXD": 8,
     ".DNS_Craft180": 1,
     "Leo_MendeZz": 5,
-    "MarcosVinicius27": 1
+    "MarcosVinicius27": 1,
+    "Flawww_": 1
   },
   "kitStats": {
     "pvp": 90,
     "raid": 13,
     "survival": 36,
-    "shulker": 114,
+    "shulker": 115,
     "music": 4,
     "terracotta": 6,
     "lightsources": 5,
