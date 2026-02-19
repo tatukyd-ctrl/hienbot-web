@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:31:08 19/2/2026",
-  "totalKits": 100214,
-  "todayKits": 19,
-  "onlineCount": 16,
+  "lastUpdated": "15:31:38 19/2/2026",
+  "totalKits": 100215,
+  "todayKits": 20,
+  "onlineCount": 17,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 16
   },
-  "tps": "16.0",
-  "ping": 229,
+  "tps": "13.0",
+  "ping": 426,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 56
+      "count": 57
     },
     {
       "name": "survival",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:29] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[08:29] spteen decided to test gravity and lost",
-    "[08:29] [8b8t] >> ▼ Player bugbar Left.",
-    "[08:29] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[08:29] <penelopecruz> !shulker",
-    "[08:29] [8b8t] >> You are already ignoring that player",
-    "[08:29] [8b8t] >> Teleporting to home 0...",
-    "[08:29] [8b8t] >> Teleporting to home 6...",
-    "[08:29] To penelopecruz: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:29] MonkeBot thought they could make it to oxygen in time",
-    "[08:29] To penelopecruz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:29] [8b8t] >> Request sent to penelopecruz",
     "[08:29] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[08:30] [8b8t] >> ▼ Player waximo Left.",
     "[08:30] [8b8t] >> Teleporting...",
@@ -108,7 +96,19 @@
     "[08:30] [8b8t] >> ▲ Player VinhMC_YTB Joined.",
     "[08:30] [8b8t] >> You are already ignoring that player",
     "[08:30] [8b8t] >> ▲ Player Lyreach Joined.",
-    "[08:31] [BOT] <HienBot> >Hmmmmmmmmm"
+    "[08:31] [BOT] <HienBot> >Hmmmmmmmmm",
+    "[08:31] MonkeBot thought a Zombie was friendly",
+    "[08:31] <penelopecruz> !shulker pvp",
+    "[08:31] <penelopecruz> !pvp",
+    "[08:31] [8b8t] >> ▲ Player waximo Joined.",
+    "[08:31] [8b8t] >> Teleporting to home 0...",
+    "[08:31] [8b8t] >> Teleporting to home 1...",
+    "[08:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[08:31] To penelopecruz: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:31] To penelopecruz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:31] [8b8t] >> Request sent to penelopecruz",
+    "[08:31] [8b8t] >> Teleporting...",
+    "[08:31] [BOT] <HienBot> >Use !pvp to get kits"
   ],
   "userStats": {
     "Hien2309": 41,
@@ -496,7 +496,7 @@
     "slave_builder": 1,
     "IamNuke_": 2,
     "TheAstronautP1": 1,
-    "penelopecruz": 6,
+    "penelopecruz": 7,
     "agresywny123": 1,
     "BekkerDominikPC2": 2,
     "zyromite5": 3,
@@ -556,7 +556,7 @@
     "Lyreach": 2
   },
   "kitStats": {
-    "pvp": 56,
+    "pvp": 57,
     "raid": 11,
     "survival": 13,
     "shulker": 99,
