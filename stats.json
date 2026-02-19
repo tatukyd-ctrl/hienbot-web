@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:19:22 20/2/2026",
+  "lastUpdated": "01:19:52 20/2/2026",
   "totalKits": 100361,
   "todayKits": 118,
-  "onlineCount": 42,
+  "onlineCount": 41,
   "peakPlayers": 46,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:37:31 20/2/2026",
     "avg": 21
   },
-  "tps": "9.0",
+  "tps": "10.0",
   "ping": 210,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 38
+      "count": 39
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:17] <SK_666> Meteor on Crack!",
-    "[18:17] <SK_666> Meteor on Crack!",
-    "[18:17] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[18:17] <SK_666> Meteor on Crack!",
-    "[18:17] <botchaosonix666> ahhh",
-    "[18:17] <SK_666> Meteor on Crack!",
-    "[18:17] <botchaosonix666> so tuff",
-    "[18:17] <SK_666> Meteor on Crack!",
-    "[18:17] <SK_666> Meteor on Crack!",
-    "[18:17] <SK_666> Meteor on Crack!",
-    "[18:17] <SK_666> Meteor on Crack!",
     "[18:17] [8b8t] >> ▼ Player dersniperer0 Left.",
     "[18:17] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[18:17] <SK_666> Meteor on Crack!",
@@ -108,7 +97,18 @@
     "[18:18] [8b8t] >> ▲ Player salasana Joined.",
     "[18:18] [8b8t] >> ▲ Player SK_666 Joined.",
     "[18:18] [BOT] <HienBot> >Hmmmmmmmmm",
-    "[18:19] [8b8t] >> ▼ Player dersniperer0 Left."
+    "[18:19] [8b8t] >> ▼ Player dersniperer0 Left.",
+    "[18:19] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[18:19] [BOT] <HienBot> >Running low on supplies? Use !survival",
+    "[18:19] [8b8t] >> ▼ Player Rucosa Left.",
+    "[18:19] <salasana> !survival",
+    "[18:19] [8b8t] >> Teleporting to home 0...",
+    "[18:19] [8b8t] >> Teleporting to home 1...",
+    "[18:19] To salasana: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:19] To salasana: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:19] [8b8t] >> Request sent to salasana",
+    "[18:19] <botchaosonix666> Shoreline On top!",
+    "[18:19] <sombra100> ?"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -582,12 +582,13 @@
     "_wari_": 16,
     "irlbeqs1": 4,
     "kalfa_yt": 4,
-    "Ducky1sCool": 1
+    "Ducky1sCool": 1,
+    "salasana": 1
   },
   "kitStats": {
     "pvp": 102,
     "raid": 15,
-    "survival": 38,
+    "survival": 39,
     "shulker": 127,
     "music": 4,
     "terracotta": 6,
