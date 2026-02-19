@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:41:39 19/2/2026",
+  "lastUpdated": "15:42:08 19/2/2026",
   "totalKits": 100216,
   "todayKits": 21,
-  "onlineCount": 21,
+  "onlineCount": 20,
   "peakPlayers": 21,
   "playerStats": {
     "min": 0,
@@ -12,12 +12,12 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 16
   },
-  "tps": "13.0",
-  "ping": 195,
+  "tps": "15.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
-      "count": 1055
+      "count": 1056
     },
     {
       "name": "rezhuhohlov",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:36] [8b8t] >> ▲ Player TulagrandKitbot Joined.",
-    "[08:36] [8b8t] >> You are already ignoring that player",
-    "[08:37] [BOT] <HienBot> >Try !status",
-    "[08:37] [8b8t] >> ▲ Player freddison Joined.",
-    "[08:37] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[08:37] [8b8t] >> ▲ Player .CycloidQwQ Joined.",
-    "[08:37] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[08:37] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[08:37] [BOT] <HienBot> >Type !pvp to get free kits",
     "[08:38] [BOT] <HienBot> >Hi .CycloidQwQ!",
     "[08:38] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
@@ -108,7 +100,15 @@
     "[08:41] [8b8t] >> ▲ Player waximo Joined.",
     "[08:41] [8b8t] >> ▲ Player penelopecruz Joined.",
     "[08:41] [8b8t] >> ▼ Player p09oi8u7y6 Left.",
-    "[08:41] [BOT] <HienBot> >Hate those who destroy Hien2309's base"
+    "[08:41] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
+    "[08:41] [8b8t] >> ▼ Player TulagrandKitbot Left.",
+    "[08:41] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[08:42] [8b8t] >> You are already ignoring that player",
+    "[08:42] <waximo> !list",
+    "[08:42] [8b8t] >> Teleporting to home 0...",
+    "[08:42] [BOT] <HienBot> >Hmmmmmmmmm",
+    "[08:42] [8b8t] >> Teleporting to home 4...",
+    "[08:42] To waximo: Kit \"list\" not found! Giving you (toolbox) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 41,
@@ -391,7 +391,7 @@
     "DaRespekt": 8,
     "iristar": 15,
     ".Carlosguada": 1,
-    "waximo": 1055,
+    "waximo": 1056,
     "ElBuchi": 1,
     "dragonsej2025": 2,
     "sirossge": 1,
@@ -565,7 +565,7 @@
     "lightsources": 4,
     "tools": 6,
     "armortrims": 9,
-    "toolbox": 5,
+    "toolbox": 6,
     "wool": 8,
     "exp": 6,
     "stash": 12,
