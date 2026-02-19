@@ -1,19 +1,19 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:04:48 19/2/2026",
+  "lastUpdated": "07:05:18 19/2/2026",
   "totalKits": 100146,
   "todayKits": 1,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 59,
   "playerStats": {
     "min": 37,
     "minTime": "07:00:47 19/2/2026",
-    "max": 40,
-    "maxTime": "07:01:18 19/2/2026",
+    "max": 41,
+    "maxTime": "07:05:18 19/2/2026",
     "avg": 39
   },
-  "tps": "8.0",
-  "ping": 197,
+  "tps": "11.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 72
+      "count": 73
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:02] [8b8t] >> Teleporting to home 0...",
-    "[00:02] [8b8t] >> Teleporting to home 3...",
-    "[00:02] [8b8t] >> ▼ Player Axelitoelmejor Left.",
-    "[00:02] To RenxitoMC: Kit \"p1to\" not found! Giving you (wool) instead! dsc.gg/hienbot",
-    "[00:02] [8b8t] >> Successfully unignored player Elmonito1234",
-    "[00:02] To RenxitoMC: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:02] [8b8t] >> Successfully ignored player RenxitoMC",
-    "[00:02] [8b8t] >> Request sent to RenxitoMC",
-    "[00:02] [8b8t] >> ▲ Player Jav5WR213 Joined.",
-    "[00:02] <TulagrandBot> >Try @seed to get 8b8t's seed",
-    "[00:02] [8b8t] >> ▼ Player diegasogame Left.",
-    "[00:02] <blueavis7> @seed",
     "[00:02] To blueavis7: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[00:02] [8b8t] >> Please do not spam.",
     "[00:02] [8b8t] >> You have killed yourself!",
@@ -108,7 +96,19 @@
     "[00:04] Elmonito1234 tried to outswim the water",
     "[00:04] [8b8t] >> ▲ Player WildWillRudy Joined.",
     "[00:04] [8b8t] >> ▲ Player santi6752 Joined.",
-    "[00:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[00:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[00:04] <TulagrandBot> >How are you S1llyBean?",
+    "[00:04] <blueavis7> !shulker",
+    "[00:04] [8b8t] >> Teleporting to home 0...",
+    "[00:04] [8b8t] >> Teleporting to home 6...",
+    "[00:04] To blueavis7: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:04] To blueavis7: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:04] [8b8t] >> ▲ Player Joax11 Joined.",
+    "[00:04] [8b8t] >> Request sent to blueavis7",
+    "[00:04] santi6752 forgot to bring their parachute",
+    "[00:05] <TulagrandBot> >Try @tps to get server's tps",
+    "[00:05] <CarelCDK> !shulker",
+    "[00:05] To CarelCDK: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 27,
@@ -535,13 +535,14 @@
     "Alanxv42": 1,
     "TuReina": 2,
     "RenxitoMC": 2,
-    "Dreamwonbtw100k": 1
+    "Dreamwonbtw100k": 1,
+    "blueavis7": 1
   },
   "kitStats": {
     "pvp": 48,
     "raid": 5,
     "survival": 9,
-    "shulker": 72,
+    "shulker": 73,
     "music": 2,
     "terracotta": 4,
     "lightsources": 1,
