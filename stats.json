@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:47:32 20/2/2026",
+  "lastUpdated": "03:47:52 20/2/2026",
   "totalKits": 100467,
   "todayKits": 224,
   "onlineCount": 48,
@@ -12,8 +12,8 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 26
   },
-  "tps": "6.0",
-  "ping": 216,
+  "tps": "5.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:47] <Lamox> !gear",
-    "[20:47] <SaintzysAlterEgo> !gif",
-    "[20:47] [8b8t] >> Teleporting to home 0...",
-    "[20:47] To SaintzysAlterEgo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:47] [8b8t] >> Teleporting to home 1...",
-    "[20:47] To Lamox: Kit \"gear\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
-    "[20:47] To Lamox: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:47] <SaintzysAlterEgo> !gift",
-    "[20:47] To SaintzysAlterEgo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:47] [8b8t] >> Request sent to Lamox",
-    "[20:47] [8b8t] >> Teleporting...",
-    "[20:47] <SaintzysAlterEgo> !gift",
     "[20:47] To SaintzysAlterEgo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:47] [8b8t] >> You have killed yourself!",
     "[20:47] Lamox pulverized HienBot using [netherite sword]",
@@ -108,7 +96,19 @@
     "[20:47] <closepvp> !netherite",
     "[20:47] To closepvp: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:47] [8b8t] >> Teleporting...",
-    "[20:47] EmpanadaFrita burned up in a pit of lava"
+    "[20:47] EmpanadaFrita burned up in a pit of lava",
+    "[20:47] <Lamox> !fireworks",
+    "[20:47] To Lamox: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[20:47] [8b8t] >> You have killed yourself!",
+    "[20:47] To SaintzysAlterEgo: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:47] To SaintzysAlterEgo: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
+    "[20:47] <closepvp> !netherite",
+    "[20:47] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[20:47] [8b8t] >> Teleporting to home 0...",
+    "[20:47] [8b8t] >> Teleporting to home 3...",
+    "[20:47] To closepvp: Your kit (netherite) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:47] <Lamox> !fireworks",
+    "[20:47] To Lamox: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -435,7 +435,7 @@
     "i_am_tobias": 2,
     "jaredsonic2014": 1,
     "itsfrost0": 1,
-    "closepvp": 21,
+    "closepvp": 22,
     "Cold_1": 1,
     "mchuaa": 11,
     "mrJoyy": 5,
@@ -631,7 +631,7 @@
     "quartz": 5,
     "highway": 5,
     "gap": 11,
-    "mineral": 13,
+    "mineral": 14,
     "gterracotta": 7,
     "wood": 10,
     "end": 10
