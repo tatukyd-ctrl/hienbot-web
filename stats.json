@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:10:22 19/2/2026",
+  "lastUpdated": "19:10:52 19/2/2026",
   "totalKits": 100243,
   "todayKits": 0,
   "onlineCount": 16,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "17.0",
-  "ping": 226,
+  "tps": "13.0",
+  "ping": 236,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 72
+      "count": 73
     },
     {
       "name": "survival",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:06] [BOT] <HienBot> >Use !info <player> to check someone's stats",
-    "[12:06] <dacvudog1802> oke",
-    "[12:07] <PURPLEDEMON> HIIIIII",
-    "[12:07] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[12:07] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[12:07] [8b8t] >> ▲ Player NETHEREND22 Joined.",
-    "[12:07] <PURPLEDEMON> k",
-    "[12:07] <PURPLEDEMON> k ty",
-    "[12:07] [BOT] <HienBot> >Sub to Hien2309 in youtube",
     "[12:08] <PURPLEDEMON> k i will",
     "[12:08] <PURPLEDEMON> !gear",
     "[12:08] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +99,16 @@
     "[12:09] [8b8t] >> ▲ Player Nnafily Joined.",
     "[12:09] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
     "[12:09] [8b8t] >> ▼ Player NETHEREND22 Left.",
-    "[12:09] [BOT] <HienBot> >Use /kill to kill yourself!"
+    "[12:09] [BOT] <HienBot> >Use /kill to kill yourself!",
+    "[12:10] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[12:10] [BOT] <HienBot> >Need gear? Type !pvp to get started!",
+    "[12:10] <PURPLEDEMON> there is no wood here",
+    "[12:10] <PURPLEDEMON> !pvp",
+    "[12:10] [8b8t] >> Teleporting to home 0...",
+    "[12:10] [8b8t] >> Teleporting to home 1...",
+    "[12:10] To PURPLEDEMON: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:10] To PURPLEDEMON: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:10] [8b8t] >> Request sent to PURPLEDEMON"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -561,10 +561,10 @@
     "broncobusted": 2,
     "thedidler": 1,
     "janekv": 1,
-    "PURPLEDEMON": 1
+    "PURPLEDEMON": 2
   },
   "kitStats": {
-    "pvp": 72,
+    "pvp": 73,
     "raid": 12,
     "survival": 23,
     "shulker": 106,
