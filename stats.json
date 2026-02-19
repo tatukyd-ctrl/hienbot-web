@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:07:52 19/2/2026",
+  "lastUpdated": "19:08:22 19/2/2026",
   "totalKits": 100243,
   "todayKits": 0,
   "onlineCount": 16,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "16.0",
-  "ping": 219,
+  "tps": "14.0",
+  "ping": 277,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:05] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[12:05] <janekv> !shulker",
-    "[12:05] [8b8t] >> Teleporting to home 0...",
-    "[12:05] [8b8t] >> Teleporting to home 6...",
-    "[12:05] To janekv: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:05] To janekv: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:05] [Pro+] <bugbar> hien",
     "[12:05] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:05] [Mini] <hein> ?",
     "[12:05] [BOT] <HienBot> >Use !list to see all available kits!",
@@ -108,7 +101,14 @@
     "[12:07] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[12:07] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
     "[12:07] [8b8t] >> ▲ Player NETHEREND22 Joined.",
-    "[12:07] <PURPLEDEMON> k"
+    "[12:07] <PURPLEDEMON> k",
+    "[12:07] <PURPLEDEMON> k ty",
+    "[12:07] [BOT] <HienBot> >Sub to Hien2309 in youtube",
+    "[12:08] <PURPLEDEMON> k i will",
+    "[12:08] <PURPLEDEMON> !gear",
+    "[12:08] [8b8t] >> Teleporting to home 0...",
+    "[12:08] [8b8t] >> Teleporting to home 4...",
+    "[12:08] To PURPLEDEMON: Kit \"gear\" not found! Giving you (food) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -560,7 +560,8 @@
     "Anormous": 3,
     "broncobusted": 2,
     "thedidler": 1,
-    "janekv": 1
+    "janekv": 1,
+    "PURPLEDEMON": 1
   },
   "kitStats": {
     "pvp": 72,
@@ -581,7 +582,7 @@
     "dye": 5,
     "concrete": 5,
     "dupe": 3,
-    "food": 5,
+    "food": 6,
     "glass": 5,
     "elytra": 14,
     "redstone": 5,
