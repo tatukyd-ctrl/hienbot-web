@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:06:38 19/2/2026",
+  "lastUpdated": "12:07:08 19/2/2026",
   "totalKits": 100199,
   "todayKits": 4,
-  "onlineCount": 18,
+  "onlineCount": 17,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 19
   },
-  "tps": "13.0",
-  "ping": 199,
+  "tps": "14.0",
+  "ping": 2840,
   "topUsers": [
     {
       "name": "waximo",
@@ -70,22 +70,15 @@
       "count": 12
     },
     {
-      "name": "stash",
+      "name": "survival",
       "count": 11
     },
     {
-      "name": "survival",
-      "count": 10
+      "name": "stash",
+      "count": 11
     }
   ],
   "chatLog": [
-    "[05:03] To AkashMC7: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[05:03] [8b8t] >> ▼ Player jackzuz Left.",
-    "[05:03] <AkashMC7> !stash",
-    "[05:03] To AkashMC7: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[05:04] <AkashMC7> yo bro",
-    "[05:04] [BOT] <HienBot> >Type !pvp to get free kits",
-    "[05:04] [8b8t] >> You have killed yourself!",
     "[05:04] [8b8t] >> The TPA request you sent to AkashMC7 was successfully canceled.",
     "[05:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[05:04] [BOT] <HienBot> >Use !lang and select your language",
@@ -108,7 +101,14 @@
     "[05:06] [8b8t] >> ▲ Player Cat6e Joined.",
     "[05:06] [8b8t] >> Teleporting...",
     "[05:06] [8b8t] >> You have killed yourself!",
-    "[05:06] <Stuff_Thing> !stash"
+    "[05:06] <Stuff_Thing> !stash",
+    "[05:06] [8b8t] >> ▼ Player Cat6e Left.",
+    "[05:06] To AkashMC7: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[05:06] [8b8t] >> ▲ Player ilPaglia Joined.",
+    "[05:06] [8b8t] >> ▼ Player Leeewiith3Es Left.",
+    "[05:06] [8b8t] >> ▼ Player bugbar Left.",
+    "[05:06] <Stuff_Thing> !survival",
+    "[05:07] [8b8t] >> ▲ Player Leeewiith3Es Joined."
   ],
   "userStats": {
     "Hien2309": 37,
@@ -547,13 +547,13 @@
     "aferradoltlt": 1,
     "MxRgB": 1,
     "cutelotl_": 1,
-    "Stuff_Thing": 4,
+    "Stuff_Thing": 5,
     "AkashMC7": 2
   },
   "kitStats": {
     "pvp": 56,
     "raid": 7,
-    "survival": 10,
+    "survival": 11,
     "shulker": 91,
     "music": 3,
     "terracotta": 5,
