@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:05:08 19/2/2026",
+  "lastUpdated": "15:05:38 19/2/2026",
   "totalKits": 100206,
   "todayKits": 11,
-  "onlineCount": 18,
+  "onlineCount": 17,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 16
   },
-  "tps": "14.0",
-  "ping": 209,
+  "tps": "16.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -66,12 +66,12 @@
       "count": 56
     },
     {
-      "name": "ocean",
+      "name": "survival",
       "count": 12
     },
     {
-      "name": "survival",
-      "count": 11
+      "name": "ocean",
+      "count": 12
     },
     {
       "name": "stash",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:02] [BOT] <HienBot> >Use !lang and select your language",
-    "[08:02] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[08:02] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[08:02] <x_akuma_x> can anyone get me out of spawn",
-    "[08:02] [BOT] <HienBot> >What's up, Sunther_?",
-    "[08:02] [8b8t] >> ▲ Player BJ_Brachita Joined.",
-    "[08:02] [8b8t] >> ▲ Player OchuruLaTranka Joined.",
-    "[08:02] [8b8t] >> You are already ignoring that player",
-    "[08:02] [8b8t] >> ▼ Player BJ_Brachita Left.",
-    "[08:02] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[08:03] [8b8t] >> Please do not spam.",
     "[08:03] [8b8t] >> ▼ Player bugbar Left.",
     "[08:03] [8b8t] >> ▲ Player BigBear Joined.",
@@ -108,10 +98,20 @@
     "[08:04] [8b8t] >> MrPinkEye first joined on: 2026-01-08 15:54:02",
     "[08:04] To Hien2309: Info MrPinkEye: UUID: 862bf082-5ca1-406e-9e4c-72c22743a66d | Type: Premium | ",
     "[08:04] .CycloidQwQ has reached the goal [Sky's the Limit]",
-    "[08:05] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!"
+    "[08:05] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
+    "[08:05] [8b8t] >> ▼ Player x_akuma_x Left.",
+    "[08:05] .CycloidQwQ has completed the challenge [Subspace Bubble]",
+    "[08:05] spteen thought they could fly... they couldn't",
+    "[08:05] [Mini] <hein> !survival",
+    "[08:05] [8b8t] >> Teleporting to home 0...",
+    "[08:05] [8b8t] >> Teleporting to home 1...",
+    "[08:05] To Hien2309: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:05] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:05] [8b8t] >> Request sent to Hien2309",
+    "[08:05] [BOT] <HienBot> >Use !pvp to get kits"
   ],
   "userStats": {
-    "Hien2309": 37,
+    "Hien2309": 38,
     "doyoda1292": 8,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
@@ -557,7 +557,7 @@
   "kitStats": {
     "pvp": 56,
     "raid": 7,
-    "survival": 11,
+    "survival": 12,
     "shulker": 98,
     "music": 3,
     "terracotta": 5,
