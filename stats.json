@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:53:08 19/2/2026",
+  "lastUpdated": "11:53:38 19/2/2026",
   "totalKits": 100197,
   "todayKits": 2,
   "onlineCount": 14,
@@ -12,7 +12,7 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 19
   },
-  "tps": "16.0",
+  "tps": "17.0",
   "ping": 199,
   "topUsers": [
     {
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:45] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
-    "[04:46] [BOT] <HienBot> >Use !lang and select your language",
-    "[04:46] [8b8t] >> ▲ Player AetherionV26 Joined.",
-    "[04:46] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[04:46] [BOT] <HienBot> >Try !pvp",
-    "[04:46] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[04:47] [BOT] <HienBot> >Hi BigBear!",
     "[04:47] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
     "[04:48] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[04:48] [BOT] <HienBot> >For each invitation in HienBot Group, you will receive 10 kits: dsc,gg/hienbot",
@@ -108,7 +101,14 @@
     "[04:52] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[04:52] Stuff_Thing challenged the Wither and lost their head",
     "[04:52] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[04:53] [8b8t] >> ▲ Player gamemode23421 Joined."
+    "[04:53] [8b8t] >> ▲ Player gamemode23421 Joined.",
+    "[04:53] [BOT] <HienBot> >Bot created by Hien2309.",
+    "[04:53] <Stuff_Thing> !gear",
+    "[04:53] [8b8t] >> Teleporting to home 0...",
+    "[04:53] [8b8t] >> Teleporting to home 4...",
+    "[04:53] To Stuff_Thing: Kit \"gear\" not found! Giving you (food) instead! dsc.gg/hienbot",
+    "[04:53] To Stuff_Thing: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:53] [8b8t] >> Request sent to Stuff_Thing"
   ],
   "userStats": {
     "Hien2309": 37,
@@ -546,7 +546,8 @@
     "BitRogue": 1,
     "aferradoltlt": 1,
     "MxRgB": 1,
-    "cutelotl_": 1
+    "cutelotl_": 1,
+    "Stuff_Thing": 1
   },
   "kitStats": {
     "pvp": 56,
@@ -567,7 +568,7 @@
     "dye": 5,
     "concrete": 3,
     "dupe": 3,
-    "food": 3,
+    "food": 4,
     "glass": 3,
     "elytra": 5,
     "redstone": 4,
