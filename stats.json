@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:58:26 19/2/2026",
+  "lastUpdated": "15:58:56 19/2/2026",
   "totalKits": 100222,
   "todayKits": 4,
-  "onlineCount": 22,
+  "onlineCount": 23,
   "peakPlayers": 24,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "12.0",
-  "ping": 3069,
+  "tps": "15.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 64
+      "count": 65
     },
     {
       "name": "survival",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:56] <jasxnmzk2025> !pvp",
-    "[08:56] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[08:56] To jasxnmzk2025: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[08:56] [8b8t] >> You have killed yourself!",
-    "[08:56] [8b8t] >> The TPA request you sent to jasxnmzk2025 was successfully canceled.",
-    "[08:57] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[08:57] [8b8t] >> ▼ Player evaletz Left.",
-    "[08:57] [8b8t] >> ▲ Player evaletz Joined.",
-    "[08:57] <penelopecruz> portis",
-    "[08:57] <penelopecruz> pon",
-    "[08:57] <penelopecruz> !pvp",
-    "[08:57] [8b8t] >> Teleporting to home 0...",
     "[08:57] [8b8t] >> Teleporting to home 1...",
     "[08:57] To penelopecruz: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[08:57] To penelopecruz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +96,19 @@
     "[08:58] <penelopecruz> !pvp",
     "[08:58] To penelopecruz: You're on cooldown, try again in 48 seconds! Don't forget to join dsc.gg/hienbot",
     "[08:58] [8b8t] >> ▼ Player TulagrandKitbot Left.",
-    "[08:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[08:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[08:58] <jasxnmzk2025> !pvp",
+    "[08:58] [8b8t] >> Teleporting to home 0...",
+    "[08:58] [8b8t] >> Teleporting to home 1...",
+    "[08:58] To jasxnmzk2025: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:58] To jasxnmzk2025: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:58] [8b8t] >> Request sent to jasxnmzk2025",
+    "[08:58] [BOT] <HienBot> >Try !pvp",
+    "[08:58] <jasxnmzk2025> bourkib",
+    "[08:58] .CycloidUwU got shot by a skeleton",
+    "[08:58] <jasxnmzk2025> mandame un toa",
+    "[08:58] <jasxnmzk2025> tpa",
+    "[08:58] [8b8t] >> ▲ Player htp1p0 Joined."
   ],
   "userStats": {
     "Hien2309": 41,
@@ -554,10 +554,10 @@
     "DaddyShawn980": 4,
     ".CSSX3049": 1,
     "Lyreach": 2,
-    "jasxnmzk2025": 1
+    "jasxnmzk2025": 2
   },
   "kitStats": {
-    "pvp": 64,
+    "pvp": 65,
     "raid": 11,
     "survival": 13,
     "shulker": 99,
