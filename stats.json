@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:46:52 20/2/2026",
-  "totalKits": 100465,
-  "todayKits": 222,
+  "lastUpdated": "03:47:14 20/2/2026",
+  "totalKits": 100466,
+  "todayKits": 223,
   "onlineCount": 48,
   "peakPlayers": 70,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 26
   },
-  "tps": "7.0",
-  "ping": 233,
+  "tps": "5.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 123
+      "count": 124
     },
     {
       "name": "survival",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:45] HienBot has been put down by Lamox",
-    "[20:45] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[20:45] To Lamox: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[20:45] To Lamox: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[20:45] <deantheneek> i use future",
-    "[20:45] [8b8t] >> Sik0s voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[20:46] <deantheneek> idk",
-    "[20:46] <SaintzysAlterEgo> !gear",
-    "[20:46] IgnacyXDXD has reached the goal [Postmortal]",
-    "[20:46] [8b8t] >> Teleporting to home 0...",
-    "[20:46] [8b8t] >> Teleporting to home 3...",
-    "[20:46] To SaintzysAlterEgo: Kit \"gear\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
-    "[20:46] To SaintzysAlterEgo: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:46] [8b8t] >> Request sent to SaintzysAlterEgo",
-    "[20:46] [BOT] <HienBot> >Use !lang and select your language",
     "[20:46] [8b8t] >> Teleporting...",
     "[20:46] <deantheneek> i like future",
     "[20:46] <Lamox> !gear",
@@ -108,7 +93,22 @@
     "[20:46] [8b8t] >> ▼ Player scattosh Left.",
     "[20:46] MaxCraftMC has made the advancement [Not Today, Thank You]",
     "[20:46] <IgnacyXDXD> !free build",
-    "[20:46] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls"
+    "[20:46] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
+    "[20:46] <SaintzysAlterEgo> !free pvp",
+    "[20:46] MaxCraftMC has made the advancement [Ol' Betsy]",
+    "[20:47] <Lamox> !gear",
+    "[20:47] <SaintzysAlterEgo> !gif",
+    "[20:47] [8b8t] >> Teleporting to home 0...",
+    "[20:47] To SaintzysAlterEgo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[20:47] [8b8t] >> Teleporting to home 1...",
+    "[20:47] To Lamox: Kit \"gear\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[20:47] To Lamox: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:47] <SaintzysAlterEgo> !gift",
+    "[20:47] To SaintzysAlterEgo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[20:47] [8b8t] >> Request sent to Lamox",
+    "[20:47] [8b8t] >> Teleporting...",
+    "[20:47] <SaintzysAlterEgo> !gift",
+    "[20:47] To SaintzysAlterEgo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -600,13 +600,13 @@
     "SaintzysAlterEgo": 24,
     "TheAirWaster": 1,
     "klcenka": 4,
-    "Lamox": 14,
+    "Lamox": 15,
     "scattosh": 9,
     "ahhwolf41": 1,
     "UdoFreak": 1
   },
   "kitStats": {
-    "pvp": 123,
+    "pvp": 124,
     "raid": 21,
     "survival": 50,
     "shulker": 154,
