@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:42:20 20/2/2026",
-  "totalKits": 100456,
-  "todayKits": 213,
+  "lastUpdated": "03:42:44 20/2/2026",
+  "totalKits": 100457,
+  "todayKits": 214,
   "onlineCount": 53,
   "peakPlayers": 70,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "02:43:52 20/2/2026",
     "avg": 25
   },
-  "tps": "4.0",
-  "ping": 208,
+  "tps": "5.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:41] explotpress thought they could fly... they couldn't",
-    "[20:41] <Lamox> !gear",
-    "[20:41] [8b8t] >> Teleporting to home 0...",
-    "[20:41] [8b8t] >> Teleporting to home 6...",
-    "[20:41] To Lamox: Kit \"gear\" not found! Giving you (shulker) instead! dsc.gg/hienbot",
-    "[20:41] To Lamox: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:41] <SaintzysAlterEgo> !gear",
-    "[20:41] To SaintzysAlterEgo: You're on cooldown, try again in 23 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:41] [8b8t] >> ▼ Player AetherionV26 Left.",
-    "[20:41] [BOT] <HienBot> >Don't forget to claim your daily kit with !pvp",
-    "[20:41] hola68 has made the advancement [Into Fire]",
-    "[20:41] <ASneakySenior> my brain",
-    "[20:41] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[20:42] [8b8t] >> ▲ Player xaki Joined.",
-    "[20:42] <SaintzysAlterEgo> !gear",
-    "[20:42] To SaintzysAlterEgo: You're on cooldown, try again in 4 seconds! Don't forget to join dsc.gg/hienbot",
     "[20:42] <SaintzysAlterEgo> !gear",
     "[20:42] [8b8t] >> Teleporting to home 0...",
     "[20:42] [8b8t] >> Teleporting to home 3...",
@@ -108,7 +92,23 @@
     "[20:42] <Lamox> !gear",
     "[20:42] To Lamox: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:42] <Gabriel2332> alguno q este en el spawn q necesita aiuda?",
-    "[20:42] [BOT] <HienBot> >Bot created by Hien2309."
+    "[20:42] [BOT] <HienBot> >Bot created by Hien2309.",
+    "[20:42] [8b8t] >> You have killed yourself!",
+    "[20:42] HienBot was destroyed by SaintzysAlterEgo",
+    "[20:42] You cannot be above the nether roof!",
+    "[20:42] [8b8t] >> ▲ Player ManoGusz Joined.",
+    "[20:42] To SaintzysAlterEgo: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:42] To SaintzysAlterEgo: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
+    "[20:42] <Lamox> !gear",
+    "[20:42] [8b8t] >> Teleporting to home 0...",
+    "[20:42] [8b8t] >> Teleporting to home 5...",
+    "[20:42] To Lamox: Kit \"gear\" not found! Giving you (end) instead! dsc.gg/hienbot",
+    "[20:42] To Lamox: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:42] [8b8t] >> Request sent to Lamox",
+    "[20:42] jesxxz was slain by peje808 using [end crystal]",
+    "[20:42] [8b8t] >> ▼ Player ManoGusz Left.",
+    "[20:42] [8b8t] >> Teleporting...",
+    "[20:42] [Youtuber] <elproplayerxddd> nms tremenda torre"
   ],
   "userStats": {
     "Hien2309": 43,
@@ -600,7 +600,7 @@
     "SaintzysAlterEgo": 21,
     "TheAirWaster": 1,
     "klcenka": 4,
-    "Lamox": 11,
+    "Lamox": 12,
     "scattosh": 9,
     "ahhwolf41": 1,
     "UdoFreak": 1
@@ -634,6 +634,6 @@
     "mineral": 11,
     "gterracotta": 7,
     "wood": 10,
-    "end": 9
+    "end": 10
   }
 }
