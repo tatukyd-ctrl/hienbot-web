@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:18:52 19/2/2026",
+  "lastUpdated": "19:19:22 19/2/2026",
   "totalKits": 100243,
   "todayKits": 0,
   "onlineCount": 16,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:18 19/2/2026",
     "avg": 17
   },
-  "tps": "12.0",
-  "ping": 232,
+  "tps": "15.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 106
+      "count": 107
     },
     {
       "name": "pvp",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:14] JeSuisUnJoueur underestimated the blast radius of a Creeper",
-    "[12:14] PURPLEDEMON got a deadly lesson from the Wither",
-    "[12:14] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[12:14] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[12:14] <PURPLEDEMON> bru",
-    "[12:15] <Nnafily> why deos these bots still exist",
     "[12:15] <PURPLEDEMON> idk",
     "[12:15] <PURPLEDEMON> btw are u the owner?",
     "[12:15] JeSuisUnJoueur has completed the challenge [Serious Dedication]",
@@ -108,7 +102,13 @@
     "[12:17] [BOT] <HienBot> >Use !lang and select your language",
     "[12:18] PURPLEDEMON has reached the goal [Sky's the Limit]",
     "[12:18] PistonCubeB0T thought they could make it to oxygen in time",
-    "[12:18] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me"
+    "[12:18] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
+    "[12:18] <PURPLEDEMON> !shulker",
+    "[12:18] [8b8t] >> Teleporting to home 0...",
+    "[12:18] [8b8t] >> Teleporting to home 6...",
+    "[12:18] To PURPLEDEMON: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:18] [BOT] <HienBot> >Get fully equipped with !pvp",
+    "[12:18] To PURPLEDEMON: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 42,
@@ -561,13 +561,13 @@
     "broncobusted": 2,
     "thedidler": 1,
     "janekv": 1,
-    "PURPLEDEMON": 2
+    "PURPLEDEMON": 3
   },
   "kitStats": {
     "pvp": 73,
     "raid": 12,
     "survival": 23,
-    "shulker": 106,
+    "shulker": 107,
     "music": 3,
     "terracotta": 6,
     "lightsources": 5,
