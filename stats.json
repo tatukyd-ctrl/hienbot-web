@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:51:46 20/2/2026",
-  "totalKits": 100598,
-  "todayKits": 11,
+  "lastUpdated": "12:52:15 20/2/2026",
+  "totalKits": 100599,
+  "todayKits": 12,
   "onlineCount": 24,
   "peakPlayers": 33,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "12.0",
+  "tps": "13.0",
   "ping": 199,
   "topUsers": [
     {
@@ -75,20 +75,10 @@
     },
     {
       "name": "stash",
-      "count": 46
+      "count": 47
     }
   ],
   "chatLog": [
-    "[05:49] [Mini] <hein> !survival",
-    "[05:50] [8b8t] >> Use the command /login <password>.",
-    "[05:50] [8b8t] >> You have successfully logged.",
-    "[05:50] ",
-    "[05:50]  [8builders8tools]",
-    "[05:50]  Perform the command /discord add to register",
-    "[05:50]  your discord. By doing so, you",
-    "[05:50]  decrease the chance of being hacked.",
-    "[05:50] ",
-    "[05:50]   [Confirm read]\n",
     "[05:50] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[05:50] [8b8t] >> ▲ Player HienBot Joined.",
     "[05:50] [8b8t] >> ▼ Player iTrisstan Left.",
@@ -108,10 +98,20 @@
     "[05:51] [8b8t] >> ▲ Player KhoaVN2111 Joined.",
     "[05:51] [BOT] <HienBot> >Do you want kit? Type *kit",
     "[05:51] MonkeBot forgot to eat",
-    "[05:51] [BOT] <HienBot> >Hello S1llyBean!"
+    "[05:51] [BOT] <HienBot> >Hello S1llyBean!",
+    "[05:51] [8b8t] >> ▼ Player jamer35 Left.",
+    "[05:51] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[05:52] [Mini] <hein> !stash",
+    "[05:52] [8b8t] >> Teleporting to home 0...",
+    "[05:52] [8b8t] >> Teleporting to home 2...",
+    "[05:52] To Hien2309: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:52] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[05:52] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:52] [8b8t] >> Request sent to Hien2309",
+    "[05:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
-    "Hien2309": 48,
+    "Hien2309": 49,
     "doyoda1292": 8,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
@@ -658,7 +658,7 @@
     "toolbox": 14,
     "wool": 22,
     "exp": 19,
-    "stash": 46,
+    "stash": 47,
     "ocean": 22,
     "build": 32,
     "dye": 16,
