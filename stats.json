@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:30:46 20/2/2026",
-  "totalKits": 100590,
-  "todayKits": 3,
-  "onlineCount": 27,
+  "lastUpdated": "12:30:59 20/2/2026",
+  "totalKits": 100591,
+  "todayKits": 4,
+  "onlineCount": 28,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "12.0",
-  "ping": 216,
+  "tps": "13.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:29] <Aibikgidau> !cpvp",
-    "[05:29] To Aibikgidau: You're on cooldown, try again in 11 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:29] [8b8t] >> ▲ Player anscabr Joined.",
-    "[05:29] [8b8t] >> ▲ Player enriquepro Joined.",
-    "[05:29] [8b8t] >> ▼ Player Stuff_Thing Left.",
-    "[05:29] <Aibikgidau> !gear",
-    "[05:29] [8b8t] >> Teleporting to home 0...",
-    "[05:29] [8b8t] >> Teleporting to home 3...",
     "[05:29] To Aibikgidau: Kit \"gear\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
     "[05:29] [BOT] <HienBot> >Use !lang and select your language",
     "[05:29] To Aibikgidau: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +100,15 @@
     "[05:30] [8b8t] >> ▼ Player iTrisstan Left.",
     "[05:30] [8b8t] >> ▼ Player ajfrmpt Left.",
     "[05:30] [BOT] <HienBot> >Sub to Hien2309 in youtube",
-    "[05:30] [8b8t] >> ▼ Player kalfa_yt Left."
+    "[05:30] [8b8t] >> ▼ Player kalfa_yt Left.",
+    "[05:30] <Aibikgidau> !mace",
+    "[05:30] [8b8t] >> Teleporting to home 0...",
+    "[05:30] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[05:30] [8b8t] >> Teleporting to home 7...",
+    "[05:30] To Aibikgidau: Your kit (mace) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:30] To Aibikgidau: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:30] [8b8t] >> Request sent to Aibikgidau",
+    "[05:30] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 45,
@@ -642,7 +642,7 @@
     "KickBot": 1,
     "renatolondii": 3,
     "AnarchyAlemie": 1,
-    "Aibikgidau": 6
+    "Aibikgidau": 7
   },
   "kitStats": {
     "pvp": 169,
@@ -652,7 +652,7 @@
     "music": 13,
     "terracotta": 9,
     "lightsources": 15,
-    "tools": 15,
+    "tools": 16,
     "armortrims": 19,
     "toolbox": 14,
     "wool": 22,
