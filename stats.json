@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:10:46 20/2/2026",
-  "totalKits": 100625,
-  "todayKits": 5,
+  "lastUpdated": "16:11:13 20/2/2026",
+  "totalKits": 100626,
+  "todayKits": 6,
   "onlineCount": 22,
   "peakPlayers": 26,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 25
   },
-  "tps": "10.0",
-  "ping": 199,
+  "tps": "9.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:08] To thegamerocker: Your kit (op) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:08] [SE] <MrNullYT> cool",
-    "[09:08] To thegamerocker: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:08] [8b8t] >> Request sent to thegamerocker",
-    "[09:08] [8b8t] >> Teleporting...",
-    "[09:08] [BOT] <HienBot> >Get fully equipped with !pvp",
-    "[09:08] [8b8t] >> You have killed yourself!",
-    "[09:08] HienBot was pwned by thegamerocker wielding [netherite sword]",
-    "[09:08] To thegamerocker: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:08] To thegamerocker: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
     "[09:09] <thegamerocker> yes",
     "[09:09] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
@@ -108,7 +99,16 @@
     "[09:10] [Mini] <hein> !help",
     "[09:10] [8b8t] >> ▼ Player AstralAurora Left.",
     "[09:10] To Hien2309: Cmds: !(Kit you want), !lang, !info , !ping, !tps, !player, !bestping, !worstping, !discord, !link, !status, !gay | dsc.gg/hienbot",
-    "[09:10] To Hien2309: Your ping is: 256 ms Don't forget to join dsc.gg/hienbot"
+    "[09:10] To Hien2309: Your ping is: 256 ms Don't forget to join dsc.gg/hienbot",
+    "[09:10] [BOT] <HienBot> >Want to see your ping? Chat !ping",
+    "[09:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[09:11] <thegamerocker> !god",
+    "[09:11] [8b8t] >> Teleporting to home 0...",
+    "[09:11] [8b8t] >> Teleporting to home 5...",
+    "[09:11] To thegamerocker: Kit \"god\" not found! Giving you (gterracotta) instead! dsc.gg/hienbot",
+    "[09:11] To thegamerocker: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:11] [8b8t] >> Request sent to thegamerocker",
+    "[09:11] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 54,
@@ -653,7 +653,7 @@
     "roger_leighton": 2,
     "GOD_WINGS": 1,
     "MIHAI_128": 2,
-    "thegamerocker": 6
+    "thegamerocker": 7
   },
   "kitStats": {
     "pvp": 173,
@@ -682,7 +682,7 @@
     "highway": 10,
     "gap": 15,
     "mineral": 19,
-    "gterracotta": 7,
+    "gterracotta": 8,
     "wood": 12,
     "end": 14
   }
