@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:03:47 20/2/2026",
+  "lastUpdated": "15:04:17 20/2/2026",
   "totalKits": 100614,
   "todayKits": 2,
   "onlineCount": 23,
@@ -13,7 +13,7 @@
     "avg": 25
   },
   "tps": "12.0",
-  "ping": 198,
+  "ping": 197,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:58] kirdish4392 forgot to bring their parachute",
-    "[07:59] [8b8t] >> ▲ Player .CycloidQwQ Joined.",
-    "[07:59] [BOT] <HienBot> >Don't forget to claim your daily kit with !pvp",
-    "[07:59] [8b8t] >> ▼ Player Leeewiith3Es Left.",
-    "[07:59] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
-    "[08:00] [8b8t] >> ▲ Player Leeewiith3Es Joined.",
-    "[08:00] MIHAI_128 forgot to stop, drop, and roll",
-    "[08:00] [BOT] <HienBot> >Items for PVP and Building available in !build",
     "[08:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[08:00] [8b8t] >> ▼ Player nuklear1 Left.",
     "[08:00] MonkeBot forgot to eat",
@@ -108,7 +100,15 @@
     "[08:03] kirdish4392 forgot to bring their parachute",
     "[08:03] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
     "[08:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:03] <ThaiSon2015> help"
+    "[08:03] <ThaiSon2015> help",
+    "[08:03] [BOT] <HienBot> >Try !status",
+    "[08:04] MIHAI_128 thought a Zombie was friendly",
+    "[08:04] <ThaiSon2015> !drop",
+    "[08:04] [8b8t] >> Teleporting to home 0...",
+    "[08:04] [8b8t] >> Teleporting to home 5...",
+    "[08:04] To ThaiSon2015: Kit \"drop\" not found! Giving you (end) instead! dsc.gg/hienbot",
+    "[08:04] To ThaiSon2015: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:04] [8b8t] >> Request sent to ThaiSon2015"
   ],
   "userStats": {
     "Hien2309": 52,
@@ -648,7 +648,8 @@
     "AnvayRaut": 1,
     "katieyah": 1,
     ".iman_jefri": 3,
-    "EpsteinxKirk420": 1
+    "EpsteinxKirk420": 1,
+    "ThaiSon2015": 1
   },
   "kitStats": {
     "pvp": 172,
@@ -679,6 +680,6 @@
     "mineral": 19,
     "gterracotta": 7,
     "wood": 12,
-    "end": 13
+    "end": 14
   }
 }
