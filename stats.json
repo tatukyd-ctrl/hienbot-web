@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:15:11 20/2/2026",
+  "lastUpdated": "14:15:41 20/2/2026",
   "totalKits": 100611,
   "todayKits": 1,
   "onlineCount": 13,
@@ -13,7 +13,7 @@
     "avg": 26
   },
   "tps": "17.0",
-  "ping": 215,
+  "ping": 212,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 87
+      "count": 88
     },
     {
       "name": "elytra",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:11] [8b8t] >> Please do not spam.",
-    "[07:11] [8b8t] >> ▲ Player itai1984 Joined.",
-    "[07:11] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[07:11] itai1984 forgot to bring their parachute",
-    "[07:11] [8b8t] >> ▼ Player itai1984 Left.",
-    "[07:12] [8b8t] >> ▲ Player AnvayRaut Joined.",
-    "[07:12] [BOT] <HienBot> >Items for PVP and Building available in !build",
-    "[07:12] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[07:12] <0000000000000X> !build",
     "[07:12] [8b8t] >> Teleporting to home 0...",
     "[07:12] [8b8t] >> Teleporting to home 2...",
@@ -108,7 +100,15 @@
     "[07:14] [BOT] <HienBot> >Use !info <player> to check someone's stats",
     "[07:14] [8b8t] >> ▲ Player BigBear Joined.",
     "[07:14] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[07:15] [8b8t] >> ▲ Player iTrisstan Joined."
+    "[07:15] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[07:15] [BOT] <HienBot> >Want free items? Just type !survival",
+    "[07:15] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[07:15] <AnvayRaut> !survival",
+    "[07:15] [8b8t] >> Teleporting to home 0...",
+    "[07:15] [8b8t] >> Teleporting to home 1...",
+    "[07:15] To AnvayRaut: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:15] To AnvayRaut: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:15] [8b8t] >> Request sent to AnvayRaut"
   ],
   "userStats": {
     "Hien2309": 52,
@@ -644,12 +644,13 @@
     "AnarchyAlemie": 1,
     "Aibikgidau": 12,
     ".SatanWY": 3,
-    "0000000000000X": 1
+    "0000000000000X": 1,
+    "AnvayRaut": 1
   },
   "kitStats": {
     "pvp": 172,
     "raid": 25,
-    "survival": 87,
+    "survival": 88,
     "shulker": 205,
     "music": 13,
     "terracotta": 9,
