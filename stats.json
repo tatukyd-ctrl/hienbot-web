@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:24:16 20/2/2026",
-  "totalKits": 100771,
-  "todayKits": 151,
+  "lastUpdated": "23:24:36 20/2/2026",
+  "totalKits": 100772,
+  "todayKits": 152,
   "onlineCount": 34,
   "peakPlayers": 40,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "22:23:16 20/2/2026",
     "avg": 26
   },
-  "tps": "10.0",
+  "tps": "12.0",
   "ping": 218,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 118
+      "count": 119
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:22] Weyku has completed the challenge [Subspace Bubble]",
-    "[16:22] To .DrCheesecake967: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:22] [8b8t] >> Request sent to .DrCheesecake967",
-    "[16:22] [8b8t] >> Teleporting...",
-    "[16:22] [8b8t] >> You have killed yourself!",
-    "[16:22] HienBot forgot to stop, drop, and roll",
-    "[16:22] To .DrCheesecake967: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[16:22] To .DrCheesecake967: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[16:22] [BOT] <HienBot> >Items for PVP and Building available in !build",
-    "[16:22] <Pereso> Who do you want to be my friend? I give you things.",
-    "[16:22] <bistlle> where are you",
     "[16:22] <_Marlowww_> no hacks",
     "[16:22] PotionBuyer thought they could fly... they couldn't",
     "[16:22] <Weyku> im in the overlord",
@@ -108,7 +97,18 @@
     "[16:23] .DrCheesecake967 has made the advancement [Cover Me With Diamonds]",
     "[16:23] <Pereso> marlowww quieres ser mi amigo",
     "[16:23] PotionBuyer decided to test gravity and lost",
-    "[16:24] [BOT] <HienBot> >Get a head start with !survival"
+    "[16:24] [BOT] <HienBot> >Get a head start with !survival",
+    "[16:24] <Pereso> !survival",
+    "[16:24] [8b8t] >> Teleporting to home 0...",
+    "[16:24] [8b8t] >> Teleporting to home 1...",
+    "[16:24] To Pereso: ¡Tu kit (survival) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
+    "[16:24] To Pereso: ¡Escribe \"/tpayes HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[16:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[16:24] [8b8t] >> Request sent to Pereso",
+    "[16:24] [8b8t] >> Teleporting...",
+    "[16:24] <closepvp> !survivall",
+    "[16:24] To closepvp: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[16:24] [BOT] <HienBot> >Running low on supplies? Use !survival"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -618,7 +618,7 @@
     "baleandro": 4,
     "blake56": 2,
     "Sharkey": 1,
-    "Pereso": 6,
+    "Pereso": 7,
     "Darexy": 1,
     "Oratilepro": 6,
     "fen_na_azis": 2,
@@ -682,7 +682,7 @@
   "kitStats": {
     "pvp": 199,
     "raid": 34,
-    "survival": 118,
+    "survival": 119,
     "shulker": 256,
     "music": 22,
     "terracotta": 13,
