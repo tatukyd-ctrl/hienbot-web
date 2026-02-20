@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:34:46 20/2/2026",
-  "totalKits": 100667,
-  "todayKits": 47,
-  "onlineCount": 25,
+  "lastUpdated": "18:35:06 20/2/2026",
+  "totalKits": 100668,
+  "todayKits": 48,
+  "onlineCount": 26,
   "peakPlayers": 28,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "9.0",
+  "tps": "15.0",
   "ping": 199,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 180
+      "count": 181
     },
     {
       "name": "survival",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:32] [8b8t] >> ▲ Player CAYKEGUARIZA Joined.",
-    "[11:32] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[11:32] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
-    "[11:33] <CAYKEGUARIZA> hi guys",
-    "[11:33] <CAYKEGUARIZA> im new",
-    "[11:33] <rastafaricraft> !gift",
-    "[11:33] [8b8t] >> Teleporting to home 0...",
-    "[11:33] [8b8t] >> Teleporting to home 1...",
-    "[11:33] To rastafaricraft: Kit \"gift\" not found! Giving you (music) instead! dsc.gg/hienbot",
-    "[11:33] To rastafaricraft: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:33] [8b8t] >> Request sent to rastafaricraft",
-    "[11:33] <CAYKEGUARIZA> who help me im new",
-    "[11:33] [BOT] <HienBot> >Items for PVP and Building available in !build",
     "[11:33] [8b8t] >> Teleporting...",
     "[11:33] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[11:33] [8b8t] >> You have killed yourself!",
@@ -108,7 +95,20 @@
     "[11:34] [8b8t] >> Teleporting to home 0...",
     "[11:34] [8b8t] >> Teleporting to home 6...",
     "[11:34] To NathanRayyan: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:34] To NathanRayyan: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[11:34] To NathanRayyan: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[11:34] [8b8t] >> ▼ Player MonkeBot Left.",
+    "[11:34] [8b8t] >> ▲ Player MonkeBot Joined.",
+    "[11:34] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
+    "[11:34] <rastafaricraft> !pvp",
+    "[11:34] [8b8t] >> Teleporting to home 0...",
+    "[11:34] [8b8t] >> Teleporting to home 1...",
+    "[11:34] To rastafaricraft: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:34] <CAYKEGUARIZA> hi",
+    "[11:34] To rastafaricraft: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:34] [8b8t] >> Request sent to rastafaricraft",
+    "[11:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[11:34] [8b8t] >> ▲ Player Psych0_ Joined.",
+    "[11:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -657,11 +657,11 @@
     "Ujda_Chaman": 1,
     "FireDemon_X": 6,
     "T1Doran": 5,
-    "rastafaricraft": 1,
+    "rastafaricraft": 2,
     "NathanRayyan": 1
   },
   "kitStats": {
-    "pvp": 180,
+    "pvp": 181,
     "raid": 29,
     "survival": 105,
     "shulker": 215,
