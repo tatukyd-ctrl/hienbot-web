@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:33:16 20/2/2026",
+  "lastUpdated": "22:33:46 20/2/2026",
   "totalKits": 100747,
   "todayKits": 127,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:23:16 20/2/2026",
     "avg": 25
   },
-  "tps": "8.0",
-  "ping": 506,
+  "tps": "13.0",
+  "ping": 1194,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 190
+      "count": 191
     },
     {
       "name": "survival",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:32] [8b8t] >> ▼ Player TulagrandBot Left.",
-    "[15:32] [8b8t] >> ▼ Player io_client Left.",
-    "[15:32] [8b8t] >> ▼ Player nfkiki Left.",
-    "[15:32] [8b8t] >> ▼ Player PrnvDevilXD Left.",
-    "[15:32] [8b8t] >> ▼ Player Bronunder Left.",
-    "[15:32] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[15:32] [8b8t] >> You have killed yourself!",
-    "[15:32] [8b8t] >> You have killed yourself!",
-    "[15:32] [8b8t] >> Player PrnvDevilXD is not online",
-    "[15:32] [8b8t] >> Teleporting to home 0...",
-    "[15:32] [8b8t] >> ▲ Player TulagrandBot Joined.",
-    "[15:32] [8b8t] >> Teleporting to home 4...",
-    "[15:32] [8b8t] >> ▲ Player Bronunder Joined.",
-    "[15:32] [8b8t] >> ▲ Player bistlle Joined.",
-    "[15:32] [8b8t] >> Could not find player PrnvDevilXD",
     "[15:32] [8b8t] >> Player PrnvDevilXD is not online",
     "[15:32] [8b8t] >> ▼ Player jaymous Left.",
     "[15:32] <baleandro> !survival",
@@ -108,7 +93,22 @@
     "[15:33] [BOT] <HienBot> >Need gear? Type !pvp to get started!",
     "[15:33] [8b8t] >> You have killed yourself!",
     "[15:33] [8b8t] >> Player PrnvDevilXD is not online",
-    "[15:33] [8b8t] >> ▼ Player DeathZuka Left."
+    "[15:33] [8b8t] >> ▼ Player DeathZuka Left.",
+    "[15:33] [8b8t] >> ▲ Player DPS_Voyager_bot Joined.",
+    "[15:33] <baleandro> !pvp",
+    "[15:33] <bistlle> !pvp",
+    "[15:33] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[15:33] <ultraISO69> !pvp",
+    "[15:33] <bistlle> !pvp",
+    "[15:33] [8b8t] >> ▼ Player ultraISO69 Left.",
+    "[15:33] <baleandro> !pvp",
+    "[15:33] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[15:33] [8b8t] >> Teleporting to home 0...",
+    "[15:33] <sadaqat0189> !pvp",
+    "[15:33] To sadaqat0189: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[15:33] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[15:33] MonkeBot decided to sleep with the fishes",
+    "[15:33] To baleandro: Try again Join dsc.gg/hienbot to report the error."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -615,7 +615,7 @@
     "Alemeja": 1,
     "ezzz_mario222": 10,
     "IamNoah_": 5,
-    "baleandro": 2,
+    "baleandro": 3,
     "blake56": 2,
     "Sharkey": 1,
     "Pereso": 2,
@@ -677,7 +677,7 @@
     "PrnvDevilXD": 1
   },
   "kitStats": {
-    "pvp": 190,
+    "pvp": 191,
     "raid": 31,
     "survival": 111,
     "shulker": 245,
