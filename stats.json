@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:54:50 20/2/2026",
+  "lastUpdated": "09:55:20 20/2/2026",
   "totalKits": 100579,
   "todayKits": 1,
-  "onlineCount": 28,
-  "peakPlayers": 28,
+  "onlineCount": 29,
+  "peakPlayers": 29,
   "playerStats": {
     "min": 19,
     "minTime": "09:41:22 20/2/2026",
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "11.0",
-  "ping": 198,
+  "tps": "9.0",
+  "ping": 197,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 190
+      "count": 191
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:51] [BOT] <0_HienBot> >Hello PistonCubeB0T!",
-    "[02:51] <TulagrandBot> > Lost? The fastest way back to spawn is `/kill`.",
-    "[02:51] [BOT] <0_HienBot> >Use !info <player> to check someone's stats",
-    "[02:51] <TulagrandBot> > Building a base? A free !shulker can help.",
-    "[02:52] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
-    "[02:52] <TulagrandBot> >How are you PussySlayer_69?",
-    "[02:52] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[02:52] [BOT] <0_HienBot> >What's up, estychlol24io?",
     "[02:52] <TulagrandBot> > TULAGRANDE 1.6!",
     "[02:53] [BOT] <0_HienBot> >Want free items? Just type !survival",
@@ -108,7 +101,14 @@
     "[02:54] <TulagrandBot> >Try /kill to kill yourself",
     "[02:54] .DrCheesecake309 has made the advancement [Not Quite \"Nine\" Lives]",
     "[02:54] [8b8t] >> Please do not spam.",
-    "[02:54] <TulagrandBot> >Try /nc to change your nick color"
+    "[02:54] <TulagrandBot> >Try /nc to change your nick color",
+    "[02:54] <TulagrandBot> > Lost? The fastest way back to spawn is `/kill`.",
+    "[02:55] [BOT] <0_HienBot> >Get a head start with !survival",
+    "[02:55] <WEMBUU> !shulker",
+    "[02:55] [8b8t] >> Teleporting to home 0...",
+    "[02:55] [8b8t] >> Teleporting to home 6...",
+    "[02:55] To WEMBUU: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:55] To WEMBUU: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 44,
@@ -635,13 +635,14 @@
     ".SteadyWord4735": 1,
     ".DrCheesecake309": 5,
     "fumeiumcrack": 3,
-    "___tree": 1
+    "___tree": 1,
+    "WEMBUU": 1
   },
   "kitStats": {
     "pvp": 162,
     "raid": 25,
     "survival": 78,
-    "shulker": 190,
+    "shulker": 191,
     "music": 13,
     "terracotta": 9,
     "lightsources": 14,
