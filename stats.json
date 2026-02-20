@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:49:21 20/2/2026",
+  "lastUpdated": "10:49:51 20/2/2026",
   "totalKits": 100584,
   "todayKits": 1,
   "onlineCount": 27,
@@ -13,7 +13,7 @@
     "avg": 27
   },
   "tps": "12.0",
-  "ping": 221,
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 78
+      "count": 79
     },
     {
       "name": "elytra",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:46] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[03:46] To estychlol25io: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:46] To estychlol25io: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[03:46] [8b8t] >> ▲ Player Darkghost6ak Joined.",
-    "[03:46] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[03:46] Darkghost6ak went for a swim in lava and got burned",
-    "[03:46] UltraViolet withered away to the 4th dimension",
-    "[03:46] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[03:46] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[03:46] [8b8t] >> ▼ Player Gcedeno7 Left.",
     "[03:46] KickBot has completed the challenge [Cover Me in Debris]",
     "[03:46] [8b8t] >> ▼ Player Darkghost6ak Left.",
     "[03:46] KickBot has reached the goal [Sky's the Limit]",
@@ -108,7 +98,17 @@
     "[03:48] [BOT] <HienBot> >Type !discord",
     "[03:48] [8b8t] >> ▲ Player orasan080 Joined.",
     "[03:48] [BOT] <HienBot> >Survive safely with a free kit! Type !survival",
-    "[03:49] UltraViolet decided to test gravity and lost"
+    "[03:49] UltraViolet decided to test gravity and lost",
+    "[03:49] .DrCheesecake309 went for a swim in lava and got burned",
+    "[03:49] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[03:49] [BOT] <HienBot> >Running low on supplies? Use !survival",
+    "[03:49] <UltraViolet> !survival",
+    "[03:49] [8b8t] >> Teleporting to home 0...",
+    "[03:49] [8b8t] >> Teleporting to home 1...",
+    "[03:49] To UltraViolet: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:49] To UltraViolet: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:49] [8b8t] >> Request sent to UltraViolet",
+    "[03:49] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 45,
@@ -637,12 +637,13 @@
     "fumeiumcrack": 3,
     "___tree": 1,
     "WEMBUU": 2,
-    "estychlol25io": 1
+    "estychlol25io": 1,
+    "UltraViolet": 1
   },
   "kitStats": {
     "pvp": 165,
     "raid": 25,
-    "survival": 78,
+    "survival": 79,
     "shulker": 194,
     "music": 13,
     "terracotta": 9,
