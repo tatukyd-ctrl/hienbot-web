@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:27:56 20/2/2026",
-  "totalKits": 100616,
-  "todayKits": 1,
+  "lastUpdated": "15:28:21 20/2/2026",
+  "totalKits": 100617,
+  "todayKits": 2,
   "onlineCount": 17,
   "peakPlayers": 20,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 25
   },
-  "tps": "14.0",
-  "ping": 193,
+  "tps": "13.0",
+  "ping": 194,
   "topUsers": [
     {
       "name": "waximo",
@@ -40,6 +40,10 @@
       "count": 56
     },
     {
+      "name": "Hien2309",
+      "count": 53
+    },
+    {
       "name": "Maverick0624",
       "count": 53
     },
@@ -50,10 +54,6 @@
     {
       "name": "YessiMC777",
       "count": 53
-    },
-    {
-      "name": "Hien2309",
-      "count": 52
     }
   ],
   "topKits": [
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:26] You were kicked from 8b8t: Timed out",
-    "[08:26] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[08:26] [8b8t] >> Use the command /login <password>.",
-    "[08:26] [8b8t] >> You have successfully logged.",
-    "[08:26] [8b8t] Unknown command do /help",
-    "[08:26] ",
-    "[08:26]  [8builders8tools]",
-    "[08:26]  Perform the command /discord add to register",
-    "[08:26]  your discord. By doing so, you",
-    "[08:26]  decrease the chance of being hacked.",
     "[08:26] ",
     "[08:26]   [Confirm read]\n",
     "[08:26] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -108,10 +98,20 @@
     "[08:27] To roger_leighton: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
     "[08:27] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[08:27] [BOT] <HienBot> im gay im gay",
-    "[08:27] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[08:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:27] roger_leighton has made the advancement [Spooky Scary Skeleton]",
+    "[08:28] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[08:28] [Mini] <hein> !toolbox",
+    "[08:28] [8b8t] >> Teleporting to home 0...",
+    "[08:28] [8b8t] >> Teleporting to home 4...",
+    "[08:28] To Hien2309: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:28] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:28] [8b8t] >> Request sent to Hien2309",
+    "[08:28] [8b8t] >> Teleporting...",
+    "[08:28] MIHAI_128 decided to test gravity and lost"
   ],
   "userStats": {
-    "Hien2309": 52,
+    "Hien2309": 53,
     "doyoda1292": 8,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
@@ -662,7 +662,7 @@
     "lightsources": 15,
     "tools": 17,
     "armortrims": 21,
-    "toolbox": 15,
+    "toolbox": 16,
     "wool": 23,
     "exp": 20,
     "stash": 47,
