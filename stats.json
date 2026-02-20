@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:41:46 20/2/2026",
+  "lastUpdated": "22:42:16 20/2/2026",
   "totalKits": 100747,
   "todayKits": 127,
-  "onlineCount": 29,
+  "onlineCount": 26,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:23:16 20/2/2026",
     "avg": 25
   },
-  "tps": "10.0",
-  "ping": 215,
+  "tps": "14.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 248
+      "count": 249
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:39] [8b8t] >> ▼ Player FurFwheel Left.",
-    "[15:39] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[15:39] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[15:39] [8b8t] >> You have killed yourself!",
-    "[15:39] [8b8t] >> The TPA request you sent to bistlle was successfully canceled.",
-    "[15:39] To bistlle: You took too long to accept! 35s cooldown. Don't forget to join dsc.gg/hienbot",
-    "[15:40] <bistlle> !survival",
-    "[15:40] To bistlle: You're on cooldown, try again in 48 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:40] [BOT] <HienBot> >Try !list to see available kits",
-    "[15:40] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[15:40] [8b8t] >> ▲ Player BlockLogic1 Joined.",
     "[15:40] [8b8t] >> ▼ Player iTrisstan Left.",
     "[15:40] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[15:40] [8b8t] >> ▲ Player renavolatil Joined.",
@@ -108,7 +97,18 @@
     "[15:41] To bistlle: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[15:41] To bistlle: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[15:41] [BOT] <HienBot> >Try !dupe",
-    "[15:41] [8b8t] >> ▼ Player BlockLogic1 Left."
+    "[15:41] [8b8t] >> ▼ Player BlockLogic1 Left.",
+    "[15:41] <bistlle> !shulker",
+    "[15:41] [8b8t] >> Teleporting to home 0...",
+    "[15:41] [8b8t] >> Teleporting to home 6...",
+    "[15:41] To bistlle: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:41] To bistlle: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:42] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[15:42] [8b8t] >> ▼ Player bugbar Left.",
+    "[15:42] [8b8t] >> ▼ Player renavolatil Left.",
+    "[15:42] [BOT] <HienBot> >Welcome to 8b8t, .Noicas_nes_7905!",
+    "[15:42] [8b8t] >> ▲ Player i_am_tobias Joined.",
+    "[15:42] [8b8t] >> ▼ Player angelitaaa__ Left."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -675,13 +675,13 @@
     "angelitaaa__": 2,
     "ultraISO69": 1,
     "PrnvDevilXD": 1,
-    "bistlle": 4
+    "bistlle": 5
   },
   "kitStats": {
     "pvp": 191,
     "raid": 31,
     "survival": 112,
-    "shulker": 248,
+    "shulker": 249,
     "music": 21,
     "terracotta": 12,
     "lightsources": 18,
