@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:59:16 20/2/2026",
-  "totalKits": 100602,
-  "todayKits": 15,
+  "lastUpdated": "12:59:39 20/2/2026",
+  "totalKits": 100603,
+  "todayKits": 16,
   "onlineCount": 26,
   "peakPlayers": 33,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "12.0",
+  "tps": "9.0",
   "ping": 192,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 171
+      "count": 172
     },
     {
       "name": "survival",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:56] [8b8t] >> ▲ Player KhoaVN2111 Joined.",
-    "[05:56] [BOT] <HienBot> >Hi AetherionV26!",
-    "[05:56] <DeadlyNyxian> !list",
-    "[05:56] To DeadlyNyxian: Hello DeadlyNyxian!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:56] [8b8t] >> ▲ Player .Andr3ss7914 Joined.",
-    "[05:56] <DeadlyNyxian> !tools",
-    "[05:56] [8b8t] >> Teleporting to home 0...",
-    "[05:56] [8b8t] >> Teleporting to home 7...",
     "[05:56] To DeadlyNyxian: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[05:56] To DeadlyNyxian: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:56] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -108,7 +100,15 @@
     "[05:58] [8b8t] >> ▼ Player enriquepro Left.",
     "[05:58] [BOT] <HienBot> >Use /kill to kill yourself!",
     "[05:59] [BOT] <HienBot> >Type !discord",
-    "[05:59] [8b8t] >> ▲ Player lvashl Joined."
+    "[05:59] [8b8t] >> ▲ Player lvashl Joined.",
+    "[05:59] <.SatanWY> !pvp",
+    "[05:59] [8b8t] >> Teleporting to home 0...",
+    "[05:59] [8b8t] >> Teleporting to home 1...",
+    "[05:59] To .SatanWY: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:59] To .SatanWY: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:59] [8b8t] >> Request sent to .SatanWY",
+    "[05:59] [BOT] <HienBot> >Bot created by Hien2309.",
+    "[05:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 52,
@@ -643,10 +643,10 @@
     "renatolondii": 3,
     "AnarchyAlemie": 1,
     "Aibikgidau": 12,
-    ".SatanWY": 2
+    ".SatanWY": 3
   },
   "kitStats": {
-    "pvp": 171,
+    "pvp": 172,
     "raid": 25,
     "survival": 83,
     "shulker": 202,
