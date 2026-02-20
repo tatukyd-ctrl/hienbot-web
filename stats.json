@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:16:16 20/2/2026",
-  "totalKits": 100663,
-  "todayKits": 43,
+  "lastUpdated": "18:16:28 20/2/2026",
+  "totalKits": 100664,
+  "todayKits": 44,
   "onlineCount": 22,
   "peakPlayers": 28,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "14.0",
-  "ping": 207,
+  "tps": "13.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,18 +75,10 @@
     },
     {
       "name": "stash",
-      "count": 50
+      "count": 51
     }
   ],
   "chatLog": [
-    "[11:12] [8b8t] >> Request sent to nuklear1",
-    "[11:12] [8b8t] >> Teleporting...",
-    "[11:12] [8b8t] >> You have killed yourself!",
-    "[11:12] HienBot was EZ clapped by nuklear1 using [their hand]",
-    "[11:12] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[11:12] To nuklear1: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:12] To nuklear1: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[11:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[11:12] [BOT] <HienBot> >Type !discord",
     "[11:13] [8b8t] >> ▼ Player iTrisstan Left.",
     "[11:13] [BOT] <HienBot> >Hi venturesvoxel73!",
@@ -108,7 +100,15 @@
     "[11:15] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[11:15] [8b8t] >> ▼ Player bugbar Left.",
     "[11:15] [BOT] <HienBot> >Use !list to choose your kit",
-    "[11:15] ThisIsAbnormal has made the advancement [Ice Bucket Challenge]"
+    "[11:15] ThisIsAbnormal has made the advancement [Ice Bucket Challenge]",
+    "[11:16] <closepvp> !stash",
+    "[11:16] [8b8t] >> Teleporting to home 0...",
+    "[11:16] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
+    "[11:16] [8b8t] >> Teleporting to home 2...",
+    "[11:16] To closepvp: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:16] To closepvp: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:16] [8b8t] >> Request sent to closepvp",
+    "[11:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -435,7 +435,7 @@
     "i_am_tobias": 2,
     "jaredsonic2014": 1,
     "itsfrost0": 1,
-    "closepvp": 26,
+    "closepvp": 27,
     "Cold_1": 2,
     "mchuaa": 11,
     "mrJoyy": 5,
@@ -671,7 +671,7 @@
     "toolbox": 20,
     "wool": 25,
     "exp": 21,
-    "stash": 50,
+    "stash": 51,
     "ocean": 22,
     "build": 41,
     "dye": 16,
