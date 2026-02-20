@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:32:16 20/2/2026",
-  "totalKits": 100591,
-  "todayKits": 4,
+  "lastUpdated": "12:32:32 20/2/2026",
+  "totalKits": 100592,
+  "todayKits": 5,
   "onlineCount": 27,
   "peakPlayers": 33,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "12.0",
+  "tps": "6.0",
   "ping": 213,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 169
+      "count": 170
     },
     {
       "name": "survival",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:30] [BOT] <HienBot> >Use !list to see all available kits!",
-    "[05:30] kalfa_yt was slain by kalfa_yt using [ender pearl]",
-    "[05:30] <Aibikgidau> !gear",
-    "[05:30] To Aibikgidau: You're on cooldown, try again in 23 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:30] monlightkiller thought they could fly... they couldn't",
-    "[05:30] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[05:30] [8b8t] >> ▼ Player ajfrmpt Left.",
     "[05:30] [BOT] <HienBot> >Sub to Hien2309 in youtube",
     "[05:30] [8b8t] >> ▼ Player kalfa_yt Left.",
     "[05:30] <Aibikgidau> !mace",
@@ -108,7 +101,14 @@
     "[05:31] [8b8t] >> ▲ Player ajfrmpt Joined.",
     "[05:31] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
     "[05:31] [8b8t] >> ▼ Player KhoaVN2111 Left.",
-    "[05:32] [BOT] <HienBot> >Try !list to see available kits"
+    "[05:32] [BOT] <HienBot> >Try !list to see available kits",
+    "[05:32] <Aibikgidau> !cpvp",
+    "[05:32] [8b8t] >> Teleporting to home 0...",
+    "[05:32] [8b8t] >> Teleporting to home 1...",
+    "[05:32] To Aibikgidau: Your kit (cpvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:32] To Aibikgidau: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:32] [8b8t] >> Request sent to Aibikgidau",
+    "[05:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 45,
@@ -642,10 +642,10 @@
     "KickBot": 1,
     "renatolondii": 3,
     "AnarchyAlemie": 1,
-    "Aibikgidau": 7
+    "Aibikgidau": 8
   },
   "kitStats": {
-    "pvp": 169,
+    "pvp": 170,
     "raid": 25,
     "survival": 79,
     "shulker": 199,
