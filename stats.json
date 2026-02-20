@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:29:16 20/2/2026",
+  "lastUpdated": "12:29:46 20/2/2026",
   "totalKits": 100589,
   "todayKits": 2,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "15.0",
-  "ping": 214,
+  "tps": "11.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:28] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[05:28] <Aibikgidau> !shulker",
-    "[05:28] [8b8t] >> Teleporting to home 0...",
-    "[05:28] [8b8t] >> Teleporting to home 6...",
-    "[05:28] To Aibikgidau: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:28] To Aibikgidau: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[05:28] <Aibikgidau> !pvp",
-    "[05:28] [8b8t] >> Teleporting to home 0...",
-    "[05:28] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:28] [8b8t] >> Teleporting to home 1...",
     "[05:28] To Aibikgidau: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[05:28] To Aibikgidau: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[05:28] Aibikgidau thought they could fly... they couldn't",
@@ -108,7 +98,17 @@
     "[05:29] kalfa_yt was EZ clapped by renavolatil using [end crystal]",
     "[05:29] To Aibikgidau: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[05:29] To Aibikgidau: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[05:29] [BOT] <HienBot> >Type !discord"
+    "[05:29] [BOT] <HienBot> >Type !discord",
+    "[05:29] <Aibikgidau> !cpvp",
+    "[05:29] To Aibikgidau: You're on cooldown, try again in 11 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:29] [8b8t] >> ▲ Player anscabr Joined.",
+    "[05:29] [8b8t] >> ▲ Player enriquepro Joined.",
+    "[05:29] [8b8t] >> ▼ Player Stuff_Thing Left.",
+    "[05:29] <Aibikgidau> !gear",
+    "[05:29] [8b8t] >> Teleporting to home 0...",
+    "[05:29] [8b8t] >> Teleporting to home 3...",
+    "[05:29] To Aibikgidau: Kit \"gear\" not found! Giving you (mineral) instead! dsc.gg/hienbot",
+    "[05:29] [BOT] <HienBot> >Use !lang and select your language"
   ],
   "userStats": {
     "Hien2309": 45,
@@ -642,7 +642,7 @@
     "KickBot": 1,
     "renatolondii": 3,
     "AnarchyAlemie": 1,
-    "Aibikgidau": 5
+    "Aibikgidau": 6
   },
   "kitStats": {
     "pvp": 169,
@@ -670,7 +670,7 @@
     "quartz": 8,
     "highway": 10,
     "gap": 13,
-    "mineral": 18,
+    "mineral": 19,
     "gterracotta": 7,
     "wood": 12,
     "end": 13
