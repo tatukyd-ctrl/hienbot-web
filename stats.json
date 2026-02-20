@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:47:16 20/2/2026",
-  "totalKits": 100687,
-  "todayKits": 67,
-  "onlineCount": 24,
+  "lastUpdated": "19:47:29 20/2/2026",
+  "totalKits": 100688,
+  "todayKits": 68,
+  "onlineCount": 25,
   "peakPlayers": 28,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "13.0",
+  "tps": "12.0",
   "ping": 216,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 106
+      "count": 107
     },
     {
       "name": "elytra",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:44] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[12:44] Cool_Kid_Dev decided to test gravity and lost",
-    "[12:44] [8b8t] >> ▼ Player monlightkiller Left.",
-    "[12:44] [8b8t] >> ▲ Player venturesvoxel73 Joined.",
-    "[12:45] [BOT] <HienBot> >Try !list to see available kits",
-    "[12:45] [8b8t] >> ▼ Player venturesvoxel73 Left.",
-    "[12:45] [8b8t] >> ▼ Player Toomani Left.",
-    "[12:45] [8b8t] >> ▼ Player iTrisstan Left.",
     "[12:45] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:45] [BOT] <HienBot> >Need gear? Type !pvp to get started!",
     "[12:45] [8b8t] >> ▲ Player iTrisstan Joined.",
@@ -108,7 +100,15 @@
     "[12:46] [Ultra] <blake> a",
     "[12:46] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:46] MonkeBot thought they could make it to oxygen in time",
-    "[12:47] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!"
+    "[12:47] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
+    "[12:47] <moks2009> !survival",
+    "[12:47] [8b8t] >> Teleporting to home 0...",
+    "[12:47] [8b8t] >> Teleporting to home 1...",
+    "[12:47] To moks2009: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:47] To moks2009: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:47] [8b8t] >> Request sent to moks2009",
+    "[12:47] [8b8t] >> Teleporting...",
+    "[12:47] [8b8t] >> ▲ Player _PIGY_ Joined."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -659,13 +659,13 @@
     "T1Doran": 5,
     "rastafaricraft": 4,
     "NathanRayyan": 6,
-    "moks2009": 2,
+    "moks2009": 3,
     "Nnafily": 1
   },
   "kitStats": {
     "pvp": 184,
     "raid": 31,
-    "survival": 106,
+    "survival": 107,
     "shulker": 216,
     "music": 16,
     "terracotta": 11,
