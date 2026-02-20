@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:56:46 20/2/2026",
+  "lastUpdated": "17:57:16 20/2/2026",
   "totalKits": 100656,
   "todayKits": 36,
   "onlineCount": 26,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "10.0",
-  "ping": 215,
+  "tps": "9.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 98
+      "count": 99
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:54] To nuklear1: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[10:55] venturesvoxel73 has made the advancement [Stone Age]",
-    "[10:55] FireDemon_X challenged the Wither and lost their head",
-    "[10:55] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[10:55] <FireDemon_X> !starter",
-    "[10:55] [8b8t] >> Teleporting to home 0...",
-    "[10:55] <nuklear1> !drop",
-    "[10:55] [8b8t] >> Teleporting to home 1...",
-    "[10:55] To nuklear1: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[10:55] To FireDemon_X: Your kit (starter) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:55] To FireDemon_X: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:55] [8b8t] >> Request sent to FireDemon_X",
     "[10:55] [8b8t] >> ▼ Player mamamamamama1212 Left.",
     "[10:55] hamza579 has made the advancement [We Need to Go Deeper]",
     "[10:55] [BOT] <HienBot> >Get fully equipped with !pvp",
@@ -108,7 +96,19 @@
     "[10:56] [8b8t] >> You are already ignoring that player",
     "[10:56] [8b8t] >> ▲ Player Hien2309 Joined.",
     "[10:56] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[10:56] [8b8t] >> You are already ignoring that player"
+    "[10:56] [8b8t] >> You are already ignoring that player",
+    "[10:56] <FireDemon_X> !starter",
+    "[10:56] To FireDemon_X: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:56] [BOT] <HienBot> >Use /kill to kill yourself!",
+    "[10:56] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[10:56] <T1Doran> !starter",
+    "[10:57] [8b8t] >> Teleporting to home 0...",
+    "[10:57] [8b8t] >> Teleporting to home 1...",
+    "[10:57] To T1Doran: Your kit (starter) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:57] To T1Doran: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:57] [8b8t] >> Request sent to T1Doran",
+    "[10:57] venturesvoxel73 has reached the goal [Sky's the Limit]",
+    "[10:57] [8b8t] >> ▼ Player hein Left."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -655,12 +655,13 @@
     "MIHAI_128": 2,
     "thegamerocker": 8,
     "Ujda_Chaman": 1,
-    "FireDemon_X": 5
+    "FireDemon_X": 5,
+    "T1Doran": 1
   },
   "kitStats": {
     "pvp": 180,
     "raid": 29,
-    "survival": 98,
+    "survival": 99,
     "shulker": 212,
     "music": 14,
     "terracotta": 11,
