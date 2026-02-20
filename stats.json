@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:29:46 20/2/2026",
-  "totalKits": 100665,
-  "todayKits": 45,
-  "onlineCount": 22,
+  "lastUpdated": "18:30:05 20/2/2026",
+  "totalKits": 100666,
+  "todayKits": 46,
+  "onlineCount": 23,
   "peakPlayers": 28,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "11.0",
-  "ping": 210,
+  "tps": "10.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 104
+      "count": 105
     },
     {
       "name": "elytra",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:27] [8b8t] >> You are already ignoring that player",
-    "[11:28] [8b8t] >> ▼ Player closepvp Left.",
-    "[11:28] [8b8t] >> ▲ Player closepvp Joined.",
-    "[11:28] [BOT] <HienBot> >Running low on supplies? Use !survival",
-    "[11:28] [8b8t] >> ▲ Player NathanRayyan Joined.",
-    "[11:28] NathanRayyan got a deadly lesson from the Wither",
-    "[11:28] [8b8t] >> ▲ Player missedfish Joined.",
-    "[11:28] [BOT] <HienBot> >Don't forget to claim your daily kit with !pvp",
-    "[11:28] <NathanRayyan> can someone fucking get me out of spawn",
-    "[11:28] <closepvp> !armour_stand",
-    "[11:28] [8b8t] >> Teleporting to home 0...",
-    "[11:28] [8b8t] >> ▼ Player kimwolf156456 Left.",
-    "[11:28] [8b8t] >> Teleporting to home 3...",
-    "[11:28] To closepvp: Kit \"armour_stand\" not found! Giving you (wood) instead! dsc.gg/hienbot",
     "[11:28] To closepvp: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:28] [8b8t] >> Request sent to closepvp",
@@ -108,7 +94,21 @@
     "[11:29] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[11:29] <NathanRayyan> alright marlowww",
     "[11:29] [8b8t] >> ▲ Player OG_KRULL Joined.",
-    "[11:29] NathanRayyan has completed the challenge [Cover Me in Debris]"
+    "[11:29] NathanRayyan has completed the challenge [Cover Me in Debris]",
+    "[11:29] [BOT] <HienBot> >Use !list to choose your kit",
+    "[11:29] NathanRayyan has reached the goal [Sky's the Limit]",
+    "[11:29] <closepvp> !stand",
+    "[11:29] [8b8t] >> ▲ Player Botatouille Joined.",
+    "[11:29] [8b8t] >> Teleporting to home 0...",
+    "[11:29] NathanRayyan has completed the challenge [Serious Dedication]",
+    "[11:29] [8b8t] >> Teleporting to home 1...",
+    "[11:29] NathanRayyan has made the advancement [Ice Bucket Challenge]",
+    "[11:29] To closepvp: Kit \"stand\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[11:29] [8b8t] >> ▼ Player Botatouille Left.",
+    "[11:29] To closepvp: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:30] [8b8t] >> Request sent to closepvp",
+    "[11:30] [8b8t] >> Teleporting...",
+    "[11:30] [8b8t] >> ▲ Player Toomani Joined."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -435,7 +435,7 @@
     "i_am_tobias": 2,
     "jaredsonic2014": 1,
     "itsfrost0": 1,
-    "closepvp": 28,
+    "closepvp": 29,
     "Cold_1": 2,
     "mchuaa": 11,
     "mrJoyy": 5,
@@ -661,7 +661,7 @@
   "kitStats": {
     "pvp": 180,
     "raid": 29,
-    "survival": 104,
+    "survival": 105,
     "shulker": 214,
     "music": 14,
     "terracotta": 11,
