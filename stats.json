@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:01:46 20/2/2026",
+  "lastUpdated": "16:02:16 20/2/2026",
   "totalKits": 100621,
   "todayKits": 1,
   "onlineCount": 22,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 25
   },
-  "tps": "13.0",
-  "ping": 202,
+  "tps": "11.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 208
+      "count": 209
     },
     {
       "name": "pvp",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:57] <evaletz> TPA FOR PVP",
-    "[08:57] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[08:58] [BOT] <HienBot> >Get fully equipped with !pvp",
-    "[08:58] <DaddyShawn980> Khushal_maxx77 i gtg brb",
     "[08:58] MIHAI_128 got a deadly lesson from the Wither",
     "[08:58] MonkeBot got shot by a skeleton",
     "[08:58] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
@@ -108,7 +104,11 @@
     "[09:01] To thegamerocker: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[09:01] To thegamerocker: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[09:01] [BOT] <HienBot> >Don't forget to claim your daily kit with !pvp",
-    "[09:01] [8b8t] >> ▼ Player DaddyShawn980 Left."
+    "[09:01] [8b8t] >> ▼ Player DaddyShawn980 Left.",
+    "[09:01] [BOT] <HienBot> >Welcome to 8b8t, MIHAI_128!",
+    "[09:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[09:02] <thegamerocker> !shulker",
+    "[09:02] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 54,
@@ -653,13 +653,13 @@
     "roger_leighton": 2,
     "GOD_WINGS": 1,
     "MIHAI_128": 2,
-    "thegamerocker": 1
+    "thegamerocker": 2
   },
   "kitStats": {
     "pvp": 172,
     "raid": 28,
     "survival": 89,
-    "shulker": 208,
+    "shulker": 209,
     "music": 14,
     "terracotta": 10,
     "lightsources": 16,
