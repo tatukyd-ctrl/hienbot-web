@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:40:46 20/2/2026",
+  "lastUpdated": "12:41:16 20/2/2026",
   "totalKits": 100594,
   "todayKits": 7,
   "onlineCount": 29,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "10.0",
-  "ping": 212,
+  "tps": "8.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 170
+      "count": 171
     },
     {
       "name": "survival",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:36] To renavolatil: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:36] [8b8t] >> Request sent to renavolatil",
-    "[05:36] Titushkebi forgot to bring their parachute",
-    "[05:37] [8b8t] >> Teleporting...",
-    "[05:37] [8b8t] >> You have killed yourself!",
-    "[05:37] To renavolatil: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:37] To renavolatil: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[05:37] [BOT] <HienBot> >Try !dupe",
     "[05:37] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[05:37] Aibikgidau has reached the goal [Postmortal]",
     "[05:37] [BOT] <HienBot> >Use !list to choose your kit",
@@ -108,7 +100,15 @@
     "[05:40] [BOT] <HienBot> >Use /lobby to return to the lobby!",
     "[05:40] Aibikgidau has made the advancement [Spooky Scary Skeleton]",
     "[05:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:40] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t"
+    "[05:40] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[05:40] Titushkebi went for a swim in lava and got burned",
+    "[05:40] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[05:41] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[05:41] <Aibikgidau> !totem",
+    "[05:41] [8b8t] >> Teleporting to home 0...",
+    "[05:41] [8b8t] >> Teleporting to home 1...",
+    "[05:41] [BOT] <HienBot> >Want to see whose ping is the best? Chat !bestping",
+    "[05:41] To Aibikgidau: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 45,
@@ -642,10 +642,10 @@
     "KickBot": 1,
     "renatolondii": 3,
     "AnarchyAlemie": 1,
-    "Aibikgidau": 9
+    "Aibikgidau": 10
   },
   "kitStats": {
-    "pvp": 170,
+    "pvp": 171,
     "raid": 25,
     "survival": 79,
     "shulker": 200,
