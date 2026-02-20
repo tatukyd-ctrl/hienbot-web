@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:31:56 20/2/2026",
+  "lastUpdated": "15:32:26 20/2/2026",
   "totalKits": 100618,
   "todayKits": 3,
-  "onlineCount": 21,
-  "peakPlayers": 21,
+  "onlineCount": 22,
+  "peakPlayers": 22,
   "playerStats": {
     "min": 0,
     "minTime": "10:08:55 20/2/2026",
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 25
   },
-  "tps": "13.0",
+  "tps": "11.0",
   "ping": 193,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 88
+      "count": 89
     },
     {
       "name": "elytra",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:28] To Hien2309: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:28] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:28] [8b8t] >> Request sent to Hien2309",
-    "[08:28] [8b8t] >> Teleporting...",
-    "[08:28] MIHAI_128 decided to test gravity and lost",
-    "[08:28] [8b8t] >> You have killed yourself!",
-    "[08:28] [Mini] <hein> !toolbox",
-    "[08:28] [8b8t] >> Teleporting to home 0...",
-    "[08:28] [8b8t] >> Teleporting to home 4...",
-    "[08:28] To Hien2309: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:28] [BOT] <HienBot> >Type !discord",
-    "[08:28] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:28] [8b8t] >> Request sent to Hien2309",
-    "[08:28] [8b8t] >> Teleporting...",
-    "[08:28] [8b8t] >> You have killed yourself!",
-    "[08:28] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[08:29] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
     "[08:29] [BOT] <HienBot> >Want to see your ping? Chat !ping",
     "[08:30] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
@@ -108,7 +92,23 @@
     "[08:31] [8b8t] >> ▲ Player MIHAI_128 Joined.",
     "[08:31] [8b8t] >> ▲ Player GOD_WINGS Joined.",
     "[08:31] [BOT] <HienBot> >Try !dupe",
-    "[08:31] <MIHAI_128> igear"
+    "[08:31] <MIHAI_128> igear",
+    "[08:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[08:31] [8b8t] >> ▲ Player penelopecruz Joined.",
+    "[08:32] <GOD_WINGS> !gear",
+    "[08:32] [8b8t] >> Teleporting to home 0...",
+    "[08:32] [8b8t] >> Teleporting to home 7...",
+    "[08:32] To GOD_WINGS: Kit \"gear\" not found! Giving you (lightsources) instead! dsc.gg/hienbot",
+    "[08:32] [BOT] <HienBot> >Want to see whose ping is the best? Chat !bestping",
+    "[08:32] To GOD_WINGS: Sorry! Green Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[08:32] [8b8t] >> ▼ Player AnvayRaut Left.",
+    "[08:32] [8b8t] >> ▲ Player AnvayRaut Joined.",
+    "[08:32] <MIHAI_128> !gear",
+    "[08:32] [8b8t] >> Teleporting to home 0...",
+    "[08:32] [8b8t] >> Teleporting to home 1...",
+    "[08:32] To MIHAI_128: Kit \"gear\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[08:32] To MIHAI_128: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:32] [8b8t] >> Request sent to MIHAI_128"
   ],
   "userStats": {
     "Hien2309": 54,
@@ -650,16 +650,18 @@
     ".iman_jefri": 3,
     "EpsteinxKirk420": 1,
     "ThaiSon2015": 1,
-    "roger_leighton": 2
+    "roger_leighton": 2,
+    "GOD_WINGS": 1,
+    "MIHAI_128": 1
   },
   "kitStats": {
     "pvp": 172,
     "raid": 28,
-    "survival": 88,
+    "survival": 89,
     "shulker": 206,
     "music": 14,
     "terracotta": 10,
-    "lightsources": 15,
+    "lightsources": 16,
     "tools": 17,
     "armortrims": 21,
     "toolbox": 17,
