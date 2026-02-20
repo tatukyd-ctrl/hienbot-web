@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:56:47 21/2/2026",
-  "totalKits": 100923,
-  "todayKits": 303,
+  "lastUpdated": "01:57:02 21/2/2026",
+  "totalKits": 100924,
+  "todayKits": 304,
   "onlineCount": 49,
   "peakPlayers": 49,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "01:56:47 21/2/2026",
     "avg": 28
   },
-  "tps": "6.0",
+  "tps": "8.0",
   "ping": 233,
   "topUsers": [
     {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:55] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
-    "[18:55] [8b8t] >> ▲ Player nicolas262015 Joined.",
-    "[18:55] TheSkrie067 decided to test gravity and lost",
-    "[18:55] [8b8t] >> ▲ Player LeanVera09 Joined.",
-    "[18:55] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[18:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[18:56] [8b8t] >> ▲ Player imnewtopvp354868 Joined.",
-    "[18:56] [BOT] <HienBot> >Hi Pereso!",
     "[18:56] nicolas262015 thought a Zombie was friendly",
     "[18:56] <whyambxs> !shulker",
     "[18:56] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +100,15 @@
     "[18:56] [OWNER✔] <cubebuilder_> We'll make a new domain then",
     "[18:56] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[18:56] Viggoleppe decided to test gravity and lost",
-    "[18:56] [8b8t] >> ▲ Player depanaiker Joined."
+    "[18:56] [8b8t] >> ▲ Player depanaiker Joined.",
+    "[18:56] <Pereso> !raid",
+    "[18:56] [8b8t] >> Teleporting to home 0...",
+    "[18:56] [8b8t] >> Teleporting to home 2...",
+    "[18:56] To Pereso: ¡Tu kit (raid) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
+    "[18:56] [OWNER✔] <cubebuilder_> Also those messages are automated.",
+    "[18:56] To Pereso: ¡Escribe \"/tpayes HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[18:56] [8b8t] >> Request sent to Pereso",
+    "[18:56] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -618,7 +618,7 @@
     "baleandro": 7,
     "blake56": 3,
     "Sharkey": 1,
-    "Pereso": 13,
+    "Pereso": 14,
     "Darexy": 1,
     "Oratilepro": 6,
     "fen_na_azis": 2,
@@ -691,7 +691,7 @@
   },
   "kitStats": {
     "pvp": 221,
-    "raid": 46,
+    "raid": 47,
     "survival": 142,
     "shulker": 270,
     "music": 25,
