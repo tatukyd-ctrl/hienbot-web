@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:05:22 20/2/2026",
+  "lastUpdated": "09:05:52 20/2/2026",
   "totalKits": 100573,
   "todayKits": 25,
-  "onlineCount": 26,
+  "onlineCount": 25,
   "peakPlayers": 70,
   "playerStats": {
     "min": 23,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 28
   },
-  "tps": "9.0",
+  "tps": "10.0",
   "ping": 213,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 76
+      "count": 77
     },
     {
       "name": "elytra",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:04] [BOT] <HienBot> >Try !dupe",
-    "[02:04] <EzielChicago> !PVP",
-    "[02:04] [8b8t] >> Teleporting to home 0...",
-    "[02:04] [8b8t] >> Teleporting to home 1...",
-    "[02:04] [8b8t] >> ▼ Player xaki Left.",
-    "[02:04] To EzielChicago: ¡Tu kit (pvp) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
-    "[02:04] To EzielChicago: ¡Lo siento! Cyan Shulker Box agotado, ¡no hay otros kits! dsc.gg/hienbot",
-    "[02:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[02:04] <EzielChicago> !pet",
-    "[02:04] [8b8t] >> Teleporting to home 0...",
-    "[02:04] [8b8t] >> Teleporting to home 5...",
-    "[02:04] To EzielChicago: ¡Kit \"pet\" no encontrado! ¡Dándote (quartz) en su lugar! dsc.gg/hienbot",
-    "[02:04] To EzielChicago: ¡Escribe \"/tpayes HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[02:04] <EzielChicago> !petw",
-    "[02:04] To EzielChicago: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
-    "[02:04] [8b8t] >> Request sent to EzielChicago",
     "[02:04] [8b8t] >> Teleporting...",
     "[02:04] ___tree decided to test gravity and lost",
     "[02:04] [8b8t] >> You have killed yourself!",
@@ -108,7 +92,23 @@
     "[02:05] To EzielChicago: 1. Unete a Discord: dsc.gg/hienbot 2. Escribe /link TuNombre 3. Escribe !verify CODE en chat ",
     "[02:05] [BOT] <HienBot> >Want free items? Just type !survival",
     "[02:05] <ElectricoOficial> ya nos vamos ?",
-    "[02:05] ___tree decided to test gravity and lost"
+    "[02:05] ___tree decided to test gravity and lost",
+    "[02:05] <ElectricoOficial> hacer una casa",
+    "[02:05] [8b8t] >> ▲ Player LauraxD32 Joined.",
+    "[02:05] <___tree> !survival",
+    "[02:05] [8b8t] >> Teleporting to home 0...",
+    "[02:05] [8b8t] >> Teleporting to home 1...",
+    "[02:05] To ___tree: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:05] To ___tree: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:05] [8b8t] >> Request sent to ___tree",
+    "[02:05] .DNS_Craft180 decided to sleep with the fishes",
+    "[02:05] [8b8t] >> ▼ Player .DNS_Craft180 Left.",
+    "[02:05] [8b8t] >> ▼ Player Leeewiith3Es Left.",
+    "[02:05] <EzielChicago> !Rare",
+    "[02:05] To EzielChicago: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
+    "[02:05] [BOT] <HienBot> >Want to see your ping? Chat !ping",
+    "[02:05] [8b8t] >> ▼ Player .DrCheesecake309 Left.",
+    "[02:05] [8b8t] >> ▲ Player GaelPrime Joined."
   ],
   "userStats": {
     "Hien2309": 44,
@@ -634,12 +634,13 @@
     "nabin": 2,
     ".SteadyWord4735": 1,
     ".DrCheesecake309": 5,
-    "fumeiumcrack": 3
+    "fumeiumcrack": 3,
+    "___tree": 1
   },
   "kitStats": {
     "pvp": 162,
     "raid": 25,
-    "survival": 76,
+    "survival": 77,
     "shulker": 189,
     "music": 13,
     "terracotta": 8,
