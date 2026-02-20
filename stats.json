@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:28:16 20/2/2026",
+  "lastUpdated": "12:28:46 20/2/2026",
   "totalKits": 100588,
   "todayKits": 1,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "11.0",
+  "tps": "13.0",
   "ping": 217,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 168
+      "count": 169
     },
     {
       "name": "survival",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:25] monlightkiller has made the advancement [We Need to Go Deeper]",
-    "[05:26] monlightkiller decided to test gravity and lost",
-    "[05:26] [8b8t] >> ▼ Player CC_Editz Left.",
-    "[05:26] .SatanWY has made the advancement [Best Friends Forever]",
-    "[05:26] [BOT] <HienBot> >Get a head start with !survival",
-    "[05:26] [8b8t] >> ▼ Player PepeChuyHS Left.",
-    "[05:26] [8b8t] >> ▼ Player .theghost58463 Left.",
-    "[05:26] [8b8t] >> ▼ Player ajfrmpt Left.",
-    "[05:26] [BOT] <HienBot> >Use !list to see all available kits!",
-    "[05:26] monlightkiller thought they could fly... they couldn't",
-    "[05:26] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[05:27] <jamer35> pvp any1?",
-    "[05:27] Bronunder has made the advancement [Under Lock and Key]",
-    "[05:27] [8b8t] >> ▲ Player ajfrmpt Joined.",
-    "[05:27] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[05:27] Stuff_Thing has made the advancement [Spooky Scary Skeleton]",
     "[05:27] [BOT] <HienBot> >Welcome to 8b8t, .SatanWY!",
     "[05:27] monlightkiller got a deadly lesson from the Wither",
     "[05:27] .SatanWY has made the advancement [Acquire Hardware]",
@@ -108,7 +92,23 @@
     "[05:28] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[05:28] <Aibikgidau> !shulker",
     "[05:28] [8b8t] >> Teleporting to home 0...",
-    "[05:28] [8b8t] >> Teleporting to home 6..."
+    "[05:28] [8b8t] >> Teleporting to home 6...",
+    "[05:28] To Aibikgidau: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:28] To Aibikgidau: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[05:28] <Aibikgidau> !pvp",
+    "[05:28] [8b8t] >> Teleporting to home 0...",
+    "[05:28] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[05:28] [8b8t] >> Teleporting to home 1...",
+    "[05:28] To Aibikgidau: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:28] To Aibikgidau: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[05:28] Aibikgidau thought they could fly... they couldn't",
+    "[05:28] [8b8t] >> ▼ Player jamer35 Left.",
+    "[05:28] <Aibikgidau> !trap",
+    "[05:28] [8b8t] >> Teleporting to home 0...",
+    "[05:28] [8b8t] >> Teleporting to home 4...",
+    "[05:28] To Aibikgidau: Kit \"trap\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
+    "[05:28] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
+    "[05:28] To Aibikgidau: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 45,
@@ -642,10 +642,10 @@
     "KickBot": 1,
     "renatolondii": 3,
     "AnarchyAlemie": 1,
-    "Aibikgidau": 3
+    "Aibikgidau": 5
   },
   "kitStats": {
-    "pvp": 168,
+    "pvp": 169,
     "raid": 25,
     "survival": 79,
     "shulker": 199,
@@ -654,7 +654,7 @@
     "lightsources": 15,
     "tools": 15,
     "armortrims": 19,
-    "toolbox": 13,
+    "toolbox": 14,
     "wool": 22,
     "exp": 19,
     "stash": 46,
