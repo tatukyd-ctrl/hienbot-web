@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:33:46 20/2/2026",
+  "lastUpdated": "22:34:16 20/2/2026",
   "totalKits": 100747,
   "todayKits": 127,
-  "onlineCount": 30,
+  "onlineCount": 32,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:23:16 20/2/2026",
     "avg": 25
   },
-  "tps": "13.0",
-  "ping": 1194,
+  "tps": "12.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 245
+      "count": 246
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:32] [8b8t] >> Player PrnvDevilXD is not online",
-    "[15:32] [8b8t] >> ▼ Player jaymous Left.",
-    "[15:32] <baleandro> !survival",
-    "[15:32] To baleandro: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[15:32] [BOT] <HienBot> >Hey jackngunhucho!",
-    "[15:32] [8b8t] >> ▼ Player DPS_Voyager_bot Left.",
-    "[15:32] [8b8t] >> ▲ Player AlmightyDeNueva Joined.",
-    "[15:32] ultraISO69 decided to test gravity and lost",
     "[15:32] [8b8t] >> ▲ Player jaymous Joined.",
     "[15:32] <sadaqat0189> pls give me stuff I'm new player",
     "[15:32] [8b8t] >> ▼ Player jaymous Left.",
@@ -108,7 +100,15 @@
     "[15:33] To sadaqat0189: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[15:33] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[15:33] MonkeBot decided to sleep with the fishes",
-    "[15:33] To baleandro: Try again Join dsc.gg/hienbot to report the error."
+    "[15:33] To baleandro: Try again Join dsc.gg/hienbot to report the error.",
+    "[15:33] [8b8t] >> ▲ Player DeathZuka Joined.",
+    "[15:34] AlmightyDeNueva thought they could fly... they couldn't",
+    "[15:34] [BOT] <HienBot> >Try /cosmetics to change your name color!",
+    "[15:34] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[15:34] <bistlle> !shulker",
+    "[15:34] [8b8t] >> Teleporting to home 0...",
+    "[15:34] [8b8t] >> Teleporting to home 6...",
+    "[15:34] To bistlle: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -674,13 +674,14 @@
     "Billi": 1,
     "angelitaaa__": 2,
     "ultraISO69": 1,
-    "PrnvDevilXD": 1
+    "PrnvDevilXD": 1,
+    "bistlle": 1
   },
   "kitStats": {
     "pvp": 191,
     "raid": 31,
     "survival": 111,
-    "shulker": 245,
+    "shulker": 246,
     "music": 21,
     "terracotta": 12,
     "lightsources": 18,
