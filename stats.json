@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:54:17 20/2/2026",
-  "totalKits": 100807,
-  "todayKits": 187,
+  "lastUpdated": "23:54:40 20/2/2026",
+  "totalKits": 100808,
+  "todayKits": 188,
   "onlineCount": 37,
   "peakPlayers": 42,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "23:49:17 20/2/2026",
     "avg": 26
   },
-  "tps": "9.0",
+  "tps": "6.0",
   "ping": 240,
   "topUsers": [
     {
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:52] [8b8t] >> Teleporting to home 0...",
-    "[16:52] [8b8t] >> No TPA request found",
-    "[16:52] [8b8t] >> Teleporting to home 1...",
-    "[16:52] To bistlle: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:52] To bistlle: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:52] <bistlle> me",
-    "[16:52] [8b8t] >> Request sent to bistlle",
-    "[16:52] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[16:53] [8b8t] >> Teleporting...",
-    "[16:53] [BOT] <HienBot> >Running low on supplies? Use !survival",
     "[16:53] [8b8t] >> You have killed yourself!",
     "[16:53] <closepvp> u can accept pls?",
     "[16:53] To bistlle: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +98,17 @@
     "[16:54] [8b8t] >> ▼ Player bistlle Left.",
     "[16:54] [8b8t] >> You have killed yourself!",
     "[16:54] HienBot was EZ clapped by Volt695367 using [their hand]",
-    "[16:54] kimwolf156456 forgot to bring their parachute"
+    "[16:54] kimwolf156456 forgot to bring their parachute",
+    "[16:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[16:54] <Narimattr_535> !redstone",
+    "[16:54] [8b8t] >> Teleporting to home 0...",
+    "[16:54] [8b8t] >> Teleporting to home 2...",
+    "[16:54] To Narimattr_535: Ваш набор (redstone) будет доставлен через 30 секунд! Присоединяйтесь dsc.gg/hienbot",
+    "[16:54] To Narimattr_535: Извините! Red Shulker Box нет в наличии. Даем Lime Shulker Box взамен! dsc.gg/hienbot",
+    "[16:54] [8b8t] >> Request sent to Narimattr_535",
+    "[16:54] [8b8t] >> Teleporting...",
+    "[16:54] Chat disabled in client options",
+    "[16:54] .DrCheesecake967 challenged the Wither and lost their head"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -193,7 +193,7 @@
     "Forevergo": 3,
     "Mielmo15": 1,
     "brojsutgame": 1,
-    "Narimattr_535": 36,
+    "Narimattr_535": 37,
     "MrDarkEye": 3,
     "itz_laeeqs": 9,
     "btclubfvv": 20,
@@ -703,7 +703,7 @@
     "food": 22,
     "glass": 19,
     "elytra": 68,
-    "redstone": 21,
+    "redstone": 22,
     "quartz": 10,
     "highway": 14,
     "gap": 17,
