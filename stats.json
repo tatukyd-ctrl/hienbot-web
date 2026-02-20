@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:24:43 21/2/2026",
+  "lastUpdated": "00:24:47 21/2/2026",
   "totalKits": 100831,
   "todayKits": 211,
-  "onlineCount": 36,
+  "onlineCount": 35,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "23:49:17 20/2/2026",
     "avg": 26
   },
-  "tps": "9.0",
+  "tps": "7.0",
   "ping": 220,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 209
+      "count": 210
     },
     {
       "name": "survival",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:24] To A6b34k: You're on cooldown, try again in 6 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:24] <Nnafily> huh?",
-    "[17:24] [8b8t] >> ▲ Player oowv Joined.",
-    "[17:24] <A6b34k> !firework",
-    "[17:24] [8b8t] >> Teleporting to home 0...",
-    "[17:24] [8b8t] >> Teleporting to home 6...",
-    "[17:24] To A6b34k: Your kit (firework) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:24] To A6b34k: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:24] [8b8t] >> Request sent to A6b34k",
     "[17:24] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[17:24] [8b8t] >> Teleporting...",
@@ -108,7 +100,15 @@
     "[17:24] <EzielChicago> !cohets",
     "[17:24] To EzielChicago: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
     "[17:24] [8b8t] >> Teleporting...",
-    "[17:24] [8b8t] >> ▼ Player Lxryz_ Left."
+    "[17:24] [8b8t] >> ▼ Player Lxryz_ Left.",
+    "[17:24] <EzielChicago> !cohets",
+    "[17:24] To EzielChicago: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
+    "[17:24] [8b8t] >> You have killed yourself!",
+    "[17:24] [8b8t] >> ▼ Player oowv Left.",
+    "[17:24] [8b8t] >> Successfully ignored player Lxryz_",
+    "[17:24] <EzielChicago> !cohets",
+    "[17:24] [8b8t] >> Teleporting to home 0...",
+    "[17:24] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -607,7 +607,7 @@
     "akaza2121": 1,
     "danielff_pro123": 6,
     "iDulx": 18,
-    "EzielChicago": 42,
+    "EzielChicago": 43,
     "kuorbq": 2,
     "BaseWatcher": 1,
     "4sph1x1a": 3,
@@ -684,7 +684,7 @@
     "A6b34k": 5
   },
   "kitStats": {
-    "pvp": 209,
+    "pvp": 210,
     "raid": 35,
     "survival": 133,
     "shulker": 259,
