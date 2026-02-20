@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:26:52 20/2/2026",
+  "lastUpdated": "08:27:22 20/2/2026",
   "totalKits": 100558,
   "todayKits": 10,
-  "onlineCount": 26,
+  "onlineCount": 28,
   "peakPlayers": 70,
   "playerStats": {
     "min": 23,
@@ -12,8 +12,8 @@
     "maxTime": "08:09:52 20/2/2026",
     "avg": 28
   },
-  "tps": "7.0",
-  "ping": 205,
+  "tps": "10.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 156
+      "count": 157
     },
     {
       "name": "survival",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:25] <Hanae0> pue nimodou",
-    "[01:25] To .DrCheesecake309: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:25] [BOT] <HienBot> >Don't forget to claim your daily kit with !pvp",
-    "[01:25] To .DrCheesecake309: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[01:25] [Youtuber] <elproplayerxddd> chao negrou",
-    "[01:25] <Hanae0> usa el silent",
-    "[01:25] [8b8t] >> ▼ Player ElDan Left.",
-    "[01:25] .newfolder9 decided to test gravity and lost",
-    "[01:25] <Hanae0> kreo ke es mejol",
-    "[01:26] <.DrCheesecake309> !free",
-    "[01:26] [8b8t] >> Teleporting to home 0...",
-    "[01:26] [8b8t] >> Teleporting to home 5...",
-    "[01:26] NeilSantiago forgot to bring their parachute",
-    "[01:26] [Youtuber] <elproplayerxddd> demas",
     "[01:26] To .DrCheesecake309: Kit \"free\" not found! Giving you (exp) instead! dsc.gg/hienbot",
     "[01:26] To .DrCheesecake309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:26] [8b8t] >> Request sent to .DrCheesecake309",
@@ -108,7 +94,21 @@
     "[01:26] [8b8t] >> You have killed yourself!",
     "[01:26] [8b8t] >> The TPA request you sent to .DrCheesecake309 was successfully canceled.",
     "[01:26] NeilSantiago decided to test gravity and lost",
-    "[01:26] [BOT] <HienBot> >Want free items? Just type !survival"
+    "[01:26] [BOT] <HienBot> >Want free items? Just type !survival",
+    "[01:26] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[01:26] .DNS_Craft180 tried to defuse a Creeper... it didn't work",
+    "[01:26] <.DrCheesecake309> !survival",
+    "[01:26] To .DrCheesecake309: You're on cooldown, try again in 40 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:27] [8b8t] >> ▲ Player missedfish Joined.",
+    "[01:27] [8b8t] >> ▲ Player fumeiumcrack Joined.",
+    "[01:27] <EzielChicago> !Master CPVP",
+    "[01:27] <fumeiumcrack> !pvp",
+    "[01:27] [8b8t] >> Teleporting to home 0...",
+    "[01:27] [8b8t] >> Teleporting to home 1...",
+    "[01:27] To fumeiumcrack: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:27] [Ultra] <missedfish> where the fuck is everyone",
+    "[01:27] [BOT] <HienBot> >Use !info <player> to check someone's stats",
+    "[01:27] To fumeiumcrack: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 44,
@@ -633,10 +633,11 @@
     "joselito12389": 1,
     "nabin": 2,
     ".SteadyWord4735": 1,
-    ".DrCheesecake309": 2
+    ".DrCheesecake309": 2,
+    "fumeiumcrack": 1
   },
   "kitStats": {
-    "pvp": 156,
+    "pvp": 157,
     "raid": 24,
     "survival": 73,
     "shulker": 184,
