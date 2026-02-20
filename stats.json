@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:56:46 20/2/2026",
+  "lastUpdated": "19:57:16 20/2/2026",
   "totalKits": 100693,
   "todayKits": 73,
-  "onlineCount": 24,
+  "onlineCount": 25,
   "peakPlayers": 28,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "12.0",
-  "ping": 502,
+  "tps": "11.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 218
+      "count": 219
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:54] [8b8t] >> ▼ Player 12long Left.",
-    "[12:54] [8b8t] >> ▲ Player Frankthepan Joined.",
-    "[12:54] [8b8t] >> You are already ignoring that player",
-    "[12:54] [8b8t] >> ▼ Player moks2009 Left.",
-    "[12:54] [8b8t] >> Teleporting...",
-    "[12:55] [8b8t] >> You have killed yourself!",
-    "[12:55] HienBot withered away to the 4th dimension",
-    "[12:55] Laggerman41 got the wither disease",
-    "[12:55] To Laggerman41: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:55] To Laggerman41: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
     "[12:55] <nfkiki> !tps",
     "[12:55] To nfkiki: Current TPS: 12.00 Don't forget to join dsc.gg/hienbot",
@@ -108,7 +99,16 @@
     "[12:56] [8b8t] >> ▲ Player .morokosan5660 Joined.",
     "[12:56] [8b8t] >> ▼ Player Desacierto Left.",
     "[12:56] [BOT] <HienBot> >Don't forget to claim your daily kit with !pvp",
-    "[12:56] [8b8t] >> ▲ Player .CycloidQwQ Joined."
+    "[12:56] [8b8t] >> ▲ Player .CycloidQwQ Joined.",
+    "[12:56] [8b8t] >> ▲ Player venturesvoxel73 Joined.",
+    "[12:57] <Laggerman41> !shulker",
+    "[12:57] [8b8t] >> Teleporting to home 0...",
+    "[12:57] [8b8t] >> Teleporting to home 6...",
+    "[12:57] To Laggerman41: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:57] To Laggerman41: Sorry! White Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
+    "[12:57] [BOT] <HienBot> >Use !info <player> to check someone's stats",
+    "[12:57] [8b8t] >> Request sent to Laggerman41",
+    "[12:57] [8b8t] >> The TPA request you sent to Laggerman41 has expired."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -662,13 +662,13 @@
     "moks2009": 4,
     "Nnafily": 1,
     "_PIGY_": 1,
-    "Laggerman41": 2
+    "Laggerman41": 3
   },
   "kitStats": {
     "pvp": 185,
     "raid": 31,
     "survival": 107,
-    "shulker": 218,
+    "shulker": 219,
     "music": 16,
     "terracotta": 11,
     "lightsources": 17,
