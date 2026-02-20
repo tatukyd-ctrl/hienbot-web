@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:02:46 20/2/2026",
+  "lastUpdated": "20:03:16 20/2/2026",
   "totalKits": 100694,
   "todayKits": 74,
-  "onlineCount": 29,
-  "peakPlayers": 29,
+  "onlineCount": 30,
+  "peakPlayers": 30,
   "playerStats": {
     "min": 0,
     "minTime": "10:08:55 20/2/2026",
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "6.0",
-  "ping": 216,
+  "tps": "11.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 59
+      "count": 60
     },
     {
       "name": "stash",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:01] To Laggerman41: Sorry! White Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
-    "[13:01] To Laggerman41: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:01] [8b8t] >> Request sent to Laggerman41",
-    "[13:01] [8b8t] >> Teleporting...",
-    "[13:01] [BOT] <HienBot> >Get a head start with !survival",
-    "[13:01] monlightkiller has made the advancement [Stone Age]",
-    "[13:01] monlightkiller has made the advancement [Getting an Upgrade]",
-    "[13:01] [8b8t] >> You have killed yourself!",
-    "[13:01] HienBot was rekt by Laggerman41 and their mighty [netherite sword]",
-    "[13:01] To Laggerman41: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:01] To Laggerman41: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[13:01] [8b8t] >> ▲ Player .morokosan5660 Joined.",
-    "[13:01] [8b8t] >> ▲ Player .CycloidQwQ Joined.",
-    "[13:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[13:01] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[13:02] [8b8t] >> ▼ Player Narimattr_535 Left.",
     "[13:02] [8b8t] >> ▲ Player CuloGangTobias Joined.",
     "[13:02] [8b8t] >> ▲ Player AppleBot Joined.",
     "[13:02] Ujda_Chaman thought they could fly... they couldn't",
@@ -108,7 +92,23 @@
     "[13:02] <Laggerman41> hello??",
     "[13:02] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
     "[13:02] [8b8t] >> ▲ Player ohio_sigma69 Joined.",
-    "[13:02] [8b8t] >> You are already ignoring that player"
+    "[13:02] [8b8t] >> You are already ignoring that player",
+    "[13:02] <Laggerman41> !ping",
+    "[13:02] To Laggerman41: Your ping is: 173 ms Don't forget to join dsc.gg/hienbot",
+    "[13:02] <BastianARN> wuenas",
+    "[13:02] <Laggerman41> !elytra",
+    "[13:02] [8b8t] >> Teleporting to home 0...",
+    "[13:02] [8b8t] >> Teleporting to home 6...",
+    "[13:02] To Laggerman41: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:02] [Ultra] <_PIGY_> !shulker",
+    "[13:02] _PIGY_ is ignoring you",
+    "[13:02] To Laggerman41: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:02] [8b8t] >> Request sent to Laggerman41",
+    "[13:03] <Laggerman41> !shu;ker",
+    "[13:03] [8b8t] >> ▲ Player CuloGangTobias Joined.",
+    "[13:03] <Laggerman41> !shulker",
+    "[13:03] To Laggerman41: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[13:03] [BOT] <HienBot> >Hi PistonCubeB0T!"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -662,7 +662,7 @@
     "moks2009": 4,
     "Nnafily": 1,
     "_PIGY_": 1,
-    "Laggerman41": 4
+    "Laggerman41": 5
   },
   "kitStats": {
     "pvp": 185,
@@ -685,7 +685,7 @@
     "dupe": 24,
     "food": 22,
     "glass": 18,
-    "elytra": 59,
+    "elytra": 60,
     "redstone": 18,
     "quartz": 9,
     "highway": 11,
