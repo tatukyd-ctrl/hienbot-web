@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:45:46 20/2/2026",
+  "lastUpdated": "21:46:16 20/2/2026",
   "totalKits": 100729,
   "todayKits": 109,
-  "onlineCount": 34,
+  "onlineCount": 36,
   "peakPlayers": 37,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "21:42:16 20/2/2026",
     "avg": 25
   },
-  "tps": "9.0",
-  "ping": 480,
+  "tps": "10.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 64
+      "count": 65
     },
     {
       "name": "stash",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:43] [8b8t] >> Teleporting...",
-    "[14:43] <Volt695367> !gear",
-    "[14:43] To Volt695367: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[14:43] [8b8t] >> You have killed yourself!",
-    "[14:43] HienBot was destroyed by T1Doran",
-    "[14:43] [8b8t] >> ▼ Player patrickpinkman Left.",
-    "[14:43] jackngunhucho withered away to the 4th dimension",
     "[14:43] To T1Doran: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[14:43] To T1Doran: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
     "[14:43] [BOT] <HienBot> >Use /lobby to return to the lobby!",
@@ -108,7 +101,14 @@
     "[14:45] [8b8t] >> ▼ Player ahuhu5000 Left.",
     "[14:45] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[14:45] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[14:45] [8b8t] >> Please do not spam."
+    "[14:45] [8b8t] >> Please do not spam.",
+    "[14:45] <Volt695367> !list",
+    "[14:45] To Volt695367: Hello Volt695367!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[14:46] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[14:46] [BOT] <HienBot> >Try !stash",
+    "[14:46] [8b8t] >> ▲ Player EpixStar01 Joined.",
+    "[14:46] .Redjul543 decided to test gravity and lost",
+    "[14:46] <Volt695367> !elytra"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -405,7 +405,7 @@
     "DeadlyNyxian": 17,
     "Khushal_maxx77": 7,
     "vmpy7": 8,
-    "Volt695367": 17,
+    "Volt695367": 18,
     "nfkiki": 5,
     "FreeSword": 2,
     "freddison": 4,
@@ -693,7 +693,7 @@
     "dupe": 26,
     "food": 22,
     "glass": 18,
-    "elytra": 64,
+    "elytra": 65,
     "redstone": 21,
     "quartz": 9,
     "highway": 13,
