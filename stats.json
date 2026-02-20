@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:34:16 20/2/2026",
-  "totalKits": 100681,
-  "todayKits": 61,
+  "lastUpdated": "19:34:35 20/2/2026",
+  "totalKits": 100682,
+  "todayKits": 62,
   "onlineCount": 22,
   "peakPlayers": 28,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "15.0",
-  "ping": 214,
+  "tps": "14.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 105
+      "count": 106
     },
     {
       "name": "elytra",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:32] [8b8t] >> Request sent to mamamamamama1212",
-    "[12:32] <nfkiki> %mace",
-    "[12:32] To nfkiki: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[12:32] [BOT] <HienBot> >Hi mamamamamama1212!",
-    "[12:32] [8b8t] >> Teleporting...",
-    "[12:32] [8b8t] >> You have killed yourself!",
-    "[12:32] HienBot has been killed by mamamamamama1212",
-    "[12:32] To mamamamamama1212: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:32] To mamamamamama1212: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
     "[12:32] [8b8t] >> ▲ Player Itz_Pall0 Joined.",
     "[12:33] Itz_Pall0 forgot to bring their parachute",
@@ -108,7 +100,15 @@
     "[12:33] monlightkiller thought they could fly... they couldn't",
     "[12:33] [8b8t] >> ▲ Player venturesvoxel73 Joined.",
     "[12:34] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[12:34] [8b8t] >> ▼ Player venturesvoxel73 Left."
+    "[12:34] [8b8t] >> ▼ Player venturesvoxel73 Left.",
+    "[12:34] monlightkiller forgot to bring their parachute",
+    "[12:34] <mamamamamama1212> &spawn",
+    "[12:34] [8b8t] >> Teleporting to home 0...",
+    "[12:34] [8b8t] >> Teleporting to home 1...",
+    "[12:34] To mamamamamama1212: Your kit (spawn) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:34] To mamamamamama1212: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:34] [8b8t] >> Request sent to mamamamamama1212",
+    "[12:34] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -565,7 +565,7 @@
     "martinh4pro": 9,
     ".D3adForm": 1,
     "Kenfarts11": 1,
-    "mamamamamama1212": 19,
+    "mamamamamama1212": 20,
     "IgnacyXDXD": 23,
     "MMMfuckersss": 3,
     "_Marlowww_": 5,
@@ -663,7 +663,7 @@
   "kitStats": {
     "pvp": 184,
     "raid": 31,
-    "survival": 105,
+    "survival": 106,
     "shulker": 215,
     "music": 16,
     "terracotta": 11,
