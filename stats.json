@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:14:46 20/2/2026",
-  "totalKits": 100741,
-  "todayKits": 121,
+  "lastUpdated": "22:15:15 20/2/2026",
+  "totalKits": 100742,
+  "todayKits": 122,
   "onlineCount": 32,
   "peakPlayers": 39,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "21:51:16 20/2/2026",
     "avg": 25
   },
-  "tps": "13.0",
-  "ping": 465,
+  "tps": "7.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:13] .Redjul543 forgot to bring their parachute",
-    "[15:13] jackngunhucho has made the advancement [Stone Age]",
-    "[15:13] [8b8t] >> ▲ Player roger_leighton Joined.",
-    "[15:13] [8b8t] >> ▲ Player KhoaVN2111 Joined.",
-    "[15:13] [BOT] <HienBot> >Hello Pereso!",
-    "[15:13] [8b8t] >> ▲ Player ridgeser Joined.",
-    "[15:13] [Ultra] <KurtzMC> kaskoak",
-    "[15:13] <oowv> stop crying kid",
     "[15:13] [XMAS2025] <Rucosa> el vuestro de cuanto es?",
     "[15:13] [Ultra] <KurtzMC> 6 x 3 flat fullblock",
     "[15:13] [8b8t] >> ▼ Player ridgeser Left.",
@@ -108,7 +100,15 @@
     "[15:14] [BOT] <HienBot> >Bot created by Hien2309.",
     "[15:14] AgentRevange thought they could make it to oxygen in time",
     "[15:14] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[15:14] [8b8t] >> ▲ Player Lee4V Joined."
+    "[15:14] [8b8t] >> ▲ Player Lee4V Joined.",
+    "[15:14] <AgentRevange> !Tulabuild",
+    "[15:14] [8b8t] >> Teleporting to home 0...",
+    "[15:14] [8b8t] >> Teleporting to home 5...",
+    "[15:14] To AgentRevange: Kit \"tulabuild\" not found! Giving you (end) instead! dsc.gg/hienbot",
+    "[15:15] To AgentRevange: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:15] [8b8t] >> Request sent to AgentRevange",
+    "[15:15] [BOT] <HienBot> >Type !discord",
+    "[15:15] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -591,7 +591,7 @@
     "VOXY_PLAY": 14,
     "Ozi_Dev": 1,
     "westersart": 4,
-    "AgentRevange": 1,
+    "AgentRevange": 2,
     "foidraper": 1,
     "msmsmsmsmsm": 1,
     "JustZarthal": 1,
@@ -703,6 +703,6 @@
     "mineral": 23,
     "gterracotta": 9,
     "wood": 15,
-    "end": 14
+    "end": 15
   }
 }
