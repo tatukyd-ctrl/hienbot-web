@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:57:46 20/2/2026",
+  "lastUpdated": "17:58:16 20/2/2026",
   "totalKits": 100656,
   "todayKits": 36,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 27,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 24
   },
   "tps": "11.0",
-  "ping": 203,
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,19 +75,10 @@
     },
     {
       "name": "stash",
-      "count": 49
+      "count": 50
     }
   ],
   "chatLog": [
-    "[10:56] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[10:56] [8b8t] >> You are already ignoring that player",
-    "[10:56] <FireDemon_X> !starter",
-    "[10:56] To FireDemon_X: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:56] [BOT] <HienBot> >Use /kill to kill yourself!",
-    "[10:56] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[10:56] <T1Doran> !starter",
-    "[10:57] [8b8t] >> Teleporting to home 0...",
-    "[10:57] [8b8t] >> Teleporting to home 1...",
     "[10:57] To T1Doran: Your kit (starter) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:57] To T1Doran: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:57] [8b8t] >> Request sent to T1Doran",
@@ -108,7 +99,16 @@
     "[10:57] [8b8t] >> You have killed yourself!",
     "[10:57] [8b8t] >> The TPA request you sent to T1Doran was successfully canceled.",
     "[10:57] <T1Doran> !stash",
-    "[10:57] To T1Doran: You're on cooldown, try again in 55 seconds! Don't forget to join dsc.gg/hienbot"
+    "[10:57] To T1Doran: You're on cooldown, try again in 55 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:57] [BOT] <HienBot> >Bot created by Hien2309.",
+    "[10:57] [8b8t] >> You are already ignoring that player",
+    "[10:58] [8b8t] >> ▲ Player .Eternal2569 Joined.",
+    "[10:58] <T1Doran> !starter",
+    "[10:58] To T1Doran: You're on cooldown, try again in 38 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:58] Ujda_Chaman decided to test gravity and lost",
+    "[10:58] <FireDemon_X> !stash",
+    "[10:58] [8b8t] >> Teleporting to home 0...",
+    "[10:58] [8b8t] >> Teleporting to home 2..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -655,7 +655,7 @@
     "MIHAI_128": 2,
     "thegamerocker": 8,
     "Ujda_Chaman": 1,
-    "FireDemon_X": 5,
+    "FireDemon_X": 6,
     "T1Doran": 1
   },
   "kitStats": {
@@ -671,7 +671,7 @@
     "toolbox": 19,
     "wool": 25,
     "exp": 21,
-    "stash": 49,
+    "stash": 50,
     "ocean": 22,
     "build": 41,
     "dye": 16,
