@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:54:47 20/2/2026",
-  "totalKits": 100808,
-  "todayKits": 188,
+  "lastUpdated": "23:55:14 20/2/2026",
+  "totalKits": 100809,
+  "todayKits": 189,
   "onlineCount": 37,
   "peakPlayers": 42,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "23:49:17 20/2/2026",
     "avg": 26
   },
-  "tps": "6.0",
-  "ping": 240,
+  "tps": "9.0",
+  "ping": 288,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 131
+      "count": 132
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:53] [8b8t] >> ▼ Player muhammad11555 Left.",
-    "[16:53] [BOT] <HienBot> >Use !lang and select your language",
-    "[16:53] <Volt695367> !shulker",
-    "[16:53] [8b8t] >> Teleporting to home 0...",
-    "[16:54] [8b8t] >> Teleporting to home 6...",
-    "[16:54] To Volt695367: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:54] To Volt695367: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:54] [8b8t] >> Request sent to Volt695367",
-    "[16:54] [8b8t] >> Teleporting...",
-    "[16:54] Chat disabled in client options",
-    "[16:54] [8b8t] >> ▼ Player bistlle Left.",
-    "[16:54] [8b8t] >> You have killed yourself!",
     "[16:54] HienBot was EZ clapped by Volt695367 using [their hand]",
     "[16:54] kimwolf156456 forgot to bring their parachute",
     "[16:54] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -108,7 +96,19 @@
     "[16:54] <Volt695367> !list",
     "[16:54] To Volt695367: Hello Volt695367!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[16:54] To Narimattr_535: Совет: Используй !link для привязки Discord и 50% меньше ожидания! dsc.gg/hienbot",
-    "[16:54] To Narimattr_535: 1. Вступите в Discord: dsc.gg/hienbot 2. Напишите /link ВашеИмя 3. Напишите !verify CODE в чате "
+    "[16:54] To Narimattr_535: 1. Вступите в Discord: dsc.gg/hienbot 2. Напишите /link ВашеИмя 3. Напишите !verify CODE в чате ",
+    "[16:54] <Lxryz_> !verify VUTZ",
+    "[16:54] To Lxryz_: Linked to Discord (srg34)! Your cooldown is now 30s! dsc.gg/hienbot",
+    "[16:54] <Pereso> Lxryz_ ahora dime las cords",
+    "[16:55] <Volt695367> !oploot",
+    "[16:55] [8b8t] >> Teleporting to home 0...",
+    "[16:55] [8b8t] >> Teleporting to home 1...",
+    "[16:55] To Volt695367: Kit \"oploot\" not found! Giving you (survival) instead! dsc.gg/hienbot",
+    "[16:55] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[16:55] <Lxryz_> -445 642",
+    "[16:55] To Volt695367: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:55] [8b8t] >> Request sent to Volt695367",
+    "[16:55] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -405,7 +405,7 @@
     "DeadlyNyxian": 17,
     "Khushal_maxx77": 7,
     "vmpy7": 8,
-    "Volt695367": 28,
+    "Volt695367": 29,
     "nfkiki": 5,
     "FreeSword": 2,
     "freddison": 4,
@@ -684,7 +684,7 @@
   "kitStats": {
     "pvp": 204,
     "raid": 35,
-    "survival": 131,
+    "survival": 132,
     "shulker": 259,
     "music": 22,
     "terracotta": 14,
