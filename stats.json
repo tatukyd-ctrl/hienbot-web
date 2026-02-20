@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:11:46 20/2/2026",
+  "lastUpdated": "16:12:16 20/2/2026",
   "totalKits": 100626,
   "todayKits": 6,
   "onlineCount": 23,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 25
   },
-  "tps": "12.0",
-  "ping": 200,
+  "tps": "9.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:09] To thegamerocker: Kit \"god\" not found! Giving you (survival) instead! dsc.gg/hienbot",
-    "[09:09] To thegamerocker: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:09] [8b8t] >> Request sent to thegamerocker",
-    "[09:09] [8b8t] >> Teleporting...",
-    "[09:09] [BOT] <HienBot> >Bot created by Hien2309.",
     "[09:09] [8b8t] >> You have killed yourself!",
     "[09:09] HienBot was rekt by thegamerocker and their mighty [netherite sword]",
     "[09:09] To thegamerocker: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +103,12 @@
     "[09:11] thegamerocker has made the advancement [Stone Age]",
     "[09:11] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
     "[09:11] MIHAI_128 decided to test gravity and lost",
-    "[09:11] [8b8t] >> ▲ Player .Wing075 Joined."
+    "[09:11] [8b8t] >> ▲ Player .Wing075 Joined.",
+    "[09:11] [BOT] <HienBot> >Want to see whose ping is the best? Chat !bestping",
+    "[09:12] <thegamerocker> !fent",
+    "[09:12] [8b8t] >> Teleporting to home 0...",
+    "[09:12] [8b8t] >> Teleporting to home 4...",
+    "[09:12] To thegamerocker: Kit \"fent\" not found! Giving you (terracotta) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 54,
@@ -653,7 +653,7 @@
     "roger_leighton": 2,
     "GOD_WINGS": 1,
     "MIHAI_128": 2,
-    "thegamerocker": 7
+    "thegamerocker": 8
   },
   "kitStats": {
     "pvp": 173,
@@ -661,7 +661,7 @@
     "survival": 90,
     "shulker": 209,
     "music": 14,
-    "terracotta": 10,
+    "terracotta": 11,
     "lightsources": 16,
     "tools": 17,
     "armortrims": 21,
