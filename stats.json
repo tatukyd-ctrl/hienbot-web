@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:06:55 20/2/2026",
+  "lastUpdated": "10:07:25 20/2/2026",
   "totalKits": 100579,
   "todayKits": 0,
   "onlineCount": 27,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "9.0",
+  "tps": "13.0",
   "ping": 211,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 163
+      "count": 164
     },
     {
       "name": "survival",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:03] [BOT] <0_HienBot> >Type !invite for invite rewards info",
-    "[03:03] <.DrCheesecake309> sup",
-    "[03:03] <TulagrandBot> >Hola DeathZuka",
-    "[03:03] <.Carlosguada> chale",
-    "[03:03] <ElectricoOficial> te quieres unir al clan?",
-    "[03:03] [BOT] <0_HienBot> >Welcome to 8b8t, bauttybetterMc!",
-    "[03:03] <.DrCheesecake309> ??",
-    "[03:03] <ElectricoOficial> te dare cosas",
-    "[03:04] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[03:04] <TulagrandBot> >Building a base? Try !gear or !free build2",
-    "[03:04] <.Carlosguada> bro para mañana estaremos en 1 millon",
     "[03:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[03:04] <TulagrandBot> >Newbie and want to become cool quickly? Try !gear or !free pvp",
     "[03:04] [BOT] <0_HienBot> >Bot created by Hien2309.",
@@ -108,7 +97,18 @@
     "[03:06] <bauttybetterMc> quien me da algo?",
     "[03:06] <ElectricoOficial> te daria pero me enoje",
     "[03:06] <bauttybetterMc> jaja",
-    "[03:06] [BOT] <0_HienBot> >Need gear? Type !pvp to get started!"
+    "[03:06] [BOT] <0_HienBot> >Need gear? Type !pvp to get started!",
+    "[03:07] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[03:07] <TulagrandBot> > Need PvP gear? The !gear command has you covered.",
+    "[03:07] <Stuff_Thing> !pvp",
+    "[03:07] [8b8t] >> You have killed yourself!",
+    "[03:07] To Stuff_Thing: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:07] [8b8t] >> Teleporting to home 0...",
+    "[03:07] [8b8t] >> Teleporting to home 1...",
+    "[03:07] To Stuff_Thing: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
+    "[03:07] [8b8t] >> Request sent to Stuff_Thing",
+    "[03:07] <TulagrandBot> >Newbie and want to become cool quickly? Try !gear or !free pvp",
+    "[03:07] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 45,
@@ -547,7 +547,7 @@
     "aferradoltlt": 1,
     "MxRgB": 1,
     "cutelotl_": 1,
-    "Stuff_Thing": 9,
+    "Stuff_Thing": 10,
     "AkashMC7": 2,
     "PepeChuyHS": 2,
     "Pritom_xD": 1,
@@ -639,7 +639,7 @@
     "WEMBUU": 2
   },
   "kitStats": {
-    "pvp": 163,
+    "pvp": 164,
     "raid": 25,
     "survival": 78,
     "shulker": 192,
