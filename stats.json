@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:44:16 20/2/2026",
+  "lastUpdated": "17:44:46 20/2/2026",
   "totalKits": 100649,
   "todayKits": 29,
   "onlineCount": 23,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "11.0",
-  "ping": 501,
+  "tps": "12.0",
+  "ping": 592,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 94
+      "count": 95
     },
     {
       "name": "elytra",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:41] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[10:42] [8b8t] >> ▲ Player _PIGY_ Joined.",
-    "[10:42] 31415pi thought they could fly... they couldn't",
-    "[10:42] [8b8t] >> ▲ Player OmniNova247 Joined.",
-    "[10:42] [BOT] <HienBot> >Use !list to see all available kits!",
-    "[10:42] [8b8t] >> ▼ Player Frankthepan Left.",
-    "[10:42] [8b8t] >> ▲ Player hamza579 Joined.",
-    "[10:42] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[10:42] ThePyromaniac got a deadly lesson from the Wither",
     "[10:42] [BOT] <HienBot> >Type !invite for invite rewards info",
     "[10:43] [8b8t] >> ▼ Player iTrisstan Left.",
     "[10:43] <nuklear1> !free",
@@ -108,7 +99,16 @@
     "[10:43] [BOT] <HienBot> >Hey PistonCubeB0T!",
     "[10:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:44] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[10:44] [8b8t] >> ▼ Player 31415pi Left."
+    "[10:44] [8b8t] >> ▼ Player 31415pi Left.",
+    "[10:44] [8b8t] >> The TPA request you received from FireDemon_X has expired.",
+    "[10:44] hamza579 burned up in a pit of lava",
+    "[10:44] [BOT] <HienBot> >Want free items? Just type !survival",
+    "[10:44] <FireDemon_X> !survival",
+    "[10:44] [8b8t] >> Teleporting to home 0...",
+    "[10:44] [8b8t] >> Teleporting to home 1...",
+    "[10:44] To FireDemon_X: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:44] To FireDemon_X: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:44] [8b8t] >> Request sent to FireDemon_X"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -655,12 +655,12 @@
     "MIHAI_128": 2,
     "thegamerocker": 8,
     "Ujda_Chaman": 1,
-    "FireDemon_X": 1
+    "FireDemon_X": 2
   },
   "kitStats": {
     "pvp": 179,
     "raid": 29,
-    "survival": 94,
+    "survival": 95,
     "shulker": 212,
     "music": 14,
     "terracotta": 11,
