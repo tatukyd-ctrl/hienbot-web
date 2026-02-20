@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:39:16 20/2/2026",
+  "lastUpdated": "13:39:46 20/2/2026",
   "totalKits": 100605,
   "todayKits": 18,
   "onlineCount": 22,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "12.0",
-  "ping": 194,
+  "tps": "9.0",
+  "ping": 197,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:34] [8b8t] >> ▼ Player Volt695367 Left.",
-    "[06:34] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[06:34] [8b8t] >> ▼ Player kennethhh11 Left.",
-    "[06:35] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[06:35] [8b8t] >> ▼ Player KAOSZHAFCROSS Left.",
     "[06:35] [8b8t] >> ▲ Player KAOSZHAFCROSS Joined.",
     "[06:35] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
     "[06:35] [8b8t] >> ▼ Player KAOSZHAFCROSS Left.",
@@ -108,7 +103,12 @@
     "[06:38] [BOT] <HienBot> >Hey coldbyte!",
     "[06:38] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[06:38] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[06:39] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!"
+    "[06:39] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
+    "[06:39] [BOT] <HienBot> >Survive safely with a free kit! Type !survival",
+    "[06:39] [Pro+] <bugbar> !build",
+    "[06:39] [8b8t] >> Teleporting to home 0...",
+    "[06:39] [8b8t] >> Teleporting to home 2...",
+    "[06:39] To BigBear: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 52,
@@ -462,7 +462,7 @@
     "Barrerics_2011": 2,
     "idkkkkkkkkkk": 2,
     "TristanAbyss": 1,
-    "BigBear": 7,
+    "BigBear": 8,
     "SINCONOCIMIENTO": 2,
     "gabriel_player": 1,
     "evaletz": 4,
@@ -660,7 +660,7 @@
     "exp": 19,
     "stash": 47,
     "ocean": 22,
-    "build": 32,
+    "build": 33,
     "dye": 16,
     "concrete": 16,
     "dupe": 21,
