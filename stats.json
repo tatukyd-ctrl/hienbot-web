@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:05:16 20/2/2026",
-  "totalKits": 100621,
-  "todayKits": 1,
+  "lastUpdated": "16:05:36 20/2/2026",
+  "totalKits": 100622,
+  "todayKits": 2,
   "onlineCount": 23,
   "peakPlayers": 26,
   "playerStats": {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:01] To thegamerocker: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:01] To thegamerocker: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:01] [BOT] <HienBot> >Don't forget to claim your daily kit with !pvp",
-    "[09:01] [8b8t] >> ▼ Player DaddyShawn980 Left.",
-    "[09:01] [BOT] <HienBot> >Welcome to 8b8t, MIHAI_128!",
-    "[09:01] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[09:02] <thegamerocker> !shulker",
-    "[09:02] [8b8t] >> Teleporting to home 0...",
     "[09:02] [8b8t] >> Teleporting to home 6...",
     "[09:02] To thegamerocker: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[09:02] [BOT] <HienBot> >Use !info <player> to check someone's stats",
@@ -108,7 +100,15 @@
     "[09:04] [BOT] <HienBot> >Use /kill to kill yourself!",
     "[09:04] [BOT] <HienBot> >Use !info <player> to check someone's stats",
     "[09:04] [8b8t] >> ▲ Player AnvayRaut Joined.",
-    "[09:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[09:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[09:05] <thegamerocker> !gift",
+    "[09:05] [8b8t] >> Teleporting to home 0...",
+    "[09:05] [8b8t] >> Teleporting to home 4...",
+    "[09:05] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[09:05] To thegamerocker: Kit \"gift\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
+    "[09:05] To thegamerocker: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:05] [8b8t] >> Request sent to thegamerocker",
+    "[09:05] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 54,
@@ -653,7 +653,7 @@
     "roger_leighton": 2,
     "GOD_WINGS": 1,
     "MIHAI_128": 2,
-    "thegamerocker": 2
+    "thegamerocker": 3
   },
   "kitStats": {
     "pvp": 172,
@@ -665,7 +665,7 @@
     "lightsources": 16,
     "tools": 17,
     "armortrims": 21,
-    "toolbox": 17,
+    "toolbox": 18,
     "wool": 23,
     "exp": 20,
     "stash": 48,
