@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:34:16 20/2/2026",
+  "lastUpdated": "18:34:46 20/2/2026",
   "totalKits": 100667,
   "todayKits": 47,
   "onlineCount": 25,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "12.0",
-  "ping": 204,
+  "tps": "9.0",
+  "ping": 199,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 214
+      "count": 215
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:31] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[11:31] [8b8t] >> ▲ Player kimwolf156456 Joined.",
-    "[11:32] <NathanRayyan> i made a new minecraft account so i lost all my progress",
-    "[11:32] [8b8t] >> ▲ Player Hien2309 Joined.",
-    "[11:32] [BOT] <HienBot> >Use !list to see all available kits!",
-    "[11:32] [8b8t] >> You are already ignoring that player",
-    "[11:32] [8b8t] >> ▼ Player iTrisstan Left.",
     "[11:32] [8b8t] >> ▲ Player CAYKEGUARIZA Joined.",
     "[11:32] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[11:32] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
@@ -108,7 +101,14 @@
     "[11:33] Hien2309 Whispers: Hien Client!",
     "[11:33] MonkeBot decided to sleep with the fishes",
     "[11:33] [BOT] <HienBot> >Try !status",
-    "[11:34] CAYKEGUARIZA challenged the Wither and lost their head"
+    "[11:34] CAYKEGUARIZA challenged the Wither and lost their head",
+    "[11:34] [Ultra] <missedfish> install baritone, mine your ass off, kill cow, make item frame, dupe your brains out",
+    "[11:34] [8b8t] >> Please do not spam.",
+    "[11:34] <NathanRayyan> !shulker",
+    "[11:34] [8b8t] >> Teleporting to home 0...",
+    "[11:34] [8b8t] >> Teleporting to home 6...",
+    "[11:34] To NathanRayyan: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:34] To NathanRayyan: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -657,13 +657,14 @@
     "Ujda_Chaman": 1,
     "FireDemon_X": 6,
     "T1Doran": 5,
-    "rastafaricraft": 1
+    "rastafaricraft": 1,
+    "NathanRayyan": 1
   },
   "kitStats": {
     "pvp": 180,
     "raid": 29,
     "survival": 105,
-    "shulker": 214,
+    "shulker": 215,
     "music": 15,
     "terracotta": 11,
     "lightsources": 16,
