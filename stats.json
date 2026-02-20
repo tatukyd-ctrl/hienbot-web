@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:56:50 20/2/2026",
+  "lastUpdated": "09:57:20 20/2/2026",
   "totalKits": 100579,
   "todayKits": 1,
   "onlineCount": 29,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 199,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 162
+      "count": 163
     },
     {
       "name": "survival",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:53] <Stuff_Thing> !survival",
-    "[02:53] [8b8t] >> Teleporting to home 0...",
-    "[02:53] [8b8t] >> Teleporting to home 1...",
-    "[02:53] To Stuff_Thing: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:53] To Stuff_Thing: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:53] [8b8t] >> Request sent to Stuff_Thing",
-    "[02:53] <TulagrandBot> >Try @ping to get your ping",
     "[02:53] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
     "[02:53] [8b8t] >> Teleporting...",
     "[02:53] [8b8t] >> You have killed yourself!",
@@ -108,10 +101,17 @@
     "[02:55] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[02:55] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat !bestping",
     "[02:56] [BOT] <0_HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
-    "[02:56] [BOT] <0_HienBot> >Bot created by Hien2309."
+    "[02:56] [BOT] <0_HienBot> >Bot created by Hien2309.",
+    "[02:56] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[02:57] [BOT] <0_HienBot> >Get a head start with !survival",
+    "[02:57] [Mini] <hein> !pvp",
+    "[02:57] [8b8t] >> Teleporting to home 0...",
+    "[02:57] [8b8t] >> Teleporting to home 1...",
+    "[02:57] To Hien2309: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:57] To Hien2309: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
-    "Hien2309": 44,
+    "Hien2309": 45,
     "doyoda1292": 8,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
@@ -639,7 +639,7 @@
     "WEMBUU": 1
   },
   "kitStats": {
-    "pvp": 162,
+    "pvp": 163,
     "raid": 25,
     "survival": 78,
     "shulker": 191,
