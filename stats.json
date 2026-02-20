@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:50:16 20/2/2026",
+  "lastUpdated": "19:50:46 20/2/2026",
   "totalKits": 100690,
   "todayKits": 70,
-  "onlineCount": 26,
+  "onlineCount": 25,
   "peakPlayers": 28,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "14.0",
+  "tps": "11.0",
   "ping": 215,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 216
+      "count": 217
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:48] [8b8t] >> You have killed yourself!",
-    "[12:48] HienBot was slain by Narimattr_535 using [their hand]",
-    "[12:48] To Narimattr_535: Совет: Используй !link для привязки Discord и 50% меньше ожидания! dsc.gg/hienbot",
-    "[12:48] To Narimattr_535: 1. Вступите в Discord: dsc.gg/hienbot 2. Напишите /link ВашеИмя 3. Напишите !verify CODE в чате ",
-    "[12:48] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:48] Cool_Kid_Dev forgot to bring their parachute",
-    "[12:48] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[12:48] [8b8t] >> ▲ Player .morokosan5660 Joined.",
-    "[12:48] [8b8t] >> ▲ Player martinh4pro Joined.",
     "[12:48] [8b8t] >> ▼ Player Cool_Kid_Dev Left.",
     "[12:48] <martinh4pro> !rocket",
     "[12:48] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +99,16 @@
     "[12:49] [8b8t] >> ▼ Player martinh4pro Left.",
     "[12:49] [8b8t] >> ▲ Player kimwolf156456 Joined.",
     "[12:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:50] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!"
+    "[12:50] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
+    "[12:50] [8b8t] >> ▼ Player Tobias Left.",
+    "[12:50] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[12:50] [BOT] <HienBot> >Use !info <player> to check someone's stats",
+    "[12:50] [8b8t] >> ▲ Player evaletz Joined.",
+    "[12:50] [Ultra] <_PIGY_> !shulker",
+    "[12:50] [8b8t] >> Teleporting to home 0...",
+    "[12:50] [8b8t] >> Teleporting to home 6...",
+    "[12:50] _PIGY_ is ignoring you",
+    "[12:50] _PIGY_ is ignoring you"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -660,13 +660,14 @@
     "rastafaricraft": 4,
     "NathanRayyan": 6,
     "moks2009": 3,
-    "Nnafily": 1
+    "Nnafily": 1,
+    "_PIGY_": 1
   },
   "kitStats": {
     "pvp": 185,
     "raid": 31,
     "survival": 107,
-    "shulker": 216,
+    "shulker": 217,
     "music": 16,
     "terracotta": 11,
     "lightsources": 17,
