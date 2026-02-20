@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:44:16 20/2/2026",
-  "totalKits": 100747,
-  "todayKits": 127,
+  "lastUpdated": "22:44:41 20/2/2026",
+  "totalKits": 100748,
+  "todayKits": 128,
   "onlineCount": 31,
   "peakPlayers": 40,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "22:23:16 20/2/2026",
     "avg": 25
   },
-  "tps": "8.0",
-  "ping": 214,
+  "tps": "10.0",
+  "ping": 285,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 112
+      "count": 113
     },
     {
       "name": "elytra",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:42] To bistlle: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:42] [8b8t] >> ▲ Player BigBear Joined.",
-    "[15:42] To bistlle: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:42] [8b8t] >> ▲ Player cubebuilder_ Joined.",
-    "[15:42] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[15:42] [8b8t] >> ▼ Player cubebuilder_ Left.",
-    "[15:42] bistlle forgot to bring their parachute",
-    "[15:42] [BOT] <HienBot> >Try !dupe",
-    "[15:42] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[15:42] <bistlle> !shulker",
     "[15:42] [8b8t] >> Teleporting to home 0...",
     "[15:42] [8b8t] >> Teleporting to home 6...",
     "[15:42] To bistlle: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +98,17 @@
     "[15:43] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[15:43] EmpanadaFrita encountered a Creeper and got blown sky-high",
     "[15:44] [8b8t] >> ▼ Player EmpanadaFrita Left.",
-    "[15:44] [BOT] <HienBot> >Bot created by Hien2309."
+    "[15:44] [BOT] <HienBot> >Bot created by Hien2309.",
+    "[15:44] <bistlle> !survival",
+    "[15:44] [8b8t] >> Teleporting to home 0...",
+    "[15:44] [8b8t] >> ▼ Player .Noicas_nes_7905 Left.",
+    "[15:44] [8b8t] >> Teleporting to home 1...",
+    "[15:44] To bistlle: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:44] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[15:44] To bistlle: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:44] [8b8t] >> Request sent to bistlle",
+    "[15:44] [8b8t] >> Teleporting...",
+    "[15:44] [BOT] <HienBot> >Get fully equipped with !pvp"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -675,12 +675,12 @@
     "angelitaaa__": 2,
     "ultraISO69": 1,
     "PrnvDevilXD": 1,
-    "bistlle": 7
+    "bistlle": 8
   },
   "kitStats": {
     "pvp": 191,
     "raid": 31,
-    "survival": 112,
+    "survival": 113,
     "shulker": 251,
     "music": 21,
     "terracotta": 12,
