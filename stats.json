@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:56:46 20/2/2026",
-  "totalKits": 100601,
-  "todayKits": 14,
+  "lastUpdated": "12:57:01 20/2/2026",
+  "totalKits": 100602,
+  "todayKits": 15,
   "onlineCount": 27,
   "peakPlayers": 33,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "14.0",
+  "tps": "10.0",
   "ping": 193,
   "topUsers": [
     {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:54] [Mini] <hein> !list",
-    "[05:54] To Hien2309: Hello Hien2309!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:54] <.SatanWY> !pvp",
-    "[05:54] To .SatanWY: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[05:54] [8b8t] >> You have killed yourself!",
-    "[05:55] [8b8t] >> ▼ Player KhoaVN2111 Left.",
-    "[05:55] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[05:55] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[05:55] [8b8t] >> ▼ Player .CycloidQwQ Left.",
     "[05:55] [8b8t] >> Use the command /login <password>.",
     "[05:55] [8b8t] >> You have successfully logged.",
@@ -108,7 +100,15 @@
     "[05:56] [BOT] <HienBot> >Hi AetherionV26!",
     "[05:56] <DeadlyNyxian> !list",
     "[05:56] To DeadlyNyxian: Hello DeadlyNyxian!! Use !(Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:56] [8b8t] >> ▲ Player .Andr3ss7914 Joined."
+    "[05:56] [8b8t] >> ▲ Player .Andr3ss7914 Joined.",
+    "[05:56] <DeadlyNyxian> !tools",
+    "[05:56] [8b8t] >> Teleporting to home 0...",
+    "[05:56] [8b8t] >> Teleporting to home 7...",
+    "[05:56] To DeadlyNyxian: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:56] To DeadlyNyxian: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:56] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[05:56] [8b8t] >> Request sent to DeadlyNyxian",
+    "[05:56] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 52,
@@ -402,7 +402,7 @@
     "__Solarflare": 18,
     "0xPwnd": 1,
     "FireSpring94864": 1,
-    "DeadlyNyxian": 16,
+    "DeadlyNyxian": 17,
     "Khushal_maxx77": 7,
     "vmpy7": 8,
     "Volt695367": 15,
@@ -653,7 +653,7 @@
     "music": 13,
     "terracotta": 9,
     "lightsources": 15,
-    "tools": 16,
+    "tools": 17,
     "armortrims": 21,
     "toolbox": 15,
     "wool": 22,
