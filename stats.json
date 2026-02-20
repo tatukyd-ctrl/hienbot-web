@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:18:46 20/2/2026",
+  "lastUpdated": "21:19:16 20/2/2026",
   "totalKits": 100717,
   "todayKits": 97,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 35,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "21:07:16 20/2/2026",
     "avg": 24
   },
-  "tps": "9.0",
-  "ping": 216,
+  "tps": "15.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 110
+      "count": 111
     },
     {
       "name": "elytra",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:17] [8b8t] >> You have killed yourself!",
-    "[14:17] AetherionV26 thought a Zombie was friendly",
-    "[14:17] [8b8t] >> The TPA request you sent to ahuhu5000 was successfully canceled.",
-    "[14:17] T1Doran decided to test gravity and lost",
-    "[14:17] [BOT] <HienBot> >Use !info <player> to check someone's stats",
-    "[14:17] _Marlowww_ got the wither disease",
-    "[14:17] [8b8t] >> ▲ Player coldbyte Joined.",
-    "[14:17] Swight12255 took a Piglin to the overworld and was murdered by their new, not so friendly pet",
-    "[14:17] [8b8t] >> ▼ Player policemike55_fan Left.",
-    "[14:18] [8b8t] >> ▲ Player _TATl_ Joined.",
-    "[14:18] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[14:18] <T1Doran> !gear",
-    "[14:18] [8b8t] >> Teleporting to home 0...",
     "[14:18] [8b8t] >> Teleporting to home 2...",
     "[14:18] To T1Doran: Kit \"gear\" not found! Giving you (stash) instead! dsc.gg/hienbot",
     "[14:18] To T1Doran: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +95,20 @@
     "[14:18] [8b8t] >> You have killed yourself!",
     "[14:18] To T1Doran: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[14:18] To T1Doran: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[14:18] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls"
+    "[14:18] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
+    "[14:18] [8b8t] >> ▼ Player Swight12255 Left.",
+    "[14:18] T1Doran tried to outswim the water",
+    "[14:18] [8b8t] >> ▲ Player FireDemon_X Joined.",
+    "[14:19] [8b8t] >> ▼ Player hamza579 Left.",
+    "[14:19] <FireDemon_X> !starter",
+    "[14:19] [8b8t] >> Teleporting to home 0...",
+    "[14:19] [8b8t] >> Teleporting to home 1...",
+    "[14:19] To FireDemon_X: Your kit (starter) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:19] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[14:19] <ahuhu5000> !gear",
+    "[14:19] To ahuhu5000: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[14:19] To FireDemon_X: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:19] [8b8t] >> Request sent to FireDemon_X"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -655,7 +655,7 @@
     "MIHAI_128": 2,
     "thegamerocker": 8,
     "Ujda_Chaman": 1,
-    "FireDemon_X": 6,
+    "FireDemon_X": 7,
     "T1Doran": 7,
     "rastafaricraft": 4,
     "NathanRayyan": 7,
@@ -673,7 +673,7 @@
   "kitStats": {
     "pvp": 186,
     "raid": 31,
-    "survival": 110,
+    "survival": 111,
     "shulker": 229,
     "music": 16,
     "terracotta": 11,
