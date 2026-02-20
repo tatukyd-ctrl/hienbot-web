@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:53:17 20/2/2026",
+  "lastUpdated": "14:53:47 20/2/2026",
   "totalKits": 100614,
   "todayKits": 2,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 23,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 25
   },
-  "tps": "11.0",
+  "tps": "14.0",
   "ping": 197,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 205
+      "count": 206
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:50] To .iman_jefri: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:50] [8b8t] >> Request sent to .iman_jefri",
-    "[07:50] roger_leighton has reached the goal [The Next Generation]",
-    "[07:51] [8b8t] >> ▼ Player nuklear1 Left.",
-    "[07:51] <EpsteinxKirk420> can i tpa to anyone",
-    "[07:51] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[07:51] <EpsteinxKirk420> please",
-    "[07:51] <.iman_jefri> I need teammate",
-    "[07:51] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[07:51] [8b8t] >> You have killed yourself!",
-    "[07:51] [8b8t] >> The TPA request you sent to .iman_jefri was successfully canceled.",
-    "[07:51] [BOT] <HienBot> >Items for PVP and Building available in !build",
     "[07:51] <EpsteinxKirk420> !build",
     "[07:51] [8b8t] >> Teleporting to home 0...",
     "[07:51] [8b8t] >> Teleporting to home 2...",
@@ -108,7 +96,19 @@
     "[07:52] .iman_jefri couldn't breathe while inside of a block",
     "[07:52] [8b8t] >> ▼ Player EpsteinxKirk420 Left.",
     "[07:52] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[07:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[07:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[07:53] <.iman_jefri> !shulker",
+    "[07:53] [8b8t] >> Teleporting to home 0...",
+    "[07:53] [8b8t] >> Teleporting to home 6...",
+    "[07:53] To .iman_jefri: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:53] [BOT] <HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
+    "[07:53] To .iman_jefri: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:53] [8b8t] >> ▲ Player Davgezatu Joined.",
+    "[07:53] ThaiSon2015 has made the advancement [Getting an Upgrade]",
+    "[07:53] <.iman_jefri> !gear",
+    "[07:53] [8b8t] >> Teleporting to home 0...",
+    "[07:53] [8b8t] >> Teleporting to home 2...",
+    "[07:53] To .iman_jefri: Kit \"gear\" not found! Giving you (build) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 52,
@@ -647,14 +647,14 @@
     "0000000000000X": 2,
     "AnvayRaut": 1,
     "katieyah": 1,
-    ".iman_jefri": 1,
+    ".iman_jefri": 3,
     "EpsteinxKirk420": 1
   },
   "kitStats": {
     "pvp": 172,
     "raid": 26,
     "survival": 88,
-    "shulker": 205,
+    "shulker": 206,
     "music": 14,
     "terracotta": 10,
     "lightsources": 15,
@@ -665,7 +665,7 @@
     "exp": 20,
     "stash": 47,
     "ocean": 22,
-    "build": 36,
+    "build": 37,
     "dye": 16,
     "concrete": 16,
     "dupe": 21,
