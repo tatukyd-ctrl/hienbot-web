@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:28:47 21/2/2026",
-  "totalKits": 100835,
-  "todayKits": 215,
-  "onlineCount": 37,
+  "lastUpdated": "00:29:04 21/2/2026",
+  "totalKits": 100836,
+  "todayKits": 216,
+  "onlineCount": 38,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "23:49:17 20/2/2026",
     "avg": 27
   },
-  "tps": "8.0",
-  "ping": 221,
+  "tps": "7.0",
+  "ping": 240,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,24 +75,10 @@
     },
     {
       "name": "stash",
-      "count": 54
+      "count": 55
     }
   ],
   "chatLog": [
-    "[17:28] <scuardd> !buil",
-    "[17:28] [8b8t] >> Teleporting to home 0...",
-    "[17:28] [8b8t] >> Teleporting to home 4...",
-    "[17:28] To scuardd: ¡Kit \"buil\" no encontrado! ¡Dándote (glass) en su lugar! dsc.gg/hienbot",
-    "[17:28] <scuardd> !build",
-    "[17:28] To scuardd: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
-    "[17:28] [8b8t] >> Successfully ignored player scuardd",
-    "[17:28] You cannot message a player that you have ignored",
-    "[17:28] [8b8t] >> Request sent to scuardd",
-    "[17:28] <EzielChicago> !build",
-    "[17:28] To EzielChicago: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
-    "[17:28] [8b8t] >> Teleporting...",
-    "[17:28] [8b8t] >> You have killed yourself!",
-    "[17:28] [8b8t] >> You are already ignoring that player",
     "[17:28] <_Marlowww_> marlow 1v1?",
     "[17:28] You cannot message a player that you have ignored",
     "[17:28] <Lxryz_> !shulker",
@@ -108,7 +94,21 @@
     "[17:28] [8b8t] >> Teleporting...",
     "[17:28] AgentRevange has reached the goal [The Next Generation]",
     "[17:28] <Sto_CT119> !elytra",
-    "[17:28] To Sto_CT119: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot"
+    "[17:28] To Sto_CT119: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[17:28] [8b8t] >> You have killed yourself!",
+    "[17:28] [8b8t] >> You are already ignoring that player",
+    "[17:28] <Sto_CT119> !elytras",
+    "[17:28] [8b8t] >> Teleporting to home 0...",
+    "[17:28] [8b8t] >> Teleporting to home 2...",
+    "[17:28] To Sto_CT119: Kit \"elytras\" not found! Giving you (stash) instead! dsc.gg/hienbot",
+    "[17:28] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[17:28] [8b8t] >> scuardd would like to teleport to you /tpayes USERNAME /tpano USERNAME",
+    "[17:28] To Sto_CT119: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:28] <Yayo42> !b goto 10000 10000",
+    "[17:28] [8b8t] >> Request sent to Sto_CT119",
+    "[17:28] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[17:28] [8b8t] >> Teleporting...",
+    "[17:28] [8b8t] >> You are already ignoring that player"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -680,7 +680,7 @@
     ".DrCheesecake967": 12,
     "muhammad11555": 3,
     "Lxryz_": 10,
-    "Sto_CT119": 1,
+    "Sto_CT119": 2,
     "A6b34k": 5
   },
   "kitStats": {
@@ -696,7 +696,7 @@
     "toolbox": 24,
     "wool": 30,
     "exp": 28,
-    "stash": 54,
+    "stash": 55,
     "ocean": 28,
     "build": 50,
     "dye": 18,
