@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:51:47 20/2/2026",
-  "totalKits": 100613,
-  "todayKits": 1,
+  "lastUpdated": "14:52:14 20/2/2026",
+  "totalKits": 100614,
+  "todayKits": 2,
   "onlineCount": 21,
   "peakPlayers": 23,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 25
   },
-  "tps": "15.0",
-  "ping": 196,
+  "tps": "12.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:49] Davgezatu forgot to bring their parachute",
-    "[07:49] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[07:49] [8b8t] >> ▼ Player iamsuckkkk Left.",
-    "[07:49] ThaiSon2015 has made the advancement [Stone Age]",
-    "[07:49] [8b8t] >> ▲ Player kirdish4392 Joined.",
-    "[07:49] [8b8t] >> ▲ Player iamsuckkkk Joined.",
-    "[07:49] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[07:49] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[07:49] <Davgezatu> why dont hacks work",
     "[07:50] [8b8t] >> ▼ Player Davgezatu Left.",
     "[07:50] [BOT] <HienBot> >Want free items? Just type !survival",
@@ -108,7 +100,15 @@
     "[07:51] <.iman_jefri> I need teammate",
     "[07:51] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[07:51] [8b8t] >> You have killed yourself!",
-    "[07:51] [8b8t] >> The TPA request you sent to .iman_jefri was successfully canceled."
+    "[07:51] [8b8t] >> The TPA request you sent to .iman_jefri was successfully canceled.",
+    "[07:51] [BOT] <HienBot> >Items for PVP and Building available in !build",
+    "[07:51] <EpsteinxKirk420> !build",
+    "[07:51] [8b8t] >> Teleporting to home 0...",
+    "[07:51] [8b8t] >> Teleporting to home 2...",
+    "[07:51] To EpsteinxKirk420: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:52] To EpsteinxKirk420: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:52] [8b8t] >> Request sent to EpsteinxKirk420",
+    "[07:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 52,
@@ -647,7 +647,8 @@
     "0000000000000X": 2,
     "AnvayRaut": 1,
     "katieyah": 1,
-    ".iman_jefri": 1
+    ".iman_jefri": 1,
+    "EpsteinxKirk420": 1
   },
   "kitStats": {
     "pvp": 172,
@@ -664,7 +665,7 @@
     "exp": 20,
     "stash": 47,
     "ocean": 22,
-    "build": 35,
+    "build": 36,
     "dye": 16,
     "concrete": 16,
     "dupe": 21,
