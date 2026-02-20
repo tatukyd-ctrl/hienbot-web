@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:34:16 20/2/2026",
+  "lastUpdated": "17:34:46 20/2/2026",
   "totalKits": 100646,
   "todayKits": 26,
   "onlineCount": 24,
@@ -13,7 +13,7 @@
     "avg": 24
   },
   "tps": "12.0",
-  "ping": 205,
+  "ping": 212,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:30] [BOT] <HienBot> >Use !lang and select your language",
-    "[10:31] [BOT] <HienBot> >Use !info <player> to check someone's stats",
-    "[10:31] <nuklear1> !free pvp",
-    "[10:31] <Herobrai2990> !mineral",
-    "[10:31] [8b8t] >> Teleporting to home 0...",
-    "[10:31] [8b8t] >> Teleporting to home 3...",
-    "[10:31] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[10:31] To Herobrai2990: Your kit (mineral) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:31] [8b8t] >> You are already ignoring that player",
-    "[10:31] To Herobrai2990: Sorry! Blue Shulker Box is out of stock. Giving you Light Blue Shulker Box instead! dsc.gg/hienbot",
     "[10:31] [8b8t] >> Request sent to Herobrai2990",
     "[10:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:32] orepie decided to test gravity and lost",
@@ -108,7 +98,17 @@
     "[10:33] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:33] [8b8t] >> You are already ignoring that player",
     "[10:33] [8b8t] >> You are already ignoring that player",
-    "[10:33] [BOT] <HienBot> >Hi PistonCubeB0T!"
+    "[10:33] [BOT] <HienBot> >Hi PistonCubeB0T!",
+    "[10:34] [BOT] <HienBot> >Want to see your ping? Chat !ping",
+    "[10:34] orepie got a deadly lesson from the Wither",
+    "[10:34] <VOXY_PLAY> free gear for every one tp",
+    "[10:34] VOXY_PLAY has made the advancement [Monster Hunter]",
+    "[10:34] <Ujda_Chaman> !gear",
+    "[10:34] [8b8t] >> Teleporting to home 0...",
+    "[10:34] [8b8t] >> Teleporting to home 7...",
+    "[10:34] To Ujda_Chaman: Kit \"gear\" not found! Giving you (tools) instead! dsc.gg/hienbot",
+    "[10:34] To Ujda_Chaman: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:34] [8b8t] >> Request sent to Ujda_Chaman"
   ],
   "userStats": {
     "Hien2309": 54,
@@ -653,7 +653,8 @@
     "roger_leighton": 2,
     "GOD_WINGS": 1,
     "MIHAI_128": 2,
-    "thegamerocker": 8
+    "thegamerocker": 8,
+    "Ujda_Chaman": 1
   },
   "kitStats": {
     "pvp": 178,
@@ -663,7 +664,7 @@
     "music": 14,
     "terracotta": 11,
     "lightsources": 16,
-    "tools": 18,
+    "tools": 19,
     "armortrims": 22,
     "toolbox": 19,
     "wool": 25,
