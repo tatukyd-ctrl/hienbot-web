@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:50:16 20/2/2026",
+  "lastUpdated": "12:50:46 20/2/2026",
   "totalKits": 100597,
   "todayKits": 10,
-  "onlineCount": 0,
+  "onlineCount": 24,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 27
   },
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "9.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 82
+      "count": 83
     },
     {
       "name": "elytra",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:48] [BOT] <HienBot> >Try !list to see available kits",
-    "[05:48] [8b8t] >> ▲ Player coldbyte Joined.",
-    "[05:48] [8b8t] >> ▲ Player S1llyBean Joined.",
-    "[05:48] NAMELESS6284 has made the advancement [Stone Age]",
-    "[05:48] <.SatanWY> !gear",
-    "[05:48] [8b8t] >> Teleporting to home 0...",
-    "[05:48] [8b8t] >> Teleporting to home 2...",
-    "[05:48] To .SatanWY: Kit \"gear\" not found! Giving you (gap) instead! dsc.gg/hienbot",
-    "[05:48] To .SatanWY: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:48] [8b8t] >> Request sent to .SatanWY",
-    "[05:48] [BOT] <HienBot> >Get fully equipped with !pvp",
-    "[05:49] jamer35 went for a swim in lava and got burned",
-    "[05:49] [8b8t] >> Teleporting...",
-    "[05:49] [8b8t] >> You have killed yourself!",
-    "[05:49] HienBot tried to defuse a Creeper... it didn't work",
-    "[05:49] To .SatanWY: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:49] To .SatanWY: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
-    "[05:49] [BOT] <HienBot> >Need gear? Type !pvp to get started!",
-    "[05:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:49] [Mini] <hein> !survival",
     "[05:49] [8b8t] >> Teleporting to home 0...",
     "[05:49] To Hien2309: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[05:49] NAMELESS6284 has made the advancement [Getting an Upgrade]",
@@ -108,10 +88,30 @@
     "[05:49] [8b8t] >> ▼ Player .CycloidQwQ Left.",
     "[05:49] [8b8t] >> ▼ Player KhoaVN2111 Left.",
     "[05:49] <Pela359> yo",
-    "[05:49] [Mini] <hein> !survival"
+    "[05:49] [Mini] <hein> !survival",
+    "[05:50] [8b8t] >> Use the command /login <password>.",
+    "[05:50] [8b8t] >> You have successfully logged.",
+    "[05:50] ",
+    "[05:50]  [8builders8tools]",
+    "[05:50]  Perform the command /discord add to register",
+    "[05:50]  your discord. By doing so, you",
+    "[05:50]  decrease the chance of being hacked.",
+    "[05:50] ",
+    "[05:50]   [Confirm read]\n",
+    "[05:50] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[05:50] [8b8t] >> ▲ Player HienBot Joined.",
+    "[05:50] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[05:50] [Mini] <hein> !survival",
+    "[05:50] [8b8t] >> Teleporting to home 0...",
+    "[05:50] [8b8t] >> Teleporting to home 1...",
+    "[05:50] To Hien2309: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:50] [8b8t] >> ▲ Player .CycloidQwQ Joined.",
+    "[05:50] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[05:50] To Hien2309: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:50] [8b8t] >> Request sent to Hien2309"
   ],
   "userStats": {
-    "Hien2309": 47,
+    "Hien2309": 48,
     "doyoda1292": 8,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
@@ -648,7 +648,7 @@
   "kitStats": {
     "pvp": 171,
     "raid": 25,
-    "survival": 82,
+    "survival": 83,
     "shulker": 202,
     "music": 13,
     "terracotta": 9,
