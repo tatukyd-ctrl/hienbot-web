@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:36:46 20/2/2026",
+  "lastUpdated": "17:37:16 20/2/2026",
   "totalKits": 100647,
   "todayKits": 27,
   "onlineCount": 24,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "13.0",
+  "tps": "12.0",
   "ping": 203,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 178
+      "count": 179
     },
     {
       "name": "survival",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:34] To Ujda_Chaman: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:34] [8b8t] >> Request sent to Ujda_Chaman",
-    "[10:34] [BOT] <HienBot> >Sub to Hien2309 in youtube",
-    "[10:34] <orepie> !gear",
-    "[10:34] To orepie: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[10:34] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
-    "[10:35] <FireDemon_X> !gear",
-    "[10:35] To FireDemon_X: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[10:35] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[10:35] [8b8t] >> You have killed yourself!",
-    "[10:35] [8b8t] >> The TPA request you sent to Ujda_Chaman was successfully canceled.",
-    "[10:35] [8b8t] >> ▲ Player ThePyromaniac Joined.",
-    "[10:35] [Ultra] <blake> voxy_play is legit",
-    "[10:35] <VOXY_PLAY> yea",
-    "[10:35] [BOT] <HienBot> >Want to see whose ping is the best? Chat !bestping",
-    "[10:36] [8b8t] >> ▼ Player ThePyromaniac Left.",
     "[10:36] [BOT] <HienBot> >Try !stash",
     "[10:36] orepie forgot to bring their parachute",
     "[10:36] <VOXY_PLAY> !stash",
@@ -108,7 +92,23 @@
     "[10:36] [8b8t] >> You have killed yourself!",
     "[10:36] HienBot has been put down by VOXY_PLAY",
     "[10:36] To VOXY_PLAY: Tip: Use !link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:36] To VOXY_PLAY: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat "
+    "[10:36] To VOXY_PLAY: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type !verify CODE in chat ",
+    "[10:36] [BOT] <HienBot> >Try !stash",
+    "[10:36] <FireDemon_X> !gear",
+    "[10:36] [8b8t] >> Teleporting to home 0...",
+    "[10:36] [8b8t] >> Teleporting to home 1...",
+    "[10:36] To FireDemon_X: Kit \"gear\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
+    "[10:36] orepie decided to test gravity and lost",
+    "[10:36] To FireDemon_X: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:36] [8b8t] >> Request sent to FireDemon_X",
+    "[10:36] Ujda_Chaman underestimated the blast radius of a Creeper",
+    "[10:37] [Ultra] <blake> i dont need",
+    "[10:37] <FireDemon_X> gear",
+    "[10:37] [8b8t] >> ▼ Player kimwolf156456 Left.",
+    "[10:37] <VOXY_PLAY> ok tp all poeple here",
+    "[10:37] <FireDemon_X> !gear",
+    "[10:37] To FireDemon_X: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[10:37] [8b8t] >> ▲ Player ThePyromaniac Joined."
   ],
   "userStats": {
     "Hien2309": 54,
@@ -654,10 +654,11 @@
     "GOD_WINGS": 1,
     "MIHAI_128": 2,
     "thegamerocker": 8,
-    "Ujda_Chaman": 1
+    "Ujda_Chaman": 1,
+    "FireDemon_X": 1
   },
   "kitStats": {
-    "pvp": 178,
+    "pvp": 179,
     "raid": 29,
     "survival": 94,
     "shulker": 212,
