@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:00:46 20/2/2026",
+  "lastUpdated": "16:01:16 20/2/2026",
   "totalKits": 100621,
   "todayKits": 1,
   "onlineCount": 23,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 25
   },
-  "tps": "9.0",
-  "ping": 199,
+  "tps": "13.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "shulker",
-      "count": 207
+      "count": 208
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[08:56] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[08:56] [8b8t] >> ▲ Player .Krista_052178 Joined.",
-    "[08:56] [BOT] <HienBot> >Do you want kit? Type *kit",
-    "[08:57] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[08:57] [BOT] <HienBot> >Type !invite for invite rewards info",
-    "[08:57] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[08:57] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
     "[08:57] [8b8t] >> ▼ Player freddison Left.",
     "[08:57] <evaletz> TPA FOR PVP",
@@ -108,7 +101,14 @@
     "[09:00] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
     "[09:00] [8b8t] >> ▼ Player evaletz Left.",
     "[09:00] [8b8t] >> ▲ Player thegamerocker Joined.",
-    "[09:00] thegamerocker got his head blown off by the Wither"
+    "[09:00] thegamerocker got his head blown off by the Wither",
+    "[09:00] [BOT] <HienBot> >Don't have a kit yet? Use !survival to get one for free!",
+    "[09:00] <thegamerocker> hello",
+    "[09:01] <thegamerocker> !shulker",
+    "[09:01] [8b8t] >> Teleporting to home 0...",
+    "[09:01] [8b8t] >> Teleporting to home 6...",
+    "[09:01] To thegamerocker: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:01] To thegamerocker: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 54,
@@ -652,13 +652,14 @@
     "ThaiSon2015": 1,
     "roger_leighton": 2,
     "GOD_WINGS": 1,
-    "MIHAI_128": 2
+    "MIHAI_128": 2,
+    "thegamerocker": 1
   },
   "kitStats": {
     "pvp": 172,
     "raid": 28,
     "survival": 89,
-    "shulker": 207,
+    "shulker": 208,
     "music": 14,
     "terracotta": 10,
     "lightsources": 16,
