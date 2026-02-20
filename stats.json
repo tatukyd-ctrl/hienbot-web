@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:00:46 20/2/2026",
-  "totalKits": 100657,
-  "todayKits": 37,
-  "onlineCount": 25,
+  "lastUpdated": "18:01:16 20/2/2026",
+  "totalKits": 100658,
+  "todayKits": 38,
+  "onlineCount": 26,
   "peakPlayers": 28,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "12.0",
-  "ping": 330,
+  "tps": "11.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 100
+      "count": 101
     },
     {
       "name": "elytra",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:59] [8b8t] >> You are already ignoring that player",
-    "[10:59] Ujda_Chaman got the wither disease",
-    "[10:59] ThePyromaniac has made the advancement [Ice Bucket Challenge]",
-    "[10:59] [BOT] <HienBot> >Survive safely with a free kit! Type !survival",
-    "[10:59] [8b8t] >> You have killed yourself!",
-    "[10:59] [8b8t] >> The TPA request you sent to T1Doran was successfully canceled.",
-    "[11:00] <closepvp> !survival",
-    "[11:00] T1Doran got shot by a skeleton",
-    "[11:00] [8b8t] >> Teleporting to home 0...",
-    "[11:00] [8b8t] >> Teleporting to home 1...",
-    "[11:00] To closepvp: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:00] [8b8t] >> ▼ Player T1Doran Left.",
-    "[11:00] [8b8t] >> ▲ Player ajfrmpt Joined.",
     "[11:00] [8b8t] >> ▼ Player .Eternal2569 Left.",
     "[11:00] [8b8t] >> ▼ Player MrNullYT Left.",
     "[11:00] [8b8t] >> ▼ Player Tobias Left.",
@@ -108,7 +95,20 @@
     "[11:00] [8b8t] >> ▲ Player T1Doran Joined.",
     "[11:00] [8b8t] >> ▲ Player i_am_tobias Joined.",
     "[11:00] [8b8t] >> ▼ Player PistonCubeB0T Left.",
-    "[11:00] <LunaBloom> ayuda me quede atascada en el cielo"
+    "[11:00] <LunaBloom> ayuda me quede atascada en el cielo",
+    "[11:00] <T1Doran> !gear",
+    "[11:00] To T1Doran: You're on cooldown, try again in 9 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:00] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
+    "[11:00] <T1Doran> !starter",
+    "[11:00] [8b8t] >> Teleporting to home 0...",
+    "[11:00] [8b8t] >> Teleporting to home 1...",
+    "[11:00] To T1Doran: Your kit (starter) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:01] To T1Doran: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:01] [8b8t] >> Request sent to T1Doran",
+    "[11:01] [8b8t] >> ▼ Player kimwolf156456 Left.",
+    "[11:01] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
+    "[11:01] [8b8t] >> ▲ Player kimwolf156456 Joined.",
+    "[11:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 55,
@@ -656,12 +656,12 @@
     "thegamerocker": 8,
     "Ujda_Chaman": 1,
     "FireDemon_X": 6,
-    "T1Doran": 2
+    "T1Doran": 3
   },
   "kitStats": {
     "pvp": 180,
     "raid": 29,
-    "survival": 100,
+    "survival": 101,
     "shulker": 212,
     "music": 14,
     "terracotta": 11,
