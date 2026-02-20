@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:22:46 20/2/2026",
+  "lastUpdated": "20:23:16 20/2/2026",
   "totalKits": 100702,
   "todayKits": 82,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 32,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:44:52 20/2/2026",
     "avg": 24
   },
-  "tps": "8.0",
+  "tps": "10.0",
   "ping": 214,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 185
+      "count": 186
     },
     {
       "name": "survival",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:21] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[13:21] [8b8t] >> ▼ Player kimwolf156456 Left.",
-    "[13:21] [8b8t] >> ▲ Player kimwolf156456 Joined.",
-    "[13:21] [8b8t] >> ▲ Player AppleBot Joined.",
-    "[13:22] [8b8t] >> ▼ Player kimwolf156456 Left.",
-    "[13:22] [8b8t] >> ▼ Player CuloGangTobias Left.",
-    "[13:22] [8b8t] >> ▼ Player imnewtopvp354868 Left.",
-    "[13:22] [8b8t] >> ▲ Player kimwolf156456 Joined.",
-    "[13:22] [8b8t] >> ▼ Player Laggerman41 Left.",
-    "[13:22] [8b8t] >> ▼ Player _PIGY_ Left.",
-    "[13:22] [BOT] <HienBot> >Survive safely with a free kit! Type !survival",
-    "[13:22] [8b8t] >> ▼ Player Tobias Left.",
     "[13:22] [8b8t] >> ▼ Player Narimattr_535 Left.",
     "[13:22] <shardah> fap",
     "[13:22] [8b8t] >> ▲ Player Laggerman41 Joined.",
@@ -108,7 +96,19 @@
     "[13:22] [BOT] <HienBot> >Bot created by Hien2309.",
     "[13:22] [8b8t] >> ▲ Player Narimattr_535 Joined.",
     "[13:22] [8b8t] >> ▲ Player ohio_sigma69 Joined.",
-    "[13:22] [8b8t] >> ▼ Player Narimattr_535 Left."
+    "[13:22] [8b8t] >> ▼ Player Narimattr_535 Left.",
+    "[13:22] Ujda_Chaman forgot to bring their parachute",
+    "[13:22] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
+    "[13:23] [8b8t] >> ▲ Player blake56 Joined.",
+    "[13:23] [8b8t] >> ▼ Player kimwolf156456 Left.",
+    "[13:23] [BOT] <HienBot> >Did you know? You can link your Discord with !link for 50% less cooldown!",
+    "[13:23] <Laggerman41> !spear",
+    "[13:23] [8b8t] >> Teleporting to home 0...",
+    "[13:23] [8b8t] >> ▲ Player kimwolf156456 Joined.",
+    "[13:23] [8b8t] >> Teleporting to home 1...",
+    "[13:23] To Laggerman41: Your kit (spear) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:23] To Laggerman41: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:23] [8b8t] >> Request sent to Laggerman41"
   ],
   "userStats": {
     "Hien2309": 55,
@@ -662,11 +662,11 @@
     "moks2009": 4,
     "Nnafily": 1,
     "_PIGY_": 4,
-    "Laggerman41": 10,
+    "Laggerman41": 11,
     "77closebot": 1
   },
   "kitStats": {
-    "pvp": 185,
+    "pvp": 186,
     "raid": 31,
     "survival": 108,
     "shulker": 223,
