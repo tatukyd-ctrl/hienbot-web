@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:46:39 21/2/2026",
+  "lastUpdated": "10:47:09 21/2/2026",
   "totalKits": 100955,
   "todayKits": 0,
-  "onlineCount": 40,
+  "onlineCount": 39,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:17 21/2/2026",
     "avg": 35
   },
-  "tps": "5.0",
-  "ping": 201,
+  "tps": "8.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 145
+      "count": 146
     },
     {
       "name": "elytra",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:45] <Alanxv42> tengo 20k de bloqes",
-    "[03:45] [BOT] <HienBot> **Alanxv42**: tengo 20k de bloqes",
-    "[03:45] EZIEL forgot to bring their parachute",
-    "[03:45] <dragonsej2025> entonces espera",
-    "[03:45] [BOT] <HienBot> **dragonsej2025**: entonces espera",
-    "[03:45] [8b8t] >> ▼ Player T1Doran Left.",
-    "[03:45] EZIEL has reached the goal [Sky's the Limit]",
-    "[03:45] yaugury123 has made the advancement [Monster Hunter]",
-    "[03:45] EzielChicago decided to test gravity and lost",
-    "[03:45] [BOT] <HienBot> >Hello DeathZuka!",
-    "[03:45] <dragonsej2025> ahorita te mando tpahere",
-    "[03:45] [BOT] <HienBot> **dragonsej2025**: ahorita te mando tpahere",
-    "[03:45] NathanRayyan has made the advancement [Spooky Scary Skeleton]",
-    "[03:45] <Alanxv42> ok",
-    "[03:45] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
-    "[03:45] [BOT] <HienBot> **Alanxv42**: ok",
     "[03:45] EZIEL thought they could fly... they couldn't",
     "[03:45] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[03:45] <.Redjul543> can someone help me get out of spawn",
@@ -108,7 +92,23 @@
     "[03:46] To Ryomen_play: Your ping is: 272 ms Don't forget to join dsc.gg/hienbot",
     "[03:46] [BOT] <HienBot> **Ryomen_play**: ping",
     "[03:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:46] [8b8t] >> ▲ Player roger_leighton Joined."
+    "[03:46] [8b8t] >> ▲ Player roger_leighton Joined.",
+    "[03:46] <dragonsej2025> pto internet",
+    "[03:46] [BOT] <HienBot> **dragonsej2025**: pto internet",
+    "[03:46] [8b8t] >> ▼ Player bugbar Left.",
+    "[03:46] yaugury123 forgot to bring their parachute",
+    "[03:46] [BOT] <HienBot> >Running low on supplies? Use 'survival'",
+    "[03:46] [8b8t] >> Join the official matrix chat at https://matrix.8b8t.me",
+    "[03:46] <Ryomen_play> survival",
+    "[03:46] [8b8t] >> Teleporting to home 0...",
+    "[03:46] [8b8t] >> Teleporting to home 1...",
+    "[03:46] [BOT] <HienBot> **Ryomen_play**: survival",
+    "[03:46] To Ryomen_play: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:47] To Ryomen_play: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:47] [BOT] <HienBot> **Bot to Ryomen_play**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:47] [8b8t] >> Request sent to Ryomen_play"
   ],
   "userStats": {
     "Hien2309": 56,
@@ -690,12 +690,13 @@
     "whyambxs": 5,
     "MaxFK166": 2,
     "Voided": 1,
-    "EZIEL": 1
+    "EZIEL": 1,
+    "Ryomen_play": 1
   },
   "kitStats": {
     "pvp": 226,
     "raid": 52,
-    "survival": 145,
+    "survival": 146,
     "shulker": 276,
     "music": 26,
     "terracotta": 14,
