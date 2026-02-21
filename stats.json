@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:29:37 21/2/2026",
+  "lastUpdated": "17:30:07 21/2/2026",
   "totalKits": 100996,
   "todayKits": 30,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 38,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:17 21/2/2026",
     "avg": 30
   },
-  "tps": "14.0",
-  "ping": 225,
+  "tps": "9.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 158
+      "count": 159
     },
     {
       "name": "elytra",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:27] [8b8t] >> You arent ignoring adri989",
-    "[10:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[10:27] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[10:27] [8b8t] >> You arent ignoring IamNuke_",
-    "[10:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, .unknownguy59093",
-    "[10:27] [8b8t] >> You arent ignoring DavidN3000",
-    "[10:27] [8b8t] >> You arent ignoring .unknownguy59093",
-    "[10:27] [8b8t] >> You arent ignoring adri989",
-    "[10:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[10:27] [8b8t] >> ▼ Player comit1234567890 Left.",
-    "[10:27] [8b8t] >> You arent ignoring IamNuke_",
-    "[10:27] [8b8t] >> You arent ignoring DavidN3000",
-    "[10:27] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[10:27] [8b8t] >> ▲ Player comit1234567890 Joined.",
     "[10:27] [8b8t] >> ▼ Player comit1234567890 Left.",
     "[10:28] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[10:28] [8b8t] >> ▼ Player MrNullYT Left.",
@@ -108,7 +94,21 @@
     "[10:29] [BOT] <HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
     "[10:29] [8b8t] >> ▼ Player freddison Left.",
     "[10:29] [8b8t] >> ▲ Player tysonsxz Joined.",
-    "[10:29] io_client's mom said we have food at home"
+    "[10:29] io_client's mom said we have food at home",
+    "[10:29] [BOT] <HienBot> >Want free items? Just type 'survival'",
+    "[10:29] [8b8t] >> ▲ Player freddison Joined.",
+    "[10:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[10:29] <Felix961> survival",
+    "[10:29] [BOT] <HienBot> **Felix961**: survival",
+    "[10:29] [8b8t] >> Teleporting to home 0...",
+    "[10:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:29] [8b8t] >> Teleporting to home 1...",
+    "[10:29] To Felix961: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:29] [BOT] <HienBot> **Bot to Felix961**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:29] To Felix961: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:30] [BOT] <HienBot> **Bot to Felix961**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:30] [8b8t] >> Request sent to Felix961",
+    "[10:30] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
   ],
   "userStats": {
     "Hien2309": 63,
@@ -699,12 +699,13 @@
     "CarlosNunezMX": 1,
     "DrDonut12": 1,
     "senpaispider415": 1,
-    "mrflimflam": 6
+    "mrflimflam": 6,
+    "Felix961": 1
   },
   "kitStats": {
     "pvp": 230,
     "raid": 52,
-    "survival": 158,
+    "survival": 159,
     "shulker": 276,
     "music": 31,
     "terracotta": 14,
