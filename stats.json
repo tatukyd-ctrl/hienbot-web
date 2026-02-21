@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:05:08 22/2/2026",
-  "totalKits": 101111,
-  "todayKits": 145,
-  "onlineCount": 37,
+  "lastUpdated": "02:05:23 22/2/2026",
+  "totalKits": 101112,
+  "todayKits": 146,
+  "onlineCount": 36,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "01:10:22 22/2/2026",
     "avg": 35
   },
-  "tps": "7.0",
+  "tps": "9.0",
   "ping": 0,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:04] To 77closebot: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:04] You were kicked from 8b8t: Kicked for spamming",
-    "[19:04] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[19:04] <HienBot> 📦 77closebot requested wool kit.",
-    "[19:04] <HienBot> **Bot to 77closebot**: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:04] [8b8t] Unknown command do /help",
-    "[19:04] [8b8t] Unknown command do /help",
-    "[19:04] [8b8t] Unknown command do /help",
-    "[19:04] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[19:04] [8b8t] >> ▲ Player HienBot Joined.",
-    "[19:04] To 77closebot: Try again dsc.gg/hienbot",
-    "[19:04] [BOT] <HienBot> **Bot to 77closebot**: Try again dsc.gg/hienbot",
     "[19:05] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, .unknownguy59093",
     "[19:05] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, .unknownguy59093",
     "[19:05] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, .unknownguy59093",
@@ -108,7 +96,19 @@
     "[19:05] [8b8t] >> You arent ignoring adri989",
     "[19:05] [8b8t] >> Please include a player /ignore <playerName>",
     "[19:05] [BOT] <HienBot> >Items for PVP and Building available in 'build'",
-    "[19:05] [8b8t] >> You arent ignoring IamNuke_"
+    "[19:05] [8b8t] >> You arent ignoring IamNuke_",
+    "[19:05] <77closebot> wool",
+    "[19:05] [8b8t] >> Teleporting to home 0...",
+    "[19:05] [8b8t] >> Teleporting to home 3...",
+    "[19:05] [BOT] <HienBot> **77closebot**: wool",
+    "[19:05] To 77closebot: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:05] To 77closebot: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:05] [BOT] <HienBot> **Bot to 77closebot**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:05] [8b8t] >> Request sent to 77closebot",
+    "[19:05] [8b8t] >> Teleporting...",
+    "[19:05] [8b8t] >> ▼ Player shardah Left."
   ],
   "userStats": {
     "Hien2309": 67,
@@ -663,7 +663,7 @@
     "Nnafily": 6,
     "_PIGY_": 5,
     "Laggerman41": 13,
-    "77closebot": 9,
+    "77closebot": 10,
     "policemike55_fan": 2,
     ".saad2001gamer21": 4,
     "ahmetbaba3131": 2,
@@ -734,7 +734,7 @@
     "tools": 64,
     "armortrims": 25,
     "toolbox": 31,
-    "wool": 36,
+    "wool": 37,
     "exp": 37,
     "stash": 73,
     "ocean": 29,
