@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:03:07 21/2/2026",
+  "lastUpdated": "17:03:37 21/2/2026",
   "totalKits": 100988,
   "todayKits": 22,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 38,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:17 21/2/2026",
     "avg": 30
   },
-  "tps": "12.0",
-  "ping": 233,
+  "tps": "10.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:02] [8b8t] >> Teleporting to home 0...",
-    "[10:02] [8b8t] >> Teleporting to home 1...",
-    "[10:02] [BOT] <HienBot> **mrflimflam**: pvp",
-    "[10:02] To mrflimflam: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:02] agresywny123 has made the advancement [A Throwaway Joke]",
-    "[10:02] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[10:02] To mrflimflam: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:02] [8b8t] >> Request sent to mrflimflam",
     "[10:02] [8b8t] >> Teleporting...",
@@ -108,7 +99,16 @@
     "[10:02] [8b8t] >> You arent ignoring IamNuke_",
     "[10:02] [8b8t] >> You arent ignoring DavidN3000",
     "[10:02] [8b8t] >> You arent ignoring .unknownguy59093",
-    "[10:02] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command"
+    "[10:02] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[10:03] [8b8t] >> ▼ Player Narimattr_535 Left.",
+    "[10:03] [BOT] <HienBot> >Try 'dupe'",
+    "[10:03] <agresywny123> dupe",
+    "[10:03] [8b8t] >> Teleporting to home 0...",
+    "[10:03] [8b8t] >> Teleporting to home 7...",
+    "[10:03] [BOT] <HienBot> **agresywny123**: dupe",
+    "[10:03] To agresywny123: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:03] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 63,
@@ -497,7 +497,7 @@
     "IamNuke_": 2,
     "TheAstronautP1": 1,
     "penelopecruz": 23,
-    "agresywny123": 2,
+    "agresywny123": 3,
     "BekkerDominikPC2": 2,
     "zyromite5": 3,
     "S_ErickGaMer1903": 7,
@@ -719,7 +719,7 @@
     "build": 61,
     "dye": 18,
     "concrete": 24,
-    "dupe": 54,
+    "dupe": 55,
     "food": 25,
     "glass": 23,
     "elytra": 75,
