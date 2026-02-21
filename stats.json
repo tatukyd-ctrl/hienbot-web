@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:35:07 21/2/2026",
+  "lastUpdated": "17:35:37 21/2/2026",
   "totalKits": 100996,
   "todayKits": 30,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 38,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:08:17 21/2/2026",
     "avg": 30
   },
-  "tps": "11.0",
-  "ping": 202,
+  "tps": "10.0",
+  "ping": 675,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 230
+      "count": 231
     },
     {
       "name": "survival",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:31] [8b8t] >> ▼ Player .morokosan5660 Left.",
-    "[10:33] [8b8t] >> Use the command /login <password>.",
-    "[10:33] [8b8t] >> You have successfully logged.",
-    "[10:33] [8b8t] Unknown command do /help",
-    "[10:33] ",
-    "[10:33]  [8builders8tools]",
     "[10:33]  Perform the command /discord add to register",
     "[10:33]  your discord. By doing so, you",
     "[10:33]  decrease the chance of being hacked.",
@@ -108,7 +102,13 @@
     "[10:34] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
     "[10:34] [8b8t] >> ▼ Player SarpZeren Left.",
     "[10:34] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[10:34] [8b8t] >> ▲ Player 123erqw Joined."
+    "[10:34] [8b8t] >> ▲ Player 123erqw Joined.",
+    "[10:35] <123erqw> hi",
+    "[10:35] [BOT] <HienBot> **123erqw**: hi",
+    "[10:35] Lil1um thought they could fly... they couldn't",
+    "[10:35] <nuklear1> hi",
+    "[10:35] <Felix961> pvp",
+    "[10:35] [8b8t] >> ▼ Player .morokosan5660 Left."
   ],
   "userStats": {
     "Hien2309": 63,
@@ -700,10 +700,10 @@
     "DrDonut12": 1,
     "senpaispider415": 1,
     "mrflimflam": 6,
-    "Felix961": 1
+    "Felix961": 2
   },
   "kitStats": {
-    "pvp": 230,
+    "pvp": 231,
     "raid": 52,
     "survival": 159,
     "shulker": 276,
