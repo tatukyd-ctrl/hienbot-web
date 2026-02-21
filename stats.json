@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:16:07 21/2/2026",
+  "lastUpdated": "12:16:37 21/2/2026",
   "totalKits": 100966,
   "todayKits": 0,
-  "onlineCount": 34,
-  "peakPlayers": 34,
+  "onlineCount": 35,
+  "peakPlayers": 35,
   "playerStats": {
     "min": 0,
     "minTime": "09:19:18 21/2/2026",
@@ -12,8 +12,8 @@
     "maxTime": "07:08:17 21/2/2026",
     "avg": 35
   },
-  "tps": "12.0",
-  "ping": 208,
+  "tps": "11.0",
+  "ping": 199,
   "topUsers": [
     {
       "name": "waximo",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Hien2309",
-      "count": 57
+      "count": 58
     },
     {
       "name": "bwya09876",
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 151
+      "count": 152
     },
     {
       "name": "elytra",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:15]  [8builders8tools]",
-    "[05:15]  Perform the command /discord add to register",
-    "[05:15]  your discord. By doing so, you",
-    "[05:15]  decrease the chance of being hacked.",
-    "[05:15] ",
-    "[05:15]   [Confirm read]\n",
-    "[05:15] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[05:15] [8b8t] >> ▲ Player HienBot Joined.",
-    "[05:15] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, .unknownguy59093",
-    "[05:15] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[05:15] [8b8t] >> You arent ignoring adri989",
     "[05:15] [8b8t] >> Please include a player /ignore <playerName>",
     "[05:15] [8b8t] >> Join the official announcement discord server at https://discord.8b8t.me",
@@ -108,10 +98,20 @@
     "[05:15] [BOT] <HienBot> **jamer35**: k",
     "[05:16] [8b8t] >> ▲ Player dghc243 Joined.",
     "[05:16] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[05:16] <jamer35> do u have a seprete totem shulker?"
+    "[05:16] <jamer35> do u have a seprete totem shulker?",
+    "[05:16] [BOT] <HienBot> **jamer35**: do u have a seprete totem shulker?",
+    "[05:16] [BOT] <HienBot> >Use /lobby to return to the lobby!",
+    "[05:16] [8b8t] >> ▲ Player SariaCraft08 Joined.",
+    "[05:16] [8b8t] >> ▼ Player santiahre Left.",
+    "[05:16] [8b8t] >> ▲ Player santiahre Joined.",
+    "[05:16] [Mini] <hein> survival",
+    "[05:16] [8b8t] >> Teleporting to home 0...",
+    "[05:16] [BOT] <HienBot> **Hien2309**: survival",
+    "[05:16] [8b8t] >> Teleporting to home 1...",
+    "[05:16] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
-    "Hien2309": 57,
+    "Hien2309": 58,
     "doyoda1292": 8,
     ".monolithpm": 1,
     "ItsMeMario_XD": 6,
@@ -697,7 +697,7 @@
   "kitStats": {
     "pvp": 227,
     "raid": 52,
-    "survival": 151,
+    "survival": 152,
     "shulker": 276,
     "music": 26,
     "terracotta": 14,
