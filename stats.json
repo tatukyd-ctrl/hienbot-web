@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:17:56 22/2/2026",
+  "lastUpdated": "20:18:00 22/2/2026",
   "totalKits": 101437,
   "todayKits": 188,
   "onlineCount": 27,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 312
+      "count": 313
     },
     {
       "name": "shulker",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:17] <wdawsdsawdsawd> tps",
-    "[13:17] [BOT] <HienBot> **wdawsdsawdsawd**: tps",
-    "[13:17] To wdawsdsawdsawd: Current TPS: 13.00 Don't forget to join dsc.gg/hienbot",
-    "[13:17] [8b8t] >> ▲ Player Dusted_Angel Joined.",
-    "[13:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:17] <multiverxux> gyere csináljunk egy baset",
-    "[13:17] [BOT] <HienBot> **multiverxux**: gyere csinljunk egy baset",
-    "[13:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:17] <Saad2001> stash",
     "[13:17] [8b8t] >> ▼ Player Dusted_Angel Left.",
     "[13:17] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +100,15 @@
     "[13:17] To wdawsdsawdsawd: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[13:17] [8b8t] >> Please do not spam.",
     "[13:17] [8b8t] >> x_nocreado_z would like to teleport to you /tpayes USERNAME /tpano USERNAME",
-    "[13:17] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[13:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:17] <wdawsdsawdsawd> pvp",
+    "[13:17] [8b8t] >> You have killed yourself!",
+    "[13:17] [8b8t] >> You have killed yourself!",
+    "[13:17] HienBot was pwned by Saad2001 wielding [their hand]",
+    "[13:17] [8b8t] >> Please do not spam.",
+    "[13:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:17] To wdawsdsawdsawd: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:18] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -758,10 +758,11 @@
     ".Synthetic_AN": 1,
     "new_guy_pro": 4,
     "mizumi_chane": 13,
-    "ResinMC": 22
+    "ResinMC": 22,
+    "wdawsdsawdsawd": 1
   },
   "kitStats": {
-    "pvp": 312,
+    "pvp": 313,
     "raid": 65,
     "survival": 271,
     "shulker": 286,
