@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:44:30 22/2/2026",
+  "lastUpdated": "14:45:00 22/2/2026",
   "totalKits": 101331,
   "todayKits": 82,
-  "onlineCount": 20,
+  "onlineCount": 22,
   "peakPlayers": 52,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "10:20:29 22/2/2026",
     "avg": 36
   },
-  "tps": "15.0",
+  "tps": "13.0",
   "ping": 207,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "build",
-      "count": 95
+      "count": 96
     },
     {
       "name": "dupe",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:42] [8b8t] >> Request sent to resin",
-    "[07:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:42] [8b8t] >> Teleporting...",
-    "[07:42] <Volt695367> yaha kuch nahi ahi",
-    "[07:42] <.morokosan5660> やんな",
-    "[07:42] [BOT] <HienBot> **Volt695367**: yaha kuch nahi ahi",
-    "[07:42] <muhammad11555> ok",
-    "[07:42] [8b8t] >> You have killed yourself!",
-    "[07:42] HienBot forgot to stop, drop, and roll",
-    "[07:42] [BOT] <HienBot> **muhammad11555**: ok",
-    "[07:42] To resin: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[07:42] [BOT] <HienBot> **Bot to resin**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[07:42] [BOT] <HienBot> >Welcome to 8b8t, .morokosan5660!",
     "[07:42] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
     "[07:42] [8b8t] >> You arent ignoring adri989",
@@ -108,7 +96,19 @@
     "[07:43] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[07:43] lime190n has made the advancement [Who is Cutting Onions?]",
     "[07:44] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[07:44] [BOT] <HienBot> >Use list to see all available kits!"
+    "[07:44] [BOT] <HienBot> >Use list to see all available kits!",
+    "[07:44] [8b8t] >> ▲ Player DPS_Voyager_bot Joined.",
+    "[07:44] [8b8t] >> ▲ Player ykisan Joined.",
+    "[07:44] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
+    "[07:44] resin Whispers: Build",
+    "[07:44] [8b8t] >> Teleporting to home 0...",
+    "[07:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:44] [8b8t] >> Teleporting to home 2...",
+    "[07:44] To resin: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:44] [BOT] <HienBot> 📦 resin requested build kit.",
+    "[07:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:44] To resin: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:44] [BOT] <HienBot> **Bot to resin**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -751,7 +751,7 @@
     "SharpDino": 1,
     "baonam88": 2,
     "yra112": 6,
-    "resin": 23,
+    "resin": 24,
     "Vinhpq1": 4,
     "ItzLeafy69": 1
   },
@@ -770,7 +770,7 @@
     "exp": 40,
     "stash": 91,
     "ocean": 30,
-    "build": 95,
+    "build": 96,
     "dye": 18,
     "concrete": 26,
     "dupe": 94,
