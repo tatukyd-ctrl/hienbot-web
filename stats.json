@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:57:59 22/2/2026",
-  "totalKits": 101279,
-  "todayKits": 30,
-  "onlineCount": 44,
+  "lastUpdated": "10:58:15 22/2/2026",
+  "totalKits": 101280,
+  "todayKits": 31,
+  "onlineCount": 43,
   "peakPlayers": 52,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "10:20:29 22/2/2026",
     "avg": 39
   },
-  "tps": "8.0",
+  "tps": "9.0",
   "ping": 214,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 238
+      "count": 239
     },
     {
       "name": "build",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:57] [8b8t] >> Teleporting to home 0...",
-    "[03:57] [8b8t] >> Teleporting to home 1...",
-    "[03:57] [BOT] <HienBot> **Nagamac**: survival",
-    "[03:57] To Nagamac: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:57] To Nagamac: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:57] [BOT] <HienBot> **Bot to Nagamac**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:57] [8b8t] >> Request sent to Nagamac",
-    "[03:57] [8b8t] >> Teleporting...",
-    "[03:57] [8b8t] >> ▲ Player elproplayerxddd Joined.",
-    "[03:57] [BOT] <HienBot> >Want to see your ping? Chat ping",
-    "[03:57] [8b8t] >> You have killed yourself!",
     "[03:57] To Nagamac: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[03:57] [BOT] <HienBot> **Bot to Nagamac**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[03:57] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
@@ -108,7 +95,20 @@
     "[03:57] [8b8t] >> ▲ Player pywd Joined.",
     "[03:57] Nagamac has completed the challenge [Serious Dedication]",
     "[03:57] Nagamac has made the advancement [Ice Bucket Challenge]",
-    "[03:57] pywd withered away to the 4th dimension"
+    "[03:57] pywd withered away to the 4th dimension",
+    "[03:58] [8b8t] >> ▼ Player dd120314 Left.",
+    "[03:58] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[03:58] <pywd> survival",
+    "[03:58] [BOT] <HienBot> **pywd**: survival",
+    "[03:58] [8b8t] >> Teleporting to home 0...",
+    "[03:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:58] [8b8t] >> Teleporting to home 1...",
+    "[03:58] To pywd: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:58] [BOT] <HienBot> **Bot to pywd**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:58] To pywd: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:58] [BOT] <HienBot> **Bot to pywd**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:58] [8b8t] >> Request sent to pywd",
+    "[03:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 70,
@@ -745,12 +745,13 @@
     ".Hien230931421": 2,
     "RickStar09": 1,
     "garretthessnfl": 2,
-    "Nagamac": 1
+    "Nagamac": 1,
+    "pywd": 1
   },
   "kitStats": {
     "pvp": 289,
     "raid": 57,
-    "survival": 238,
+    "survival": 239,
     "shulker": 285,
     "music": 53,
     "terracotta": 17,
