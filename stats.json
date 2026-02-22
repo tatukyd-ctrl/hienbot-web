@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:19:59 22/2/2026",
+  "lastUpdated": "09:20:29 22/2/2026",
   "totalKits": 101249,
   "todayKits": 0,
-  "onlineCount": 0,
-  "peakPlayers": 0,
+  "onlineCount": 32,
+  "peakPlayers": 32,
   "playerStats": {
     "min": 0,
     "minTime": "09:18:59 22/2/2026",
@@ -12,7 +12,7 @@
     "maxTime": "08:21:10 22/2/2026",
     "avg": 36
   },
-  "tps": "0.0",
+  "tps": "6.0",
   "ping": 0,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 214
+      "count": 215
     },
     {
       "name": "build",
@@ -78,7 +78,33 @@
       "count": 87
     }
   ],
-  "chatLog": [],
+  "chatLog": [
+    "[02:20] [8b8t] >> Use the command /login <password>.",
+    "[02:20] [8b8t] >> You have successfully logged.",
+    "[02:20] [8b8t] Unknown command do /help",
+    "[02:20] <AetherionV26> https://discord.gg/yJcqj4C8dy >Just type $info to know what this bot can do! $gamble, $news, $Report, $leaderboard",
+    "[02:20] <HienBot> **AetherionV26**: https://discord.gg/yJcqj4C8dy >Just type $info to know what this bot can do! $gamble, $news, $Report, $leaderboard",
+    "[02:20] ",
+    "[02:20]  [8builders8tools]",
+    "[02:20]  Perform the command /discord add to register",
+    "[02:20]  your discord. By doing so, you",
+    "[02:20]  decrease the chance of being hacked.",
+    "[02:20] ",
+    "[02:20]   [Confirm read]\n",
+    "[02:20] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[02:20] [8b8t] >> ▲ Player HienBot Joined.",
+    "[02:20] [8b8t] >> Teleporting to home 0...",
+    "[02:20] TheFrankWeeD withered away to the 4th dimension",
+    "[02:20] Epic_TL went for a swim in lava and got burned",
+    "[02:20] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
+    "[02:20] <iamsuckkkk> info hien2309",
+    "[02:20] [8b8t] >> You arent ignoring adri989",
+    "[02:20] [8b8t] >> Please include a player /ignore <playerName>",
+    "[02:20] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
+    "[02:20] [BOT] <HienBot> **iamsuckkkk**: info hien2309",
+    "[02:20] <gorditoburguer> survival",
+    "[02:20] [8b8t] >> Player 'hien2309' has never joined the server!"
+  ],
   "userStats": {
     "Hien2309": 68,
     "doyoda1292": 8,
@@ -708,12 +734,13 @@
     "santiahre0": 2,
     "santi_ahre": 1,
     "casinopiro": 1,
-    "agusjkcs": 2
+    "agusjkcs": 2,
+    "gorditoburguer": 1
   },
   "kitStats": {
     "pvp": 285,
     "raid": 56,
-    "survival": 214,
+    "survival": 215,
     "shulker": 285,
     "music": 53,
     "terracotta": 17,
