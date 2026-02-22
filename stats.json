@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:52:00 22/2/2026",
+  "lastUpdated": "21:52:30 22/2/2026",
   "totalKits": 101449,
   "todayKits": 200,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 52,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "10:20:29 22/2/2026",
     "avg": 31
   },
-  "tps": "13.0",
-  "ping": 759,
+  "tps": "12.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 313
+      "count": 314
     },
     {
       "name": "shulker",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:51] [8b8t] >> ▲ Player DeathZuka Joined.",
-    "[14:51] [8b8t] >> ▼ Player rip_giyuripguy67 Left.",
-    "[14:51] [8b8t] >> ▼ Player mizumi_chane Left.",
-    "[14:51] [8b8t] >> Teleporting...",
-    "[14:51] <Theodorkomma> tp to flintyTuna",
-    "[14:51] [BOT] <HienBot> **Theodorkomma**: tp to flintyTuna",
-    "[14:51] <peacebringer12> lets take a group phogo",
-    "[14:51] <MinephaMC_YT_ALT> tf",
-    "[14:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:51] <MinephaMC_YT_ALT> oh alr",
-    "[14:51] [Ultra] <blake> dont ask minepba",
-    "[14:51] <peacebringer12> look at here",
-    "[14:51] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[14:51] [BOT] <HienBot> **MinephaMC_YT_ALT**: oh alr",
-    "[14:51] [8b8t] >> You have killed yourself!",
-    "[14:51] HienBot was slain by Br33zyq using [their hand]",
-    "[14:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:51] Br33zyq has completed the challenge [Cover Me in Debris]",
@@ -108,7 +90,25 @@
     "[14:51] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
     "[14:51] [BOT] <HienBot> **peacebringer12**: great",
     "[14:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:51] [8b8t] >> ▲ Player iTrisstan Joined."
+    "[14:51] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[14:52] [8b8t] >> You arent ignoring adri989",
+    "[14:52] [8b8t] >> You arent ignoring IamNuke_",
+    "[14:52] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[14:52] [8b8t] >> You arent ignoring DavidN3000",
+    "[14:52] [8b8t] >> You arent ignoring lvashl",
+    "[14:52] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[14:52] <MinephaMC_YT_ALT> peace",
+    "[14:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:52] [8b8t] >> ▲ Player rip_giyuripguy67 Joined.",
+    "[14:52] Theodorkomma got sniped by a bony Skeleton",
+    "[14:52] <peacebringer12> yeah",
+    "[14:52] [BOT] <HienBot> **peacebringer12**: yeah",
+    "[14:52] Psych0_ Whispers: !kit PVP",
+    "[14:52] [8b8t] >> Teleporting to home 0...",
+    "[14:52] [8b8t] >> Teleporting to home 1...",
+    "[14:52] [BOT] <HienBot> **Psych0_**: !kit PVP",
+    "[14:52] To Psych0_: Your kit (PVP) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:52] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -763,10 +763,11 @@
     ".Prosthetic7037": 1,
     "ZoxyMapper": 1,
     "VARXER": 1,
-    "Br33zyq": 1
+    "Br33zyq": 1,
+    "Psych0_": 1
   },
   "kitStats": {
-    "pvp": 313,
+    "pvp": 314,
     "raid": 66,
     "survival": 276,
     "shulker": 286,
