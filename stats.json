@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:49:00 23/2/2026",
-  "totalKits": 101523,
-  "todayKits": 274,
+  "lastUpdated": "02:49:30 23/2/2026",
+  "totalKits": 101524,
+  "todayKits": 275,
   "onlineCount": 50,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "00:15:00 23/2/2026",
     "avg": 35
   },
-  "tps": "9.0",
-  "ping": 215,
+  "tps": "6.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "survival",
-      "count": 307
+      "count": 308
     },
     {
       "name": "shulker",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:47] To AdolfHitller: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:47] [BOT] <HienBot> **Bot to AdolfHitller**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:47] [8b8t] >> Request sent to AdolfHitller",
-    "[19:47] [8b8t] >> Teleporting...",
-    "[19:47] [8b8t] >> You have killed yourself!",
-    "[19:47] HienBot was pwned by AdolfHitller wielding [netherite sword]",
-    "[19:47] To AdolfHitller: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[19:47] [BOT] <HienBot> **Bot to AdolfHitller**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[19:47] <Charaffff_> porque los indios estos no dejan de hablar",
-    "[19:47] [BOT] <HienBot> **Charaffff_**: porque los indios estos no dejan de hablar",
-    "[19:47] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[19:47] [8b8t] >> You arent ignoring adri989",
-    "[19:47] [8b8t] >> Please include a player /ignore <playerName>",
-    "[19:47] [8b8t] >> You arent ignoring IamNuke_",
-    "[19:47] [8b8t] >> You arent ignoring DavidN3000",
     "[19:47] [8b8t] >> You arent ignoring lvashl",
     "[19:47] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[19:47] x_nocreado_z was slain by x_nocreado_z using [firework rocket]",
@@ -108,7 +90,25 @@
     "[19:48] [BOT] <HienBot> **x_nocreado_z**: busco clan",
     "[19:48] [8b8t] >> ▼ Player Hanae0 Left.",
     "[19:48] [BOT] <HienBot> >Want free items? Just type survival",
-    "[19:49] <AspectofFlame> survival"
+    "[19:49] <AspectofFlame> survival",
+    "[19:49] [BOT] <HienBot> **AspectofFlame**: survival",
+    "[19:49] [8b8t] >> Teleporting to home 0...",
+    "[19:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:49] [8b8t] >> Teleporting to home 1...",
+    "[19:49] To AspectofFlame: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:49] To AspectofFlame: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:49] [BOT] <HienBot> **Bot to AspectofFlame**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:49] [8b8t] >> Request sent to AspectofFlame",
+    "[19:49] clan_NN has made the advancement [Sweet dreams]",
+    "[19:49] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[19:49] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[19:49] [Ultra] <14mate> ya le estoy dando",
+    "[19:49] [BOT] <HienBot> **14mate**: ya le estoy dando",
+    "[19:49] <Elmonito1234> diesagamoe y SINMENTE",
+    "[19:49] [BOT] <HienBot> **Elmonito1234**: diesagamoe y SINMENTE",
+    "[19:49] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[19:49] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -775,12 +775,13 @@
     "AmpereGX": 1,
     "BOT_hansba2309": 2,
     "AdolfHitller": 4,
-    ".AcidCarrot8348": 1
+    ".AcidCarrot8348": 1,
+    "AspectofFlame": 1
   },
   "kitStats": {
     "pvp": 331,
     "raid": 67,
-    "survival": 307,
+    "survival": 308,
     "shulker": 287,
     "music": 72,
     "terracotta": 19,
