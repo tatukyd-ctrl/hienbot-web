@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:39:30 23/2/2026",
+  "lastUpdated": "02:40:00 23/2/2026",
   "totalKits": 101520,
   "todayKits": 271,
-  "onlineCount": 52,
+  "onlineCount": 49,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:15:00 23/2/2026",
     "avg": 35
   },
-  "tps": "5.0",
-  "ping": 216,
+  "tps": "10.0",
+  "ping": 226,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "survival",
-      "count": 306
+      "count": 307
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:36] [8b8t] >> ▲ Player klcenka Joined.",
-    "[19:37] [8b8t] >> ▲ Player AetherionV26 Joined.",
-    "[19:37] <Ondrasitek> he is my friend",
-    "[19:37] [BOT] <HienBot> >Try status",
-    "[19:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:37] [8b8t] >> ▲ Player _aksn Joined.",
-    "[19:37] [8b8t] >> ▲ Player Charaffff_ Joined.",
-    "[19:37] [8b8t] >> ▲ Player epstine Joined.",
-    "[19:37] [8b8t] >> ▲ Player Emastercraft711 Joined.",
-    "[19:37] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[19:37] [BOT] <HienBot> >Use list to choose your kit",
-    "[19:37] <epstine> HI",
-    "[19:37] [BOT] <HienBot> **epstine**: HI",
-    "[19:37] [8b8t] >> ▲ Player .AcidCarrot8348 Joined.",
     "[19:37] <drecobloxrd> status",
     "[19:37] To drecobloxrd: Total kits: 101520 | Hoy: 271 No olvides unirte a dsc.gg/hienbot",
     "[19:37] [BOT] <HienBot> **drecobloxrd**: status",
@@ -108,7 +94,21 @@
     "[19:38] [BOT] <HienBot> **epstine**: anyone have loot a can have?",
     "[19:39] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[19:39] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[19:39] [BOT] <HienBot> >Want free items? Just type survival"
+    "[19:39] [BOT] <HienBot> >Want free items? Just type survival",
+    "[19:39] <.AcidCarrot8348> survival",
+    "[19:39] [8b8t] >> ▼ Player epstine Left.",
+    "[19:39] [8b8t] >> Teleporting to home 0...",
+    "[19:39] [BOT] <HienBot> **.AcidCarrot8348**: survival",
+    "[19:39] [8b8t] >> Teleporting to home 1...",
+    "[19:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:39] To .AcidCarrot8348: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:39] To .AcidCarrot8348: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:39] [BOT] <HienBot> **Bot to .AcidCarrot8348**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:39] [8b8t] >> Request sent to .AcidCarrot8348",
+    "[19:39] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
+    "[19:39] [8b8t] >> ▼ Player kijek Left.",
+    "[19:39] [8b8t] >> ▼ Player DPS_Chatbridge Left."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -774,12 +774,13 @@
     ".Obeeone2": 1,
     "AmpereGX": 1,
     "BOT_hansba2309": 2,
-    "AdolfHitller": 2
+    "AdolfHitller": 2,
+    ".AcidCarrot8348": 1
   },
   "kitStats": {
     "pvp": 330,
     "raid": 67,
-    "survival": 306,
+    "survival": 307,
     "shulker": 287,
     "music": 72,
     "terracotta": 19,
