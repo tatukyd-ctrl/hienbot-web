@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:10:17 23/2/2026",
-  "totalKits": 101571,
-  "todayKits": 322,
+  "lastUpdated": "06:10:30 23/2/2026",
+  "totalKits": 101572,
+  "todayKits": 323,
   "onlineCount": 42,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "00:15:00 23/2/2026",
     "avg": 37
   },
-  "tps": "9.0",
+  "tps": "6.0",
   "ping": 233,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "survival",
-      "count": 324
+      "count": 325
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[23:09] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[23:09] <.SCLonTOP> link",
-    "[23:09] To .SCLonTOP: 1. Join Discord: dsc.gg/hienbot 2. Type /link YourName 3. Type verify CODE in chat ",
-    "[23:09] [BOT] <HienBot> **.SCLonTOP**: link",
-    "[23:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:09] Mogulinho has made the advancement [Cover Me With Diamonds]",
-    "[23:09] [8b8t] >> ▲ Player santiahre Joined.",
-    "[23:09] Mogulinho has made the advancement [Ice Bucket Challenge]",
-    "[23:09] Mogulinho has reached the goal [The Next Generation]",
-    "[23:09] Mogulinho has reached the goal [Sky's the Limit]",
-    "[23:09] [8b8t] >> ▲ Player kxyuno Joined.",
-    "[23:09] [BOT] <HienBot> >Get fully equipped with pvp",
-    "[23:09] [8b8t] >> ▲ Player .unknownguy59093 Joined.",
-    "[23:09] [8b8t] >> ▲ Player jdgyasd Joined.",
-    "[23:09] Mauricio_Porta decided to test gravity and lost",
     "[23:09] <Felix961> pvp",
     "[23:09] [8b8t] >> ▲ Player i_am_tobias Joined.",
     "[23:09] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +92,23 @@
     "[23:10] [BOT] <HienBot> **Bot to Felix961**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:10] [8b8t] >> Request sent to Felix961",
     "[23:10] [8b8t] >> Teleporting...",
-    "[23:10] [BOT] <HienBot> >Try list to see available kits"
+    "[23:10] [BOT] <HienBot> >Try list to see available kits",
+    "[23:10] [8b8t] >> You have killed yourself!",
+    "[23:10] HienBot played with fire",
+    "[23:10] <.SCLonTOP> survival",
+    "[23:10] [8b8t] >> Teleporting to home 0...",
+    "[23:10] [BOT] <HienBot> **.SCLonTOP**: survival",
+    "[23:10] [8b8t] >> Teleporting to home 1...",
+    "[23:10] To .SCLonTOP: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:10] To Felix961: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[23:10] [BOT] <HienBot> **Bot to Felix961**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[23:10] To .SCLonTOP: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:10] [8b8t] >> Request sent to .SCLonTOP",
+    "[23:10] [8b8t] >> Teleporting...",
+    "[23:10] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -781,12 +781,12 @@
     "Ondrasro": 1,
     "BlubBlueYT": 1,
     "Caramelito": 2,
-    ".SCLonTOP": 4
+    ".SCLonTOP": 5
   },
   "kitStats": {
     "pvp": 340,
     "raid": 69,
-    "survival": 324,
+    "survival": 325,
     "shulker": 287,
     "music": 73,
     "terracotta": 19,
