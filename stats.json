@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:43:30 23/2/2026",
-  "totalKits": 101520,
-  "todayKits": 271,
+  "lastUpdated": "02:43:48 23/2/2026",
+  "totalKits": 101521,
+  "todayKits": 272,
   "onlineCount": 52,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "00:15:00 23/2/2026",
     "avg": 35
   },
-  "tps": "9.0",
+  "tps": "7.0",
   "ping": 214,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 330
+      "count": 331
     },
     {
       "name": "survival",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:42] <AdolfHitller> Frame dupe",
-    "[19:42] [BOT] <HienBot> **i_am_tobias**: pe",
-    "[19:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:42] <Ondrasitek> yeahh",
-    "[19:42] [BOT] <HienBot> **Ondrasitek**: yeahh",
-    "[19:42] <erikaaa_2008> busco team o clan activo",
-    "[19:42] [BOT] <HienBot> **erikaaa_2008**: busco team o clan activo",
-    "[19:42] Charaffff_ forgot to bring their parachute",
-    "[19:42] <deantheneek> is frame dupe up?",
-    "[19:42] [BOT] <HienBot> **deantheneek**: is frame dupe up?",
-    "[19:42] <Ondrasitek> no",
-    "[19:42] [BOT] <HienBot> **Ondrasitek**: no",
-    "[19:42] <Elmonito1234> yoo",
     "[19:42] [8b8t] >> ▼ Player klcenka Left.",
     "[19:42] [BOT] <HienBot> **Elmonito1234**: yoo",
     "[19:42] <Ondrasitek> no",
@@ -108,7 +95,20 @@
     "[19:43] [8b8t] >> ▲ Player klcenka Joined.",
     "[19:43] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
     "[19:43] <Charaffff_> tpa Elmonito1234",
-    "[19:43] [BOT] <HienBot> **Charaffff_**: tpa Elmonito1234"
+    "[19:43] [BOT] <HienBot> **Charaffff_**: tpa Elmonito1234",
+    "[19:43] <AdolfHitller> totem",
+    "[19:43] [8b8t] >> Teleporting to home 0...",
+    "[19:43] [8b8t] >> Teleporting to home 1...",
+    "[19:43] [BOT] <HienBot> **AdolfHitller**: totem",
+    "[19:43] To AdolfHitller: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:43] To AdolfHitller: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:43] [BOT] <HienBot> **Bot to AdolfHitller**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:43] [8b8t] >> Request sent to AdolfHitller",
+    "[19:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[19:43] [8b8t] >> Teleporting...",
+    "[19:43] [BOT] <HienBot> >Get fully equipped with pvp"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -774,11 +774,11 @@
     ".Obeeone2": 1,
     "AmpereGX": 1,
     "BOT_hansba2309": 2,
-    "AdolfHitller": 2,
+    "AdolfHitller": 3,
     ".AcidCarrot8348": 1
   },
   "kitStats": {
-    "pvp": 330,
+    "pvp": 331,
     "raid": 67,
     "survival": 307,
     "shulker": 287,
