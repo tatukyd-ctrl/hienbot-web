@@ -1,18 +1,18 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:15:40 22/2/2026",
-  "totalKits": 101224,
-  "todayKits": 19,
-  "onlineCount": 43,
+  "lastUpdated": "08:16:10 22/2/2026",
+  "totalKits": 101225,
+  "todayKits": 20,
+  "onlineCount": 42,
   "peakPlayers": 54,
   "playerStats": {
     "min": 32,
     "minTime": "07:17:39 22/2/2026",
     "max": 44,
     "maxTime": "08:09:10 22/2/2026",
-    "avg": 37
+    "avg": 38
   },
-  "tps": "4.0",
+  "tps": "7.0",
   "ping": 256,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "survival",
-      "count": 203
+      "count": 204
     },
     {
       "name": "build",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:14] [8b8t] >> ▼ Player Nx_Jhonz Left.",
-    "[01:14] <Nixons2025> bundles",
-    "[01:14] [BOT] <HienBot> **Nixons2025**: bundles",
-    "[01:14] <garretthessnfl> nobody gonna adress the pedophile that said he was horny for kids",
-    "[01:14] [BOT] <HienBot> **garretthessnfl**: nobody gonna adress the pedophile that said he was horny for kids",
-    "[01:14] <FeelsGood2BeHome> why everyone at 3k ms",
-    "[01:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:14] <FeelsGood2BeHome> garretthessnfl ? wat",
-    "[01:14] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:14] santiahre0 forgot to bring their parachute",
-    "[01:14] [BOT] <HienBot> **FeelsGood2BeHome**: garretthessnfl ? wat",
-    "[01:14] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[01:15] [8b8t] >> ▼ Player VoryxMC Left.",
-    "[01:15] abstime has completed the challenge [Subspace Bubble]",
-    "[01:15] <garretthessnfl> u didn't see that guy say that in chat",
-    "[01:15] [BOT] <HienBot> **garretthessnfl**: u didn't see that guy say that in chat",
-    "[01:15] [8b8t] >> ▲ Player VoryxMC Joined.",
-    "[01:15] <Nixons2025> yes",
-    "[01:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:15] <imnewtopvp354868> cept for niggers)",
-    "[01:15] [BOT] <HienBot> **imnewtopvp354868**: cept for niggers)",
-    "[01:15] [8b8t] >> ▼ Player VoryxMC Left.",
     "[01:15] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
     "[01:15] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[01:15] [8b8t] >> ▲ Player VoryxMC Joined.",
@@ -108,7 +86,29 @@
     "[01:15] [BOT] <HienBot> **garretthessnfl**: newton is a pedophile",
     "[01:15] VoryxMC got his head blown off by the Wither",
     "[01:15] [8b8t] >> ▼ Player VoryxMC Left.",
-    "[01:15] [8b8t] >> ▲ Player Slugma242 Joined."
+    "[01:15] [8b8t] >> ▲ Player Slugma242 Joined.",
+    "[01:15] [8b8t] >> ▲ Player VoryxMC Joined.",
+    "[01:15] <VoryxMC> phew",
+    "[01:15] [BOT] <HienBot> **VoryxMC**: phew",
+    "[01:15] abstime has made the advancement [Stone Age]",
+    "[01:15] [8b8t] >> ▼ Player freddison Left.",
+    "[01:15] [BOT] <HienBot> >Want free items? Just type 'survival'",
+    "[01:15] santiahre0 thought they could fly... they couldn't",
+    "[01:16] <FeelsGood2BeHome> survival",
+    "[01:16] [8b8t] >> Teleporting to home 0...",
+    "[01:16] [BOT] <HienBot> **FeelsGood2BeHome**: survival",
+    "[01:16] [8b8t] >> Teleporting to home 1...",
+    "[01:16] To FeelsGood2BeHome: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:16] <VoryxMC> i was so laggy at spawn so it auto killed me",
+    "[01:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:16] To FeelsGood2BeHome: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:16] [8b8t] >> ▼ Player angelariel2612 Left.",
+    "[01:16] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[01:16] [BOT] <HienBot> **Bot to FeelsGood2BeHome**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:16] [8b8t] >> Request sent to FeelsGood2BeHome",
+    "[01:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 68,
@@ -734,12 +734,13 @@
     ".Thiago_Z_137326": 4,
     "inks2": 2,
     "OxyPhish": 3,
-    "VALEN5": 1
+    "VALEN5": 1,
+    "FeelsGood2BeHome": 1
   },
   "kitStats": {
     "pvp": 280,
     "raid": 55,
-    "survival": 203,
+    "survival": 204,
     "shulker": 284,
     "music": 53,
     "terracotta": 15,
