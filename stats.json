@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:27:30 23/2/2026",
+  "lastUpdated": "07:28:00 23/2/2026",
   "totalKits": 101597,
   "todayKits": 3,
-  "onlineCount": 38,
+  "onlineCount": 36,
   "peakPlayers": 61,
   "playerStats": {
     "min": 34,
@@ -12,8 +12,8 @@
     "maxTime": "07:01:00 23/2/2026",
     "avg": 38
   },
-  "tps": "10.0",
-  "ping": 388,
+  "tps": "8.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 345
+      "count": 346
     },
     {
       "name": "survival",
@@ -79,36 +79,36 @@
     }
   ],
   "chatLog": [
-    "[00:27] <OxyPhish> tf",
-    "[00:27] [8b8t] >> ▲ Player closepvp Joined.",
-    "[00:27] [BOT] <HienBot> **OxyPhish**: tf",
-    "[00:27] [8b8t] >> ▼ Player _ShadowBlu3_ Left.",
-    "[00:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[00:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[00:27] [Ultra] <Netanyahu> ezzzz",
-    "[00:27] [8b8t] >> ▼ Player Happy13224 Left.",
-    "[00:27] [8b8t] >> You arent ignoring adri989",
-    "[00:27] [BOT] <HienBot> **htp1p0**: ezzzz",
-    "[00:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[00:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[00:27] <OxyPhish> ok lol",
-    "[00:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[00:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:27] [8b8t] >> You arent ignoring IamNuke_",
-    "[00:27] [8b8t] >> ▲ Player _ShadowBlu3_ Joined.",
-    "[00:27] [8b8t] >> ▼ Player _ShadowBlu3_ Left.",
-    "[00:27] [8b8t] >> You arent ignoring adri989",
-    "[00:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[00:27] [8b8t] >> You arent ignoring DavidN3000",
-    "[00:27] <kxyuno> send me tp",
-    "[00:27] [8b8t] >> You arent ignoring lvashl",
-    "[00:27] [BOT] <HienBot> **kxyuno**: send me tp",
     "[00:27] <Voided> pvp",
     "[00:27] To Voided: You're on cooldown, try again in 24 seconds! Don't forget to join dsc.gg/hienbot",
     "[00:27] [BOT] <HienBot> **Voided**: pvp",
     "[00:27] [8b8t] >> ▲ Player _ShadowBlu3_ Joined.",
     "[00:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:27] Gpkkkll thought they could fly... they couldn't"
+    "[00:27] Gpkkkll thought they could fly... they couldn't",
+    "[00:27] [8b8t] >> ▼ Player _ShadowBlu3_ Left.",
+    "[00:27] <VoryxMC> mixed",
+    "[00:27] [BOT] <HienBot> **VoryxMC**: mixed",
+    "[00:27] <kxyuno> ok xd",
+    "[00:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:27] <VoryxMC> bro",
+    "[00:27] [8b8t] >> ▼ Player Netanyahu Left.",
+    "[00:27] [BOT] <HienBot> **VoryxMC**: bro",
+    "[00:27] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
+    "[00:27] <VoryxMC> random",
+    "[00:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:27] <VoryxMC> pvp",
+    "[00:27] [8b8t] >> You have killed yourself!",
+    "[00:27] [BOT] <HienBot> **VoryxMC**: pvp",
+    "[00:27] [8b8t] >> ▲ Player _ShadowBlu3_ Joined.",
+    "[00:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:27] To VoryxMC: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:27] [8b8t] >> ▼ Player _ShadowBlu3_ Left.",
+    "[00:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:27] [8b8t] >> Teleporting to home 0...",
+    "[00:27] [8b8t] >> Teleporting to home 1...",
+    "[00:27] To VoryxMC: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:27] [BOT] <HienBot> **Bot to VoryxMC**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:27] [8b8t] >> Request sent to VoryxMC"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -709,7 +709,7 @@
     "McFAgifter": 1,
     "Saad2001": 5,
     "ihatebiggers": 1,
-    "VoryxMC": 5,
+    "VoryxMC": 6,
     "cuccutbtdi": 2,
     "No1_Anhkhoi": 15,
     "VRB0T": 9,
@@ -787,7 +787,7 @@
     "_ShadowBlu3_": 1
   },
   "kitStats": {
-    "pvp": 345,
+    "pvp": 346,
     "raid": 69,
     "survival": 327,
     "shulker": 288,
