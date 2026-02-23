@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:08:31 23/2/2026",
+  "lastUpdated": "14:09:01 23/2/2026",
   "totalKits": 101667,
   "todayKits": 73,
-  "onlineCount": 6,
+  "onlineCount": 7,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:01:00 23/2/2026",
     "avg": 30
   },
-  "tps": "15.0",
-  "ping": 0,
+  "tps": "20.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:05] Unable to connect you to 8b8t. Please try again later.",
-    "[07:05] <AetherionV26> https://discord.gg/yJcqj4C8dy $Report, $news, $leaderboard, $gamble >Just type $info to know what this bot can do!",
-    "[07:05] <HienBot> **AetherionV26**: https://discord.gg/yJcqj4C8dy $Report, $news, $leaderboard, $gamble >Just type $info to know what this bot can do!",
-    "[07:06] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[07:06] [8b8t] >> Welcome BigBear to 8b8t.me Lobby",
-    "[07:06] Unable to connect you to 8b8t. Please try again later.",
-    "[07:06] <HienBot> >Want free items? Just type survival",
-    "[07:06] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[07:06] Unable to connect you to 8b8t. Please try again later.",
-    "[07:06] [8b8t] >> Welcome Yippe_tails to 8b8t.me Lobby",
-    "[07:06] Unable to connect you to 8b8t. Please try again later.",
     "[07:07] <HienBot> >Want free items? Just type survival",
     "[07:07] [8b8t] >> Welcome Pro_Ryouone_YT to 8b8t.me Lobby",
     "[07:07] <PistonCubeB0T> > Type $tps to find out how many tps the server has",
@@ -108,7 +97,18 @@
     "[07:08] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
     "[07:08] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[07:08] [8b8t] >> ▲ Player HienBot Joined.",
-    "[07:08] [8b8t] >> You have killed yourself!"
+    "[07:08] [8b8t] >> You have killed yourself!",
+    "[07:08] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
+    "[07:08] [8b8t] >> You arent ignoring adri989",
+    "[07:08] [8b8t] >> Please include a player /ignore <playerName>",
+    "[07:08] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
+    "[07:08] [8b8t] >> ▲ Player KAOSZHAFCROSS Joined.",
+    "[07:08] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[07:08] [8b8t] >> You arent ignoring IamNuke_",
+    "[07:08] [8b8t] >> You arent ignoring adri989",
+    "[07:08] [8b8t] >> Please include a player /ignore <playerName>",
+    "[07:08] [8b8t] >> You arent ignoring DavidN3000",
+    "[07:08] [8b8t] >> You arent ignoring lvashl"
   ],
   "userStats": {
     "Hien2309": 72,
