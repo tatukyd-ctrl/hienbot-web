@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:09:57 23/2/2026",
+  "lastUpdated": "19:10:01 23/2/2026",
   "totalKits": 101794,
   "todayKits": 200,
-  "onlineCount": 4,
+  "onlineCount": 23,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:01:00 23/2/2026",
     "avg": 25
   },
-  "tps": "8.0",
+  "tps": "9.0",
   "ping": 0,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "dupe",
-      "count": 151
+      "count": 152
     },
     {
       "name": "tools",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:09] [8b8t] >> ▲ Player HienBot Joined.",
-    "[12:09] .morokosan5660 Whispers: spruce",
-    "[12:09] [8b8t] >> You arent ignoring lvashl",
-    "[12:09] [8b8t] >> Teleporting to home 0...",
-    "[12:09] [8b8t] >> Teleporting to home 3...",
-    "[12:09] [BOT] <HienBot> **.morokosan5660**: spruce",
-    "[12:09] To .morokosan5660: Your kit (spruce) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:09] <SaintzysAlterEgo> dupe",
-    "[12:09] To SaintzysAlterEgo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[12:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:09] [BOT] <HienBot> **Bot to SaintzysAlterEgo**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[12:09] To .morokosan5660: Sorry! Brown Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
     "[12:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +96,19 @@
     "[12:09] To potatokun511: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[12:09] [8b8t] >> You arent ignoring adri989",
     "[12:09] You were kicked from 8b8t: Kicked for spamming",
-    "[12:09] [8b8t] >> Welcome HienBot to 8b8t.me Lobby"
+    "[12:09] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
+    "[12:09] [8b8t] Unknown command do /help",
+    "[12:09] <HienBot> **Bot to potatokun511**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[12:09] [8b8t] Unknown command do /help",
+    "[12:09] [8b8t] Unknown command do /help",
+    "[12:09] [8b8t] >> Welcome htp1p0bot to 8b8t.me Lobby",
+    "[12:09] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[12:09] [8b8t] >> ▲ Player HienBot Joined.",
+    "[12:09] [8b8t] >> You have killed yourself!",
+    "[12:10] You are already connected to this server!",
+    "[12:10] [8b8t] >> You have killed yourself!",
+    "[12:10] <SaintzysAlterEgo> dupe",
+    "[12:10] You are already connected to this server!"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -597,7 +597,7 @@
     "JustZarthal": 1,
     "YujiMyBestFriend": 2,
     "Lukedroider": 1,
-    "SaintzysAlterEgo": 38,
+    "SaintzysAlterEgo": 39,
     "TheAirWaster": 1,
     "klcenka": 10,
     "Lamox": 26,
@@ -827,7 +827,7 @@
     "build": 130,
     "dye": 20,
     "concrete": 35,
-    "dupe": 151,
+    "dupe": 152,
     "food": 43,
     "glass": 30,
     "elytra": 109,
