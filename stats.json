@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:36:31 23/2/2026",
+  "lastUpdated": "22:37:01 23/2/2026",
   "totalKits": 101883,
   "todayKits": 289,
   "onlineCount": 52,
@@ -12,7 +12,7 @@
     "maxTime": "22:35:27 23/2/2026",
     "avg": 27
   },
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 440,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "dupe",
-      "count": 162
+      "count": 163
     },
     {
       "name": "build",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:35] [8b8t] >> ▼ Player eldewn2 Left.",
-    "[15:35] To GreetedWinter81: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[15:35] [8b8t] >> ▼ Player JustTheExtra Left.",
-    "[15:35] [8b8t] >> ▲ Player eldewn2 Joined.",
-    "[15:35] <EOS_> hlw do i escape spawn",
-    "[15:36] GreetedWinter81 decided to test gravity and lost",
-    "[15:36] [8b8t] >> Use the command /login <password>.",
-    "[15:36] [8b8t] >> You have successfully logged.",
-    "[15:36] [8b8t] Unknown command do /help",
-    "[15:36] ",
-    "[15:36]  [8builders8tools]",
-    "[15:36]  Perform the command /email associate to register",
-    "[15:36]  your email. By doing so, you",
-    "[15:36]  decrease the chance of being hacked.",
-    "[15:36] ",
-    "[15:36]   [Confirm read]\n",
-    "[15:36] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[15:36] [8b8t] >> ▲ Player HienBot Joined.",
-    "[15:36] [8b8t] >> Teleporting to home 0...",
-    "[15:36] [8b8t] >> ▲ Player liviaaaaaaa Joined.",
-    "[15:36] <deantheneek> .config",
-    "[15:36] [BOT] <HienBot> **deantheneek**: .config",
     "[15:36] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
     "[15:36] [8b8t] >> You arent ignoring adri989",
     "[15:36] [8b8t] >> Please include a player /ignore <playerName>",
@@ -108,7 +86,29 @@
     "[15:36] [8b8t] >> ▲ Player 7828FN Joined.",
     "[15:36] [8b8t] >> You arent ignoring IamNuke_",
     "[15:36] [8b8t] >> You arent ignoring DavidN3000",
-    "[15:36] [8b8t] >> You arent ignoring lvashl"
+    "[15:36] [8b8t] >> You arent ignoring lvashl",
+    "[15:36] <liviaaaaaaa> why is frame dupe not working?",
+    "[15:36] [BOT] <HienBot> **liviaaaaaaa**: why is frame dupe not working?",
+    "[15:36] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[15:36] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[15:36] <EOS_> you mean 1.12.2 dule?",
+    "[15:36] [BOT] <HienBot> **EOS_**: you mean 1.12.2 dule?",
+    "[15:36] <EOS_> dupe",
+    "[15:36] [8b8t] >> Teleporting to home 0...",
+    "[15:36] [BOT] <HienBot> **EOS_**: dupe",
+    "[15:36] [8b8t] >> Teleporting to home 7...",
+    "[15:36] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[15:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:36] To EOS_: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:36] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[15:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:36] To EOS_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:36] [BOT] <HienBot> **Bot to EOS_**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:36] [8b8t] >> Request sent to EOS_",
+    "[15:36] <Gpkkkll> Raid",
+    "[15:36] To Gpkkkll: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[15:36] [BOT] <HienBot> **Gpkkkll**: Raid",
+    "[15:37] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -812,7 +812,8 @@
     "vihan": 1,
     "dicart_x": 1,
     "dariopro07": 2,
-    "GreetedWinter81": 1
+    "GreetedWinter81": 1,
+    "EOS_": 1
   },
   "kitStats": {
     "pvp": 421,
@@ -832,7 +833,7 @@
     "build": 142,
     "dye": 20,
     "concrete": 35,
-    "dupe": 162,
+    "dupe": 163,
     "food": 44,
     "glass": 30,
     "elytra": 114,
