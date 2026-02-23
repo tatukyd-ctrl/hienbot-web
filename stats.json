@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:27:19 23/2/2026",
+  "lastUpdated": "10:27:31 23/2/2026",
   "totalKits": 101653,
   "todayKits": 59,
   "onlineCount": 36,
@@ -12,7 +12,7 @@
     "maxTime": "07:01:00 23/2/2026",
     "avg": 33
   },
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 215,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 364
+      "count": 365
     },
     {
       "name": "survival",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:26] [BOT] <HienBot> **Bot to nosejaja33**: Invalid! Use: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
-    "[03:26] <nosejaja33> lang es",
-    "[03:26] [BOT] <HienBot> **nosejaja33**: lang es",
-    "[03:26] To nosejaja33: Idioma cambiado a Espanol! | dsc.gg/hienbot",
-    "[03:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:27] [8b8t] >> ▲ Player Eagle14 Joined.",
-    "[03:27] <mrflimflam> wool",
-    "[03:27] [8b8t] >> Teleporting to home 0...",
-    "[03:27] [8b8t] >> Teleporting to home 3...",
-    "[03:27] [BOT] <HienBot> **mrflimflam**: wool",
-    "[03:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:27] To mrflimflam: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[03:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:27] <Elmonito1234> nocreqdo",
@@ -108,7 +97,18 @@
     "[03:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:27] [8b8t] >> Teleporting...",
     "[03:27] <Lial_Kun> hola}",
-    "[03:27] [BOT] <HienBot> **Lial_Kun**: hola}"
+    "[03:27] [BOT] <HienBot> **Lial_Kun**: hola}",
+    "[03:27] <nosejaja33> cpvp",
+    "[03:27] To nosejaja33: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
+    "[03:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:27] [8b8t] >> You have killed yourself!",
+    "[03:27] HienBot was pwned by mrflimflam wielding [their hand]",
+    "[03:27] To mrflimflam: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:27] alexx360 thought they could fly... they couldn't",
+    "[03:27] [BOT] <HienBot> **Bot to mrflimflam**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:27] <nosejaja33> cpvp",
+    "[03:27] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -791,10 +791,10 @@
     "ltzProPvP": 12,
     "El_CUBANO_": 1,
     "comit1234567890": 5,
-    "nosejaja33": 3
+    "nosejaja33": 4
   },
   "kitStats": {
-    "pvp": 364,
+    "pvp": 365,
     "raid": 70,
     "survival": 340,
     "shulker": 291,
