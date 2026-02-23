@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:09:01 23/2/2026",
+  "lastUpdated": "17:09:31 23/2/2026",
   "totalKits": 101735,
   "todayKits": 141,
   "onlineCount": 20,
@@ -12,7 +12,7 @@
     "maxTime": "07:01:00 23/2/2026",
     "avg": 26
   },
-  "tps": "9.0",
+  "tps": "14.0",
   "ping": 211,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "survival",
-      "count": 374
+      "count": 375
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:08] [8b8t] >> Please do not spam.",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] honey098765432 has completed the challenge [Subspace Bubble]",
-    "[10:08] <9thGrader> survival",
-    "[10:08] <potatokun511> Terracotta",
-    "[10:08] To 9thGrader: You're on cooldown, try again in 27 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:08] [8b8t] >> Teleporting to home 0...",
-    "[10:08] [8b8t] >> Please do not spam.",
-    "[10:08] [8b8t] >> Teleporting to home 4...",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] To potatokun511: Your kit (terracotta) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] To potatokun511: Sorry! Brown Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
-    "[10:08] [BOT] <HienBot> **Bot to potatokun511**: Sorry! Brown Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
     "[10:08] [8b8t] >> Request sent to potatokun511",
     "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:08] [8b8t] >> Teleporting...",
@@ -108,7 +92,23 @@
     "[10:08] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
     "[10:09] <potatokun511> Glazed Terracotta",
     "[10:09] [8b8t] >> You arent ignoring adri989",
-    "[10:09] [8b8t] >> Please include a player /ignore <playerName>"
+    "[10:09] [8b8t] >> Please include a player /ignore <playerName>",
+    "[10:09] [BOT] <HienBot> **potatokun511**: Glazed Terracotta",
+    "[10:09] [8b8t] >> You arent ignoring IamNuke_",
+    "[10:09] [8b8t] >> You arent ignoring DavidN3000",
+    "[10:09] [8b8t] >> You arent ignoring lvashl",
+    "[10:09] <9thGrader> survival",
+    "[10:09] [8b8t] >> Teleporting to home 0...",
+    "[10:09] [BOT] <HienBot> **9thGrader**: survival",
+    "[10:09] [8b8t] >> Teleporting to home 1...",
+    "[10:09] To 9thGrader: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:09] [BOT] <HienBot> >Want free items? Just type survival",
+    "[10:09] To 9thGrader: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:09] [8b8t] >> Request sent to 9thGrader",
+    "[10:09] [8b8t] >> ▲ Player freddison Joined."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -770,7 +770,7 @@
     "peacebringer12": 2,
     "rip_giyuripguy67": 1,
     "HiImDev1000": 11,
-    "9thGrader": 7,
+    "9thGrader": 8,
     ".Obeeone2": 1,
     "AmpereGX": 1,
     "BOT_hansba2309": 7,
@@ -807,7 +807,7 @@
   "kitStats": {
     "pvp": 382,
     "raid": 72,
-    "survival": 374,
+    "survival": 375,
     "shulker": 292,
     "music": 83,
     "terracotta": 24,
