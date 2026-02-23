@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:14:57 23/2/2026",
+  "lastUpdated": "20:15:01 23/2/2026",
   "totalKits": 101845,
   "todayKits": 251,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "20:13:31 23/2/2026",
     "avg": 26
   },
-  "tps": "10.0",
+  "tps": "11.0",
   "ping": 0,
   "topUsers": [
     {
@@ -75,16 +75,10 @@
     },
     {
       "name": "build",
-      "count": 138
+      "count": 139
     }
   ],
   "chatLog": [
-    "[13:14] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[13:14] [8b8t] >> You arent ignoring lvashl",
-    "[13:14] <honey098765432> wether",
-    "[13:14] [BOT] <HienBot> **honey098765432**: wether",
-    "[13:14] <flyniggers> Are there any dupes on this server?",
-    "[13:14] [BOT] <HienBot> **flyniggers**: Are there any dupes on this server?",
     "[13:14] <honey098765432> water",
     "[13:14] [8b8t] >> Teleporting to home 0...",
     "[13:14] <darsacc> build",
@@ -108,7 +102,13 @@
     "[13:14] [8b8t] Unknown command do /help",
     "[13:14] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[13:14] [8b8t] >> ▲ Player HienBot Joined.",
-    "[13:14] You are already connected to this server!"
+    "[13:14] You are already connected to this server!",
+    "[13:14] <darsacc> build",
+    "[13:14] To darsacc: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[13:14] [BOT] <HienBot> **darsacc**: build",
+    "[13:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:14] [8b8t] >> ▲ Player .hypothetic3445 Joined.",
+    "[13:15] <darsacc> build"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -265,7 +265,7 @@
     "arda912": 1,
     "nikolozi2478": 6,
     "Laiwy_123": 8,
-    "darsacc": 17,
+    "darsacc": 18,
     "Geobo": 3,
     "ViolaStockSauces": 2,
     "wolvesbykanye": 13,
@@ -827,7 +827,7 @@
     "exp": 50,
     "stash": 123,
     "ocean": 36,
-    "build": 138,
+    "build": 139,
     "dye": 20,
     "concrete": 35,
     "dupe": 153,
