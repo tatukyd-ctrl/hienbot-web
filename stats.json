@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:52:05 24/2/2026",
+  "lastUpdated": "14:52:35 24/2/2026",
   "totalKits": 102099,
   "todayKits": 112,
   "onlineCount": 11,
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 23
   },
-  "tps": "16.0",
-  "ping": 215,
+  "tps": "17.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 484
+      "count": 485
     },
     {
       "name": "survival",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:49] To .morokosan5660: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:49] [BOT] <HienBot> **Bot to .morokosan5660**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:49] [8b8t] >> Request sent to .morokosan5660",
     "[07:49] [BOT] <HienBot> >Items for PVP and Building available in build",
     "[07:49] [8b8t] >> Teleporting...",
     "[07:49] [8b8t] >> You have killed yourself!",
@@ -108,7 +104,11 @@
     "[07:51] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:51] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
     "[07:52] [BOT] <HienBot> >Items for PVP and Building available in build",
-    "[07:52] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
+    "[07:52] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[07:52] mc_spider has made the advancement [Monster Hunter]",
+    "[07:52] [BOT] <HienBot> >Try /cosmetics to change your name color!",
+    "[07:52] [Ultra] <Netanyahu> anchor",
+    "[07:52] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -204,7 +204,7 @@
     "omer63270": 1,
     "GirlPuncher2015": 10,
     "braxku": 1,
-    "htp1p0": 6,
+    "htp1p0": 7,
     "matthias1234": 1,
     "rokfox48": 4,
     "FuchiSama": 4,
@@ -840,7 +840,7 @@
     "RayanGhost": 2
   },
   "kitStats": {
-    "pvp": 484,
+    "pvp": 485,
     "raid": 93,
     "survival": 476,
     "shulker": 296,
