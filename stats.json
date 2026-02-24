@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:08:05 24/2/2026",
+  "lastUpdated": "16:08:35 24/2/2026",
   "totalKits": 102118,
   "todayKits": 131,
   "onlineCount": 17,
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 21
   },
-  "tps": "11.0",
-  "ping": 263,
+  "tps": "16.0",
+  "ping": 231,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:05] [BOT] <HienBot> **Bot to potatokun511**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[09:05] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[09:05] [8b8t] >> You arent ignoring adri989",
-    "[09:05] [8b8t] >> Please include a player /ignore <playerName>",
-    "[09:05] [8b8t] >> You arent ignoring IamNuke_",
-    "[09:05] [8b8t] >> You arent ignoring DavidN3000",
-    "[09:05] [8b8t] >> You arent ignoring lvashl",
-    "[09:05] [BOT] <HienBot> >Type list for a list of kits",
-    "[09:05] .HAF_MORDECAII has completed the challenge [Subspace Bubble]",
     "[09:05] LoncheDeHuevito has completed the challenge [Hot Tourist Destinations]",
     "[09:05] LoncheDeHuevito has made the advancement [Those Were the Days]",
     "[09:06] [BOT] <HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
@@ -108,7 +99,16 @@
     "[09:07] <all_akkaynt> плюс где ты",
     "[09:08] [BOT] <HienBot> >Use info <player> to check someone's stats",
     "[09:08] <plus79532927137> я щас к порталу иду",
-    "[09:08] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
+    "[09:08] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[09:08] <plus79532927137> напиши dupe а потом /tpayes HienBot",
+    "[09:08] [BOT] <HienBot> **plus79532927137**: dupe   /tpayes HienBot",
+    "[09:08] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[09:08] <TEKKEN> Glass",
+    "[09:08] [8b8t] >> Teleporting to home 0...",
+    "[09:08] [BOT] <HienBot> **TEKKEN**: Glass",
+    "[09:08] [8b8t] >> Teleporting to home 4...",
+    "[09:08] To TEKKEN: Your kit (glass) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:08] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -838,7 +838,7 @@
     "lunnita_": 1,
     "BookTheBook": 2,
     "RayanGhost": 2,
-    "TEKKEN": 8,
+    "TEKKEN": 9,
     ".HAF_MORDECAII": 3,
     "plus79532927137": 1
   },
@@ -862,7 +862,7 @@
     "concrete": 36,
     "dupe": 183,
     "food": 48,
-    "glass": 31,
+    "glass": 32,
     "elytra": 128,
     "redstone": 41,
     "quartz": 17,
