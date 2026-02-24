@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:28:06 24/2/2026",
-  "totalKits": 102188,
-  "todayKits": 201,
-  "onlineCount": 14,
+  "lastUpdated": "18:28:21 24/2/2026",
+  "totalKits": 102189,
+  "todayKits": 202,
+  "onlineCount": 15,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 20
   },
-  "tps": "15.0",
+  "tps": "8.0",
   "ping": 250,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "dupe",
-      "count": 193
+      "count": 194
     },
     {
       "name": "build",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:27] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[11:27] [BOT] <HienBot> **Bot to all_akkaynt**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[11:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[11:27] [8b8t] >> You arent ignoring adri989",
-    "[11:27] [8b8t] >> You arent ignoring IamNuke_",
-    "[11:27] [8b8t] >> You arent ignoring DavidN3000",
-    "[11:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[11:27] [8b8t] >> You arent ignoring lvashl",
-    "[11:27] <ResinMC> list",
-    "[11:27] To ResinMC: Hello ResinMC!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[11:27] [8b8t] >> Please include a player /ignore <playerName>",
     "[11:27] [BOT] <HienBot> **ResinMC**: list",
     "[11:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:27] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +96,19 @@
     "[11:27] To ResinMC: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[11:27] [BOT] <HienBot> **Bot to ResinMC**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[11:28] [BOT] <HienBot> >Do you want kit? Type *kit",
-    "[11:28] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
+    "[11:28] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[11:28] <all_akkaynt> donkey",
+    "[11:28] [8b8t] >> Teleporting to home 0...",
+    "[11:28] [BOT] <HienBot> **all_akkaynt**: donkey",
+    "[11:28] [8b8t] >> Teleporting to home 7...",
+    "[11:28] To all_akkaynt: Your kit (donkey) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:28] [8b8t] >> ▲ Player .CycloidUwU Joined.",
+    "[11:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:28] To all_akkaynt: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:28] [BOT] <HienBot> **Bot to all_akkaynt**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:28] [8b8t] >> Request sent to all_akkaynt",
+    "[11:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -841,7 +841,7 @@
     "TEKKEN": 15,
     ".HAF_MORDECAII": 11,
     "plus79532927137": 3,
-    "all_akkaynt": 42,
+    "all_akkaynt": 43,
     "060mati006": 8
   },
   "kitStats": {
@@ -862,7 +862,7 @@
     "build": 180,
     "dye": 22,
     "concrete": 38,
-    "dupe": 193,
+    "dupe": 194,
     "food": 48,
     "glass": 32,
     "elytra": 140,
