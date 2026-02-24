@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:35:06 24/2/2026",
+  "lastUpdated": "17:35:36 24/2/2026",
   "totalKits": 102156,
   "todayKits": 169,
   "onlineCount": 20,
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 20
   },
-  "tps": "11.0",
-  "ping": 630,
+  "tps": "15.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "survival",
-      "count": 486
+      "count": 487
     },
     {
       "name": "shulker",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:34] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[10:34] [8b8t] >> You arent ignoring adri989",
-    "[10:34] [8b8t] >> Please include a player /ignore <playerName>",
-    "[10:34] <Br33zyq> rpayes",
-    "[10:34] [8b8t] >> Please include a player /ignore <playerName>",
-    "[10:34] [8b8t] >> You arent ignoring IamNuke_",
-    "[10:34] [BOT] <HienBot> **Br33zyq**: rpayes",
-    "[10:34] [8b8t] >> You arent ignoring DavidN3000",
-    "[10:34] [8b8t] >> You have killed yourself!",
     "[10:34] [8b8t] >> You arent ignoring lvashl",
     "[10:34] <all_akkaynt> rpayes",
     "[10:34] To 060mati006: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +99,16 @@
     "[10:35] <all_akkaynt> survival",
     "[10:35] To all_akkaynt: You're on cooldown, try again in 10 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:35] [BOT] <HienBot> **all_akkaynt**: survival",
-    "[10:35] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[10:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:35] [BOT] <HienBot> >Try /cosmetics to change your name color!",
+    "[10:35] <all_akkaynt> survival",
+    "[10:35] [8b8t] >> Teleporting to home 0...",
+    "[10:35] [8b8t] >> Teleporting to home 1...",
+    "[10:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:35] To all_akkaynt: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:35] [BOT] <HienBot> 📦 all_akkaynt requested survival kit.",
+    "[10:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:35] To all_akkaynt: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -841,13 +841,13 @@
     "TEKKEN": 15,
     ".HAF_MORDECAII": 11,
     "plus79532927137": 3,
-    "all_akkaynt": 25,
+    "all_akkaynt": 26,
     "060mati006": 2
   },
   "kitStats": {
     "pvp": 495,
     "raid": 96,
-    "survival": 486,
+    "survival": 487,
     "shulker": 296,
     "music": 121,
     "terracotta": 24,
