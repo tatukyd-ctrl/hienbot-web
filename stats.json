@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:19:05 24/2/2026",
-  "totalKits": 102091,
-  "todayKits": 104,
+  "lastUpdated": "14:19:23 24/2/2026",
+  "totalKits": 102092,
+  "todayKits": 105,
   "onlineCount": 11,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 23
   },
-  "tps": "19.0",
+  "tps": "17.0",
   "ping": 212,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "survival",
-      "count": 473
+      "count": 474
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:15] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[07:15] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[07:15] RayanGhost has made the advancement [We Need to Go Deeper]",
-    "[07:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[07:15] [BOT] <HienBot> >Hi RayanGhost!",
-    "[07:15] [8b8t] >> ▲ Player DMJ Joined.",
-    "[07:16] [BOT] <HienBot> >Welcome to 8b8t, MonkeBot!",
-    "[07:16] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[07:16] RayanGhost forgot to bring their parachute",
-    "[07:16] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[07:16] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[07:17] [8b8t] >> Please do not spam.",
     "[07:17] [8b8t] >> ▲ Player AnvayRaut Joined.",
     "[07:17] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
@@ -108,7 +97,18 @@
     "[07:18] <RayanGhost> you here",
     "[07:18] [BOT] <HienBot> **RayanGhost**: you here",
     "[07:19] [BOT] <HienBot> >Want free items? Just type survival",
-    "[07:19] RayanGhost got his head blown off by the Wither"
+    "[07:19] RayanGhost got his head blown off by the Wither",
+    "[07:19] <RayanGhost> survival",
+    "[07:19] [8b8t] >> Teleporting to home 0...",
+    "[07:19] [BOT] <HienBot> **RayanGhost**: survival",
+    "[07:19] [8b8t] >> Teleporting to home 1...",
+    "[07:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:19] To RayanGhost: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:19] To RayanGhost: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:19] [BOT] <HienBot> **Bot to RayanGhost**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:19] [8b8t] >> Request sent to RayanGhost",
+    "[07:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -836,12 +836,13 @@
     "Azure772": 29,
     "kobthegoat14": 27,
     "lunnita_": 1,
-    "BookTheBook": 2
+    "BookTheBook": 2,
+    "RayanGhost": 1
   },
   "kitStats": {
     "pvp": 482,
     "raid": 93,
-    "survival": 473,
+    "survival": 474,
     "shulker": 296,
     "music": 119,
     "terracotta": 24,
