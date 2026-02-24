@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:21:35 24/2/2026",
+  "lastUpdated": "14:22:05 24/2/2026",
   "totalKits": 102092,
   "todayKits": 105,
   "onlineCount": 10,
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 23
   },
-  "tps": "17.0",
-  "ping": 213,
+  "tps": "16.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "survival",
-      "count": 474
+      "count": 475
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:19] To RayanGhost: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[07:19] [BOT] <HienBot> **Bot to RayanGhost**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[07:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:19] <RayanGhost> hiii",
-    "[07:19] [BOT] <HienBot> **RayanGhost**: hiii",
-    "[07:19] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[07:19] <AnvayRaut> wssgg",
-    "[07:19] [BOT] <HienBot> **AnvayRaut**: wssgg",
-    "[07:19] [8b8t] >> You arent ignoring adri989",
-    "[07:19] [8b8t] >> Please include a player /ignore <playerName>",
-    "[07:19] [8b8t] >> You arent ignoring IamNuke_",
-    "[07:19] [8b8t] >> You arent ignoring DavidN3000",
     "[07:19] [8b8t] >> You arent ignoring lvashl",
     "[07:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:19] RayanGhost has completed the challenge [Cover Me in Debris]",
@@ -108,7 +96,19 @@
     "[07:21] [BOT] <HienBot> >Hello .morokosan5660!",
     "[07:21] [8b8t] >> ▼ Player DMJ Left.",
     "[07:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[07:21] [BOT] <HienBot> >Welcome to 8b8t, iTrisstan!"
+    "[07:21] [BOT] <HienBot> >Welcome to 8b8t, iTrisstan!",
+    "[07:21] <RayanGhost> survival",
+    "[07:21] [8b8t] >> Teleporting to home 0...",
+    "[07:21] [BOT] <HienBot> **RayanGhost**: survival",
+    "[07:21] [8b8t] >> Teleporting to home 1...",
+    "[07:21] To RayanGhost: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:21] To RayanGhost: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:21] [BOT] <HienBot> **Bot to RayanGhost**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:21] [8b8t] >> Request sent to RayanGhost",
+    "[07:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:22] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -837,12 +837,12 @@
     "kobthegoat14": 27,
     "lunnita_": 1,
     "BookTheBook": 2,
-    "RayanGhost": 1
+    "RayanGhost": 2
   },
   "kitStats": {
     "pvp": 482,
     "raid": 93,
-    "survival": 474,
+    "survival": 475,
     "shulker": 296,
     "music": 119,
     "terracotta": 24,
