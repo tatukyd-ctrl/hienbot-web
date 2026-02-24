@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:34:25 24/2/2026",
+  "lastUpdated": "17:34:36 24/2/2026",
   "totalKits": 102155,
   "todayKits": 168,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 20
   },
-  "tps": "12.0",
+  "tps": "6.0",
   "ping": 233,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "survival",
-      "count": 485
+      "count": 486
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:33] [8b8t] >> Request sent to VARXER",
-    "[10:33] [8b8t] >> Teleporting...",
-    "[10:33] [8b8t] >> You have killed yourself!",
-    "[10:33] VARXER pulverized HienBot using [minecart]",
-    "[10:33] To VARXER: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:34] [BOT] <HienBot> **Bot to VARXER**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:34] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[10:34] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[10:34] [8b8t] >> You arent ignoring adri989",
-    "[10:34] [8b8t] >> Please include a player /ignore <playerName>",
-    "[10:34] [8b8t] >> You arent ignoring IamNuke_",
-    "[10:34] [8b8t] >> You arent ignoring DavidN3000",
-    "[10:34] <VARXER> survival",
-    "[10:34] To VARXER: You're on cooldown, try again in 31 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:34] [BOT] <HienBot> **VARXER**: survival",
     "[10:34] [8b8t] >> You arent ignoring lvashl",
     "[10:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:34] <all_akkaynt> bow",
@@ -108,7 +92,23 @@
     "[10:34] To all_akkaynt: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:34] [BOT] <HienBot> **Bot to all_akkaynt**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:34] [8b8t] >> Request sent to all_akkaynt",
-    "[10:34] [8b8t] >> Teleporting..."
+    "[10:34] [8b8t] >> Teleporting...",
+    "[10:34] <060mati006> survival",
+    "[10:34] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[10:34] [8b8t] >> You have killed yourself!",
+    "[10:34] HienBot forgot to stop, drop, and roll",
+    "[10:34] [8b8t] >> You have killed yourself!",
+    "[10:34] [BOT] <HienBot> **060mati006**: survival",
+    "[10:34] To 060mati006: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:34] To all_akkaynt: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:34] [8b8t] >> Teleporting to home 0...",
+    "[10:34] [BOT] <HienBot> 📦 060mati006 requested survival kit.",
+    "[10:34] [8b8t] >> Teleporting to home 1...",
+    "[10:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:34] To 060mati006: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:34] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -842,12 +842,12 @@
     ".HAF_MORDECAII": 11,
     "plus79532927137": 3,
     "all_akkaynt": 25,
-    "060mati006": 1
+    "060mati006": 2
   },
   "kitStats": {
     "pvp": 495,
     "raid": 96,
-    "survival": 485,
+    "survival": 486,
     "shulker": 296,
     "music": 121,
     "terracotta": 24,
