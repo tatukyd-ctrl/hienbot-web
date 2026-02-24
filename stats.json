@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:11:05 24/2/2026",
+  "lastUpdated": "14:11:35 24/2/2026",
   "totalKits": 102091,
   "todayKits": 104,
-  "onlineCount": 6,
+  "onlineCount": 7,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 24
   },
   "tps": "20.0",
-  "ping": 212,
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,8 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:08] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[07:08] [8b8t] >> You arent ignoring adri989",
     "[07:08] [8b8t] >> Please include a player /ignore <playerName>",
     "[07:08] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
     "[07:08] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +106,9 @@
     "[07:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:10] [8b8t] >> ▼ Player dacvudog1802 Left.",
     "[07:10] [8b8t] >> ▲ Player dacvudog1802 Joined.",
-    "[07:11] [BOT] <HienBot> >Want to see your ping? Chat ping"
+    "[07:11] [BOT] <HienBot> >Want to see your ping? Chat ping",
+    "[07:11] [BOT] <HienBot> >Use lang and select your language",
+    "[07:11] [8b8t] >> ▲ Player DPS_Chatbridge Joined."
   ],
   "userStats": {
     "Hien2309": 72,
