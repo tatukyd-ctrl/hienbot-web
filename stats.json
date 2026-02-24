@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:54:39 25/2/2026",
+  "lastUpdated": "01:55:09 25/2/2026",
   "totalKits": 102359,
   "todayKits": 372,
   "onlineCount": 37,
@@ -12,8 +12,8 @@
     "maxTime": "23:47:08 24/2/2026",
     "avg": 25
   },
-  "tps": "9.0",
-  "ping": 210,
+  "tps": "8.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 580
+      "count": 581
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:52] To AspectofFlame: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:52] [BOT] <HienBot> **Bot to AspectofFlame**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:52] [8b8t] >> ▼ Player Eazy_brou Left.",
-    "[18:52] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[18:52] [8b8t] >> You arent ignoring adri989",
-    "[18:52] [8b8t] >> Please include a player /ignore <playerName>",
-    "[18:52] [8b8t] >> You arent ignoring IamNuke_",
-    "[18:53] [8b8t] >> ▲ Player Realdesii Joined.",
-    "[18:53] [8b8t] >> You arent ignoring DavidN3000",
-    "[18:53] [8b8t] >> You arent ignoring lvashl",
     "[18:53] [BOT] <HienBot> >Hello DPS_Chatbridge!",
     "[18:53] [8b8t] >> ▲ Player Eazy_brou Joined.",
     "[18:53] AwwwFrick_ got shot by a skeleton",
@@ -108,7 +98,17 @@
     "[18:54] [8b8t] >> ▼ Player iTrisstan Left.",
     "[18:54] TheobaldTheBird thought they could fly... they couldn't",
     "[18:54] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[18:54] [8b8t] >> ▲ Player iTrisstan Joined."
+    "[18:54] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[18:54] <TheobaldTheBird> survival",
+    "[18:54] [8b8t] >> Teleporting to home 0...",
+    "[18:54] [BOT] <HienBot> **TheobaldTheBird**: survival",
+    "[18:54] [8b8t] >> Teleporting to home 1...",
+    "[18:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:54] To TheobaldTheBird: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:54] To TheobaldTheBird: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[18:54] [BOT] <HienBot> **Bot to TheobaldTheBird**: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[18:55] [BOT] <HienBot> >Want free items? Just type survival"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -849,7 +849,7 @@
     "milomilom": 1,
     "LettuceK": 5,
     "DesoYT": 7,
-    "TheobaldTheBird": 13,
+    "TheobaldTheBird": 14,
     "Loax_XD": 8,
     "k1hveli": 2,
     "8b8tplayerr": 6,
@@ -864,7 +864,7 @@
   "kitStats": {
     "pvp": 515,
     "raid": 106,
-    "survival": 580,
+    "survival": 581,
     "shulker": 298,
     "music": 129,
     "terracotta": 25,
