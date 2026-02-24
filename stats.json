@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:44:05 24/2/2026",
-  "totalKits": 102107,
-  "todayKits": 120,
+  "lastUpdated": "15:44:26 24/2/2026",
+  "totalKits": 102108,
+  "todayKits": 121,
   "onlineCount": 15,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 21
   },
-  "tps": "15.0",
-  "ping": 213,
+  "tps": "14.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 486
+      "count": 487
     },
     {
       "name": "survival",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:42] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:42] [8b8t] >> ▲ Player .HAF_MORDECAII Joined.",
-    "[08:42] [8b8t] >> You arent ignoring IamNuke_",
-    "[08:42] [8b8t] >> ▲ Player potatokun511 Joined.",
-    "[08:42] <TEKKEN> xp",
-    "[08:42] To TEKKEN: You're on cooldown, try again in 27 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:42] [BOT] <HienBot> **TEKKEN**: xp",
-    "[08:42] [8b8t] >> You arent ignoring DavidN3000",
-    "[08:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:42] [8b8t] >> You arent ignoring lvashl",
-    "[08:42] <potatokun511> やぁ",
-    "[08:43] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[08:43] <potatokun511> すごぉ",
-    "[08:43] [8b8t] >> ▲ Player _PIGY_ Joined.",
-    "[08:43] [BOT] <HienBot> >Want to see your ping? Chat ping",
     "[08:43] <.HAF_MORDECAII> ping",
     "[08:43] [BOT] <HienBot> **.HAF_MORDECAII**: ping",
     "[08:43] To .HAF_MORDECAII: Your ping is: 193 ms Don't forget to join dsc.gg/hienbot",
@@ -108,7 +93,22 @@
     "[08:43] [8b8t] >> Please do not spam.",
     "[08:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[08:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:44] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
+    "[08:44] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[08:44] <.HAF_MORDECAII> pvp",
+    "[08:44] [8b8t] >> Teleporting to home 0...",
+    "[08:44] [8b8t] >> Teleporting to home 1...",
+    "[08:44] [BOT] <HienBot> **.HAF_MORDECAII**: pvp",
+    "[08:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:44] To .HAF_MORDECAII: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:44] To .HAF_MORDECAII: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:44] [BOT] <HienBot> **Bot to .HAF_MORDECAII**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:44] [8b8t] >> Request sent to .HAF_MORDECAII",
+    "[08:44] <TEKKEN> xp",
+    "[08:44] To TEKKEN: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[08:44] [BOT] <HienBot> **TEKKEN**: xp",
+    "[08:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -838,10 +838,11 @@
     "lunnita_": 1,
     "BookTheBook": 2,
     "RayanGhost": 2,
-    "TEKKEN": 2
+    "TEKKEN": 2,
+    ".HAF_MORDECAII": 1
   },
   "kitStats": {
-    "pvp": 486,
+    "pvp": 487,
     "raid": 95,
     "survival": 477,
     "shulker": 296,
