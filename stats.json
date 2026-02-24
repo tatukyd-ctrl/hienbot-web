@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:42:05 24/2/2026",
-  "totalKits": 102106,
-  "todayKits": 119,
+  "lastUpdated": "15:42:23 24/2/2026",
+  "totalKits": 102107,
+  "todayKits": 120,
   "onlineCount": 12,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 21
   },
-  "tps": "17.0",
+  "tps": "15.0",
   "ping": 212,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 485
+      "count": 486
     },
     {
       "name": "survival",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:40] [8b8t] >> You have killed yourself!",
-    "[08:40] HienBot underestimated the blast radius of a Creeper",
-    "[08:40] To TEKKEN: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:40] [BOT] <HienBot> **Bot to TEKKEN**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:40] plus79532927137 decided to test gravity and lost",
-    "[08:41] [BOT] <HienBot> >Use list to choose your kit",
-    "[08:41] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[08:41] TEKKEN has completed the challenge [Cover Me in Debris]",
-    "[08:41] [8b8t] >> You arent ignoring adri989",
-    "[08:41] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:41] [8b8t] >> You arent ignoring IamNuke_",
-    "[08:41] [8b8t] >> You arent ignoring DavidN3000",
     "[08:41] [8b8t] >> You arent ignoring lvashl",
     "[08:41] [8b8t] >> ▼ Player .HAF_MORDECAII Left.",
     "[08:41] TEKKEN has made the advancement [Ice Bucket Challenge]",
@@ -108,7 +96,19 @@
     "[08:42] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[08:42] [BOT] <HienBot> **plus79532927137**: lang en",
     "[08:42] To plus79532927137: Language set to English! | dsc.gg/hienbot",
-    "[08:42] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[08:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:42] <TEKKEN> totem",
+    "[08:42] [8b8t] >> Teleporting to home 0...",
+    "[08:42] [BOT] <HienBot> **TEKKEN**: totem",
+    "[08:42] [8b8t] >> Teleporting to home 1...",
+    "[08:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:42] To TEKKEN: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:42] To TEKKEN: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:42] [BOT] <HienBot> **Bot to TEKKEN**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:42] [8b8t] >> Request sent to TEKKEN",
+    "[08:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[08:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -838,10 +838,10 @@
     "lunnita_": 1,
     "BookTheBook": 2,
     "RayanGhost": 2,
-    "TEKKEN": 1
+    "TEKKEN": 2
   },
   "kitStats": {
-    "pvp": 485,
+    "pvp": 486,
     "raid": 95,
     "survival": 477,
     "shulker": 296,
