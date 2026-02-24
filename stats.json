@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:15:08 25/2/2026",
-  "totalKits": 102331,
-  "todayKits": 344,
+  "lastUpdated": "00:15:27 25/2/2026",
+  "totalKits": 102332,
+  "todayKits": 345,
   "onlineCount": 43,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "23:47:08 24/2/2026",
     "avg": 24
   },
-  "tps": "8.0",
-  "ping": 211,
+  "tps": "7.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 556
+      "count": 557
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:14] [8b8t] >> You arent ignoring lvashl",
-    "[17:14] <Loax_XD> del team",
-    "[17:14] [BOT] <HienBot> **Loax_XD**: del team",
-    "[17:14] <renavolatil> tengo varias cuentas si",
-    "[17:14] [8b8t] >> ▲ Player nfkiki Joined.",
-    "[17:14] [BOT] <HienBot> **renavolatil**: tengo varias cuentas si",
-    "[17:14] <Loax_XD> m",
-    "[17:14] [BOT] <HienBot> **Loax_XD**: m",
-    "[17:14] <Loax_XD> pvp?",
-    "[17:14] [BOT] <HienBot> **Loax_XD**: pvp?",
-    "[17:14] [BOT] <HienBot> >Type list for a list of kits",
-    "[17:14] <Loax_XD> amistoso",
-    "[17:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:14] parottx2 got the wither disease",
-    "[17:14] unknown_2121_ thought they could fly... they couldn't",
     "[17:14] <renavolatil> soy malo en el pvp",
     "[17:14] [BOT] <HienBot> **renavolatil**: soy malo en el pvp",
     "[17:14] [8b8t] >> ▲ Player Rucosas Joined.",
@@ -108,7 +93,22 @@
     "[17:15] <Loax_XD> dale",
     "[17:15] [BOT] <HienBot> **renavolatil**: espada?",
     "[17:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:15] <Loax_XD> se"
+    "[17:15] <Loax_XD> se",
+    "[17:15] [BOT] <HienBot> **Loax_XD**: se",
+    "[17:15] <parottx2> survival",
+    "[17:15] [8b8t] >> Teleporting to home 0...",
+    "[17:15] [BOT] <HienBot> **parottx2**: survival",
+    "[17:15] [8b8t] >> Teleporting to home 1...",
+    "[17:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:15] To parottx2: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:15] To parottx2: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:15] rip_NK2013 decided to test gravity and lost",
+    "[17:15] [BOT] <HienBot> **Bot to parottx2**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[17:15] [8b8t] >> Request sent to parottx2",
+    "[17:15] [8b8t] >> Teleporting...",
+    "[17:15] unknown_2121_ forgot to bring their parachute"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -855,12 +855,13 @@
     "8b8tplayerr": 6,
     "danekmalenkihuek": 5,
     "KurtzMC": 1,
-    "Sago404": 1
+    "Sago404": 1,
+    "parottx2": 1
   },
   "kitStats": {
     "pvp": 514,
     "raid": 106,
-    "survival": 556,
+    "survival": 557,
     "shulker": 298,
     "music": 129,
     "terracotta": 25,
