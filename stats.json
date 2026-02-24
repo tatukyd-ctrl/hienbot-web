@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:03:23 24/2/2026",
+  "lastUpdated": "08:03:34 24/2/2026",
   "totalKits": 102001,
   "todayKits": 14,
-  "onlineCount": 38,
+  "onlineCount": 37,
   "peakPlayers": 61,
   "playerStats": {
     "min": 26,
@@ -12,7 +12,7 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 33
   },
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 218,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 459
+      "count": 460
     },
     {
       "name": "survival",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:02] <Hazesha> rockets",
-    "[01:02] <yra112> tk tpa to me",
-    "[01:02] [BOT] <HienBot> **Hazesha**: rockets",
-    "[01:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:02] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[01:02] Hazesha Whispers: rockets",
-    "[01:02] [8b8t] >> Please do not spam.",
-    "[01:02] <TKoyasu> hallo",
-    "[01:02] [BOT] <HienBot> **TKoyasu**: hallo",
-    "[01:02] <yra112> long ah tree",
-    "[01:02] [BOT] <HienBot> **yra112**: long ah tree",
-    "[01:03] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[01:03] <TKoyasu> rel",
-    "[01:03] [BOT] <HienBot> **TKoyasu**: rel",
-    "[01:03] <Emmanuelssj1228> busco ayuda",
     "[01:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:03] <kxyuno> pvp",
     "[01:03] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +93,22 @@
     "[01:03] [8b8t] >> Request sent to kxyuno",
     "[01:03] [8b8t] >> Teleporting...",
     "[01:03] [8b8t] >> ▲ Player tagg Joined.",
-    "[01:03] <TKoyasu> it should be a oak tree ngl"
+    "[01:03] <TKoyasu> it should be a oak tree ngl",
+    "[01:03] [BOT] <HienBot> **TKoyasu**: it should be a oak tree ngl",
+    "[01:03] [8b8t] >> You have killed yourself!",
+    "[01:03] HienBot was EZ clapped by kxyuno using [netherite sword]",
+    "[01:03] <Hazesha> pvp",
+    "[01:03] [8b8t] >> Teleporting to home 0...",
+    "[01:03] [BOT] <HienBot> **Hazesha**: pvp",
+    "[01:03] [8b8t] >> Teleporting to home 1...",
+    "[01:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:03] To kxyuno: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[01:03] <yra112> fr",
+    "[01:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:03] To Hazesha: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[01:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:03] [BOT] <HienBot> **Bot to Hazesha**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[01:03] [8b8t] >> ▼ Player Emmanuelssj1228 Left."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -587,7 +587,7 @@
     "Wemmbuumc_": 2,
     "Thiago1312XD": 20,
     "favio098": 1,
-    "Hazesha": 6,
+    "Hazesha": 7,
     "VOXY_PLAY": 14,
     "Ozi_Dev": 1,
     "westersart": 4,
@@ -826,7 +826,7 @@
     "Juanytoyt208": 5
   },
   "kitStats": {
-    "pvp": 459,
+    "pvp": 460,
     "raid": 89,
     "survival": 445,
     "shulker": 294,
