@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:56:05 24/2/2026",
+  "lastUpdated": "13:56:35 24/2/2026",
   "totalKits": 102088,
   "todayKits": 101,
   "onlineCount": 15,
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 24
   },
-  "tps": "10.0",
-  "ping": 215,
+  "tps": "11.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:55] [8b8t] >> You have killed yourself!",
-    "[06:55] [8b8t] >> No TPA request found",
-    "[06:55] [BOT] <HienBot> >Running low on supplies? Use survival",
-    "[06:55] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[06:55] [8b8t] >> You arent ignoring adri989",
-    "[06:55] [8b8t] >> Please include a player /ignore <playerName>",
-    "[06:55] [8b8t] >> You arent ignoring IamNuke_",
-    "[06:55] [8b8t] >> You arent ignoring DavidN3000",
-    "[06:55] [8b8t] >> You arent ignoring lvashl",
-    "[06:55] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[06:55] <Azure772> totem",
-    "[06:55] To Azure772: You're on cooldown, try again in 23 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:55] [BOT] <HienBot> **Azure772**: totem",
-    "[06:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:55] <kobthegoat14> craft",
     "[06:55] [8b8t] >> Teleporting to home 0...",
     "[06:55] [BOT] <HienBot> **kobthegoat14**: craft",
@@ -108,7 +94,21 @@
     "[06:55] HienBot decided to test gravity and lost",
     "[06:55] To kobthegoat14: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[06:55] [BOT] <HienBot> **Bot to kobthegoat14**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
+    "[06:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[06:56] [BOT] <HienBot> >Try stash",
+    "[06:56] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
+    "[06:56] [8b8t] >> You arent ignoring adri989",
+    "[06:56] [8b8t] >> Please include a player /ignore <playerName>",
+    "[06:56] <Azure772> stash",
+    "[06:56] [8b8t] >> Teleporting to home 0...",
+    "[06:56] [BOT] <HienBot> **Azure772**: stash",
+    "[06:56] [8b8t] >> Teleporting to home 2...",
+    "[06:56] To Azure772: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:56] [8b8t] >> You arent ignoring DavidN3000",
+    "[06:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:56] [8b8t] >> You arent ignoring lvashl",
+    "[06:56] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 1,
-    "Azure772": 23,
+    "Azure772": 24,
     "kobthegoat14": 24,
     "lunnita_": 1,
     "BookTheBook": 2
@@ -851,7 +851,7 @@
     "toolbox": 66,
     "wool": 48,
     "exp": 62,
-    "stash": 135,
+    "stash": 136,
     "ocean": 38,
     "build": 161,
     "dye": 20,
