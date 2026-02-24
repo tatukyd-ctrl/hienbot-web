@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:01:05 24/2/2026",
-  "totalKits": 102046,
-  "todayKits": 59,
-  "onlineCount": 17,
+  "lastUpdated": "13:01:34 24/2/2026",
+  "totalKits": 102047,
+  "todayKits": 60,
+  "onlineCount": 15,
   "peakPlayers": 61,
   "playerStats": {
     "min": 3,
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 26
   },
-  "tps": "13.0",
-  "ping": 215,
+  "tps": "10.0",
+  "ping": 228,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "dupe",
-      "count": 179
+      "count": 180
     },
     {
       "name": "build",
@@ -79,36 +79,36 @@
     }
   ],
   "chatLog": [
-    "[05:57] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[05:57] [8b8t] >> ▲ Player fish9987938 Joined.",
-    "[05:57] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
-    "[05:57] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[05:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:58] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[05:58] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[05:58] .Legendluck3005 forgot to bring their parachute",
-    "[05:58] [8b8t] >> ▲ Player i5k23 Joined.",
-    "[05:58] [8b8t] >> ▼ Player .Legendluck3005 Left.",
-    "[05:58] [8b8t] >> Please do not spam.",
-    "[05:58] [8b8t] >> ▲ Player HI_MAN_GOD Joined.",
-    "[05:58] <CosmicZone> himan",
-    "[05:58] [BOT] <HienBot> **CosmicZone**: himan",
-    "[05:59] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[05:59] [8b8t] >> ▲ Player Azure772 Joined.",
-    "[05:59] [8b8t] >> ▲ Player kobthegoat14 Joined.",
-    "[05:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:59] [8b8t] >> ▼ Player i5k23 Left.",
-    "[05:59] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[05:59] [8b8t] >> ▲ Player 17_doom Joined.",
-    "[06:00] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[06:00] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[06:00] <CosmicZone> I will die",
     "[06:00] [BOT] <HienBot> **CosmicZone**: I will die",
     "[06:00] CosmicZone thought they could fly... they couldn't",
     "[06:00] [BOT] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
     "[06:00] [8b8t] >> ▼ Player The_ant Left.",
     "[06:00] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[06:00] kobthegoat14 went for a swim in lava and got burned"
+    "[06:00] kobthegoat14 went for a swim in lava and got burned",
+    "[06:01] HI_MAN_GOD forgot to bring their parachute",
+    "[06:01] [BOT] <HienBot> >Try dupe",
+    "[06:01] <Azure772> dupe",
+    "[06:01] [BOT] <HienBot> **Azure772**: dupe",
+    "[06:01] [8b8t] >> Teleporting to home 0...",
+    "[06:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:01] [8b8t] >> Teleporting to home 7...",
+    "[06:01] To Azure772: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:01] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:01] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:01] [8b8t] >> Request sent to Azure772",
+    "[06:01] <kobthegoat14> dupe",
+    "[06:01] [8b8t] >> Please do not spam.",
+    "[06:01] To kobthegoat14: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[06:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:01] [8b8t] >> ▼ Player fish9987938 Left.",
+    "[06:01] [8b8t] >> ▼ Player CosmicZone Left.",
+    "[06:01] [8b8t] >> Teleporting...",
+    "[06:01] <kobthegoat14> dupe",
+    "[06:01] To kobthegoat14: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[06:01] [8b8t] >> Please do not spam.",
+    "[06:01] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -832,7 +832,8 @@
     "Nicoelmaspro120": 1,
     "2H3Z": 2,
     "JosGpe": 3,
-    ".AceDesert2260": 1
+    ".AceDesert2260": 1,
+    "Azure772": 1
   },
   "kitStats": {
     "pvp": 467,
@@ -852,7 +853,7 @@
     "build": 160,
     "dye": 20,
     "concrete": 36,
-    "dupe": 179,
+    "dupe": 180,
     "food": 46,
     "glass": 30,
     "elytra": 123,
