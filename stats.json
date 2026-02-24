@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:59:02 24/2/2026",
+  "lastUpdated": "18:59:06 24/2/2026",
   "totalKits": 102199,
   "todayKits": 212,
-  "onlineCount": 15,
+  "onlineCount": 16,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 20
   },
-  "tps": "16.0",
+  "tps": "13.0",
   "ping": 259,
   "topUsers": [
     {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:58] To ClusterMoonmc: You're on cooldown, try again in 29 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:58] [8b8t] >> You arent ignoring lvashl",
-    "[11:58] <evaletz> are u on vanilla?",
-    "[11:58] [BOT] <HienBot> **evaletz**: are u on vanilla?",
-    "[11:58] <TEKKEN> fabric",
-    "[11:58] [8b8t] >> Teleporting to home 0...",
     "[11:58] [BOT] <HienBot> **TEKKEN**: fabric",
     "[11:58] [8b8t] >> Teleporting to home 3...",
     "[11:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +100,15 @@
     "[11:58] [8b8t] >> Teleporting...",
     "[11:59] <TEKKEN> no",
     "[11:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:59] [BOT] <HienBot> >Try stash"
+    "[11:59] [BOT] <HienBot> >Try stash",
+    "[11:59] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
+    "[11:59] <ClusterMoonmc> stash",
+    "[11:59] [8b8t] >> You have killed yourself!",
+    "[11:59] HienBot forgot to stop, drop, and roll",
+    "[11:59] [8b8t] >> You have killed yourself!",
+    "[11:59] [BOT] <HienBot> **ClusterMoonmc**: stash",
+    "[11:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:59] To ClusterMoonmc: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -626,7 +626,7 @@
     "oowv": 6,
     "Chocta": 8,
     ".newfolder9": 1,
-    "ClusterMoonmc": 10,
+    "ClusterMoonmc": 11,
     "VortexGaminggg": 1,
     "mikparvinv2": 3,
     ".ANGEL2482726": 1,
@@ -857,7 +857,7 @@
     "toolbox": 66,
     "wool": 51,
     "exp": 66,
-    "stash": 144,
+    "stash": 145,
     "ocean": 40,
     "build": 180,
     "dye": 22,
