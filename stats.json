@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:58:05 24/2/2026",
-  "totalKits": 102089,
-  "todayKits": 102,
+  "lastUpdated": "13:58:30 24/2/2026",
+  "totalKits": 102090,
+  "todayKits": 103,
   "onlineCount": 14,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 24
   },
-  "tps": "15.0",
-  "ping": 223,
+  "tps": "11.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 481
+      "count": 482
     },
     {
       "name": "survival",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:57] [8b8t] >> Please include a player /ignore <playerName>",
-    "[06:57] [8b8t] >> ▼ Player Netanyahu Left.",
-    "[06:57] <kobthegoat14> memes",
-    "[06:57] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[06:57] [BOT] <HienBot> **kobthegoat14**: memes",
-    "[06:57] [8b8t] >> You arent ignoring IamNuke_",
-    "[06:57] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[06:57] [8b8t] >> You arent ignoring adri989",
-    "[06:57] [8b8t] >> Please include a player /ignore <playerName>",
-    "[06:57] [8b8t] >> You arent ignoring DavidN3000",
-    "[06:57] [8b8t] >> You arent ignoring IamNuke_",
-    "[06:57] [8b8t] >> Please include a player /ignore <playerName>",
-    "[06:57] [8b8t] >> ▲ Player htp1p0 Joined.",
-    "[06:57] [8b8t] >> You arent ignoring lvashl",
     "[06:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:57] <Azure772> build",
     "[06:57] To Azure772: You're on cooldown, try again in 36 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +94,21 @@
     "[06:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:58] To kobthegoat14: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[06:58] [BOT] <HienBot> **Bot to kobthegoat14**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[06:58] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
+    "[06:58] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[06:58] [BOT] <HienBot> >Get fully equipped with pvp",
+    "[06:58] <kobthegoat14> pvp",
+    "[06:58] [8b8t] >> Teleporting to home 0...",
+    "[06:58] [BOT] <HienBot> **kobthegoat14**: pvp",
+    "[06:58] [8b8t] >> Teleporting to home 1...",
+    "[06:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:58] To kobthegoat14: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:58] To kobthegoat14: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:58] [BOT] <HienBot> **Bot to kobthegoat14**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:58] [8b8t] >> Request sent to kobthegoat14",
+    "[06:58] [8b8t] >> ▼ Player Netanyahu Left.",
+    "[06:58] [8b8t] >> Teleporting...",
+    "[06:58] [8b8t] >> ▲ Player htp1p0 Joined."
   ],
   "userStats": {
     "Hien2309": 72,
@@ -834,12 +834,12 @@
     "JosGpe": 3,
     ".AceDesert2260": 1,
     "Azure772": 28,
-    "kobthegoat14": 25,
+    "kobthegoat14": 26,
     "lunnita_": 1,
     "BookTheBook": 2
   },
   "kitStats": {
-    "pvp": 481,
+    "pvp": 482,
     "raid": 93,
     "survival": 473,
     "shulker": 296,
