@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:03:05 24/2/2026",
+  "lastUpdated": "13:03:35 24/2/2026",
   "totalKits": 102048,
   "todayKits": 61,
-  "onlineCount": 14,
+  "onlineCount": 15,
   "peakPlayers": 61,
   "playerStats": {
     "min": 3,
@@ -12,8 +12,8 @@
     "maxTime": "07:55:34 24/2/2026",
     "avg": 26
   },
-  "tps": "12.0",
-  "ping": 222,
+  "tps": "15.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "pvp",
-      "count": 468
+      "count": 469
     },
     {
       "name": "survival",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:02] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[06:02] <kobthegoat14> pvp",
-    "[06:02] [8b8t] >> Teleporting to home 0...",
-    "[06:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:02] [8b8t] >> Teleporting to home 1...",
-    "[06:02] To kobthegoat14: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:02] [BOT] <HienBot> **Bot to kobthegoat14**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:02] To kobthegoat14: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:02] [BOT] <HienBot> **Bot to kobthegoat14**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:02] [8b8t] >> Request sent to kobthegoat14",
-    "[06:02] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
     "[06:02] <Azure772> pvp",
     "[06:02] To Azure772: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[06:02] [BOT] <HienBot> **Azure772**: pvp",
@@ -108,7 +96,19 @@
     "[06:02] [8b8t] >> You arent ignoring IamNuke_",
     "[06:02] [8b8t] >> You arent ignoring DavidN3000",
     "[06:02] [8b8t] >> You arent ignoring lvashl",
-    "[06:03] [8b8t] >> ▲ Player BigBear Joined."
+    "[06:03] [8b8t] >> ▲ Player BigBear Joined.",
+    "[06:03] [BOT] <HienBot> >Use list to choose your kit",
+    "[06:03] [8b8t] >> ▲ Player Azure772 Joined.",
+    "[06:03] <Azure772> cpvp",
+    "[06:03] [8b8t] >> Teleporting to home 0...",
+    "[06:03] [BOT] <HienBot> **Azure772**: cpvp",
+    "[06:03] [8b8t] >> Teleporting to home 1...",
+    "[06:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:03] To Azure772: Your kit (cpvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:03] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:03] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:03] [8b8t] >> Request sent to Azure772"
   ],
   "userStats": {
     "Hien2309": 72,
@@ -833,11 +833,11 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 1,
-    "Azure772": 1,
+    "Azure772": 2,
     "kobthegoat14": 1
   },
   "kitStats": {
-    "pvp": 468,
+    "pvp": 469,
     "raid": 92,
     "survival": 464,
     "shulker": 295,
