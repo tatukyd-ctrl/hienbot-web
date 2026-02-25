@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:30:40 25/2/2026",
+  "lastUpdated": "08:31:10 25/2/2026",
   "totalKits": 102416,
   "todayKits": 14,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 61,
   "playerStats": {
     "min": 14,
@@ -13,7 +13,7 @@
     "avg": 22
   },
   "tps": "15.0",
-  "ping": 210,
+  "ping": 212,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 526
+      "count": 527
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[01:27] [8b8t] >> You arent ignoring adri989",
-    "[01:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[01:27] [8b8t] >> You arent ignoring IamNuke_",
-    "[01:27] [8b8t] >> You arent ignoring DavidN3000",
-    "[01:27] [8b8t] >> You arent ignoring lvashl",
-    "[01:28] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[01:28] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[01:28] [BOT] <HienBot> >Use list to choose your kit",
-    "[01:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:28] <Doniste> el que queria team es nuevo ?",
-    "[01:28] [BOT] <HienBot> **Doniste**: el que queria team es nuevo ?",
-    "[01:29] [BOT] <HienBot> >Use list to see all available kits!",
     "[01:29] <ApleB0t> mas o menos",
     "[01:29] [BOT] <HienBot> **ApleB0t**: mas o menos",
     "[01:29] <Doniste> tenes cosas ?",
@@ -108,7 +95,20 @@
     "[01:30] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[01:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:30] [BOT] <HienBot> >Welcome to 8b8t, Barrerics_2011!",
-    "[01:30] [8b8t] >> ▲ Player .Obeeone2 Joined."
+    "[01:30] [8b8t] >> ▲ Player .Obeeone2 Joined.",
+    "[01:30] [8b8t] >> ▲ Player voidedyy Joined.",
+    "[01:30] <voidedyy> alguien team?",
+    "[01:30] [BOT] <HienBot> **voidedyy**: alguien team?",
+    "[01:30] <ApleB0t> yop",
+    "[01:30] [BOT] <HienBot> **ApleB0t**: yop",
+    "[01:31] [BOT] <HienBot> >What's up, .Obeeone2?",
+    "[01:31] <voidedyy> pvp",
+    "[01:31] [8b8t] >> Teleporting to home 0...",
+    "[01:31] [BOT] <HienBot> **voidedyy**: pvp",
+    "[01:31] [8b8t] >> Teleporting to home 1...",
+    "[01:31] To voidedyy: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:31] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -866,10 +866,11 @@
     "X4DZN": 1,
     "ksvxx": 1,
     "Nickittyy": 2,
-    "ApleB0t": 5
+    "ApleB0t": 5,
+    "voidedyy": 1
   },
   "kitStats": {
-    "pvp": 526,
+    "pvp": 527,
     "raid": 112,
     "survival": 614,
     "shulker": 299,
