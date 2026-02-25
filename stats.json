@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:01:13 25/2/2026",
+  "lastUpdated": "21:01:43 25/2/2026",
   "totalKits": 102630,
   "todayKits": 228,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 21
   },
   "tps": "10.0",
-  "ping": 250,
+  "ping": 281,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 671
+      "count": 672
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:00] [BOT] <HienBot> **Cuty_Pie**: mace",
-    "[14:00] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[14:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:00] <Cuty_Pie> mace",
-    "[14:00] [8b8t] >> Teleporting to home 0...",
-    "[14:00] [BOT] <HienBot> **Cuty_Pie**: mace",
-    "[14:00] [8b8t] >> Teleporting to home 7...",
     "[14:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:00] To Cuty_Pie: Your kit (mace) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[14:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +101,14 @@
     "[14:00] [8b8t] >> You arent ignoring DavidN3000",
     "[14:00] [8b8t] >> You arent ignoring lvashl",
     "[14:00] [8b8t] >> ▲ Player .Oliiifgffbb Joined.",
-    "[14:01] [BOT] <HienBot> >Running low on supplies? Use survival"
+    "[14:01] [BOT] <HienBot> >Running low on supplies? Use survival",
+    "[14:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[14:01] [BOT] <HienBot> >Welcome to 8b8t, io_client!",
+    "[14:01] [8b8t] >> ▲ Player TylerDurden098 Joined.",
+    "[14:01] <ROGUE> survival",
+    "[14:01] [8b8t] >> Teleporting to home 0...",
+    "[14:01] [8b8t] >> Teleporting to home 1...",
+    "[14:01] [BOT] <HienBot> **ROGUE**: survival"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -876,7 +876,7 @@
     "XimenaPro178xd": 1,
     "NNGAMER": 3,
     "Cuty_Pie": 37,
-    "ROGUE": 5,
+    "ROGUE": 6,
     "stylecat": 1,
     "BEGIT": 1,
     "Jackbhaiyaa12": 6
@@ -884,7 +884,7 @@
   "kitStats": {
     "pvp": 579,
     "raid": 119,
-    "survival": 671,
+    "survival": 672,
     "shulker": 301,
     "music": 139,
     "terracotta": 26,
