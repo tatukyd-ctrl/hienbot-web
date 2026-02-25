@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:46:44 25/2/2026",
+  "lastUpdated": "23:47:14 25/2/2026",
   "totalKits": 102672,
   "todayKits": 270,
-  "onlineCount": 34,
+  "onlineCount": 37,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:54:44 25/2/2026",
     "avg": 24
   },
-  "tps": "9.0",
-  "ping": 0,
+  "tps": "10.0",
+  "ping": 232,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 584
+      "count": 585
     },
     {
       "name": "shulker",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:46] [8b8t] >> ▲ Player HienBot Joined.",
-    "[16:46] <Weyku> mace",
-    "[16:46] You are already connected to this server!",
-    "[16:46] [8b8t] >> Teleporting to home 0...",
-    "[16:46] [BOT] <HienBot> **Weyku**: mace",
-    "[16:46] [8b8t] >> Teleporting to home 7...",
-    "[16:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:46] To Weyku: Your kit (mace) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:46] To Weyku: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:46] [BOT] <HienBot> **Bot to Weyku**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:46] [8b8t] >> Request sent to Weyku",
-    "[16:46] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[16:46] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[16:46] [8b8t] >> You arent ignoring adri989",
-    "[16:46] [8b8t] >> Please include a player /ignore <playerName>",
-    "[16:46] [8b8t] >> Please include a player /ignore <playerName>",
-    "[16:46] [8b8t] >> Teleporting...",
-    "[16:46] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[16:46] [8b8t] >> You arent ignoring IamNuke_",
-    "[16:46] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[16:46] [8b8t] >> You arent ignoring adri989",
     "[16:46] [8b8t] >> You arent ignoring DavidN3000",
     "[16:46] [BOT] <HienBot> >Use info <player> to check someone's stats",
     "[16:46] [8b8t] >> ▼ Player imnewtopvp354868 Left.",
@@ -108,7 +86,29 @@
     "[16:46] [8b8t] >> You have killed yourself!",
     "[16:46] HienBot was slain by Weyku using [netherite sword]",
     "[16:46] To Weyku: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[16:46] [BOT] <HienBot> **Bot to Weyku**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[16:46] [BOT] <HienBot> **Bot to Weyku**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[16:46] [8b8t] >> ▲ Player imnewtopvp354868 Joined.",
+    "[16:46] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
+    "[16:46] [8b8t] >> You arent ignoring adri989",
+    "[16:46] [8b8t] >> Please include a player /ignore <playerName>",
+    "[16:46] [8b8t] >> You arent ignoring IamNuke_",
+    "[16:46] [8b8t] >> ▼ Player imnewtopvp354868 Left.",
+    "[16:46] [8b8t] >> You arent ignoring DavidN3000",
+    "[16:46] [8b8t] >> You arent ignoring lvashl",
+    "[16:46] peresita tried to outswim the water",
+    "[16:46] [8b8t] >> ▲ Player imnewtopvp354868 Joined.",
+    "[16:47] [8b8t] >> ▲ Player Jippolo Joined.",
+    "[16:47] [8b8t] >> ▲ Player TAPOLIKKK Joined.",
+    "[16:47] [BOT] <HienBot> >Use /lobby to return to the lobby!",
+    "[16:47] <peacebringer12> shadow you have firework for yourself?",
+    "[16:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:47] <Kxrrupt404> pvp",
+    "[16:47] [8b8t] >> Teleporting to home 0...",
+    "[16:47] [8b8t] >> Teleporting to home 1...",
+    "[16:47] [BOT] <HienBot> **Kxrrupt404**: pvp",
+    "[16:47] To Kxrrupt404: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:47] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -884,10 +884,10 @@
     "Weyku": 13,
     "Minute_Hecky": 1,
     "spinchase": 8,
-    "Kxrrupt404": 2
+    "Kxrrupt404": 3
   },
   "kitStats": {
-    "pvp": 584,
+    "pvp": 585,
     "raid": 120,
     "survival": 696,
     "shulker": 302,
