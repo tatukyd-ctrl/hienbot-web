@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:15:44 26/2/2026",
-  "totalKits": 102683,
-  "todayKits": 281,
+  "lastUpdated": "00:16:05 26/2/2026",
+  "totalKits": 102684,
+  "todayKits": 282,
   "onlineCount": 36,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "22:54:44 25/2/2026",
     "avg": 24
   },
-  "tps": "7.0",
+  "tps": "9.0",
   "ping": 219,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "dupe",
-      "count": 255
+      "count": 256
     },
     {
       "name": "build",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:14] [8b8t] >> Teleporting to home 0...",
-    "[17:14] [BOT] <HienBot> **gabonzo**: stash",
-    "[17:14] [8b8t] >> Teleporting to home 2...",
-    "[17:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:14] To gabonzo: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:14] [8b8t] >> ▼ Player gabositoo Left.",
-    "[17:14] To gabonzo: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[17:14] [BOT] <HienBot> **Bot to gabonzo**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[17:14] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[17:14] kartik090 has reached the goal [Postmortal]",
-    "[17:14] [8b8t] >> ▼ Player OldestAnarchy32K Left.",
     "[17:15] [8b8t] >> ▲ Player OldestAnarchy32K Joined.",
     "[17:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[17:15] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
@@ -108,7 +96,19 @@
     "[17:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[17:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[17:15] To Pereso: ¡Lo siento! Pink Shulker Box agotado, ¡no hay otros kits! dsc.gg/hienbot",
-    "[17:15] [BOT] <HienBot> **Bot to Pereso**: Lo siento! Pink Shulker Box agotado, no hay otros kits! dsc.gg/hienbot"
+    "[17:15] [BOT] <HienBot> **Bot to Pereso**: Lo siento! Pink Shulker Box agotado, no hay otros kits! dsc.gg/hienbot",
+    "[17:15] <Pereso> ¡dupe",
+    "[17:15] [8b8t] >> Teleporting to home 0...",
+    "[17:15] [BOT] <HienBot> **Pereso**: dupe",
+    "[17:15] [8b8t] >> Teleporting to home 7...",
+    "[17:15] To Pereso: ¡Tu kit (dupe) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
+    "[17:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:15] To Pereso: ¡Escribe \"/tpayes HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[17:16] [BOT] <HienBot> **Bot to Pereso**: Escribe \"/tpayes HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[17:16] [8b8t] >> Request sent to Pereso",
+    "[17:16] [8b8t] >> Teleporting...",
+    "[17:16] [BOT] <HienBot> >Use /kill to kill yourself!"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -618,7 +618,7 @@
     "baleandro": 7,
     "blake56": 9,
     "Sharkey": 1,
-    "Pereso": 18,
+    "Pereso": 19,
     "Darexy": 1,
     "Oratilepro": 6,
     "fen_na_azis": 2,
@@ -906,7 +906,7 @@
     "build": 214,
     "dye": 24,
     "concrete": 42,
-    "dupe": 255,
+    "dupe": 256,
     "food": 54,
     "glass": 37,
     "elytra": 191,
