@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:32:44 25/2/2026",
+  "lastUpdated": "23:33:14 25/2/2026",
   "totalKits": 102666,
   "todayKits": 264,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:54:44 25/2/2026",
     "avg": 24
   },
-  "tps": "13.0",
-  "ping": 217,
+  "tps": "11.0",
+  "ping": 216,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 691
+      "count": 692
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:31] [8b8t] >> ▲ Player michelin212013 Joined.",
-    "[16:31] [8b8t] >> ▼ Player Minute_Hecky Left.",
-    "[16:31] <bertor1111> valaki magyar?",
-    "[16:31] [BOT] <HienBot> **bertor1111**: valaki magyar?",
-    "[16:31] <Weyku> ok",
-    "[16:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:31] [8b8t] >> ▼ Player Weyku Left.",
-    "[16:31] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[16:31] [8b8t] >> You arent ignoring adri989",
-    "[16:31] [8b8t] >> Please include a player /ignore <playerName>",
-    "[16:31] [8b8t] >> You arent ignoring IamNuke_",
-    "[16:31] [8b8t] >> You arent ignoring DavidN3000",
-    "[16:31] [8b8t] >> You arent ignoring lvashl",
     "[16:31] <spinchase> so can u /tpahere me",
     "[16:31] [BOT] <HienBot> **spinchase**: so can u /tpahere me",
     "[16:31] <xShadow404x> how tf is TheobaldTheBird here?",
@@ -108,7 +95,20 @@
     "[16:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:32] <spinchase> and he is actually real",
     "[16:32] 0xPwnd thought they could fly... they couldn't",
-    "[16:32] [BOT] <HienBot> **spinchase**: and he is actually real"
+    "[16:32] [BOT] <HienBot> **spinchase**: and he is actually real",
+    "[16:33] [8b8t] >> ▼ Player bertor1111 Left.",
+    "[16:33] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
+    "[16:33] [BOT] <HienBot> >Want free items? Just type survival",
+    "[16:33] <spinchase> surival",
+    "[16:33] [BOT] <HienBot> **spinchase**: surival",
+    "[16:33] michelin212013 has made the advancement [Stone Age]",
+    "[16:33] michelin212013 forgot to bring their parachute",
+    "[16:33] <spinchase> survival",
+    "[16:33] [8b8t] >> Teleporting to home 0...",
+    "[16:33] [8b8t] >> Please do not spam.",
+    "[16:33] [8b8t] >> Teleporting to home 1...",
+    "[16:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:33] To spinchase: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -883,12 +883,12 @@
     ".Oliiifgffbb": 1,
     "Weyku": 9,
     "Minute_Hecky": 1,
-    "spinchase": 3
+    "spinchase": 4
   },
   "kitStats": {
     "pvp": 584,
     "raid": 120,
-    "survival": 691,
+    "survival": 692,
     "shulker": 302,
     "music": 141,
     "terracotta": 26,
