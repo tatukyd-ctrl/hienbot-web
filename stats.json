@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:35:13 25/2/2026",
-  "totalKits": 102618,
-  "todayKits": 216,
+  "lastUpdated": "20:35:32 25/2/2026",
+  "totalKits": 102619,
+  "todayKits": 217,
   "onlineCount": 36,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "20:26:13 25/2/2026",
     "avg": 21
   },
-  "tps": "6.0",
-  "ping": 233,
+  "tps": "7.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 667
+      "count": 668
     },
     {
       "name": "pvp",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:34] <ROGUE> lang",
-    "[13:34] To ROGUE: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
-    "[13:34] [BOT] <HienBot> **ROGUE**: lang",
-    "[13:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:34] <ROGUE> en",
-    "[13:34] [BOT] <HienBot> **ROGUE**: en",
-    "[13:34] <ResinMC> survival",
-    "[13:34] [8b8t] >> Teleporting to home 0...",
-    "[13:34] [8b8t] >> Teleporting to home 1...",
-    "[13:34] [BOT] <HienBot> **ResinMC**: survival",
-    "[13:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:34] To ResinMC: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:34] To ResinMC: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:34] [BOT] <HienBot> **Bot to ResinMC**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:34] <Jackbhaiyaa12> survival",
-    "[13:34] [8b8t] >> Request sent to ResinMC",
-    "[13:34] To Jackbhaiyaa12: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[13:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:35] [8b8t] >> Teleporting...",
@@ -108,7 +90,25 @@
     "[13:35] [BOT] <HienBot> **ROGUE**: ping",
     "[13:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:35] To ResinMC: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:35] [BOT] <HienBot> **Bot to ResinMC**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[13:35] [BOT] <HienBot> **Bot to ResinMC**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:35] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
+    "[13:35] [8b8t] >> You arent ignoring adri989",
+    "[13:35] [8b8t] >> Please include a player /ignore <playerName>",
+    "[13:35] <Jackbhaiyaa12> survival",
+    "[13:35] [8b8t] >> Teleporting to home 0...",
+    "[13:35] [8b8t] >> Teleporting to home 1...",
+    "[13:35] [BOT] <HienBot> **Jackbhaiyaa12**: survival",
+    "[13:35] [8b8t] >> You arent ignoring IamNuke_",
+    "[13:35] To Jackbhaiyaa12: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:35] [8b8t] >> You arent ignoring DavidN3000",
+    "[13:35] [8b8t] >> You arent ignoring lvashl",
+    "[13:35] To Jackbhaiyaa12: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:35] [BOT] <HienBot> **Bot to Jackbhaiyaa12**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:35] [8b8t] >> Request sent to Jackbhaiyaa12",
+    "[13:35] [8b8t] >> Teleporting...",
+    "[13:35] io_client's mom said we have food at home"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -879,12 +879,12 @@
     "ROGUE": 2,
     "stylecat": 1,
     "BEGIT": 1,
-    "Jackbhaiyaa12": 2
+    "Jackbhaiyaa12": 3
   },
   "kitStats": {
     "pvp": 576,
     "raid": 118,
-    "survival": 667,
+    "survival": 668,
     "shulker": 301,
     "music": 138,
     "terracotta": 26,
