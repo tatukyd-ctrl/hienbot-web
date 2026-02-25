@@ -1,13 +1,13 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:19:10 25/2/2026",
-  "totalKits": 102408,
-  "todayKits": 6,
-  "onlineCount": 16,
+  "lastUpdated": "08:19:36 25/2/2026",
+  "totalKits": 102409,
+  "todayKits": 7,
+  "onlineCount": 15,
   "peakPlayers": 61,
   "playerStats": {
-    "min": 16,
-    "minTime": "08:11:40 25/2/2026",
+    "min": 15,
+    "minTime": "08:19:36 25/2/2026",
     "max": 29,
     "maxTime": "07:49:40 25/2/2026",
     "avg": 24
@@ -71,7 +71,7 @@
     },
     {
       "name": "dupe",
-      "count": 220
+      "count": 221
     },
     {
       "name": "build",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:18] <AspectofFlame> redstone",
-    "[01:18] [8b8t] >> Teleporting to home 0...",
-    "[01:18] [8b8t] >> Teleporting to home 2...",
-    "[01:18] [BOT] <HienBot> **AspectofFlame**: redstone",
-    "[01:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:18] To AspectofFlame: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:18] [8b8t] >> ▲ Player JustFabio Joined.",
-    "[01:18] To AspectofFlame: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:18] [8b8t] >> ▼ Player io_client Left.",
-    "[01:18] ApleB0t Whispers: kit illegal",
-    "[01:18] [BOT] <HienBot> **Bot to AspectofFlame**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:18] To ApleB0t: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[01:18] [8b8t] >> Request sent to AspectofFlame",
-    "[01:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:18] [8b8t] >> ▼ Player MonkeBot Left.",
     "[01:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:18] [8b8t] >> ▼ Player NETANYAHU Left.",
@@ -108,7 +91,24 @@
     "[01:19] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
     "[01:19] [8b8t] >> You arent ignoring adri989",
     "[01:19] [8b8t] >> Please include a player /ignore <playerName>",
-    "[01:19] [8b8t] >> You arent ignoring IamNuke_"
+    "[01:19] [8b8t] >> You arent ignoring IamNuke_",
+    "[01:19] [8b8t] >> You arent ignoring DavidN3000",
+    "[01:19] [8b8t] >> You arent ignoring lvashl",
+    "[01:19] VanillaNote4318 thought they could make it to oxygen in time",
+    "[01:19] JustFabio thought they could fly... they couldn't",
+    "[01:19] [8b8t] >> ▼ Player Nickittyy Left.",
+    "[01:19] ApleB0t Whispers: kit illegal",
+    "[01:19] [8b8t] >> Teleporting to home 0...",
+    "[01:19] [BOT] <HienBot> **ApleB0t**: kit illegal",
+    "[01:19] [8b8t] >> Teleporting to home 7...",
+    "[01:19] To ApleB0t: Your kit (illegal) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:19] To ApleB0t: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:19] [BOT] <HienBot> **Bot to ApleB0t**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:19] [8b8t] >> Request sent to ApleB0t",
+    "[01:19] [8b8t] >> Teleporting...",
+    "[01:19] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -866,7 +866,7 @@
     "X4DZN": 1,
     "ksvxx": 1,
     "Nickittyy": 2,
-    "ApleB0t": 1
+    "ApleB0t": 2
   },
   "kitStats": {
     "pvp": 524,
@@ -886,7 +886,7 @@
     "build": 199,
     "dye": 23,
     "concrete": 40,
-    "dupe": 220,
+    "dupe": 221,
     "food": 52,
     "glass": 34,
     "elytra": 169,
