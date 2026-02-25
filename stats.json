@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:27:10 25/2/2026",
-  "totalKits": 102415,
-  "todayKits": 13,
-  "onlineCount": 16,
+  "lastUpdated": "08:27:25 25/2/2026",
+  "totalKits": 102416,
+  "todayKits": 14,
+  "onlineCount": 17,
   "peakPlayers": 61,
   "playerStats": {
     "min": 14,
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 525
+      "count": 526
     },
     {
       "name": "shulker",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:25] [BOT] <HienBot> **ApleB0t**: alguien pa team?",
-    "[01:25] [8b8t] >> ▼ Player PistonCubeB0T Left.",
-    "[01:25] [8b8t] >> ▲ Player htp1p0 Joined.",
-    "[01:25] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[01:25] [8b8t] >> ▲ Player Duckiskool Joined.",
-    "[01:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[01:25] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
-    "[01:26] [BOT] <HienBot> >Welcome to 8b8t, ApleB0t!",
-    "[01:26] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[01:26] [8b8t] >> ▼ Player Duckiskool Left.",
-    "[01:26] C0ded_Fader got sniped by a bony Skeleton",
-    "[01:26] [8b8t] >> ▼ Player C0ded_Fader Left.",
-    "[01:26] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[01:26] <InsaneBoi69> armour",
-    "[01:26] [8b8t] >> Teleporting to home 0...",
-    "[01:26] [BOT] <HienBot> **InsaneBoi69**: armour",
-    "[01:26] [8b8t] >> Teleporting to home 1...",
-    "[01:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:26] To InsaneBoi69: Your kit (armour) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[01:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:26] To InsaneBoi69: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:26] [BOT] <HienBot> **Bot to InsaneBoi69**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +89,26 @@
     "[01:27] InsaneBoi69 pulverized HienBot using [netherite sword]",
     "[01:27] [8b8t] >> ▼ Player iTrisstan Left.",
     "[01:27] To InsaneBoi69: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[01:27] [BOT] <HienBot> **Bot to InsaneBoi69**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[01:27] [BOT] <HienBot> **Bot to InsaneBoi69**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[01:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
+    "[01:27] [8b8t] >> You arent ignoring adri989",
+    "[01:27] [8b8t] >> Please include a player /ignore <playerName>",
+    "[01:27] <ApleB0t> armour",
+    "[01:27] [8b8t] >> Teleporting to home 0...",
+    "[01:27] [BOT] <HienBot> **ApleB0t**: armour",
+    "[01:27] [8b8t] >> Teleporting to home 1...",
+    "[01:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:27] [8b8t] >> You arent ignoring IamNuke_",
+    "[01:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[01:27] To ApleB0t: Your kit (armour) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:27] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[01:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:27] [8b8t] >> You arent ignoring DavidN3000",
+    "[01:27] To ApleB0t: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:27] [8b8t] >> You arent ignoring lvashl",
+    "[01:27] [BOT] <HienBot> **Bot to ApleB0t**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:27] [8b8t] >> Request sent to ApleB0t",
+    "[01:27] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -866,10 +866,10 @@
     "X4DZN": 1,
     "ksvxx": 1,
     "Nickittyy": 2,
-    "ApleB0t": 4
+    "ApleB0t": 5
   },
   "kitStats": {
-    "pvp": 525,
+    "pvp": 526,
     "raid": 112,
     "survival": 614,
     "shulker": 299,
