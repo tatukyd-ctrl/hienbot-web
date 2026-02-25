@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:28:43 25/2/2026",
+  "lastUpdated": "20:29:13 25/2/2026",
   "totalKits": 102616,
   "todayKits": 214,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 21
   },
   "tps": "11.0",
-  "ping": 224,
+  "ping": 221,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 664
+      "count": 665
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:27] [8b8t] >> Teleporting...",
-    "[13:27] [8b8t] >> ▼ Player hein Left.",
-    "[13:27] [8b8t] >> You have killed yourself!",
-    "[13:27] TylerDurden098 pulverized HienBot using [diamond sword]",
-    "[13:27] To TylerDurden098: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:27] [BOT] <HienBot> **Bot to TylerDurden098**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[13:27] [8b8t] >> You arent ignoring adri989",
-    "[13:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[13:27] [8b8t] >> You arent ignoring IamNuke_",
-    "[13:27] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[13:27] [8b8t] >> You arent ignoring DavidN3000",
     "[13:27] [8b8t] >> You arent ignoring lvashl",
     "[13:27] Jackbhaiyaa12 thought they could fly... they couldn't",
     "[13:27] [8b8t] >> ▼ Player _aksn Left.",
@@ -108,7 +96,19 @@
     "[13:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[13:28] [BOT] <HienBot> **CuloGangTobias**: 8b8t king durmiendo sleep sleeping",
     "[13:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:28] [8b8t] >> ▼ Player KurtzMC Left."
+    "[13:28] [8b8t] >> ▼ Player KurtzMC Left.",
+    "[13:28] [8b8t] >> ▼ Player ResinMC Left.",
+    "[13:29] [BOT] <HienBot> >Want to see your ping? Chat ping",
+    "[13:29] <Jackbhaiyaa12> survival",
+    "[13:29] [8b8t] >> Teleporting to home 0...",
+    "[13:29] [8b8t] >> Teleporting to home 1...",
+    "[13:29] [BOT] <HienBot> **Jackbhaiyaa12**: survival",
+    "[13:29] To Jackbhaiyaa12: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:29] To Jackbhaiyaa12: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:29] [BOT] <HienBot> **Bot to Jackbhaiyaa12**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:29] [8b8t] >> Request sent to Jackbhaiyaa12"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -878,12 +878,13 @@
     "Cuty_Pie": 33,
     "ROGUE": 2,
     "stylecat": 1,
-    "BEGIT": 1
+    "BEGIT": 1,
+    "Jackbhaiyaa12": 1
   },
   "kitStats": {
     "pvp": 576,
     "raid": 118,
-    "survival": 664,
+    "survival": 665,
     "shulker": 301,
     "music": 138,
     "terracotta": 26,
