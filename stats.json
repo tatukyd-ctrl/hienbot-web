@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:30:14 25/2/2026",
+  "lastUpdated": "22:30:44 25/2/2026",
   "totalKits": 102653,
   "todayKits": 251,
   "onlineCount": 42,
@@ -12,8 +12,8 @@
     "maxTime": "21:13:43 25/2/2026",
     "avg": 23
   },
-  "tps": "9.0",
-  "ping": 218,
+  "tps": "8.0",
+  "ping": 235,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 683
+      "count": 684
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:26] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[15:26] [8b8t] >> ▼ Player broke_af Left.",
-    "[15:26] Sylo99 tried to outswim the water",
-    "[15:26] [8b8t] >> ▲ Player broke_af Joined.",
-    "[15:26] [8b8t] >> ▼ Player .Krista_052178 Left.",
-    "[15:26] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[15:26] [8b8t] >> ▼ Player iTrisstan Left.",
     "[15:26] Sylo99 thought they could make it to oxygen in time",
     "[15:26] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[15:27] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
@@ -108,7 +101,14 @@
     "[15:29] .DrJoEant challenged the Wither and lost their head",
     "[15:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[15:30] [BOT] <HienBot> >Want free items? Just type survival",
-    "[15:30] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
+    "[15:30] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[15:30] [BOT] <HienBot> >Get a head start with survival",
+    "[15:30] <.Oliiifgffbb> Survival",
+    "[15:30] [8b8t] >> Teleporting to home 0...",
+    "[15:30] [8b8t] >> Teleporting to home 1...",
+    "[15:30] [BOT] <HienBot> **.Oliiifgffbb**: Survival",
+    "[15:30] To .Oliiifgffbb: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:30] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -879,12 +879,13 @@
     "ROGUE": 13,
     "stylecat": 1,
     "BEGIT": 1,
-    "Jackbhaiyaa12": 22
+    "Jackbhaiyaa12": 22,
+    ".Oliiifgffbb": 1
   },
   "kitStats": {
     "pvp": 581,
     "raid": 120,
-    "survival": 683,
+    "survival": 684,
     "shulker": 302,
     "music": 139,
     "terracotta": 26,
