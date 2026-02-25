@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:04:44 25/2/2026",
+  "lastUpdated": "23:05:14 25/2/2026",
   "totalKits": 102658,
   "todayKits": 256,
   "onlineCount": 37,
@@ -12,7 +12,7 @@
     "maxTime": "22:54:44 25/2/2026",
     "avg": 23
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 224,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 685
+      "count": 686
     },
     {
       "name": "pvp",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:03] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[16:03] <HienBot> **Bot to Weyku**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[16:03] [8b8t] Unknown command do /help",
-    "[16:03] [8b8t] Unknown command do /help",
     "[16:03] [8b8t] Unknown command do /help",
     "[16:03] You are already trying to connect to a server!",
     "[16:03] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -108,7 +104,11 @@
     "[16:04] [8b8t] >> ▲ Player tricksma Joined.",
     "[16:04] [8b8t] >> ▼ Player moleconaguacate Left.",
     "[16:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[16:04] [BOT] <HienBot> >Survive safely with a free kit! Type survival"
+    "[16:04] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
+    "[16:04] [8b8t] >> ▲ Player sijiumoxin Joined.",
+    "[16:04] [8b8t] >> ▼ Player sijiumoxin Left.",
+    "[16:05] [BOT] <HienBot> >Get a head start with survival",
+    "[16:05] <Weyku> survival"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -881,12 +881,12 @@
     "BEGIT": 1,
     "Jackbhaiyaa12": 22,
     ".Oliiifgffbb": 1,
-    "Weyku": 1
+    "Weyku": 2
   },
   "kitStats": {
     "pvp": 582,
     "raid": 120,
-    "survival": 685,
+    "survival": 686,
     "shulker": 302,
     "music": 139,
     "terracotta": 26,
