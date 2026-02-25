@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:03:12 25/2/2026",
-  "totalKits": 102593,
-  "todayKits": 191,
-  "onlineCount": 22,
+  "lastUpdated": "19:03:41 25/2/2026",
+  "totalKits": 102594,
+  "todayKits": 192,
+  "onlineCount": 21,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "10:04:41 25/2/2026",
     "avg": 20
   },
-  "tps": "14.0",
+  "tps": "9.0",
   "ping": 269,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 569
+      "count": 570
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:00] [8b8t] >> Teleporting to home 2...",
-    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:00] To ResinMC: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:00] To ResinMC: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:00] [BOT] <HienBot> **Bot to ResinMC**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:00] [8b8t] >> ▼ Player TylerDurden098 Left.",
-    "[12:00] [8b8t] >> ▼ Player Zae1rox Left.",
-    "[12:01] [BOT] <HienBot> >Welcome to 8b8t, iTrisstan!",
-    "[12:01] [8b8t] >> ▼ Player PistonCubeB0T Left.",
-    "[12:01] [8b8t] >> ▲ Player Cuty_Pie Joined.",
-    "[12:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:01] [BOT] <HienBot> >Use lang and select your language",
     "[12:01] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
     "[12:01] [8b8t] >> ▲ Player IGNATignat Joined.",
@@ -108,7 +95,20 @@
     "[12:02] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
     "[12:02] [8b8t] >> ▼ Player .Krista_052178 Left.",
     "[12:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:03] [BOT] <HienBot> >Welcome to 8b8t, MonkeBot!"
+    "[12:03] [BOT] <HienBot> >Welcome to 8b8t, MonkeBot!",
+    "[12:03] [8b8t] >> ▼ Player DPS_Voyager_bot Left.",
+    "[12:03] <Cuty_Pie> pvp",
+    "[12:03] [8b8t] >> Teleporting to home 0...",
+    "[12:03] [8b8t] >> Teleporting to home 1...",
+    "[12:03] [BOT] <HienBot> **Cuty_Pie**: pvp",
+    "[12:03] To Cuty_Pie: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:03] To Cuty_Pie: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:03] [BOT] <HienBot> **Bot to Cuty_Pie**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:03] [8b8t] >> Request sent to Cuty_Pie",
+    "[12:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -875,11 +875,11 @@
     "kennethhh11": 5,
     "XimenaPro178xd": 1,
     "NNGAMER": 3,
-    "Cuty_Pie": 21,
+    "Cuty_Pie": 22,
     "ROGUE": 1
   },
   "kitStats": {
-    "pvp": 569,
+    "pvp": 570,
     "raid": 118,
     "survival": 656,
     "shulker": 301,
