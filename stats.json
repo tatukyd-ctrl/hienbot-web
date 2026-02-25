@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:38:42 25/2/2026",
+  "lastUpdated": "17:39:12 25/2/2026",
   "totalKits": 102569,
   "todayKits": 167,
-  "onlineCount": 22,
+  "onlineCount": 21,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "10:04:41 25/2/2026",
     "avg": 20
   },
-  "tps": "13.0",
-  "ping": 298,
+  "tps": "14.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 649
+      "count": 650
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:36] [8b8t] >> Teleporting to home 0...",
-    "[10:36] [8b8t] >> Teleporting to home 1...",
-    "[10:36] [BOT] <HienBot> **Cuty_Pie**: survival",
-    "[10:36] To Cuty_Pie: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:36] To Cuty_Pie: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:36] [BOT] <HienBot> **Bot to Cuty_Pie**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:36] [8b8t] >> Request sent to Cuty_Pie",
-    "[10:36] [8b8t] >> Teleporting...",
-    "[10:36] [8b8t] >> You have killed yourself!",
-    "[10:36] To Cuty_Pie: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:36] [BOT] <HienBot> **Bot to Cuty_Pie**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:36] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
     "[10:36] [8b8t] >> You arent ignoring adri989",
@@ -108,7 +95,20 @@
     "[10:38] [8b8t] >> ▲ Player ROGUE Joined.",
     "[10:38] [BOT] <HienBot> >Want free items? Just type survival",
     "[10:38] [8b8t] >> ▲ Player ZandZ005_lol Joined.",
-    "[10:38] brrrbrrrpatapi has completed the challenge [Subspace Bubble]"
+    "[10:38] brrrbrrrpatapi has completed the challenge [Subspace Bubble]",
+    "[10:38] <ROGUE> survival",
+    "[10:38] [BOT] <HienBot> **ROGUE**: survival",
+    "[10:38] [8b8t] >> Teleporting to home 0...",
+    "[10:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:38] [8b8t] >> Teleporting to home 1...",
+    "[10:38] To ROGUE: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:38] [BOT] <HienBot> **Bot to ROGUE**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:38] To ROGUE: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:38] [BOT] <HienBot> **Bot to ROGUE**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:38] [8b8t] >> Request sent to ROGUE",
+    "[10:39] [8b8t] >> ▼ Player Cuty_Pie Left.",
+    "[10:39] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
+    "[10:39] [BOT] <HienBot> >Use /kill to kill yourself!"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -875,12 +875,13 @@
     "kennethhh11": 5,
     "XimenaPro178xd": 1,
     "NNGAMER": 3,
-    "Cuty_Pie": 7
+    "Cuty_Pie": 7,
+    "ROGUE": 1
   },
   "kitStats": {
     "pvp": 562,
     "raid": 118,
-    "survival": 649,
+    "survival": 650,
     "shulker": 301,
     "music": 136,
     "terracotta": 26,
