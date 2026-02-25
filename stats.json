@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:59:41 25/2/2026",
+  "lastUpdated": "11:00:11 25/2/2026",
   "totalKits": 102459,
   "todayKits": 57,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 61,
   "playerStats": {
     "min": 4,
@@ -12,7 +12,7 @@
     "maxTime": "10:04:41 25/2/2026",
     "avg": 22
   },
-  "tps": "12.0",
+  "tps": "6.0",
   "ping": 212,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:58] [8b8t] >> You arent ignoring adri989",
-    "[03:58] [8b8t] >> Please include a player /ignore <playerName>",
-    "[03:58] [8b8t] >> You arent ignoring IamNuke_",
-    "[03:58] [8b8t] >> You arent ignoring DavidN3000",
-    "[03:58] [8b8t] >> Teleporting...",
-    "[03:58] [8b8t] >> You arent ignoring lvashl",
-    "[03:58] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, lvashl",
-    "[03:58] [8b8t] >> You arent ignoring adri989",
-    "[03:58] [8b8t] >> Please include a player /ignore <playerName>",
-    "[03:58] [8b8t] >> You arent ignoring IamNuke_",
-    "[03:58] [8b8t] >> You have killed yourself!",
     "[03:58] DeadlyNyxian pulverized HienBot using [netherite sword]",
     "[03:58] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
     "[03:58] [8b8t] >> You arent ignoring DavidN3000",
@@ -108,7 +96,19 @@
     "[03:59] [8b8t] >> ▲ Player sepillin Joined.",
     "[03:59] .Oliiifgffbb got his head blown off by the Wither",
     "[03:59] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[03:59] [BOT] <HienBot> >Do you want kit? Type *kit"
+    "[03:59] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[03:59] [8b8t] >> ▼ Player silent404 Left.",
+    "[03:59] <DeadlyNyxian> tools",
+    "[03:59] [8b8t] >> Teleporting to home 0...",
+    "[03:59] [8b8t] >> Teleporting to home 7...",
+    "[03:59] [BOT] <HienBot> **DeadlyNyxian**: tools",
+    "[03:59] To DeadlyNyxian: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:59] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[03:59] To DeadlyNyxian: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:59] [8b8t] >> Request sent to DeadlyNyxian"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -402,7 +402,7 @@
     "__Solarflare": 18,
     "0xPwnd": 1,
     "FireSpring94864": 1,
-    "DeadlyNyxian": 23,
+    "DeadlyNyxian": 24,
     "Khushal_maxx77": 7,
     "vmpy7": 8,
     "Volt695367": 74,
@@ -879,7 +879,7 @@
     "music": 132,
     "terracotta": 25,
     "lightsources": 31,
-    "tools": 173,
+    "tools": 174,
     "armortrims": 43,
     "toolbox": 71,
     "wool": 55,
