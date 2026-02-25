@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:06:12 25/2/2026",
+  "lastUpdated": "17:06:42 25/2/2026",
   "totalKits": 102557,
   "todayKits": 155,
   "onlineCount": 19,
@@ -12,8 +12,8 @@
     "maxTime": "10:04:41 25/2/2026",
     "avg": 20
   },
-  "tps": "14.0",
-  "ping": 251,
+  "tps": "7.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 643
+      "count": 644
     },
     {
       "name": "pvp",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:04] [8b8t] >> Please include a player /ignore <playerName>",
-    "[10:04] [8b8t] >> You arent ignoring IamNuke_",
-    "[10:04] [8b8t] >> You arent ignoring DavidN3000",
-    "[10:04] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:04] [BOT] <HienBot> >Try dupe",
-    "[10:04] [8b8t] >> You arent ignoring lvashl",
     "[10:04] [8b8t] >> ▼ Player Pepitogrilloxxx1 Left.",
     "[10:04] DeadlyNyxian was rekt by freddison and their mighty [end crystal]",
     "[10:04] [8b8t] >> ▼ Player necromant2026 Left.",
@@ -108,7 +102,13 @@
     "[10:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:06] <TylerDurden098> im not",
     "[10:06] [BOT] <HienBot> **TylerDurden098**: im not",
-    "[10:06] [8b8t] >> ▲ Player bortax Joined."
+    "[10:06] [8b8t] >> ▲ Player bortax Joined.",
+    "[10:06] <TylerDurden098> b2b??",
+    "[10:06] [BOT] <HienBot> **TylerDurden098**: b2b??",
+    "[10:06] DeadlyNyxian decided to test gravity and lost",
+    "[10:06] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[10:06] <DeadlyNyxian> survival",
+    "[10:06] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -402,7 +402,7 @@
     "__Solarflare": 18,
     "0xPwnd": 1,
     "FireSpring94864": 1,
-    "DeadlyNyxian": 42,
+    "DeadlyNyxian": 43,
     "Khushal_maxx77": 7,
     "vmpy7": 8,
     "Volt695367": 74,
@@ -880,7 +880,7 @@
   "kitStats": {
     "pvp": 557,
     "raid": 118,
-    "survival": 643,
+    "survival": 644,
     "shulker": 301,
     "music": 136,
     "terracotta": 26,
