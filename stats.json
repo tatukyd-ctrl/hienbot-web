@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:15:17 26/2/2026",
+  "lastUpdated": "13:15:47 26/2/2026",
   "totalKits": 102768,
   "todayKits": 35,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 61,
   "playerStats": {
     "min": 12,
@@ -12,7 +12,7 @@
     "maxTime": "09:03:16 26/2/2026",
     "avg": 20
   },
-  "tps": "16.0",
+  "tps": "15.0",
   "ping": 210,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 720
+      "count": 721
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:11] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[06:12] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[06:12] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[06:12] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[06:12] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[06:12] [BOT] <HienBot> >Get fully equipped with pvp",
-    "[06:12] [8b8t] >> ▲ Player PepeChuyHS Joined.",
-    "[06:13] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
     "[06:13] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
     "[06:13] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
     "[06:14] [BOT] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
@@ -108,7 +100,15 @@
     "[06:15] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[06:15] <DxnNy_MC> hi",
     "[06:15] [BOT] <HienBot> **DxnNy_MC**: hi",
-    "[06:15] [8b8t] >> ▼ Player VMugiwara_XD Left."
+    "[06:15] [8b8t] >> ▼ Player VMugiwara_XD Left.",
+    "[06:15] [8b8t] >> ▲ Player VMugiwara_XD Joined.",
+    "[06:15] [BOT] <HienBot> >Welcome to 8b8t, MonkeBot!",
+    "[06:15] <DxnNy_MC> survival",
+    "[06:15] [8b8t] >> Teleporting to home 0...",
+    "[06:15] [BOT] <HienBot> **DxnNy_MC**: survival",
+    "[06:15] [8b8t] >> Teleporting to home 1...",
+    "[06:15] To DxnNy_MC: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:15] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -899,12 +899,13 @@
     "Minecraftx38": 1,
     "SPARROGANT": 3,
     "Devendrasinh09": 1,
-    "brunitocoso": 1
+    "brunitocoso": 1,
+    "DxnNy_MC": 1
   },
   "kitStats": {
     "pvp": 609,
     "raid": 122,
-    "survival": 720,
+    "survival": 721,
     "shulker": 302,
     "music": 146,
     "terracotta": 26,
