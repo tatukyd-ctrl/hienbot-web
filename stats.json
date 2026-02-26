@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:19:18 26/2/2026",
-  "totalKits": 102847,
-  "todayKits": 114,
+  "lastUpdated": "19:19:34 26/2/2026",
+  "totalKits": 102848,
+  "todayKits": 115,
   "onlineCount": 18,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "09:03:16 26/2/2026",
     "avg": 17
   },
-  "tps": "18.0",
-  "ping": 224,
+  "tps": "15.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 754
+      "count": 755
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:16] [8b8t] >> You arent ignoring _aksn",
-    "[12:16] [8b8t] >> You have killed yourself!",
-    "[12:16] [8b8t] >> ▲ Player alessiaaa Joined.",
-    "[12:16] To Britoxii: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:16] [BOT] <HienBot> **Bot to Britoxii**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:16] [8b8t] >> ▼ Player lrlc34 Left.",
-    "[12:16] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, _aksn",
-    "[12:16] [8b8t] >> You arent ignoring adri989",
-    "[12:16] [8b8t] >> Please include a player /ignore <playerName>",
-    "[12:16] [8b8t] >> You arent ignoring IamNuke_",
-    "[12:16] [8b8t] >> You arent ignoring DavidN3000",
-    "[12:16] [8b8t] >> You arent ignoring _aksn",
     "[12:16] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
     "[12:17] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
     "[12:17] .ItzBlitz711 got his head blown off by the Wither",
@@ -108,7 +96,19 @@
     "[12:18] alessiaaa got a deadly lesson from the Wither",
     "[12:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[12:19] [BOT] <HienBot> >Want free items? Just type survival",
-    "[12:19] [8b8t] >> ▲ Player lrlc34 Joined."
+    "[12:19] [8b8t] >> ▲ Player lrlc34 Joined.",
+    "[12:19] <Britoxii> survival",
+    "[12:19] [8b8t] >> Teleporting to home 0...",
+    "[12:19] [BOT] <HienBot> **Britoxii**: survival",
+    "[12:19] [8b8t] >> Teleporting to home 1...",
+    "[12:19] To Britoxii: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:19] alessiaaa forgot to bring their parachute",
+    "[12:19] To Britoxii: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:19] [BOT] <HienBot> **Bot to Britoxii**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:19] [8b8t] >> Request sent to Britoxii",
+    "[12:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -821,7 +821,7 @@
     "mark1231": 1,
     "hatman_Defender": 5,
     "PAT0TET0N": 1,
-    "Britoxii": 14,
+    "Britoxii": 15,
     "tricksma": 1,
     "Juanytoyt208": 5,
     "Iaaaan": 2,
@@ -910,7 +910,7 @@
   "kitStats": {
     "pvp": 638,
     "raid": 122,
-    "survival": 754,
+    "survival": 755,
     "shulker": 302,
     "music": 146,
     "terracotta": 26,
