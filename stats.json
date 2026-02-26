@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:14:47 26/2/2026",
+  "lastUpdated": "16:15:17 26/2/2026",
   "totalKits": 102784,
   "todayKits": 51,
   "onlineCount": 15,
@@ -12,8 +12,8 @@
     "maxTime": "09:03:16 26/2/2026",
     "avg": 18
   },
-  "tps": "16.0",
-  "ping": 203,
+  "tps": "15.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 736
+      "count": 737
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:09] [BOT] <HienBot> >Want to see your ping? Chat ping",
-    "[09:09] [BOT] <HienBot> >Hi Jackbhaiyaa12!",
-    "[09:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:10] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[09:10] [BOT] <HienBot> >Use lang and select your language",
-    "[09:10] [8b8t] >> ▲ Player HausHaus1 Joined.",
-    "[09:10] [BOT] <HienBot> >Type list for a list of kits",
-    "[09:10] [8b8t] >> ▼ Player Minute_Hecky Left.",
-    "[09:11] [8b8t] >> ▼ Player HausHaus1 Left.",
     "[09:11] [8b8t] >> ▲ Player DeadlyNyxian Joined.",
     "[09:11] [8b8t] >> ▲ Player Minute_Hecky Joined.",
     "[09:11] [8b8t] >> ▲ Player overkill_ Joined.",
@@ -108,7 +99,16 @@
     "[09:14] [8b8t] >> ▲ Player Cuty_Pie Joined.",
     "[09:14] [8b8t] >> ▼ Player ZaVuLoN Left.",
     "[09:14] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:14] [BOT] <HienBot> >Try status"
+    "[09:14] [BOT] <HienBot> >Try status",
+    "[09:14] <krolwawa> survival",
+    "[09:14] [8b8t] >> Teleporting to home 0...",
+    "[09:14] [BOT] <HienBot> **krolwawa**: survival",
+    "[09:14] [8b8t] >> Teleporting to home 1...",
+    "[09:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:14] To krolwawa: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:14] [BOT] <HienBot> **Bot to krolwawa**: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:14] DeadlyNyxian forgot to bring their parachute",
+    "[09:15] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -901,12 +901,12 @@
     "Devendrasinh09": 1,
     "brunitocoso": 2,
     "DxnNy_MC": 5,
-    "krolwawa": 11
+    "krolwawa": 12
   },
   "kitStats": {
     "pvp": 609,
     "raid": 122,
-    "survival": 736,
+    "survival": 737,
     "shulker": 302,
     "music": 146,
     "terracotta": 26,
