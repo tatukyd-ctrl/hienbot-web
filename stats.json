@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:41:46 26/2/2026",
+  "lastUpdated": "20:41:49 26/2/2026",
   "totalKits": 102881,
   "todayKits": 148,
   "onlineCount": 27,
@@ -12,7 +12,7 @@
     "maxTime": "09:03:16 26/2/2026",
     "avg": 18
   },
-  "tps": "13.0",
+  "tps": "14.0",
   "ping": 219,
   "topUsers": [
     {
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:41] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, _aksn",
-    "[13:41] <RaviiPlayzYT> bedrock",
-    "[13:41] [8b8t] >> You arent ignoring adri989",
     "[13:41] To RaviiPlayzYT: You're on cooldown, try again in 36 seconds! Don't forget to join dsc.gg/hienbot",
     "[13:41] [BOT] <HienBot> **RaviiPlayzYT**: bedrock",
     "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +105,10 @@
     "[13:41] [8b8t] >> Teleporting...",
     "[13:41] <imnewtopvp354868> why",
     "[13:41] [BOT] <HienBot> **imnewtopvp354868**: why",
-    "[13:41] [BOT] <HienBot> >Don't have a kit yet? Use survival to get one for free!"
+    "[13:41] [BOT] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[13:41] <RaviiPlayzYT> wither",
+    "[13:41] [8b8t] >> You have killed yourself!",
+    "[13:41] HienBot has been put down by Deputy_Ace"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -909,11 +909,11 @@
     "Zae1rox": 14,
     "wanted": 5,
     "Akari44": 5,
-    "RaviiPlayzYT": 23
+    "RaviiPlayzYT": 24
   },
   "kitStats": {
     "pvp": 652,
-    "raid": 126,
+    "raid": 127,
     "survival": 778,
     "shulker": 302,
     "music": 146,
