@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:03:17 26/2/2026",
-  "totalKits": 102783,
-  "todayKits": 50,
+  "lastUpdated": "16:03:32 26/2/2026",
+  "totalKits": 102784,
+  "todayKits": 51,
   "onlineCount": 11,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "09:03:16 26/2/2026",
     "avg": 18
   },
-  "tps": "14.0",
+  "tps": "13.0",
   "ping": 216,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 735
+      "count": 736
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:02] [8b8t] >> Teleporting to home 0...",
-    "[09:02] [BOT] <HienBot> **Jackbhaiyaa12**: stash",
-    "[09:02] [8b8t] >> Teleporting to home 2...",
-    "[09:02] To Jackbhaiyaa12: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:02] To Jackbhaiyaa12: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:02] [BOT] <HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
-    "[09:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:02] <Jackbhaiyaa12> survival",
-    "[09:02] [8b8t] >> Teleporting to home 0...",
-    "[09:02] [BOT] <HienBot> **Jackbhaiyaa12**: survival",
-    "[09:02] [8b8t] >> Teleporting to home 1...",
-    "[09:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:02] To Jackbhaiyaa12: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:02] To Jackbhaiyaa12: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:02] [BOT] <HienBot> **Bot to Jackbhaiyaa12**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:02] [8b8t] >> Request sent to Jackbhaiyaa12",
     "[09:03] <krolwawa> survival",
@@ -108,7 +91,24 @@
     "[09:03] Jackbhaiyaa12 pulverized HienBot using [netherite sword]",
     "[09:03] To Jackbhaiyaa12: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:03] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[09:03] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[09:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:03] <krolwawa> survival",
+    "[09:03] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, _aksn",
+    "[09:03] [8b8t] >> Teleporting to home 0...",
+    "[09:03] [8b8t] >> Please do not spam.",
+    "[09:03] [8b8t] >> Teleporting to home 1...",
+    "[09:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:03] To krolwawa: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:03] [8b8t] >> You arent ignoring adri989",
+    "[09:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:03] [8b8t] >> Please include a player /ignore <playerName>",
+    "[09:03] [8b8t] >> You arent ignoring IamNuke_",
+    "[09:03] To krolwawa: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:03] [8b8t] >> Please do not spam.",
+    "[09:03] [8b8t] >> You arent ignoring DavidN3000",
+    "[09:03] [8b8t] >> Request sent to krolwawa",
+    "[09:03] [8b8t] >> Teleporting...",
+    "[09:03] [8b8t] >> You arent ignoring _aksn"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -901,12 +901,12 @@
     "Devendrasinh09": 1,
     "brunitocoso": 2,
     "DxnNy_MC": 5,
-    "krolwawa": 10
+    "krolwawa": 11
   },
   "kitStats": {
     "pvp": 609,
     "raid": 122,
-    "survival": 735,
+    "survival": 736,
     "shulker": 302,
     "music": 146,
     "terracotta": 26,
