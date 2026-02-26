@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:02:38 26/2/2026",
+  "lastUpdated": "23:03:08 26/2/2026",
   "totalKits": 102947,
   "todayKits": 49,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 32,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:54:38 26/2/2026",
     "avg": 19
   },
-  "tps": "8.0",
-  "ping": 0,
+  "tps": "10.0",
+  "ping": 225,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:02] NT5__ forgot to stop, drop, and roll",
-    "[16:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[16:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[16:02] <Bellbibelly> stash",
-    "[16:02] [8b8t] >> Teleporting to home 0...",
-    "[16:02] <Zae1rox> survival",
-    "[16:02] To Zae1rox: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[16:02] [8b8t] >> Teleporting to home 2...",
-    "[16:02] [BOT] <HienBot> **Bellbibelly**: stash",
-    "[16:02] To Bellbibelly: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:02] [8b8t] >> You arent ignoring adri989",
-    "[16:02] [8b8t] >> Please include a player /ignore <playerName>",
-    "[16:02] [8b8t] >> Please include a player /ignore <playerName>",
-    "[16:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[16:02] [8b8t] >> You arent ignoring IamNuke_",
     "[16:02] To Bellbibelly: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[16:02] You were kicked from 8b8t: Kicked for spamming",
     "[16:02] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
@@ -108,7 +93,22 @@
     "[16:02] [8b8t] >> ▲ Player HienBot Joined.",
     "[16:02] You are already connected to this server!",
     "[16:02] [BOT] <HienBot> **Bot to Bellbibelly**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[16:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[16:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[16:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[16:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[16:02] [8b8t] >> You arent ignoring adri989",
+    "[16:02] [8b8t] >> Please include a player /ignore <playerName>",
+    "[16:02] [8b8t] >> Please include a player /ignore <playerName>",
+    "[16:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[16:02] [8b8t] >> You arent ignoring IamNuke_",
+    "[16:02] [8b8t] >> You arent ignoring adri989",
+    "[16:02] [8b8t] >> Please include a player /ignore <playerName>",
+    "[16:02] [8b8t] >> You arent ignoring Real4Tribe",
+    "[16:02] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[16:02] [8b8t] >> ▼ Player ApleB0t Left.",
+    "[16:03] <Bellbibelly> stash",
+    "[16:03] [8b8t] >> Teleporting to home 0...",
+    "[16:03] [8b8t] >> Teleporting to home 2..."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -913,7 +913,7 @@
     "UcTheGamerzz": 16,
     "NaorNewDay": 1,
     "luvdrastic": 4,
-    "Bellbibelly": 2
+    "Bellbibelly": 3
   },
   "kitStats": {
     "pvp": 673,
@@ -928,7 +928,7 @@
     "toolbox": 78,
     "wool": 58,
     "exp": 85,
-    "stash": 217,
+    "stash": 218,
     "ocean": 43,
     "build": 226,
     "dye": 26,
