@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:42:47 26/2/2026",
-  "totalKits": 102789,
-  "todayKits": 56,
+  "lastUpdated": "16:43:03 26/2/2026",
+  "totalKits": 102790,
+  "todayKits": 57,
   "onlineCount": 15,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "09:03:16 26/2/2026",
     "avg": 18
   },
-  "tps": "14.0",
+  "tps": "13.0",
   "ping": 236,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 740
+      "count": 741
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:40] <Fligruu> Minute_Hecky",
-    "[09:40] [BOT] <HienBot> **Fligruu**: Minute_Hecky",
-    "[09:40] <Fligruu> Minute_Hecky im on spawn",
-    "[09:40] [BOT] <HienBot> **Fligruu**: Minute_Hecky im on spawn",
-    "[09:40] [BOT] <HienBot> >What's up, LEGENDRIX_YTS?",
-    "[09:40] <Fligruu> tpa",
-    "[09:40] [BOT] <HienBot> **Fligruu**: tpa",
-    "[09:40] [8b8t] >> ▲ Player aarohiplayz Joined.",
-    "[09:40] [BOT] <HienBot> >Use lang and select your language",
-    "[09:40] <Jackbhaiyaa12> lang",
-    "[09:40] To Jackbhaiyaa12: Languages: en, vi, es, ru, zh, fr, it, pt, ar, hi | dsc.gg/hienbot",
     "[09:40] [BOT] <HienBot> **Jackbhaiyaa12**: lang",
     "[09:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:40] <Jackbhaiyaa12> en",
@@ -108,7 +97,18 @@
     "[09:42] <Jackbhaiyaa12> anyone pvp?",
     "[09:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:42] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[09:42] [BOT] <HienBot> >What's up, Minute_Hecky?"
+    "[09:42] [BOT] <HienBot> >What's up, Minute_Hecky?",
+    "[09:42] <Fligruu> survival",
+    "[09:42] [8b8t] >> Teleporting to home 0...",
+    "[09:42] [8b8t] >> Teleporting to home 1...",
+    "[09:42] [BOT] <HienBot> **Fligruu**: survival",
+    "[09:42] To Fligruu: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:42] To Fligruu: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:42] [BOT] <HienBot> **Bot to Fligruu**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:42] [8b8t] >> Request sent to Fligruu",
+    "[09:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -902,12 +902,12 @@
     "brunitocoso": 2,
     "DxnNy_MC": 5,
     "krolwawa": 12,
-    "Fligruu": 1
+    "Fligruu": 2
   },
   "kitStats": {
     "pvp": 611,
     "raid": 122,
-    "survival": 740,
+    "survival": 741,
     "shulker": 302,
     "music": 146,
     "terracotta": 26,
