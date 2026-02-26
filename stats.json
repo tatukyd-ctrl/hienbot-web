@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:57:47 26/2/2026",
-  "totalKits": 102772,
-  "todayKits": 39,
+  "lastUpdated": "13:58:17 26/2/2026",
+  "totalKits": 102773,
+  "todayKits": 40,
   "onlineCount": 14,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "09:03:16 26/2/2026",
     "avg": 20
   },
-  "tps": "16.0",
+  "tps": "18.0",
   "ping": 210,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 724
+      "count": 725
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:53] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[06:53] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[06:53] [8b8t] >> ▲ Player p3l1n_1945 Joined.",
-    "[06:54] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[06:54] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[06:54] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[06:54] tonito burned up in a pit of lava",
-    "[06:54] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[06:54] [8b8t] >> ▼ Player tonito Left.",
-    "[06:55] [BOT] <HienBot> >Hi io_client!",
-    "[06:55] [8b8t] >> ▼ Player PepeChuyHS Left.",
-    "[06:55] [8b8t] >> ▲ Player tonito Joined.",
     "[06:55] [BOT] <HienBot> >Try list to see available kits",
     "[06:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:55] [8b8t] >> ▼ Player elbuisito1 Left.",
@@ -108,7 +95,20 @@
     "[06:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:57] [8b8t] >> ▼ Player DPS_Voyager_bot Left.",
     "[06:57] [8b8t] >> ▼ Player brunitocoso Left.",
-    "[06:57] [BOT] <HienBot> >Hmmmmmmmmm"
+    "[06:57] [BOT] <HienBot> >Hmmmmmmmmm",
+    "[06:57] <krolwawa> survival",
+    "[06:57] [8b8t] >> Teleporting to home 0...",
+    "[06:57] [8b8t] >> Teleporting to home 1...",
+    "[06:57] [BOT] <HienBot> **krolwawa**: survival",
+    "[06:57] To krolwawa: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:57] [BOT] <HienBot> **Bot to krolwawa**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:57] To krolwawa: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:57] [8b8t] >> Request sent to krolwawa",
+    "[06:58] [BOT] <HienBot> >Welcome to 8b8t, MonkeBot!",
+    "[06:58] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[06:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -900,12 +900,13 @@
     "SPARROGANT": 3,
     "Devendrasinh09": 1,
     "brunitocoso": 2,
-    "DxnNy_MC": 5
+    "DxnNy_MC": 5,
+    "krolwawa": 1
   },
   "kitStats": {
     "pvp": 609,
     "raid": 122,
-    "survival": 724,
+    "survival": 725,
     "shulker": 302,
     "music": 146,
     "terracotta": 26,
