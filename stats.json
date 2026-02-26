@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:24:08 27/2/2026",
+  "lastUpdated": "03:24:38 27/2/2026",
   "totalKits": 103056,
   "todayKits": 158,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:57:38 27/2/2026",
     "avg": 22
   },
-  "tps": "9.0",
-  "ping": 227,
+  "tps": "11.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 877
+      "count": 878
     },
     {
       "name": "pvp",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:23] [8b8t] >> Request sent to aaronmunozmunoz",
-    "[20:23] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[20:23] [8b8t] >> Teleporting...",
-    "[20:23] [8b8t] >> You arent ignoring adri989",
-    "[20:23] [8b8t] >> Please include a player /ignore <playerName>",
-    "[20:23] [8b8t] >> You arent ignoring IamNuke_",
-    "[20:23] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[20:23] [8b8t] >> You arent ignoring DavidN3000",
-    "[20:23] [8b8t] >> You arent ignoring h6sx",
-    "[20:23] [8b8t] >> You have killed yourself!",
-    "[20:23] HienBot has been killed by aaronmunozmunoz",
-    "[20:23] To aaronmunozmunoz: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[20:23] [BOT] <HienBot> **Bot to aaronmunozmunoz**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[20:23] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[20:23] [8b8t] >> You arent ignoring adri989",
-    "[20:23] [8b8t] >> Please include a player /ignore <playerName>",
-    "[20:23] [8b8t] >> You arent ignoring IamNuke_",
-    "[20:23] [8b8t] >> ▲ Player wtfbro Joined.",
     "[20:23] [8b8t] >> ▼ Player FireNinja7 Left.",
     "[20:23] [8b8t] >> You arent ignoring DavidN3000",
     "[20:23] [8b8t] >> You arent ignoring h6sx",
@@ -108,7 +90,25 @@
     "[20:23] [BOT] <HienBot> >Hi DPS_Chatbridge!",
     "[20:23] [8b8t] >> You arent ignoring h6sx",
     "[20:23] [8b8t] >> ▼ Player wtfbro Left.",
-    "[20:24] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
+    "[20:24] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[20:24] [8b8t] >> ▼ Player SpeedyMax88 Left.",
+    "[20:24] [BOT] <HienBot> >Use info <player> to check someone's stats",
+    "[20:24] aaronmunozmunoz got a deadly lesson from the Wither",
+    "[20:24] <N4talkaa_> info vgs_",
+    "[20:24] [8b8t] >> vgs_ first joined on: 2026-02-25 14:10:19",
+    "[20:24] To N4talkaa_: Info vgs_: UUID: b5cba546-3734-c4a2-60a6-b6332a35538b | Type: Cracked/Offline (Online, 224ms) | ",
+    "[20:24] [BOT] <HienBot> **N4talkaa_**: info vgs_",
+    "[20:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:24] aaronmunozmunoz Whispers: !kit Survival",
+    "[20:24] [8b8t] >> Teleporting to home 0...",
+    "[20:24] [BOT] <HienBot> **aaronmunozmunoz**: !kit Survival",
+    "[20:24] [8b8t] >> Teleporting to home 1...",
+    "[20:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:24] <vgs_> info Hienbot",
+    "[20:24] To aaronmunozmunoz: Your kit (Survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:24] [8b8t] >> You first joined on: 2024-05-26 08:38:33"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -923,12 +923,12 @@
     "elqweq": 7,
     "N4talkaa_": 11,
     "multiverxux": 1,
-    "aaronmunozmunoz": 5
+    "aaronmunozmunoz": 6
   },
   "kitStats": {
     "pvp": 704,
     "raid": 135,
-    "survival": 877,
+    "survival": 878,
     "shulker": 303,
     "music": 152,
     "terracotta": 26,
