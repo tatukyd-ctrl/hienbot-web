@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:23:08 27/2/2026",
-  "totalKits": 103022,
-  "todayKits": 124,
-  "onlineCount": 33,
+  "lastUpdated": "02:23:37 27/2/2026",
+  "totalKits": 103023,
+  "todayKits": 125,
+  "onlineCount": 35,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:57:38 27/2/2026",
     "avg": 22
   },
-  "tps": "11.0",
+  "tps": "7.0",
   "ping": 198,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 867
+      "count": 868
     },
     {
       "name": "pvp",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:22] [8b8t] >> ▼ Player PepeChuyHS Left.",
-    "[19:22] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[19:22] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[19:22] [8b8t] >> You arent ignoring adri989",
-    "[19:22] [8b8t] >> Please include a player /ignore <playerName>",
-    "[19:22] [8b8t] >> You arent ignoring IamNuke_",
-    "[19:22] [8b8t] >> You arent ignoring DavidN3000",
-    "[19:22] [8b8t] >> You arent ignoring h6sx",
-    "[19:22] <elqweq> stash",
-    "[19:22] To elqweq: You're on cooldown, try again in 28 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:22] [BOT] <HienBot> **elqweq**: stash",
-    "[19:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:22] <darsacc> boat",
-    "[19:22] [BOT] <HienBot> **darsacc**: boat",
-    "[19:22] <vgs_> stash",
-    "[19:22] [8b8t] >> Teleporting to home 0...",
-    "[19:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:22] [8b8t] >> Teleporting to home 2...",
     "[19:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:22] To vgs_: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[19:22] [BOT] <HienBot> **Bot to vgs_**: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +90,25 @@
     "[19:23] [BOT] <HienBot> **darsacc**: boat",
     "[19:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:23] [XMAS2025] <Tobias> hopstot",
-    "[19:23] [BOT] <HienBot> **i_am_tobias**: hopstot"
+    "[19:23] [BOT] <HienBot> **i_am_tobias**: hopstot",
+    "[19:23] <vgs_> survival",
+    "[19:23] [8b8t] >> Teleporting to home 0...",
+    "[19:23] [8b8t] >> Teleporting to home 1...",
+    "[19:23] [BOT] <HienBot> **vgs_**: survival",
+    "[19:23] To vgs_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:23] [Ultra] <_PIGY_> base de mierda gratis",
+    "[19:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:23] To vgs_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:23] [BOT] <HienBot> **Bot to vgs_**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:23] [8b8t] >> Request sent to vgs_",
+    "[19:23] zepekennho1927 decided to test gravity and lost",
+    "[19:23] [8b8t] >> ▲ Player SrWindows Joined.",
+    "[19:23] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[19:23] [8b8t] >> ▲ Player DPS_Chatbridge Joined.",
+    "[19:23] [8b8t] >> Teleporting...",
+    "[19:23] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -918,14 +918,14 @@
     "z7_7z": 2,
     "dleamixvm": 1,
     "kataxen": 1,
-    "vgs_": 7,
+    "vgs_": 8,
     "BrainRotmango": 1,
     "elqweq": 2
   },
   "kitStats": {
     "pvp": 691,
     "raid": 134,
-    "survival": 867,
+    "survival": 868,
     "shulker": 302,
     "music": 151,
     "terracotta": 26,
