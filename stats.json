@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:05:39 27/2/2026",
-  "totalKits": 103318,
-  "todayKits": 146,
+  "lastUpdated": "20:05:52 27/2/2026",
+  "totalKits": 103319,
+  "todayKits": 147,
   "onlineCount": 22,
   "peakPlayers": 47,
   "playerStats": {
@@ -13,7 +13,7 @@
     "avg": 19
   },
   "tps": "14.0",
-  "ping": 202,
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 977
+      "count": 978
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:04] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[13:04] [8b8t] >> You arent ignoring adri989",
-    "[13:04] [8b8t] >> Please include a player /ignore <playerName>",
-    "[13:04] <BedCRS777> survival",
-    "[13:04] To BedCRS777: You're on cooldown, try again in 47 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:04] [8b8t] >> You arent ignoring IamNuke_",
-    "[13:04] [8b8t] >> Please do not spam.",
-    "[13:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:04] [8b8t] >> You arent ignoring DavidN3000",
-    "[13:04] [8b8t] >> You arent ignoring h6sx",
-    "[13:04] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[13:04] [8b8t] >> Please do not spam.",
     "[13:04] <ASneakySenior> yes",
     "[13:04] [BOT] <HienBot> **ASneakySenior**: yes",
@@ -108,7 +97,18 @@
     "[13:05] [BOT] <HienBot> **Sanzetsu555**: t",
     "[13:05] <ASneakySenior> can you set a home 9?",
     "[13:05] clammybog thought they could fly... they couldn't",
-    "[13:05] [BOT] <HienBot> **ASneakySenior**: can you set a home 9?"
+    "[13:05] [BOT] <HienBot> **ASneakySenior**: can you set a home 9?",
+    "[13:05] <BedCRS777> survival",
+    "[13:05] [8b8t] >> Teleporting to home 0...",
+    "[13:05] [8b8t] >> Please do not spam.",
+    "[13:05] [8b8t] >> Teleporting to home 1...",
+    "[13:05] To BedCRS777: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:05] To BedCRS777: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:05] [BOT] <HienBot> **Bot to BedCRS777**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:05] [8b8t] >> Request sent to BedCRS777",
+    "[13:05] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 75,
@@ -942,12 +942,12 @@
     "Echovenum": 1,
     "reeekk": 2,
     "Kylev999": 1,
-    "BedCRS777": 12
+    "BedCRS777": 13
   },
   "kitStats": {
     "pvp": 767,
     "raid": 155,
-    "survival": 977,
+    "survival": 978,
     "shulker": 307,
     "music": 157,
     "terracotta": 27,
