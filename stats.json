@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:52:09 27/2/2026",
+  "lastUpdated": "20:52:39 27/2/2026",
   "totalKits": 103336,
   "todayKits": 164,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:38:39 27/2/2026",
     "avg": 20
   },
-  "tps": "15.0",
-  "ping": 198,
+  "tps": "12.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 990
+      "count": 991
     },
     {
       "name": "pvp",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:49] [8b8t] >> ▼ Player kamutz Left.",
-    "[13:49] K0NICHTS found out about explosives the hard way",
-    "[13:49] TyroneG thought they could fly... they couldn't",
-    "[13:50] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[13:50] thalleus2 decided to test gravity and lost",
-    "[13:50] j000e withered away to the 4th dimension",
     "[13:50] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
     "[13:50] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
     "[13:50] [8b8t] >> ▲ Player htp1p0 Joined.",
@@ -108,7 +102,13 @@
     "[13:51] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
     "[13:51] [8b8t] >> ▲ Player saccbot Joined.",
     "[13:52] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[13:52] [8b8t] >> ▲ Player darsacc Joined."
+    "[13:52] [8b8t] >> ▲ Player darsacc Joined.",
+    "[13:52] saccbot has been killed by darsacc",
+    "[13:52] [BOT] <HienBot> >Use list to see all available kits!",
+    "[13:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:52] [8b8t] >> ▲ Player htp1p0 Joined.",
+    "[13:52] thalleus2 went for a swim in lava and got burned",
+    "[13:52] <darsacc> survival"
   ],
   "userStats": {
     "Hien2309": 75,
@@ -265,7 +265,7 @@
     "arda912": 1,
     "nikolozi2478": 6,
     "Laiwy_123": 8,
-    "darsacc": 36,
+    "darsacc": 37,
     "Geobo": 3,
     "ViolaStockSauces": 2,
     "wolvesbykanye": 13,
@@ -947,7 +947,7 @@
   "kitStats": {
     "pvp": 767,
     "raid": 155,
-    "survival": 990,
+    "survival": 991,
     "shulker": 307,
     "music": 157,
     "terracotta": 27,
