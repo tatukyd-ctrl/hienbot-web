@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:43:54 27/2/2026",
+  "lastUpdated": "21:44:09 27/2/2026",
   "totalKits": 103367,
   "todayKits": 195,
   "onlineCount": 26,
@@ -12,7 +12,7 @@
     "maxTime": "21:13:39 27/2/2026",
     "avg": 20
   },
-  "tps": "12.0",
+  "tps": "9.0",
   "ping": 202,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1006
+      "count": 1007
     },
     {
       "name": "pvp",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:42] Alemdar122 thought they could fly... they couldn't",
-    "[14:42] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[14:42] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[14:42] [8b8t] >> ▼ Player aaronmunozmunoz Left.",
-    "[14:42] [8b8t] >> ▼ Player 9thGrader Left.",
-    "[14:43] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[14:43] [8b8t] >> ▼ Player MrDarkEye Left.",
-    "[14:43] Alemdar122 has made the advancement [We Need to Go Deeper]",
-    "[14:43] [BOT] <HienBot> >Get a head start with survival",
-    "[14:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:43] [8b8t] >> ▲ Player testgg Joined.",
-    "[14:43] thalleus2 has reached the goal [Sky's the Limit]",
-    "[14:43] [8b8t] >> ▼ Player testgg Left.",
-    "[14:43] <BedCRS777> survival",
-    "[14:43] [8b8t] >> Teleporting to home 0...",
-    "[14:43] joakood7 withered away to the 4th dimension",
-    "[14:43] [BOT] <HienBot> **BedCRS777**: survival",
-    "[14:43] [8b8t] >> Teleporting to home 1...",
     "[14:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:43] To BedCRS777: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[14:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +90,25 @@
     "[14:43] [8b8t] >> Teleporting...",
     "[14:43] [BOT] <HienBot> >Running low on supplies? Use survival",
     "[14:43] <shadowlord6> send tpa",
-    "[14:43] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[14:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:43] [8b8t] >> You have killed yourself!",
+    "[14:43] HienBot has been put down by BedCRS777",
+    "[14:43] To BedCRS777: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[14:44] [BOT] <HienBot> **Bot to BedCRS777**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[14:44] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[14:44] <XSupremeGoonerX> survival",
+    "[14:44] [8b8t] >> Teleporting to home 0...",
+    "[14:44] [8b8t] >> Teleporting to home 1...",
+    "[14:44] [BOT] <HienBot> **XSupremeGoonerX**: survival",
+    "[14:44] To XSupremeGoonerX: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:44] To XSupremeGoonerX: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:44] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[14:44] [BOT] <HienBot> **Bot to XSupremeGoonerX**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:44] [8b8t] >> Request sent to XSupremeGoonerX",
+    "[14:44] [8b8t] >> You arent ignoring adri989",
+    "[14:44] [8b8t] >> Please include a player /ignore <playerName>"
   ],
   "userStats": {
     "Hien2309": 75,
@@ -944,12 +944,13 @@
     "Kylev999": 1,
     "BedCRS777": 41,
     "Sanzetsu555": 2,
-    "clammybog": 1
+    "clammybog": 1,
+    "XSupremeGoonerX": 1
   },
   "kitStats": {
     "pvp": 773,
     "raid": 156,
-    "survival": 1006,
+    "survival": 1007,
     "shulker": 307,
     "music": 160,
     "terracotta": 27,
