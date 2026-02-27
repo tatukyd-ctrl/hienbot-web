@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:55:09 27/2/2026",
+  "lastUpdated": "12:55:39 27/2/2026",
   "totalKits": 103228,
   "todayKits": 56,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 47,
   "playerStats": {
     "min": 13,
@@ -12,8 +12,8 @@
     "maxTime": "08:38:39 27/2/2026",
     "avg": 21
   },
-  "tps": "16.0",
-  "ping": 216,
+  "tps": "10.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:50] reeekk got a deadly lesson from the Wither",
-    "[05:50] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[05:50] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[05:50] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:50] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[05:50] [BOT] <HienBot> >Use list to see all available kits!",
     "[05:50] [8b8t] >> ▲ Player .CycloidUwU Joined.",
     "[05:51] [8b8t] >> ▼ Player 1A1BVN Left.",
@@ -108,7 +103,12 @@
     "[05:54] [BOT] <HienBot> >Running low on supplies? Use survival",
     "[05:54] [8b8t] >> ▲ Player Forota Joined.",
     "[05:55] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[05:55] [8b8t] >> ▲ Player htp1p0 Joined."
+    "[05:55] [8b8t] >> ▲ Player htp1p0 Joined.",
+    "[05:55] [BOT] <HienBot> >Want free items? Just type survival",
+    "[05:55] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[05:55] htp1p0 Whispers: raid",
+    "[05:55] [8b8t] >> Teleporting to home 0...",
+    "[05:55] [BOT] <HienBot> **htp1p0**: raid"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -204,7 +204,7 @@
     "omer63270": 1,
     "GirlPuncher2015": 10,
     "braxku": 1,
-    "htp1p0": 21,
+    "htp1p0": 22,
     "matthias1234": 1,
     "rokfox48": 4,
     "FuchiSama": 4,
@@ -943,7 +943,7 @@
   },
   "kitStats": {
     "pvp": 753,
-    "raid": 148,
+    "raid": 149,
     "survival": 946,
     "shulker": 307,
     "music": 156,
