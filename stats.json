@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:11:10 28/2/2026",
+  "lastUpdated": "06:11:40 28/2/2026",
   "totalKits": 103541,
   "todayKits": 369,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 49,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "03:37:40 28/2/2026",
     "avg": 25
   },
-  "tps": "12.0",
-  "ping": 253,
+  "tps": "13.0",
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 802
+      "count": 803
     },
     {
       "name": "dupe",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:10] argapap decided to test gravity and lost",
-    "[23:10] <mutedwarf452123> survival",
-    "[23:10] [8b8t] >> Teleporting to home 0...",
-    "[23:10] [BOT] <HienBot> **mutedwarf452123**: survival",
-    "[23:10] [8b8t] >> Teleporting to home 1...",
-    "[23:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:10] To mutedwarf452123: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[23:10] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[23:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:10] [8b8t] >> ▼ Player .LiL_NAY_xoxo Left.",
-    "[23:10] [8b8t] >> You arent ignoring adri989",
     "[23:10] [8b8t] >> Please include a player /ignore <playerName>",
     "[23:10] To mutedwarf452123: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:10] [BOT] <HienBot> **Bot to mutedwarf452123**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +97,18 @@
     "[23:11] [8b8t] >> You arent ignoring IamNuke_",
     "[23:11] [8b8t] >> You arent ignoring DavidN3000",
     "[23:11] [8b8t] >> You arent ignoring Real4Tribe",
-    "[23:11] argapap forgot to bring their parachute"
+    "[23:11] argapap forgot to bring their parachute",
+    "[23:11] [BOT] <HienBot> >Type invite for invite rewards info",
+    "[23:11] [8b8t] >> ▲ Player io_bot Joined.",
+    "[23:11] idkuser1245 Whispers: pvp",
+    "[23:11] [8b8t] >> Teleporting to home 0...",
+    "[23:11] [BOT] <HienBot> **idkuser1245**: pvp",
+    "[23:11] [8b8t] >> Teleporting to home 1...",
+    "[23:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:11] To idkuser1245: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:11] To idkuser1245: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[23:11] [BOT] <HienBot> **Bot to idkuser1245**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 75,
@@ -957,10 +957,10 @@
     "nerilo": 9,
     "Snicker6493": 7,
     "_pistacchio_": 3,
-    "idkuser1245": 14
+    "idkuser1245": 15
   },
   "kitStats": {
-    "pvp": 802,
+    "pvp": 803,
     "raid": 163,
     "survival": 1068,
     "shulker": 313,
