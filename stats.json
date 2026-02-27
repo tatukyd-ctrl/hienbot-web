@@ -1,18 +1,18 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:00:39 27/2/2026",
+  "lastUpdated": "08:01:09 27/2/2026",
   "totalKits": 103186,
   "todayKits": 14,
-  "onlineCount": 17,
+  "onlineCount": 15,
   "peakPlayers": 47,
   "playerStats": {
-    "min": 17,
-    "minTime": "07:49:39 27/2/2026",
+    "min": 15,
+    "minTime": "08:01:09 27/2/2026",
     "max": 27,
     "maxTime": "07:02:09 27/2/2026",
     "avg": 21
   },
-  "tps": "15.0",
+  "tps": "11.0",
   "ping": 219,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 925
+      "count": 926
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:58] [BOT] <HienBot> **Eduardo2010**: survival",
-    "[00:58] [8b8t] >> Teleporting to home 1...",
-    "[00:58] To garretthessnfl: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[00:58] To Eduardo2010: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[00:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:58] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[00:58] To Eduardo2010: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:58] [8b8t] >> Request sent to Eduardo2010",
-    "[00:58] [8b8t] >> ▲ Player kataxen Joined.",
     "[00:59] <garretthessnfl> survival",
     "[00:59] To garretthessnfl: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[00:59] [8b8t] >> Please do not spam.",
@@ -108,7 +95,20 @@
     "[00:59] [8b8t] >> You arent ignoring h6sx",
     "[00:59] [BOT] <HienBot> >Get fully equipped with pvp",
     "[01:00] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[01:00] [BOT] <HienBot> >Do you want kit? Type *kit"
+    "[01:00] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[01:00] [8b8t] >> ▼ Player kataxen Left.",
+    "[01:00] [BOT] <HienBot> >Want free items? Just type survival",
+    "[01:00] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[01:01] <garretthessnfl> survival",
+    "[01:01] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
+    "[01:01] [8b8t] >> Teleporting to home 0...",
+    "[01:01] [8b8t] >> Teleporting to home 1...",
+    "[01:01] [BOT] <HienBot> **garretthessnfl**: survival",
+    "[01:01] To garretthessnfl: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:01] To garretthessnfl: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:01] [BOT] <HienBot> **Bot to garretthessnfl**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -744,7 +744,7 @@
     "ialexowo0": 1,
     ".Hien230931421": 2,
     "RickStar09": 1,
-    "garretthessnfl": 17,
+    "garretthessnfl": 18,
     "Nagamac": 3,
     "pywd": 1,
     "TKoyasu": 20,
@@ -938,7 +938,7 @@
   "kitStats": {
     "pvp": 749,
     "raid": 146,
-    "survival": 925,
+    "survival": 926,
     "shulker": 307,
     "music": 155,
     "terracotta": 27,
