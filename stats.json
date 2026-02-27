@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:33:09 27/2/2026",
+  "lastUpdated": "20:33:39 27/2/2026",
   "totalKits": 103328,
   "todayKits": 156,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:38:39 27/2/2026",
     "avg": 20
   },
-  "tps": "13.0",
+  "tps": "16.0",
   "ping": 198,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 985
+      "count": 986
     },
     {
       "name": "pvp",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:30] Art_Is_Fast thought they could fly... they couldn't",
-    "[13:30] <j000e> alguien me ayuda",
-    "[13:30] [BOT] <HienBot> **j000e**: alguien me ayuda",
-    "[13:30] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[13:30] 40NumaraAyak got eaten by a dessert dweller AKA a Husk",
     "[13:30] [BOT] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
     "[13:30] [8b8t] >> ▲ Player nigamannanana Joined.",
@@ -108,7 +104,11 @@
     "[13:32] [BOT] <HienBot> >Try list to see available kits",
     "[13:32] saccbot was slain by darsacc using [their hand]",
     "[13:32] [BOT] <HienBot> >Try status",
-    "[13:32] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[13:32] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:33] [8b8t] >> ▼ Player Halo_exo Left.",
+    "[13:33] Art_Is_Fast decided to test gravity and lost",
+    "[13:33] [BOT] <HienBot> >Hey j000e!",
+    "[13:33] <darsacc> survival"
   ],
   "userStats": {
     "Hien2309": 75,
@@ -265,7 +265,7 @@
     "arda912": 1,
     "nikolozi2478": 6,
     "Laiwy_123": 8,
-    "darsacc": 32,
+    "darsacc": 33,
     "Geobo": 3,
     "ViolaStockSauces": 2,
     "wolvesbykanye": 13,
@@ -947,7 +947,7 @@
   "kitStats": {
     "pvp": 767,
     "raid": 155,
-    "survival": 985,
+    "survival": 986,
     "shulker": 307,
     "music": 157,
     "terracotta": 27,
