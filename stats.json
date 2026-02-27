@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:41:09 27/2/2026",
+  "lastUpdated": "09:41:39 27/2/2026",
   "totalKits": 103205,
   "todayKits": 33,
-  "onlineCount": 22,
+  "onlineCount": 23,
   "peakPlayers": 47,
   "playerStats": {
     "min": 15,
@@ -12,7 +12,7 @@
     "maxTime": "08:38:39 27/2/2026",
     "avg": 23
   },
-  "tps": "9.0",
+  "tps": "12.0",
   "ping": 216,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 936
+      "count": 937
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:36] [8b8t] >> ▲ Player GaBaus Joined.",
-    "[02:36] [BOT] <HienBot> >Try stash",
-    "[02:37] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[02:37] CitrusGames got his head blown off by the Wither",
-    "[02:37] [BOT] <HienBot> >Try dupe",
-    "[02:37] .Jkbra1127 got his head blown off by the Wither",
-    "[02:37] [8b8t] >> ▼ Player .Jkbra1127 Left.",
-    "[02:37] [BOT] <HienBot> >Try list to see available kits",
-    "[02:38] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[02:38] <CitrusGames> AetherionV26",
-    "[02:38] [BOT] <HienBot> **CitrusGames**: AetherionV26",
-    "[02:38] [BOT] <HienBot> >Do you want kit? Type *kit",
-    "[02:38] [8b8t] >> ▼ Player CitrusGames Left.",
-    "[02:38] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[02:38] [8b8t] >> ▲ Player .Jkbra1127 Joined.",
     "[02:38] [BOT] <HienBot> >Items for PVP and Building available in build",
     "[02:39] [8b8t] >> ▼ Player iTrisstan Left.",
     "[02:39] [8b8t] >> ▲ Player iTrisstan Joined.",
@@ -108,7 +93,22 @@
     "[02:40] AllosauriaJR forgot to bring their parachute",
     "[02:40] [8b8t] >> ▼ Player AllosauriaJR Left.",
     "[02:40] [8b8t] >> ▼ Player kataxen Left.",
-    "[02:40] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t"
+    "[02:40] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[02:41] [8b8t] >> ▲ Player io_bot Joined.",
+    "[02:41] [8b8t] >> ▲ Player .PRO_SWEAT5019 Joined.",
+    "[02:41] [BOT] <HienBot> >Running low on supplies? Use survival",
+    "[02:41] [8b8t] >> ▼ Player .PRO_SWEAT5019 Left.",
+    "[02:41] io_bot Whispers: survival",
+    "[02:41] [BOT] <HienBot> **io_bot**: survival",
+    "[02:41] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[02:41] [8b8t] >> Teleporting to home 0...",
+    "[02:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:41] [8b8t] >> Teleporting to home 1...",
+    "[02:41] To io_bot: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:41] To io_bot: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:41] [BOT] <HienBot> **Bot to io_bot**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:41] [8b8t] >> Request sent to io_bot"
   ],
   "userStats": {
     "Hien2309": 74,
@@ -933,12 +933,13 @@
     "mutedwarf452123": 5,
     "pepeyoelcrack": 1,
     "shnxzy": 3,
-    "Eduardo2010": 1
+    "Eduardo2010": 1,
+    "io_bot": 1
   },
   "kitStats": {
     "pvp": 751,
     "raid": 146,
-    "survival": 936,
+    "survival": 937,
     "shulker": 307,
     "music": 155,
     "terracotta": 27,
