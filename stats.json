@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:01:09 27/2/2026",
+  "lastUpdated": "12:01:39 27/2/2026",
   "totalKits": 103228,
   "todayKits": 56,
-  "onlineCount": 17,
+  "onlineCount": 16,
   "peakPlayers": 47,
   "playerStats": {
     "min": 15,
@@ -12,7 +12,7 @@
     "maxTime": "08:38:39 27/2/2026",
     "avg": 22
   },
-  "tps": "14.0",
+  "tps": "11.0",
   "ping": 216,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 945
+      "count": 946
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:55] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[04:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[04:56] [8b8t] >> ▲ Player crisgt43 Joined.",
-    "[04:56] [8b8t] >> ▼ Player crisgt43 Left.",
-    "[04:56] [BOT] <HienBot> >Try list to see available kits",
-    "[04:56] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[04:56] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[04:57] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[04:57] <z7_7z> #litematica",
-    "[04:57] [BOT] <HienBot> **z7_7z**: #litematica",
-    "[04:57] <z7_7z> FAAH",
-    "[04:57] [BOT] <HienBot> **z7_7z**: FAAH",
     "[04:57] [BOT] <HienBot> >Do you want kit? Type *kit",
     "[04:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[04:58] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
@@ -108,7 +96,19 @@
     "[05:00] [BOT] <HienBot> **mtsmpy_**: try",
     "[05:00] Echovenum withered away to the 4th dimension",
     "[05:00] [BOT] <HienBot> >Running low on supplies? Use survival",
-    "[05:01] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me"
+    "[05:01] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[05:01] <Echovenum> survival",
+    "[05:01] [BOT] <HienBot> **Echovenum**: survival",
+    "[05:01] [8b8t] >> Teleporting to home 0...",
+    "[05:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:01] [8b8t] >> Teleporting to home 1...",
+    "[05:01] To Echovenum: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:01] [BOT] <HienBot> **Bot to Echovenum**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:01] To Echovenum: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:01] [BOT] <HienBot> >Try /cosmetics to change your name color!",
+    "[05:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:01] [8b8t] >> Request sent to Echovenum",
+    "[05:01] [8b8t] >> ▼ Player sepillin Left."
   ],
   "userStats": {
     "Hien2309": 74,
@@ -938,12 +938,13 @@
     "AllosauriaJR": 5,
     "elderi2": 1,
     "noobmaster96": 1,
-    "SANCHEZ5GAMER": 1
+    "SANCHEZ5GAMER": 1,
+    "Echovenum": 1
   },
   "kitStats": {
     "pvp": 753,
     "raid": 148,
-    "survival": 945,
+    "survival": 946,
     "shulker": 307,
     "music": 156,
     "terracotta": 27,
