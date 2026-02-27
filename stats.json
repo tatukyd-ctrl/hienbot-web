@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:49:03 28/2/2026",
+  "lastUpdated": "06:49:10 28/2/2026",
   "totalKits": 103554,
   "todayKits": 382,
-  "onlineCount": 21,
+  "onlineCount": 5,
   "peakPlayers": 49,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "03:37:40 28/2/2026",
     "avg": 25
   },
-  "tps": "12.0",
-  "ping": 209,
+  "tps": "10.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1080
+      "count": 1081
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:48] <mutedwarf452123> survival",
-    "[23:48] To mutedwarf452123: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[23:48] [8b8t] >> Please do not spam.",
-    "[23:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:48] [8b8t] >> Teleporting...",
-    "[23:48] [8b8t] >> You have killed yourself!",
-    "[23:48] HienBot was EZ clapped by NeitherRecord44 using [tnt]",
-    "[23:48] To NeitherRecord44: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:48] [BOT] <HienBot> **Bot to NeitherRecord44**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:48] <mutedwarf452123> survival",
-    "[23:48] [8b8t] >> Teleporting to home 0...",
-    "[23:48] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[23:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:48] [8b8t] >> Teleporting to home 1...",
-    "[23:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:48] To mutedwarf452123: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[23:48] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[23:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +93,22 @@
     "[23:48] [8b8t] >> Teleporting...",
     "[23:49] [8b8t] >> You arent ignoring Real4Tribe",
     "[23:49] <MasterWo> hello",
-    "[23:49] [BOT] <HienBot> **MasterWo**: hello"
+    "[23:49] [BOT] <HienBot> **MasterWo**: hello",
+    "[23:49] [8b8t] >> You have killed yourself!",
+    "[23:49] <ElektrikAvNU> survival",
+    "[23:49] .Diamond97145 went for a swim in lava and got burned",
+    "[23:49] [8b8t] >> Teleporting to home 0...",
+    "[23:49] [BOT] <HienBot> **ElektrikAvNU**: survival",
+    "[23:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:49] [8b8t] >> Teleporting to home 1...",
+    "[23:49] To ElektrikAvNU: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:49] You were kicked from 8b8t: Kicked for spamming",
+    "[23:49] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
+    "[23:49] You may not interact with objects!",
+    "[23:49] [8b8t] Unknown command do /help",
+    "[23:49] [8b8t] Unknown command do /help",
+    "[23:49] [8b8t] Unknown command do /help"
   ],
   "userStats": {
     "Hien2309": 75,
@@ -958,13 +958,13 @@
     "Snicker6493": 7,
     "_pistacchio_": 3,
     "idkuser1245": 15,
-    "ElektrikAvNU": 4,
+    "ElektrikAvNU": 5,
     "NeitherRecord44": 1
   },
   "kitStats": {
     "pvp": 804,
     "raid": 163,
-    "survival": 1080,
+    "survival": 1081,
     "shulker": 313,
     "music": 161,
     "terracotta": 29,
