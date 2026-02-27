@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:00:39 27/2/2026",
-  "totalKits": 103302,
-  "todayKits": 130,
+  "lastUpdated": "19:01:00 27/2/2026",
+  "totalKits": 103303,
+  "todayKits": 131,
   "onlineCount": 22,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:38:39 27/2/2026",
     "avg": 19
   },
-  "tps": "14.0",
+  "tps": "15.0",
   "ping": 199,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 965
+      "count": 966
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:59] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[11:59] [8b8t] >> ▼ Player felixy111 Left.",
-    "[11:59] [8b8t] >> You arent ignoring adri989",
-    "[11:59] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
-    "[11:59] [8b8t] >> Please include a player /ignore <playerName>",
-    "[11:59] [8b8t] >> You arent ignoring IamNuke_",
-    "[11:59] [8b8t] >> You arent ignoring DavidN3000",
-    "[11:59] [8b8t] >> You arent ignoring h6sx",
-    "[11:59] [8b8t] >> ▼ Player nigamannanana Left.",
-    "[11:59] [8b8t] >> ▲ Player nigamannanana Joined.",
-    "[11:59] [8b8t] >> ▼ Player nigamannanana Left.",
-    "[11:59] [8b8t] >> ▲ Player nigamannanana Joined.",
     "[11:59] [8b8t] >> ▲ Player vgs_ Joined.",
     "[11:59] [8b8t] >> ▲ Player felixy111 Joined.",
     "[11:59] [BOT] <HienBot> >Try list to see available kits",
@@ -108,7 +96,19 @@
     "[12:00] <RaviiPlayzYT> bestping",
     "[12:00] To RaviiPlayzYT: MrPRORiyan with 0 ms. Don't forget to join dsc.gg/hienbot",
     "[12:00] [BOT] <HienBot> **RaviiPlayzYT**: bestping",
-    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:00] <BedCRS777> survival",
+    "[12:00] [8b8t] >> Teleporting to home 0...",
+    "[12:00] [BOT] <HienBot> **BedCRS777**: survival",
+    "[12:00] [8b8t] >> Teleporting to home 1...",
+    "[12:00] To BedCRS777: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:00] To BedCRS777: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:00] [BOT] <HienBot> **Bot to BedCRS777**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:00] [8b8t] >> Request sent to BedCRS777",
+    "[12:00] [BOT] <HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
+    "[12:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 75,
@@ -942,12 +942,12 @@
     "Echovenum": 1,
     "reeekk": 2,
     "Kylev999": 1,
-    "BedCRS777": 2
+    "BedCRS777": 3
   },
   "kitStats": {
     "pvp": 766,
     "raid": 155,
-    "survival": 965,
+    "survival": 966,
     "shulker": 307,
     "music": 157,
     "terracotta": 27,
