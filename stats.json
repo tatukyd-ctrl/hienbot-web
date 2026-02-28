@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:55:40 28/2/2026",
-  "totalKits": 103660,
-  "todayKits": 102,
+  "lastUpdated": "12:55:56 28/2/2026",
+  "totalKits": 103661,
+  "todayKits": 103,
   "onlineCount": 27,
   "peakPlayers": 49,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:20:40 28/2/2026",
     "avg": 26
   },
-  "tps": "11.0",
+  "tps": "8.0",
   "ping": 410,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1129
+      "count": 1130
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:54] <Yomellamolucas> ok",
-    "[05:54] [BOT] <HienBot> **Yomellamolucas**: ok",
-    "[05:54] [BOT] <HienBot> >Items for PVP and Building available in build",
-    "[05:54] <Yomellamolucas> grax",
-    "[05:54] [BOT] <HienBot> **Yomellamolucas**: grax",
-    "[05:55] [8b8t] >> ▼ Player XARCEUSXx Left.",
-    "[05:55] <mayank8610> armor",
-    "[05:55] [8b8t] >> Teleporting to home 0...",
-    "[05:55] [BOT] <HienBot> **mayank8610**: armor",
-    "[05:55] [8b8t] >> Teleporting to home 1...",
-    "[05:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:55] To mayank8610: Your kit (armor) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[05:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:55] To mayank8610: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[05:55] [8b8t] >> You have killed yourself!",
@@ -108,7 +96,19 @@
     "[05:55] <Yomellamolucas> toma",
     "[05:55] [BOT] <HienBot> **Yomellamolucas**: toma",
     "[05:55] <mayank8610> anyone team",
-    "[05:55] [BOT] <HienBot> **mayank8610**: anyone team"
+    "[05:55] [BOT] <HienBot> **mayank8610**: anyone team",
+    "[05:55] <recitar> survival",
+    "[05:55] [8b8t] >> Teleporting to home 0...",
+    "[05:55] [BOT] <HienBot> **recitar**: survival",
+    "[05:55] [8b8t] >> Teleporting to home 1...",
+    "[05:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:55] To recitar: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:55] To recitar: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:55] [8b8t] >> Request sent to recitar",
+    "[05:55] [BOT] <HienBot> **Bot to recitar**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:55] [8b8t] >> Teleporting...",
+    "[05:55] [BOT] <HienBot> >Use lang and select your language"
   ],
   "userStats": {
     "Hien2309": 75,
@@ -970,12 +970,12 @@
     "7_7": 1,
     "tolampro": 2,
     "Yomellamolucas": 1,
-    "recitar": 1
+    "recitar": 2
   },
   "kitStats": {
     "pvp": 821,
     "raid": 166,
-    "survival": 1129,
+    "survival": 1130,
     "shulker": 313,
     "music": 163,
     "terracotta": 29,
