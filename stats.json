@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:20:27 28/2/2026",
-  "totalKits": 103768,
-  "todayKits": 107,
+  "lastUpdated": "18:20:46 28/2/2026",
+  "totalKits": 103769,
+  "todayKits": 108,
   "onlineCount": 28,
   "peakPlayers": 39,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "16:43:27 28/2/2026",
     "avg": 26
   },
-  "tps": "12.0",
+  "tps": "11.0",
   "ping": 195,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1164
+      "count": 1165
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:18] [BOT] <HienBot> **IamLightVacoro**: are u a griefer",
-    "[11:18] [BOT] <HienBot> >Items for PVP and Building available in build",
-    "[11:18] Victorchiroiu52 thought they could make it to oxygen in time",
-    "[11:18] [8b8t] >> ▼ Player Iampauloo Left.",
-    "[11:18] mrsmithi has made the advancement [Spooky Scary Skeleton]",
-    "[11:18] [8b8t] >> ▲ Player Iampauloo Joined.",
-    "[11:18] <Jippolo> isnt everyone here ?",
-    "[11:18] [BOT] <HienBot> **Jippolo**: isnt everyone here ?",
-    "[11:18] [8b8t] >> ▼ Player parmeda544 Left.",
-    "[11:18] <IamLightVacoro> lol",
-    "[11:18] [BOT] <HienBot> **IamLightVacoro**: lol",
-    "[11:18] [8b8t] >> ▼ Player Iampauloo Left.",
     "[11:18] [BOT] <HienBot> >Try list to see available kits",
     "[11:18] [8b8t] >> ▲ Player Iampauloo Joined.",
     "[11:19] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
@@ -108,7 +96,19 @@
     "[11:20] [BOT] <HienBot> **IamLightVacoro**: jippolo how long is the spawn?",
     "[11:20] [BOT] <HienBot> >Want free items? Just type survival",
     "[11:20] <Victorchiroiu52> Has anyone found a nether portal at spawn?",
-    "[11:20] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[11:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:20] <Victorchiroiu52> survival",
+    "[11:20] [8b8t] >> Teleporting to home 0...",
+    "[11:20] [BOT] <HienBot> **Victorchiroiu52**: survival",
+    "[11:20] [8b8t] >> Teleporting to home 1...",
+    "[11:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:20] To Victorchiroiu52: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:20] To Victorchiroiu52: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:20] [BOT] <HienBot> **Bot to Victorchiroiu52**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:20] [8b8t] >> Request sent to Victorchiroiu52",
+    "[11:20] IamLightVacoro decided to test gravity and lost",
+    "[11:20] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 75,
@@ -981,12 +981,13 @@
     "hiii": 1,
     "Iampauloo": 12,
     "Stazz_Dude": 2,
-    "parmeda544": 2
+    "parmeda544": 2,
+    "Victorchiroiu52": 1
   },
   "kitStats": {
     "pvp": 842,
     "raid": 177,
-    "survival": 1164,
+    "survival": 1165,
     "shulker": 313,
     "music": 165,
     "terracotta": 29,
