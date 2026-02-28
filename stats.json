@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:56:40 28/2/2026",
-  "totalKits": 103633,
-  "todayKits": 75,
-  "onlineCount": 26,
+  "lastUpdated": "11:56:50 28/2/2026",
+  "totalKits": 103634,
+  "todayKits": 76,
+  "onlineCount": 25,
   "peakPlayers": 49,
   "playerStats": {
     "min": 15,
@@ -13,7 +13,7 @@
     "avg": 26
   },
   "tps": "12.0",
-  "ping": 802,
+  "ping": 380,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1119
+      "count": 1120
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:54] [BOT] <HienBot> **z7_7z**: no",
-    "[04:55] <z7_7> no",
-    "[04:55] [BOT] <HienBot> **z7_7**: no",
-    "[04:55] bahiano1 got a deadly lesson from the Wither",
-    "[04:55] [8b8t] >> ▼ Player luciano789 Left.",
-    "[04:55] <LaundiyaBaaj> what was inside stash Azure772 ?",
-    "[04:55] [BOT] <HienBot> **LaundiyaBaaj**: what was inside stash Azure772 ?",
-    "[04:55] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
-    "[04:55] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[04:55] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[04:55] <Azure772> nothing",
-    "[04:55] [BOT] <HienBot> **Azure772**: nothing",
-    "[04:55] <LaundiyaBaaj> empty shulker ?",
-    "[04:55] [BOT] <HienBot> **LaundiyaBaaj**: empty shulker ?",
     "[04:55] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[04:55] <Azure772> no because it was out of stock",
     "[04:55] [BOT] <HienBot> **Azure772**: no because it was out of stock",
@@ -108,7 +94,21 @@
     "[04:56] Azure772 got slammed into a wall by his elytra",
     "[04:56] Fostshade forgot to bring their parachute",
     "[04:56] <z7_7> w hi",
-    "[04:56] [BOT] <HienBot> **z7_7**: w hi"
+    "[04:56] [BOT] <HienBot> **z7_7**: w hi",
+    "[04:56] <Azure772> survival",
+    "[04:56] [8b8t] >> Teleporting to home 0...",
+    "[04:56] [BOT] <HienBot> **Azure772**: survival",
+    "[04:56] [8b8t] >> Teleporting to home 1...",
+    "[04:56] To Azure772: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:56] <z7_7z> w h",
+    "[04:56] [BOT] <HienBot> **z7_7z**: w h",
+    "[04:56] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:56] [8b8t] >> Request sent to Azure772",
+    "[04:56] [8b8t] >> Teleporting...",
+    "[04:56] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:56] [8b8t] >> ▼ Player bbenicio200 Left."
   ],
   "userStats": {
     "Hien2309": 75,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 7,
-    "Azure772": 53,
+    "Azure772": 54,
     "kobthegoat14": 71,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -971,7 +971,7 @@
   "kitStats": {
     "pvp": 812,
     "raid": 165,
-    "survival": 1119,
+    "survival": 1120,
     "shulker": 313,
     "music": 162,
     "terracotta": 29,
