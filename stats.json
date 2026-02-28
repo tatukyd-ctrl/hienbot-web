@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:01:51 28/2/2026",
+  "lastUpdated": "13:01:57 28/2/2026",
   "totalKits": 103664,
   "todayKits": 3,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 30,
   "playerStats": {
     "min": 15,
@@ -12,7 +12,7 @@
     "maxTime": "07:20:40 28/2/2026",
     "avg": 26
   },
-  "tps": "10.0",
+  "tps": "12.0",
   "ping": 210,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "dupe",
-      "count": 362
+      "count": 363
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:01] [8b8t] >> Teleporting to home 0...",
-    "[06:01] [BOT] <HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[06:01] [8b8t] >> Teleporting to home 1...",
-    "[06:01] To .AceDesert2260: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
-    "[06:01] [BOT] <HienBot> **Bot to .AceDesert2260**: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
-    "[06:01] [8b8t] >> Request sent to .AceDesert2260",
-    "[06:01] <Yomellamolucas> vamos con elitras",
-    "[06:01] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[06:01] [BOT] <HienBot> **Yomellamolucas**: vamos con elitras",
-    "[06:01] asimamoto decided to test gravity and lost",
     "[06:01] <rolito> raid",
     "[06:01] To rolito: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[06:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +98,17 @@
     "[06:01] [8b8t] >> ▼ Player MonkeBot Left.",
     "[06:01] [8b8t] >> ▼ Player [MOD] freddison Left.",
     "[06:01] [8b8t] >> ▼ Player Azure772 Left.",
-    "[06:01] [8b8t] >> ▲ Player reeekk Joined."
+    "[06:01] [8b8t] >> ▲ Player reeekk Joined.",
+    "[06:01] [8b8t] >> You have killed yourself!",
+    "[06:01] [8b8t] >> ▲ Player freddison Joined.",
+    "[06:01] <.Ri2222> dupe",
+    "[06:01] [8b8t] >> Teleporting to home 0...",
+    "[06:01] [BOT] <HienBot> **.Ri2222**: dupe",
+    "[06:01] [8b8t] >> Teleporting to home 7...",
+    "[06:01] To .AceDesert2260: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[06:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:01] To .Ri2222: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:01] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 75,
@@ -972,7 +972,7 @@
     "Yomellamolucas": 1,
     "recitar": 3,
     "rolito": 2,
-    ".Ri2222": 1
+    ".Ri2222": 2
   },
   "kitStats": {
     "pvp": 822,
@@ -992,7 +992,7 @@
     "build": 272,
     "dye": 29,
     "concrete": 44,
-    "dupe": 362,
+    "dupe": 363,
     "food": 72,
     "glass": 43,
     "elytra": 266,
