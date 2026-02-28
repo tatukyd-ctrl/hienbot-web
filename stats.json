@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:25:27 28/2/2026",
+  "lastUpdated": "15:25:57 28/2/2026",
   "totalKits": 103705,
   "todayKits": 44,
   "onlineCount": 19,
@@ -12,8 +12,8 @@
     "maxTime": "07:20:40 28/2/2026",
     "avg": 26
   },
-  "tps": "15.0",
-  "ping": 202,
+  "tps": "17.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1141
+      "count": 1142
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:24] [BOT] <HienBot> >Try dupe",
-    "[08:24] <ELPAPIADOR23214> survival",
-    "[08:24] [8b8t] >> Teleporting to home 0...",
-    "[08:24] [BOT] <HienBot> **ELPAPIADOR23214**: survival",
-    "[08:24] [8b8t] >> Teleporting to home 1...",
-    "[08:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:24] To ELPAPIADOR23214: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:24] To ELPAPIADOR23214: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:24] [BOT] <HienBot> **Bot to ELPAPIADOR23214**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[08:24] [8b8t] >> Request sent to ELPAPIADOR23214",
     "[08:24] [8b8t] >> Teleporting...",
@@ -108,6 +99,15 @@
     "[08:25] <ELPAPIADOR23214> survival",
     "[08:25] To ELPAPIADOR23214: You're on cooldown, try again in 5 seconds! Don't forget to join dsc.gg/hienbot",
     "[08:25] [BOT] <HienBot> **ELPAPIADOR23214**: survival",
+    "[08:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[08:25] [BOT] <HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
+    "[08:25] <darsacc> survival",
+    "[08:25] [8b8t] >> Teleporting to home 0...",
+    "[08:25] [BOT] <HienBot> **darsacc**: survival",
+    "[08:25] [8b8t] >> Teleporting to home 1...",
+    "[08:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:25] To darsacc: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[08:25] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
@@ -265,7 +265,7 @@
     "arda912": 1,
     "nikolozi2478": 6,
     "Laiwy_123": 8,
-    "darsacc": 42,
+    "darsacc": 43,
     "Geobo": 3,
     "ViolaStockSauces": 2,
     "wolvesbykanye": 13,
@@ -980,7 +980,7 @@
   "kitStats": {
     "pvp": 834,
     "raid": 169,
-    "survival": 1141,
+    "survival": 1142,
     "shulker": 313,
     "music": 163,
     "terracotta": 29,
