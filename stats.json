@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:52:54 1/3/2026",
+  "lastUpdated": "05:52:57 1/3/2026",
   "totalKits": 104133,
   "todayKits": 472,
   "onlineCount": 31,
@@ -12,7 +12,7 @@
     "maxTime": "04:24:08 1/3/2026",
     "avg": 30
   },
-  "tps": "14.0",
+  "tps": "11.0",
   "ping": 196,
   "topUsers": [
     {
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:51] [BOT] <HienBot> **AlloJr**: ok",
-    "[22:51] [BOT] <HienBot> >Try list to see available kits",
-    "[22:51] [8b8t] >> ▼ Player dieik Left.",
-    "[22:51] [8b8t] >> ▼ Player francoldk Left.",
-    "[22:51] [8b8t] >> ▲ Player GaBaus Joined.",
     "[22:51] [8b8t] >> ▼ Player STYanss Left.",
     "[22:51] 7zku has completed the challenge [Hot Tourist Destinations]",
     "[22:51] [BOT] <HienBot> >Sub to Hien2309 in youtube",
@@ -108,7 +103,12 @@
     "[22:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:52] [8b8t] >> Request sent to idkuser1245",
     "[22:52] [8b8t] >> Teleporting...",
-    "[22:52] [8b8t] >> ▲ Player iTrisstan Joined."
+    "[22:52] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[22:52] <zl5k> raid",
+    "[22:52] [8b8t] >> You have killed yourself!",
+    "[22:52] HienBot was slain by idkuser1245 using [their hand]",
+    "[22:52] [8b8t] >> You have killed yourself!",
+    "[22:52] [BOT] <HienBot> **zl5k**: raid"
   ],
   "userStats": {
     "Hien2309": 79,
@@ -1008,12 +1008,12 @@
     "ayask0148": 1,
     "jeffreyepstein": 1,
     "7zku": 15,
-    "zl5k": 26,
+    "zl5k": 27,
     "SPREENQ": 5
   },
   "kitStats": {
     "pvp": 904,
-    "raid": 194,
+    "raid": 195,
     "survival": 1350,
     "shulker": 317,
     "music": 173,
