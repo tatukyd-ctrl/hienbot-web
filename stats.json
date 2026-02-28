@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:44:49 28/2/2026",
+  "lastUpdated": "22:44:57 28/2/2026",
   "totalKits": 103894,
   "todayKits": 233,
   "onlineCount": 35,
@@ -12,7 +12,7 @@
     "maxTime": "16:43:27 28/2/2026",
     "avg": 27
   },
-  "tps": "14.0",
+  "tps": "10.0",
   "ping": 200,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1220
+      "count": 1221
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:44] To ssamu.: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[15:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:44] [8b8t] >> ▼ Player pankinas123 Left.",
-    "[15:44] ssamu. has made the advancement [Ice Bucket Challenge]",
-    "[15:44] ssamu. has completed the challenge [Cover Me in Debris]",
-    "[15:44] ssamu. has reached the goal [Sky's the Limit]",
-    "[15:44] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[15:44] idkuser1245 Whispers: survival",
-    "[15:44] manomatoo4 has made the advancement [Ice Bucket Challenge]",
-    "[15:44] [8b8t] >> You arent ignoring adri989",
-    "[15:44] [8b8t] >> Please include a player /ignore <playerName>",
-    "[15:44] R053 has made the advancement [Ice Bucket Challenge]",
-    "[15:44] [8b8t] >> You arent ignoring IamNuke_",
     "[15:44] [8b8t] >> You arent ignoring DavidN3000",
     "[15:44] [8b8t] >> You arent ignoring h6sx",
     "[15:44] InsaneBoi69 forgot to bring their parachute",
@@ -108,7 +95,20 @@
     "[15:44] [8b8t] >> Request sent to busybee07",
     "[15:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:44] manomatoo4 withered away to the 4th dimension",
-    "[15:44] [8b8t] >> Teleporting..."
+    "[15:44] [8b8t] >> Teleporting...",
+    "[15:44] [8b8t] >> You have killed yourself!",
+    "[15:44] busybee07 pulverized HienBot using [their hand]",
+    "[15:44] <maurocas> el samu está XD",
+    "[15:44] [BOT] <HienBot> **maurocas**: el samu est XD",
+    "[15:44] ssamu. has made the advancement [We Need to Go Deeper]",
+    "[15:44] idkkkkkkkkkk Whispers: Survival",
+    "[15:44] [8b8t] >> Teleporting to home 0...",
+    "[15:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:44] [8b8t] >> Teleporting to home 1...",
+    "[15:44] [BOT] <HienBot> 📦 idkkkkkkkkkk requested survival kit.",
+    "[15:44] To idkkkkkkkkkk: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:44] idkuser1245 Whispers: survival"
   ],
   "userStats": {
     "Hien2309": 79,
@@ -460,7 +460,7 @@
     "Elmonito1234": 14,
     "idkuser12": 4,
     "Barrerics_2011": 20,
-    "idkkkkkkkkkk": 25,
+    "idkkkkkkkkkk": 26,
     "TristanAbyss": 1,
     "BigBear": 44,
     "SINCONOCIMIENTO": 2,
@@ -1000,7 +1000,7 @@
   "kitStats": {
     "pvp": 866,
     "raid": 179,
-    "survival": 1220,
+    "survival": 1221,
     "shulker": 315,
     "music": 173,
     "terracotta": 29,
