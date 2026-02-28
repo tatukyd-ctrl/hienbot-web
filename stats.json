@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:01:40 28/2/2026",
-  "totalKits": 103635,
-  "todayKits": 77,
+  "lastUpdated": "12:02:02 28/2/2026",
+  "totalKits": 103636,
+  "todayKits": 78,
   "onlineCount": 22,
   "peakPlayers": 49,
   "playerStats": {
@@ -13,7 +13,7 @@
     "avg": 26
   },
   "tps": "13.0",
-  "ping": 425,
+  "ping": 354,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1120
+      "count": 1121
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:00] [8b8t] >> ▼ Player Fostshade Left.",
-    "[05:00] <LaundiyaBaaj> Fostshade me",
-    "[05:00] [BOT] <HienBot> **LaundiyaBaaj**: Fostshade me",
-    "[05:00] <LaundiyaBaaj> stash",
-    "[05:00] [8b8t] >> Teleporting to home 0...",
-    "[05:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:00] [8b8t] >> Teleporting to home 2...",
-    "[05:00] [BOT] <HienBot> 📦 LaundiyaBaaj requested stash kit.",
-    "[05:00] To LaundiyaBaaj: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:01] To LaundiyaBaaj: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[05:01] [8b8t] >> You have killed yourself!",
-    "[05:01] [BOT] <HienBot> **Bot to LaundiyaBaaj**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[05:01] [8b8t] >> ▼ Player bugbar Left.",
     "[05:01] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[05:01] [8b8t] >> You arent ignoring adri989",
     "[05:01] [8b8t] >> Please include a player /ignore <playerName>",
@@ -108,7 +94,21 @@
     "[05:01] <drecobloxrd> es eso",
     "[05:01] [BOT] <HienBot> **LaundiyaBaaj**: Fostshade me",
     "[05:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:01] [8b8t] >> ▼ Player LocalIceDealer Left."
+    "[05:01] [8b8t] >> ▼ Player LocalIceDealer Left.",
+    "[05:01] <Yomellamolucas> y de que va hacer tu estatua",
+    "[05:01] [BOT] <HienBot> **Yomellamolucas**: y de que va hacer tu estatua",
+    "[05:01] <LaundiyaBaaj> survival",
+    "[05:01] [8b8t] >> Teleporting to home 0...",
+    "[05:01] [BOT] <HienBot> **LaundiyaBaaj**: survival",
+    "[05:01] [8b8t] >> Teleporting to home 1...",
+    "[05:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:01] To LaundiyaBaaj: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:01] To LaundiyaBaaj: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:01] [8b8t] >> Request sent to LaundiyaBaaj",
+    "[05:01] [BOT] <HienBot> **Bot to LaundiyaBaaj**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 75,
@@ -966,12 +966,12 @@
     "julipanter4": 1,
     "z7_7": 2,
     "tnd69": 8,
-    "LaundiyaBaaj": 6
+    "LaundiyaBaaj": 7
   },
   "kitStats": {
     "pvp": 813,
     "raid": 165,
-    "survival": 1120,
+    "survival": 1121,
     "shulker": 313,
     "music": 162,
     "terracotta": 29,
