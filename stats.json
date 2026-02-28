@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:50:57 1/3/2026",
+  "lastUpdated": "00:51:27 1/3/2026",
   "totalKits": 103951,
   "todayKits": 290,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 41,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "23:58:27 28/2/2026",
     "avg": 27
   },
-  "tps": "9.0",
-  "ping": 201,
+  "tps": "10.0",
+  "ping": 199,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1248
+      "count": 1249
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:49] [BOT] <HienBot> **xMerstach**: alguien me da cosas de cpvp soy lt2 en cpvp",
-    "[17:49] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[17:49] xMerstach Whispers: yo",
-    "[17:49] [8b8t] >> You have killed yourself!",
-    "[17:49] [BOT] <HienBot> **xMerstach**: yo",
-    "[17:49] [8b8t] >> The TPA request you sent to xMerstach was successfully canceled.",
-    "[17:50] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[17:50] <xMerstach> survival",
-    "[17:50] To xMerstach: You're on cooldown, try again in 51 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:50] [BOT] <HienBot> **xMerstach**: survival",
-    "[17:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:50] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[17:50] [8b8t] >> You arent ignoring adri989",
     "[17:50] [8b8t] >> Please include a player /ignore <playerName>",
     "[17:50] [8b8t] >> You arent ignoring IamNuke_",
     "[17:50] [8b8t] >> ▲ Player pipipith2 Joined.",
@@ -108,7 +95,20 @@
     "[17:50] <.AceDesert2260> es el que eztoy usando",
     "[17:50] [BOT] <HienBot> **.AceDesert2260**: es el que eztoy usando",
     "[17:50] ASHyperion has reached the goal [Postmortal]",
-    "[17:50] gabielmaspro2026 has made the advancement [Getting an Upgrade]"
+    "[17:50] gabielmaspro2026 has made the advancement [Getting an Upgrade]",
+    "[17:50] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
+    "[17:51] [8b8t] >> ▲ Player Univof Joined.",
+    "[17:51] [8b8t] >> ▲ Player velvet_vampire Joined.",
+    "[17:51] [8b8t] >> ▼ Player Niko_27q Left.",
+    "[17:51] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[17:51] velvet_vampire challenged the Wither and lost their head",
+    "[17:51] <xMerstach> survival",
+    "[17:51] [8b8t] >> Teleporting to home 0...",
+    "[17:51] [BOT] <HienBot> **xMerstach**: survival",
+    "[17:51] [8b8t] >> Teleporting to home 1...",
+    "[17:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:51] To xMerstach: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:51] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 79,
@@ -998,12 +998,12 @@
     "ssamu.": 2,
     "K0NICHTS": 4,
     "NeoNazi": 1,
-    "xMerstach": 1
+    "xMerstach": 2
   },
   "kitStats": {
     "pvp": 871,
     "raid": 181,
-    "survival": 1248,
+    "survival": 1249,
     "shulker": 316,
     "music": 173,
     "terracotta": 29,
