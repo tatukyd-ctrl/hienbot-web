@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:47:50 28/2/2026",
+  "lastUpdated": "20:47:57 28/2/2026",
   "totalKits": 103821,
   "todayKits": 160,
-  "onlineCount": 32,
+  "onlineCount": 33,
   "peakPlayers": 39,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "16:43:27 28/2/2026",
     "avg": 26
   },
-  "tps": "10.0",
+  "tps": "7.0",
   "ping": 0,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "dupe",
-      "count": 376
+      "count": 377
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:47] [BOT] <HienBot> **spinchase**: status spinchase",
-    "[13:47] <Unkn0wnless> survival",
-    "[13:47] [8b8t] >> Teleporting to home 0...",
-    "[13:47] [BOT] <HienBot> **Unkn0wnless**: survival",
-    "[13:47] [8b8t] >> Teleporting to home 1...",
-    "[13:47] <c0nex1on> anyone got crystal shulkers?",
-    "[13:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:47] To Unkn0wnless: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:47] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[13:47] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[13:47] [8b8t] >> ▼ Player idkkkkkkkkkk Left.",
-    "[13:47] To Unkn0wnless: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:47] [8b8t] >> Please include a player /ignore <playerName>",
     "[13:47] [8b8t] >> Please include a player /ignore <playerName>",
     "[13:47] [BOT] <HienBot> **Bot to Unkn0wnless**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +94,21 @@
     "[13:47] [8b8t] >> Welcome idkkkkkkkkkk to 8b8t.me Lobby",
     "[13:47] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[13:47] [8b8t] >> ▲ Player HienBot Joined.",
-    "[13:47] [8b8t] >> You arent ignoring Real4Tribe"
+    "[13:47] [8b8t] >> You arent ignoring Real4Tribe",
+    "[13:47] [8b8t] >> You have killed yourself!",
+    "[13:47] You are already connected to this server!",
+    "[13:47] [BOT] <HienBot> >Bot created by Hien2309.",
+    "[13:47] <spinchase> dupe",
+    "[13:47] [8b8t] >> Teleporting to home 0...",
+    "[13:47] [BOT] <HienBot> **spinchase**: dupe",
+    "[13:47] [8b8t] >> Teleporting to home 7...",
+    "[13:47] To spinchase: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:47] <c0nex1on> dupe",
+    "[13:47] [8b8t] >> ▲ Player idkkkkkkkkkk Joined.",
+    "[13:47] To c0nex1on: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[13:47] [BOT] <HienBot> **c0nex1on**: dupe"
   ],
   "userStats": {
     "Hien2309": 75,
@@ -883,7 +883,7 @@
     ".Oliiifgffbb": 1,
     "Weyku": 16,
     "Minute_Hecky": 6,
-    "spinchase": 9,
+    "spinchase": 10,
     "Kxrrupt404": 3,
     "peresita": 1,
     "gabonzo": 1,
@@ -1011,7 +1011,7 @@
     "build": 278,
     "dye": 30,
     "concrete": 46,
-    "dupe": 376,
+    "dupe": 377,
     "food": 74,
     "glass": 45,
     "elytra": 283,
