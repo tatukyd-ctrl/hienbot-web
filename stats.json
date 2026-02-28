@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:53:57 28/2/2026",
-  "totalKits": 103785,
-  "todayKits": 124,
-  "onlineCount": 26,
+  "lastUpdated": "18:54:10 28/2/2026",
+  "totalKits": 103786,
+  "todayKits": 125,
+  "onlineCount": 25,
   "peakPlayers": 39,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "16:43:27 28/2/2026",
     "avg": 26
   },
-  "tps": "12.0",
-  "ping": 193,
+  "tps": "10.0",
+  "ping": 192,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1171
+      "count": 1172
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:52] [8b8t] >> Teleporting to home 0...",
-    "[11:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:52] [8b8t] >> Teleporting to home 1...",
-    "[11:52] To Sharxy: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:52] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[11:52] To Sharxy: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:52] [BOT] <HienBot> **Bot to Sharxy**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:52] [8b8t] >> Request sent to Sharxy",
-    "[11:52] [8b8t] >> Teleporting...",
-    "[11:53] [8b8t] >> You have killed yourself!",
-    "[11:53] HienBot has been put down by Sharxy",
-    "[11:53] To Sharxy: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:53] [BOT] <HienBot> **Bot to Sharxy**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[11:53] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[11:53] [8b8t] >> You arent ignoring adri989",
     "[11:53] [8b8t] >> Please include a player /ignore <playerName>",
@@ -108,7 +94,21 @@
     "[11:53] [8b8t] >> ▼ Player iTrisstan Left.",
     "[11:53] [8b8t] >> ▲ Player zaaeeaeaw Joined.",
     "[11:53] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[11:53] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp"
+    "[11:53] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
+    "[11:53] <Sharxy> SURVIVAL",
+    "[11:53] [8b8t] >> Teleporting to home 0...",
+    "[11:53] [8b8t] >> Please do not spam.",
+    "[11:53] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[11:53] [8b8t] >> Teleporting to home 1...",
+    "[11:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:54] [8b8t] >> ▼ Player zaaeeaeaw Left.",
+    "[11:54] To Sharxy: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:54] To Sharxy: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:54] [BOT] <HienBot> **Bot to Sharxy**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:54] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[11:54] [8b8t] >> Request sent to Sharxy",
+    "[11:54] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 75,
@@ -987,12 +987,12 @@
     "TSKHexOfficial1": 3,
     "Noted_Sauce": 1,
     "IamLightVacoro": 1,
-    "Sharxy": 1
+    "Sharxy": 2
   },
   "kitStats": {
     "pvp": 845,
     "raid": 177,
-    "survival": 1171,
+    "survival": 1172,
     "shulker": 313,
     "music": 165,
     "terracotta": 29,
