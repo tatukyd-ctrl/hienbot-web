@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:46:44 1/3/2026",
+  "lastUpdated": "19:47:14 1/3/2026",
   "totalKits": 104434,
   "todayKits": 101,
   "onlineCount": 27,
@@ -12,8 +12,8 @@
     "maxTime": "09:16:57 1/3/2026",
     "avg": 29
   },
-  "tps": "16.0",
-  "ping": 209,
+  "tps": "11.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 979
+      "count": 980
     },
     {
       "name": "dupe",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:45] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[12:45] To Narimattr_535: Напишите \"/tpayes HienBot\" в течение 35 секунд! Присоединяйтесь dsc.gg/hienbot.",
-    "[12:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:45] [8b8t] >> Request sent to Narimattr_535",
-    "[12:45] .CycloidMC challenged the Wither and lost their head",
-    "[12:45] afzal_legenda3 thought they could fly... they couldn't",
-    "[12:45] [8b8t] >> Teleporting...",
-    "[12:46] Tondinder decided to sleep with the fishes",
-    "[12:46] [8b8t] >> You have killed yourself!",
-    "[12:46] HienBot was destroyed by Narimattr_535",
-    "[12:46] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[12:46] To Narimattr_535: Совет: Используй link для привязки Discord и 50% меньше ожидания! dsc.gg/hienbot",
     "[12:46] [BOT] <HienBot> **Bot to Narimattr_535**: :  link   Discord  50%  ! dsc.gg/hienbot",
     "[12:46] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
@@ -108,7 +97,18 @@
     "[12:46] [8b8t] >> You arent ignoring h6sx",
     "[12:46] [BOT] <HienBot> >Hey aaronmunozBOT!",
     "[12:46] [8b8t] >> ▲ Player camu0615 Joined.",
-    "[12:46] .CycloidMC forgot to bring their parachute"
+    "[12:46] .CycloidMC forgot to bring their parachute",
+    "[12:46] afzal_legenda3 thought a Zombie was friendly",
+    "[12:46] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[12:47] Tondinder thought a Zombie was friendly",
+    "[12:47] aaronmunozBOT has been put down by aaronmunozmunoz",
+    "[12:47] <.CycloidMC> pvp",
+    "[12:47] [BOT] <HienBot> **.CycloidMC**: pvp",
+    "[12:47] [8b8t] >> Teleporting to home 0...",
+    "[12:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:47] [8b8t] >> Teleporting to home 1...",
+    "[12:47] To .CycloidMC: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:47] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 79,
@@ -1034,10 +1034,11 @@
     "__HATE_YOU__": 1,
     "aaronmunozBOT": 4,
     "TURBO_VIRUS": 1,
-    "Tondinder": 1
+    "Tondinder": 1,
+    ".CycloidMC": 1
   },
   "kitStats": {
-    "pvp": 979,
+    "pvp": 980,
     "raid": 234,
     "survival": 1477,
     "shulker": 321,
