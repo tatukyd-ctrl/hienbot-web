@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:37:44 2/3/2026",
+  "lastUpdated": "03:38:14 2/3/2026",
   "totalKits": 104753,
   "todayKits": 420,
-  "onlineCount": 44,
+  "onlineCount": 41,
   "peakPlayers": 53,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "03:01:44 2/3/2026",
     "avg": 31
   },
-  "tps": "11.0",
-  "ping": 222,
+  "tps": "10.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 999
+      "count": 1000
     },
     {
       "name": "dupe",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:36] [8b8t] >> You arent ignoring h6sx",
-    "[20:36] [BOT] <HienBot> >Need gear? Type pvp to get started!",
-    "[20:36] [8b8t] >> ▲ Player .MasterOban Joined.",
-    "[20:36] <blake> it only takes one owner",
-    "[20:36] Vlov74 thought they could make it to oxygen in time",
-    "[20:36] [BOT] <HienBot> **blake56**: it only takes one owner",
-    "[20:37] [8b8t] >> ▲ Player ahme Joined.",
-    "[20:37] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[20:37] [Pro] <Paidpopbob>  bruh 木卫一客户端",
-    "[20:37] [BOT] <HienBot> **paidpopbob**: bruh",
-    "[20:37] .MasterOban forgot to bring their parachute",
-    "[20:37] [8b8t] >> Please do not spam.",
-    "[20:37] [8b8t] >> ▲ Player 2b2tJourney Joined.",
-    "[20:37] <Simone2> redstone",
-    "[20:37] [8b8t] >> Teleporting to home 0...",
-    "[20:37] [BOT] <HienBot> **Simone2**: redstone",
-    "[20:37] [8b8t] >> Teleporting to home 2...",
-    "[20:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:37] To Simone2: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:37] To Simone2: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:37] [BOT] <HienBot> **Bot to Simone2**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:37] [8b8t] >> Request sent to Simone2",
     "[20:37] emre_95 got blown up by an End Crystal",
     "[20:37] <Simone> raid",
@@ -108,7 +86,29 @@
     "[20:37] [BOT] <HienBot> **Simone**: raid",
     "[20:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:37] [8b8t] >> Teleporting...",
-    "[20:37] Vlov74 thought they could fly... they couldn't"
+    "[20:37] Vlov74 thought they could fly... they couldn't",
+    "[20:37] [8b8t] >> ▼ Player ahme Left.",
+    "[20:37] [8b8t] >> You have killed yourself!",
+    "[20:37] To Simone2: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:37] .micangus tried to outswim the water",
+    "[20:37] [BOT] <HienBot> **Bot to Simone2**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:37] [8b8t] >> ▼ Player PyCookie Left.",
+    "[20:37] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[20:37] [8b8t] >> You arent ignoring adri989",
+    "[20:37] [8b8t] >> Please include a player /ignore <playerName>",
+    "[20:38] [8b8t] >> You arent ignoring IamNuke_",
+    "[20:38] [8b8t] >> You arent ignoring DavidN3000",
+    "[20:38] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[20:38] [8b8t] >> You arent ignoring h6sx",
+    "[20:38] [8b8t] >> ▼ Player ignanaro Left.",
+    "[20:38] <Vlov74> kill",
+    "[20:38] [BOT] <HienBot> **Vlov74**: kill",
+    "[20:38] [8b8t] >> Teleporting to home 0...",
+    "[20:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:38] [8b8t] >> Teleporting to home 1...",
+    "[20:38] To Vlov74: Your kit (kill) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:38] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 79,
@@ -1047,10 +1047,11 @@
     "_bluecube": 20,
     "Volky1343": 1,
     "Harrythecatkid2": 1,
-    "TheRealNull_": 5
+    "TheRealNull_": 5,
+    "Vlov74": 1
   },
   "kitStats": {
-    "pvp": 999,
+    "pvp": 1000,
     "raid": 376,
     "survival": 1527,
     "shulker": 324,
