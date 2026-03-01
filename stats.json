@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:42:14 2/3/2026",
+  "lastUpdated": "05:42:44 2/3/2026",
   "totalKits": 104784,
   "todayKits": 451,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 53,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 32
   },
   "tps": "11.0",
-  "ping": 203,
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Simone2",
-      "count": 281
+      "count": 282
     },
     {
       "name": "Simone",
@@ -75,16 +75,10 @@
     },
     {
       "name": "redstone",
-      "count": 385
+      "count": 386
     }
   ],
   "chatLog": [
-    "[22:41] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[22:41] <Simone2> redstone",
-    "[22:41] [8b8t] >> Teleporting to home 0...",
-    "[22:41] [BOT] <HienBot> **Simone2**: redstone",
-    "[22:41] [8b8t] >> Teleporting to home 2...",
-    "[22:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:41] To Simone2: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[22:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:41] To Simone2: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +102,13 @@
     "[22:42] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[22:42] [8b8t] >> You arent ignoring IamNuke_",
     "[22:42] [8b8t] >> You arent ignoring DavidN3000",
-    "[22:42] [8b8t] >> You arent ignoring h6sx"
+    "[22:42] [8b8t] >> You arent ignoring h6sx",
+    "[22:42] [BOT] <HienBot> >Get fully equipped with pvp",
+    "[22:42] [8b8t] >> ▼ Player kutuzovs Left.",
+    "[22:42] <Simone2> redstone",
+    "[22:42] [8b8t] >> Teleporting to home 0...",
+    "[22:42] [BOT] <HienBot> **Simone2**: redstone",
+    "[22:42] [8b8t] >> Teleporting to home 2..."
   ],
   "userStats": {
     "Hien2309": 79,
@@ -1018,7 +1018,7 @@
     "cirochia": 11,
     "EzVybin": 8,
     "Nuwiee": 3,
-    "Simone2": 281,
+    "Simone2": 282,
     "superemeking": 2,
     "Eturbo_mc": 11,
     "TrainerV3sper": 1,
@@ -1073,7 +1073,7 @@
     "food": 103,
     "glass": 59,
     "elytra": 324,
-    "redstone": 385,
+    "redstone": 386,
     "quartz": 28,
     "highway": 62,
     "gap": 107,
