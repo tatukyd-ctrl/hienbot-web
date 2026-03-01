@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:09:14 2/3/2026",
+  "lastUpdated": "03:09:44 2/3/2026",
   "totalKits": 104740,
   "todayKits": 407,
-  "onlineCount": 51,
+  "onlineCount": 50,
   "peakPlayers": 53,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "03:01:44 2/3/2026",
     "avg": 31
   },
-  "tps": "7.0",
-  "ping": 204,
+  "tps": "10.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 998
+      "count": 999
     },
     {
       "name": "dupe",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:08] To aaronmunozmunoz: Your kit (basic) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:08] To aaronmunozmunoz: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:08] [BOT] <HienBot> **Bot to aaronmunozmunoz**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:08] [8b8t] >> Request sent to aaronmunozmunoz",
-    "[20:08] [8b8t] >> ▼ Player diegooooo_rbd Left.",
-    "[20:08] <Simone2> redstone",
-    "[20:08] To Simone2: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:08] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[20:08] [BOT] <HienBot> **Simone2**: redstone",
-    "[20:08] <aaronmunozmunoz> food",
-    "[20:08] To aaronmunozmunoz: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:08] AppleBot was spider-snacked",
-    "[20:08] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[20:08] <Simone> raid",
-    "[20:08] To Simone: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:08] Nicolasxdlk thought they could fly... they couldn't",
     "[20:08] [8b8t] >> ▲ Player Yomellamolucas Joined.",
     "[20:08] <TheRealNull_> assasin",
@@ -108,7 +86,29 @@
     "[20:09] [8b8t] >> You have killed yourself!",
     "[20:09] HienBot forgot to stop, drop, and roll",
     "[20:09] [8b8t] >> The TPA request you sent to aaronmunozmunoz was successfully canceled.",
-    "[20:09] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx"
+    "[20:09] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[20:09] BOTICRACK thought a Zombie was friendly",
+    "[20:09] [8b8t] >> You arent ignoring adri989",
+    "[20:09] [8b8t] >> Please include a player /ignore <playerName>",
+    "[20:09] [8b8t] >> You arent ignoring IamNuke_",
+    "[20:09] [8b8t] >> You arent ignoring DavidN3000",
+    "[20:09] [8b8t] >> You arent ignoring h6sx",
+    "[20:09] <Nicolasxdlk> pls items",
+    "[20:09] [BOT] <HienBot> **Nicolasxdlk**: pls items",
+    "[20:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:09] elyas360 has made the advancement [Stone Age]",
+    "[20:09] elyas360 thought they could fly... they couldn't",
+    "[20:09] Krisszas forgot to bring their parachute",
+    "[20:09] <TheRealNull_> assassin",
+    "[20:09] [8b8t] >> Teleporting to home 0...",
+    "[20:09] [8b8t] >> Please do not spam.",
+    "[20:09] [8b8t] >> Teleporting to home 1...",
+    "[20:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:09] To TheRealNull_: Your kit (assassin) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:09] [8b8t] >> ▼ Player aaronmunozBOT Left.",
+    "[20:09] To TheRealNull_: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[20:09] [BOT] <HienBot> **Bot to TheRealNull_**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 79,
@@ -1047,10 +1047,10 @@
     "_bluecube": 19,
     "Volky1343": 1,
     "Harrythecatkid2": 1,
-    "TheRealNull_": 3
+    "TheRealNull_": 4
   },
   "kitStats": {
-    "pvp": 998,
+    "pvp": 999,
     "raid": 367,
     "survival": 1527,
     "shulker": 324,
