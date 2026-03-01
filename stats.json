@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:45:14 2/3/2026",
+  "lastUpdated": "02:45:44 2/3/2026",
   "totalKits": 104725,
   "todayKits": 392,
-  "onlineCount": 3,
+  "onlineCount": 4,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "09:16:57 1/3/2026",
     "avg": 31
   },
-  "tps": "8.0",
+  "tps": "7.0",
   "ping": 0,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1521
+      "count": 1522
     },
     {
       "name": "pvp",
@@ -79,36 +79,36 @@
     }
   ],
   "chatLog": [
-    "[19:45] You were kicked from 8b8t: Kicked for spamming",
-    "[19:45] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[19:45] <HienBot> **Bot to _bluecube**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[19:45] [8b8t] Unknown command do /help",
-    "[19:45] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[19:45] [8b8t] >> ▲ Player HienBot Joined.",
-    "[19:45] You are already connected to this server!",
-    "[19:45] <Simone> raid",
-    "[19:45] [8b8t] >> You have killed yourself!",
-    "[19:45] [BOT] <HienBot> **Simone**: raid",
-    "[19:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:45] To Simone: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:45] <_bluecube> raid",
     "[19:45] To _bluecube: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[19:45] [BOT] <HienBot> **_bluecube**: raid",
     "[19:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:45] [8b8t] >> ▼ Player aaronmunozBOT Left.",
-    "[19:45] [8b8t] >> Teleporting to home 0...",
+    "[19:45] To Simone: Try again Join dsc.gg/hienbot to report the error.",
+    "[19:45] [BOT] <HienBot> **Bot to Simone**: Try again Join dsc.gg/hienbot to report the error.",
+    "[19:45] [8b8t] >> ▲ Player aaronmunozBOT Joined.",
     "[19:45] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[19:45] [8b8t] >> Teleporting to home 2...",
-    "[19:45] <_bluecube> raid",
-    "[19:45] To _bluecube: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[19:45] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[19:45] [8b8t] >> You arent ignoring adri989",
     "[19:45] [8b8t] >> Please include a player /ignore <playerName>",
-    "[19:45] [BOT] <HienBot> **_bluecube**: raid",
+    "[19:45] [8b8t] >> Please include a player /ignore <playerName>",
+    "[19:45] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[19:45] <aaronmunozmunoz> Basic",
+    "[19:45] [8b8t] >> You arent ignoring IamNuke_",
+    "[19:45] [8b8t] >> Teleporting to home 0...",
+    "[19:45] [BOT] <HienBot> **aaronmunozmunoz**: Basic",
+    "[19:45] [8b8t] >> Teleporting to home 1...",
+    "[19:45] [8b8t] >> You arent ignoring adri989",
+    "[19:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:45] To aaronmunozmunoz: Your kit (basic) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:45] [8b8t] >> Please include a player /ignore <playerName>",
+    "[19:45] [8b8t] >> You arent ignoring DavidN3000",
     "[19:45] You were kicked from 8b8t: Kicked for spamming",
     "[19:45] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
+    "[19:45] You may not interact with objects!",
+    "[19:45] [8b8t] >> Welcome fausticol13 to 8b8t.me Lobby",
     "[19:45] [8b8t] Unknown command do /help",
-    "[19:45] You may not interact with objects!"
+    "[19:45] [8b8t] Unknown command do /help",
+    "[19:45] [8b8t] Unknown command do /help"
   ],
   "userStats": {
     "Hien2309": 79,
@@ -923,7 +923,7 @@
     "elqweq": 50,
     "N4talkaa_": 59,
     "multiverxux": 1,
-    "aaronmunozmunoz": 26,
+    "aaronmunozmunoz": 27,
     "vinigele": 2,
     "IO_Dev": 2,
     "feli888": 4,
@@ -1051,7 +1051,7 @@
   "kitStats": {
     "pvp": 994,
     "raid": 356,
-    "survival": 1521,
+    "survival": 1522,
     "shulker": 324,
     "music": 185,
     "terracotta": 36,
