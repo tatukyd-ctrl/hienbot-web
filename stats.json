@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:15:04 2/3/2026",
+  "lastUpdated": "02:15:14 2/3/2026",
   "totalKits": 104704,
   "todayKits": 371,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "09:16:57 1/3/2026",
     "avg": 30
   },
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 0,
   "topUsers": [
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "Simone",
-      "count": 119
+      "count": 120
     }
   ],
   "topKits": [
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:14] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[19:14] [8b8t] >> ▼ Player Wisto_WT Left.",
-    "[19:14] <Simone2> redstone",
-    "[19:14] [8b8t] >> Teleporting to home 0...",
-    "[19:14] [BOT] <HienBot> **Simone2**: redstone",
-    "[19:14] [8b8t] >> Teleporting to home 2...",
-    "[19:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:14] To Simone2: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:14] botchaosonix666 Whispers: food",
-    "[19:14] To botchaosonix666: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[19:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:14] fran1507nashe withered away to the 4th dimension",
-    "[19:14] <Yomellamolucas> estaras en la zona de los pinos atras de las monatañar",
-    "[19:14] To Simone2: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:14] [BOT] <HienBot> **Bot to botchaosonix666**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[19:15] botchaosonix666 Whispers: food",
     "[19:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +93,22 @@
     "[19:15] [8b8t] Unknown command do /help",
     "[19:15] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[19:15] [8b8t] >> ▲ Player HienBot Joined.",
-    "[19:15] You are already connected to this server!"
+    "[19:15] You are already connected to this server!",
+    "[19:15] [BOT] <HienBot> **botchaosonix666**: food",
+    "[19:15] <Simone> raid",
+    "[19:15] [8b8t] >> You have killed yourself!",
+    "[19:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:15] To Simone: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:15] [BOT] <HienBot> **Bot to Simone**: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:15] [8b8t] >> Teleporting to home 0...",
+    "[19:15] [8b8t] >> Teleporting to home 2...",
+    "[19:15] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[19:15] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[19:15] [8b8t] >> You arent ignoring adri989",
+    "[19:15] [8b8t] >> ▲ Player zl5k Joined.",
+    "[19:15] [8b8t] >> Please include a player /ignore <playerName>",
+    "[19:15] [8b8t] >> Please include a player /ignore <playerName>"
   ],
   "userStats": {
     "Hien2309": 79,
@@ -992,7 +992,7 @@
     "AndreiG9999": 2,
     "busybee07": 16,
     "Unkn0wnless": 35,
-    "Simone": 119,
+    "Simone": 120,
     "SpeedyMax88": 21,
     "GGClowny": 3,
     "ssamu.": 2,
@@ -1050,7 +1050,7 @@
   },
   "kitStats": {
     "pvp": 994,
-    "raid": 349,
+    "raid": 350,
     "survival": 1519,
     "shulker": 324,
     "music": 184,
