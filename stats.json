@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:44:44 3/3/2026",
+  "lastUpdated": "04:45:14 3/3/2026",
   "totalKits": 105117,
   "todayKits": 171,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "03:13:44 3/3/2026",
     "avg": 28
   },
-  "tps": "10.0",
-  "ping": 211,
+  "tps": "11.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:44] <.Jock_da_strapz1> Experience",
-    "[21:44] [8b8t] >> Please include a player /ignore <playerName>",
-    "[21:44] [8b8t] >> Teleporting to home 0...",
-    "[21:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:44] [8b8t] >> Teleporting to home 5...",
-    "[21:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:44] To .Jock_da_strapz1: Your kit (experience) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:44] [8b8t] >> You arent ignoring IamNuke_",
-    "[21:44] [BOT] <HienBot> **Bot to .Jock_da_strapz1**: Your kit (experience) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:44] [8b8t] >> You arent ignoring DavidN3000",
     "[21:44] [8b8t] >> ▼ Player .Oliiifgffbb Left.",
     "[21:44] To .Jock_da_strapz1: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[21:44] [BOT] <HienBot> **Bot to .Jock_da_strapz1**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +98,17 @@
     "[21:44] [8b8t] >> Please include a player /ignore <playerName>",
     "[21:44] [8b8t] >> You arent ignoring IamNuke_",
     "[21:44] [8b8t] >> You arent ignoring DavidN3000",
-    "[21:44] [BOT] <HienBot> >Need gear? Type pvp to get started!"
+    "[21:44] [BOT] <HienBot> >Need gear? Type pvp to get started!",
+    "[21:44] [8b8t] >> ▼ Player blake Left.",
+    "[21:45] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[21:45] [BOT] <HienBot> >Running low on supplies? Use survival",
+    "[21:45] <BorderX2> shulker",
+    "[21:45] [8b8t] >> Teleporting to home 0...",
+    "[21:45] [BOT] <HienBot> **BorderX2**: shulker",
+    "[21:45] [8b8t] >> Teleporting to home 6...",
+    "[21:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:45] To BorderX2: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:45] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1076,13 +1076,14 @@
     ".Hyenci8075": 6,
     "_david_jones_": 1,
     ".RagtagCabbage2": 11,
-    "TTTMUFFINPM": 2
+    "TTTMUFFINPM": 2,
+    "BorderX2": 1
   },
   "kitStats": {
     "pvp": 1068,
     "raid": 496,
     "survival": 1631,
-    "shulker": 339,
+    "shulker": 340,
     "music": 193,
     "terracotta": 47,
     "lightsources": 67,
