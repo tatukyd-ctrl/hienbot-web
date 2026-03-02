@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:28:14 3/3/2026",
+  "lastUpdated": "03:28:44 3/3/2026",
   "totalKits": 105085,
   "todayKits": 139,
-  "onlineCount": 45,
+  "onlineCount": 46,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "03:13:44 3/3/2026",
     "avg": 27
   },
-  "tps": "5.0",
-  "ping": 209,
+  "tps": "10.0",
+  "ping": 244,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1060
+      "count": 1061
     },
     {
       "name": "raid",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:27] Sanii0522 decided to test gravity and lost",
-    "[20:27] .Jock_da_strapz1 has made the advancement [The End?]",
-    "[20:27] <elweon7u7> ping",
-    "[20:27] [BOT] <HienBot> **elweon7u7**: ping",
-    "[20:27] To elweon7u7: Your ping is: 212 ms Don't forget to join dsc.gg/hienbot",
-    "[20:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:27] [8b8t] >> ▼ Player elweon7u7 Left.",
-    "[20:27] DaddyYourDaddy thought they could fly... they couldn't",
-    "[20:27] [8b8t] >> ▼ Player Zachary_2013 Left.",
-    "[20:28] <yra112> rocket",
-    "[20:28] [8b8t] >> Teleporting to home 0...",
-    "[20:28] [8b8t] >> Teleporting to home 6...",
-    "[20:28] [BOT] <HienBot> **yra112**: rocket",
-    "[20:28] To yra112: Your kit (rocket) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:28] To yra112: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:28] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[20:28] [BOT] <HienBot> >Try stash",
@@ -108,7 +90,25 @@
     "[20:28] [8b8t] >> Teleporting...",
     "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:28] HienBot has been put down by yra112",
-    "[20:28] _david_jones_ decided to test gravity and lost"
+    "[20:28] _david_jones_ decided to test gravity and lost",
+    "[20:28] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[20:28] [8b8t] >> You arent ignoring adri989",
+    "[20:28] [8b8t] >> Please include a player /ignore <playerName>",
+    "[20:28] [8b8t] >> You arent ignoring IamNuke_",
+    "[20:28] [8b8t] >> You arent ignoring DavidN3000",
+    "[20:28] [8b8t] >> You arent ignoring Real4Tribe",
+    "[20:28] [8b8t] >> ▲ Player EuskalMeatzari Joined.",
+    "[20:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:28] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
+    "[20:28] <aaronmunozmunoz> -pvp",
+    "[20:28] [8b8t] >> Teleporting to home 0...",
+    "[20:28] [8b8t] >> Teleporting to home 1...",
+    "[20:28] [BOT] <HienBot> **aaronmunozmunoz**: -pvp",
+    "[20:28] To aaronmunozmunoz: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:28] To aaronmunozmunoz: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[20:28] [BOT] <HienBot> **Bot to aaronmunozmunoz**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -923,7 +923,7 @@
     "elqweq": 51,
     "N4talkaa_": 59,
     "multiverxux": 1,
-    "aaronmunozmunoz": 49,
+    "aaronmunozmunoz": 50,
     "vinigele": 2,
     "IO_Dev": 2,
     "feli888": 4,
@@ -1076,7 +1076,7 @@
     ".Hyenci8075": 2
   },
   "kitStats": {
-    "pvp": 1060,
+    "pvp": 1061,
     "raid": 494,
     "survival": 1625,
     "shulker": 332,
