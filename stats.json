@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:32:44 2/3/2026",
+  "lastUpdated": "19:33:14 2/3/2026",
   "totalKits": 104960,
   "todayKits": 14,
-  "onlineCount": 23,
+  "onlineCount": 22,
   "peakPlayers": 25,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:39:14 2/3/2026",
     "avg": 24
   },
-  "tps": "11.0",
-  "ping": 203,
+  "tps": "8.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1581
+      "count": 1582
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:31] [8b8t] >> Teleporting to home 7...",
-    "[12:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:31] To Tondinder: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:31] To Tondinder: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:31] [BOT] <HienBot> **Bot to Tondinder**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:31] [8b8t] >> Request sent to Tondinder",
-    "[12:31] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[12:31] E_borys has made the advancement [We Need to Go Deeper]",
-    "[12:31] [8b8t] >> Teleporting...",
     "[12:31] [8b8t] >> ▲ Player _aksn Joined.",
     "[12:31] [8b8t] >> You have killed yourself!",
     "[12:31] HienBot was pwned by Tondinder wielding [netherite sword]",
@@ -108,7 +96,19 @@
     "[12:32] K0NICHTS got a deadly lesson from the Wither",
     "[12:32] [8b8t] >> You arent ignoring Real4Tribe",
     "[12:32] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
-    "[12:32] [8b8t] >> ▼ Player K0NICHTS Left."
+    "[12:32] [8b8t] >> ▼ Player K0NICHTS Left.",
+    "[12:32] E_borys forgot to bring their parachute",
+    "[12:32] [8b8t] >> ▼ Player .CycloidMC Left.",
+    "[12:33] [BOT] <HienBot> >Get a head start with survival",
+    "[12:33] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
+    "[12:33] <Tondinder> survival",
+    "[12:33] [8b8t] >> Teleporting to home 0...",
+    "[12:33] [BOT] <HienBot> **Tondinder**: survival",
+    "[12:33] [8b8t] >> Teleporting to home 1...",
+    "[12:33] To Tondinder: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:33] To Tondinder: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 79,
@@ -1034,7 +1034,7 @@
     "__HATE_YOU__": 1,
     "aaronmunozBOT": 4,
     "TURBO_VIRUS": 1,
-    "Tondinder": 5,
+    "Tondinder": 6,
     ".CycloidMC": 2,
     "idk_dev": 1,
     "zelliy": 3,
@@ -1069,7 +1069,7 @@
   "kitStats": {
     "pvp": 1030,
     "raid": 484,
-    "survival": 1581,
+    "survival": 1582,
     "shulker": 327,
     "music": 192,
     "terracotta": 43,
