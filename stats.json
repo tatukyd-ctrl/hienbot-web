@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:59:10 3/3/2026",
+  "lastUpdated": "01:59:14 3/3/2026",
   "totalKits": 105033,
   "todayKits": 87,
   "onlineCount": 35,
@@ -12,7 +12,7 @@
     "maxTime": "00:22:20 3/3/2026",
     "avg": 26
   },
-  "tps": "10.0",
+  "tps": "8.0",
   "ping": 209,
   "topUsers": [
     {
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:57] [BOT] <HienBot> **Bot to Tondinder**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:57] <MarkusISCool> >Try /kill to kill yourself",
-    "[18:57] [BOT] <HienBot> **MarkusISCool**: >Try /kill to kill yourself",
-    "[18:57] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[18:57] [8b8t] >> You arent ignoring adri989",
     "[18:57] [8b8t] >> Please include a player /ignore <playerName>",
     "[18:57] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +104,11 @@
     "[18:58] [8b8t] >> Please do not spam.",
     "[18:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:59] [BOT] <HienBot> >Use list to choose your kit",
-    "[18:59] [8b8t] >> Teleporting..."
+    "[18:59] [8b8t] >> Teleporting...",
+    "[18:59] <MarkusISCool> >Try /nc to change your nick color",
+    "[18:59] [8b8t] >> You have killed yourself!",
+    "[18:59] [BOT] <HienBot> **MarkusISCool**: >Try /nc to change your nick color",
+    "[18:59] HienBot was pwned by Tondinder wielding [netherite sword]"
   ],
   "userStats": {
     "Hien2309": 80,
