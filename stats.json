@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:31:14 3/3/2026",
+  "lastUpdated": "03:31:44 3/3/2026",
   "totalKits": 105085,
   "todayKits": 139,
   "onlineCount": 42,
@@ -12,8 +12,8 @@
     "maxTime": "03:13:44 3/3/2026",
     "avg": 27
   },
-  "tps": "6.0",
-  "ping": 225,
+  "tps": "11.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1062
+      "count": 1063
     },
     {
       "name": "raid",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:30] [8b8t] >> Teleporting to home 0...",
-    "[20:30] [8b8t] >> Teleporting to home 6...",
-    "[20:30] To emre_95: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:30] [8b8t] >> Please do not spam.",
-    "[20:30] [8b8t] >> Request sent to emre_95",
-    "[20:30] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[20:30] [8b8t] >> You arent ignoring adri989",
-    "[20:30] [8b8t] >> Please include a player /ignore <playerName>",
-    "[20:30] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[20:30] [8b8t] >> You arent ignoring IamNuke_",
-    "[20:30] <.Hyenci8075> build",
-    "[20:30] To .Hyenci8075: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:30] [8b8t] >> You arent ignoring adri989",
-    "[20:30] [BOT] <HienBot> **.Hyenci8075**: build",
-    "[20:30] [8b8t] >> Please include a player /ignore <playerName>",
     "[20:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:30] [8b8t] >> You arent ignoring DavidN3000",
     "[20:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +93,22 @@
     "[20:31] [BOT] <HienBot> >What's up, PistonCubeB0T?",
     "[20:31] SummarySam got the wither disease",
     "[20:31] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[20:31] gianfranchio has reached the goal [Postmortal]"
+    "[20:31] gianfranchio has reached the goal [Postmortal]",
+    "[20:31] [8b8t] >> You arent ignoring adri989",
+    "[20:31] [8b8t] >> Please include a player /ignore <playerName>",
+    "[20:31] [8b8t] >> You arent ignoring IamNuke_",
+    "[20:31] [8b8t] >> You arent ignoring DavidN3000",
+    "[20:31] [8b8t] >> You arent ignoring Real4Tribe",
+    "[20:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:31] [BOT] <HienBot> >Welcome to 8b8t, fast_bot!",
+    "[20:31] <.Hyenci8075> pvp",
+    "[20:31] [8b8t] >> Teleporting to home 0...",
+    "[20:31] [8b8t] >> Teleporting to home 1...",
+    "[20:31] [BOT] <HienBot> **.Hyenci8075**: pvp",
+    "[20:31] To .Hyenci8075: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:31] bestmacepvper thought they could fly... they couldn't"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1073,11 +1073,11 @@
     "NoobXD1234": 1,
     "SummarySam": 4,
     "Zachary_2013": 6,
-    ".Hyenci8075": 2,
+    ".Hyenci8075": 3,
     "_david_jones_": 1
   },
   "kitStats": {
-    "pvp": 1062,
+    "pvp": 1063,
     "raid": 494,
     "survival": 1625,
     "shulker": 334,
