@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:09:44 2/3/2026",
-  "totalKits": 104973,
-  "todayKits": 27,
+  "lastUpdated": "21:10:04 2/3/2026",
+  "totalKits": 104974,
+  "todayKits": 28,
   "onlineCount": 25,
   "peakPlayers": 33,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:39:14 2/3/2026",
     "avg": 24
   },
-  "tps": "10.0",
+  "tps": "9.0",
   "ping": 202,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1590
+      "count": 1591
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:08] [BOT] <HienBot> >Try stash",
-    "[14:08] <Tondinder> stash",
-    "[14:08] [8b8t] >> Teleporting to home 0...",
-    "[14:08] [BOT] <HienBot> **Tondinder**: stash",
-    "[14:08] [8b8t] >> Teleporting to home 2...",
-    "[14:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:08] To Tondinder: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:08] To Tondinder: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:08] [BOT] <HienBot> **Bot to Tondinder**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:08] [8b8t] >> Request sent to Tondinder",
-    "[14:08] [8b8t] >> Teleporting...",
-    "[14:08] [8b8t] >> ▲ Player BigBear Joined.",
     "[14:09] [8b8t] >> ▲ Player DPS_Chatbridge Joined.",
     "[14:09] [8b8t] >> You have killed yourself!",
     "[14:09] [BOT] <HienBot> >Do you want kit? Type *kit",
@@ -108,7 +95,20 @@
     "[14:09] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[14:09] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[14:09] <Tondinder> mixed",
-    "[14:09] [BOT] <HienBot> **Tondinder**: mixed"
+    "[14:09] [BOT] <HienBot> **Tondinder**: mixed",
+    "[14:09] [Basic] <wfextyerbfergfd> survival",
+    "[14:09] [8b8t] >> Teleporting to home 0...",
+    "[14:09] [BOT] <HienBot> **wfextyerbfergfd**: survival",
+    "[14:09] [8b8t] >> Teleporting to home 1...",
+    "[14:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:09] To wfextyerbfergfd: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:09] To wfextyerbfergfd: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:09] [BOT] <HienBot> **Bot to wfextyerbfergfd**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:09] [8b8t] >> Request sent to wfextyerbfergfd",
+    "[14:10] [8b8t] >> Teleporting...",
+    "[14:10] [BOT] <HienBot> >Items for PVP and Building available in build",
+    "[14:10] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1063,13 +1063,13 @@
     "honey075": 1,
     "GrimmTMM": 3,
     "YouharuShinku": 2,
-    "wfextyerbfergfd": 3,
+    "wfextyerbfergfd": 4,
     "M4ndaRyna_": 1
   },
   "kitStats": {
     "pvp": 1030,
     "raid": 484,
-    "survival": 1590,
+    "survival": 1591,
     "shulker": 327,
     "music": 192,
     "terracotta": 43,
