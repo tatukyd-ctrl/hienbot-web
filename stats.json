@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:50:16 4/3/2026",
+  "lastUpdated": "04:50:46 4/3/2026",
   "totalKits": 105843,
   "todayKits": 700,
   "onlineCount": 32,
@@ -12,8 +12,8 @@
     "maxTime": "03:32:46 4/3/2026",
     "avg": 28
   },
-  "tps": "10.0",
-  "ping": 0,
+  "tps": "12.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1317
+      "count": 1318
     },
     {
       "name": "dupe",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:49] [8b8t] >> Teleporting to home 0...",
-    "[21:49] [BOT] <HienBot> **dannnyel**: elytra",
-    "[21:49] [8b8t] >> Teleporting to home 6...",
-    "[21:49] [8b8t] >> You arent ignoring adri989",
-    "[21:49] [8b8t] >> Please include a player /ignore <playerName>",
-    "[21:49] You were kicked from 8b8t: Kicked for spamming",
-    "[21:49] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[21:49] You may not interact with objects!",
-    "[21:49] [8b8t] Unknown command do /help",
-    "[21:49] [8b8t] Unknown command do /help",
-    "[21:49] [8b8t] Unknown command do /help",
-    "[21:49] [8b8t] Unknown command do /help",
-    "[21:49] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[21:49] [8b8t] >> ▲ Player HienBot Joined.",
-    "[21:49] You are already connected to this server!",
-    "[21:49] [8b8t] >> You arent ignoring h6sx",
     "[21:50] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[21:50] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[21:50] [8b8t] >> You arent ignoring adri989",
@@ -108,7 +92,23 @@
     "[21:50] [8b8t] >> You arent ignoring DavidN3000",
     "[21:50] [8b8t] >> You arent ignoring Real4Tribe",
     "[21:50] [8b8t] >> ▼ Player fibra_ Left.",
-    "[21:50] [8b8t] >> ▼ Player p3l1n_1945 Left."
+    "[21:50] [8b8t] >> ▼ Player p3l1n_1945 Left.",
+    "[21:50] .gachuby has made the advancement [Sweet dreams]",
+    "[21:50] [BOT] <HienBot> >Type invite for invite rewards info",
+    "[21:50] <bwbytsub> totem",
+    "[21:50] To bwbytsub: You're on cooldown, try again in 6 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:50] [BOT] <HienBot> **Bot to bwbytsub**: You're on cooldown, try again in 6 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:50] <bwbytsub> totem",
+    "[21:50] [8b8t] >> Teleporting to home 0...",
+    "[21:50] [BOT] <HienBot> **bwbytsub**: totem",
+    "[21:50] [8b8t] >> Teleporting to home 1...",
+    "[21:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:50] To bwbytsub: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:50] To bwbytsub: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[21:50] [BOT] <HienBot> **Bot to bwbytsub**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[21:50] Naron has made the advancement [Who is Cutting Onions?]"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1143,10 +1143,10 @@
     "RO7IM_TAMER": 8,
     "Player69": 1,
     "dannnyel": 7,
-    "bwbytsub": 8
+    "bwbytsub": 9
   },
   "kitStats": {
-    "pvp": 1317,
+    "pvp": 1318,
     "raid": 537,
     "survival": 1811,
     "shulker": 530,
