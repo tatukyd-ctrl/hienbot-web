@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:17:15 3/3/2026",
-  "totalKits": 105237,
-  "todayKits": 94,
-  "onlineCount": 19,
+  "lastUpdated": "12:17:39 3/3/2026",
+  "totalKits": 105238,
+  "todayKits": 95,
+  "onlineCount": 18,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 26
   },
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 202,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1096
+      "count": 1097
     },
     {
       "name": "raid",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:16] [8b8t] >> Teleporting to home 0...",
-    "[05:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:16] [8b8t] >> Teleporting to home 2...",
-    "[05:16] To 0r7i: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:16] [BOT] <HienBot> **Bot to 0r7i**: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:16] To 0r7i: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[05:16] [BOT] <HienBot> **Bot to 0r7i**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[05:16] <reeekk> survival",
-    "[05:16] [8b8t] >> Teleporting to home 0...",
-    "[05:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:16] [8b8t] >> Teleporting to home 1...",
-    "[05:16] To reeekk: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:16] [BOT] <HienBot> 📦 reeekk requested survival kit.",
-    "[05:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:16] To reeekk: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:16] [BOT] <HienBot> **Bot to reeekk**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[05:16] [8b8t] >> Request sent to reeekk",
     "[05:16] <0r7i> pvp",
@@ -108,7 +93,22 @@
     "[05:17] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[05:17] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[05:17] [8b8t] >> You arent ignoring adri989",
-    "[05:17] [8b8t] >> Please include a player /ignore <playerName>"
+    "[05:17] [8b8t] >> Please include a player /ignore <playerName>",
+    "[05:17] [8b8t] >> You arent ignoring IamNuke_",
+    "[05:17] [8b8t] >> You arent ignoring DavidN3000",
+    "[05:17] [8b8t] >> You arent ignoring h6sx",
+    "[05:17] <0r7i> pvp",
+    "[05:17] [8b8t] >> Teleporting to home 0...",
+    "[05:17] [BOT] <HienBot> **0r7i**: pvp",
+    "[05:17] [8b8t] >> Teleporting to home 1...",
+    "[05:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:17] To 0r7i: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:17] [8b8t] >> ▼ Player AetherionV26 Left.",
+    "[05:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:17] To 0r7i: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:17] [BOT] <HienBot> **Bot to 0r7i**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:17] [8b8t] >> Request sent to 0r7i",
+    "[05:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1086,10 +1086,10 @@
     "M4gobrrrrr": 4,
     "underd0sed": 2,
     "orielhighed": 18,
-    "0r7i": 1
+    "0r7i": 2
   },
   "kitStats": {
-    "pvp": 1096,
+    "pvp": 1097,
     "raid": 499,
     "survival": 1658,
     "shulker": 365,
