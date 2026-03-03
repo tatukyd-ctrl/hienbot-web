@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:49:15 3/3/2026",
+  "lastUpdated": "18:49:45 3/3/2026",
   "totalKits": 105437,
   "todayKits": 294,
   "onlineCount": 25,
@@ -10,10 +10,10 @@
     "minTime": "11:01:15 3/3/2026",
     "max": 38,
     "maxTime": "08:54:45 3/3/2026",
-    "avg": 22
+    "avg": 23
   },
   "tps": "12.0",
-  "ping": 194,
+  "ping": 195,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,11 +59,11 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1728
+      "count": 1729
     },
     {
       "name": "pvp",
-      "count": 1151
+      "count": 1152
     },
     {
       "name": "raid",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:47] <_NERDIFIED_> shulker",
-    "[11:47] [8b8t] >> Teleporting to home 0...",
-    "[11:47] [8b8t] >> Teleporting to home 6...",
-    "[11:47] To _NERDIFIED_: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:47] [8b8t] >> ▼ Player Gaopuloa Left.",
-    "[11:47] [8b8t] >> Please do not spam.",
-    "[11:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:47] To _NERDIFIED_: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[11:47] [BOT] <HienBot> **Bot to _NERDIFIED_**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[11:47] BlueGlaze got a deadly lesson from the Wither",
-    "[11:47] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[11:47] [BOT] <HienBot> >What's up, kutuzovs?",
-    "[11:47] [8b8t] >> ▲ Player ijnnji Joined.",
-    "[11:47] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[11:48] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[11:48] [BOT] <HienBot> >Want to see whose ping is the best? Chat bestping",
     "[11:48] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
     "[11:48] BlueGlaze decided to test gravity and lost",
     "[11:48] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
@@ -108,7 +91,24 @@
     "[11:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:48] To _NERDIFIED_: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[11:48] [BOT] <HienBot> **Bot to _NERDIFIED_**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[11:49] [BOT] <HienBot> >Get a head start with survival"
+    "[11:49] [BOT] <HienBot> >Get a head start with survival",
+    "[11:49] <_NERDIFIED_> pvp",
+    "[11:49] [8b8t] >> Teleporting to home 0...",
+    "[11:49] [BOT] <HienBot> **_NERDIFIED_**: pvp",
+    "[11:49] [8b8t] >> Teleporting to home 1...",
+    "[11:49] To _NERDIFIED_: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:49] To _NERDIFIED_: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[11:49] [8b8t] >> Please do not spam.",
+    "[11:49] [BOT] <HienBot> >Try dupe",
+    "[11:49] <_NERDIFIED_> survival",
+    "[11:49] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[11:49] [8b8t] >> Teleporting to home 0...",
+    "[11:49] [BOT] <HienBot> **_NERDIFIED_**: survival",
+    "[11:49] [8b8t] >> Teleporting to home 1...",
+    "[11:49] [SE] <dragonkit> pvp",
+    "[11:49] To _NERDIFIED_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1089,7 +1089,7 @@
     "0r7i": 18,
     "kena": 4,
     "DaneiMY": 2,
-    "_NERDIFIED_": 32,
+    "_NERDIFIED_": 34,
     "8b8tPlayz": 1,
     "noobcarft": 22,
     "zero490123": 1,
@@ -1108,9 +1108,9 @@
     "AcidOP": 2
   },
   "kitStats": {
-    "pvp": 1151,
+    "pvp": 1152,
     "raid": 523,
-    "survival": 1728,
+    "survival": 1729,
     "shulker": 404,
     "music": 201,
     "terracotta": 47,
