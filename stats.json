@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:00:45 3/3/2026",
-  "totalKits": 105297,
-  "todayKits": 154,
-  "onlineCount": 21,
+  "lastUpdated": "15:01:11 3/3/2026",
+  "totalKits": 105298,
+  "todayKits": 155,
+  "onlineCount": 22,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 23
   },
-  "tps": "10.0",
-  "ping": 0,
+  "tps": "12.0",
+  "ping": 195,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1686
+      "count": 1687
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:00] [8b8t] Unknown command do /help",
-    "[08:00] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[08:00] [8b8t] >> ▲ Player HienBot Joined.",
-    "[08:00] <IamLightVacoro> can some1 tp to me",
-    "[08:00] <fish9987938> survival",
-    "[08:00] You are already connected to this server!",
-    "[08:00] To fish9987938: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[08:00] [BOT] <HienBot> **IamLightVacoro**: can some1 tp to me",
-    "[08:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:00] <noobcarft> build",
-    "[08:00] To noobcarft: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[08:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:00] [BOT] <HienBot> **Bot to noobcarft**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[08:00] <IamLightVacoro> i need help",
-    "[08:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[08:00] To dawg059: Try again Join dsc.gg/hienbot to report the error.",
     "[08:00] [BOT] <HienBot> **Bot to dawg059**: Try again Join dsc.gg/hienbot to report the error.",
     "[08:00] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
@@ -108,7 +92,23 @@
     "[08:00] [8b8t] >> Please include a player /ignore <playerName>",
     "[08:00] [8b8t] >> You arent ignoring DavidN3000",
     "[08:00] [8b8t] >> You arent ignoring h6sx",
-    "[08:00] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore"
+    "[08:00] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[08:00] [8b8t] >> ▲ Player vihan Joined.",
+    "[08:00] <fish9987938> survival",
+    "[08:00] [8b8t] >> Teleporting to home 0...",
+    "[08:00] [BOT] <HienBot> **fish9987938**: survival",
+    "[08:00] [8b8t] >> Teleporting to home 1...",
+    "[08:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:00] To fish9987938: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:01] To fish9987938: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:01] [BOT] <HienBot> **Bot to fish9987938**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:01] [8b8t] >> Request sent to fish9987938",
+    "[08:01] [8b8t] >> Teleporting...",
+    "[08:01] <SharpSiren69> elytra",
+    "[08:01] To SharpSiren69: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[08:01] [BOT] <HienBot> **SharpSiren69**: elytra",
+    "[08:01] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -793,7 +793,7 @@
     "comit1234567890": 17,
     "nosejaja33": 6,
     "mtsmpy_": 12,
-    "fish9987938": 14,
+    "fish9987938": 15,
     "Yippe_tails": 48,
     "ravegupUQYQK": 4,
     "WinterWater": 1,
@@ -1098,7 +1098,7 @@
   "kitStats": {
     "pvp": 1110,
     "raid": 500,
-    "survival": 1686,
+    "survival": 1687,
     "shulker": 370,
     "music": 199,
     "terracotta": 47,
