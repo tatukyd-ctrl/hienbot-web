@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:00:15 3/3/2026",
+  "lastUpdated": "18:00:45 3/3/2026",
   "totalKits": 105430,
   "todayKits": 287,
   "onlineCount": 22,
@@ -12,8 +12,8 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 23
   },
-  "tps": "6.0",
-  "ping": 195,
+  "tps": "14.0",
+  "ping": 194,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1146
+      "count": 1147
     },
     {
       "name": "raid",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:57] [8b8t] >> ▼ Player Mojangles Left.",
-    "[10:57] [8b8t] >> Teleporting...",
-    "[10:57] [8b8t] >> ▼ Player Initiall Left.",
-    "[10:57] [8b8t] >> You have killed yourself!",
-    "[10:57] 0r7i pulverized HienBot using [Minelord 32k Sword]",
-    "[10:57] To 0r7i: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:57] [BOT] <HienBot> **Bot to 0r7i**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:57] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[10:57] [8b8t] >> You arent ignoring adri989",
     "[10:57] [8b8t] >> Please include a player /ignore <playerName>",
     "[10:57] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +100,15 @@
     "[11:00] Teky_T has made the advancement [We Need to Go Deeper]",
     "[11:00] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[11:00] [BOT] <HienBot> >Try /cosmetics to change your name color!",
-    "[11:00] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me"
+    "[11:00] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[11:00] 0r7i thought they could fly... they couldn't",
+    "[11:00] [BOT] <HienBot> >Use /lobby to return to the lobby!",
+    "[11:00] <Eturbo_mc> CPVP",
+    "[11:00] [8b8t] >> Teleporting to home 0...",
+    "[11:00] [BOT] <HienBot> **Eturbo_mc**: CPVP",
+    "[11:00] [8b8t] >> Teleporting to home 1...",
+    "[11:00] To Eturbo_mc: Your kit (cpvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:00] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1020,7 +1020,7 @@
     "Nuwiee": 3,
     "Simone2": 337,
     "superemeking": 3,
-    "Eturbo_mc": 40,
+    "Eturbo_mc": 41,
     "TrainerV3sper": 1,
     ".Jock_da_strapz1": 66,
     "seal_borgor": 24,
@@ -1108,7 +1108,7 @@
     "AcidOP": 2
   },
   "kitStats": {
-    "pvp": 1146,
+    "pvp": 1147,
     "raid": 522,
     "survival": 1725,
     "shulker": 400,
