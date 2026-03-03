@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:22:31 3/3/2026",
+  "lastUpdated": "17:22:45 3/3/2026",
   "totalKits": 105415,
   "todayKits": 272,
   "onlineCount": 21,
@@ -12,8 +12,8 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 22
   },
-  "tps": "15.0",
-  "ping": 195,
+  "tps": "12.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:21] To DaneiMYG: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:21] [BOT] <HienBot> **Bot to DaneiMYG**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:21] [8b8t] >> Request sent to DaneiMYG",
-    "[10:21] <ye02> shulker",
-    "[10:21] To ye02: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[10:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:21] [BOT] <HienBot> **Bot to ye02**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[10:22] [8b8t] >> Teleporting...",
-    "[10:22] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[10:22] [8b8t] >> You have killed yourself!",
-    "[10:22] To DaneiMYG: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:22] [BOT] <HienBot> >Hey dawg059!",
     "[10:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:22] <ye02> shulker",
@@ -108,7 +97,18 @@
     "[10:22] [8b8t] >> You arent ignoring IamNuke_",
     "[10:22] [8b8t] >> You arent ignoring DavidN3000",
     "[10:22] [8b8t] >> You arent ignoring h6sx",
-    "[10:22] [8b8t] >> Teleporting..."
+    "[10:22] [8b8t] >> Teleporting...",
+    "[10:22] [8b8t] >> You have killed yourself!",
+    "[10:22] To ye02: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:22] [BOT] <HienBot> **Bot to ye02**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:22] [BOT] <HienBot> >Use /kill to kill yourself!",
+    "[10:22] <AcidOP> stash",
+    "[10:22] [8b8t] >> Teleporting to home 0...",
+    "[10:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:22] [8b8t] >> Teleporting to home 2...",
+    "[10:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:22] AcidOP is ignoring you",
+    "[10:22] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1104,7 +1104,8 @@
     "muskan331": 2,
     "d4ffpower": 2,
     "DaneiMYG": 6,
-    "ye02": 5
+    "ye02": 5,
+    "AcidOP": 1
   },
   "kitStats": {
     "pvp": 1141,
@@ -1119,7 +1120,7 @@
     "toolbox": 125,
     "wool": 113,
     "exp": 194,
-    "stash": 418,
+    "stash": 419,
     "ocean": 63,
     "build": 441,
     "dye": 38,
