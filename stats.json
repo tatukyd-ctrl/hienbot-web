@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:45:40 4/3/2026",
+  "lastUpdated": "04:45:46 4/3/2026",
   "totalKits": 105838,
   "todayKits": 695,
   "onlineCount": 38,
@@ -12,7 +12,7 @@
     "maxTime": "03:32:46 4/3/2026",
     "avg": 28
   },
-  "tps": "5.0",
+  "tps": "3.0",
   "ping": 0,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1312
+      "count": 1313
     },
     {
       "name": "dupe",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:45] You are already connected to this server!",
-    "[21:45] <dannnyel> chest",
-    "[21:45] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[21:45] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[21:45] [8b8t] >> Teleporting to home 0...",
-    "[21:45] [BOT] <HienBot> **dannnyel**: chest",
-    "[21:45] [8b8t] >> Teleporting to home 2...",
-    "[21:45] To dannnyel: Your kit (chest) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[21:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[21:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[21:45] [8b8t] >> You arent ignoring adri989",
@@ -108,7 +100,15 @@
     "[21:45] <HienBot> **AetherionV26**: $news, $gamble, $leaderboard, $Report https://discord.gg/yJcqj4C8dy >Just type $info to know what this bot can do!",
     "[21:45] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[21:45] [8b8t] >> ▲ Player HienBot Joined.",
-    "[21:45] You are already connected to this server!"
+    "[21:45] You are already connected to this server!",
+    "[21:45] <RO7IM_TAMER> -pvp",
+    "[21:45] [8b8t] >> You have killed yourself!",
+    "[21:45] [BOT] <HienBot> **RO7IM_TAMER**: -pvp",
+    "[21:45] <bwbytsub> survival",
+    "[21:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:45] To RO7IM_TAMER: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:45] To bwbytsub: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[21:45] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1140,13 +1140,13 @@
     "Inspiron23YT": 2,
     "TrueOnJava": 8,
     "Piicklerr": 36,
-    "RO7IM_TAMER": 6,
+    "RO7IM_TAMER": 7,
     "Player69": 1,
     "dannnyel": 4,
     "bwbytsub": 4
   },
   "kitStats": {
-    "pvp": 1312,
+    "pvp": 1313,
     "raid": 537,
     "survival": 1809,
     "shulker": 529,
