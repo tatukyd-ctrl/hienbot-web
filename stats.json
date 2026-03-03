@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:33:09 3/3/2026",
+  "lastUpdated": "14:33:15 3/3/2026",
   "totalKits": 105281,
   "todayKits": 138,
   "onlineCount": 16,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1681
+      "count": 1682
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:32] [BOT] <HienBot> **noobcarft**: survival",
-    "[07:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:32] zero490123 has made the advancement [Monster Hunter]",
-    "[07:33] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[07:33] <_NERDIFIED_> mace",
-    "[07:33] [8b8t] >> Teleporting to home 0...",
-    "[07:33] [BOT] <HienBot> **_NERDIFIED_**: mace",
-    "[07:33] [8b8t] >> Teleporting to home 7...",
-    "[07:33] <noobcarft> survival",
-    "[07:33] To noobcarft: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[07:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:33] To _NERDIFIED_: Your kit (mace) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[07:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[07:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[07:33] <zero490123> yea",
@@ -108,7 +95,20 @@
     "[07:33] [8b8t] >> Welcome htp1p0bot to 8b8t.me Lobby",
     "[07:33] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[07:33] [8b8t] >> ▲ Player HienBot Joined.",
-    "[07:33] You are already connected to this server!"
+    "[07:33] You are already connected to this server!",
+    "[07:33] [8b8t] >> You have killed yourself!",
+    "[07:33] You are already connected to this server!",
+    "[07:33] <noobcarft> survival",
+    "[07:33] [BOT] <HienBot> >Use /lobby to return to the lobby!",
+    "[07:33] [8b8t] >> Teleporting to home 0...",
+    "[07:33] <IamLightVacoro> guys",
+    "[07:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:33] [8b8t] >> Teleporting to home 1...",
+    "[07:33] To noobcarft: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:33] [BOT] <HienBot> **Bot to noobcarft**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:33] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1091,12 +1091,12 @@
     "DaneiMY": 2,
     "_NERDIFIED_": 27,
     "8b8tPlayz": 1,
-    "noobcarft": 1
+    "noobcarft": 2
   },
   "kitStats": {
     "pvp": 1106,
     "raid": 500,
-    "survival": 1681,
+    "survival": 1682,
     "shulker": 368,
     "music": 197,
     "terracotta": 47,
