@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:41:15 3/3/2026",
-  "totalKits": 105422,
-  "todayKits": 279,
-  "onlineCount": 24,
+  "lastUpdated": "17:41:28 3/3/2026",
+  "totalKits": 105423,
+  "todayKits": 280,
+  "onlineCount": 25,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 23
   },
-  "tps": "14.0",
+  "tps": "12.0",
   "ping": 195,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:40] [8b8t] >> ▼ Player Track1090 Left.",
-    "[10:40] <ye02> gommemode",
-    "[10:40] [BOT] <HienBot> **ye02**: gommemode",
-    "[10:40] <ye02> gommemode",
-    "[10:40] <Initiall> i dont think freddison cares T-T",
-    "[10:40] [BOT] <HienBot> **ye02**: gommemode",
-    "[10:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:40] <ye02> gommemode",
-    "[10:40] [BOT] <HienBot> **ye02**: gommemode",
-    "[10:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:40] [BOT] <DPS_Chatbridge> ><freddison_> eladance elaso nobai etuso enalintaperigosaopenaeocoraso",
-    "[10:40] [BOT] <HienBot> **DPS_Chatbridge**: ><freddison_> eladance elaso nobai etuso enalintaperigosaopenaeocoraso",
     "[10:40] [8b8t] >> ▲ Player MineX_t_3 Joined.",
     "[10:40] [8b8t] >> ▼ Player MineX_t_3 Left.",
     "[10:40] [BOT] <HienBot> >Bot created by Hien2309.",
@@ -108,7 +96,19 @@
     "[10:40] [BOT] <HienBot> **DPS_Chatbridge**: ><freddison_> Eladeselasobi",
     "[10:40] [8b8t] >> The TPA request you received from DaneiMYG has expired.",
     "[10:41] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[10:41] [BOT] <HienBot> >Try stash"
+    "[10:41] [BOT] <HienBot> >Try stash",
+    "[10:41] <ye02> stash",
+    "[10:41] [8b8t] >> Teleporting to home 0...",
+    "[10:41] [BOT] <HienBot> **ye02**: stash",
+    "[10:41] [8b8t] >> Teleporting to home 2...",
+    "[10:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:41] To ye02: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:41] To ye02: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:41] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[10:41] [BOT] <HienBot> **Bot to ye02**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:41] [8b8t] >> Request sent to ye02",
+    "[10:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1104,7 +1104,7 @@
     "muskan331": 2,
     "d4ffpower": 2,
     "DaneiMYG": 7,
-    "ye02": 15,
+    "ye02": 16,
     "AcidOP": 2
   },
   "kitStats": {
@@ -1120,7 +1120,7 @@
     "toolbox": 125,
     "wool": 113,
     "exp": 194,
-    "stash": 419,
+    "stash": 420,
     "ocean": 63,
     "build": 444,
     "dye": 38,
