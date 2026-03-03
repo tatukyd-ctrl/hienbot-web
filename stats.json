@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:00:45 3/3/2026",
-  "totalKits": 105191,
-  "todayKits": 48,
-  "onlineCount": 35,
+  "lastUpdated": "09:01:10 3/3/2026",
+  "totalKits": 105192,
+  "todayKits": 49,
+  "onlineCount": 34,
   "peakPlayers": 50,
   "playerStats": {
     "min": 3,
@@ -12,8 +12,8 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 28
   },
-  "tps": "11.0",
-  "ping": 1748,
+  "tps": "10.0",
+  "ping": 199,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:59] [8b8t] >> Teleporting...",
-    "[01:59] [8b8t] >> ▲ Player c0nex1on Joined.",
-    "[01:59] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[01:59] <drecobloxrd> alguien pvp?",
-    "[01:59] [8b8t] >> You have killed yourself!",
-    "[01:59] HienBot was slain by .BeadyGoose37268 using [netherite sword]",
-    "[01:59] [BOT] <HienBot> **drecobloxrd**: alguien pvp?",
-    "[01:59] To .BeadyGoose37268: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[01:59] [BOT] <HienBot> **Bot to .BeadyGoose37268**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[01:59] [8b8t] >> ▲ Player rolito Joined.",
-    "[01:59] <salvador06tnt> pasa cords",
-    "[01:59] [BOT] <HienBot> **salvador06tnt**: pasa cords",
-    "[01:59] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[01:59] [8b8t] >> You arent ignoring adri989",
     "[01:59] [8b8t] >> Please include a player /ignore <playerName>",
     "[01:59] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +95,20 @@
     "[02:00] [BOT] <HienBot> **drecobloxrd**: -148 -252",
     "[02:00] <salvador06tnt> voy",
     "[02:00] [BOT] <HienBot> **salvador06tnt**: voy",
-    "[02:00] [BOT] <HienBot> >Want free items? Just type survival"
+    "[02:00] [BOT] <HienBot> >Want free items? Just type survival",
+    "[02:00] <.BeadyGoose37268> food",
+    "[02:00] [8b8t] >> Teleporting to home 0...",
+    "[02:00] [BOT] <HienBot> **.BeadyGoose37268**: food",
+    "[02:00] [8b8t] >> Teleporting to home 4...",
+    "[02:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:00] To .BeadyGoose37268: Your kit (food) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:01] To .BeadyGoose37268: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:01] [BOT] <HienBot> **Bot to .BeadyGoose37268**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:01] [8b8t] >> ▼ Player LauraxD32 Left.",
+    "[02:01] [8b8t] >> Request sent to .BeadyGoose37268",
+    "[02:01] [8b8t] >> Teleporting...",
+    "[02:01] [BOT] <HienBot> >Get fully equipped with pvp"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1081,7 +1081,7 @@
     ".Hamoudi9416": 8,
     "benji456780": 2,
     "laquesoporte": 3,
-    ".BeadyGoose37268": 20
+    ".BeadyGoose37268": 21
   },
   "kitStats": {
     "pvp": 1088,
@@ -1102,7 +1102,7 @@
     "dye": 38,
     "concrete": 59,
     "dupe": 475,
-    "food": 115,
+    "food": 116,
     "glass": 62,
     "elytra": 347,
     "redstone": 455,
