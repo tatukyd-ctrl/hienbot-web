@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:21:15 3/3/2026",
+  "lastUpdated": "09:21:45 3/3/2026",
   "totalKits": 105201,
   "todayKits": 58,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 50,
   "playerStats": {
     "min": 3,
@@ -12,7 +12,7 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 29
   },
-  "tps": "12.0",
+  "tps": "7.0",
   "ping": 197,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1089
+      "count": 1090
     },
     {
       "name": "raid",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:20] [8b8t] >> You have killed yourself!",
-    "[02:20] To M4gobrrrrr: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[02:20] [BOT] <HienBot> **Bot to M4gobrrrrr**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[02:20] <Eturbo_mc> materials",
-    "[02:20] [8b8t] >> Teleporting to home 0...",
-    "[02:20] [BOT] <HienBot> **Eturbo_mc**: materials",
-    "[02:20] [8b8t] >> Teleporting to home 2...",
-    "[02:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:20] To Eturbo_mc: Your kit (materials) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:20] To Eturbo_mc: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[02:20] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[02:20] [BOT] <HienBot> **Bot to Eturbo_mc**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[02:20] R0DPR0 got a deadly lesson from the Wither",
     "[02:20] [8b8t] >> You arent ignoring adri989",
     "[02:20] [8b8t] >> Please include a player /ignore <playerName>",
     "[02:20] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +94,21 @@
     "[02:21] [BOT] <HienBot> **drecobloxrd**: nah",
     "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:21] <c0nex1on> gtg",
-    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] <drecobloxrd> ggs",
+    "[02:21] [BOT] <HienBot> **drecobloxrd**: ggs",
+    "[02:21] [8b8t] >> ▼ Player c0nex1on Left.",
+    "[02:21] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
+    "[02:21] <M4gobrrrrr> pvp",
+    "[02:21] [8b8t] >> Teleporting to home 0...",
+    "[02:21] [BOT] <HienBot> **M4gobrrrrr**: pvp",
+    "[02:21] [8b8t] >> Teleporting to home 1...",
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] To M4gobrrrrr: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] <drecobloxrd> ok",
+    "[02:21] To M4gobrrrrr: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:21] [BOT] <HienBot> **drecobloxrd**: ok"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1083,10 +1083,10 @@
     "laquesoporte": 3,
     ".BeadyGoose37268": 22,
     "jaev": 1,
-    "M4gobrrrrr": 3
+    "M4gobrrrrr": 4
   },
   "kitStats": {
-    "pvp": 1089,
+    "pvp": 1090,
     "raid": 498,
     "survival": 1653,
     "shulker": 359,
