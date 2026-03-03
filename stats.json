@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:36:58 3/3/2026",
+  "lastUpdated": "21:37:15 3/3/2026",
   "totalKits": 105491,
   "todayKits": 348,
   "onlineCount": 36,
@@ -12,8 +12,8 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 23
   },
-  "tps": "10.0",
-  "ping": 194,
+  "tps": "9.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:36] [BOT] <HienBot> **Bot to Veinryx**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[14:36] <Veinryx> tpayes",
-    "[14:36] [BOT] <HienBot> **Veinryx**: tpayes",
-    "[14:36] MINEKINGX775 decided to test gravity and lost",
-    "[14:36] [8b8t] >> ▲ Player drecobloxrd Joined.",
-    "[14:36] [8b8t] >> ▲ Player Spyund79c0ve5 Joined.",
-    "[14:36] [8b8t] >> ▲ Player covidgamerfrm Joined.",
-    "[14:36] [8b8t] >> ▲ Player saccbot Joined.",
-    "[14:36] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[14:36] [8b8t] >> ▼ Player hein Left.",
-    "[14:36] <Spyund79c0ve5> stash",
-    "[14:36] [BOT] <HienBot> **Spyund79c0ve5**: stash",
-    "[14:36] [8b8t] >> Teleporting to home 0...",
-    "[14:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:36] [8b8t] >> Teleporting to home 2...",
-    "[14:36] To Spyund79c0ve5: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:36] To Spyund79c0ve5: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:36] [BOT] <HienBot> **Bot to Spyund79c0ve5**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:36] [8b8t] >> Request sent to Spyund79c0ve5",
@@ -108,7 +91,24 @@
     "[14:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:36] [8b8t] >> Teleporting...",
     "[14:36] [8b8t] >> ▼ Player covidgamerfrm Left.",
-    "[14:36] Wlixy thought they could fly... they couldn't"
+    "[14:36] Wlixy thought they could fly... they couldn't",
+    "[14:37] [8b8t] >> You have killed yourself!",
+    "[14:37] To Spyund79c0ve5: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[14:37] [BOT] <HienBot> **Bot to Spyund79c0ve5**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[14:37] <Wlixy> shulker",
+    "[14:37] [8b8t] >> Teleporting to home 0...",
+    "[14:37] [BOT] <HienBot> **Wlixy**: shulker",
+    "[14:37] [8b8t] >> Teleporting to home 6...",
+    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:37] To Wlixy: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:37] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[14:37] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
+    "[14:37] [8b8t] >> You arent ignoring adri989",
+    "[14:37] [8b8t] >> Please include a player /ignore <playerName>",
+    "[14:37] To Wlixy: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:37] [8b8t] >> You arent ignoring IamNuke_"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1110,13 +1110,14 @@
     "Veinryx": 12,
     "therokfox48": 1,
     "RiseCPvP": 1,
-    "Spyund79c0ve5": 1
+    "Spyund79c0ve5": 1,
+    "Wlixy": 1
   },
   "kitStats": {
     "pvp": 1169,
     "raid": 524,
     "survival": 1742,
-    "shulker": 421,
+    "shulker": 422,
     "music": 202,
     "terracotta": 48,
     "lightsources": 70,
