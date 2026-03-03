@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:43:15 3/3/2026",
-  "totalKits": 105469,
-  "todayKits": 326,
+  "lastUpdated": "20:43:35 3/3/2026",
+  "totalKits": 105470,
+  "todayKits": 327,
   "onlineCount": 28,
   "peakPlayers": 50,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 23
   },
-  "tps": "13.0",
-  "ping": 194,
+  "tps": "10.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1738
+      "count": 1739
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:42] [8b8t] >> Teleporting to home 6...",
-    "[13:42] To Veinryx: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:42] [8b8t] >> You arent ignoring DavidN3000",
-    "[13:42] [BOT] <HienBot> **Veinryx**: shulker",
-    "[13:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:42] [8b8t] >> You arent ignoring Real4Tribe",
-    "[13:42] [8b8t] >> ▲ Player Z4braReal Joined.",
-    "[13:42] To Veinryx: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:42] [BOT] <HienBot> **Bot to Veinryx**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:42] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[13:42] therokfox48 thought they could fly... they couldn't",
-    "[13:42] <reeekk> tps",
     "[13:42] To reeekk: Current TPS: 14.00 Don't forget to join dsc.gg/hienbot",
     "[13:42] [BOT] <HienBot> **reeekk**: tps",
     "[13:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +95,20 @@
     "[13:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:43] To Veinryx: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:43] [BOT] <HienBot> **Bot to Veinryx**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[13:43] [BOT] <HienBot> **Bot to Veinryx**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:43] <therokfox48> survival",
+    "[13:43] [BOT] <HienBot> **therokfox48**: survival",
+    "[13:43] [8b8t] >> Teleporting to home 0...",
+    "[13:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:43] [8b8t] >> Teleporting to home 1...",
+    "[13:43] To therokfox48: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:43] To therokfox48: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:43] <TURBO_VIRUS> ok thx",
+    "[13:43] [BOT] <HienBot> **Bot to therokfox48**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:43] [8b8t] >> Request sent to therokfox48",
+    "[13:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1107,12 +1107,13 @@
     "ye02": 25,
     "AcidOP": 2,
     "Z4braReal": 2,
-    "Veinryx": 3
+    "Veinryx": 3,
+    "therokfox48": 1
   },
   "kitStats": {
     "pvp": 1160,
     "raid": 524,
-    "survival": 1738,
+    "survival": 1739,
     "shulker": 408,
     "music": 202,
     "terracotta": 48,
