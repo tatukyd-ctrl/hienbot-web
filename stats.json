@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:56:10 4/3/2026",
+  "lastUpdated": "00:56:16 4/3/2026",
   "totalKits": 105654,
   "todayKits": 511,
-  "onlineCount": 33,
+  "onlineCount": 4,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:19:45 4/3/2026",
     "avg": 26
   },
-  "tps": "7.0",
-  "ping": 220,
+  "tps": "5.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:55] <TopNameChanger> trims",
-    "[17:55] [8b8t] >> You have killed yourself!",
-    "[17:55] [BOT] <HienBot> **MarkusISCool**: >How are you vtbarrow?",
-    "[17:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:55] To TopNameChanger: Your kit (trims) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:55] [8b8t] >> ▼ Player io_client Left.",
-    "[17:56] [8b8t] >> Teleporting to home 0...",
-    "[17:56] [8b8t] >> Teleporting to home 7...",
-    "[17:56] <Spyund79c0ve5> gear",
-    "[17:56] DaMonketReal Whispers: Illegal",
-    "[17:56] [BOT] <HienBot> **Spyund79c0ve5**: gear",
-    "[17:56] To TopNameChanger: Sorry! Brown Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
-    "[17:56] RearedMarker635 got a deadly lesson from the Wither",
-    "[17:56] ZebraBot has reached the goal [Sky's the Limit]",
     "[17:56] [BOT] <HienBot> **Bot to TopNameChanger**: Sorry! Brown Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
     "[17:56] [8b8t] >> Request sent to TopNameChanger",
     "[17:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
@@ -108,7 +92,23 @@
     "[17:56] [8b8t] >> Please include a player /ignore <playerName>",
     "[17:56] ZebraBot has made the advancement [Ice Bucket Challenge]",
     "[17:56] [8b8t] >> ▼ Player vtbarrow Left.",
-    "[17:56] MarkusISCool Whispers: Try -gear or -free to get free kit"
+    "[17:56] MarkusISCool Whispers: Try -gear or -free to get free kit",
+    "[17:56] [8b8t] >> You arent ignoring IamNuke_",
+    "[17:56] [BOT] <HienBot> **MarkusISCool**: Try -gear or -free to get free kit",
+    "[17:56] [8b8t] >> You arent ignoring DavidN3000",
+    "[17:56] [8b8t] >> You have killed yourself!",
+    "[17:56] HienBot has been put down by TopNameChanger",
+    "[17:56] DaMonketReal Whispers: Illegal",
+    "[17:56] <MesonLegend> elytra",
+    "[17:56] [8b8t] >> You arent ignoring h6sx",
+    "[17:56] [8b8t] >> Teleporting to home 0...",
+    "[17:56] You were kicked from 8b8t: Kicked for spamming",
+    "[17:56] [8b8t] >> Welcome io_client to 8b8t.me Lobby",
+    "[17:56] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
+    "[17:56] [8b8t] Unknown command do /help",
+    "[17:56] <HienBot> 📦 MesonLegend requested elytra kit.",
+    "[17:56] [8b8t] Unknown command do /help",
+    "[17:56] [8b8t] Unknown command do /help"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1128,7 +1128,7 @@
     "TopNameChanger": 23,
     "its_real_it": 1,
     "Linky79925": 2,
-    "MesonLegend": 15,
+    "MesonLegend": 16,
     "DaMonketReal": 7,
     "ZebraBot": 1
   },
@@ -1153,7 +1153,7 @@
     "dupe": 524,
     "food": 123,
     "glass": 71,
-    "elytra": 430,
+    "elytra": 431,
     "redstone": 481,
     "quartz": 36,
     "highway": 67,
