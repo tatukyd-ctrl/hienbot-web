@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:32:45 3/3/2026",
-  "totalKits": 105420,
-  "todayKits": 277,
+  "lastUpdated": "17:32:56 3/3/2026",
+  "totalKits": 105421,
+  "todayKits": 278,
   "onlineCount": 25,
   "peakPlayers": 50,
   "playerStats": {
@@ -13,7 +13,7 @@
     "avg": 23
   },
   "tps": "12.0",
-  "ping": 478,
+  "ping": 195,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1142
+      "count": 1143
     },
     {
       "name": "raid",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:31] [8b8t] >> You arent ignoring Real4Tribe",
-    "[10:31] [8b8t] >> ▲ Player io_client Joined.",
-    "[10:31] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[10:31] To ye02: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[10:31] [BOT] <HienBot> **Bot to ye02**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[10:31] <ye02> shulker",
-    "[10:31] [8b8t] >> Teleporting to home 0...",
-    "[10:31] [BOT] <HienBot> **ye02**: shulker",
-    "[10:31] [8b8t] >> Teleporting to home 6...",
-    "[10:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:31] To ye02: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:31] [8b8t] >> ▼ Player Hammad_262 Left.",
     "[10:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +97,18 @@
     "[10:32] [BOT] <HienBot> >Want to see your ping? Chat ping",
     "[10:32] <Initiall> welp ma stash is gone T-T",
     "[10:32] [BOT] <HienBot> **Initiall**: welp ma stash is gone T-T",
-    "[10:32] [BOT] <HienBot> >Get fully equipped with pvp"
+    "[10:32] [BOT] <HienBot> >Get fully equipped with pvp",
+    "[10:32] <ye02> pvp",
+    "[10:32] [8b8t] >> Teleporting to home 0...",
+    "[10:32] [BOT] <HienBot> **ye02**: pvp",
+    "[10:32] [8b8t] >> Teleporting to home 1...",
+    "[10:32] To ye02: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:32] To ye02: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:32] [BOT] <HienBot> **Bot to ye02**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:32] [8b8t] >> Request sent to ye02",
+    "[10:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1104,11 +1104,11 @@
     "muskan331": 2,
     "d4ffpower": 2,
     "DaneiMYG": 6,
-    "ye02": 12,
+    "ye02": 13,
     "AcidOP": 2
   },
   "kitStats": {
-    "pvp": 1142,
+    "pvp": 1143,
     "raid": 520,
     "survival": 1724,
     "shulker": 399,
