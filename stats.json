@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:42:15 3/3/2026",
+  "lastUpdated": "20:42:45 3/3/2026",
   "totalKits": 105469,
   "todayKits": 326,
-  "onlineCount": 26,
+  "onlineCount": 27,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 23
   },
   "tps": "11.0",
-  "ping": 200,
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:41] [BOT] <HienBot> **Bot to Veinryx**: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:41] To Veinryx: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:41] [BOT] <HienBot> **Bot to Veinryx**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:41] <RiseCPvP> lang vi",
-    "[13:41] [BOT] <HienBot> **RiseCPvP**: lang vi",
-    "[13:41] To RiseCPvP: Ngon ngu da doi thanh Tieng Viet! | dsc.gg/hienbot",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:41] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[13:41] <123vica1> Base",
-    "[13:41] [8b8t] >> Teleporting to home 0...",
-    "[13:41] [BOT] <HienBot> **123vica1**: Base",
-    "[13:41] [8b8t] >> Teleporting to home 1...",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:41] To 123vica1: Your kit (base) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:41] <Z4braReal> survival",
-    "[13:41] To Z4braReal: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:41] To 123vica1: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:41] [BOT] <HienBot> **Bot to 123vica1**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:41] [8b8t] >> Request sent to 123vica1",
     "[13:42] <TURBO_VIRUS> guys what if Im trying to donkey dupe and the gui just closes if I grab the item",
@@ -108,7 +88,27 @@
     "[13:42] [BOT] <HienBot> >Want to see whose ping is the best? Chat bestping",
     "[13:42] [8b8t] >> Teleporting...",
     "[13:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:42] [8b8t] >> ▼ Player Z4braReal Left."
+    "[13:42] [8b8t] >> ▼ Player Z4braReal Left.",
+    "[13:42] [8b8t] >> You have killed yourself!",
+    "[13:42] HienBot was rekt by 123vica1 and their mighty [netherite sword]",
+    "[13:42] To 123vica1: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:42] [BOT] <HienBot> **Bot to 123vica1**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:42] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[13:42] [8b8t] >> You arent ignoring adri989",
+    "[13:42] [8b8t] >> Please include a player /ignore <playerName>",
+    "[13:42] <Veinryx> shulker",
+    "[13:42] [8b8t] >> Teleporting to home 0...",
+    "[13:42] [8b8t] >> Teleporting to home 6...",
+    "[13:42] To Veinryx: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:42] [8b8t] >> You arent ignoring DavidN3000",
+    "[13:42] [BOT] <HienBot> **Veinryx**: shulker",
+    "[13:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:42] [8b8t] >> You arent ignoring Real4Tribe",
+    "[13:42] [8b8t] >> ▲ Player Z4braReal Joined.",
+    "[13:42] To Veinryx: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:42] [BOT] <HienBot> **Bot to Veinryx**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:42] [BOT] <HienBot> >Want to see the server's tps? Chat tps"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1107,13 +1107,13 @@
     "ye02": 25,
     "AcidOP": 2,
     "Z4braReal": 2,
-    "Veinryx": 1
+    "Veinryx": 2
   },
   "kitStats": {
     "pvp": 1160,
     "raid": 524,
     "survival": 1738,
-    "shulker": 406,
+    "shulker": 407,
     "music": 202,
     "terracotta": 48,
     "lightsources": 70,
