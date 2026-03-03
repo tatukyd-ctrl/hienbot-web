@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:56:16 4/3/2026",
+  "lastUpdated": "03:56:46 4/3/2026",
   "totalKits": 105806,
   "todayKits": 663,
-  "onlineCount": 42,
+  "onlineCount": 40,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "03:32:46 4/3/2026",
     "avg": 28
   },
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 200,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1271
+      "count": 1272
     },
     {
       "name": "dupe",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:55] [8b8t] >> ▼ Player ToffyJacket Left.",
-    "[20:55] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[20:55] <TrueOnJava> -totem",
-    "[20:55] [8b8t] >> Teleporting to home 0...",
-    "[20:55] [BOT] <HienBot> **TrueOnJava**: -totem",
-    "[20:55] [8b8t] >> Teleporting to home 1...",
-    "[20:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:55] To TrueOnJava: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:55] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[20:55] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[20:55] To TrueOnJava: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:55] <Yomellamolucas> masos",
-    "[20:55] [BOT] <HienBot> **Yomellamolucas**: masos",
-    "[20:55] <s5der> -totem",
-    "[20:55] [8b8t] >> ▲ Player .Wing075 Joined.",
-    "[20:55] [BOT] <HienBot> **s5der**: -totem",
-    "[20:55] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[20:55] [8b8t] >> Teleporting to home 0...",
-    "[20:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:56] [8b8t] >> Teleporting to home 1...",
     "[20:56] [8b8t] >> ▲ Player idkuser12 Joined.",
     "[20:56] To s5der: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[20:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +86,29 @@
     "[20:56] To s5der: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[20:56] [BOT] <HienBot> **Bot to s5der**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[20:56] <Yomellamolucas> armadura",
-    "[20:56] [BOT] <HienBot> **Yomellamolucas**: armadura"
+    "[20:56] [BOT] <HienBot> **Yomellamolucas**: armadura",
+    "[20:56] [BOT] <HienBot> >Try status",
+    "[20:56] <TrueOnJava> -gear",
+    "[20:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:56] [8b8t] >> ▼ Player idkuser12 Left.",
+    "[20:56] <TrueOnJava> -free",
+    "[20:56] [BOT] <HienBot> **TrueOnJava**: -free",
+    "[20:56] <Yomellamolucas> gear",
+    "[20:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:56] [8b8t] >> ▼ Player Jonanwick Left.",
+    "[20:56] <Yomellamolucas> fre",
+    "[20:56] [BOT] <HienBot> **Yomellamolucas**: fre",
+    "[20:56] <TrueOnJava> -pvp",
+    "[20:56] [8b8t] >> Teleporting to home 0...",
+    "[20:56] [BOT] <HienBot> **TrueOnJava**: -pvp",
+    "[20:56] [8b8t] >> Teleporting to home 1...",
+    "[20:56] To TrueOnJava: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:56] <Yomellamolucas> pvp",
+    "[20:56] To Yomellamolucas: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[20:56] [BOT] <HienBot> **Yomellamolucas**: pvp",
+    "[20:56] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1138,10 +1138,10 @@
     ".ChallengerX90": 1,
     "vladic_2": 5,
     "Inspiron23YT": 2,
-    "TrueOnJava": 2
+    "TrueOnJava": 3
   },
   "kitStats": {
-    "pvp": 1271,
+    "pvp": 1272,
     "raid": 536,
     "survival": 1799,
     "shulker": 519,
