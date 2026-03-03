@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:16:15 3/3/2026",
+  "lastUpdated": "12:16:45 3/3/2026",
   "totalKits": 105236,
   "todayKits": 93,
   "onlineCount": 20,
@@ -12,8 +12,8 @@
     "maxTime": "08:54:45 3/3/2026",
     "avg": 26
   },
-  "tps": "14.0",
-  "ping": 333,
+  "tps": "13.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:11] [BOT] <HienBot> >Hello Bronunder!",
-    "[05:11] [8b8t] >> ▼ Player reeekk Left.",
-    "[05:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:12] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[05:12] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[05:12] [8b8t] >> ▼ Player z7_7z Left.",
-    "[05:12] [BOT] <HienBot> >Use lang and select your language",
-    "[05:13] [8b8t] >> ▼ Player PepeChuyHS Left.",
-    "[05:13] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[05:13] [8b8t] >> ▲ Player reeekk Joined.",
-    "[05:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:13] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
     "[05:13] [8b8t] >> ▲ Player cubebuilder_ Joined.",
     "[05:13] [8b8t] >> ▲ Player KushagrWarrior Joined.",
@@ -108,7 +97,18 @@
     "[05:15] [8b8t] >> ▲ Player 0r7i Joined.",
     "[05:16] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[05:16] 0r7i decided to test gravity and lost",
-    "[05:16] [BOT] <HienBot> >Get fully equipped with pvp"
+    "[05:16] [BOT] <HienBot> >Get fully equipped with pvp",
+    "[05:16] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[05:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[05:16] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[05:16] <0r7i> build",
+    "[05:16] [BOT] <HienBot> **0r7i**: build",
+    "[05:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:16] [8b8t] >> Teleporting to home 0...",
+    "[05:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:16] [8b8t] >> Teleporting to home 2...",
+    "[05:16] To 0r7i: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:16] [BOT] <HienBot> **Bot to 0r7i**: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1085,7 +1085,8 @@
     "jaev": 1,
     "M4gobrrrrr": 4,
     "underd0sed": 2,
-    "orielhighed": 18
+    "orielhighed": 18,
+    "0r7i": 1
   },
   "kitStats": {
     "pvp": 1096,
@@ -1102,7 +1103,7 @@
     "exp": 183,
     "stash": 400,
     "ocean": 63,
-    "build": 425,
+    "build": 426,
     "dye": 38,
     "concrete": 59,
     "dupe": 478,
