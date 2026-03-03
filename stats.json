@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:40:16 4/3/2026",
+  "lastUpdated": "01:40:46 4/3/2026",
   "totalKits": 105687,
   "todayKits": 544,
-  "onlineCount": 44,
+  "onlineCount": 43,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "01:36:46 4/3/2026",
     "avg": 26
   },
-  "tps": "7.0",
-  "ping": 203,
+  "tps": "12.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1225
+      "count": 1226
     },
     {
       "name": "dupe",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:39] [8b8t] >> You arent ignoring adri989",
-    "[18:39] [8b8t] >> Please include a player /ignore <playerName>",
-    "[18:39] [8b8t] >> ▼ Player ziorzio1 Left.",
-    "[18:39] [8b8t] >> You arent ignoring IamNuke_",
-    "[18:39] <MarkusISCool> >Try -ping to get your ping",
-    "[18:39] [BOT] <HienBot> **MarkusISCool**: >Try -ping to get your ping",
-    "[18:39] [8b8t] >> You arent ignoring DavidN3000",
-    "[18:39] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[18:39] [8b8t] >> You arent ignoring h6sx",
-    "[18:39] [8b8t] >> You have killed yourself!",
-    "[18:39] HienBot has been put down by aaronmunozmunoz",
-    "[18:39] <MesonLegend> firework",
-    "[18:39] To MesonLegend: You're on cooldown, try again in 9 seconds! Don't forget to join dsc.gg/hienbot",
-    "[18:39] To aaronmunozmunoz: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:39] [8b8t] >> Please do not spam.",
-    "[18:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:39] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[18:40] [8b8t] >> You arent ignoring adri989",
     "[18:40] [8b8t] >> Please include a player /ignore <playerName>",
@@ -108,7 +90,25 @@
     "[18:40] [8b8t] >> You arent ignoring adri989",
     "[18:40] [8b8t] >> Please include a player /ignore <playerName>",
     "[18:40] [8b8t] >> You arent ignoring IamNuke_",
-    "[18:40] [8b8t] >> You arent ignoring DavidN3000"
+    "[18:40] [8b8t] >> You arent ignoring DavidN3000",
+    "[18:40] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[18:40] <MarkusISCool> >Try /kill to kill yourself",
+    "[18:40] [8b8t] >> ▼ Player MesonLegend Left.",
+    "[18:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:40] SSHHSS12345 forgot to bring their parachute",
+    "[18:40] HzArceusss has made the advancement [Stone Age]",
+    "[18:40] <QxPrime> pvp",
+    "[18:40] [8b8t] >> Teleporting to home 0...",
+    "[18:40] [BOT] <HienBot> **QxPrime**: pvp",
+    "[18:40] [8b8t] >> Teleporting to home 1...",
+    "[18:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:40] To QxPrime: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:40] <MarkusISCool> >Tulagrande on top-",
+    "[18:40] [BOT] <HienBot> **MarkusISCool**: >Tulagrande on top-",
+    "[18:40] To QxPrime: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[18:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[18:40] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1132,10 +1132,10 @@
     "DaMonketReal": 10,
     "ZebraBot": 2,
     "ASneakySenior": 1,
-    "QxPrime": 8
+    "QxPrime": 9
   },
   "kitStats": {
-    "pvp": 1225,
+    "pvp": 1226,
     "raid": 533,
     "survival": 1779,
     "shulker": 488,
