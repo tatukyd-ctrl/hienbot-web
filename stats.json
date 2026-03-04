@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:28:17 4/3/2026",
-  "totalKits": 106160,
-  "todayKits": 255,
-  "onlineCount": 3,
+  "lastUpdated": "22:28:34 4/3/2026",
+  "totalKits": 106161,
+  "todayKits": 256,
+  "onlineCount": 49,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:27:49 4/3/2026",
     "avg": 23
   },
-  "tps": "7.0",
+  "tps": "5.0",
   "ping": 0,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1415
+      "count": 1416
     },
     {
       "name": "shulker",
@@ -79,36 +79,36 @@
     }
   ],
   "chatLog": [
-    "[15:28] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[15:28] <DinoTrain67> pvp",
-    "[15:28] To DinoTrain67: You're on cooldown, try again in 34 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:28] [BOT] <HienBot> **DinoTrain67**: pvp",
-    "[15:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:28] MonkeBot tried to outswim the water",
-    "[15:28] <busybee07> spruce",
-    "[15:28] [8b8t] >> Teleporting to home 0...",
-    "[15:28] [BOT] <HienBot> **busybee07**: spruce",
-    "[15:28] [8b8t] >> Teleporting to home 3...",
-    "[15:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:28] To busybee07: Your kit (spruce) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:28] <.JellyGuyyy> Pvp",
-    "[15:28] To .JellyGuyyy: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[15:28] <DinoTrain67> gear",
-    "[15:28] [BOT] <HienBot> **.JellyGuyyy**: Pvp",
-    "[15:28] <MarkusISCool> >Hello, xaki",
-    "[15:28] To busybee07: Sorry! Brown Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:28] <DinoTrain67> spawn",
+    "[15:28] To DinoTrain67: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[15:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:28] To .JellyGuyyy: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
+    "[15:28] [BOT] <HienBot> **Bot to DinoTrain67**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[15:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:28] <DinoTrain67> shulker",
-    "[15:28] To DinoTrain67: You're on cooldown, try again in 25 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:28] [BOT] <HienBot> **DinoTrain67**: shulker",
+    "[15:28] [8b8t] >> Request sent to .JellyGuyyy",
+    "[15:28] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[15:28] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[15:28] <alan21463> -free",
+    "[15:28] [8b8t] >> You arent ignoring adri989",
+    "[15:28] [8b8t] >> Please include a player /ignore <playerName>",
+    "[15:28] [8b8t] >> Please include a player /ignore <playerName>",
+    "[15:28] <cowaw1234> -freebulid 2",
+    "[15:28] [BOT] <HienBot> **alan21463**: -free",
+    "[15:28] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[15:28] You were kicked from 8b8t: Kicked for spamming",
     "[15:28] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[15:28] <HienBot> **Bot to DinoTrain67**: You're on cooldown, try again in 25 seconds! Don't forget to join dsc.gg/hienbot"
+    "[15:28] [8b8t] Unknown command do /help",
+    "[15:28] [8b8t] Unknown command do /help",
+    "[15:28] [8b8t] Unknown command do /help",
+    "[15:28] [8b8t] Unknown command do /help",
+    "[15:28] [8b8t] Unknown command do /help",
+    "[15:28] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[15:28] [8b8t] >> ▲ Player HienBot Joined.",
+    "[15:28] [8b8t] >> ▲ Player MrNullYT Joined.",
+    "[15:28] You are already connected to this server!",
+    "[15:28] [8b8t] >> You arent ignoring h6sx"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1181,10 +1181,11 @@
     "Ascalter40": 9,
     "eFenek": 2,
     "blockcraft2011": 1,
-    "DinoTrain67": 5
+    "DinoTrain67": 5,
+    ".JellyGuyyy": 1
   },
   "kitStats": {
-    "pvp": 1415,
+    "pvp": 1416,
     "raid": 565,
     "survival": 1902,
     "shulker": 632,
