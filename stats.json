@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:59:15 4/3/2026",
+  "lastUpdated": "23:59:17 4/3/2026",
   "totalKits": 106243,
   "todayKits": 338,
   "onlineCount": 45,
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1461
+      "count": 1462
     },
     {
       "name": "shulker",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:58] <prewardut> stash",
-    "[16:58] [8b8t] >> Teleporting to home 0...",
-    "[16:58] [8b8t] >> Teleporting to home 2...",
-    "[16:58] [BOT] <HienBot> **prewardut**: stash",
-    "[16:58] To prewardut: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:59] To prewardut: Sorry! White Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
@@ -108,7 +103,12 @@
     "[16:59] [8b8t] >> Teleporting...",
     "[16:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:59] [8b8t] >> You arent ignoring Real4Tribe",
-    "[16:59] <Ascalter40> bastard"
+    "[16:59] <Ascalter40> bastard",
+    "[16:59] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
+    "[16:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:59] [8b8t] >> You have killed yourself!",
+    "[16:59] <Ascalter40> pvp",
+    "[16:59] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1178,7 +1178,7 @@
     ".PepeChuyHS": 4,
     "quanbel": 3,
     "Boxx": 4,
-    "Ascalter40": 36,
+    "Ascalter40": 37,
     "eFenek": 6,
     "blockcraft2011": 2,
     "DinoTrain67": 13,
@@ -1191,7 +1191,7 @@
     "prewardut": 2
   },
   "kitStats": {
-    "pvp": 1461,
+    "pvp": 1462,
     "raid": 571,
     "survival": 1912,
     "shulker": 635,
