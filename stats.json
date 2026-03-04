@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:16:47 4/3/2026",
-  "totalKits": 106127,
-  "todayKits": 222,
+  "lastUpdated": "21:17:00 4/3/2026",
+  "totalKits": 106128,
+  "todayKits": 223,
   "onlineCount": 33,
   "peakPlayers": 50,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 22
   },
-  "tps": "12.0",
+  "tps": "9.0",
   "ping": 199,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1398
+      "count": 1399
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:14] [8b8t] >> ▼ Player kamutz Left.",
-    "[14:14] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[14:14] [8b8t] >> ▲ Player Power_level_1 Joined.",
-    "[14:15] [8b8t] >> ▲ Player kamutz Joined.",
-    "[14:15] [8b8t] >> ▼ Player SofiaBonvi Left.",
-    "[14:15] [8b8t] >> ▲ Player quanbel Joined.",
-    "[14:15] [BOT] <HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[14:15] [8b8t] >> ▼ Player TYRANTIUM Left.",
-    "[14:15] [8b8t] >> ▲ Player .PepeChuyHS Joined.",
-    "[14:15] [BOT] <HienBot> >Type list for a list of kits",
-    "[14:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:16] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[14:16] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[14:16] <quanbel> fuck nga",
     "[14:16] [BOT] <HienBot> **quanbel**: fuck nga",
@@ -108,7 +96,19 @@
     "[14:16] [8b8t] >> ▲ Player Boxx Joined.",
     "[14:16] [8b8t] >> ▲ Player SofiaBonvi Joined.",
     "[14:16] [BOT] <HienBot> >Want to see your ping? Chat ping",
-    "[14:16] <quanbel> huh"
+    "[14:16] <quanbel> huh",
+    "[14:16] [BOT] <HienBot> **quanbel**: huh",
+    "[14:16] <quanbel> pvp",
+    "[14:16] [8b8t] >> Teleporting to home 0...",
+    "[14:16] [BOT] <HienBot> **quanbel**: pvp",
+    "[14:16] [8b8t] >> Teleporting to home 1...",
+    "[14:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:16] To quanbel: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:16] To quanbel: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
+    "[14:16] [BOT] <HienBot> **Bot to quanbel**: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
+    "[14:16] [8b8t] >> Request sent to quanbel",
+    "[14:16] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1175,10 +1175,11 @@
     "Life_haker": 12,
     "KEDY32": 8,
     "Ozi1230YT": 6,
-    ".PepeChuyHS": 1
+    ".PepeChuyHS": 1,
+    "quanbel": 1
   },
   "kitStats": {
-    "pvp": 1398,
+    "pvp": 1399,
     "raid": 564,
     "survival": 1893,
     "shulker": 618,
