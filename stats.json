@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:58:17 4/3/2026",
-  "totalKits": 106036,
-  "todayKits": 131,
+  "lastUpdated": "15:58:44 4/3/2026",
+  "totalKits": 106037,
+  "todayKits": 132,
   "onlineCount": 18,
   "peakPlayers": 50,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 21
   },
-  "tps": "5.0",
+  "tps": "6.0",
   "ping": 200,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1879
+      "count": 1880
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:55] [8b8t] >> ▲ Player HienBot Joined.",
-    "[08:55] sadfelde1234 has reached the goal [Zombie Doctor]",
-    "[08:55] [8b8t] >> Teleporting to home 0...",
-    "[08:55] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[08:55] [8b8t] >> You arent ignoring adri989",
-    "[08:55] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[08:55] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:55] [8b8t] >> You arent ignoring IamNuke_",
-    "[08:55] [8b8t] >> You arent ignoring adri989",
-    "[08:55] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:55] [8b8t] >> You arent ignoring DavidN3000",
-    "[08:55] [8b8t] >> ▼ Player Creppy_Knight01 Left.",
     "[08:55] [8b8t] >> You arent ignoring Real4Tribe",
     "[08:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[08:56] [8b8t] >> ▼ Player iTrisstan Left.",
@@ -108,7 +96,19 @@
     "[08:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[08:58] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[08:58] LoudCookiebro thought they could fly... they couldn't",
-    "[08:58] [BOT] <HienBot> >Running low on supplies? Use survival"
+    "[08:58] [BOT] <HienBot> >Running low on supplies? Use survival",
+    "[08:58] <LoudCookiebro> survival",
+    "[08:58] [BOT] <HienBot> **LoudCookiebro**: survival",
+    "[08:58] [8b8t] >> Teleporting to home 0...",
+    "[08:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:58] [8b8t] >> Teleporting to home 1...",
+    "[08:58] To LoudCookiebro: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:58] To LoudCookiebro: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:58] [BOT] <HienBot> **Bot to LoudCookiebro**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:58] [8b8t] >> Request sent to LoudCookiebro",
+    "[08:58] [BOT] <HienBot> >Use info <player> to check someone's stats",
+    "[08:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1167,12 +1167,13 @@
     "Zharr0": 1,
     "Pixel_Saber": 1,
     "LEMON_BIT": 1,
-    ".ZuraKSLeader": 3
+    ".ZuraKSLeader": 3,
+    "LoudCookiebro": 1
   },
   "kitStats": {
     "pvp": 1380,
     "raid": 548,
-    "survival": 1879,
+    "survival": 1880,
     "shulker": 594,
     "music": 211,
     "terracotta": 50,
