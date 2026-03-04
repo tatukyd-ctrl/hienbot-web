@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:56:17 4/3/2026",
+  "lastUpdated": "09:56:47 4/3/2026",
   "totalKits": 105968,
   "todayKits": 63,
   "onlineCount": 27,
@@ -12,8 +12,8 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 32
   },
-  "tps": "12.0",
-  "ping": 211,
+  "tps": "9.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1858
+      "count": 1859
     },
     {
       "name": "pvp",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:55] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[02:55] To .Hyenci8075: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[02:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:55] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[02:55] [8b8t] >> You arent ignoring adri989",
-    "[02:55] [8b8t] >> Please include a player /ignore <playerName>",
-    "[02:55] [8b8t] >> You arent ignoring IamNuke_",
-    "[02:55] <Yomellamolucas> build",
-    "[02:55] [8b8t] >> Teleporting to home 0...",
-    "[02:55] [8b8t] >> You arent ignoring DavidN3000",
-    "[02:55] [8b8t] >> Please do not spam.",
-    "[02:55] [8b8t] >> Teleporting to home 2...",
-    "[02:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:55] To Yomellamolucas: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:55] <.N1GHTZ_aura> cpvp",
-    "[02:55] To .N1GHTZ_aura: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[02:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:55] [8b8t] >> You arent ignoring Real4Tribe",
-    "[02:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:55] [BOT] <HienBot> **Bot to .N1GHTZ_aura**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[02:56] To Yomellamolucas: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[02:56] [BOT] <HienBot> **Bot to Yomellamolucas**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[02:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
@@ -108,7 +88,27 @@
     "[02:56] [8b8t] >> Teleporting to home 1...",
     "[02:56] To .N1GHTZ_aura: Your kit (cpvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:56] To .N1GHTZ_aura: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[02:56] [BOT] <HienBot> >Need gear? Type pvp to get started!",
+    "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:56] <.N1GHTZ_aura> Survival",
+    "[02:56] [8b8t] >> Teleporting to home 0...",
+    "[02:56] [BOT] <HienBot> **.N1GHTZ_aura**: Survival",
+    "[02:56] [8b8t] >> Teleporting to home 1...",
+    "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:56] To .N1GHTZ_aura: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:56] To .N1GHTZ_aura: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:56] [BOT] <HienBot> **Bot to .N1GHTZ_aura**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:56] [8b8t] >> Request sent to .N1GHTZ_aura",
+    "[02:56] [8b8t] >> Teleporting...",
+    "[02:56] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[02:56] [8b8t] >> You arent ignoring adri989",
+    "[02:56] [8b8t] >> Please include a player /ignore <playerName>",
+    "[02:56] [8b8t] >> You arent ignoring IamNuke_",
+    "[02:56] [8b8t] >> You arent ignoring DavidN3000",
+    "[02:56] [8b8t] >> You arent ignoring Real4Tribe"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1159,12 +1159,12 @@
     "QOndaBBto123": 2,
     "h_ux": 3,
     "progamer6342938": 5,
-    ".N1GHTZ_aura": 10
+    ".N1GHTZ_aura": 11
   },
   "kitStats": {
     "pvp": 1358,
     "raid": 544,
-    "survival": 1858,
+    "survival": 1859,
     "shulker": 568,
     "music": 211,
     "terracotta": 49,
