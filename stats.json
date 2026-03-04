@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:07:17 4/3/2026",
+  "lastUpdated": "15:07:47 4/3/2026",
   "totalKits": 106023,
   "todayKits": 118,
   "onlineCount": 12,
@@ -12,7 +12,7 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 22
   },
-  "tps": "15.0",
+  "tps": "14.0",
   "ping": 196,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1374
+      "count": 1375
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:05] [8b8t] >> Teleporting to home 0...",
-    "[08:05] [BOT] <HienBot> **SummarySam**: pvp",
-    "[08:05] [8b8t] >> You arent ignoring adri989",
-    "[08:05] [8b8t] >> Teleporting to home 1...",
-    "[08:05] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:05] To SummarySam: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:05] [8b8t] >> You arent ignoring IamNuke_",
-    "[08:05] [8b8t] >> You arent ignoring DavidN3000",
-    "[08:05] To SummarySam: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[08:05] [BOT] <HienBot> **Bot to SummarySam**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[08:05] [8b8t] >> You arent ignoring Real4Tribe",
-    "[08:06] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[08:06] [BOT] <HienBot> >Do you want kit? Type *kit",
     "[08:06] <SummarySam> pbuild",
     "[08:06] [BOT] <HienBot> **SummarySam**: pbuild",
@@ -108,7 +94,21 @@
     "[08:06] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
     "[08:06] [8b8t] >> ▼ Player .Wing075 Left.",
     "[08:07] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[08:07] [8b8t] >> ▲ Player PistonCubeB0T Joined."
+    "[08:07] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
+    "[08:07] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[08:07] <MesonLegend> bedrock",
+    "[08:07] [8b8t] >> Teleporting to home 0...",
+    "[08:07] [BOT] <HienBot> **MesonLegend**: bedrock",
+    "[08:07] [8b8t] >> Teleporting to home 1...",
+    "[08:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:07] To MesonLegend: Your kit (bedrock) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:07] To MesonLegend: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[08:07] [BOT] <HienBot> **Bot to MesonLegend**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[08:07] <_Alex_Alex_Alex_> oh",
+    "[08:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:07] [8b8t] >> ▼ Player MesonLegend Left.",
+    "[08:07] [8b8t] >> ▲ Player MesonLegend Joined."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1128,7 +1128,7 @@
     "TopNameChanger": 67,
     "its_real_it": 1,
     "Linky79925": 2,
-    "MesonLegend": 38,
+    "MesonLegend": 39,
     "DaMonketReal": 16,
     "ZebraBot": 2,
     "ASneakySenior": 1,
@@ -1169,7 +1169,7 @@
     "LEMON_BIT": 1
   },
   "kitStats": {
-    "pvp": 1374,
+    "pvp": 1375,
     "raid": 548,
     "survival": 1876,
     "shulker": 592,
