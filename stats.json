@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:48:47 4/3/2026",
+  "lastUpdated": "17:49:17 4/3/2026",
   "totalKits": 106062,
   "todayKits": 157,
   "onlineCount": 17,
@@ -12,7 +12,7 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 21
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 198,
   "topUsers": [
     {
@@ -74,14 +74,11 @@
       "count": 591
     },
     {
-      "name": "raid",
-      "count": 550
+      "name": "build",
+      "count": 551
     }
   ],
   "chatLog": [
-    "[10:47] [8b8t] >> ▲ Player xxnajwaxx Joined.",
-    "[10:47] <TheAshedOne> tools",
-    "[10:47] [8b8t] >> Teleporting to home 0...",
     "[10:47] [BOT] <HienBot> **TheAshedOne**: tools",
     "[10:47] [8b8t] >> Teleporting to home 7...",
     "[10:47] [8b8t] >> ▼ Player iTrisstan Left.",
@@ -108,7 +105,10 @@
     "[10:48] [8b8t] >> You arent ignoring DavidN3000",
     "[10:48] [8b8t] >> You arent ignoring Real4Tribe",
     "[10:48] elidd111 decided to test gravity and lost",
-    "[10:48] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>"
+    "[10:48] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[10:49] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[10:49] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[10:49] <SummarySam> build"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1071,7 +1071,7 @@
     "kitywiel": 9,
     "dawg059": 8,
     "NoobXD1234": 1,
-    "SummarySam": 26,
+    "SummarySam": 27,
     "Zachary_2013": 6,
     ".Hyenci8075": 36,
     "_david_jones_": 1,
@@ -1186,7 +1186,7 @@
     "exp": 226,
     "stash": 469,
     "ocean": 64,
-    "build": 550,
+    "build": 551,
     "dye": 44,
     "concrete": 60,
     "dupe": 591,
