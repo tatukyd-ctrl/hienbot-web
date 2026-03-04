@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:46:17 4/3/2026",
+  "lastUpdated": "20:46:47 4/3/2026",
   "totalKits": 106106,
   "todayKits": 201,
-  "onlineCount": 38,
+  "onlineCount": 37,
   "peakPlayers": 50,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 21
   },
-  "tps": "7.0",
-  "ping": 198,
+  "tps": "8.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1884
+      "count": 1885
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:45] [BOT] <HienBot> >Want free items? Just type survival",
-    "[13:45] <Life_haker> survival",
-    "[13:45] [8b8t] >> Teleporting to home 0...",
-    "[13:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:45] [8b8t] >> Teleporting to home 1...",
-    "[13:45] [BOT] <HienBot> 📦 Life_haker requested survival kit.",
-    "[13:45] To Life_haker: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:45] To Life_haker: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:45] [BOT] <HienBot> **Bot to Life_haker**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:45] [8b8t] >> Request sent to Life_haker",
-    "[13:45] [8b8t] >> ▲ Player KEDY32 Joined.",
-    "[13:45] [8b8t] >> Teleporting...",
     "[13:45] KEDY32 withered away to the 4th dimension",
     "[13:45] [8b8t] >> You have killed yourself!",
     "[13:45] HienBot was slain by Life_haker using [their hand]",
@@ -108,7 +95,20 @@
     "[13:46] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[13:46] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[13:46] [BOT] <HienBot> >Do you want kit? Type *kit",
-    "[13:46] [8b8t] >> ▲ Player closepvp Joined."
+    "[13:46] [8b8t] >> ▲ Player closepvp Joined.",
+    "[13:46] [8b8t] >> ▼ Player Rucosa Left.",
+    "[13:46] [8b8t] >> ▼ Player io_client Left.",
+    "[13:46] [8b8t] >> ▲ Player io_client Joined.",
+    "[13:46] <closepvp> survival",
+    "[13:46] [8b8t] >> Teleporting to home 0...",
+    "[13:46] [BOT] <HienBot> **closepvp**: survival",
+    "[13:46] [8b8t] >> Teleporting to home 1...",
+    "[13:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:46] To closepvp: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:46] To closepvp: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:46] [BOT] <HienBot> **Bot to closepvp**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -435,7 +435,7 @@
     "i_am_tobias": 5,
     "jaredsonic2014": 1,
     "itsfrost0": 1,
-    "closepvp": 48,
+    "closepvp": 49,
     "Cold_1": 2,
     "mchuaa": 11,
     "mrJoyy": 5,
@@ -1177,7 +1177,7 @@
   "kitStats": {
     "pvp": 1397,
     "raid": 560,
-    "survival": 1884,
+    "survival": 1885,
     "shulker": 613,
     "music": 213,
     "terracotta": 50,
