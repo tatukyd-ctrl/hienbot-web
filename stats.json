@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:59:17 4/3/2026",
-  "totalKits": 105984,
-  "todayKits": 79,
-  "onlineCount": 18,
+  "lastUpdated": "10:59:34 4/3/2026",
+  "totalKits": 105985,
+  "todayKits": 80,
+  "onlineCount": 17,
   "peakPlayers": 50,
   "playerStats": {
     "min": 1,
@@ -12,7 +12,7 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 29
   },
-  "tps": "14.0",
+  "tps": "15.0",
   "ping": 198,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1866
+      "count": 1867
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:58] HienBot was pwned by 7zku wielding [totem of undying]",
-    "[03:58] <7zku> mb",
-    "[03:58] [BOT] <HienBot> **7zku**: mb",
-    "[03:58] <btc> shulker",
-    "[03:58] io_client got eaten by a dessert dweller AKA a Husk",
-    "[03:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:58] [8b8t] >> Teleporting to home 0...",
-    "[03:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:58] [8b8t] >> Teleporting to home 6...",
-    "[03:58] To btc: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[03:58] [BOT] <HienBot> **Bot to btc**: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:58] To btc: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[03:58] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[03:58] [BOT] <HienBot> **Bot to btc**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[03:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:58] [8b8t] >> You arent ignoring adri989",
     "[03:58] [8b8t] >> Please include a player /ignore <playerName>",
     "[03:58] [8b8t] >> You arent ignoring IamNuke_",
     "[03:58] [8b8t] >> You arent ignoring DavidN3000",
@@ -108,7 +91,24 @@
     "[03:59] To btc: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:59] To btc: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[03:59] [8b8t] >> Please do not spam."
+    "[03:59] [8b8t] >> Please do not spam.",
+    "[03:59] [BOT] <HienBot> >What's up, io_client?",
+    "[03:59] <btc> spawn",
+    "[03:59] [8b8t] >> Teleporting to home 0...",
+    "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:59] [8b8t] >> Teleporting to home 1...",
+    "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:59] To btc: Your kit (spawn) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:59] [BOT] <HienBot> **Bot to btc**: Your kit (spawn) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:59] To btc: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:59] [BOT] <HienBot> **Bot to btc**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:59] [8b8t] >> Request sent to btc",
+    "[03:59] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[03:59] <7zku> mineral",
+    "[03:59] To 7zku: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[03:59] [BOT] <HienBot> **7zku**: mineral",
+    "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1161,12 +1161,12 @@
     "progamer6342938": 5,
     ".N1GHTZ_aura": 18,
     "doodaad": 4,
-    "btc": 2
+    "btc": 3
   },
   "kitStats": {
     "pvp": 1362,
     "raid": 545,
-    "survival": 1866,
+    "survival": 1867,
     "shulker": 575,
     "music": 211,
     "terracotta": 50,
