@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:27:48 5/3/2026",
-  "totalKits": 106368,
-  "todayKits": 463,
-  "onlineCount": 46,
+  "lastUpdated": "02:28:01 5/3/2026",
+  "totalKits": 106369,
+  "todayKits": 464,
+  "onlineCount": 45,
   "peakPlayers": 53,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "01:11:48 5/3/2026",
     "avg": 28
   },
-  "tps": "4.0",
+  "tps": "6.0",
   "ping": 205,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1960
+      "count": 1961
     },
     {
       "name": "pvp",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[19:27] [8b8t] >> You arent ignoring DavidN3000",
-    "[19:27] [8b8t] >> You arent ignoring IamNuke_",
-    "[19:27] [8b8t] >> You arent ignoring Real4Tribe",
-    "[19:27] [BOT] <HienBot> >Type list for a list of kits",
-    "[19:27] <bwbytsub> ores",
-    "[19:27] [8b8t] >> Teleporting to home 0...",
-    "[19:27] [BOT] <HienBot> **bwbytsub**: ores",
-    "[19:27] [8b8t] >> Teleporting to home 3...",
-    "[19:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:27] To bwbytsub: Your kit (ores) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:27] <aaronmunozmunoz> -xp",
-    "[19:27] To aaronmunozmunoz: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[19:27] [BOT] <HienBot> **aaronmunozmunoz**: -xp",
-    "[19:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:27] To bwbytsub: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:27] [BOT] <HienBot> **Bot to bwbytsub**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:27] [8b8t] >> Request sent to bwbytsub",
     "[19:27] [8b8t] >> Teleporting...",
     "[19:27] <saccbot> concrete",
     "[19:27] To saccbot: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
@@ -108,7 +89,26 @@
     "[19:27] [BOT] <HienBot> **Bot to bwbytsub**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[19:27] HienBot has been killed by bwbytsub",
     "[19:27] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[19:27] Ascalter40 has completed the challenge [Serious Dedication]"
+    "[19:27] Ascalter40 has completed the challenge [Serious Dedication]",
+    "[19:27] <ye02> survival",
+    "[19:27] [8b8t] >> Teleporting to home 0...",
+    "[19:27] [8b8t] >> ▼ Player wryspry Left.",
+    "[19:27] [BOT] <HienBot> **ye02**: survival",
+    "[19:27] [8b8t] >> Teleporting to home 1...",
+    "[19:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:27] To ye02: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:27] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[19:27] To ye02: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:27] [8b8t] >> You arent ignoring adri989",
+    "[19:27] [8b8t] >> Please include a player /ignore <playerName>",
+    "[19:27] [BOT] <HienBot> **Bot to ye02**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:27] [8b8t] >> Request sent to ye02",
+    "[19:27] [8b8t] >> Teleporting...",
+    "[19:27] Chat disabled in client options",
+    "[19:27] [8b8t] >> ▼ Player Couto15_ Left.",
+    "[19:27] [8b8t] >> You arent ignoring DavidN3000",
+    "[19:28] [8b8t] >> You arent ignoring Real4Tribe"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1104,7 +1104,7 @@
     "muskan331": 2,
     "d4ffpower": 2,
     "DaneiMYG": 7,
-    "ye02": 74,
+    "ye02": 75,
     "AcidOP": 2,
     "Z4braReal": 38,
     "Veinryx": 40,
@@ -1198,7 +1198,7 @@
   "kitStats": {
     "pvp": 1518,
     "raid": 578,
-    "survival": 1960,
+    "survival": 1961,
     "shulker": 647,
     "music": 214,
     "terracotta": 50,
