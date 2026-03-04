@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:56:42 5/3/2026",
+  "lastUpdated": "01:56:48 5/3/2026",
   "totalKits": 106336,
   "todayKits": 431,
   "onlineCount": 43,
@@ -12,7 +12,7 @@
     "maxTime": "01:11:48 5/3/2026",
     "avg": 27
   },
-  "tps": "8.0",
+  "tps": "7.0",
   "ping": 0,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1948
+      "count": 1949
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:56] To matiasbbya1234: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:56] [BOT] <HienBot> **Bot to matiasbbya1234**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:56] [8b8t] >> ▲ Player .Wing075 Joined.",
-    "[18:56] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[18:56] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[18:56] <bwbytsub> stash",
-    "[18:56] [8b8t] >> Teleporting to home 0...",
-    "[18:56] [BOT] <HienBot> **bwbytsub**: stash",
     "[18:56] [8b8t] >> Teleporting to home 2...",
     "[18:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:56] [8b8t] >> You arent ignoring adri989",
@@ -108,7 +100,15 @@
     "[18:56] [8b8t] >> ▲ Player HienBot Joined.",
     "[18:56] You are already connected to this server!",
     "[18:56] <ye02> survival",
-    "[18:56] To ye02: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot"
+    "[18:56] To ye02: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[18:56] [BOT] <HienBot> **ye02**: survival",
+    "[18:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:56] <ye02> survival",
+    "[18:56] [8b8t] >> You have killed yourself!",
+    "[18:56] [BOT] <HienBot> **ye02**: survival",
+    "[18:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:56] To ye02: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:56] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1104,7 +1104,7 @@
     "muskan331": 2,
     "d4ffpower": 2,
     "DaneiMYG": 7,
-    "ye02": 69,
+    "ye02": 70,
     "AcidOP": 2,
     "Z4braReal": 37,
     "Veinryx": 40,
@@ -1196,7 +1196,7 @@
   "kitStats": {
     "pvp": 1509,
     "raid": 577,
-    "survival": 1948,
+    "survival": 1949,
     "shulker": 641,
     "music": 214,
     "terracotta": 50,
