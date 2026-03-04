@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:25:47 4/3/2026",
-  "totalKits": 106046,
-  "todayKits": 141,
+  "lastUpdated": "16:26:06 4/3/2026",
+  "totalKits": 106047,
+  "todayKits": 142,
   "onlineCount": 18,
   "peakPlayers": 50,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 21
   },
-  "tps": "11.0",
+  "tps": "9.0",
   "ping": 198,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:24] [8b8t] >> Please include a player /ignore <playerName>",
-    "[09:24] [8b8t] >> You arent ignoring IamNuke_",
-    "[09:24] [8b8t] >> You arent ignoring DavidN3000",
-    "[09:24] [8b8t] >> You arent ignoring Real4Tribe",
-    "[09:24] <123vica1> Food",
-    "[09:24] [8b8t] >> Teleporting to home 0...",
-    "[09:24] [BOT] <HienBot> **123vica1**: Food",
-    "[09:24] [8b8t] >> Teleporting to home 4...",
-    "[09:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:24] To 123vica1: Your kit (food) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:24] To 123vica1: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:24] [BOT] <HienBot> **Bot to 123vica1**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:24] [8b8t] >> Request sent to 123vica1",
     "[09:24] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
@@ -108,7 +96,19 @@
     "[09:25] [8b8t] >> You arent ignoring DavidN3000",
     "[09:25] [8b8t] >> You arent ignoring Real4Tribe",
     "[09:25] [BOT] <HienBot> >Try /cosmetics to change your name color!",
-    "[09:25] [8b8t] >> ▲ Player tristan_flash Joined."
+    "[09:25] [8b8t] >> ▲ Player tristan_flash Joined.",
+    "[09:25] <tristan_flash> stash",
+    "[09:25] [BOT] <HienBot> **tristan_flash**: stash",
+    "[09:25] [8b8t] >> Teleporting to home 0...",
+    "[09:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:25] [8b8t] >> Teleporting to home 2...",
+    "[09:25] To tristan_flash: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:25] To tristan_flash: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:25] [BOT] <HienBot> **Bot to tristan_flash**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:25] [8b8t] >> Request sent to tristan_flash",
+    "[09:26] [8b8t] >> Teleporting...",
+    "[09:26] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1168,7 +1168,8 @@
     "Pixel_Saber": 1,
     "LEMON_BIT": 1,
     ".ZuraKSLeader": 3,
-    "LoudCookiebro": 2
+    "LoudCookiebro": 2,
+    "tristan_flash": 1
   },
   "kitStats": {
     "pvp": 1381,
@@ -1183,7 +1184,7 @@
     "toolbox": 131,
     "wool": 134,
     "exp": 224,
-    "stash": 464,
+    "stash": 465,
     "ocean": 64,
     "build": 548,
     "dye": 44,
