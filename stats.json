@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:59:17 4/3/2026",
-  "totalKits": 106089,
-  "todayKits": 184,
+  "lastUpdated": "19:59:42 4/3/2026",
+  "totalKits": 106090,
+  "todayKits": 185,
   "onlineCount": 26,
   "peakPlayers": 50,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:42:46 4/3/2026",
     "avg": 20
   },
-  "tps": "14.0",
+  "tps": "13.0",
   "ping": 198,
   "topUsers": [
     {
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:57]   [Confirm read]\n",
-    "[12:57] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[12:57] [8b8t] >> ▲ Player HienBot Joined.",
-    "[12:57] [8b8t] >> Teleporting to home 0...",
-    "[12:57] HighwayCleaner Whispers: build",
-    "[12:57] [8b8t] >> Teleporting to home 0...",
-    "[12:57] [BOT] <HienBot> **HighwayCleaner**: build",
-    "[12:57] [8b8t] >> Teleporting to home 2...",
-    "[12:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:57] To HighwayCleaner: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:57] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[12:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:57] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[12:57] [8b8t] >> You arent ignoring adri989",
     "[12:57] [8b8t] >> Please include a player /ignore <playerName>",
     "[12:57] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
@@ -108,7 +95,20 @@
     "[12:58] [BOT] <HienBot> >Type list for a list of kits",
     "[12:58] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
     "[12:58] [8b8t] >> ▲ Player DeathZuka Joined.",
-    "[12:59] [BOT] <HienBot> >Hi CuloGangTobias!"
+    "[12:59] [BOT] <HienBot> >Hi CuloGangTobias!",
+    "[12:59] HighwayCleaner Whispers: concrete",
+    "[12:59] [8b8t] >> Teleporting to home 0...",
+    "[12:59] [8b8t] >> Teleporting to home 3...",
+    "[12:59] [BOT] <HienBot> **HighwayCleaner**: concrete",
+    "[12:59] To HighwayCleaner: Your kit (concrete) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:59] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[12:59] To HighwayCleaner: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:59] [BOT] <HienBot> **Bot to HighwayCleaner**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:59] [8b8t] >> Request sent to HighwayCleaner",
+    "[12:59] [BOT] <HienBot> >Type invite for invite rewards info",
+    "[12:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -798,7 +798,7 @@
     "ravegupUQYQK": 4,
     "WinterWater": 1,
     "KAOSZHAFCROSS": 14,
-    "HighwayCleaner": 14,
+    "HighwayCleaner": 15,
     "Hanae0": 3,
     "TylerDurden098": 30,
     "IAMSAMINDIAN": 26,
@@ -1188,7 +1188,7 @@
     "ocean": 64,
     "build": 555,
     "dye": 44,
-    "concrete": 61,
+    "concrete": 62,
     "dupe": 595,
     "food": 138,
     "glass": 79,
