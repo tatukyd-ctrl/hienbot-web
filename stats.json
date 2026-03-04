@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:06:48 5/3/2026",
-  "totalKits": 106345,
-  "todayKits": 440,
-  "onlineCount": 45,
+  "lastUpdated": "02:07:01 5/3/2026",
+  "totalKits": 106346,
+  "todayKits": 441,
+  "onlineCount": 46,
   "peakPlayers": 53,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "01:11:48 5/3/2026",
     "avg": 27
   },
-  "tps": "9.0",
+  "tps": "10.0",
   "ping": 202,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 1954
+      "count": 1955
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:06] [8b8t] >> Teleporting to home 2...",
-    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:06] To saccbot: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:06] You were kicked from 8b8t: Kicked for spamming",
-    "[19:06] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[19:06] You may not interact with objects!",
-    "[19:06] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[19:06] [8b8t] Unknown command do /help",
-    "[19:06] [8b8t] Unknown command do /help",
-    "[19:06] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[19:06] [8b8t] >> ▲ Player HienBot Joined.",
-    "[19:06] LoonMouton underestimated the blast radius of a Creeper",
-    "[19:06] You are already connected to this server!",
-    "[19:06] [8b8t] >> ▼ Player D_JUMA_E Left.",
     "[19:06] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[19:06] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[19:06] [8b8t] >> ▼ Player .CartoonGames112 Left.",
@@ -108,7 +93,22 @@
     "[19:06] [8b8t] >> You arent ignoring h6sx",
     "[19:06] [8b8t] >> ▲ Player snowbed2 Joined.",
     "[19:06] [8b8t] >> ▼ Player marcianoox Left.",
-    "[19:06] [BOT] <HienBot> >Want free items? Just type survival"
+    "[19:06] [BOT] <HienBot> >Want free items? Just type survival",
+    "[19:06] <GoofyAhhLil> survival",
+    "[19:06] <ye02> survival",
+    "[19:06] [8b8t] >> Teleporting to home 0...",
+    "[19:06] [BOT] <HienBot> **GoofyAhhLil**: survival",
+    "[19:06] [8b8t] >> Teleporting to home 1...",
+    "[19:06] To GoofyAhhLil: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:06] LoonMouton went for a swim in lava and got burned",
+    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:06] To GoofyAhhLil: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:06] [BOT] <HienBot> **Bot to GoofyAhhLil**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:06] [8b8t] >> Request sent to GoofyAhhLil",
+    "[19:06] [8b8t] >> Teleporting...",
+    "[19:06] [8b8t] >> ▲ Player .Hamoudi9416 Joined."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1192,12 +1192,13 @@
     "DarkInfernoKing": 2,
     "matiasbbya1234": 6,
     "Gl1tch_exe": 1,
-    "epstienfksnicker": 5
+    "epstienfksnicker": 5,
+    "GoofyAhhLil": 1
   },
   "kitStats": {
     "pvp": 1511,
     "raid": 578,
-    "survival": 1954,
+    "survival": 1955,
     "shulker": 642,
     "music": 214,
     "terracotta": 50,
