@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:17:17 4/3/2026",
+  "lastUpdated": "23:17:47 4/3/2026",
   "totalKits": 106206,
   "todayKits": 301,
-  "onlineCount": 40,
+  "onlineCount": 36,
   "peakPlayers": 51,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:29:17 4/3/2026",
     "avg": 24
   },
-  "tps": "8.0",
-  "ping": 197,
+  "tps": "11.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:16] [8b8t] >> Request sent to saccbot",
-    "[16:16] [8b8t] >> Teleporting...",
-    "[16:16] mrdomer90000 challenged the Wither and lost their head",
-    "[16:16] [8b8t] >> ▼ Player Rucosa Left.",
-    "[16:16] <Ascalter40> DINER",
-    "[16:16] [BOT] <HienBot> **Ascalter40**: DINER",
-    "[16:16] [8b8t] >> You have killed yourself!",
-    "[16:16] To saccbot: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[16:16] [BOT] <HienBot> **Bot to saccbot**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[16:16] [8b8t] >> ▼ Player 123vica1 Left.",
-    "[16:16] [8b8t] >> ▲ Player N1ght__W0lf Joined.",
-    "[16:16] <Ascalter40> domer",
-    "[16:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:16] <Ascalter40> nigga",
-    "[16:16] [BOT] <HienBot> **Ascalter40**: nigga",
-    "[16:16] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[16:16] [8b8t] >> You arent ignoring adri989",
-    "[16:16] [8b8t] >> Please include a player /ignore <playerName>",
     "[16:16] [8b8t] >> You arent ignoring IamNuke_",
     "[16:16] [8b8t] >> You arent ignoring DavidN3000",
     "[16:16] [8b8t] >> You arent ignoring Real4Tribe",
@@ -108,7 +90,25 @@
     "[16:17] [BOT] <HienBot> **MarkusISCool**: >Newbie and want to become cool quickly? Try -gear or -free pvp",
     "[16:17] [8b8t] >> ▲ Player DARRELdj Joined.",
     "[16:17] [8b8t] >> ▲ Player quanbel Joined.",
-    "[16:17] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe"
+    "[16:17] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
+    "[16:17] <saccbot> tools",
+    "[16:17] [8b8t] >> Teleporting to home 0...",
+    "[16:17] [8b8t] >> Teleporting to home 7...",
+    "[16:17] [BOT] <HienBot> **saccbot**: tools",
+    "[16:17] To saccbot: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:17] [8b8t] >> ▼ Player zion_packet Left.",
+    "[16:17] To saccbot: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:17] [BOT] <HienBot> **Bot to saccbot**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:17] [8b8t] >> Request sent to saccbot",
+    "[16:17] <MarkusISCool> >This bot has been created by Felek btw.",
+    "[16:17] [BOT] <HienBot> **MarkusISCool**: >This bot has been created by Felek btw.",
+    "[16:17] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[16:17] [8b8t] >> ▼ Player mrdomer90000 Left.",
+    "[16:17] [8b8t] >> ▼ Player saccbot Left.",
+    "[16:17] [8b8t] >> ▼ Player Madox Left.",
+    "[16:17] [BOT] <HienBot> >Hate those who destroy Hien2309's base"
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1186,7 +1186,7 @@
     "cowaw1234": 2,
     "NEONKSF": 4,
     "sejam_felizes": 4,
-    "saccbot": 4
+    "saccbot": 5
   },
   "kitStats": {
     "pvp": 1436,
@@ -1196,7 +1196,7 @@
     "music": 213,
     "terracotta": 50,
     "lightsources": 81,
-    "tools": 495,
+    "tools": 496,
     "armortrims": 93,
     "toolbox": 140,
     "wool": 140,
