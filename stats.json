@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:17:16 4/3/2026",
-  "totalKits": 105924,
-  "todayKits": 19,
+  "lastUpdated": "08:17:38 4/3/2026",
+  "totalKits": 105925,
+  "todayKits": 20,
   "onlineCount": 34,
   "peakPlayers": 50,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:11:46 4/3/2026",
     "avg": 30
   },
-  "tps": "10.0",
-  "ping": 198,
+  "tps": "9.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:16] [8b8t] >> Teleporting to home 1...",
-    "[01:16] To htpipo: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:16] [8b8t] >> ▲ Player Elchimuelo08 Joined.",
-    "[01:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:16] To htpipo: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:16] [BOT] <HienBot> **Bot to htpipo**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:16] [8b8t] >> Request sent to htpipo",
-    "[01:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:16] [8b8t] >> Teleporting...",
-    "[01:16] [8b8t] >> ▲ Player raaaeuhx Joined.",
-    "[01:16] [8b8t] >> You have killed yourself!",
     "[01:16] HienBot was EZ clapped by htpipo using [enchanted golden apple]",
     "[01:16] To htpipo: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[01:16] [BOT] <HienBot> **Bot to htpipo**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +96,19 @@
     "[01:16] htpipo has made the advancement [Stone Age]",
     "[01:16] [BOT] <HienBot> >Use /lobby to return to the lobby!",
     "[01:17] Towentris tangled with Piglins and got a lesson in survival",
-    "[01:17] raaaeuhx forgot to bring their parachute"
+    "[01:17] raaaeuhx forgot to bring their parachute",
+    "[01:17] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
+    "[01:17] <raaaeuhx> elytra",
+    "[01:17] [BOT] <HienBot> **raaaeuhx**: elytra",
+    "[01:17] [8b8t] >> Teleporting to home 0...",
+    "[01:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:17] [8b8t] >> Teleporting to home 6...",
+    "[01:17] To raaaeuhx: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:17] To raaaeuhx: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:17] [BOT] <HienBot> **Bot to raaaeuhx**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:17] [8b8t] >> Request sent to raaaeuhx",
+    "[01:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1154,7 +1154,8 @@
     "PepeElPolloPro": 4,
     "evaletz2": 3,
     "Lucky_2007": 1,
-    "htpipo": 1
+    "htpipo": 1,
+    "raaaeuhx": 1
   },
   "kitStats": {
     "pvp": 1333,
@@ -1177,7 +1178,7 @@
     "dupe": 582,
     "food": 133,
     "glass": 78,
-    "elytra": 468,
+    "elytra": 469,
     "redstone": 484,
     "quartz": 50,
     "highway": 92,
