@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:51:11 4/3/2026",
+  "lastUpdated": "22:51:17 4/3/2026",
   "totalKits": 106187,
   "todayKits": 282,
   "onlineCount": 41,
@@ -12,7 +12,7 @@
     "maxTime": "22:29:17 4/3/2026",
     "avg": 24
   },
-  "tps": "6.0",
+  "tps": "5.0",
   "ping": 198,
   "topUsers": [
     {
@@ -75,20 +75,10 @@
     },
     {
       "name": "raid",
-      "count": 567
+      "count": 568
     }
   ],
   "chatLog": [
-    "[15:50] [8b8t] >> ▲ Player NEONKSF Joined.",
-    "[15:50] MesonLegend withered away to the 4th dimension",
-    "[15:50] [BOT] <HienBot> >Need gear? Type pvp to get started!",
-    "[15:50] <NEONKSF> hi",
-    "[15:50] [BOT] <HienBot> **NEONKSF**: hi",
-    "[15:50] <Ascalter40> pvp",
-    "[15:50] [8b8t] >> You have killed yourself!",
-    "[15:50] [BOT] <HienBot> **Ascalter40**: pvp",
-    "[15:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:50] To Ascalter40: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[15:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:50] [8b8t] >> Teleporting to home 0...",
     "[15:50] [8b8t] >> Teleporting to home 1...",
@@ -108,7 +98,17 @@
     "[15:51] [8b8t] >> You arent ignoring IamNuke_",
     "[15:51] [8b8t] >> ▼ Player quanbel Left.",
     "[15:51] [8b8t] >> You arent ignoring DavidN3000",
-    "[15:51] [8b8t] >> You arent ignoring Real4Tribe"
+    "[15:51] [8b8t] >> You arent ignoring Real4Tribe",
+    "[15:51] [8b8t] >> ▲ Player busybee07 Joined.",
+    "[15:51] [8b8t] >> You have killed yourself!",
+    "[15:51] HienBot has been killed by Ascalter40",
+    "[15:51] [BOT] <HienBot> >Try dupe",
+    "[15:51] <darsacc> raid",
+    "[15:51] [8b8t] >> ▼ Player catcola3 Left.",
+    "[15:51] [8b8t] >> Teleporting to home 0...",
+    "[15:51] To Ascalter40: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[15:51] [BOT] <HienBot> **darsacc**: raid",
+    "[15:51] [8b8t] >> Teleporting to home 2..."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -265,7 +265,7 @@
     "arda912": 1,
     "nikolozi2478": 6,
     "Laiwy_123": 8,
-    "darsacc": 62,
+    "darsacc": 63,
     "Geobo": 3,
     "ViolaStockSauces": 2,
     "wolvesbykanye": 13,
@@ -1187,7 +1187,7 @@
   },
   "kitStats": {
     "pvp": 1430,
-    "raid": 567,
+    "raid": 568,
     "survival": 1906,
     "shulker": 633,
     "music": 213,
