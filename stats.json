@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:49:49 5/3/2026",
+  "lastUpdated": "17:50:19 5/3/2026",
   "totalKits": 106723,
   "todayKits": 211,
-  "onlineCount": 21,
+  "onlineCount": 20,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 21
   },
-  "tps": "14.0",
-  "ping": 205,
+  "tps": "15.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2045
+      "count": 2046
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:46] [8b8t] >> ▲ Player kamutz Joined.",
-    "[10:46] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[10:47] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[10:47] [8b8t] >> ▲ Player .Vezryx Joined.",
-    "[10:47] [BOT] <HienBot> >Running low on supplies? Use survival",
-    "[10:47] .Vezryx decided to sleep with the fishes",
-    "[10:47] cokiebao has made the advancement [We Need to Go Deeper]",
-    "[10:47] [8b8t] >> ▲ Player _Art1c Joined.",
-    "[10:47] <Veinryx> vedryx",
-    "[10:47] [BOT] <HienBot> **Veinryx**: vedryx",
-    "[10:47] [8b8t] >> ▼ Player _Art1c Left.",
-    "[10:47] <Veinryx> wtf",
-    "[10:47] [BOT] <HienBot> **Veinryx**: wtf",
-    "[10:47] [BOT] <HienBot> >Welcome to 8b8t, dawg059!",
     "[10:48] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[10:48] [BOT] <HienBot> >Try list to see available kits",
     "[10:48] .Vezryx decided to test gravity and lost",
@@ -108,7 +94,21 @@
     "[10:49] .REMEDYCRAFT forgot to bring their parachute",
     "[10:49] [BOT] <HienBot> >Hello BigBear!",
     "[10:49] .Vezryx forgot to bring their parachute",
-    "[10:49] [BOT] <HienBot> >Want free items? Just type survival"
+    "[10:49] [BOT] <HienBot> >Want free items? Just type survival",
+    "[10:49] <.REMEDYCRAFT> survival",
+    "[10:49] [BOT] <HienBot> **.REMEDYCRAFT**: survival",
+    "[10:49] [8b8t] >> Teleporting to home 0...",
+    "[10:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:49] [8b8t] >> Teleporting to home 1...",
+    "[10:49] To .REMEDYCRAFT: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:49] [BOT] <HienBot> **Bot to .REMEDYCRAFT**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:50] To .REMEDYCRAFT: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:50] [BOT] <HienBot> **Bot to .REMEDYCRAFT**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:50] [8b8t] >> Request sent to .REMEDYCRAFT",
+    "[10:50] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[10:50] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[10:50] [BOT] <HienBot> >Want to see whose ping is the best? Chat bestping",
+    "[10:50] [8b8t] >> ▼ Player MesonOlive Left."
   ],
   "userStats": {
     "Hien2309": 81,
@@ -1215,12 +1215,13 @@
     ".Just67yt5180": 1,
     "sonww": 4,
     "MintyLuka": 36,
-    "AnshTiwari": 11
+    "AnshTiwari": 11,
+    ".REMEDYCRAFT": 1
   },
   "kitStats": {
     "pvp": 1599,
     "raid": 590,
-    "survival": 2045,
+    "survival": 2046,
     "shulker": 726,
     "music": 214,
     "terracotta": 50,
