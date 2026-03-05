@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:40:45 6/3/2026",
+  "lastUpdated": "00:40:50 6/3/2026",
   "totalKits": 107004,
   "todayKits": 492,
-  "onlineCount": 43,
+  "onlineCount": 2,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:37:50 6/3/2026",
     "avg": 24
   },
-  "tps": "9.0",
-  "ping": 198,
+  "tps": "7.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:40] Ollarr forgot to bring their parachute",
-    "[17:40] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
-    "[17:40] <zelliy> grief",
-    "[17:40] [8b8t] >> Teleporting to home 0...",
-    "[17:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:40] [8b8t] >> Teleporting to home 2...",
-    "[17:40] To zelliy: Your kit (grief) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:40] [BOT] <HienBot> **Bot to zelliy**: Your kit (grief) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:40] To zelliy: Sorry! Gray Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[17:40] <saccbot> carpet",
     "[17:40] [BOT] <HienBot> **Bot to zelliy**: Sorry! Gray Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[17:40] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +98,17 @@
     "[17:40] [8b8t] >> Teleporting...",
     "[17:40] [BOT] <HienBot> **Bot to imnewtopvp354868**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[17:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:40] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[17:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:40] [8b8t] >> You have killed yourself!",
+    "[17:40] <DesoYT> carpet",
+    "[17:40] [8b8t] >> Teleporting to home 0...",
+    "[17:40] [8b8t] >> Teleporting to home 3...",
+    "[17:40] [BOT] <HienBot> **DesoYT**: carpet",
+    "[17:40] To DesoYT: Your kit (carpet) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:40] You were kicked from 8b8t: Kicked for spamming",
+    "[17:40] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
+    "[17:40] <HienBot> **Bot to DesoYT**: Your kit (carpet) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -848,7 +848,7 @@
     "YoutubeOnur": 48,
     "milomilom": 13,
     "LettuceK": 5,
-    "DesoYT": 27,
+    "DesoYT": 28,
     "TheobaldTheBird": 153,
     "Loax_XD": 10,
     "k1hveli": 2,
@@ -1245,7 +1245,7 @@
     "tools": 554,
     "armortrims": 140,
     "toolbox": 178,
-    "wool": 223,
+    "wool": 224,
     "exp": 304,
     "stash": 564,
     "ocean": 65,
