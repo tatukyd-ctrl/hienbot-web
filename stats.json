@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:22:01 6/3/2026",
+  "lastUpdated": "01:22:21 6/3/2026",
   "totalKits": 107041,
   "todayKits": 529,
   "onlineCount": 47,
@@ -12,8 +12,8 @@
     "maxTime": "01:16:21 6/3/2026",
     "avg": 25
   },
-  "tps": "6.0",
-  "ping": 203,
+  "tps": "5.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1699
+      "count": 1700
     },
     {
       "name": "shulker",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:21] [BOT] <HienBot> >Hmmmmmmmmm",
-    "[18:21] <otracosasez> -shulker",
-    "[18:21] [BOT] <HienBot> **otracosasez**: -shulker",
-    "[18:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[18:21] [8b8t] >> Teleporting to home 0...",
-    "[18:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:21] [8b8t] >> Teleporting to home 6...",
-    "[18:21] To otracosasez: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[18:21] [BOT] <HienBot> **Bot to otracosasez**: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[18:21] <Ollarr> shulker",
-    "[18:21] To Ollarr: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[18:21] [BOT] <HienBot> **Ollarr**: shulker",
-    "[18:21] To otracosasez: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[18:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:21] AspectofFlame Whispers: wool",
-    "[18:21] [8b8t] >> Teleporting to home 0...",
-    "[18:21] [BOT] <HienBot> **AspectofFlame**: wool",
-    "[18:21] [8b8t] >> Teleporting to home 3...",
     "[18:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:21] To AspectofFlame: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[18:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +89,26 @@
     "[18:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:21] [8b8t] >> Teleporting...",
     "[18:22] Veronica_012 decided to sleep with the fishes",
-    "[18:22] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11"
+    "[18:22] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[18:22] [8b8t] >> You have killed yourself!",
+    "[18:22] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[18:22] <otracosasez> -pvp",
+    "[18:22] [8b8t] >> Teleporting to home 0...",
+    "[18:22] [BOT] <HienBot> **otracosasez**: -pvp",
+    "[18:22] [8b8t] >> Teleporting to home 1...",
+    "[18:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:22] To otracosasez: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:22] To AspectofFlame: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[18:22] [BOT] <HienBot> **Bot to AspectofFlame**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[18:22] To otracosasez: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[18:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:22] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[18:22] [8b8t] >> You arent ignoring adri989",
+    "[18:22] [8b8t] >> Please include a player /ignore <playerName>",
+    "[18:22] [8b8t] >> You arent ignoring IamNuke_",
+    "[18:22] [8b8t] >> You arent ignoring DavidN3000",
+    "[18:22] [8b8t] >> You arent ignoring h6sx"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1233,10 +1233,10 @@
     "Ollarr": 4,
     "Ben9304": 1,
     "SenpaiSpider416": 2,
-    "otracosasez": 1
+    "otracosasez": 2
   },
   "kitStats": {
-    "pvp": 1699,
+    "pvp": 1700,
     "raid": 596,
     "survival": 2104,
     "shulker": 866,
