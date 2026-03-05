@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:35:31 6/3/2026",
+  "lastUpdated": "03:35:51 6/3/2026",
   "totalKits": 107123,
   "todayKits": 611,
   "onlineCount": 29,
@@ -12,8 +12,8 @@
     "maxTime": "01:16:21 6/3/2026",
     "avg": 27
   },
-  "tps": "8.0",
-  "ping": 208,
+  "tps": "9.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2131
+      "count": 2132
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:34] [8b8t] >> You arent ignoring Real4Tribe",
-    "[20:34] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[20:34] <RO7IM_TAMER> -pvp",
-    "[20:34] [8b8t] >> Teleporting to home 0...",
-    "[20:34] [8b8t] >> Teleporting to home 1...",
-    "[20:34] [BOT] <HienBot> **RO7IM_TAMER**: -pvp",
-    "[20:34] To RO7IM_TAMER: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:34] To RO7IM_TAMER: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:34] [BOT] <HienBot> **Bot to RO7IM_TAMER**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:34] Elkukoo decided to test gravity and lost",
-    "[20:35] [BOT] <HienBot> >Running low on supplies? Use survival",
-    "[20:35] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[20:35] <Meliodas48841> end crystal",
-    "[20:35] [BOT] <HienBot> **Meliodas48841**: end crystal",
-    "[20:35] [8b8t] >> ▲ Player santiorteg1 Joined.",
     "[20:35] <Meliodas48841> end",
     "[20:35] [8b8t] >> Teleporting to home 0...",
     "[20:35] [BOT] <HienBot> **Meliodas48841**: end",
@@ -108,7 +91,24 @@
     "[20:35] [BOT] <HienBot> **Bot to Meliodas48841**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:35] [8b8t] >> Request sent to Meliodas48841",
     "[20:35] [8b8t] >> Teleporting...",
-    "[20:35] [BOT] <HienBot> >Want to see your ping? Chat ping"
+    "[20:35] [BOT] <HienBot> >Want to see your ping? Chat ping",
+    "[20:35] [8b8t] >> You have killed yourself!",
+    "[20:35] HienBot forgot to stop, drop, and roll",
+    "[20:35] To Meliodas48841: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:35] [BOT] <HienBot> **Bot to Meliodas48841**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:35] Elkukoo decided to test gravity and lost",
+    "[20:35] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[20:35] [8b8t] >> You arent ignoring adri989",
+    "[20:35] [8b8t] >> Please include a player /ignore <playerName>",
+    "[20:35] <RO7IM_TAMER> survival",
+    "[20:35] [8b8t] >> Teleporting to home 0...",
+    "[20:35] [8b8t] >> You arent ignoring IamNuke_",
+    "[20:35] [BOT] <HienBot> **RO7IM_TAMER**: survival",
+    "[20:35] [8b8t] >> Teleporting to home 1...",
+    "[20:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:35] To RO7IM_TAMER: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:35] [8b8t] >> You arent ignoring DavidN3000"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1140,7 +1140,7 @@
     "Inspiron23YT": 2,
     "TrueOnJava": 27,
     "Piicklerr": 47,
-    "RO7IM_TAMER": 9,
+    "RO7IM_TAMER": 10,
     "Player69": 1,
     "dannnyel": 11,
     "bwbytsub": 81,
@@ -1243,7 +1243,7 @@
   "kitStats": {
     "pvp": 1719,
     "raid": 600,
-    "survival": 2131,
+    "survival": 2132,
     "shulker": 878,
     "music": 220,
     "terracotta": 50,
