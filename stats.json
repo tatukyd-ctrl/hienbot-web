@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:53:23 5/3/2026",
+  "lastUpdated": "20:53:50 5/3/2026",
   "totalKits": 106848,
   "todayKits": 336,
   "onlineCount": 30,
@@ -12,7 +12,7 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 22
   },
-  "tps": "7.0",
+  "tps": "10.0",
   "ping": 0,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1607
+      "count": 1610
     },
     {
       "name": "shulker",
@@ -79,25 +79,9 @@
     }
   ],
   "chatLog": [
-    "[13:53] <Ascalter40> totem",
-    "[13:53] [8b8t] >> Teleporting to home 0...",
-    "[13:53] <Life_haker> op",
-    "[13:53] To Life_haker: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[13:53] [8b8t] >> Please do not spam.",
-    "[13:53] [8b8t] >> Teleporting to home 1...",
-    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:53] To Ascalter40: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:53] To Ascalter40: Sorry! Cyan Shulker Box is out of stock. Giving you Pink Shulker Box instead! dsc.gg/hienbot",
-    "[13:53] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[13:53] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[13:53] [BOT] <HienBot> **Bot to Ascalter40**: Sorry! Cyan Shulker Box is out of stock. Giving you Pink Shulker Box instead! dsc.gg/hienbot",
-    "[13:53] You were kicked from 8b8t: Kicked for spamming",
+    "[13:53] <HienBot> **Bot to Life_haker**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[13:53] You may not interact with objects!",
     "[13:53] [8b8t] Unknown command do /help",
-    "[13:53] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
     "[13:53] [8b8t] Unknown command do /help",
     "[13:53] [8b8t] Unknown command do /help",
     "[13:53] [8b8t] Unknown command do /help",
@@ -105,10 +89,26 @@
     "[13:53] [8b8t] Unknown command do /help",
     "[13:53] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[13:53] [8b8t] >> ▲ Player HienBot Joined.",
+    "[13:53] [8b8t] >> You arent ignoring h6sx",
+    "[13:53] You are already connected to this server!",
     "[13:53] <.Vezryx> beacon",
-    "[13:53] To .Vezryx: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[13:53] [BOT] <HienBot> **.Vezryx**: beacon",
-    "[13:53] [8b8t] >> Please include a player /ignore <playerName>"
+    "[13:53] To .Vezryx: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:53] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[13:53] [8b8t] >> Please include a player /ignore <playerName>",
+    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:53] <Zedz0rYT> totem",
+    "[13:53] [8b8t] >> Teleporting to home 0...",
+    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:53] [8b8t] >> Teleporting to home 1...",
+    "[13:53] [BOT] <HienBot> 📦 Zedz0rYT requested pvp kit.",
+    "[13:53] To Zedz0rYT: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:53] <imnewtopvp354868> do it one at a time",
+    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:53] <Mintcraft46> survival",
+    "[13:53] To Mintcraft46: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[13:53] [BOT] <HienBot> **Mintcraft46**: survival"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1122,7 +1122,7 @@
     "Cha4rl1e": 2,
     "MussaurusIll": 1,
     "nadelei": 9,
-    "pankinas123": 1,
+    "pankinas123": 2,
     ".Darkangel8916": 5,
     "elweon7u7": 1,
     "TopNameChanger": 67,
@@ -1224,11 +1224,11 @@
     ".Vezryx": 31,
     ".YuCKTaMarine": 1,
     "Iamshorgo": 5,
-    "Zedz0rYT": 11,
+    "Zedz0rYT": 13,
     ".DomiO8691": 6
   },
   "kitStats": {
-    "pvp": 1607,
+    "pvp": 1610,
     "raid": 592,
     "survival": 2080,
     "shulker": 768,
