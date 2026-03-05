@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:42:49 5/3/2026",
+  "lastUpdated": "19:43:19 5/3/2026",
   "totalKits": 106782,
   "todayKits": 270,
-  "onlineCount": 22,
+  "onlineCount": 0,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 21
   },
-  "tps": "14.0",
-  "ping": 885,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:41] [8b8t] >> Teleporting...",
-    "[12:41] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:41] [8b8t] >> You have killed yourself!",
-    "[12:41] To Mintcraft46: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:41] [BOT] <HienBot> **Bot to Mintcraft46**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:41] [8b8t] >> ▲ Player Veinryx Joined.",
@@ -108,7 +104,11 @@
     "[12:42] [8b8t] >> ▼ Player DPS_Chatbridge Left.",
     "[12:42] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[12:42] <tofonelmaricon> tools",
-    "[12:42] <Mintcraft46> tools"
+    "[12:42] <Mintcraft46> tools",
+    "[12:42] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
+    "[12:42] <tofonelmaricon> tool",
+    "[12:42] You were kicked from 8b8t: Timed out",
+    "[12:42] [8b8t] >> Welcome HienBot to 8b8t.me Lobby"
   ],
   "userStats": {
     "Hien2309": 82,
