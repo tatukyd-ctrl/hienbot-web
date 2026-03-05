@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:39:51 6/3/2026",
-  "totalKits": 107095,
-  "todayKits": 583,
+  "lastUpdated": "02:40:01 6/3/2026",
+  "totalKits": 107096,
+  "todayKits": 584,
   "onlineCount": 41,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "01:16:21 6/3/2026",
     "avg": 26
   },
-  "tps": "8.0",
+  "tps": "11.0",
   "ping": 198,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2120
+      "count": 2121
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:39] wfextyerbfergfd was slain by oradiminou using [end crystal]",
-    "[19:39] [Ultra] <blake> lemme find auto mine",
-    "[19:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:39] <dawg059> wool",
-    "[19:39] [8b8t] >> Teleporting to home 0...",
-    "[19:39] [BOT] <HienBot> **dawg059**: wool",
-    "[19:39] [8b8t] >> Teleporting to home 3...",
-    "[19:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:39] To dawg059: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:39] To dawg059: Sorry! Lime Shulker Box is out of stock. Giving you Brown Shulker Box instead! dsc.gg/hienbot",
-    "[19:39] [8b8t] >> ▼ Player shardah Left.",
-    "[19:39] [8b8t] >> Please do not spam.",
-    "[19:39] [8b8t] >> Request sent to dawg059",
-    "[19:39] [8b8t] >> Please include a player /ignore <playerName>",
     "[19:39] <quanbel> future turn on automine",
     "[19:39] [BOT] <HienBot> **quanbel**: future turn on automine",
     "[19:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +93,22 @@
     "[19:39] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[19:39] [8b8t] >> ▼ Player Windows Left.",
     "[19:39] [8b8t] >> You arent ignoring adri989",
-    "[19:39] [8b8t] >> Please include a player /ignore <playerName>"
+    "[19:39] [8b8t] >> Please include a player /ignore <playerName>",
+    "[19:39] <oradiminou> survival",
+    "[19:39] [8b8t] >> You arent ignoring IamNuke_",
+    "[19:39] [8b8t] >> Teleporting to home 0...",
+    "[19:39] [BOT] <HienBot> **oradiminou**: survival",
+    "[19:39] [8b8t] >> Teleporting to home 1...",
+    "[19:39] To oradiminou: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:39] [8b8t] >> You arent ignoring DavidN3000",
+    "[19:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:39] [8b8t] >> You arent ignoring h6sx",
+    "[19:39] To oradiminou: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:39] [BOT] <HienBot> **Bot to oradiminou**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:39] [8b8t] >> Request sent to oradiminou",
+    "[19:39] [8b8t] >> Teleporting...",
+    "[19:40] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1234,13 +1234,13 @@
     "Ben9304": 1,
     "SenpaiSpider416": 2,
     "otracosasez": 3,
-    "oradiminou": 2,
+    "oradiminou": 3,
     "Piff400": 1
   },
   "kitStats": {
     "pvp": 1713,
     "raid": 597,
-    "survival": 2120,
+    "survival": 2121,
     "shulker": 872,
     "music": 220,
     "terracotta": 50,
