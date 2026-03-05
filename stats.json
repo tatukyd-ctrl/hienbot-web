@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:18:21 6/3/2026",
+  "lastUpdated": "05:18:51 6/3/2026",
   "totalKits": 107152,
   "todayKits": 640,
-  "onlineCount": 26,
+  "onlineCount": 25,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "01:16:21 6/3/2026",
     "avg": 27
   },
-  "tps": "11.0",
+  "tps": "15.0",
   "ping": 197,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1733
+      "count": 1734
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:17] [8b8t] >> Teleporting to home 0...",
-    "[22:17] [BOT] <HienBot> **bwbytsub**: leggings",
-    "[22:17] [8b8t] >> Teleporting to home 1...",
-    "[22:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:17] To bwbytsub: Your kit (leggings) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:17] To bwbytsub: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[22:17] [BOT] <HienBot> **Bot to bwbytsub**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[22:17] <bwbytsub> chestplate",
-    "[22:17] [8b8t] >> Teleporting to home 0...",
-    "[22:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:17] [8b8t] >> Teleporting to home 1...",
-    "[22:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:17] To bwbytsub: Your kit (chestplate) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:17] [BOT] <HienBot> **Bot to bwbytsub**: Your kit (chestplate) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:17] To bwbytsub: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[22:17] [8b8t] >> Please do not spam.",
     "[22:17] [8b8t] >> ▼ Player Yomellamolucas Left.",
@@ -108,7 +92,23 @@
     "[22:18] [Ultra] <blake> LOL",
     "[22:18] [BOT] <HienBot> **blake56**: LOL",
     "[22:18] [Ultra] <blake> i am leaving",
-    "[22:18] [BOT] <HienBot> **blake56**: i am leaving"
+    "[22:18] [BOT] <HienBot> **blake56**: i am leaving",
+    "[22:18] <O_Suzmel> pvp",
+    "[22:18] [8b8t] >> Teleporting to home 0...",
+    "[22:18] [BOT] <HienBot> **O_Suzmel**: pvp",
+    "[22:18] [8b8t] >> Teleporting to home 1...",
+    "[22:18] <bwbytsub> give me loot",
+    "[22:18] To O_Suzmel: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:18] To O_Suzmel: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[22:18] [BOT] <HienBot> **Bot to O_Suzmel**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[22:18] [BOT] <HienBot> >Items for PVP and Building available in build",
+    "[22:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[22:18] <oglebron420> a",
+    "[22:18] [BOT] <HienBot> **oglebron420**: a",
+    "[22:18] [8b8t] >> ▼ Player eFenek Left."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1240,10 +1240,10 @@
     "alexpl_2003": 1,
     "Oce_Reflex": 2,
     "AlmightyDeNueva": 1,
-    "O_Suzmel": 1
+    "O_Suzmel": 2
   },
   "kitStats": {
-    "pvp": 1733,
+    "pvp": 1734,
     "raid": 600,
     "survival": 2139,
     "shulker": 887,
