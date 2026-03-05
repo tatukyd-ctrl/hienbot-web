@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:22:48 5/3/2026",
+  "lastUpdated": "10:23:18 5/3/2026",
   "totalKits": 106556,
   "todayKits": 44,
-  "onlineCount": 33,
+  "onlineCount": 31,
   "peakPlayers": 61,
   "playerStats": {
     "min": 3,
@@ -12,7 +12,7 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 32
   },
-  "tps": "6.0",
+  "tps": "12.0",
   "ping": 197,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2025
+      "count": 2026
     },
     {
       "name": "pvp",
@@ -79,27 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:21] [BOT] <HienBot> >Try stash",
-    "[03:21] .creepersgonna1 has made the advancement [Isn't It Iron Pick]",
-    "[03:22] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[03:22] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[03:22] [8b8t] >> ▲ Player CoBeHoK_0_o Joined.",
-    "[03:22] <drecobloxrd> filtraron base XDDDDDDDDDDDD",
-    "[03:22] [BOT] <HienBot> **drecobloxrd**: filtraron base XDDDDDDDDDDDD",
-    "[03:22] TOMI_CHINCULIN has made the advancement [We Need to Go Deeper]",
-    "[03:22] .creepersgonna1 has made the advancement [Suit Up]",
-    "[03:22] <Loganptrk_27> no me deja aceptar",
-    "[03:22] [BOT] <HienBot> **Loganptrk_27**: no me deja aceptar",
-    "[03:22] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[03:22] <Loganptrk_27> guialo xd",
-    "[03:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:22] <Yomellamolucas> survival",
-    "[03:22] [8b8t] >> Teleporting to home 0...",
-    "[03:22] [8b8t] >> Teleporting to home 1...",
-    "[03:22] [BOT] <HienBot> **Yomellamolucas**: survival",
-    "[03:22] To Yomellamolucas: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:22] To Yomellamolucas: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:22] [BOT] <HienBot> **Bot to Yomellamolucas**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:22] [8b8t] >> Request sent to Yomellamolucas",
@@ -108,7 +87,28 @@
     "[03:22] HienBot was rekt by Yomellamolucas and their mighty [Clan DMC ON TOP jacket]",
     "[03:22] To Yomellamolucas: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[03:22] [BOT] <HienBot> **Bot to Yomellamolucas**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:22] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command"
+    "[03:22] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[03:22] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[03:22] [8b8t] >> You arent ignoring adri989",
+    "[03:22] [8b8t] >> Please include a player /ignore <playerName>",
+    "[03:22] [8b8t] >> You arent ignoring IamNuke_",
+    "[03:22] [8b8t] >> You arent ignoring DavidN3000",
+    "[03:22] [8b8t] >> You arent ignoring Real4Tribe",
+    "[03:23] [8b8t] >> ▼ Player CoBeHoK_0_o Left.",
+    "[03:23] <sadfelde1234> survival",
+    "[03:23] [8b8t] >> Teleporting to home 0...",
+    "[03:23] .creepersgonna1 thought a Zombie was friendly",
+    "[03:23] [BOT] <HienBot> **sadfelde1234**: survival",
+    "[03:23] [8b8t] >> Teleporting to home 1...",
+    "[03:23] To sadfelde1234: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:23] Doniste has been killed by drecobloxrd",
+    "[03:23] To sadfelde1234: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:23] [BOT] <HienBot> **Bot to sadfelde1234**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:23] [8b8t] >> Request sent to sadfelde1234",
+    "[03:23] [BOT] <HienBot> >Get fully equipped with pvp",
+    "[03:23] [8b8t] >> ▼ Player Ascurlot Left."
   ],
   "userStats": {
     "Hien2309": 80,
@@ -1209,12 +1209,13 @@
     "hopingstream725": 1,
     "Webiwabo399": 18,
     "ryooq": 2,
-    ".Camcam6908": 2
+    ".Camcam6908": 2,
+    "sadfelde1234": 1
   },
   "kitStats": {
     "pvp": 1580,
     "raid": 584,
-    "survival": 2025,
+    "survival": 2026,
     "shulker": 688,
     "music": 214,
     "terracotta": 50,
