@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:22:49 5/3/2026",
-  "totalKits": 106734,
-  "todayKits": 222,
-  "onlineCount": 18,
+  "lastUpdated": "18:23:12 5/3/2026",
+  "totalKits": 106735,
+  "todayKits": 223,
+  "onlineCount": 19,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 21
   },
-  "tps": "16.0",
-  "ping": 236,
+  "tps": "11.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2049
+      "count": 2050
     },
     {
       "name": "pvp",
@@ -79,27 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:22] [8b8t] >> Teleporting to home 0...",
-    "[11:22] [BOT] <HienBot> **saccbot**: highway",
-    "[11:22] [8b8t] >> Teleporting to home 6...",
-    "[11:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:22] To saccbot: Your kit (highway) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:22] To saccbot: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:22] [8b8t] >> ▼ Player MesonOlive Left.",
-    "[11:22] [BOT] <HienBot> **Bot to saccbot**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:22] [8b8t] >> Request sent to saccbot",
-    "[11:22] [8b8t] >> Teleporting...",
-    "[11:22] [8b8t] >> You have killed yourself!",
-    "[11:22] [8b8t] >> ▲ Player MesonOlive Joined.",
-    "[11:22] To saccbot: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:22] [BOT] <HienBot> **Bot to saccbot**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:22] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[11:22] <.Vezryx> what is this",
-    "[11:22] [BOT] <HienBot> **.Vezryx**: what is this",
-    "[11:22] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[11:22] ballsmasher690 forgot to bring their parachute",
-    "[11:22] [8b8t] >> You arent ignoring adri989",
     "[11:22] [8b8t] >> Please include a player /ignore <playerName>",
     "[11:22] [8b8t] >> You arent ignoring IamNuke_",
     "[11:22] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
@@ -108,7 +87,28 @@
     "[11:22] [BOT] <HienBot> **.Vezryx**: an Sheep Spawner?",
     "[11:22] [8b8t] >> ▼ Player MesonOlive Left.",
     "[11:22] [8b8t] >> You arent ignoring Real4Tribe",
-    "[11:22] [8b8t] >> ▲ Player iTrisstan Joined."
+    "[11:22] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[11:22] [8b8t] >> ▲ Player MesonOlive Joined.",
+    "[11:23] <ballsmasher690> survival",
+    "[11:23] [BOT] <HienBot> **ballsmasher690**: survival",
+    "[11:23] [8b8t] >> ▲ Player Activitiesss Joined.",
+    "[11:23] [8b8t] >> Teleporting to home 0...",
+    "[11:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:23] [8b8t] >> Teleporting to home 1...",
+    "[11:23] To ballsmasher690: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:23] .Vezryx has made the advancement [Stone Age]",
+    "[11:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:23] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[11:23] To ballsmasher690: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:23] <123vica1> End",
+    "[11:23] To 123vica1: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[11:23] [BOT] <HienBot> **Bot to ballsmasher690**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:23] [8b8t] >> Request sent to ballsmasher690",
+    "[11:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:23] [8b8t] >> ▼ Player MesonOlive Left.",
+    "[11:23] [8b8t] >> Teleporting...",
+    "[11:23] [BOT] <HienBot> >Try stash"
   ],
   "userStats": {
     "Hien2309": 81,
@@ -1216,12 +1216,13 @@
     "sonww": 4,
     "MintyLuka": 36,
     "AnshTiwari": 11,
-    ".REMEDYCRAFT": 3
+    ".REMEDYCRAFT": 3,
+    "ballsmasher690": 1
   },
   "kitStats": {
     "pvp": 1600,
     "raid": 590,
-    "survival": 2049,
+    "survival": 2050,
     "shulker": 729,
     "music": 214,
     "terracotta": 50,
