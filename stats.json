@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:03:20 5/3/2026",
-  "totalKits": 106896,
-  "todayKits": 384,
-  "onlineCount": 29,
+  "lastUpdated": "22:03:47 5/3/2026",
+  "totalKits": 106897,
+  "todayKits": 385,
+  "onlineCount": 25,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 22
   },
-  "tps": "12.0",
+  "tps": "13.0",
   "ping": 197,
   "topUsers": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "name": "saccbot",
-      "count": 260
+      "count": 261
     },
     {
       "name": "Simone",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:02] [BOT] <HienBot> **mizumi_chane**: tnt minecart",
-    "[15:02] <plus79532927137> ok",
-    "[15:02] [BOT] <HienBot> **plus79532927137**: ok",
-    "[15:02] <saccbot> wool",
-    "[15:02] [8b8t] >> Teleporting to home 0...",
-    "[15:02] [BOT] <HienBot> **saccbot**: wool",
-    "[15:02] [8b8t] >> Teleporting to home 3...",
-    "[15:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:02] To saccbot: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:02] To saccbot: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:02] [BOT] <HienBot> **Bot to saccbot**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:02] [8b8t] >> Request sent to saccbot",
-    "[15:02] [8b8t] >> Teleporting...",
-    "[15:02] [8b8t] >> You have killed yourself!",
-    "[15:02] To saccbot: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[15:02] <mizumi_chane> i have no arrows",
-    "[15:02] [BOT] <HienBot> **Bot to saccbot**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[15:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[15:02] [8b8t] >> You arent ignoring adri989",
@@ -108,7 +89,26 @@
     "[15:03] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[15:03] jabita777 went for a swim in lava and got burned",
     "[15:03] [8b8t] >> ▼ Player MonkeBot Left.",
-    "[15:03] [8b8t] >> ▲ Player MonkeBot Joined."
+    "[15:03] [8b8t] >> ▲ Player MonkeBot Joined.",
+    "[15:03] [8b8t] >> ▼ Player jabita777 Left.",
+    "[15:03] [8b8t] >> ▼ Player rassanari Left.",
+    "[15:03] [8b8t] >> ▼ Player maic023 Left.",
+    "[15:03] [BOT] <HienBot> >Use lang and select your language",
+    "[15:03] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[15:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[15:03] <saccbot> build",
+    "[15:03] [8b8t] >> Teleporting to home 0...",
+    "[15:03] [BOT] <HienBot> **saccbot**: build",
+    "[15:03] [8b8t] >> Teleporting to home 2...",
+    "[15:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:03] To saccbot: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:03] [8b8t] >> ▼ Player Davidh666 Left.",
+    "[15:03] To saccbot: Sorry! Lime Shulker Box is out of stock. Giving you Red Shulker Box instead! dsc.gg/hienbot",
+    "[15:03] [BOT] <HienBot> **Bot to saccbot**: Sorry! Lime Shulker Box is out of stock. Giving you Red Shulker Box instead! dsc.gg/hienbot",
+    "[15:03] [8b8t] >> Request sent to saccbot",
+    "[15:03] [8b8t] >> Teleporting...",
+    "[15:03] [8b8t] >> ▲ Player iTrisstan Joined."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1186,7 +1186,7 @@
     "cowaw1234": 2,
     "NEONKSF": 6,
     "sejam_felizes": 9,
-    "saccbot": 260,
+    "saccbot": 261,
     "niggerkiller67": 2,
     "prewardut": 2,
     "DarkInfernoKing": 2,
@@ -1242,7 +1242,7 @@
     "exp": 270,
     "stash": 563,
     "ocean": 65,
-    "build": 625,
+    "build": 626,
     "dye": 48,
     "concrete": 73,
     "dupe": 670,
