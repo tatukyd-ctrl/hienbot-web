@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:42:18 5/3/2026",
+  "lastUpdated": "12:42:48 5/3/2026",
   "totalKits": 106566,
   "todayKits": 54,
-  "onlineCount": 13,
+  "onlineCount": 12,
   "peakPlayers": 61,
   "playerStats": {
     "min": 3,
@@ -12,7 +12,7 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 27
   },
-  "tps": "13.0",
+  "tps": "17.0",
   "ping": 197,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2028
+      "count": 2029
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:36] [8b8t] >> ▼ Player sadfelde1234 Left.",
-    "[05:36] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[05:36] [BOT] <HienBot> >Want free items? Just type survival",
-    "[05:36] [8b8t] >> ▲ Player yra112 Joined.",
-    "[05:36] [BOT] <HienBot> >Use /kill to kill yourself!",
-    "[05:37] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:37] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[05:37] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[05:38] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[05:38] [BOT] <HienBot> >Type invite for invite rewards info",
-    "[05:38] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:38] [BOT] <HienBot> >Use list to see all available kits!",
     "[05:38] [8b8t] >> ▲ Player Benii777 Joined.",
     "[05:39] [BOT] <HienBot> >Do you want kit? Type *kit",
     "[05:39] [BOT] <HienBot> >Try list to see available kits",
@@ -108,7 +96,19 @@
     "[05:41] [BOT] <HienBot> >Try dupe",
     "[05:42] Hien2309 tangled with Piglins and got a lesson in survival",
     "[05:42] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[05:42] [BOT] <HienBot> >Want free items? Just type survival"
+    "[05:42] [BOT] <HienBot> >Want free items? Just type survival",
+    "[05:42] [8b8t] >> ▼ Player hein Left.",
+    "[05:42] <.Just67yt5180> survival",
+    "[05:42] [BOT] <HienBot> **.Just67yt5180**: survival",
+    "[05:42] [8b8t] >> Teleporting to home 0...",
+    "[05:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:42] [8b8t] >> Teleporting to home 1...",
+    "[05:42] To .Just67yt5180: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:42] [BOT] <HienBot> **Bot to .Just67yt5180**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:42] To .Just67yt5180: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:42] [BOT] <HienBot> **Bot to .Just67yt5180**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:42] [8b8t] >> Request sent to .Just67yt5180",
+    "[05:42] [BOT] <HienBot> >Survive safely with a free kit! Type survival"
   ],
   "userStats": {
     "Hien2309": 81,
@@ -1211,12 +1211,13 @@
     "ryooq": 2,
     ".Camcam6908": 2,
     "sadfelde1234": 1,
-    "Creppy_Knight01": 1
+    "Creppy_Knight01": 1,
+    ".Just67yt5180": 1
   },
   "kitStats": {
     "pvp": 1580,
     "raid": 585,
-    "survival": 2028,
+    "survival": 2029,
     "shulker": 689,
     "music": 214,
     "terracotta": 50,
