@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:01:19 5/3/2026",
+  "lastUpdated": "19:01:49 5/3/2026",
   "totalKits": 106753,
   "todayKits": 241,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 21
   },
-  "tps": "13.0",
-  "ping": 207,
+  "tps": "14.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2052
+      "count": 2053
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:00] To 123vica1: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:00] [BOT] <HienBot> **Bot to 123vica1**: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:00] [8b8t] >> Request sent to 123vica1",
-    "[12:00] [8b8t] >> Teleporting...",
-    "[12:00] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[12:00] [8b8t] >> You have killed yourself!",
-    "[12:00] HienBot was pwned by 123vica1 wielding [netherite sword]",
-    "[12:00] To 123vica1: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:00] [BOT] <HienBot> **Bot to 123vica1**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:00] [BOT] <HienBot> >Get a head start with survival",
-    "[12:00] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[12:00] [8b8t] >> You arent ignoring adri989",
     "[12:00] [8b8t] >> Please include a player /ignore <playerName>",
     "[12:00] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +96,19 @@
     "[12:01] To saccbot: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[12:01] No_Negetivity decided to test gravity and lost",
     "[12:01] [BOT] <HienBot> **Bot to saccbot**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:01] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11"
+    "[12:01] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[12:01] <No_Negetivity> survival",
+    "[12:01] [8b8t] >> Teleporting to home 0...",
+    "[12:01] [BOT] <HienBot> **No_Negetivity**: survival",
+    "[12:01] [8b8t] >> Teleporting to home 1...",
+    "[12:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:01] To No_Negetivity: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:01] To No_Negetivity: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:01] [BOT] <HienBot> **Bot to No_Negetivity**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:01] [8b8t] >> Request sent to No_Negetivity",
+    "[12:01] [BOT] <HienBot> >Use info <player> to check someone's stats",
+    "[12:01] [8b8t] >> ▲ Player Gl1tch_exe Joined."
   ],
   "userStats": {
     "Hien2309": 81,
@@ -1219,12 +1219,13 @@
     ".REMEDYCRAFT": 3,
     "ballsmasher690": 1,
     "Activitiesss": 4,
-    "redsonter8b8t": 2
+    "redsonter8b8t": 2,
+    "No_Negetivity": 1
   },
   "kitStats": {
     "pvp": 1600,
     "raid": 590,
-    "survival": 2052,
+    "survival": 2053,
     "shulker": 734,
     "music": 216,
     "terracotta": 50,
