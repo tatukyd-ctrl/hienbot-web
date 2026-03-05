@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:43:44 6/3/2026",
+  "lastUpdated": "01:43:51 6/3/2026",
   "totalKits": 107058,
   "todayKits": 546,
-  "onlineCount": 45,
+  "onlineCount": 44,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -29,7 +29,7 @@
     },
     {
       "name": "saccbot",
-      "count": 394
+      "count": 395
     },
     {
       "name": "Simone2",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:43] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[18:43] [8b8t] >> You arent ignoring IamNuke_",
-    "[18:43] [8b8t] >> You arent ignoring adri989",
-    "[18:43] [8b8t] >> Please include a player /ignore <playerName>",
-    "[18:43] [8b8t] >> You arent ignoring DavidN3000",
     "[18:43] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[18:43] [8b8t] >> ▼ Player quanbel Left.",
     "[18:43] [8b8t] >> You arent ignoring h6sx",
@@ -108,7 +103,12 @@
     "[18:43] [8b8t] Unknown command do /help",
     "[18:43] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[18:43] [8b8t] >> ▲ Player HienBot Joined.",
-    "[18:43] You are already connected to this server!"
+    "[18:43] You are already connected to this server!",
+    "[18:43] [8b8t] >> ▼ Player moks2009 Left.",
+    "[18:43] <saccbot> wool",
+    "[18:43] [8b8t] >> Teleporting to home 0...",
+    "[18:43] [BOT] <HienBot> **saccbot**: wool",
+    "[18:43] [8b8t] >> Teleporting to home 3..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1186,7 +1186,7 @@
     "cowaw1234": 2,
     "NEONKSF": 6,
     "sejam_felizes": 9,
-    "saccbot": 394,
+    "saccbot": 395,
     "niggerkiller67": 2,
     "prewardut": 2,
     "DarkInfernoKing": 2,
@@ -1246,7 +1246,7 @@
     "tools": 560,
     "armortrims": 141,
     "toolbox": 178,
-    "wool": 251,
+    "wool": 252,
     "exp": 309,
     "stash": 565,
     "ocean": 65,
