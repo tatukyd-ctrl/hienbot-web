@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:25:18 5/3/2026",
-  "totalKits": 106567,
-  "todayKits": 55,
+  "lastUpdated": "13:25:48 5/3/2026",
+  "totalKits": 106568,
+  "todayKits": 56,
   "onlineCount": 16,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "09:39:18 5/3/2026",
     "avg": 26
   },
-  "tps": "15.0",
+  "tps": "13.0",
   "ping": 197,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1581
+      "count": 1582
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:23] To sonww: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:23] [BOT] <HienBot> **Bot to sonww**: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:23] To sonww: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:23] [BOT] <HienBot> **Bot to sonww**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:23] [8b8t] >> Request sent to sonww",
-    "[06:23] [8b8t] >> Teleporting...",
-    "[06:24] [8b8t] >> You have killed yourself!",
-    "[06:24] HienBot was rekt by sonww and their mighty [their hand]",
-    "[06:24] [8b8t] >> ▼ Player AetherionV26 Left.",
-    "[06:24] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[06:24] To sonww: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:24] [BOT] <HienBot> **Bot to sonww**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:24] [8b8t] >> ▲ Player Mintcraft46 Joined.",
     "[06:24] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[06:24] Mintcraft46 forgot to bring their parachute",
     "[06:24] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
@@ -108,7 +95,20 @@
     "[06:25] <sonww> hi",
     "[06:25] [BOT] <HienBot> **sonww**: hi",
     "[06:25] Obama_MasterChef decided to test gravity and lost",
-    "[06:25] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp"
+    "[06:25] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
+    "[06:25] <sonww> pvp",
+    "[06:25] [8b8t] >> Teleporting to home 0...",
+    "[06:25] [BOT] <HienBot> **sonww**: pvp",
+    "[06:25] [8b8t] >> Teleporting to home 1...",
+    "[06:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:25] To sonww: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:25] To sonww: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:25] [BOT] <HienBot> **Bot to sonww**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:25] [8b8t] >> Request sent to sonww",
+    "[06:25] Mintcraft46 got eaten by a dessert dweller AKA a Husk",
+    "[06:25] [8b8t] >> Teleporting...",
+    "[06:25] [BOT] <HienBot> >Need gear? Type pvp to get started!"
   ],
   "userStats": {
     "Hien2309": 81,
@@ -1213,10 +1213,10 @@
     "sadfelde1234": 1,
     "Creppy_Knight01": 1,
     ".Just67yt5180": 1,
-    "sonww": 1
+    "sonww": 2
   },
   "kitStats": {
-    "pvp": 1581,
+    "pvp": 1582,
     "raid": 585,
     "survival": 2029,
     "shulker": 689,
