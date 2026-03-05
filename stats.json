@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:04:18 5/3/2026",
-  "totalKits": 106602,
-  "todayKits": 90,
-  "onlineCount": 18,
+  "lastUpdated": "15:04:35 5/3/2026",
+  "totalKits": 106603,
+  "todayKits": 91,
+  "onlineCount": 15,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 23
   },
   "tps": "14.0",
-  "ping": 203,
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -41,7 +41,7 @@
     },
     {
       "name": "saccbot",
-      "count": 161
+      "count": 162
     },
     {
       "name": "TheobaldTheBird",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:02] [8b8t] >> Request sent to saccbot",
-    "[08:02] [8b8t] >> Teleporting...",
-    "[08:02] [8b8t] >> You have killed yourself!",
-    "[08:02] To saccbot: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:02] [BOT] <HienBot> **Bot to saccbot**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[08:02] [8b8t] >> You arent ignoring adri989",
-    "[08:02] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:02] [8b8t] >> You arent ignoring IamNuke_",
-    "[08:02] [8b8t] >> You arent ignoring DavidN3000",
-    "[08:02] [8b8t] >> You arent ignoring Real4Tribe",
-    "[08:02] Markus779 forgot to bring their parachute",
-    "[08:02] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[08:03] [BOT] <HienBot> >Use list to see all available kits!",
-    "[08:03] <saccbot> shulker",
     "[08:03] [8b8t] >> Teleporting to home 0...",
     "[08:03] [BOT] <HienBot> **saccbot**: shulker",
     "[08:03] [8b8t] >> Teleporting to home 6...",
@@ -108,7 +93,22 @@
     "[08:03] Markus779 decided to test gravity and lost",
     "[08:04] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[08:04] [8b8t] >> ▲ Player ICHI_PEKO Joined.",
-    "[08:04] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t"
+    "[08:04] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[08:04] <saccbot> highway",
+    "[08:04] [8b8t] >> Teleporting to home 0...",
+    "[08:04] [BOT] <HienBot> **saccbot**: highway",
+    "[08:04] [8b8t] >> Teleporting to home 6...",
+    "[08:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:04] To saccbot: Your kit (highway) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:04] [8b8t] >> ▼ Player darsacc Left.",
+    "[08:04] Markus779 forgot to bring their parachute",
+    "[08:04] To saccbot: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:04] [BOT] <HienBot> **Bot to saccbot**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:04] [8b8t] >> ▼ Player ICHI_PEKO Left.",
+    "[08:04] [8b8t] >> Request sent to saccbot",
+    "[08:04] [8b8t] >> Teleporting...",
+    "[08:04] [8b8t] >> ▼ Player Veinryx Left."
   ],
   "userStats": {
     "Hien2309": 81,
@@ -1186,7 +1186,7 @@
     "cowaw1234": 2,
     "NEONKSF": 6,
     "sejam_felizes": 9,
-    "saccbot": 161,
+    "saccbot": 162,
     "niggerkiller67": 2,
     "prewardut": 2,
     "DarkInfernoKing": 2,
@@ -1239,7 +1239,7 @@
     "elytra": 575,
     "redstone": 504,
     "quartz": 64,
-    "highway": 116,
+    "highway": 117,
     "gap": 123,
     "mineral": 202,
     "gterracotta": 28,
