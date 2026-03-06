@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:10:25 7/3/2026",
-  "totalKits": 107847,
-  "todayKits": 662,
+  "lastUpdated": "04:10:45 7/3/2026",
+  "totalKits": 107848,
+  "todayKits": 663,
   "onlineCount": 31,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "01:45:08 7/3/2026",
     "avg": 26
   },
-  "tps": "11.0",
-  "ping": 200,
+  "tps": "9.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1848
+      "count": 1849
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:09] KyuuKyu_ decided to test gravity and lost",
-    "[21:09] [8b8t] >> You have killed yourself!",
-    "[21:09] HienBot was slain by shinemine using [their hand]",
-    "[21:09] To shinemine: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:09] [BOT] <HienBot> **Bot to shinemine**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:09] [8b8t] >> ▼ Player MintKoala997563 Left.",
-    "[21:09] [8b8t] >> ▲ Player Tomardo999 Joined.",
-    "[21:09] [8b8t] >> ▲ Player elproplayerxddd Joined.",
-    "[21:09] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[21:09] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[21:09] shinemine thought they could fly... they couldn't",
-    "[21:09] [8b8t] >> You arent ignoring adri989",
-    "[21:09] [8b8t] >> Please include a player /ignore <playerName>",
-    "[21:09] [8b8t] >> ▲ Player blake56 Joined.",
     "[21:09] [8b8t] >> You arent ignoring IamNuke_",
     "[21:09] [8b8t] >> You arent ignoring DavidN3000",
     "[21:09] <shinemine> pvp",
@@ -108,7 +94,21 @@
     "[21:10] [Ultra] <blake> wsp",
     "[21:10] [BOT] <HienBot> **blake56**: wsp",
     "[21:10] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[21:10] [8b8t] >> ▲ Player gugustavyu Joined."
+    "[21:10] [8b8t] >> ▲ Player gugustavyu Joined.",
+    "[21:10] <shinemine> pvp",
+    "[21:10] [8b8t] >> Teleporting to home 0...",
+    "[21:10] Lolizona456 has made the advancement [Stone Age]",
+    "[21:10] [BOT] <HienBot> **shinemine**: pvp",
+    "[21:10] [8b8t] >> Teleporting to home 1...",
+    "[21:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:10] To shinemine: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:10] To shinemine: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:10] [BOT] <HienBot> **Bot to shinemine**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:10] [8b8t] >> Request sent to shinemine",
+    "[21:10] [8b8t] >> Teleporting...",
+    "[21:10] [Ultra] <14mate> blake56",
+    "[21:10] [BOT] <HienBot> **14mate**: blake56"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1279,10 +1279,10 @@
     "asierprogamer": 2,
     "crisalber": 1,
     "poopman2": 4,
-    "shinemine": 1
+    "shinemine": 2
   },
   "kitStats": {
-    "pvp": 1848,
+    "pvp": 1849,
     "raid": 638,
     "survival": 2294,
     "shulker": 1023,
