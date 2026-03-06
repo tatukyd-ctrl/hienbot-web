@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:35:51 6/3/2026",
-  "totalKits": 107221,
-  "todayKits": 36,
+  "lastUpdated": "08:36:07 6/3/2026",
+  "totalKits": 107222,
+  "todayKits": 37,
   "onlineCount": 23,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:03:51 6/3/2026",
     "avg": 24
   },
-  "tps": "12.0",
-  "ping": 200,
+  "tps": "11.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2169
+      "count": 2170
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:33] [8b8t] >> You arent ignoring adri989",
-    "[01:33] [8b8t] >> Please include a player /ignore <playerName>",
-    "[01:33] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[01:33] [8b8t] >> You arent ignoring IamNuke_",
-    "[01:33] [8b8t] >> You arent ignoring DavidN3000",
-    "[01:33] [8b8t] >> You arent ignoring h6sx",
-    "[01:34] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[01:34] .Cmcthe2nd forgot to bring their parachute",
-    "[01:34] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[01:34] MasterWo was eaten alive by a Zombie",
-    "[01:34] .Cmcthe2nd forgot to bring their parachute",
-    "[01:34] [8b8t] >> ▲ Player DDosma Joined.",
     "[01:34] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
     "[01:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:35] .Cmcthe2nd thought they could make it to oxygen in time",
@@ -108,7 +96,19 @@
     "[01:35] AppleBot was rudely introduced to a Creeper's explosive personality",
     "[01:35] [SE] <colorblind> como m mori dnv",
     "[01:35] [BOT] <HienBot> **MasterWo**: como m mori dnv",
-    "[01:35] [BOT] <HienBot> >Use list to choose your kit"
+    "[01:35] [BOT] <HienBot> >Use list to choose your kit",
+    "[01:35] <zlikB_> survival",
+    "[01:35] [8b8t] >> Teleporting to home 0...",
+    "[01:35] [8b8t] >> Teleporting to home 1...",
+    "[01:35] [BOT] <HienBot> **zlikB_**: survival",
+    "[01:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:35] To zlikB_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:36] To zlikB_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:36] [BOT] <HienBot> **Bot to zlikB_**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:36] [8b8t] >> Request sent to zlikB_",
+    "[01:36] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[01:36] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1242,12 +1242,12 @@
     "AlmightyDeNueva": 1,
     "O_Suzmel": 5,
     ".Taaysooon": 13,
-    "zlikB_": 8
+    "zlikB_": 9
   },
   "kitStats": {
     "pvp": 1749,
     "raid": 608,
-    "survival": 2169,
+    "survival": 2170,
     "shulker": 922,
     "music": 220,
     "terracotta": 50,
