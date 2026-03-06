@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:53:23 6/3/2026",
+  "lastUpdated": "19:53:53 6/3/2026",
   "totalKits": 107506,
   "todayKits": 321,
-  "onlineCount": 25,
+  "onlineCount": 26,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "18:27:52 6/3/2026",
     "avg": 19
   },
-  "tps": "10.0",
-  "ping": 200,
+  "tps": "13.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "shulker",
-      "count": 968
+      "count": 969
     },
     {
       "name": "build",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:51] [8b8t] >> You have killed yourself!",
-    "[12:51] HienBot was rekt by busybee07 and their mighty [netherite sword]",
-    "[12:52] <Schizoknight> Who's ticolirodavi0?",
-    "[12:52] [BOT] <HienBot> **Schizoknight**: Who's ticolirodavi0?",
-    "[12:52] To busybee07: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:52] [8b8t] >> ▲ Player .YuCKTaMarine Joined.",
-    "[12:52] ticolirodavi0 decided to test gravity and lost",
-    "[12:52] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[12:52] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[12:52] [8b8t] >> You arent ignoring adri989",
-    "[12:52] [8b8t] >> Please include a player /ignore <playerName>",
-    "[12:52] <busybee07> pvp",
     "[12:52] To busybee07: You're on cooldown, try again in 31 seconds! Don't forget to join dsc.gg/hienbot",
     "[12:52] [8b8t] >> You arent ignoring IamNuke_",
     "[12:52] [BOT] <HienBot> **busybee07**: pvp",
@@ -108,7 +94,21 @@
     "[12:52] [8b8t] >> ▲ Player SkyFeiner Joined.",
     "[12:53] Schizoknight forgot to bring their parachute",
     "[12:53] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[12:53] [8b8t] >> ▲ Player Jippolo Joined."
+    "[12:53] [8b8t] >> ▲ Player Jippolo Joined.",
+    "[12:53] SkyFeiner burned up in a pit of lava",
+    "[12:53] <SkyFeiner> shulker",
+    "[12:53] [8b8t] >> Teleporting to home 0...",
+    "[12:53] [8b8t] >> Teleporting to home 6...",
+    "[12:53] To SkyFeiner: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:53] [8b8t] >> ▲ Player .YuCKTaMarine Joined.",
+    "[12:53] [BOT] <HienBot> **SkyFeiner**: shulker",
+    "[12:53] bobobo6 has reached the goal [Postmortal]",
+    "[12:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:53] To SkyFeiner: Sorry! White Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
+    "[12:53] [BOT] <HienBot> **Bot to SkyFeiner**: Sorry! White Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
+    "[12:53] [8b8t] >> Request sent to SkyFeiner"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1262,13 +1262,14 @@
     "Dg200king": 4,
     "kapiadam": 1,
     "TYRANTIUM": 1,
-    "ItsMeViyaan2": 8
+    "ItsMeViyaan2": 8,
+    "SkyFeiner": 1
   },
   "kitStats": {
     "pvp": 1785,
     "raid": 627,
     "survival": 2234,
-    "shulker": 968,
+    "shulker": 969,
     "music": 225,
     "terracotta": 50,
     "lightsources": 107,
