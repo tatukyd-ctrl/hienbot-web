@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:53:21 6/3/2026",
+  "lastUpdated": "07:53:51 6/3/2026",
   "totalKits": 107208,
   "todayKits": 23,
   "onlineCount": 20,
@@ -12,8 +12,8 @@
     "maxTime": "07:10:43 6/3/2026",
     "avg": 23
   },
-  "tps": "14.0",
-  "ping": 306,
+  "tps": "15.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "shulker",
-      "count": 914
+      "count": 915
     },
     {
       "name": "build",
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:52] [8b8t] >> ▼ Player H_INMORTAL_M Left.",
-    "[00:52] <zlikB_> survival",
-    "[00:52] To zlikB_: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[00:52] [BOT] <HienBot> **zlikB_**: survival",
     "[00:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[00:52] [8b8t] >> You have killed yourself!",
@@ -108,7 +105,10 @@
     "[00:53] [BOT] <HienBot> >Use /kill to kill yourself!",
     "[00:53] To .Vezryx: You're on cooldown, try again in 25 seconds! Don't forget to join dsc.gg/hienbot",
     "[00:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:53] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[00:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:53] [BOT] <HienBot> >What's up, rolito?",
+    "[00:53] <zlikB_> shulker",
+    "[00:53] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1242,13 +1242,13 @@
     "AlmightyDeNueva": 1,
     "O_Suzmel": 5,
     ".Taaysooon": 4,
-    "zlikB_": 2
+    "zlikB_": 3
   },
   "kitStats": {
     "pvp": 1746,
     "raid": 608,
     "survival": 2161,
-    "shulker": 914,
+    "shulker": 915,
     "music": 220,
     "terracotta": 50,
     "lightsources": 105,
