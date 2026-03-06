@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:49:21 6/3/2026",
+  "lastUpdated": "08:49:51 6/3/2026",
   "totalKits": 107228,
   "todayKits": 43,
   "onlineCount": 23,
@@ -12,7 +12,7 @@
     "maxTime": "08:03:51 6/3/2026",
     "avg": 24
   },
-  "tps": "13.0",
+  "tps": "14.0",
   "ping": 200,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1750
+      "count": 1751
     },
     {
       "name": "shulker",
@@ -79,8 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:48] brunitocoso Whispers: tools",
-    "[01:48] [8b8t] >> Teleporting to home 0...",
     "[01:48] [BOT] <HienBot> **brunitocoso**: tools",
     "[01:48] [8b8t] >> Teleporting to home 7...",
     "[01:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +106,9 @@
     "[01:49] [8b8t] >> You arent ignoring DavidN3000",
     "[01:49] [8b8t] >> You arent ignoring h6sx",
     "[01:49] [BOT] <HienBot> >Use list to choose your kit",
-    "[01:49] MasterWo was destroyed by IO_Dev"
+    "[01:49] MasterWo was destroyed by IO_Dev",
+    "[01:49] [BOT] <HienBot> >Try status",
+    "[01:49] <Meliodas48841> totem"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1134,7 +1134,7 @@
     "ASneakySenior": 1,
     "QxPrime": 46,
     "DoctorParrot2": 38,
-    "Meliodas48841": 85,
+    "Meliodas48841": 86,
     ".ChallengerX90": 1,
     "vladic_2": 11,
     "Inspiron23YT": 2,
@@ -1245,7 +1245,7 @@
     "zlikB_": 9
   },
   "kitStats": {
-    "pvp": 1750,
+    "pvp": 1751,
     "raid": 608,
     "survival": 2170,
     "shulker": 922,
