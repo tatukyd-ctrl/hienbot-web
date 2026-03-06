@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:56:22 6/3/2026",
+  "lastUpdated": "11:56:52 6/3/2026",
   "totalKits": 107273,
   "todayKits": 88,
   "onlineCount": 17,
@@ -12,7 +12,7 @@
     "maxTime": "08:03:51 6/3/2026",
     "avg": 21
   },
-  "tps": "13.0",
+  "tps": "16.0",
   "ping": 200,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2182
+      "count": 2183
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:54] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[04:54] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[04:54] [8b8t] >> You arent ignoring adri989",
-    "[04:54] [8b8t] >> Please include a player /ignore <playerName>",
-    "[04:54] [8b8t] >> You arent ignoring IamNuke_",
-    "[04:54] [8b8t] >> You arent ignoring DavidN3000",
-    "[04:54] [8b8t] >> You arent ignoring h6sx",
     "[04:55] [BOT] <HienBot> >Hi DarkInfernoKing!",
     "[04:55] <DarkInfernoKing> build",
     "[04:55] To DarkInfernoKing: You're on cooldown, try again in 6 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +100,15 @@
     "[04:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[04:56] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
     "[04:56] [BOT] <HienBot> >Running low on supplies? Use survival",
-    "[04:56] [8b8t] >> ▼ Player EsDeeKid Left."
+    "[04:56] [8b8t] >> ▼ Player EsDeeKid Left.",
+    "[04:56] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[04:56] <Bellbibelly> survival",
+    "[04:56] [8b8t] >> Teleporting to home 0...",
+    "[04:56] [BOT] <HienBot> **Bellbibelly**: survival",
+    "[04:56] [8b8t] >> Teleporting to home 1...",
+    "[04:56] To Bellbibelly: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:56] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -913,7 +913,7 @@
     "UcTheGamerzz": 20,
     "NaorNewDay": 1,
     "luvdrastic": 4,
-    "Bellbibelly": 18,
+    "Bellbibelly": 19,
     "alessiaaa": 12,
     "z7_7z": 28,
     "dleamixvm": 1,
@@ -1253,7 +1253,7 @@
   "kitStats": {
     "pvp": 1758,
     "raid": 610,
-    "survival": 2182,
+    "survival": 2183,
     "shulker": 945,
     "music": 221,
     "terracotta": 50,
