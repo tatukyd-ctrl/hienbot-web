@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:09:25 7/3/2026",
-  "totalKits": 107846,
-  "todayKits": 661,
-  "onlineCount": 29,
+  "lastUpdated": "04:09:36 7/3/2026",
+  "totalKits": 107847,
+  "todayKits": 662,
+  "onlineCount": 30,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "01:45:08 7/3/2026",
     "avg": 26
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 208,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2293
+      "count": 2294
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:06] <botchaosonix666> lol x",
-    "[21:06] [8b8t] >> ▼ Player magmitamp4 Left.",
-    "[21:06] [BOT] <HienBot> **botchaosonix666**: lol x",
-    "[21:06] [8b8t] >> ▼ Player ELPAPIADOR23214 Left.",
-    "[21:06] [BOT] <HienBot> >Try status",
-    "[21:07] [8b8t] >> ▲ Player .Wing075 Joined.",
-    "[21:07] [BOT] <HienBot> >Try status",
-    "[21:07] [8b8t] >> ▼ Player xxeiop Left.",
-    "[21:07] <botchaosonix666> that lagging ping",
-    "[21:07] [BOT] <HienBot> **botchaosonix666**: that lagging ping",
     "[21:07] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[21:07] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
     "[21:07] [8b8t] >> ▼ Player arjebn Left.",
@@ -108,7 +97,18 @@
     "[21:09] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[21:09] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[21:09] [BOT] <HienBot> >Sub to Hien2309 in youtube",
-    "[21:09] <shinemine> survival"
+    "[21:09] <shinemine> survival",
+    "[21:09] [BOT] <HienBot> **shinemine**: survival",
+    "[21:09] [8b8t] >> Teleporting to home 0...",
+    "[21:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:09] [8b8t] >> Teleporting to home 1...",
+    "[21:09] To shinemine: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:09] To shinemine: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:09] [8b8t] >> ▲ Player MintKoala997563 Joined.",
+    "[21:09] [BOT] <HienBot> **Bot to shinemine**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:09] [8b8t] >> Request sent to shinemine",
+    "[21:09] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1278,12 +1278,13 @@
     "_The_Courier_": 3,
     "asierprogamer": 2,
     "crisalber": 1,
-    "poopman2": 4
+    "poopman2": 4,
+    "shinemine": 1
   },
   "kitStats": {
     "pvp": 1848,
     "raid": 638,
-    "survival": 2293,
+    "survival": 2294,
     "shulker": 1023,
     "music": 232,
     "terracotta": 50,
