@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:59:25 7/3/2026",
+  "lastUpdated": "05:59:55 7/3/2026",
   "totalKits": 107892,
   "todayKits": 707,
-  "onlineCount": 43,
+  "onlineCount": 42,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "01:45:08 7/3/2026",
     "avg": 26
   },
-  "tps": "7.0",
-  "ping": 293,
+  "tps": "11.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2297
+      "count": 2298
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:58] To dawg059: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[22:58] Diegoood_gg tried to outswim the water",
-    "[22:58] [BOT] <HienBot> **dawg059**: rocket",
-    "[22:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:58] [8b8t] >> You have killed yourself!",
-    "[22:58] Sebas2396 burned up in a pit of lava",
-    "[22:58] [8b8t] >> The TPA request you sent to Ollarr was successfully canceled.",
-    "[22:59] <dawg059> rocket",
-    "[22:59] [8b8t] >> Teleporting to home 0...",
-    "[22:59] [BOT] <HienBot> **dawg059**: rocket",
-    "[22:59] [8b8t] >> Teleporting to home 6...",
-    "[22:59] To dawg059: Your kit (rocket) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:59] To dawg059: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:59] [BOT] <HienBot> **Bot to dawg059**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:59] [8b8t] >> Request sent to dawg059",
     "[22:59] [8b8t] >> Teleporting...",
     "[22:59] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[22:59] [8b8t] >> You arent ignoring adri989",
@@ -108,7 +91,24 @@
     "[22:59] [BOT] <HienBot> **Bot to dawg059**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[22:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:59] io_client was eaten alive by a Zombie",
-    "[22:59] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx"
+    "[22:59] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[22:59] [8b8t] >> ▼ Player 0000001_Armorbar Left.",
+    "[22:59] [8b8t] >> You arent ignoring adri989",
+    "[22:59] [8b8t] >> Please include a player /ignore <playerName>",
+    "[22:59] [8b8t] >> You arent ignoring IamNuke_",
+    "[22:59] [8b8t] >> You arent ignoring DavidN3000",
+    "[22:59] [8b8t] >> You arent ignoring h6sx",
+    "[22:59] <pigeonX13> survival",
+    "[22:59] [8b8t] >> Teleporting to home 0...",
+    "[22:59] [BOT] <HienBot> >Try list to see available kits",
+    "[22:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:59] [8b8t] >> Teleporting to home 1...",
+    "[22:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:59] To pigeonX13: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:59] To pigeonX13: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:59] [8b8t] >> Please do not spam.",
+    "[22:59] [8b8t] >> Request sent to pigeonX13"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1266,7 +1266,7 @@
     "SkyFeiner": 1,
     "sorted1312": 3,
     ".WedAir1533": 31,
-    "pigeonX13": 6,
+    "pigeonX13": 7,
     "Byul_Blup36": 7,
     "m1nt67": 12,
     "kein69": 1,
@@ -1286,7 +1286,7 @@
   "kitStats": {
     "pvp": 1864,
     "raid": 639,
-    "survival": 2297,
+    "survival": 2298,
     "shulker": 1031,
     "music": 239,
     "terracotta": 50,
