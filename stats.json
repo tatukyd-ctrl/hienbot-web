@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:57:52 6/3/2026",
+  "lastUpdated": "12:58:22 6/3/2026",
   "totalKits": 107292,
   "todayKits": 107,
   "onlineCount": 18,
@@ -12,7 +12,7 @@
     "maxTime": "08:03:51 6/3/2026",
     "avg": 20
   },
-  "tps": "13.0",
+  "tps": "15.0",
   "ping": 200,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2188
+      "count": 2189
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:55] [8b8t] >> You arent ignoring IamNuke_",
-    "[05:55] [8b8t] >> You arent ignoring DavidN3000",
-    "[05:55] [8b8t] >> You arent ignoring h6sx",
-    "[05:55] [8b8t] >> ▼ Player .Wing075 Left.",
-    "[05:55] [BOT] <HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
-    "[05:55] [8b8t] >> ▲ Player .Wing075 Joined.",
-    "[05:56] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[05:56] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:56] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[05:56] <arten_mr> you got resources from shulker and survive command?",
-    "[05:56] [BOT] <HienBot> **arten_mr**: you got resources from shulker and survive command?",
-    "[05:56] [8b8t] >> ▼ Player DaMonketReal Left.",
     "[05:56] <Eturbo_mc> anyone got 32ks",
     "[05:56] [BOT] <HienBot> **Eturbo_mc**: anyone got 32ks",
     "[05:56] [8b8t] >> ▲ Player 2Bah Joined.",
@@ -108,7 +96,19 @@
     "[05:57] [8b8t] >> ▲ Player ResinMC Joined.",
     "[05:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:57] [8b8t] >> ▼ Player ResinMC Left.",
-    "[05:57] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me"
+    "[05:57] [BOT] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
+    "[05:57] <2Bah> survival",
+    "[05:57] [8b8t] >> Teleporting to home 0...",
+    "[05:57] [BOT] <HienBot> **2Bah**: survival",
+    "[05:57] [8b8t] >> Teleporting to home 1...",
+    "[05:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:57] To 2Bah: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:57] To 2Bah: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:57] [BOT] <HienBot> **Bot to 2Bah**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:58] [8b8t] >> Request sent to 2Bah",
+    "[05:58] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[05:58] [BOT] <HienBot> >What's up, AppleBot?"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1249,12 +1249,13 @@
     "alixel": 2,
     "BlossomLolz": 2,
     "monkeyoiwaa123": 2,
-    "arten_mr": 4
+    "arten_mr": 4,
+    "2Bah": 1
   },
   "kitStats": {
     "pvp": 1759,
     "raid": 614,
-    "survival": 2188,
+    "survival": 2189,
     "shulker": 947,
     "music": 221,
     "terracotta": 50,
