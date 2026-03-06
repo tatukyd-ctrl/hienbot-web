@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:50:52 6/3/2026",
-  "totalKits": 107391,
-  "todayKits": 206,
+  "lastUpdated": "15:51:22 6/3/2026",
+  "totalKits": 107392,
+  "todayKits": 207,
   "onlineCount": 16,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:03:51 6/3/2026",
     "avg": 18
   },
-  "tps": "12.0",
-  "ping": 0,
+  "tps": "14.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "shulker",
-      "count": 961
+      "count": 962
     },
     {
       "name": "build",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:50] [8b8t] >> You arent ignoring adri989",
-    "[08:50] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:50] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:50] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[08:50] [8b8t] >> You arent ignoring IamNuke_",
-    "[08:50] [8b8t] >> You arent ignoring adri989",
-    "[08:50] [8b8t] >> Please include a player /ignore <playerName>",
-    "[08:50] [8b8t] >> You arent ignoring DavidN3000",
-    "[08:50] You were kicked from 8b8t: Kicked for spamming",
-    "[08:50] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[08:50] [8b8t] Unknown command do /help",
-    "[08:50] [8b8t] Unknown command do /help",
-    "[08:50] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[08:50] [8b8t] >> ▲ Player HienBot Joined.",
-    "[08:50] You are already connected to this server!",
-    "[08:50] [8b8t] >> ▼ Player Isaac_Gamezz Left.",
-    "[08:50] [8b8t] >> ▼ Player Ardakrbn123 Left.",
-    "[08:50] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[08:50] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[08:50] [8b8t] >> You arent ignoring adri989",
-    "[08:50] [8b8t] >> Please include a player /ignore <playerName>",
     "[08:50] [8b8t] >> Please include a player /ignore <playerName>",
     "[08:50] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
     "[08:50] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +86,29 @@
     "[08:50] [8b8t] >> Please include a player /ignore <playerName>",
     "[08:50] [8b8t] >> You arent ignoring h6sx",
     "[08:50] [8b8t] >> ▲ Player Ardakrbn123 Joined.",
-    "[08:50] [BOT] <HienBot> >Use /kill to kill yourself!"
+    "[08:50] [BOT] <HienBot> >Use /kill to kill yourself!",
+    "[08:50] <Ardakrbn123> shulker pvp",
+    "[08:50] [BOT] <HienBot> **Ardakrbn123**: shulker pvp",
+    "[08:51] <Ardakrbn123> shulker",
+    "[08:51] [8b8t] >> You have killed yourself!",
+    "[08:51] [BOT] <HienBot> **Ardakrbn123**: shulker",
+    "[08:51] To Ardakrbn123: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:51] [8b8t] >> Teleporting to home 0...",
+    "[08:51] [8b8t] >> Teleporting to home 6...",
+    "[08:51] To Ardakrbn123: Sorry! White Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
+    "[08:51] [BOT] <HienBot> **Bot to Ardakrbn123**: Sorry! White Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
+    "[08:51] [8b8t] >> Request sent to Ardakrbn123",
+    "[08:51] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[08:51] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[08:51] [8b8t] >> Teleporting...",
+    "[08:51] [8b8t] >> You arent ignoring adri989",
+    "[08:51] [8b8t] >> Please include a player /ignore <playerName>",
+    "[08:51] [8b8t] >> You arent ignoring IamNuke_",
+    "[08:51] [BOT] <HienBot> >Items for PVP and Building available in build",
+    "[08:51] [8b8t] >> You arent ignoring DavidN3000",
+    "[08:51] [8b8t] >> You arent ignoring h6sx"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1254,13 +1254,14 @@
     "trolin369": 1,
     "Nurhat123": 2,
     "arten_mr2": 1,
-    "Ferrver": 1
+    "Ferrver": 1,
+    "Ardakrbn123": 1
   },
   "kitStats": {
     "pvp": 1770,
     "raid": 624,
     "survival": 2197,
-    "shulker": 961,
+    "shulker": 962,
     "music": 221,
     "terracotta": 50,
     "lightsources": 105,
