@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:53:48 6/3/2026",
+  "lastUpdated": "13:53:52 6/3/2026",
   "totalKits": 107323,
   "todayKits": 138,
   "onlineCount": 18,
@@ -12,7 +12,7 @@
     "maxTime": "08:03:51 6/3/2026",
     "avg": 20
   },
-  "tps": "13.0",
+  "tps": "11.0",
   "ping": 200,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "build",
-      "count": 719
+      "count": 720
     },
     {
       "name": "dupe",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:53] <Mintcraft46> donkey dupe",
-    "[06:53] [BOT] <HienBot> **Mintcraft46**: donkey dupe",
-    "[06:53] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[06:53] [8b8t] >> You arent ignoring adri989",
-    "[06:53] [8b8t] >> Please include a player /ignore <playerName>",
     "[06:53] [8b8t] >> You arent ignoring IamNuke_",
     "[06:53] [8b8t] >> You arent ignoring DavidN3000",
     "[06:53] [8b8t] >> You arent ignoring Real4Tribe",
@@ -108,7 +103,12 @@
     "[06:53] <arten_mr> build",
     "[06:53] To arten_mr: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[06:53] [BOT] <HienBot> **arten_mr**: build",
-    "[06:53] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[06:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:53] [8b8t] >> You have killed yourself!",
+    "[06:53] HienBot has been killed by Mintcraft46",
+    "[06:53] <iijty> build",
+    "[06:53] [8b8t] >> Teleporting to home 0...",
+    "[06:53] [BOT] <HienBot> **iijty**: build"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1201,7 +1201,7 @@
     "sdkid": 2,
     "Xenophanes666333": 1,
     "wimswinkelsja": 6,
-    "iijty": 45,
+    "iijty": 46,
     "ythz_yFdqh_03_04": 1,
     ".TimingCard2700": 2,
     ".DaisyMao0710": 1,
@@ -1268,7 +1268,7 @@
     "exp": 326,
     "stash": 584,
     "ocean": 68,
-    "build": 719,
+    "build": 720,
     "dye": 54,
     "concrete": 78,
     "dupe": 699,
