@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:53:18 6/3/2026",
+  "lastUpdated": "14:53:22 6/3/2026",
   "totalKits": 107363,
   "todayKits": 178,
   "onlineCount": 17,
@@ -12,8 +12,8 @@
     "maxTime": "08:03:51 6/3/2026",
     "avg": 19
   },
-  "tps": "13.0",
-  "ping": 0,
+  "tps": "10.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:53] You are already connected to this server!",
-    "[07:53] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
-    "[07:53] [8b8t] >> You arent ignoring adri989",
     "[07:53] <MintyLuka> build",
     "[07:53] [8b8t] >> Please include a player /ignore <playerName>",
     "[07:53] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +105,10 @@
     "[07:53] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[07:53] [8b8t] >> ▲ Player HienBot Joined.",
     "[07:53] [8b8t] >> You arent ignoring DavidN3000",
-    "[07:53] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>"
+    "[07:53] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[07:53] You are already connected to this server!",
+    "[07:53] [8b8t] >> You arent ignoring Real4Tribe",
+    "[07:53] [8b8t] >> You have killed yourself!"
   ],
   "userStats": {
     "Hien2309": 82,
