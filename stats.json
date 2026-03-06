@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:12:55 7/3/2026",
+  "lastUpdated": "03:13:25 7/3/2026",
   "totalKits": 107819,
   "todayKits": 634,
-  "onlineCount": 36,
+  "onlineCount": 35,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "01:45:08 7/3/2026",
     "avg": 25
   },
-  "tps": "9.0",
+  "tps": "10.0",
   "ping": 201,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 1843
+      "count": 1844
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:11] [Ultra] <KurtzMC> ya imprimiste los que mas cantidad son?",
-    "[20:11] [BOT] <HienBot> **KurtzMC**: ya imprimiste los que mas cantidad son?",
-    "[20:11] [Ultra] <bestmapartist124> estoy en eso",
-    "[20:11] [BOT] <HienBot> **14mate**: estoy en eso",
-    "[20:11] [8b8t] >> ▲ Player Rourx Joined.",
-    "[20:11] [Ultra] <KurtzMC> bueno",
-    "[20:11] [BOT] <HienBot> **KurtzMC**: bueno",
-    "[20:11] [BOT] <HienBot> >Type invite for invite rewards info",
-    "[20:11] [Ultra] <bestmapartist124> nunca habia printeado staircaised paciencia",
-    "[20:11] [BOT] <HienBot> **14mate**: nunca habia printeado staircaised paciencia",
-    "[20:11] [8b8t] >> ▼ Player .Wing075 Left.",
-    "[20:11] [8b8t] >> ▼ Player io_client Left.",
     "[20:12] [Ultra] <KurtzMC> tiene su truco",
     "[20:12] [8b8t] >> ▼ Player m1nt67 Left.",
     "[20:12] [BOT] <HienBot> **KurtzMC**: tiene su truco",
@@ -108,7 +96,19 @@
     "[20:12] [BOT] <HienBot> **KurtzMC**: se inventan gente",
     "[20:12] [BOT] <HienBot> >Use list to choose your kit",
     "[20:12] [8b8t] >> ▼ Player camilogod Left.",
-    "[20:12] [BOT] <HienBot> >Try status"
+    "[20:12] [BOT] <HienBot> >Try status",
+    "[20:13] [8b8t] >> ▼ Player VojtFu Left.",
+    "[20:13] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[20:13] [Basic] <wfextyerbfergfd> pvp",
+    "[20:13] [8b8t] >> Teleporting to home 0...",
+    "[20:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:13] [8b8t] >> Teleporting to home 1...",
+    "[20:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:13] To wfextyerbfergfd: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:13] [BOT] <HienBot> **Bot to wfextyerbfergfd**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:13] To wfextyerbfergfd: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:13] [BOT] <HienBot> **Bot to wfextyerbfergfd**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:13] [8b8t] >> Request sent to wfextyerbfergfd"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1063,7 +1063,7 @@
     "honey075": 1,
     "GrimmTMM": 3,
     "YouharuShinku": 2,
-    "wfextyerbfergfd": 38,
+    "wfextyerbfergfd": 39,
     "M4ndaRyna_": 1,
     "emre_95": 26,
     "oradm6": 1,
@@ -1280,7 +1280,7 @@
     "crisalber": 1
   },
   "kitStats": {
-    "pvp": 1843,
+    "pvp": 1844,
     "raid": 638,
     "survival": 2276,
     "shulker": 1020,
