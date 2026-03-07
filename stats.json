@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:29:27 7/3/2026",
+  "lastUpdated": "18:29:57 7/3/2026",
   "totalKits": 108189,
   "todayKits": 260,
-  "onlineCount": 26,
+  "onlineCount": 28,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 25
   },
-  "tps": "10.0",
-  "ping": 203,
+  "tps": "12.0",
+  "ping": 280,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2374
+      "count": 2375
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:29] [8b8t] >> Teleporting to home 2...",
-    "[11:29] You were kicked from 8b8t: Kicked for spamming",
-    "[11:29] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[11:29] [8b8t] Unknown command do /help",
-    "[11:29] [8b8t] Unknown command do /help",
-    "[11:29] [8b8t] Unknown command do /help",
-    "[11:29] <HienBot> 📦 Ollarr requested stash kit.",
-    "[11:29] [8b8t] >> Welcome ohio_sigma69 to 8b8t.me Lobby",
-    "[11:29] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[11:29] [8b8t] >> ▲ Player HienBot Joined.",
-    "[11:29] You are already connected to this server!",
-    "[11:29] [8b8t] >> ▲ Player CalzonCagao Joined.",
-    "[11:29] [8b8t] >> You have killed yourself!",
-    "[11:29] You are already connected to this server!",
-    "[11:29] [8b8t] >> ▲ Player ohio_sigma69 Joined.",
     "[11:29] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[11:29] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
     "[11:29] [8b8t] >> You arent ignoring adri989",
@@ -108,7 +93,22 @@
     "[11:29] [8b8t] >> Please include a player /ignore <playerName>",
     "[11:29] [8b8t] >> You arent ignoring Real4Tribe",
     "[11:29] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[11:29] [8b8t] >> ▼ Player Fenix228 Left."
+    "[11:29] [8b8t] >> ▼ Player Fenix228 Left.",
+    "[11:29] GhostMinerX has completed the challenge [Serious Dedication]",
+    "[11:29] [8b8t] >> ▲ Player Maicob7475 Joined.",
+    "[11:29] [8b8t] >> ▲ Player Fenix228 Joined.",
+    "[11:29] <don_fernan007> survival",
+    "[11:29] [8b8t] >> Teleporting to home 0...",
+    "[11:29] [8b8t] >> Teleporting to home 1...",
+    "[11:29] [BOT] <HienBot> **don_fernan007**: survival",
+    "[11:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:29] To don_fernan007: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:29] Neo_MRC has made the advancement [Acquire Hardware]",
+    "[11:29] To don_fernan007: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:29] [BOT] <HienBot> **Bot to don_fernan007**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:29] [8b8t] >> Request sent to don_fernan007",
+    "[11:29] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1308,12 +1308,12 @@
     "wemmmos": 16,
     "shadow_scribe": 12,
     "GhostMinerX": 4,
-    "don_fernan007": 1
+    "don_fernan007": 2
   },
   "kitStats": {
     "pvp": 1932,
     "raid": 656,
-    "survival": 2374,
+    "survival": 2375,
     "shulker": 1056,
     "music": 248,
     "terracotta": 50,
