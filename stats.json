@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:03:00 8/3/2026",
+  "lastUpdated": "06:03:30 8/3/2026",
   "totalKits": 108686,
   "todayKits": 757,
-  "onlineCount": 31,
+  "onlineCount": 33,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "23:25:59 7/3/2026",
     "avg": 31
   },
-  "tps": "6.0",
-  "ping": 362,
+  "tps": "9.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2438
+      "count": 2439
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:02] [8b8t] >> Teleporting...",
-    "[23:02] [8b8t] >> You have killed yourself!",
-    "[23:02] HienBot was EZ clapped by Romay2012 using [their hand]",
-    "[23:02] To Romay2012: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:02] <TotallyNotCrazy> Help",
-    "[23:02] [BOT] <HienBot> **Bot to Romay2012**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:02] To TotallyNotCrazy: Cmds: (Kit you want), lang, info , ping, tps, player, bestping, worstping, discord, link, status, gay | dsc.gg/hienbot",
-    "[23:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:02] [8b8t] >> ▼ Player blake Left.",
-    "[23:02] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
-    "[23:02] [Ultra] <14mate> pouto jeras",
-    "[23:02] [8b8t] >> You arent ignoring adri989",
-    "[23:02] [8b8t] >> Please include a player /ignore <playerName>",
     "[23:02] [BOT] <HienBot> **14mate**: pouto jeras",
     "[23:02] [8b8t] >> You arent ignoring IamNuke_",
     "[23:02] [8b8t] >> You arent ignoring Real4Tribe",
@@ -108,7 +94,21 @@
     "[23:02] [Ultra] <14mate> si dime",
     "[23:02] [BOT] <HienBot> **BookBan**: si le chupamos la polla al lee",
     "[23:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:02] [8b8t] >> ▼ Player iTrisstan Left."
+    "[23:02] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[23:03] [8b8t] >> ▲ Player LocalIceDealer Joined.",
+    "[23:03] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[23:03] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[23:03] <TotallyNotCrazy> survival",
+    "[23:03] [8b8t] >> Teleporting to home 0...",
+    "[23:03] [BOT] <HienBot> **TotallyNotCrazy**: survival",
+    "[23:03] [8b8t] >> Teleporting to home 1...",
+    "[23:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:03] To TotallyNotCrazy: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:03] To TotallyNotCrazy: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:03] [BOT] <HienBot> **Bot to TotallyNotCrazy**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:03] [8b8t] >> Request sent to TotallyNotCrazy",
+    "[23:03] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1334,12 +1334,13 @@
     "hurf": 1,
     "Nyxion49": 1,
     "Erito21": 3,
-    "BACKberat31": 1
+    "BACKberat31": 1,
+    "TotallyNotCrazy": 1
   },
   "kitStats": {
     "pvp": 2080,
     "raid": 686,
-    "survival": 2438,
+    "survival": 2439,
     "shulker": 1079,
     "music": 264,
     "terracotta": 50,
