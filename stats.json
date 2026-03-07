@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:01:26 7/3/2026",
+  "lastUpdated": "10:01:56 7/3/2026",
   "totalKits": 107994,
   "todayKits": 65,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 61,
   "playerStats": {
     "min": 29,
@@ -12,7 +12,7 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 35
   },
-  "tps": "13.0",
+  "tps": "9.0",
   "ping": 199,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "build",
-      "count": 785
+      "count": 786
     },
     {
       "name": "dupe",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:00] [BOT] <HienBot> **K1ng_Shep**: gear pls",
-    "[03:00] [8b8t] >> You arent ignoring adri989",
-    "[03:00] [8b8t] >> Please include a player /ignore <playerName>",
-    "[03:00] [8b8t] >> You arent ignoring IamNuke_",
-    "[03:00] Michael_notgood has made the advancement [Withering Heights]",
-    "[03:00] [8b8t] >> You arent ignoring DavidN3000",
-    "[03:00] [8b8t] >> You arent ignoring h6sx",
-    "[03:00] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[03:00] <shardah> the lag",
-    "[03:00] <Akari44> beacon",
-    "[03:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:00] [8b8t] >> Teleporting to home 0...",
-    "[03:00] [8b8t] >> Teleporting to home 7...",
-    "[03:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:00] To Akari44: Your kit (beacon) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:00] [BOT] <HienBot> 📦 Akari44 requested lightsources kit.",
-    "[03:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:00] To Akari44: Sorry! Green Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[03:00] [BOT] <HienBot> **Bot to Akari44**: Sorry! Green Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[03:00] [8b8t] >> ▼ Player shardah Left.",
     "[03:01] K1ng_Shep has completed the challenge [Cover Me in Debris]",
@@ -108,7 +90,25 @@
     "[03:01] [BOT] <HienBot> **blake56**: broooooooooooooooooooooooooooooooooooooooo",
     "[03:01] [Ultra] <blake> i quit",
     "[03:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:01] [8b8t] >> ▼ Player blake Left."
+    "[03:01] [8b8t] >> ▼ Player blake Left.",
+    "[03:01] [8b8t] >> ▲ Player shardah Joined.",
+    "[03:01] <.AceDesert2260> build",
+    "[03:01] [8b8t] >> Teleporting to home 0...",
+    "[03:01] [8b8t] >> Teleporting to home 2...",
+    "[03:01] [BOT] <HienBot> **.AceDesert2260**: build",
+    "[03:01] To .AceDesert2260: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:01] <InsaneBoi69> lmao",
+    "[03:01] [BOT] <HienBot> **InsaneBoi69**: lmao",
+    "[03:01] To .AceDesert2260: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[03:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:01] <shardah> da lag",
+    "[03:01] [BOT] <HienBot> **shardah**: da lag",
+    "[03:01] <K1ng_Shep> why curse of vanishing",
+    "[03:01] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
+    "[03:01] [BOT] <HienBot> **K1ng_Shep**: why curse of vanishing",
+    "[03:01] [BOT] <HienBot> >Use list to see all available kits!"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -832,7 +832,7 @@
     "Nicoelmaspro120": 1,
     "2H3Z": 2,
     "JosGpe": 3,
-    ".AceDesert2260": 21,
+    ".AceDesert2260": 22,
     "Azure772": 85,
     "kobthegoat14": 105,
     "lunnita_": 1,
@@ -1304,7 +1304,7 @@
     "exp": 345,
     "stash": 612,
     "ocean": 72,
-    "build": 785,
+    "build": 786,
     "dye": 65,
     "concrete": 98,
     "dupe": 762,
