@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:17:26 7/3/2026",
-  "totalKits": 107976,
-  "todayKits": 47,
-  "onlineCount": 38,
+  "lastUpdated": "09:17:51 7/3/2026",
+  "totalKits": 107977,
+  "todayKits": 48,
+  "onlineCount": 37,
   "peakPlayers": 61,
   "playerStats": {
     "min": 29,
@@ -12,8 +12,8 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 36
   },
-  "tps": "10.0",
-  "ping": 201,
+  "tps": "9.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2318
+      "count": 2319
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:15] [BOT] <HienBot> >Hey AetherionV26!",
-    "[02:16] <SPREENQ> build",
-    "[02:16] [8b8t] >> Teleporting to home 0...",
-    "[02:16] [8b8t] >> Teleporting to home 2...",
-    "[02:16] [BOT] <HienBot> **SPREENQ**: build",
-    "[02:16] To SPREENQ: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:16] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
-    "[02:16] To SPREENQ: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[02:16] [BOT] <HienBot> **Bot to SPREENQ**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[02:16] <SPREENQ> build",
-    "[02:16] [8b8t] >> Teleporting to home 0...",
     "[02:16] [BOT] <HienBot> **SPREENQ**: build",
     "[02:16] [8b8t] >> Teleporting to home 2...",
     "[02:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +95,20 @@
     "[02:17] yra112 got pieced by an End Crystal",
     "[02:17] [BOT] <HienBot> >Running low on supplies? Use survival",
     "[02:17] <K1ng_Shep> im at 1 heart",
-    "[02:17] [BOT] <HienBot> **K1ng_Shep**: im at 1 heart"
+    "[02:17] [BOT] <HienBot> **K1ng_Shep**: im at 1 heart",
+    "[02:17] [8b8t] >> ▼ Player LibertuJam Left.",
+    "[02:17] <K1ng_Shep> survival",
+    "[02:17] [8b8t] >> Teleporting to home 0...",
+    "[02:17] [8b8t] >> Teleporting to home 1...",
+    "[02:17] [BOT] <HienBot> **K1ng_Shep**: survival",
+    "[02:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:17] To K1ng_Shep: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:17] To K1ng_Shep: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:17] [BOT] <HienBot> **Bot to K1ng_Shep**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:17] [8b8t] >> Request sent to K1ng_Shep",
+    "[02:17] [8b8t] >> Teleporting...",
+    "[02:17] [BOT] <HienBot> >Running low on supplies? Use survival"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -827,7 +827,7 @@
     "Iaaaan": 2,
     "panepic5": 1,
     "kaktusic67": 18,
-    "K1ng_Shep": 2,
+    "K1ng_Shep": 3,
     "Mogulinho": 1,
     "Nicoelmaspro120": 1,
     "2H3Z": 2,
@@ -1292,7 +1292,7 @@
   "kitStats": {
     "pvp": 1883,
     "raid": 648,
-    "survival": 2318,
+    "survival": 2319,
     "shulker": 1038,
     "music": 241,
     "terracotta": 50,
