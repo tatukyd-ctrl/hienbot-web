@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:21:44 7/3/2026",
+  "lastUpdated": "23:21:59 7/3/2026",
   "totalKits": 108380,
   "todayKits": 451,
-  "onlineCount": 43,
+  "onlineCount": 42,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 27
   },
   "tps": "9.0",
-  "ping": 208,
+  "ping": 356,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "build",
-      "count": 826
+      "count": 827
     },
     {
       "name": "elytra",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:21] <ye02> list",
-    "[16:21] To ye02: Hello ye02!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:21] [BOT] <HienBot> **ye02**: list",
-    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:21] <XPOKCGHDY> list",
-    "[16:21] To XPOKCGHDY: Hello XPOKCGHDY!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:21] [BOT] <HienBot> **XPOKCGHDY**: list",
-    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:21] <XPOKCGHDY> survival",
-    "[16:21] [8b8t] >> Teleporting to home 0...",
-    "[16:21] [BOT] <HienBot> **XPOKCGHDY**: survival",
-    "[16:21] [8b8t] >> Teleporting to home 1...",
-    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:21] To XPOKCGHDY: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:21] <Dreamers> lets escape spawn",
-    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:21] [8b8t] >> Join the official Telegram Group at https://telegram.8b8t.me",
     "[16:21] To XPOKCGHDY: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:21] [BOT] <HienBot> **Bot to XPOKCGHDY**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:21] [8b8t] >> Request sent to XPOKCGHDY",
@@ -108,7 +89,26 @@
     "[16:21] <Dreamers> come",
     "[16:21] [BOT] <HienBot> **Dreamers**: come",
     "[16:21] [8b8t] >> Teleporting...",
-    "[16:21] [BOT] <HienBot> >Use /lobby to return to the lobby!"
+    "[16:21] [BOT] <HienBot> >Use /lobby to return to the lobby!",
+    "[16:21] [8b8t] >> You have killed yourself!",
+    "[16:21] <Fenix228> build",
+    "[16:21] [8b8t] >> Teleporting to home 0...",
+    "[16:21] <Dreamers> wait what kit is that",
+    "[16:21] [BOT] <HienBot> **Fenix228**: build",
+    "[16:21] [8b8t] >> Teleporting to home 2...",
+    "[16:21] To Fenix228: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:21] To XPOKCGHDY: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:21] To Fenix228: Sorry! Lime Shulker Box is out of stock. Giving you Gray Shulker Box instead! dsc.gg/hienbot",
+    "[16:21] [BOT] <HienBot> **Bot to Fenix228**: Sorry! Lime Shulker Box is out of stock. Giving you Gray Shulker Box instead! dsc.gg/hienbot",
+    "[16:21] [8b8t] >> Request sent to Fenix228",
+    "[16:21] <notrealleoo> custom kit",
+    "[16:21] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[16:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:21] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1304,7 +1304,7 @@
     "farouhis121416": 24,
     "RealAstraMC": 1,
     "Neo_MRC": 2,
-    "Fenix228": 55,
+    "Fenix228": 56,
     "wemmmos": 26,
     "shadow_scribe": 30,
     "GhostMinerX": 10,
@@ -1336,7 +1336,7 @@
     "exp": 360,
     "stash": 669,
     "ocean": 73,
-    "build": 826,
+    "build": 827,
     "dye": 73,
     "concrete": 109,
     "dupe": 790,
