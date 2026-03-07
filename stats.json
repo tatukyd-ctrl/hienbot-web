@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:02:20 7/3/2026",
+  "lastUpdated": "11:02:26 7/3/2026",
   "totalKits": 108040,
   "todayKits": 111,
   "onlineCount": 29,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2329
+      "count": 2330
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:02] [8b8t] >> You arent ignoring adri989",
-    "[04:02] [8b8t] >> Please include a player /ignore <playerName>",
-    "[04:02] [8b8t] >> Please include a player /ignore <playerName>",
-    "[04:02] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[04:02] [8b8t] >> You arent ignoring IamNuke_",
-    "[04:02] [8b8t] >> You arent ignoring adri989",
-    "[04:02] [8b8t] >> You arent ignoring DavidN3000",
-    "[04:02] <Fulllvlmax> survival",
-    "[04:02] [8b8t] >> Teleporting to home 0...",
-    "[04:02] [8b8t] >> ▼ Player psychic_gear4 Left.",
     "[04:02] [8b8t] >> You arent ignoring h6sx",
     "[04:02] [BOT] <HienBot> **Fulllvlmax**: survival",
     "[04:02] [8b8t] >> Teleporting to home 1...",
@@ -108,7 +98,17 @@
     "[04:02] [8b8t] Unknown command do /help",
     "[04:02] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[04:02] [8b8t] >> ▲ Player HienBot Joined.",
-    "[04:02] You are already connected to this server!"
+    "[04:02] You are already connected to this server!",
+    "[04:02] <Leevuko> kit survival",
+    "[04:02] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
+    "[04:02] To Leevuko: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[04:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:02] <Leevuko> kit survival",
+    "[04:02] [8b8t] >> You have killed yourself!",
+    "[04:02] [BOT] <HienBot> **Leevuko**: kit survival",
+    "[04:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:02] To Leevuko: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1288,12 +1288,13 @@
     "itsShadow13": 4,
     "Blasticxz": 1,
     ".grogu_13249909": 2,
-    "Fulllvlmax": 7
+    "Fulllvlmax": 7,
+    "Leevuko": 1
   },
   "kitStats": {
     "pvp": 1896,
     "raid": 653,
-    "survival": 2329,
+    "survival": 2330,
     "shulker": 1050,
     "music": 241,
     "terracotta": 50,
