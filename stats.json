@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:11:57 7/3/2026",
-  "totalKits": 108166,
-  "todayKits": 237,
+  "lastUpdated": "18:12:16 7/3/2026",
+  "totalKits": 108167,
+  "todayKits": 238,
   "onlineCount": 23,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 25
   },
-  "tps": "15.0",
-  "ping": 0,
+  "tps": "9.0",
+  "ping": 194,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "shulker",
-      "count": 1055
+      "count": 1056
     },
     {
       "name": "build",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:11] <shadow_scribe> shulker",
-    "[11:11] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[11:11] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[11:11] [BOT] <HienBot> **shadow_scribe**: shulker",
-    "[11:11] [8b8t] >> ▼ Player .DomiO8691 Left.",
-    "[11:11] [8b8t] >> You arent ignoring adri989",
-    "[11:11] [8b8t] >> Please include a player /ignore <playerName>",
-    "[11:11] [8b8t] >> Please include a player /ignore <playerName>",
-    "[11:11] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[11:11] [8b8t] >> You arent ignoring IamNuke_",
-    "[11:11] [8b8t] >> You arent ignoring adri989",
-    "[11:11] [8b8t] >> Please include a player /ignore <playerName>",
-    "[11:11] [8b8t] >> You arent ignoring DavidN3000",
-    "[11:11] [8b8t] >> You arent ignoring h6sx",
-    "[11:11] <wemmmos> elytra",
-    "[11:11] [8b8t] >> You have killed yourself!",
-    "[11:11] [BOT] <HienBot> **wemmmos**: elytra",
-    "[11:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:11] To wemmmos: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:11] [8b8t] >> Teleporting to home 0...",
-    "[11:11] [8b8t] >> Teleporting to home 6...",
     "[11:11] To wemmmos: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[11:11] [BOT] <HienBot> **Bot to wemmmos**: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[11:11] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
@@ -108,7 +86,29 @@
     "[11:11] [8b8t] >> You arent ignoring adri989",
     "[11:11] [8b8t] >> Please include a player /ignore <playerName>",
     "[11:11] [8b8t] >> You arent ignoring IamNuke_",
-    "[11:11] 6t5e has made the advancement [Stone Age]"
+    "[11:11] 6t5e has made the advancement [Stone Age]",
+    "[11:11] [8b8t] >> You arent ignoring DavidN3000",
+    "[11:11] [8b8t] >> You arent ignoring h6sx",
+    "[11:12] <shadow_scribe> shulker",
+    "[11:12] 6t5e challenged the Wither and lost their head",
+    "[11:12] [8b8t] >> You have killed yourself!",
+    "[11:12] [BOT] <HienBot> **shadow_scribe**: shulker",
+    "[11:12] To shadow_scribe: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:12] [8b8t] >> Teleporting to home 0...",
+    "[11:12] wemmmos Whispers: yoo where is my elytra",
+    "[11:12] [8b8t] >> Teleporting to home 6...",
+    "[11:12] [BOT] <HienBot> **wemmmos**: yoo where is my elytra",
+    "[11:12] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[11:12] To shadow_scribe: Sorry! White Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
+    "[11:12] [BOT] <HienBot> **Bot to shadow_scribe**: Sorry! White Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
+    "[11:12] [8b8t] >> Request sent to shadow_scribe",
+    "[11:12] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
+    "[11:12] [8b8t] >> Teleporting...",
+    "[11:12] [8b8t] >> You arent ignoring adri989",
+    "[11:12] [8b8t] >> Please include a player /ignore <playerName>",
+    "[11:12] [8b8t] >> You arent ignoring IamNuke_"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1306,13 +1306,13 @@
     "Neo_MRC": 1,
     "Fenix228": 5,
     "wemmmos": 7,
-    "shadow_scribe": 8
+    "shadow_scribe": 9
   },
   "kitStats": {
     "pvp": 1926,
     "raid": 656,
     "survival": 2369,
-    "shulker": 1055,
+    "shulker": 1056,
     "music": 248,
     "terracotta": 50,
     "lightsources": 120,
