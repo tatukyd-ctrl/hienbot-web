@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:53:28 7/3/2026",
+  "lastUpdated": "19:53:58 7/3/2026",
   "totalKits": 108254,
   "todayKits": 325,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 25
   },
-  "tps": "13.0",
+  "tps": "10.0",
   "ping": 205,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2383
+      "count": 2384
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:53] <Fenix228> build",
-    "[12:53] [8b8t] >> Teleporting to home 0...",
-    "[12:53] [BOT] <HienBot> **Fenix228**: build",
-    "[12:53] [8b8t] >> Teleporting to home 2...",
-    "[12:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:53] To Fenix228: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:53] <Narimattr_535> gaps",
-    "[12:53] [BOT] <HienBot> **Narimattr_535**: gaps",
-    "[12:53] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[12:53] To Fenix228: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:53] [8b8t] >> You arent ignoring adri989",
-    "[12:53] [8b8t] >> Please include a player /ignore <playerName>",
-    "[12:53] [BOT] <HienBot> **Bot to Fenix228**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:53] [8b8t] >> You arent ignoring IamNuke_",
-    "[12:53] [8b8t] >> You arent ignoring DavidN3000",
-    "[12:53] [8b8t] >> You arent ignoring h6sx",
     "[12:53] <farouhis121416> lightsources",
     "[12:53] [BOT] <HienBot> >Items for PVP and Building available in build",
     "[12:53] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +91,24 @@
     "[12:53] [BOT] <HienBot> **Bot to farouhis121416**: Sorry! Green Shulker Box is out of stock. Giving you Yellow Shulker Box instead! dsc.gg/hienbot",
     "[12:53] [8b8t] >> Request sent to farouhis121416",
     "[12:53] <farouhis121416> gaps",
-    "[12:53] [BOT] <HienBot> **farouhis121416**: gaps"
+    "[12:53] [BOT] <HienBot> **farouhis121416**: gaps",
+    "[12:53] Wenstt got shot by a skeleton",
+    "[12:53] [8b8t] >> ▲ Player .DomiO8691 Joined.",
+    "[12:53] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
+    "[12:53] <farouhis121416> glass",
+    "[12:53] To farouhis121416: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[12:53] [BOT] <HienBot> **farouhis121416**: glass",
+    "[12:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:53] [8b8t] >> You have killed yourself!",
+    "[12:53] HienBot forgot to stop, drop, and roll",
+    "[12:53] BigBear Whispers: survival",
+    "[12:53] [8b8t] >> The TPA request you sent to farouhis121416 was successfully canceled.",
+    "[12:53] [8b8t] >> Teleporting to home 0...",
+    "[12:53] [BOT] <HienBot> **BigBear**: survival",
+    "[12:53] [8b8t] >> Teleporting to home 1...",
+    "[12:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:53] To BigBear: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:53] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -462,7 +462,7 @@
     "Barrerics_2011": 20,
     "idkkkkkkkkkk": 108,
     "TristanAbyss": 1,
-    "BigBear": 52,
+    "BigBear": 53,
     "SINCONOCIMIENTO": 2,
     "gabriel_player": 1,
     "evaletz": 31,
@@ -1316,7 +1316,7 @@
   "kitStats": {
     "pvp": 1941,
     "raid": 662,
-    "survival": 2383,
+    "survival": 2384,
     "shulker": 1058,
     "music": 248,
     "terracotta": 50,
