@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:59:58 7/3/2026",
+  "lastUpdated": "20:04:58 7/3/2026",
   "totalKits": 108261,
   "todayKits": 332,
-  "onlineCount": 33,
+  "onlineCount": 0,
   "peakPlayers": 61,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 25
   },
-  "tps": "14.0",
-  "ping": 213,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:59] [BOT] <HienBot> **busybee07**: light",
-    "[12:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:59] To busybee07: Sorry! Green Shulker Box is out of stock. Giving you Yellow Shulker Box instead! dsc.gg/hienbot",
-    "[12:59] [BOT] <HienBot> **Bot to busybee07**: Sorry! Green Shulker Box is out of stock. Giving you Yellow Shulker Box instead! dsc.gg/hienbot",
-    "[12:59] [8b8t] >> Request sent to busybee07",
-    "[12:59] <.DomiO8691> stash = chests",
-    "[12:59] [BOT] <HienBot> **.DomiO8691**: stash = chests",
-    "[12:59] [8b8t] >> Teleporting...",
-    "[12:59] [8b8t] >> You have killed yourself!",
-    "[12:59] [8b8t] >> ▼ Player shadow_scribe Left.",
-    "[12:59] To busybee07: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:59] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[12:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:59] warn666 forgot to bring their parachute",
     "[12:59] <.DomiO8691> stash",
     "[12:59] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
@@ -108,7 +94,21 @@
     "[12:59] [8b8t] >> You arent ignoring IamNuke_",
     "[12:59] [BOT] <HienBot> **Bot to .DomiO8691**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[12:59] [8b8t] >> You arent ignoring DavidN3000",
-    "[12:59] [8b8t] >> You arent ignoring Real4Tribe"
+    "[12:59] [8b8t] >> You arent ignoring Real4Tribe",
+    "[12:59] <busybee07> concrete",
+    "[12:59] To busybee07: You're on cooldown, try again in 26 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:59] [BOT] <HienBot> **busybee07**: concrete",
+    "[13:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:00] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
+    "[13:00] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[13:00] <farouhis121416> raid",
+    "[13:00] [8b8t] >> Teleporting to home 0...",
+    "[13:00] [8b8t] >> Teleporting to home 2...",
+    "[13:00] [BOT] <HienBot> **farouhis121416**: raid",
+    "[13:00] To farouhis121416: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:00] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:00] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1301,7 +1301,7 @@
     ".Kadb09813": 8,
     "ibraaaaaaa": 1,
     "Doraemon073": 1,
-    "farouhis121416": 23,
+    "farouhis121416": 24,
     "RealAstraMC": 1,
     "Neo_MRC": 2,
     "Fenix228": 37,
@@ -1315,7 +1315,7 @@
   },
   "kitStats": {
     "pvp": 1941,
-    "raid": 662,
+    "raid": 663,
     "survival": 2384,
     "shulker": 1058,
     "music": 248,
