@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:19:25 7/3/2026",
+  "lastUpdated": "22:19:28 7/3/2026",
   "totalKits": 108305,
   "todayKits": 376,
   "onlineCount": 42,
@@ -12,7 +12,7 @@
     "maxTime": "21:40:28 7/3/2026",
     "avg": 26
   },
-  "tps": "8.0",
+  "tps": "9.0",
   "ping": 0,
   "topUsers": [
     {
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:19] HienBot forgot to stop, drop, and roll",
-    "[15:19] <notrealleoo> list",
-    "[15:19] [8b8t] >> ▲ Player F1ling Joined.",
     "[15:19] To notrealleoo: Hello notrealleoo!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[15:19] [8b8t] >> Please do not spam.",
     "[15:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +105,10 @@
     "[15:19] [8b8t] Unknown command do /help",
     "[15:19] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[15:19] [8b8t] >> ▲ Player HienBot Joined.",
-    "[15:19] You are already connected to this server!"
+    "[15:19] You are already connected to this server!",
+    "[15:19] [8b8t] >> You arent ignoring DavidN3000",
+    "[15:19] [8b8t] >> You arent ignoring Real4Tribe",
+    "[15:19] <notrealleoo> Elytra"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1314,7 +1314,8 @@
     ".FlluxIsHere": 1,
     "lrlc34": 3,
     ".Redjul543": 9,
-    "ASHyperion": 7
+    "ASHyperion": 7,
+    "notrealleoo": 1
   },
   "kitStats": {
     "pvp": 1957,
@@ -1337,7 +1338,7 @@
     "dupe": 786,
     "food": 237,
     "glass": 127,
-    "elytra": 778,
+    "elytra": 779,
     "redstone": 564,
     "quartz": 68,
     "highway": 151,
