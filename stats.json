@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:13:19 7/3/2026",
+  "lastUpdated": "19:13:27 7/3/2026",
   "totalKits": 108220,
   "todayKits": 291,
   "onlineCount": 30,
@@ -12,8 +12,8 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 25
   },
-  "tps": "7.0",
-  "ping": 0,
+  "tps": "9.0",
+  "ping": 759,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:13] [8b8t] >> ▲ Player HienBot Joined.",
-    "[12:13] To Fenix228: Try again dsc.gg/hienbot",
-    "[12:13] You are already connected to this server!",
-    "[12:13] [BOT] <HienBot> **Bot to Fenix228**: Try again dsc.gg/hienbot",
-    "[12:13] <Fenix228> end",
-    "[12:13] [8b8t] >> Teleporting to home 0...",
     "[12:13] [BOT] <HienBot> **Fenix228**: end",
     "[12:13] [8b8t] >> Teleporting to home 5...",
     "[12:13] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
@@ -108,7 +102,13 @@
     "[12:13] [8b8t] Unknown command do /help",
     "[12:13] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[12:13] [8b8t] >> ▲ Player HienBot Joined.",
-    "[12:13] You are already connected to this server!"
+    "[12:13] You are already connected to this server!",
+    "[12:13] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
+    "[12:13] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[12:13] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[12:13] [8b8t] >> You arent ignoring adri989",
+    "[12:13] [8b8t] >> Please include a player /ignore <playerName>",
+    "[12:13] shadow_scribe Whispers: end"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1306,7 +1306,7 @@
     "Neo_MRC": 2,
     "Fenix228": 20,
     "wemmmos": 26,
-    "shadow_scribe": 19,
+    "shadow_scribe": 20,
     "GhostMinerX": 7,
     "don_fernan007": 4,
     ".YuyuMC_QwQ": 2,
@@ -1341,6 +1341,6 @@
     "mineral": 253,
     "gterracotta": 31,
     "wood": 271,
-    "end": 180
+    "end": 181
   }
 }
