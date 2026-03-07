@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:12:57 7/3/2026",
+  "lastUpdated": "18:13:27 7/3/2026",
   "totalKits": 108168,
   "todayKits": 239,
   "onlineCount": 23,
@@ -12,7 +12,7 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 25
   },
-  "tps": "10.0",
+  "tps": "16.0",
   "ping": 194,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "build",
-      "count": 789
+      "count": 790
     },
     {
       "name": "dupe",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:12] [8b8t] >> Request sent to wemmmos",
-    "[11:12] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[11:12] [8b8t] >> ▲ Player MrNullYT Joined.",
-    "[11:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[11:12] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[11:12] [8b8t] >> Teleporting...",
-    "[11:12] [8b8t] >> You arent ignoring adri989",
-    "[11:12] [8b8t] >> Please include a player /ignore <playerName>",
-    "[11:12] [8b8t] >> You arent ignoring IamNuke_",
-    "[11:12] [8b8t] >> You arent ignoring DavidN3000",
-    "[11:12] 6t5e thought they could fly... they couldn't",
-    "[11:12] [8b8t] >> You arent ignoring h6sx",
-    "[11:12] [8b8t] >> You have killed yourself!",
     "[11:12] To wemmmos: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[11:12] [8b8t] >> Please do not spam.",
     "[11:12] don_fernan007 got shot by a skeleton",
@@ -108,7 +94,21 @@
     "[11:12] [BOT] <HienBot> **shadow_scribe**: list",
     "[11:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:12] [8b8t] >> You arent ignoring h6sx",
-    "[11:12] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[11:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:13] <shadow_scribe> build",
+    "[11:13] [8b8t] >> Teleporting to home 0...",
+    "[11:13] [8b8t] >> Teleporting to home 2...",
+    "[11:13] [BOT] <HienBot> **shadow_scribe**: build",
+    "[11:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:13] To shadow_scribe: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:13] To shadow_scribe: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[11:13] [BOT] <HienBot> **Bot to shadow_scribe**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[11:13] <arten_mr> tp everyone",
+    "[11:13] [BOT] <HienBot> **arten_mr**: tp everyone",
+    "[11:13] <sigmaRK04> yes",
+    "[11:13] [BOT] <HienBot> **sigmaRK04**: yes",
+    "[11:13] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1306,7 +1306,7 @@
     "Neo_MRC": 1,
     "Fenix228": 5,
     "wemmmos": 8,
-    "shadow_scribe": 9
+    "shadow_scribe": 10
   },
   "kitStats": {
     "pvp": 1926,
@@ -1323,7 +1323,7 @@
     "exp": 355,
     "stash": 629,
     "ocean": 73,
-    "build": 789,
+    "build": 790,
     "dye": 72,
     "concrete": 101,
     "dupe": 770,
