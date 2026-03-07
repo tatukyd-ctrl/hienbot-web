@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:26:27 7/3/2026",
-  "totalKits": 108185,
-  "todayKits": 256,
+  "lastUpdated": "18:26:38 7/3/2026",
+  "totalKits": 108186,
+  "todayKits": 257,
   "onlineCount": 28,
   "peakPlayers": 61,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:57:56 7/3/2026",
     "avg": 25
   },
-  "tps": "8.0",
+  "tps": "6.0",
   "ping": 0,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2371
+      "count": 2372
     },
     {
       "name": "pvp",
@@ -79,36 +79,36 @@
     }
   ],
   "chatLog": [
-    "[11:26] <GhostMinerX> survival",
-    "[11:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:26] To Treviy: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:26] To GhostMinerX: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[11:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:26] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[11:26] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx",
-    "[11:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:26] [BOT] <HienBot> >Need gear? Type pvp to get started!",
+    "[11:26] GhostMinerX thought they could fly... they couldn't",
     "[11:26] <don_fernan007> survival",
-    "[11:26] To Treviy: Sorry! Magenta Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
+    "[11:26] [8b8t] >> You have killed yourself!",
+    "[11:26] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[11:26] [8b8t] >> Please do not spam.",
+    "[11:26] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, Real4Tribe",
+    "[11:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:26] To don_fernan007: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:26] [8b8t] >> You arent ignoring adri989",
+    "[11:26] [8b8t] >> Please include a player /ignore <playerName>",
+    "[11:26] [8b8t] >> Please include a player /ignore <playerName>",
+    "[11:26] [8b8t] >> Teleporting to home 0...",
+    "[11:26] [8b8t] >> Teleporting to home 1...",
+    "[11:26] [8b8t] >> You arent ignoring IamNuke_",
+    "[11:26] Treviy went for a swim in lava and got burned",
+    "[11:26] [8b8t] >> Please include a player /ignore <playerName>",
+    "[11:26] [8b8t] >> You arent ignoring DavidN3000",
+    "[11:26] [8b8t] >> ▲ Player dawg059 Joined.",
+    "[11:26] [8b8t] >> You arent ignoring Real4Tribe",
+    "[11:26] To don_fernan007: Sorry! Blue Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
     "[11:26] You were kicked from 8b8t: Kicked for spamming",
-    "[11:26] [8b8t] Unknown command do /help",
     "[11:26] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[11:26] <HienBot> **Bot to Treviy**: Sorry! Magenta Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
+    "[11:26] <HienBot> **Bot to don_fernan007**: Sorry! Blue Shulker Box is out of stock. Giving you Magenta Shulker Box instead! dsc.gg/hienbot",
     "[11:26] [8b8t] Unknown command do /help",
-    "[11:26] [8b8t] Unknown command do /help",
-    "[11:26] <AetherionV26> >Just type $info to know what this bot can do! https://discord.gg/yJcqj4C8dy $news, $leaderboard, $Report, $gamble",
-    "[11:26] [8b8t] Unknown command do /help",
-    "[11:26] <HienBot> **AetherionV26**: >Just type $info to know what this bot can do! https://discord.gg/yJcqj4C8dy $news, $leaderboard, $Report, $gamble",
     "[11:26] [8b8t] Unknown command do /help",
     "[11:26] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[11:26] [8b8t] >> ▲ Player HienBot Joined.",
-    "[11:26] [8b8t] >> You arent ignoring DavidN3000",
-    "[11:26] You are already connected to this server!",
-    "[11:26] [8b8t] >> You arent ignoring h6sx",
-    "[11:26] 6t5e thought they could fly... they couldn't",
-    "[11:26] [BOT] <HienBot> >Need gear? Type pvp to get started!",
-    "[11:26] GhostMinerX thought they could fly... they couldn't"
+    "[11:26] [8b8t] >> Ignored players: adri989, IamNuke_, DavidN3000, h6sx"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1307,12 +1307,13 @@
     "Fenix228": 10,
     "wemmmos": 16,
     "shadow_scribe": 12,
-    "GhostMinerX": 2
+    "GhostMinerX": 2,
+    "don_fernan007": 1
   },
   "kitStats": {
     "pvp": 1932,
     "raid": 656,
-    "survival": 2371,
+    "survival": 2372,
     "shulker": 1056,
     "music": 248,
     "terracotta": 50,
