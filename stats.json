@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:00:58 9/3/2026",
+  "lastUpdated": "00:01:28 9/3/2026",
   "totalKits": 109158,
   "todayKits": 84,
-  "onlineCount": 38,
+  "onlineCount": 39,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2529
+      "count": 2530
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:58] [BOT] <0_HienBot> **Bot to Dreamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:58] [8b8t] >> Request sent to Dreamers",
-    "[16:58] [8b8t] >> Teleporting...",
-    "[16:58] [8b8t] >> You have killed yourself!",
-    "[16:59] You cannot be above the nether roof!",
-    "[16:59] To Dreamers: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[16:59] [BOT] <0_HienBot> **Bot to Dreamers**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[16:59] [BOT] <0_HienBot> >Bot created by Hien2309.",
-    "[16:59] <Reluctancee> stash",
-    "[16:59] [BOT] <0_HienBot> **Reluctancee**: stash",
-    "[16:59] [8b8t] >> Teleporting to home 0...",
-    "[16:59] [8b8t] >> Teleporting to home 2...",
-    "[16:59] To Reluctancee: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:59] To Reluctancee: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[16:59] [BOT] <0_HienBot> **Bot to Reluctancee**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[16:59] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
@@ -108,7 +94,21 @@
     "[17:00] To Reluctancee: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:00] [BOT] <0_HienBot> **Bot to Reluctancee**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:00] [8b8t] >> Request sent to Reluctancee",
-    "[17:00] [8b8t] >> Teleporting..."
+    "[17:00] [8b8t] >> Teleporting...",
+    "[17:01] [8b8t] >> You have killed yourself!",
+    "[17:01] To Reluctancee: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:01] [BOT] <0_HienBot> **Bot to Reluctancee**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:01] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[17:01] <Antonhysv> survival",
+    "[17:01] [8b8t] >> Teleporting to home 0...",
+    "[17:01] [BOT] <0_HienBot> **Antonhysv**: survival",
+    "[17:01] [8b8t] >> Teleporting to home 1...",
+    "[17:01] To Antonhysv: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:01] To Antonhysv: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:01] [8b8t] >> Please do not spam.",
+    "[17:01] [8b8t] >> Request sent to Antonhysv"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -282,7 +282,7 @@
     "ismael10MF": 1,
     ".Herobrine000374": 2,
     "yahircito_xd62": 1,
-    "Antonhysv": 36,
+    "Antonhysv": 37,
     "Victua7397": 3,
     "Fe3r": 1,
     "Tostax": 4,
@@ -1385,7 +1385,7 @@
   "kitStats": {
     "pvp": 2222,
     "raid": 705,
-    "survival": 2529,
+    "survival": 2530,
     "shulker": 1095,
     "music": 277,
     "terracotta": 50,
