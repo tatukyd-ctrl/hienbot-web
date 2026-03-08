@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:51:29 9/3/2026",
+  "lastUpdated": "01:51:59 9/3/2026",
   "totalKits": 109190,
   "todayKits": 116,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "10.0",
+  "tps": "14.0",
   "ping": 206,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2536
+      "count": 2537
     },
     {
       "name": "pvp",
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:48] <.Papuhumilde1208> wait a sec and I request tpa",
-    "[18:48] [BOT] <0_HienBot> **.Papuhumilde1208**: wait a sec and I request tpa",
-    "[18:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:48] Osby_ has made the advancement [Suit Up]",
     "[18:48] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[18:49] [BOT] <0_HienBot> >Use /kill to kill yourself!",
@@ -108,7 +105,10 @@
     "[18:51] <poopman2> list",
     "[18:51] To poopman2: Hello poopman2!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[18:51] [BOT] <0_HienBot> **poopman2**: list",
-    "[18:51] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[18:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:51] [BOT] <0_HienBot> >Type list for a list of kits",
+    "[18:51] <poopman2> !survival",
+    "[18:51] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1278,7 +1278,7 @@
     "_The_Courier_": 3,
     "asierprogamer": 2,
     "crisalber": 3,
-    "poopman2": 34,
+    "poopman2": 35,
     "shinemine": 7,
     "caseoh3": 5,
     "O_TalDoLuiz": 10,
@@ -1389,7 +1389,7 @@
   "kitStats": {
     "pvp": 2234,
     "raid": 709,
-    "survival": 2536,
+    "survival": 2537,
     "shulker": 1098,
     "music": 280,
     "terracotta": 50,
