@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:46:28 8/3/2026",
+  "lastUpdated": "23:46:58 8/3/2026",
   "totalKits": 109153,
   "todayKits": 79,
-  "onlineCount": 44,
+  "onlineCount": 43,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 30
   },
-  "tps": "10.0",
-  "ping": 208,
+  "tps": "9.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:45] [8b8t] >> Teleporting to home 0...",
-    "[16:45] [BOT] <0_HienBot> **Antonhysv**: survival",
-    "[16:45] [8b8t] >> Teleporting to home 1...",
     "[16:45] To Antonhysv: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[16:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:45] <Eroi2000> te paso tp ahora aver si puedo",
@@ -108,7 +105,10 @@
     "[16:46] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[16:46] noobie has reached the goal [Postmortal]",
     "[16:46] <Shadow_of_Money> free base tpa",
-    "[16:46] [BOT] <0_HienBot> **Shadow_of_Money**: free base tpa"
+    "[16:46] [BOT] <0_HienBot> **Shadow_of_Money**: free base tpa",
+    "[16:46] [BOT] <0_HienBot> >Type list for a list of kits",
+    "[16:46] <noobie> redstone",
+    "[16:46] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1379,7 +1379,7 @@
     "LoMoLIOTwitch": 4,
     "zJams": 4,
     "Hyore123098": 1,
-    "noobie": 1
+    "noobie": 2
   },
   "kitStats": {
     "pvp": 2221,
@@ -1403,7 +1403,7 @@
     "food": 251,
     "glass": 152,
     "elytra": 843,
-    "redstone": 584,
+    "redstone": 585,
     "quartz": 79,
     "highway": 161,
     "gap": 159,
