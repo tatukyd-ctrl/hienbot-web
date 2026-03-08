@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:28:22 8/3/2026",
+  "lastUpdated": "10:28:40 8/3/2026",
   "totalKits": 108814,
   "todayKits": 65,
   "onlineCount": 44,
@@ -13,7 +13,7 @@
     "avg": 34
   },
   "tps": "6.0",
-  "ping": 222,
+  "ping": 231,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2473
+      "count": 2474
     },
     {
       "name": "pvp",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:27] [8b8t] >> Teleporting...",
-    "[03:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[03:27] [8b8t] >> You have killed yourself!",
-    "[03:27] HienBot was pwned by arten_mr wielding [netherite sword]",
-    "[03:27] To arten_mr: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:27] [BOT] <HienBot> **Bot to arten_mr**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:27] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
-    "[03:27] 6yr has reached the goal [Postmortal]",
-    "[03:27] [8b8t] >> You arent ignoring adri989",
-    "[03:27] [8b8t] >> Please include a player /ignore <playerName>",
-    "[03:27] [8b8t] >> You arent ignoring IamNuke_",
-    "[03:27] [8b8t] >> You arent ignoring Real4Tribe",
-    "[03:27] [8b8t] >> You arent ignoring h6sx",
-    "[03:28] <Azure772> survival",
-    "[03:28] [8b8t] >> Teleporting to home 0...",
-    "[03:28] [BOT] <HienBot> **Azure772**: survival",
-    "[03:28] [8b8t] >> Teleporting to home 1...",
-    "[03:28] To Azure772: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:28] [BOT] <HienBot> >Welcome to 8b8t, Pla77ano!",
     "[03:28] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +88,27 @@
     "[03:28] <AZK_003> survival",
     "[03:28] To AZK_003: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[03:28] [BOT] <HienBot> **AZK_003**: survival",
-    "[03:28] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[03:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:28] [8b8t] >> You have killed yourself!",
+    "[03:28] HienBot has been killed by Azure772",
+    "[03:28] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:28] [BOT] <HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:28] <AZK_003> survival",
+    "[03:28] [8b8t] >> Teleporting to home 0...",
+    "[03:28] [8b8t] >> Please do not spam.",
+    "[03:28] [8b8t] >> Teleporting to home 1...",
+    "[03:28] To AZK_003: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:28] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
+    "[03:28] To AZK_003: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:28] [8b8t] >> You arent ignoring adri989",
+    "[03:28] [BOT] <HienBot> **Bot to AZK_003**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:28] [8b8t] >> Please include a player /ignore <playerName>",
+    "[03:28] [8b8t] >> Request sent to AZK_003",
+    "[03:28] [8b8t] >> You arent ignoring IamNuke_",
+    "[03:28] [8b8t] >> You arent ignoring Real4Tribe",
+    "[03:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1354,12 +1354,13 @@
     "DrEggLord": 2,
     "CamXHol_YT": 11,
     "iamgayy": 1,
-    "S4boeh4o": 2
+    "S4boeh4o": 2,
+    "AZK_003": 1
   },
   "kitStats": {
     "pvp": 2125,
     "raid": 688,
-    "survival": 2473,
+    "survival": 2474,
     "shulker": 1084,
     "music": 266,
     "terracotta": 50,
