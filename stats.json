@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:58:28 8/3/2026",
-  "totalKits": 109156,
-  "todayKits": 82,
-  "onlineCount": 35,
+  "lastUpdated": "23:58:57 8/3/2026",
+  "totalKits": 109157,
+  "todayKits": 83,
+  "onlineCount": 38,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 30
   },
-  "tps": "12.0",
-  "ping": 206,
+  "tps": "10.0",
+  "ping": 227,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:55] <noobie> some one team im newww",
-    "[16:55] [BOT] <0_HienBot> **noobie**: some one team im newww",
-    "[16:55] <Dreamers> noobie",
-    "[16:55] [BOT] <0_HienBot> **Dreamers**: noobie",
-    "[16:55] <Dreamers> im coming for u",
-    "[16:55] [BOT] <0_HienBot> **Dreamers**: im coming for u",
-    "[16:55] [BOT] <0_HienBot> >Type discord",
-    "[16:55] <KizenPvP> kit",
-    "[16:55] [BOT] <0_HienBot> **KizenPvP**: kit",
-    "[16:55] To KizenPvP: Hello KizenPvP!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:55] <KizenPvP> build",
     "[16:55] [8b8t] >> Teleporting to home 0...",
     "[16:55] [BOT] <0_HienBot> **KizenPvP**: build",
@@ -108,7 +97,18 @@
     "[16:57] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
     "[16:57] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
     "[16:58] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[16:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[16:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[16:58] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
+    "[16:58] <Dreamers> !elytra",
+    "[16:58] [8b8t] >> Teleporting to home 0...",
+    "[16:58] [BOT] <0_HienBot> **Dreamers**: !elytra",
+    "[16:58] [8b8t] >> Teleporting to home 6...",
+    "[16:58] To Dreamers: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:58] To Dreamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:58] [BOT] <0_HienBot> **Bot to Dreamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:58] [8b8t] >> Request sent to Dreamers",
+    "[16:58] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1317,7 +1317,7 @@
     "ASHyperion": 9,
     "notrealleoo": 34,
     "Creaky_Nat": 3,
-    "Dreamers": 139,
+    "Dreamers": 140,
     "Sandeep998": 1,
     "XPOKCGHDY": 14,
     "nicolsaaax": 4,
@@ -1402,7 +1402,7 @@
     "dupe": 864,
     "food": 251,
     "glass": 152,
-    "elytra": 843,
+    "elytra": 844,
     "redstone": 585,
     "quartz": 79,
     "highway": 161,
