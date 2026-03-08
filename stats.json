@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:43:20 8/3/2026",
+  "lastUpdated": "15:43:50 8/3/2026",
   "totalKits": 108963,
   "todayKits": 12,
   "onlineCount": 22,
@@ -12,7 +12,7 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 30
   },
-  "tps": "13.0",
+  "tps": "12.0",
   "ping": 200,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2169
+      "count": 2170
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:42] <.YuyuMC_QwQ> totem",
-    "[08:42] [8b8t] >> Teleporting to home 0...",
-    "[08:42] [BOT] <HienBot> **.YuyuMC_QwQ**: totem",
-    "[08:42] [8b8t] >> Teleporting to home 1...",
-    "[08:42] To .YuyuMC_QwQ: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:42] To .YuyuMC_QwQ: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:42] [BOT] <HienBot> **Bot to .YuyuMC_QwQ**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:42] [8b8t] >> Request sent to .YuyuMC_QwQ",
-    "[08:42] <cappuccino_> is item frame dupe working?",
-    "[08:42] [BOT] <HienBot> **cappuccino_**: is item frame dupe working?",
     "[08:42] 6t5e forgot to bring their parachute",
     "[08:42] [8b8t] >> ▲ Player SAIJYAKU110 Joined.",
     "[08:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +96,19 @@
     "[08:42] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
     "[08:42] SAIJYAKU110 got his head blown off by the Wither",
     "[08:43] 6t5e forgot to bring their parachute",
-    "[08:43] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[08:43] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[08:43] .Catan2181 got shot by a Pillager",
+    "[08:43] [BOT] <HienBot> >Use /lobby to return to the lobby!",
+    "[08:43] <.YuyuMC_QwQ> pvp",
+    "[08:43] [8b8t] >> Teleporting to home 0...",
+    "[08:43] [8b8t] >> Teleporting to home 1...",
+    "[08:43] [BOT] <HienBot> **.YuyuMC_QwQ**: pvp",
+    "[08:43] To .YuyuMC_QwQ: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:43] To .YuyuMC_QwQ: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:43] [BOT] <HienBot> **Bot to .YuyuMC_QwQ**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:43] [8b8t] >> Request sent to .YuyuMC_QwQ"
   ],
   "userStats": {
     "Hien2309": 86,
@@ -1309,7 +1309,7 @@
     "shadow_scribe": 37,
     "GhostMinerX": 10,
     "don_fernan007": 5,
-    ".YuyuMC_QwQ": 36,
+    ".YuyuMC_QwQ": 37,
     ".MennoKnight78": 2,
     ".FlluxIsHere": 1,
     "lrlc34": 6,
@@ -1366,7 +1366,7 @@
     "cappuccino_": 1
   },
   "kitStats": {
-    "pvp": 2169,
+    "pvp": 2170,
     "raid": 693,
     "survival": 2493,
     "shulker": 1089,
