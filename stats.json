@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:10:40 8/3/2026",
-  "totalKits": 108939,
-  "todayKits": 190,
-  "onlineCount": 15,
+  "lastUpdated": "14:10:55 8/3/2026",
+  "totalKits": 108940,
+  "todayKits": 191,
+  "onlineCount": 14,
   "peakPlayers": 46,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 32
   },
-  "tps": "19.0",
+  "tps": "18.0",
   "ping": 201,
   "topUsers": [
     {
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:09] <osmankral123123> list",
-    "[07:09] To osmankral123123: Hello osmankral123123!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[07:09] [8b8t] >> Please do not spam.",
-    "[07:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:09] <MineFlare> raid",
-    "[07:09] [8b8t] >> Teleporting to home 0...",
-    "[07:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:09] [8b8t] >> Teleporting to home 2...",
-    "[07:09] [BOT] <HienBot> 📦 MineFlare requested raid kit.",
-    "[07:09] To MineFlare: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:09] To MineFlare: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:09] [BOT] <HienBot> **Bot to MineFlare**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:09] [8b8t] >> Request sent to MineFlare",
     "[07:09] [8b8t] >> Teleporting...",
@@ -108,7 +95,20 @@
     "[07:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:10] [8b8t] >> You arent ignoring h6sx",
     "[07:10] [8b8t] >> You arent ignoring Real4Tribe",
-    "[07:10] [BOT] <HienBot> >Use info <player> to check someone's stats"
+    "[07:10] [BOT] <HienBot> >Use info <player> to check someone's stats",
+    "[07:10] <MineFlare> end",
+    "[07:10] [8b8t] >> Teleporting to home 0...",
+    "[07:10] [BOT] <HienBot> **MineFlare**: end",
+    "[07:10] [8b8t] >> Teleporting to home 5...",
+    "[07:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:10] To MineFlare: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:10] To MineFlare: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:10] [BOT] <HienBot> **Bot to MineFlare**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:10] [8b8t] >> ▼ Player baonam88 Left.",
+    "[07:10] [8b8t] >> Request sent to MineFlare",
+    "[07:10] DrGooglyEyes has made the advancement [We Need to Go Deeper]",
+    "[07:10] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 86,
@@ -1362,7 +1362,7 @@
     ".Shadow86048022": 9,
     "SiC419AoR": 6,
     "LeWith1E": 2,
-    "MineFlare": 10
+    "MineFlare": 11
   },
   "kitStats": {
     "pvp": 2148,
@@ -1393,6 +1393,6 @@
     "mineral": 294,
     "gterracotta": 38,
     "wood": 300,
-    "end": 215
+    "end": 216
   }
 }
