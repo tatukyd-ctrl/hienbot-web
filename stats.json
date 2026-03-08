@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:09:20 8/3/2026",
-  "totalKits": 108992,
-  "todayKits": 41,
+  "lastUpdated": "17:09:41 8/3/2026",
+  "totalKits": 108993,
+  "todayKits": 42,
   "onlineCount": 20,
   "peakPlayers": 24,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 29
   },
-  "tps": "11.0",
+  "tps": "12.0",
   "ping": 199,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2494
+      "count": 2495
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:07] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
-    "[10:08] randomkidz123 tried to outswim the water",
-    "[10:08] <Azure772> flower",
-    "[10:08] [8b8t] >> Teleporting to home 0...",
-    "[10:08] [BOT] <HienBot> **Azure772**: flower",
-    "[10:08] [8b8t] >> Teleporting to home 4...",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] To Azure772: Your kit (flower) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:08] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:08] [8b8t] >> Request sent to Azure772",
     "[10:08] [8b8t] >> Teleporting...",
     "[10:08] [8b8t] >> ▼ Player randomkidz123 Left.",
     "[10:08] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
@@ -108,7 +96,19 @@
     "[10:08] [8b8t] >> You arent ignoring Real4Tribe",
     "[10:08] [8b8t] >> You arent ignoring h6sx",
     "[10:08] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[10:09] [8b8t] >> ▲ Player Frostiyyi Joined."
+    "[10:09] [8b8t] >> ▲ Player Frostiyyi Joined.",
+    "[10:09] [BOT] <HienBot> >Running low on supplies? Use survival",
+    "[10:09] <Dreamers> !survival",
+    "[10:09] [8b8t] >> Teleporting to home 0...",
+    "[10:09] [BOT] <HienBot> **Dreamers**: !survival",
+    "[10:09] [8b8t] >> Teleporting to home 1...",
+    "[10:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:09] To Dreamers: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:09] To Dreamers: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:09] [BOT] <HienBot> **Bot to Dreamers**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:09] [8b8t] >> Request sent to Dreamers",
+    "[10:09] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 86,
@@ -1317,7 +1317,7 @@
     "ASHyperion": 9,
     "notrealleoo": 31,
     "Creaky_Nat": 3,
-    "Dreamers": 117,
+    "Dreamers": 118,
     "Sandeep998": 1,
     "XPOKCGHDY": 14,
     "nicolsaaax": 4,
@@ -1369,7 +1369,7 @@
   "kitStats": {
     "pvp": 2173,
     "raid": 693,
-    "survival": 2494,
+    "survival": 2495,
     "shulker": 1089,
     "music": 273,
     "terracotta": 50,
