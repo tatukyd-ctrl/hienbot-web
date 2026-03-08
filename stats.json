@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:00:59 9/3/2026",
+  "lastUpdated": "05:01:29 9/3/2026",
   "totalKits": 109325,
   "todayKits": 251,
-  "onlineCount": 36,
+  "onlineCount": 35,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "04:01:41 9/3/2026",
     "avg": 33
   },
-  "tps": "11.0",
-  "ping": 220,
+  "tps": "13.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2593
+      "count": 2594
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[21:59] [8b8t] >> You have killed yourself!",
-    "[21:59] [8b8t] >> The TPA request you sent to elcolo150 was successfully canceled.",
-    "[21:59] <elcolo150> okey me sirvio kit survival muchas gracias cristobal",
-    "[21:59] [BOT] <0_HienBot> **elcolo150**: okey me sirvio kit survival muchas gracias cristobal",
-    "[21:59] <cristobal25> denada",
-    "[21:59] [BOT] <0_HienBot> **cristobal25**: denada",
-    "[21:59] <elcolo150> bro quieres ser amigos",
-    "[22:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:00] <cristobal25> ?kit dupe",
-    "[22:00] [8b8t] >> Teleporting to home 0...",
-    "[22:00] [BOT] <0_HienBot> **cristobal25**: ?kit dupe",
-    "[22:00] [8b8t] >> Teleporting to home 7...",
-    "[22:00] To cristobal25: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:00] To cristobal25: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:00] [BOT] <0_HienBot> **Bot to cristobal25**: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[22:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:00] [8b8t] >> Request sent to cristobal25",
@@ -108,7 +92,23 @@
     "[22:00] <arjebn> ?kit",
     "[22:00] To arjebn: Hello arjebn!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[22:00] [BOT] <0_HienBot> **arjebn**: ?kit",
-    "[22:00] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[22:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:01] [BOT] <0_HienBot> >Get fully equipped with pvp",
+    "[22:01] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[22:01] <cristobal25> no sorry bro que m i base no es solo mia es de un pana tambien y no quiero correr riesgos sorry",
+    "[22:01] [BOT] <0_HienBot> **cristobal25**: no sorry bro que m i base no es solo mia es de un pana tambien y no quiero correr riesgos sorry",
+    "[22:01] <elcolo150> se puede dupear",
+    "[22:01] [BOT] <0_HienBot> **elcolo150**: se puede dupear",
+    "[22:01] <arjebn> survival",
+    "[22:01] [8b8t] >> Teleporting to home 0...",
+    "[22:01] <.unknownguy59093> List",
+    "[22:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:01] [8b8t] >> Teleporting to home 1...",
+    "[22:01] To .unknownguy59093: Hello .unknownguy59093!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:01] To arjebn: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:01] [BOT] <0_HienBot> **.unknownguy59093**: List",
+    "[22:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:01] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1408,12 +1408,13 @@
     "Kukumade": 1,
     "Master_Dark2026": 3,
     "IKOLZXLOLS": 1,
-    "elcolo150": 1
+    "elcolo150": 1,
+    "arjebn": 1
   },
   "kitStats": {
     "pvp": 2291,
     "raid": 719,
-    "survival": 2593,
+    "survival": 2594,
     "shulker": 1105,
     "music": 281,
     "terracotta": 50,
