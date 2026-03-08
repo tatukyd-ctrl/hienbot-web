@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:34:29 9/3/2026",
+  "lastUpdated": "04:34:59 9/3/2026",
   "totalKits": 109315,
   "todayKits": 241,
-  "onlineCount": 38,
+  "onlineCount": 40,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "04:01:41 9/3/2026",
     "avg": 32
   },
-  "tps": "11.0",
-  "ping": 211,
+  "tps": "9.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2285
+      "count": 2286
     },
     {
       "name": "shulker",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:33] [BOT] <0_HienBot> **14mate**: blake56 come hotspot bud",
-    "[21:33] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[21:33] <Antonhysv> vale",
-    "[21:33] [BOT] <0_HienBot> **Antonhysv**: vale",
-    "[21:33] [BOT] <0_HienBot> >Items for PVP and Building available in build",
-    "[21:33] <ITZ_Kaido> raid",
-    "[21:33] [8b8t] >> Teleporting to home 0...",
-    "[21:33] [BOT] <0_HienBot> **ITZ_Kaido**: raid",
-    "[21:33] [8b8t] >> Teleporting to home 2...",
     "[21:33] To ITZ_Kaido: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[21:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[21:33] To ITZ_Kaido: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +99,16 @@
     "[21:34] <ITZ_Kaido> survival",
     "[21:34] To ITZ_Kaido: You're on cooldown, try again in 22 seconds! Don't forget to join dsc.gg/hienbot",
     "[21:34] [BOT] <0_HienBot> **ITZ_Kaido**: survival",
-    "[21:34] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[21:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:34] <arjebn> alguien sabe como se dupea items",
+    "[21:34] [BOT] <0_HienBot> **arjebn**: alguien sabe como se dupea items",
+    "[21:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:34] <Budbud1088> spawners",
+    "[21:34] [BOT] <0_HienBot> **Budbud1088**: spawners",
+    "[21:34] <Budbud1088> spawner",
+    "[21:34] [8b8t] >> Please do not spam.",
+    "[21:34] <0n19z1> pvp",
+    "[21:34] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1398,7 +1398,7 @@
     "freep12": 1,
     "Jacksoncity385": 1,
     "V_VI": 2,
-    "0n19z1": 5,
+    "0n19z1": 6,
     "davihosa12": 6,
     "Moidtheboid": 2,
     "cristobal25": 8,
@@ -1409,7 +1409,7 @@
     "Master_Dark2026": 1
   },
   "kitStats": {
-    "pvp": 2285,
+    "pvp": 2286,
     "raid": 719,
     "survival": 2589,
     "shulker": 1099,
