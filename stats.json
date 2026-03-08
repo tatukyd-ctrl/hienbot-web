@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:53:58 8/3/2026",
-  "totalKits": 109132,
-  "todayKits": 58,
+  "lastUpdated": "22:54:14 8/3/2026",
+  "totalKits": 109133,
+  "todayKits": 59,
   "onlineCount": 42,
   "peakPlayers": 48,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 30
   },
-  "tps": "13.0",
-  "ping": 229,
+  "tps": "10.0",
+  "ping": 217,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2515
+      "count": 2516
     },
     {
       "name": "pvp",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:53] <Ferrver> elytra",
-    "[15:53] To Ferrver: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[15:53] [BOT] <0_HienBot> **Ferrver**: elytra",
-    "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:53] [8b8t] >> You have killed yourself!",
-    "[15:53] <CamXHol_YT> survival",
-    "[15:53] To CamXHol_YT: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:53] [BOT] <0_HienBot> **CamXHol_YT**: survival",
-    "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:53] To Antonhysv: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[15:53] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:53] <paulateamo> pvp",
-    "[15:53] [8b8t] >> Teleporting to home 0...",
-    "[15:53] [BOT] <0_HienBot> **paulateamo**: pvp",
-    "[15:53] [8b8t] >> Teleporting to home 1...",
-    "[15:53] To paulateamo: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:53] To paulateamo: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:53] [BOT] <0_HienBot> **Bot to paulateamo**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:53] [8b8t] >> Request sent to paulateamo",
-    "[15:53] <CamXHol_YT> survival",
     "[15:53] To CamXHol_YT: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +86,29 @@
     "[15:53] <Ferrver> elytra",
     "[15:53] To Ferrver: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[15:53] [BOT] <0_HienBot> **Ferrver**: elytra",
-    "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:54] [8b8t] >> You have killed yourself!",
+    "[15:54] <CamXHol_YT> survival",
+    "[15:54] To paulateamo: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[15:54] i_am_tobias Whispers: !info \\n \\n \\n",
+    "[15:54] [BOT] <0_HienBot> **CamXHol_YT**: survival",
+    "[15:54] [8b8t] >> Teleporting to home 1...",
+    "[15:54] An unexpected error occurred trying to execute that command",
+    "[15:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:54] To CamXHol_YT: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:54] To i_am_tobias: Info \\n: UUID: b34fe1dc-2270-920b-9cab-9d96385ef4ef | Type: Cracked/Offline | ",
+    "[15:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:54] [BOT] <0_HienBot> >Try stash",
+    "[15:54] To CamXHol_YT: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:54] [BOT] <0_HienBot> **Bot to CamXHol_YT**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:54] [8b8t] >> Request sent to CamXHol_YT",
+    "[15:54] [8b8t] >> Teleporting...",
+    "[15:54] <Ferrver> elytra",
+    "[15:54] To Ferrver: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[15:54] [BOT] <0_HienBot> **Ferrver**: elytra",
+    "[15:54] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1352,7 +1352,7 @@
     "Xylophones": 5,
     "ArgGvng": 19,
     "DrEggLord": 2,
-    "CamXHol_YT": 13,
+    "CamXHol_YT": 14,
     "iamgayy": 2,
     "S4boeh4o": 9,
     "AZK_003": 7,
@@ -1381,7 +1381,7 @@
   "kitStats": {
     "pvp": 2219,
     "raid": 705,
-    "survival": 2515,
+    "survival": 2516,
     "shulker": 1095,
     "music": 277,
     "terracotta": 50,
