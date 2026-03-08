@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:28:29 9/3/2026",
+  "lastUpdated": "03:28:59 9/3/2026",
   "totalKits": 109232,
   "todayKits": 158,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 32
   },
-  "tps": "9.0",
+  "tps": "14.0",
   "ping": 205,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:28] To iamyou123: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:28] [BOT] <0_HienBot> **siuuesda_1**: ?kit",
-    "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:28] You were kicked from 8b8t: Kicked for spamming",
-    "[20:28] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[20:28] <0_HienBot> **Bot to iamyou123**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:28] [8b8t] Unknown command do /help",
-    "[20:28] [8b8t] >> Welcome botchaosonix666 to 8b8t.me Lobby",
-    "[20:28] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[20:28] You are already connected to this server!",
-    "[20:28] You are already connected to this server!",
-    "[20:28] [8b8t] >> You have killed yourself!",
     "[20:28] <Norml_Human0> ?kit stash",
     "[20:28] To Norml_Human0: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:28] [BOT] <0_HienBot> **Norml_Human0**: ?kit stash",
@@ -108,7 +96,19 @@
     "[20:28] <iamyou123> ?kit stash",
     "[20:28] To iamyou123: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:28] [8b8t] >> Please do not spam.",
-    "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:28] [BOT] <0_HienBot> >Use /kill to kill yourself!",
+    "[20:28] To iamyou123: Try again Join dsc.gg/hienbot to report the error.",
+    "[20:28] [BOT] <0_HienBot> **Bot to iamyou123**: Try again Join dsc.gg/hienbot to report the error.",
+    "[20:28] <freep12> ?kit elytra",
+    "[20:28] [8b8t] >> Teleporting to home 0...",
+    "[20:28] [8b8t] >> Teleporting to home 6...",
+    "[20:28] [BOT] <0_HienBot> **freep12**: ?kit elytra",
+    "[20:28] To freep12: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:28] To freep12: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:28] [BOT] <0_HienBot> **Bot to freep12**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:28] [8b8t] >> Request sent to freep12"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1394,7 +1394,8 @@
     "ITZ_Kaido": 4,
     "ilovecatsvr57364": 3,
     "Norml_Human0": 4,
-    "iamyou123": 2
+    "iamyou123": 2,
+    "freep12": 1
   },
   "kitStats": {
     "pvp": 2263,
@@ -1417,7 +1418,7 @@
     "dupe": 874,
     "food": 254,
     "glass": 152,
-    "elytra": 852,
+    "elytra": 853,
     "redstone": 586,
     "quartz": 79,
     "highway": 162,
