@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:24:31 8/3/2026",
-  "totalKits": 108726,
-  "todayKits": 22,
-  "onlineCount": 41,
+  "lastUpdated": "07:24:42 8/3/2026",
+  "totalKits": 108727,
+  "todayKits": 23,
+  "onlineCount": 40,
   "peakPlayers": 61,
   "playerStats": {
     "min": 1,
@@ -12,7 +12,7 @@
     "maxTime": "07:18:30 8/3/2026",
     "avg": 38
   },
-  "tps": "9.0",
+  "tps": "11.0",
   "ping": 200,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2106
+      "count": 2107
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:23] [8b8t] >> ▼ Player .unknownguy59093 Left.",
-    "[00:23] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[00:23] <JuancaV> kit pls",
-    "[00:23] [8b8t] >> Teleporting to home 0...",
-    "[00:23] [BOT] <HienBot> **JuancaV**: kit pls",
-    "[00:23] [8b8t] >> Teleporting to home 3...",
-    "[00:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:23] To JuancaV: Kit \"pls\" not found! Giving you (wool) instead! dsc.gg/hienbot",
-    "[00:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:23] To JuancaV: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:23] [BOT] <HienBot> **Bot to JuancaV**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:23] [8b8t] >> Request sent to JuancaV",
-    "[00:24] [8b8t] >> ▲ Player Taquito Joined.",
-    "[00:24] [8b8t] >> Join our Telegram group https://telegram.8b8t.me for 15 HOMES and 8 RENDER DISTANCE!",
     "[00:24] [8b8t] >> ▼ Player .SlimBead4443 Left.",
     "[00:24] [8b8t] >> Teleporting...",
     "[00:24] <Azure772> music",
@@ -108,7 +94,21 @@
     "[00:24] [8b8t] >> Please include a player /ignore <playerName>",
     "[00:24] [8b8t] >> You arent ignoring IamNuke_",
     "[00:24] [8b8t] >> You arent ignoring h6sx",
-    "[00:24] [8b8t] >> You arent ignoring Real4Tribe"
+    "[00:24] [8b8t] >> You arent ignoring Real4Tribe",
+    "[00:24] <Azure772> pvp",
+    "[00:24] [8b8t] >> Teleporting to home 0...",
+    "[00:24] JuancaV forgot to bring their parachute",
+    "[00:24] [BOT] <HienBot> **Azure772**: pvp",
+    "[00:24] [8b8t] >> Teleporting to home 1...",
+    "[00:24] To Azure772: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:24] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:24] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:24] [8b8t] >> Request sent to Azure772",
+    "[00:24] [8b8t] >> ▼ Player .YuyuMC_QwQ Left.",
+    "[00:24] [8b8t] >> Teleporting...",
+    "[00:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 107,
+    "Azure772": 108,
     "kobthegoat14": 105,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1349,7 +1349,7 @@
     "JuancaV": 3
   },
   "kitStats": {
-    "pvp": 2106,
+    "pvp": 2107,
     "raid": 686,
     "survival": 2442,
     "shulker": 1082,
