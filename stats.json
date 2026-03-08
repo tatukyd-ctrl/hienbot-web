@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:03:28 9/3/2026",
-  "totalKits": 109161,
-  "todayKits": 87,
-  "onlineCount": 41,
+  "lastUpdated": "00:03:56 9/3/2026",
+  "totalKits": 109162,
+  "todayKits": 88,
+  "onlineCount": 39,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 30
   },
-  "tps": "9.0",
-  "ping": 214,
+  "tps": "10.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2531
+      "count": 2532
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:01] [8b8t] >> Teleporting to home 7...",
-    "[17:01] To DeathZuka: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:01] [BOT] <0_HienBot> **Bot to DeathZuka**: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:01] To DeathZuka: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:01] [BOT] <0_HienBot> **Bot to DeathZuka**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:01] [8b8t] >> Request sent to DeathZuka",
-    "[17:01] [8b8t] >> Teleporting...",
-    "[17:02] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[17:02] [8b8t] >> You have killed yourself!",
-    "[17:02] To DeathZuka: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[17:02] [BOT] <0_HienBot> **Bot to DeathZuka**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[17:02] <rip_giyuripguy67> ican",
-    "[17:02] [BOT] <0_HienBot> **rip_giyuripguy67**: ican",
-    "[17:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:02] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[17:02] <Reluctancee> kit starter",
     "[17:02] [8b8t] >> Teleporting to home 0...",
     "[17:02] [BOT] <0_HienBot> **Reluctancee**: kit starter",
     "[17:02] [8b8t] >> Teleporting to home 1...",
@@ -108,7 +91,24 @@
     "[17:03] [8b8t] >> You have killed yourself!",
     "[17:03] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[17:03] To Reluctancee: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[17:03] [BOT] <0_HienBot> **Bot to Reluctancee**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[17:03] [BOT] <0_HienBot> **Bot to Reluctancee**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:03] <Reluctancee> kit starter",
+    "[17:03] To Reluctancee: You're on cooldown, try again in 15 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:03] [BOT] <0_HienBot> **Reluctancee**: kit starter",
+    "[17:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:03] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[17:03] <PELlCULA> survival",
+    "[17:03] [BOT] <0_HienBot> **PELlCULA**: survival",
+    "[17:03] [8b8t] >> Teleporting to home 0...",
+    "[17:03] <rip_giyuripguy67> send a tpa",
+    "[17:03] [8b8t] >> Teleporting to home 1...",
+    "[17:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:03] To PELlCULA: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:03] To PELlCULA: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:03] [BOT] <0_HienBot> **Bot to PELlCULA**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:03] [8b8t] >> Request sent to PELlCULA",
+    "[17:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1380,12 +1380,13 @@
     "zJams": 4,
     "Hyore123098": 1,
     "noobie": 2,
-    "Reluctancee": 3
+    "Reluctancee": 3,
+    "PELlCULA": 1
   },
   "kitStats": {
     "pvp": 2222,
     "raid": 705,
-    "survival": 2531,
+    "survival": 2532,
     "shulker": 1095,
     "music": 277,
     "terracotta": 50,
