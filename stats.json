@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:59:59 9/3/2026",
-  "totalKits": 109194,
-  "todayKits": 120,
+  "lastUpdated": "02:00:21 9/3/2026",
+  "totalKits": 109195,
+  "todayKits": 121,
   "onlineCount": 33,
   "peakPlayers": 48,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "13.0",
-  "ping": 206,
+  "tps": "9.0",
+  "ping": 879,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:57] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[18:57] .Papuhumilde1208 has made the advancement [We Need to Go Deeper]",
-    "[18:57] <alcala> 1982 2137",
-    "[18:57] [BOT] <0_HienBot> **alcala**: 1982 2137",
-    "[18:57] Osby_ has made the advancement [Diamonds!]",
-    "[18:57] <poopman2> !survival",
-    "[18:57] [8b8t] >> Teleporting to home 0...",
-    "[18:57] [BOT] <0_HienBot> **poopman2**: !survival",
-    "[18:57] [8b8t] >> Teleporting to home 1...",
-    "[18:57] To poopman2: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[18:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:58] To poopman2: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:58] [BOT] <0_HienBot> **Bot to poopman2**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:58] [8b8t] >> Request sent to poopman2",
@@ -108,7 +97,18 @@
     "[18:58] [BOT] <0_HienBot> **busybee07**: 100.28.3784.2",
     "[18:59] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[18:59] [BOT] <0_HienBot> >Bot created by Hien2309.",
-    "[18:59] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[18:59] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[19:00] [BOT] <0_HienBot> >Running low on supplies? Use survival",
+    "[19:00] <poopman2> !redstone",
+    "[19:00] [8b8t] >> Teleporting to home 0...",
+    "[19:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:00] [8b8t] >> Teleporting to home 2...",
+    "[19:00] To poopman2: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:00] [BOT] <0_HienBot> **Bot to poopman2**: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:00] To poopman2: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:00] [BOT] <0_HienBot> **Bot to poopman2**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:00] [8b8t] >> Request sent to poopman2",
+    "[19:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1278,7 +1278,7 @@
     "_The_Courier_": 3,
     "asierprogamer": 2,
     "crisalber": 3,
-    "poopman2": 38,
+    "poopman2": 39,
     "shinemine": 7,
     "caseoh3": 5,
     "O_TalDoLuiz": 10,
@@ -1408,7 +1408,7 @@
     "food": 251,
     "glass": 152,
     "elytra": 846,
-    "redstone": 585,
+    "redstone": 586,
     "quartz": 79,
     "highway": 161,
     "gap": 159,
