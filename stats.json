@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:34:34 8/3/2026",
-  "totalKits": 109120,
-  "todayKits": 46,
-  "onlineCount": 45,
+  "lastUpdated": "22:34:54 8/3/2026",
+  "totalKits": 109121,
+  "todayKits": 47,
+  "onlineCount": 46,
   "peakPlayers": 46,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 29
   },
-  "tps": "10.0",
-  "ping": 213,
+  "tps": "9.0",
+  "ping": 228,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2507
+      "count": 2508
     },
     {
       "name": "pvp",
@@ -79,27 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:33] [8b8t] >> Request sent to anshkuttan",
-    "[15:33] [8b8t] >> Teleporting...",
-    "[15:34] [Ultra] <N1ght__W0lf> > i trade illegals",
-    "[15:34] [BOT] <0_HienBot> **N1ght__W0lf**: > i trade illegals",
-    "[15:34] <megakiyaiscool> blocks",
-    "[15:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:34] [8b8t] >> You have killed yourself!",
-    "[15:34] Chat disabled in client options",
-    "[15:34] [8b8t] >> You have killed yourself!",
-    "[15:34] To megakiyaiscool: Your kit (blocks) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:34] [BOT] <0_HienBot> **Bot to megakiyaiscool**: Your kit (blocks) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:34] To anshkuttan: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[15:34] [8b8t] >> Teleporting to home 2...",
-    "[15:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:34] To megakiyaiscool: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:34] [BOT] <0_HienBot> **Bot to megakiyaiscool**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:34] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:34] <megakiyaiscool> illegal",
-    "[15:34] [8b8t] >> Teleporting to home 0...",
-    "[15:34] [8b8t] >> Teleporting to home 7...",
-    "[15:34] To megakiyaiscool: Your kit (illegal) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[15:34] [BOT] <0_HienBot> **megakiyaiscool**: illegal",
     "[15:34] To megakiyaiscool: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +87,28 @@
     "[15:34] [Ultra] <blake> BRB",
     "[15:34] [BOT] <0_HienBot> **blake56**: BRB",
     "[15:34] [8b8t] >> Teleporting...",
-    "[15:34] [BOT] <0_HienBot> >Use list to see all available kits!"
+    "[15:34] [BOT] <0_HienBot> >Use list to see all available kits!",
+    "[15:34] [8b8t] >> You have killed yourself!",
+    "[15:34] <anshkuttan> pvp",
+    "[15:34] To anshkuttan: You're on cooldown, try again in 8 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:34] [BOT] <0_HienBot> **anshkuttan**: pvp",
+    "[15:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:34] To megakiyaiscool: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[15:34] <LoMoLIOTwitch> survival",
+    "[15:34] [BOT] <0_HienBot> **Bot to megakiyaiscool**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[15:34] [8b8t] >> Teleporting to home 0...",
+    "[15:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:34] [8b8t] >> Teleporting to home 1...",
+    "[15:34] To LoMoLIOTwitch: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:34] To LoMoLIOTwitch: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:34] [BOT] <0_HienBot> **Bot to LoMoLIOTwitch**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:34] [8b8t] >> Request sent to LoMoLIOTwitch",
+    "[15:34] <anshkuttan> pvp",
+    "[15:34] To anshkuttan: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[15:34] [BOT] <0_HienBot> **anshkuttan**: pvp",
+    "[15:34] [8b8t] >> Teleporting...",
+    "[15:34] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1376,12 +1376,12 @@
     "Oussamita": 7,
     "paulateamo": 3,
     "anshkuttan": 3,
-    "LoMoLIOTwitch": 1
+    "LoMoLIOTwitch": 2
   },
   "kitStats": {
     "pvp": 2215,
     "raid": 702,
-    "survival": 2507,
+    "survival": 2508,
     "shulker": 1094,
     "music": 277,
     "terracotta": 50,
