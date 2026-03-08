@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:18:31 8/3/2026",
+  "lastUpdated": "08:19:01 8/3/2026",
   "totalKits": 108747,
   "todayKits": 43,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 61,
   "playerStats": {
     "min": 1,
@@ -13,7 +13,7 @@
     "avg": 35
   },
   "tps": "12.0",
-  "ping": 344,
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2110
+      "count": 2111
     },
     {
       "name": "shulker",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:17] [8b8t] >> You arent ignoring adri989",
-    "[01:17] [8b8t] >> Please include a player /ignore <playerName>",
-    "[01:17] [8b8t] >> You arent ignoring IamNuke_",
-    "[01:17] [8b8t] >> You arent ignoring Real4Tribe",
-    "[01:17] [8b8t] >> You arent ignoring h6sx",
-    "[01:18] ArgGvng was eaten alive by a Zombie",
-    "[01:18] <.YuyuMC_QwQ> like DrDonutt",
-    "[01:18] [8b8t] >> ▲ Player dylangames5975 Joined.",
-    "[01:18] [BOT] <HienBot> **.YuyuMC_QwQ**: like DrDonutt",
-    "[01:18] <.YuyuMC_QwQ> elytra",
-    "[01:18] [8b8t] >> Teleporting to home 0...",
-    "[01:18] [BOT] <HienBot> **.YuyuMC_QwQ**: elytra",
-    "[01:18] [8b8t] >> ▼ Player argenis Left.",
-    "[01:18] [8b8t] >> Teleporting to home 6...",
-    "[01:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:18] To .YuyuMC_QwQ: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:18] To .YuyuMC_QwQ: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:18] [BOT] <HienBot> **Bot to .YuyuMC_QwQ**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:18] [8b8t] >> Request sent to .YuyuMC_QwQ",
     "[01:18] [BOT] <HienBot> >Try status",
     "[01:18] [8b8t] >> Teleporting...",
@@ -108,7 +89,26 @@
     "[01:18] .YuyuMC_QwQ pulverized HienBot using [netherite sword]",
     "[01:18] [8b8t] >> ▼ Player iTrisstan Left.",
     "[01:18] To .YuyuMC_QwQ: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[01:18] [BOT] <HienBot> **Bot to .YuyuMC_QwQ**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[01:18] [BOT] <HienBot> **Bot to .YuyuMC_QwQ**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[01:18] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
+    "[01:18] [8b8t] >> You arent ignoring adri989",
+    "[01:18] [8b8t] >> Please include a player /ignore <playerName>",
+    "[01:18] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[01:18] [8b8t] >> You arent ignoring IamNuke_",
+    "[01:18] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[01:18] [8b8t] >> You arent ignoring Real4Tribe",
+    "[01:18] [8b8t] >> ▼ Player dylangames5975 Left.",
+    "[01:18] [8b8t] >> You arent ignoring h6sx",
+    "[01:18] [BOT] <HienBot> >Want free items? Just type survival",
+    "[01:18] [8b8t] >> ▲ Player dylangames5975 Joined.",
+    "[01:19] <ArgGvng> ~kit pvp",
+    "[01:19] [8b8t] >> Teleporting to home 0...",
+    "[01:19] <PELlCULA> survival",
+    "[01:19] To PELlCULA: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[01:19] [BOT] <HienBot> **ArgGvng**: ~kit pvp",
+    "[01:19] [8b8t] >> Teleporting to home 1...",
+    "[01:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:19] To ArgGvng: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1349,10 +1349,11 @@
     "JuancaV": 4,
     "the_brotherhood": 1,
     "Wemm6u": 3,
-    "Xylophones": 4
+    "Xylophones": 4,
+    "ArgGvng": 1
   },
   "kitStats": {
-    "pvp": 2110,
+    "pvp": 2111,
     "raid": 686,
     "survival": 2451,
     "shulker": 1084,
