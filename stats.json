@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:56:10 8/3/2026",
-  "totalKits": 108789,
-  "todayKits": 40,
+  "lastUpdated": "09:56:22 8/3/2026",
+  "totalKits": 108790,
+  "todayKits": 41,
   "onlineCount": 36,
   "peakPlayers": 38,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:18:30 8/3/2026",
     "avg": 34
   },
-  "tps": "13.0",
-  "ping": 231,
+  "tps": "11.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:54] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[02:54] [BOT] <HienBot> >Do you want kit? Type *kit",
-    "[02:55] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[02:55] <iamgayy> survival",
-    "[02:55] [8b8t] >> Teleporting to home 0...",
-    "[02:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:55] [8b8t] >> Teleporting to home 1...",
-    "[02:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:55] To iamgayy: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:55] [BOT] <HienBot> **Bot to iamgayy**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:55] To iamgayy: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:55] [BOT] <HienBot> **Bot to iamgayy**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:55] [8b8t] >> Request sent to iamgayy",
     "[02:55] [8b8t] >> ▲ Player idkuser12 Joined.",
     "[02:55] [8b8t] >> Teleporting...",
@@ -108,7 +96,19 @@
     "[02:55] [8b8t] >> ▼ Player iTrisstan Left.",
     "[02:56] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[02:56] [8b8t] >> ▼ Player CamXHol_YT Left.",
-    "[02:56] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[02:56] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[02:56] <kataxen> potion",
+    "[02:56] [BOT] <HienBot> **kataxen**: potion",
+    "[02:56] [8b8t] >> Teleporting to home 0...",
+    "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:56] [8b8t] >> Teleporting to home 2...",
+    "[02:56] To kataxen: Your kit (potion) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:56] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
+    "[02:56] To kataxen: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:56] [8b8t] >> Request sent to kataxen",
+    "[02:56] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -917,7 +917,7 @@
     "alessiaaa": 12,
     "z7_7z": 29,
     "dleamixvm": 1,
-    "kataxen": 29,
+    "kataxen": 30,
     "vgs_": 106,
     "BrainRotmango": 1,
     "elqweq": 99,
@@ -1380,7 +1380,7 @@
     "redstone": 571,
     "quartz": 70,
     "highway": 154,
-    "gap": 153,
+    "gap": 154,
     "mineral": 289,
     "gterracotta": 38,
     "wood": 293,
