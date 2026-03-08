@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:03:20 8/3/2026",
+  "lastUpdated": "17:03:50 8/3/2026",
   "totalKits": 108989,
   "todayKits": 38,
-  "onlineCount": 14,
+  "onlineCount": 16,
   "peakPlayers": 24,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 29
   },
-  "tps": "12.0",
-  "ping": 199,
+  "tps": "13.0",
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Azure772",
-      "count": 167
+      "count": 168
     }
   ],
   "topKits": [
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:01] [BOT] <HienBot> >Get fully equipped with pvp",
-    "[10:02] [8b8t] >> ▲ Player randomkidz123 Joined.",
-    "[10:02] [8b8t] >> Please do not spam.",
-    "[10:02] <Azure772> op",
-    "[10:02] [8b8t] >> Teleporting to home 0...",
-    "[10:02] [8b8t] >> Teleporting to home 2...",
-    "[10:02] [BOT] <HienBot> **Azure772**: op",
-    "[10:02] To Azure772: Your kit (op) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:02] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:02] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:02] [8b8t] >> Request sent to Azure772",
     "[10:02] [8b8t] >> Teleporting...",
     "[10:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -108,7 +96,19 @@
     "[10:03] [8b8t] >> You arent ignoring IamNuke_",
     "[10:03] [8b8t] >> You arent ignoring Real4Tribe",
     "[10:03] [8b8t] >> You arent ignoring h6sx",
-    "[10:03] [8b8t] >> ▼ Player Tobias Left."
+    "[10:03] [8b8t] >> ▼ Player Tobias Left.",
+    "[10:03] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[10:03] <Dreamers> yo HighwayCleaner",
+    "[10:03] [BOT] <HienBot> **Dreamers**: yo HighwayCleaner",
+    "[10:03] [8b8t] >> ▲ Player Fenix228 Joined.",
+    "[10:03] <Azure772> pearl",
+    "[10:03] [8b8t] >> Teleporting to home 0...",
+    "[10:03] [8b8t] >> Teleporting to home 5...",
+    "[10:03] [BOT] <HienBot> **Azure772**: pearl",
+    "[10:03] To Azure772: Your kit (pearl) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:03] [8b8t] >> ▲ Player i_am_tobias Joined."
   ],
   "userStats": {
     "Hien2309": 86,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 167,
+    "Azure772": 168,
     "kobthegoat14": 112,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1395,6 +1395,6 @@
     "mineral": 296,
     "gterracotta": 38,
     "wood": 304,
-    "end": 216
+    "end": 217
   }
 }
