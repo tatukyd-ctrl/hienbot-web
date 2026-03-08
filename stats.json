@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:20:43 9/3/2026",
+  "lastUpdated": "03:20:59 9/3/2026",
   "totalKits": 109224,
   "todayKits": 150,
-  "onlineCount": 36,
+  "onlineCount": 37,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "10.0",
-  "ping": 206,
+  "tps": "8.0",
+  "ping": 272,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2257
+      "count": 2258
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:20] <Reluctancee> list",
-    "[20:20] To Reluctancee: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:20] To Reluctancee: Hello Reluctancee!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[20:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:20] [BOT] <0_HienBot> **Bot to Reluctancee**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:20] <ilovecatsvr57364> how to do kit i forget",
-    "[20:20] [BOT] <0_HienBot> **ilovecatsvr57364**: how to do kit i forget",
-    "[20:20] <ArgGvng> we are only 36 players",
-    "[20:20] [BOT] <0_HienBot> **ArgGvng**: we are only 36 players",
-    "[20:20] <Fil1pe> ?kit survival",
-    "[20:20] [8b8t] >> Teleporting to home 0...",
-    "[20:20] [BOT] <0_HienBot> **Fil1pe**: ?kit survival",
     "[20:20] [8b8t] >> Teleporting to home 1...",
     "[20:20] To Fil1pe: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[20:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +95,20 @@
     "[20:20] [8b8t] >> Teleporting...",
     "[20:20] <ilovecatsvr57364> ?kit tools",
     "[20:20] To ilovecatsvr57364: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:20] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[20:20] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:20] [BOT] <0_HienBot> **ilovecatsvr57364**: ?kit tools",
+    "[20:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:20] [8b8t] >> You have killed yourself!",
+    "[20:20] <Reluctancee> pvp",
+    "[20:20] [8b8t] >> Teleporting to home 0...",
+    "[20:20] [8b8t] >> Teleporting to home 1...",
+    "[20:20] [BOT] <0_HienBot> **Reluctancee**: pvp",
+    "[20:20] To Reluctancee: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:20] To Fil1pe: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:20] To Reluctancee: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[20:20] [BOT] <0_HienBot> **Bot to Reluctancee**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1380,7 +1380,7 @@
     "zJams": 4,
     "Hyore123098": 1,
     "noobie": 2,
-    "Reluctancee": 9,
+    "Reluctancee": 10,
     "PELlCULA": 1,
     "Jelbtheredmc": 1,
     "valudde": 7,
@@ -1394,7 +1394,7 @@
     "ITZ_Kaido": 1
   },
   "kitStats": {
-    "pvp": 2257,
+    "pvp": 2258,
     "raid": 715,
     "survival": 2546,
     "shulker": 1099,
