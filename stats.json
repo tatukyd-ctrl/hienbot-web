@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:55:10 8/3/2026",
-  "totalKits": 108788,
-  "todayKits": 39,
-  "onlineCount": 36,
+  "lastUpdated": "09:55:32 8/3/2026",
+  "totalKits": 108789,
+  "todayKits": 40,
+  "onlineCount": 37,
   "peakPlayers": 38,
   "playerStats": {
     "min": 1,
@@ -12,7 +12,7 @@
     "maxTime": "07:18:30 8/3/2026",
     "avg": 34
   },
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 215,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2461
+      "count": 2462
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:53] [8b8t] >> ▲ Player 14mate Joined.",
-    "[02:54] <TKoyasu> xdfghjkolhgtfdsfg,hj.k/",
-    "[02:54] [BOT] <HienBot> **TKoyasu**: xdfghjkolhgtfdsfg,hj.k/",
-    "[02:54] <.Redjul543> stash",
-    "[02:54] [8b8t] >> Teleporting to home 0...",
-    "[02:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:54] [8b8t] >> Teleporting to home 2...",
-    "[02:54] [BOT] <HienBot> 📦 .Redjul543 requested stash kit.",
-    "[02:54] To .Redjul543: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:54] To .Redjul543: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[02:54] [BOT] <HienBot> **Bot to .Redjul543**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[02:54] [8b8t] >> ▲ Player _EoLuffy_ Joined.",
     "[02:54] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
     "[02:54] <TKoyasu> deepslate",
     "[02:54] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +95,20 @@
     "[02:54] <TKoyasu> none",
     "[02:54] [BOT] <HienBot> **TKoyasu**: none",
     "[02:54] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[02:54] [BOT] <HienBot> >Do you want kit? Type *kit"
+    "[02:54] [BOT] <HienBot> >Do you want kit? Type *kit",
+    "[02:55] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[02:55] <iamgayy> survival",
+    "[02:55] [8b8t] >> Teleporting to home 0...",
+    "[02:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:55] [8b8t] >> Teleporting to home 1...",
+    "[02:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:55] To iamgayy: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:55] [BOT] <HienBot> **Bot to iamgayy**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:55] To iamgayy: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:55] [BOT] <HienBot> **Bot to iamgayy**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:55] [8b8t] >> Request sent to iamgayy",
+    "[02:55] [8b8t] >> ▲ Player idkuser12 Joined.",
+    "[02:55] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1352,12 +1352,13 @@
     "Xylophones": 5,
     "ArgGvng": 19,
     "DrEggLord": 2,
-    "CamXHol_YT": 4
+    "CamXHol_YT": 4,
+    "iamgayy": 1
   },
   "kitStats": {
     "pvp": 2117,
     "raid": 688,
-    "survival": 2461,
+    "survival": 2462,
     "shulker": 1084,
     "music": 265,
     "terracotta": 50,
