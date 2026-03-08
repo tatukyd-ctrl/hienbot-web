@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:42:52 8/3/2026",
+  "lastUpdated": "11:43:10 8/3/2026",
   "totalKits": 108878,
   "todayKits": 129,
-  "onlineCount": 28,
+  "onlineCount": 29,
   "peakPlayers": 46,
   "playerStats": {
     "min": 1,
@@ -12,8 +12,8 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 35
   },
-  "tps": "12.0",
-  "ping": 0,
+  "tps": "10.0",
+  "ping": 243,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:42] [8b8t] >> Teleporting to home 5...",
-    "[04:42] To .Taaysooon: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:42] To .Taaysooon: Sorry! Purple Shulker Box is out of stock. Giving you Pink Shulker Box instead! dsc.gg/hienbot",
-    "[04:42] [BOT] <HienBot> **Bot to .Taaysooon**: Sorry! Purple Shulker Box is out of stock. Giving you Pink Shulker Box instead! dsc.gg/hienbot",
-    "[04:42] [8b8t] >> Request sent to .Taaysooon",
-    "[04:42] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
-    "[04:42] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
-    "[04:42] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:42] [8b8t] >> You arent ignoring adri989",
-    "[04:42] [8b8t] >> Please include a player /ignore <playerName>",
     "[04:42] [8b8t] >> Please include a player /ignore <playerName>",
     "[04:42] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
     "[04:42] [8b8t] >> You arent ignoring IamNuke_",
@@ -108,7 +96,19 @@
     "[04:42] <Azure772> stash",
     "[04:42] To Azure772: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[04:42] [BOT] <HienBot> **Azure772**: stash",
-    "[04:42] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[04:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:42] [8b8t] >> You have killed yourself!",
+    "[04:42] HienBot has been put down by .Taaysooon",
+    "[04:42] [8b8t] >> ▲ Player Dudsq Joined.",
+    "[04:42] To .Taaysooon: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[04:42] [BOT] <HienBot> **Bot to .Taaysooon**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[04:43] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
+    "[04:43] [8b8t] >> You arent ignoring adri989",
+    "[04:43] [8b8t] >> Please include a player /ignore <playerName>",
+    "[04:43] [8b8t] >> You arent ignoring IamNuke_",
+    "[04:43] [8b8t] >> You arent ignoring h6sx",
+    "[04:43] <SiC419AoR> !exp",
+    "[04:43] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1360,7 +1360,7 @@
     "ZENIMLAG": 1,
     ".YT_Toxic212": 2,
     ".Shadow86048022": 3,
-    "SiC419AoR": 4
+    "SiC419AoR": 5
   },
   "kitStats": {
     "pvp": 2138,
@@ -1374,7 +1374,7 @@
     "armortrims": 171,
     "toolbox": 222,
     "wool": 321,
-    "exp": 399,
+    "exp": 400,
     "stash": 728,
     "ocean": 82,
     "build": 875,
