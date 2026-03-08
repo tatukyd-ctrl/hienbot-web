@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:09:29 9/3/2026",
+  "lastUpdated": "05:09:59 9/3/2026",
   "totalKits": 109327,
   "todayKits": 253,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "04:01:41 9/3/2026",
     "avg": 33
   },
-  "tps": "11.0",
-  "ping": 205,
+  "tps": "10.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:06] <RhettCTX> survival",
-    "[22:06] [8b8t] >> Teleporting to home 0...",
-    "[22:06] [8b8t] >> Please do not spam.",
-    "[22:06] [8b8t] >> Teleporting to home 1...",
-    "[22:06] To RhettCTX: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:06] To RhettCTX: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:06] [BOT] <0_HienBot> **Bot to RhettCTX**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:06] [8b8t] >> Request sent to RhettCTX",
-    "[22:07] [8b8t] >> Teleporting...",
-    "[22:07] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[22:07] [8b8t] >> You have killed yourself!",
     "[22:07] To RhettCTX: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[22:07] [BOT] <0_HienBot> **Bot to RhettCTX**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[22:07] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
@@ -108,7 +95,20 @@
     "[22:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:09] RhettCTX has made the advancement [Ice Bucket Challenge]",
     "[22:09] itsShadow13 has made the advancement [Sweet dreams]",
-    "[22:09] RhettCTX has made the advancement [We Need to Go Deeper]"
+    "[22:09] RhettCTX has made the advancement [We Need to Go Deeper]",
+    "[22:09] <Nighten2> anyone?",
+    "[22:09] [BOT] <0_HienBot> **Nighten2**: anyone?",
+    "[22:09] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[22:09] <Nighten2> its on map",
+    "[22:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:09] <Nighten2> who wants nudes",
+    "[22:09] [8b8t] >> Please do not spam.",
+    "[22:09] [Ultra] <2b2tJourney> kit enderchest",
+    "[22:09] [BOT] <0_HienBot> **2b2tJourney**: kit enderchest",
+    "[22:09] [8b8t] >> Teleporting to home 0...",
+    "[22:09] [8b8t] >> Teleporting to home 2...",
+    "[22:09] To 2b2tJourney: Your kit (enderchest) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:09] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1410,7 +1410,8 @@
     "IKOLZXLOLS": 1,
     "elcolo150": 1,
     "arjebn": 1,
-    "RhettCTX": 2
+    "RhettCTX": 2,
+    "2b2tJourney": 1
   },
   "kitStats": {
     "pvp": 2291,
@@ -1425,7 +1426,7 @@
     "toolbox": 232,
     "wool": 336,
     "exp": 422,
-    "stash": 748,
+    "stash": 749,
     "ocean": 86,
     "build": 903,
     "dye": 78,
