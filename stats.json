@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:33:44 9/3/2026",
-  "totalKits": 109234,
-  "todayKits": 160,
-  "onlineCount": 43,
+  "lastUpdated": "03:33:59 9/3/2026",
+  "totalKits": 109235,
+  "todayKits": 161,
+  "onlineCount": 42,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 32
   },
-  "tps": "6.0",
-  "ping": 215,
+  "tps": "7.0",
+  "ping": 262,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2550
+      "count": 2551
     },
     {
       "name": "pvp",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:33] [Ultra] <Moidtheboid> HOLY FUCKING SHIT",
-    "[20:33] [BOT] <0_HienBot> **Moidtheboid**: HOLY FUCKING SHIT",
-    "[20:33] [Ultra] <14mate> lol run?",
-    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:33] [Ultra] <Moidtheboid> YOUR BACK",
-    "[20:33] [BOT] <0_HienBot> **Moidtheboid**: YOUR BACK",
-    "[20:33] <ITZ_Kaido> ive been watching yall",
-    "[20:33] <botchaosonix666> alr ret",
-    "[20:33] [BOT] <0_HienBot> **ITZ_Kaido**: ive been watching yall",
-    "[20:33] [8b8t] >> You have killed yourself!",
-    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:33] [8b8t] >> The TPA request you sent to Jacksoncity385 was successfully canceled.",
-    "[20:33] <Reluctancee> who has totems since i cant figure out how to dupe",
-    "[20:33] [BOT] <0_HienBot> **Reluctancee**: who has totems since i cant figure out how to dupe",
-    "[20:33] [Ultra] <Moidtheboid> I THOUGHT YOU WERE GONE FOR GOOD",
-    "[20:33] [BOT] <0_HienBot> **Moidtheboid**: I THOUGHT YOU WERE GONE FOR GOOD",
-    "[20:33] <kataxen> redstone",
-    "[20:33] [BOT] <0_HienBot> **kataxen**: redstone",
-    "[20:33] [8b8t] >> Teleporting to home 0...",
-    "[20:33] [8b8t] >> Teleporting to home 2...",
-    "[20:33] To kataxen: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[20:33] <ITZ_Kaido> nah",
     "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:33] [BOT] <0_HienBot> **ITZ_Kaido**: nah",
@@ -108,7 +86,29 @@
     "[20:33] To kataxen: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:33] [BOT] <0_HienBot> **Bot to kataxen**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[20:33] [8b8t] >> Request sent to kataxen",
-    "[20:33] [8b8t] >> Teleporting..."
+    "[20:33] [8b8t] >> Teleporting...",
+    "[20:33] <V_VI> !survival",
+    "[20:33] [BOT] <0_HienBot> **V_VI**: !survival",
+    "[20:33] [8b8t] >> Teleporting to home 0...",
+    "[20:33] [Ultra] <Moidtheboid> you missed the illgal event bruh",
+    "[20:33] <Jacksoncity385> ?kit dupe",
+    "[20:33] [8b8t] >> Teleporting to home 1...",
+    "[20:33] To V_VI: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:33] [BOT] <0_HienBot> **Bot to V_VI**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:33] <botchaosonix666> 14mate true or lie?",
+    "[20:33] To V_VI: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:33] [8b8t] >> Request sent to V_VI",
+    "[20:33] [8b8t] >> Teleporting...",
+    "[20:33] <Jacksoncity385> dupe",
+    "[20:33] [Ultra] <14mate> true tobias dox",
+    "[20:33] To Jacksoncity385: You're on cooldown, try again in 31 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:33] [BOT] <0_HienBot> **Jacksoncity385**: dupe",
+    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:33] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1396,12 +1396,13 @@
     "Norml_Human0": 5,
     "iamyou123": 2,
     "freep12": 1,
-    "Jacksoncity385": 1
+    "Jacksoncity385": 1,
+    "V_VI": 1
   },
   "kitStats": {
     "pvp": 2266,
     "raid": 717,
-    "survival": 2550,
+    "survival": 2551,
     "shulker": 1099,
     "music": 280,
     "terracotta": 50,
