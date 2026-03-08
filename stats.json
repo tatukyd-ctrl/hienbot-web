@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:00:28 9/3/2026",
-  "totalKits": 109157,
-  "todayKits": 83,
+  "lastUpdated": "00:00:58 9/3/2026",
+  "totalKits": 109158,
+  "todayKits": 84,
   "onlineCount": 38,
   "peakPlayers": 48,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 30
   },
-  "tps": "9.0",
-  "ping": 217,
+  "tps": "11.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2221
+      "count": 2222
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:57] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
-    "[16:58] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[16:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[16:58] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
-    "[16:58] <Dreamers> !elytra",
-    "[16:58] [8b8t] >> Teleporting to home 0...",
-    "[16:58] [BOT] <0_HienBot> **Dreamers**: !elytra",
-    "[16:58] [8b8t] >> Teleporting to home 6...",
-    "[16:58] To Dreamers: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:58] To Dreamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:58] [BOT] <0_HienBot> **Bot to Dreamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:58] [8b8t] >> Request sent to Dreamers",
     "[16:58] [8b8t] >> Teleporting...",
@@ -108,7 +97,18 @@
     "[16:59] [BOT] <0_HienBot> **Bot to Reluctancee**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[16:59] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[16:59] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[17:00] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!"
+    "[17:00] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[17:00] [8b8t] >> Please do not spam.",
+    "[17:00] <Reluctancee> kit pvp",
+    "[17:00] [8b8t] >> Teleporting to home 0...",
+    "[17:00] [BOT] <0_HienBot> **Reluctancee**: kit pvp",
+    "[17:00] [8b8t] >> Teleporting to home 1...",
+    "[17:00] To Reluctancee: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:00] To Reluctancee: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:00] [BOT] <0_HienBot> **Bot to Reluctancee**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:00] [8b8t] >> Request sent to Reluctancee",
+    "[17:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1380,10 +1380,10 @@
     "zJams": 4,
     "Hyore123098": 1,
     "noobie": 2,
-    "Reluctancee": 1
+    "Reluctancee": 2
   },
   "kitStats": {
-    "pvp": 2221,
+    "pvp": 2222,
     "raid": 705,
     "survival": 2529,
     "shulker": 1095,
