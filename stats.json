@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:30:45 8/3/2026",
+  "lastUpdated": "07:31:01 8/3/2026",
   "totalKits": 108730,
   "todayKits": 26,
   "onlineCount": 39,
@@ -12,8 +12,8 @@
     "maxTime": "07:18:30 8/3/2026",
     "avg": 38
   },
-  "tps": "7.0",
-  "ping": 211,
+  "tps": "11.0",
+  "ping": 259,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2108
+      "count": 2109
     },
     {
       "name": "shulker",
@@ -79,27 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:30] To SANAD_1: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:30] [BOT] <HienBot> **Bot to SANAD_1**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:30] [8b8t] >> Request sent to SANAD_1",
-    "[00:30] [8b8t] >> Teleporting...",
-    "[00:30] [BOT] <HienBot> >Hello Antonhysv!",
-    "[00:30] Wemm6u decided to test gravity and lost",
-    "[00:30] <the_brotherhood> pvp",
-    "[00:30] [BOT] <HienBot> **the_brotherhood**: pvp",
-    "[00:30] [8b8t] >> You have killed yourself!",
-    "[00:30] HienBot has been put down by SANAD_1",
-    "[00:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:30] To the_brotherhood: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[00:30] [8b8t] >> ▼ Player slattuhhs Left.",
-    "[00:30] [BOT] <HienBot> **Bot to the_brotherhood**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[00:30] [8b8t] >> Teleporting to home 0...",
-    "[00:30] [8b8t] >> Teleporting to home 1...",
-    "[00:30] S4boeh4o decided to test gravity and lost",
-    "[00:30] To the_brotherhood: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:30] [BOT] <HienBot> **Bot to the_brotherhood**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:30] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[00:30] [8b8t] >> Request sent to the_brotherhood",
     "[00:30] [8b8t] >> Teleporting...",
     "[00:30] <argenis> pvp",
@@ -108,7 +87,28 @@
     "[00:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[00:30] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
     "[00:30] [8b8t] >> You arent ignoring adri989",
-    "[00:30] [8b8t] >> Please include a player /ignore <playerName>"
+    "[00:30] [8b8t] >> Please include a player /ignore <playerName>",
+    "[00:30] [8b8t] >> You arent ignoring IamNuke_",
+    "[00:30] [8b8t] >> You have killed yourself!",
+    "[00:30] Chat disabled in client options",
+    "[00:30] Chat disabled in client options",
+    "[00:30] <Atunfrio_01> ~kit",
+    "[00:30] To Atunfrio_01: Hello Atunfrio_01!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[00:30] [BOT] <HienBot> **Atunfrio_01**: ~kit",
+    "[00:30] [8b8t] >> You arent ignoring Real4Tribe",
+    "[00:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:30] To the_brotherhood: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[00:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:30] [8b8t] >> ▲ Player angel009098 Joined.",
+    "[00:30] [8b8t] >> ▼ Player S4boeh4o Left.",
+    "[00:30] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
+    "[00:30] <Atunfrio_01> ~kit PVP",
+    "[00:30] [8b8t] >> Teleporting to home 0...",
+    "[00:30] [8b8t] >> You arent ignoring adri989",
+    "[00:31] [8b8t] >> Teleporting to home 1...",
+    "[00:31] [BOT] <HienBot> **Atunfrio_01**: ~kit PVP",
+    "[00:31] To Atunfrio_01: Your kit (PVP) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:31] [8b8t] >> You arent ignoring IamNuke_"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1343,14 +1343,14 @@
     "argenis": 4,
     "razadelpollonoob": 2,
     ".BusierMoss41520": 3,
-    "Atunfrio_01": 2,
+    "Atunfrio_01": 3,
     "SANAD_1": 4,
     ".Javier_03207563": 5,
     "JuancaV": 4,
     "the_brotherhood": 1
   },
   "kitStats": {
-    "pvp": 2108,
+    "pvp": 2109,
     "raid": 686,
     "survival": 2443,
     "shulker": 1082,
