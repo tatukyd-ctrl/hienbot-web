@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:52:59 9/3/2026",
+  "lastUpdated": "05:53:29 9/3/2026",
   "totalKits": 109340,
   "todayKits": 266,
   "onlineCount": 31,
@@ -12,7 +12,7 @@
     "maxTime": "04:01:41 9/3/2026",
     "avg": 33
   },
-  "tps": "15.0",
+  "tps": "12.0",
   "ping": 213,
   "topUsers": [
     {
@@ -59,11 +59,11 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2605
+      "count": 2606
     },
     {
       "name": "pvp",
-      "count": 2296
+      "count": 2297
     },
     {
       "name": "shulker",
@@ -79,27 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:51] [8b8t] >> You have killed yourself!",
-    "[22:51] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[22:51] To arjebn: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[22:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:51] [BOT] <0_HienBot> >Use lang and select your language",
-    "[22:51] <Antonhysv> survival",
-    "[22:52] [8b8t] >> Teleporting to home 0...",
-    "[22:52] spike2341 has made the advancement [Getting an Upgrade]",
-    "[22:52] [BOT] <0_HienBot> **Antonhysv**: survival",
-    "[22:52] [8b8t] >> Teleporting to home 1...",
-    "[22:52] To Antonhysv: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:52] <yostin_12> tengo una duda",
-    "[22:52] [BOT] <0_HienBot> **yostin_12**: tengo una duda",
-    "[22:52] To Antonhysv: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:52] [BOT] <0_HienBot> **Bot to Antonhysv**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:52] [8b8t] >> Request sent to Antonhysv",
-    "[22:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:52] RockyDavis191 has made the advancement [We Need to Go Deeper]",
-    "[22:52] [8b8t] >> Teleporting...",
-    "[22:52] <valudde> ?",
     "[22:52] [BOT] <0_HienBot> **valudde**: ?",
     "[22:52] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[22:52] <yostin_12> como puedo dupear",
@@ -108,7 +87,28 @@
     "[22:52] <TotallyNotCrazy> PG",
     "[22:52] [BOT] <0_HienBot> **TotallyNotCrazy**: PG",
     "[22:52] <yostin_12> q dijo",
-    "[22:52] [BOT] <0_HienBot> **yostin_12**: q dijo"
+    "[22:52] [BOT] <0_HienBot> **yostin_12**: q dijo",
+    "[22:53] [BOT] <0_HienBot> >Type invite for invite rewards info",
+    "[22:53] <TotallyNotCrazy> PVP",
+    "[22:53] [8b8t] >> Teleporting to home 0...",
+    "[22:53] [8b8t] >> Teleporting to home 1...",
+    "[22:53] [BOT] <0_HienBot> **TotallyNotCrazy**: PVP",
+    "[22:53] To TotallyNotCrazy: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:53] To TotallyNotCrazy: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[22:53] [BOT] <0_HienBot> **Bot to TotallyNotCrazy**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[22:53] <kapiadam> pls map art msg",
+    "[22:53] [BOT] <0_HienBot> **kapiadam**: pls map art msg",
+    "[22:53] <valudde> ahora si xd",
+    "[22:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:53] <TotallyNotCrazy> Survival",
+    "[22:53] [8b8t] >> Teleporting to home 0...",
+    "[22:53] [BOT] <0_HienBot> **TotallyNotCrazy**: Survival",
+    "[22:53] [8b8t] >> Teleporting to home 1...",
+    "[22:53] To TotallyNotCrazy: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:53] To TotallyNotCrazy: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:53] [BOT] <0_HienBot> **Bot to TotallyNotCrazy**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1335,7 +1335,7 @@
     "Nyxion49": 1,
     "Erito21": 3,
     "BACKberat31": 1,
-    "TotallyNotCrazy": 9,
+    "TotallyNotCrazy": 11,
     "The_juice999": 2,
     "otiseu": 1,
     "kostah": 1,
@@ -1416,9 +1416,9 @@
     "BoroBhai": 1
   },
   "kitStats": {
-    "pvp": 2296,
+    "pvp": 2297,
     "raid": 720,
-    "survival": 2605,
+    "survival": 2606,
     "shulker": 1106,
     "music": 282,
     "terracotta": 50,
