@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:18:25 8/3/2026",
+  "lastUpdated": "11:18:40 8/3/2026",
   "totalKits": 108856,
   "todayKits": 107,
-  "onlineCount": 39,
+  "onlineCount": 38,
   "peakPlayers": 46,
   "playerStats": {
     "min": 1,
@@ -12,7 +12,7 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 35
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 217,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2134
+      "count": 2135
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:16] <.Taaysooon> totem",
-    "[04:16] To .Taaysooon: You're on cooldown, try again in 22 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:16] [BOT] <HienBot> **.Taaysooon**: totem",
-    "[04:17] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
-    "[04:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:17] [8b8t] >> You arent ignoring adri989",
-    "[04:17] [8b8t] >> Please include a player /ignore <playerName>",
-    "[04:17] [8b8t] >> You arent ignoring IamNuke_",
-    "[04:17] [8b8t] >> You arent ignoring h6sx",
-    "[04:17] [8b8t] >> You arent ignoring Real4Tribe",
-    "[04:17] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[04:17] [BOT] <HienBot> >Try status",
     "[04:17] L3m0nGG tried to defuse a Creeper... it didn't work",
     "[04:17] [BOT] <HienBot> >Bot created by Hien2309.",
     "[04:17] [8b8t] >> ▲ Player kutuzovs Joined.",
@@ -108,7 +96,19 @@
     "[04:18] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:18] [8b8t] >> Request sent to Azure772",
     "[04:18] [8b8t] >> Teleporting...",
-    "[04:18] [Ultra] <NETANYAHU> refill"
+    "[04:18] [Ultra] <NETANYAHU> refill",
+    "[04:18] L3m0nGG burned up in a pit of lava",
+    "[04:18] [BOT] <HienBot> **kutuzovs**: refill",
+    "[04:18] [8b8t] >> You have killed yourself!",
+    "[04:18] HienBot was slain by Azure772 using [The Apple Shop]",
+    "[04:18] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[04:18] [BOT] <HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[04:18] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[04:18] kobthegoat14 got slammed into a wall by his elytra",
+    "[04:18] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
+    "[04:18] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[04:18] <Nissin__> totem",
+    "[04:18] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1356,11 +1356,11 @@
     "iamgayy": 1,
     "S4boeh4o": 7,
     "AZK_003": 7,
-    "Nissin__": 5,
+    "Nissin__": 6,
     "ZENIMLAG": 1
   },
   "kitStats": {
-    "pvp": 2134,
+    "pvp": 2135,
     "raid": 688,
     "survival": 2477,
     "shulker": 1088,
