@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:26:28 8/3/2026",
+  "lastUpdated": "21:26:58 8/3/2026",
   "totalKits": 109088,
   "todayKits": 14,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 36,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 29
   },
-  "tps": "10.0",
-  "ping": 209,
+  "tps": "4.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2501
+      "count": 2502
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:24] [8b8t] >> You have killed yourself!",
-    "[14:24] [8b8t] >> No TPA request found",
-    "[14:24] <Jamjox> afk",
-    "[14:24] [BOT] <0_HienBot> **Jamjox**: afk",
-    "[14:24] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[14:24] <Schizoknight> wood",
-    "[14:24] [8b8t] >> Teleporting to home 0...",
-    "[14:24] [8b8t] >> Please do not spam.",
-    "[14:24] [8b8t] >> Teleporting to home 3...",
-    "[14:24] To Schizoknight: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:24] To Schizoknight: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:24] [BOT] <0_HienBot> **Bot to Schizoknight**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[14:24] [8b8t] >> Request sent to Schizoknight",
     "[14:24] <Schizoknight> tpayes",
@@ -108,7 +95,20 @@
     "[14:25] danicoso23 has made the advancement [Diamonds!]",
     "[14:25] <Super_jj9000> huh",
     "[14:25] [BOT] <0_HienBot> **Super_jj9000**: huh",
-    "[14:26] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command"
+    "[14:26] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[14:26] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
+    "[14:26] <Super_jj9000> oh right",
+    "[14:26] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[14:26] [BOT] <0_HienBot> **Super_jj9000**: oh right",
+    "[14:26] <Super_jj9000> survival",
+    "[14:26] [8b8t] >> Teleporting to home 0...",
+    "[14:26] [BOT] <0_HienBot> **Super_jj9000**: survival",
+    "[14:26] [8b8t] >> Teleporting to home 1...",
+    "[14:26] To Super_jj9000: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:26] To Super_jj9000: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:26] [BOT] <0_HienBot> **Bot to Super_jj9000**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:26] [8b8t] >> Request sent to Super_jj9000"
   ],
   "userStats": {
     "Hien2309": 89,
@@ -1371,12 +1371,13 @@
     "yesNipunpie": 2,
     "baromijofej": 1,
     "Jamjox": 6,
-    "rostyslav1k": 3
+    "rostyslav1k": 3,
+    "Super_jj9000": 1
   },
   "kitStats": {
     "pvp": 2197,
     "raid": 700,
-    "survival": 2501,
+    "survival": 2502,
     "shulker": 1093,
     "music": 277,
     "terracotta": 50,
