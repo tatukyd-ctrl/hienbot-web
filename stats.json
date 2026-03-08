@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:00:40 8/3/2026",
+  "lastUpdated": "09:01:10 8/3/2026",
   "totalKits": 108767,
   "todayKits": 18,
   "onlineCount": 31,
@@ -12,8 +12,8 @@
     "maxTime": "07:18:30 8/3/2026",
     "avg": 33
   },
-  "tps": "10.0",
-  "ping": 1137,
+  "tps": "12.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:58] To ArgGvng: Kit \"random\" not found! Giving you (raid) instead! dsc.gg/hienbot",
-    "[01:58] [BOT] <HienBot> **Bot to ArgGvng**: Kit \"random\" not found! Giving you (raid) instead! dsc.gg/hienbot",
-    "[01:58] To ArgGvng: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:58] [BOT] <HienBot> **Bot to ArgGvng**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:58] [8b8t] >> Request sent to ArgGvng",
-    "[01:58] [8b8t] >> Teleporting...",
-    "[01:58] C4tF4n12 decided to test gravity and lost",
     "[01:58] [8b8t] >> ▼ Player iTrisstan Left.",
     "[01:58] [8b8t] >> You have killed yourself!",
     "[01:58] HienBot tried to defuse a Creeper... it didn't work",
@@ -108,7 +101,14 @@
     "[02:00] C4tF4n12 forgot to bring their parachute",
     "[02:00] [8b8t] >> ▲ Player .Redjul543 Joined.",
     "[02:00] [8b8t] >> ▲ Player .zczsXiaoBao Joined.",
-    "[02:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[02:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[02:00] [8b8t] >> Please do not spam.",
+    "[02:01] <ArgGvng> ~kit exp",
+    "[02:01] [8b8t] >> Teleporting to home 0...",
+    "[02:01] [BOT] <HienBot> **ArgGvng**: ~kit exp",
+    "[02:01] [8b8t] >> Teleporting to home 5...",
+    "[02:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:01] To ArgGvng: Your kit (exp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1350,7 +1350,7 @@
     "the_brotherhood": 1,
     "Wemm6u": 3,
     "Xylophones": 5,
-    "ArgGvng": 11
+    "ArgGvng": 12
   },
   "kitStats": {
     "pvp": 2114,
@@ -1364,7 +1364,7 @@
     "armortrims": 166,
     "toolbox": 221,
     "wool": 321,
-    "exp": 393,
+    "exp": 394,
     "stash": 722,
     "ocean": 81,
     "build": 868,
