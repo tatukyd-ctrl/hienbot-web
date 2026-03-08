@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:32:59 9/3/2026",
+  "lastUpdated": "01:33:29 9/3/2026",
   "totalKits": 109186,
   "todayKits": 112,
-  "onlineCount": 35,
+  "onlineCount": 33,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "11.0",
-  "ping": 209,
+  "tps": "10.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:30] To darsacc: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[18:30] [BOT] <0_HienBot> **Bot to darsacc**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[18:31] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
-    "[18:31] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[18:31] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[18:31] valudde has made the advancement [Hot Stuff]",
-    "[18:32] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[18:32] <valudde> list",
-    "[18:32] To valudde: Hello valudde!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:32] [BOT] <0_HienBot> **valudde**: list",
-    "[18:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:32] 3ashryman890 has made the advancement [Stone Age]",
-    "[18:32] <valudde> end",
-    "[18:32] [8b8t] >> Teleporting to home 0...",
-    "[18:32] [BOT] <0_HienBot> **valudde**: end",
-    "[18:32] [8b8t] >> Teleporting to home 5...",
     "[18:32] To valudde: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[18:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:32] To valudde: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +91,24 @@
     "[18:32] <kapiadam> pls map art pls",
     "[18:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:32] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[18:32] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[18:33] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[18:33] <valudde> list",
+    "[18:33] To valudde: Hello valudde!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[18:33] [BOT] <0_HienBot> **valudde**: list",
+    "[18:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:33] <ZoxyMapper> hey",
+    "[18:33] [BOT] <0_HienBot> **ZoxyMapper**: hey",
+    "[18:33] <valudde> stash",
+    "[18:33] [8b8t] >> Teleporting to home 0...",
+    "[18:33] <kapiadam> pls map art pls",
+    "[18:33] [BOT] <0_HienBot> **valudde**: stash",
+    "[18:33] [8b8t] >> Teleporting to home 2...",
+    "[18:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:33] To valudde: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:33] To valudde: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[18:33] [BOT] <0_HienBot> **Bot to valudde**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1383,7 +1383,7 @@
     "Reluctancee": 8,
     "PELlCULA": 1,
     "Jelbtheredmc": 1,
-    "valudde": 5
+    "valudde": 6
   },
   "kitStats": {
     "pvp": 2232,
@@ -1398,7 +1398,7 @@
     "toolbox": 229,
     "wool": 332,
     "exp": 420,
-    "stash": 746,
+    "stash": 747,
     "ocean": 86,
     "build": 895,
     "dye": 77,
