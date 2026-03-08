@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:03:40 8/3/2026",
-  "totalKits": 108892,
-  "todayKits": 143,
+  "lastUpdated": "12:04:02 8/3/2026",
+  "totalKits": 108893,
+  "todayKits": 144,
   "onlineCount": 27,
   "peakPlayers": 46,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 35
   },
-  "tps": "13.0",
-  "ping": 218,
+  "tps": "15.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2138
+      "count": 2139
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:01] To Nissin__: Sorry! Lime Shulker Box is out of stock. Giving you White Shulker Box instead! dsc.gg/hienbot",
-    "[05:01] [BOT] <HienBot> **Bot to Nissin__**: Sorry! Lime Shulker Box is out of stock. Giving you White Shulker Box instead! dsc.gg/hienbot",
-    "[05:01] [8b8t] >> Request sent to Nissin__",
-    "[05:01] [8b8t] >> Teleporting...",
-    "[05:01] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[05:01] [8b8t] >> You have killed yourself!",
-    "[05:01] HienBot has been killed by Nissin__",
-    "[05:01] To Nissin__: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:01] [BOT] <HienBot> **Bot to Nissin__**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:01] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
-    "[05:01] [8b8t] >> You arent ignoring adri989",
     "[05:01] [8b8t] >> Please include a player /ignore <playerName>",
     "[05:01] [8b8t] >> You arent ignoring IamNuke_",
     "[05:01] [8b8t] >> You arent ignoring Real4Tribe",
@@ -108,7 +96,19 @@
     "[05:03] [8b8t] >> ▲ Player ezzz_mario222 Joined.",
     "[05:03] [8b8t] >> ▼ Player Azure772 Left.",
     "[05:03] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[05:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[05:03] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[05:03] [BOT] <HienBot> >Use list to choose your kit",
+    "[05:03] <LeWith1E> kit pvp",
+    "[05:03] [BOT] <HienBot> **LeWith1E**: kit pvp",
+    "[05:03] [8b8t] >> Teleporting to home 0...",
+    "[05:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:03] [8b8t] >> Teleporting to home 1...",
+    "[05:03] To LeWith1E: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:03] To LeWith1E: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:03] [BOT] <HienBot> **Bot to LeWith1E**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:03] [8b8t] >> Request sent to LeWith1E",
+    "[05:03] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1360,10 +1360,11 @@
     "ZENIMLAG": 1,
     ".YT_Toxic212": 2,
     ".Shadow86048022": 9,
-    "SiC419AoR": 6
+    "SiC419AoR": 6,
+    "LeWith1E": 1
   },
   "kitStats": {
-    "pvp": 2138,
+    "pvp": 2139,
     "raid": 690,
     "survival": 2479,
     "shulker": 1089,
