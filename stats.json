@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:33:40 8/3/2026",
-  "totalKits": 108867,
-  "todayKits": 118,
+  "lastUpdated": "11:34:03 8/3/2026",
+  "totalKits": 108868,
+  "todayKits": 119,
   "onlineCount": 36,
   "peakPlayers": 46,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 35
   },
-  "tps": "11.0",
+  "tps": "8.0",
   "ping": 205,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2136
+      "count": 2137
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:33] To Azure772: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:33] [8b8t] >> Teleporting to home 0...",
-    "[04:33] [8b8t] >> Teleporting to home 2...",
-    "[04:33] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:33] <.Shadow86048022> redstone",
-    "[04:33] To .Shadow86048022: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[04:33] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:33] [8b8t] >> Request sent to Azure772",
-    "[04:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:33] [8b8t] >> Teleporting...",
-    "[04:33] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
-    "[04:33] [8b8t] >> You arent ignoring adri989",
     "[04:33] [8b8t] >> Please include a player /ignore <playerName>",
     "[04:33] [8b8t] >> You arent ignoring IamNuke_",
     "[04:33] [8b8t] >> You arent ignoring Real4Tribe",
@@ -108,7 +94,21 @@
     "[04:33] [8b8t] >> You arent ignoring IamNuke_",
     "[04:33] [8b8t] >> You arent ignoring Real4Tribe",
     "[04:33] [8b8t] >> You arent ignoring h6sx",
-    "[04:33] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[04:33] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[04:33] <.Shadow86048022> Guys how do i get a kit",
+    "[04:33] [BOT] <HienBot> **.Shadow86048022**: Guys how do i get a kit",
+    "[04:33] <.Shadow86048022> pvp",
+    "[04:33] [8b8t] >> Teleporting to home 0...",
+    "[04:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:33] [8b8t] >> Teleporting to home 1...",
+    "[04:33] To .Shadow86048022: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:33] [BOT] <HienBot> 📦 .Shadow86048022 requested pvp kit.",
+    "[04:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:33] To .Shadow86048022: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:33] [BOT] <HienBot> **Bot to .Shadow86048022**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:33] [8b8t] >> Request sent to .Shadow86048022",
+    "[04:33] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1358,10 +1358,11 @@
     "AZK_003": 7,
     "Nissin__": 7,
     "ZENIMLAG": 1,
-    ".YT_Toxic212": 2
+    ".YT_Toxic212": 2,
+    ".Shadow86048022": 1
   },
   "kitStats": {
-    "pvp": 2136,
+    "pvp": 2137,
     "raid": 688,
     "survival": 2478,
     "shulker": 1088,
