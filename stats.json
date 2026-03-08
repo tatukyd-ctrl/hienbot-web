@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:43:29 9/3/2026",
-  "totalKits": 109189,
-  "todayKits": 115,
-  "onlineCount": 35,
+  "lastUpdated": "01:43:48 9/3/2026",
+  "totalKits": 109190,
+  "todayKits": 116,
+  "onlineCount": 36,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "10.0",
+  "tps": "14.0",
   "ping": 205,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2535
+      "count": 2536
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:40] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
-    "[18:40] <slimshady1> OKAY",
-    "[18:40] [BOT] <0_HienBot> **slimshady1**: OKAY",
-    "[18:41] [BOT] <0_HienBot> >What's up, .creepersgonna1?",
-    "[18:41] Osby_ has made the advancement [Getting an Upgrade]",
-    "[18:41] <.creepersgonna1> survival",
-    "[18:41] [BOT] <0_HienBot> **.creepersgonna1**: survival",
-    "[18:41] [8b8t] >> Teleporting to home 0...",
-    "[18:41] [8b8t] >> Teleporting to home 1...",
-    "[18:41] To .creepersgonna1: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[18:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:41] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
     "[18:41] To .creepersgonna1: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[18:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +97,18 @@
     "[18:43] [XMAS2025] <Tobias> what is minelord",
     "[18:43] [BOT] <0_HienBot> **CuloGangTobias**: what is minelord",
     "[18:43] [XMAS2025] <Tobias> ??",
-    "[18:43] [BOT] <0_HienBot> **CuloGangTobias**: ??"
+    "[18:43] [BOT] <0_HienBot> **CuloGangTobias**: ??",
+    "[18:43] <.creepersgonna1> survival",
+    "[18:43] [8b8t] >> Teleporting to home 0...",
+    "[18:43] [BOT] <0_HienBot> **.creepersgonna1**: survival",
+    "[18:43] [8b8t] >> Teleporting to home 1...",
+    "[18:43] To .creepersgonna1: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:43] To .creepersgonna1: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:43] [BOT] <0_HienBot> **Bot to .creepersgonna1**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:43] [8b8t] >> Request sent to .creepersgonna1",
+    "[18:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1384,12 +1384,12 @@
     "PELlCULA": 1,
     "Jelbtheredmc": 1,
     "valudde": 7,
-    ".creepersgonna1": 1
+    ".creepersgonna1": 2
   },
   "kitStats": {
     "pvp": 2232,
     "raid": 709,
-    "survival": 2535,
+    "survival": 2536,
     "shulker": 1098,
     "music": 280,
     "terracotta": 50,
