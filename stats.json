@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:26:40 8/3/2026",
+  "lastUpdated": "11:27:10 8/3/2026",
   "totalKits": 108864,
   "todayKits": 115,
-  "onlineCount": 41,
+  "onlineCount": 39,
   "peakPlayers": 46,
   "playerStats": {
     "min": 1,
@@ -12,8 +12,8 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 35
   },
-  "tps": "9.0",
-  "ping": 206,
+  "tps": "13.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2135
+      "count": 2136
     },
     {
       "name": "shulker",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:25] [8b8t] >> You arent ignoring IamNuke_",
-    "[04:25] [8b8t] >> You arent ignoring h6sx",
-    "[04:26] <.Shadow86048022> Omg daddy be harsh on me >(",
-    "[04:26] [BOT] <HienBot> **.Shadow86048022**: Omg daddy be harsh on me >(",
-    "[04:26] [8b8t] >> You arent ignoring Real4Tribe",
-    "[04:26] <.Shadow86048022> Guys anyone got a bucket to put all the milk I just made in?",
-    "[04:26] [BOT] <HienBot> **.Shadow86048022**: Guys anyone got a bucket to put all the milk I just made in?",
-    "[04:26] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:26] [BOT] <HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[04:26] <Azure772> REDSTONE",
-    "[04:26] [8b8t] >> Teleporting to home 0...",
-    "[04:26] [8b8t] >> Teleporting to home 2...",
-    "[04:26] [BOT] <HienBot> **Azure772**: REDSTONE",
-    "[04:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:26] To Azure772: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:26] [8b8t] >> ▲ Player RUSSNEY Joined.",
-    "[04:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:26] [8b8t] >> ▼ Player blake Left.",
-    "[04:26] <.Shadow86048022> IM STEVING IT UHHGGG IM STEVING IT AAAAHHHH",
-    "[04:26] [BOT] <HienBot> **.Shadow86048022**: IM STEVING IT UHHGGG IM STEVING IT AAAAHHHH",
-    "[04:26] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[04:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[04:26] [8b8t] >> Request sent to Azure772",
     "[04:26] [8b8t] >> Teleporting...",
     "[04:26] [8b8t] >> You have killed yourself!",
@@ -108,7 +86,29 @@
     "[04:26] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[04:26] [BOT] <HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[04:26] <.Shadow86048022> im gonna oil you up so hard",
-    "[04:26] [BOT] <HienBot> **.Shadow86048022**: im gonna oil you up so hard"
+    "[04:26] [BOT] <HienBot> **.Shadow86048022**: im gonna oil you up so hard",
+    "[04:26] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
+    "[04:26] <.Shadow86048022> Omg daddy be harsh on me >(",
+    "[04:26] [BOT] <HienBot> **.Shadow86048022**: Omg daddy be harsh on me >(",
+    "[04:26] [8b8t] >> You arent ignoring adri989",
+    "[04:26] [8b8t] >> Please include a player /ignore <playerName>",
+    "[04:26] [8b8t] >> You arent ignoring IamNuke_",
+    "[04:26] [8b8t] >> You arent ignoring h6sx",
+    "[04:26] [BOT] <HienBot> >Type discord",
+    "[04:26] [8b8t] >> You arent ignoring Real4Tribe",
+    "[04:26] [8b8t] >> ▼ Player RUSSNEY Left.",
+    "[04:26] [8b8t] >> ▼ Player TKoyasu Left.",
+    "[04:26] <.Shadow86048022> who has a kit?",
+    "[04:26] [BOT] <HienBot> **.Shadow86048022**: who has a kit?",
+    "[04:26] <.YuyuMC_QwQ> I have never heard steve as verbs",
+    "[04:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:27] <.YT_Toxic212> +kit pvp",
+    "[04:27] [BOT] <HienBot> **.YT_Toxic212**: +kit pvp",
+    "[04:27] [8b8t] >> Teleporting to home 0...",
+    "[04:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:27] [8b8t] >> Teleporting to home 1...",
+    "[04:27] To .YT_Toxic212: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:27] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1357,10 +1357,11 @@
     "S4boeh4o": 7,
     "AZK_003": 7,
     "Nissin__": 7,
-    "ZENIMLAG": 1
+    "ZENIMLAG": 1,
+    ".YT_Toxic212": 1
   },
   "kitStats": {
-    "pvp": 2135,
+    "pvp": 2136,
     "raid": 688,
     "survival": 2478,
     "shulker": 1088,
