@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:51:35 9/3/2026",
+  "lastUpdated": "06:51:59 9/3/2026",
   "totalKits": 109397,
   "todayKits": 323,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "04:01:41 9/3/2026",
     "avg": 33
   },
-  "tps": "11.0",
-  "ping": 213,
+  "tps": "14.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2637
+      "count": 2638
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:49] <.GhostBlue155> me voy, pero como me aburro, filtrare mis coordenadas",
-    "[23:49] [BOT] <0_HienBot> **.GhostBlue155**: me voy, pero como me aburro, filtrare mis coordenadas",
-    "[23:49] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
-    "[23:49] .XBEAR67 has made the advancement [Stone Age]",
-    "[23:49] [8b8t] >> You have killed yourself!",
-    "[23:49] [8b8t] >> The TPA request you sent to Pizzaroll189667 was successfully canceled.",
-    "[23:49] <.GhostBlue155> quien llegue a mi casita de obsidiana se gana unas elitras y 1 totem gratis",
-    "[23:49] [BOT] <0_HienBot> **.GhostBlue155**: quien llegue a mi casita de obsidiana se gana unas elitras y 1 totem gratis",
-    "[23:50] <Pizzaroll189667> survival",
-    "[23:50] To Pizzaroll189667: You're on cooldown, try again in 47 seconds! Don't forget to join dsc.gg/hienbot",
-    "[23:50] [BOT] <0_HienBot> **Pizzaroll189667**: survival",
-    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:50] [BOT] <0_HienBot> >Type invite for invite rewards info",
-    "[23:50] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[23:51] [BOT] <0_HienBot> >Get fully equipped with pvp",
     "[23:51] <Azure772> mineral",
     "[23:51] [8b8t] >> Teleporting to home 0...",
     "[23:51] [BOT] <0_HienBot> **Azure772**: mineral",
@@ -108,7 +92,23 @@
     "[23:51] To Pizzaroll189667: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[23:51] [8b8t] >> Teleporting...",
     "[23:51] Chat disabled in client options",
-    "[23:51] [BOT] <0_HienBot> **Bot to Pizzaroll189667**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot"
+    "[23:51] [BOT] <0_HienBot> **Bot to Pizzaroll189667**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[23:51] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
+    "[23:51] [Ultra] <NETANYAHU> =kit anchor",
+    "[23:51] kutuzovs is ignoring you",
+    "[23:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:51] [8b8t] >> You have killed yourself!",
+    "[23:51] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[23:51] [BOT] <0_HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[23:51] <Pizzaroll189667> survival",
+    "[23:51] [8b8t] >> Teleporting to home 0...",
+    "[23:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:51] [8b8t] >> Teleporting to home 1...",
+    "[23:51] To Pizzaroll189667: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:51] [BOT] <0_HienBot> **Bot to Pizzaroll189667**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:51] To Pizzaroll189667: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:51] [BOT] <0_HienBot> **Bot to Pizzaroll189667**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:51] [8b8t] >> Request sent to Pizzaroll189667"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1419,12 +1419,12 @@
     "7qsi": 2,
     "Shyinnn": 1,
     "itz_ju4n": 3,
-    "Pizzaroll189667": 1
+    "Pizzaroll189667": 2
   },
   "kitStats": {
     "pvp": 2304,
     "raid": 722,
-    "survival": 2637,
+    "survival": 2638,
     "shulker": 1107,
     "music": 283,
     "terracotta": 50,
