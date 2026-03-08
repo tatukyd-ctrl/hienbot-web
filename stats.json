@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:56:29 9/3/2026",
+  "lastUpdated": "01:56:59 9/3/2026",
   "totalKits": 109192,
   "todayKits": 118,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "11.0",
-  "ping": 217,
+  "tps": "14.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2538
+      "count": 2539
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:54] <alcala> hola me pueden ayudar",
-    "[18:54] [BOT] <0_HienBot> **alcala**: hola me pueden ayudar",
-    "[18:54] .Papuhumilde1208 has made the advancement [Diamonds!]",
-    "[18:54] [BOT] <0_HienBot> >Try status",
-    "[18:54] <halil31> hey bottttt",
-    "[18:54] [BOT] <0_HienBot> **halil31**: hey bottttt",
-    "[18:54] <alcala> hola",
-    "[18:54] [BOT] <0_HienBot> **alcala**: hola",
     "[18:55] <halil31> bot",
     "[18:55] [BOT] <0_HienBot> **halil31**: bot",
     "[18:55] [BOT] <0_HienBot> >Try list to see available kits",
@@ -108,7 +100,15 @@
     "[18:55] [8b8t] >> You have killed yourself!",
     "[18:56] To poopman2: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[18:56] [BOT] <0_HienBot> **Bot to poopman2**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:56] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11"
+    "[18:56] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[18:56] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
+    "[18:56] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[18:56] <poopman2> !survival",
+    "[18:56] [8b8t] >> Teleporting to home 0...",
+    "[18:56] [8b8t] >> Teleporting to home 1...",
+    "[18:56] [BOT] <0_HienBot> **poopman2**: !survival",
+    "[18:56] To poopman2: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:56] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1278,7 +1278,7 @@
     "_The_Courier_": 3,
     "asierprogamer": 2,
     "crisalber": 3,
-    "poopman2": 36,
+    "poopman2": 37,
     "shinemine": 7,
     "caseoh3": 5,
     "O_TalDoLuiz": 10,
@@ -1389,7 +1389,7 @@
   "kitStats": {
     "pvp": 2234,
     "raid": 709,
-    "survival": 2538,
+    "survival": 2539,
     "shulker": 1098,
     "music": 280,
     "terracotta": 50,
