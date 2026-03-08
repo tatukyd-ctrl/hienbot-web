@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:29:19 9/3/2026",
+  "lastUpdated": "05:29:29 9/3/2026",
   "totalKits": 109331,
   "todayKits": 257,
   "onlineCount": 32,
@@ -12,7 +12,7 @@
     "maxTime": "04:01:41 9/3/2026",
     "avg": 33
   },
-  "tps": "13.0",
+  "tps": "10.0",
   "ping": 206,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2294
+      "count": 2295
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:27] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
-    "[22:27] <arjebn> ¿kit",
-    "[22:27] To arjebn: Hello arjebn!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[22:27] [BOT] <0_HienBot> **arjebn**: kit",
-    "[22:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:27] <.Redjul543> nighten to me to you",
-    "[22:27] [BOT] <0_HienBot> **.Redjul543**: nighten to me to you",
-    "[22:27] .Redjul543 has reached the goal [The Next Generation]",
-    "[22:28] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
-    "[22:28] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[22:28] <megafandemtall> help me",
     "[22:28] [BOT] <0_HienBot> **megafandemtall**: help me",
     "[22:28] <Antonhysv> xd",
     "[22:28] [BOT] <0_HienBot> **Antonhysv**: xd",
@@ -108,7 +97,18 @@
     "[22:29] To cristobal25: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:29] [BOT] <0_HienBot> **Bot to cristobal25**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:29] [8b8t] >> Request sent to cristobal25",
-    "[22:29] [8b8t] >> Teleporting..."
+    "[22:29] [8b8t] >> Teleporting...",
+    "[22:29] [8b8t] >> You have killed yourself!",
+    "[22:29] <BoroBhai> ?kit pvp",
+    "[22:29] [8b8t] >> Teleporting to home 0...",
+    "[22:29] [BOT] <0_HienBot> **BoroBhai**: ?kit pvp",
+    "[22:29] [8b8t] >> Teleporting to home 1...",
+    "[22:29] To cristobal25: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[22:29] To BoroBhai: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:29] To BoroBhai: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[22:29] [BOT] <0_HienBot> **Bot to BoroBhai**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1412,10 +1412,11 @@
     "arjebn": 3,
     "RhettCTX": 2,
     "2b2tJourney": 1,
-    "dandin99": 1
+    "dandin99": 1,
+    "BoroBhai": 1
   },
   "kitStats": {
-    "pvp": 2294,
+    "pvp": 2295,
     "raid": 720,
     "survival": 2597,
     "shulker": 1106,
