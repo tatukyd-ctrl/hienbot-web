@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:12:58 8/3/2026",
-  "totalKits": 109139,
-  "todayKits": 65,
+  "lastUpdated": "23:13:12 8/3/2026",
+  "totalKits": 109140,
+  "todayKits": 66,
   "onlineCount": 40,
   "peakPlayers": 48,
   "playerStats": {
@@ -13,7 +13,7 @@
     "avg": 30
   },
   "tps": "11.0",
-  "ping": 248,
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2519
+      "count": 2520
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:11] [BOT] <0_HienBot> **Bot to zJams**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:11] [8b8t] >> Request sent to zJams",
-    "[16:11] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[16:11] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[16:12] [8b8t] >> You have killed yourself!",
-    "[16:12] [8b8t] >> Teleporting...",
-    "[16:12] [8b8t] >> No TPA request found",
-    "[16:12] [BOT] <0_HienBot> >Sub to Hien2309 in youtube",
-    "[16:12] <CamXHol_YT> tpa?",
-    "[16:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:12] <zJams> survival",
-    "[16:12] To zJams: You're on cooldown, try again in 41 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:12] [BOT] <0_HienBot> **zJams**: survival",
     "[16:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:12] <CamXHol_YT> tpa?",
     "[16:12] [BOT] <0_HienBot> **CamXHol_YT**: tpa?",
@@ -108,7 +95,20 @@
     "[16:12] <zJams> survival",
     "[16:12] To zJams: You're on cooldown, try again in 3 seconds! Don't forget to join dsc.gg/hienbot",
     "[16:12] [BOT] <0_HienBot> **zJams**: survival",
-    "[16:12] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[16:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:13] <zJams> survival",
+    "[16:13] [8b8t] >> Teleporting to home 0...",
+    "[16:13] <CamXHol_YT> but i wanst fight",
+    "[16:13] [BOT] <0_HienBot> **zJams**: survival",
+    "[16:13] [8b8t] >> Teleporting to home 1...",
+    "[16:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:13] To zJams: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:13] To zJams: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:13] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
+    "[16:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:13] [8b8t] >> Request sent to zJams",
+    "[16:13] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1377,12 +1377,12 @@
     "paulateamo": 5,
     "anshkuttan": 5,
     "LoMoLIOTwitch": 4,
-    "zJams": 1
+    "zJams": 2
   },
   "kitStats": {
     "pvp": 2219,
     "raid": 705,
-    "survival": 2519,
+    "survival": 2520,
     "shulker": 1095,
     "music": 277,
     "terracotta": 50,
