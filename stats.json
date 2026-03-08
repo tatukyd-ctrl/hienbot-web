@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:50:40 8/3/2026",
-  "totalKits": 108787,
-  "todayKits": 38,
-  "onlineCount": 34,
+  "lastUpdated": "09:51:00 8/3/2026",
+  "totalKits": 108788,
+  "todayKits": 39,
+  "onlineCount": 32,
   "peakPlayers": 38,
   "playerStats": {
     "min": 1,
@@ -12,7 +12,7 @@
     "maxTime": "07:18:30 8/3/2026",
     "avg": 34
   },
-  "tps": "14.0",
+  "tps": "9.0",
   "ping": 214,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2460
+      "count": 2461
     },
     {
       "name": "pvp",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:50] [8b8t] >> ▲ Player HienBot Joined.",
-    "[02:50] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[02:50] You are already connected to this server!",
-    "[02:50] [Ultra] <SENIOREMONEY> watch me run",
-    "[02:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:50] [Youtuber] <Malbacoo> ye i know",
-    "[02:50] [8b8t] >> ▼ Player _EoLuffy_ Left.",
-    "[02:50] [BOT] <HienBot> **Malbacoo**: ye i know",
-    "[02:50] <CamXHol_YT> survival",
-    "[02:50] To CamXHol_YT: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:50] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
-    "[02:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:50] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
-    "[02:50] [BOT] <HienBot> **Bot to CamXHol_YT**: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:50] [Youtuber] <Malbacoo> its the anticheat they changed it",
-    "[02:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:50] [8b8t] >> You arent ignoring adri989",
-    "[02:50] [8b8t] >> Please include a player /ignore <playerName>",
-    "[02:50] [8b8t] >> Please include a player /ignore <playerName>",
-    "[02:50] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
-    "[02:50] [8b8t] >> You arent ignoring IamNuke_",
-    "[02:50] [8b8t] >> You arent ignoring adri989",
     "[02:50] [8b8t] >> Please include a player /ignore <playerName>",
     "[02:50] [8b8t] >> You arent ignoring h6sx",
     "[02:50] [8b8t] >> You arent ignoring Real4Tribe",
@@ -108,7 +86,29 @@
     "[02:50] [BOT] <HienBot> **senioremoney**: i need rockets and elytra just to play???",
     "[02:50] [Youtuber] <Malbacoo> u can use efly",
     "[02:50] [8b8t] >> ▼ Player .Rockety450r Left.",
-    "[02:50] [BOT] <HienBot> **Malbacoo**: u can use efly"
+    "[02:50] [BOT] <HienBot> **Malbacoo**: u can use efly",
+    "[02:50] [8b8t] >> ▼ Player idkuser12 Left.",
+    "[02:50] [8b8t] >> ▼ Player .WiseRegent8281 Left.",
+    "[02:50] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[02:50] <CamXHol_YT> survival",
+    "[02:50] [8b8t] >> You have killed yourself!",
+    "[02:50] [BOT] <HienBot> **CamXHol_YT**: survival",
+    "[02:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:50] To CamXHol_YT: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:50] [8b8t] >> Teleporting to home 0...",
+    "[02:50] [8b8t] >> Teleporting to home 1...",
+    "[02:50] To CamXHol_YT: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:50] [BOT] <HienBot> **Bot to CamXHol_YT**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:50] [8b8t] >> Request sent to CamXHol_YT",
+    "[02:50] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[02:50] [8b8t] >> Ignored players: adri989, IamNuke_, h6sx, Real4Tribe",
+    "[02:50] [8b8t] >> Teleporting...",
+    "[02:50] [8b8t] >> You arent ignoring adri989",
+    "[02:50] [8b8t] >> Please include a player /ignore <playerName>",
+    "[02:50] [8b8t] >> You arent ignoring IamNuke_",
+    "[02:51] [8b8t] >> You arent ignoring h6sx"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1352,12 +1352,12 @@
     "Xylophones": 5,
     "ArgGvng": 19,
     "DrEggLord": 2,
-    "CamXHol_YT": 3
+    "CamXHol_YT": 4
   },
   "kitStats": {
     "pvp": 2117,
     "raid": 688,
-    "survival": 2460,
+    "survival": 2461,
     "shulker": 1084,
     "music": 265,
     "terracotta": 50,
