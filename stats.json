@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:48:39 9/3/2026",
+  "lastUpdated": "03:48:59 9/3/2026",
   "totalKits": 109246,
   "todayKits": 172,
   "onlineCount": 47,
@@ -12,8 +12,8 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 32
   },
-  "tps": "7.0",
-  "ping": 222,
+  "tps": "10.0",
+  "ping": 226,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2556
+      "count": 2557
     },
     {
       "name": "pvp",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:48] [8b8t] >> Request sent to Saad2001",
-    "[20:48] <xyz757> list",
-    "[20:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:48] To xyz757: Hello xyz757!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[20:48] [BOT] <0_HienBot> **Bot to xyz757**: Hello xyz757!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[20:48] [8b8t] >> Teleporting...",
     "[20:48] <Blanket_12> survivle",
@@ -108,7 +104,11 @@
     "[20:48] Chat disabled in client options",
     "[20:48] To xyz757: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:48] [BOT] <0_HienBot> **xyz757**: Glass",
-    "[20:48] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[20:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:48] [8b8t] >> You have killed yourself!",
+    "[20:48] To ITZ_Kaido: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:48] [BOT] <0_HienBot> **Bot to ITZ_Kaido**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:48] [Ultra] <Moidtheboid> home"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1399,12 +1399,13 @@
     "Jacksoncity385": 1,
     "V_VI": 2,
     "0n19z1": 5,
-    "davihosa12": 1
+    "davihosa12": 1,
+    "Moidtheboid": 1
   },
   "kitStats": {
     "pvp": 2277,
     "raid": 717,
-    "survival": 2556,
+    "survival": 2557,
     "shulker": 1099,
     "music": 280,
     "terracotta": 50,
