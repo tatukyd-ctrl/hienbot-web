@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:27:50 8/3/2026",
-  "totalKits": 109051,
-  "todayKits": 100,
-  "onlineCount": 30,
+  "lastUpdated": "19:28:06 8/3/2026",
+  "totalKits": 109052,
+  "todayKits": 101,
+  "onlineCount": 31,
   "peakPlayers": 34,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 28
   },
-  "tps": "14.0",
+  "tps": "13.0",
   "ping": 208,
   "topUsers": [
     {
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:26] [8b8t] >> Please include a player /ignore <playerName>",
-    "[12:26] [8b8t] >> ▲ Player JuancaV Joined.",
-    "[12:26] [8b8t] >> You arent ignoring IamNuke_",
-    "[12:26] [8b8t] >> You arent ignoring h6sx",
-    "[12:26] [8b8t] >> You arent ignoring Real4Tribe",
-    "[12:26] [8b8t] >> ▲ Player Jensjens1014 Joined.",
-    "[12:26] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[12:26] Jensjens1014 has completed the challenge [Cover Me in Debris]",
-    "[12:26] [8b8t] >> ▲ Player darsacc Joined.",
-    "[12:26] [BOT] <HienBot> >Type list for a list of kits",
-    "[12:26] [8b8t] >> ▲ Player HighwayCleaner Joined.",
-    "[12:26] Jensjens1014 has reached the goal [Sky's the Limit]",
-    "[12:26] [8b8t] >> ▲ Player saccbot Joined.",
-    "[12:26] Jensjens1014 has made the advancement [Monster Hunter]",
     "[12:27] [8b8t] >> ▲ Player baromijofej Joined.",
     "[12:27] Jensjens1014 has made the advancement [Ice Bucket Challenge]",
     "[12:27] <Fenix228> head",
@@ -108,7 +94,21 @@
     "[12:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:27] To Fenix228: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[12:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:27] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[12:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:27] To Fenix228: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[12:27] [BOT] <HienBot> **Bot to Fenix228**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[12:27] ResinMC Whispers: Wood",
+    "[12:27] [8b8t] >> Teleporting to home 0...",
+    "[12:27] [BOT] <HienBot> **ResinMC**: Wood",
+    "[12:27] [8b8t] >> Teleporting to home 3...",
+    "[12:27] To ResinMC: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:27] [BOT] <HienBot> 📦 ResinMC requested wood kit.",
+    "[12:27] [8b8t] >> ▲ Player DPS_Chatbridge Joined.",
+    "[12:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:27] To ResinMC: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:27] [8b8t] >> Request sent to ResinMC",
+    "[12:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 89,
@@ -758,7 +758,7 @@
     ".Synthetic_AN": 1,
     "new_guy_pro": 4,
     "mizumi_chane": 37,
-    "ResinMC": 110,
+    "ResinMC": 111,
     "wdawsdsawdsawd": 1,
     ".Prosthetic7037": 1,
     "ZoxyMapper": 1,
@@ -1398,7 +1398,7 @@
     "gap": 158,
     "mineral": 301,
     "gterracotta": 38,
-    "wood": 307,
+    "wood": 308,
     "end": 218
   }
 }
