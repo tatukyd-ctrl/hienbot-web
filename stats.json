@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:34:40 8/3/2026",
-  "totalKits": 108868,
-  "todayKits": 119,
+  "lastUpdated": "11:35:02 8/3/2026",
+  "totalKits": 108869,
+  "todayKits": 120,
   "onlineCount": 35,
   "peakPlayers": 46,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 35
   },
-  "tps": "14.0",
-  "ping": 210,
+  "tps": "10.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2478
+      "count": 2479
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:33] [8b8t] >> Teleporting...",
-    "[04:34] [8b8t] >> You have killed yourself!",
-    "[04:34] HienBot was pwned by .Shadow86048022 wielding [their hand]",
-    "[04:34] To .Shadow86048022: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:34] [BOT] <HienBot> **Bot to .Shadow86048022**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:34] .Shadow86048022 thought they could fly... they couldn't",
-    "[04:34] [8b8t] >> ▼ Player Antonhysv Left.",
-    "[04:34] [BOT] <HienBot> >Hello 04CF!",
-    "[04:34] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
-    "[04:34] [8b8t] >> You arent ignoring adri989",
-    "[04:34] [8b8t] >> Please include a player /ignore <playerName>",
-    "[04:34] <kobthegoat14> minelord",
-    "[04:34] [8b8t] >> You arent ignoring IamNuke_",
-    "[04:34] [BOT] <HienBot> **kobthegoat14**: minelord",
-    "[04:34] <.Shadow86048022> pvp",
-    "[04:34] To .Shadow86048022: You're on cooldown, try again in 23 seconds! Don't forget to join dsc.gg/hienbot",
     "[04:34] [8b8t] >> You arent ignoring Real4Tribe",
     "[04:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[04:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +92,23 @@
     "[04:34] <.Shadow86048022> stash",
     "[04:34] To .Shadow86048022: You're on cooldown, try again in 6 seconds! Don't forget to join dsc.gg/hienbot",
     "[04:34] [BOT] <HienBot> **.Shadow86048022**: stash",
-    "[04:34] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[04:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:34] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
+    "[04:34] <.Shadow86048022> survival",
+    "[04:34] [8b8t] >> Teleporting to home 0...",
+    "[04:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:34] [8b8t] >> Teleporting to home 1...",
+    "[04:34] [BOT] <HienBot> 📦 .Shadow86048022 requested survival kit.",
+    "[04:34] To .Shadow86048022: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:34] To .Shadow86048022: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:34] [BOT] <HienBot> **Bot to .Shadow86048022**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:34] [8b8t] >> Request sent to .Shadow86048022",
+    "[04:34] [8b8t] >> Teleporting...",
+    "[04:35] <kobthegoat14> elytra",
+    "[04:35] To kobthegoat14: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[04:35] [BOT] <HienBot> **kobthegoat14**: elytra",
+    "[04:35] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1359,12 +1359,12 @@
     "Nissin__": 7,
     "ZENIMLAG": 1,
     ".YT_Toxic212": 2,
-    ".Shadow86048022": 1
+    ".Shadow86048022": 2
   },
   "kitStats": {
     "pvp": 2137,
     "raid": 688,
-    "survival": 2478,
+    "survival": 2479,
     "shulker": 1088,
     "music": 269,
     "terracotta": 50,
