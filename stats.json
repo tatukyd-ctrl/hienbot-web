@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:26:40 8/3/2026",
+  "lastUpdated": "08:27:10 8/3/2026",
   "totalKits": 108750,
   "todayKits": 1,
   "onlineCount": 30,
@@ -12,8 +12,8 @@
     "maxTime": "07:18:30 8/3/2026",
     "avg": 35
   },
-  "tps": "11.0",
-  "ping": 204,
+  "tps": "14.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2112
+      "count": 2113
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:25] To ryooq: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:25] CamXHol_YT decided to test gravity and lost",
-    "[01:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:25] To ryooq: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:25] [BOT] <HienBot> **Bot to ryooq**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:25] [8b8t] >> Request sent to ryooq",
-    "[01:25] [8b8t] >> Teleporting...",
-    "[01:25] [8b8t] >> You have killed yourself!",
-    "[01:25] HienBot was slain by ryooq using [ryoop's sharp]",
-    "[01:25] [Ultra] <14mate> thank god he left",
-    "[01:25] [BOT] <HienBot> **14mate**: thank god he left",
-    "[01:25] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[01:25] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
     "[01:25] [8b8t] >> You arent ignoring adri989",
     "[01:25] [8b8t] >> ▼ Player emanuelo33 Left.",
     "[01:25] [8b8t] >> Please include a player /ignore <playerName>",
@@ -108,7 +95,20 @@
     "[01:26] <.Fatboi653831> what dupe is active?",
     "[01:26] [BOT] <HienBot> **.Fatboi653831**: what dupe is active?",
     "[01:26] [8b8t] >> ▲ Player .unknownguy59093 Joined.",
-    "[01:26] [8b8t] >> ▲ Player Hien2309 Joined."
+    "[01:26] [8b8t] >> ▲ Player Hien2309 Joined.",
+    "[01:26] [BOT] <HienBot> >Need gear? Type pvp to get started!",
+    "[01:26] <Xylophones> pvp",
+    "[01:26] [BOT] <HienBot> **Xylophones**: pvp",
+    "[01:26] [8b8t] >> Teleporting to home 0...",
+    "[01:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:26] [8b8t] >> Teleporting to home 1...",
+    "[01:26] To Xylophones: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:26] To Xylophones: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:27] [BOT] <HienBot> **Bot to Xylophones**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:27] [8b8t] >> Request sent to Xylophones",
+    "[01:27] [Ultra] <14mate> wow this stream is amazing",
+    "[01:27] [BOT] <HienBot> **14mate**: wow this stream is amazing"
   ],
   "userStats": {
     "Hien2309": 82,
@@ -1349,11 +1349,11 @@
     "JuancaV": 4,
     "the_brotherhood": 1,
     "Wemm6u": 3,
-    "Xylophones": 4,
+    "Xylophones": 5,
     "ArgGvng": 2
   },
   "kitStats": {
-    "pvp": 2112,
+    "pvp": 2113,
     "raid": 686,
     "survival": 2451,
     "shulker": 1084,
