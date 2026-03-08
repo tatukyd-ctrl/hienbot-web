@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:04:29 9/3/2026",
+  "lastUpdated": "03:04:59 9/3/2026",
   "totalKits": 109216,
   "todayKits": 142,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "10.0",
+  "tps": "12.0",
   "ping": 206,
   "topUsers": [
     {
@@ -75,20 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 870
+      "count": 871
     }
   ],
   "chatLog": [
-    "[20:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:03] iibarrab has made the advancement [Isn't It Iron Pick]",
-    "[20:03] <0n19z1> alguien me da unos cohetes porfavor?",
-    "[20:03] [BOT] <0_HienBot> **0n19z1**: alguien me da unos cohetes porfavor?",
-    "[20:03] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[20:03] <Pla77ano> no",
-    "[20:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:03] <.Darkangel8916> taid",
-    "[20:03] [BOT] <0_HienBot> **.Darkangel8916**: taid",
-    "[20:03] <.Darkangel8916> raid",
     "[20:03] [8b8t] >> Teleporting to home 0...",
     "[20:03] [BOT] <0_HienBot> **.Darkangel8916**: raid",
     "[20:03] [8b8t] >> Teleporting to home 2...",
@@ -108,7 +98,17 @@
     "[20:04] <rip_giyuripguy67> IBREAKED 4 BLOCKS",
     "[20:04] [BOT] <0_HienBot> **rip_giyuripguy67**: IBREAKED 4 BLOCKS",
     "[20:04] [8b8t] >> You have killed yourself!",
-    "[20:04] [8b8t] >> The TPA request you sent to .Darkangel8916 was successfully canceled."
+    "[20:04] [8b8t] >> The TPA request you sent to .Darkangel8916 was successfully canceled.",
+    "[20:04] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
+    "[20:04] <tupapitobello123> dupe",
+    "[20:04] [BOT] <0_HienBot> **tupapitobello123**: dupe",
+    "[20:04] [8b8t] >> Teleporting to home 0...",
+    "[20:04] [8b8t] >> Teleporting to home 7...",
+    "[20:04] To tupapitobello123: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:04] To tupapitobello123: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:04] [BOT] <0_HienBot> **Bot to tupapitobello123**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:04] [8b8t] >> Request sent to tupapitobello123"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1387,7 +1387,8 @@
     ".creepersgonna1": 2,
     "yagirl_blake": 3,
     "DMjugadorxd": 1,
-    "alcala": 1
+    "alcala": 1,
+    "tupapitobello123": 1
   },
   "kitStats": {
     "pvp": 2252,
@@ -1407,7 +1408,7 @@
     "build": 896,
     "dye": 77,
     "concrete": 116,
-    "dupe": 870,
+    "dupe": 871,
     "food": 251,
     "glass": 152,
     "elytra": 850,
