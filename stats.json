@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:04:22 9/3/2026",
+  "lastUpdated": "06:04:29 9/3/2026",
   "totalKits": 109356,
   "todayKits": 282,
   "onlineCount": 39,
@@ -12,7 +12,7 @@
     "maxTime": "04:01:41 9/3/2026",
     "avg": 33
   },
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 206,
   "topUsers": [
     {
@@ -75,23 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 888
+      "count": 889
     }
   ],
   "chatLog": [
-    "[23:03] To _NERDIFIED_: io_client with 51 ms. Don't forget to join dsc.gg/hienbot",
-    "[23:03] [BOT] <0_HienBot> **_NERDIFIED_**: bestping",
-    "[23:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:03] <TechnoWarriorr> bestping",
-    "[23:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:03] To TechnoWarriorr: io_client with 51 ms. Don't forget to join dsc.gg/hienbot",
-    "[23:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:03] <Krayiken_> list",
-    "[23:03] <PacotePlays> algum brasileiro ai?",
-    "[23:03] To Krayiken_: Hello Krayiken_!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:03] [BOT] <0_HienBot> **Krayiken_**: list",
-    "[23:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:03] <Krayiken_> oohh ty",
     "[23:03] [BOT] <0_HienBot> **Krayiken_**: oohh ty",
@@ -108,7 +95,20 @@
     "[23:04] [BOT] <0_HienBot> **Bot to Antonhysv**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:04] [8b8t] >> Request sent to Antonhysv",
     "[23:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[23:04] [8b8t] >> Teleporting..."
+    "[23:04] [8b8t] >> Teleporting...",
+    "[23:04] <Krayiken_> kit dupe",
+    "[23:04] [8b8t] >> You have killed yourself!",
+    "[23:04] [8b8t] >> You have killed yourself!",
+    "[23:04] [BOT] <0_HienBot> **Krayiken_**: kit dupe",
+    "[23:04] To Krayiken_: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:04] <valudde> survival",
+    "[23:04] To Antonhysv: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[23:04] To valudde: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[23:04] [8b8t] >> Teleporting to home 0...",
+    "[23:04] [BOT] <0_HienBot> **valudde**: survival",
+    "[23:04] [8b8t] >> Teleporting to home 7...",
+    "[23:04] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1413,7 +1413,8 @@
     "RhettCTX": 2,
     "2b2tJourney": 1,
     "dandin99": 1,
-    "BoroBhai": 1
+    "BoroBhai": 1,
+    "Krayiken_": 1
   },
   "kitStats": {
     "pvp": 2300,
@@ -1433,7 +1434,7 @@
     "build": 904,
     "dye": 78,
     "concrete": 118,
-    "dupe": 888,
+    "dupe": 889,
     "food": 255,
     "glass": 152,
     "elytra": 873,
