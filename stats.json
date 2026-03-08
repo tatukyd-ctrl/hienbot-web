@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:30:10 8/3/2026",
+  "lastUpdated": "13:30:40 8/3/2026",
   "totalKits": 108935,
   "todayKits": 186,
-  "onlineCount": 29,
+  "onlineCount": 28,
   "peakPlayers": 46,
   "playerStats": {
     "min": 1,
@@ -12,7 +12,7 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 33
   },
-  "tps": "14.0",
+  "tps": "12.0",
   "ping": 205,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:28] [BOT] <HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:28] 6t5e decided to test gravity and lost",
-    "[06:28] [8b8t] >> Ignored players: adri989, IamNuke_, Real4Tribe, h6sx",
-    "[06:28] [8b8t] >> You arent ignoring adri989",
-    "[06:28] [8b8t] >> Please include a player /ignore <playerName>",
-    "[06:28] [8b8t] >> You arent ignoring IamNuke_",
-    "[06:28] [8b8t] >> You arent ignoring Real4Tribe",
-    "[06:28] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[06:28] [8b8t] >> You arent ignoring h6sx",
-    "[06:28] [8b8t] >> The TPA request you received from baonam88 has expired.",
-    "[06:28] Blixier got his head blown off by the Wither",
-    "[06:28] somarie1102 challenged the Wither and lost their head",
     "[06:28] [8b8t] >> ▲ Player Hien2309 Joined.",
     "[06:28] [BOT] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
     "[06:28] [8b8t] >> ▼ Player Blixier Left.",
@@ -108,7 +96,19 @@
     "[06:30] [8b8t] >> ▲ Player Blixier Joined.",
     "[06:30] ",
     "[06:30] [8b8t] >> Restarting in 30m!",
-    "[06:30] "
+    "[06:30] ",
+    "[06:30] Hien2309 challenged the Wither and lost their head",
+    "[06:30] [BOT] <HienBot> >Hey DPS_Voyager_bot!",
+    "[06:30] [8b8t] >> ▼ Player KISAMEN Left.",
+    "[06:30] Blixier burned up in a pit of lava",
+    "[06:30] <idkkkkkkkkkk> wood",
+    "[06:30] [8b8t] >> Teleporting to home 0...",
+    "[06:30] [BOT] <HienBot> **idkkkkkkkkkk**: wood",
+    "[06:30] [8b8t] >> Teleporting to home 3...",
+    "[06:30] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[06:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:30] To idkkkkkkkkkk: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:30] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 86,
@@ -460,7 +460,7 @@
     "Elmonito1234": 14,
     "idkuser12": 87,
     "Barrerics_2011": 20,
-    "idkkkkkkkkkk": 112,
+    "idkkkkkkkkkk": 113,
     "TristanAbyss": 1,
     "BigBear": 60,
     "SINCONOCIMIENTO": 2,
@@ -1392,7 +1392,7 @@
     "gap": 157,
     "mineral": 294,
     "gterracotta": 38,
-    "wood": 299,
+    "wood": 300,
     "end": 215
   }
 }
