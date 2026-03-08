@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:32:29 9/3/2026",
+  "lastUpdated": "02:32:59 9/3/2026",
   "totalKits": 109205,
   "todayKits": 131,
-  "onlineCount": 43,
+  "onlineCount": 40,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "9.0",
+  "tps": "8.0",
   "ping": 206,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2540
+      "count": 2541
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:30] [BOT] <0_HienBot> >Type list for a list of kits",
-    "[19:30] [Basic] <wfextyerbfergfd> list",
-    "[19:30] To wfextyerbfergfd: Hello wfextyerbfergfd!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:30] [BOT] <0_HienBot> **wfextyerbfergfd**: list",
-    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:30] <oradiminou> end",
-    "[19:30] [8b8t] >> Teleporting to home 0...",
-    "[19:30] [BOT] <0_HienBot> **oradiminou**: end",
-    "[19:30] [8b8t] >> Teleporting to home 5...",
-    "[19:30] To oradiminou: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:30] To oradiminou: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:30] [BOT] <0_HienBot> **Bot to oradiminou**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:30] [8b8t] >> Request sent to oradiminou",
     "[19:30] [8b8t] >> Teleporting...",
     "[19:31] [8b8t] >> You have killed yourself!",
@@ -108,7 +95,20 @@
     "[19:31] [BOT] <0_HienBot> **Bot to .Darkangel8916**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[19:31] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[19:31] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
-    "[19:32] [BOT] <0_HienBot> >Hello z_pr0ta_z!"
+    "[19:32] [BOT] <0_HienBot> >Hello z_pr0ta_z!",
+    "[19:32] <busybee07> voy",
+    "[19:32] [BOT] <0_HienBot> **busybee07**: voy",
+    "[19:32] [BOT] <0_HienBot> >Hi kutuzovs!",
+    "[19:32] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[19:32] <nuklear1> !survival",
+    "[19:32] [BOT] <0_HienBot> **nuklear1**: !survival",
+    "[19:32] [8b8t] >> Teleporting to home 0...",
+    "[19:32] [8b8t] >> Teleporting to home 1...",
+    "[19:32] To nuklear1: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:32] To nuklear1: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:32] [BOT] <0_HienBot> **Bot to nuklear1**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:32] [8b8t] >> Request sent to nuklear1"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -575,7 +575,7 @@
     "MarcosVinicius27": 4,
     "Flawww_": 1,
     "zdeeq23": 21,
-    "nuklear1": 39,
+    "nuklear1": 40,
     "lostinapathy": 2,
     "benjarejas": 1,
     "2bits2things": 1,
@@ -1392,7 +1392,7 @@
   "kitStats": {
     "pvp": 2241,
     "raid": 711,
-    "survival": 2540,
+    "survival": 2541,
     "shulker": 1098,
     "music": 280,
     "terracotta": 50,
