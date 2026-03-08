@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:52:34 8/3/2026",
+  "lastUpdated": "20:52:58 8/3/2026",
   "totalKits": 109084,
   "todayKits": 10,
-  "onlineCount": 28,
+  "onlineCount": 25,
   "peakPlayers": 36,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 29
   },
-  "tps": "11.0",
-  "ping": 250,
+  "tps": "12.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:51] <rostyslav1k> kit dupe",
-    "[13:51] [8b8t] >> Teleporting to home 0...",
-    "[13:51] [BOT] <0_HienBot> **rostyslav1k**: kit dupe",
-    "[13:51] [8b8t] >> Teleporting to home 7...",
-    "[13:51] To rostyslav1k: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:51] To rostyslav1k: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:51] [BOT] <0_HienBot> **Bot to rostyslav1k**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:51] [8b8t] >> Request sent to rostyslav1k",
-    "[13:52] [8b8t] >> Teleporting...",
-    "[13:52] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[13:52] [8b8t] >> You have killed yourself!",
-    "[13:52] To rostyslav1k: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:52] [BOT] <0_HienBot> **Bot to rostyslav1k**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:52] danicoso23 has made the advancement [Cover Me With Diamonds]",
-    "[13:52] <Dreamers> !wood",
-    "[13:52] [8b8t] >> Teleporting to home 0...",
     "[13:52] [BOT] <0_HienBot> **Dreamers**: !wood",
     "[13:52] [8b8t] >> Teleporting to home 3...",
     "[13:52] To Dreamers: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +90,25 @@
     "[13:52] [8b8t] >> Request sent to Dreamers",
     "[13:52] [8b8t] >> Teleporting...",
     "[13:52] <rostyslav1k> kit raid",
-    "[13:52] To rostyslav1k: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot"
+    "[13:52] To rostyslav1k: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[13:52] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
+    "[13:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:52] [8b8t] >> You have killed yourself!",
+    "[13:52] To Dreamers: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:52] [BOT] <0_HienBot> **Bot to Dreamers**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:52] <rostyslav1k> kit raid",
+    "[13:52] To rostyslav1k: You're on cooldown, try again in 7 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:52] [BOT] <0_HienBot> **rostyslav1k**: kit raid",
+    "[13:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:52] <rostyslav1k> kit raid",
+    "[13:52] [8b8t] >> Teleporting to home 0...",
+    "[13:52] [8b8t] >> Please do not spam.",
+    "[13:52] [8b8t] >> Teleporting to home 2...",
+    "[13:52] To rostyslav1k: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:52] To rostyslav1k: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:52] [BOT] <0_HienBot> **Bot to rostyslav1k**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 89,
@@ -1371,11 +1371,11 @@
     "yesNipunpie": 2,
     "baromijofej": 1,
     "Jamjox": 3,
-    "rostyslav1k": 2
+    "rostyslav1k": 3
   },
   "kitStats": {
     "pvp": 2196,
-    "raid": 697,
+    "raid": 698,
     "survival": 2501,
     "shulker": 1091,
     "music": 277,
