@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:45:39 9/3/2026",
+  "lastUpdated": "00:45:58 9/3/2026",
   "totalKits": 109174,
   "todayKits": 100,
-  "onlineCount": 36,
+  "onlineCount": 37,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 31
   },
-  "tps": "14.0",
+  "tps": "13.0",
   "ping": 205,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:44] [BOT] <0_HienBot> **BdubH2015**: yeah we can only use illegals during illegal week",
-    "[17:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:44] <Dreamers> BdubH2015",
-    "[17:44] [BOT] <0_HienBot> **Dreamers**: BdubH2015",
-    "[17:44] <Dreamers> u wanna team up",
-    "[17:44] [BOT] <0_HienBot> **Dreamers**: u wanna team up",
-    "[17:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:44] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[17:44] <BdubH2015> maybe im already in a clan tho",
-    "[17:44] [BOT] <0_HienBot> **BdubH2015**: maybe im already in a clan tho",
-    "[17:45] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
-    "[17:45] <redagamer80> looking for a clan/team",
     "[17:45] <Dreamers> i do",
     "[17:45] [BOT] <0_HienBot> **redagamer80**: looking for a clan/team",
     "[17:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +96,19 @@
     "[17:45] [BOT] <0_HienBot> **Bot to Dreamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:45] [8b8t] >> Request sent to Dreamers",
     "[17:45] [8b8t] >> Teleporting...",
-    "[17:45] [BOT] <0_HienBot> >Welcome to 8b8t, nastygoy!"
+    "[17:45] [BOT] <0_HienBot> >Welcome to 8b8t, nastygoy!",
+    "[17:45] [8b8t] >> You have killed yourself!",
+    "[17:45] To Dreamers: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:45] [BOT] <0_HienBot> **Bot to Dreamers**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:45] <redagamer80> !raid",
+    "[17:45] [8b8t] >> Teleporting to home 0...",
+    "[17:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:45] [8b8t] >> Teleporting to home 2...",
+    "[17:45] To redagamer80: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:45] [BOT] <0_HienBot> **Bot to redagamer80**: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:45] To redagamer80: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:45] [BOT] <0_HienBot> **Bot to redagamer80**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:45] [8b8t] >> Request sent to redagamer80"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -484,7 +484,7 @@
     ".Pichuckrak": 2,
     "franolmedo": 1,
     "kayragojo": 77,
-    "redagamer80": 8,
+    "redagamer80": 9,
     "Adamit0": 2,
     "themagmaboii": 2,
     "Jippolo": 5,
@@ -1386,7 +1386,7 @@
   },
   "kitStats": {
     "pvp": 2227,
-    "raid": 708,
+    "raid": 709,
     "survival": 2534,
     "shulker": 1095,
     "music": 278,
