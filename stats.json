@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:42:40 8/3/2026",
+  "lastUpdated": "13:43:10 8/3/2026",
   "totalKits": 108936,
   "todayKits": 187,
-  "onlineCount": 29,
+  "onlineCount": 30,
   "peakPlayers": 46,
   "playerStats": {
     "min": 1,
@@ -12,7 +12,7 @@
     "maxTime": "10:39:58 8/3/2026",
     "avg": 33
   },
-  "tps": "13.0",
+  "tps": "10.0",
   "ping": 208,
   "topUsers": [
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "Azure772",
-      "count": 156
+      "count": 157
     }
   ],
   "topKits": [
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2144
+      "count": 2145
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:35] Blixier thought they could fly... they couldn't",
-    "[06:35] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[06:35] [8b8t] >> ▼ Player Blixier Left.",
-    "[06:36] [8b8t] >> ▲ Player baonam88 Joined.",
-    "[06:36] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[06:36] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[06:36] [BOT] <HienBot> >Try status",
-    "[06:36] [8b8t] >> ▼ Player DPS_Voyager_bot Left.",
-    "[06:37] [BOT] <HienBot> >Running low on supplies? Use survival",
-    "[06:37] [BOT] <HienBot> >Use /kill to kill yourself!",
-    "[06:37] [8b8t] >> ▲ Player DPS_Voyager_bot Joined.",
-    "[06:38] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[06:38] [BOT] <HienBot> >Use info <player> to check someone's stats",
     "[06:38] [BOT] <HienBot> >Use list to choose your kit",
     "[06:39] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
@@ -108,7 +96,19 @@
     "[06:42] [8b8t] >> ▲ Player baolongmilo Joined.",
     "[06:42] [BOT] <HienBot> >Use list to choose your kit",
     "[06:42] [8b8t] >> ▲ Player EnesReks Joined.",
-    "[06:42] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[06:42] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[06:42] [8b8t] >> ▲ Player nouiii11 Joined.",
+    "[06:42] [8b8t] >> Please do not spam.",
+    "[06:43] <Azure772> pvp",
+    "[06:43] [8b8t] >> Teleporting to home 0...",
+    "[06:43] [8b8t] >> Teleporting to home 1...",
+    "[06:43] To Azure772: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:43] [BOT] <HienBot> **Azure772**: pvp",
+    "[06:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:43] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:43] [8b8t] >> Request sent to Azure772"
   ],
   "userStats": {
     "Hien2309": 86,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 156,
+    "Azure772": 157,
     "kobthegoat14": 112,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1365,7 +1365,7 @@
     "MineFlare": 7
   },
   "kitStats": {
-    "pvp": 2144,
+    "pvp": 2145,
     "raid": 692,
     "survival": 2492,
     "shulker": 1089,
