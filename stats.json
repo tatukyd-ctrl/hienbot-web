@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:44:29 9/3/2026",
-  "totalKits": 109243,
-  "todayKits": 169,
+  "lastUpdated": "03:44:49 9/3/2026",
+  "totalKits": 109244,
+  "todayKits": 170,
   "onlineCount": 43,
   "peakPlayers": 48,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "22:41:58 8/3/2026",
     "avg": 32
   },
-  "tps": "11.0",
+  "tps": "9.0",
   "ping": 205,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2554
+      "count": 2555
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:43] [BOT] <0_HienBot> **Norml_Human0**: ?kit pvp",
-    "[20:43] [8b8t] >> Teleporting to home 1...",
-    "[20:43] To Norml_Human0: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:43] To Norml_Human0: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:43] [BOT] <0_HienBot> **Bot to Norml_Human0**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:43] <Norml_Human0> ?kit survival",
-    "[20:43] [8b8t] >> Teleporting to home 0...",
-    "[20:43] [8b8t] >> Teleporting to home 1...",
-    "[20:43] [BOT] <0_HienBot> **Norml_Human0**: ?kit survival",
-    "[20:43] To Norml_Human0: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:44] To Norml_Human0: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:44] [BOT] <0_HienBot> **Bot to Norml_Human0**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[20:44] [8b8t] >> Request sent to Norml_Human0",
-    "[20:44] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
     "[20:44] [8b8t] >> Teleporting...",
     "[20:44] [8b8t] >> You have killed yourself!",
     "[20:44] To Norml_Human0: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +92,23 @@
     "[20:44] <ITZ_Kaido> i couldnt",
     "[20:44] [BOT] <0_HienBot> **ITZ_Kaido**: i couldnt",
     "[20:44] To 0n19z1: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:44] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[20:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:44] davihosa12 Whispers: !kit survival",
+    "[20:44] [8b8t] >> Teleporting to home 0...",
+    "[20:44] [BOT] <0_HienBot> **davihosa12**: !kit survival",
+    "[20:44] [8b8t] >> Teleporting to home 1...",
+    "[20:44] To davihosa12: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:44] [BOT] <0_HienBot> **Bot to davihosa12**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:44] To davihosa12: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:44] [8b8t] >> Request sent to davihosa12",
+    "[20:44] [Ultra] <Moidtheboid> ive had 3 teams",
+    "[20:44] [BOT] <0_HienBot> **Moidtheboid**: ive had 3 teams",
+    "[20:44] <ITZ_Kaido> he wouldnt let me",
+    "[20:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:44] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[20:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1398,12 +1398,13 @@
     "freep12": 1,
     "Jacksoncity385": 1,
     "V_VI": 2,
-    "0n19z1": 4
+    "0n19z1": 4,
+    "davihosa12": 1
   },
   "kitStats": {
     "pvp": 2276,
     "raid": 717,
-    "survival": 2554,
+    "survival": 2555,
     "shulker": 1099,
     "music": 280,
     "terracotta": 50,
