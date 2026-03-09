@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:21:30 9/3/2026",
+  "lastUpdated": "13:22:00 9/3/2026",
   "totalKits": 109487,
   "todayKits": 85,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 17
   },
   "tps": "14.0",
-  "ping": 200,
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2327
+      "count": 2328
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:19] [8b8t] >> Teleporting to home 0...",
-    "[06:19] [BOT] <HienBot> **HighwayCleaner**: survival",
-    "[06:19] [8b8t] >> Teleporting to home 1...",
-    "[06:19] To HighwayCleaner: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:19] To HighwayCleaner: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:19] [BOT] <HienBot> >Hey .xXzamuroXx!",
-    "[06:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:19] [8b8t] >> Request sent to HighwayCleaner",
-    "[06:19] [8b8t] >> Teleporting...",
-    "[06:19] [8b8t] >> You have killed yourself!",
     "[06:19] You cannot be above the nether roof!",
     "[06:19] [8b8t] >> ▲ Player BIGSWAGG Joined.",
     "[06:19] <Haronnyo> ddosma estas lejos del spawm?",
@@ -108,7 +97,18 @@
     "[06:21] [BOT] <HienBot> >Need gear? Type pvp to get started!",
     "[06:21] .xXzamuroXx has made the advancement [Monster Hunter]",
     "[06:21] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[06:21] [8b8t] >> ▲ Player iTrisstan Joined."
+    "[06:21] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[06:21] [BOT] <HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
+    "[06:21] Haronnyo decided to test gravity and lost",
+    "[06:21] [8b8t] >> ▲ Player hacker1337 Joined.",
+    "[06:21] <MrSirGuy1004> imma try pvp aswell cause yes",
+    "[06:21] [BOT] <HienBot> **MrSirGuy1004**: imma try pvp aswell cause yes",
+    "[06:21] <MrSirGuy1004> pvp",
+    "[06:21] [8b8t] >> Teleporting to home 0...",
+    "[06:21] [BOT] <HienBot> **MrSirGuy1004**: pvp",
+    "[06:21] [8b8t] >> Teleporting to home 1...",
+    "[06:21] To MrSirGuy1004: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:21] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1436,10 +1436,10 @@
     "geeyuh": 14,
     ".xXzamuroXx": 3,
     "AlexWatrmalon": 2,
-    "MrSirGuy1004": 1
+    "MrSirGuy1004": 2
   },
   "kitStats": {
-    "pvp": 2327,
+    "pvp": 2328,
     "raid": 728,
     "survival": 2673,
     "shulker": 1112,
