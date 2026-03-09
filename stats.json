@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:08:30 9/3/2026",
+  "lastUpdated": "14:09:00 9/3/2026",
   "totalKits": 109501,
   "todayKits": 99,
-  "onlineCount": 3,
+  "onlineCount": 6,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "20.0",
-  "ping": 197,
+  "tps": "16.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -45,7 +45,7 @@
     },
     {
       "name": "Azure772",
-      "count": 199
+      "count": 200
     },
     {
       "name": "Ascalter40",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2679
+      "count": 2680
     },
     {
       "name": "pvp",
@@ -79,27 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:06] [8b8t] >> Welcome Iamshorgo to 8b8t.me Lobby",
-    "[07:06] Unable to connect you to 8b8t. Please try again later.",
-    "[07:06] <AetherionV26> $leaderboard, $Report, $gamble, $news https://discord.gg/yJcqj4C8dy >Just type $info to know what this bot can do!",
-    "[07:06] <HienBot> **AetherionV26**: $leaderboard, $Report, $gamble, $news https://discord.gg/yJcqj4C8dy >Just type $info to know what this bot can do!",
-    "[07:06] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[07:06] Unable to connect you to 8b8t. Please try again later.",
-    "[07:06] [8b8t] >> Welcome iTrisstan to 8b8t.me Lobby",
-    "[07:06] [8b8t] >> Welcome DDosma to 8b8t.me Lobby",
-    "[07:06] Unable to connect you to 8b8t. Please try again later.",
-    "[07:06] Unable to connect you to 8b8t. Please try again later.",
-    "[07:07] <HienBot> >Type list for a list of kits",
-    "[07:07] [8b8t] >> Welcome Azure772 to 8b8t.me Lobby",
-    "[07:07] Unable to connect you to 8b8t. Please try again later.",
-    "[07:07] <HienBot> >Want to see the server's tps? Chat tps",
-    "[07:07] [8b8t] >> Welcome MonkeBot to 8b8t.me Lobby",
-    "[07:07] [8b8t] >> Welcome Friknob21 to 8b8t.me Lobby",
-    "[07:07] Unable to connect you to 8b8t. Please try again later.",
-    "[07:07] Unable to connect you to 8b8t. Please try again later.",
-    "[07:07] [8b8t] >> Welcome Iamshorgo to 8b8t.me Lobby",
-    "[07:07] Unable to connect you to 8b8t. Please try again later.",
-    "[07:07] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[07:07] Unable to connect you to 8b8t. Please try again later.",
     "[07:07] [8b8t] >> Welcome Haronnyo to 8b8t.me Lobby",
     "[07:08] <HienBot> >Donate to maintain this great server donate▪8b8t▪me",
@@ -108,7 +87,28 @@
     "[07:08] [8b8t] >> Welcome cappuccino_ to 8b8t.me Lobby",
     "[07:08] You are already trying to connect to a server!",
     "[07:08] [8b8t] >> Welcome Adil_OG to 8b8t.me Lobby",
-    "[07:08] Unable to connect you to 8b8t. Please try again later."
+    "[07:08] Unable to connect you to 8b8t. Please try again later.",
+    "[07:08] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[07:08] [8b8t] >> Welcome HighwayCleaner to 8b8t.me Lobby",
+    "[07:08] You are already trying to connect to a server!",
+    "[07:08] <Azure772> survival",
+    "[07:08] [8b8t] Unknown command do /help",
+    "[07:08] <HienBot> **Azure772**: survival",
+    "[07:08] [8b8t] Unknown command do /help",
+    "[07:08] [8b8t] Unknown command do /help",
+    "[07:08] [8b8t] >> Welcome MonkeBot to 8b8t.me Lobby",
+    "[07:08] You are already trying to connect to a server!",
+    "[07:08] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[07:08] [8b8t] >> ▲ Player HienBot Joined.",
+    "[07:08] You were kicked from 8b8t: Timed out",
+    "[07:08] [8b8t] >> Welcome iTrisstan to 8b8t.me Lobby",
+    "[07:08] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
+    "[07:08] [8b8t] Unknown command do /help",
+    "[07:08] [8b8t] Unknown command do /help",
+    "[07:08] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[07:08] [8b8t] >> ▲ Player HienBot Joined.",
+    "[07:08] You are already connected to this server!",
+    "[07:08] [8b8t] >> ▲ Player Adil_OG Joined."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 199,
+    "Azure772": 200,
     "kobthegoat14": 116,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1442,7 +1442,7 @@
   "kitStats": {
     "pvp": 2332,
     "raid": 728,
-    "survival": 2679,
+    "survival": 2680,
     "shulker": 1112,
     "music": 283,
     "terracotta": 50,
