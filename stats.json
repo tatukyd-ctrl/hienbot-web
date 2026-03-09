@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:25:12 9/3/2026",
+  "lastUpdated": "16:25:30 9/3/2026",
   "totalKits": 109543,
   "todayKits": 141,
   "onlineCount": 18,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "14.0",
-  "ping": 447,
+  "tps": "12.0",
+  "ping": 233,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2350
+      "count": 2351
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:24] skskajwkesgusgow was pwned by TylerDurden098 wielding [mace]",
-    "[09:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:24] To shadow_scribe: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:24] [8b8t] >> Request sent to shadow_scribe",
-    "[09:24] [BOT] <HienBot> **Bot to shadow_scribe**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:24] <skskajwkesgusgow> bruh",
-    "[09:24] [8b8t] >> Teleporting...",
-    "[09:24] [BOT] <HienBot> **skskajwkesgusgow**: bruh",
-    "[09:24] <skskajwkesgusgow> what",
-    "[09:24] [BOT] <HienBot> **skskajwkesgusgow**: what",
-    "[09:24] [8b8t] >> You have killed yourself!",
-    "[09:24] HienBot was pwned by shadow_scribe wielding [their hand]",
-    "[09:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:24] To shadow_scribe: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:24] [BOT] <HienBot> **Bot to shadow_scribe**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:24] [8b8t] >> ▲ Player 1Xelite2019 Joined.",
     "[09:24] <skskajwkesgusgow> what the fuck",
@@ -108,7 +94,21 @@
     "[09:25] To skskajwkesgusgow: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:25] [8b8t] >> Request sent to skskajwkesgusgow",
     "[09:25] [BOT] <HienBot> **Bot to skskajwkesgusgow**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:25] [8b8t] >> Teleporting..."
+    "[09:25] [8b8t] >> Teleporting...",
+    "[09:25] [8b8t] >> You have killed yourself!",
+    "[09:25] HienBot was slain by skskajwkesgusgow using [their hand]",
+    "[09:25] To skskajwkesgusgow: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[09:25] [BOT] <HienBot> **Bot to skskajwkesgusgow**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[09:25] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[09:25] <x1Jatin> pvp",
+    "[09:25] [BOT] <HienBot> **x1Jatin**: pvp",
+    "[09:25] [8b8t] >> Teleporting to home 0...",
+    "[09:25] [8b8t] >> Teleporting to home 1...",
+    "[09:25] To x1Jatin: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:25] [BOT] <HienBot> **Bot to x1Jatin**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:25] To x1Jatin: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:25] [8b8t] >> You have killed yourself!",
+    "[09:25] [BOT] <HienBot> **Bot to x1Jatin**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1441,10 +1441,11 @@
     "Haronnyo": 7,
     "silver_l1": 1,
     "skskajwkesgusgow": 5,
-    "Gout": 3
+    "Gout": 3,
+    "x1Jatin": 1
   },
   "kitStats": {
-    "pvp": 2350,
+    "pvp": 2351,
     "raid": 728,
     "survival": 2691,
     "shulker": 1115,
