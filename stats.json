@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:46:30 9/3/2026",
-  "totalKits": 109472,
-  "todayKits": 70,
+  "lastUpdated": "12:46:43 9/3/2026",
+  "totalKits": 109473,
+  "todayKits": 71,
   "onlineCount": 13,
   "peakPlayers": 54,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "14.0",
-  "ping": 208,
+  "tps": "11.0",
+  "ping": 279,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:44] <geeyuh> pvp",
-    "[05:44] To geeyuh: You're on cooldown, try again in 14 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:44] [BOT] <HienBot> **geeyuh**: pvp",
-    "[05:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:44] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[05:44] [BOT] <HienBot> >Items for PVP and Building available in build",
-    "[05:44] <geeyuh> pvp",
-    "[05:44] [8b8t] >> Teleporting to home 0...",
-    "[05:44] [BOT] <HienBot> **geeyuh**: pvp",
-    "[05:44] [8b8t] >> Teleporting to home 1...",
     "[05:44] To geeyuh: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[05:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:44] To geeyuh: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +98,17 @@
     "[05:46] <geeyuh> list",
     "[05:46] To geeyuh: Hello geeyuh!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:46] [BOT] <HienBot> **geeyuh**: list",
-    "[05:46] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[05:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:46] <geeyuh> raid",
+    "[05:46] [8b8t] >> Teleporting to home 0...",
+    "[05:46] [BOT] <HienBot> **geeyuh**: raid",
+    "[05:46] [8b8t] >> Teleporting to home 2...",
+    "[05:46] To geeyuh: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:46] To geeyuh: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:46] [BOT] <HienBot> **Bot to geeyuh**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:46] [8b8t] >> Request sent to geeyuh",
+    "[05:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1433,11 +1433,11 @@
     "jcx311": 1,
     "Klngboo": 2,
     "Raip2": 1,
-    "geeyuh": 5
+    "geeyuh": 6
   },
   "kitStats": {
     "pvp": 2323,
-    "raid": 727,
+    "raid": 728,
     "survival": 2668,
     "shulker": 1112,
     "music": 283,
