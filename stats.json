@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:12:24 9/3/2026",
+  "lastUpdated": "19:12:30 9/3/2026",
   "totalKits": 109603,
   "todayKits": 201,
   "onlineCount": 19,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "12.0",
-  "ping": 443,
+  "tps": "10.0",
+  "ping": 223,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,8 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:11] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[12:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:11] <cappuccino_> build",
     "[12:11] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +106,9 @@
     "[12:12] To cappuccino_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:12] [8b8t] >> Request sent to cappuccino_",
     "[12:12] [BOT] <HienBot> **Bot to cappuccino_**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:12] [8b8t] >> Teleporting..."
+    "[12:12] [8b8t] >> Teleporting...",
+    "[12:12] [8b8t] >> You have killed yourself!",
+    "[12:12] HienBot forgot to stop, drop, and roll"
   ],
   "userStats": {
     "Hien2309": 92,
