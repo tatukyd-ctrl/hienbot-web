@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:32:30 9/3/2026",
-  "totalKits": 109510,
-  "todayKits": 108,
-  "onlineCount": 10,
+  "lastUpdated": "14:32:55 9/3/2026",
+  "totalKits": 109511,
+  "todayKits": 109,
+  "onlineCount": 11,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "13.0",
+  "tps": "15.0",
   "ping": 196,
   "topUsers": [
     {
@@ -45,7 +45,7 @@
     },
     {
       "name": "Azure772",
-      "count": 202
+      "count": 203
     },
     {
       "name": "Ascalter40",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:28] [8b8t] >> ▲ Player Carlo1809 Joined.",
-    "[07:28] [BOT] <HienBot> >Try /cosmetics to change your name color!",
-    "[07:28] [8b8t] >> ▼ Player Carlo1809 Left.",
-    "[07:28] [8b8t] >> ▲ Player Carlo1809 Joined.",
-    "[07:28] <Azure772> BRo my donkey died",
-    "[07:29] [BOT] <HienBot> **Azure772**: BRo my donkey died",
-    "[07:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:29] <Iamshorgo> nice",
-    "[07:29] [BOT] <HienBot> **Iamshorgo**: nice",
-    "[07:29] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[07:29] [8b8t] >> ▼ Player Carlo1809 Left.",
-    "[07:29] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[07:29] [8b8t] >> ▼ Player Haronnyo Left.",
     "[07:30] [BOT] <HienBot> >Use lang and select your language",
     "[07:30] [8b8t] >> ▼ Player cappuccino_ Left.",
     "[07:30] [8b8t] >> ▼ Player LEON10 Left.",
@@ -108,7 +95,20 @@
     "[07:32] [8b8t] >> ▲ Player Haronnyo Joined.",
     "[07:32] [BOT] <HienBot> >Need gear? Type pvp to get started!",
     "[07:32] [8b8t] >> ▼ Player Ferrver Left.",
-    "[07:32] [8b8t] >> ▼ Player X_ICON_OF_SIN Left."
+    "[07:32] [8b8t] >> ▼ Player X_ICON_OF_SIN Left.",
+    "[07:32] [BOT] <HienBot> >Use /kill to kill yourself!",
+    "[07:32] [8b8t] >> ▲ Player thonsanlo Joined.",
+    "[07:32] <Azure772> wood",
+    "[07:32] [8b8t] >> Teleporting to home 0...",
+    "[07:32] [BOT] <HienBot> **Azure772**: wood",
+    "[07:32] [8b8t] >> Teleporting to home 3...",
+    "[07:32] To Azure772: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:32] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:32] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:32] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[07:32] [8b8t] >> Request sent to Azure772",
+    "[07:32] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 202,
+    "Azure772": 203,
     "kobthegoat14": 116,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1467,7 +1467,7 @@
     "gap": 162,
     "mineral": 312,
     "gterracotta": 39,
-    "wood": 320,
+    "wood": 321,
     "end": 224
   }
 }
