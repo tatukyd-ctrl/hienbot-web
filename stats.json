@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:11:52 9/3/2026",
+  "lastUpdated": "20:12:22 9/3/2026",
   "totalKits": 109621,
   "todayKits": 9,
   "onlineCount": 19,
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "13.0",
+  "tps": "14.0",
   "ping": 196,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2715
+      "count": 2716
     },
     {
       "name": "pvp",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:09] [8b8t] >> ▼ Player Tomas Left.",
-    "[13:09] [8b8t] >> ▼ Player PistonCubeB0T Left.",
-    "[13:09] [8b8t] >> ▼ Player .Kero Left.",
-    "[13:09] [BOT] <HienBot> **.SlimBead4443**: think bro",
-    "[13:09] BigBear has been put down by TylerDurden098",
     "[13:09] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[13:09] [8b8t] >> ▲ Player Hien2309 Joined.",
     "[13:09] [8b8t] >> ▲ Player iTrisstan Joined.",
@@ -108,7 +103,12 @@
     "[13:11] <.SlimBead4443> how you do that",
     "[13:11] [BOT] <HienBot> **.SlimBead4443**: how you do that",
     "[13:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:11] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[13:11] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:12] [BOT] <HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
+    "[13:12] <Constant0fps> survival",
+    "[13:12] [8b8t] >> Teleporting to home 0...",
+    "[13:12] [BOT] <HienBot> **Constant0fps**: survival",
+    "[13:12] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1449,12 +1449,12 @@
     "idkyougoaway": 22,
     ".GHOSTY4768": 1,
     "RushCore": 2,
-    "Constant0fps": 6
+    "Constant0fps": 7
   },
   "kitStats": {
     "pvp": 2365,
     "raid": 734,
-    "survival": 2715,
+    "survival": 2716,
     "shulker": 1116,
     "music": 284,
     "terracotta": 50,
