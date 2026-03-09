@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:46:23 10/3/2026",
+  "lastUpdated": "02:46:53 10/3/2026",
   "totalKits": 109757,
   "todayKits": 145,
-  "onlineCount": 42,
+  "onlineCount": 41,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:18:22 10/3/2026",
     "avg": 22
   },
-  "tps": "12.0",
-  "ping": 215,
+  "tps": "9.0",
+  "ping": 213,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2766
+      "count": 2767
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:44] ItzMeHa forgot to bring their parachute",
-    "[19:44] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[19:44] mgzinbr9299 was slain by kutuzovs using [enchanted golden apple]",
-    "[19:45] jcx311 withered away to the 4th dimension",
-    "[19:45] ShiftedEndermen underestimated the blast radius of a Creeper",
-    "[19:45] [8b8t] >> ▼ Player zProta_ Left.",
-    "[19:45] <Dawood_262> who wanna tpa me",
-    "[19:45] [BOT] <HienBot> **Dawood_262**: who wanna tpa me",
-    "[19:45] [BOT] <HienBot> >Try dupe",
-    "[19:45] ItzMeHa thought they could fly... they couldn't",
-    "[19:45] [BOT] <HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
-    "[19:45] BoroBhai was pwned by kutuzovs wielding [enchanted golden apple]",
     "[19:45] [8b8t] >> ▼ Player DPS_Chatbridge Left.",
     "[19:45] [Ultra] <blake> ur funny u",
     "[19:45] [BOT] <HienBot> **blake56**: ur funny u",
@@ -108,7 +96,19 @@
     "[19:46] [BOT] <HienBot> **Dawood_262**: its my bro lets team",
     "[19:46] [Ultra] <NETANYAHU> anyone pvp?",
     "[19:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:46] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[19:46] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[19:46] [8b8t] >> ▲ Player VTUDOR Joined.",
+    "[19:46] [8b8t] >> ▼ Player ShiftedEndermen Left.",
+    "[19:46] [8b8t] >> ▼ Player NETANYAHU Left.",
+    "[19:46] [BOT] <HienBot> >Want free items? Just type survival",
+    "[19:46] Umarkinge12 was slain by blake56 using [netherite sword]",
+    "[19:46] jcx311 decided to test gravity and lost",
+    "[19:46] [8b8t] >> ▲ Player N1ght__W0lf Joined.",
+    "[19:46] [8b8t] >> ▼ Player VTUDOR Left.",
+    "[19:46] <Muchai> survival",
+    "[19:46] [BOT] <HienBot> **Muchai**: survival",
+    "[19:46] [8b8t] >> Teleporting to home 0...",
+    "[19:46] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1466,12 +1466,13 @@
     "FreeCandyMan_Usa": 24,
     "Dawood_262": 6,
     "Umarkinge12": 8,
-    "Rian_op": 5
+    "Rian_op": 5,
+    "Muchai": 1
   },
   "kitStats": {
     "pvp": 2409,
     "raid": 746,
-    "survival": 2766,
+    "survival": 2767,
     "shulker": 1124,
     "music": 286,
     "terracotta": 50,
