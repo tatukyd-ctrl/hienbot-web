@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:32:00 9/3/2026",
-  "totalKits": 109493,
-  "todayKits": 91,
+  "lastUpdated": "13:32:23 9/3/2026",
+  "totalKits": 109494,
+  "todayKits": 92,
   "onlineCount": 19,
   "peakPlayers": 54,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "12.0",
-  "ping": 205,
+  "tps": "11.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2675
+      "count": 2676
     },
     {
       "name": "pvp",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:30] [8b8t] >> ▲ Player 123m Joined.",
-    "[06:30] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
-    "[06:30] MrSirGuy1004 was pwned by CatGirlKylie wielding [End Crystal]",
-    "[06:30] <MrSirGuy1004> lovely",
-    "[06:30] [BOT] <HienBot> **MrSirGuy1004**: lovely",
-    "[06:30] <MrSirGuy1004> thanks",
-    "[06:30] [BOT] <HienBot> **MrSirGuy1004**: thanks",
-    "[06:31] <MrSirGuy1004> survival",
-    "[06:31] [8b8t] >> Teleporting to home 0...",
-    "[06:31] [BOT] <HienBot> **MrSirGuy1004**: survival",
-    "[06:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:31] [8b8t] >> Teleporting to home 1...",
-    "[06:31] To MrSirGuy1004: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:31] To MrSirGuy1004: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:31] [BOT] <HienBot> **Bot to MrSirGuy1004**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:31] [8b8t] >> Request sent to MrSirGuy1004",
-    "[06:31] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[06:31] [8b8t] >> Teleporting...",
     "[06:31] [8b8t] >> You have killed yourself!",
     "[06:31] aweser955 has made the advancement [Who is Cutting Onions?]",
     "[06:31] To MrSirGuy1004: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +89,26 @@
     "[06:31] [BOT] <HienBot> **Haronnyo**: ddosma ya",
     "[06:31] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[06:31] MrSirGuy1004 tried to defuse a Creeper... it didn't work",
-    "[06:31] Haronnyo has completed the challenge [Subspace Bubble]"
+    "[06:31] Haronnyo has completed the challenge [Subspace Bubble]",
+    "[06:32] <MrSirGuy1004> survival",
+    "[06:32] To MrSirGuy1004: You're on cooldown, try again in 3 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:32] [BOT] <HienBot> **MrSirGuy1004**: survival",
+    "[06:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:32] [BOT] <HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[06:32] <MrSirGuy1004> survival",
+    "[06:32] [8b8t] >> Teleporting to home 0...",
+    "[06:32] [8b8t] >> Please do not spam.",
+    "[06:32] [8b8t] >> Teleporting to home 1...",
+    "[06:32] To MrSirGuy1004: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:32] To MrSirGuy1004: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:32] <Haronnyo> gracias",
+    "[06:32] [BOT] <HienBot> **Bot to MrSirGuy1004**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:32] [8b8t] >> Request sent to MrSirGuy1004",
+    "[06:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:32] [8b8t] >> Teleporting...",
+    "[06:32] <DDosma> aguas con los widers",
+    "[06:32] [BOT] <HienBot> **DDosma**: aguas con los widers"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1436,12 +1436,12 @@
     "geeyuh": 14,
     ".xXzamuroXx": 3,
     "AlexWatrmalon": 2,
-    "MrSirGuy1004": 6
+    "MrSirGuy1004": 7
   },
   "kitStats": {
     "pvp": 2330,
     "raid": 728,
-    "survival": 2675,
+    "survival": 2676,
     "shulker": 1112,
     "music": 283,
     "terracotta": 50,
