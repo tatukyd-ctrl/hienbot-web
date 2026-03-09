@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:57:39 9/3/2026",
+  "lastUpdated": "12:58:00 9/3/2026",
   "totalKits": 109481,
   "todayKits": 79,
   "onlineCount": 16,
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "13.0",
+  "tps": "12.0",
   "ping": 208,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2324
+      "count": 2325
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:56] [BOT] <HienBot> **geeyuh**: tp",
-    "[05:56] myuker forgot to bring their parachute",
-    "[05:56] [8b8t] >> You have killed yourself!",
-    "[05:56] HienBot was EZ clapped by Azure772 using [netherite sword]",
-    "[05:56] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:56] [BOT] <HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:56] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
-    "[05:56] geeyuh has made the advancement [We Need to Go Deeper]",
-    "[05:56] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[05:56] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[05:57] [8b8t] >> ▲ Player .xXzamuroXx Joined.",
     "[05:57] [BOT] <HienBot> >Use info <player> to check someone's stats",
     "[05:57] <geeyuh> drill",
@@ -108,7 +98,17 @@
     "[05:57] <.xXzamuroXx> pvp",
     "[05:57] [BOT] <HienBot> **.xXzamuroXx**: pvp",
     "[05:57] To .xXzamuroXx: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[05:57] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[05:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:57] HienBot has been put down by geeyuh",
+    "[05:57] [BOT] <HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
+    "[05:57] <.xXzamuroXx> pvp",
+    "[05:57] [8b8t] >> Teleporting to home 0...",
+    "[05:57] [8b8t] >> Please do not spam.",
+    "[05:57] [8b8t] >> Teleporting to home 1...",
+    "[05:57] To .xXzamuroXx: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:57] To .xXzamuroXx: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[05:57] [BOT] <HienBot> **Bot to .xXzamuroXx**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1433,10 +1433,11 @@
     "jcx311": 1,
     "Klngboo": 2,
     "Raip2": 1,
-    "geeyuh": 12
+    "geeyuh": 12,
+    ".xXzamuroXx": 1
   },
   "kitStats": {
-    "pvp": 2324,
+    "pvp": 2325,
     "raid": 728,
     "survival": 2669,
     "shulker": 1112,
