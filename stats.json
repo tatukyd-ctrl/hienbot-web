@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:04:00 9/3/2026",
-  "totalKits": 109559,
-  "todayKits": 157,
-  "onlineCount": 12,
+  "lastUpdated": "17:04:22 9/3/2026",
+  "totalKits": 109560,
+  "todayKits": 158,
+  "onlineCount": 11,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "15.0",
-  "ping": 447,
+  "tps": "14.0",
+  "ping": 323,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2694
+      "count": 2695
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:01] [BOT] <HienBot> >Hello iTrisstan!",
-    "[10:01] [8b8t] >> You have killed yourself!",
-    "[10:01] HienBot was EZ clapped by moks2009 using [The Purge]",
-    "[10:01] [8b8t] >> ▲ Player hesback Joined.",
-    "[10:01] To moks2009: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:01] [BOT] <HienBot> **Bot to moks2009**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:01] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[10:01] <hesback> can anyone help me ?",
-    "[10:01] [BOT] <HienBot> **hesback**: can anyone help me ?",
-    "[10:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:01] moks2009 has made the advancement [Bring Home the Beacon]",
-    "[10:02] [BOT] <HienBot> >Try dupe",
-    "[10:02] [8b8t] >> ▲ Player .GhostBlue155 Joined.",
     "[10:02] [8b8t] >> ▼ Player .GhostBlue155 Left.",
     "[10:02] <hesback> pls help",
     "[10:02] [BOT] <HienBot> **hesback**: pls help",
@@ -108,7 +95,20 @@
     "[10:03] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
     "[10:03] [8b8t] >> ▼ Player Akari44 Left.",
     "[10:03] <hesback> pls help me",
-    "[10:03] [BOT] <HienBot> **hesback**: pls help me"
+    "[10:03] [BOT] <HienBot> **hesback**: pls help me",
+    "[10:04] [BOT] <HienBot> >Want free items? Just type survival",
+    "[10:04] <shadow_scribe> what happned",
+    "[10:04] [BOT] <HienBot> **shadow_scribe**: what happned",
+    "[10:04] <hesback> survival",
+    "[10:04] [8b8t] >> Teleporting to home 0...",
+    "[10:04] [BOT] <HienBot> **hesback**: survival",
+    "[10:04] [8b8t] >> Teleporting to home 1...",
+    "[10:04] To hesback: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:04] [8b8t] >> Request sent to hesback",
+    "[10:04] [BOT] <HienBot> **Bot to hesback**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:04] [8b8t] >> ▼ Player .GhostBlue155 Left.",
+    "[10:04] [8b8t] >> Teleporting...",
+    "[10:04] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1444,12 +1444,13 @@
     "Gout": 11,
     "x1Jatin": 2,
     "Farex_x": 1,
-    "MIDASSX7": 1
+    "MIDASSX7": 1,
+    "hesback": 1
   },
   "kitStats": {
     "pvp": 2360,
     "raid": 728,
-    "survival": 2694,
+    "survival": 2695,
     "shulker": 1116,
     "music": 284,
     "terracotta": 50,
