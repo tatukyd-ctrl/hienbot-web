@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:29:59 9/3/2026",
+  "lastUpdated": "07:30:29 9/3/2026",
   "totalKits": 109420,
   "todayKits": 18,
   "onlineCount": 24,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:29 9/3/2026",
     "avg": 23
   },
-  "tps": "15.0",
-  "ping": 197,
+  "tps": "17.0",
+  "ping": 194,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2310
+      "count": 2311
     },
     {
       "name": "shulker",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:28] [BOT] <0_HienBot> **AlloJr**: survival",
-    "[00:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:28] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
-    "[00:28] [8b8t] >> Teleporting...",
-    "[00:28] [8b8t] >> You have killed yourself!",
-    "[00:28] To nice_______2: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[00:28] [BOT] <0_HienBot> **Bot to nice_______2**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[00:28] <AlloJr> survival",
-    "[00:28] [8b8t] >> Teleporting to home 0...",
     "[00:28] [8b8t] >> Please do not spam.",
     "[00:28] [8b8t] >> Teleporting to home 1...",
     "[00:28] To AlloJr: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +99,16 @@
     "[00:29] [BOT] <0_HienBot> >Get fully equipped with pvp",
     "[00:29] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[00:29] <Migzin> tpahere ag3ntgt",
-    "[00:29] [BOT] <0_HienBot> **Migzin**: tpahere ag3ntgt"
+    "[00:29] [BOT] <0_HienBot> **Migzin**: tpahere ag3ntgt",
+    "[00:30] [BOT] <0_HienBot> >Type discord",
+    "[00:30] <nice_______2> ?kit PVP",
+    "[00:30] [8b8t] >> Teleporting to home 0...",
+    "[00:30] [8b8t] >> Teleporting to home 1...",
+    "[00:30] [BOT] <0_HienBot> **nice_______2**: ?kit PVP",
+    "[00:30] To nice_______2: Your kit (PVP) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:30] To nice_______2: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[00:30] [BOT] <0_HienBot> **Bot to nice_______2**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1420,12 +1420,12 @@
     "Shyinnn": 1,
     "itz_ju4n": 3,
     "Pizzaroll189667": 3,
-    "nice_______2": 7,
+    "nice_______2": 8,
     "WolfKnight17388": 3,
     "SrWindows": 1
   },
   "kitStats": {
-    "pvp": 2310,
+    "pvp": 2311,
     "raid": 725,
     "survival": 2648,
     "shulker": 1111,
