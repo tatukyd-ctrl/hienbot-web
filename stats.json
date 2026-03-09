@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:52:30 9/3/2026",
+  "lastUpdated": "13:53:00 9/3/2026",
   "totalKits": 109500,
   "todayKits": 98,
   "onlineCount": 18,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "12.0",
-  "ping": 199,
+  "tps": "8.0",
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2331
+      "count": 2332
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:51] [BOT] <HienBot> >Bot created by Hien2309.",
-    "[06:51] <Adil_OG> can yall tell how to get kit",
-    "[06:51] [BOT] <HienBot> **Adil_OG**: can yall tell how to get kit",
-    "[06:51] <HighwayCleaner> yes",
-    "[06:51] [BOT] <HienBot> **HighwayCleaner**: yes",
-    "[06:51] [Ultra] <LocalIceDealer> > do /kit",
-    "[06:51] [BOT] <HienBot> **LocalIceDealer**: > do /kit",
-    "[06:51] <HighwayCleaner> true LocalIceDealer",
-    "[06:51] [BOT] <HienBot> **HighwayCleaner**: true LocalIceDealer",
-    "[06:52] [BOT] <HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[06:52] <Adil_OG> its saying the command /kit is not allowed",
     "[06:52] <Azure772> just say pvp",
     "[06:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +97,18 @@
     "[06:52] [8b8t] >> ▼ Player .Wing075 Left.",
     "[06:52] [8b8t] >> ▲ Player .Wing075 Joined.",
     "[06:52] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[06:52] [8b8t] >> ▼ Player .Wing075 Left."
+    "[06:52] [8b8t] >> ▼ Player .Wing075 Left.",
+    "[06:52] [Ultra] <LocalIceDealer> > me when i have to work for anything in the world",
+    "[06:52] [BOT] <HienBot> **LocalIceDealer**: > me when i have to work for anything in the world",
+    "[06:52] [8b8t] >> ▲ Player .Wing075 Joined.",
+    "[06:52] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[06:52] [8b8t] >> ▼ Player cappuccino_ Left.",
+    "[06:52] <Adil_OG> pvp",
+    "[06:52] [8b8t] >> Teleporting to home 0...",
+    "[06:52] [BOT] <HienBot> **Adil_OG**: pvp",
+    "[06:52] [8b8t] >> Teleporting to home 1...",
+    "[06:52] To Adil_OG: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:52] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1437,10 +1437,10 @@
     ".xXzamuroXx": 3,
     "AlexWatrmalon": 3,
     "MrSirGuy1004": 9,
-    "Adil_OG": 2
+    "Adil_OG": 3
   },
   "kitStats": {
-    "pvp": 2331,
+    "pvp": 2332,
     "raid": 728,
     "survival": 2679,
     "shulker": 1112,
