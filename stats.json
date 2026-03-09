@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:27:30 9/3/2026",
-  "totalKits": 109544,
-  "todayKits": 142,
+  "lastUpdated": "16:27:52 9/3/2026",
+  "totalKits": 109545,
+  "todayKits": 143,
   "onlineCount": 17,
   "peakPlayers": 54,
   "playerStats": {
@@ -13,7 +13,7 @@
     "avg": 16
   },
   "tps": "14.0",
-  "ping": 441,
+  "ping": 527,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:25] [BOT] <HienBot> **Veinryx**: elytra",
-    "[09:25] [8b8t] >> Teleporting to home 6...",
-    "[09:25] To Veinryx: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:25] To Veinryx: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:25] [8b8t] >> Request sent to Veinryx",
-    "[09:26] [BOT] <HienBot> **Bot to Veinryx**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:26] [8b8t] >> Teleporting...",
-    "[09:26] 1Xelite2019 forgot to bring their parachute",
-    "[09:26] [8b8t] >> You have killed yourself!",
     "[09:26] Veinryx pulverized HienBot using [their hand]",
     "[09:26] x1Jatin forgot to bring their parachute",
     "[09:26] To Veinryx: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +97,18 @@
     "[09:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[09:27] [BOT] <HienBot> >Bot created by Hien2309.",
     "[09:27] [8b8t] >> ▼ Player 1Xelite2019 Left.",
-    "[09:27] Veinryx flew into a wall and died...?"
+    "[09:27] Veinryx flew into a wall and died...?",
+    "[09:27] [BOT] <HienBot> >Need gear? Type pvp to get started!",
+    "[09:27] <Veinryx> elytra",
+    "[09:27] [8b8t] >> Teleporting to home 0...",
+    "[09:27] [BOT] <HienBot> **Veinryx**: elytra",
+    "[09:27] [8b8t] >> Teleporting to home 6...",
+    "[09:27] To Veinryx: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:27] To Veinryx: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:27] [8b8t] >> Request sent to Veinryx",
+    "[09:27] [BOT] <HienBot> **Bot to Veinryx**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:27] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1107,7 +1107,7 @@
     "ye02": 116,
     "AcidOP": 2,
     "Z4braReal": 38,
-    "Veinryx": 72,
+    "Veinryx": 73,
     "therokfox48": 1,
     "RiseCPvP": 1,
     "Spyund79c0ve5": 60,
@@ -1465,7 +1465,7 @@
     "dupe": 907,
     "food": 255,
     "glass": 153,
-    "elytra": 902,
+    "elytra": 903,
     "redstone": 597,
     "quartz": 82,
     "highway": 171,
