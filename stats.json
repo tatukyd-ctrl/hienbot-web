@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:13:00 9/3/2026",
-  "totalKits": 109505,
-  "todayKits": 103,
+  "lastUpdated": "14:13:20 9/3/2026",
+  "totalKits": 109506,
+  "todayKits": 104,
   "onlineCount": 12,
   "peakPlayers": 54,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "11.0",
-  "ping": 0,
+  "tps": "19.0",
+  "ping": 196,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2680
+      "count": 2681
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:12] [8b8t] >> ▼ Player cappuccino_ Left.",
-    "[07:12] [8b8t] >> Teleporting...",
-    "[07:12] [8b8t] >> ▲ Player .xXzamuroXx Joined.",
-    "[07:12] [8b8t] >> You have killed yourself!",
-    "[07:12] Adil_OG pulverized HienBot using [their hand]",
-    "[07:12] <Azure772> elytra",
-    "[07:12] [8b8t] >> Teleporting to home 0...",
-    "[07:12] [BOT] <HienBot> **Azure772**: elytra",
-    "[07:12] [8b8t] >> Teleporting to home 6...",
-    "[07:12] To Azure772: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:12] <RaviiPlayzYT> survival",
-    "[07:12] To Adil_OG: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[07:12] [BOT] <HienBot> **RaviiPlayzYT**: survival",
     "[07:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[07:12] To RaviiPlayzYT: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[07:12] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +94,21 @@
     "[07:12] [8b8t] Unknown command do /help",
     "[07:12] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[07:12] [8b8t] >> ▲ Player HienBot Joined.",
-    "[07:12] You are already connected to this server!"
+    "[07:12] You are already connected to this server!",
+    "[07:13] [BOT] <HienBot> >Use /kill to kill yourself!",
+    "[07:13] <RaviiPlayzYT> survival",
+    "[07:13] [8b8t] >> You have killed yourself!",
+    "[07:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:13] To RaviiPlayzYT: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:13] [8b8t] >> Teleporting to home 0...",
+    "[07:13] [8b8t] >> Teleporting to home 1...",
+    "[07:13] To RaviiPlayzYT: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:13] [BOT] <HienBot> **Bot to RaviiPlayzYT**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:13] [8b8t] >> Request sent to RaviiPlayzYT",
+    "[07:13] [8b8t] >> Teleporting...",
+    "[07:13] Adil_OG burned up in a pit of lava",
+    "[07:13] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -909,7 +909,7 @@
     "Zae1rox": 50,
     "wanted": 5,
     "Akari44": 32,
-    "RaviiPlayzYT": 56,
+    "RaviiPlayzYT": 57,
     "UcTheGamerzz": 27,
     "NaorNewDay": 1,
     "luvdrastic": 4,
@@ -1442,7 +1442,7 @@
   "kitStats": {
     "pvp": 2333,
     "raid": 728,
-    "survival": 2680,
+    "survival": 2681,
     "shulker": 1112,
     "music": 283,
     "terracotta": 50,
