@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:52:00 9/3/2026",
+  "lastUpdated": "16:52:30 9/3/2026",
   "totalKits": 109557,
   "todayKits": 155,
   "onlineCount": 13,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "14.0",
-  "ping": 630,
+  "tps": "16.0",
+  "ping": 647,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2359
+      "count": 2360
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:49] [BOT] <HienBot> **Bot to Gout**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[09:49] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[09:49] MIDASSX7 decided to test gravity and lost",
-    "[09:50] [BOT] <HienBot> >Try stash",
-    "[09:50] shadow_scribe Whispers: potion",
-    "[09:50] [8b8t] >> Teleporting to home 0...",
-    "[09:50] [8b8t] >> Teleporting to home 2...",
-    "[09:50] [BOT] <HienBot> **shadow_scribe**: potion",
-    "[09:50] To shadow_scribe: Your kit (potion) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:50] [8b8t] >> ▲ Player iTrisstan Joined.",
     "[09:50] To shadow_scribe: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:50] [BOT] <HienBot> **Bot to shadow_scribe**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +98,17 @@
     "[09:51] <Gout> anyone tp me",
     "[09:51] [BOT] <HienBot> **Gout**: anyone tp me",
     "[09:51] <Gout> anyone tp me for 1v1",
-    "[09:51] [BOT] <HienBot> **Gout**: anyone tp me for 1v1"
+    "[09:51] [BOT] <HienBot> **Gout**: anyone tp me for 1v1",
+    "[09:52] [BOT] <HienBot> >Bot created by Hien2309.",
+    "[09:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[09:52] <Gout> who 1v1",
+    "[09:52] [BOT] <HienBot> **Gout**: who 1v1",
+    "[09:52] <Gout> ?kit pvp",
+    "[09:52] [8b8t] >> Teleporting to home 0...",
+    "[09:52] [BOT] <HienBot> **Gout**: ?kit pvp",
+    "[09:52] [8b8t] >> Teleporting to home 1...",
+    "[09:52] To Gout: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:52] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1441,13 +1441,13 @@
     "Haronnyo": 7,
     "silver_l1": 1,
     "skskajwkesgusgow": 5,
-    "Gout": 10,
+    "Gout": 11,
     "x1Jatin": 2,
     "Farex_x": 1,
     "MIDASSX7": 1
   },
   "kitStats": {
-    "pvp": 2359,
+    "pvp": 2360,
     "raid": 728,
     "survival": 2694,
     "shulker": 1116,
