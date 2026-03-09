@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:40:30 9/3/2026",
+  "lastUpdated": "14:41:00 9/3/2026",
   "totalKits": 109514,
   "todayKits": 112,
-  "onlineCount": 10,
+  "onlineCount": 11,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "16.0",
-  "ping": 196,
+  "tps": "14.0",
+  "ping": 197,
   "topUsers": [
     {
       "name": "waximo",
@@ -45,7 +45,7 @@
     },
     {
       "name": "Azure772",
-      "count": 205
+      "count": 206
     },
     {
       "name": "Ascalter40",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2345
+      "count": 2346
     },
     {
       "name": "shulker",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:39] [BOT] <HienBot> **Azure772**: water",
-    "[07:39] [8b8t] >> Teleporting to home 6...",
-    "[07:39] To Azure772: Your kit (water) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:39] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:39] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:39] [8b8t] >> Request sent to Azure772",
-    "[07:39] [8b8t] >> Teleporting...",
-    "[07:39] [8b8t] >> You have killed yourself!",
-    "[07:39] Azure772 pulverized HienBot using [netherite sword]",
-    "[07:40] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[07:40] [BOT] <HienBot> >Get fully equipped with pvp",
-    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:40] <Haronnyo> totem",
-    "[07:40] [8b8t] >> Teleporting to home 0...",
-    "[07:40] [BOT] <HienBot> **Haronnyo**: totem",
-    "[07:40] [8b8t] >> Teleporting to home 1...",
-    "[07:40] To Haronnyo: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[07:40] To Haronnyo: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[07:40] [BOT] <HienBot> **Bot to Haronnyo**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
@@ -108,7 +90,25 @@
     "[07:40] <Azure772> bucket",
     "[07:40] To Azure772: You're on cooldown, try again in 24 seconds! Don't forget to join dsc.gg/hienbot",
     "[07:40] [BOT] <HienBot> **Azure772**: bucket",
-    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:40] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
+    "[07:40] <Haronnyo> pvp",
+    "[07:40] [8b8t] >> Teleporting to home 0...",
+    "[07:40] [BOT] <HienBot> **Haronnyo**: pvp",
+    "[07:40] [8b8t] >> Teleporting to home 1...",
+    "[07:40] To Haronnyo: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:40] To Haronnyo: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:40] [BOT] <HienBot> **Bot to Haronnyo**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:40] [8b8t] >> ▲ Player silver_l1 Joined.",
+    "[07:40] <silver_l1> guys?",
+    "[07:40] [BOT] <HienBot> **silver_l1**: guys?",
+    "[07:40] <Azure772> wood",
+    "[07:40] [8b8t] >> Teleporting to home 0...",
+    "[07:40] [BOT] <HienBot> **Azure772**: wood",
+    "[07:40] [8b8t] >> Teleporting to home 3...",
+    "[07:40] To Azure772: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:41] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 205,
+    "Azure772": 206,
     "kobthegoat14": 116,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1438,10 +1438,10 @@
     "AlexWatrmalon": 3,
     "MrSirGuy1004": 9,
     "Adil_OG": 10,
-    "Haronnyo": 4
+    "Haronnyo": 5
   },
   "kitStats": {
-    "pvp": 2345,
+    "pvp": 2346,
     "raid": 728,
     "survival": 2683,
     "shulker": 1113,
@@ -1468,7 +1468,7 @@
     "gap": 162,
     "mineral": 312,
     "gterracotta": 39,
-    "wood": 321,
+    "wood": 322,
     "end": 224
   }
 }
