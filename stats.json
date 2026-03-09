@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:40:22 9/3/2026",
+  "lastUpdated": "20:40:52 9/3/2026",
   "totalKits": 109624,
   "todayKits": 12,
   "onlineCount": 27,
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "8.0",
+  "tps": "12.0",
   "ping": 198,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "build",
-      "count": 918
+      "count": 919
     },
     {
       "name": "dupe",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:35]  decrease the chance of being hacked.",
-    "[13:35] ",
-    "[13:35]   [Confirm read]\n",
-    "[13:35] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[13:35] [8b8t] >> ▲ Player HienBot Joined.",
-    "[13:35] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[13:35] [BOT] <HienBot> **password**: .",
-    "[13:35] [8b8t] >> Teleporting to home 0...",
-    "[13:35] [8b8t] >> You have killed yourself!",
-    "[13:35] You are already connected to this server!",
     "[13:35] [BOT] <HienBot> >Want free items? Just type survival",
     "[13:35] Gyurmika2012 forgot to bring their parachute",
     "[13:35] [8b8t] >> ▼ Player Gyurmika2012 Left.",
@@ -108,7 +98,17 @@
     "[13:40] [8b8t] >> ▲ Player HienBot Joined.",
     "[13:40] [8b8t] >> Teleporting to home 0...",
     "[13:40] <Bazuka_Edits> ебааа коньён",
-    "[13:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[13:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:40] <RushCore> Build",
+    "[13:40] [BOT] <HienBot> **RushCore**: Build",
+    "[13:40] [8b8t] >> Teleporting to home 0...",
+    "[13:40] [8b8t] >> Teleporting to home 2...",
+    "[13:40] To RushCore: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:40] [BOT] <HienBot> **Bot to RushCore**: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:40] To RushCore: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:40] [BOT] <HienBot> **Bot to RushCore**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:40] LC_Killer forgot to bring their parachute"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1448,7 +1448,7 @@
     "hesback": 1,
     "idkyougoaway": 22,
     ".GHOSTY4768": 1,
-    "RushCore": 2,
+    "RushCore": 3,
     "Constant0fps": 8,
     "luvsbhxvin": 1
   },
@@ -1467,7 +1467,7 @@
     "exp": 440,
     "stash": 768,
     "ocean": 87,
-    "build": 918,
+    "build": 919,
     "dye": 79,
     "concrete": 124,
     "dupe": 914,
