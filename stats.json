@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:12:23 10/3/2026",
+  "lastUpdated": "04:12:53 10/3/2026",
   "totalKits": 109770,
   "todayKits": 158,
-  "onlineCount": 3,
+  "onlineCount": 2,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:18:22 10/3/2026",
     "avg": 22
   },
-  "tps": "7.0",
+  "tps": "6.0",
   "ping": 0,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2772
+      "count": 2774
     },
     {
       "name": "pvp",
@@ -79,35 +79,35 @@
     }
   ],
   "chatLog": [
-    "[21:12] [8b8t] Unknown command do /help",
-    "[21:12] [8b8t] Unknown command do /help",
+    "[21:12] You can't chat that fast or send the same content over again!",
     "[21:12] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[21:12] [8b8t] >> ▲ Player HienBot Joined.",
     "[21:12] You are already connected to this server!",
+    "[21:12] <arjebn> survival",
+    "[21:12] _PIGY_ Whispers: info /n",
+    "[21:12] To arjebn: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[21:12] An unexpected error occurred trying to execute that command",
+    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
     "[21:12] _PIGY_ Whispers: info /n",
     "[21:12] An unexpected error occurred trying to execute that command",
+    "[21:12] _PIGY_ Whispers: info /n",
+    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
+    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
+    "[21:12] _PIGY_ Whispers: info /n",
+    "[21:12] [BOT] <HienBot> **_PIGY_**: info /n",
+    "[21:12] An unexpected error occurred trying to execute that command",
+    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
+    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:12] _PIGY_ Whispers: info /n",
+    "[21:12] An unexpected error occurred trying to execute that command",
+    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[21:12] _PIGY_ Whispers: info /n",
     "[21:12] [8b8t] >> Please do not spam.",
-    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:12] _PIGY_ Whispers: info /n",
-    "[21:12] An unexpected error occurred trying to execute that command",
-    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:12] [8b8t] >> ▼ Player chiteroman Left.",
-    "[21:12] _PIGY_ Whispers: info /n",
-    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[21:12] [8b8t] >> Please do not spam.",
-    "[21:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:12] _PIGY_ Whispers: info /n",
-    "[21:12] An unexpected error occurred trying to execute that command",
-    "[21:12] _PIGY_ Whispers: info /n",
-    "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
     "[21:12] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
     "[21:12] You were kicked from 8b8t: Kicked for spamming",
+    "[21:12] [8b8t] Unknown command do /help",
     "[21:12] [8b8t] >> Welcome HienBot to 8b8t.me Lobby"
   ],
   "userStats": {
@@ -1409,8 +1409,8 @@
     "Master_Dark2026": 4,
     "IKOLZXLOLS": 1,
     "elcolo150": 1,
-    "arjebn": 47,
-    "RhettCTX": 4,
+    "arjebn": 48,
+    "RhettCTX": 5,
     "2b2tJourney": 2,
     "dandin99": 1,
     "BoroBhai": 1,
@@ -1474,7 +1474,7 @@
   "kitStats": {
     "pvp": 2424,
     "raid": 750,
-    "survival": 2772,
+    "survival": 2774,
     "shulker": 1127,
     "music": 286,
     "terracotta": 50,
