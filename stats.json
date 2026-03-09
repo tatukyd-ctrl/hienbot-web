@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:07:23 10/3/2026",
+  "lastUpdated": "04:07:53 10/3/2026",
   "totalKits": 109770,
   "todayKits": 158,
-  "onlineCount": 38,
+  "onlineCount": 36,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:18:22 10/3/2026",
     "avg": 22
   },
-  "tps": "4.0",
+  "tps": "10.0",
   "ping": 0,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2771
+      "count": 2772
     },
     {
       "name": "pvp",
@@ -79,36 +79,36 @@
     }
   ],
   "chatLog": [
+    "[21:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
+    "[21:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:07] _PIGY_ Whispers: info /n",
     "[21:07] An unexpected error occurred trying to execute that command",
     "[21:07] _PIGY_ Whispers: info /n",
     "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
     "[21:07] [BOT] <HienBot> **Bot to _PIGY_**: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline |",
-    "[21:07] _PIGY_ Whispers: info /n",
-    "[21:07] An unexpected error occurred trying to execute that command",
-    "[21:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:07] _PIGY_ Whispers: info /n",
     "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[21:07] An unexpected error occurred trying to execute that command",
-    "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[21:07] An unexpected error occurred trying to execute that command",
-    "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[21:07] _PIGY_ Whispers: info /n",
-    "[21:07] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[21:07] An unexpected error occurred trying to execute that command",
-    "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[21:07] [8b8t] >> Please do not spam.",
     "[21:07] You were kicked from 8b8t: Kicked for spamming",
     "[21:07] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[21:07] <HienBot> **_PIGY_**: info /n",
-    "[21:07] <HienBot> **_PIGY_**: info /n",
+    "[21:07] [8b8t] Unknown command do /help",
     "[21:07] <HienBot> **Bot to _PIGY_**: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline |",
     "[21:07] [8b8t] Unknown command do /help",
-    "[21:07] You can't chat that fast or send the same content over again!",
-    "[21:07] You can't chat that fast or send the same content over again!",
+    "[21:07] <HienBot> **_PIGY_**: info /n",
+    "[21:07] <HienBot> **_PIGY_**: info /n",
     "[21:07] You can't chat that fast or send the same content over again!",
     "[21:07] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[21:07] [8b8t] >> ▲ Player HienBot Joined."
+    "[21:07] [8b8t] >> ▲ Player HienBot Joined.",
+    "[21:07] [8b8t] >> ▼ Player don_fernan007 Left.",
+    "[21:07] You are already connected to this server!",
+    "[21:07] _PIGY_ Whispers: info /n",
+    "[21:07] An unexpected error occurred trying to execute that command",
+    "[21:07] _PIGY_ Whispers: info /n",
+    "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
+    "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
+    "[21:07] _PIGY_ Whispers: info /n",
+    "[21:07] An unexpected error occurred trying to execute that command",
+    "[21:07] _PIGY_ Whispers: info /n",
+    "[21:07] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | "
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1308,7 +1308,7 @@
     "wemmmos": 34,
     "shadow_scribe": 50,
     "GhostMinerX": 10,
-    "don_fernan007": 6,
+    "don_fernan007": 7,
     ".YuyuMC_QwQ": 64,
     ".MennoKnight78": 2,
     ".FlluxIsHere": 1,
@@ -1474,7 +1474,7 @@
   "kitStats": {
     "pvp": 2424,
     "raid": 750,
-    "survival": 2771,
+    "survival": 2772,
     "shulker": 1127,
     "music": 286,
     "terracotta": 50,
