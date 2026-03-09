@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:18:22 9/3/2026",
-  "totalKits": 109622,
-  "todayKits": 10,
+  "lastUpdated": "20:18:41 9/3/2026",
+  "totalKits": 109623,
+  "todayKits": 11,
   "onlineCount": 23,
   "peakPlayers": 25,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "15.0",
+  "tps": "13.0",
   "ping": 197,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2716
+      "count": 2717
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:15] [BOT] <HienBot> **Bazuka_Edits**: ?",
-    "[13:15] [Ultra] <CuloGangTobias> hello my niggas",
-    "[13:15] [BOT] <HienBot> **CuloGangTobias**: hello my niggas",
-    "[13:15] [BOT] <HienBot> >Welcome to 8b8t, Leeewith3Es!",
-    "[13:15] [8b8t] >> ▲ Player ohio_sigma69 Joined.",
-    "[13:15] [Ultra] <MrDarkEye> ohio_sigma69",
-    "[13:15] [BOT] <HienBot> **MrDarkEye**: ohio_sigma69",
-    "[13:16] [8b8t] >> ▲ Player _krista_ Joined.",
-    "[13:16] <ohio_sigma69> sigma sigma",
-    "[13:16] [BOT] <HienBot> **ohio_sigma69**: sigma sigma",
-    "[13:16] BigBear has been put down by TylerDurden098",
-    "[13:16] <Bazuka_Edits> чем займёмся?",
-    "[13:16] [BOT] <HienBot> >Use lang and select your language",
-    "[13:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:16] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[13:16] [8b8t] >> ▲ Player Tomardo999 Joined.",
     "[13:16] [8b8t] >> ▼ Player .Kero Left.",
@@ -108,7 +94,21 @@
     "[13:17] [8b8t] >> ▲ Player luvsbhxvin Joined.",
     "[13:18] [8b8t] >> ▼ Player Tobias Left.",
     "[13:18] [8b8t] >> ▲ Player Gyurmika2012 Joined.",
-    "[13:18] [BOT] <HienBot> >Want free items? Just type survival"
+    "[13:18] [BOT] <HienBot> >Want free items? Just type survival",
+    "[13:18] <luvsbhxvin> survival",
+    "[13:18] [BOT] <HienBot> **luvsbhxvin**: survival",
+    "[13:18] [8b8t] >> Teleporting to home 0...",
+    "[13:18] [8b8t] >> Teleporting to home 1...",
+    "[13:18] To luvsbhxvin: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:18] To luvsbhxvin: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:18] [BOT] <HienBot> **Bot to luvsbhxvin**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:18] [8b8t] >> Request sent to luvsbhxvin",
+    "[13:18] <Bazuka_Edits> это мой дом, и ток cappuccino_ может заходить и брать ресы",
+    "[13:18] [BOT] <HienBot> **Bazuka_Edits**: ,   cappuccino_",
+    "[13:18] [8b8t] >> Teleporting...",
+    "[13:18] <Bazuka_Edits> окей?",
+    "[13:18] [BOT] <HienBot> **Bazuka_Edits**: ?"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1449,12 +1449,13 @@
     "idkyougoaway": 22,
     ".GHOSTY4768": 1,
     "RushCore": 2,
-    "Constant0fps": 7
+    "Constant0fps": 7,
+    "luvsbhxvin": 1
   },
   "kitStats": {
     "pvp": 2365,
     "raid": 734,
-    "survival": 2716,
+    "survival": 2717,
     "shulker": 1116,
     "music": 284,
     "terracotta": 50,
