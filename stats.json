@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:08:00 9/3/2026",
+  "lastUpdated": "19:08:30 9/3/2026",
   "totalKits": 109600,
   "todayKits": 198,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 16
   },
   "tps": "14.0",
-  "ping": 444,
+  "ping": 437,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2708
+      "count": 2709
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:06] [8b8t] >> Teleporting to home 0...",
-    "[12:06] [BOT] <HienBot> **idkyougoaway**: grief",
-    "[12:06] <Bazuka_Edits> а тут кланы присутствуют?",
-    "[12:06] [8b8t] >> Teleporting to home 2...",
-    "[12:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:06] [8b8t] >> ▲ Player FreePuffDiddy Joined.",
-    "[12:06] To idkyougoaway: Sorry! Gray Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:06] [8b8t] >> You have killed yourself!",
-    "[12:06] HienBot forgot to stop, drop, and roll",
-    "[12:06] [BOT] <HienBot> **Bot to idkyougoaway**: Sorry! Gray Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:06] [8b8t] >> ▲ Player UNKNOWNxNvrDie Joined.",
-    "[12:06] [BOT] <HienBot> >Try list to see available kits",
-    "[12:06] [8b8t] >> ▼ Player Constant0fps Left.",
     "[12:06] UNKNOWNxNvrDie got his head blown off by the Wither",
     "[12:06] [8b8t] >> ▲ Player Constant0fps Joined.",
     "[12:06] <cappuccino_> м/clan нету но Я видел кланов другие как Испанцы и Англчанены",
@@ -108,7 +95,20 @@
     "[12:07] [8b8t] >> ▲ Player imnewtopvp354868 Joined.",
     "[12:07] akozlov50 went for a swim in lava and got burned",
     "[12:07] Constant0fps went for a swim in lava and got burned",
-    "[12:07] <cappuccino_> не знаю"
+    "[12:07] <cappuccino_> не знаю",
+    "[12:08] [BOT] <HienBot> >Get a head start with survival",
+    "[12:08] <Bazuka_Edits> понял",
+    "[12:08] <Bazuka_Edits> чем тут занятся можно?",
+    "[12:08] [BOT] <HienBot> **Bazuka_Edits**: ?",
+    "[12:08] <Constant0fps> survival",
+    "[12:08] [8b8t] >> Teleporting to home 0...",
+    "[12:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:08] [8b8t] >> Teleporting to home 1...",
+    "[12:08] To Constant0fps: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:08] [8b8t] >> Request sent to Constant0fps",
+    "[12:08] [BOT] <HienBot> **Bot to Constant0fps**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:08] [8b8t] >> ▼ Player HighwayCleaner Left.",
+    "[12:08] <Bazuka_Edits> газ базу построем? или у тя уже есть?"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1449,12 +1449,12 @@
     "idkyougoaway": 22,
     ".GHOSTY4768": 1,
     "RushCore": 2,
-    "Constant0fps": 1
+    "Constant0fps": 2
   },
   "kitStats": {
     "pvp": 2364,
     "raid": 733,
-    "survival": 2708,
+    "survival": 2709,
     "shulker": 1116,
     "music": 284,
     "terracotta": 50,
