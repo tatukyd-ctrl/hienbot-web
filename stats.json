@@ -1,19 +1,19 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:06:59 9/3/2026",
+  "lastUpdated": "10:07:29 9/3/2026",
   "totalKits": 109451,
   "todayKits": 49,
-  "onlineCount": 14,
+  "onlineCount": 12,
   "peakPlayers": 54,
   "playerStats": {
-    "min": 13,
-    "minTime": "10:01:59 9/3/2026",
+    "min": 12,
+    "minTime": "10:07:29 9/3/2026",
     "max": 28,
     "maxTime": "07:34:59 9/3/2026",
     "avg": 21
   },
-  "tps": "17.0",
-  "ping": 193,
+  "tps": "15.0",
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2662
+      "count": 2663
     },
     {
       "name": "pvp",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:05] [8b8t] >> Teleporting to home 6...",
-    "[03:05] To .YuyuMC_QwQ: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:05] To .YuyuMC_QwQ: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:05] [BOT] <0_HienBot> **Bot to .YuyuMC_QwQ**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:05] [8b8t] >> Request sent to .YuyuMC_QwQ",
-    "[03:05] [8b8t] >> The TPA request you sent to .YuyuMC_QwQ has expired.",
-    "[03:06] <Klngboo> i dont have one",
-    "[03:06] [BOT] <0_HienBot> **Klngboo**: i dont have one",
-    "[03:06] <Klngboo> i have noting",
-    "[03:06] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:06] <.YuyuMC_QwQ> ok, u should chat \"survival\"",
-    "[03:06] [BOT] <0_HienBot> **.YuyuMC_QwQ**: ok, u should chat \"survival\"",
-    "[03:06] [8b8t] >> You have killed yourself!",
-    "[03:06] [8b8t] >> No TPA request found",
-    "[03:06] <Klngboo> survival",
-    "[03:06] [8b8t] >> Teleporting to home 0...",
-    "[03:06] [8b8t] >> Teleporting to home 1...",
     "[03:06] [BOT] <0_HienBot> **Klngboo**: survival",
     "[03:06] To Klngboo: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +89,26 @@
     "[03:06] <.YuyuMC_QwQ> survival",
     "[03:06] To .YuyuMC_QwQ: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[03:06] [BOT] <0_HienBot> **.YuyuMC_QwQ**: survival",
-    "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:07] <.YuyuMC_QwQ> elytra",
+    "[03:07] To .YuyuMC_QwQ: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[03:07] [BOT] <0_HienBot> **.YuyuMC_QwQ**: elytra",
+    "[03:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:07] [8b8t] >> You have killed yourself!",
+    "[03:07] Chat disabled in client options",
+    "[03:07] [8b8t] >> The TPA request you sent to Klngboo was successfully canceled.",
+    "[03:07] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[03:07] <Klngboo> i typed it it say wait 30 secs for it",
+    "[03:07] [BOT] <0_HienBot> **Klngboo**: i typed it it say wait 30 secs for it",
+    "[03:07] <.YuyuMC_QwQ> oh ok",
+    "[03:07] [BOT] <0_HienBot> **.YuyuMC_QwQ**: oh ok",
+    "[03:07] <.YuyuMC_QwQ> survival",
+    "[03:07] [8b8t] >> Teleporting to home 0...",
+    "[03:07] [BOT] <0_HienBot> **.YuyuMC_QwQ**: survival",
+    "[03:07] [8b8t] >> Teleporting to home 1...",
+    "[03:07] To .YuyuMC_QwQ: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:07] To .YuyuMC_QwQ: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1309,7 +1309,7 @@
     "shadow_scribe": 38,
     "GhostMinerX": 10,
     "don_fernan007": 5,
-    ".YuyuMC_QwQ": 57,
+    ".YuyuMC_QwQ": 58,
     ".MennoKnight78": 2,
     ".FlluxIsHere": 1,
     "lrlc34": 6,
@@ -1436,7 +1436,7 @@
   "kitStats": {
     "pvp": 2321,
     "raid": 727,
-    "survival": 2662,
+    "survival": 2663,
     "shulker": 1112,
     "music": 283,
     "terracotta": 50,
