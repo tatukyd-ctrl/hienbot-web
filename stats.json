@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:26:30 9/3/2026",
+  "lastUpdated": "16:27:00 9/3/2026",
   "totalKits": 109544,
   "todayKits": 142,
-  "onlineCount": 19,
+  "onlineCount": 18,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "17.0",
-  "ping": 805,
+  "tps": "13.0",
+  "ping": 459,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2351
+      "count": 2352
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:25] [8b8t] >> Teleporting to home 0...",
-    "[09:25] [8b8t] >> Teleporting to home 1...",
-    "[09:25] To x1Jatin: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:25] [BOT] <HienBot> **Bot to x1Jatin**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:25] To x1Jatin: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:25] [8b8t] >> You have killed yourself!",
-    "[09:25] [BOT] <HienBot> **Bot to x1Jatin**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:25] [BOT] <HienBot> >Hi skskajwkesgusgow!",
-    "[09:25] [8b8t] >> ▲ Player Veinryx Joined.",
-    "[09:25] <skskajwkesgusgow> hi hienbot",
-    "[09:25] [BOT] <HienBot> **skskajwkesgusgow**: hi hienbot",
-    "[09:25] <shadow_scribe> how to get pearls",
     "[09:25] [BOT] <HienBot> **shadow_scribe**: how to get pearls",
     "[09:25] <Veinryx> elytra",
     "[09:25] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +96,19 @@
     "[09:26] Veinryx pulverized HienBot using [their hand]",
     "[09:26] x1Jatin forgot to bring their parachute",
     "[09:26] To Veinryx: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[09:26] [BOT] <HienBot> **Bot to Veinryx**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[09:26] [BOT] <HienBot> **Bot to Veinryx**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[09:26] [BOT] <HienBot> >Try stash",
+    "[09:26] <x1Jatin> pvp",
+    "[09:26] [8b8t] >> Teleporting to home 0...",
+    "[09:26] [BOT] <HienBot> **x1Jatin**: pvp",
+    "[09:26] [8b8t] >> Teleporting to home 1...",
+    "[09:26] To x1Jatin: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:26] To x1Jatin: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:26] [8b8t] >> You have killed yourself!",
+    "[09:26] [BOT] <HienBot> **Bot to x1Jatin**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:26] [8b8t] >> ▼ Player x1Jatin Left.",
+    "[09:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1442,10 +1442,10 @@
     "silver_l1": 1,
     "skskajwkesgusgow": 5,
     "Gout": 3,
-    "x1Jatin": 1
+    "x1Jatin": 2
   },
   "kitStats": {
-    "pvp": 2351,
+    "pvp": 2352,
     "raid": 728,
     "survival": 2691,
     "shulker": 1115,
