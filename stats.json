@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:06:29 9/3/2026",
+  "lastUpdated": "10:06:59 9/3/2026",
   "totalKits": 109451,
   "todayKits": 49,
   "onlineCount": 14,
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 21
   },
-  "tps": "15.0",
+  "tps": "17.0",
   "ping": 193,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2661
+      "count": 2662
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:05] [BOT] <0_HienBot> >Try status",
-    "[03:05] <Klngboo> im so lost",
-    "[03:05] [BOT] <0_HienBot> **Klngboo**: im so lost",
-    "[03:05] <DeathZuka> alguien habla español",
-    "[03:05] [BOT] <0_HienBot> **DeathZuka**: alguien habla espaol",
-    "[03:05] <.YuyuMC_QwQ> oh",
-    "[03:05] [BOT] <0_HienBot> **.YuyuMC_QwQ**: oh",
-    "[03:05] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[03:05] <Klngboo> where do i go",
-    "[03:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:05] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[03:05] <.YuyuMC_QwQ> elytra",
-    "[03:05] [8b8t] >> Teleporting to home 0...",
-    "[03:05] [BOT] <0_HienBot> **.YuyuMC_QwQ**: elytra",
     "[03:05] [8b8t] >> Teleporting to home 6...",
     "[03:05] To .YuyuMC_QwQ: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[03:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +94,21 @@
     "[03:06] <.YuyuMC_QwQ> ok, u should chat \"survival\"",
     "[03:06] [BOT] <0_HienBot> **.YuyuMC_QwQ**: ok, u should chat \"survival\"",
     "[03:06] [8b8t] >> You have killed yourself!",
-    "[03:06] [8b8t] >> No TPA request found"
+    "[03:06] [8b8t] >> No TPA request found",
+    "[03:06] <Klngboo> survival",
+    "[03:06] [8b8t] >> Teleporting to home 0...",
+    "[03:06] [8b8t] >> Teleporting to home 1...",
+    "[03:06] [BOT] <0_HienBot> **Klngboo**: survival",
+    "[03:06] To Klngboo: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:06] To Klngboo: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:06] [BOT] <0_HienBot> **Bot to Klngboo**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:06] [8b8t] >> Request sent to Klngboo",
+    "[03:06] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[03:06] <.YuyuMC_QwQ> survival",
+    "[03:06] To .YuyuMC_QwQ: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[03:06] [BOT] <0_HienBot> **.YuyuMC_QwQ**: survival",
+    "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1431,12 +1431,12 @@
     "DANIMER": 1,
     "_DRAV3N_": 1,
     "jcx311": 1,
-    "Klngboo": 1
+    "Klngboo": 2
   },
   "kitStats": {
     "pvp": 2321,
     "raid": 727,
-    "survival": 2661,
+    "survival": 2662,
     "shulker": 1112,
     "music": 283,
     "terracotta": 50,
