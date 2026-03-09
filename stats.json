@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:50:22 9/3/2026",
+  "lastUpdated": "20:50:52 9/3/2026",
   "totalKits": 109624,
   "todayKits": 12,
   "onlineCount": 24,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "14.0",
-  "ping": 195,
+  "tps": "15.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2718
+      "count": 2719
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:44] [BOT] <HienBot> >Try dupe",
-    "[13:44] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:44] LC_Killer thought they could fly... they couldn't",
-    "[13:45] [BOT] <HienBot> >Use list to see all available kits!",
-    "[13:45] <RushCore> list",
-    "[13:45] To RushCore: Hello RushCore!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:45] [BOT] <HienBot> **RushCore**: list",
-    "[13:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:45] [8b8t] >> ▼ Player PistonCubeB0T Left.",
-    "[13:45] [BOT] <HienBot> >Running low on supplies? Use survival",
-    "[13:45] LC_Killer got a deadly lesson from the Wither",
     "[13:46] [8b8t] >> ▲ Player PistonCubeB0T Joined.",
     "[13:46] [BOT] <HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
     "[13:46] [8b8t] >> ▼ Player Banty1236 Left.",
@@ -108,7 +97,18 @@
     "[13:49] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[13:49] [BOT] <HienBot> >Bot created by Hien2309.",
     "[13:49] LC_Killer got the wither disease",
-    "[13:50] [BOT] <HienBot> >Hello ASneakySenior!"
+    "[13:50] [BOT] <HienBot> >Hello ASneakySenior!",
+    "[13:50] [BOT] <HienBot> >Want free items? Just type survival",
+    "[13:50] <Blue_Fragment_> survival",
+    "[13:50] [BOT] <HienBot> **Blue_Fragment_**: survival",
+    "[13:50] [8b8t] >> Teleporting to home 0...",
+    "[13:50] [8b8t] >> Teleporting to home 1...",
+    "[13:50] To Blue_Fragment_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:50] [BOT] <HienBot> **Bot to Blue_Fragment_**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:50] To Blue_Fragment_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:50] [BOT] <HienBot> **Bot to Blue_Fragment_**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:50] [8b8t] >> Request sent to Blue_Fragment_",
+    "[13:50] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1450,12 +1450,13 @@
     ".GHOSTY4768": 1,
     "RushCore": 3,
     "Constant0fps": 8,
-    "luvsbhxvin": 1
+    "luvsbhxvin": 1,
+    "Blue_Fragment_": 1
   },
   "kitStats": {
     "pvp": 2365,
     "raid": 734,
-    "survival": 2718,
+    "survival": 2719,
     "shulker": 1116,
     "music": 284,
     "terracotta": 50,
