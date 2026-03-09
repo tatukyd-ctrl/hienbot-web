@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:19:30 9/3/2026",
-  "totalKits": 109486,
-  "todayKits": 84,
+  "lastUpdated": "13:19:42 9/3/2026",
+  "totalKits": 109487,
+  "todayKits": 85,
   "onlineCount": 19,
   "peakPlayers": 54,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "15.0",
+  "tps": "12.0",
   "ping": 199,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2672
+      "count": 2673
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:18] To AlexWatrmalon: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:18] [8b8t] >> Teleporting to home 0...",
-    "[06:18] [BOT] <HienBot> **Bot to AlexWatrmalon**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:18] [8b8t] >> Teleporting to home 5...",
-    "[06:18] You were kicked from 8b8t: Kicked for spamming",
-    "[06:18] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
-    "[06:18] [8b8t] Unknown command do /help",
-    "[06:18] [8b8t] Unknown command do /help",
-    "[06:18] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[06:18] [8b8t] >> ▲ Player HienBot Joined.",
-    "[06:18] You are already connected to this server!",
     "[06:18] AlexWatrmalon has completed the challenge [Cover Me in Debris]",
     "[06:18] AlexWatrmalon has reached the goal [Sky's the Limit]",
     "[06:18] AlexWatrmalon has completed the challenge [Serious Dedication]",
@@ -108,7 +97,18 @@
     "[06:19] To HighwayCleaner: Your kit (exp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[06:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:19] To HighwayCleaner: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[06:19] [BOT] <HienBot> **Bot to HighwayCleaner**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[06:19] [BOT] <HienBot> **Bot to HighwayCleaner**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[06:19] HighwayCleaner Whispers: survival",
+    "[06:19] [8b8t] >> Teleporting to home 0...",
+    "[06:19] [BOT] <HienBot> **HighwayCleaner**: survival",
+    "[06:19] [8b8t] >> Teleporting to home 1...",
+    "[06:19] To HighwayCleaner: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:19] To HighwayCleaner: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:19] [BOT] <HienBot> >Hey .xXzamuroXx!",
+    "[06:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:19] [8b8t] >> Request sent to HighwayCleaner",
+    "[06:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -798,7 +798,7 @@
     "ravegupUQYQK": 4,
     "WinterWater": 1,
     "KAOSZHAFCROSS": 14,
-    "HighwayCleaner": 39,
+    "HighwayCleaner": 40,
     "Hanae0": 5,
     "TylerDurden098": 33,
     "IAMSAMINDIAN": 26,
@@ -1441,7 +1441,7 @@
   "kitStats": {
     "pvp": 2327,
     "raid": 728,
-    "survival": 2672,
+    "survival": 2673,
     "shulker": 1112,
     "music": 283,
     "terracotta": 50,
