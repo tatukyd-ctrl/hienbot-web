@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:57:00 9/3/2026",
+  "lastUpdated": "12:57:30 9/3/2026",
   "totalKits": 109480,
   "todayKits": 78,
-  "onlineCount": 15,
+  "onlineCount": 16,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "15.0",
+  "tps": "14.0",
   "ping": 208,
   "topUsers": [
     {
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:55] [8b8t] >> Teleporting...",
-    "[05:55] [8b8t] >> You have killed yourself!",
-    "[05:55] To geeyuh: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:55] [BOT] <HienBot> **Bot to geeyuh**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:55] <geeyuh> mace",
-    "[05:55] To geeyuh: You're on cooldown, try again in 35 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:55] [BOT] <HienBot> **geeyuh**: mace",
-    "[05:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:55] [BOT] <HienBot> >Hey MonkeBot!",
-    "[05:55] <Azure772> pvp",
-    "[05:55] [8b8t] >> Teleporting to home 0...",
     "[05:55] [BOT] <HienBot> **Azure772**: pvp",
     "[05:55] [8b8t] >> Teleporting to home 1...",
     "[05:55] To Azure772: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +97,18 @@
     "[05:56] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
     "[05:56] geeyuh has made the advancement [We Need to Go Deeper]",
     "[05:56] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[05:56] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore"
+    "[05:56] [BOT] <HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[05:57] [8b8t] >> ▲ Player .xXzamuroXx Joined.",
+    "[05:57] [BOT] <HienBot> >Use info <player> to check someone's stats",
+    "[05:57] <geeyuh> drill",
+    "[05:57] [BOT] <HienBot> **geeyuh**: drill",
+    "[05:57] <geeyuh> portal",
+    "[05:57] [BOT] <HienBot> **geeyuh**: portal",
+    "[05:57] <geeyuh> end",
+    "[05:57] [8b8t] >> Teleporting to home 0...",
+    "[05:57] [BOT] <HienBot> **geeyuh**: end",
+    "[05:57] [8b8t] >> Teleporting to home 5...",
+    "[05:57] To geeyuh: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1433,7 +1433,7 @@
     "jcx311": 1,
     "Klngboo": 2,
     "Raip2": 1,
-    "geeyuh": 11
+    "geeyuh": 12
   },
   "kitStats": {
     "pvp": 2324,
@@ -1464,6 +1464,6 @@
     "mineral": 312,
     "gterracotta": 39,
     "wood": 319,
-    "end": 223
+    "end": 224
   }
 }
