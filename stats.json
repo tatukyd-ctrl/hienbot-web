@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:02:00 9/3/2026",
+  "lastUpdated": "15:02:30 9/3/2026",
   "totalKits": 109519,
   "todayKits": 117,
-  "onlineCount": 11,
+  "onlineCount": 12,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 16
   },
   "tps": "14.0",
-  "ping": 442,
+  "ping": 469,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "build",
-      "count": 910
+      "count": 911
     },
     {
       "name": "dupe",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:57] To cappuccino_: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:57] To cappuccino_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:57] [BOT] <HienBot> **Bot to cappuccino_**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:57] [8b8t] >> Request sent to cappuccino_",
-    "[07:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:57] [8b8t] >> Teleporting...",
-    "[07:57] [8b8t] >> You have killed yourself!",
-    "[07:57] HienBot was pwned by cappuccino_ wielding [their hand]",
-    "[07:57] To cappuccino_: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[07:57] [BOT] <HienBot> **Bot to cappuccino_**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[07:58] [BOT] <HienBot> >Use lang and select your language",
     "[07:58] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[07:58] [BOT] <HienBot> >Need gear? Type pvp to get started!",
     "[07:59] [BOT] <HienBot> >Use info <player> to check someone's stats",
@@ -108,7 +96,19 @@
     "[08:01] [8b8t] >> ▼ Player cappuccino_ Left.",
     "[08:01] [BOT] <HienBot> >Use list to choose your kit",
     "[08:01] [8b8t] >> ▲ Player cappuccino_ Joined.",
-    "[08:02] [8b8t] >> ▼ Player cappuccino_ Left."
+    "[08:02] [8b8t] >> ▼ Player cappuccino_ Left.",
+    "[08:02] [BOT] <HienBot> >Items for PVP and Building available in build",
+    "[08:02] <Haronnyo> build",
+    "[08:02] [8b8t] >> Teleporting to home 0...",
+    "[08:02] [BOT] <HienBot> **Haronnyo**: build",
+    "[08:02] [8b8t] >> Teleporting to home 2...",
+    "[08:02] To Haronnyo: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:02] [8b8t] >> ▲ Player cappuccino_ Joined.",
+    "[08:02] To Haronnyo: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[08:02] [8b8t] >> You have killed yourself!",
+    "[08:02] HienBot forgot to stop, drop, and roll",
+    "[08:02] [BOT] <HienBot> **Bot to Haronnyo**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1438,7 +1438,7 @@
     "AlexWatrmalon": 3,
     "MrSirGuy1004": 9,
     "Adil_OG": 10,
-    "Haronnyo": 6,
+    "Haronnyo": 7,
     "silver_l1": 1
   },
   "kitStats": {
@@ -1456,7 +1456,7 @@
     "exp": 430,
     "stash": 762,
     "ocean": 87,
-    "build": 910,
+    "build": 911,
     "dye": 78,
     "concrete": 121,
     "dupe": 907,
