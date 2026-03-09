@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:40:00 9/3/2026",
+  "lastUpdated": "14:40:30 9/3/2026",
   "totalKits": 109514,
   "todayKits": 112,
   "onlineCount": 10,
@@ -12,7 +12,7 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "13.0",
+  "tps": "16.0",
   "ping": 196,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2344
+      "count": 2345
     },
     {
       "name": "shulker",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:38] <cappuccino_> totem",
-    "[07:38] [8b8t] >> Teleporting to home 0...",
-    "[07:38] [BOT] <HienBot> **cappuccino_**: totem",
-    "[07:38] [8b8t] >> Teleporting to home 1...",
-    "[07:38] To cappuccino_: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:38] To cappuccino_: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[07:38] [8b8t] >> Please do not spam.",
-    "[07:38] [8b8t] >> ▼ Player LEON10 Left.",
-    "[07:38] [BOT] <HienBot> >Type discord",
-    "[07:38] <Haronnyo> totem",
-    "[07:38] To Haronnyo: You're on cooldown, try again in 3 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:38] [BOT] <HienBot> **Bot to Haronnyo**: You're on cooldown, try again in 3 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:38] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[07:39] [BOT] <HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[07:39] [BOT] <HienBot> >Hmmmmmmmmm",
-    "[07:39] <Azure772> water",
-    "[07:39] [8b8t] >> Teleporting to home 0...",
     "[07:39] [BOT] <HienBot> **Azure772**: water",
     "[07:39] [8b8t] >> Teleporting to home 6...",
     "[07:39] To Azure772: Your kit (water) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +88,27 @@
     "[07:39] [8b8t] >> Request sent to Azure772",
     "[07:39] [8b8t] >> Teleporting...",
     "[07:39] [8b8t] >> You have killed yourself!",
-    "[07:39] Azure772 pulverized HienBot using [netherite sword]"
+    "[07:39] Azure772 pulverized HienBot using [netherite sword]",
+    "[07:40] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[07:40] [BOT] <HienBot> >Get fully equipped with pvp",
+    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:40] <Haronnyo> totem",
+    "[07:40] [8b8t] >> Teleporting to home 0...",
+    "[07:40] [BOT] <HienBot> **Haronnyo**: totem",
+    "[07:40] [8b8t] >> Teleporting to home 1...",
+    "[07:40] To Haronnyo: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:40] To Haronnyo: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:40] [BOT] <HienBot> **Bot to Haronnyo**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:40] <Azure772> bucket",
+    "[07:40] To Azure772: You're on cooldown, try again in 32 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:40] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[07:40] <Azure772> bucket",
+    "[07:40] To Azure772: You're on cooldown, try again in 24 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:40] [BOT] <HienBot> **Azure772**: bucket",
+    "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1438,10 +1438,10 @@
     "AlexWatrmalon": 3,
     "MrSirGuy1004": 9,
     "Adil_OG": 10,
-    "Haronnyo": 3
+    "Haronnyo": 4
   },
   "kitStats": {
-    "pvp": 2344,
+    "pvp": 2345,
     "raid": 728,
     "survival": 2683,
     "shulker": 1113,
