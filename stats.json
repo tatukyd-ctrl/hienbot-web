@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:51:22 9/3/2026",
+  "lastUpdated": "23:51:52 9/3/2026",
   "totalKits": 109698,
   "todayKits": 86,
-  "onlineCount": 38,
+  "onlineCount": 37,
   "peakPlayers": 41,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:36:22 9/3/2026",
     "avg": 19
   },
-  "tps": "11.0",
-  "ping": 210,
+  "tps": "12.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2381
+      "count": 2382
     },
     {
       "name": "shulker",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:49] milopt burned up in a pit of lava",
-    "[16:49] linceXD21 decided to sleep with the fishes",
-    "[16:49] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[16:49] <linceXD21> fever i love u nigger",
-    "[16:49] [BOT] <HienBot> **linceXD21**: fever i love u nigger",
-    "[16:49] [BOT] <HienBot> >Items for PVP and Building available in build",
-    "[16:49] tania0708 got his head blown off by the Wither",
-    "[16:49] [8b8t] >> ▼ Player Ferrver Left.",
-    "[16:49] imnewtopvp354868 decided to test gravity and lost",
-    "[16:49] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[16:49] milopt decided to test gravity and lost",
-    "[16:49] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[16:50] [BOT] <HienBot> >What's up, ASneakySenior?",
-    "[16:50] [8b8t] >> ▲ Player Ferrver Joined.",
-    "[16:50] <Ferrver> ok",
-    "[16:50] [BOT] <HienBot> **Ferrver**: ok",
-    "[16:50] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
     "[16:50] [8b8t] >> ▲ Player SweatyS_ALT_ALT Joined.",
     "[16:50] linceXD21 got a deadly lesson from the Wither",
     "[16:50] SweatyS_ALT_ALT forgot to bring their parachute",
@@ -108,7 +90,25 @@
     "[16:51] [BOT] <HienBot> **Jamjox**: ok anyway what should i do",
     "[16:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:51] <SweatyS_ALT_ALT> can someone tp me out of spawn please",
-    "[16:51] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[16:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:51] <Jamjox> sweaty",
+    "[16:51] [BOT] <HienBot> **Jamjox**: sweaty",
+    "[16:51] <Jamjox> say pvp",
+    "[16:51] [BOT] <HienBot> **Jamjox**: say pvp",
+    "[16:51] <SweatyS_ALT_ALT> im in spawn bro please do /tpahere",
+    "[16:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:51] <SweatyS_ALT_ALT> pvp",
+    "[16:51] [8b8t] >> Teleporting to home 0...",
+    "[16:51] [BOT] <HienBot> **SweatyS_ALT_ALT**: pvp",
+    "[16:51] [8b8t] >> Teleporting to home 1...",
+    "[16:51] To SweatyS_ALT_ALT: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:51] To SweatyS_ALT_ALT: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[16:51] [BOT] <HienBot> **Bot to SweatyS_ALT_ALT**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[16:51] imnewtopvp354868 thought they could fly... they couldn't",
+    "[16:51] <SweatyS_ALT_ALT> help",
+    "[16:51] To SweatyS_ALT_ALT: Cmds: (Kit you want), lang, info , ping, tps, player, bestping, worstping, discord, link, status, gay | dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1461,10 +1461,11 @@
     ".TealStraw941568": 3,
     "min117": 1,
     "ParaCrafteroMC": 1,
-    "perc_demon": 2
+    "perc_demon": 2,
+    "SweatyS_ALT_ALT": 1
   },
   "kitStats": {
-    "pvp": 2381,
+    "pvp": 2382,
     "raid": 742,
     "survival": 2738,
     "shulker": 1121,
