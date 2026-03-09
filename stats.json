@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:36:00 9/3/2026",
+  "lastUpdated": "14:36:30 9/3/2026",
   "totalKits": 109512,
   "todayKits": 110,
-  "onlineCount": 14,
+  "onlineCount": 13,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "14.0",
-  "ping": 196,
+  "tps": "13.0",
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2341
+      "count": 2342
     },
     {
       "name": "shulker",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:34] <Azure772> dupe",
-    "[07:34] To Azure772: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[07:34] [BOT] <HienBot> **Azure772**: dupe",
-    "[07:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:34] [8b8t] >> You have killed yourself!",
-    "[07:35] <Azure772> dupe",
-    "[07:35] [8b8t] >> Teleporting to home 0...",
-    "[07:35] [8b8t] >> No TPA request found",
-    "[07:35] [BOT] <HienBot> >Welcome to 8b8t, LEON10!",
-    "[07:35] [8b8t] >> Teleporting to home 7...",
-    "[07:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:35] To Azure772: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:35] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:35] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[07:35] [8b8t] >> Request sent to Azure772",
-    "[07:35] [8b8t] >> Teleporting...",
     "[07:35] [8b8t] >> ▲ Player cappuccino_ Joined.",
     "[07:35] [8b8t] >> Teleporting...",
     "[07:35] [8b8t] >> You have killed yourself!",
@@ -108,7 +91,24 @@
     "[07:35] [8b8t] >> ▲ Player silver_l1 Joined.",
     "[07:35] [BOT] <HienBot> >Running low on supplies? Use survival",
     "[07:35] [8b8t] >> ▲ Player thonsanlo Joined.",
-    "[07:35] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me"
+    "[07:35] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[07:36] [BOT] <HienBot> >Try status",
+    "[07:36] silver_l1 has reached the goal [Sky's the Limit]",
+    "[07:36] [8b8t] >> ▼ Player thonsanlo Left.",
+    "[07:36] [8b8t] >> ▲ Player 233top Joined.",
+    "[07:36] <Haronnyo> list",
+    "[07:36] To Haronnyo: Hello Haronnyo!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[07:36] [BOT] <HienBot> **Haronnyo**: list",
+    "[07:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:36] [8b8t] >> ▼ Player 233top Left.",
+    "[07:36] <Haronnyo> pvp",
+    "[07:36] [8b8t] >> Teleporting to home 0...",
+    "[07:36] [BOT] <HienBot> **Haronnyo**: pvp",
+    "[07:36] [8b8t] >> Teleporting to home 1...",
+    "[07:36] To Haronnyo: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:36] To Haronnyo: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[07:36] [BOT] <HienBot> **Bot to Haronnyo**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1438,10 +1438,10 @@
     "AlexWatrmalon": 3,
     "MrSirGuy1004": 9,
     "Adil_OG": 10,
-    "Haronnyo": 1
+    "Haronnyo": 2
   },
   "kitStats": {
-    "pvp": 2341,
+    "pvp": 2342,
     "raid": 728,
     "survival": 2683,
     "shulker": 1113,
