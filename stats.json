@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:30:23 10/3/2026",
+  "lastUpdated": "02:30:53 10/3/2026",
   "totalKits": 109746,
   "todayKits": 134,
-  "onlineCount": 45,
+  "onlineCount": 44,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:18:22 10/3/2026",
     "avg": 22
   },
-  "tps": "11.0",
-  "ping": 0,
+  "tps": "9.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2762
+      "count": 2763
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:30] [8b8t] >> Teleporting to home 1...",
-    "[19:30] To arjebn: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:30] To arjebn: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[19:30] [BOT] <HienBot> **Bot to arjebn**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[19:30] FreeCandyMan_Usa Whispers: tools",
-    "[19:30] [8b8t] >> Teleporting to home 0...",
-    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:30] [8b8t] >> Teleporting to home 7...",
-    "[19:30] To FreeCandyMan_Usa: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:30] [BOT] <HienBot> **Bot to FreeCandyMan_Usa**: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:30] <p3l1n_1945> survival",
-    "[19:30] [8b8t] >> ▲ Player Carnage12U Joined.",
-    "[19:30] To p3l1n_1945: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:30] To FreeCandyMan_Usa: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:30] [BOT] <HienBot> **Bot to p3l1n_1945**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[19:30] <arjebn> elytra",
     "[19:30] To arjebn: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
@@ -108,7 +91,24 @@
     "[19:30] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[19:30] [8b8t] >> ▲ Player HienBot Joined.",
     "[19:30] You are already connected to this server!",
-    "[19:30] [8b8t] >> ▲ Player Tomardo999 Joined."
+    "[19:30] [8b8t] >> ▲ Player Tomardo999 Joined.",
+    "[19:30] [8b8t] >> ▼ Player itsShadow13 Left.",
+    "[19:30] [8b8t] >> ▲ Player LyoxYT Joined.",
+    "[19:30] [BOT] <HienBot> >Hate those who destroy Hien2309's base",
+    "[19:30] [8b8t] >> ▼ Player LyoxYT Left.",
+    "[19:30] <FreeCandyMan_Usa> kit",
+    "[19:30] <Umarkinge12> survival",
+    "[19:30] To FreeCandyMan_Usa: Hello FreeCandyMan_Usa!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[19:30] [8b8t] >> You have killed yourself!",
+    "[19:30] [BOT] <HienBot> **FreeCandyMan_Usa**: kit",
+    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:30] To Umarkinge12: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:30] [8b8t] >> Teleporting to home 0...",
+    "[19:30] [8b8t] >> Teleporting to home 1...",
+    "[19:30] To Umarkinge12: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:30] [BOT] <HienBot> **Bot to Umarkinge12**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1465,13 +1465,13 @@
     "SweatyS_ALT_ALT": 2,
     "FreeCandyMan_Usa": 23,
     "Dawood_262": 2,
-    "Umarkinge12": 5,
+    "Umarkinge12": 6,
     "Rian_op": 3
   },
   "kitStats": {
     "pvp": 2403,
     "raid": 744,
-    "survival": 2762,
+    "survival": 2763,
     "shulker": 1123,
     "music": 286,
     "terracotta": 50,
