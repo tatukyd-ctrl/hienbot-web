@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:50:59 9/3/2026",
+  "lastUpdated": "07:51:29 9/3/2026",
   "totalKits": 109427,
   "todayKits": 25,
-  "onlineCount": 26,
+  "onlineCount": 23,
   "peakPlayers": 54,
   "playerStats": {
     "min": 19,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 24
   },
-  "tps": "10.0",
-  "ping": 193,
+  "tps": "14.0",
+  "ping": 195,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:49] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[00:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[00:49] <.Pancakes043025> im at soawn so i cant tp",
-    "[00:49] [BOT] <0_HienBot> **.Pancakes043025**: im at soawn so i cant tp",
-    "[00:49] [BOT] <0_HienBot> >Try list to see available kits",
-    "[00:49] <.Pancakes043025> can you tell me cords",
-    "[00:49] [BOT] <0_HienBot> **.Pancakes043025**: can you tell me cords",
-    "[00:50] [BOT] <0_HienBot> >Use list to see all available kits!",
     "[00:50] <itsnotlukke> list",
     "[00:50] To itsnotlukke: Hello itsnotlukke!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[00:50] [BOT] <0_HienBot> **itsnotlukke**: list",
@@ -108,7 +100,15 @@
     "[00:50] [8b8t] >> You have killed yourself!",
     "[00:50] ahme has made the advancement [Who is Cutting Onions?]",
     "[00:50] To itsnotlukke: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[00:50] [BOT] <0_HienBot> **Bot to itsnotlukke**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[00:50] [BOT] <0_HienBot> **Bot to itsnotlukke**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[00:51] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[00:51] <DANIMER> ?kit elytra",
+    "[00:51] [BOT] <0_HienBot> **DANIMER**: ?kit elytra",
+    "[00:51] [8b8t] >> Teleporting to home 0...",
+    "[00:51] [8b8t] >> Teleporting to home 6...",
+    "[00:51] [8b8t] >> Could not find player DANIMER",
+    "[00:51] [8b8t] >> Could not find player DANIMER",
+    "[00:51] [8b8t] >> Player DANIMER is not online"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1427,7 +1427,8 @@
     "Migzin": 1,
     "dayabito23567": 2,
     ".Pancakes043025": 1,
-    "itsnotlukke": 1
+    "itsnotlukke": 1,
+    "DANIMER": 1
   },
   "kitStats": {
     "pvp": 2313,
@@ -1450,7 +1451,7 @@
     "dupe": 895,
     "food": 255,
     "glass": 153,
-    "elytra": 881,
+    "elytra": 882,
     "redstone": 591,
     "quartz": 79,
     "highway": 164,
