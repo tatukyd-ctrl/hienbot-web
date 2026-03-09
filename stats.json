@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:24:00 9/3/2026",
+  "lastUpdated": "13:24:30 9/3/2026",
   "totalKits": 109488,
   "todayKits": 86,
-  "onlineCount": 18,
+  "onlineCount": 19,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 17
   },
-  "tps": "11.0",
-  "ping": 198,
+  "tps": "12.0",
+  "ping": 199,
   "topUsers": [
     {
       "name": "waximo",
@@ -53,13 +53,13 @@
     },
     {
       "name": "Azure772",
-      "count": 194
+      "count": 195
     }
   ],
   "topKits": [
     {
       "name": "survival",
-      "count": 2673
+      "count": 2674
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:22] hacker1337 thought they could fly... they couldn't",
-    "[06:22] <MrSirGuy1004> oh",
-    "[06:22] [BOT] <HienBot> **MrSirGuy1004**: oh",
-    "[06:22] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[06:22] <Azure772> some are out of stock",
-    "[06:22] <MrSirGuy1004> Elytra",
-    "[06:22] [8b8t] >> Teleporting to home 0...",
-    "[06:22] [BOT] <HienBot> **Azure772**: some are out of stock",
-    "[06:22] [8b8t] >> Teleporting to home 6...",
     "[06:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:22] To MrSirGuy1004: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[06:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +99,16 @@
     "[06:23] [BOT] <HienBot> >Hmmmmmmmmm",
     "[06:23] [8b8t] >> ▲ Player .Wing075 Joined.",
     "[06:23] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[06:23] ahme tried to outswim the water"
+    "[06:23] ahme tried to outswim the water",
+    "[06:24] [BOT] <HienBot> >Use /lobby to return to the lobby!",
+    "[06:24] [8b8t] >> ▲ Player cappuccino_ Joined.",
+    "[06:24] .xXzamuroXx has made the advancement [We Need to Go Deeper]",
+    "[06:24] <Azure772> survival",
+    "[06:24] [8b8t] >> Teleporting to home 0...",
+    "[06:24] [BOT] <HienBot> **Azure772**: survival",
+    "[06:24] [8b8t] >> Teleporting to home 1...",
+    "[06:24] To Azure772: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:24] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 194,
+    "Azure772": 195,
     "kobthegoat14": 116,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1441,7 +1441,7 @@
   "kitStats": {
     "pvp": 2328,
     "raid": 728,
-    "survival": 2673,
+    "survival": 2674,
     "shulker": 1112,
     "music": 283,
     "terracotta": 50,
