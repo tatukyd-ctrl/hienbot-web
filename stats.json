@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:47:59 9/3/2026",
-  "totalKits": 109430,
-  "todayKits": 28,
-  "onlineCount": 24,
+  "lastUpdated": "08:48:28 9/3/2026",
+  "totalKits": 109431,
+  "todayKits": 29,
+  "onlineCount": 23,
   "peakPlayers": 54,
   "playerStats": {
     "min": 14,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 21
   },
-  "tps": "15.0",
-  "ping": 194,
+  "tps": "12.0",
+  "ping": 195,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,23 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 895
+      "count": 896
     }
   ],
   "chatLog": [
-    "[01:46] <Luchadorluk> bur",
-    "[01:46] [BOT] <0_HienBot> **Luchadorluk**: bur",
-    "[01:46] <_DRAV3N_> Y va un tal shardah a mandarme tp",
-    "[01:46] [BOT] <0_HienBot> **_DRAV3N_**: Y va un tal shardah a mandarme tp",
-    "[01:46] <XFilesDG> no me deja mandar tpa",
-    "[01:46] <_DRAV3N_> Se piensa que nací ayer",
-    "[01:46] [BOT] <0_HienBot> **XFilesDG**: no me deja mandar tpa",
-    "[01:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:46] <shardah> help",
-    "[01:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:46] To shardah: Cmds: (Kit you want), lang, info , ping, tps, player, bestping, worstping, discord, link, status, gay | dsc.gg/hienbot",
-    "[01:46] [BOT] <0_HienBot> **Bot to shardah**: Cmds: (Kit you want), lang, info , ping, tps, player, bestping, worstping, discord, link, status, gay | dsc.gg/hienbot",
-    "[01:46] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[01:47] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me",
     "[01:47] <_DRAV3N_> No me va con el marco",
     "[01:47] [BOT] <0_HienBot> **_DRAV3N_**: No me va con el marco",
@@ -108,7 +95,20 @@
     "[01:47] <shardah> Luchadorluk accept",
     "[01:47] [BOT] <0_HienBot> **cristobal25**: ?kit",
     "[01:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:47] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[01:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:48] _DRAV3N_ Whispers: dupe",
+    "[01:48] [8b8t] >> Teleporting to home 0...",
+    "[01:48] [BOT] <0_HienBot> **_DRAV3N_**: dupe",
+    "[01:48] [8b8t] >> Teleporting to home 7...",
+    "[01:48] To _DRAV3N_: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:48] To _DRAV3N_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:48] [BOT] <0_HienBot> **Bot to _DRAV3N_**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:48] [8b8t] >> Request sent to _DRAV3N_",
+    "[01:48] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[01:48] [8b8t] >> Teleporting...",
+    "[01:48] <Luchadorluk> shar ahi te mande",
+    "[01:48] [BOT] <0_HienBot> **Luchadorluk**: shar ahi te mande"
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1428,7 +1428,8 @@
     "dayabito23567": 2,
     ".Pancakes043025": 3,
     "itsnotlukke": 1,
-    "DANIMER": 1
+    "DANIMER": 1,
+    "_DRAV3N_": 1
   },
   "kitStats": {
     "pvp": 2314,
@@ -1448,7 +1449,7 @@
     "build": 908,
     "dye": 78,
     "concrete": 120,
-    "dupe": 895,
+    "dupe": 896,
     "food": 255,
     "glass": 153,
     "elytra": 883,
