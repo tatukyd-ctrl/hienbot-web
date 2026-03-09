@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:59:30 9/3/2026",
+  "lastUpdated": "18:00:00 9/3/2026",
   "totalKits": 109582,
   "todayKits": 180,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 54,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 16
   },
-  "tps": "12.0",
-  "ping": 427,
+  "tps": "16.0",
+  "ping": 400,
   "topUsers": [
     {
       "name": "waximo",
@@ -70,27 +70,15 @@
       "count": 1116
     },
     {
-      "name": "build",
-      "count": 913
+      "name": "dupe",
+      "count": 914
     },
     {
-      "name": "dupe",
+      "name": "build",
       "count": 913
     }
   ],
   "chatLog": [
-    "[10:56] [BOT] <HienBot> >Use /lobby to return to the lobby!",
-    "[10:56] [8b8t] >> You have killed yourself!",
-    "[10:56] [8b8t] >> The TPA request you sent to idkyougoaway was successfully canceled.",
-    "[10:56] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[10:57] [BOT] <HienBot> >Use /kill to kill yourself!",
-    "[10:57] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[10:57] <idkyougoaway> Toolbox",
-    "[10:57] To idkyougoaway: You're on cooldown, try again in 28 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:57] [BOT] <HienBot> **idkyougoaway**: Toolbox",
-    "[10:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:57] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[10:57] [BOT] <HienBot> >Need gear? Type pvp to get started!",
     "[10:57] <idkyougoaway> pvp",
     "[10:57] [8b8t] >> Teleporting to home 0...",
     "[10:57] [BOT] <HienBot> **idkyougoaway**: pvp",
@@ -108,7 +96,19 @@
     "[10:58] [BOT] <HienBot> **Bot to idkyougoaway**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:58] [BOT] <HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[10:59] [BOT] <HienBot> >Items for PVP and Building available in build",
-    "[10:59] [8b8t] >> ▼ Player Zedz0rYT Left."
+    "[10:59] [8b8t] >> ▼ Player Zedz0rYT Left.",
+    "[10:59] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
+    "[10:59] [8b8t] >> ▲ Player .Papuhumilde1208 Joined.",
+    "[10:59] <idkyougoaway> Dupe",
+    "[10:59] [8b8t] >> Teleporting to home 0...",
+    "[10:59] [BOT] <HienBot> **idkyougoaway**: Dupe",
+    "[10:59] [8b8t] >> Teleporting to home 7...",
+    "[10:59] To idkyougoaway: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[10:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:59] To idkyougoaway: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:59] [8b8t] >> Request sent to idkyougoaway",
+    "[10:59] [BOT] <HienBot> **Bot to idkyougoaway**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1446,7 +1446,7 @@
     "Farex_x": 1,
     "MIDASSX7": 1,
     "hesback": 1,
-    "idkyougoaway": 9,
+    "idkyougoaway": 10,
     ".GHOSTY4768": 1
   },
   "kitStats": {
@@ -1467,7 +1467,7 @@
     "build": 913,
     "dye": 79,
     "concrete": 122,
-    "dupe": 913,
+    "dupe": 914,
     "food": 256,
     "glass": 154,
     "elytra": 908,
