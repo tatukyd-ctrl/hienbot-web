@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:35:03 10/3/2026",
-  "totalKits": 109751,
-  "todayKits": 139,
-  "onlineCount": 42,
+  "lastUpdated": "02:35:20 10/3/2026",
+  "totalKits": 109752,
+  "todayKits": 140,
+  "onlineCount": 41,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 22
   },
   "tps": "9.0",
-  "ping": 213,
+  "ping": 222,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2763
+      "count": 2764
     },
     {
       "name": "pvp",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:34] <Rian_op> ?kit list",
-    "[19:34] [8b8t] >> Teleporting to home 0...",
-    "[19:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:34] [8b8t] >> Teleporting to home 1...",
-    "[19:34] To Rian_op: Kit \"list\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
-    "[19:34] [BOT] <HienBot> **Bot to Rian_op**: Kit \"list\" not found! Giving you (pvp) instead! dsc.gg/hienbot",
-    "[19:34] To Rian_op: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[19:34] [BOT] <HienBot> **Bot to Rian_op**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[19:34] [8b8t] >> ▼ Player Hammad_262 Left.",
-    "[19:34] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[19:34] [8b8t] >> ▲ Player MinephaMC_YT_ALT Joined.",
-    "[19:34] <Rian_op> ?kitlist",
-    "[19:34] [BOT] <HienBot> **Rian_op**: ?kitlist",
-    "[19:34] [8b8t] >> ▼ Player Natedogg227 Left.",
-    "[19:34] FreeCandyMan_Usa Whispers: tools",
-    "[19:34] [8b8t] >> Teleporting to home 0...",
-    "[19:34] [BOT] <HienBot> **FreeCandyMan_Usa**: tools",
-    "[19:34] [8b8t] >> Teleporting to home 7...",
     "[19:34] To FreeCandyMan_Usa: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[19:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:34] To FreeCandyMan_Usa: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +90,25 @@
     "[19:35] To Rian_op: Hello Rian_op!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[19:35] [BOT] <HienBot> **Rian_op**: ?kit",
     "[19:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:35] jcx311 thought they could fly... they couldn't"
+    "[19:35] jcx311 thought they could fly... they couldn't",
+    "[19:35] [8b8t] >> You have killed yourself!",
+    "[19:35] HienBot forgot to stop, drop, and roll",
+    "[19:35] [BOT] <HienBot> >Type discord",
+    "[19:35] <Rian_op> ?kit survival",
+    "[19:35] To FreeCandyMan_Usa: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:35] [8b8t] >> Teleporting to home 0...",
+    "[19:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:35] [8b8t] >> Teleporting to home 1...",
+    "[19:35] [BOT] <HienBot> **Bot to FreeCandyMan_Usa**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:35] To Rian_op: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:35] To Rian_op: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:35] [BOT] <HienBot> **Bot to Rian_op**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:35] [8b8t] >> Request sent to Rian_op",
+    "[19:35] [8b8t] >> Teleporting...",
+    "[19:35] [8b8t] >> ▼ Player _PIGY_ Left.",
+    "[19:35] [Ultra] <KurtzMC> kendricklover132 esta?",
+    "[19:35] [BOT] <HienBot> **KurtzMC**: kendricklover132 esta?"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1466,12 +1466,12 @@
     "FreeCandyMan_Usa": 24,
     "Dawood_262": 3,
     "Umarkinge12": 6,
-    "Rian_op": 4
+    "Rian_op": 5
   },
   "kitStats": {
     "pvp": 2404,
     "raid": 745,
-    "survival": 2763,
+    "survival": 2764,
     "shulker": 1123,
     "music": 286,
     "terracotta": 50,
