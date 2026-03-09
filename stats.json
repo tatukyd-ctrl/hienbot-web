@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:52:59 9/3/2026",
+  "lastUpdated": "07:53:29 9/3/2026",
   "totalKits": 109427,
   "todayKits": 25,
   "onlineCount": 21,
@@ -12,8 +12,8 @@
     "maxTime": "07:34:59 9/3/2026",
     "avg": 24
   },
-  "tps": "14.0",
-  "ping": 196,
+  "tps": "13.0",
+  "ping": 195,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:50] [8b8t] >> Teleporting...",
-    "[00:50] [8b8t] >> You have killed yourself!",
-    "[00:50] ahme has made the advancement [Who is Cutting Onions?]",
-    "[00:50] To itsnotlukke: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[00:50] [BOT] <0_HienBot> **Bot to itsnotlukke**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[00:51] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[00:51] <DANIMER> ?kit elytra",
-    "[00:51] [BOT] <0_HienBot> **DANIMER**: ?kit elytra",
-    "[00:51] [8b8t] >> Teleporting to home 0...",
-    "[00:51] [8b8t] >> Teleporting to home 6...",
-    "[00:51] [8b8t] >> Could not find player DANIMER",
     "[00:51] [8b8t] >> Could not find player DANIMER",
     "[00:51] [8b8t] >> Player DANIMER is not online",
     "[00:51] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
@@ -108,7 +97,18 @@
     "[00:52] <DANIMER> ?Kit Elytra",
     "[00:52] To DANIMER: You're on cooldown, try again in 15 seconds! Don't forget to join dsc.gg/hienbot",
     "[00:52] [BOT] <0_HienBot> **DANIMER**: ?Kit Elytra",
-    "[00:52] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[00:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:53] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
+    "[00:53] <Migzin> ?kit elytra",
+    "[00:53] [8b8t] >> Teleporting to home 0...",
+    "[00:53] [BOT] <0_HienBot> **Migzin**: ?kit elytra",
+    "[00:53] [8b8t] >> Teleporting to home 6...",
+    "[00:53] To Migzin: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:53] To Migzin: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:53] [BOT] <0_HienBot> **Bot to Migzin**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:53] [8b8t] >> Request sent to Migzin",
+    "[00:53] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 90,
@@ -1424,7 +1424,7 @@
     "WolfKnight17388": 3,
     "SrWindows": 1,
     "Ag3ntGT": 1,
-    "Migzin": 1,
+    "Migzin": 2,
     "dayabito23567": 2,
     ".Pancakes043025": 1,
     "itsnotlukke": 1,
@@ -1451,7 +1451,7 @@
     "dupe": 895,
     "food": 255,
     "glass": 153,
-    "elytra": 882,
+    "elytra": 883,
     "redstone": 591,
     "quartz": 79,
     "highway": 164,
