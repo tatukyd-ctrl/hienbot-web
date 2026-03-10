@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:53:26 10/3/2026",
+  "lastUpdated": "10:53:56 10/3/2026",
   "totalKits": 109851,
   "todayKits": 62,
-  "onlineCount": 26,
+  "onlineCount": 24,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 25
   },
-  "tps": "15.0",
-  "ping": 208,
+  "tps": "14.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:52] <TKoyasu> fuckass creeper",
-    "[03:52] [BOT] <HienBot> **TKoyasu**: fuckass creeper",
-    "[03:52] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[03:52] [8b8t] >> ▲ Player Qwalistik Joined.",
-    "[03:52] [BOT] <HienBot> >Sub to Hien2309 in youtube",
-    "[03:52] <Haronnyo> pvp",
-    "[03:52] [8b8t] >> Teleporting to home 0...",
-    "[03:52] [BOT] <HienBot> **Haronnyo**: pvp",
-    "[03:52] [8b8t] >> Teleporting to home 1...",
-    "[03:52] Haronnyo is ignoring you",
-    "[03:52] Haronnyo is ignoring you",
-    "[03:52] [8b8t] >> ▼ Player iTrisstan Left.",
     "[03:53] BlindPoleCat played with fire",
     "[03:53] BlindPoleCat has completed the challenge [Subspace Bubble]",
     "[03:53] [8b8t] >> ▲ Player iTrisstan Joined.",
@@ -108,7 +96,19 @@
     "[03:53] To ashluvtheflex: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[03:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:53] To ashluvtheflex: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[03:53] [BOT] <HienBot> **Bot to ashluvtheflex**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[03:53] [BOT] <HienBot> **Bot to ashluvtheflex**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[03:53] [8b8t] >> ▼ Player Qwalistik Left.",
+    "[03:53] <wryspry> kit stash",
+    "[03:53] [8b8t] >> Teleporting to home 0...",
+    "[03:53] [8b8t] >> Teleporting to home 2...",
+    "[03:53] [BOT] <HienBot> **wryspry**: kit stash",
+    "[03:53] To wryspry: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:53] To wryspry: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[03:53] [BOT] <HienBot> **Bot to wryspry**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[03:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:53] [8b8t] >> ▼ Player BlindPoleCat Left.",
+    "[03:53] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1478,7 +1478,8 @@
     "keivdeil": 3,
     "4olk": 1,
     "KionYhamma": 1,
-    "ashluvtheflex": 1
+    "ashluvtheflex": 1,
+    "wryspry": 1
   },
   "kitStats": {
     "pvp": 2469,
@@ -1493,7 +1494,7 @@
     "toolbox": 253,
     "wool": 348,
     "exp": 463,
-    "stash": 792,
+    "stash": 793,
     "ocean": 91,
     "build": 926,
     "dye": 79,
