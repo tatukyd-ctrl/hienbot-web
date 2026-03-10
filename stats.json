@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:50:56 10/3/2026",
-  "totalKits": 109951,
-  "todayKits": 162,
-  "onlineCount": 11,
+  "lastUpdated": "14:51:17 10/3/2026",
+  "totalKits": 109952,
+  "todayKits": 163,
+  "onlineCount": 10,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 21
   },
-  "tps": "14.0",
+  "tps": "10.0",
   "ping": 207,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2486
+      "count": 2487
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:50] <MrSirGuy1004> list",
-    "[07:50] To MrSirGuy1004: Hello MrSirGuy1004!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[07:50] [BOT] <HienBot> **MrSirGuy1004**: list",
-    "[07:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:50] <MrSirGuy1004> end",
-    "[07:50] [8b8t] >> Teleporting to home 0...",
-    "[07:50] [BOT] <HienBot> **MrSirGuy1004**: end",
-    "[07:50] [8b8t] >> Teleporting to home 5...",
-    "[07:50] To MrSirGuy1004: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:50] <kobthegoat14> fine u can stay",
-    "[07:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[07:50] To MrSirGuy1004: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:50] [BOT] <HienBot> **Bot to MrSirGuy1004**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:50] [8b8t] >> Request sent to MrSirGuy1004",
@@ -108,7 +95,20 @@
     "[07:50] [BOT] <HienBot> **.DomiO8691**: bro ur not him",
     "[07:50] <geeyuh> YO",
     "[07:50] [BOT] <HienBot> **geeyuh**: YO",
-    "[07:50] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[07:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:51] <geeyuh> a zombie is in fullm neth",
+    "[07:51] [BOT] <HienBot> **geeyuh**: a zombie is in fullm neth",
+    "[07:51] <geeyuh> pvp",
+    "[07:51] [8b8t] >> Teleporting to home 0...",
+    "[07:51] [8b8t] >> Teleporting to home 1...",
+    "[07:51] [BOT] <HienBot> **geeyuh**: pvp",
+    "[07:51] To geeyuh: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:51] To geeyuh: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:51] [BOT] <HienBot> **Bot to geeyuh**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:51] [8b8t] >> Request sent to geeyuh",
+    "[07:51] [8b8t] >> Teleporting...",
+    "[07:51] [8b8t] >> ▼ Player MrSirGuy1004 Left."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1433,7 +1433,7 @@
     "jcx311": 3,
     "Klngboo": 2,
     "Raip2": 1,
-    "geeyuh": 46,
+    "geeyuh": 47,
     ".xXzamuroXx": 3,
     "AlexWatrmalon": 7,
     "MrSirGuy1004": 35,
@@ -1488,7 +1488,7 @@
     ".NullUnClear": 2
   },
   "kitStats": {
-    "pvp": 2486,
+    "pvp": 2487,
     "raid": 756,
     "survival": 2842,
     "shulker": 1137,
