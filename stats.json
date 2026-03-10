@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:43:56 10/3/2026",
+  "lastUpdated": "13:44:26 10/3/2026",
   "totalKits": 109905,
   "todayKits": 116,
-  "onlineCount": 13,
+  "onlineCount": 12,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 23
   },
-  "tps": "14.0",
+  "tps": "15.0",
   "ping": 203,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2832
+      "count": 2833
     },
     {
       "name": "pvp",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:42] To Azure772: Your kit (quartz) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:42] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:42] [BOT] <HienBot> **Bot to Azure772**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:42] [8b8t] >> Request sent to Azure772",
-    "[06:42] [8b8t] >> Teleporting...",
-    "[06:42] [8b8t] >> You have killed yourself!",
-    "[06:42] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:42] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[06:42] [BOT] <HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:42] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[06:43] [8b8t] >> ▲ Player iTrisstan Joined.",
-    "[06:43] <geeyuh> info Azure772",
-    "[06:43] [BOT] <HienBot> **geeyuh**: info Azure772",
-    "[06:43] [8b8t] >> Azure772 first joined on: 2026-02-13 23:04:07",
-    "[06:43] To geeyuh: Info Azure772: UUID: dce87b46-8702-4979-8dc5-611ec5434dd4 | Type: Premium | ",
-    "[06:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:43] [8b8t] >> ▼ Player MrSirGuy1004 Left.",
-    "[06:43] <geeyuh> whats premium type?",
     "[06:43] [BOT] <HienBot> **geeyuh**: whats premium type?",
     "[06:43] [8b8t] >> ▲ Player MrSirGuy1004 Joined.",
     "[06:43] <MrSirGuy1004> oml",
@@ -108,7 +89,26 @@
     "[06:43] <geeyuh> what happening",
     "[06:43] [BOT] <HienBot> **geeyuh**: what happening",
     "[06:43] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[06:43] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>"
+    "[06:43] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[06:43] [8b8t] >> ▼ Player idkyougoaway Left.",
+    "[06:44] <MrSirGuy1004> i keep disconnecting",
+    "[06:44] [BOT] <HienBot> **MrSirGuy1004**: i keep disconnecting",
+    "[06:44] <geeyuh> y",
+    "[06:44] [BOT] <HienBot> **geeyuh**: y",
+    "[06:44] <MrSirGuy1004> wifi",
+    "[06:44] [BOT] <HienBot> **MrSirGuy1004**: wifi",
+    "[06:44] <geeyuh> oh",
+    "[06:44] [BOT] <HienBot> **geeyuh**: oh",
+    "[06:44] <.NullUnClear> survival",
+    "[06:44] [8b8t] >> Teleporting to home 0...",
+    "[06:44] [BOT] <HienBot> **.NullUnClear**: survival",
+    "[06:44] [8b8t] >> Teleporting to home 1...",
+    "[06:44] To .NullUnClear: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:44] [BOT] <HienBot> >Try dupe",
+    "[06:44] <geeyuh> were u live",
+    "[06:44] To .NullUnClear: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:44] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1484,12 +1484,13 @@
     "aizanpqsi": 11,
     "Key0223": 2,
     "hussaboy": 2,
-    ".IceSuXu": 2
+    ".IceSuXu": 2,
+    ".NullUnClear": 1
   },
   "kitStats": {
     "pvp": 2481,
     "raid": 755,
-    "survival": 2832,
+    "survival": 2833,
     "shulker": 1132,
     "music": 288,
     "terracotta": 50,
