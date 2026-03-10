@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:13:33 10/3/2026",
-  "totalKits": 110053,
-  "todayKits": 26,
+  "lastUpdated": "19:13:59 10/3/2026",
+  "totalKits": 110054,
+  "todayKits": 27,
   "onlineCount": 14,
   "peakPlayers": 22,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "17.0",
-  "ping": 947,
+  "tps": "15.0",
+  "ping": 1548,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2908
+      "count": 2909
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:11] [BOT] <0_HienBot> **idkyougoaway**: het sw1ll",
-    "[12:12] <idkyougoaway> tpayes me",
-    "[12:12] [BOT] <0_HienBot> **idkyougoaway**: tpayes me",
-    "[12:12] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[12:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:12] <FG41> kit Pvp",
-    "[12:12] [8b8t] >> Teleporting to home 0...",
-    "[12:12] [BOT] <0_HienBot> **FG41**: kit Pvp",
-    "[12:12] [8b8t] >> Teleporting to home 1...",
-    "[12:12] To FG41: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
-    "[12:12] To FG41: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:12] [BOT] <0_HienBot> **Bot to FG41**: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
-    "[12:12] [8b8t] >> Request sent to FG41",
-    "[12:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:12] [8b8t] >> Teleporting...",
-    "[12:12] <idkyougoaway> hello sw1ll",
     "[12:12] [BOT] <0_HienBot> **idkyougoaway**: hello sw1ll",
     "[12:12] [8b8t] >> You have killed yourself!",
     "[12:12] To FG41: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +92,23 @@
     "[12:13] <idkyougoaway> hey sw1ll",
     "[12:13] <idkyougoaway> plz tpa yes me",
     "[12:13] [BOT] <0_HienBot> **idkyougoaway**: hey sw1ll",
-    "[12:13] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[12:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:13] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[12:13] <ryooq> bro your ping is insane",
+    "[12:13] [BOT] <0_HienBot> **ryooq**: bro your ping is insane",
+    "[12:13] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:13] <FG41> kit Survival",
+    "[12:13] [8b8t] >> Teleporting to home 0...",
+    "[12:13] [BOT] <0_HienBot> **FG41**: kit Survival",
+    "[12:13] [8b8t] >> Teleporting to home 1...",
+    "[12:13] To FG41: Your kit (Survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:13] <DarkKnight098> IK",
+    "[12:13] To FG41: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:13] [BOT] <0_HienBot> **DarkKnight098**: IK",
+    "[12:13] [8b8t] >> Request sent to FG41",
+    "[12:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:13] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1492,12 +1492,12 @@
     "Ribzz_": 28,
     "HipsterSpaceRat": 1,
     "Geracl22": 2,
-    "FG41": 2
+    "FG41": 3
   },
   "kitStats": {
     "pvp": 2518,
     "raid": 764,
-    "survival": 2908,
+    "survival": 2909,
     "shulker": 1143,
     "music": 289,
     "terracotta": 50,
