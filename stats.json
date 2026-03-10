@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:05:26 10/3/2026",
+  "lastUpdated": "08:05:29 10/3/2026",
   "totalKits": 109811,
   "todayKits": 22,
-  "onlineCount": 3,
+  "onlineCount": 28,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 32
   },
-  "tps": "6.0",
+  "tps": "7.0",
   "ping": 0,
   "topUsers": [
     {
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:05] [8b8t] >> ▲ Player HienBot Joined.",
-    "[01:05] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[01:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:05] [BOT] <HienBot> **EsDeeKid**: info /n",
     "[01:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +104,11 @@
     "[01:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:05] You were kicked from 8b8t: Kicked for spamming",
-    "[01:05] [8b8t] >> Welcome HienBot to 8b8t.me Lobby"
+    "[01:05] [8b8t] >> Welcome HienBot to 8b8t.me Lobby",
+    "[01:05] [8b8t] Unknown command do /help",
+    "[01:05] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[01:05] [8b8t] >> ▲ Player HienBot Joined.",
+    "[01:05] You are already connected to this server!"
   ],
   "userStats": {
     "Hien2309": 92,
