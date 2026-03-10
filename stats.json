@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:41:33 10/3/2026",
-  "totalKits": 110061,
-  "todayKits": 34,
-  "onlineCount": 15,
+  "lastUpdated": "19:41:46 10/3/2026",
+  "totalKits": 110062,
+  "todayKits": 35,
+  "onlineCount": 16,
   "peakPlayers": 22,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "1.0",
+  "tps": "12.0",
   "ping": 0,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2916
+      "count": 2917
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:37] To HighwayBuilder20: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[12:37] [8b8t] >> Please do not spam.",
-    "[12:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:37] [8b8t] >> Teleporting...",
-    "[12:37] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[12:37] [8b8t] >> You have killed yourself!",
-    "[12:37] TikhonMonkey has made the advancement [We Need to Go Deeper]",
-    "[12:37] <HighwayBuilder20> Obsidian",
-    "[12:37] [BOT] <0_HienBot> >Welcome to 8b8t, DPS_Chatbridge!",
-    "[12:37] To HighwayBuilder20: You're on cooldown, try again in 1 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:37] <HighwayBuilder20> Obsidian",
     "[12:37] [8b8t] >> Teleporting to home 0...",
     "[12:37] [BOT] <0_HienBot> **HighwayBuilder20**: Obsidian",
@@ -108,7 +96,19 @@
     "[12:41] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[12:41] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[12:41] [8b8t] >> Teleporting to home 0...",
-    "[12:41] You are already connected to this server!"
+    "[12:41] You are already connected to this server!",
+    "[12:41] <In_Game_Account> Survival",
+    "[12:41] [8b8t] >> Teleporting to home 0...",
+    "[12:41] [8b8t] >> Teleporting to home 1...",
+    "[12:41] To In_Game_Account: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:41] [BOT] <0_HienBot> **In_Game_Account**: Survival",
+    "[12:41] <In_Game_Account> PGP",
+    "[12:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:41] To In_Game_Account: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:41] [BOT] <0_HienBot> **Bot to In_Game_Account**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:41] [8b8t] >> Request sent to In_Game_Account",
+    "[12:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1494,12 +1494,13 @@
     "Geracl22": 2,
     "FG41": 5,
     ".HyeetTirpitz": 5,
-    "HighwayBuilder20": 4
+    "HighwayBuilder20": 4,
+    "In_Game_Account": 1
   },
   "kitStats": {
     "pvp": 2520,
     "raid": 764,
-    "survival": 2916,
+    "survival": 2917,
     "shulker": 1143,
     "music": 289,
     "terracotta": 50,
