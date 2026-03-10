@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:23:03 10/3/2026",
+  "lastUpdated": "19:23:33 10/3/2026",
   "totalKits": 110055,
   "todayKits": 28,
   "onlineCount": 16,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "17.0",
-  "ping": 208,
+  "tps": "13.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2518
+      "count": 2519
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:19] <ItsMeViyaan2> bro",
-    "[12:19] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[12:19] [BOT] <0_HienBot> **ItsMeViyaan2**: bro",
-    "[12:19] <ryooq> yea i know",
-    "[12:19] [BOT] <0_HienBot> **ryooq**: yea i know",
-    "[12:20] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[12:20] <ryooq> i told him",
-    "[12:20] [BOT] <0_HienBot> **ryooq**: i told him",
-    "[12:20] <DarkKnight098> whos stopping me ItsMeViyaan2",
-    "[12:20] <ryooq> its ok now",
     "[12:20] [BOT] <0_HienBot> **DarkKnight098**: whos stopping me ItsMeViyaan2",
     "[12:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:20] <ryooq> lol",
@@ -108,7 +98,17 @@
     "[12:22] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[12:22] SW1LL has made the advancement [We Need to Go Deeper]",
     "[12:22] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:23] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp"
+    "[12:23] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
+    "[12:23] <.HyeetTirpitz> pvp",
+    "[12:23] [BOT] <0_HienBot> **.HyeetTirpitz**: pvp",
+    "[12:23] [8b8t] >> Teleporting to home 0...",
+    "[12:23] [8b8t] >> Teleporting to home 1...",
+    "[12:23] To .HyeetTirpitz: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:23] [BOT] <0_HienBot> **Bot to .HyeetTirpitz**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:23] To .HyeetTirpitz: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
+    "[12:23] [BOT] <0_HienBot> **Bot to .HyeetTirpitz**: Sorry! Cyan Shulker Box is out of stock. Giving you Blue Shulker Box instead! dsc.gg/hienbot",
+    "[12:23] [8b8t] >> Request sent to .HyeetTirpitz",
+    "[12:23] [BOT] <0_HienBot> >Try stash"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1492,10 +1492,11 @@
     "Ribzz_": 28,
     "HipsterSpaceRat": 1,
     "Geracl22": 2,
-    "FG41": 5
+    "FG41": 5,
+    ".HyeetTirpitz": 1
   },
   "kitStats": {
-    "pvp": 2518,
+    "pvp": 2519,
     "raid": 764,
     "survival": 2909,
     "shulker": 1143,
