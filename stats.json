@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:26:26 10/3/2026",
+  "lastUpdated": "13:26:56 10/3/2026",
   "totalKits": 109893,
   "todayKits": 104,
   "onlineCount": 13,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 23
   },
-  "tps": "14.0",
-  "ping": 204,
+  "tps": "16.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2825
+      "count": 2826
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:24] [8b8t] >> Please do not spam.",
-    "[06:24] [8b8t] >> Teleporting to home 1...",
-    "[06:24] To geeyuh: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:24] [8b8t] >> ▼ Player hussaboy Left.",
-    "[06:24] To geeyuh: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:24] [BOT] <HienBot> **Bot to geeyuh**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:24] [8b8t] >> Request sent to geeyuh",
     "[06:24] [8b8t] >> Teleporting...",
     "[06:24] [8b8t] >> You have killed yourself!",
@@ -108,7 +101,14 @@
     "[06:25] [BOT] <HienBot> >Try list to see available kits",
     "[06:26] [8b8t] >> ▲ Player geeyuh Joined.",
     "[06:26] .NullUnClear got shot by a skeleton",
-    "[06:26] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me"
+    "[06:26] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
+    "[06:26] <geeyuh> survival",
+    "[06:26] [8b8t] >> Teleporting to home 0...",
+    "[06:26] [BOT] <HienBot> **geeyuh**: survival",
+    "[06:26] [8b8t] >> Teleporting to home 1...",
+    "[06:26] To geeyuh: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:26] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1433,7 +1433,7 @@
     "jcx311": 3,
     "Klngboo": 2,
     "Raip2": 1,
-    "geeyuh": 20,
+    "geeyuh": 21,
     ".xXzamuroXx": 3,
     "AlexWatrmalon": 7,
     "MrSirGuy1004": 13,
@@ -1489,7 +1489,7 @@
   "kitStats": {
     "pvp": 2481,
     "raid": 755,
-    "survival": 2825,
+    "survival": 2826,
     "shulker": 1131,
     "music": 288,
     "terracotta": 50,
