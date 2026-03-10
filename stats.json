@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:02:56 10/3/2026",
-  "totalKits": 109856,
-  "todayKits": 67,
-  "onlineCount": 24,
+  "lastUpdated": "11:03:15 10/3/2026",
+  "totalKits": 109857,
+  "todayKits": 68,
+  "onlineCount": 23,
   "peakPlayers": 48,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 25
   },
-  "tps": "16.0",
-  "ping": 207,
+  "tps": "15.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,22 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 928
+      "count": 929
     }
   ],
   "chatLog": [
-    "[04:00] [BOT] <HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[04:00] [8b8t] >> ▲ Player 2b2tJourney Joined.",
-    "[04:00] [8b8t] >> ▲ Player ITrapp Joined.",
-    "[04:01] ITrapp decided to test gravity and lost",
-    "[04:01] [BOT] <HienBot> >Get fully equipped with pvp",
-    "[04:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:01] <idkyougoaway> enderpearl",
-    "[04:01] [8b8t] >> Teleporting to home 0...",
-    "[04:01] [BOT] <HienBot> **idkyougoaway**: enderpearl",
-    "[04:01] [8b8t] >> Teleporting to home 5...",
-    "[04:01] To idkyougoaway: Your kit (enderpearl) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[04:01] To idkyougoaway: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:01] [BOT] <HienBot> **Bot to idkyougoaway**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[04:01] [8b8t] >> Request sent to idkyougoaway",
@@ -108,7 +96,19 @@
     "[04:02] PastelPeaks Whispers: kit",
     "[04:02] To PastelPeaks: Hello PastelPeaks!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:02] [BOT] <HienBot> **PastelPeaks**: kit",
-    "[04:02] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[04:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:03] PastelPeaks Whispers: dupe",
+    "[04:03] [8b8t] >> Teleporting to home 0...",
+    "[04:03] [BOT] <HienBot> **PastelPeaks**: dupe",
+    "[04:03] [8b8t] >> Teleporting to home 7...",
+    "[04:03] To PastelPeaks: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:03] To PastelPeaks: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:03] [BOT] <HienBot> **Bot to PastelPeaks**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:03] [8b8t] >> Request sent to PastelPeaks",
+    "[04:03] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
+    "[04:03] [8b8t] >> Teleporting...",
+    "[04:03] [8b8t] >> ▼ Player iTrisstan Left."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1479,7 +1479,8 @@
     "4olk": 1,
     "KionYhamma": 1,
     "ashluvtheflex": 2,
-    "wryspry": 2
+    "wryspry": 2,
+    "PastelPeaks": 1
   },
   "kitStats": {
     "pvp": 2471,
@@ -1499,7 +1500,7 @@
     "build": 926,
     "dye": 79,
     "concrete": 129,
-    "dupe": 928,
+    "dupe": 929,
     "food": 264,
     "glass": 159,
     "elytra": 941,
