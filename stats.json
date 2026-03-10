@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:20:56 10/3/2026",
+  "lastUpdated": "15:21:26 10/3/2026",
   "totalKits": 109972,
   "todayKits": 183,
   "onlineCount": 12,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 20
   },
-  "tps": "14.0",
-  "ping": 213,
+  "tps": "15.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2851
+      "count": 2852
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:20] To aynnny2: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:20] [BOT] <HienBot> **Bot to aynnny2**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:20] [8b8t] >> Request sent to aynnny2",
-    "[08:20] [8b8t] >> Teleporting...",
-    "[08:20] [8b8t] >> You have killed yourself!",
-    "[08:20] HienBot was pwned by aynnny2 wielding [their hand]",
-    "[08:20] To aynnny2: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:20] [BOT] <HienBot> **Bot to aynnny2**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:20] [BOT] <HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
     "[08:20] <Wanuts1990> list",
     "[08:20] To Wanuts1990: Hello Wanuts1990!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[08:20] [BOT] <HienBot> **Wanuts1990**: list",
@@ -108,7 +98,17 @@
     "[08:20] HienBot was slain by Wanuts1990 using [their hand]",
     "[08:20] To Wanuts1990: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[08:20] [BOT] <HienBot> **Bot to Wanuts1990**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:20] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot"
+    "[08:20] [BOT] <HienBot> >HienBot Group: dsc,gg/hienbot",
+    "[08:20] [8b8t] >> ▼ Player iTrisstan Left.",
+    "[08:21] <Wanuts1990> dont do the end kit its bunss",
+    "[08:21] [BOT] <HienBot> **Wanuts1990**: dont do the end kit its bunss",
+    "[08:21] [8b8t] >> ▲ Player iTrisstan Joined.",
+    "[08:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[08:21] [BOT] <HienBot> >Type discord",
+    "[08:21] <geeyuh> survival",
+    "[08:21] [8b8t] >> Teleporting to home 0...",
+    "[08:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:21] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1433,7 +1433,7 @@
     "jcx311": 3,
     "Klngboo": 2,
     "Raip2": 1,
-    "geeyuh": 57,
+    "geeyuh": 58,
     ".xXzamuroXx": 3,
     "AlexWatrmalon": 7,
     "MrSirGuy1004": 36,
@@ -1491,7 +1491,7 @@
   "kitStats": {
     "pvp": 2489,
     "raid": 757,
-    "survival": 2851,
+    "survival": 2852,
     "shulker": 1139,
     "music": 288,
     "terracotta": 50,
