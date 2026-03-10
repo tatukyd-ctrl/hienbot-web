@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:00:58 11/3/2026",
+  "lastUpdated": "01:01:28 11/3/2026",
   "totalKits": 110140,
   "todayKits": 0,
   "onlineCount": 25,
@@ -13,7 +13,7 @@
     "avg": 19
   },
   "tps": "13.0",
-  "ping": 0,
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2557
+      "count": 2558
     },
     {
       "name": "shulker",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:58] kutuzovs Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
-    "[17:58] An unexpected error occurred trying to execute that command",
-    "[17:58] [8b8t] >> Use the command /login <password>.",
-    "[17:58] [8b8t] >> You have successfully logged.",
     "[17:58] [8b8t] Unknown command do /help",
     "[17:58] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[17:58] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -108,7 +104,11 @@
     "[18:00] You are already connected to this server!",
     "[18:00] [BOT] <0_HienBot> **InsaneBoi69**: xD",
     "[18:00] [BOT] <0_HienBot> >Try dupe",
-    "[18:00] <aizanpqsi> ty"
+    "[18:00] <aizanpqsi> ty",
+    "[18:01] [BOT] <0_HienBot> **aizanpqsi**: ty",
+    "[18:01] [BOT] <0_HienBot> >Items for PVP and Building available in build",
+    "[18:01] <aizanpqsi> PVP",
+    "[18:01] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1481,7 +1481,7 @@
     "ashluvtheflex": 2,
     "wryspry": 2,
     "PastelPeaks": 5,
-    "aizanpqsi": 11,
+    "aizanpqsi": 12,
     "Key0223": 2,
     "hussaboy": 19,
     ".IceSuXu": 3,
@@ -1503,7 +1503,7 @@
     "Enero": 1
   },
   "kitStats": {
-    "pvp": 2557,
+    "pvp": 2558,
     "raid": 773,
     "survival": 2939,
     "shulker": 1148,
