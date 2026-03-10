@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:36:48 11/3/2026",
+  "lastUpdated": "05:37:18 11/3/2026",
   "totalKits": 110146,
   "todayKits": 0,
-  "onlineCount": 38,
+  "onlineCount": 0,
   "peakPlayers": 38,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "4.0",
+  "tps": "0.0",
   "ping": 0,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2962
+      "count": 2963
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:36] [8b8t] >> You have successfully logged.",
-    "[22:36] [8b8t] Unknown command do /help",
-    "[22:36] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[22:36] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[22:36] waximo Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
-    "[22:36] [8b8t] >> Teleporting to home 0...",
-    "[22:36] An unexpected error occurred trying to execute that command",
-    "[22:36] [8b8t] >> You have killed yourself!",
     "[22:36] [8b8t] >> Please do not spam.",
     "[22:36] You are already connected to this server!",
     "[22:36] [8b8t] >> Use the command /login <password>.",
@@ -108,7 +100,15 @@
     "[22:36] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[22:36] [8b8t] >> Teleporting to home 0...",
     "[22:36] [8b8t] >> You have killed yourself!",
-    "[22:36] You are already connected to this server!"
+    "[22:36] You are already connected to this server!",
+    "[22:36] waximo Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
+    "[22:36] <Harrythecatkid2> survival",
+    "[22:36] Dermenc has made the advancement [Monster Hunter]",
+    "[22:36] [8b8t] >> Teleporting to home 0...",
+    "[22:36] [8b8t] >> Please do not spam.",
+    "[22:36] [8b8t] >> Teleporting to home 1...",
+    "[22:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:36] To Harrythecatkid2: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1046,7 +1046,7 @@
     "nuevobloques.org": 14,
     "_bluecube": 31,
     "Volky1343": 3,
-    "Harrythecatkid2": 3,
+    "Harrythecatkid2": 4,
     "TheRealNull_": 25,
     "Vlov74": 1,
     "ANTI_CHAKALITAS": 5,
@@ -1506,7 +1506,7 @@
   "kitStats": {
     "pvp": 2568,
     "raid": 773,
-    "survival": 2962,
+    "survival": 2963,
     "shulker": 1151,
     "music": 293,
     "terracotta": 50,
