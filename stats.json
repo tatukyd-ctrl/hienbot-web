@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:52:26 10/3/2026",
-  "totalKits": 109913,
-  "todayKits": 124,
+  "lastUpdated": "13:52:42 10/3/2026",
+  "totalKits": 109914,
+  "todayKits": 125,
   "onlineCount": 13,
   "peakPlayers": 48,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 23
   },
-  "tps": "12.0",
-  "ping": 214,
+  "tps": "15.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2835
+      "count": 2836
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:50] To MrSirGuy1004: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:50] [BOT] <HienBot> **Bot to MrSirGuy1004**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:50] <geeyuh> did u think about it yet MrSirGuy1004",
-    "[06:50] [BOT] <HienBot> **geeyuh**: did u think about it yet MrSirGuy1004",
-    "[06:50] <Azure772> quartz",
-    "[06:50] [8b8t] >> Teleporting to home 0...",
-    "[06:50] [8b8t] >> Teleporting to home 5...",
-    "[06:50] [BOT] <HienBot> **Azure772**: quartz",
-    "[06:50] To Azure772: Your kit (quartz) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:50] [BOT] <HienBot> >Try status",
     "[06:50] To Azure772: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +98,17 @@
     "[06:51] [BOT] <HienBot> >Don't forget to claim your daily kit with pvp",
     "[06:51] Geracl22 forgot to bring their parachute",
     "[06:51] [BOT] <HienBot> >Welcome to 8b8t, .NullUnClear!",
-    "[06:52] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t"
+    "[06:52] [BOT] <HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[06:52] <geeyuh> survival",
+    "[06:52] [8b8t] >> Teleporting to home 0...",
+    "[06:52] [BOT] <HienBot> **geeyuh**: survival",
+    "[06:52] [8b8t] >> Teleporting to home 1...",
+    "[06:52] To geeyuh: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:52] To geeyuh: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:52] [BOT] <HienBot> **Bot to geeyuh**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:52] [8b8t] >> Request sent to geeyuh",
+    "[06:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1433,7 +1433,7 @@
     "jcx311": 3,
     "Klngboo": 2,
     "Raip2": 1,
-    "geeyuh": 29,
+    "geeyuh": 30,
     ".xXzamuroXx": 3,
     "AlexWatrmalon": 7,
     "MrSirGuy1004": 21,
@@ -1490,7 +1490,7 @@
   "kitStats": {
     "pvp": 2481,
     "raid": 755,
-    "survival": 2835,
+    "survival": 2836,
     "shulker": 1134,
     "music": 288,
     "terracotta": 50,
