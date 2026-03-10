@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:09:26 10/3/2026",
-  "totalKits": 109826,
-  "todayKits": 37,
+  "lastUpdated": "09:09:43 10/3/2026",
+  "totalKits": 109827,
+  "todayKits": 38,
   "onlineCount": 22,
   "peakPlayers": 48,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 29
   },
-  "tps": "12.0",
-  "ping": 203,
+  "tps": "14.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 935
+      "count": 936
     },
     {
       "name": "build",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:07] [Ultra] <_aksn> si",
-    "[02:07] [BOT] <HienBot> **_aksn**: si",
-    "[02:07] [8b8t] >> ▼ Player .OceanOde1534 Left.",
-    "[02:07] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[02:07] [Ultra] <_aksn> bno ya vuelvo",
-    "[02:07] [BOT] <HienBot> **_aksn**: bno ya vuelvo",
-    "[02:07] [Ultra] <14mate> alr",
-    "[02:07] [BOT] <HienBot> **14mate**: alr",
-    "[02:07] [8b8t] >> ▲ Player TRUEVEX Joined.",
-    "[02:08] [BOT] <HienBot> >Use info <player> to check someone's stats",
-    "[02:08] [8b8t] >> ▼ Player _aksn Left.",
-    "[02:08] DrAVC22 has made the advancement [Isn't It Iron Pick]",
-    "[02:08] [8b8t] >> ▼ Player iTrisstan Left.",
-    "[02:08] [BOT] <HienBot> >Try stash",
     "[02:08] TRUEVEX Whispers: DPS_Voyager_bot",
     "[02:08] [BOT] <HienBot> **TRUEVEX**: DPS_Voyager_bot",
     "[02:08] [8b8t] >> ▼ Player TRUEVEX Left.",
@@ -108,7 +94,21 @@
     "[02:09] To Aboundedsafe462: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[02:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:09] To Aboundedsafe462: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[02:09] [BOT] <HienBot> **Bot to Aboundedsafe462**: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot"
+    "[02:09] [BOT] <HienBot> **Bot to Aboundedsafe462**: Sorry! Magenta Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[02:09] <keivdeil> !elytra",
+    "[02:09] [8b8t] >> You have killed yourself!",
+    "[02:09] [8b8t] >> Please do not spam.",
+    "[02:09] To keivdeil: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:09] [8b8t] >> Teleporting to home 0...",
+    "[02:09] [8b8t] >> Teleporting to home 6...",
+    "[02:09] To keivdeil: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:09] [BOT] <HienBot> **Bot to keivdeil**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:09] [8b8t] >> Request sent to keivdeil",
+    "[02:09] [8b8t] >> Teleporting...",
+    "[02:09] [BOT] <HienBot> >Hello wimswinkelsja!",
+    "[02:09] <Aboundedsafe462> !fireworks",
+    "[02:09] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1474,7 +1474,8 @@
     ".OceanOde1534": 20,
     "Are8130": 2,
     "EksiReis": 2,
-    "Kiuseka": 3
+    "Kiuseka": 3,
+    "keivdeil": 1
   },
   "kitStats": {
     "pvp": 2456,
@@ -1497,7 +1498,7 @@
     "dupe": 926,
     "food": 264,
     "glass": 159,
-    "elytra": 935,
+    "elytra": 936,
     "redstone": 617,
     "quartz": 84,
     "highway": 174,
