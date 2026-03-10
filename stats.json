@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:37:33 10/3/2026",
+  "lastUpdated": "19:38:03 10/3/2026",
   "totalKits": 110061,
   "todayKits": 34,
-  "onlineCount": 16,
+  "onlineCount": 15,
   "peakPlayers": 22,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "18.0",
-  "ping": 255,
+  "tps": "14.0",
+  "ping": 1568,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2519
+      "count": 2520
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:35] HighwayBuilder20 has completed the challenge [Cover Me in Debris]",
-    "[12:35] HighwayBuilder20 has reached the goal [Sky's the Limit]",
-    "[12:35] HighwayBuilder20 has made the advancement [Ice Bucket Challenge]",
-    "[12:35] HighwayBuilder20 has completed the challenge [Serious Dedication]",
-    "[12:35] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
-    "[12:35] HighwayBuilder20 has reached the goal [Postmortal]",
-    "[12:36] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[12:36] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[12:36] <HighwayBuilder20> Kit",
-    "[12:36] To HighwayBuilder20: Hello HighwayBuilder20!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[12:36] [BOT] <0_HienBot> **HighwayBuilder20**: Kit",
     "[12:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:36] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
     "[12:36] <HighwayBuilder20> Build",
@@ -108,7 +97,18 @@
     "[12:37] [8b8t] >> Teleporting...",
     "[12:37] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
     "[12:37] [8b8t] >> You have killed yourself!",
-    "[12:37] TikhonMonkey has made the advancement [We Need to Go Deeper]"
+    "[12:37] TikhonMonkey has made the advancement [We Need to Go Deeper]",
+    "[12:37] <HighwayBuilder20> Obsidian",
+    "[12:37] [BOT] <0_HienBot> >Welcome to 8b8t, DPS_Chatbridge!",
+    "[12:37] To HighwayBuilder20: You're on cooldown, try again in 1 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:37] <HighwayBuilder20> Obsidian",
+    "[12:37] [8b8t] >> Teleporting to home 0...",
+    "[12:37] [BOT] <0_HienBot> **HighwayBuilder20**: Obsidian",
+    "[12:37] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[12:37] To HighwayBuilder20: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[12:37] [BOT] <0_HienBot> **Bot to HighwayBuilder20**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1494,10 +1494,10 @@
     "Geracl22": 2,
     "FG41": 5,
     ".HyeetTirpitz": 5,
-    "HighwayBuilder20": 3
+    "HighwayBuilder20": 4
   },
   "kitStats": {
-    "pvp": 2519,
+    "pvp": 2520,
     "raid": 764,
     "survival": 2916,
     "shulker": 1143,
