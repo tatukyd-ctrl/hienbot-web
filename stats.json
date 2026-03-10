@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:40:26 10/3/2026",
-  "totalKits": 109838,
-  "todayKits": 49,
+  "lastUpdated": "09:40:42 10/3/2026",
+  "totalKits": 109839,
+  "todayKits": 50,
   "onlineCount": 20,
   "peakPlayers": 48,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 28
   },
-  "tps": "15.0",
+  "tps": "11.0",
   "ping": 203,
   "topUsers": [
     {
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:36] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[02:36] [BOT] <HienBot> >Get fully equipped with pvp",
-    "[02:37] [BOT] <HienBot> >Survive safely with a free kit! Type survival",
-    "[02:37] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[02:37] io_bot underestimated the blast radius of a Creeper",
-    "[02:37] [8b8t] >> Please do not spam.",
-    "[02:38] [BOT] <HienBot> >Do you want kit? Type *kit",
-    "[02:38] Vitamina21 has made the advancement [Monster Hunter]",
-    "[02:38] [BOT] <HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[02:38] [8b8t] >> ▼ Player brunitocoso Left.",
-    "[02:38] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[02:39] [BOT] <HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[02:39] io_bot was rudely introduced to a Creeper's explosive personality",
     "[02:39] [8b8t] >> ▼ Player iTrisstan Left.",
@@ -108,7 +97,18 @@
     "[02:40] [BOT] <HienBot> **K1ng_Shep**: list",
     "[02:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:40] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[02:40] [8b8t] >> ▲ Player ASneakySenior Joined."
+    "[02:40] [8b8t] >> ▲ Player ASneakySenior Joined.",
+    "[02:40] <K1ng_Shep> stash",
+    "[02:40] [8b8t] >> Teleporting to home 0...",
+    "[02:40] [BOT] <HienBot> **K1ng_Shep**: stash",
+    "[02:40] [8b8t] >> Teleporting to home 2...",
+    "[02:40] To K1ng_Shep: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:40] To K1ng_Shep: Sorry! White Shulker Box is out of stock. Giving you Red Shulker Box instead! dsc.gg/hienbot",
+    "[02:40] [BOT] <HienBot> **Bot to K1ng_Shep**: Sorry! White Shulker Box is out of stock. Giving you Red Shulker Box instead! dsc.gg/hienbot",
+    "[02:40] [8b8t] >> Request sent to K1ng_Shep",
+    "[02:40] [8b8t] >> Teleporting...",
+    "[02:40] [BOT] <HienBot> >Hate those who destroy Hien2309's base"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -827,7 +827,7 @@
     "Iaaaan": 2,
     "panepic5": 1,
     "kaktusic67": 18,
-    "K1ng_Shep": 21,
+    "K1ng_Shep": 22,
     "Mogulinho": 1,
     "Nicoelmaspro120": 1,
     "2H3Z": 2,
@@ -1490,7 +1490,7 @@
     "toolbox": 253,
     "wool": 348,
     "exp": 463,
-    "stash": 791,
+    "stash": 792,
     "ocean": 91,
     "build": 926,
     "dye": 79,
