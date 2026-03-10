@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:13:04 10/3/2026",
+  "lastUpdated": "22:13:34 10/3/2026",
   "totalKits": 110105,
   "todayKits": 78,
   "onlineCount": 27,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "9.0",
-  "ping": 236,
+  "tps": "13.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2539
+      "count": 2540
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:11] [BOT] <0_HienBot> **meetmathur**: stash",
-    "[15:11] [8b8t] >> Teleporting to home 2...",
-    "[15:11] To meetmathur: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:11] To meetmathur: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:11] [BOT] <0_HienBot> **Bot to meetmathur**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:11] <Jamjox> grief",
-    "[15:11] [8b8t] >> Teleporting to home 0...",
-    "[15:11] [8b8t] >> Teleporting to home 2...",
-    "[15:11] [BOT] <0_HienBot> **Jamjox**: grief",
-    "[15:11] To Jamjox: Your kit (grief) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[15:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:11] To Jamjox: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:11] [BOT] <0_HienBot> **Bot to Jamjox**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +96,19 @@
     "[15:13] [8b8t] >> Teleporting to home 0...",
     "[15:13] [BOT] <0_HienBot> **Jamjox**: pvp",
     "[15:13] [8b8t] >> Teleporting to home 1...",
-    "[15:13] To Jamjox: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
+    "[15:13] To Jamjox: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:13] To Jamjox: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:13] [BOT] <0_HienBot> **Bot to Jamjox**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:13] <meetmathur> pvp",
+    "[15:13] [8b8t] >> Teleporting to home 0...",
+    "[15:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:13] [8b8t] >> Teleporting to home 1...",
+    "[15:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:13] To meetmathur: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:13] [BOT] <0_HienBot> **Bot to meetmathur**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:13] To meetmathur: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:13] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1497,10 +1497,10 @@
     "HighwayBuilder20": 4,
     "In_Game_Account": 2,
     "highway_cleaner": 4,
-    "meetmathur": 5
+    "meetmathur": 6
   },
   "kitStats": {
-    "pvp": 2539,
+    "pvp": 2540,
     "raid": 771,
     "survival": 2929,
     "shulker": 1147,
