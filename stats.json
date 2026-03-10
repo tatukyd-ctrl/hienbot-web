@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:03:13 11/3/2026",
+  "lastUpdated": "05:03:53 11/3/2026",
   "totalKits": 110146,
   "todayKits": 0,
   "onlineCount": 25,
-  "peakPlayers": 31,
+  "peakPlayers": 25,
   "playerStats": {
     "min": 0,
     "minTime": "07:00:56 10/3/2026",
@@ -13,7 +13,7 @@
     "avg": 18
   },
   "tps": "1.0",
-  "ping": 234,
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2960
+      "count": 2962
     },
     {
       "name": "pvp",
@@ -79,36 +79,33 @@
     }
   ],
   "chatLog": [
-    "[22:02] [8b8t] Unknown command do /help",
-    "[22:02] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[22:02] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[22:02] [8b8t] >> Teleporting to home 0...",
-    "[22:02] [8b8t] >> You have killed yourself!",
-    "[22:02] You are already connected to this server!",
-    "[22:02] waximo Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
-    "[22:02] An unexpected error occurred trying to execute that command",
-    "[22:02] [8b8t] >> Please do not spam.",
-    "[22:02] [8b8t] >> Use the command /login <password>.",
-    "[22:02] [8b8t] >> You have successfully logged.",
-    "[22:02] [8b8t] Unknown command do /help",
-    "[22:02] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[22:02] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[22:02] [8b8t] >> Teleporting to home 0...",
-    "[22:02] [8b8t] >> You have killed yourself!",
-    "[22:02] You are already connected to this server!",
-    "[22:02] waximo Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
-    "[22:02] An unexpected error occurred trying to execute that command",
-    "[22:02] [8b8t] >> Please do not spam.",
     "[22:03] [8b8t] >> Use the command /login <password>.",
     "[22:03] [8b8t] >> You have successfully logged.",
-    "[22:03] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[22:03] [8b8t] Unknown command do /help",
     "[22:03] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[22:03] [8b8t] >> Teleporting to home 0...",
+    "[22:03] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[22:03] You were kicked from 8b8t: Timed out",
+    "[22:03] [8b8t] Unknown command do /help",
+    "[22:03] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[22:03] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[22:03] [8b8t] >> You have killed yourself!",
     "[22:03] You are already connected to this server!",
+    "[22:03] <Antonhysv> survival",
+    "[22:03] You are already connected to this server!",
+    "[22:03] [BOT] <0_HienBot> **Antonhysv**: survival",
+    "[22:03] [8b8t] >> Teleporting to home 0...",
+    "[22:03] [8b8t] >> Teleporting to home 1...",
+    "[22:03] To Antonhysv: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[22:03] waximo Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
+    "[22:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:03] An unexpected error occurred trying to execute that command",
-    "[22:03] [8b8t] >> Please do not spam."
+    "[22:03] [8b8t] >> Please do not spam.",
+    "[22:03] [8b8t] >> Use the command /login <password>.",
+    "[22:03] [8b8t] >> You have successfully logged.",
+    "[22:03] [8b8t] Unknown command do /help",
+    "[22:03] [8b8t] Unknown command do /help",
+    "[22:03] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[22:03] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -282,7 +279,7 @@
     "ismael10MF": 1,
     ".Herobrine000374": 2,
     "yahircito_xd62": 1,
-    "Antonhysv": 59,
+    "Antonhysv": 60,
     "Victua7397": 3,
     "Fe3r": 1,
     "Tostax": 4,
@@ -1506,7 +1503,7 @@
   "kitStats": {
     "pvp": 2568,
     "raid": 773,
-    "survival": 2960,
+    "survival": 2962,
     "shulker": 1151,
     "music": 293,
     "terracotta": 50,
