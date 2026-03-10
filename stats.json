@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:51:12 10/3/2026",
+  "lastUpdated": "16:51:26 10/3/2026",
   "totalKits": 110003,
   "todayKits": 214,
   "onlineCount": 19,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 19
   },
-  "tps": "10.0",
-  "ping": 0,
+  "tps": "11.0",
+  "ping": 291,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:50] An unexpected error occurred trying to execute that command",
-    "[09:50] _PIGY_ Whispers: info /n",
-    "[09:50] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[09:50] To _PIGY_: Info /n: UUID: 8da8fa84-c47d-d413-520f-1baffc9216dd | Type: Cracked/Offline | ",
-    "[09:50] [BOT] <HienBot> **_PIGY_**: info /n",
-    "[09:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:51] [8b8t] >> Please do not spam.",
-    "[09:51] <Ribzz_> Survival",
-    "[09:51] [8b8t] >> Teleporting to home 0...",
-    "[09:51] [8b8t] >> Teleporting to home 1...",
-    "[09:51] To Ribzz_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[09:51] To Ribzz_: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:51] [8b8t] >> Please do not spam.",
     "[09:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +93,22 @@
     "[09:51] [8b8t] Unknown command do /help",
     "[09:51] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[09:51] [8b8t] >> ▲ Player HienBot Joined.",
-    "[09:51] You are already connected to this server!"
+    "[09:51] You are already connected to this server!",
+    "[09:51] <DarkKnight098> t",
+    "[09:51] [BOT] <HienBot> **Bot to Ribzz_**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:51] <cherryberrylv> stash",
+    "[09:51] [8b8t] >> You have killed yourself!",
+    "[09:51] [BOT] <HienBot> **cherryberrylv**: stash",
+    "[09:51] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[09:51] EnderKing01 forgot to bring their parachute",
+    "[09:51] To cherryberrylv: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:51] [BOT] <HienBot> **Bot to cherryberrylv**: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:51] [8b8t] >> Teleporting to home 0...",
+    "[09:51] [8b8t] >> Teleporting to home 2...",
+    "[09:51] To cherryberrylv: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:51] [BOT] <HienBot> **Bot to cherryberrylv**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:51] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1488,7 +1488,7 @@
     ".NullUnClear": 2,
     "aynnny2": 5,
     "MihalFoundU": 14,
-    "cherryberrylv": 11,
+    "cherryberrylv": 12,
     "Ribzz_": 5
   },
   "kitStats": {
@@ -1504,7 +1504,7 @@
     "toolbox": 257,
     "wool": 349,
     "exp": 465,
-    "stash": 810,
+    "stash": 811,
     "ocean": 93,
     "build": 938,
     "dye": 79,
