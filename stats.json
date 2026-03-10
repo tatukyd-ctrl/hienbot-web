@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:10:03 10/3/2026",
-  "totalKits": 110050,
-  "todayKits": 23,
+  "lastUpdated": "19:10:24 10/3/2026",
+  "totalKits": 110051,
+  "todayKits": 24,
   "onlineCount": 15,
   "peakPlayers": 22,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "20.0",
+  "tps": "15.0",
   "ping": 958,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 967
+      "count": 968
     },
     {
       "name": "build",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:08] [8b8t] >> Teleporting to home 2...",
-    "[12:08] To Hammad_262: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:08] [BOT] <0_HienBot> **Hammad_262**: stash",
-    "[12:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:08] To Hammad_262: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:08] [BOT] <0_HienBot> **Bot to Hammad_262**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[12:08] <idkyougoaway> do u wana team ryooq",
-    "[12:08] [BOT] <0_HienBot> **idkyougoaway**: do u wana team ryooq",
-    "[12:08] [BOT] <0_HienBot> >Bot created by Hien2309.",
-    "[12:08] <ryooq> ok",
-    "[12:08] [BOT] <0_HienBot> **ryooq**: ok",
     "[12:08] <FG41> dily",
     "[12:08] [BOT] <0_HienBot> **FG41**: dily",
     "[12:08] <FG41> daily",
@@ -108,7 +97,18 @@
     "[12:09] <FG41> kit",
     "[12:09] To FG41: Hello FG41!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[12:09] [BOT] <0_HienBot> **FG41**: kit",
-    "[12:09] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[12:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:10] <FG41> kit Elytra",
+    "[12:10] [8b8t] >> Teleporting to home 0...",
+    "[12:10] [8b8t] >> Teleporting to home 6...",
+    "[12:10] [BOT] <0_HienBot> **FG41**: kit Elytra",
+    "[12:10] To FG41: Your kit (Elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:10] To FG41: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:10] [8b8t] >> Request sent to FG41",
+    "[12:10] [BOT] <0_HienBot> **Bot to FG41**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:10] [BOT] <0_HienBot> >Hello FG41!",
+    "[12:10] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1491,7 +1491,8 @@
     "cherryberrylv": 35,
     "Ribzz_": 28,
     "HipsterSpaceRat": 1,
-    "Geracl22": 2
+    "Geracl22": 2,
+    "FG41": 1
   },
   "kitStats": {
     "pvp": 2517,
@@ -1514,7 +1515,7 @@
     "dupe": 939,
     "food": 265,
     "glass": 161,
-    "elytra": 967,
+    "elytra": 968,
     "redstone": 621,
     "quartz": 92,
     "highway": 179,
