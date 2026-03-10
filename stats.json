@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:33:46 10/3/2026",
+  "lastUpdated": "19:34:03 10/3/2026",
   "totalKits": 110059,
   "todayKits": 32,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 22,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "16.0",
+  "tps": "17.0",
   "ping": 205,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2914
+      "count": 2915
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:32] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[12:32] [8b8t] >> You have killed yourself!",
-    "[12:32] <DarkKnight098> elytra",
-    "[12:32] [8b8t] >> Teleporting to home 0...",
-    "[12:32] [BOT] <0_HienBot> **DarkKnight098**: elytra",
-    "[12:33] <HighwayBuilder20> Survival",
-    "[12:33] To HighwayBuilder20: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[12:33] [BOT] <0_HienBot> **HighwayBuilder20**: Survival",
-    "[12:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:33] <HighwayBuilder20> Survival",
     "[12:33] To HighwayBuilder20: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[12:33] [8b8t] >> Please do not spam.",
@@ -108,7 +98,17 @@
     "[12:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:33] [8b8t] >> Request sent to DarkKnight098",
     "[12:33] [BOT] <0_HienBot> >Hello tangyg228!",
-    "[12:33] [8b8t] >> Teleporting..."
+    "[12:33] [8b8t] >> Teleporting...",
+    "[12:33] [8b8t] >> You have killed yourself!",
+    "[12:33] To DarkKnight098: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[12:33] [BOT] <0_HienBot> **Bot to DarkKnight098**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[12:33] <HighwayBuilder20> Basif",
+    "[12:33] [BOT] <0_HienBot> **HighwayBuilder20**: Basif",
+    "[12:33] DarkKnight098 Whispers: yay finally",
+    "[12:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:33] <HighwayBuilder20> Basic",
+    "[12:34] [8b8t] >> Teleporting to home 0...",
+    "[12:34] [8b8t] >> Please do not spam."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1493,12 +1493,13 @@
     "HipsterSpaceRat": 1,
     "Geracl22": 2,
     "FG41": 5,
-    ".HyeetTirpitz": 5
+    ".HyeetTirpitz": 5,
+    "HighwayBuilder20": 1
   },
   "kitStats": {
     "pvp": 2519,
     "raid": 764,
-    "survival": 2914,
+    "survival": 2915,
     "shulker": 1143,
     "music": 289,
     "terracotta": 50,
