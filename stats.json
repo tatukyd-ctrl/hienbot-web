@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:17:04 10/3/2026",
+  "lastUpdated": "23:17:34 10/3/2026",
   "totalKits": 110135,
   "todayKits": 108,
   "onlineCount": 30,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 19
   },
-  "tps": "14.0",
-  "ping": 243,
+  "tps": "10.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:15] <AstroBlox501578> list",
-    "[16:15] To AstroBlox501578: Hello AstroBlox501578!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:15] [BOT] <0_HienBot> **AstroBlox501578**: list",
-    "[16:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:15] To oradiminou: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:15] [8b8t] >> Request sent to oradiminou",
     "[16:15] [8b8t] >> Teleporting...",
     "[16:15] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -108,7 +102,13 @@
     "[16:16] [BOT] <0_HienBot> **password**: .",
     "[16:16] AstroBlox501578 has made the advancement [Stone Age]",
     "[16:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[16:16] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore"
+    "[16:16] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[16:17] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
+    "[16:17] <Jamjox> tools",
+    "[16:17] [8b8t] >> Teleporting to home 0...",
+    "[16:17] [8b8t] >> Teleporting to home 7...",
+    "[16:17] [BOT] <0_HienBot> **Jamjox**: tools",
+    "[16:17] To Jamjox: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1370,7 +1370,7 @@
     "gugustavyu": 3,
     "yesNipunpie": 2,
     "baromijofej": 1,
-    "Jamjox": 30,
+    "Jamjox": 31,
     "rostyslav1k": 3,
     "Super_jj9000": 9,
     "Oussamita": 7,
@@ -1509,7 +1509,7 @@
     "music": 293,
     "terracotta": 50,
     "lightsources": 159,
-    "tools": 800,
+    "tools": 801,
     "armortrims": 196,
     "toolbox": 266,
     "wool": 351,
