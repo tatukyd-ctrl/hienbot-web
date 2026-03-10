@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:42:33 10/3/2026",
+  "lastUpdated": "19:43:03 10/3/2026",
   "totalKits": 110062,
   "todayKits": 35,
-  "onlineCount": 15,
+  "onlineCount": 4,
   "peakPlayers": 22,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "18.0",
-  "ping": 646,
+  "tps": "16.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2917
+      "count": 2918
     },
     {
       "name": "pvp",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:39] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[12:41] [8b8t] >> Use the command /login <password>.",
-    "[12:41] [8b8t] >> You have successfully logged.",
-    "[12:41] [8b8t] Unknown command do /help",
-    "[12:41] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[12:41] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[12:41] [8b8t] >> Teleporting to home 0...",
     "[12:41] You are already connected to this server!",
@@ -108,7 +103,12 @@
     "[12:42] <In_Game_Account> Survival",
     "[12:42] To In_Game_Account: You're on cooldown, try again in 10 seconds! Don't forget to join dsc.gg/hienbot",
     "[12:42] [BOT] <0_HienBot> **In_Game_Account**: Survival",
-    "[12:42] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[12:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:42] <In_Game_Account> Survival",
+    "[12:42] <In_Game_Account> Survival",
+    "[12:42] <In_Game_Account> Survival",
+    "[12:42] You were kicked from 8b8t: Timed out",
+    "[12:42] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1495,12 +1495,12 @@
     "FG41": 5,
     ".HyeetTirpitz": 5,
     "HighwayBuilder20": 4,
-    "In_Game_Account": 1
+    "In_Game_Account": 2
   },
   "kitStats": {
     "pvp": 2520,
     "raid": 764,
-    "survival": 2917,
+    "survival": 2918,
     "shulker": 1143,
     "music": 289,
     "terracotta": 50,
