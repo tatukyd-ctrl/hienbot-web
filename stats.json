@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:26:26 10/3/2026",
-  "totalKits": 109875,
-  "todayKits": 86,
+  "lastUpdated": "12:26:46 10/3/2026",
+  "totalKits": 109876,
+  "todayKits": 87,
   "onlineCount": 26,
   "peakPlayers": 48,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 25
   },
-  "tps": "14.0",
+  "tps": "12.0",
   "ping": 207,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2816
+      "count": 2817
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:25] [8b8t] >> Teleporting to home 6...",
-    "[05:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:25] To aizanpqsi: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:25] To aizanpqsi: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:25] [BOT] <HienBot> **Bot to aizanpqsi**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:25] [8b8t] >> Request sent to aizanpqsi",
-    "[05:25] [8b8t] >> Teleporting...",
-    "[05:25] HienBot was pwned by aizanpqsi wielding [end crystal]",
-    "[05:25] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[05:25] [8b8t] >> ▼ Player DPS_Voyager_bot Left.",
     "[05:25] <keivdeil> no ando ni en 10",
     "[05:25] [BOT] <HienBot> **keivdeil**: no ando ni en 10",
     "[05:25] <Key0223> yaa",
@@ -108,7 +97,18 @@
     "[05:26] [BOT] <HienBot> **keivdeil**: pera",
     "[05:26] [BOT] <HienBot> >Hmmmmmmmmm",
     "[05:26] <keivdeil> cuando diga todos me mandan tpa",
-    "[05:26] [BOT] <HienBot> **keivdeil**: cuando diga todos me mandan tpa"
+    "[05:26] [BOT] <HienBot> **keivdeil**: cuando diga todos me mandan tpa",
+    "[05:26] <aizanpqsi> survival",
+    "[05:26] [8b8t] >> Teleporting to home 0...",
+    "[05:26] [BOT] <HienBot> **aizanpqsi**: survival",
+    "[05:26] [8b8t] >> Teleporting to home 1...",
+    "[05:26] To aizanpqsi: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:26] To aizanpqsi: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:26] [BOT] <HienBot> **Bot to aizanpqsi**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:26] [8b8t] >> Request sent to aizanpqsi",
+    "[05:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1481,12 +1481,12 @@
     "ashluvtheflex": 2,
     "wryspry": 2,
     "PastelPeaks": 5,
-    "aizanpqsi": 9
+    "aizanpqsi": 10
   },
   "kitStats": {
     "pvp": 2475,
     "raid": 755,
-    "survival": 2816,
+    "survival": 2817,
     "shulker": 1131,
     "music": 288,
     "terracotta": 50,
