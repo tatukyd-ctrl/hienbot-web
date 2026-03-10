@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:31:26 10/3/2026",
+  "lastUpdated": "11:31:56 10/3/2026",
   "totalKits": 109860,
   "todayKits": 71,
   "onlineCount": 20,
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 25
   },
-  "tps": "15.0",
+  "tps": "16.0",
   "ping": 207,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2809
+      "count": 2810
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:28] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[04:28] [8b8t] >> ▼ Player DPS_Voyager_bot Left.",
-    "[04:28] [BOT] <HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[04:28] [8b8t] >> ▲ Player DPS_Voyager_bot Joined.",
-    "[04:29] [BOT] <HienBot> >Want to see the server's tps? Chat tps",
-    "[04:29] [BOT] <HienBot> >Type discord",
-    "[04:29] tagg got a deadly lesson from the Wither",
-    "[04:29] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[04:30] PastelPeaks Whispers: KIT",
-    "[04:30] To PastelPeaks: Hello PastelPeaks!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:30] [BOT] <HienBot> **PastelPeaks**: KIT",
     "[04:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[04:30] [BOT] <HienBot> >Voting for the server will give you access to the donkey dupe",
@@ -108,7 +98,17 @@
     "[04:30] To PastelPeaks: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[04:30] [BOT] <HienBot> **Bot to PastelPeaks**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[04:31] [BOT] <HienBot> >Welcome to 8b8t, elpepitoo!",
-    "[04:31] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[04:31] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[04:31] [BOT] <HienBot> >Want to see your ping? Chat ping",
+    "[04:31] PastelPeaks Whispers: kit survival",
+    "[04:31] [8b8t] >> Teleporting to home 0...",
+    "[04:31] [8b8t] >> Teleporting to home 1...",
+    "[04:31] [BOT] <HienBot> **PastelPeaks**: kit survival",
+    "[04:31] To PastelPeaks: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:31] To PastelPeaks: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:31] [BOT] <HienBot> **Bot to PastelPeaks**: Please type \"/tpayes HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:31] [8b8t] >> Request sent to PastelPeaks"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1480,12 +1480,12 @@
     "KionYhamma": 1,
     "ashluvtheflex": 2,
     "wryspry": 2,
-    "PastelPeaks": 4
+    "PastelPeaks": 5
   },
   "kitStats": {
     "pvp": 2472,
     "raid": 754,
-    "survival": 2809,
+    "survival": 2810,
     "shulker": 1131,
     "music": 288,
     "terracotta": 50,
