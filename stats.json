@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:15:33 10/3/2026",
+  "lastUpdated": "19:16:03 10/3/2026",
   "totalKits": 110055,
   "todayKits": 28,
   "onlineCount": 13,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "15.0",
-  "ping": 449,
+  "tps": "14.0",
+  "ping": 384,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:13] [8b8t] >> Teleporting...",
-    "[12:14] [8b8t] >> You have killed yourself!",
-    "[12:14] To FG41: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:14] [BOT] <0_HienBot> **Bot to FG41**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:14] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
     "[12:14] <SW1LL> 20000 blocks no",
@@ -108,7 +104,11 @@
     "[12:15] To FG41: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:15] [BOT] <0_HienBot> **Bot to FG41**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:15] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[12:15] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[12:15] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[12:15] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
+    "[12:15] <FG41> kit Toolbox",
+    "[12:15] [8b8t] >> Teleporting to home 0...",
+    "[12:15] [BOT] <0_HienBot> **FG41**: kit Toolbox"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1492,7 +1492,7 @@
     "Ribzz_": 28,
     "HipsterSpaceRat": 1,
     "Geracl22": 2,
-    "FG41": 4
+    "FG41": 5
   },
   "kitStats": {
     "pvp": 2518,
@@ -1504,7 +1504,7 @@
     "lightsources": 159,
     "tools": 797,
     "armortrims": 194,
-    "toolbox": 257,
+    "toolbox": 258,
     "wool": 349,
     "exp": 469,
     "stash": 819,
