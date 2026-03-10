@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:03:51 11/3/2026",
+  "lastUpdated": "03:04:21 11/3/2026",
   "totalKits": 110145,
   "todayKits": 2,
-  "onlineCount": 0,
+  "onlineCount": 21,
   "peakPlayers": 29,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "8.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2561
+      "count": 2562
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:01] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[20:01] [8b8t] >> Teleporting to home 0...",
-    "[20:01] [8b8t] >> You have killed yourself!",
-    "[20:01] You are already connected to this server!",
-    "[20:01] kutuzovs Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
-    "[20:01] An unexpected error occurred trying to execute that command",
-    "[20:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[20:01] [8b8t] >> Please do not spam.",
-    "[20:01] [8b8t] >> Use the command /login <password>.",
-    "[20:01] [8b8t] >> You have successfully logged.",
-    "[20:01] [8b8t] Unknown command do /help",
-    "[20:01] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[20:01] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[20:01] [8b8t] >> Teleporting to home 0...",
-    "[20:01] [8b8t] >> You have killed yourself!",
-    "[20:01] You are already connected to this server!",
     "[20:02] kutuzovs Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
     "[20:02] An unexpected error occurred trying to execute that command",
     "[20:02] [8b8t] >> Please do not spam.",
@@ -108,7 +92,23 @@
     "[20:02] You are already connected to this server!",
     "[20:02] kutuzovs Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
     "[20:02] An unexpected error occurred trying to execute that command",
-    "[20:02] [8b8t] >> Please do not spam."
+    "[20:02] [8b8t] >> Please do not spam.",
+    "[20:04] [8b8t] >> Use the command /login <password>.",
+    "[20:04] [8b8t] >> You have successfully logged.",
+    "[20:04] [8b8t] Unknown command do /help",
+    "[20:04] [8b8t] Unknown command do /help",
+    "[20:04] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[20:04] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[20:04] You were kicked from 8b8t: Timed out",
+    "[20:04] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[20:04] [8b8t] Unknown command do /help",
+    "[20:04] [8b8t] Unknown command do /help",
+    "[20:04] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[20:04] You are already connected to this server!",
+    "[20:04] You are already connected to this server!",
+    "[20:04] <0n19z1> PVP",
+    "[20:04] kutuzovs Whispers: info xqtrmzplakdñweuorvtybcmnsqpldkañzmxowieurtyqpldkamznxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurtypldkamzñxbcvtyurqowpñlaksmdnzxqowieurty",
+    "[20:04] An unexpected error occurred trying to execute that command"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1398,7 +1398,7 @@
     "freep12": 1,
     "Jacksoncity385": 1,
     "V_VI": 2,
-    "0n19z1": 8,
+    "0n19z1": 9,
     "davihosa12": 7,
     "Moidtheboid": 2,
     "cristobal25": 26,
@@ -1504,7 +1504,7 @@
     "confia2024": 3
   },
   "kitStats": {
-    "pvp": 2561,
+    "pvp": 2562,
     "raid": 773,
     "survival": 2955,
     "shulker": 1151,
