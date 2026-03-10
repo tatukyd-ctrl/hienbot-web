@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:59:04 10/3/2026",
+  "lastUpdated": "22:59:34 10/3/2026",
   "totalKits": 110132,
   "todayKits": 105,
-  "onlineCount": 25,
+  "onlineCount": 27,
   "peakPlayers": 32,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 19
   },
-  "tps": "13.0",
+  "tps": "11.0",
   "ping": 216,
   "topUsers": [
     {
@@ -59,11 +59,11 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2934
+      "count": 2935
     },
     {
       "name": "pvp",
-      "count": 2546
+      "count": 2547
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:57] [BOT] <0_HienBot> **cherryberrylv**: hello",
-    "[15:57] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[15:57] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[15:57] <cherryberrylv> toolsbox",
-    "[15:58] [BOT] <0_HienBot> **cherryberrylv**: toolsbox",
-    "[15:58] <cherryberrylv> toolbox",
-    "[15:58] [8b8t] >> Teleporting to home 0...",
-    "[15:58] [8b8t] >> Please do not spam.",
-    "[15:58] [8b8t] >> Teleporting to home 4...",
-    "[15:58] To cherryberrylv: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:58] To cherryberrylv: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:58] [BOT] <0_HienBot> >Hello AstroBlox501578!",
-    "[15:58] [8b8t] >> Request sent to cherryberrylv",
-    "[15:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:58] [Ultra] <KurtzMC> tobias",
     "[15:58] [BOT] <0_HienBot> **KurtzMC**: tobias",
     "[15:58] Jamjox has made the advancement [The City at the End of the Game]",
     "[15:58] [8b8t] >> Teleporting...",
@@ -108,7 +92,23 @@
     "[15:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:58] [BOT] <0_HienBot> **AstroBlox501578**: list",
     "[15:58] To AstroBlox501578: Hello AstroBlox501578!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[15:58] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[15:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:59] cherryberrylv has made the advancement [Crafting a New Look]",
+    "[15:59] [BOT] <0_HienBot> >Running low on supplies? Use survival",
+    "[15:59] <AstroBlox501578> pvp",
+    "[15:59] [8b8t] >> Teleporting to home 0...",
+    "[15:59] [BOT] <0_HienBot> **AstroBlox501578**: pvp",
+    "[15:59] [8b8t] >> Teleporting to home 1...",
+    "[15:59] To AstroBlox501578: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:59] To AstroBlox501578: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:59] [BOT] <0_HienBot> **Bot to AstroBlox501578**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:59] <AstroBlox501578> survival",
+    "[15:59] [8b8t] >> Teleporting to home 0...",
+    "[15:59] [BOT] <0_HienBot> **AstroBlox501578**: survival",
+    "[15:59] [8b8t] >> Teleporting to home 1...",
+    "[15:59] To AstroBlox501578: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:59] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1498,12 +1498,13 @@
     "In_Game_Account": 2,
     "highway_cleaner": 6,
     "meetmathur": 9,
-    "drecobloxird": 1
+    "drecobloxird": 1,
+    "AstroBlox501578": 2
   },
   "kitStats": {
-    "pvp": 2546,
+    "pvp": 2547,
     "raid": 772,
-    "survival": 2934,
+    "survival": 2935,
     "shulker": 1148,
     "music": 293,
     "terracotta": 50,
