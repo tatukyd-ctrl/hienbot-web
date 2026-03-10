@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:49:34 10/3/2026",
+  "lastUpdated": "21:50:04 10/3/2026",
   "totalKits": 110095,
   "todayKits": 68,
-  "onlineCount": 20,
+  "onlineCount": 0,
   "peakPlayers": 28,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "15.0",
-  "ping": 197,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2925
+      "count": 2926
     },
     {
       "name": "pvp",
@@ -79,7 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:47] To Jamjox: Info 0_HienBot: UUID: 0c39f176-eaa0-87eb-553e-3183608ac5e6 | Type: Cracked/Offline (Online, 203ms) | ",
     "[14:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:48] <Jamjox> wat should i ddo guyss",
     "[14:48] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -108,7 +107,8 @@
     "[14:49] [BOT] <0_HienBot> **Jamjox**: dont swear at me or i wont answer",
     "[14:49] <Jamjox> to msg",
     "[14:49] [BOT] <0_HienBot> **Jamjox**: to msg",
-    "[14:49] <InsaneBoi69> idc if u answer or not"
+    "[14:49] <InsaneBoi69> idc if u answer or not",
+    "[14:49] <meetmathur> survival"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1497,12 +1497,12 @@
     "HighwayBuilder20": 4,
     "In_Game_Account": 2,
     "highway_cleaner": 4,
-    "meetmathur": 1
+    "meetmathur": 2
   },
   "kitStats": {
     "pvp": 2535,
     "raid": 767,
-    "survival": 2925,
+    "survival": 2926,
     "shulker": 1147,
     "music": 293,
     "terracotta": 50,
