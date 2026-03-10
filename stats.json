@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:13:34 10/3/2026",
+  "lastUpdated": "22:14:04 10/3/2026",
   "totalKits": 110105,
   "todayKits": 78,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 28,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:17:56 10/3/2026",
     "avg": 18
   },
-  "tps": "13.0",
-  "ping": 224,
+  "tps": "10.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:11] To Jamjox: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:11] [BOT] <0_HienBot> **Bot to Jamjox**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:11] <Jamjox> hmm",
-    "[15:11] [8b8t] >> Request sent to Jamjox",
-    "[15:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:11] [8b8t] >> Teleporting...",
-    "[15:12] [8b8t] >> You have killed yourself!",
-    "[15:12] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
-    "[15:12] To Jamjox: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[15:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:12] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:12] [8b8t] >> Please do not spam.",
@@ -108,7 +98,17 @@
     "[15:13] To meetmathur: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[15:13] [BOT] <0_HienBot> **Bot to meetmathur**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[15:13] To meetmathur: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:13] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[15:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:13] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[15:13] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[15:13] <Jamjox> stash",
+    "[15:13] [8b8t] >> Teleporting to home 0...",
+    "[15:13] [BOT] <0_HienBot> **Jamjox**: stash",
+    "[15:13] [8b8t] >> Teleporting to home 2...",
+    "[15:13] To Jamjox: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:13] To Jamjox: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:13] [BOT] <0_HienBot> **Bot to Jamjox**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1370,7 +1370,7 @@
     "gugustavyu": 3,
     "yesNipunpie": 2,
     "baromijofej": 1,
-    "Jamjox": 24,
+    "Jamjox": 25,
     "rostyslav1k": 3,
     "Super_jj9000": 9,
     "Oussamita": 7,
@@ -1512,7 +1512,7 @@
     "toolbox": 260,
     "wool": 351,
     "exp": 477,
-    "stash": 821,
+    "stash": 822,
     "ocean": 93,
     "build": 941,
     "dye": 80,
