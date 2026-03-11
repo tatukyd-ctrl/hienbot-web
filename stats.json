@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:56:43 11/3/2026",
+  "lastUpdated": "16:57:13 11/3/2026",
   "totalKits": 110253,
   "todayKits": 79,
-  "onlineCount": 13,
+  "onlineCount": 12,
   "peakPlayers": 21,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 12
   },
   "tps": "14.0",
-  "ping": 202,
+  "ping": 685,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:55] <chopstickswonton> shulker",
-    "[09:55] [8b8t] >> Teleporting to home 0...",
-    "[09:55] [8b8t] >> Please do not spam.",
-    "[09:55] [8b8t] >> Teleporting to home 6...",
-    "[09:55] To chopstickswonton: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:55] To chopstickswonton: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:55] [8b8t] >> Please do not spam.",
-    "[09:55] <alexeldios> exp",
-    "[09:55] [8b8t] >> Teleporting to home 0...",
     "[09:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:55] [8b8t] >> Teleporting to home 5...",
     "[09:55] To alexeldios: Your kit (exp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +97,18 @@
     "[09:56] chopstickswonton has made the advancement [War Pigs]",
     "[09:56] <[MOD✔] freddison> HighwayCleaner send tpahere",
     "[09:56] [BOT] <0_HienBot> **freddison**: HighwayCleaner send tpahere",
-    "[09:56] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[09:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:56] <[MOD✔] freddison> send tpa",
+    "[09:56] [BOT] <0_HienBot> **freddison**: send tpa",
+    "[09:57] <alexeldios> list",
+    "[09:57] To alexeldios: Hello alexeldios!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[09:57] [BOT] <0_HienBot> **alexeldios**: list",
+    "[09:57] [BOT] <0_HienBot> >Try list to see available kits",
+    "[09:57] <alexeldios> end",
+    "[09:57] [8b8t] >> Teleporting to home 0...",
+    "[09:57] [8b8t] >> Teleporting to home 5...",
+    "[09:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:57] To alexeldios: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1516,7 +1516,7 @@
     "Jackbit4": 7,
     "chopstickswonton": 15,
     ".NatYeet12342391": 1,
-    "alexeldios": 12,
+    "alexeldios": 13,
     "tbhtula": 1
   },
   "kitStats": {
@@ -1548,6 +1548,6 @@
     "mineral": 345,
     "gterracotta": 39,
     "wood": 351,
-    "end": 255
+    "end": 256
   }
 }
