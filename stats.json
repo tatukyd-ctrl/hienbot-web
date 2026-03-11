@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:43:46 12/3/2026",
-  "totalKits": 110542,
-  "todayKits": 368,
-  "onlineCount": 39,
+  "lastUpdated": "06:43:56 12/3/2026",
+  "totalKits": 110543,
+  "todayKits": 369,
+  "onlineCount": 38,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "23:29:48 11/3/2026",
     "avg": 21
   },
-  "tps": "12.0",
+  "tps": "7.0",
   "ping": 200,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3117
+      "count": 3118
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:43] <.SlimBead4443> yio",
-    "[23:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:43] <NicoPlayz53000> survival",
-    "[23:43] To NicoPlayz53000: You're on cooldown, try again in 28 seconds! Don't forget to join dsc.gg/hienbot",
-    "[23:43] [BOT] <0_HienBot> **NicoPlayz53000**: survival",
-    "[23:43] [XMAS2025] <Upcast> maso",
-    "[23:43] <.SlimBead4443> yo feria",
     "[23:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +100,15 @@
     "[23:43] <.SlimBead4443> quién me ayuda salir spawn porfa",
     "[23:43] [BOT] <0_HienBot> **.SlimBead4443**: quin me ayuda salir spawn porfa",
     "[23:43] <smallbear> ?kit survival",
-    "[23:43] [BOT] <0_HienBot> **smallbear**: ?kit survival"
+    "[23:43] [BOT] <0_HienBot> **smallbear**: ?kit survival",
+    "[23:43] [8b8t] >> Teleporting to home 0...",
+    "[23:43] [8b8t] >> Teleporting to home 1...",
+    "[23:43] To smallbear: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:43] To smallbear: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:43] [BOT] <0_HienBot> **Bot to smallbear**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:43] [8b8t] >> Request sent to smallbear",
+    "[23:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1548,12 +1548,13 @@
     "Potato_Gamer965": 2,
     ".FoundPower1416": 4,
     "Luchadorluk": 7,
-    "NicoPlayz53000": 2
+    "NicoPlayz53000": 2,
+    "smallbear": 1
   },
   "kitStats": {
     "pvp": 2672,
     "raid": 798,
-    "survival": 3117,
+    "survival": 3118,
     "shulker": 1177,
     "music": 304,
     "terracotta": 50,
