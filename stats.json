@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:44:43 11/3/2026",
+  "lastUpdated": "12:45:13 11/3/2026",
   "totalKits": 110174,
   "todayKits": 0,
-  "onlineCount": 0,
-  "peakPlayers": 14,
+  "onlineCount": 17,
+  "peakPlayers": 17,
   "playerStats": {
     "min": 0,
     "minTime": "07:00:26 11/3/2026",
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "0.0",
+  "tps": "1.0",
   "ping": 0,
   "topUsers": [
     {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:40] <keivdeil> oh",
-    "[05:40] <shadow_scribe> raid",
-    "[05:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:40] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[05:40] To shadow_scribe: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[05:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:40] [8b8t] >> You have killed yourself!",
@@ -108,7 +100,15 @@
     "[05:41] <Azure772> trims",
     "[05:41] <Azure772> ok",
     "[05:41] <keivdeil> team",
-    "[05:41] <Azure772> alr"
+    "[05:41] <Azure772> alr",
+    "[05:45] [8b8t] >> Use the command /login <password>.",
+    "[05:45] [8b8t] >> You have successfully logged.",
+    "[05:45] [8b8t] Unknown command do /help",
+    "[05:45] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[05:45] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[05:45] [8b8t] >> Teleporting to home 0...",
+    "[05:45] [8b8t] >> You have killed yourself!",
+    "[05:45] You are already connected to this server!"
   ],
   "userStats": {
     "Hien2309": 92,
