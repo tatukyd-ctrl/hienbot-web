@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:47:14 11/3/2026",
+  "lastUpdated": "22:47:44 11/3/2026",
   "totalKits": 110345,
   "todayKits": 171,
   "onlineCount": 31,
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 14
   },
-  "tps": "13.0",
+  "tps": "14.0",
   "ping": 204,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2613
+      "count": 2614
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:45] [XMAS2025] <Tobias> que impaciente",
-    "[15:45] [BOT] <0_HienBot> **i_am_tobias**: que impaciente",
-    "[15:45] BiasRuby4589 has made the advancement [We Need to Go Deeper]",
-    "[15:45] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
-    "[15:45] <Jamjox> info HienBot",
-    "[15:45] [BOT] <0_HienBot> **Jamjox**: info HienBot",
-    "[15:45] An unexpected error occurred trying to execute that command",
-    "[15:45] To Jamjox: Info HienBot: UUID: 4849f4d6-ff11-dcdf-1039-4b1257f461cb | Type: Cracked/Offline | ",
-    "[15:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:45] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[15:45] <Elpepa4321> gg",
-    "[15:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:46] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:46] <DDosma> dl con eso ya la armas",
     "[15:46] [BOT] <0_HienBot> **DDosma**: dl con eso ya la armas",
@@ -108,7 +96,19 @@
     "[15:47] [BOT] <0_HienBot> **Jamjox**: info _lide_",
     "[15:47] An unexpected error occurred trying to execute that command",
     "[15:47] To Jamjox: Info _Lide_: UUID: 4c8a0035-483d-4046-961d-92e16fd4b860 | Type: Premium | ",
-    "[15:47] [BOT] <0_HienBot> **Bot to Jamjox**: Info _Lide_: UUID: 4c8a0035-483d-4046-961d-92e16fd4b860 | Type: Premium |"
+    "[15:47] [BOT] <0_HienBot> **Bot to Jamjox**: Info _Lide_: UUID: 4c8a0035-483d-4046-961d-92e16fd4b860 | Type: Premium |",
+    "[15:47] cwchackclient Whispers: *kit pvp",
+    "[15:47] [8b8t] >> Teleporting to home 0...",
+    "[15:47] [BOT] <0_HienBot> **cwchackclient**: *kit pvp",
+    "[15:47] [8b8t] >> Teleporting to home 1...",
+    "[15:47] To cwchackclient: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:47] To cwchackclient: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:47] [BOT] <0_HienBot> **Bot to cwchackclient**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:47] [XMAS2025] <Tobias> kurtz cuando traemos un camello zombi aqui",
+    "[15:47] [BOT] <0_HienBot> **i_am_tobias**: kurtz cuando traemos un camello zombi aqui",
+    "[15:47] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1525,10 +1525,11 @@
     "flam": 1,
     "rvlkm": 1,
     "DeathDragon13": 12,
-    "BiasRuby4589": 2
+    "BiasRuby4589": 2,
+    "cwchackclient": 1
   },
   "kitStats": {
-    "pvp": 2613,
+    "pvp": 2614,
     "raid": 784,
     "survival": 3014,
     "shulker": 1163,
