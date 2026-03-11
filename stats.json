@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:47:13 11/3/2026",
-  "totalKits": 110245,
-  "todayKits": 71,
+  "lastUpdated": "16:47:28 11/3/2026",
+  "totalKits": 110246,
+  "todayKits": 72,
   "onlineCount": 14,
   "peakPlayers": 21,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 12
   },
-  "tps": "14.0",
-  "ping": 201,
+  "tps": "13.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,21 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 975
+      "count": 976
     }
   ],
   "chatLog": [
-    "[09:44] [BOT] <0_HienBot> **Dreamers**: great",
-    "[09:44] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[09:44] <killercat> bro",
-    "[09:44] <Dreamers> gotta activate hacks to get to 20k",
-    "[09:44] [BOT] <0_HienBot> **killercat**: bro",
-    "[09:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:45] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[09:45] <Dreamers> holy f",
-    "[09:45] [BOT] <0_HienBot> **Dreamers**: holy f",
-    "[09:45] [8b8t] >> Azure772 would like to teleport to you /tpayes USERNAME /tpano USERNAME",
-    "[09:45] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
     "[09:45] <Dreamers> info killercat",
     "[09:45] [8b8t] >> killercat first joined on: 2026-03-11 02:38:48",
     "[09:45] To Dreamers: Info killercat: UUID: 2bcf92fb-cb0f-45f8-83a6-c8eeff04c726 | Type: Premium | ",
@@ -108,7 +97,18 @@
     "[09:46] [BOT] <0_HienBot> >Use /kill to kill yourself!",
     "[09:46] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[09:47] chopstickswonton has completed the challenge [Hot Tourist Destinations]",
-    "[09:47] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls"
+    "[09:47] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
+    "[09:47] <alexeldios> dupe",
+    "[09:47] [8b8t] >> You have killed yourself!",
+    "[09:47] [BOT] <0_HienBot> **alexeldios**: dupe",
+    "[09:47] To alexeldios: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:47] [8b8t] >> Teleporting to home 0...",
+    "[09:47] [8b8t] >> Teleporting to home 7...",
+    "[09:47] To alexeldios: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:47] [BOT] <0_HienBot> **Bot to alexeldios**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:47] [8b8t] >> Request sent to alexeldios",
+    "[09:47] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1516,7 +1516,7 @@
     "Jackbit4": 7,
     "chopstickswonton": 12,
     ".NatYeet12342391": 1,
-    "alexeldios": 4,
+    "alexeldios": 5,
     "tbhtula": 1
   },
   "kitStats": {
@@ -1537,7 +1537,7 @@
     "build": 960,
     "dye": 80,
     "concrete": 135,
-    "dupe": 975,
+    "dupe": 976,
     "food": 268,
     "glass": 166,
     "elytra": 990,
