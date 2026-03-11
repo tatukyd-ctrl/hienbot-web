@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:26:13 11/3/2026",
+  "lastUpdated": "20:26:43 11/3/2026",
   "totalKits": 110299,
   "todayKits": 125,
   "onlineCount": 19,
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "14.0",
+  "tps": "15.0",
   "ping": 202,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:24] <DarkKnight098> stay right here",
-    "[13:24] [BOT] <0_HienBot> **DarkKnight098**: stay right here",
-    "[13:24] <meetmathur> wait\\",
-    "[13:24] [BOT] <0_HienBot> **meetmathur**: wait\\",
-    "[13:24] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
-    "[13:24] <ryooq> dupe",
-    "[13:24] [8b8t] >> Teleporting to home 0...",
-    "[13:24] [BOT] <0_HienBot> **ryooq**: dupe",
-    "[13:24] [8b8t] >> Teleporting to home 7...",
-    "[13:24] To ryooq: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:24] To ryooq: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:24] <DarkKnight098> no the new one",
     "[13:24] [BOT] <0_HienBot> **Bot to ryooq**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:24] [8b8t] >> Request sent to ryooq",
@@ -108,7 +96,19 @@
     "[13:25] [BOT] <0_HienBot> >Hello meetmathur!",
     "[13:25] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[13:26] <meetmathur> ok",
-    "[13:26] [BOT] <0_HienBot> **meetmathur**: ok"
+    "[13:26] [BOT] <0_HienBot> **meetmathur**: ok",
+    "[13:26] [BOT] <0_HienBot> >Do you want kit? Type *kit",
+    "[13:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:26] <DarkKnight098> WAIT",
+    "[13:26] [8b8t] >> Teleporting to home 0...",
+    "[13:26] [BOT] <0_HienBot> **DarkKnight098**: WAIT",
+    "[13:26] [8b8t] >> Teleporting to home 1...",
+    "[13:26] To DarkKnight098: Your kit (wait) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:26] To DarkKnight098: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:26] [BOT] <0_HienBot> **Bot to DarkKnight098**: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:26] <meetmathur> wht",
+    "[13:26] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -843,7 +843,7 @@
     "plus79532927137": 22,
     "all_akkaynt": 67,
     "060mati006": 8,
-    "DarkKnight098": 7,
+    "DarkKnight098": 8,
     "Wvayrien": 9,
     "YoutubeOnur": 48,
     "milomilom": 13,
@@ -1528,7 +1528,7 @@
     "raid": 781,
     "survival": 3004,
     "shulker": 1159,
-    "music": 297,
+    "music": 298,
     "terracotta": 50,
     "lightsources": 165,
     "tools": 812,
