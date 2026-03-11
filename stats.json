@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:11:43 11/3/2026",
-  "totalKits": 110220,
-  "todayKits": 46,
+  "lastUpdated": "16:12:05 11/3/2026",
+  "totalKits": 110221,
+  "todayKits": 47,
   "onlineCount": 12,
   "peakPlayers": 19,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 12
   },
-  "tps": "15.0",
-  "ping": 314,
+  "tps": "13.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2982
+      "count": 2983
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:10] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[09:10] [BOT] <0_HienBot> >Hey freddison!",
-    "[09:10] <Jackbit4> yoo owner",
-    "[09:10] [BOT] <0_HienBot> **Jackbit4**: yoo owner",
-    "[09:10] <Jackbit4> big fan dude can u tp to me",
-    "[09:10] [BOT] <0_HienBot> **Jackbit4**: big fan dude can u tp to me",
-    "[09:10] <Jackbit4> im neww",
-    "[09:10] [BOT] <0_HienBot> **Jackbit4**: im neww",
-    "[09:10] <[OWNER✔] Leee> sure",
-    "[09:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:10] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
     "[09:10] <[OWNER✔] Leee> yoo",
     "[09:10] [BOT] <0_HienBot> **freddison**: yoo",
@@ -108,7 +98,17 @@
     "[09:11] <[OWNER✔] Leee> wtf is this",
     "[09:11] [BOT] <0_HienBot> **freddison**: wtf is this",
     "[09:11] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:11] [BOT] <0_HienBot> >Want free items? Just type survival"
+    "[09:11] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[09:11] <Jackbit4> survival",
+    "[09:11] [8b8t] >> Teleporting to home 0...",
+    "[09:11] [8b8t] >> Teleporting to home 1...",
+    "[09:11] [BOT] <0_HienBot> **Jackbit4**: survival",
+    "[09:11] To Jackbit4: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:11] To Jackbit4: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:11] [BOT] <0_HienBot> **Bot to Jackbit4**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:11] [8b8t] >> Request sent to Jackbit4",
+    "[09:12] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1513,12 +1513,12 @@
     "DrDisconect535": 15,
     "ZojiFujita": 7,
     "Missing0rchid": 1,
-    "Jackbit4": 1
+    "Jackbit4": 2
   },
   "kitStats": {
     "pvp": 2587,
     "raid": 777,
-    "survival": 2982,
+    "survival": 2983,
     "shulker": 1154,
     "music": 295,
     "terracotta": 50,
