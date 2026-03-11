@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:26:43 11/3/2026",
-  "totalKits": 110264,
-  "todayKits": 90,
-  "onlineCount": 11,
+  "lastUpdated": "18:27:01 11/3/2026",
+  "totalKits": 110265,
+  "todayKits": 91,
+  "onlineCount": 10,
   "peakPlayers": 21,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 12
   },
-  "tps": "14.0",
-  "ping": 204,
+  "tps": "16.0",
+  "ping": 327,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,20 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 976
+      "count": 977
     }
   ],
   "chatLog": [
-    "[11:22] <Bazuka_Edits> привет",
-    "[11:22] <cappuccino_> оооооо привет",
-    "[11:23] <Bazuka_Edits> иди на базу",
-    "[11:23] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[11:23] <Bazuka_Edits> это тебе",
-    "[11:23] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[11:23] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[11:23] <cappuccino_> о спасибаа",
-    "[11:24] [BOT] <0_HienBot> >Want free items? Just type survival",
-    "[11:24] <Bazuka_Edits> я играю в эту игру уже 9 лет и только щяс научился",
     "[11:24] [BOT] <0_HienBot> **Bazuka_Edits**: 9",
     "[11:24] <cappuccino_> хпахапааха",
     "[11:24] <Bazuka_Edits> кст",
@@ -108,7 +98,17 @@
     "[11:25] [BOT] <0_HienBot> >Type invite for invite rewards info",
     "[11:26] [BOT] <0_HienBot> >Use lang and select your language",
     "[11:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[11:26] [BOT] <0_HienBot> >Type discord"
+    "[11:26] [BOT] <0_HienBot> >Type discord",
+    "[11:26] <cappuccino_> dupe",
+    "[11:26] [8b8t] >> Teleporting to home 0...",
+    "[11:26] [8b8t] >> Teleporting to home 7...",
+    "[11:26] [BOT] <0_HienBot> **cappuccino_**: dupe",
+    "[11:26] To cappuccino_: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:26] To cappuccino_: Sorry! Pink Shulker Box is out of stock. Giving you Brown Shulker Box instead! dsc.gg/hienbot",
+    "[11:26] [BOT] <0_HienBot> **Bot to cappuccino_**: Sorry! Pink Shulker Box is out of stock. Giving you Brown Shulker Box instead! dsc.gg/hienbot",
+    "[11:26] [8b8t] >> Request sent to cappuccino_",
+    "[11:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1363,7 +1363,7 @@
     "SiC419AoR": 6,
     "LeWith1E": 2,
     "MineFlare": 15,
-    "cappuccino_": 36,
+    "cappuccino_": 37,
     ".Catan2181": 1,
     "mharyt_w": 1,
     "SergiolegendXD": 1,
@@ -1537,7 +1537,7 @@
     "build": 961,
     "dye": 80,
     "concrete": 135,
-    "dupe": 976,
+    "dupe": 977,
     "food": 268,
     "glass": 166,
     "elytra": 991,
