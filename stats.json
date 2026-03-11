@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:55:43 11/3/2026",
-  "totalKits": 110198,
-  "todayKits": 24,
+  "lastUpdated": "13:56:01 11/3/2026",
+  "totalKits": 110199,
+  "todayKits": 25,
   "onlineCount": 11,
   "peakPlayers": 19,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "17.0",
-  "ping": 204,
+  "tps": "16.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2978
+      "count": 2979
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:54] [8b8t] >> Teleporting to home 1...",
-    "[06:54] To shardah: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:54] To shardah: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[06:54] [BOT] <0_HienBot> **Bot to shardah**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[06:54] <ZojiFujita> tp me then shardah",
-    "[06:54] [BOT] <0_HienBot> **ZojiFujita**: tp me then shardah",
-    "[06:54] <shardah> survival",
-    "[06:54] [8b8t] >> Teleporting to home 0...",
-    "[06:54] [BOT] <0_HienBot> **shardah**: survival",
-    "[06:54] [8b8t] >> Teleporting to home 1...",
-    "[06:54] To shardah: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:54] To shardah: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:54] [BOT] <0_HienBot> **Bot to shardah**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:54] [8b8t] >> Request sent to shardah",
     "[06:54] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
@@ -108,7 +94,21 @@
     "[06:55] <DrDisconect535> i lost wings",
     "[06:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[06:55] [BOT] <0_HienBot> **DrDisconect535**: i lost wings",
-    "[06:55] [BOT] <0_HienBot> >Items for PVP and Building available in build"
+    "[06:55] [BOT] <0_HienBot> >Items for PVP and Building available in build",
+    "[06:55] <DrDisconect535> survival",
+    "[06:55] [8b8t] >> Teleporting to home 0...",
+    "[06:55] [BOT] <0_HienBot> **DrDisconect535**: survival",
+    "[06:55] [8b8t] >> Teleporting to home 1...",
+    "[06:55] To DrDisconect535: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:55] To DrDisconect535: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:55] [BOT] <0_HienBot> **Bot to DrDisconect535**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:55] <ZojiFujita> tp me shardah",
+    "[06:55] [8b8t] >> Request sent to DrDisconect535",
+    "[06:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:55] <ZojiFujita> scared",
+    "[06:55] [8b8t] >> Teleporting...",
+    "[06:55] [BOT] <0_HienBot> **ZojiFujita**: scared"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1510,13 +1510,13 @@
     "_Sdblzxx_": 2,
     "tastycolddog": 2,
     "VINEET_for_SURE": 1,
-    "DrDisconect535": 1,
+    "DrDisconect535": 2,
     "ZojiFujita": 2
   },
   "kitStats": {
     "pvp": 2579,
     "raid": 774,
-    "survival": 2978,
+    "survival": 2979,
     "shulker": 1154,
     "music": 294,
     "terracotta": 50,
