@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:18:45 11/3/2026",
-  "totalKits": 110168,
-  "todayKits": 3,
+  "lastUpdated": "12:18:55 11/3/2026",
+  "totalKits": 110169,
+  "todayKits": 4,
   "onlineCount": 14,
   "peakPlayers": 16,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 201,
   "topUsers": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "Azure772",
-      "count": 245
+      "count": 246
     },
     {
       "name": "Simone",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2971
+      "count": 2972
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:13] To kobthegoat14: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:13] [BOT] <0_HienBot> **Bot to kobthegoat14**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:13] [8b8t] >> Request sent to kobthegoat14",
-    "[05:13] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[05:13] Hien2309 Whispers: gay",
-    "[05:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:13] [8b8t] >> Teleporting...",
-    "[05:13] [8b8t] >> You have killed yourself!",
-    "[05:13] To kobthegoat14: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[05:13] [BOT] <0_HienBot> **Bot to kobthegoat14**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[05:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[05:14] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
@@ -108,7 +98,17 @@
     "[05:18] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[05:18] [BOT] <0_HienBot> >Try list to see available kits",
     "[05:18] <keivdeil> alguien tiene cfg",
-    "[05:18] [BOT] <0_HienBot> **keivdeil**: alguien tiene cfg"
+    "[05:18] [BOT] <0_HienBot> **keivdeil**: alguien tiene cfg",
+    "[05:18] <Azure772> survival",
+    "[05:18] [BOT] <0_HienBot> **Azure772**: survival",
+    "[05:18] [8b8t] >> Teleporting to home 0...",
+    "[05:18] [8b8t] >> Teleporting to home 1...",
+    "[05:18] To Azure772: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:18] To Azure772: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:18] [BOT] <0_HienBot> **Bot to Azure772**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:18] [8b8t] >> Request sent to Azure772",
+    "[05:18] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 245,
+    "Azure772": 246,
     "kobthegoat14": 128,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1513,7 +1513,7 @@
   "kitStats": {
     "pvp": 2574,
     "raid": 773,
-    "survival": 2971,
+    "survival": 2972,
     "shulker": 1152,
     "music": 293,
     "terracotta": 50,
