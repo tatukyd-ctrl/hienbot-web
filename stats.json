@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:49:14 11/3/2026",
+  "lastUpdated": "22:49:44 11/3/2026",
   "totalKits": 110345,
   "todayKits": 171,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 31,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 14
   },
-  "tps": "10.0",
-  "ping": 203,
+  "tps": "11.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2615
+      "count": 2616
     },
     {
       "name": "shulker",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:47] To cwchackclient: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:47] [BOT] <0_HienBot> **Bot to cwchackclient**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[15:47] [XMAS2025] <Tobias> kurtz cuando traemos un camello zombi aqui",
-    "[15:47] [BOT] <0_HienBot> **i_am_tobias**: kurtz cuando traemos un camello zombi aqui",
-    "[15:47] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[15:47] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[15:48] cwchackclient Whispers: *kit pvp",
-    "[15:48] [8b8t] >> Teleporting to home 0...",
-    "[15:48] [BOT] <0_HienBot> **cwchackclient**: *kit pvp",
-    "[15:48] [8b8t] >> Teleporting to home 1...",
-    "[15:48] To cwchackclient: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:48] BiasRuby4589 has made the advancement [Diamonds!]",
     "[15:48] To cwchackclient: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[15:48] [BOT] <0_HienBot> **Bot to cwchackclient**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[15:48] [Ultra] <KurtzMC> eso existe",
@@ -108,7 +93,22 @@
     "[15:48] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[15:49] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[15:49] [XMAS2025] <Tobias> traigo yo",
-    "[15:49] [BOT] <0_HienBot> **i_am_tobias**: traigo yo"
+    "[15:49] [BOT] <0_HienBot> **i_am_tobias**: traigo yo",
+    "[15:49] cwchackclient Whispers: *kit pvp",
+    "[15:49] [8b8t] >> Teleporting to home 0...",
+    "[15:49] [BOT] <0_HienBot> **cwchackclient**: *kit pvp",
+    "[15:49] [8b8t] >> Teleporting to home 1...",
+    "[15:49] To cwchackclient: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:49] [Ultra] <KurtzMC> hay aqui",
+    "[15:49] [BOT] <0_HienBot> **KurtzMC**: hay aqui",
+    "[15:49] To cwchackclient: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:49] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me",
+    "[15:49] <BiasRuby4589> can i tp to anyone that isnt in the spawn area,like in a non griefed place?",
+    "[15:49] [BOT] <0_HienBot> **BiasRuby4589**: can i tp to anyone that isnt in the spawn area,like in a non griefed place?",
+    "[15:49] [XMAS2025] <Tobias> que pereza",
+    "[15:49] [BOT] <0_HienBot> **i_am_tobias**: que pereza"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1526,10 +1526,10 @@
     "rvlkm": 1,
     "DeathDragon13": 12,
     "BiasRuby4589": 2,
-    "cwchackclient": 2
+    "cwchackclient": 3
   },
   "kitStats": {
-    "pvp": 2615,
+    "pvp": 2616,
     "raid": 784,
     "survival": 3014,
     "shulker": 1163,
