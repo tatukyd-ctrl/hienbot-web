@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:22:13 11/3/2026",
-  "totalKits": 110296,
-  "todayKits": 122,
+  "lastUpdated": "20:22:33 11/3/2026",
+  "totalKits": 110297,
+  "todayKits": 123,
   "onlineCount": 19,
   "peakPlayers": 23,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "17.0",
+  "tps": "12.0",
   "ping": 202,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3003
+      "count": 3004
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:19] <oradiminou> WHO IS IN MY BASE?",
-    "[13:19] [BOT] <0_HienBot> **oradiminou**: WHO IS IN MY BASE?",
-    "[13:19] <Migzin> kit tools",
-    "[13:19] To Migzin: You're on cooldown, try again in 21 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:19] [BOT] <0_HienBot> **Migzin**: kit tools",
-    "[13:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:19] <oradiminou> IM FRIENDLY",
-    "[13:19] [BOT] <0_HienBot> **oradiminou**: IM FRIENDLY",
-    "[13:19] <meetmathur> bro",
-    "[13:19] [BOT] <0_HienBot> **meetmathur**: bro",
-    "[13:19] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
     "[13:20] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
     "[13:20] <meetmathur> tf",
     "[13:20] [BOT] <0_HienBot> **meetmathur**: tf",
@@ -108,7 +97,18 @@
     "[13:21] [BOT] <0_HienBot> >Try dupe",
     "[13:21] [8b8t] >> You have killed yourself!",
     "[13:21] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[13:22] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[13:22] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[13:22] <Migzin> survival",
+    "[13:22] [8b8t] >> Teleporting to home 0...",
+    "[13:22] [BOT] <0_HienBot> **Migzin**: survival",
+    "[13:22] [8b8t] >> Teleporting to home 1...",
+    "[13:22] To Migzin: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:22] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
+    "[13:22] To Migzin: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:22] [8b8t] >> Request sent to Migzin",
+    "[13:22] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1424,7 +1424,7 @@
     "WolfKnight17388": 3,
     "SrWindows": 1,
     "Ag3ntGT": 1,
-    "Migzin": 40,
+    "Migzin": 41,
     "dayabito23567": 2,
     ".Pancakes043025": 3,
     "itsnotlukke": 15,
@@ -1526,7 +1526,7 @@
   "kitStats": {
     "pvp": 2607,
     "raid": 781,
-    "survival": 3003,
+    "survival": 3004,
     "shulker": 1159,
     "music": 297,
     "terracotta": 50,
