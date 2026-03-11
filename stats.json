@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:49:13 11/3/2026",
+  "lastUpdated": "21:49:43 11/3/2026",
   "totalKits": 110321,
   "todayKits": 147,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 23,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "14.0",
-  "ping": 203,
+  "tps": "13.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3010
+      "count": 3011
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:48] <Ribzz_> list",
-    "[14:48] To Ribzz_: Hello Ribzz_!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:48] [BOT] <0_HienBot> **Ribzz_**: list",
-    "[14:48] <SilverWolfChina> Is anyone here?",
-    "[14:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:48] <Ribzz_> PVP",
-    "[14:48] [8b8t] >> Teleporting to home 0...",
-    "[14:48] [BOT] <0_HienBot> **Ribzz_**: PVP",
-    "[14:48] [8b8t] >> Teleporting to home 1...",
-    "[14:48] To Ribzz_: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:48] To Ribzz_: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[14:48] [BOT] <0_HienBot> **Bot to Ribzz_**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[14:48] <Ribzz_> pvp",
     "[14:48] [8b8t] >> Teleporting to home 0...",
     "[14:48] [BOT] <0_HienBot> **Ribzz_**: pvp",
@@ -108,7 +94,21 @@
     "[14:48] [BOT] <0_HienBot> **oradiminou**: 4",
     "[14:48] <oradiminou> 3",
     "[14:48] [BOT] <0_HienBot> **oradiminou**: 3",
-    "[14:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[14:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[14:49] <oradiminou> 1",
+    "[14:49] [BOT] <0_HienBot> **oradiminou**: 1",
+    "[14:49] <oradiminou> 0",
+    "[14:49] [BOT] <0_HienBot> **oradiminou**: 0",
+    "[14:49] [BOT] <0_HienBot> >Running low on supplies? Use survival",
+    "[14:49] <Ribzz_> survival",
+    "[14:49] [8b8t] >> Teleporting to home 0...",
+    "[14:49] [BOT] <0_HienBot> **Ribzz_**: survival",
+    "[14:49] [8b8t] >> Teleporting to home 1...",
+    "[14:49] To Ribzz_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:49] To Ribzz_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:49] [BOT] <0_HienBot> **Bot to Ribzz_**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:49] [8b8t] >> Request sent to Ribzz_"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1489,7 +1489,7 @@
     "aynnny2": 5,
     "MihalFoundU": 14,
     "cherryberrylv": 54,
-    "Ribzz_": 45,
+    "Ribzz_": 46,
     "HipsterSpaceRat": 1,
     "Geracl22": 2,
     "FG41": 5,
@@ -1528,7 +1528,7 @@
   "kitStats": {
     "pvp": 2610,
     "raid": 782,
-    "survival": 3010,
+    "survival": 3011,
     "shulker": 1161,
     "music": 298,
     "terracotta": 50,
