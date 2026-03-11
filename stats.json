@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:01:15 12/3/2026",
-  "totalKits": 110480,
-  "todayKits": 306,
-  "onlineCount": 33,
+  "lastUpdated": "04:01:37 12/3/2026",
+  "totalKits": 110481,
+  "todayKits": 307,
+  "onlineCount": 34,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "23:29:48 11/3/2026",
     "avg": 19
   },
-  "tps": "17.0",
-  "ping": 205,
+  "tps": "15.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3084
+      "count": 3085
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:00] [8b8t] >> You have killed yourself!",
-    "[21:00] To LTjamston39: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:00] <Migzin> pvp",
-    "[21:00] [8b8t] >> Teleporting to home 0...",
-    "[21:00] [BOT] <0_HienBot> **Bot to LTjamston39**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:00] [8b8t] >> Teleporting to home 1...",
-    "[21:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:00] To Migzin: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:00] To Migzin: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[21:00] [BOT] <0_HienBot> **Bot to Migzin**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[21:00] <Migzin> stash",
-    "[21:00] [8b8t] >> Teleporting to home 0...",
-    "[21:00] [BOT] <0_HienBot> **Migzin**: stash",
-    "[21:00] [8b8t] >> Teleporting to home 2...",
-    "[21:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:00] To Migzin: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[21:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[21:00] To Migzin: Sorry! White Shulker Box is out of stock. Giving you Gray Shulker Box instead! dsc.gg/hienbot",
     "[21:00] [BOT] <0_HienBot> **Bot to Migzin**: Sorry! White Shulker Box is out of stock. Giving you Gray Shulker Box instead! dsc.gg/hienbot",
@@ -108,7 +91,24 @@
     "[21:00] [BOT] <0_HienBot> **Bot to Migzin**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[21:00] Kurisu has reached the goal [Postmortal]",
     "[21:00] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
-    "[21:01] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[21:01] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[21:01] [BOT] <0_HienBot> >Get fully equipped with pvp",
+    "[21:01] <Engine_963> survival",
+    "[21:01] [8b8t] >> Teleporting to home 0...",
+    "[21:01] [BOT] <0_HienBot> **Engine_963**: survival",
+    "[21:01] [8b8t] >> Teleporting to home 1...",
+    "[21:01] To Engine_963: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:01] <TheobaldTheBird> see",
+    "[21:01] To TheobaldTheBird: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[21:01] [BOT] <0_HienBot> **TheobaldTheBird**: see",
+    "[21:01] To Engine_963: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:01] [8b8t] >> Request sent to Engine_963",
+    "[21:01] [8b8t] >> Teleporting...",
+    "[21:01] <TheobaldTheBird> wth",
+    "[21:01] [BOT] <0_HienBot> **TheobaldTheBird**: wth"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1542,12 +1542,12 @@
     "03032026CS": 12,
     "xxx_pidor124_xxx": 2,
     "kuba_14235": 1,
-    "Engine_963": 6
+    "Engine_963": 7
   },
   "kitStats": {
     "pvp": 2660,
     "raid": 798,
-    "survival": 3084,
+    "survival": 3085,
     "shulker": 1175,
     "music": 304,
     "terracotta": 50,
