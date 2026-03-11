@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:46:15 11/3/2026",
-  "totalKits": 110156,
-  "todayKits": 0,
+  "lastUpdated": "10:46:28 11/3/2026",
+  "totalKits": 110157,
+  "todayKits": 1,
   "onlineCount": 13,
   "peakPlayers": 15,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 14
   },
-  "tps": "15.0",
-  "ping": 203,
+  "tps": "13.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:41] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[03:41] You were kicked from 8b8t: Timed out",
-    "[03:41] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[03:41] [8b8t] Unknown command do /help",
-    "[03:41] [8b8t] Unknown command do /help",
-    "[03:41] [8b8t] Unknown command do /help",
-    "[03:41] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[03:41] You are already connected to this server!",
-    "[03:41] You are already connected to this server!",
-    "[03:41] <_Sdblzxx_> Q gay",
     "[03:41] [BOT] <0_HienBot> **_Sdblzxx_**: Q gay",
     "[03:42] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
     "[03:42] <_Sdblzxx_> Tel viv",
@@ -108,7 +98,17 @@
     "[03:45] [BOT] <0_HienBot> >Try stash",
     "[03:45] <_Sdblzxx_> Qn responde",
     "[03:45] [BOT] <0_HienBot> **_Sdblzxx_**: Qn responde",
-    "[03:46] [BOT] <0_HienBot> >Try dupe"
+    "[03:46] [BOT] <0_HienBot> >Try dupe",
+    "[03:46] <_Sdblzxx_> JOurney",
+    "[03:46] [8b8t] >> Teleporting to home 0...",
+    "[03:46] [8b8t] >> Teleporting to home 5...",
+    "[03:46] [BOT] <0_HienBot> **_Sdblzxx_**: JOurney",
+    "[03:46] To _Sdblzxx_: Your kit (journey) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:46] To _Sdblzxx_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:46] [BOT] <0_HienBot> **Bot to _Sdblzxx_**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:46] [8b8t] >> Request sent to _Sdblzxx_",
+    "[03:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1507,7 +1507,7 @@
     "MONZ4200": 2,
     "Re_Fresh2000": 1,
     "2_HienBot": 1,
-    "_Sdblzxx_": 1
+    "_Sdblzxx_": 2
   },
   "kitStats": {
     "pvp": 2573,
@@ -1538,6 +1538,6 @@
     "mineral": 338,
     "gterracotta": 39,
     "wood": 347,
-    "end": 252
+    "end": 253
   }
 }
