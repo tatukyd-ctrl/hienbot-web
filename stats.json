@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:52:44 11/3/2026",
+  "lastUpdated": "22:53:14 11/3/2026",
   "totalKits": 110347,
   "todayKits": 173,
-  "onlineCount": 33,
+  "onlineCount": 31,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2616
+      "count": 2617
     },
     {
       "name": "shulker",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:50] cwchackclient Whispers: *kit surver",
-    "[15:50] [BOT] <0_HienBot> **Bot to BiasRuby4589**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[15:50] [8b8t] >> Teleporting to home 0...",
-    "[15:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:50] [8b8t] >> Teleporting to home 1...",
-    "[15:50] To cwchackclient: Kit \"surver\" not found! Giving you (survival) instead! dsc.gg/hienbot",
-    "[15:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:50] To cwchackclient: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:50] [8b8t] >> Please do not spam.",
     "[15:50] [8b8t] >> Request sent to cwchackclient",
     "[15:50] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[15:50] drecobloxird has made the advancement [A Terrible Fortress]",
@@ -108,7 +99,16 @@
     "[15:52] <Vajk420> can someone bless me with a kit?",
     "[15:52] [BOT] <0_HienBot> **Vajk420**: can someone bless me with a kit?",
     "[15:52] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[15:52] [BOT] <0_HienBot> >Use list to choose your kit"
+    "[15:52] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[15:52] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
+    "[15:53] <DeathDragon13> pvp",
+    "[15:53] [8b8t] >> Teleporting to home 0...",
+    "[15:53] [8b8t] >> Teleporting to home 1...",
+    "[15:53] [BOT] <0_HienBot> **DeathDragon13**: pvp",
+    "[15:53] To DeathDragon13: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:53] To DeathDragon13: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[15:53] [BOT] <0_HienBot> **Bot to DeathDragon13**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1524,12 +1524,12 @@
     "Bananenmilch33": 3,
     "flam": 1,
     "rvlkm": 1,
-    "DeathDragon13": 12,
+    "DeathDragon13": 13,
     "BiasRuby4589": 3,
     "cwchackclient": 4
   },
   "kitStats": {
-    "pvp": 2616,
+    "pvp": 2617,
     "raid": 784,
     "survival": 3016,
     "shulker": 1163,
