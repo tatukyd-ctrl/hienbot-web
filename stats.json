@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:44:13 11/3/2026",
+  "lastUpdated": "20:44:43 11/3/2026",
   "totalKits": 110306,
   "todayKits": 132,
-  "onlineCount": 22,
+  "onlineCount": 19,
   "peakPlayers": 23,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "14.0",
-  "ping": 204,
+  "tps": "16.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2607
+      "count": 2608
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:41] <oradiminou> raid",
-    "[13:41] To oradiminou: You're on cooldown, try again in 3 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:41] [8b8t] >> Please do not spam.",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:41] <oradiminou> raid",
-    "[13:41] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[13:41] [8b8t] >> Teleporting to home 0...",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:41] [8b8t] >> Teleporting to home 2...",
-    "[13:41] To oradiminou: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:41] To oradiminou: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:41] [BOT] <0_HienBot> **Bot to oradiminou**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:41] [8b8t] >> Request sent to oradiminou",
     "[13:41] [8b8t] >> Teleporting...",
@@ -108,7 +96,19 @@
     "[13:43] [BOT] <0_HienBot> >Type discord",
     "[13:44] <TylerDurden098> >who want kits",
     "[13:44] [BOT] <0_HienBot> **TylerDurden098**: >who want kits",
-    "[13:44] BOBAH152 has made the advancement [Withering Heights]"
+    "[13:44] BOBAH152 has made the advancement [Withering Heights]",
+    "[13:44] ncvbbgh has made the advancement [Ice Bucket Challenge]",
+    "[13:44] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[13:44] Wentylll has made the advancement [We Need to Go Deeper]",
+    "[13:44] <flam> pvp",
+    "[13:44] [BOT] <0_HienBot> **flam**: pvp",
+    "[13:44] [8b8t] >> Teleporting to home 0...",
+    "[13:44] [8b8t] >> Teleporting to home 1...",
+    "[13:44] To flam: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:44] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[13:44] To flam: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:44] [BOT] <0_HienBot> **Bot to flam**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1521,10 +1521,11 @@
     "akozlov50": 1,
     "AniiiiZ": 12,
     "ItzRealMe.": 1,
-    "Bananenmilch33": 3
+    "Bananenmilch33": 3,
+    "flam": 1
   },
   "kitStats": {
-    "pvp": 2607,
+    "pvp": 2608,
     "raid": 782,
     "survival": 3005,
     "shulker": 1159,
