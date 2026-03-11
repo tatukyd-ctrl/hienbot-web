@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:34:13 11/3/2026",
+  "lastUpdated": "19:34:43 11/3/2026",
   "totalKits": 110276,
   "todayKits": 102,
   "onlineCount": 16,
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 12
   },
-  "tps": "17.0",
+  "tps": "15.0",
   "ping": 202,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2600
+      "count": 2601
     },
     {
       "name": "shulker",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:28] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[12:28] [8b8t] Unknown command do /help",
-    "[12:28] [8b8t] Unknown command do /help",
-    "[12:28] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[12:28] You are already connected to this server!",
-    "[12:28] You are already connected to this server!",
-    "[12:28] <Bazuka_Edits> блять",
-    "[12:29] <idkyougoaway> i am in spawn dark night",
-    "[12:29] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[12:29] [8b8t] >> Use the command /login <password>.",
     "[12:29] [8b8t] >> You have successfully logged.",
     "[12:29] [8b8t] Unknown command do /help",
@@ -108,7 +99,16 @@
     "[12:33] [BOT] <0_HienBot> >Running low on supplies? Use survival",
     "[12:33] Booooo has made the advancement [We Need to Go Deeper]",
     "[12:33] [BOT] <0_HienBot> >Hi CuloGangTobias!",
-    "[12:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[12:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[12:34] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[12:34] <meetmathur> pvp",
+    "[12:34] [BOT] <0_HienBot> **meetmathur**: pvp",
+    "[12:34] [8b8t] >> Teleporting to home 0...",
+    "[12:34] [8b8t] >> Teleporting to home 1...",
+    "[12:34] To meetmathur: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:34] To meetmathur: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[12:34] [BOT] <0_HienBot> **Bot to meetmathur**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1497,7 +1497,7 @@
     "HighwayBuilder20": 4,
     "In_Game_Account": 2,
     "highway_cleaner": 9,
-    "meetmathur": 9,
+    "meetmathur": 10,
     "drecobloxird": 2,
     "AstroBlox501578": 3,
     "Enero": 1,
@@ -1521,7 +1521,7 @@
     "akozlov50": 1
   },
   "kitStats": {
-    "pvp": 2600,
+    "pvp": 2601,
     "raid": 781,
     "survival": 2997,
     "shulker": 1158,
