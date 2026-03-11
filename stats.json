@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:06:13 11/3/2026",
+  "lastUpdated": "17:06:43 11/3/2026",
   "totalKits": 110254,
   "todayKits": 80,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 21,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 12
   },
-  "tps": "11.0",
+  "tps": "15.0",
   "ping": 201,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2589
+      "count": 2590
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:59] [BOT] <0_HienBot> >Try status",
-    "[09:59] <alexeldios> status",
-    "[09:59] To alexeldios: Total kits: 110254 | Today: 80 Don't forget to join dsc.gg/hienbot",
-    "[09:59] [BOT] <0_HienBot> **alexeldios**: status",
-    "[09:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:59] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:59] [BOT] <0_HienBot> >Want free items? Just type survival",
-    "[10:00] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[10:00] <chopstickswonton> more corrupted chunks in the nether",
-    "[10:00] [BOT] <0_HienBot> **chopstickswonton**: more corrupted chunks in the nether",
     "[10:00] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
     "[10:01] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[10:01] [BOT] <0_HienBot> >Use list to choose your kit",
@@ -108,7 +98,17 @@
     "[10:05] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
     "[10:05] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:05] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[10:06] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp"
+    "[10:06] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
+    "[10:06] <alexeldios> pvp",
+    "[10:06] [8b8t] >> Teleporting to home 0...",
+    "[10:06] [8b8t] >> Teleporting to home 1...",
+    "[10:06] [BOT] <0_HienBot> **alexeldios**: pvp",
+    "[10:06] To alexeldios: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:06] To alexeldios: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:06] [BOT] <0_HienBot> **Bot to alexeldios**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:06] chopstickswonton has made the advancement [A Terrible Fortress]",
+    "[10:06] [BOT] <0_HienBot> >Try status"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1516,11 +1516,11 @@
     "Jackbit4": 7,
     "chopstickswonton": 15,
     ".NatYeet12342391": 1,
-    "alexeldios": 13,
+    "alexeldios": 14,
     "tbhtula": 1
   },
   "kitStats": {
-    "pvp": 2589,
+    "pvp": 2590,
     "raid": 779,
     "survival": 2993,
     "shulker": 1157,
