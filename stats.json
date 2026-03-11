@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:21:13 11/3/2026",
+  "lastUpdated": "21:21:43 11/3/2026",
   "totalKits": 110315,
   "todayKits": 141,
-  "onlineCount": 15,
+  "onlineCount": 16,
   "peakPlayers": 23,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "16.0",
+  "tps": "14.0",
   "ping": 202,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3007
+      "count": 3008
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:17] [8b8t] >> Request sent to Migzin",
-    "[14:17] [8b8t] >> Teleporting...",
-    "[14:17] [8b8t] >> You have killed yourself!",
-    "[14:17] To Migzin: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[14:17] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:17] [BOT] <0_HienBot> **Bot to Migzin**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[14:17] [BOT] <0_HienBot> >Try status",
-    "[14:18] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[14:18] Migzin has made the advancement [Acquire Hardware]",
     "[14:18] [BOT] <0_HienBot> >Hi Leeewiith3Es!",
     "[14:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[14:19] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
@@ -108,7 +98,17 @@
     "[14:19] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[14:20] [BOT] <0_HienBot> >Bot created by Hien2309.",
     "[14:20] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[14:20] [BOT] <0_HienBot> >Get fully equipped with pvp"
+    "[14:20] [BOT] <0_HienBot> >Get fully equipped with pvp",
+    "[14:21] [BOT] <0_HienBot> >Running low on supplies? Use survival",
+    "[14:21] <rvlkm> survival",
+    "[14:21] [BOT] <0_HienBot> **rvlkm**: survival",
+    "[14:21] [8b8t] >> Teleporting to home 0...",
+    "[14:21] [8b8t] >> Teleporting to home 1...",
+    "[14:21] To rvlkm: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:21] [BOT] <0_HienBot> **Bot to rvlkm**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:21] To rvlkm: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:21] [BOT] <0_HienBot> **Bot to rvlkm**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:21] [8b8t] >> Request sent to rvlkm"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1522,12 +1522,13 @@
     "AniiiiZ": 12,
     "ItzRealMe.": 1,
     "Bananenmilch33": 3,
-    "flam": 1
+    "flam": 1,
+    "rvlkm": 1
   },
   "kitStats": {
     "pvp": 2608,
     "raid": 782,
-    "survival": 3007,
+    "survival": 3008,
     "shulker": 1160,
     "music": 298,
     "terracotta": 50,
