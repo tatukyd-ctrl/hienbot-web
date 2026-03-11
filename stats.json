@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:38:30 12/3/2026",
+  "lastUpdated": "03:38:45 12/3/2026",
   "totalKits": 110458,
   "todayKits": 284,
-  "onlineCount": 32,
+  "onlineCount": 35,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "23:29:48 11/3/2026",
     "avg": 19
   },
-  "tps": "17.0",
+  "tps": "11.0",
   "ping": 206,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3075
+      "count": 3076
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:37] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[20:37] <TheobaldTheBird> ?",
-    "[20:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:37] <Engine_963> Tpa to me",
-    "[20:37] [BOT] <0_HienBot> **Engine_963**: Tpa to me",
-    "[20:37] [8b8t] >> You have killed yourself!",
-    "[20:37] [8b8t] >> The TPA request you sent to Engine_963 was successfully canceled.",
-    "[20:37] <Engine_963> survival",
-    "[20:37] To Engine_963: You're on cooldown, try again in 49 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:37] [BOT] <0_HienBot> **Engine_963**: survival",
-    "[20:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:37] <Engine_963> dude",
     "[20:37] [BOT] <0_HienBot> **Engine_963**: dude",
     "[20:37] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
     "[20:38] <Migzin> hahaha",
@@ -108,7 +95,20 @@
     "[20:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:38] [8b8t] >> Teleporting...",
     "[20:38] <TheobaldTheBird> engine wait 2 sec",
-    "[20:38] [BOT] <0_HienBot> **TheobaldTheBird**: engine wait 2 sec"
+    "[20:38] [BOT] <0_HienBot> **TheobaldTheBird**: engine wait 2 sec",
+    "[20:38] <Engine_963> LMAO",
+    "[20:38] [8b8t] >> You have killed yourself!",
+    "[20:38] [BOT] <0_HienBot> **Engine_963**: LMAO",
+    "[20:38] To Migzin: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:38] [BOT] <0_HienBot> **Bot to Migzin**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:38] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[20:38] <Migzin> 2 kits? jackpot",
+    "[20:38] <Engine_963> survival",
+    "[20:38] [8b8t] >> Teleporting to home 0...",
+    "[20:38] [BOT] <0_HienBot> **Migzin**: 2 kits? jackpot",
+    "[20:38] [8b8t] >> Teleporting to home 1...",
+    "[20:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:38] To Engine_963: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1542,12 +1542,12 @@
     "03032026CS": 5,
     "xxx_pidor124_xxx": 1,
     "kuba_14235": 1,
-    "Engine_963": 3
+    "Engine_963": 4
   },
   "kitStats": {
     "pvp": 2655,
     "raid": 793,
-    "survival": 3075,
+    "survival": 3076,
     "shulker": 1174,
     "music": 303,
     "terracotta": 50,
