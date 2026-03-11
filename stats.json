@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:19:43 11/3/2026",
+  "lastUpdated": "17:20:13 11/3/2026",
   "totalKits": 110256,
   "todayKits": 82,
-  "onlineCount": 13,
+  "onlineCount": 14,
   "peakPlayers": 21,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 12
   },
   "tps": "14.0",
-  "ping": 259,
+  "ping": 242,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,11 +59,11 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2993
+      "count": 2994
     },
     {
       "name": "pvp",
-      "count": 2594
+      "count": 2595
     },
     {
       "name": "shulker",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:17] <[MOD✔] freddison> i can fly",
-    "[10:17] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[10:17] [BOT] <0_HienBot> **freddison**: i can fly",
-    "[10:17] <quanbel> ok go",
-    "[10:17] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[10:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:17] <[MOD✔] freddison> magic",
-    "[10:17] [8b8t] >> Teleporting to home 0...",
-    "[10:17] [BOT] <0_HienBot> **freddison**: magic",
-    "[10:17] [8b8t] >> Teleporting to home 5...",
-    "[10:17] To freddison: Your kit (magic) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:17] To freddison: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:17] [BOT] <0_HienBot> **Bot to freddison**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:17] [8b8t] >> Request sent to freddison",
-    "[10:17] [8b8t] >> Teleporting...",
-    "[10:18] [8b8t] >> You have killed yourself!",
     "[10:18] [BOT] <0_HienBot> >Try dupe",
     "[10:18] <quanbel> wdym?",
     "[10:18] [BOT] <0_HienBot> **quanbel**: wdym?",
@@ -108,7 +91,24 @@
     "[10:19] [BOT] <0_HienBot> **freddison**: no",
     "[10:19] <ryooq> yo",
     "[10:19] [BOT] <0_HienBot> **ryooq**: yo",
-    "[10:19] [BOT] <0_HienBot> >Try /cosmetics to change your name color!"
+    "[10:19] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
+    "[10:19] <quanbel> bruh",
+    "[10:19] [BOT] <0_HienBot> **quanbel**: bruh",
+    "[10:20] <quanbel> pvp",
+    "[10:20] [8b8t] >> Teleporting to home 0...",
+    "[10:20] [8b8t] >> Teleporting to home 1...",
+    "[10:20] [BOT] <0_HienBot> **quanbel**: pvp",
+    "[10:20] To quanbel: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:20] To quanbel: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:20] [BOT] <0_HienBot> **Bot to quanbel**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:20] <quanbel> survival",
+    "[10:20] [8b8t] >> Teleporting to home 0...",
+    "[10:20] [BOT] <0_HienBot> **quanbel**: survival",
+    "[10:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:20] [8b8t] >> Teleporting to home 1...",
+    "[10:20] To quanbel: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:20] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1176,7 +1176,7 @@
     "KEDY32": 8,
     "Ozi1230YT": 6,
     ".PepeChuyHS": 19,
-    "quanbel": 31,
+    "quanbel": 33,
     "Boxx": 4,
     "Ascalter40": 197,
     "eFenek": 6,
@@ -1520,9 +1520,9 @@
     "tbhtula": 1
   },
   "kitStats": {
-    "pvp": 2594,
+    "pvp": 2595,
     "raid": 779,
-    "survival": 2993,
+    "survival": 2994,
     "shulker": 1157,
     "music": 297,
     "terracotta": 50,
