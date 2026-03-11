@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:53:15 12/3/2026",
-  "totalKits": 110433,
-  "todayKits": 259,
-  "onlineCount": 31,
+  "lastUpdated": "02:53:41 12/3/2026",
+  "totalKits": 110434,
+  "todayKits": 260,
+  "onlineCount": 32,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "23:29:48 11/3/2026",
     "avg": 18
   },
-  "tps": "14.0",
+  "tps": "12.0",
   "ping": 205,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2646
+      "count": 2647
     },
     {
       "name": "shulker",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:51] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
-    "[19:52] [Ultra] <KurtzMC> focoloa",
-    "[19:52] [BOT] <0_HienBot> **KurtzMC**: focoloa",
-    "[19:52] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[19:52] <vydraken> survival",
-    "[19:52] [8b8t] >> Teleporting to home 0...",
-    "[19:52] [BOT] <0_HienBot> **vydraken**: survival",
-    "[19:52] [8b8t] >> Teleporting to home 1...",
-    "[19:52] To vydraken: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:52] To vydraken: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:52] [BOT] <0_HienBot> **Bot to vydraken**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:52] [8b8t] >> Request sent to vydraken",
-    "[19:52] [8b8t] >> Teleporting...",
-    "[19:52] [Ultra] <Kimaru> q",
-    "[19:52] [BOT] <0_HienBot> **focoloa**: q",
-    "[19:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:52] [8b8t] >> You have killed yourself!",
-    "[19:52] <progyerekecske> valaki magyar?",
     "[19:52] [BOT] <0_HienBot> **progyerekecske**: valaki magyar?",
     "[19:52] To vydraken: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[19:52] [BOT] <0_HienBot> **Bot to vydraken**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +89,26 @@
     "[19:53] <progyerekecske> valaki magyar?",
     "[19:53] [BOT] <0_HienBot> **progyerekecske**: valaki magyar?",
     "[19:53] <03032026CS> how to use kit cmd",
-    "[19:53] [BOT] <0_HienBot> **03032026CS**: how to use kit cmd"
+    "[19:53] [BOT] <0_HienBot> **03032026CS**: how to use kit cmd",
+    "[19:53] <03032026CS> list",
+    "[19:53] To 03032026CS: Hello 03032026CS!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[19:53] [BOT] <0_HienBot> **03032026CS**: list",
+    "[19:53] <03032026CS> pvp",
+    "[19:53] [8b8t] >> Teleporting to home 0...",
+    "[19:53] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[19:53] [8b8t] >> Teleporting to home 1...",
+    "[19:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:53] To 03032026CS: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:53] To 03032026CS: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:53] [BOT] <0_HienBot> **Bot to 03032026CS**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:53] [8b8t] >> Request sent to 03032026CS",
+    "[19:53] <drecobloxird> raid",
+    "[19:53] To drecobloxird: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[19:53] [BOT] <0_HienBot> **drecobloxird**: raid",
+    "[19:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:53] [8b8t] >> Teleporting...",
+    "[19:53] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1538,10 +1538,11 @@
     "KyGaming1212": 1,
     "vydraken": 2,
     "Quantumn_riv": 3,
-    "gr4nite": 1
+    "gr4nite": 1,
+    "03032026CS": 1
   },
   "kitStats": {
-    "pvp": 2646,
+    "pvp": 2647,
     "raid": 789,
     "survival": 3058,
     "shulker": 1174,
