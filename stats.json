@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:16:43 11/3/2026",
-  "totalKits": 110227,
-  "todayKits": 53,
-  "onlineCount": 15,
+  "lastUpdated": "16:17:13 11/3/2026",
+  "totalKits": 110228,
+  "todayKits": 54,
+  "onlineCount": 16,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 12
   },
-  "tps": "15.0",
-  "ping": 788,
+  "tps": "13.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2986
+      "count": 2987
     },
     {
       "name": "pvp",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:15] [BOT] <0_HienBot> **Bot to chopstickswonton**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[09:15] [BOT] <0_HienBot> >Items for PVP and Building available in build",
-    "[09:16] <.DomiO8691> what happened",
-    "[09:16] [BOT] <0_HienBot> **.DomiO8691**: what happened",
-    "[09:16] <TylerDurden098> survival",
-    "[09:16] [8b8t] >> Teleporting to home 0...",
-    "[09:16] [8b8t] >> Teleporting to home 1...",
-    "[09:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:16] To TylerDurden098: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:16] [BOT] <0_HienBot> **Bot to TylerDurden098**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:16] <Azure772> out base got e crystaled",
-    "[09:16] To TylerDurden098: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:16] [BOT] <0_HienBot> **Azure772**: out base got e crystaled",
-    "[09:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:16] [8b8t] >> Request sent to TylerDurden098",
-    "[09:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:16] [8b8t] >> Teleporting...",
-    "[09:16] <killercat> help me",
-    "[09:16] [BOT] <0_HienBot> **killercat**: help me",
-    "[09:16] [8b8t] >> You have killed yourself!",
-    "[09:16] <Azure772> ty",
     "[09:16] To TylerDurden098: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:16] [BOT] <0_HienBot> **Azure772**: ty",
     "[09:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +86,29 @@
     "[09:16] [BOT] <0_HienBot> **.NatYeet12342391**: HELP ME",
     "[09:16] <[MOD✔] freddison> t",
     "[09:16] [BOT] <0_HienBot> **freddison**: t",
-    "[09:16] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[09:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:16] <[MOD✔] freddison> Azure772 lemme see",
+    "[09:16] [BOT] <0_HienBot> **freddison**: Azure772 lemme see",
+    "[09:16] <killercat> thank s bro",
+    "[09:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:16] <[MOD✔] freddison> and DONT crystal me",
+    "[09:16] [BOT] <0_HienBot> **freddison**: and DONT crystal me",
+    "[09:16] <Azure772> ok",
+    "[09:16] [BOT] <0_HienBot> **Azure772**: ok",
+    "[09:17] killercat has completed the challenge [Serious Dedication]",
+    "[09:17] killercat has completed the challenge [Cover Me in Debris]",
+    "[09:17] <kobthegoat14> survival",
+    "[09:17] [8b8t] >> Teleporting to home 0...",
+    "[09:17] killercat has reached the goal [Sky's the Limit]",
+    "[09:17] [BOT] <0_HienBot> **kobthegoat14**: survival",
+    "[09:17] [8b8t] >> Teleporting to home 1...",
+    "[09:17] To kobthegoat14: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:17] To kobthegoat14: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:17] [BOT] <0_HienBot> **Bot to kobthegoat14**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:17] [8b8t] >> Request sent to kobthegoat14",
+    "[09:17] [8b8t] >> Teleporting...",
+    "[09:17] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -834,7 +834,7 @@
     "JosGpe": 3,
     ".AceDesert2260": 24,
     "Azure772": 255,
-    "kobthegoat14": 137,
+    "kobthegoat14": 138,
     "lunnita_": 1,
     "BookTheBook": 2,
     "RayanGhost": 3,
@@ -1519,7 +1519,7 @@
   "kitStats": {
     "pvp": 2587,
     "raid": 777,
-    "survival": 2986,
+    "survival": 2987,
     "shulker": 1154,
     "music": 295,
     "terracotta": 50,
