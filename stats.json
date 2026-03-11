@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:46:43 11/3/2026",
+  "lastUpdated": "13:47:13 11/3/2026",
   "totalKits": 110195,
   "todayKits": 21,
-  "onlineCount": 11,
+  "onlineCount": 10,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "18.0",
+  "tps": "20.0",
   "ping": 204,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 2974
+      "count": 2975
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:41] [BOT] <0_HienBot> **hussaboy**: i cant but tp to me",
-    "[06:41] <shardah> send tp",
-    "[06:41] [BOT] <0_HienBot> **shardah**: send tp",
-    "[06:41] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
-    "[06:41] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[06:41] <shardah> do /tpahere shardah",
-    "[06:41] [BOT] <0_HienBot> **shardah**: do /tpahere shardah",
-    "[06:42] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[06:42] <hussaboy> you idiot shardah im not far enogh from spawn fucking understanat",
-    "[06:42] [BOT] <0_HienBot> **hussaboy**: you idiot shardah im not far enogh from spawn fucking understanat",
-    "[06:42] <shardah> go to nether",
-    "[06:42] [BOT] <0_HienBot> **shardah**: go to nether",
-    "[06:42] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[06:42] <shardah> send coords",
     "[06:42] [BOT] <0_HienBot> **shardah**: send coords",
     "[06:43] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
     "[06:43] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
@@ -108,7 +94,21 @@
     "[06:45] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
     "[06:46] [BOT] <0_HienBot> >Sub to Hien2309 in youtube",
     "[06:46] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[06:46] [BOT] <0_HienBot> >Type invite for invite rewards info"
+    "[06:46] [BOT] <0_HienBot> >Type invite for invite rewards info",
+    "[06:47] <DrDisconect535> bruh",
+    "[06:47] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[06:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:47] <ZojiFujita> bru",
+    "[06:47] <DrDisconect535> survival",
+    "[06:47] [8b8t] >> Teleporting to home 0...",
+    "[06:47] [BOT] <0_HienBot> **ZojiFujita**: bru",
+    "[06:47] [8b8t] >> Teleporting to home 1...",
+    "[06:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:47] To DrDisconect535: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:47] To DrDisconect535: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:47] [BOT] <0_HienBot> **Bot to DrDisconect535**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:47] [8b8t] >> Request sent to DrDisconect535"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1509,12 +1509,13 @@
     "2_HienBot": 1,
     "_Sdblzxx_": 2,
     "tastycolddog": 2,
-    "VINEET_for_SURE": 1
+    "VINEET_for_SURE": 1,
+    "DrDisconect535": 1
   },
   "kitStats": {
     "pvp": 2578,
     "raid": 774,
-    "survival": 2974,
+    "survival": 2975,
     "shulker": 1154,
     "music": 294,
     "terracotta": 50,
