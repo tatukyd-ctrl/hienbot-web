@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:10:04 12/3/2026",
+  "lastUpdated": "06:10:16 12/3/2026",
   "totalKits": 110521,
   "todayKits": 347,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "23:29:48 11/3/2026",
     "avg": 20
   },
-  "tps": "19.0",
-  "ping": 195,
+  "tps": "18.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3102
+      "count": 3103
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:09] [8b8t] >> Teleporting to home 0...",
-    "[23:09] [8b8t] >> Teleporting to home 1...",
-    "[23:09] [BOT] <0_HienBot> **nice_______2**: ?kit PVP",
-    "[23:09] To nice_______2: ¡Tu kit (PVP) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
-    "[23:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:09] [XMAS2025] <Upcast> giv config",
-    "[23:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:09] [BOT] <0_HienBot> >Try list to see available kits",
-    "[23:09] To nice_______2: ¡Lo siento! Cyan Shulker Box agotado, ¡no hay otros kits! dsc.gg/hienbot",
-    "[23:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:09] [Ultra] <Kimaru> no le dije tquiero",
     "[23:09] [BOT] <0_HienBot> **focoloa**: no le dije tquiero",
     "[23:09] <nice_______2> ?kit",
     "[23:09] [Ultra] <Kimaru> teclado de mrd",
@@ -108,7 +97,18 @@
     "[23:09] [BOT] <0_HienBot> **Bot to nice_______2**: Escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[23:09] [8b8t] >> Request sent to nice_______2",
     "[23:09] [8b8t] >> Teleporting...",
-    "[23:10] [BOT] <0_HienBot> >Want free items? Just type survival"
+    "[23:10] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[23:10] [8b8t] >> You have killed yourself!",
+    "[23:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[23:10] To nice_______2: Consejo: Usa link para vincular Discord y obtener 50% menos espera! dsc.gg/hienbot",
+    "[23:10] [BOT] <0_HienBot> **Bot to nice_______2**: Consejo: Usa link para vincular Discord y obtener 50% menos espera! dsc.gg/hienbot",
+    "[23:10] <.FoundPower1416> survival",
+    "[23:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:10] [8b8t] >> Teleporting to home 0...",
+    "[23:10] [8b8t] >> Teleporting to home 1...",
+    "[23:10] To .FoundPower1416: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:10] [BOT] <0_HienBot> **Bot to .FoundPower1416**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:10] To .FoundPower1416: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1545,12 +1545,13 @@
     "Engine_963": 10,
     "the_spring_fortk": 1,
     "TheGoatishere777": 1,
-    "Potato_Gamer965": 2
+    "Potato_Gamer965": 2,
+    ".FoundPower1416": 1
   },
   "kitStats": {
     "pvp": 2668,
     "raid": 798,
-    "survival": 3102,
+    "survival": 3103,
     "shulker": 1176,
     "music": 304,
     "terracotta": 50,
