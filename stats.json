@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:10:15 11/3/2026",
-  "totalKits": 110165,
-  "todayKits": 0,
+  "lastUpdated": "12:10:24 11/3/2026",
+  "totalKits": 110166,
+  "todayKits": 1,
   "onlineCount": 15,
   "peakPlayers": 15,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 201,
   "topUsers": [
     {
@@ -75,7 +75,7 @@
     },
     {
       "name": "dupe",
-      "count": 967
+      "count": 968
     }
   ],
   "chatLog": [
@@ -99,7 +99,16 @@
     "[05:10] [BOT] <0_HienBot> >Hello Leeewiith3Es!",
     "[05:10] <keivdeil> yo si tengo mio client brou",
     "[05:10] [BOT] <0_HienBot> **keivdeil**: yo si tengo mio client brou",
-    "[05:10] <kobthegoat14> dupe"
+    "[05:10] <kobthegoat14> dupe",
+    "[05:10] [8b8t] >> Teleporting to home 0...",
+    "[05:10] [BOT] <0_HienBot> **kobthegoat14**: dupe",
+    "[05:10] [8b8t] >> Teleporting to home 7...",
+    "[05:10] To kobthegoat14: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:10] To kobthegoat14: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:10] [BOT] <0_HienBot> **Bot to kobthegoat14**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:10] [8b8t] >> Request sent to kobthegoat14",
+    "[05:10] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -825,7 +834,7 @@
     "JosGpe": 3,
     ".AceDesert2260": 24,
     "Azure772": 245,
-    "kobthegoat14": 125,
+    "kobthegoat14": 126,
     "lunnita_": 1,
     "BookTheBook": 2,
     "RayanGhost": 3,
@@ -1519,7 +1528,7 @@
     "build": 952,
     "dye": 80,
     "concrete": 135,
-    "dupe": 967,
+    "dupe": 968,
     "food": 268,
     "glass": 166,
     "elytra": 980,
