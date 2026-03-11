@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:41:16 12/3/2026",
+  "lastUpdated": "04:41:46 12/3/2026",
   "totalKits": 110503,
   "todayKits": 329,
   "onlineCount": 26,
@@ -12,8 +12,8 @@
     "maxTime": "23:29:48 11/3/2026",
     "avg": 20
   },
-  "tps": "16.0",
-  "ping": 206,
+  "tps": "18.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,22 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 991
+      "count": 992
     }
   ],
   "chatLog": [
-    "[21:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:36] To .Pichuckrak: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:36] [8b8t] >> Please do not spam.",
-    "[21:36] [8b8t] >> Request sent to .Pichuckrak",
-    "[21:37] [8b8t] >> Teleporting...",
-    "[21:37] [8b8t] >> You have killed yourself!",
-    "[21:37] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[21:37] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
-    "[21:37] Raphiel has reached the goal [Postmortal]",
-    "[21:37] [8b8t] >> Please do not spam.",
-    "[21:38] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
-    "[21:38] <Raphiel> tps",
     "[21:38] To Raphiel: Current TPS: 15.00 Don't forget to join dsc.gg/hienbot",
     "[21:38] [BOT] <0_HienBot> **Raphiel**: tps",
     "[21:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +96,19 @@
     "[21:39] [BOT] <0_HienBot> >Use lang and select your language",
     "[21:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[21:40] [BOT] <0_HienBot> >Try status",
-    "[21:40] [BOT] <0_HienBot> >Try stash"
+    "[21:40] [BOT] <0_HienBot> >Try stash",
+    "[21:41] [BOT] <0_HienBot> >Use list to see all available kits!",
+    "[21:41] <.Pichuckrak> list",
+    "[21:41] To .Pichuckrak: Hello .Pichuckrak!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[21:41] [BOT] <0_HienBot> **.Pichuckrak**: list",
+    "[21:41] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[21:41] <.Pichuckrak> kit stas",
+    "[21:41] [8b8t] >> Teleporting to home 0...",
+    "[21:41] [BOT] <0_HienBot> **.Pichuckrak**: kit stas",
+    "[21:41] [8b8t] >> Teleporting to home 7...",
+    "[21:41] To .Pichuckrak: Kit \"stas\" not found! Giving you (dupe) instead! dsc.gg/hienbot",
+    "[21:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:41] To .Pichuckrak: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -481,7 +481,7 @@
     "Wenstt": 2,
     "espinos": 2,
     "kimwolf156456": 2,
-    ".Pichuckrak": 4,
+    ".Pichuckrak": 5,
     "franolmedo": 1,
     "kayragojo": 77,
     "redagamer80": 9,
@@ -1563,7 +1563,7 @@
     "build": 976,
     "dye": 81,
     "concrete": 139,
-    "dupe": 991,
+    "dupe": 992,
     "food": 275,
     "glass": 176,
     "elytra": 1017,
