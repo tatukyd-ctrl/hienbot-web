@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:27:15 11/3/2026",
+  "lastUpdated": "12:27:45 11/3/2026",
   "totalKits": 110170,
   "todayKits": 5,
-  "onlineCount": 1,
+  "onlineCount": 13,
   "peakPlayers": 16,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "5.0",
-  "ping": 0,
+  "tps": "14.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Azure772",
-      "count": 246
+      "count": 247
     },
     {
       "name": "Simone",
@@ -75,26 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 968
+      "count": 969
     }
   ],
   "chatLog": [
-    "[05:23] [8b8t] >> Teleporting to home 0...",
-    "[05:23] [BOT] <0_HienBot> **kobthegoat14**: elytra",
-    "[05:23] [8b8t] >> Teleporting to home 6...",
-    "[05:23] To kobthegoat14: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:23] To kobthegoat14: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:23] [BOT] <0_HienBot> **Bot to kobthegoat14**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:23] [8b8t] >> Request sent to kobthegoat14",
-    "[05:24] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[05:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:24] [8b8t] >> The TPA request you sent to kobthegoat14 has expired.",
-    "[05:24] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
-    "[05:24] [8b8t] >> You have killed yourself!",
-    "[05:24] [8b8t] >> No TPA request found",
-    "[05:25] [BOT] <0_HienBot> >Hello io_bot!",
-    "[05:25] [BOT] <0_HienBot> >Use lang and select your language",
     "[05:25] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[05:26] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
     "[05:26] <keivdeil> kien team",
@@ -108,7 +92,23 @@
     "[05:27] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[05:27] You were kicked from 8b8t: An internal server connection error occurred.",
     "[05:27] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[05:27] [8b8t] Unknown command do /help"
+    "[05:27] [8b8t] Unknown command do /help",
+    "[05:27] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[05:27] You are already connected to this server!",
+    "[05:27] You are already connected to this server!",
+    "[05:27] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[05:27] <Azure772> dupe",
+    "[05:27] [8b8t] >> Teleporting to home 0...",
+    "[05:27] [BOT] <0_HienBot> **Azure772**: dupe",
+    "[05:27] [8b8t] >> Teleporting to home 7...",
+    "[05:27] To Azure772: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:27] To Azure772: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:27] [BOT] <0_HienBot> **Bot to Azure772**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:27] [8b8t] >> Request sent to Azure772",
+    "[05:27] <C3ch> how?",
+    "[05:27] [BOT] <0_HienBot> **C3ch**: how?",
+    "[05:27] [BOT] <0_HienBot> >Hmmmmmmmmm"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 246,
+    "Azure772": 247,
     "kobthegoat14": 130,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1528,7 +1528,7 @@
     "build": 952,
     "dye": 80,
     "concrete": 135,
-    "dupe": 968,
+    "dupe": 969,
     "food": 268,
     "glass": 166,
     "elytra": 981,
