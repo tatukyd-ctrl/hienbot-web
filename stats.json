@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:32:50 12/3/2026",
+  "lastUpdated": "03:33:15 12/3/2026",
   "totalKits": 110452,
   "todayKits": 278,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "23:29:48 11/3/2026",
     "avg": 19
   },
-  "tps": "13.0",
-  "ping": 205,
+  "tps": "17.0",
+  "ping": 347,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3069
+      "count": 3070
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:31] [BOT] <0_HienBot> >Try status",
-    "[20:31] <Migzin> what happen",
-    "[20:31] <InsaneBoi69> lmao",
-    "[20:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:31] [BOT] <0_HienBot> **InsaneBoi69**: lmao",
-    "[20:31] <InsaneBoi69> nvm",
-    "[20:31] [BOT] <0_HienBot> **InsaneBoi69**: nvm",
-    "[20:31] <03032026CS> im on island rn",
-    "[20:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:31] <InsaneBoi69> new coords",
-    "[20:32] [BOT] <0_HienBot> **InsaneBoi69**: new coords",
     "[20:32] MrSirGuy1004 has made the advancement [Monster Hunter]",
     "[20:32] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
     "[20:32] <xxx_pidor124_xxx> still cant",
@@ -108,7 +97,18 @@
     "[20:32] [8b8t] >> Request sent to TheobaldTheBird",
     "[20:32] [8b8t] >> Teleporting...",
     "[20:32] <xxx_pidor124_xxx> i or we must be in 20k blocks from spawn",
-    "[20:32] [BOT] <0_HienBot> **xxx_pidor124_xxx**: i or we must be in 20k blocks from spawn"
+    "[20:32] [BOT] <0_HienBot> **xxx_pidor124_xxx**: i or we must be in 20k blocks from spawn",
+    "[20:32] [BOT] <0_HienBot> >Welcome to 8b8t, MrSirGuy1004!",
+    "[20:32] [8b8t] >> You have killed yourself!",
+    "[20:32] You cannot be above the nether roof!",
+    "[20:32] To TheobaldTheBird: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:32] [BOT] <0_HienBot> **Bot to TheobaldTheBird**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:33] <Migzin> survival",
+    "[20:33] [8b8t] >> Teleporting to home 0...",
+    "[20:33] [BOT] <0_HienBot> **Migzin**: survival",
+    "[20:33] [8b8t] >> Teleporting to home 1...",
+    "[20:33] To Migzin: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:33] [BOT] <0_HienBot> **Bot to Migzin**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1424,7 +1424,7 @@
     "WolfKnight17388": 3,
     "SrWindows": 1,
     "Ag3ntGT": 1,
-    "Migzin": 80,
+    "Migzin": 81,
     "dayabito23567": 2,
     ".Pancakes043025": 3,
     "itsnotlukke": 15,
@@ -1547,7 +1547,7 @@
   "kitStats": {
     "pvp": 2655,
     "raid": 792,
-    "survival": 3069,
+    "survival": 3070,
     "shulker": 1174,
     "music": 303,
     "terracotta": 50,
