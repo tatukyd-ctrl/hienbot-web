@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:47:16 12/3/2026",
+  "lastUpdated": "06:47:46 12/3/2026",
   "totalKits": 110545,
   "todayKits": 371,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 21
   },
   "tps": "13.0",
-  "ping": 200,
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3120
+      "count": 3121
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:45] [8b8t] >> Request sent to NicoPlayz53000",
-    "[23:45] You were kicked from 8b8t: Kicked for spamming",
-    "[23:45] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[23:45] [8b8t] Unknown command do /help",
-    "[23:45] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[23:45] You are already connected to this server!",
-    "[23:45] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
     "[23:45] <NicoPlayz53000> survival",
     "[23:45] To NicoPlayz53000: You're on cooldown, try again in 36 seconds! Don't forget to join dsc.gg/hienbot",
     "[23:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +99,16 @@
     "[23:46] <.DailyCupid7297> how do i escape",
     "[23:46] [BOT] <0_HienBot> **.DailyCupid7297**: how do i escape",
     "[23:46] .CronkySumo has made the advancement [We Need to Go Deeper]",
-    "[23:47] [BOT] <0_HienBot> >Want to see your ping? Chat ping"
+    "[23:47] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
+    "[23:47] NicoPlayz53000 has made the advancement [Stone Age]",
+    "[23:47] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[23:47] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[23:47] <NicoPlayz53000> survival",
+    "[23:47] <pedritoenojado> quien me da cohetes",
+    "[23:47] [8b8t] >> You have killed yourself!",
+    "[23:47] [BOT] <0_HienBot> **NicoPlayz53000**: survival",
+    "[23:47] To NicoPlayz53000: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:47] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1548,13 +1548,13 @@
     "Potato_Gamer965": 2,
     ".FoundPower1416": 4,
     "Luchadorluk": 7,
-    "NicoPlayz53000": 4,
+    "NicoPlayz53000": 5,
     "smallbear": 1
   },
   "kitStats": {
     "pvp": 2673,
     "raid": 798,
-    "survival": 3120,
+    "survival": 3121,
     "shulker": 1177,
     "music": 304,
     "terracotta": 50,
