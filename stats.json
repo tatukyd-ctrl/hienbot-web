@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:48:13 11/3/2026",
-  "totalKits": 110306,
-  "todayKits": 132,
-  "onlineCount": 20,
+  "lastUpdated": "20:48:32 11/3/2026",
+  "totalKits": 110307,
+  "todayKits": 133,
+  "onlineCount": 19,
   "peakPlayers": 23,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 13
   },
-  "tps": "16.0",
+  "tps": "18.0",
   "ping": 205,
   "topUsers": [
     {
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:44] [8b8t] >> Teleporting to home 0...",
-    "[13:44] [8b8t] >> Teleporting to home 1...",
-    "[13:44] To flam: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:44] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[13:44] To flam: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:44] [BOT] <0_HienBot> **Bot to flam**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:44] <flam> any one have a mace",
-    "[13:44] [BOT] <0_HienBot> >Try stash",
-    "[13:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:45] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
     "[13:45] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
     "[13:46] Wentylll has reached the goal [Postmortal]",
     "[13:46] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
@@ -108,7 +97,18 @@
     "[13:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:48] <Migzin> list",
     "[13:48] To Migzin: Hello Migzin!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:48] [BOT] <0_HienBot> **Migzin**: list"
+    "[13:48] [BOT] <0_HienBot> **Migzin**: list",
+    "[13:48] <Migzin> ?kit end",
+    "[13:48] [8b8t] >> Teleporting to home 0...",
+    "[13:48] [8b8t] >> Teleporting to home 5...",
+    "[13:48] [BOT] <0_HienBot> **Migzin**: ?kit end",
+    "[13:48] To Migzin: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:48] To Migzin: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:48] [BOT] <0_HienBot> **Bot to Migzin**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:48] [8b8t] >> Request sent to Migzin",
+    "[13:48] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[13:48] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1424,7 +1424,7 @@
     "WolfKnight17388": 3,
     "SrWindows": 1,
     "Ag3ntGT": 1,
-    "Migzin": 43,
+    "Migzin": 44,
     "dayabito23567": 2,
     ".Pancakes043025": 3,
     "itsnotlukke": 15,
@@ -1553,6 +1553,6 @@
     "mineral": 349,
     "gterracotta": 39,
     "wood": 352,
-    "end": 256
+    "end": 257
   }
 }
