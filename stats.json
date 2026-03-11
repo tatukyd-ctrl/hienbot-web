@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:19:13 11/3/2026",
+  "lastUpdated": "15:19:43 11/3/2026",
   "totalKits": 110214,
   "todayKits": 40,
-  "onlineCount": 8,
+  "onlineCount": 9,
   "peakPlayers": 19,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:03:26 11/3/2026",
     "avg": 12
   },
-  "tps": "20.0",
-  "ping": 407,
+  "tps": "15.0",
+  "ping": 328,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2582
+      "count": 2583
     },
     {
       "name": "shulker",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:10] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[08:10] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
-    "[08:10] WEEK204 has made the advancement [Not Quite \"Nine\" Lives]",
-    "[08:11] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[08:11] WEEK204 has made the advancement [Monster Hunter]",
-    "[08:11] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[08:11] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[08:12] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
     "[08:12] [BOT] <0_HienBot> >July 10, 2025, Avolution built a 4000x4000 block obsidian roof with a total of 12 million blocks",
     "[08:13] [BOT] <0_HienBot> >Type list for a list of kits",
@@ -108,7 +101,14 @@
     "[08:18] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
     "[08:18] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
     "[08:19] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[08:19] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping"
+    "[08:19] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
+    "[08:19] <[MOD✔] freddison> pvp",
+    "[08:19] [8b8t] >> Teleporting to home 0...",
+    "[08:19] [BOT] <0_HienBot> **freddison**: pvp",
+    "[08:19] [8b8t] >> Teleporting to home 1...",
+    "[08:19] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[08:19] To freddison: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[08:19] [BOT] <0_HienBot> **Bot to freddison**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -408,7 +408,7 @@
     "Volt695367": 80,
     "nfkiki": 6,
     "FreeSword": 2,
-    "freddison": 62,
+    "freddison": 63,
     ".reindyeah": 2,
     "Natethandrake": 3,
     "dractorX72": 1,
@@ -1514,7 +1514,7 @@
     "ZojiFujita": 7
   },
   "kitStats": {
-    "pvp": 2582,
+    "pvp": 2583,
     "raid": 776,
     "survival": 2981,
     "shulker": 1154,
