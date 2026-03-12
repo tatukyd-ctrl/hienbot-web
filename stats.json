@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:51:47 12/3/2026",
+  "lastUpdated": "13:52:17 12/3/2026",
   "totalKits": 110710,
   "todayKits": 156,
-  "onlineCount": 13,
+  "onlineCount": 12,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 23
   },
   "tps": "20.0",
-  "ping": 208,
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2710
+      "count": 2711
     },
     {
       "name": "shulker",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:50] To yostin_12: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:50] <Kkaeimjan> hi",
-    "[06:50] To yostin_12: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:50] [BOT] <0_HienBot> **Kkaeimjan**: hi",
-    "[06:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:50] [8b8t] >> Request sent to yostin_12",
-    "[06:50] [8b8t] >> Teleporting...",
     "[06:50] [8b8t] >> You have killed yourself!",
     "[06:50] To yostin_12: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[06:50] [BOT] <0_HienBot> >Try stash",
@@ -108,7 +100,15 @@
     "[06:51] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
     "[06:51] <Dreamers> !list",
     "[06:51] To Dreamers: Hello Dreamers!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[06:51] [BOT] <0_HienBot> **Dreamers**: !list"
+    "[06:51] [BOT] <0_HienBot> **Dreamers**: !list",
+    "[06:51] [BOT] <0_HienBot> >Hello Dreamers!",
+    "[06:51] <Dreamers> hi,",
+    "[06:51] [BOT] <0_HienBot> **Dreamers**: hi,",
+    "[06:52] <yostin_12> pvp",
+    "[06:52] [8b8t] >> Teleporting to home 0...",
+    "[06:52] [BOT] <0_HienBot> **yostin_12**: pvp",
+    "[06:52] [8b8t] >> Teleporting to home 1...",
+    "[06:52] To yostin_12: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1558,10 +1558,10 @@
     "n7ji": 16,
     "Scratch": 4,
     "mantecaSSJ": 1,
-    "yostin_12": 8
+    "yostin_12": 9
   },
   "kitStats": {
-    "pvp": 2710,
+    "pvp": 2711,
     "raid": 805,
     "survival": 3166,
     "shulker": 1185,
