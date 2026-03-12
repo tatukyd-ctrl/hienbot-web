@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:33:16 12/3/2026",
+  "lastUpdated": "09:33:46 12/3/2026",
   "totalKits": 110663,
   "todayKits": 109,
   "onlineCount": 24,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 33
   },
-  "tps": "16.0",
+  "tps": "17.0",
   "ping": 195,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2696
+      "count": 2697
     },
     {
       "name": "shulker",
@@ -79,8 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:26] To vydraken: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:26] [8b8t] >> Request sent to vydraken",
     "[02:26] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[02:26] [8b8t] >> Teleporting...",
@@ -108,7 +106,9 @@
     "[02:32] [BOT] <0_HienBot> >Sub to Hien2309 in youtube",
     "[02:32] [8b8t] >> Please do not spam.",
     "[02:32] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[02:33] [BOT] <0_HienBot> >Hi DDosma!"
+    "[02:33] [BOT] <0_HienBot> >Hi DDosma!",
+    "[02:33] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[02:33] <keivdeil> !obsidian"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1475,7 +1475,7 @@
     "Are8130": 2,
     "EksiReis": 2,
     "Kiuseka": 3,
-    "keivdeil": 20,
+    "keivdeil": 21,
     "4olk": 1,
     "KionYhamma": 1,
     "ashluvtheflex": 2,
@@ -1559,7 +1559,7 @@
     "Scratch": 4
   },
   "kitStats": {
-    "pvp": 2696,
+    "pvp": 2697,
     "raid": 804,
     "survival": 3156,
     "shulker": 1183,
