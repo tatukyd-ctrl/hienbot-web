@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:39:57 12/3/2026",
-  "totalKits": 110800,
-  "todayKits": 246,
-  "onlineCount": 22,
+  "lastUpdated": "17:40:17 12/3/2026",
+  "totalKits": 110801,
+  "todayKits": 247,
+  "onlineCount": 23,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 20
   },
-  "tps": "17.0",
+  "tps": "16.0",
   "ping": 212,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2747
+      "count": 2748
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:39] [BOT] <0_HienBot> **tommyber**: !PVP",
-    "[10:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:39] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[10:39] <BITROX006> what can i type to get free items'",
-    "[10:39] [BOT] <0_HienBot> **BITROX006**: what can i type to get free items'",
-    "[10:39] <Dreamers> !wood",
-    "[10:39] To Dreamers: You're on cooldown, try again in 23 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:39] [BOT] <0_HienBot> **Dreamers**: !wood",
-    "[10:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:39] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[10:39] <BITROX006> !wood",
-    "[10:39] [8b8t] >> Teleporting to home 0...",
-    "[10:39] [8b8t] >> Teleporting to home 3...",
-    "[10:39] [8b8t] >> Please do not spam.",
     "[10:39] To BITROX006: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:39] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +94,21 @@
     "[10:39] [8b8t] >> Teleporting...",
     "[10:39] <potatomonstR> survival",
     "[10:39] To potatomonstR: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[10:39] [BOT] <0_HienBot> **potatomonstR**: survival"
+    "[10:39] [BOT] <0_HienBot> **potatomonstR**: survival",
+    "[10:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:40] [8b8t] >> You have killed yourself!",
+    "[10:40] To BITROX006: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:40] [BOT] <0_HienBot> **Bot to BITROX006**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:40] <tommyber> !pvp",
+    "[10:40] [8b8t] >> Teleporting to home 0...",
+    "[10:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:40] [8b8t] >> Teleporting to home 1...",
+    "[10:40] To tommyber: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:40] [BOT] <0_HienBot> **Bot to tommyber**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:40] To tommyber: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:40] [BOT] <0_HienBot> **Bot to tommyber**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:40] [8b8t] >> Request sent to tommyber",
+    "[10:40] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1565,11 +1565,11 @@
     "kits_pls": 6,
     "FaxeHeadless": 7,
     "Bloodli": 1,
-    "tommyber": 5,
+    "tommyber": 6,
     "BITROX006": 2
   },
   "kitStats": {
-    "pvp": 2747,
+    "pvp": 2748,
     "raid": 809,
     "survival": 3176,
     "shulker": 1186,
