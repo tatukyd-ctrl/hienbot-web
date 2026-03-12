@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:11:06 13/3/2026",
-  "totalKits": 111297,
-  "todayKits": 303,
+  "lastUpdated": "06:11:36 13/3/2026",
+  "totalKits": 111298,
+  "todayKits": 304,
   "onlineCount": 36,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "02:34:06 13/3/2026",
     "avg": 25
   },
-  "tps": "19.0",
+  "tps": "18.0",
   "ping": 201,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3276
+      "count": 3277
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:08] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[23:08] <.FlameFrags4314> drupix tp to me",
-    "[23:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:08] <Dyl2013> survival",
-    "[23:08] To Dyl2013: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[23:08] [BOT] <0_HienBot> **Dyl2013**: survival",
-    "[23:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:08] [8b8t] >> You have killed yourself!",
-    "[23:08] To Drupix: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:08] [BOT] <0_HienBot> **Bot to Drupix**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:09] kazo2012 has made the advancement [We Need to Go Deeper]",
-    "[23:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[23:09] <Luchadorluk> siii",
     "[23:09] [BOT] <0_HienBot> **Luchadorluk**: siii",
     "[23:09] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
     "[23:09] <Luchadorluk> mira este kit",
@@ -108,7 +95,20 @@
     "[23:10] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[23:10] [BOT] <0_HienBot> >Hello 2b2tJourney!",
     "[23:10] <Luchadorluk> es al pedo igual",
-    "[23:10] [BOT] <0_HienBot> **Luchadorluk**: es al pedo igual"
+    "[23:10] [BOT] <0_HienBot> **Luchadorluk**: es al pedo igual",
+    "[23:11] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[23:11] <Dyl2013> survival",
+    "[23:11] [8b8t] >> Teleporting to home 0...",
+    "[23:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:11] [8b8t] >> Teleporting to home 1...",
+    "[23:11] To Dyl2013: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:11] [BOT] <0_HienBot> **Bot to Dyl2013**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:11] <Luchadorluk> lo q si hay q acomodor y dupear shulkers",
+    "[23:11] [BOT] <0_HienBot> **Luchadorluk**: lo q si hay q acomodor y dupear shulkers",
+    "[23:11] To Dyl2013: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:11] [8b8t] >> Request sent to Dyl2013",
+    "[23:11] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1600,12 +1600,12 @@
     "Shada1111": 1,
     "javac": 3,
     "Drupix": 6,
-    "Dyl2013": 1
+    "Dyl2013": 2
   },
   "kitStats": {
     "pvp": 2882,
     "raid": 839,
-    "survival": 3276,
+    "survival": 3277,
     "shulker": 1201,
     "music": 315,
     "terracotta": 53,
