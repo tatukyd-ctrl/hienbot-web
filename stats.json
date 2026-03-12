@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:45:47 12/3/2026",
-  "totalKits": 110707,
-  "todayKits": 153,
+  "lastUpdated": "13:46:11 12/3/2026",
+  "totalKits": 110708,
+  "todayKits": 154,
   "onlineCount": 9,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 23
   },
-  "tps": "20.0",
+  "tps": "16.0",
   "ping": 208,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2707
+      "count": 2708
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:43] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[06:43] [BOT] <0_HienBot> >Welcome to 8b8t, DDosma!",
-    "[06:43] <yostin_12> pvp",
-    "[06:43] To yostin_12: You're on cooldown, try again in 16 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:43] [BOT] <0_HienBot> **yostin_12**: pvp",
-    "[06:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:44] <yostin_12> pvp",
-    "[06:44] [8b8t] >> Teleporting to home 0...",
-    "[06:44] [BOT] <0_HienBot> **yostin_12**: pvp",
-    "[06:44] [8b8t] >> Teleporting to home 1...",
-    "[06:44] [8b8t] >> Could not find player yostin_12",
     "[06:44] [BOT] <0_HienBot> >Welcome to 8b8t, MonkeBot!",
     "[06:44] [8b8t] >> Could not find player yostin_12",
     "[06:44] [8b8t] >> Request sent to yostin_12",
@@ -108,7 +97,18 @@
     "[06:45] [BOT] <0_HienBot> **yostin_12**: pvp",
     "[06:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[06:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[06:45] [BOT] <0_HienBot> >Welcome to 8b8t, MrSirGuy1004!"
+    "[06:45] [BOT] <0_HienBot> >Welcome to 8b8t, MrSirGuy1004!",
+    "[06:45] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
+    "[06:46] <yostin_12> pvp",
+    "[06:46] [8b8t] >> Teleporting to home 0...",
+    "[06:46] [BOT] <0_HienBot> **yostin_12**: pvp",
+    "[06:46] [8b8t] >> Teleporting to home 1...",
+    "[06:46] To yostin_12: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:46] To yostin_12: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:46] [BOT] <0_HienBot> **Bot to yostin_12**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:46] [8b8t] >> Request sent to yostin_12",
+    "[06:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1558,10 +1558,10 @@
     "n7ji": 16,
     "Scratch": 4,
     "mantecaSSJ": 1,
-    "yostin_12": 5
+    "yostin_12": 6
   },
   "kitStats": {
-    "pvp": 2707,
+    "pvp": 2708,
     "raid": 805,
     "survival": 3166,
     "shulker": 1185,
