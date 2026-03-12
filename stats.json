@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:17:36 13/3/2026",
-  "totalKits": 111251,
-  "todayKits": 257,
-  "onlineCount": 23,
+  "lastUpdated": "04:18:01 13/3/2026",
+  "totalKits": 111252,
+  "todayKits": 258,
+  "onlineCount": 25,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:34:06 13/3/2026",
     "avg": 24
   },
-  "tps": "15.0",
+  "tps": "12.0",
   "ping": 201,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3263
+      "count": 3264
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:15] To 8b8tstrlord: Your kit (fly) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:15] To 8b8tstrlord: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:15] [BOT] <0_HienBot> **Bot to 8b8tstrlord**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:15] [8b8t] >> Request sent to 8b8tstrlord",
-    "[21:15] [8b8t] >> Teleporting...",
-    "[21:15] [8b8t] >> You have killed yourself!",
-    "[21:15] To 8b8tstrlord: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:15] [BOT] <0_HienBot> **Bot to 8b8tstrlord**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:15] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[21:16] [BOT] <0_HienBot> >Hey MonkeBot!",
-    "[21:16] <8b8tstrlord> pvp",
     "[21:16] [8b8t] >> Teleporting to home 0...",
     "[21:16] [BOT] <0_HienBot> **8b8tstrlord**: pvp",
     "[21:16] [8b8t] >> Teleporting to home 1...",
@@ -108,7 +96,19 @@
     "[21:17] [BOT] <0_HienBot> >Try list to see available kits",
     "[21:17] <8b8tstrlord> survival",
     "[21:17] To 8b8tstrlord: You're on cooldown, try again in 2 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:17] [BOT] <0_HienBot> **8b8tstrlord**: survival"
+    "[21:17] [BOT] <0_HienBot> **8b8tstrlord**: survival",
+    "[21:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:17] <8b8tstrlord> survival",
+    "[21:17] [8b8t] >> Teleporting to home 0...",
+    "[21:17] [8b8t] >> Please do not spam.",
+    "[21:17] [8b8t] >> Teleporting to home 1...",
+    "[21:17] To 8b8tstrlord: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:17] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
+    "[21:17] To 8b8tstrlord: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:17] [8b8t] >> Request sent to 8b8tstrlord",
+    "[21:17] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1582,7 +1582,7 @@
     "Samioski": 2,
     "Sketchyashes": 1,
     "tarikozerbay": 2,
-    "8b8tstrlord": 6,
+    "8b8tstrlord": 7,
     "AhianXD": 6,
     "WakeSpace": 3,
     "eminiiefjfdka": 1,
@@ -1597,7 +1597,7 @@
   "kitStats": {
     "pvp": 2872,
     "raid": 835,
-    "survival": 3263,
+    "survival": 3264,
     "shulker": 1200,
     "music": 315,
     "terracotta": 53,
