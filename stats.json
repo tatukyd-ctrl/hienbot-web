@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:54:36 13/3/2026",
+  "lastUpdated": "00:55:06 13/3/2026",
   "totalKits": 111125,
   "todayKits": 131,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "15.0",
-  "ping": 226,
+  "tps": "18.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:53] <BiasRuby4589> kk",
-    "[17:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:53] <BiasRuby4589> !build",
-    "[17:53] [8b8t] >> Teleporting to home 0...",
-    "[17:53] [BOT] <0_HienBot> **BiasRuby4589**: !build",
-    "[17:53] [8b8t] >> Teleporting to home 2...",
-    "[17:53] To BiasRuby4589: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:53] To BiasRuby4589: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[17:53] [BOT] <0_HienBot> **Bot to BiasRuby4589**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[17:53] <Migzin> stash",
     "[17:53] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +99,16 @@
     "[17:54] [8b8t] >> You have killed yourself!",
     "[17:54] To Migzin: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[17:54] [BOT] <0_HienBot> **Bot to Migzin**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[17:54] BiasRuby4589 has made the advancement [Not Quite \"Nine\" Lives]"
+    "[17:54] BiasRuby4589 has made the advancement [Not Quite \"Nine\" Lives]",
+    "[17:54] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
+    "[17:54] <megakiyaiscool> build",
+    "[17:54] [BOT] <0_HienBot> **megakiyaiscool**: build",
+    "[17:54] [8b8t] >> Teleporting to home 0...",
+    "[17:54] [8b8t] >> Teleporting to home 2...",
+    "[17:54] To megakiyaiscool: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:54] To megakiyaiscool: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[17:54] [BOT] <0_HienBot> **Bot to megakiyaiscool**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -988,7 +988,7 @@
     "Noted_Sauce": 1,
     "IamLightVacoro": 9,
     "Sharxy": 3,
-    "megakiyaiscool": 28,
+    "megakiyaiscool": 29,
     "AndreiG9999": 2,
     "busybee07": 177,
     "Unkn0wnless": 39,
@@ -1603,7 +1603,7 @@
     "exp": 520,
     "stash": 895,
     "ocean": 98,
-    "build": 1020,
+    "build": 1021,
     "dye": 84,
     "concrete": 147,
     "dupe": 1022,
