@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:53:06 13/3/2026",
+  "lastUpdated": "00:53:36 13/3/2026",
   "totalKits": 111124,
   "todayKits": 130,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "16.0",
-  "ping": 202,
+  "tps": "17.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:51] <Migzin> totem",
-    "[17:51] [8b8t] >> Teleporting to home 0...",
-    "[17:51] [BOT] <0_HienBot> **Migzin**: totem",
     "[17:51] [8b8t] >> Teleporting to home 1...",
     "[17:51] To Migzin: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[17:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +105,10 @@
     "[17:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[17:52] [8b8t] >> Teleporting...",
     "[17:53] [8b8t] >> You have killed yourself!",
-    "[17:53] To Migzin: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[17:53] To Migzin: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:53] [BOT] <0_HienBot> **Bot to Migzin**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:53] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
+    "[17:53] <Volky1343> Tools"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1045,7 +1045,7 @@
     "Wisto_WT": 1,
     "nuevobloques.org": 16,
     "_bluecube": 31,
-    "Volky1343": 5,
+    "Volky1343": 6,
     "Harrythecatkid2": 5,
     "TheRealNull_": 25,
     "Vlov74": 1,
@@ -1596,7 +1596,7 @@
     "music": 314,
     "terracotta": 53,
     "lightsources": 181,
-    "tools": 905,
+    "tools": 906,
     "armortrims": 211,
     "toolbox": 299,
     "wool": 364,
