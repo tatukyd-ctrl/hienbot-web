@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:44:06 13/3/2026",
-  "totalKits": 111116,
-  "todayKits": 122,
-  "onlineCount": 38,
+  "lastUpdated": "00:44:24 13/3/2026",
+  "totalKits": 111117,
+  "todayKits": 123,
+  "onlineCount": 37,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "19.0",
-  "ping": 202,
+  "tps": "18.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2845
+      "count": 2846
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:43] [BOT] <0_HienBot> **BiasRuby4589**: give echest",
-    "[17:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:43] WakeSpace Whispers: dupe",
-    "[17:43] [8b8t] >> Teleporting to home 0...",
-    "[17:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:43] [8b8t] >> Teleporting to home 7...",
-    "[17:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:43] To WakeSpace: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:43] [BOT] <0_HienBot> **Bot to WakeSpace**: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:43] To WakeSpace: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:43] [8b8t] >> Request sent to WakeSpace",
-    "[17:43] <BiasRuby4589> or ts good too",
-    "[17:43] [BOT] <0_HienBot> **BiasRuby4589**: or ts good too",
-    "[17:43] [8b8t] >> Teleporting...",
-    "[17:43] <InsaneBoi69> bru",
     "[17:43] [8b8t] >> You have killed yourself!",
     "[17:43] [BOT] <0_HienBot> **InsaneBoi69**: bru",
     "[17:43] To WakeSpace: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +92,23 @@
     "[17:43] [BOT] <0_HienBot> **InsaneBoi69**: DUDe",
     "[17:43] <InsaneBoi69> thats now how ui place it",
     "[17:43] [BOT] <0_HienBot> **InsaneBoi69**: thats now how ui place it",
-    "[17:44] WakeSpace Whispers: pvp"
+    "[17:44] WakeSpace Whispers: pvp",
+    "[17:44] <BiasRuby4589> idk why it dont work",
+    "[17:44] To WakeSpace: You're on cooldown, try again in 6 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:44] [BOT] <0_HienBot> **WakeSpace**: pvp",
+    "[17:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:44] WakeSpace Whispers: pvp",
+    "[17:44] [8b8t] >> Teleporting to home 0...",
+    "[17:44] [BOT] <0_HienBot> **WakeSpace**: pvp",
+    "[17:44] [8b8t] >> Teleporting to home 1...",
+    "[17:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:44] To WakeSpace: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:44] To WakeSpace: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:44] [BOT] <0_HienBot> **Bot to WakeSpace**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:44] [8b8t] >> Request sent to WakeSpace",
+    "[17:44] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1584,11 +1584,11 @@
     "tarikozerbay": 2,
     "8b8tstrlord": 2,
     "AhianXD": 6,
-    "WakeSpace": 2,
+    "WakeSpace": 3,
     "eminiiefjfdka": 1
   },
   "kitStats": {
-    "pvp": 2845,
+    "pvp": 2846,
     "raid": 829,
     "survival": 3234,
     "shulker": 1196,
