@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:25:36 13/3/2026",
-  "totalKits": 111305,
-  "todayKits": 311,
-  "onlineCount": 33,
+  "lastUpdated": "06:25:57 13/3/2026",
+  "totalKits": 111306,
+  "todayKits": 312,
+  "onlineCount": 32,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "02:34:06 13/3/2026",
     "avg": 25
   },
-  "tps": "18.0",
-  "ping": 211,
+  "tps": "19.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3281
+      "count": 3282
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:24] To .SlimBead4443: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[23:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:25] [Ultra] <Kimaru> eeee",
-    "[23:25] [BOT] <0_HienBot> **focoloa**: eeee",
-    "[23:25] To .SlimBead4443: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[23:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:25] <Drupix> End",
-    "[23:25] [8b8t] >> Teleporting to home 0...",
-    "[23:25] [BOT] <0_HienBot> **Drupix**: End",
-    "[23:25] [Ultra] <Kimaru> donde lo deje",
-    "[23:25] [8b8t] >> Teleporting to home 5...",
-    "[23:25] To Drupix: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[23:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:25] To Drupix: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +96,19 @@
     "[23:25] [Ultra] <CEOofYT> mmmmmm",
     "[23:25] To Drupix: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[23:25] [BOT] <0_HienBot> **CEOofYT**: mmmmmm",
-    "[23:25] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[23:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:25] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[23:25] [BOT] <0_HienBot> >Get a head start with survival",
+    "[23:25] <.SlimBead4443> survival",
+    "[23:25] [8b8t] >> Teleporting to home 0...",
+    "[23:25] [8b8t] >> Teleporting to home 1...",
+    "[23:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:25] To .SlimBead4443: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:25] [BOT] <0_HienBot> **Bot to .SlimBead4443**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:25] To .SlimBead4443: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:25] [BOT] <0_HienBot> **Bot to .SlimBead4443**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:25] [8b8t] >> Request sent to .SlimBead4443",
+    "[23:25] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1601,12 +1601,12 @@
     "javac": 3,
     "Drupix": 9,
     "Dyl2013": 3,
-    ".SlimBead4443": 5
+    ".SlimBead4443": 6
   },
   "kitStats": {
     "pvp": 2882,
     "raid": 839,
-    "survival": 3281,
+    "survival": 3282,
     "shulker": 1201,
     "music": 315,
     "terracotta": 53,
