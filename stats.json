@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:00:51 12/3/2026",
-  "totalKits": 110835,
-  "todayKits": 281,
+  "lastUpdated": "18:01:19 12/3/2026",
+  "totalKits": 110836,
+  "todayKits": 282,
   "onlineCount": 20,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 20
   },
-  "tps": "11.0",
-  "ping": 209,
+  "tps": "18.0",
+  "ping": 224,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 1057
+      "count": 1058
     },
     {
       "name": "dupe",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:00] [8b8t] >> Teleporting to home 1...",
-    "[11:00] To Dreamers: Your kit (obsidian) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:00] [BOT] <0_HienBot> **Dreamers**: !obsidian",
-    "[11:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:00] To Dreamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:00] [BOT] <0_HienBot> **Bot to Dreamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:00] [8b8t] >> Request sent to Dreamers",
-    "[11:00] [8b8t] >> Teleporting...",
-    "[11:00] <kits_pls> YESS",
-    "[11:00] [BOT] <0_HienBot> **kits_pls**: YESS",
-    "[11:00] <Dreamers> blake56",
-    "[11:00] <Bloodli> !mace",
-    "[11:00] [8b8t] >> You have killed yourself!",
-    "[11:00] [BOT] <0_HienBot> **Dreamers**: blake56",
     "[11:00] [8b8t] >> You have killed yourself!",
     "[11:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:00] To Bloodli: Your kit (mace) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +94,21 @@
     "[11:00] To Bloodli: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:00] [8b8t] >> Request sent to Bloodli",
-    "[11:00] [8b8t] >> Teleporting..."
+    "[11:00] [8b8t] >> Teleporting...",
+    "[11:00] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[11:00] [8b8t] >> You have killed yourself!",
+    "[11:00] To Bloodli: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[11:00] [8b8t] >> Please do not spam.",
+    "[11:01] <kits_pls> !elytra",
+    "[11:01] [8b8t] >> Teleporting to home 0...",
+    "[11:01] [8b8t] >> Teleporting to home 6...",
+    "[11:01] [BOT] <0_HienBot> **kits_pls**: !elytra",
+    "[11:01] To kits_pls: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:01] To kits_pls: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:01] [BOT] <0_HienBot> **Bot to kits_pls**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:01] [8b8t] >> Request sent to kits_pls",
+    "[11:01] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1562,7 +1562,7 @@
     "SUPERLMAO": 1,
     ".AsteroidQwQ": 9,
     "LAKAEEE": 7,
-    "kits_pls": 7,
+    "kits_pls": 8,
     "FaxeHeadless": 7,
     "Bloodli": 7,
     "tommyber": 9,
@@ -1591,7 +1591,7 @@
     "dupe": 1009,
     "food": 277,
     "glass": 179,
-    "elytra": 1057,
+    "elytra": 1058,
     "redstone": 658,
     "quartz": 97,
     "highway": 186,
