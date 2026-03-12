@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:50:06 12/3/2026",
+  "lastUpdated": "22:50:36 12/3/2026",
   "totalKits": 111048,
   "todayKits": 54,
-  "onlineCount": 30,
+  "onlineCount": 29,
   "peakPlayers": 30,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 21
   },
-  "tps": "17.0",
-  "ping": 232,
+  "tps": "19.0",
+  "ping": 256,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3209
+      "count": 3210
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:48] To Dario_Supremo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[15:48] [BOT] <0_HienBot> **Bot to Samioski**: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:48] <Dario_Supremo> Survival",
-    "[15:48] To Dario_Supremo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[15:49] [BOT] <0_HienBot> **Dario_Supremo**: Survival",
-    "[15:49] [BOT] <0_HienBot> **Bot to Dario_Supremo**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[15:49] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[15:49] [BOT] <0_HienBot> **Bot to Samioski**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[15:49] [BOT] <0_HienBot> **Dario_Supremo**: Survival",
     "[15:49] [BOT] <0_HienBot> **Bot to Dario_Supremo**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[15:49] <Dario_Supremo> Survival",
     "[15:49] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +99,16 @@
     "[15:49] MarkusISCool Whispers: JOIN BEST CLAN ON THE SERVER RIGHT NOW: https://discord.gg/vwBMTV3pqm",
     "[15:49] [BOT] <0_HienBot> **Bot to Dario_Supremo**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[15:49] [BOT] <0_HienBot> **i_am_tobias**: repampanos",
-    "[15:50] [BOT] <0_HienBot> **MarkusISCool**: JOIN BEST CLAN ON THE SERVER RIGHT NOW: https://discord.gg/vwBMTV3pqm"
+    "[15:50] [BOT] <0_HienBot> **MarkusISCool**: JOIN BEST CLAN ON THE SERVER RIGHT NOW: https://discord.gg/vwBMTV3pqm",
+    "[15:50] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
+    "[15:50] IESIfach has made the advancement [We Need to Go Deeper]",
+    "[15:50] <Dario_Supremo> Survival",
+    "[15:50] To Dario_Supremo: You're on cooldown, try again in 4 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:50] [BOT] <0_HienBot> **Dario_Supremo**: Survival",
+    "[15:50] <Dario_Supremo> Survival",
+    "[15:50] [8b8t] >> Teleporting to home 0...",
+    "[15:50] [8b8t] >> Teleporting to home 1...",
+    "[15:50] To Dario_Supremo: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1578,13 +1578,13 @@
     "6t5e": 2,
     "Itz_Luxn": 5,
     "SJYTpro": 1,
-    "Dario_Supremo": 3,
+    "Dario_Supremo": 4,
     "Samioski": 2
   },
   "kitStats": {
     "pvp": 2833,
     "raid": 827,
-    "survival": 3209,
+    "survival": 3210,
     "shulker": 1194,
     "music": 313,
     "terracotta": 53,
