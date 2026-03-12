@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:26:46 12/3/2026",
+  "lastUpdated": "08:27:16 12/3/2026",
   "totalKits": 110644,
   "todayKits": 90,
-  "onlineCount": 26,
+  "onlineCount": 28,
   "peakPlayers": 44,
   "playerStats": {
     "min": 1,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 37
   },
-  "tps": "14.0",
-  "ping": 195,
+  "tps": "17.0",
+  "ping": 194,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3150
+      "count": 3151
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:26] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
-    "[01:26] [Ultra] <Kimaru> adios zaka",
-    "[01:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:26] <TheUnrealZaka> espera",
-    "[01:26] [BOT] <0_HienBot> **TheUnrealZaka**: espera",
-    "[01:26] [Ultra] <Kimaru> qe",
-    "[01:26] [BOT] <0_HienBot> **focoloa**: qe",
-    "[01:26] anh_do_mixi Whispers: survival",
-    "[01:26] [BOT] <0_HienBot> **anh_do_mixi**: survival",
-    "[01:26] [8b8t] >> Teleporting to home 0...",
-    "[01:26] [8b8t] >> Teleporting to home 1...",
-    "[01:26] To anh_do_mixi: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:26] To anh_do_mixi: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:26] [BOT] <0_HienBot> **Bot to anh_do_mixi**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:26] [8b8t] >> Request sent to anh_do_mixi",
     "[01:26] <TheUnrealZaka> osea TheUnrealZaka",
     "[01:26] [BOT] <0_HienBot> **TheUnrealZaka**: osea TheUnrealZaka",
@@ -108,7 +93,22 @@
     "[01:26] [BOT] <0_HienBot> **Bot to anh_do_mixi**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[01:26] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[01:26] <TheUnrealZaka> ya, pero reservaron el username",
-    "[01:26] [BOT] <0_HienBot> **TheUnrealZaka**: ya, pero reservaron el username"
+    "[01:26] [BOT] <0_HienBot> **TheUnrealZaka**: ya, pero reservaron el username",
+    "[01:26] <TheUnrealZaka> asi que fui por TheUnrealZak",
+    "[01:26] [BOT] <0_HienBot> **TheUnrealZaka**: asi que fui por TheUnrealZak",
+    "[01:26] <TheUnrealZaka> asi que fui por TheUnrealZaka",
+    "[01:26] [BOT] <0_HienBot> **TheUnrealZaka**: asi que fui por TheUnrealZaka",
+    "[01:27] [Ultra] <Kimaru> mas q obvio",
+    "[01:27] [BOT] <0_HienBot> **focoloa**: mas q obvio",
+    "[01:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:27] anh_do_mixi Whispers: survival",
+    "[01:27] To anh_do_mixi: You're on cooldown, try again in 2 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:27] [BOT] <0_HienBot> **anh_do_mixi**: survival",
+    "[01:27] <TheUnrealZaka> bue, yo también me desconecto ya",
+    "[01:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:27] anh_do_mixi Whispers: survival",
+    "[01:27] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -296,7 +296,7 @@
     "Gonzolopepito23": 3,
     "Jinxs_017": 1,
     "RED_HAZE__": 1,
-    "anh_do_mixi": 2,
+    "anh_do_mixi": 3,
     "zNashardoz": 7,
     "m4rc_xyz8": 14,
     "aaluchalu": 25,
@@ -1560,7 +1560,7 @@
   "kitStats": {
     "pvp": 2693,
     "raid": 804,
-    "survival": 3150,
+    "survival": 3151,
     "shulker": 1183,
     "music": 304,
     "terracotta": 50,
