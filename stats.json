@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:31:33 12/3/2026",
+  "lastUpdated": "08:31:46 12/3/2026",
   "totalKits": 110647,
   "todayKits": 93,
   "onlineCount": 27,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 36
   },
-  "tps": "16.0",
+  "tps": "13.0",
   "ping": 201,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3152
+      "count": 3153
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:29] [BOT] <0_HienBot> >Type invite for invite rewards info",
-    "[01:29] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[01:30] [BOT] <0_HienBot> >Try status",
-    "[01:30] <Scratch> 0_HienBot give me a kit pls",
-    "[01:30] [BOT] <0_HienBot> **Scratch**: 0_HienBot give me a kit pls",
-    "[01:30] <Scratch> status",
-    "[01:30] To Scratch: Total kits: 110646 | Today: 92 Don't forget to join dsc.gg/hienbot",
-    "[01:30] [BOT] <0_HienBot> **Scratch**: status",
-    "[01:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:30] [BOT] <0_HienBot> >Type invite for invite rewards info",
     "[01:30] <Scratch> kit",
     "[01:30] To Scratch: Hello Scratch!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -108,7 +99,16 @@
     "[01:31] <XThe_Lacrosox> ola bro",
     "[01:31] [BOT] <0_HienBot> **XThe_Lacrosox**: ola bro",
     "[01:31] [8b8t] >> Teleporting...",
-    "[01:31] [BOT] <0_HienBot> >Bot created by Hien2309."
+    "[01:31] [BOT] <0_HienBot> >Bot created by Hien2309.",
+    "[01:31] [8b8t] >> You have killed yourself!",
+    "[01:31] To Scratch: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[01:31] [BOT] <0_HienBot> **Bot to Scratch**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[01:31] <Yomellamolucas> survival",
+    "[01:31] [BOT] <0_HienBot> **Yomellamolucas**: survival",
+    "[01:31] [8b8t] >> Teleporting to home 0...",
+    "[01:31] [8b8t] >> Teleporting to home 1...",
+    "[01:31] To Yomellamolucas: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:31] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -969,7 +969,7 @@
     "LaundiyaBaaj": 7,
     "7_7": 1,
     "tolampro": 10,
-    "Yomellamolucas": 73,
+    "Yomellamolucas": 74,
     "recitar": 6,
     "rolito": 31,
     ".Ri2222": 16,
@@ -1561,7 +1561,7 @@
   "kitStats": {
     "pvp": 2694,
     "raid": 804,
-    "survival": 3152,
+    "survival": 3153,
     "shulker": 1183,
     "music": 304,
     "terracotta": 50,
