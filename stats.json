@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:17:47 12/3/2026",
-  "totalKits": 110785,
-  "todayKits": 231,
+  "lastUpdated": "17:18:10 12/3/2026",
+  "totalKits": 110786,
+  "todayKits": 232,
   "onlineCount": 16,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 20
   },
-  "tps": "20.0",
+  "tps": "18.0",
   "ping": 210,
   "topUsers": [
     {
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:15] [BOT] <0_HienBot> **kits_pls**: who want pvp",
-    "[10:15] <kits_pls> !tools",
-    "[10:15] [8b8t] >> Teleporting to home 0...",
-    "[10:15] [BOT] <0_HienBot> **kits_pls**: !tools",
-    "[10:15] [8b8t] >> Teleporting to home 7...",
-    "[10:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:15] To kits_pls: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:15] To kits_pls: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:15] [BOT] <0_HienBot> **Bot to kits_pls**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:15] [8b8t] >> Request sent to kits_pls",
-    "[10:15] [8b8t] >> Teleporting...",
     "[10:16] [8b8t] >> You have killed yourself!",
     "[10:16] To kits_pls: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:16] [BOT] <0_HienBot> **Bot to kits_pls**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +96,19 @@
     "[10:17] [BOT] <0_HienBot> >Try list to see available kits",
     "[10:17] <kits_pls> !list",
     "[10:17] To kits_pls: Hello kits_pls!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:17] [BOT] <0_HienBot> **kits_pls**: !list"
+    "[10:17] [BOT] <0_HienBot> **kits_pls**: !list",
+    "[10:17] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[10:17] <kits_pls> !exp",
+    "[10:17] [8b8t] >> Teleporting to home 0...",
+    "[10:18] [BOT] <0_HienBot> **kits_pls**: !exp",
+    "[10:18] [8b8t] >> Teleporting to home 5...",
+    "[10:18] To kits_pls: Your kit (exp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:18] To kits_pls: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:18] [BOT] <0_HienBot> **Bot to kits_pls**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:18] [8b8t] >> Request sent to kits_pls",
+    "[10:18] [8b8t] >> Teleporting...",
+    "[10:18] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1562,7 +1562,7 @@
     "SUPERLMAO": 1,
     ".AsteroidQwQ": 9,
     "LAKAEEE": 7,
-    "kits_pls": 2,
+    "kits_pls": 3,
     "FaxeHeadless": 7,
     "Bloodli": 1
   },
@@ -1578,7 +1578,7 @@
     "armortrims": 208,
     "toolbox": 292,
     "wool": 358,
-    "exp": 508,
+    "exp": 509,
     "stash": 876,
     "ocean": 97,
     "build": 1003,
