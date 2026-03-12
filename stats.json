@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:56:06 13/3/2026",
+  "lastUpdated": "02:56:36 13/3/2026",
   "totalKits": 111211,
   "todayKits": 217,
   "onlineCount": 44,
@@ -12,8 +12,8 @@
     "maxTime": "02:34:06 13/3/2026",
     "avg": 24
   },
-  "tps": "7.0",
-  "ping": 228,
+  "tps": "8.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2867
+      "count": 2868
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:55] <vtbarrow> que dias activan el FrameDupe?",
-    "[19:55] [8b8t] >> The TPA request you sent to kayz272 was successfully canceled.",
-    "[19:55] [BOT] <0_HienBot> **vtbarrow**: que dias activan el FrameDupe?",
-    "[19:55] [Ultra] <KurtzMC> iker, que vueles",
-    "[19:55] [BOT] <0_HienBot> **KurtzMC**: iker, que vueles",
-    "[19:55] <kayz272> PVP",
-    "[19:55] To kayz272: You're on cooldown, try again in 48 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:55] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[19:55] [BOT] <0_HienBot> **kayz272**: PVP",
-    "[19:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:55] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me",
-    "[19:55] <blockofquartz> illegal",
-    "[19:55] [8b8t] >> Teleporting to home 0...",
-    "[19:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:55] [8b8t] >> Teleporting to home 7...",
-    "[19:55] To blockofquartz: Your kit (illegal) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[19:55] [BOT] <0_HienBot> **Bot to blockofquartz**: Your kit (illegal) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[19:55] To blockofquartz: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +92,23 @@
     "[19:55] To blockofquartz: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[19:56] [BOT] <0_HienBot> **Bot to blockofquartz**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[19:56] [Ultra] <KurtzMC> venga",
-    "[19:56] [BOT] <0_HienBot> **KurtzMC**: venga"
+    "[19:56] [BOT] <0_HienBot> **KurtzMC**: venga",
+    "[19:56] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[19:56] [Ultra] <depanaiker> pala donde",
+    "[19:56] [BOT] <0_HienBot> **depanaiker**: pala donde",
+    "[19:56] <kayz272> PVP",
+    "[19:56] To kayz272: You're on cooldown, try again in 2 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:56] [BOT] <0_HienBot> **kayz272**: PVP",
+    "[19:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:56] <kayz272> PVP",
+    "[19:56] [8b8t] >> Teleporting to home 0...",
+    "[19:56] [BOT] <0_HienBot> **kayz272**: PVP",
+    "[19:56] [8b8t] >> Teleporting to home 1...",
+    "[19:56] To kayz272: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:56] To kayz272: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:56] [BOT] <0_HienBot> **Bot to kayz272**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:56] [8b8t] >> Request sent to kayz272"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1592,10 +1592,10 @@
     "blockofquartz": 13,
     "alimehmc221": 2,
     "Axno2": 6,
-    "kayz272": 3
+    "kayz272": 4
   },
   "kitStats": {
-    "pvp": 2867,
+    "pvp": 2868,
     "raid": 833,
     "survival": 3259,
     "shulker": 1198,
