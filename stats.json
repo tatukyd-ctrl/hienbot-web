@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:09:06 13/3/2026",
-  "totalKits": 111169,
-  "todayKits": 175,
+  "lastUpdated": "02:09:27 13/3/2026",
+  "totalKits": 111170,
+  "todayKits": 176,
   "onlineCount": 34,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "01:54:06 13/3/2026",
     "avg": 23
   },
-  "tps": "14.0",
+  "tps": "16.0",
   "ping": 205,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3249
+      "count": 3250
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:08] <tooothless5689> !list",
-    "[19:08] To tooothless5689: Hello tooothless5689!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:08] [BOT] <0_HienBot> **tooothless5689**: !list",
-    "[19:08] [8b8t] >> You have killed yourself!",
-    "[19:08] To Jamjox: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[19:08] [BOT] <0_HienBot> **Bot to Jamjox**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[19:08] <tooothless5689> !toolbox",
-    "[19:08] [8b8t] >> Teleporting to home 0...",
-    "[19:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:08] [8b8t] >> Teleporting to home 4...",
-    "[19:08] To tooothless5689: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:08] [BOT] <0_HienBot> **Bot to tooothless5689**: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[19:08] To tooothless5689: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:08] [8b8t] >> Request sent to tooothless5689",
@@ -108,7 +96,19 @@
     "[19:09] <Jamjox> survival",
     "[19:09] To Jamjox: You're on cooldown, try again in 7 seconds! Don't forget to join dsc.gg/hienbot",
     "[19:09] [BOT] <0_HienBot> **Jamjox**: survival",
-    "[19:09] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[19:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:09] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[19:09] [BOT] <0_HienBot> >Do you want kit? Type *kit",
+    "[19:09] <Jamjox> survival",
+    "[19:09] [8b8t] >> Teleporting to home 0...",
+    "[19:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:09] [8b8t] >> Teleporting to home 1...",
+    "[19:09] To Jamjox: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:09] [BOT] <0_HienBot> **Bot to Jamjox**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:09] To Jamjox: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:09] [BOT] <0_HienBot> **Bot to Jamjox**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:09] [8b8t] >> Request sent to Jamjox",
+    "[19:09] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1370,7 +1370,7 @@
     "gugustavyu": 4,
     "yesNipunpie": 2,
     "baromijofej": 1,
-    "Jamjox": 63,
+    "Jamjox": 64,
     "rostyslav1k": 3,
     "Super_jj9000": 9,
     "Oussamita": 7,
@@ -1594,7 +1594,7 @@
   "kitStats": {
     "pvp": 2856,
     "raid": 831,
-    "survival": 3249,
+    "survival": 3250,
     "shulker": 1196,
     "music": 314,
     "terracotta": 53,
