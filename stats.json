@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:02:05 12/3/2026",
+  "lastUpdated": "08:02:16 12/3/2026",
   "totalKits": 110617,
   "todayKits": 63,
   "onlineCount": 39,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 39
   },
-  "tps": "12.0",
-  "ping": 197,
+  "tps": "11.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2691
+      "count": 2692
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:01] <pedritoenojado> n7j1",
-    "[01:01] [Ultra] <CEOofYT> en q shulker",
-    "[01:01] [BOT] <0_HienBot> **pedritoenojado**: n7j1",
-    "[01:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:01] <froggyh8103> survival",
-    "[01:01] [Ultra] <Kimaru> AQUI ESTAAAAAA",
-    "[01:01] [8b8t] >> Teleporting to home 0...",
-    "[01:01] [BOT] <0_HienBot> **froggyh8103**: survival",
-    "[01:01] [8b8t] >> Teleporting to home 1...",
-    "[01:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:01] To froggyh8103: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[01:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:01] [Ultra] <CEOofYT> PERAME",
@@ -108,7 +97,18 @@
     "[01:02] Chat disabled in client options",
     "[01:02] [BOT] <0_HienBot> >Items for PVP and Building available in build",
     "[01:02] [Ultra] <CEOofYT> erdon",
-    "[01:02] [BOT] <0_HienBot> **CEOofYT**: erdon"
+    "[01:02] [BOT] <0_HienBot> **CEOofYT**: erdon",
+    "[01:02] [8b8t] >> You have killed yourself!",
+    "[01:02] [Ultra] <Kimaru> tequierom",
+    "[01:02] [BOT] <0_HienBot> **focoloa**: tequierom",
+    "[01:02] To froggyh8103: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[01:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:02] <n7ji> Pvp",
+    "[01:02] [8b8t] >> Teleporting to home 0...",
+    "[01:02] [BOT] <0_HienBot> **n7ji**: Pvp",
+    "[01:02] [8b8t] >> Teleporting to home 1...",
+    "[01:02] To n7ji: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:02] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1555,10 +1555,10 @@
     "froggyh8103": 15,
     "hacker8010231": 8,
     "xAstrex": 7,
-    "n7ji": 10
+    "n7ji": 11
   },
   "kitStats": {
-    "pvp": 2691,
+    "pvp": 2692,
     "raid": 802,
     "survival": 3148,
     "shulker": 1178,
