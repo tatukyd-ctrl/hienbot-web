@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:28:16 12/3/2026",
+  "lastUpdated": "12:28:46 12/3/2026",
   "totalKits": 110687,
   "todayKits": 133,
   "onlineCount": 12,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 26
   },
-  "tps": "19.0",
+  "tps": "17.0",
   "ping": 207,
   "topUsers": [
     {
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:22] [BOT] <0_HienBot> >Hello MonkeBot!",
-    "[05:23] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[05:23] <keivdeil> food",
-    "[05:23] [8b8t] >> Teleporting to home 0...",
-    "[05:23] [BOT] <0_HienBot> **keivdeil**: food",
-    "[05:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:23] [8b8t] >> Teleporting to home 4...",
-    "[05:23] To keivdeil: Your kit (food) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[05:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:23] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[05:23] To keivdeil: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +100,15 @@
     "[05:27] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[05:27] [8b8t] >> Please do not spam.",
     "[05:28] [BOT] <0_HienBot> >Want free items? Just type survival",
-    "[05:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
+    "[05:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[05:28] [8b8t] >> Please do not spam.",
+    "[05:28] <keivdeil> Concrete",
+    "[05:28] [8b8t] >> Teleporting to home 0...",
+    "[05:28] [BOT] <0_HienBot> **keivdeil**: Concrete",
+    "[05:28] [8b8t] >> Teleporting to home 3...",
+    "[05:28] To keivdeil: Your kit (concrete) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:28] To keivdeil: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1475,7 +1475,7 @@
     "Are8130": 2,
     "EksiReis": 2,
     "Kiuseka": 3,
-    "keivdeil": 29,
+    "keivdeil": 30,
     "4olk": 1,
     "KionYhamma": 1,
     "ashluvtheflex": 2,
@@ -1576,7 +1576,7 @@
     "ocean": 97,
     "build": 998,
     "dye": 83,
-    "concrete": 140,
+    "concrete": 141,
     "dupe": 1002,
     "food": 277,
     "glass": 178,
