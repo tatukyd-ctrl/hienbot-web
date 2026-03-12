@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:24:06 13/3/2026",
+  "lastUpdated": "04:24:36 13/3/2026",
   "totalKits": 111254,
   "todayKits": 260,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "02:34:06 13/3/2026",
     "avg": 24
   },
-  "tps": "14.0",
-  "ping": 201,
+  "tps": "15.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,21 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 1033
+      "count": 1034
     }
   ],
   "chatLog": [
-    "[21:21] [8b8t] >> Teleporting...",
-    "[21:21] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[21:21] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[21:21] [8b8t] >> You have killed yourself!",
-    "[21:21] To Migzin: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:21] [BOT] <0_HienBot> **Bot to Migzin**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[21:21] <alastor_gamer89> list",
-    "[21:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:21] To alastor_gamer89: Hello alastor_gamer89!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[21:21] 8b8tstrlord has made the advancement [Monster Hunter]",
-    "[21:21] <Luchadorluk> ¡kit build2",
     "[21:21] To Luchadorluk: You're on cooldown, try again in 10 seconds! Don't forget to join dsc.gg/hienbot",
     "[21:21] [BOT] <0_HienBot> **Luchadorluk**: kit build2",
     "[21:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +97,18 @@
     "[21:23] <LavacastGuy> ⎓⚍ᓵꖌ ||𝙹⚍ ᒲ∷リ⚍ꖎꖎ||ℸ",
     "[21:23] [BOT] <0_HienBot> **LavacastGuy**: || ||",
     "[21:23] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[21:24] Linkiwiii_ has made the advancement [We Need to Go Deeper]"
+    "[21:24] Linkiwiii_ has made the advancement [We Need to Go Deeper]",
+    "[21:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[21:24] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
+    "[21:24] <alastor_gamer89> dupe",
+    "[21:24] [8b8t] >> Teleporting to home 0...",
+    "[21:24] [BOT] <0_HienBot> **alastor_gamer89**: dupe",
+    "[21:24] [8b8t] >> Teleporting to home 7...",
+    "[21:24] To alastor_gamer89: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:24] To alastor_gamer89: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:24] [BOT] <0_HienBot> **Bot to alastor_gamer89**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:24] [8b8t] >> Request sent to alastor_gamer89"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1592,7 +1592,8 @@
     "blockofquartz": 18,
     "alimehmc221": 2,
     "Axno2": 6,
-    "kayz272": 4
+    "kayz272": 4,
+    "alastor_gamer89": 1
   },
   "kitStats": {
     "pvp": 2872,
@@ -1612,7 +1613,7 @@
     "build": 1028,
     "dye": 85,
     "concrete": 149,
-    "dupe": 1033,
+    "dupe": 1034,
     "food": 279,
     "glass": 187,
     "elytra": 1100,
