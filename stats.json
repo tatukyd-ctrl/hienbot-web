@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:08:24 13/3/2026",
+  "lastUpdated": "02:08:36 13/3/2026",
   "totalKits": 111168,
   "todayKits": 174,
-  "onlineCount": 34,
+  "onlineCount": 33,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "01:54:06 13/3/2026",
     "avg": 23
   },
-  "tps": "13.0",
-  "ping": 206,
+  "tps": "12.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:07] [BOT] <0_HienBot> **Migzin**: trims",
-    "[19:07] [8b8t] >> Teleporting to home 7...",
-    "[19:07] To Migzin: Your kit (trims) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:07] To Migzin: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:07] [BOT] <0_HienBot> **Bot to Migzin**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:07] [8b8t] >> Request sent to Migzin",
-    "[19:07] [8b8t] >> Teleporting...",
-    "[19:08] [8b8t] >> You have killed yourself!",
-    "[19:08] To Migzin: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[19:08] [BOT] <0_HienBot> **Bot to Migzin**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[19:08] <Jamjox> stash",
     "[19:08] [8b8t] >> Teleporting to home 0...",
     "[19:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +96,19 @@
     "[19:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:08] <tooothless5689> !list",
     "[19:08] To tooothless5689: Hello tooothless5689!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[19:08] [BOT] <0_HienBot> **tooothless5689**: !list"
+    "[19:08] [BOT] <0_HienBot> **tooothless5689**: !list",
+    "[19:08] [8b8t] >> You have killed yourself!",
+    "[19:08] To Jamjox: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:08] [BOT] <0_HienBot> **Bot to Jamjox**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:08] <tooothless5689> !toolbox",
+    "[19:08] [8b8t] >> Teleporting to home 0...",
+    "[19:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:08] [8b8t] >> Teleporting to home 4...",
+    "[19:08] To tooothless5689: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:08] [BOT] <0_HienBot> **Bot to tooothless5689**: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:08] To tooothless5689: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:08] [8b8t] >> Request sent to tooothless5689"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1572,7 +1572,7 @@
     "noob112233": 4,
     "58_": 4,
     "Quartash": 6,
-    "tooothless5689": 11,
+    "tooothless5689": 12,
     "kayz_09": 7,
     ".Asteroid_Sub": 5,
     "6t5e": 2,
@@ -1601,7 +1601,7 @@
     "lightsources": 181,
     "tools": 910,
     "armortrims": 216,
-    "toolbox": 301,
+    "toolbox": 302,
     "wool": 365,
     "exp": 522,
     "stash": 897,
