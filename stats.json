@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:57:47 12/3/2026",
+  "lastUpdated": "16:58:17 12/3/2026",
   "totalKits": 110778,
   "todayKits": 224,
   "onlineCount": 17,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 20
   },
-  "tps": "20.0",
-  "ping": 215,
+  "tps": "18.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:56] <rockeater500> materials",
-    "[09:56] [8b8t] >> Teleporting to home 0...",
-    "[09:56] [BOT] <0_HienBot> **rockeater500**: materials",
-    "[09:56] [8b8t] >> Teleporting to home 2...",
-    "[09:56] To rockeater500: Your kit (materials) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[09:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:56] To rockeater500: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:56] [BOT] <0_HienBot> **Bot to rockeater500**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +103,12 @@
     "[09:57] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[09:57] [BOT] <0_HienBot> >Use list to see all available kits!",
     "[09:57] [8b8t] >> You have killed yourself!",
-    "[09:57] [8b8t] >> The TPA request you sent to IamLightVacoro was successfully canceled."
+    "[09:57] [8b8t] >> The TPA request you sent to IamLightVacoro was successfully canceled.",
+    "[09:57] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[09:58] <Jackbit4> list",
+    "[09:58] To Jackbit4: Hello Jackbit4!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[09:58] [BOT] <0_HienBot> **Jackbit4**: list",
+    "[09:58] <Jackbit4> toolbox"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1513,7 +1513,7 @@
     "DrDisconect535": 16,
     "ZojiFujita": 7,
     "Missing0rchid": 1,
-    "Jackbit4": 12,
+    "Jackbit4": 13,
     "chopstickswonton": 18,
     ".NatYeet12342391": 1,
     "alexeldios": 14,
@@ -1576,7 +1576,7 @@
     "lightsources": 178,
     "tools": 867,
     "armortrims": 208,
-    "toolbox": 291,
+    "toolbox": 292,
     "wool": 358,
     "exp": 508,
     "stash": 876,
