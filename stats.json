@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:58:44 12/3/2026",
+  "lastUpdated": "23:59:06 12/3/2026",
   "totalKits": 111095,
   "todayKits": 101,
   "onlineCount": 35,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "18.0",
+  "tps": "17.0",
   "ping": 201,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3225
+      "count": 3226
     },
     {
       "name": "pvp",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:58] <8b8tstrlord> type list",
-    "[16:58] [BOT] <0_HienBot> **8b8tstrlord**: type list",
-    "[16:58] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
-    "[16:58] <tarikozerbay> list",
-    "[16:58] To tarikozerbay: Hello tarikozerbay!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:58] <AhianXD> list",
-    "[16:58] To AhianXD: Hello AhianXD!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[16:58] [BOT] <0_HienBot> **AhianXD**: list",
-    "[16:58] <tarikozerbay> survival",
-    "[16:58] To tarikozerbay: You're on cooldown, try again in 34 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:58] [BOT] <0_HienBot> **tarikozerbay**: survival",
-    "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:58] <8b8tstrlord> grief",
-    "[16:58] [8b8t] >> Teleporting to home 0...",
-    "[16:58] [BOT] <0_HienBot> **8b8tstrlord**: grief",
-    "[16:58] [8b8t] >> Teleporting to home 2...",
-    "[16:58] To 8b8tstrlord: Your kit (grief) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:58] To 8b8tstrlord: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:58] [BOT] <0_HienBot> **Bot to 8b8tstrlord**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[16:58] [8b8t] >> Request sent to 8b8tstrlord",
@@ -108,7 +89,26 @@
     "[16:58] [BOT] <0_HienBot> **AhianXD**: pvp",
     "[16:58] [8b8t] >> Teleporting...",
     "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:58] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!"
+    "[16:58] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[16:58] [8b8t] >> You have killed yourself!",
+    "[16:58] To 8b8tstrlord: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[16:58] [BOT] <0_HienBot> **Bot to 8b8tstrlord**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[16:58] <tarikozerbay> survival",
+    "[16:58] To tarikozerbay: You're on cooldown, try again in 6 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:58] [BOT] <0_HienBot> **tarikozerbay**: survival",
+    "[16:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:58] 8b8tstrlord has made the advancement [Spooky Scary Skeleton]",
+    "[16:58] <Dario_Supremo> mull",
+    "[16:58] [BOT] <0_HienBot> **Dario_Supremo**: mull",
+    "[16:59] <AhianXD> survival",
+    "[16:59] [8b8t] >> Teleporting to home 0...",
+    "[16:59] [BOT] <0_HienBot> **AhianXD**: survival",
+    "[16:59] [8b8t] >> Teleporting to home 1...",
+    "[16:59] To AhianXD: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:59] To AhianXD: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:59] [BOT] <0_HienBot> **Bot to AhianXD**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:59] [8b8t] >> Request sent to AhianXD"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1582,12 +1582,13 @@
     "Samioski": 2,
     "Sketchyashes": 1,
     "tarikozerbay": 2,
-    "8b8tstrlord": 2
+    "8b8tstrlord": 2,
+    "AhianXD": 1
   },
   "kitStats": {
     "pvp": 2842,
     "raid": 829,
-    "survival": 3225,
+    "survival": 3226,
     "shulker": 1196,
     "music": 313,
     "terracotta": 53,
