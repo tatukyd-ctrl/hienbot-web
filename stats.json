@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:26:17 12/3/2026",
+  "lastUpdated": "17:26:47 12/3/2026",
   "totalKits": 110790,
   "todayKits": 236,
   "onlineCount": 20,
@@ -13,7 +13,7 @@
     "avg": 20
   },
   "tps": "20.0",
-  "ping": 210,
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3172
+      "count": 3173
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:24] [8b8t] >> Teleporting to home 5...",
-    "[10:24] [BOT] <0_HienBot> **kits_pls**: !exp",
-    "[10:24] To kits_pls: Your kit (exp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:24] To kits_pls: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:24] [BOT] <0_HienBot> **Bot to kits_pls**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:24] [8b8t] >> Request sent to kits_pls",
-    "[10:24] TYRANTIUM has made the advancement [Fishy Business]",
-    "[10:24] [8b8t] >> Teleporting...",
-    "[10:24] [8b8t] >> You have killed yourself!",
-    "[10:24] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
-    "[10:24] To kits_pls: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:24] <MIDASSX7> PLS ONE KIT ?",
-    "[10:24] [BOT] <0_HienBot> **Bot to kits_pls**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:24] <Dreamers> im gonna show u",
     "[10:24] [BOT] <0_HienBot> >Hey cappuccino_!",
     "[10:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +92,23 @@
     "[10:25] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[10:25] <rockeater500> elytra brok",
     "[10:25] [BOT] <0_HienBot> **rockeater500**: elytra brok",
-    "[10:25] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[10:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:26] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[10:26] <tommyber> survival",
+    "[10:26] [BOT] <0_HienBot> **tommyber**: survival",
+    "[10:26] [8b8t] >> Teleporting to home 0...",
+    "[10:26] [8b8t] >> Teleporting to home 1...",
+    "[10:26] To tommyber: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:26] To tommyber: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:26] <Dreamers> MIDASSX7",
+    "[10:26] [BOT] <0_HienBot> **Bot to tommyber**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:26] [8b8t] >> Request sent to tommyber",
+    "[10:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:26] <Dreamers> go to 20k",
+    "[10:26] [BOT] <0_HienBot> **Dreamers**: go to 20k",
+    "[10:26] <MIDASSX7> yes ?",
+    "[10:26] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1564,12 +1564,13 @@
     "LAKAEEE": 7,
     "kits_pls": 6,
     "FaxeHeadless": 7,
-    "Bloodli": 1
+    "Bloodli": 1,
+    "tommyber": 1
   },
   "kitStats": {
     "pvp": 2745,
     "raid": 809,
-    "survival": 3172,
+    "survival": 3173,
     "shulker": 1186,
     "music": 310,
     "terracotta": 53,
