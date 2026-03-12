@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:45:16 12/3/2026",
+  "lastUpdated": "09:45:46 12/3/2026",
   "totalKits": 110671,
   "todayKits": 117,
   "onlineCount": 24,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 32
   },
-  "tps": "20.0",
-  "ping": 195,
+  "tps": "12.0",
+  "ping": 196,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3157
+      "count": 3158
     },
     {
       "name": "pvp",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:43] <vydraken> y manteca",
-    "[02:43] [BOT] <0_HienBot> **vydraken**: y manteca",
-    "[02:43] [BOT] <0_HienBot> >Try dupe",
-    "[02:43] <geeyuh> elytra",
-    "[02:43] [8b8t] >> Teleporting to home 0...",
-    "[02:43] [BOT] <0_HienBot> **geeyuh**: elytra",
-    "[02:43] [8b8t] >> Teleporting to home 6...",
-    "[02:43] To geeyuh: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:43] To geeyuh: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:43] [BOT] <0_HienBot> **Bot to geeyuh**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:43] [8b8t] >> Request sent to geeyuh",
@@ -108,7 +99,16 @@
     "[02:45] <keivdeil> cual",
     "[02:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:45] <keivdeil> andaba afk",
-    "[02:45] [BOT] <0_HienBot> **keivdeil**: andaba afk"
+    "[02:45] [BOT] <0_HienBot> **keivdeil**: andaba afk",
+    "[02:45] [BOT] <0_HienBot> >Do you want kit? Type *kit",
+    "[02:45] <keivdeil> llego en 2 segundo",
+    "[02:45] [BOT] <0_HienBot> **keivdeil**: llego en 2 segundo",
+    "[02:45] <keivdeil> !bed",
+    "[02:45] [8b8t] >> Teleporting to home 0...",
+    "[02:45] [BOT] <0_HienBot> **keivdeil**: !bed",
+    "[02:45] [8b8t] >> Teleporting to home 1...",
+    "[02:45] To keivdeil: Your kit (bed) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:45] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1475,7 +1475,7 @@
     "Are8130": 2,
     "EksiReis": 2,
     "Kiuseka": 3,
-    "keivdeil": 21,
+    "keivdeil": 22,
     "4olk": 1,
     "KionYhamma": 1,
     "ashluvtheflex": 2,
@@ -1562,7 +1562,7 @@
   "kitStats": {
     "pvp": 2701,
     "raid": 804,
-    "survival": 3157,
+    "survival": 3158,
     "shulker": 1183,
     "music": 304,
     "terracotta": 50,
