@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:07:25 12/3/2026",
-  "totalKits": 110841,
-  "todayKits": 287,
+  "lastUpdated": "18:07:39 12/3/2026",
+  "totalKits": 110842,
+  "todayKits": 288,
   "onlineCount": 22,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 20
   },
-  "tps": "18.0",
-  "ping": 208,
+  "tps": "14.0",
+  "ping": 222,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2760
+      "count": 2761
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:06] To Engine_963: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:06] [BOT] <0_HienBot> **Bot to Engine_963**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:06] <Dreamers> wait",
-    "[11:06] [8b8t] >> Teleporting to home 0...",
-    "[11:06] [BOT] <0_HienBot> **Dreamers**: wait",
-    "[11:06] [8b8t] >> Teleporting to home 1...",
-    "[11:06] To Dreamers: Your kit (wait) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:06] To Dreamers: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[11:06] [BOT] <0_HienBot> **Bot to Dreamers**: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[11:06] <Dreamers> i need to regear it",
-    "[11:06] [BOT] <0_HienBot> **Dreamers**: i need to regear it",
     "[11:06] <Dreamers> re put it",
     "[11:07] [BOT] <0_HienBot> **Dreamers**: re put it",
     "[11:07] <BITROX006> !stash",
@@ -108,7 +95,20 @@
     "[11:07] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
     "[11:07] [8b8t] >> Teleporting...",
     "[11:07] <Engine_963> idk",
-    "[11:07] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[11:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:07] [8b8t] >> You have killed yourself!",
+    "[11:07] <Engine_963> spear",
+    "[11:07] [8b8t] >> Teleporting to home 0...",
+    "[11:07] [BOT] <0_HienBot> **Engine_963**: spear",
+    "[11:07] [8b8t] >> Teleporting to home 1...",
+    "[11:07] To Engine_963: Your kit (spear) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:07] To BITROX006: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[11:07] [BOT] <0_HienBot> **Bot to BITROX006**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[11:07] To Engine_963: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:07] [8b8t] >> Request sent to Engine_963",
+    "[11:07] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1542,7 +1542,7 @@
     "03032026CS": 12,
     "xxx_pidor124_xxx": 2,
     "kuba_14235": 1,
-    "Engine_963": 11,
+    "Engine_963": 12,
     "the_spring_fortk": 1,
     "TheGoatishere777": 1,
     "Potato_Gamer965": 2,
@@ -1571,7 +1571,7 @@
     "Longlamma": 4
   },
   "kitStats": {
-    "pvp": 2760,
+    "pvp": 2761,
     "raid": 809,
     "survival": 3178,
     "shulker": 1186,
