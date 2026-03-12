@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:54:18 12/3/2026",
+  "lastUpdated": "17:54:48 12/3/2026",
   "totalKits": 110823,
   "todayKits": 269,
   "onlineCount": 21,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 20
   },
-  "tps": "17.0",
+  "tps": "19.0",
   "ping": 211,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2755
+      "count": 2756
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:53] [8b8t] >> You have killed yourself!",
-    "[10:53] To rngr1: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:53] [BOT] <0_HienBot> **Bot to rngr1**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:53] <Longlamma> it says I have to go 20000 blocks out to tp",
-    "[10:53] [BOT] <0_HienBot> **Longlamma**: it says I have to go 20000 blocks out to tp",
-    "[10:53] <Dreamers> ur at spawn arent u",
-    "[10:53] [BOT] <0_HienBot> **Dreamers**: ur at spawn arent u",
-    "[10:53] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[10:53] <Longlamma> ye",
-    "[10:53] [BOT] <0_HienBot> **Longlamma**: ye",
-    "[10:53] <Dreamers> !pvp",
-    "[10:53] [8b8t] >> Teleporting to home 0...",
-    "[10:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:53] [8b8t] >> Teleporting to home 1...",
-    "[10:53] To Dreamers: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:53] [BOT] <0_HienBot> **Bot to Dreamers**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:53] To Dreamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:53] [BOT] <0_HienBot> **Bot to Dreamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:54] [8b8t] >> Request sent to Dreamers",
@@ -108,6 +92,22 @@
     "[10:54] To Dreamers: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:54] [BOT] <0_HienBot> **Bot to Dreamers**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:54] <Dreamers> it took me 2 days to escape spawn",
+    "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:54] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[10:54] <kits_pls> lucky i have my bed on my home",
+    "[10:54] [BOT] <0_HienBot> **kits_pls**: lucky i have my bed on my home",
+    "[10:54] <Longlamma> pvp",
+    "[10:54] [8b8t] >> Teleporting to home 0...",
+    "[10:54] [BOT] <0_HienBot> **Longlamma**: pvp",
+    "[10:54] [8b8t] >> Teleporting to home 1...",
+    "[10:54] To Longlamma: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:54] To Longlamma: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:54] <Longlamma> !pvp",
+    "[10:54] To Longlamma: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[10:54] [BOT] <0_HienBot> **Bot to Longlamma**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:54] [8b8t] >> Request sent to Longlamma",
     "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
@@ -1567,10 +1567,11 @@
     "Bloodli": 5,
     "tommyber": 9,
     "BITROX006": 6,
-    "rngr1": 2
+    "rngr1": 2,
+    "Longlamma": 1
   },
   "kitStats": {
-    "pvp": 2755,
+    "pvp": 2756,
     "raid": 809,
     "survival": 3176,
     "shulker": 1186,
