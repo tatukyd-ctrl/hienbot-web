@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:42:47 12/3/2026",
-  "totalKits": 110706,
-  "todayKits": 152,
+  "lastUpdated": "13:43:17 12/3/2026",
+  "totalKits": 110707,
+  "todayKits": 153,
   "onlineCount": 9,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 23
   },
-  "tps": "20.0",
+  "tps": "16.0",
   "ping": 208,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2705
+      "count": 2706
     },
     {
       "name": "shulker",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:41] [BOT] <0_HienBot> **yostin_12**: pvp",
-    "[06:41] To yostin_12: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:41] To yostin_12: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:41] [BOT] <0_HienBot> **Bot to yostin_12**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[06:41] [8b8t] >> Request sent to yostin_12",
-    "[06:41] [8b8t] >> Teleporting...",
-    "[06:41] [8b8t] >> You have killed yourself!",
-    "[06:41] To yostin_12: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:41] [BOT] <0_HienBot> **Bot to yostin_12**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:41] [BOT] <0_HienBot> >Hello DDosma!",
-    "[06:42] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[06:42] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[06:42] <MrSirGuy1004> glass",
-    "[06:42] [8b8t] >> Teleporting to home 0...",
-    "[06:42] [BOT] <0_HienBot> **MrSirGuy1004**: glass",
-    "[06:42] [8b8t] >> Teleporting to home 4...",
     "[06:42] To MrSirGuy1004: Your kit (glass) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[06:42] <yostin_12> pvp",
     "[06:42] To yostin_12: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
@@ -108,7 +91,24 @@
     "[06:42] <yostin_12> pvp",
     "[06:42] To yostin_12: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[06:42] [BOT] <0_HienBot> **yostin_12**: pvp",
-    "[06:42] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[06:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:42] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[06:42] <yostin_12> pvp",
+    "[06:42] To yostin_12: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[06:42] [BOT] <0_HienBot> **yostin_12**: pvp",
+    "[06:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:43] [8b8t] >> You have killed yourself!",
+    "[06:43] [8b8t] >> The TPA request you sent to MrSirGuy1004 was successfully canceled.",
+    "[06:43] <yostin_12> pvp",
+    "[06:43] [8b8t] >> Teleporting to home 0...",
+    "[06:43] [BOT] <0_HienBot> **yostin_12**: pvp",
+    "[06:43] [8b8t] >> Teleporting to home 1...",
+    "[06:43] To yostin_12: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:43] To yostin_12: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:43] [BOT] <0_HienBot> **Bot to yostin_12**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[06:43] [8b8t] >> Request sent to yostin_12",
+    "[06:43] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1558,10 +1558,10 @@
     "n7ji": 16,
     "Scratch": 4,
     "mantecaSSJ": 1,
-    "yostin_12": 3
+    "yostin_12": 4
   },
   "kitStats": {
-    "pvp": 2705,
+    "pvp": 2706,
     "raid": 805,
     "survival": 3166,
     "shulker": 1185,
