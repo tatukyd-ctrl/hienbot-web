@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:42:17 12/3/2026",
-  "totalKits": 110802,
-  "todayKits": 248,
-  "onlineCount": 22,
+  "lastUpdated": "17:42:33 12/3/2026",
+  "totalKits": 110803,
+  "todayKits": 249,
+  "onlineCount": 24,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 20
   },
-  "tps": "18.0",
-  "ping": 210,
+  "tps": "16.0",
+  "ping": 287,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2748
+      "count": 2749
     },
     {
       "name": "shulker",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:41] <cappuccino_> ?seed",
-    "[10:41] [BOT] <0_HienBot> **MIDASSX7**: for me ?",
-    "[10:41] <Dreamers> !wood",
-    "[10:41] To Dreamers: You're on cooldown, try again in 58 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:41] potatomonstR has made the advancement [Ice Bucket Challenge]",
-    "[10:41] <Bloodli> !monkey",
-    "[10:41] [BOT] <0_HienBot> **Bloodli**: !monkey",
-    "[10:41] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
-    "[10:42] <Bloodli> dupe",
-    "[10:42] [8b8t] >> Teleporting to home 0...",
-    "[10:42] [BOT] <0_HienBot> **Bloodli**: dupe",
-    "[10:42] [8b8t] >> Teleporting to home 7...",
-    "[10:42] To Bloodli: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:42] To Bloodli: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:42] [BOT] <0_HienBot> **Bot to Bloodli**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +92,23 @@
     "[10:42] <BITROX006> dupe",
     "[10:42] To BITROX006: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[10:42] [BOT] <0_HienBot> **BITROX006**: dupe",
-    "[10:42] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[10:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:42] [8b8t] >> You have killed yourself!",
+    "[10:42] <BITROX006> !pvp",
+    "[10:42] [8b8t] >> Teleporting to home 0...",
+    "[10:42] [BOT] <0_HienBot> **BITROX006**: !pvp",
+    "[10:42] [8b8t] >> Teleporting to home 1...",
+    "[10:42] <potatomonstR> FREE KIT PLS",
+    "[10:42] To BITROX006: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:42] To Bloodli: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:42] [BOT] <0_HienBot> **Bot to Bloodli**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:42] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:42] [8b8t] >> Request sent to BITROX006",
+    "[10:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1566,10 +1566,10 @@
     "FaxeHeadless": 7,
     "Bloodli": 2,
     "tommyber": 6,
-    "BITROX006": 2
+    "BITROX006": 3
   },
   "kitStats": {
-    "pvp": 2748,
+    "pvp": 2749,
     "raid": 809,
     "survival": 3176,
     "shulker": 1186,
