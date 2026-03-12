@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:10:22 13/3/2026",
+  "lastUpdated": "01:10:36 13/3/2026",
   "totalKits": 111127,
   "todayKits": 133,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "17.0",
-  "ping": 203,
+  "tps": "16.0",
+  "ping": 229,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2852
+      "count": 2853
     },
     {
       "name": "shulker",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:08] [Ultra] <Kimaru> yo me imagino que ya no me va a kickear",
-    "[18:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:09] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[18:09] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
-    "[18:09] [Ultra] <Kimaru> ae",
-    "[18:09] [BOT] <0_HienBot> **focoloa**: ae",
     "[18:09] [Ultra] <Kimaru> qe",
     "[18:09] [BOT] <0_HienBot> **focoloa**: qe",
     "[18:09] [Ultra] <Kimaru> mvoy",
@@ -108,7 +101,14 @@
     "[18:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:10] [8b8t] >> Request sent to BiasRuby4589",
     "[18:10] [8b8t] >> Teleporting...",
-    "[18:10] You cannot be above the nether roof!"
+    "[18:10] You cannot be above the nether roof!",
+    "[18:10] [8b8t] >> You have killed yourself!",
+    "[18:10] To BiasRuby4589: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[18:10] [BOT] <0_HienBot> **Bot to BiasRuby4589**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[18:10] <quanbel> pvp",
+    "[18:10] [8b8t] >> Teleporting to home 0...",
+    "[18:10] [BOT] <0_HienBot> **quanbel**: pvp",
+    "[18:10] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1176,7 +1176,7 @@
     "KEDY32": 8,
     "Ozi1230YT": 6,
     ".PepeChuyHS": 19,
-    "quanbel": 36,
+    "quanbel": 37,
     "Boxx": 4,
     "Ascalter40": 197,
     "eFenek": 6,
@@ -1589,7 +1589,7 @@
     "o_Hein_BOT": 1
   },
   "kitStats": {
-    "pvp": 2852,
+    "pvp": 2853,
     "raid": 830,
     "survival": 3236,
     "shulker": 1196,
