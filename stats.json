@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:48:18 12/3/2026",
-  "totalKits": 110939,
-  "todayKits": 385,
+  "lastUpdated": "19:48:31 12/3/2026",
+  "totalKits": 110940,
+  "todayKits": 386,
   "onlineCount": 21,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 21
   },
-  "tps": "18.0",
-  "ping": 209,
+  "tps": "15.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2793
+      "count": 2794
     },
     {
       "name": "shulker",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:47] [8b8t] >> You have killed yourself!",
-    "[12:47] To BiasRuby4589: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:47] [BOT] <0_HienBot> **Bot to BiasRuby4589**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:47] <KyGaming1212> Lkill",
-    "[12:47] [BOT] <0_HienBot> **KyGaming1212**: Lkill",
-    "[12:48] <xxx_pidor124_xxx> !survival",
-    "[12:48] [8b8t] >> Teleporting to home 0...",
-    "[12:48] [8b8t] >> Please do not spam.",
-    "[12:48] [8b8t] >> Teleporting to home 1...",
-    "[12:48] To xxx_pidor124_xxx: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[12:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[12:48] To xxx_pidor124_xxx: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[12:48] [BOT] <0_HienBot> **Bot to xxx_pidor124_xxx**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[12:48] <Khushal_maxx77> survival",
     "[12:48] To Khushal_maxx77: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
     "[12:48] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -108,7 +93,22 @@
     "[12:48] <BiasRuby4589> !survival",
     "[12:48] To BiasRuby4589: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[12:48] [BOT] <0_HienBot> **BiasRuby4589**: !survival",
-    "[12:48] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[12:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:48] [8b8t] >> You have killed yourself!",
+    "[12:48] You cannot be above the nether roof!",
+    "[12:48] <Khushal_maxx77> !pvp",
+    "[12:48] [8b8t] >> Teleporting to home 0...",
+    "[12:48] [BOT] <0_HienBot> >Running low on supplies? Use survival",
+    "[12:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:48] [8b8t] >> Teleporting to home 1...",
+    "[12:48] To xxx_pidor124_xxx: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[12:48] To Khushal_maxx77: ¡Tu kit (pvp) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
+    "[12:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:48] To Khushal_maxx77: ¡Escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[12:48] [BOT] <0_HienBot> **Bot to Khushal_maxx77**: Escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
+    "[12:48] [8b8t] >> Request sent to Khushal_maxx77",
+    "[12:48] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -403,7 +403,7 @@
     "0xPwnd": 1,
     "FireSpring94864": 1,
     "DeadlyNyxian": 61,
-    "Khushal_maxx77": 22,
+    "Khushal_maxx77": 23,
     "vmpy7": 8,
     "Volt695367": 80,
     "nfkiki": 6,
@@ -1574,7 +1574,7 @@
     "Quartash": 6
   },
   "kitStats": {
-    "pvp": 2793,
+    "pvp": 2794,
     "raid": 822,
     "survival": 3190,
     "shulker": 1189,
