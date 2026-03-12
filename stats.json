@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:54:36 13/3/2026",
+  "lastUpdated": "05:55:06 13/3/2026",
   "totalKits": 111291,
   "todayKits": 297,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 25
   },
   "tps": "18.0",
-  "ping": 209,
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3274
+      "count": 3275
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:49] [8b8t] >> Teleporting to home 1...",
-    "[22:49] To Luchadorluk: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:49] [BOT] <0_HienBot> **Bot to Luchadorluk**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:49] To Luchadorluk: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:49] [BOT] <0_HienBot> **Bot to Luchadorluk**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:49] [8b8t] >> Request sent to Luchadorluk",
-    "[22:49] [8b8t] >> Teleporting...",
-    "[22:49] [8b8t] >> You have killed yourself!",
-    "[22:49] To Luchadorluk: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[22:49] [BOT] <0_HienBot> **Bot to Luchadorluk**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[22:49] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[22:49] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
     "[22:49] <jcx311> gracias hmn",
@@ -108,7 +98,17 @@
     "[22:53] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[22:53] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
     "[22:54] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[22:54] [BOT] <0_HienBot> >Try list to see available kits"
+    "[22:54] [BOT] <0_HienBot> >Try list to see available kits",
+    "[22:54] [BOT] <0_HienBot> >Do you want kit? Type *kit",
+    "[22:54] <Drupix> kit",
+    "[22:54] [BOT] <0_HienBot> **Drupix**: kit",
+    "[22:54] To Drupix: Hello Drupix!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[22:55] <Drupix> survival",
+    "[22:55] [8b8t] >> Teleporting to home 0...",
+    "[22:55] [BOT] <0_HienBot> **Drupix**: survival",
+    "[22:55] [8b8t] >> Teleporting to home 1...",
+    "[22:55] To Drupix: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:55] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1598,12 +1598,13 @@
     "CyberOne6ty": 10,
     "Juancho_chan69": 2,
     "Shada1111": 1,
-    "javac": 3
+    "javac": 3,
+    "Drupix": 1
   },
   "kitStats": {
     "pvp": 2881,
     "raid": 839,
-    "survival": 3274,
+    "survival": 3275,
     "shulker": 1201,
     "music": 315,
     "terracotta": 53,
