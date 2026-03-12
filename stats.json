@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:39:47 12/3/2026",
+  "lastUpdated": "13:40:17 12/3/2026",
   "totalKits": 110703,
   "todayKits": 149,
   "onlineCount": 11,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 23
   },
-  "tps": "18.0",
-  "ping": 265,
+  "tps": "20.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,17 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 1003
+      "count": 1004
     }
   ],
   "chatLog": [
-    "[06:38] <MrSirGuy1004> concrete",
-    "[06:38] [8b8t] >> Teleporting to home 0...",
-    "[06:38] [BOT] <0_HienBot> **MrSirGuy1004**: concrete",
-    "[06:38] [8b8t] >> Teleporting to home 3...",
-    "[06:38] To MrSirGuy1004: Your kit (concrete) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[06:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:38] To MrSirGuy1004: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:39] [BOT] <0_HienBot> **Bot to MrSirGuy1004**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:39] [8b8t] >> Request sent to MrSirGuy1004",
     "[06:39] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
@@ -108,7 +101,14 @@
     "[06:39] [8b8t] >> Teleporting...",
     "[06:39] [8b8t] >> You have killed yourself!",
     "[06:39] To yostin_12: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[06:39] [8b8t] >> Please do not spam."
+    "[06:39] [8b8t] >> Please do not spam.",
+    "[06:39] [BOT] <0_HienBot> >Try dupe",
+    "[06:39] <DemodogPVP> is there server dupe ?",
+    "[06:39] [BOT] <0_HienBot> **DemodogPVP**: is there server dupe ?",
+    "[06:40] <keivdeil> burro",
+    "[06:40] [BOT] <0_HienBot> **keivdeil**: burro",
+    "[06:40] <keivdeil> donkey",
+    "[06:40] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1475,7 +1475,7 @@
     "Are8130": 2,
     "EksiReis": 2,
     "Kiuseka": 3,
-    "keivdeil": 37,
+    "keivdeil": 38,
     "4olk": 1,
     "KionYhamma": 1,
     "ashluvtheflex": 2,
@@ -1578,7 +1578,7 @@
     "build": 998,
     "dye": 83,
     "concrete": 146,
-    "dupe": 1003,
+    "dupe": 1004,
     "food": 277,
     "glass": 178,
     "elytra": 1035,
