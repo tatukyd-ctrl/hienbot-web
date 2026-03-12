@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:50:06 13/3/2026",
+  "lastUpdated": "01:50:36 13/3/2026",
   "totalKits": 111146,
   "todayKits": 152,
   "onlineCount": 41,
@@ -12,8 +12,8 @@
     "maxTime": "01:49:20 13/3/2026",
     "avg": 23
   },
-  "tps": "10.0",
-  "ping": 212,
+  "tps": "13.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3245
+      "count": 3246
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:49] [BOT] <0_HienBot> **Bot to Wenstt**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:49] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[18:49] <InsaneBoi69> toolbox",
-    "[18:49] [8b8t] >> Teleporting to home 0...",
-    "[18:49] [BOT] <0_HienBot> **InsaneBoi69**: toolbox",
-    "[18:49] [8b8t] >> Teleporting to home 4...",
-    "[18:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:49] To InsaneBoi69: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[18:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:49] To InsaneBoi69: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[18:49] [BOT] <0_HienBot> **Bot to InsaneBoi69**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[18:49] [8b8t] >> Request sent to InsaneBoi69",
-    "[18:49] [8b8t] >> Teleporting...",
-    "[18:49] [8b8t] >> You have killed yourself!",
-    "[18:49] <Wenstt> donkey",
-    "[18:49] [8b8t] >> Teleporting to home 0...",
     "[18:49] [BOT] <0_HienBot> **Wenstt**: donkey",
     "[18:49] [8b8t] >> Teleporting to home 7...",
     "[18:49] To InsaneBoi69: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +92,23 @@
     "[18:50] To blockofquartz: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[18:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[18:50] [BOT] <0_HienBot> **Bot to blockofquartz**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[18:50] [8b8t] >> Teleporting..."
+    "[18:50] [8b8t] >> Teleporting...",
+    "[18:50] [8b8t] >> You have killed yourself!",
+    "[18:50] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[18:50] To Wenstt: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[18:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:50] <Wenstt> dupe",
+    "[18:50] To Wenstt: You're on cooldown, try again in 41 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:50] [BOT] <0_HienBot> **Wenstt**: dupe",
+    "[18:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:50] <Wenstt> kit",
+    "[18:50] To Wenstt: Hello Wenstt!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[18:50] [BOT] <0_HienBot> **Wenstt**: kit",
+    "[18:50] <blockofquartz> survival",
+    "[18:50] [8b8t] >> Teleporting to home 0...",
+    "[18:50] [BOT] <0_HienBot> **blockofquartz**: survival",
+    "[18:50] [8b8t] >> Teleporting to home 1...",
+    "[18:50] To blockofquartz: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1589,12 +1589,12 @@
     "o_Hein_BOT": 3,
     "eddx69": 1,
     ".Maniac3220": 1,
-    "blockofquartz": 1
+    "blockofquartz": 2
   },
   "kitStats": {
     "pvp": 2855,
     "raid": 830,
-    "survival": 3245,
+    "survival": 3246,
     "shulker": 1196,
     "music": 314,
     "terracotta": 53,
