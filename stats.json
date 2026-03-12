@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:21:16 12/3/2026",
+  "lastUpdated": "07:21:46 12/3/2026",
   "totalKits": 110567,
   "todayKits": 13,
-  "onlineCount": 38,
+  "onlineCount": 40,
   "peakPlayers": 44,
   "playerStats": {
     "min": 32,
@@ -12,8 +12,8 @@
     "maxTime": "07:12:46 12/3/2026",
     "avg": 37
   },
-  "tps": "14.0",
-  "ping": 197,
+  "tps": "12.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3134
+      "count": 3135
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:20] [8b8t] >> Teleporting to home 6...",
-    "[00:20] To LTjamston39: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[00:20] [BOT] <0_HienBot> **Bot to LTjamston39**: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[00:20] To LTjamston39: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:20] [8b8t] >> Request sent to LTjamston39",
-    "[00:20] [8b8t] >> Teleporting...",
-    "[00:20] [8b8t] >> You have killed yourself!",
-    "[00:20] To LTjamston39: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[00:20] [8b8t] >> Please do not spam.",
-    "[00:20] <froggyh8103> list",
     "[00:20] To froggyh8103: Hello froggyh8103!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[00:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[00:21] [SE] <dragonkit> wool",
@@ -108,7 +96,19 @@
     "[00:21] To froggyh8103: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[00:21] [BOT] <0_HienBot> **froggyh8103**: concrete",
     "[00:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:21] [8b8t] >> You have killed yourself!"
+    "[00:21] [8b8t] >> You have killed yourself!",
+    "[00:21] To dragonkit: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[00:21] [BOT] <0_HienBot> **Bot to dragonkit**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[00:21] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
+    "[00:21] <froggyh8103> list",
+    "[00:21] To froggyh8103: Hello froggyh8103!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[00:21] [BOT] <0_HienBot> **froggyh8103**: list",
+    "[00:21] <Luchadorluk> ¡kit survival",
+    "[00:21] [8b8t] >> Teleporting to home 0...",
+    "[00:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:21] [8b8t] >> Teleporting to home 1...",
+    "[00:21] To Luchadorluk: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:21] [BOT] <0_HienBot> **Bot to Luchadorluk**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1547,7 +1547,7 @@
     "TheGoatishere777": 1,
     "Potato_Gamer965": 2,
     ".FoundPower1416": 4,
-    "Luchadorluk": 9,
+    "Luchadorluk": 10,
     "NicoPlayz53000": 13,
     "smallbear": 1,
     "pedritoenojado": 2,
@@ -1557,7 +1557,7 @@
   "kitStats": {
     "pvp": 2678,
     "raid": 800,
-    "survival": 3134,
+    "survival": 3135,
     "shulker": 1177,
     "music": 304,
     "terracotta": 50,
