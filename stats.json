@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:36:15 12/3/2026",
+  "lastUpdated": "20:36:19 12/3/2026",
   "totalKits": 110992,
   "todayKits": 438,
   "onlineCount": 18,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 21
   },
-  "tps": "19.0",
+  "tps": "20.0",
   "ping": 208,
   "topUsers": [
     {
@@ -75,13 +75,10 @@
     },
     {
       "name": "build",
-      "count": 1012
+      "count": 1013
     }
   ],
   "chatLog": [
-    "[13:35] To kayz_09: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:35] [BOT] <0_HienBot> **Bot to kayz_09**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[13:35] <BITROX006> !build",
     "[13:35] [8b8t] >> Teleporting to home 0...",
     "[13:35] [8b8t] >> Please do not spam.",
     "[13:35] [8b8t] >> Teleporting to home 2...",
@@ -108,7 +105,10 @@
     "[13:36] <kayz_09> !build",
     "[13:36] To kayz_09: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[13:36] [BOT] <0_HienBot> **kayz_09**: !build",
-    "[13:36] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[13:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:36] [8b8t] >> You have killed yourself!",
+    "[13:36] <BITROX006> !build",
+    "[13:36] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1566,7 +1566,7 @@
     "FaxeHeadless": 7,
     "Bloodli": 7,
     "tommyber": 9,
-    "BITROX006": 36,
+    "BITROX006": 37,
     "rngr1": 4,
     "Longlamma": 7,
     "noob112233": 4,
@@ -1592,7 +1592,7 @@
     "exp": 512,
     "stash": 886,
     "ocean": 98,
-    "build": 1012,
+    "build": 1013,
     "dye": 84,
     "concrete": 147,
     "dupe": 1011,
