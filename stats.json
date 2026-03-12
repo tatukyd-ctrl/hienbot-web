@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:44:51 12/3/2026",
+  "lastUpdated": "16:45:17 12/3/2026",
   "totalKits": 110768,
   "todayKits": 214,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 21
   },
-  "tps": "17.0",
+  "tps": "20.0",
   "ping": 210,
   "topUsers": [
     {
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:42] <IamLightVacoro> do /tpayes",
-    "[09:42] [BOT] <0_HienBot> **IamLightVacoro**: do /tpayes",
-    "[09:42] <FaxeHeadless> ik wait",
-    "[09:42] [BOT] <0_HienBot> **FaxeHeadless**: ik wait",
-    "[09:42] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[09:42] <FaxeHeadless> so what u want",
-    "[09:42] [BOT] <0_HienBot> **FaxeHeadless**: so what u want",
-    "[09:42] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[09:42] <IamLightVacoro> im bored",
-    "[09:42] [BOT] <0_HienBot> **IamLightVacoro**: im bored",
-    "[09:42] <IamLightVacoro> i wanna explore spawn",
-    "[09:42] [BOT] <0_HienBot> **IamLightVacoro**: i wanna explore spawn",
-    "[09:43] <FaxeHeadless> ok",
     "[09:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:43] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
     "[09:43] <rockeater500> git gud at tpa trapping moron",
@@ -108,7 +95,20 @@
     "[09:44] To LAKAEEE: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:44] [BOT] <0_HienBot> **Bot to LAKAEEE**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:44] [8b8t] >> Request sent to LAKAEEE",
-    "[09:44] [8b8t] >> Teleporting..."
+    "[09:44] [8b8t] >> Teleporting...",
+    "[09:44] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[09:44] [8b8t] >> You have killed yourself!",
+    "[09:44] To LAKAEEE: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[09:44] <FaxeHeadless> wait",
+    "[09:44] [BOT] <0_HienBot> **Bot to LAKAEEE**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[09:44] [8b8t] >> Teleporting to home 0...",
+    "[09:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:44] [8b8t] >> Teleporting to home 1...",
+    "[09:44] To FaxeHeadless: Your kit (wait) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:44] [BOT] <0_HienBot> **Bot to FaxeHeadless**: Your kit (wait) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:45] To FaxeHeadless: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:45] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1563,14 +1563,14 @@
     ".AsteroidQwQ": 9,
     "LAKAEEE": 5,
     "kits_pls": 1,
-    "FaxeHeadless": 3
+    "FaxeHeadless": 4
   },
   "kitStats": {
     "pvp": 2737,
     "raid": 808,
     "survival": 3168,
     "shulker": 1186,
-    "music": 308,
+    "music": 309,
     "terracotta": 52,
     "lightsources": 178,
     "tools": 867,
