@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:01:17 12/3/2026",
+  "lastUpdated": "13:02:47 12/3/2026",
   "totalKits": 110695,
   "todayKits": 141,
-  "onlineCount": 0,
+  "onlineCount": 1,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 25
   },
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "20.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:58] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[05:58] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[05:58] <SUPEROP124> please help",
-    "[05:58] [BOT] <0_HienBot> **SUPEROP124**: please help",
-    "[05:58] [8b8t] >> Please do not spam.",
-    "[05:59] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[05:59] ",
-    "[05:59] [8b8t] >> Restarting in 1m!",
     "[05:59] ",
     "[05:59] <SUPEROP124> please help",
     "[05:59] [8b8t] >> Please do not spam.",
@@ -108,7 +100,15 @@
     "[06:00] [BOT] <0_HienBot> >Try status",
     "[06:00] ",
     "[06:00] [8b8t] >> Restarting in 1s!",
-    "[06:00] "
+    "[06:00] ",
+    "[06:02] [8b8t] >> Use the command /login <password>.",
+    "[06:02] [8b8t] >> You have successfully logged.",
+    "[06:02] Unable to connect you to 8b8t. Please try again later.",
+    "[06:02] [8b8t] Unknown command do /help",
+    "[06:02] [8b8t] >> Welcome Leeewiith3Es to 8b8t.me Lobby",
+    "[06:02] Unable to connect you to 8b8t. Please try again later.",
+    "[06:02] [8b8t] >> Welcome DPS_Voyager_bot to 8b8t.me Lobby",
+    "[06:02] Unable to connect you to 8b8t. Please try again later."
   ],
   "userStats": {
     "Hien2309": 92,
