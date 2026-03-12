@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:45:36 12/3/2026",
+  "lastUpdated": "20:46:06 12/3/2026",
   "totalKits": 111000,
   "todayKits": 6,
-  "onlineCount": 21,
+  "onlineCount": 20,
   "peakPlayers": 22,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 21
   },
-  "tps": "18.0",
-  "ping": 201,
+  "tps": "19.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,24 +75,10 @@
     },
     {
       "name": "build",
-      "count": 1013
+      "count": 1014
     }
   ],
   "chatLog": [
-    "[13:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:44] To xxx_pidor124_xxx: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:44] [BOT] <0_HienBot> **Bot to xxx_pidor124_xxx**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:44] [8b8t] >> Request sent to xxx_pidor124_xxx",
-    "[13:44] [8b8t] >> Teleporting...",
-    "[13:44] <kayz_09> !list",
-    "[13:44] To kayz_09: Hello kayz_09!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[13:44] [BOT] <0_HienBot> **kayz_09**: !list",
-    "[13:44] [8b8t] >> You have killed yourself!",
-    "[13:44] You cannot be above the nether roof!",
-    "[13:44] <kayz_09> !build",
-    "[13:44] To kayz_09: You're on cooldown, try again in 21 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:44] To xxx_pidor124_xxx: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:44] [BOT] <0_HienBot> **kayz_09**: !build",
     "[13:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +94,21 @@
     "[13:45] [BOT] <0_HienBot> **Bot to .Asteroid_Sub**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:45] [8b8t] >> Request sent to .Asteroid_Sub",
     "[13:45] [8b8t] >> Teleporting...",
-    "[13:45] [8b8t] >> You have killed yourself!"
+    "[13:45] [8b8t] >> You have killed yourself!",
+    "[13:45] To .Asteroid_Sub: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:45] [BOT] <0_HienBot> **Bot to .Asteroid_Sub**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:45] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
+    "[13:45] <kayz_09> !build",
+    "[13:45] [8b8t] >> Teleporting to home 0...",
+    "[13:45] [BOT] <0_HienBot> **kayz_09**: !build",
+    "[13:45] [8b8t] >> Teleporting to home 2...",
+    "[13:45] To kayz_09: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:45] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:45] To kayz_09: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:45] [BOT] <0_HienBot> **Bot to kayz_09**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[13:46] <kayz_09> !list",
+    "[13:46] To kayz_09: Hello kayz_09!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[13:46] [BOT] <0_HienBot> **kayz_09**: !list"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1573,7 +1573,7 @@
     "58_": 4,
     "Quartash": 6,
     "tooothless5689": 4,
-    "kayz_09": 5,
+    "kayz_09": 6,
     ".Asteroid_Sub": 4,
     "6t5e": 1
   },
@@ -1592,7 +1592,7 @@
     "exp": 512,
     "stash": 889,
     "ocean": 98,
-    "build": 1013,
+    "build": 1014,
     "dye": 84,
     "concrete": 147,
     "dupe": 1011,
