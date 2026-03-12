@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:05:16 12/3/2026",
+  "lastUpdated": "07:05:46 12/3/2026",
   "totalKits": 110557,
   "todayKits": 3,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 44,
   "playerStats": {
     "min": 35,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:16 12/3/2026",
     "avg": 36
   },
-  "tps": "14.0",
-  "ping": 194,
+  "tps": "12.0",
+  "ping": 197,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3129
+      "count": 3130
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:03] [BOT] <0_HienBot> **_aksn**: no nada",
-    "[00:03] vydraken has made the advancement [Spooky Scary Skeleton]",
-    "[00:04] [BOT] <0_HienBot> >Welcome to 8b8t, XimenaPro178xd!",
-    "[00:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[00:04] <pedritoenojado> quien para clan",
-    "[00:04] [BOT] <0_HienBot> **pedritoenojado**: quien para clan",
-    "[00:04] <n7ji> yo",
-    "[00:04] [BOT] <0_HienBot> **n7ji**: yo",
     "[00:04] <n7ji> pero soy nuevo",
     "[00:04] [BOT] <0_HienBot> **n7ji**: pero soy nuevo",
     "[00:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +100,15 @@
     "[00:05] <vydraken> yo para team",
     "[00:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[00:05] <pedritoenojado> manda tpa",
-    "[00:05] [BOT] <0_HienBot> **pedritoenojado**: manda tpa"
+    "[00:05] [BOT] <0_HienBot> **pedritoenojado**: manda tpa",
+    "[00:05] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
+    "[00:05] <n7ji> tenes kit q me des?",
+    "[00:05] <.Redjul543> does anybody have resin",
+    "[00:05] [BOT] <0_HienBot> **n7ji**: tenes kit q me des?",
+    "[00:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:05] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[00:05] <pedritoenojado> ?kit survival",
+    "[00:05] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1550,12 +1550,12 @@
     "Luchadorluk": 9,
     "NicoPlayz53000": 11,
     "smallbear": 1,
-    "pedritoenojado": 1
+    "pedritoenojado": 2
   },
   "kitStats": {
     "pvp": 2674,
     "raid": 799,
-    "survival": 3129,
+    "survival": 3130,
     "shulker": 1177,
     "music": 304,
     "terracotta": 50,
