@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:30:46 12/3/2026",
+  "lastUpdated": "08:31:16 12/3/2026",
   "totalKits": 110646,
   "todayKits": 92,
-  "onlineCount": 24,
+  "onlineCount": 25,
   "peakPlayers": 44,
   "playerStats": {
     "min": 1,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 36
   },
-  "tps": "11.0",
-  "ping": 195,
+  "tps": "16.0",
+  "ping": 194,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2693
+      "count": 2694
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:28] [BOT] <0_HienBot> >Try list to see available kits",
-    "[01:28] <Scratch> kits",
-    "[01:28] [BOT] <0_HienBot> **Scratch**: kits",
-    "[01:28] <keivdeil> !bed",
-    "[01:28] [8b8t] >> Teleporting to home 0...",
-    "[01:28] [8b8t] >> Teleporting to home 1...",
-    "[01:28] [BOT] <0_HienBot> **keivdeil**: !bed",
-    "[01:28] To keivdeil: Your kit (bed) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:28] To keivdeil: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:28] [BOT] <0_HienBot> **Bot to keivdeil**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:28] [8b8t] >> Request sent to keivdeil",
     "[01:29] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
     "[01:29] [8b8t] >> Teleporting...",
     "[01:29] [8b8t] >> You have killed yourself!",
@@ -108,7 +96,19 @@
     "[01:30] [BOT] <0_HienBot> >Type invite for invite rewards info",
     "[01:30] <Scratch> kit",
     "[01:30] To Scratch: Hello Scratch!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[01:30] [BOT] <0_HienBot> **Scratch**: kit"
+    "[01:30] [BOT] <0_HienBot> **Scratch**: kit",
+    "[01:30] xAstrex has made the advancement [Diamonds!]",
+    "[01:30] <Scratch> kit pvp",
+    "[01:30] [8b8t] >> Teleporting to home 0...",
+    "[01:30] [BOT] <0_HienBot> **Scratch**: kit pvp",
+    "[01:30] [8b8t] >> Teleporting to home 1...",
+    "[01:30] To Scratch: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:31] To Scratch: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:31] [BOT] <0_HienBot> **Bot to Scratch**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:31] [8b8t] >> Request sent to Scratch",
+    "[01:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:31] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1555,10 +1555,11 @@
     "froggyh8103": 25,
     "hacker8010231": 8,
     "xAstrex": 17,
-    "n7ji": 15
+    "n7ji": 15,
+    "Scratch": 1
   },
   "kitStats": {
-    "pvp": 2693,
+    "pvp": 2694,
     "raid": 804,
     "survival": 3152,
     "shulker": 1183,
