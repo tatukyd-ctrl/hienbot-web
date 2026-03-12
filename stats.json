@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:20:47 12/3/2026",
-  "totalKits": 110722,
-  "todayKits": 168,
+  "lastUpdated": "14:21:06 12/3/2026",
+  "totalKits": 110723,
+  "todayKits": 169,
   "onlineCount": 10,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "20.0",
+  "tps": "17.0",
   "ping": 208,
   "topUsers": [
     {
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:17] [BOT] <0_HienBot> **.AsteroidQwQ**: lol",
-    "[07:17] <keivdeil> I am bored",
-    "[07:17] [BOT] <0_HienBot> **keivdeil**: I am bored",
-    "[07:17] [BOT] <0_HienBot> >Type list for a list of kits",
-    "[07:18] <Dreamers> piston",
-    "[07:18] [8b8t] >> Teleporting to home 0...",
-    "[07:18] [8b8t] >> Teleporting to home 2...",
-    "[07:18] [BOT] <0_HienBot> **Dreamers**: piston",
-    "[07:18] To Dreamers: Your kit (piston) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:18] To Dreamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[07:18] [BOT] <0_HienBot> **Bot to Dreamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:18] [8b8t] >> Request sent to Dreamers",
@@ -108,7 +97,18 @@
     "[07:19] [BOT] <0_HienBot> **keivdeil**: bonjour",
     "[07:19] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[07:19] [BOT] <0_HienBot> >Try status",
-    "[07:20] [BOT] <0_HienBot> >Try stash"
+    "[07:20] [BOT] <0_HienBot> >Try stash",
+    "[07:20] [BOT] <0_HienBot> >Do you want kit? Type *kit",
+    "[07:20] <Dreamers> !raid",
+    "[07:20] [8b8t] >> Teleporting to home 0...",
+    "[07:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[07:20] [8b8t] >> Teleporting to home 2...",
+    "[07:20] To Dreamers: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:20] [BOT] <0_HienBot> **Bot to Dreamers**: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:20] To Dreamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:20] [BOT] <0_HienBot> **Bot to Dreamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[07:20] [8b8t] >> Request sent to Dreamers",
+    "[07:21] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1317,7 +1317,7 @@
     "ASHyperion": 9,
     "notrealleoo": 40,
     "Creaky_Nat": 3,
-    "Dreamers": 152,
+    "Dreamers": 153,
     "Sandeep998": 1,
     "XPOKCGHDY": 14,
     "nicolsaaax": 11,
@@ -1564,7 +1564,7 @@
   },
   "kitStats": {
     "pvp": 2713,
-    "raid": 805,
+    "raid": 806,
     "survival": 3167,
     "shulker": 1185,
     "music": 304,
