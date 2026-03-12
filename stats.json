@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:05:36 12/3/2026",
-  "totalKits": 111006,
-  "todayKits": 12,
-  "onlineCount": 21,
+  "lastUpdated": "21:06:06 12/3/2026",
+  "totalKits": 111007,
+  "todayKits": 13,
+  "onlineCount": 20,
   "peakPlayers": 26,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 21
   },
-  "tps": "17.0",
-  "ping": 203,
+  "tps": "16.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:04] [8b8t] >> Teleporting to home 3...",
-    "[14:04] To BITROX006: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:04] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:04] [BOT] <0_HienBot> **Bot to BITROX006**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:04] [8b8t] >> Request sent to BITROX006",
-    "[14:04] [8b8t] >> Teleporting...",
-    "[14:04] <xAstrex> Survival",
-    "[14:04] To xAstrex: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[14:04] [BOT] <0_HienBot> **xAstrex**: Survival",
-    "[14:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:04] [8b8t] >> You have killed yourself!",
     "[14:05] To BITROX006: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[14:05] [BOT] <0_HienBot> **Bot to BITROX006**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +97,18 @@
     "[14:05] [8b8t] >> Teleporting...",
     "[14:05] [8b8t] >> You have killed yourself!",
     "[14:05] To xAstrex: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[14:05] [BOT] <0_HienBot> **Bot to xAstrex**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[14:05] [BOT] <0_HienBot> **Bot to xAstrex**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[14:05] [BOT] <0_HienBot> >Try status",
+    "[14:06] <BITROX006> !wood",
+    "[14:06] [8b8t] >> Teleporting to home 0...",
+    "[14:06] [BOT] <0_HienBot> **BITROX006**: !wood",
+    "[14:06] [8b8t] >> Teleporting to home 3...",
+    "[14:06] To BITROX006: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:06] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:06] [BOT] <0_HienBot> **Bot to BITROX006**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:06] [8b8t] >> Request sent to BITROX006",
+    "[14:06] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1566,7 +1566,7 @@
     "FaxeHeadless": 7,
     "Bloodli": 7,
     "tommyber": 9,
-    "BITROX006": 40,
+    "BITROX006": 41,
     "rngr1": 4,
     "Longlamma": 7,
     "noob112233": 4,
@@ -1605,7 +1605,7 @@
     "gap": 179,
     "mineral": 375,
     "gterracotta": 39,
-    "wood": 377,
+    "wood": 378,
     "end": 273
   }
 }
