@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:42:12 13/3/2026",
-  "totalKits": 111264,
-  "todayKits": 270,
-  "onlineCount": 35,
+  "lastUpdated": "04:42:27 13/3/2026",
+  "totalKits": 111265,
+  "todayKits": 271,
+  "onlineCount": 34,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "02:34:06 13/3/2026",
     "avg": 25
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 201,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3266
+      "count": 3267
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:40] [BOT] <0_HienBot> **alastor_gamer89**: q",
-    "[21:41] <Pepe777Vegeta> me das algo",
-    "[21:41] [8b8t] >> You have killed yourself!",
-    "[21:41] [BOT] <0_HienBot> **Pepe777Vegeta**: me das algo",
-    "[21:41] [8b8t] >> The TPA request you sent to CyberOne6ty was successfully canceled.",
-    "[21:41] <alastor_gamer89> ok",
-    "[21:41] [BOT] <0_HienBot> **alastor_gamer89**: ok",
-    "[21:41] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
-    "[21:41] <CyberOne6ty> survival",
-    "[21:41] To CyberOne6ty: You're on cooldown, try again in 36 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:41] [BOT] <0_HienBot> **CyberOne6ty**: survival",
-    "[21:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:41] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[21:41] <Pepe777Vegeta> ses salio xd",
     "[21:41] [BOT] <0_HienBot> **Pepe777Vegeta**: ses salio xd",
     "[21:41] <Juancho_chan69> pvp",
     "[21:42] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +94,21 @@
     "[21:42] [8b8t] >> Teleporting...",
     "[21:42] [8b8t] >> Please do not spam.",
     "[21:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[21:42] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[21:42] [BOT] <0_HienBot> >Hey 2b2tJourney!",
+    "[21:42] [8b8t] >> You have killed yourself!",
+    "[21:42] <CyberOne6ty> survival",
+    "[21:42] [8b8t] >> Teleporting to home 0...",
+    "[21:42] [BOT] <0_HienBot> **CyberOne6ty**: survival",
+    "[21:42] [8b8t] >> Teleporting to home 1...",
+    "[21:42] To CyberOne6ty: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:42] To Juancho_chan69: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[21:42] [BOT] <0_HienBot> **Bot to Juancho_chan69**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[21:42] To CyberOne6ty: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:42] [8b8t] >> Request sent to CyberOne6ty",
+    "[21:42] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1595,13 +1595,13 @@
     "kayz272": 4,
     "alastor_gamer89": 4,
     "Ciromaster20304": 1,
-    "CyberOne6ty": 1,
+    "CyberOne6ty": 2,
     "Juancho_chan69": 1
   },
   "kitStats": {
     "pvp": 2874,
     "raid": 836,
-    "survival": 3266,
+    "survival": 3267,
     "shulker": 1201,
     "music": 315,
     "terracotta": 53,
