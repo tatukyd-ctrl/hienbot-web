@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:01:46 13/3/2026",
+  "lastUpdated": "00:02:06 13/3/2026",
   "totalKits": 111098,
   "todayKits": 104,
-  "onlineCount": 32,
+  "onlineCount": 34,
   "peakPlayers": 36,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "18.0",
+  "tps": "19.0",
   "ping": 201,
   "topUsers": [
     {
@@ -75,24 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 1020
+      "count": 1021
     }
   ],
   "chatLog": [
-    "[17:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:00] To AhianXD: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:00] [BOT] <0_HienBot> **Bot to AhianXD**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:00] [8b8t] >> Request sent to AhianXD",
-    "[17:00] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[17:00] [8b8t] >> Teleporting...",
-    "[17:00] [8b8t] >> You have killed yourself!",
-    "[17:00] To AhianXD: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[17:00] [BOT] <0_HienBot> **Bot to AhianXD**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[17:00] Eroi2000 has reached the goal [Postmortal]",
-    "[17:01] Constant0fps has reached the goal [Postmortal]",
-    "[17:01] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[17:01] <AhianXD> oh",
-    "[17:01] [BOT] <0_HienBot> **AhianXD**: oh",
     "[17:01] <AhianXD> toolbox",
     "[17:01] To AhianXD: You're on cooldown, try again in 15 seconds! Don't forget to join dsc.gg/hienbot",
     "[17:01] [BOT] <0_HienBot> **AhianXD**: toolbox",
@@ -108,7 +94,21 @@
     "[17:01] [8b8t] >> Request sent to Dario_Supremo",
     "[17:01] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[17:01] [8b8t] >> Teleporting...",
-    "[17:01] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot"
+    "[17:01] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
+    "[17:01] [8b8t] >> You have killed yourself!",
+    "[17:01] To Dario_Supremo: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:01] [BOT] <0_HienBot> **Bot to Dario_Supremo**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[17:01] <AhianXD> list",
+    "[17:01] To AhianXD: Hello AhianXD!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[17:01] [BOT] <0_HienBot> **AhianXD**: list",
+    "[17:02] <AhianXD> Dupe",
+    "[17:02] [8b8t] >> Teleporting to home 0...",
+    "[17:02] [8b8t] >> Teleporting to home 7...",
+    "[17:02] [BOT] <0_HienBot> **AhianXD**: Dupe",
+    "[17:02] To AhianXD: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:02] To AhianXD: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:02] [BOT] <0_HienBot> **Bot to AhianXD**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1583,7 +1583,7 @@
     "Sketchyashes": 1,
     "tarikozerbay": 2,
     "8b8tstrlord": 2,
-    "AhianXD": 2
+    "AhianXD": 3
   },
   "kitStats": {
     "pvp": 2842,
@@ -1603,7 +1603,7 @@
     "build": 1019,
     "dye": 84,
     "concrete": 147,
-    "dupe": 1020,
+    "dupe": 1021,
     "food": 277,
     "glass": 181,
     "elytra": 1084,
