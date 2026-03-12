@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:00:36 13/3/2026",
-  "totalKits": 111096,
-  "todayKits": 102,
+  "lastUpdated": "00:00:49 13/3/2026",
+  "totalKits": 111097,
+  "todayKits": 103,
   "onlineCount": 33,
   "peakPlayers": 36,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "20.0",
-  "ping": 201,
+  "tps": "16.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:59] [BOT] <0_HienBot> **AhianXD**: survival",
-    "[16:59] [8b8t] >> Teleporting to home 1...",
-    "[16:59] To AhianXD: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:59] To AhianXD: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:59] [BOT] <0_HienBot> **Bot to AhianXD**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:59] [8b8t] >> Request sent to AhianXD",
-    "[16:59] 8b8tstrlord has made the advancement [We Need to Go Deeper]",
-    "[16:59] <tarikozerbay> survival",
-    "[16:59] To tarikozerbay: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[16:59] [BOT] <0_HienBot> **tarikozerbay**: survival",
     "[16:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:59] [8b8t] >> Teleporting...",
@@ -108,7 +97,18 @@
     "[17:00] [BOT] <0_HienBot> >Running low on supplies? Use survival",
     "[17:00] <AhianXD> list",
     "[17:00] To AhianXD: Hello AhianXD!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[17:00] [BOT] <0_HienBot> **AhianXD**: list"
+    "[17:00] [BOT] <0_HienBot> **AhianXD**: list",
+    "[17:00] <AhianXD> toolbox",
+    "[17:00] [8b8t] >> Teleporting to home 0...",
+    "[17:00] [8b8t] >> Teleporting to home 4...",
+    "[17:00] [BOT] <0_HienBot> **AhianXD**: toolbox",
+    "[17:00] To AhianXD: Your kit (toolbox) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:00] To AhianXD: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:00] [BOT] <0_HienBot> **Bot to AhianXD**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:00] [8b8t] >> Request sent to AhianXD",
+    "[17:00] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
+    "[17:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1583,7 +1583,7 @@
     "Sketchyashes": 1,
     "tarikozerbay": 2,
     "8b8tstrlord": 2,
-    "AhianXD": 1
+    "AhianXD": 2
   },
   "kitStats": {
     "pvp": 2842,
@@ -1595,7 +1595,7 @@
     "lightsources": 181,
     "tools": 901,
     "armortrims": 211,
-    "toolbox": 298,
+    "toolbox": 299,
     "wool": 364,
     "exp": 516,
     "stash": 893,
