@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:35:36 13/3/2026",
+  "lastUpdated": "00:36:06 13/3/2026",
   "totalKits": 111111,
   "todayKits": 117,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 22
   },
-  "tps": "19.0",
-  "ping": 202,
+  "tps": "18.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3232
+      "count": 3233
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:34] [BOT] <0_HienBot> >Try stash",
-    "[17:34] .Noorman49155 has made the advancement [The City at the End of the Game]",
-    "[17:34] <BiasRuby4589> !stash",
-    "[17:34] DDosma has made the advancement [Local Brewery]",
-    "[17:34] [8b8t] >> Teleporting to home 0...",
-    "[17:34] [8b8t] >> Teleporting to home 2...",
-    "[17:34] [BOT] <0_HienBot> **BiasRuby4589**: !stash",
-    "[17:34] To BiasRuby4589: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[17:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[17:34] To BiasRuby4589: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[17:34] [BOT] <0_HienBot> **Bot to BiasRuby4589**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +100,15 @@
     "[17:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[17:34] [8b8t] >> blake56 would like to teleport to you /tpayes USERNAME /tpano USERNAME",
     "[17:35] .Noorman49155 has made the advancement [Local Brewery]",
-    "[17:35] [BOT] <0_HienBot> >Get a head start with survival"
+    "[17:35] [BOT] <0_HienBot> >Get a head start with survival",
+    "[17:35] [8b8t] >> _Sdblzxx_ voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
+    "[17:35] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
+    "[17:36] <WakeSpace> survival",
+    "[17:36] [BOT] <0_HienBot> **WakeSpace**: survival",
+    "[17:36] [8b8t] >> Teleporting to home 0...",
+    "[17:36] [8b8t] >> Teleporting to home 1...",
+    "[17:36] To WakeSpace: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:36] [BOT] <0_HienBot> **Bot to WakeSpace**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1583,12 +1583,13 @@
     "Sketchyashes": 1,
     "tarikozerbay": 2,
     "8b8tstrlord": 2,
-    "AhianXD": 6
+    "AhianXD": 6,
+    "WakeSpace": 1
   },
   "kitStats": {
     "pvp": 2844,
     "raid": 829,
-    "survival": 3232,
+    "survival": 3233,
     "shulker": 1196,
     "music": 313,
     "terracotta": 53,
