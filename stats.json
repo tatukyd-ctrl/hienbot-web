@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:18:47 12/3/2026",
-  "totalKits": 110786,
-  "todayKits": 232,
-  "onlineCount": 16,
+  "lastUpdated": "17:19:12 12/3/2026",
+  "totalKits": 110787,
+  "todayKits": 233,
+  "onlineCount": 17,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:27:06 12/3/2026",
     "avg": 20
   },
-  "tps": "20.0",
-  "ping": 312,
+  "tps": "19.0",
+  "ping": 210,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:16] [BOT] <0_HienBot> **cappuccino_**: music",
-    "[10:16] [8b8t] >> Teleporting to home 1...",
-    "[10:16] To cappuccino_: Your kit (music) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:16] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:16] To cappuccino_: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[10:16] [BOT] <0_HienBot> **Bot to cappuccino_**: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[10:16] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[10:17] [BOT] <0_HienBot> >Try list to see available kits",
-    "[10:17] <kits_pls> !list",
-    "[10:17] To kits_pls: Hello kits_pls!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[10:17] [BOT] <0_HienBot> **kits_pls**: !list",
-    "[10:17] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
     "[10:17] <kits_pls> !exp",
     "[10:17] [8b8t] >> Teleporting to home 0...",
     "[10:18] [BOT] <0_HienBot> **kits_pls**: !exp",
@@ -108,7 +95,20 @@
     "[10:18] [BOT] <0_HienBot> **Bot to kits_pls**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[10:18] [BOT] <0_HienBot> >Get a head start with survival",
     "[10:18] <kits_pls> !raid",
-    "[10:18] To kits_pls: You're on cooldown, try again in 13 seconds! Don't forget to join dsc.gg/hienbot"
+    "[10:18] To kits_pls: You're on cooldown, try again in 13 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:18] [BOT] <0_HienBot> **kits_pls**: !raid",
+    "[10:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:18] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[10:19] <kits_pls> !raid",
+    "[10:19] [8b8t] >> Teleporting to home 0...",
+    "[10:19] [8b8t] >> Teleporting to home 2...",
+    "[10:19] [BOT] <0_HienBot> **kits_pls**: !raid",
+    "[10:19] To kits_pls: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:19] To kits_pls: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:19] [BOT] <0_HienBot> **Bot to kits_pls**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:19] [8b8t] >> Request sent to kits_pls",
+    "[10:19] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 92,
@@ -1562,13 +1562,13 @@
     "SUPERLMAO": 1,
     ".AsteroidQwQ": 9,
     "LAKAEEE": 7,
-    "kits_pls": 3,
+    "kits_pls": 4,
     "FaxeHeadless": 7,
     "Bloodli": 1
   },
   "kitStats": {
     "pvp": 2743,
-    "raid": 808,
+    "raid": 809,
     "survival": 3172,
     "shulker": 1186,
     "music": 310,
