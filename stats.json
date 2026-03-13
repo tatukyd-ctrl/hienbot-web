@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:18:36 13/3/2026",
+  "lastUpdated": "08:19:06 13/3/2026",
   "totalKits": 111328,
   "todayKits": 16,
-  "onlineCount": 24,
+  "onlineCount": 26,
   "peakPlayers": 47,
   "playerStats": {
     "min": 12,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 24
   },
-  "tps": "12.0",
-  "ping": 201,
+  "tps": "10.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,18 +75,10 @@
     },
     {
       "name": "dupe",
-      "count": 1039
+      "count": 1040
     }
   ],
   "chatLog": [
-    "[01:17] [BOT] <0_HienBot> **kits_pls**: !mace",
-    "[01:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:17] <aryanthegoat_TV> survival",
-    "[01:17] [8b8t] >> Teleporting to home 0...",
-    "[01:17] [8b8t] >> Teleporting to home 1...",
-    "[01:17] [BOT] <0_HienBot> **aryanthegoat_TV**: survival",
-    "[01:17] To aryanthegoat_TV: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:17] To aryanthegoat_TV: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:17] [BOT] <0_HienBot> **Bot to aryanthegoat_TV**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[01:17] [8b8t] >> Request sent to aryanthegoat_TV",
@@ -108,7 +100,15 @@
     "[01:18] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[01:18] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
     "[01:18] [8b8t] >> You have killed yourself!",
-    "[01:18] [8b8t] >> No TPA request found"
+    "[01:18] [8b8t] >> No TPA request found",
+    "[01:18] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
+    "[01:18] <m4rc_xyz8> oh",
+    "[01:18] [BOT] <0_HienBot> **m4rc_xyz8**: oh",
+    "[01:19] <Luchadorluk> ¡kit flechas",
+    "[01:19] [8b8t] >> Teleporting to home 0...",
+    "[01:19] [BOT] <0_HienBot> **Luchadorluk**: kit flechas",
+    "[01:19] [8b8t] >> Teleporting to home 7...",
+    "[01:19] To Luchadorluk: Kit \"flechas\" not found! Giving you (dupe) instead! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1547,7 +1547,7 @@
     "TheGoatishere777": 1,
     "Potato_Gamer965": 2,
     ".FoundPower1416": 4,
-    "Luchadorluk": 35,
+    "Luchadorluk": 36,
     "NicoPlayz53000": 13,
     "smallbear": 1,
     "pedritoenojado": 6,
@@ -1623,7 +1623,7 @@
     "build": 1035,
     "dye": 86,
     "concrete": 151,
-    "dupe": 1039,
+    "dupe": 1040,
     "food": 279,
     "glass": 187,
     "elytra": 1109,
