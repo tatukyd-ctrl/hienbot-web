@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:20:37 13/3/2026",
+  "lastUpdated": "12:21:07 13/3/2026",
   "totalKits": 111427,
   "todayKits": 115,
   "onlineCount": 18,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 22
   },
-  "tps": "20.0",
-  "ping": 201,
+  "tps": "18.0",
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Azure772",
-      "count": 259
+      "count": 261
     },
     {
       "name": "Simone",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3305
+      "count": 3306
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:18] <brunitocoso> hey red",
-    "[05:18] [BOT] <0_HienBot> **brunitocoso**: hey red",
-    "[05:18] <brunitocoso> have u got an echest",
-    "[05:18] [BOT] <0_HienBot> **brunitocoso**: have u got an echest",
-    "[05:19] [BOT] <0_HienBot> >Running low on supplies? Use survival",
-    "[05:19] <kobthegoat14> elytra",
-    "[05:19] [8b8t] >> Teleporting to home 0...",
-    "[05:19] [BOT] <0_HienBot> **kobthegoat14**: elytra",
-    "[05:19] [8b8t] >> Teleporting to home 6...",
-    "[05:19] To kobthegoat14: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:19] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:19] To kobthegoat14: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:19] [BOT] <0_HienBot> **Bot to kobthegoat14**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:19] [8b8t] >> Request sent to kobthegoat14",
-    "[05:19] [8b8t] >> Teleporting...",
     "[05:19] <.Redjul543> we will just have to test spots",
     "[05:19] [BOT] <0_HienBot> **.Redjul543**: we will just have to test spots",
     "[05:19] [8b8t] >> You have killed yourself!",
@@ -108,7 +93,22 @@
     "[05:19] ashluvtheflex has made the advancement [The City at the End of the Game]",
     "[05:20] <geeyuh> tp",
     "[05:20] [BOT] <0_HienBot> **geeyuh**: tp",
-    "[05:20] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot"
+    "[05:20] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
+    "[05:20] [BOT] <0_HienBot> >What's up, ashluvtheflex?",
+    "[05:20] <Azure772> tools",
+    "[05:20] [8b8t] >> Teleporting to home 0...",
+    "[05:20] [8b8t] >> Teleporting to home 7...",
+    "[05:20] [BOT] <0_HienBot> **Azure772**: tools",
+    "[05:20] To Azure772: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:20] To Azure772: Sorry! Yellow Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[05:21] [BOT] <0_HienBot> **Bot to Azure772**: Sorry! Yellow Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[05:21] <Azure772> survival",
+    "[05:21] [8b8t] >> Teleporting to home 0...",
+    "[05:21] [BOT] <0_HienBot> **Azure772**: survival",
+    "[05:21] [8b8t] >> Teleporting to home 1...",
+    "[05:21] To Azure772: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:21] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 259,
+    "Azure772": 261,
     "kobthegoat14": 145,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1613,12 +1613,12 @@
   "kitStats": {
     "pvp": 2911,
     "raid": 841,
-    "survival": 3305,
+    "survival": 3306,
     "shulker": 1209,
     "music": 317,
     "terracotta": 53,
     "lightsources": 185,
-    "tools": 943,
+    "tools": 944,
     "armortrims": 224,
     "toolbox": 312,
     "wool": 365,
