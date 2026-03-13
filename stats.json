@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:07:36 13/3/2026",
+  "lastUpdated": "10:08:07 13/3/2026",
   "totalKits": 111360,
   "todayKits": 48,
-  "onlineCount": 21,
+  "onlineCount": 19,
   "peakPlayers": 47,
   "playerStats": {
     "min": 12,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 23
   },
-  "tps": "15.0",
-  "ping": 200,
+  "tps": "16.0",
+  "ping": 234,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2897
+      "count": 2898
     },
     {
       "name": "shulker",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:06] [BOT] <0_HienBot> **aangjandebo**: elytra",
-    "[03:06] [8b8t] >> Teleporting to home 6...",
-    "[03:06] To aangjandebo: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:06] To aangjandebo: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:06] [BOT] <0_HienBot> **Bot to aangjandebo**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:06] [8b8t] >> Request sent to aangjandebo",
-    "[03:06] [8b8t] >> Teleporting...",
-    "[03:06] [8b8t] >> You have killed yourself!",
-    "[03:06] To aangjandebo: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:06] [BOT] <0_HienBot> **Bot to aangjandebo**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:06] <PRO1567565> who for team?",
-    "[03:06] [BOT] <0_HienBot> **PRO1567565**: who for team?",
-    "[03:06] r1deal Whispers: list",
-    "[03:06] To r1deal: Hello r1deal!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[03:06] [BOT] <0_HienBot> **r1deal**: list",
     "[03:07] r1deal Whispers: list survival",
     "[03:07] [BOT] <0_HienBot> **r1deal**: list survival",
     "[03:07] r1deal Whispers: survival",
@@ -108,7 +91,24 @@
     "[03:07] To r1deal: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:07] [8b8t] >> Request sent to r1deal",
-    "[03:07] [8b8t] >> The TPA request you sent to r1deal has expired."
+    "[03:07] [8b8t] >> The TPA request you sent to r1deal has expired.",
+    "[03:07] <PRO1567565> who for team",
+    "[03:07] [BOT] <0_HienBot> **PRO1567565**: who for team",
+    "[03:07] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[03:07] [BOT] <0_HienBot> >Try dupe",
+    "[03:07] <PRO1567565> dupe",
+    "[03:07] To PRO1567565: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[03:07] [BOT] <0_HienBot> **PRO1567565**: dupe",
+    "[03:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:07] [8b8t] >> You have killed yourself!",
+    "[03:07] [8b8t] >> No TPA request found",
+    "[03:08] <aangjandebo> pvp",
+    "[03:08] [8b8t] >> Teleporting to home 0...",
+    "[03:08] [BOT] <0_HienBot> **aangjandebo**: pvp",
+    "[03:08] [8b8t] >> Teleporting to home 1...",
+    "[03:08] To aangjandebo: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:08] To aangjandebo: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1605,11 +1605,11 @@
     "Dismaremu": 1,
     "aryanthegoat_TV": 21,
     "PRO1567565": 2,
-    "aangjandebo": 3,
+    "aangjandebo": 4,
     "r1deal": 2
   },
   "kitStats": {
-    "pvp": 2897,
+    "pvp": 2898,
     "raid": 841,
     "survival": 3293,
     "shulker": 1204,
