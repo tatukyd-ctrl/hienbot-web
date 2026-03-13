@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:52:46 14/3/2026",
-  "totalKits": 112056,
-  "todayKits": 744,
+  "lastUpdated": "06:52:59 14/3/2026",
+  "totalKits": 112057,
+  "todayKits": 745,
   "onlineCount": 35,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 26
   },
-  "tps": "12.0",
+  "tps": "9.0",
   "ping": 210,
   "topUsers": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "Azure772",
-      "count": 282
+      "count": 283
     },
     {
       "name": "Simone",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3455
+      "count": 3456
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:51] akel1 has made the advancement [Spooky Scary Skeleton]",
-    "[23:51] [8b8t] >> You have killed yourself!",
-    "[23:51] [8b8t] >> The TPA request you sent to KionYhamma was successfully canceled.",
-    "[23:51] <Neverter1> xD",
-    "[23:51] [BOT] <0_HienBot> **Neverter1**: xD",
-    "[23:51] <Neverter1> ddosma",
-    "[23:51] [BOT] <0_HienBot> **Neverter1**: ddosma",
-    "[23:52] <KionYhamma> grief",
-    "[23:52] To KionYhamma: You're on cooldown, try again in 36 seconds! Don't forget to join dsc.gg/hienbot",
-    "[23:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:52] [BOT] <0_HienBot> >Hello KionYhamma!",
-    "[23:52] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[23:52] <akel1> FUCK",
     "[23:52] [BOT] <0_HienBot> **akel1**: FUCK",
     "[23:52] <akel1> grief",
@@ -108,7 +95,20 @@
     "[23:52] <KionYhamma> grief",
     "[23:52] To KionYhamma: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[23:52] [BOT] <0_HienBot> **KionYhamma**: grief",
-    "[23:52] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[23:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:52] [8b8t] >> You have killed yourself!",
+    "[23:52] <Azure772> survival",
+    "[23:52] [8b8t] >> Teleporting to home 0...",
+    "[23:52] [BOT] <0_HienBot> **Azure772**: survival",
+    "[23:52] [8b8t] >> Teleporting to home 1...",
+    "[23:52] To Azure772: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:52] To akel1: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[23:52] [BOT] <0_HienBot> **Bot to akel1**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[23:52] To Azure772: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:52] [8b8t] >> Request sent to Azure772",
+    "[23:52] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 282,
+    "Azure772": 283,
     "kobthegoat14": 150,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1645,7 +1645,7 @@
   "kitStats": {
     "pvp": 3058,
     "raid": 875,
-    "survival": 3455,
+    "survival": 3456,
     "shulker": 1223,
     "music": 338,
     "terracotta": 54,
