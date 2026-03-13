@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:14:48 13/3/2026",
+  "lastUpdated": "10:15:07 13/3/2026",
   "totalKits": 111367,
   "todayKits": 55,
   "onlineCount": 16,
@@ -12,7 +12,7 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 23
   },
-  "tps": "16.0",
+  "tps": "20.0",
   "ping": 201,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2903
+      "count": 2904
     },
     {
       "name": "shulker",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:14] To aangjandebo: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:14] [8b8t] >> Please do not spam.",
-    "[03:14] [8b8t] >> Request sent to aangjandebo",
-    "[03:14] [8b8t] >> Teleporting...",
-    "[03:14] [8b8t] >> You have killed yourself!",
-    "[03:14] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
-    "[03:14] To aangjandebo: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:14] [8b8t] >> Please do not spam.",
-    "[03:14] <PRO1567565> ping",
-    "[03:14] To PRO1567565: Your ping is: 2252 ms Don't forget to join dsc.gg/hienbot",
-    "[03:14] [BOT] <0_HienBot> **PRO1567565**: ping",
-    "[03:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:14] <aangjandebo> totem",
     "[03:14] To aangjandebo: You're on cooldown, try again in 25 seconds! Don't forget to join dsc.gg/hienbot",
     "[03:14] [8b8t] >> Please do not spam.",
@@ -108,7 +96,19 @@
     "[03:14] [BOT] <0_HienBot> **Bot to PRO1567565**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[03:14] [8b8t] >> Request sent to PRO1567565",
     "[03:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:14] [8b8t] >> Teleporting..."
+    "[03:14] [8b8t] >> Teleporting...",
+    "[03:14] [8b8t] >> You have killed yourself!",
+    "[03:14] To PRO1567565: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:14] [BOT] <0_HienBot> **Bot to PRO1567565**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:15] <aangjandebo> totem",
+    "[03:15] [8b8t] >> Teleporting to home 0...",
+    "[03:15] [BOT] <0_HienBot> **aangjandebo**: totem",
+    "[03:15] [8b8t] >> Teleporting to home 1...",
+    "[03:15] To aangjandebo: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:15] To aangjandebo: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:15] [8b8t] >> Please do not spam.",
+    "[03:15] [8b8t] >> Request sent to aangjandebo"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1605,11 +1605,11 @@
     "Dismaremu": 1,
     "aryanthegoat_TV": 21,
     "PRO1567565": 4,
-    "aangjandebo": 8,
+    "aangjandebo": 9,
     "r1deal": 2
   },
   "kitStats": {
-    "pvp": 2903,
+    "pvp": 2904,
     "raid": 841,
     "survival": 3293,
     "shulker": 1204,
