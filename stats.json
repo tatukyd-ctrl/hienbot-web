@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:41:37 13/3/2026",
-  "totalKits": 111754,
-  "todayKits": 442,
+  "lastUpdated": "22:41:52 13/3/2026",
+  "totalKits": 111755,
+  "todayKits": 443,
   "onlineCount": 28,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "21:49:07 13/3/2026",
     "avg": 21
   },
-  "tps": "14.0",
-  "ping": 208,
+  "tps": "13.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3377
+      "count": 3378
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[15:39] <CyberOne6ty> got a good place",
-    "[15:39] [BOT] <0_HienBot> **CyberOne6ty**: got a good place",
-    "[15:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:39] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
-    "[15:39] <CyberOne6ty> u killed him?",
-    "[15:39] [BOT] <0_HienBot> **CyberOne6ty**: u killed him?",
-    "[15:39] <BITROX006> who",
-    "[15:39] [BOT] <0_HienBot> **BITROX006**: who",
-    "[15:39] <Constant0fps> elytra",
-    "[15:39] [8b8t] >> Teleporting to home 0...",
-    "[15:39] [BOT] <0_HienBot> **Constant0fps**: elytra",
     "[15:39] [8b8t] >> Teleporting to home 6...",
     "[15:39] To Constant0fps: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[15:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +97,18 @@
     "[15:40] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[15:40] [BOT] <0_HienBot> >Type invite for invite rewards info",
     "[15:41] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
-    "[15:41] [BOT] <0_HienBot> >Hey DeathZuka!"
+    "[15:41] [BOT] <0_HienBot> >Hey DeathZuka!",
+    "[15:41] <TheMasterOfTools> !survival",
+    "[15:41] [BOT] <0_HienBot> **TheMasterOfTools**: !survival",
+    "[15:41] [8b8t] >> Teleporting to home 0...",
+    "[15:41] [8b8t] >> Teleporting to home 1...",
+    "[15:41] To TheMasterOfTools: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:41] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[15:41] [BOT] <0_HienBot> **Bot to TheMasterOfTools**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:41] To TheMasterOfTools: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:41] [BOT] <0_HienBot> **Bot to TheMasterOfTools**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:41] [8b8t] >> Request sent to TheMasterOfTools",
+    "[15:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1622,12 +1622,13 @@
     "Ibrame78": 2,
     "FALCON99": 2,
     "FloppyOnMC": 6,
-    "AlexBridge": 2
+    "AlexBridge": 2,
+    "TheMasterOfTools": 1
   },
   "kitStats": {
     "pvp": 2986,
     "raid": 857,
-    "survival": 3377,
+    "survival": 3378,
     "shulker": 1217,
     "music": 330,
     "terracotta": 54,
