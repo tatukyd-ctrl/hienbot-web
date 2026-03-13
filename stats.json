@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:26:00 13/3/2026",
+  "lastUpdated": "15:26:07 13/3/2026",
   "totalKits": 111543,
   "todayKits": 231,
-  "onlineCount": 20,
+  "onlineCount": 21,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "12.0",
+  "tps": "11.0",
   "ping": 0,
   "topUsers": [
     {
@@ -49,7 +49,7 @@
     },
     {
       "name": "Dreamers",
-      "count": 202
+      "count": 203
     },
     {
       "name": "TheobaldTheBird",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2936
+      "count": 2937
     },
     {
       "name": "shulker",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:25] [8b8t] >> Request sent to geeyuh",
-    "[08:25] [8b8t] >> Teleporting...",
-    "[08:25] <aangjandebo> mace",
-    "[08:25] To aangjandebo: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[08:25] [BOT] <0_HienBot> **aangjandebo**: mace",
-    "[08:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:25] <Dreamers> !pvp",
-    "[08:25] To Dreamers: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[08:25] [BOT] <0_HienBot> **Dreamers**: !pvp",
     "[08:25] [8b8t] >> You have killed yourself!",
     "[08:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +100,15 @@
     "[08:25] [8b8t] Unknown command do /help",
     "[08:25] [8b8t] Unknown command do /help",
     "[08:25] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[08:25] You are already connected to this server!"
+    "[08:25] You are already connected to this server!",
+    "[08:26] [BOT] <0_HienBot> >Use /kill to kill yourself!",
+    "[08:26] <Dreamers> !pvp",
+    "[08:26] [8b8t] >> You have killed yourself!",
+    "[08:26] [BOT] <0_HienBot> **Dreamers**: !pvp",
+    "[08:26] To Dreamers: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:26] [8b8t] >> Teleporting to home 0...",
+    "[08:26] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1317,7 +1317,7 @@
     "ASHyperion": 9,
     "notrealleoo": 47,
     "Creaky_Nat": 3,
-    "Dreamers": 202,
+    "Dreamers": 203,
     "Sandeep998": 1,
     "XPOKCGHDY": 14,
     "nicolsaaax": 11,
@@ -1614,7 +1614,7 @@
     "0_HiienBot": 1
   },
   "kitStats": {
-    "pvp": 2936,
+    "pvp": 2937,
     "raid": 844,
     "survival": 3324,
     "shulker": 1212,
