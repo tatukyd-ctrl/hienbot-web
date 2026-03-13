@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:55:07 13/3/2026",
+  "lastUpdated": "23:55:37 13/3/2026",
   "totalKits": 111788,
   "todayKits": 476,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "23:51:07 13/3/2026",
     "avg": 22
   },
-  "tps": "11.0",
+  "tps": "12.0",
   "ping": 207,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2990
+      "count": 2991
     },
     {
       "name": "shulker",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:53] [Ultra] <KurtzMC> rip",
-    "[16:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:53] <xxx_pidor124_xxx> !elytra",
-    "[16:53] To xxx_pidor124_xxx: You're on cooldown, try again in 28 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:53] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[16:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:53] [SE] <dragonkit> 17 tps",
     "[16:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[16:53] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[16:53] <.Patrogaming8719> k",
@@ -108,7 +100,15 @@
     "[16:54] To xxx_pidor124_xxx: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[16:54] [BOT] <0_HienBot> **Bot to xxx_pidor124_xxx**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[16:54] [BOT] <0_HienBot> >Try dupe",
-    "[16:55] [BOT] <0_HienBot> >Get a head start with survival"
+    "[16:55] [BOT] <0_HienBot> >Get a head start with survival",
+    "[16:55] <.Patrogaming8719> i did",
+    "[16:55] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[16:55] [BOT] <0_HienBot> **.Patrogaming8719**: i did",
+    "[16:55] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
+    "[16:55] <Wenstt> PVP",
+    "[16:55] [8b8t] >> Teleporting to home 0...",
+    "[16:55] [BOT] <0_HienBot> **Wenstt**: PVP",
+    "[16:55] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -478,7 +478,7 @@
     "_aksn": 1,
     ".CycloidQwQ": 2,
     "focoloa": 4,
-    "Wenstt": 10,
+    "Wenstt": 11,
     "espinos": 2,
     "kimwolf156456": 5,
     ".Pichuckrak": 5,
@@ -1628,7 +1628,7 @@
     "retrolstaph": 1
   },
   "kitStats": {
-    "pvp": 2990,
+    "pvp": 2991,
     "raid": 859,
     "survival": 3387,
     "shulker": 1218,
