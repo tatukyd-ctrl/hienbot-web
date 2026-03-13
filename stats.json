@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:41:07 13/3/2026",
-  "totalKits": 111707,
-  "todayKits": 395,
+  "lastUpdated": "20:41:26 13/3/2026",
+  "totalKits": 111708,
+  "todayKits": 396,
   "onlineCount": 22,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "8.0",
-  "ping": 0,
+  "tps": "10.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2972
+      "count": 2973
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:40] [8b8t] Unknown command do /help",
-    "[13:40] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[13:40] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[13:40] You were kicked from 8b8t: Timed out",
-    "[13:40] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[13:40] [8b8t] >> Welcome Leeewiith3Es to 8b8t.me Lobby",
-    "[13:40] [8b8t] Unknown command do /help",
-    "[13:40] [8b8t] Unknown command do /help",
-    "[13:40] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[13:40] You are already connected to this server!",
-    "[13:40] You are already connected to this server!",
-    "[13:40] You are already connected to this server!",
-    "[13:40] [8b8t] >> You have killed yourself!",
     "[13:40] <Dario_Supremo> Wool",
     "[13:40] [8b8t] >> Teleporting to home 0...",
     "[13:40] [BOT] <0_HienBot> **Dario_Supremo**: Wool",
@@ -108,7 +95,20 @@
     "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:41] [8b8t] >> You have killed yourself!",
     "[13:41] <ryooq> tpa for pvp",
-    "[13:41] [BOT] <0_HienBot> **ryooq**: tpa for pvp"
+    "[13:41] [BOT] <0_HienBot> **ryooq**: tpa for pvp",
+    "[13:41] To Dario_Supremo: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:41] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
+    "[13:41] <Doctorchris2013> pvp",
+    "[13:41] [8b8t] >> Teleporting to home 0...",
+    "[13:41] [8b8t] >> Please do not spam.",
+    "[13:41] [8b8t] >> Teleporting to home 1...",
+    "[13:41] To Doctorchris2013: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:41] To Doctorchris2013: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:41] [BOT] <0_HienBot> **Bot to Doctorchris2013**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:41] [8b8t] >> Request sent to Doctorchris2013",
+    "[13:41] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1615,14 +1615,14 @@
     "Chuffi3607997": 1,
     "MoooMC": 10,
     "introvert_": 1,
-    "Doctorchris2013": 13,
+    "Doctorchris2013": 14,
     "SuryaNandan": 5,
     "O_HiienBot": 21,
     "BNselmantp": 2,
     "Ibrame78": 2
   },
   "kitStats": {
-    "pvp": 2972,
+    "pvp": 2973,
     "raid": 854,
     "survival": 3364,
     "shulker": 1216,
