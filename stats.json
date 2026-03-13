@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:59:37 14/3/2026",
-  "totalKits": 111960,
-  "todayKits": 648,
-  "onlineCount": 30,
+  "lastUpdated": "03:59:57 14/3/2026",
+  "totalKits": 111961,
+  "todayKits": 649,
+  "onlineCount": 29,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "11.0",
+  "tps": "8.0",
   "ping": 211,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 1216
+      "count": 1217
     },
     {
       "name": "build",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:58] <Dreamers> ur just giving me my own kit",
-    "[20:58] [BOT] <0_HienBot> **Dreamers**: ur just giving me my own kit",
-    "[20:59] <geeyuh> ok",
-    "[20:59] [BOT] <0_HienBot> >Get a head start with survival",
-    "[20:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:59] <ThatCubeMan> there is no chests",
-    "[20:59] [BOT] <0_HienBot> **ThatCubeMan**: there is no chests",
-    "[20:59] <ThatCubeMan> ok bro",
-    "[20:59] [BOT] <0_HienBot> **ThatCubeMan**: ok bro",
-    "[20:59] <geeyuh> stash",
-    "[20:59] [8b8t] >> Teleporting to home 0...",
     "[20:59] [BOT] <0_HienBot> **geeyuh**: stash",
     "[20:59] [8b8t] >> Teleporting to home 2...",
     "[20:59] To geeyuh: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +97,18 @@
     "[20:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[20:59] [BOT] <0_HienBot> **Bot to geeyuh**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:59] To ThatCubeMan: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:59] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[20:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:59] <ThatCubeMan> elytra",
+    "[20:59] [8b8t] >> Teleporting to home 0...",
+    "[20:59] [8b8t] >> Teleporting to home 6...",
+    "[20:59] [BOT] <0_HienBot> **ThatCubeMan**: elytra",
+    "[20:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[20:59] To ThatCubeMan: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[20:59] To ThatCubeMan: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:59] [BOT] <0_HienBot> **Bot to ThatCubeMan**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[20:59] [8b8t] >> Request sent to ThatCubeMan",
+    "[20:59] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1632,7 +1632,7 @@
     ".Patrogaming8719": 1,
     "Yonkela": 2,
     "snowbed2": 2,
-    "ThatCubeMan": 17,
+    "ThatCubeMan": 18,
     "ELPOCOYOMALVADO": 2
   },
   "kitStats": {
@@ -1656,7 +1656,7 @@
     "dupe": 1066,
     "food": 286,
     "glass": 196,
-    "elytra": 1216,
+    "elytra": 1217,
     "redstone": 685,
     "quartz": 105,
     "highway": 191,
