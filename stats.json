@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:28:37 14/3/2026",
+  "lastUpdated": "01:29:07 14/3/2026",
   "totalKits": 111845,
   "todayKits": 533,
-  "onlineCount": 39,
+  "onlineCount": 37,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 23
   },
-  "tps": "12.0",
-  "ping": 207,
+  "tps": "13.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3012
+      "count": 3013
     },
     {
       "name": "shulker",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:26] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
-    "[18:26] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[18:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[18:27] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
-    "[18:27] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[18:27] <RaveJave777> list",
-    "[18:27] To RaveJave777: Hello RaveJave777!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[18:27] [BOT] <0_HienBot> **RaveJave777**: list",
     "[18:27] <NeilB16> !list",
     "[18:27] To NeilB16: Hello NeilB16!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -108,7 +100,15 @@
     "[18:28] To RaveJave777: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[18:28] [BOT] <0_HienBot> **Bot to RaveJave777**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[18:28] NeilB16 has reached the goal [Postmortal]",
-    "[18:28] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!"
+    "[18:28] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[18:29] [BOT] <0_HienBot> >Try list to see available kits",
+    "[18:29] <RaveJave777> pvp",
+    "[18:29] [8b8t] >> Teleporting to home 0...",
+    "[18:29] [8b8t] >> Teleporting to home 1...",
+    "[18:29] [BOT] <0_HienBot> **RaveJave777**: pvp",
+    "[18:29] To RaveJave777: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:29] To RaveJave777: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1628,10 +1628,10 @@
     "retrolstaph": 2,
     "CreepyClash18": 1,
     "NeilB16": 4,
-    "RaveJave777": 5
+    "RaveJave777": 6
   },
   "kitStats": {
-    "pvp": 3012,
+    "pvp": 3013,
     "raid": 862,
     "survival": 3403,
     "shulker": 1219,
