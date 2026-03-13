@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:07:07 13/3/2026",
-  "totalKits": 111415,
-  "todayKits": 103,
+  "lastUpdated": "12:07:31 13/3/2026",
+  "totalKits": 111416,
+  "todayKits": 104,
   "onlineCount": 19,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 22
   },
-  "tps": "19.0",
+  "tps": "18.0",
   "ping": 201,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3303
+      "count": 3304
     },
     {
       "name": "pvp",
@@ -80,25 +80,6 @@
   ],
   "chatLog": [
     "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:06] [8b8t] >> Request sent to PepeChuyHS",
-    "[05:06] <kobthegoat14> elytra",
-    "[05:06] [8b8t] >> Teleporting...",
-    "[05:06] To kobthegoat14: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:06] [BOT] <0_HienBot> **Bot to kobthegoat14**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[05:06] [8b8t] >> You have killed yourself!",
-    "[05:06] <.Redjul543> that area is bugged",
-    "[05:06] [BOT] <0_HienBot> **.Redjul543**: that area is bugged",
-    "[05:06] <geeyuh> ye we start over again in overworld",
-    "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:06] To PepeChuyHS: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:06] [BOT] <0_HienBot> **Bot to PepeChuyHS**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:06] <PepeChuyHS> Survival",
-    "[05:06] To PepeChuyHS: You're on cooldown, try again in 39 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:06] [BOT] <0_HienBot> **PepeChuyHS**: Survival",
-    "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:06] <brunitocoso> sure",
-    "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:06] <PepeChuyHS> Elytra",
     "[05:06] To PepeChuyHS: You're on cooldown, try again in 34 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +89,26 @@
     "[05:06] <PepeChuyHS> list",
     "[05:06] To PepeChuyHS: Hello PepeChuyHS!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[05:06] [BOT] <0_HienBot> **.Redjul543**: idk how far i can go without my game breaking",
-    "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:07] <brunitocoso> hey .Redjul543 do you have a far tp on the overworld",
+    "[05:07] [BOT] <0_HienBot> **brunitocoso**: hey .Redjul543 do you have a far tp on the overworld",
+    "[05:07] [BOT] <0_HienBot> >Try list to see available kits",
+    "[05:07] <.Redjul543> 50k?",
+    "[05:07] <PepeChuyHS> Survival",
+    "[05:07] [8b8t] >> Teleporting to home 0...",
+    "[05:07] [BOT] <0_HienBot> **.Redjul543**: 50k?",
+    "[05:07] [8b8t] >> Teleporting to home 1...",
+    "[05:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:07] To PepeChuyHS: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:07] To PepeChuyHS: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:07] <brunitocoso> more",
+    "[05:07] [BOT] <0_HienBot> **Bot to PepeChuyHS**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:07] [8b8t] >> Request sent to PepeChuyHS",
+    "[05:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:07] [8b8t] >> Teleporting...",
+    "[05:07] <brunitocoso> millions",
+    "[05:07] [BOT] <0_HienBot> **brunitocoso**: millions"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -549,7 +549,7 @@
     "cutelotl_": 1,
     "Stuff_Thing": 11,
     "AkashMC7": 2,
-    "PepeChuyHS": 38,
+    "PepeChuyHS": 39,
     "Pritom_xD": 1,
     "DaddyShawn980": 8,
     ".CSSX3049": 1,
@@ -1613,7 +1613,7 @@
   "kitStats": {
     "pvp": 2911,
     "raid": 841,
-    "survival": 3303,
+    "survival": 3304,
     "shulker": 1209,
     "music": 316,
     "terracotta": 53,
