@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:57:38 14/3/2026",
-  "totalKits": 112031,
-  "todayKits": 719,
-  "onlineCount": 32,
+  "lastUpdated": "05:57:58 14/3/2026",
+  "totalKits": 112032,
+  "todayKits": 720,
+  "onlineCount": 31,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "18.0",
+  "tps": "16.0",
   "ping": 217,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3053
+      "count": 3054
     },
     {
       "name": "elytra",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:55] To YangNTK: Your kit (cpvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:56] To YangNTK: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:56] [BOT] <0_HienBot> **Bot to YangNTK**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:56] [8b8t] >> Request sent to YangNTK",
-    "[22:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:56] <.SlimBead4443> kit building",
-    "[22:56] To .SlimBead4443: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[22:56] [BOT] <0_HienBot> **.SlimBead4443**: kit building",
-    "[22:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:56] <.SlimBead4443> kit building",
     "[22:56] To .SlimBead4443: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[22:56] [8b8t] >> Please do not spam.",
@@ -108,7 +98,17 @@
     "[22:57] To YangNTK: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
     "[22:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:57] [BOT] <0_HienBot> **Bot to YangNTK**: You're on cooldown, try again in 19 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:57] [BOT] <0_HienBot> >Sub to Hien2309 in youtube"
+    "[22:57] [BOT] <0_HienBot> >Sub to Hien2309 in youtube",
+    "[22:57] <YangNTK> kit cpvp",
+    "[22:57] [8b8t] >> Teleporting to home 0...",
+    "[22:57] [BOT] <0_HienBot> **YangNTK**: kit cpvp",
+    "[22:57] [8b8t] >> Teleporting to home 1...",
+    "[22:57] To YangNTK: Your kit (cpvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:57] To YangNTK: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:57] [BOT] <0_HienBot> **Bot to YangNTK**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:57] [8b8t] >> Request sent to YangNTK",
+    "[22:57] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1637,10 +1637,10 @@
     "Raphiel": 1,
     "ToadRageThe5th": 12,
     "Texturization": 3,
-    "YangNTK": 1
+    "YangNTK": 2
   },
   "kitStats": {
-    "pvp": 3053,
+    "pvp": 3054,
     "raid": 872,
     "survival": 3451,
     "shulker": 1223,
