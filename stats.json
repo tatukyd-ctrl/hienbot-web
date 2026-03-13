@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "14:40:37 13/3/2026",
+  "lastUpdated": "14:41:07 13/3/2026",
   "totalKits": 111499,
   "todayKits": 187,
-  "onlineCount": 20,
+  "onlineCount": 21,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 21
   },
-  "tps": "14.0",
-  "ping": 199,
+  "tps": "18.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2922
+      "count": 2923
     },
     {
       "name": "shulker",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[07:39] <geeyuh> cpvp",
-    "[07:39] [8b8t] >> Teleporting to home 0...",
-    "[07:39] [BOT] <0_HienBot> **geeyuh**: cpvp",
-    "[07:39] [8b8t] >> Teleporting to home 1...",
-    "[07:39] To geeyuh: Your kit (cpvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[07:39] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:39] To geeyuh: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:39] <aangjandebo> surviva",
     "[07:39] [BOT] <0_HienBot> **Bot to geeyuh**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[07:40] [8b8t] >> Request sent to geeyuh",
@@ -108,7 +101,14 @@
     "[07:40] [BOT] <0_HienBot> **LocalIceDealer**: > accept",
     "[07:40] <shardah> my ping fucks up here",
     "[07:40] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[07:40] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me"
+    "[07:40] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
+    "[07:41] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
+    "[07:41] <aangjandebo> pvp",
+    "[07:41] [8b8t] >> Teleporting to home 0...",
+    "[07:41] [BOT] <0_HienBot> **aangjandebo**: pvp",
+    "[07:41] [8b8t] >> Teleporting to home 1...",
+    "[07:41] To aangjandebo: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[07:41] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1605,14 +1605,14 @@
     "Dismaremu": 1,
     "aryanthegoat_TV": 21,
     "PRO1567565": 5,
-    "aangjandebo": 34,
+    "aangjandebo": 35,
     "r1deal": 2,
     ".DeathRaptor5578": 3,
     "GredEtForge": 7,
     ".noahdiamonds": 3
   },
   "kitStats": {
-    "pvp": 2922,
+    "pvp": 2923,
     "raid": 842,
     "survival": 3315,
     "shulker": 1210,
