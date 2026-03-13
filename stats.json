@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:53:07 13/3/2026",
+  "lastUpdated": "20:53:37 13/3/2026",
   "totalKits": 111715,
   "todayKits": 403,
-  "onlineCount": 21,
+  "onlineCount": 22,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "10.0",
-  "ping": 212,
+  "tps": "12.0",
+  "ping": 230,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3365
+      "count": 3366
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:49] [BOT] <0_HienBot> **Wenstt**: mix",
-    "[13:49] To Shada1111: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:49] [8b8t] >> Request sent to Shada1111",
-    "[13:49] You were kicked from 8b8t: Kicked for spamming",
-    "[13:49] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[13:49] [8b8t] Unknown command do /help",
-    "[13:49] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[13:49] You are already connected to this server!",
-    "[13:49] <Wenstt> pvpkit",
     "[13:49] [BOT] <0_HienBot> **Wenstt**: pvpkit",
     "[13:49] <Wenstt> pvp kit",
     "[13:49] [BOT] <0_HienBot> **Wenstt**: pvp kit",
@@ -108,7 +97,18 @@
     "[13:52] [BOT] <0_HienBot> >Bot created by Hien2309.",
     "[13:52] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[13:52] Shada1111 has made the advancement [Stone Age]",
-    "[13:52] [BOT] <0_HienBot> >Hello MonkeBot!"
+    "[13:52] [BOT] <0_HienBot> >Hello MonkeBot!",
+    "[13:53] [BOT] <0_HienBot> >Get a head start with survival",
+    "[13:53] <Shada1111> survival",
+    "[13:53] [8b8t] >> You have killed yourself!",
+    "[13:53] [BOT] <0_HienBot> **Shada1111**: survival",
+    "[13:53] To Shada1111: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:53] [8b8t] >> Teleporting to home 0...",
+    "[13:53] [8b8t] >> Teleporting to home 1...",
+    "[13:53] To Shada1111: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:53] [8b8t] >> Request sent to Shada1111",
+    "[13:53] [BOT] <0_HienBot> **Bot to Shada1111**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1597,7 +1597,7 @@
     "Ciromaster20304": 1,
     "CyberOne6ty": 59,
     "Juancho_chan69": 2,
-    "Shada1111": 2,
+    "Shada1111": 3,
     "javac": 3,
     "Drupix": 19,
     "Dyl2013": 5,
@@ -1624,7 +1624,7 @@
   "kitStats": {
     "pvp": 2976,
     "raid": 854,
-    "survival": 3365,
+    "survival": 3366,
     "shulker": 1216,
     "music": 328,
     "terracotta": 54,
