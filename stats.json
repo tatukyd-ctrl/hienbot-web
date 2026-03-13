@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:55:38 14/3/2026",
-  "totalKits": 112009,
-  "todayKits": 697,
+  "lastUpdated": "04:55:57 14/3/2026",
+  "totalKits": 112010,
+  "todayKits": 698,
   "onlineCount": 29,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "13.0",
+  "tps": "9.0",
   "ping": 209,
   "topUsers": [
     {
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:54] <ToadRageThe5th> can I say fuck",
-    "[21:54] [BOT] <0_HienBot> **ToadRageThe5th**: can I say fuck",
-    "[21:54] <ThatCubeMan> yes ni",
-    "[21:54] [BOT] <0_HienBot> **ThatCubeMan**: yes ni",
-    "[21:54] [BOT] <DPS_Chatbridge> ><quitting_is_hard> toadrage no, you can't. A report has been filed.",
-    "[21:54] [BOT] <0_HienBot> **DPS_Chatbridge**: ><quitting_is_hard> toadrage no, you can't. A report has been filed.",
-    "[21:54] <ThatCubeMan> nieghebor",
-    "[21:54] [BOT] <0_HienBot> **ThatCubeMan**: nieghebor",
-    "[21:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:54] [Ultra] <14mate> ps si que anda mal creo",
     "[21:54] [BOT] <0_HienBot> **14mate**: ps si que anda mal creo",
     "[21:54] <retrolstaph> autism",
     "[21:54] [BOT] <0_HienBot> **retrolstaph**: autism",
@@ -108,7 +97,18 @@
     "[21:55] [BOT] <0_HienBot> >Use list to choose your kit",
     "[21:55] <ToadRageThe5th> list",
     "[21:55] To ToadRageThe5th: Hello ToadRageThe5th!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[21:55] [BOT] <0_HienBot> **ToadRageThe5th**: list"
+    "[21:55] [BOT] <0_HienBot> **ToadRageThe5th**: list",
+    "[21:55] <ToadRageThe5th> end",
+    "[21:55] [8b8t] >> Teleporting to home 0...",
+    "[21:55] [BOT] <0_HienBot> **ToadRageThe5th**: end",
+    "[21:55] [8b8t] >> Teleporting to home 5...",
+    "[21:55] To ToadRageThe5th: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:55] To ToadRageThe5th: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:55] [BOT] <0_HienBot> **Bot to ToadRageThe5th**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:55] pixelcrafts657 has made the advancement [Monster Hunter]",
+    "[21:55] [8b8t] >> Request sent to ToadRageThe5th",
+    "[21:55] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1635,7 +1635,7 @@
     "ThatCubeMan": 43,
     "ELPOCOYOMALVADO": 2,
     "Raphiel": 1,
-    "ToadRageThe5th": 11,
+    "ToadRageThe5th": 12,
     "Texturization": 3
   },
   "kitStats": {
@@ -1667,6 +1667,6 @@
     "mineral": 409,
     "gterracotta": 39,
     "wood": 410,
-    "end": 289
+    "end": 290
   }
 }
