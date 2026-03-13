@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:10:38 13/3/2026",
-  "totalKits": 111641,
-  "todayKits": 329,
+  "lastUpdated": "18:10:55 13/3/2026",
+  "totalKits": 111642,
+  "todayKits": 330,
   "onlineCount": 21,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 200,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3348
+      "count": 3349
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:09] [BOT] <0_HienBot> **MoooMC**: mob drops",
-    "[11:10] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[11:10] <.FlluxIsHere> help",
-    "[11:10] To .FlluxIsHere: Cmds: (Kit you want), lang, info , ping, tps, player, bestping, worstping, discord, link, status, gay | dsc.gg/hienbot",
-    "[11:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:10] O_HiienBot Whispers: SuryaNandan",
-    "[11:10] [BOT] <0_HienBot> **O_HiienBot**: SuryaNandan",
-    "[11:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[11:10] <Doctorchris2013> ore",
-    "[11:10] [8b8t] >> Teleporting to home 0...",
-    "[11:10] O_HiienBot Whispers: survival",
-    "[11:10] To O_HiienBot: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[11:10] [BOT] <0_HienBot> **Doctorchris2013**: ore",
-    "[11:10] [8b8t] >> Teleporting to home 3...",
-    "[11:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:10] To Doctorchris2013: Your kit (ore) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[11:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +92,23 @@
     "[11:10] To O_HiienBot: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[11:10] [BOT] <0_HienBot> **O_HiienBot**: survival",
     "[11:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:10] [8b8t] >> Teleporting..."
+    "[11:10] [8b8t] >> Teleporting...",
+    "[11:10] [8b8t] >> You have killed yourself!",
+    "[11:10] To Doctorchris2013: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[11:10] [BOT] <0_HienBot> **Bot to Doctorchris2013**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[11:10] O_HiienBot Whispers: survival",
+    "[11:10] [8b8t] >> Teleporting to home 0...",
+    "[11:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:10] [8b8t] >> Teleporting to home 1...",
+    "[11:10] To O_HiienBot: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:10] [BOT] <0_HienBot> **Bot to O_HiienBot**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:10] To O_HiienBot: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:10] [BOT] <0_HienBot> **Bot to O_HiienBot**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:10] [8b8t] >> Request sent to O_HiienBot",
+    "[11:10] [8b8t] >> Teleporting...",
+    "[11:10] <.FlluxIsHere> pls i need rokets",
+    "[11:10] [BOT] <0_HienBot> **.FlluxIsHere**: pls i need rokets",
+    "[11:10] MoooMC Whispers: feather"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1617,12 +1617,12 @@
     "introvert_": 1,
     "Doctorchris2013": 7,
     "SuryaNandan": 2,
-    "O_HiienBot": 5
+    "O_HiienBot": 6
   },
   "kitStats": {
     "pvp": 2959,
     "raid": 849,
-    "survival": 3348,
+    "survival": 3349,
     "shulker": 1214,
     "music": 326,
     "terracotta": 54,
