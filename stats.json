@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:59:08 14/3/2026",
+  "lastUpdated": "06:59:38 14/3/2026",
   "totalKits": 112059,
   "todayKits": 747,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3456
+      "count": 3457
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:55] [8b8t] >> You have killed yourself!",
-    "[23:55] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[23:55] To KionYhamma: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:55] [BOT] <0_HienBot> **Bot to KionYhamma**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:55] [BOT] <0_HienBot> >What's up, Seabase?",
-    "[23:56] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[23:56] [8b8t] >> The command /unignorr is not allowed",
-    "[23:56] <Azure772> glowstone",
-    "[23:56] [8b8t] >> Teleporting to home 0...",
-    "[23:56] [BOT] <0_HienBot> **Azure772**: glowstone",
     "[23:56] [8b8t] >> Teleporting to home 7...",
     "[23:56] To Azure772: Your kit (glowstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[23:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +98,17 @@
     "[23:58] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[23:58] [BOT] <0_HienBot> >Hello Inr984JWurf!",
     "[23:58] RaveJave777 has made the advancement [Best Friends Forever]",
-    "[23:59] [BOT] <0_HienBot> >Want free items? Just type survival"
+    "[23:59] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[23:59] <FlameFrags123> survival",
+    "[23:59] [BOT] <0_HienBot> **FlameFrags123**: survival",
+    "[23:59] [8b8t] >> Teleporting to home 0...",
+    "[23:59] [8b8t] >> Teleporting to home 1...",
+    "[23:59] To FlameFrags123: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:59] To FlameFrags123: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:59] [BOT] <0_HienBot> **Bot to FlameFrags123**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:59] [8b8t] >> Request sent to FlameFrags123",
+    "[23:59] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1640,12 +1640,13 @@
     "YangNTK": 5,
     "Seabase": 2,
     "akel1": 4,
-    "CageySaggittari": 3
+    "CageySaggittari": 3,
+    "FlameFrags123": 1
   },
   "kitStats": {
     "pvp": 3058,
     "raid": 876,
-    "survival": 3456,
+    "survival": 3457,
     "shulker": 1223,
     "music": 338,
     "terracotta": 54,
