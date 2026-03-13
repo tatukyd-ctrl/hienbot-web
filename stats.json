@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:34:07 13/3/2026",
-  "totalKits": 111612,
-  "todayKits": 300,
-  "onlineCount": 23,
+  "lastUpdated": "17:34:23 13/3/2026",
+  "totalKits": 111613,
+  "todayKits": 301,
+  "onlineCount": 24,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "16.0",
+  "tps": "15.0",
   "ping": 199,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2954
+      "count": 2955
     },
     {
       "name": "shulker",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:32] <Yippe_tails> ok",
-    "[10:32] [BOT] <0_HienBot> **Dreamers**: its an stash",
-    "[10:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:32] <Yippe_tails> oh rlly?",
-    "[10:32] [BOT] <0_HienBot> **Yippe_tails**: oh rlly?",
-    "[10:33] [BOT] <0_HienBot> >Welcome to 8b8t, cappuccino_!",
-    "[10:33] <Dreamers> yea",
-    "[10:33] [BOT] <0_HienBot> **Dreamers**: yea",
-    "[10:33] <Dreamers> it even has auto regear",
-    "[10:33] [BOT] <0_HienBot> **Dreamers**: it even has auto regear",
-    "[10:33] <Bloodli> list",
     "[10:33] To Bloodli: Hello Bloodli!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[10:33] [BOT] <0_HienBot> **Bloodli**: list",
     "[10:33] <Yippe_tails> can i live at ur base bc im tryna build mine XD",
@@ -108,7 +97,18 @@
     "[10:33] To Bloodli: Sorry! Yellow Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[10:33] [BOT] <0_HienBot> **Bot to Bloodli**: Sorry! Yellow Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[10:34] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[10:34] Longlamma has made the advancement [We Need to Go Deeper]"
+    "[10:34] Longlamma has made the advancement [We Need to Go Deeper]",
+    "[10:34] <Bloodli> !pvp",
+    "[10:34] [8b8t] >> Teleporting to home 0...",
+    "[10:34] [BOT] <0_HienBot> **Bloodli**: !pvp",
+    "[10:34] [8b8t] >> Teleporting to home 1...",
+    "[10:34] To Bloodli: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:34] To Bloodli: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:34] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[10:34] [BOT] <0_HienBot> **Bot to Bloodli**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:34] [8b8t] >> Request sent to Bloodli",
+    "[10:34] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1564,7 +1564,7 @@
     "LAKAEEE": 7,
     "kits_pls": 18,
     "FaxeHeadless": 7,
-    "Bloodli": 8,
+    "Bloodli": 9,
     "tommyber": 9,
     "BITROX006": 42,
     "rngr1": 6,
@@ -1617,7 +1617,7 @@
     "introvert_": 1
   },
   "kitStats": {
-    "pvp": 2954,
+    "pvp": 2955,
     "raid": 846,
     "survival": 3340,
     "shulker": 1214,
