@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:53:07 13/3/2026",
-  "totalKits": 111566,
-  "todayKits": 254,
-  "onlineCount": 19,
+  "lastUpdated": "15:53:26 13/3/2026",
+  "totalKits": 111567,
+  "todayKits": 255,
+  "onlineCount": 20,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2941
+      "count": 2942
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:51] [8b8t] >> Request sent to ryooq",
-    "[08:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:51] [8b8t] >> Teleporting...",
-    "[08:51] <ryooq> YO",
-    "[08:51] [BOT] <0_HienBot> **ryooq**: YO",
-    "[08:51] <ryooq> MY SHULKER",
-    "[08:51] [BOT] <0_HienBot> **ryooq**: MY SHULKER",
-    "[08:51] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[08:52] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
-    "[08:52] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[08:52] <ryooq> lol",
     "[08:52] [BOT] <0_HienBot> **ryooq**: lol",
     "[08:52] <[MOD✔] freddison> anchor >>>>>>>>>>>> crystal",
@@ -108,7 +98,17 @@
     "[08:52] [BOT] <0_HienBot> **ryooq**: NOOOO",
     "[08:53] [BOT] <0_HienBot> >Try stash",
     "[08:53] <[MOD✔] freddison> soz",
-    "[08:53] [BOT] <0_HienBot> **freddison**: soz"
+    "[08:53] [BOT] <0_HienBot> **freddison**: soz",
+    "[08:53] <ryooq> pvp",
+    "[08:53] [8b8t] >> Teleporting to home 0...",
+    "[08:53] [BOT] <0_HienBot> **ryooq**: pvp",
+    "[08:53] [8b8t] >> Teleporting to home 1...",
+    "[08:53] To ryooq: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:53] To ryooq: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:53] [8b8t] >> Request sent to ryooq",
+    "[08:53] [8b8t] >> Teleporting...",
+    "[08:53] [BOT] <0_HienBot> **Bot to ryooq**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1208,7 +1208,7 @@
     "__cats": 1,
     "hopingstream725": 1,
     "Webiwabo399": 18,
-    "ryooq": 53,
+    "ryooq": 54,
     ".Camcam6908": 2,
     "sadfelde1234": 5,
     "Creppy_Knight01": 1,
@@ -1614,7 +1614,7 @@
     "0_HiienBot": 1
   },
   "kitStats": {
-    "pvp": 2941,
+    "pvp": 2942,
     "raid": 845,
     "survival": 3331,
     "shulker": 1212,
