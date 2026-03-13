@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:29:06 13/3/2026",
-  "totalKits": 111317,
-  "todayKits": 5,
+  "lastUpdated": "07:29:36 13/3/2026",
+  "totalKits": 111318,
+  "todayKits": 6,
   "onlineCount": 19,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 25
   },
-  "tps": "14.0",
-  "ping": 201,
+  "tps": "11.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 1105
+      "count": 1106
     },
     {
       "name": "dupe",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:26] To PepeChuyHS: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[00:26] [BOT] <0_HienBot> **Bot to PepeChuyHS**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[00:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[00:27] [BOT] <0_HienBot> >Get a head start with survival",
-    "[00:27] <crisalber> alguien sabe todavia esta el donkey dupe?",
-    "[00:27] [BOT] <0_HienBot> **crisalber**: alguien sabe todavia esta el donkey dupe?",
-    "[00:27] [BOT] <0_HienBot> >Bot created by Hien2309.",
-    "[00:27] <PepeChuyHS> list",
-    "[00:27] To PepeChuyHS: Hello PepeChuyHS!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[00:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:27] [Ultra] <Kimaru> yo creo que no habra espacio eh",
-    "[00:27] [BOT] <0_HienBot> **focoloa**: yo creo que no habra espacio eh",
-    "[00:27] <PepeChuyHS> Armortrims",
-    "[00:27] [8b8t] >> Teleporting to home 0...",
-    "[00:27] [BOT] <0_HienBot> **PepeChuyHS**: Armortrims",
-    "[00:27] [8b8t] >> Teleporting to home 7...",
     "[00:27] To PepeChuyHS: Your kit (armortrims) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[00:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[00:27] To PepeChuyHS: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +92,23 @@
     "[00:28] [BOT] <0_HienBot> **Bot to PepeChuyHS**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[00:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[00:28] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[00:28] [BOT] <0_HienBot> >Use /lobby to return to the lobby!"
+    "[00:28] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
+    "[00:29] [BOT] <0_HienBot> >Use list to see all available kits!",
+    "[00:29] <PepeChuyHS> list",
+    "[00:29] To PepeChuyHS: Hello PepeChuyHS!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[00:29] [BOT] <0_HienBot> **PepeChuyHS**: list",
+    "[00:29] <PepeChuyHS> Elytra",
+    "[00:29] [8b8t] >> Teleporting to home 0...",
+    "[00:29] [8b8t] >> Teleporting to home 6...",
+    "[00:29] [BOT] <0_HienBot> **PepeChuyHS**: Elytra",
+    "[00:29] To PepeChuyHS: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:29] To PepeChuyHS: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:29] [BOT] <0_HienBot> **Bot to PepeChuyHS**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:29] [8b8t] >> Request sent to PepeChuyHS",
+    "[00:29] [8b8t] >> Teleporting...",
+    "[00:29] <TheUnrealZaka> ves? ya tengo uno lleno y sigo teniendo más",
+    "[00:29] [BOT] <0_HienBot> **TheUnrealZaka**: ves? ya tengo uno lleno y sigo teniendo ms"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -549,7 +549,7 @@
     "cutelotl_": 1,
     "Stuff_Thing": 11,
     "AkashMC7": 2,
-    "PepeChuyHS": 22,
+    "PepeChuyHS": 23,
     "Pritom_xD": 1,
     "DaddyShawn980": 8,
     ".CSSX3049": 1,
@@ -1624,7 +1624,7 @@
     "dupe": 1039,
     "food": 279,
     "glass": 187,
-    "elytra": 1105,
+    "elytra": 1106,
     "redstone": 672,
     "quartz": 98,
     "highway": 189,
