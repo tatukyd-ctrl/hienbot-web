@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:41:02 13/3/2026",
+  "lastUpdated": "20:41:07 13/3/2026",
   "totalKits": 111707,
   "todayKits": 395,
   "onlineCount": 22,
@@ -12,7 +12,7 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "10.0",
+  "tps": "8.0",
   "ping": 0,
   "topUsers": [
     {
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:40] [8b8t] >> Use the command /login <password>.",
-    "[13:40] [8b8t] >> You have successfully logged.",
-    "[13:40] [8b8t] Unknown command do /help",
     "[13:40] [8b8t] Unknown command do /help",
     "[13:40] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[13:40] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
@@ -108,7 +105,10 @@
     "[13:40] <Doctorchris2013> pvp",
     "[13:40] To Doctorchris2013: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[13:41] [BOT] <0_HienBot> **Doctorchris2013**: pvp",
-    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[13:41] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:41] [8b8t] >> You have killed yourself!",
+    "[13:41] <ryooq> tpa for pvp",
+    "[13:41] [BOT] <0_HienBot> **ryooq**: tpa for pvp"
   ],
   "userStats": {
     "Hien2309": 93,
