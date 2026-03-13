@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:36:37 13/3/2026",
+  "lastUpdated": "18:37:07 13/3/2026",
   "totalKits": 111663,
   "todayKits": 351,
-  "onlineCount": 17,
+  "onlineCount": 18,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "17.0",
-  "ping": 205,
+  "tps": "14.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:35] [BOT] <0_HienBot> **Khushal_maxx77**: god swear",
-    "[11:35] <BNselmantp> pls give me kiy",
-    "[11:35] [BOT] <0_HienBot> **BNselmantp**: pls give me kiy",
-    "[11:35] <BNselmantp> kit",
-    "[11:35] To BNselmantp: Hello BNselmantp!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[11:35] [BOT] <0_HienBot> **BNselmantp**: kit",
-    "[11:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:35] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[11:35] BNselmantp has made the advancement [Isn't It Iron Pick]",
-    "[11:35] <Khushal_maxx77> pearl",
-    "[11:35] [8b8t] >> Teleporting to home 0...",
-    "[11:35] [BOT] <0_HienBot> **Khushal_maxx77**: pearl",
-    "[11:35] [8b8t] >> Teleporting to home 5...",
-    "[11:35] To Khushal_maxx77: ¡Tu kit (pearl) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
     "[11:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:35] To Khushal_maxx77: ¡Escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
     "[11:35] [BOT] <0_HienBot> **Bot to Khushal_maxx77**: Escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
@@ -108,7 +94,21 @@
     "[11:36] To Khushal_maxx77: ¡Estás en espera, intenta en 34 segundos! Únete a dsc.gg/hienbot",
     "[11:36] [BOT] <0_HienBot> **Khushal_maxx77**: enderpearl",
     "[11:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:36] [BOT] <0_HienBot> >Items for PVP and Building available in build"
+    "[11:36] [BOT] <0_HienBot> >Items for PVP and Building available in build",
+    "[11:36] <BNselmantp> kit pls",
+    "[11:36] [8b8t] >> Teleporting to home 0...",
+    "[11:36] [BOT] <0_HienBot> **BNselmantp**: kit pls",
+    "[11:36] [8b8t] >> Teleporting to home 4...",
+    "[11:36] To BNselmantp: Kit \"pls\" not found! Giving you (toolbox) instead! dsc.gg/hienbot",
+    "[11:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:36] To BNselmantp: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:36] [BOT] <0_HienBot> **Bot to BNselmantp**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:36] [8b8t] >> Request sent to BNselmantp",
+    "[11:36] <Khushal_maxx77> anchor",
+    "[11:36] To Khushal_maxx77: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
+    "[11:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:37] [BOT] <0_HienBot> **Bot to Khushal_maxx77**: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
+    "[11:37] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1617,7 +1617,8 @@
     "introvert_": 1,
     "Doctorchris2013": 9,
     "SuryaNandan": 5,
-    "O_HiienBot": 14
+    "O_HiienBot": 14,
+    "BNselmantp": 1
   },
   "kitStats": {
     "pvp": 2961,
@@ -1629,7 +1630,7 @@
     "lightsources": 192,
     "tools": 976,
     "armortrims": 226,
-    "toolbox": 321,
+    "toolbox": 322,
     "wool": 366,
     "exp": 535,
     "stash": 931,
