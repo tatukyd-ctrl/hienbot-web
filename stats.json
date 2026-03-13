@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:06:07 14/3/2026",
+  "lastUpdated": "02:06:37 14/3/2026",
   "totalKits": 111867,
   "todayKits": 555,
-  "onlineCount": 34,
+  "onlineCount": 32,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 23
   },
-  "tps": "10.0",
-  "ping": 214,
+  "tps": "11.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3408
+      "count": 3409
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:05] [8b8t] >> Teleporting to home 1...",
-    "[19:05] [BOT] <0_HienBot> **BITROX006**: !pvp",
-    "[19:05] To BITROX006: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:05] <GokuSupersayan52> ayuda soy nuevo",
-    "[19:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:05] <CyberOne6ty> bruh",
-    "[19:05] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:05] [BOT] <0_HienBot> **CyberOne6ty**: bruh",
-    "[19:05] <GokuSupersayan52> ayuda soy nuevo",
     "[19:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:05] [8b8t] >> Request sent to BITROX006",
     "[19:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +98,17 @@
     "[19:05] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[19:06] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[19:06] <Sebastian_Ahmed> alguien me ayuda?",
-    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:06] <BITROX006> !survival",
+    "[19:06] [8b8t] >> Teleporting to home 0...",
+    "[19:06] [8b8t] >> Teleporting to home 1...",
+    "[19:06] [BOT] <0_HienBot> **BITROX006**: !survival",
+    "[19:06] To BITROX006: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:06] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:06] [BOT] <0_HienBot> **Bot to BITROX006**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:06] [8b8t] >> Request sent to BITROX006",
+    "[19:06] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1566,7 +1566,7 @@
     "FaxeHeadless": 7,
     "Bloodli": 18,
     "tommyber": 9,
-    "BITROX006": 72,
+    "BITROX006": 73,
     "rngr1": 6,
     "Longlamma": 14,
     "noob112233": 4,
@@ -1633,7 +1633,7 @@
   "kitStats": {
     "pvp": 3017,
     "raid": 864,
-    "survival": 3408,
+    "survival": 3409,
     "shulker": 1220,
     "music": 336,
     "terracotta": 54,
