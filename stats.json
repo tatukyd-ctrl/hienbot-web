@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:10:37 14/3/2026",
-  "totalKits": 111871,
-  "todayKits": 559,
-  "onlineCount": 32,
+  "lastUpdated": "02:11:03 14/3/2026",
+  "totalKits": 111872,
+  "todayKits": 560,
+  "onlineCount": 35,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 24
   },
   "tps": "12.0",
-  "ping": 219,
+  "ping": 216,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3017
+      "count": 3018
     },
     {
       "name": "shulker",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:09] <RaveJave777> dupe",
-    "[19:09] To RaveJave777: You're on cooldown, try again in 18 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:09] [BOT] <0_HienBot> **RaveJave777**: dupe",
-    "[19:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:09] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[19:09] [Youtuber] <_PIGY_> #",
-    "[19:09] [BOT] <0_HienBot> **_PIGY_**: #",
-    "[19:10] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[19:10] <xjvmgx> por que el server dejo de tener tantos jugadores?",
-    "[19:10] [BOT] <0_HienBot> **xjvmgx**: por que el server dejo de tener tantos jugadores?",
-    "[19:10] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[19:10] [BOT] <DPS_Chatbridge> ><vlesmentie> Ola pigy",
-    "[19:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:10] <skippyboy31> yo",
-    "[19:10] [BOT] <0_HienBot> **skippyboy31**: yo",
-    "[19:10] [BOT] <DPS_Chatbridge> ><vlesmentie> Te extraño",
-    "[19:10] [BOT] <0_HienBot> **DPS_Chatbridge**: ><vlesmentie> Te extrao",
-    "[19:10] <RaveJave777> dupe",
-    "[19:10] [8b8t] >> Teleporting to home 0...",
-    "[19:10] [BOT] <0_HienBot> **RaveJave777**: dupe",
     "[19:10] [8b8t] >> Teleporting to home 7...",
     "[19:10] To RaveJave777: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[19:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +88,27 @@
     "[19:10] [BOT] <DPS_Chatbridge> ><vlesmentie> JAAJAJAJ",
     "[19:10] [BOT] <0_HienBot> >Try status",
     "[19:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:10] [8b8t] >> Teleporting..."
+    "[19:10] [8b8t] >> Teleporting...",
+    "[19:10] [8b8t] >> You have killed yourself!",
+    "[19:10] [BOT] <DPS_Chatbridge> ><kimaaru.> Gay",
+    "[19:10] To RaveJave777: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:10] [BOT] <0_HienBot> **DPS_Chatbridge**: ><kimaaru.> Gay",
+    "[19:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:10] <CyberOne6ty> pvp",
+    "[19:10] [8b8t] >> Teleporting to home 0...",
+    "[19:10] [BOT] <0_HienBot> **CyberOne6ty**: pvp",
+    "[19:10] [8b8t] >> Teleporting to home 1...",
+    "[19:10] To CyberOne6ty: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:10] To CyberOne6ty: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:10] [BOT] <0_HienBot> **Bot to CyberOne6ty**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:10] [8b8t] >> Request sent to CyberOne6ty",
+    "[19:10] [BOT] <DPS_Chatbridge> ><vlesmentie> Que haces aca",
+    "[19:10] [BOT] <0_HienBot> **DPS_Chatbridge**: ><vlesmentie> Que haces aca",
+    "[19:10] [8b8t] >> Teleporting...",
+    "[19:11] [BOT] <DPS_Chatbridge> ><vlesmentie> Maldito therian",
+    "[19:11] [BOT] <0_HienBot> **DPS_Chatbridge**: ><vlesmentie> Maldito therian",
+    "[19:11] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1595,7 +1595,7 @@
     "kayz272": 4,
     "alastor_gamer89": 4,
     "Ciromaster20304": 1,
-    "CyberOne6ty": 79,
+    "CyberOne6ty": 80,
     "Juancho_chan69": 2,
     "Shada1111": 22,
     "javac": 3,
@@ -1631,7 +1631,7 @@
     "RaveJave777": 10
   },
   "kitStats": {
-    "pvp": 3017,
+    "pvp": 3018,
     "raid": 864,
     "survival": 3410,
     "shulker": 1220,
