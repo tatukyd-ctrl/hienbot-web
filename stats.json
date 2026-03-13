@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:26:07 13/3/2026",
+  "lastUpdated": "21:26:37 13/3/2026",
   "totalKits": 111727,
   "todayKits": 415,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "12.0",
-  "ping": 228,
+  "tps": "16.0",
+  "ping": 248,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3368
+      "count": 3369
     },
     {
       "name": "pvp",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:23] <InsaneBoi69> u were placing tnt near the chests",
-    "[14:23] [BOT] <0_HienBot> **InsaneBoi69**: u were placing tnt near the chests",
-    "[14:23] <InsaneBoi69> also our new stash is also griefed",
-    "[14:23] [BOT] <0_HienBot> **InsaneBoi69**: also our new stash is also griefed",
-    "[14:23] <InsaneBoi69> fyi",
-    "[14:24] [BOT] <0_HienBot> **InsaneBoi69**: fyi",
-    "[14:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:24] <.Redjul543> i have not even seen those i dont even have tet never did",
-    "[14:24] [BOT] <0_HienBot> **.Redjul543**: i have not even seen those i dont even have tet never did",
-    "[14:24] <InsaneBoi69> do u wanna see the remains of the stash?",
-    "[14:24] [BOT] <0_HienBot> **InsaneBoi69**: do u wanna see the remains of the stash?",
-    "[14:24] <.Redjul543> yea i guees",
-    "[14:24] [BOT] <0_HienBot> **.Redjul543**: yea i guees",
-    "[14:24] <InsaneBoi69> tpa",
-    "[14:24] [BOT] <0_HienBot> **InsaneBoi69**: tpa",
-    "[14:24] [BOT] <0_HienBot> >Hello MonkeBot!",
-    "[14:25] [BOT] <0_HienBot> >Hello EVANGELION!",
-    "[14:25] <.Asteroid_Sub> I cant accept bcz im not in 2500 farer",
     "[14:25] [BOT] <0_HienBot> **.Asteroid_Sub**: I cant accept bcz im not in 2500 farer",
     "[14:25] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[14:25] <InsaneBoi69> see?",
@@ -108,7 +90,25 @@
     "[14:26] <.Redjul543> come one",
     "[14:26] <InsaneBoi69> gg",
     "[14:26] [BOT] <0_HienBot> **.Redjul543**: come one",
-    "[14:26] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[14:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:26] <.Redjul543> i did not even know that existed",
+    "[14:26] [BOT] <0_HienBot> **.Redjul543**: i did not even know that existed",
+    "[14:26] <.Redjul543> i swear",
+    "[14:26] [BOT] <0_HienBot> **.Redjul543**: i swear",
+    "[14:26] <FloppyOnMC> survival",
+    "[14:26] <InsaneBoi69> obv fuckass",
+    "[14:26] [BOT] <0_HienBot> **FloppyOnMC**: survival",
+    "[14:26] [8b8t] >> Teleporting to home 0...",
+    "[14:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:26] [8b8t] >> Teleporting to home 1...",
+    "[14:26] To FloppyOnMC: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:26] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
+    "[14:26] <InsaneBoi69> we never took u to it",
+    "[14:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:26] To FloppyOnMC: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:26] [BOT] <0_HienBot> **Bot to FloppyOnMC**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:26] [8b8t] >> Request sent to FloppyOnMC"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1620,12 +1620,13 @@
     "O_HiienBot": 21,
     "BNselmantp": 2,
     "Ibrame78": 2,
-    "FALCON99": 2
+    "FALCON99": 2,
+    "FloppyOnMC": 1
   },
   "kitStats": {
     "pvp": 2982,
     "raid": 854,
-    "survival": 3368,
+    "survival": 3369,
     "shulker": 1216,
     "music": 329,
     "terracotta": 54,
