@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:02:07 13/3/2026",
+  "lastUpdated": "11:02:37 13/3/2026",
   "totalKits": 111373,
   "todayKits": 61,
   "onlineCount": 23,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 23
   },
-  "tps": "20.0",
-  "ping": 201,
+  "tps": "17.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:58] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[03:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:59] [BOT] <0_HienBot> >Hey LocalIceDealer!",
-    "[03:59] <aangjandebo> armor trims",
-    "[03:59] [BOT] <0_HienBot> **aangjandebo**: armor trims",
-    "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:59] <aangjandebo> armortrims",
-    "[03:59] [8b8t] >> Teleporting to home 0...",
-    "[03:59] [8b8t] >> Please do not spam.",
     "[03:59] [8b8t] >> Teleporting to home 7...",
     "[03:59] To aangjandebo: Your kit (armortrims) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[03:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +99,16 @@
     "[04:01] [BOT] <0_HienBot> >Welcome to 8b8t, Yomellamolucas!",
     "[04:01] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[04:01] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[04:02] aangjandebo has made the advancement [Diamonds!]"
+    "[04:02] aangjandebo has made the advancement [Diamonds!]",
+    "[04:02] [BOT] <0_HienBot> >Use /kill to kill yourself!",
+    "[04:02] <.Redjul543> blocks",
+    "[04:02] [BOT] <0_HienBot> **.Redjul543**: blocks",
+    "[04:02] [8b8t] >> Teleporting to home 0...",
+    "[04:02] [8b8t] >> Teleporting to home 2...",
+    "[04:02] To .Redjul543: Your kit (blocks) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:02] To .Redjul543: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[04:02] [BOT] <0_HienBot> **Bot to .Redjul543**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1313,7 +1313,7 @@
     ".MennoKnight78": 2,
     ".FlluxIsHere": 1,
     "lrlc34": 6,
-    ".Redjul543": 54,
+    ".Redjul543": 55,
     "ASHyperion": 9,
     "notrealleoo": 47,
     "Creaky_Nat": 3,
@@ -1624,7 +1624,7 @@
     "exp": 526,
     "stash": 912,
     "ocean": 105,
-    "build": 1035,
+    "build": 1036,
     "dye": 86,
     "concrete": 152,
     "dupe": 1042,
