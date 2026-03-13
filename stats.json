@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:35:08 14/3/2026",
-  "totalKits": 112046,
-  "todayKits": 734,
+  "lastUpdated": "06:35:29 14/3/2026",
+  "totalKits": 112047,
+  "todayKits": 735,
   "onlineCount": 25,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "17.0",
+  "tps": "13.0",
   "ping": 207,
   "topUsers": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "Azure772",
-      "count": 279
+      "count": 280
     },
     {
       "name": "Simone",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3452
+      "count": 3453
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:32] [8b8t] >> Teleporting to home 3...",
-    "[23:32] [BOT] <0_HienBot> **Azure772**: Amethyst",
-    "[23:33] To Azure772: Your kit (amethyst) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[23:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:33] [BOT] <0_HienBot> >Want free items? Just type survival",
-    "[23:33] To Azure772: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:33] [8b8t] >> Request sent to Azure772",
-    "[23:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:33] [8b8t] >> Teleporting...",
-    "[23:33] [8b8t] >> You have killed yourself!",
     "[23:33] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[23:33] [BOT] <0_HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[23:33] <Azure772> trims",
@@ -108,7 +98,17 @@
     "[23:34] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
     "[23:35] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
     "[23:35] <akel1> who on the north hiway rn",
-    "[23:35] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[23:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:35] <Azure772> survival",
+    "[23:35] [8b8t] >> Teleporting to home 0...",
+    "[23:35] [8b8t] >> Teleporting to home 1...",
+    "[23:35] [BOT] <0_HienBot> **Azure772**: survival",
+    "[23:35] To Azure772: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:35] To Azure772: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:35] [BOT] <0_HienBot> **Bot to Azure772**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:35] [8b8t] >> Request sent to Azure772",
+    "[23:35] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -833,7 +833,7 @@
     "2H3Z": 2,
     "JosGpe": 3,
     ".AceDesert2260": 24,
-    "Azure772": 279,
+    "Azure772": 280,
     "kobthegoat14": 150,
     "lunnita_": 1,
     "BookTheBook": 2,
@@ -1644,7 +1644,7 @@
   "kitStats": {
     "pvp": 3058,
     "raid": 872,
-    "survival": 3452,
+    "survival": 3453,
     "shulker": 1223,
     "music": 338,
     "terracotta": 54,
