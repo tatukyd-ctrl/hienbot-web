@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:00:37 14/3/2026",
-  "totalKits": 111961,
-  "todayKits": 649,
-  "onlineCount": 31,
+  "lastUpdated": "04:00:59 14/3/2026",
+  "totalKits": 111962,
+  "todayKits": 650,
+  "onlineCount": 29,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 25
   },
   "tps": "11.0",
-  "ping": 898,
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3439
+      "count": 3440
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:59] [8b8t] >> Teleporting to home 2...",
-    "[20:59] [BOT] <0_HienBot> **ThatCubeMan**: stash",
-    "[20:59] To ThatCubeMan: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[20:59] <geeyuh> chest",
-    "[20:59] To geeyuh: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:59] [BOT] <0_HienBot> **Bot to geeyuh**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[20:59] To ThatCubeMan: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[20:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:59] <ThatCubeMan> elytra",
-    "[20:59] [8b8t] >> Teleporting to home 0...",
     "[20:59] [8b8t] >> Teleporting to home 6...",
     "[20:59] [BOT] <0_HienBot> **ThatCubeMan**: elytra",
     "[20:59] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
@@ -108,7 +96,19 @@
     "[21:00] To ThatCubeMan: You're on cooldown, try again in 16 seconds! Don't forget to join dsc.gg/hienbot",
     "[21:00] [BOT] <0_HienBot> **ThatCubeMan**: elytra",
     "[21:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:00] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot"
+    "[21:00] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
+    "[21:00] <ThatCubeMan> survival",
+    "[21:00] [8b8t] >> Teleporting to home 0...",
+    "[21:00] [BOT] <0_HienBot> **ThatCubeMan**: survival",
+    "[21:00] [8b8t] >> Teleporting to home 1...",
+    "[21:00] To ThatCubeMan: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:00] To ThatCubeMan: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:00] [BOT] <0_HienBot> **Bot to ThatCubeMan**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:00] [8b8t] >> Request sent to ThatCubeMan",
+    "[21:00] <geeyuh> OK BETT",
+    "[21:00] [8b8t] >> Teleporting...",
+    "[21:00] [BOT] <0_HienBot> **geeyuh**: OK BETT"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1632,13 +1632,13 @@
     ".Patrogaming8719": 1,
     "Yonkela": 2,
     "snowbed2": 2,
-    "ThatCubeMan": 18,
+    "ThatCubeMan": 19,
     "ELPOCOYOMALVADO": 2
   },
   "kitStats": {
     "pvp": 3039,
     "raid": 869,
-    "survival": 3439,
+    "survival": 3440,
     "shulker": 1222,
     "music": 338,
     "terracotta": 54,
