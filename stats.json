@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:01:37 14/3/2026",
-  "totalKits": 111962,
-  "todayKits": 650,
-  "onlineCount": 31,
+  "lastUpdated": "04:01:56 14/3/2026",
+  "totalKits": 111963,
+  "todayKits": 651,
+  "onlineCount": 32,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "11.0",
+  "tps": "9.0",
   "ping": 213,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3440
+      "count": 3441
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:00] To ThatCubeMan: You're on cooldown, try again in 16 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:00] [BOT] <0_HienBot> **ThatCubeMan**: elytra",
-    "[21:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:00] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[21:00] <ThatCubeMan> survival",
-    "[21:00] [8b8t] >> Teleporting to home 0...",
-    "[21:00] [BOT] <0_HienBot> **ThatCubeMan**: survival",
-    "[21:00] [8b8t] >> Teleporting to home 1...",
-    "[21:00] To ThatCubeMan: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:00] To ThatCubeMan: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:00] [BOT] <0_HienBot> **Bot to ThatCubeMan**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[21:00] [8b8t] >> Request sent to ThatCubeMan",
-    "[21:00] <geeyuh> OK BETT",
-    "[21:00] [8b8t] >> Teleporting...",
     "[21:00] [BOT] <0_HienBot> **geeyuh**: OK BETT",
     "[21:01] [8b8t] >> You have killed yourself!",
     "[21:01] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
@@ -108,7 +93,22 @@
     "[21:01] To ThatCubeMan: You're on cooldown, try again in 23 seconds! Don't forget to join dsc.gg/hienbot",
     "[21:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[21:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:01] [BOT] <0_HienBot> >Need gear? Type pvp to get started!"
+    "[21:01] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[21:01] Raphiel Whispers: survival",
+    "[21:01] [8b8t] >> Teleporting to home 0...",
+    "[21:01] [BOT] <0_HienBot> **Raphiel**: survival",
+    "[21:01] [8b8t] >> Teleporting to home 1...",
+    "[21:01] To Raphiel: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:01] To Raphiel: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:01] [8b8t] >> Request sent to Raphiel",
+    "[21:01] [BOT] <0_HienBot> **Bot to Raphiel**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:01] <Dreamers> i got more gear",
+    "[21:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:01] <geeyuh> ok",
+    "[21:01] [BOT] <0_HienBot> **geeyuh**: ok",
+    "[21:01] [8b8t] >> Teleporting...",
+    "[21:01] <ThatCubeMan> anyone have a job i can do for the,"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1633,12 +1633,13 @@
     "Yonkela": 2,
     "snowbed2": 2,
     "ThatCubeMan": 19,
-    "ELPOCOYOMALVADO": 2
+    "ELPOCOYOMALVADO": 2,
+    "Raphiel": 1
   },
   "kitStats": {
     "pvp": 3039,
     "raid": 869,
-    "survival": 3440,
+    "survival": 3441,
     "shulker": 1222,
     "music": 338,
     "terracotta": 54,
