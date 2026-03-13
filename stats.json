@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:52:07 13/3/2026",
+  "lastUpdated": "10:52:37 13/3/2026",
   "totalKits": 111371,
   "todayKits": 59,
   "onlineCount": 25,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 23
   },
-  "tps": "15.0",
-  "ping": 266,
+  "tps": "17.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 2904
+      "count": 2905
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:49] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
-    "[03:49] <aangjandebo> silk touch pickaxe",
-    "[03:49] [BOT] <0_HienBot> **aangjandebo**: silk touch pickaxe",
-    "[03:50] aangjandebo Whispers: i wanted silk touch",
-    "[03:50] [BOT] <0_HienBot> **aangjandebo**: i wanted silk touch",
-    "[03:50] naza_ru2 has made the advancement [Stone Age]",
-    "[03:50] [BOT] <0_HienBot> >Items for PVP and Building available in build",
-    "[03:50] <aangjandebo> silk touch",
-    "[03:50] [BOT] <0_HienBot> **aangjandebo**: silk touch",
-    "[03:50] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[03:51] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[03:51] [BOT] <0_HienBot> >Try list to see available kits",
     "[03:51] <.DeathRaptor5578> List",
@@ -108,7 +98,17 @@
     "[03:51] [8b8t] >> You have killed yourself!",
     "[03:51] naza_ru2 has reached the goal [Postmortal]",
     "[03:51] To .DeathRaptor5578: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:51] [BOT] <0_HienBot> **Bot to .DeathRaptor5578**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[03:51] [BOT] <0_HienBot> **Bot to .DeathRaptor5578**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:52] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
+    "[03:52] <.DeathRaptor5578> pvp",
+    "[03:52] [8b8t] >> Teleporting to home 0...",
+    "[03:52] [8b8t] >> Teleporting to home 1...",
+    "[03:52] [BOT] <0_HienBot> **.DeathRaptor5578**: pvp",
+    "[03:52] To .DeathRaptor5578: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:52] To .DeathRaptor5578: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:52] [BOT] <0_HienBot> **Bot to .DeathRaptor5578**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:52] [8b8t] >> Request sent to .DeathRaptor5578"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1607,10 +1607,10 @@
     "PRO1567565": 5,
     "aangjandebo": 10,
     "r1deal": 2,
-    ".DeathRaptor5578": 1
+    ".DeathRaptor5578": 2
   },
   "kitStats": {
-    "pvp": 2904,
+    "pvp": 2905,
     "raid": 841,
     "survival": 3295,
     "shulker": 1204,
