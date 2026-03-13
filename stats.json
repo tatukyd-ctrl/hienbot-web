@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:14:37 13/3/2026",
+  "lastUpdated": "19:15:07 13/3/2026",
   "totalKits": 111676,
   "todayKits": 364,
-  "onlineCount": 21,
+  "onlineCount": 20,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "14.0",
-  "ping": 203,
+  "tps": "15.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3354
+      "count": 3355
     },
     {
       "name": "pvp",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:12] <Dreamers> here",
-    "[12:12] [BOT] <0_HienBot> **Dreamers**: here",
-    "[12:12] <tooothless5689> woo",
-    "[12:12] [BOT] <0_HienBot> **tooothless5689**: woo",
-    "[12:12] <tooothless5689> damn",
-    "[12:12] [BOT] <0_HienBot> **tooothless5689**: damn",
-    "[12:12] <tooothless5689> 10/10 redstone",
-    "[12:12] [BOT] <0_HienBot> **tooothless5689**: 10/10 redstone",
     "[12:13] [BOT] <0_HienBot> >What's up, Bloodli?",
     "[12:13] <Dreamers> do u wanna know somthing funny",
     "[12:13] [BOT] <0_HienBot> **Dreamers**: do u wanna know somthing funny",
@@ -108,7 +100,15 @@
     "[12:14] [BOT] <0_HienBot> **Dreamers**: list",
     "[12:14] <Dreamers> imma go eat an banana",
     "[12:14] [BOT] <0_HienBot> **Dreamers**: imma go eat an banana",
-    "[12:14] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[12:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:14] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[12:15] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[12:15] <tooothless5689> survival",
+    "[12:15] [8b8t] >> Teleporting to home 0...",
+    "[12:15] [BOT] <0_HienBot> **tooothless5689**: survival",
+    "[12:15] [8b8t] >> Teleporting to home 1...",
+    "[12:15] To tooothless5689: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:15] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1572,7 +1572,7 @@
     "noob112233": 4,
     "58_": 4,
     "Quartash": 6,
-    "tooothless5689": 19,
+    "tooothless5689": 20,
     "kayz_09": 11,
     ".Asteroid_Sub": 5,
     "6t5e": 2,
@@ -1623,7 +1623,7 @@
   "kitStats": {
     "pvp": 2965,
     "raid": 853,
-    "survival": 3354,
+    "survival": 3355,
     "shulker": 1216,
     "music": 327,
     "terracotta": 54,
