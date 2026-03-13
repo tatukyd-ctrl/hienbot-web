@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:24:07 13/3/2026",
-  "totalKits": 111607,
-  "todayKits": 295,
-  "onlineCount": 26,
+  "lastUpdated": "17:24:37 13/3/2026",
+  "totalKits": 111608,
+  "todayKits": 296,
+  "onlineCount": 25,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 20
   },
-  "tps": "11.0",
-  "ping": 201,
+  "tps": "13.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3337
+      "count": 3338
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:23] [BOT] <0_HienBot> **MoooMC**: hien is ass",
-    "[10:23] <Longlamma> pv",
-    "[10:23] [BOT] <0_HienBot> >Use lang and select your language",
-    "[10:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:23] <Longlamma> pvp",
-    "[10:23] To Longlamma: You're on cooldown, try again in 5 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:23] [BOT] <0_HienBot> **Longlamma**: pvp",
-    "[10:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:23] <MoooMC> guys who wants to book ban hienbot",
-    "[10:23] <Longlamma> pvp",
-    "[10:23] [8b8t] >> Teleporting to home 0...",
-    "[10:23] [BOT] <0_HienBot> **MoooMC**: guys who wants to book ban hienbot",
-    "[10:23] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[10:23] [8b8t] >> Teleporting to home 1...",
     "[10:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:23] To Longlamma: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +94,21 @@
     "[10:24] To introvert_: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[10:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:24] [8b8t] >> You have killed yourself!",
-    "[10:24] To Longlamma: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[10:24] To Longlamma: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:24] [BOT] <0_HienBot> **Bot to Longlamma**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:24] <introvert_> survival",
+    "[10:24] [8b8t] >> Teleporting to home 0...",
+    "[10:24] [8b8t] >> Please do not spam.",
+    "[10:24] [8b8t] >> Teleporting to home 1...",
+    "[10:24] To introvert_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:24] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
+    "[10:24] To introvert_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:24] [BOT] <0_HienBot> **Bot to introvert_**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:24] [8b8t] >> Request sent to introvert_",
+    "[10:24] <MoooMC> i will make a design so when hienbot tps with a kit it dispenses a book ban",
+    "[10:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:24] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1613,12 +1613,13 @@
     ".Tailor2532": 1,
     "0_HiienBot": 1,
     "Chuffi3607997": 1,
-    "MoooMC": 1
+    "MoooMC": 1,
+    "introvert_": 1
   },
   "kitStats": {
     "pvp": 2953,
     "raid": 846,
-    "survival": 3337,
+    "survival": 3338,
     "shulker": 1214,
     "music": 325,
     "terracotta": 54,
