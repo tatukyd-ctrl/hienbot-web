@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:27:37 14/3/2026",
-  "totalKits": 111844,
-  "todayKits": 532,
-  "onlineCount": 41,
+  "lastUpdated": "01:28:07 14/3/2026",
+  "totalKits": 111845,
+  "todayKits": 533,
+  "onlineCount": 39,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 23
   },
-  "tps": "16.0",
+  "tps": "12.0",
   "ping": 207,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3011
+      "count": 3012
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:23] <0n19z1> pvp",
-    "[18:23] To 0n19z1: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[18:23] [BOT] <0_HienBot> **0n19z1**: pvp",
-    "[18:23] [8b8t] >> Teleporting...",
-    "[18:23] Chat disabled in client options",
-    "[18:23] <Yomellamomaryam> end",
-    "[18:23] To Yomellamomaryam: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[18:23] [BOT] <0_HienBot> **Yomellamomaryam**: end",
-    "[18:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:23] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[18:23] [8b8t] >> You have killed yourself!",
-    "[18:23] To RaveJave777: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:23] [BOT] <0_HienBot> **Bot to RaveJave777**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[18:23] RaveJave777 has completed the challenge [Cover Me in Debris]",
     "[18:24] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
     "[18:24] RaveJave777 has completed the challenge [Serious Dedication]",
     "[18:24] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
@@ -108,7 +94,21 @@
     "[18:27] [BOT] <0_HienBot> >Use list to see all available kits!",
     "[18:27] <RaveJave777> list",
     "[18:27] To RaveJave777: Hello RaveJave777!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[18:27] [BOT] <0_HienBot> **RaveJave777**: list"
+    "[18:27] [BOT] <0_HienBot> **RaveJave777**: list",
+    "[18:27] <NeilB16> !list",
+    "[18:27] To NeilB16: Hello NeilB16!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[18:27] [BOT] <0_HienBot> **NeilB16**: !list",
+    "[18:27] <RaveJave777> pvp",
+    "[18:27] [8b8t] >> Teleporting to home 0...",
+    "[18:27] [BOT] <0_HienBot> **RaveJave777**: pvp",
+    "[18:27] [8b8t] >> Teleporting to home 1...",
+    "[18:27] To RaveJave777: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[18:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[18:27] To RaveJave777: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:27] [BOT] <0_HienBot> **Bot to RaveJave777**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[18:27] [8b8t] >> Request sent to RaveJave777",
+    "[18:28] [BOT] <0_HienBot> >Use list to see all available kits!",
+    "[18:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1628,10 +1628,10 @@
     "retrolstaph": 2,
     "CreepyClash18": 1,
     "NeilB16": 4,
-    "RaveJave777": 4
+    "RaveJave777": 5
   },
   "kitStats": {
-    "pvp": 3011,
+    "pvp": 3012,
     "raid": 862,
     "survival": 3403,
     "shulker": 1219,
