@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:15:08 14/3/2026",
+  "lastUpdated": "06:15:38 14/3/2026",
   "totalKits": 112034,
   "todayKits": 722,
   "onlineCount": 31,
@@ -12,8 +12,8 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "14.0",
-  "ping": 216,
+  "tps": "15.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3054
+      "count": 3055
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:13] <nice_______2> list",
-    "[23:13] To nice_______2: ¡Hola nice_______2!! Usa (Kit que quieras) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:13] [BOT] <0_HienBot> **nice_______2**: list",
-    "[23:13] <AlloJr> ping",
-    "[23:13] To AlloJr: Your ping is: 125 ms Don't forget to join dsc.gg/hienbot",
-    "[23:13] [BOT] <0_HienBot> **AlloJr**: ping",
-    "[23:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:13] <AlloJr> bestping",
-    "[23:13] To AlloJr: io_bot with 30 ms. Don't forget to join dsc.gg/hienbot",
-    "[23:13] [BOT] <0_HienBot> **AlloJr**: bestping",
-    "[23:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:14] Linkiwiii_ has made the advancement [Getting an Upgrade]",
     "[23:14] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[23:14] <.Redjul543> allo wana rate my base",
     "[23:14] [BOT] <0_HienBot> **.Redjul543**: allo wana rate my base",
@@ -108,7 +96,19 @@
     "[23:14] [BOT] <0_HienBot> **AlloJr**: HeinBot is a corn logger",
     "[23:15] <nice_______2> what",
     "[23:15] [BOT] <0_HienBot> **nice_______2**: what",
-    "[23:15] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[23:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:15] <AlloJr> Heinbot logs coords",
+    "[23:15] [BOT] <0_HienBot> **AlloJr**: Heinbot logs coords",
+    "[23:15] <.Redjul543> can you help me kill these withers",
+    "[23:15] akel1 has made the advancement [We Need to Go Deeper]",
+    "[23:15] [BOT] <0_HienBot> **.Redjul543**: can you help me kill these withers",
+    "[23:15] <nice_______2> soooo it is coords leak or sum",
+    "[23:15] [BOT] <0_HienBot> **nice_______2**: soooo it is coords leak or sum",
+    "[23:15] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
+    "[23:15] <nice_______2> pvp",
+    "[23:15] [8b8t] >> Teleporting to home 0...",
+    "[23:15] [BOT] <0_HienBot> **nice_______2**: pvp",
+    "[23:15] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1420,7 +1420,7 @@
     "Shyinnn": 1,
     "itz_ju4n": 6,
     "Pizzaroll189667": 3,
-    "nice_______2": 38,
+    "nice_______2": 39,
     "WolfKnight17388": 3,
     "SrWindows": 1,
     "Ag3ntGT": 1,
@@ -1640,7 +1640,7 @@
     "YangNTK": 5
   },
   "kitStats": {
-    "pvp": 3054,
+    "pvp": 3055,
     "raid": 872,
     "survival": 3451,
     "shulker": 1223,
