@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:24:07 14/3/2026",
+  "lastUpdated": "02:24:37 14/3/2026",
   "totalKits": 111885,
   "todayKits": 573,
   "onlineCount": 37,
@@ -12,8 +12,8 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 24
   },
-  "tps": "9.0",
-  "ping": 214,
+  "tps": "10.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3411
+      "count": 3412
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:23] <Migzin> food",
-    "[19:23] [8b8t] >> Teleporting to home 0...",
-    "[19:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:23] [8b8t] >> Teleporting to home 4...",
-    "[19:23] To Migzin: Your kit (food) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:23] [BOT] <0_HienBot> **Bot to Migzin**: Your kit (food) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:23] <Thiago1312XD> pvp",
-    "[19:23] To Thiago1312XD: Por favor espera un momento. No olvides unirte al Grupo HienBot dsc.gg/hienbot",
-    "[19:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:23] To Migzin: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:23] [BOT] <0_HienBot> **Bot to Migzin**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[19:23] [8b8t] >> Request sent to Migzin",
     "[19:23] <.Patrogaming8719> blake",
@@ -108,7 +97,18 @@
     "[19:23] [BOT] <0_HienBot> >Bot created by Hien2309.",
     "[19:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:23] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[19:24] [BOT] <0_HienBot> >Want free items? Just type survival"
+    "[19:24] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[19:24] <.Patrogaming8719> survival",
+    "[19:24] [8b8t] >> Teleporting to home 0...",
+    "[19:24] [8b8t] >> Teleporting to home 1...",
+    "[19:24] [BOT] <0_HienBot> **.Patrogaming8719**: survival",
+    "[19:24] To .Patrogaming8719: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:24] To .Patrogaming8719: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:24] [BOT] <0_HienBot> **Bot to .Patrogaming8719**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:24] [8b8t] >> Request sent to .Patrogaming8719",
+    "[19:24] [BOT] <0_HienBot> >Hmmmmmmmmm",
+    "[19:24] <pRaZvOkNi> focoloa OEEEEE"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1628,12 +1628,13 @@
     "retrolstaph": 2,
     "CreepyClash18": 1,
     "NeilB16": 5,
-    "RaveJave777": 14
+    "RaveJave777": 14,
+    ".Patrogaming8719": 1
   },
   "kitStats": {
     "pvp": 3022,
     "raid": 864,
-    "survival": 3411,
+    "survival": 3412,
     "shulker": 1221,
     "music": 336,
     "terracotta": 54,
