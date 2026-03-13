@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:14:00 14/3/2026",
+  "lastUpdated": "02:14:07 14/3/2026",
   "totalKits": 111876,
   "todayKits": 564,
-  "onlineCount": 33,
+  "onlineCount": 35,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 24
   },
-  "tps": "8.0",
+  "tps": "7.0",
   "ping": 213,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3019
+      "count": 3020
     },
     {
       "name": "shulker",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:13] [BOT] <0_HienBot> **BITROX006**: !redstone",
-    "[19:13] [8b8t] >> Teleporting to home 2...",
-    "[19:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:13] To BITROX006: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:13] [Ultra] <blake> t",
-    "[19:13] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:13] [BOT] <0_HienBot> **blake56**: t",
     "[19:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[19:13] [8b8t] >> Request sent to BITROX006",
     "[19:13] [8b8t] >> Teleporting...",
@@ -108,7 +100,15 @@
     "[19:13] <RaveJave777> tools",
     "[19:13] To RaveJave777: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[19:13] [BOT] <0_HienBot> **RaveJave777**: tools",
-    "[19:14] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[19:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:14] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
+    "[19:14] [8b8t] >> You have killed yourself!",
+    "[19:14] To geeyuh: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:14] [BOT] <0_HienBot> **Bot to geeyuh**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:14] <RaveJave777> totem",
+    "[19:14] [8b8t] >> Teleporting to home 0...",
+    "[19:14] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:14] [8b8t] >> Teleporting to home 1..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1628,10 +1628,10 @@
     "retrolstaph": 2,
     "CreepyClash18": 1,
     "NeilB16": 5,
-    "RaveJave777": 11
+    "RaveJave777": 12
   },
   "kitStats": {
-    "pvp": 3019,
+    "pvp": 3020,
     "raid": 864,
     "survival": 3410,
     "shulker": 1220,
