@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:13:37 14/3/2026",
-  "totalKits": 111796,
-  "todayKits": 484,
-  "onlineCount": 41,
+  "lastUpdated": "00:13:56 14/3/2026",
+  "totalKits": 111797,
+  "todayKits": 485,
+  "onlineCount": 40,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 22
   },
-  "tps": "14.0",
-  "ping": 211,
+  "tps": "10.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3389
+      "count": 3390
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:11] <CyberOne6ty> follow e",
-    "[17:11] [BOT] <0_HienBot> **CyberOne6ty**: follow e",
-    "[17:11] <CyberOne6ty> wait",
-    "[17:11] [8b8t] >> Teleporting to home 0...",
-    "[17:11] [BOT] <0_HienBot> **CyberOne6ty**: wait",
-    "[17:11] [8b8t] >> Teleporting to home 1...",
-    "[17:11] To CyberOne6ty: Your kit (wait) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:11] To CyberOne6ty: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[17:12] [BOT] <0_HienBot> **Bot to CyberOne6ty**: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[17:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[17:12] <CyberOne6ty> dcome",
     "[17:12] [BOT] <0_HienBot> **CyberOne6ty**: dcome",
@@ -108,7 +98,17 @@
     "[17:13] <CyberOne6ty> i lagged",
     "[17:13] [BOT] <0_HienBot> **CyberOne6ty**: i lagged",
     "[17:13] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[17:13] retrolstaph has made the advancement [Stone Age]"
+    "[17:13] retrolstaph has made the advancement [Stone Age]",
+    "[17:13] <BITROX006> !survival",
+    "[17:13] [8b8t] >> Teleporting to home 0...",
+    "[17:13] [BOT] <0_HienBot> **BITROX006**: !survival",
+    "[17:13] [8b8t] >> Teleporting to home 1...",
+    "[17:13] To BITROX006: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:13] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:13] [BOT] <0_HienBot> **Bot to BITROX006**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:13] [8b8t] >> Request sent to BITROX006",
+    "[17:13] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1566,7 +1566,7 @@
     "FaxeHeadless": 7,
     "Bloodli": 18,
     "tommyber": 9,
-    "BITROX006": 55,
+    "BITROX006": 56,
     "rngr1": 6,
     "Longlamma": 14,
     "noob112233": 4,
@@ -1631,7 +1631,7 @@
   "kitStats": {
     "pvp": 2996,
     "raid": 860,
-    "survival": 3389,
+    "survival": 3390,
     "shulker": 1218,
     "music": 334,
     "terracotta": 54,
