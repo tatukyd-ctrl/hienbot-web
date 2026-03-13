@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:00:07 13/3/2026",
-  "totalKits": 111740,
-  "todayKits": 428,
+  "lastUpdated": "22:00:22 13/3/2026",
+  "totalKits": 111741,
+  "todayKits": 429,
   "onlineCount": 28,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "21:49:07 13/3/2026",
     "avg": 21
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 734,
   "topUsers": [
     {
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:58] <Shada1111> Ocean",
-    "[14:58] To Shada1111: You're on cooldown, try again in 7 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:58] [BOT] <0_HienBot> **Shada1111**: Ocean",
-    "[14:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:58] <elidd111> tp pvp",
-    "[14:58] [BOT] <0_HienBot> **elidd111**: tp pvp",
-    "[14:58] <Shada1111> Ocean",
-    "[14:58] [8b8t] >> Teleporting to home 0...",
-    "[14:58] [8b8t] >> Please do not spam.",
-    "[14:58] [8b8t] >> Teleporting to home 6...",
     "[14:58] To Shada1111: Your kit (ocean) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[14:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:58] To Shada1111: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +98,17 @@
     "[14:59] <Shada1111> list",
     "[14:59] To Shada1111: Hello Shada1111!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[14:59] [BOT] <0_HienBot> **Shada1111**: list",
-    "[15:00] [BOT] <0_HienBot> >Hey Leeewiith3Es!"
+    "[15:00] [BOT] <0_HienBot> >Hey Leeewiith3Es!",
+    "[15:00] <Shada1111> Dupe",
+    "[15:00] [8b8t] >> Teleporting to home 0...",
+    "[15:00] [8b8t] >> Teleporting to home 7...",
+    "[15:00] [BOT] <0_HienBot> **Shada1111**: Dupe",
+    "[15:00] To Shada1111: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:00] To Shada1111: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:00] [BOT] <0_HienBot> **Bot to Shada1111**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[15:00] [8b8t] >> Request sent to Shada1111",
+    "[15:00] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1597,7 +1597,7 @@
     "Ciromaster20304": 1,
     "CyberOne6ty": 59,
     "Juancho_chan69": 2,
-    "Shada1111": 7,
+    "Shada1111": 8,
     "javac": 3,
     "Drupix": 19,
     "Dyl2013": 5,
@@ -1641,7 +1641,7 @@
     "build": 1061,
     "dye": 86,
     "concrete": 153,
-    "dupe": 1058,
+    "dupe": 1059,
     "food": 281,
     "glass": 195,
     "elytra": 1193,
