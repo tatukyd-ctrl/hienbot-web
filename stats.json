@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "03:37:00 14/3/2026",
+  "lastUpdated": "03:37:08 14/3/2026",
   "totalKits": 111941,
   "todayKits": 629,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "7.0",
+  "tps": "9.0",
   "ping": 212,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "elytra",
-      "count": 1211
+      "count": 1212
     },
     {
       "name": "build",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[20:36] [BOT] <0_HienBot> **retrolstaph**: tps",
-    "[20:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:36] [8b8t] >> ThatCubeMan wants to teleport you to them /tpayes USERNAME /tpano USERNAME",
-    "[20:36] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[20:36] <retrolstaph> kits",
-    "[20:36] [BOT] <0_HienBot> **retrolstaph**: kits",
-    "[20:36] <keivdeil> dreamers?",
-    "[20:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:36] <retrolstaph> kit",
     "[20:36] To retrolstaph: Hello retrolstaph!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[20:36] <ThatCubeMan> kits",
     "[20:36] [BOT] <0_HienBot> **retrolstaph**: kit",
@@ -108,7 +99,16 @@
     "[20:36] To ThatCubeMan: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[20:36] [BOT] <0_HienBot> **ThatCubeMan**: kit armortrims",
     "[20:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[20:36] [8b8t] >> Teleporting..."
+    "[20:36] [8b8t] >> Teleporting...",
+    "[20:37] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
+    "[20:37] [8b8t] >> You have killed yourself!",
+    "[20:37] retrolstaph has completed the challenge [Return to Sender]",
+    "[20:37] <ThatCubeMan> kit elytra",
+    "[20:37] To ELPOCOYOMALVADO: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[20:37] [BOT] <0_HienBot> **ThatCubeMan**: kit elytra",
+    "[20:37] [8b8t] >> Teleporting to home 6...",
+    "[20:37] To ThatCubeMan: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[20:37] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1632,7 +1632,7 @@
     ".Patrogaming8719": 1,
     "Yonkela": 2,
     "snowbed2": 2,
-    "ThatCubeMan": 1,
+    "ThatCubeMan": 2,
     "ELPOCOYOMALVADO": 1
   },
   "kitStats": {
@@ -1656,7 +1656,7 @@
     "dupe": 1064,
     "food": 286,
     "glass": 196,
-    "elytra": 1211,
+    "elytra": 1212,
     "redstone": 685,
     "quartz": 105,
     "highway": 191,
