@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "04:34:08 14/3/2026",
+  "lastUpdated": "04:34:38 14/3/2026",
   "totalKits": 111991,
   "todayKits": 679,
-  "onlineCount": 30,
+  "onlineCount": 31,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "12.0",
+  "tps": "10.0",
   "ping": 214,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3443
+      "count": 3444
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[21:33] [SE] <dragonkit> worstping",
-    "[21:33] To dragonkit: vydraken with 1658 ms. Don't forget to join dsc.gg/hienbot",
-    "[21:33] [BOT] <0_HienBot> **dragonkit**: worstping",
-    "[21:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:33] <retrolstaph> ignore these holes",
-    "[21:33] <geeyuh> bestping",
-    "[21:33] To geeyuh: io_bot with 37 ms. Don't forget to join dsc.gg/hienbot",
-    "[21:33] <arjebn> pvp",
-    "[21:33] [8b8t] >> Teleporting to home 0...",
-    "[21:33] [BOT] <0_HienBot> **retrolstaph**: ignore these holes",
-    "[21:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:33] [8b8t] >> Teleporting to home 1...",
-    "[21:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:33] To arjebn: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[21:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:33] <RaveJave777> worstping",
     "[21:33] To RaveJave777: vydraken with 1658 ms. Don't forget to join dsc.gg/hienbot",
     "[21:34] [8b8t] >> Please do not spam.",
     "[21:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +91,24 @@
     "[21:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[21:34] <retrolstaph> for some reason",
     "[21:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[21:34] <geeyuh> bru"
+    "[21:34] <geeyuh> bru",
+    "[21:34] [BOT] <0_HienBot> **geeyuh**: bru",
+    "[21:34] [8b8t] >> You have killed yourself!",
+    "[21:34] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[21:34] To arjebn: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[21:34] <emilio_2255> hiiii holaaaaa",
+    "[21:34] [BOT] <0_HienBot> **Bot to arjebn**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[21:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:34] <RhettCTX> survival",
+    "[21:34] [BOT] <0_HienBot> >Try dupe",
+    "[21:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[21:34] [8b8t] >> Teleporting to home 0...",
+    "[21:34] [8b8t] >> Teleporting to home 1...",
+    "[21:34] To RhettCTX: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:34] [BOT] <0_HienBot> **Bot to RhettCTX**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[21:34] To RhettCTX: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[21:34] <geeyuh> AlloJr",
+    "[21:34] [BOT] <0_HienBot> **Bot to RhettCTX**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1410,7 +1410,7 @@
     "IKOLZXLOLS": 1,
     "elcolo150": 1,
     "arjebn": 77,
-    "RhettCTX": 6,
+    "RhettCTX": 7,
     "2b2tJourney": 4,
     "dandin99": 1,
     "BoroBhai": 1,
@@ -1641,7 +1641,7 @@
   "kitStats": {
     "pvp": 3049,
     "raid": 869,
-    "survival": 3443,
+    "survival": 3444,
     "shulker": 1222,
     "music": 338,
     "terracotta": 54,
