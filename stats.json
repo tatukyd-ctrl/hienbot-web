@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:28:38 14/3/2026",
-  "totalKits": 112042,
-  "todayKits": 730,
-  "onlineCount": 26,
+  "lastUpdated": "06:28:58 14/3/2026",
+  "totalKits": 112043,
+  "todayKits": 731,
+  "onlineCount": 27,
   "peakPlayers": 47,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "14.0",
+  "tps": "11.0",
   "ping": 208,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3056
+      "count": 3057
     },
     {
       "name": "elytra",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:26] [8b8t] >> Teleporting...",
-    "[23:26] [8b8t] >> You have killed yourself!",
-    "[23:26] To Seabase: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:26] [BOT] <0_HienBot> **Bot to Seabase**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:26] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[23:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[23:26] Seabase has completed the challenge [Cover Me in Debris]",
-    "[23:26] Seabase has completed the challenge [Serious Dedication]",
-    "[23:27] [BOT] <0_HienBot> >Running low on supplies? Use survival",
-    "[23:27] <ryooq> tpa for pvp",
     "[23:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:27] Seabase has reached the goal [Sky's the Limit]",
     "[23:27] Seabase has made the advancement [Ice Bucket Challenge]",
@@ -108,7 +98,17 @@
     "[23:28] [8b8t] >> You have killed yourself!",
     "[23:28] To Azure772: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[23:28] [BOT] <0_HienBot> **Bot to Azure772**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:28] [BOT] <0_HienBot> >Need gear? Type pvp to get started!"
+    "[23:28] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[23:28] <akel1> pvp",
+    "[23:28] [8b8t] >> Teleporting to home 0...",
+    "[23:28] [BOT] <0_HienBot> **akel1**: pvp",
+    "[23:28] [8b8t] >> Teleporting to home 1...",
+    "[23:28] To akel1: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:28] To akel1: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:28] [BOT] <0_HienBot> **Bot to akel1**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:28] [8b8t] >> Request sent to akel1",
+    "[23:28] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1638,10 +1638,11 @@
     "ToadRageThe5th": 12,
     "Texturization": 3,
     "YangNTK": 5,
-    "Seabase": 2
+    "Seabase": 2,
+    "akel1": 1
   },
   "kitStats": {
-    "pvp": 3056,
+    "pvp": 3057,
     "raid": 872,
     "survival": 3452,
     "shulker": 1223,
