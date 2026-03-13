@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:06:36 13/3/2026",
+  "lastUpdated": "08:07:06 13/3/2026",
   "totalKits": 111322,
   "todayKits": 10,
   "onlineCount": 23,
@@ -12,8 +12,8 @@
     "maxTime": "07:05:36 13/3/2026",
     "avg": 23
   },
-  "tps": "14.0",
-  "ping": 202,
+  "tps": "13.0",
+  "ping": 201,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3285
+      "count": 3286
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:02] [BOT] <0_HienBot> **Dismaremu**: cf",
-    "[01:03] <TheUnrealZaka> lava",
-    "[01:03] [BOT] <0_HienBot> **TheUnrealZaka**: lava",
-    "[01:03] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[01:03] [BOT] <0_HienBot> >Try dupe",
-    "[01:03] [BOT] <Dismaremu> hay lo arreglo al ratote fr",
-    "[01:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:03] <TheUnrealZaka> estoy cogiendo piedra",
     "[01:03] [BOT] <0_HienBot> **TheUnrealZaka**: estoy cogiendo piedra",
     "[01:03] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
@@ -108,7 +101,14 @@
     "[01:06] [BOT] <Dismaremu> yaa",
     "[01:06] [BOT] <0_HienBot> **Dismaremu**: yaa",
     "[01:06] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[01:06] [BOT] <0_HienBot> >Bot created by Hien2309."
+    "[01:06] [BOT] <0_HienBot> >Bot created by Hien2309.",
+    "[01:06] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
+    "[01:07] <aryanthegoat_TV> survival",
+    "[01:07] [8b8t] >> Teleporting to home 0...",
+    "[01:07] [BOT] <0_HienBot> **aryanthegoat_TV**: survival",
+    "[01:07] [8b8t] >> Teleporting to home 1...",
+    "[01:07] To aryanthegoat_TV: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:07] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1602,12 +1602,13 @@
     "Drupix": 11,
     "Dyl2013": 5,
     ".SlimBead4443": 8,
-    "Dismaremu": 1
+    "Dismaremu": 1,
+    "aryanthegoat_TV": 1
   },
   "kitStats": {
     "pvp": 2883,
     "raid": 840,
-    "survival": 3285,
+    "survival": 3286,
     "shulker": 1202,
     "music": 315,
     "terracotta": 53,
