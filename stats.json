@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:07:07 13/3/2026",
+  "lastUpdated": "10:07:36 13/3/2026",
   "totalKits": 111360,
   "todayKits": 48,
-  "onlineCount": 22,
+  "onlineCount": 21,
   "peakPlayers": 47,
   "playerStats": {
     "min": 12,
@@ -13,7 +13,7 @@
     "avg": 23
   },
   "tps": "15.0",
-  "ping": 201,
+  "ping": 200,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3292
+      "count": 3293
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:05] [BOT] <0_HienBot> >Items for PVP and Building available in build",
-    "[03:05] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[03:06] <aangjandebo> list",
-    "[03:06] To aangjandebo: Hello aangjandebo!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[03:06] [BOT] <0_HienBot> **aangjandebo**: list",
-    "[03:06] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[03:06] <PRO1567565> emma",
-    "[03:06] [BOT] <0_HienBot> >Get a head start with survival",
-    "[03:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:06] <aangjandebo> elytra",
-    "[03:06] [8b8t] >> Teleporting to home 0...",
     "[03:06] [BOT] <0_HienBot> **aangjandebo**: elytra",
     "[03:06] [8b8t] >> Teleporting to home 6...",
     "[03:06] To aangjandebo: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +97,18 @@
     "[03:06] To r1deal: Hello r1deal!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[03:06] [BOT] <0_HienBot> **r1deal**: list",
     "[03:07] r1deal Whispers: list survival",
-    "[03:07] [BOT] <0_HienBot> **r1deal**: list survival"
+    "[03:07] [BOT] <0_HienBot> **r1deal**: list survival",
+    "[03:07] r1deal Whispers: survival",
+    "[03:07] [8b8t] >> Teleporting to home 0...",
+    "[03:07] [BOT] <0_HienBot> **r1deal**: survival",
+    "[03:07] [8b8t] >> Teleporting to home 1...",
+    "[03:07] To r1deal: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:07] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[03:07] To r1deal: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:07] [8b8t] >> Request sent to r1deal",
+    "[03:07] [8b8t] >> The TPA request you sent to r1deal has expired."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1606,12 +1606,12 @@
     "aryanthegoat_TV": 21,
     "PRO1567565": 2,
     "aangjandebo": 3,
-    "r1deal": 1
+    "r1deal": 2
   },
   "kitStats": {
     "pvp": 2897,
     "raid": 841,
-    "survival": 3292,
+    "survival": 3293,
     "shulker": 1204,
     "music": 315,
     "terracotta": 53,
