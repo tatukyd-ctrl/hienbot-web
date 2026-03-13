@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:22:38 14/3/2026",
+  "lastUpdated": "06:23:08 14/3/2026",
   "totalKits": 112037,
   "todayKits": 725,
   "onlineCount": 31,
@@ -12,8 +12,8 @@
     "maxTime": "00:10:37 14/3/2026",
     "avg": 25
   },
-  "tps": "15.0",
-  "ping": 207,
+  "tps": "12.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3055
+      "count": 3056
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:19] [BOT] <0_HienBot> **akel1**: dont say that this is a family friendly christan minecraft server",
-    "[23:20] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[23:20] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
-    "[23:20] <correa> الله أكبر",
-    "[23:20] <nice_______2> ?kit",
-    "[23:20] To nice_______2: ¡Hola nice_______2!! Usa (Kit que quieras) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:20] [BOT] <0_HienBot> **nice_______2**: ?kit",
-    "[23:20] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[23:20] <nice_______2> ?kit Tools",
-    "[23:20] [8b8t] >> Teleporting to home 0...",
-    "[23:20] [BOT] <0_HienBot> **nice_______2**: ?kit Tools",
     "[23:20] [8b8t] >> Teleporting to home 7...",
     "[23:20] To nice_______2: ¡Tu kit (Tools) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
     "[23:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +97,18 @@
     "[23:22] [BOT] <0_HienBot> **ryooq**: tpa for pvp",
     "[23:22] <Seabase> why is this server so laggy",
     "[23:22] [BOT] <0_HienBot> **Seabase**: why is this server so laggy",
-    "[23:22] [BOT] <0_HienBot> >Need gear? Type pvp to get started!"
+    "[23:22] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[23:22] <Seabase> pvp",
+    "[23:22] [8b8t] >> Teleporting to home 0...",
+    "[23:22] [8b8t] >> Teleporting to home 1...",
+    "[23:22] renzoooooo has made the advancement [We Need to Go Deeper]",
+    "[23:22] To Seabase: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:22] [BOT] <0_HienBot> **Seabase**: pvp",
+    "[23:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:22] To Seabase: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:22] [BOT] <0_HienBot> **Bot to Seabase**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:22] [8b8t] >> Request sent to Seabase",
+    "[23:23] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1637,10 +1637,11 @@
     "Raphiel": 1,
     "ToadRageThe5th": 12,
     "Texturization": 3,
-    "YangNTK": 5
+    "YangNTK": 5,
+    "Seabase": 1
   },
   "kitStats": {
-    "pvp": 3055,
+    "pvp": 3056,
     "raid": 872,
     "survival": 3451,
     "shulker": 1223,
