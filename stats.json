@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:11:05 14/3/2026",
+  "lastUpdated": "17:11:08 14/3/2026",
   "totalKits": 112319,
   "todayKits": 120,
-  "onlineCount": 31,
+  "onlineCount": 30,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 25
   },
-  "tps": "11.0",
+  "tps": "10.0",
   "ping": 0,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3120
+      "count": 3121
     },
     {
       "name": "elytra",
@@ -79,7 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:10] To SuryaNandan: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[10:10] [BOT] <0_HienBot> **SuryaNandan**: pvp",
     "[10:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:10] To Ribzz_: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
@@ -108,7 +107,8 @@
     "[10:11] <0_HienBot> **Bot to CyberOne6ty**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:11] [8b8t] Unknown command do /help",
     "[10:11] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[10:11] You are already connected to this server!"
+    "[10:11] You are already connected to this server!",
+    "[10:11] <SuryaNandan> pvp"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1616,7 +1616,7 @@
     "MoooMC": 18,
     "introvert_": 1,
     "Doctorchris2013": 29,
-    "SuryaNandan": 11,
+    "SuryaNandan": 12,
     "O_HiienBot": 21,
     "BNselmantp": 8,
     "Ibrame78": 2,
@@ -1663,7 +1663,7 @@
     "pouinsano875": 1
   },
   "kitStats": {
-    "pvp": 3120,
+    "pvp": 3121,
     "raid": 892,
     "survival": 3508,
     "shulker": 1234,
