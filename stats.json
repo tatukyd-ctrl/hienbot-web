@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:11:24 14/3/2026",
+  "lastUpdated": "20:11:38 14/3/2026",
   "totalKits": 112429,
   "todayKits": 230,
-  "onlineCount": 39,
+  "onlineCount": 40,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "20:06:38 14/3/2026",
     "avg": 26
   },
-  "tps": "10.0",
-  "ping": 206,
+  "tps": "5.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3155
+      "count": 3156
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:10] <CyberOne6ty> jk",
-    "[13:10] [BOT] <0_HienBot> **CyberOne6ty**: jk",
-    "[13:10] <Khushal_maxx77> elytra",
-    "[13:10] [8b8t] >> Teleporting to home 0...",
-    "[13:10] [8b8t] >> Teleporting to home 6...",
-    "[13:10] [BOT] <0_HienBot> **Khushal_maxx77**: elytra",
-    "[13:10] To Khushal_maxx77: ¡Tu kit (elytra) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
-    "[13:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:11] To Khushal_maxx77: ¡Escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[13:11] [BOT] <0_HienBot> **Bot to Khushal_maxx77**: Escribe \"/tpayes 0_HienBot\" en 35 segundos! Unete a dsc.gg/hienbot.",
-    "[13:11] [8b8t] >> Request sent to Khushal_maxx77",
-    "[13:11] [8b8t] >> Teleporting...",
     "[13:11] <.Asteroid_Sub> elytra",
     "[13:11] To .Asteroid_Sub: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[13:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +96,19 @@
     "[13:11] [BOT] <0_HienBot> **Bot to Khushal_maxx77**: Consejo: Usa link para vincular Discord y obtener 50% menos espera! dsc.gg/hienbot",
     "[13:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:11] [8b8t] >> Request sent to .Asteroid_Sub",
-    "[13:11] [8b8t] >> Teleporting..."
+    "[13:11] [8b8t] >> Teleporting...",
+    "[13:11] [8b8t] >> You have killed yourself!",
+    "[13:11] To .Asteroid_Sub: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:11] [BOT] <0_HienBot> **Bot to .Asteroid_Sub**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[13:11] <CyberOne6ty> BRO",
+    "[13:11] [BOT] <0_HienBot> **CyberOne6ty**: BRO",
+    "[13:11] <Itz_Luxn001> ¡kit pvp",
+    "[13:11] [8b8t] >> Teleporting to home 0...",
+    "[13:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:11] [8b8t] >> Teleporting to home 1...",
+    "[13:11] To Itz_Luxn001: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:11] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
+    "[13:11] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1666,10 +1666,10 @@
     "_1_88_____x": 12,
     "SwarthyStrike77": 3,
     "oruraw": 3,
-    "Itz_Luxn001": 2
+    "Itz_Luxn001": 3
   },
   "kitStats": {
-    "pvp": 3155,
+    "pvp": 3156,
     "raid": 895,
     "survival": 3528,
     "shulker": 1236,
