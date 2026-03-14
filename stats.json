@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:24:08 14/3/2026",
-  "totalKits": 112105,
-  "todayKits": 46,
+  "lastUpdated": "08:24:35 14/3/2026",
+  "totalKits": 112106,
+  "todayKits": 47,
   "onlineCount": 30,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 31
   },
-  "tps": "13.0",
-  "ping": 208,
+  "tps": "11.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "elytra",
-      "count": 1227
+      "count": 1228
     },
     {
       "name": "shulker",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:23] <ThatCubeMan> bed",
-    "[01:23] [8b8t] >> Teleporting to home 0...",
-    "[01:23] [BOT] <0_HienBot> **ThatCubeMan**: bed",
-    "[01:23] [8b8t] >> Teleporting to home 1...",
-    "[01:23] <h4d4> survival",
-    "[01:23] To ThatCubeMan: Your kit (bed) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:23] To h4d4: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[01:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:23] To ThatCubeMan: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:23] [BOT] <0_HienBot> **Bot to ThatCubeMan**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:23] [8b8t] >> Request sent to ThatCubeMan",
-    "[01:23] <aryanthegoat_TV> k cya",
     "[01:23] [8b8t] >> Teleporting...",
     "[01:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:23] [8b8t] >> You have killed yourself!",
@@ -108,7 +94,21 @@
     "[01:23] <ThatCubeMan> wtvr",
     "[01:23] [BOT] <0_HienBot> **ThatCubeMan**: wtvr",
     "[01:23] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[01:24] [BOT] <0_HienBot> >Type list for a list of kits"
+    "[01:24] [BOT] <0_HienBot> >Type list for a list of kits",
+    "[01:24] <h4d4> list",
+    "[01:24] To h4d4: Hello h4d4!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[01:24] [BOT] <0_HienBot> **h4d4**: list",
+    "[01:24] <h4d4> elytra",
+    "[01:24] [8b8t] >> Teleporting to home 0...",
+    "[01:24] [BOT] <0_HienBot> **h4d4**: elytra",
+    "[01:24] [8b8t] >> Teleporting to home 6...",
+    "[01:24] To h4d4: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:24] To h4d4: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:24] [BOT] <0_HienBot> **Bot to h4d4**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:24] [8b8t] >> Request sent to h4d4",
+    "[01:24] [8b8t] >> Teleporting...",
+    "[01:24] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1642,7 +1642,8 @@
     "akel1": 4,
     "CageySaggittari": 3,
     "FlameFrags123": 1,
-    "Neverter1": 2
+    "Neverter1": 2,
+    "h4d4": 1
   },
   "kitStats": {
     "pvp": 3066,
@@ -1665,7 +1666,7 @@
     "dupe": 1069,
     "food": 288,
     "glass": 197,
-    "elytra": 1227,
+    "elytra": 1228,
     "redstone": 691,
     "quartz": 108,
     "highway": 192,
