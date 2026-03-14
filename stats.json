@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:53:08 14/3/2026",
-  "totalKits": 112344,
-  "todayKits": 145,
-  "onlineCount": 22,
+  "lastUpdated": "17:53:22 14/3/2026",
+  "totalKits": 112345,
+  "todayKits": 146,
+  "onlineCount": 24,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 25
   },
   "tps": "14.0",
-  "ping": 203,
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3130
+      "count": 3131
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:52] <Khushal_maxx77> wait",
-    "[10:52] [8b8t] >> Teleporting to home 0...",
-    "[10:52] [BOT] <0_HienBot> **Khushal_maxx77**: wait",
-    "[10:52] [8b8t] >> Teleporting to home 1...",
-    "[10:52] To Khushal_maxx77: ¡Tu kit (wait) se entregará en 30 segundos! Únete a dsc.gg/hienbot",
-    "[10:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:52] To Khushal_maxx77: ¡Lo siento! Light Blue Shulker Box agotado, ¡no hay otros kits! dsc.gg/hienbot",
-    "[10:52] [BOT] <0_HienBot> **Bot to Khushal_maxx77**: Lo siento! Light Blue Shulker Box agotado, no hay otros kits! dsc.gg/hienbot",
-    "[10:52] <Dreamers> bruh",
-    "[10:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:52] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[10:52] <shardah> under water",
     "[10:52] [BOT] <0_HienBot> **shardah**: under water",
     "[10:52] <shardah> at bedrock",
@@ -108,7 +96,19 @@
     "[10:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:53] <Khushal_maxx77> here is this",
     "[10:53] [BOT] <0_HienBot> **Khushal_maxx77**: here is this",
-    "[10:53] [BOT] <0_HienBot> >Use info <player> to check someone's stats"
+    "[10:53] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
+    "[10:53] <keivdeil> here you tp and throw ender",
+    "[10:53] <Sui0912> pvp",
+    "[10:53] [BOT] <0_HienBot> **keivdeil**: here you tp and throw ender",
+    "[10:53] [8b8t] >> Teleporting to home 0...",
+    "[10:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:53] [8b8t] >> Teleporting to home 1...",
+    "[10:53] To Sui0912: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:53] To Sui0912: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:53] [BOT] <0_HienBot> **Bot to Sui0912**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:53] [8b8t] >> Request sent to Sui0912",
+    "[10:53] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1660,10 +1660,11 @@
     "037k": 2,
     "Klisster": 7,
     ".Mali823828": 1,
-    "pouinsano875": 1
+    "pouinsano875": 1,
+    "Sui0912": 1
   },
   "kitStats": {
-    "pvp": 3130,
+    "pvp": 3131,
     "raid": 892,
     "survival": 3511,
     "shulker": 1234,
