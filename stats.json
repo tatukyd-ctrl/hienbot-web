@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:08:38 14/3/2026",
+  "lastUpdated": "20:09:08 14/3/2026",
   "totalKits": 112425,
   "todayKits": 226,
-  "onlineCount": 35,
+  "onlineCount": 38,
   "peakPlayers": 40,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "20:06:38 14/3/2026",
     "avg": 26
   },
-  "tps": "7.0",
-  "ping": 208,
+  "tps": "10.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3153
+      "count": 3154
     },
     {
       "name": "elytra",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:07] [BOT] <0_HienBot> **cappuccino_**: lang ru",
-    "[13:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:07] [BOT] <0_HienBot> >Try status",
-    "[13:08] [BOT] <0_HienBot> >Items for PVP and Building available in build",
-    "[13:08] <CyberOne6ty> dreamer",
-    "[13:08] [BOT] <0_HienBot> **CyberOne6ty**: dreamer",
-    "[13:08] <Dreamers> ?",
-    "[13:08] [BOT] <0_HienBot> **Dreamers**: ?",
-    "[13:08] <cappuccino_> lang en",
-    "[13:08] [BOT] <0_HienBot> **cappuccino_**: lang en",
-    "[13:08] <Volky1343> redstone",
-    "[13:08] [8b8t] >> Teleporting to home 0...",
-    "[13:08] To cappuccino_: Language set to English! | dsc.gg/hienbot",
-    "[13:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:08] [8b8t] >> Teleporting to home 2...",
     "[13:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:08] To Volky1343: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[13:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +93,22 @@
     "[13:08] [8b8t] >> You have killed yourself!",
     "[13:08] To Volky1343: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[13:08] [BOT] <0_HienBot> **Bot to Volky1343**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:08] [BOT] <0_HienBot> >Hey CyberOne6ty!"
+    "[13:08] [BOT] <0_HienBot> >Hey CyberOne6ty!",
+    "[13:08] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[13:08] <.Asteroid_Sub> anyone cpvp duel?",
+    "[13:08] [BOT] <0_HienBot> **.Asteroid_Sub**: anyone cpvp duel?",
+    "[13:08] <CyberOne6ty> can i take some of this armor",
+    "[13:08] <Itz_Luxn001> ¡kit pvp",
+    "[13:08] [8b8t] >> Teleporting to home 0...",
+    "[13:08] [BOT] <0_HienBot> **CyberOne6ty**: can i take some of this armor",
+    "[13:08] [8b8t] >> Teleporting to home 1...",
+    "[13:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:08] To Itz_Luxn001: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:09] To Itz_Luxn001: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:09] [BOT] <0_HienBot> **Bot to Itz_Luxn001**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:09] [8b8t] >> Request sent to Itz_Luxn001",
+    "[13:09] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1665,10 +1665,11 @@
     "NETHEREND22": 8,
     "_1_88_____x": 12,
     "SwarthyStrike77": 3,
-    "oruraw": 2
+    "oruraw": 2,
+    "Itz_Luxn001": 1
   },
   "kitStats": {
-    "pvp": 3153,
+    "pvp": 3154,
     "raid": 895,
     "survival": 3528,
     "shulker": 1236,
