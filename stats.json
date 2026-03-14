@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:43:46 14/3/2026",
-  "totalKits": 112164,
-  "todayKits": 105,
+  "lastUpdated": "11:44:06 14/3/2026",
+  "totalKits": 112165,
+  "todayKits": 106,
   "onlineCount": 24,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 28
   },
-  "tps": "9.0",
+  "tps": "12.0",
   "ping": 228,
   "topUsers": [
     {
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:43] [BOT] <0_HienBot> **.Hamoudi9416**: niger, 8b8t because CPVP Only not Builds",
-    "[04:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:43] [8b8t] >> The TPA request you sent to expertoast226 was successfully canceled.",
-    "[04:43] <.FlluxIsHere> raid",
-    "[04:43] [8b8t] >> You have killed yourself!",
-    "[04:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:43] To .FlluxIsHere: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:43] <.Hamoudi9416> nigers",
-    "[04:43] [BOT] <0_HienBot> **Bot to .FlluxIsHere**: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:43] You were kicked from 8b8t: Kicked for spamming",
-    "[04:43] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[04:43] [8b8t] Unknown command do /help",
     "[04:43] [8b8t] Unknown command do /help",
     "[04:43] [8b8t] Unknown command do /help",
     "[04:43] [8b8t] Unknown command do /help",
@@ -108,7 +94,21 @@
     "[04:43] To krrish: Sorry! Pink Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
     "[04:43] [BOT] <0_HienBot> **Bot to krrish**: Sorry! Pink Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
     "[04:43] [8b8t] >> Request sent to krrish",
-    "[04:43] [8b8t] >> Teleporting..."
+    "[04:43] [8b8t] >> Teleporting...",
+    "[04:43] [8b8t] >> You have killed yourself!",
+    "[04:43] To krrish: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[04:43] [BOT] <0_HienBot> **Bot to krrish**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[04:43] <.FlluxIsHere> raid",
+    "[04:43] [8b8t] >> Teleporting to home 0...",
+    "[04:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:43] [8b8t] >> Teleporting to home 2...",
+    "[04:43] To .FlluxIsHere: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:43] [BOT] <0_HienBot> **Bot to .FlluxIsHere**: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:43] To .FlluxIsHere: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:43] [BOT] <0_HienBot> **Bot to .FlluxIsHere**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:43] [8b8t] >> Request sent to .FlluxIsHere",
+    "[04:44] [8b8t] >> Teleporting...",
+    "[04:44] Chat disabled in client options"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1311,7 +1311,7 @@
     "don_fernan007": 7,
     ".YuyuMC_QwQ": 64,
     ".MennoKnight78": 2,
-    ".FlluxIsHere": 8,
+    ".FlluxIsHere": 9,
     "lrlc34": 6,
     ".Redjul543": 67,
     "ASHyperion": 9,
@@ -1652,7 +1652,7 @@
   },
   "kitStats": {
     "pvp": 3077,
-    "raid": 883,
+    "raid": 884,
     "survival": 3478,
     "shulker": 1228,
     "music": 338,
