@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:28:08 14/3/2026",
+  "lastUpdated": "08:28:38 14/3/2026",
   "totalKits": 112108,
   "todayKits": 49,
   "onlineCount": 31,
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 31
   },
-  "tps": "7.0",
-  "ping": 0,
+  "tps": "13.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3467
+      "count": 3468
     },
     {
       "name": "pvp",
@@ -82,17 +82,6 @@
     "[01:27] [8b8t] Unknown command do /help",
     "[01:27] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[01:27] You are already connected to this server!",
-    "[01:27] [BOT] <0_HienBot> >Get a head start with survival",
-    "[01:27] You were kicked from 8b8t: Flying is not enabled on this server",
-    "[01:27] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[01:27] [8b8t] Unknown command do /help",
-    "[01:27] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[01:27] You are already connected to this server!",
-    "[01:27] You were kicked from 8b8t: Flying is not enabled on this server",
-    "[01:27] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[01:27] [8b8t] Unknown command do /help",
-    "[01:27] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[01:27] You are already connected to this server!",
     "[01:27] You were kicked from 8b8t: Flying is not enabled on this server",
     "[01:27] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
     "[01:27] [8b8t] Unknown command do /help",
@@ -108,7 +97,18 @@
     "[01:28] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
     "[01:28] [8b8t] Unknown command do /help",
     "[01:28] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[01:28] You are already connected to this server!"
+    "[01:28] You are already connected to this server!",
+    "[01:28] You were kicked from 8b8t: Flying is not enabled on this server",
+    "[01:28] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[01:28] [8b8t] >> Welcome san_jxd to 8b8t.me Lobby",
+    "[01:28] [8b8t] Unknown command do /help",
+    "[01:28] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[01:28] You are already connected to this server!",
+    "[01:28] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[01:28] You are already connected to this server!",
+    "[01:28] [8b8t] >> You have killed yourself!",
+    "[01:28] [BOT] <0_HienBot> >Try list to see available kits",
+    "[01:28] <.Asteroid_Sub> survival"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1574,7 +1574,7 @@
     "Quartash": 6,
     "tooothless5689": 25,
     "kayz_09": 11,
-    ".Asteroid_Sub": 15,
+    ".Asteroid_Sub": 16,
     "6t5e": 2,
     "Itz_Luxn": 5,
     "SJYTpro": 1,
@@ -1648,7 +1648,7 @@
   "kitStats": {
     "pvp": 3066,
     "raid": 877,
-    "survival": 3467,
+    "survival": 3468,
     "shulker": 1225,
     "music": 338,
     "terracotta": 54,
