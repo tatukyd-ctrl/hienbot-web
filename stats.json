@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:36:08 14/3/2026",
-  "totalKits": 112111,
-  "todayKits": 52,
-  "onlineCount": 30,
+  "lastUpdated": "08:36:25 14/3/2026",
+  "totalKits": 112112,
+  "todayKits": 53,
+  "onlineCount": 31,
   "peakPlayers": 47,
   "playerStats": {
     "min": 27,
@@ -13,7 +13,7 @@
     "avg": 31
   },
   "tps": "12.0",
-  "ping": 211,
+  "ping": 218,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "elytra",
-      "count": 1232
+      "count": 1233
     },
     {
       "name": "shulker",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:34] <h2d2> gn",
-    "[01:34] [BOT] <0_HienBot> **h2d2**: gn",
-    "[01:34] <h2d2> elytra",
-    "[01:35] [8b8t] >> Teleporting to home 0...",
-    "[01:35] [BOT] <0_HienBot> **h2d2**: elytra",
-    "[01:35] [8b8t] >> Teleporting to home 6...",
-    "[01:35] To h2d2: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:35] To h2d2: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:35] [BOT] <0_HienBot> >Type discord",
     "[01:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:35] [8b8t] >> Request sent to h2d2",
     "[01:35] [8b8t] >> Teleporting...",
@@ -108,7 +98,17 @@
     "[01:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:36] h2d2 has made the advancement [Stone Age]",
     "[01:36] <GalaxyJ4ck> tpa here",
-    "[01:36] [BOT] <0_HienBot> **GalaxyJ4ck**: tpa here"
+    "[01:36] [BOT] <0_HienBot> **GalaxyJ4ck**: tpa here",
+    "[01:36] <h2d2> elytra",
+    "[01:36] [8b8t] >> Teleporting to home 0...",
+    "[01:36] [BOT] <0_HienBot> **h2d2**: elytra",
+    "[01:36] [8b8t] >> Teleporting to home 6...",
+    "[01:36] To h2d2: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:36] To h2d2: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:36] [BOT] <0_HienBot> **Bot to h2d2**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:36] [8b8t] >> Request sent to h2d2",
+    "[01:36] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1644,7 +1644,7 @@
     "FlameFrags123": 1,
     "Neverter1": 2,
     "h4d4": 4,
-    "h2d2": 1
+    "h2d2": 2
   },
   "kitStats": {
     "pvp": 3066,
@@ -1667,7 +1667,7 @@
     "dupe": 1069,
     "food": 288,
     "glass": 197,
-    "elytra": 1232,
+    "elytra": 1233,
     "redstone": 691,
     "quartz": 108,
     "highway": 192,
