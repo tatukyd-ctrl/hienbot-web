@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:03:09 15/3/2026",
-  "totalKits": 112769,
-  "todayKits": 570,
+  "lastUpdated": "05:03:21 15/3/2026",
+  "totalKits": 112770,
+  "todayKits": 571,
   "onlineCount": 32,
   "peakPlayers": 59,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "01:49:39 15/3/2026",
     "avg": 33
   },
-  "tps": "9.0",
+  "tps": "5.0",
   "ping": 230,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3242
+      "count": 3243
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:01] [8b8t] >> Teleporting...",
-    "[22:01] [8b8t] >> You have killed yourself!",
-    "[22:02] To .FlluxIsHere: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[22:02] [BOT] <0_HienBot> **Bot to .FlluxIsHere**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[22:02] <TheUnrealZaka> tremendo, oneshot",
-    "[22:02] [BOT] <0_HienBot> **TheUnrealZaka**: tremendo, oneshot",
-    "[22:02] [BOT] <0_HienBot> >Type list for a list of kits",
-    "[22:02] <.FlluxIsHere> survival",
-    "[22:02] To .FlluxIsHere: You're on cooldown, try again in 4 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:02] [BOT] <0_HienBot> **.FlluxIsHere**: survival",
-    "[22:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:02] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[22:02] <.FlluxIsHere> survival",
     "[22:02] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +97,18 @@
     "[22:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:03] [8b8t] >> You have killed yourself!",
     "[22:03] To .FlluxIsHere: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[22:03] [BOT] <0_HienBot> **Bot to .FlluxIsHere**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[22:03] [BOT] <0_HienBot> **Bot to .FlluxIsHere**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[22:03] arjebn Whispers: totem",
+    "[22:03] [8b8t] >> Teleporting to home 0...",
+    "[22:03] [BOT] <0_HienBot> **arjebn**: totem",
+    "[22:03] [8b8t] >> Teleporting to home 1...",
+    "[22:03] To arjebn: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:03] To arjebn: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:03] [BOT] <0_HienBot> **Bot to arjebn**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:03] [8b8t] >> Request sent to arjebn",
+    "[22:03] [8b8t] >> Teleporting...",
+    "[22:03] [BOT] <0_HienBot> >Type invite for invite rewards info"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1409,7 +1409,7 @@
     "Master_Dark2026": 4,
     "IKOLZXLOLS": 1,
     "elcolo150": 1,
-    "arjebn": 97,
+    "arjebn": 98,
     "RhettCTX": 7,
     "2b2tJourney": 4,
     "dandin99": 1,
@@ -1696,7 +1696,7 @@
     "adlu": 1
   },
   "kitStats": {
-    "pvp": 3242,
+    "pvp": 3243,
     "raid": 905,
     "survival": 3610,
     "shulker": 1243,
