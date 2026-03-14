@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:15:09 15/3/2026",
+  "lastUpdated": "05:15:39 15/3/2026",
   "totalKits": 112773,
   "todayKits": 574,
-  "onlineCount": 33,
+  "onlineCount": 32,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "01:49:39 15/3/2026",
     "avg": 33
   },
-  "tps": "7.0",
-  "ping": 200,
+  "tps": "9.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,15 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:12] [BOT] <0_HienBot> **Bot to AlloJr**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[22:12] <Piewix> FUCKING NIGGER",
-    "[22:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:12] arjebn Whispers: enderpearl",
-    "[22:12] [8b8t] >> Teleporting to home 0...",
-    "[22:12] [BOT] <0_HienBot> **arjebn**: enderpearl",
-    "[22:12] [8b8t] >> Teleporting to home 5...",
-    "[22:12] To arjebn: Your kit (enderpearl) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[22:13] To arjebn: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:13] [BOT] <0_HienBot> **Bot to arjebn**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[22:13] [8b8t] >> Request sent to arjebn",
@@ -108,7 +99,16 @@
     "[22:14] [BOT] <0_HienBot> **i_am_tobias**: podrias aprender una cosa o dos",
     "[22:14] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
     "[22:14] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[22:14] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!"
+    "[22:14] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
+    "[22:15] [BOT] <0_HienBot> >Type discord",
+    "[22:15] arjebn Whispers: stash",
+    "[22:15] [8b8t] >> Teleporting to home 0...",
+    "[22:15] [BOT] <0_HienBot> **arjebn**: stash",
+    "[22:15] [8b8t] >> Teleporting to home 2...",
+    "[22:15] To arjebn: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:15] To arjebn: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[22:15] [BOT] <0_HienBot> **Bot to arjebn**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1409,7 +1409,7 @@
     "Master_Dark2026": 4,
     "IKOLZXLOLS": 1,
     "elcolo150": 1,
-    "arjebn": 99,
+    "arjebn": 100,
     "RhettCTX": 7,
     "2b2tJourney": 4,
     "dandin99": 1,
@@ -1708,7 +1708,7 @@
     "toolbox": 368,
     "wool": 401,
     "exp": 577,
-    "stash": 997,
+    "stash": 998,
     "ocean": 116,
     "build": 1129,
     "dye": 90,
