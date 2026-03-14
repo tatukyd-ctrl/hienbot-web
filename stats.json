@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:04:08 14/3/2026",
-  "totalKits": 112347,
-  "todayKits": 148,
+  "lastUpdated": "18:04:37 14/3/2026",
+  "totalKits": 112348,
+  "todayKits": 149,
   "onlineCount": 26,
   "peakPlayers": 33,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 25
   },
-  "tps": "10.0",
-  "ping": 224,
+  "tps": "14.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3513
+      "count": 3514
     },
     {
       "name": "pvp",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:02] <Jackbit4> idk",
-    "[11:02] [BOT] <0_HienBot> **Jackbit4**: idk",
-    "[11:03] <CyberOne6ty> yo more pearls pls",
-    "[11:03] [BOT] <0_HienBot> **CyberOne6ty**: yo more pearls pls",
-    "[11:03] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[11:03] <NETHEREND22> pls kits",
-    "[11:03] [BOT] <0_HienBot> **NETHEREND22**: pls kits",
-    "[11:03] <NETHEREND22> survival",
-    "[11:03] [8b8t] >> Teleporting to home 0...",
-    "[11:03] [BOT] <0_HienBot> **NETHEREND22**: survival",
-    "[11:03] [8b8t] >> Teleporting to home 1...",
-    "[11:03] To NETHEREND22: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:03] To NETHEREND22: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:03] [BOT] <0_HienBot> **Bot to NETHEREND22**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:03] [8b8t] >> Request sent to NETHEREND22",
-    "[11:03] [8b8t] >> Teleporting...",
     "[11:03] <Jackbit4> why yall chanfged ur skins",
     "[11:03] [BOT] <0_HienBot> **Jackbit4**: why yall chanfged ur skins",
     "[11:03] <Dreamers> wtf",
@@ -108,7 +91,24 @@
     "[11:04] <CyberOne6ty> giving away one mace in a kit cause i have two",
     "[11:04] [BOT] <0_HienBot> **CyberOne6ty**: giving away one mace in a kit cause i have two",
     "[11:04] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[11:04] <CyberOne6ty> tpa to me to get"
+    "[11:04] <CyberOne6ty> tpa to me to get",
+    "[11:04] [BOT] <0_HienBot> **CyberOne6ty**: tpa to me to get",
+    "[11:04] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[11:04] <Dreamers> dawg",
+    "[11:04] [BOT] <0_HienBot> **Dreamers**: dawg",
+    "[11:04] <Dreamers> why can i only change grills",
+    "[11:04] [BOT] <0_HienBot> **Dreamers**: why can i only change grills",
+    "[11:04] <NETHEREND22> survival",
+    "[11:04] [8b8t] >> Teleporting to home 0...",
+    "[11:04] [BOT] <0_HienBot> **NETHEREND22**: survival",
+    "[11:04] [8b8t] >> Teleporting to home 1...",
+    "[11:04] To NETHEREND22: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:04] To NETHEREND22: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:04] [BOT] <0_HienBot> **Bot to NETHEREND22**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:04] [8b8t] >> Request sent to NETHEREND22",
+    "[11:04] [8b8t] >> Teleporting...",
+    "[11:04] [BOT] <0_HienBot> >Use info <player> to check someone's stats"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1662,12 +1662,12 @@
     ".Mali823828": 1,
     "pouinsano875": 1,
     "Sui0912": 3,
-    "NETHEREND22": 1
+    "NETHEREND22": 2
   },
   "kitStats": {
     "pvp": 3132,
     "raid": 892,
-    "survival": 3513,
+    "survival": 3514,
     "shulker": 1234,
     "music": 346,
     "terracotta": 54,
