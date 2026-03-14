@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "02:07:39 15/3/2026",
+  "lastUpdated": "02:08:09 15/3/2026",
   "totalKits": 112668,
   "todayKits": 469,
-  "onlineCount": 54,
+  "onlineCount": 55,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "01:49:39 15/3/2026",
     "avg": 31
   },
-  "tps": "8.0",
-  "ping": 227,
+  "tps": "5.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3204
+      "count": 3205
     },
     {
       "name": "elytra",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[19:06] <animusito> kit xp",
-    "[19:06] [8b8t] >> Teleporting to home 0...",
-    "[19:06] [BOT] <0_HienBot> **animusito**: kit xp",
-    "[19:06] [8b8t] >> Teleporting to home 5...",
-    "[19:06] To animusito: Your kit (xp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[19:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:06] To animusito: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:06] [BOT] <0_HienBot> **Bot to animusito**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[19:06] [8b8t] >> Request sent to animusito",
-    "[19:06] [8b8t] >> Teleporting...",
-    "[19:06] [8b8t] >> You have killed yourself!",
-    "[19:07] To animusito: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[19:07] [BOT] <0_HienBot> **Bot to animusito**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[19:07] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
     "[19:07] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[19:07] <bociknoplay> shulker",
     "[19:07] [BOT] <0_HienBot> **bociknoplay**: shulker",
@@ -108,7 +94,21 @@
     "[19:07] To animusito: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[19:07] [BOT] <0_HienBot> **animusito**: kit totem",
     "[19:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[19:07] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base"
+    "[19:07] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
+    "[19:07] [8b8t] >> You have killed yourself!",
+    "[19:07] To bociknoplay: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:07] [BOT] <0_HienBot> **Bot to bociknoplay**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[19:07] <animusito> kit totem",
+    "[19:07] [8b8t] >> Teleporting to home 0...",
+    "[19:07] [8b8t] >> Please do not spam.",
+    "[19:07] [8b8t] >> Teleporting to home 1...",
+    "[19:07] To animusito: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[19:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[19:07] To animusito: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:07] [BOT] <0_HienBot> **Bot to animusito**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[19:07] [8b8t] >> Request sent to animusito",
+    "[19:07] [8b8t] >> The TPA request you sent to animusito has expired.",
+    "[19:08] [BOT] <0_HienBot> >Type list for a list of kits"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1674,7 +1674,7 @@
     "Azertyfox9": 1,
     "Mrcookie12346": 1,
     "NightGamer": 1,
-    "animusito": 29,
+    "animusito": 30,
     "h3d3": 5,
     "Kacperozi13": 21,
     "CaseIdontSeeYa": 1,
@@ -1692,7 +1692,7 @@
     "bociknoplay": 1
   },
   "kitStats": {
-    "pvp": 3204,
+    "pvp": 3205,
     "raid": 903,
     "survival": 3589,
     "shulker": 1242,
