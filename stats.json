@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "23:04:08 14/3/2026",
-  "totalKits": 112560,
-  "todayKits": 361,
-  "onlineCount": 40,
+  "lastUpdated": "23:04:32 14/3/2026",
+  "totalKits": 112561,
+  "todayKits": 362,
+  "onlineCount": 42,
   "peakPlayers": 51,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "22:31:08 14/3/2026",
     "avg": 29
   },
-  "tps": "11.0",
+  "tps": "12.0",
   "ping": 208,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3560
+      "count": 3561
     },
     {
       "name": "pvp",
@@ -79,22 +79,6 @@
     }
   ],
   "chatLog": [
-    "[16:02] [8b8t] >> Request sent to TylerDurden098",
-    "[16:02] [8b8t] >> Teleporting...",
-    "[16:03] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[16:03] <DeathZuka> the song of raid",
-    "[16:03] [BOT] <0_HienBot> **DeathZuka**: the song of raid",
-    "[16:03] <h3d3> exp",
-    "[16:03] [8b8t] >> Teleporting to home 0...",
-    "[16:03] [BOT] <0_HienBot> **h3d3**: exp",
-    "[16:03] [8b8t] >> Teleporting to home 5...",
-    "[16:03] To h3d3: Your kit (exp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[16:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[16:03] To h3d3: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:03] [BOT] <0_HienBot> **Bot to h3d3**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[16:03] [8b8t] >> Request sent to h3d3",
-    "[16:03] [8b8t] >> Teleporting...",
-    "[16:03] <.Kit_Pls2b2t> pls kit niggas",
     "[16:03] [BOT] <0_HienBot> **.Kit_Pls2b2t**: pls kit niggas",
     "[16:03] [8b8t] >> You have killed yourself!",
     "[16:03] To h3d3: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +92,23 @@
     "[16:03] [BOT] <0_HienBot> **CyberOne6ty**: nigga",
     "[16:03] <.Kit_Pls2b2t> faggot",
     "[16:03] [BOT] <0_HienBot> **.Kit_Pls2b2t**: faggot",
-    "[16:04] [BOT] <0_HienBot> >Welcome to 8b8t, DeathZuka!"
+    "[16:04] [BOT] <0_HienBot> >Welcome to 8b8t, DeathZuka!",
+    "[16:04] <CyberOne6ty> want a kit",
+    "[16:04] <wodka> survival",
+    "[16:04] [BOT] <0_HienBot> **CyberOne6ty**: want a kit",
+    "[16:04] [8b8t] >> Teleporting to home 0...",
+    "[16:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:04] [8b8t] >> Teleporting to home 1...",
+    "[16:04] To wodka: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[16:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:04] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[16:04] To wodka: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:04] <CyberOne6ty> i have some kits i made",
+    "[16:04] [BOT] <0_HienBot> **Bot to wodka**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[16:04] [8b8t] >> Request sent to wodka",
+    "[16:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[16:04] .Kit_Pls2b2t has reached the goal [Sky's the Limit]",
+    "[16:04] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1679,12 +1679,12 @@
     "Kacperozi13": 5,
     "CaseIdontSeeYa": 1,
     "ThomTheTom": 1,
-    "wodka": 2
+    "wodka": 3
   },
   "kitStats": {
     "pvp": 3189,
     "raid": 899,
-    "survival": 3560,
+    "survival": 3561,
     "shulker": 1240,
     "music": 349,
     "terracotta": 54,
