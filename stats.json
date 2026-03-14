@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:18:38 14/3/2026",
-  "totalKits": 112187,
-  "todayKits": 128,
+  "lastUpdated": "12:19:04 14/3/2026",
+  "totalKits": 112188,
+  "todayKits": 129,
   "onlineCount": 19,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 28
   },
-  "tps": "14.0",
+  "tps": "13.0",
   "ping": 209,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3086
+      "count": 3087
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:17] [8b8t] >> Teleporting to home 1...",
-    "[05:17] To Keromix: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:17] To Keromix: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:17] [BOT] <0_HienBot> **Bot to Keromix**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:17] [8b8t] >> Request sent to Keromix",
-    "[05:17] [8b8t] >> Teleporting...",
-    "[05:17] [8b8t] >> You have killed yourself!",
-    "[05:17] To Keromix: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:17] [BOT] <0_HienBot> **Bot to Keromix**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:17] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t",
     "[05:17] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[05:17] <keivdeil> this looks good",
     "[05:17] [BOT] <0_HienBot> **keivdeil**: this looks good",
@@ -108,7 +97,18 @@
     "[05:18] [8b8t] >> You have killed yourself!",
     "[05:18] To keivdeil: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[05:18] [BOT] <0_HienBot> **Bot to keivdeil**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[05:18] [BOT] <0_HienBot> >Use list to see all available kits!"
+    "[05:18] [BOT] <0_HienBot> >Use list to see all available kits!",
+    "[05:18] <Keromix> kit pvp",
+    "[05:18] [8b8t] >> Teleporting to home 0...",
+    "[05:18] [8b8t] >> Teleporting to home 1...",
+    "[05:18] [BOT] <0_HienBot> **Keromix**: kit pvp",
+    "[05:18] To Keromix: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:18] To Keromix: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:18] [BOT] <0_HienBot> **Bot to Keromix**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:18] [8b8t] >> Request sent to Keromix",
+    "[05:18] [8b8t] >> Teleporting...",
+    "[05:19] [BOT] <0_HienBot> >Use lang and select your language"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1649,10 +1649,10 @@
     "Siffrow": 3,
     "krrish": 16,
     "expertoast226": 1,
-    "Keromix": 6
+    "Keromix": 7
   },
   "kitStats": {
-    "pvp": 3086,
+    "pvp": 3087,
     "raid": 885,
     "survival": 3480,
     "shulker": 1230,
