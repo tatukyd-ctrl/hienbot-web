@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:00:40 14/3/2026",
-  "totalKits": 112178,
-  "todayKits": 119,
-  "onlineCount": 25,
+  "lastUpdated": "12:01:06 14/3/2026",
+  "totalKits": 112179,
+  "todayKits": 120,
+  "onlineCount": 26,
   "peakPlayers": 47,
   "playerStats": {
     "min": 19,
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 28
   },
-  "tps": "12.0",
-  "ping": 207,
+  "tps": "9.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3082
+      "count": 3083
     },
     {
       "name": "elytra",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:59] [BOT] <0_HienBot> **Keromix**: kit pvp",
-    "[04:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:00] [BOT] <0_HienBot> >Sub to Hien2309 in youtube",
-    "[05:00] <krrish> Stash",
-    "[05:00] [8b8t] >> Teleporting to home 0...",
-    "[05:00] [BOT] <0_HienBot> **krrish**: Stash",
-    "[05:00] [8b8t] >> Teleporting to home 2...",
-    "[05:00] To krrish: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:00] To krrish: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[05:00] [BOT] <0_HienBot> **Bot to krrish**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[05:00] <krrish> kit",
-    "[05:00] To krrish: Hello krrish!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[05:00] [BOT] <0_HienBot> **krrish**: kit",
     "[05:00] [Ultra] <> yao",
     "[05:00] <krrish> Tools",
     "[05:00] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +94,21 @@
     "[05:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:00] [8b8t] >> Teleporting..."
+    "[05:00] [8b8t] >> Teleporting...",
+    "[05:00] [8b8t] >> You have killed yourself!",
+    "[05:00] To krrish: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[05:00] [BOT] <0_HienBot> **Bot to krrish**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[05:00] <Keromix> kit pvp",
+    "[05:00] [8b8t] >> Teleporting to home 0...",
+    "[05:00] [BOT] <0_HienBot> **Keromix**: kit pvp",
+    "[05:00] [8b8t] >> Teleporting to home 1...",
+    "[05:00] To Keromix: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:00] To Keromix: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:00] [BOT] <0_HienBot> **Bot to Keromix**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:00] [8b8t] >> Request sent to Keromix",
+    "[05:01] [8b8t] >> Teleporting...",
+    "[05:01] [BOT] <0_HienBot> >In its beginnings 8b8t was actually called 0b0t"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1649,10 +1649,10 @@
     "Siffrow": 3,
     "krrish": 13,
     "expertoast226": 1,
-    "Keromix": 2
+    "Keromix": 3
   },
   "kitStats": {
-    "pvp": 3082,
+    "pvp": 3083,
     "raid": 885,
     "survival": 3480,
     "shulker": 1230,
