@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:51:38 14/3/2026",
-  "totalKits": 112168,
-  "todayKits": 109,
+  "lastUpdated": "11:51:53 14/3/2026",
+  "totalKits": 112169,
+  "todayKits": 110,
   "onlineCount": 26,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 28
   },
-  "tps": "11.0",
+  "tps": "14.0",
   "ping": 207,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3479
+      "count": 3480
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:50] [8b8t] >> Request sent to krrish",
-    "[04:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:50] [BOT] <0_HienBot> >Welcome to 8b8t, kutuzovs!",
-    "[04:50] [8b8t] >> Teleporting...",
-    "[04:50] [8b8t] >> You have killed yourself!",
-    "[04:50] <krrish> dupe",
-    "[04:50] To krrish: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:50] To krrish: You're on cooldown, try again in 42 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:50] <aarush_0814> tpa pls",
-    "[04:50] [BOT] <0_HienBot> **krrish**: dupe",
     "[04:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[04:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[04:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +98,17 @@
     "[04:51] <krrish> kit",
     "[04:51] To krrish: Hello krrish!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[04:51] [BOT] <0_HienBot> **krrish**: kit",
-    "[04:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot"
+    "[04:51] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
+    "[04:51] <krrish> survival",
+    "[04:51] [8b8t] >> Teleporting to home 0...",
+    "[04:51] [BOT] <0_HienBot> **krrish**: survival",
+    "[04:51] [8b8t] >> Teleporting to home 1...",
+    "[04:51] To krrish: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:51] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:51] To krrish: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:51] [BOT] <0_HienBot> **Bot to krrish**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:51] [8b8t] >> Request sent to krrish",
+    "[04:51] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1647,13 +1647,13 @@
     "h2d2": 2,
     "GalaxyJ4ck": 8,
     "Siffrow": 3,
-    "krrish": 4,
+    "krrish": 5,
     "expertoast226": 1
   },
   "kitStats": {
     "pvp": 3080,
     "raid": 884,
-    "survival": 3479,
+    "survival": 3480,
     "shulker": 1228,
     "music": 338,
     "terracotta": 54,
