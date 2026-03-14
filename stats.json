@@ -1,19 +1,19 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:32:51 14/3/2026",
+  "lastUpdated": "20:33:08 14/3/2026",
   "totalKits": 112451,
   "todayKits": 252,
-  "onlineCount": 36,
+  "onlineCount": 35,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
     "minTime": "13:01:08 14/3/2026",
     "max": 42,
     "maxTime": "20:12:47 14/3/2026",
-    "avg": 26
+    "avg": 27
   },
-  "tps": "8.0",
-  "ping": 216,
+  "tps": "10.0",
+  "ping": 222,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:32] [8b8t] >> Teleporting to home 7...",
-    "[13:32] To froggyh8103: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:32] [BOT] <0_HienBot> **Bot to froggyh8103**: Your kit (tools) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:32] <.Asteroid_Sub> survival",
-    "[13:32] To .Asteroid_Sub: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[13:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:32] To froggyh8103: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[13:32] [BOT] <0_HienBot> **Bot to .Asteroid_Sub**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[13:32] [8b8t] >> Request sent to froggyh8103",
-    "[13:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:32] [8b8t] >> Teleporting...",
-    "[13:32] <.Asteroid_Sub> survival",
-    "[13:32] To .Asteroid_Sub: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[13:32] [BOT] <0_HienBot> **.Asteroid_Sub**: survival",
     "[13:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:32] [BOT] <0_HienBot> >Bot created by Hien2309.",
     "[13:32] [8b8t] >> You have killed yourself!",
@@ -108,7 +94,21 @@
     "[13:32] [BOT] <0_HienBot> **Bot to .Asteroid_Sub**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:32] [8b8t] >> Request sent to .Asteroid_Sub",
     "[13:32] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[13:32] [8b8t] >> Teleporting..."
+    "[13:32] [8b8t] >> Teleporting...",
+    "[13:32] <CyberOne6ty> im backk",
+    "[13:32] [BOT] <0_HienBot> **CyberOne6ty**: im backk",
+    "[13:33] <.StoneAtom662235> redstone",
+    "[13:33] [8b8t] >> Teleporting to home 0...",
+    "[13:33] [8b8t] >> Teleporting to home 2...",
+    "[13:33] [BOT] <0_HienBot> **.StoneAtom662235**: redstone",
+    "[13:33] To .StoneAtom662235: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:33] <froggyh8103> list all",
+    "[13:33] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[13:33] To .StoneAtom662235: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:33] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:33] [8b8t] >> Request sent to .StoneAtom662235"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1667,7 +1667,8 @@
     "SwarthyStrike77": 3,
     "oruraw": 3,
     "Itz_Luxn001": 6,
-    "h1d1": 1
+    "h1d1": 1,
+    ".StoneAtom662235": 1
   },
   "kitStats": {
     "pvp": 3162,
@@ -1691,7 +1692,7 @@
     "food": 289,
     "glass": 209,
     "elytra": 1266,
-    "redstone": 710,
+    "redstone": 711,
     "quartz": 113,
     "highway": 194,
     "gap": 193,
