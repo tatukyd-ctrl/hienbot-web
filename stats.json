@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:48:55 14/3/2026",
+  "lastUpdated": "13:49:08 14/3/2026",
   "totalKits": 112203,
   "todayKits": 4,
   "onlineCount": 19,
@@ -12,7 +12,7 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 25
   },
-  "tps": "10.0",
+  "tps": "9.0",
   "ping": 215,
   "topUsers": [
     {
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:47] [BOT] <0_HienBot> **StreW**: i can help",
-    "[06:47] <TKoyasu> ye that bastard destroy my base while i was offline",
-    "[06:47] [BOT] <0_HienBot> **TKoyasu**: ye that bastard destroy my base while i was offline",
-    "[06:47] <AlloJr> yea",
-    "[06:47] [BOT] <0_HienBot> **AlloJr**: yea",
-    "[06:48] <TKoyasu> am gonna fucking kill him someday",
-    "[06:48] [BOT] <0_HienBot> **TKoyasu**: am gonna fucking kill him someday",
-    "[06:48] <MoooMC> i chunk banned hienbot so now its 0_hienbot",
-    "[06:48] [BOT] <0_HienBot> **MoooMC**: i chunk banned hienbot so now its 0_hienbot",
-    "[06:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:48] <AlloJr> can i come too?",
     "[06:48] [BOT] <0_HienBot> **AlloJr**: can i come too?",
     "[06:48] <TKoyasu> he keep fucking left when am tryna fight him",
     "[06:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +97,18 @@
     "[06:48] To ClownPvp777: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:48] [BOT] <0_HienBot> **Bot to ClownPvp777**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:48] [8b8t] >> Request sent to ClownPvp777",
-    "[06:48] [8b8t] >> Teleporting..."
+    "[06:48] [8b8t] >> Teleporting...",
+    "[06:48] [8b8t] >> You have killed yourself!",
+    "[06:48] <hgxxfif12> stash",
+    "[06:48] [BOT] <0_HienBot> **hgxxfif12**: stash",
+    "[06:48] [8b8t] >> Teleporting to home 0...",
+    "[06:49] <MoooMC> wait thats a great idea make a bot give it bot rank and make it distribute kits and make it log the cords its teleported to",
+    "[06:49] [8b8t] >> Teleporting to home 2...",
+    "[06:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:49] To hgxxfif12: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:49] To hgxxfif12: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[06:49] [BOT] <0_HienBot> **Bot to hgxxfif12**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1651,7 +1651,8 @@
     "expertoast226": 1,
     "Keromix": 7,
     "StreW": 1,
-    "ClownPvp777": 3
+    "ClownPvp777": 3,
+    "hgxxfif12": 1
   },
   "kitStats": {
     "pvp": 3090,
@@ -1666,7 +1667,7 @@
     "toolbox": 345,
     "wool": 378,
     "exp": 555,
-    "stash": 967,
+    "stash": 968,
     "ocean": 110,
     "build": 1090,
     "dye": 88,
