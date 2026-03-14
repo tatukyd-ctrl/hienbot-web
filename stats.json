@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "05:46:09 15/3/2026",
-  "totalKits": 112780,
-  "todayKits": 581,
+  "lastUpdated": "05:46:28 15/3/2026",
+  "totalKits": 112781,
+  "todayKits": 582,
   "onlineCount": 35,
   "peakPlayers": 59,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "01:49:39 15/3/2026",
     "avg": 33
   },
-  "tps": "10.0",
-  "ping": 203,
+  "tps": "8.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3613
+      "count": 3614
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[22:44] [BOT] <0_HienBot> **Bot to Blicks_**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[22:44] <.Asteroid_Sub> survival",
-    "[22:44] [8b8t] >> Teleporting to home 0...",
-    "[22:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:44] [8b8t] >> Teleporting to home 1...",
-    "[22:44] To .Asteroid_Sub: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:44] [BOT] <0_HienBot> **Bot to .Asteroid_Sub**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[22:44] To .Asteroid_Sub: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[22:44] [BOT] <0_HienBot> >Type invite for invite rewards info",
-    "[22:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[22:44] [8b8t] >> Request sent to .Asteroid_Sub",
-    "[22:44] [8b8t] >> Teleporting...",
-    "[22:44] [8b8t] >> You have killed yourself!",
-    "[22:44] You cannot be above the nether roof!",
-    "[22:45] To .Asteroid_Sub: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[22:45] [8b8t] >> Please do not spam.",
     "[22:45] processor has completed the challenge [Hot Tourist Destinations]",
     "[22:45] [BOT] <0_HienBot> >Hey MonkeBot!",
@@ -108,7 +93,22 @@
     "[22:46] Blicks_ Whispers: list",
     "[22:46] To Blicks_: Hello Blicks_!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[22:46] [BOT] <0_HienBot> **Blicks_**: list",
-    "[22:46] <YeralG11> pasen cords de un portal al end"
+    "[22:46] <YeralG11> pasen cords de un portal al end",
+    "[22:46] [BOT] <0_HienBot> **YeralG11**: pasen cords de un portal al end",
+    "[22:46] Blicks_ Whispers: survival",
+    "[22:46] [8b8t] >> Teleporting to home 0...",
+    "[22:46] [8b8t] >> Teleporting to home 1...",
+    "[22:46] [BOT] <0_HienBot> **Blicks_**: survival",
+    "[22:46] To Blicks_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[22:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:46] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[22:46] To Blicks_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:46] [BOT] <0_HienBot> **Bot to Blicks_**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[22:46] [Ultra] <Kimaru> terminamos el niko vamooo",
+    "[22:46] [8b8t] >> Request sent to Blicks_",
+    "[22:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[22:46] [BOT] <0_HienBot> >Try list to see available kits",
+    "[22:46] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1697,12 +1697,12 @@
     "YeralG11": 2,
     "prosnail123": 1,
     "processor": 1,
-    "Blicks_": 1
+    "Blicks_": 2
   },
   "kitStats": {
     "pvp": 3246,
     "raid": 906,
-    "survival": 3613,
+    "survival": 3614,
     "shulker": 1243,
     "music": 356,
     "terracotta": 54,
