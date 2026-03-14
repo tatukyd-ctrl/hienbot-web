@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:08:08 14/3/2026",
+  "lastUpdated": "12:08:38 14/3/2026",
   "totalKits": 112182,
   "todayKits": 123,
   "onlineCount": 23,
@@ -12,7 +12,7 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 28
   },
-  "tps": "11.0",
+  "tps": "12.0",
   "ping": 209,
   "topUsers": [
     {
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:05] <KLMVR2378> i sent tpa",
-    "[05:05] [8b8t] >> Teleporting to home 0...",
-    "[05:05] [8b8t] >> Teleporting to home 2...",
-    "[05:05] [BOT] <0_HienBot> **krrish**: Redstone",
-    "[05:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:05] To krrish: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:06] To krrish: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[05:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:06] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[05:06] [8b8t] >> Request sent to krrish",
     "[05:06] [8b8t] >> Teleporting...",
     "[05:06] [8b8t] >> You have killed yourself!",
@@ -108,7 +98,17 @@
     "[05:07] <ryooq> tpa for pvp",
     "[05:07] [BOT] <0_HienBot> **ryooq**: tpa for pvp",
     "[05:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:08] [BOT] <0_HienBot> >Use /kill to kill yourself!"
+    "[05:08] [BOT] <0_HienBot> >Use /kill to kill yourself!",
+    "[05:08] <keivdeil> wait",
+    "[05:08] [8b8t] >> Teleporting to home 0...",
+    "[05:08] [BOT] <0_HienBot> **keivdeil**: wait",
+    "[05:08] [8b8t] >> Teleporting to home 1...",
+    "[05:08] To keivdeil: Your kit (wait) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:08] To keivdeil: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:08] [BOT] <0_HienBot> **Bot to keivdeil**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:08] [8b8t] >> Request sent to keivdeil",
+    "[05:08] [BOT] <0_HienBot> >Running low on supplies? Use survival"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1475,7 +1475,7 @@
     "Are8130": 2,
     "EksiReis": 2,
     "Kiuseka": 3,
-    "keivdeil": 60,
+    "keivdeil": 61,
     "4olk": 1,
     "KionYhamma": 4,
     "ashluvtheflex": 3,
@@ -1656,7 +1656,7 @@
     "raid": 885,
     "survival": 3480,
     "shulker": 1230,
-    "music": 338,
+    "music": 339,
     "terracotta": 54,
     "lightsources": 205,
     "tools": 1037,
