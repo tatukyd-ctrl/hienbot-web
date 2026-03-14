@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:26:48 14/3/2026",
+  "lastUpdated": "16:27:08 14/3/2026",
   "totalKits": 112287,
   "todayKits": 88,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 25
   },
-  "tps": "13.0",
-  "ping": 218,
+  "tps": "9.0",
+  "ping": 245,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3500
+      "count": 3501
     },
     {
       "name": "pvp",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:26] <keivdeil> sorry",
-    "[09:26] [BOT] <0_HienBot> **keivdeil**: sorry",
-    "[09:26] <037k> brooooo",
-    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:26] [BOT] <0_HienBot> >Want free items? Just type survival",
-    "[09:26] <keivdeil> is a crystal aura",
-    "[09:26] [BOT] <0_HienBot> **keivdeil**: is a crystal aura",
-    "[09:26] <037k> drop it me totem",
-    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:26] SuryaNandan has made the advancement [Voluntary Exile]",
-    "[09:26] [8b8t] >> You have killed yourself!",
-    "[09:26] [8b8t] >> The TPA request you sent to Jackbit4 was successfully canceled.",
-    "[09:26] <037k> totem",
-    "[09:26] [8b8t] >> Teleporting to home 0...",
-    "[09:26] <Klisster> survival",
-    "[09:26] To Klisster: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[09:26] [BOT] <0_HienBot> **037k**: totem",
-    "[09:26] [8b8t] >> Teleporting to home 1...",
-    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:26] To 037k: Your kit (totem) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:26] <037k> drop",
@@ -108,7 +88,27 @@
     "[09:26] [8b8t] >> Request sent to 037k",
     "[09:26] [BOT] <0_HienBot> >Get fully equipped with pvp",
     "[09:26] [8b8t] >> Teleporting...",
-    "[09:26] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[09:26] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[09:26] <037k> yo",
+    "[09:26] [8b8t] >> You have killed yourself!",
+    "[09:26] [BOT] <0_HienBot> **037k**: yo",
+    "[09:26] To 037k: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[09:26] <Klisster> survival",
+    "[09:26] [8b8t] >> Teleporting to home 0...",
+    "[09:26] [BOT] <0_HienBot> **Bot to 037k**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[09:26] [8b8t] >> Teleporting to home 1...",
+    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:26] To Klisster: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:26] <037k> omg",
+    "[09:26] To Klisster: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:26] [BOT] <0_HienBot> **037k**: omg",
+    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:26] [8b8t] >> Request sent to Klisster",
+    "[09:27] <Jackbit4> yes surta",
+    "[09:27] [BOT] <0_HienBot> **Jackbit4**: yes surta",
+    "[09:27] <Jackbit4> hey",
+    "[09:27] [BOT] <0_HienBot> **Jackbit4**: hey"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1657,12 +1657,13 @@
     "sanidhya00": 14,
     "ahhbilly5539": 8,
     "JansLoveRoxivity": 3,
-    "037k": 1
+    "037k": 1,
+    "Klisster": 1
   },
   "kitStats": {
     "pvp": 3109,
     "raid": 892,
-    "survival": 3500,
+    "survival": 3501,
     "shulker": 1233,
     "music": 341,
     "terracotta": 54,
