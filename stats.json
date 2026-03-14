@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:28:38 14/3/2026",
+  "lastUpdated": "21:29:08 14/3/2026",
   "totalKits": 112503,
   "todayKits": 304,
-  "onlineCount": 40,
+  "onlineCount": 41,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "20:12:47 14/3/2026",
     "avg": 27
   },
-  "tps": "2.0",
-  "ping": 204,
+  "tps": "9.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3543
+      "count": 3544
     },
     {
       "name": "pvp",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:25] <.StoneAtom662235> list",
-    "[14:25] To .StoneAtom662235: Hello .StoneAtom662235!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:25] [BOT] <0_HienBot> **.StoneAtom662235**: list",
-    "[14:25] <.StoneAtom662235> build",
-    "[14:25] To .StoneAtom662235: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[14:25] [BOT] <0_HienBot> **.StoneAtom662235**: build",
-    "[14:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:26] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
-    "[14:26] <CyberOne6ty> can u make me the same table up?",
-    "[14:26] [BOT] <0_HienBot> **CyberOne6ty**: can u make me the same table up?",
-    "[14:26] [8b8t] >> You have killed yourself!",
-    "[14:26] [8b8t] >> The TPA request you sent to matiasypunto2010 was successfully canceled.",
-    "[14:26] Demon_of_creeper has made the advancement [Not Quite \"Nine\" Lives]",
-    "[14:26] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[14:26] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:27] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[14:27] <Zeilex7> auf der heide blüht ein kleines blümelein",
-    "[14:27] [BOT] <0_HienBot> **Zeilex7**: auf der heide blht ein kleines blmelein",
-    "[14:27] [8b8t] >> Please do not spam.",
-    "[14:27] <Zeilex7> und das heißt",
     "[14:27] [BOT] <0_HienBot> **Zeilex7**: und das heit",
     "[14:27] <Zeilex7> adolf hitler",
     "[14:27] <CyberOne6ty> dreamer",
@@ -108,7 +88,27 @@
     "[14:28] <CyberOne6ty> does meteor have a bot that can work for u?",
     "[14:28] [BOT] <0_HienBot> **CyberOne6ty**: does meteor have a bot that can work for u?",
     "[14:28] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:28] [BOT] <0_HienBot> >Want free items? Just type survival"
+    "[14:28] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[14:28] <Mrcookie12346> survival",
+    "[14:28] [BOT] <0_HienBot> **Mrcookie12346**: survival",
+    "[14:28] [8b8t] >> Teleporting to home 0...",
+    "[14:28] [8b8t] >> Teleporting to home 1...",
+    "[14:28] To Mrcookie12346: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:28] <matiasypunto2010> survival",
+    "[14:28] To matiasypunto2010: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[14:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:28] [8b8t] >> Please do not spam.",
+    "[14:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:28] To Mrcookie12346: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:28] [BOT] <0_HienBot> **Bot to Mrcookie12346**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:28] [8b8t] >> Request sent to Mrcookie12346",
+    "[14:29] <CyberOne6ty> do u have a minecart?",
+    "[14:29] [BOT] <0_HienBot> **CyberOne6ty**: do u have a minecart?",
+    "[14:29] <froggyh8103> kit froggyh8103",
+    "[14:29] To froggyh8103: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[14:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:29] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1671,12 +1671,13 @@
     ".StoneAtom662235": 4,
     "matiasypunto2010": 4,
     "Avazzy": 6,
-    "Azertyfox9": 1
+    "Azertyfox9": 1,
+    "Mrcookie12346": 1
   },
   "kitStats": {
     "pvp": 3175,
     "raid": 896,
-    "survival": 3543,
+    "survival": 3544,
     "shulker": 1237,
     "music": 348,
     "terracotta": 54,
