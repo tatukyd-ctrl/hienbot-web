@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:54:08 14/3/2026",
-  "totalKits": 112345,
-  "todayKits": 146,
-  "onlineCount": 25,
+  "lastUpdated": "17:54:25 14/3/2026",
+  "totalKits": 112346,
+  "todayKits": 147,
+  "onlineCount": 24,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 25
   },
-  "tps": "13.0",
-  "ping": 204,
+  "tps": "10.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3131
+      "count": 3132
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:53] [8b8t] >> You have killed yourself!",
-    "[10:53] To Sui0912: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:53] [BOT] <0_HienBot> **Bot to Sui0912**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:53] <Sui0912> pvp",
-    "[10:53] To Sui0912: You're on cooldown, try again in 33 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:53] [BOT] <0_HienBot> >Hmmmmmmmmm",
-    "[10:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:53] <CyberOne6ty> i tried",
-    "[10:53] [BOT] <0_HienBot> **CyberOne6ty**: i tried",
-    "[10:53] <Sui0912> !pvp",
-    "[10:53] To Sui0912: You're on cooldown, try again in 27 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:53] [BOT] <0_HienBot> **Bot to Sui0912**: You're on cooldown, try again in 27 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:53] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
@@ -108,7 +96,19 @@
     "[10:54] <CyberOne6ty> do i put crystal when i do?",
     "[10:54] [BOT] <0_HienBot> **Sui0912**: i know hoe to crystal",
     "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:54] <Sui0912> !pvp",
+    "[10:54] [8b8t] >> Teleporting to home 0...",
+    "[10:54] [BOT] <0_HienBot> **Sui0912**: !pvp",
+    "[10:54] [8b8t] >> Teleporting to home 1...",
+    "[10:54] To Sui0912: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:54] To Sui0912: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:54] [BOT] <0_HienBot> **Bot to Sui0912**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:54] <CyberOne6ty> crystal aura",
+    "[10:54] [8b8t] >> Request sent to Sui0912",
+    "[10:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:54] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1661,10 +1661,10 @@
     "Klisster": 7,
     ".Mali823828": 1,
     "pouinsano875": 1,
-    "Sui0912": 1
+    "Sui0912": 2
   },
   "kitStats": {
-    "pvp": 3131,
+    "pvp": 3132,
     "raid": 892,
     "survival": 3511,
     "shulker": 1234,
