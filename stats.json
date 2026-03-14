@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:55:39 15/3/2026",
-  "totalKits": 112804,
-  "todayKits": 605,
-  "onlineCount": 40,
+  "lastUpdated": "06:55:54 15/3/2026",
+  "totalKits": 112805,
+  "todayKits": 606,
+  "onlineCount": 39,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3250
+      "count": 3251
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:53] To ls_444: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:53] [BOT] <0_HienBot> **Bot to ls_444**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:53] [8b8t] >> Request sent to ls_444",
-    "[23:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:53] [8b8t] >> Teleporting...",
-    "[23:54] [8b8t] >> You have killed yourself!",
-    "[23:54] To ls_444: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:54] [BOT] <0_HienBot> **Bot to ls_444**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:54] [8b8t] >> processor would like to teleport to you /tpayes USERNAME /tpano USERNAME",
-    "[23:54] <SinMente> fuck",
-    "[23:54] [BOT] <0_HienBot> **SinMente**: fuck",
     "[23:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:54] <GalaxyJ4ck> ing ur mom",
     "[23:54] [BOT] <0_HienBot> **GalaxyJ4ck**: ing ur mom",
@@ -108,7 +97,18 @@
     "[23:55] [BOT] <0_HienBot> **FearceMC**: ?kit",
     "[23:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:55] <8b8tstrlord> hi guys",
-    "[23:55] [BOT] <0_HienBot> **8b8tstrlord**: hi guys"
+    "[23:55] [BOT] <0_HienBot> **8b8tstrlord**: hi guys",
+    "[23:55] <FearceMC> !pvp",
+    "[23:55] [8b8t] >> Teleporting to home 0...",
+    "[23:55] [BOT] <0_HienBot> **FearceMC**: !pvp",
+    "[23:55] [8b8t] >> Teleporting to home 1...",
+    "[23:55] To FearceMC: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:55] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:55] To FearceMC: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:55] [BOT] <0_HienBot> **Bot to FearceMC**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:55] [8b8t] >> Request sent to FearceMC",
+    "[23:55] [8b8t] >> Teleporting...",
+    "[23:55] [BOT] <0_HienBot> >Use list to choose your kit"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1700,10 +1700,11 @@
     "Blicks_": 3,
     "Gabrielxs__orr": 1,
     "zFil1pe": 1,
-    "SCHYZO_2": 1
+    "SCHYZO_2": 1,
+    "FearceMC": 1
   },
   "kitStats": {
-    "pvp": 3250,
+    "pvp": 3251,
     "raid": 906,
     "survival": 3620,
     "shulker": 1243,
