@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:45:09 15/3/2026",
+  "lastUpdated": "06:45:39 15/3/2026",
   "totalKits": 112793,
   "todayKits": 594,
-  "onlineCount": 34,
+  "onlineCount": 36,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "01:49:39 15/3/2026",
     "avg": 33
   },
-  "tps": "10.0",
-  "ping": 200,
+  "tps": "11.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:43] [BOT] <0_HienBot> **processor**: no silk pick?",
-    "[23:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:43] <nice_______2> no",
-    "[23:43] <processor> tsk tsk",
-    "[23:43] [BOT] <0_HienBot> **nice_______2**: no",
-    "[23:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:43] <8b8tstrlord> survival",
-    "[23:43] [8b8t] >> Teleporting to home 0...",
     "[23:43] [BOT] <0_HienBot> **8b8tstrlord**: survival",
     "[23:43] [8b8t] >> Teleporting to home 1...",
     "[23:43] To 8b8tstrlord: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
@@ -108,7 +100,15 @@
     "[23:44] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[23:44] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
     "[23:44] <aryanthegoat_TV> can i use an echest i need to fix my inv",
-    "[23:44] [BOT] <0_HienBot> **aryanthegoat_TV**: can i use an echest i need to fix my inv"
+    "[23:44] [BOT] <0_HienBot> **aryanthegoat_TV**: can i use an echest i need to fix my inv",
+    "[23:45] [BOT] <0_HienBot> >The server is updated to the latest version, but is supported for users with versions from 1.7.2 to 1.21.11",
+    "[23:45] <AlloJr> i need cobwebs",
+    "[23:45] [BOT] <0_HienBot> **AlloJr**: i need cobwebs",
+    "[23:45] <processor> end",
+    "[23:45] [8b8t] >> Teleporting to home 0...",
+    "[23:45] [BOT] <0_HienBot> **processor**: end",
+    "[23:45] [8b8t] >> Teleporting to home 5...",
+    "[23:45] To processor: Your kit (end) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1696,7 +1696,7 @@
     "adlu": 1,
     "YeralG11": 2,
     "prosnail123": 1,
-    "processor": 1,
+    "processor": 2,
     "Blicks_": 3,
     "Gabrielxs__orr": 1
   },
@@ -1729,6 +1729,6 @@
     "mineral": 430,
     "gterracotta": 39,
     "wood": 452,
-    "end": 311
+    "end": 312
   }
 }
