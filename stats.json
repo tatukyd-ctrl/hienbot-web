@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:03:30 14/3/2026",
+  "lastUpdated": "17:03:38 14/3/2026",
   "totalKits": 112314,
   "todayKits": 115,
   "onlineCount": 29,
@@ -12,7 +12,7 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 25
   },
-  "tps": "9.0",
+  "tps": "8.0",
   "ping": 211,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3116
+      "count": 3117
     },
     {
       "name": "elytra",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:02] [BOT] <0_HienBot> >Hey htpipo!",
-    "[10:02] <keivdeil> who wants to see my house should send tpa",
-    "[10:02] [BOT] <0_HienBot> **keivdeil**: who wants to see my house should send tpa",
-    "[10:02] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[10:02] <ryooq> new meta",
     "[10:02] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +104,11 @@
     "[10:03] To .Asteroid_Sub: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:03] [BOT] <0_HienBot> **Bot to .Asteroid_Sub**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[10:03] [8b8t] >> Request sent to .Asteroid_Sub",
-    "[10:03] [8b8t] >> Teleporting..."
+    "[10:03] [8b8t] >> Teleporting...",
+    "[10:03] [8b8t] >> You have killed yourself!",
+    "[10:03] To .Asteroid_Sub: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:03] [BOT] <0_HienBot> **Bot to .Asteroid_Sub**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:03] <SuryaNandan> pvp"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1616,7 +1616,7 @@
     "MoooMC": 18,
     "introvert_": 1,
     "Doctorchris2013": 26,
-    "SuryaNandan": 8,
+    "SuryaNandan": 9,
     "O_HiienBot": 21,
     "BNselmantp": 8,
     "Ibrame78": 2,
@@ -1663,7 +1663,7 @@
     "pouinsano875": 1
   },
   "kitStats": {
-    "pvp": 3116,
+    "pvp": 3117,
     "raid": 892,
     "survival": 3505,
     "shulker": 1234,
