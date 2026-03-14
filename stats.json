@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:04:38 14/3/2026",
-  "totalKits": 112475,
-  "todayKits": 276,
+  "lastUpdated": "21:05:04 14/3/2026",
+  "totalKits": 112476,
+  "todayKits": 277,
   "onlineCount": 29,
   "peakPlayers": 42,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "20:12:47 14/3/2026",
     "avg": 27
   },
-  "tps": "12.0",
-  "ping": 203,
+  "tps": "9.0",
+  "ping": 250,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3171
+      "count": 3172
     },
     {
       "name": "elytra",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:03] [BOT] <0_HienBot> **Bot to Avazzy**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[14:03] <CyberOne6ty> k",
-    "[14:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:03] <Dreamers> bet",
-    "[14:03] [BOT] <0_HienBot> **Dreamers**: bet",
-    "[14:03] <Doctorchris2013> how do i use the donkey dupe",
-    "[14:03] [BOT] <0_HienBot> **Doctorchris2013**: how do i use the donkey dupe",
-    "[14:03] <CyberOne6ty> oh",
-    "[14:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:04] <matiasypunto2010> survival",
-    "[14:04] [8b8t] >> Teleporting to home 0...",
-    "[14:04] [BOT] <0_HienBot> **matiasypunto2010**: survival",
-    "[14:04] [8b8t] >> Teleporting to home 1...",
-    "[14:04] To matiasypunto2010: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[14:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:04] <.Patrogaming8719> list",
     "[14:04] To .Patrogaming8719: Hello .Patrogaming8719!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
@@ -108,7 +94,21 @@
     "[14:04] To .Patrogaming8719: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[14:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:04] [BOT] <0_HienBot> >Use list to choose your kit"
+    "[14:04] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[14:04] [8b8t] >> You have killed yourself!",
+    "[14:04] [8b8t] >> The TPA request you sent to matiasypunto2010 was successfully canceled.",
+    "[14:04] <.Patrogaming8719> pvp",
+    "[14:04] [8b8t] >> Teleporting to home 0...",
+    "[14:04] [BOT] <0_HienBot> **.Patrogaming8719**: pvp",
+    "[14:04] [8b8t] >> Teleporting to home 1...",
+    "[14:04] To .Patrogaming8719: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:04] To .Patrogaming8719: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:04] [BOT] <0_HienBot> **Bot to .Patrogaming8719**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:04] [8b8t] >> Request sent to .Patrogaming8719",
+    "[14:04] [8b8t] >> Teleporting...",
+    "[14:05] froggyh8103 Whispers: hey um like i got a problem can u tpa rq",
+    "[14:05] [BOT] <0_HienBot> **froggyh8103**: hey um like i got a problem can u tpa rq"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1629,7 +1629,7 @@
     "CreepyClash18": 1,
     "NeilB16": 5,
     "RaveJave777": 37,
-    ".Patrogaming8719": 13,
+    ".Patrogaming8719": 14,
     "Yonkela": 2,
     "snowbed2": 2,
     "ThatCubeMan": 72,
@@ -1673,7 +1673,7 @@
     "Avazzy": 2
   },
   "kitStats": {
-    "pvp": 3171,
+    "pvp": 3172,
     "raid": 896,
     "survival": 3536,
     "shulker": 1237,
