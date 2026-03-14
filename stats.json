@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "01:18:32 15/3/2026",
+  "lastUpdated": "01:18:39 15/3/2026",
   "totalKits": 112632,
   "todayKits": 433,
-  "onlineCount": 53,
+  "onlineCount": 52,
   "peakPlayers": 57,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "01:05:09 15/3/2026",
     "avg": 30
   },
-  "tps": "5.0",
+  "tps": "8.0",
   "ping": 236,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3573
+      "count": 3574
     },
     {
       "name": "pvp",
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[18:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[18:18] <CyberOne6ty> i learnt how to dupe",
     "[18:18] [BOT] <0_HienBot> **CyberOne6ty**: i learnt how to dupe",
     "[18:18] <Jackbit4> how",
     "[18:18] [Ultra] <KurtzMC> bien eleganton",
@@ -108,7 +105,10 @@
     "[18:18] [8b8t] >> Request sent to .Pichuckrak",
     "[18:18] [8b8t] >> Teleporting...",
     "[18:18] <Jackbit4> ok",
-    "[18:18] [BOT] <0_HienBot> **Jackbit4**: ok"
+    "[18:18] [BOT] <0_HienBot> **Jackbit4**: ok",
+    "[18:18] [8b8t] >> You have killed yourself!",
+    "[18:18] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
+    "[18:18] <ls_444> kit survival"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1684,12 +1684,12 @@
     "nvxcs": 4,
     "_mzxx_": 1,
     "TrippieW": 1,
-    "ls_444": 2
+    "ls_444": 3
   },
   "kitStats": {
     "pvp": 3194,
     "raid": 902,
-    "survival": 3573,
+    "survival": 3574,
     "shulker": 1240,
     "music": 350,
     "terracotta": 54,
