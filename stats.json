@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:58:09 15/3/2026",
+  "lastUpdated": "06:58:39 15/3/2026",
   "totalKits": 112806,
   "todayKits": 607,
   "onlineCount": 36,
@@ -12,7 +12,7 @@
     "maxTime": "01:49:39 15/3/2026",
     "avg": 33
   },
-  "tps": "14.0",
+  "tps": "10.0",
   "ping": 202,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3620
+      "count": 3621
     },
     {
       "name": "pvp",
@@ -79,27 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:57] [8b8t] >> You have killed yourself!",
-    "[23:57] To FearceMC: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:57] [BOT] <0_HienBot> **Bot to FearceMC**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[23:57] <amber_092> im gonna need a portal..",
-    "[23:57] [BOT] <0_HienBot> **amber_092**: im gonna need a portal..",
-    "[23:57] <nice_______2> are you new or smth",
-    "[23:57] [BOT] <0_HienBot> **nice_______2**: are you new or smth",
-    "[23:57] <amber_092> yeah",
-    "[23:57] [BOT] <0_HienBot> **amber_092**: yeah",
-    "[23:57] <nice_______2> i can give you kits",
-    "[23:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:57] <amber_092> just started 2day",
-    "[23:57] [BOT] <0_HienBot> **amber_092**: just started 2day",
-    "[23:57] <nice_______2> damn",
-    "[23:57] [BOT] <0_HienBot> **nice_______2**: damn",
-    "[23:57] <FearceMC> ?kit",
-    "[23:57] To FearceMC: Hello FearceMC!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:57] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[23:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:57] <nice_______2> do ?kit Survival",
     "[23:58] [BOT] <0_HienBot> **nice_______2**: do ?kit Survival",
     "[23:58] <nice_______2> to get a kit",
     "[23:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +87,28 @@
     "[23:58] <FearceMC> !lot Survival",
     "[23:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[23:58] <amber_092> k",
-    "[23:58] [BOT] <0_HienBot> **amber_092**: k"
+    "[23:58] [BOT] <0_HienBot> **amber_092**: k",
+    "[23:58] <amber_092> ?kit survival",
+    "[23:58] [8b8t] >> Teleporting to home 0...",
+    "[23:58] [BOT] <0_HienBot> **amber_092**: ?kit survival",
+    "[23:58] [8b8t] >> Teleporting to home 1...",
+    "[23:58] To amber_092: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:58] <nice_______2> i recommend using a hack client",
+    "[23:58] [BOT] <0_HienBot> **nice_______2**: i recommend using a hack client",
+    "[23:58] To amber_092: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:58] [BOT] <0_HienBot> **Bot to amber_092**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[23:58] [8b8t] >> Request sent to amber_092",
+    "[23:58] <nice_______2> like meteor",
+    "[23:58] [BOT] <0_HienBot> **nice_______2**: like meteor",
+    "[23:58] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:58] <nice_______2> to use elytra fly",
+    "[23:58] [BOT] <0_HienBot> **nice_______2**: to use elytra fly",
+    "[23:58] <processor> hacked clients are banneable",
+    "[23:58] [BOT] <0_HienBot> **processor**: hacked clients are banneable",
+    "[23:58] <AlloJr> meteor isnt",
+    "[23:58] [BOT] <0_HienBot> **AlloJr**: meteor isnt"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1701,12 +1701,13 @@
     "Gabrielxs__orr": 1,
     "zFil1pe": 1,
     "SCHYZO_2": 1,
-    "FearceMC": 2
+    "FearceMC": 2,
+    "amber_092": 1
   },
   "kitStats": {
     "pvp": 3251,
     "raid": 906,
-    "survival": 3620,
+    "survival": 3621,
     "shulker": 1243,
     "music": 357,
     "terracotta": 54,
