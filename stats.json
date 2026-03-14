@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:25:08 14/3/2026",
+  "lastUpdated": "11:25:38 14/3/2026",
   "totalKits": 112149,
   "todayKits": 90,
-  "onlineCount": 27,
+  "onlineCount": 26,
   "peakPlayers": 47,
   "playerStats": {
     "min": 19,
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 29
   },
-  "tps": "10.0",
-  "ping": 278,
+  "tps": "12.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3074
+      "count": 3075
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:24] [8b8t] >> Teleporting...",
-    "[04:24] <Siffrow> pvp",
-    "[04:24] To Siffrow: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[04:24] [BOT] <0_HienBot> **Siffrow**: pvp",
-    "[04:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:24] [8b8t] >> You have killed yourself!",
-    "[04:24] To .noahdiamonds: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:24] [BOT] <0_HienBot> **Bot to .noahdiamonds**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:24] [XMAS2025] <Upcast> qfuee",
-    "[04:24] [BOT] <0_HienBot> **kendricklover132**: qfuee",
-    "[04:24] <.Hamoudi9416> shulker",
     "[04:24] [8b8t] >> Teleporting to home 0...",
     "[04:24] [BOT] <0_HienBot> **.Hamoudi9416**: shulker",
     "[04:24] [8b8t] >> Teleporting to home 6...",
@@ -108,7 +96,19 @@
     "[04:25] <.Hamoudi9416> elytra",
     "[04:25] To .Hamoudi9416: You're on cooldown, try again in 27 seconds! Don't forget to join dsc.gg/hienbot",
     "[04:25] [BOT] <0_HienBot> **.Hamoudi9416**: elytra",
-    "[04:25] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[04:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:25] <Siffrow> pvp",
+    "[04:25] [8b8t] >> Teleporting to home 0...",
+    "[04:25] [BOT] <0_HienBot> **Siffrow**: pvp",
+    "[04:25] [8b8t] >> Teleporting to home 1...",
+    "[04:25] To Siffrow: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:25] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[04:25] To Siffrow: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:25] [BOT] <0_HienBot> **Bot to Siffrow**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:25] [8b8t] >> You already have a pending request",
+    "[04:25] .noahdiamonds has reached the goal [Sky's the Limit]",
+    "[04:25] [BOT] <0_HienBot> >Need gear? Type pvp to get started!"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1646,10 +1646,10 @@
     "h4d4": 4,
     "h2d2": 2,
     "GalaxyJ4ck": 8,
-    "Siffrow": 1
+    "Siffrow": 2
   },
   "kitStats": {
-    "pvp": 3074,
+    "pvp": 3075,
     "raid": 880,
     "survival": 3476,
     "shulker": 1227,
