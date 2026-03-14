@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:09:38 14/3/2026",
-  "totalKits": 112182,
-  "todayKits": 123,
+  "lastUpdated": "12:10:06 14/3/2026",
+  "totalKits": 112183,
+  "todayKits": 124,
   "onlineCount": 24,
   "peakPlayers": 47,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 28
   },
-  "tps": "13.0",
-  "ping": 208,
+  "tps": "8.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3084
+      "count": 3085
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:07] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me",
-    "[05:07] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[05:07] <ryooq> tpa for pvp",
-    "[05:07] [BOT] <0_HienBot> **ryooq**: tpa for pvp",
-    "[05:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:08] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[05:08] <keivdeil> wait",
-    "[05:08] [8b8t] >> Teleporting to home 0...",
-    "[05:08] [BOT] <0_HienBot> **keivdeil**: wait",
-    "[05:08] [8b8t] >> Teleporting to home 1...",
     "[05:08] To keivdeil: Your kit (wait) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[05:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:08] To keivdeil: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +97,18 @@
     "[05:09] <Keromix> help",
     "[05:09] To Keromix: Cmds: (Kit you want), lang, info , ping, tps, player, bestping, worstping, discord, link, status, gay | dsc.gg/hienbot",
     "[05:09] [BOT] <0_HienBot> **Keromix**: help",
-    "[05:09] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[05:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:09] <Keromix> kit pvp",
+    "[05:09] [8b8t] >> Teleporting to home 0...",
+    "[05:09] [8b8t] >> Teleporting to home 1...",
+    "[05:09] [BOT] <0_HienBot> **Keromix**: kit pvp",
+    "[05:09] To Keromix: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:09] To Keromix: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:09] [BOT] <0_HienBot> **Bot to Keromix**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:09] [8b8t] >> Request sent to Keromix",
+    "[05:10] [8b8t] >> Teleporting...",
+    "[05:10] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1649,10 +1649,10 @@
     "Siffrow": 3,
     "krrish": 16,
     "expertoast226": 1,
-    "Keromix": 3
+    "Keromix": 4
   },
   "kitStats": {
-    "pvp": 3084,
+    "pvp": 3085,
     "raid": 885,
     "survival": 3480,
     "shulker": 1230,
