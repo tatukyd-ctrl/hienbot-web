@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:12:55 14/3/2026",
+  "lastUpdated": "17:13:08 14/3/2026",
   "totalKits": 112323,
   "todayKits": 124,
-  "onlineCount": 30,
+  "onlineCount": 1,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 25
   },
-  "tps": "9.0",
-  "ping": 225,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:12] [BOT] <0_HienBot> **keivdeil**: XDD",
-    "[10:12] [8b8t] >> Teleporting...",
-    "[10:12] <CyberOne6ty> !wood",
-    "[10:12] To CyberOne6ty: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[10:12] [BOT] <0_HienBot> **CyberOne6ty**: !wood",
-    "[10:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:12] <.Asteroid_Sub> pvp",
-    "[10:12] To .Asteroid_Sub: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[10:12] [BOT] <0_HienBot> **.Asteroid_Sub**: pvp",
-    "[10:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:12] [8b8t] >> You have killed yourself!",
-    "[10:12] You cannot be above the nether roof!",
     "[10:12] <Doctorchris2013> wood",
     "[10:12] [8b8t] >> Teleporting to home 0...",
     "[10:12] [BOT] <0_HienBot> **Doctorchris2013**: wood",
@@ -108,7 +95,20 @@
     "[10:12] To .Asteroid_Sub: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[10:12] [8b8t] >> Please do not spam.",
     "[10:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:12] <ryooq> survival"
+    "[10:12] <ryooq> survival",
+    "[10:12] <037k> yee",
+    "[10:12] To ryooq: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[10:12] [BOT] <0_HienBot> **ryooq**: survival",
+    "[10:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:12] [8b8t] >> You have killed yourself!",
+    "[10:13] <.Asteroid_Sub> tools",
+    "[10:13] [8b8t] >> Teleporting to home 0...",
+    "[10:13] To Doctorchris2013: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:13] [BOT] <0_HienBot> **.Asteroid_Sub**: tools",
+    "[10:13] [8b8t] >> Teleporting to home 7...",
+    "[10:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:13] [8b8t] >> Use the command /login <password>."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1574,7 +1574,7 @@
     "Quartash": 6,
     "tooothless5689": 25,
     "kayz_09": 11,
-    ".Asteroid_Sub": 26,
+    ".Asteroid_Sub": 27,
     "6t5e": 2,
     "Itz_Luxn": 5,
     "SJYTpro": 1,
@@ -1670,7 +1670,7 @@
     "music": 343,
     "terracotta": 54,
     "lightsources": 207,
-    "tools": 1042,
+    "tools": 1043,
     "armortrims": 243,
     "toolbox": 350,
     "wool": 383,
