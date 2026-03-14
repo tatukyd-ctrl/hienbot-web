@@ -1,19 +1,19 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:07:09 15/3/2026",
+  "lastUpdated": "00:07:39 15/3/2026",
   "totalKits": 112602,
   "todayKits": 403,
-  "onlineCount": 43,
+  "onlineCount": 41,
   "peakPlayers": 51,
   "playerStats": {
     "min": 0,
     "minTime": "13:01:08 14/3/2026",
     "max": 51,
     "maxTime": "22:31:08 14/3/2026",
-    "avg": 29
+    "avg": 30
   },
-  "tps": "9.0",
-  "ping": 205,
+  "tps": "5.0",
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3568
+      "count": 3569
     },
     {
       "name": "pvp",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:05] [BOT] <0_HienBot> **Krayiken_**: mineral",
-    "[17:05] To Krayiken_: Your kit (mineral) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:05] To Krayiken_: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[17:05] [BOT] <0_HienBot> **Bot to Krayiken_**: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[17:06] <Krayiken_> build",
-    "[17:06] [8b8t] >> Teleporting to home 0...",
-    "[17:06] [8b8t] >> Teleporting to home 2...",
-    "[17:06] [BOT] <0_HienBot> **Krayiken_**: build",
-    "[17:06] To Krayiken_: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:06] To Krayiken_: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[17:06] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[17:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:06] <elrompecolas69> coord del portal end",
-    "[17:06] [BOT] <0_HienBot> **elrompecolas69**: coord del portal end",
-    "[17:06] <DeathZuka> coordenadas 0 0",
-    "[17:06] [BOT] <0_HienBot> **DeathZuka**: coordenadas 0 0",
-    "[17:06] <Krayiken_> stash",
     "[17:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[17:06] [8b8t] >> Teleporting to home 0...",
     "[17:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +89,26 @@
     "[17:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[17:06] <Krayiken_> 0_HienBot is out of everything?",
     "[17:06] [BOT] <0_HienBot> **Krayiken_**: 0_HienBot is out of everything?",
-    "[17:07] [BOT] <0_HienBot> >Running low on supplies? Use survival"
+    "[17:07] [BOT] <0_HienBot> >Running low on supplies? Use survival",
+    "[17:07] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[17:07] <Kacperozi13> stash",
+    "[17:07] [8b8t] >> Teleporting to home 0...",
+    "[17:07] [BOT] <0_HienBot> **Kacperozi13**: stash",
+    "[17:07] [8b8t] >> Teleporting to home 2...",
+    "[17:07] To Kacperozi13: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:07] To Kacperozi13: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[17:07] [BOT] <0_HienBot> **Bot to Kacperozi13**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[17:07] <Kacperozi13> survival",
+    "[17:07] [8b8t] >> Teleporting to home 0...",
+    "[17:07] [BOT] <0_HienBot> **Kacperozi13**: survival",
+    "[17:07] [8b8t] >> Teleporting to home 1...",
+    "[17:07] To Kacperozi13: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[17:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:07] To Kacperozi13: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:07] [BOT] <0_HienBot> **Bot to Kacperozi13**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[17:07] [8b8t] >> Request sent to Kacperozi13",
+    "[17:07] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1676,7 +1676,7 @@
     "NightGamer": 1,
     "animusito": 17,
     "h3d3": 5,
-    "Kacperozi13": 14,
+    "Kacperozi13": 16,
     "CaseIdontSeeYa": 1,
     "ThomTheTom": 1,
     "wodka": 7,
@@ -1688,7 +1688,7 @@
   "kitStats": {
     "pvp": 3192,
     "raid": 902,
-    "survival": 3568,
+    "survival": 3569,
     "shulker": 1240,
     "music": 350,
     "terracotta": 54,
@@ -1698,7 +1698,7 @@
     "toolbox": 363,
     "wool": 388,
     "exp": 571,
-    "stash": 988,
+    "stash": 989,
     "ocean": 115,
     "build": 1127,
     "dye": 89,
