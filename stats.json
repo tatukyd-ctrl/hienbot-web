@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:06:08 14/3/2026",
+  "lastUpdated": "21:06:38 14/3/2026",
   "totalKits": 112477,
   "todayKits": 278,
-  "onlineCount": 28,
+  "onlineCount": 29,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "20:12:47 14/3/2026",
     "avg": 27
   },
-  "tps": "7.0",
-  "ping": 203,
+  "tps": "9.0",
+  "ping": 215,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3536
+      "count": 3537
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:05] To Avazzy: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:05] [BOT] <0_HienBot> **Bot to Avazzy**: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:05] To Avazzy: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[14:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:05] <Avazzy> list",
-    "[14:05] To Avazzy: Hello Avazzy!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[14:05] [BOT] <0_HienBot> **Avazzy**: list",
-    "[14:05] froggyh8103 Whispers: u there?",
-    "[14:05] [BOT] <0_HienBot> **froggyh8103**: u there?",
-    "[14:05] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[14:05] <Avazzy> Dupe",
-    "[14:05] [8b8t] >> Teleporting to home 0...",
-    "[14:05] [BOT] <0_HienBot> **Avazzy**: Dupe",
     "[14:05] [8b8t] >> Teleporting to home 7...",
     "[14:05] To Avazzy: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[14:05] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +95,20 @@
     "[14:06] <froggyh8103> or a mdo",
     "[14:06] [BOT] <0_HienBot> >Use list to choose your kit",
     "[14:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:06] [8b8t] >> You have killed yourself!"
+    "[14:06] [8b8t] >> You have killed yourself!",
+    "[14:06] <froggyh8103> mpod",
+    "[14:06] [BOT] <0_HienBot> **froggyh8103**: mpod",
+    "[14:06] To Avazzy: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[14:06] [BOT] <0_HienBot> **Bot to Avazzy**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[14:06] <froggyh8103> mod",
+    "[14:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:06] <cappuccino_> survival",
+    "[14:06] [8b8t] >> Teleporting to home 0...",
+    "[14:06] [8b8t] >> Teleporting to home 1...",
+    "[14:06] [BOT] <0_HienBot> **cappuccino_**: survival",
+    "[14:06] To cappuccino_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:06] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1363,7 +1363,7 @@
     "SiC419AoR": 6,
     "LeWith1E": 2,
     "MineFlare": 18,
-    "cappuccino_": 74,
+    "cappuccino_": 75,
     ".Catan2181": 1,
     "mharyt_w": 10,
     "SergiolegendXD": 1,
@@ -1675,7 +1675,7 @@
   "kitStats": {
     "pvp": 3172,
     "raid": 896,
-    "survival": 3536,
+    "survival": 3537,
     "shulker": 1237,
     "music": 348,
     "terracotta": 54,
