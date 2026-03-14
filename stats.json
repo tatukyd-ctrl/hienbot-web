@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "00:01:39 15/3/2026",
+  "lastUpdated": "00:02:09 15/3/2026",
   "totalKits": 112597,
   "todayKits": 398,
-  "onlineCount": 41,
+  "onlineCount": 40,
   "peakPlayers": 51,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "22:31:08 14/3/2026",
     "avg": 29
   },
-  "tps": "8.0",
-  "ping": 209,
+  "tps": "9.0",
+  "ping": 239,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3566
+      "count": 3567
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[17:00] [BOT] <0_HienBot> >Use list to see all available kits!",
-    "[17:00] <BITROX006> raid",
-    "[17:00] [8b8t] >> You have killed yourself!",
-    "[17:00] [BOT] <0_HienBot> **BITROX006**: raid",
-    "[17:00] [8b8t] >> No TPA request found",
-    "[17:00] To BITROX006: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[17:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[17:00] [8b8t] >> Teleporting to home 0...",
-    "[17:00] [8b8t] >> Teleporting to home 2...",
-    "[17:00] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:00] [BOT] <0_HienBot> **Bot to BITROX006**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[17:00] [8b8t] >> Request sent to BITROX006",
-    "[17:00] <idkkkkkkkkkk> who wants to pvp",
-    "[17:00] [8b8t] >> Teleporting...",
     "[17:00] sneely404 has made the advancement [Stone Age]",
     "[17:00] [BOT] <0_HienBot> **idkkkkkkkkkk**: who wants to pvp",
     "[17:00] <.GalatusO> someone help me bruh",
@@ -108,7 +94,21 @@
     "[17:01] [BOT] <0_HienBot> **vydraken**: que cojones JAJA",
     "[17:01] <idkkkkkkkkkk> anyone pvp no hacking",
     "[17:01] [BOT] <0_HienBot> **idkkkkkkkkkk**: anyone pvp no hacking",
-    "[17:01] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[17:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:01] <vydraken> que paso",
+    "[17:01] [BOT] <0_HienBot> **vydraken**: que paso",
+    "[17:01] <naza_ru2> ??",
+    "[17:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:02] <BITROX006> !surival",
+    "[17:02] <.GalatusO> anyone get me out of this spawn pls bro",
+    "[17:02] [BOT] <0_HienBot> **BITROX006**: !surival",
+    "[17:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:02] [BOT] <0_HienBot> >Try status",
+    "[17:02] <Kacperozi13> home",
+    "[17:02] [8b8t] >> Teleporting to home 0...",
+    "[17:02] [8b8t] >> Teleporting to home 1...",
+    "[17:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[17:02] To Kacperozi13: Your kit (home) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1676,7 +1676,7 @@
     "NightGamer": 1,
     "animusito": 17,
     "h3d3": 5,
-    "Kacperozi13": 13,
+    "Kacperozi13": 14,
     "CaseIdontSeeYa": 1,
     "ThomTheTom": 1,
     "wodka": 7,
@@ -1688,7 +1688,7 @@
   "kitStats": {
     "pvp": 3192,
     "raid": 902,
-    "survival": 3566,
+    "survival": 3567,
     "shulker": 1240,
     "music": 350,
     "terracotta": 54,
