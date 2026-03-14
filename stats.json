@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:32:35 14/3/2026",
+  "lastUpdated": "20:32:38 14/3/2026",
   "totalKits": 112450,
   "todayKits": 251,
-  "onlineCount": 36,
+  "onlineCount": 35,
   "peakPlayers": 42,
   "playerStats": {
     "min": 0,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3530
+      "count": 3531
     },
     {
       "name": "pvp",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:32] To .Patrogaming8719: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:32] <froggyh8103> tpa if u have eprls",
-    "[13:32] [BOT] <0_HienBot> **froggyh8103**: tpa if u have eprls",
     "[13:32] To .Patrogaming8719: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:32] [8b8t] >> Request sent to .Patrogaming8719",
@@ -108,7 +104,11 @@
     "[13:32] <.Asteroid_Sub> survival",
     "[13:32] To .Asteroid_Sub: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[13:32] [BOT] <0_HienBot> **.Asteroid_Sub**: survival",
-    "[13:32] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[13:32] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:32] [BOT] <0_HienBot> >Bot created by Hien2309.",
+    "[13:32] [8b8t] >> You have killed yourself!",
+    "[13:32] <.Asteroid_Sub> survival",
+    "[13:32] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1574,7 +1574,7 @@
     "Quartash": 6,
     "tooothless5689": 25,
     "kayz_09": 11,
-    ".Asteroid_Sub": 42,
+    ".Asteroid_Sub": 43,
     "6t5e": 2,
     "Itz_Luxn": 5,
     "SJYTpro": 1,
@@ -1672,7 +1672,7 @@
   "kitStats": {
     "pvp": 3162,
     "raid": 895,
-    "survival": 3530,
+    "survival": 3531,
     "shulker": 1237,
     "music": 348,
     "terracotta": 54,
