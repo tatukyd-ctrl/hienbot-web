@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "06:50:19 15/3/2026",
+  "lastUpdated": "06:50:39 15/3/2026",
   "totalKits": 112799,
   "todayKits": 600,
-  "onlineCount": 37,
+  "onlineCount": 36,
   "peakPlayers": 59,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "01:49:39 15/3/2026",
     "avg": 33
   },
-  "tps": "10.0",
-  "ping": 0,
+  "tps": "11.0",
+  "ping": 219,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3249
+      "count": 3250
     },
     {
       "name": "elytra",
@@ -79,28 +79,6 @@
     }
   ],
   "chatLog": [
-    "[23:49] <Pippalou22> oops",
-    "[23:49] [8b8t] >> Request sent to ls_444",
-    "[23:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:49] You were kicked from 8b8t: Kicked for spamming",
-    "[23:49] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[23:49] [8b8t] Unknown command do /help",
-    "[23:49] [8b8t] Unknown command do /help",
-    "[23:49] [8b8t] Unknown command do /help",
-    "[23:49] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[23:49] You are already connected to this server!",
-    "[23:50] <GalaxyJ4ck> ?kit survival",
-    "[23:50] [8b8t] >> You have killed yourself!",
-    "[23:50] [BOT] <0_HienBot> **GalaxyJ4ck**: ?kit survival",
-    "[23:50] To GalaxyJ4ck: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[23:50] <GalaxyJ4ck> list",
-    "[23:50] To GalaxyJ4ck: Hello GalaxyJ4ck!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[23:50] [8b8t] >> Teleporting to home 0...",
-    "[23:50] [BOT] <0_HienBot> **GalaxyJ4ck**: list",
-    "[23:50] [8b8t] >> Teleporting to home 1...",
-    "[23:50] To GalaxyJ4ck: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[23:50] <processor> bro",
     "[23:50] [BOT] <0_HienBot> **Bot to GalaxyJ4ck**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[23:50] [8b8t] >> Request sent to GalaxyJ4ck",
     "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +86,29 @@
     "[23:50] <processor> is there anyone in ent",
     "[23:50] <nice_______2> uhhh",
     "[23:50] [BOT] <0_HienBot> **processor**: is there anyone in ent",
-    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:50] [8b8t] >> You have killed yourself!",
+    "[23:50] SCHYZO_2 Whispers: HEY",
+    "[23:50] [BOT] <0_HienBot> **SCHYZO_2**: HEY",
+    "[23:50] To GalaxyJ4ck: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:50] <processor> i need to go to end",
+    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:50] <aryanthegoat_TV> 2?",
+    "[23:50] [BOT] <0_HienBot> **aryanthegoat_TV**: 2?",
+    "[23:50] SCHYZO_2 Whispers: kit pvp",
+    "[23:50] [8b8t] >> Teleporting to home 0...",
+    "[23:50] [BOT] <0_HienBot> **SCHYZO_2**: kit pvp",
+    "[23:50] [8b8t] >> Teleporting to home 1...",
+    "[23:50] To SCHYZO_2: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:50] <nice_______2> vro where did you went",
+    "[23:50] [BOT] <0_HienBot> **nice_______2**: vro where did you went",
+    "[23:50] To SCHYZO_2: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[23:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[23:50] [8b8t] >> Request sent to SCHYZO_2",
+    "[23:50] <GalaxyJ4ck> glitched"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1699,10 +1699,11 @@
     "processor": 2,
     "Blicks_": 3,
     "Gabrielxs__orr": 1,
-    "zFil1pe": 1
+    "zFil1pe": 1,
+    "SCHYZO_2": 1
   },
   "kitStats": {
-    "pvp": 3249,
+    "pvp": 3250,
     "raid": 906,
     "survival": 3619,
     "shulker": 1243,
