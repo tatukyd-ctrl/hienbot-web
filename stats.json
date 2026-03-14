@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:37:43 14/3/2026",
-  "totalKits": 112510,
-  "todayKits": 311,
-  "onlineCount": 4,
+  "lastUpdated": "21:37:56 14/3/2026",
+  "totalKits": 112511,
+  "todayKits": 312,
+  "onlineCount": 43,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3545
+      "count": 3546
     },
     {
       "name": "pvp",
@@ -79,26 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:37] To h2d2: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:37] <Avazzy> Build",
-    "[14:37] To Avazzy: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[14:37] [BOT] <0_HienBot> **Avazzy**: Build",
-    "[14:37] [8b8t] >> You have killed yourself!",
-    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:37] <CyberOne6ty> redstone",
-    "[14:37] [8b8t] >> Teleporting to home 0...",
-    "[14:37] [8b8t] >> Please do not spam.",
-    "[14:37] [8b8t] >> Teleporting to home 2...",
-    "[14:37] To CyberOne6ty: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:37] To animusito: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:37] To CyberOne6ty: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[14:37] [BOT] <0_HienBot> >To change your password use the command /changepass <current password> <new password>",
-    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:37] [8b8t] >> Request sent to CyberOne6ty",
-    "[14:37] [8b8t] >> Teleporting...",
     "[14:37] <Avazzy> Build",
     "[14:37] To Avazzy: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[14:37] [BOT] <0_HienBot> **Avazzy**: Build",
@@ -108,7 +88,27 @@
     "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:37] You were kicked from 8b8t: Kicked for spamming",
-    "[14:37] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby"
+    "[14:37] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[14:37] [8b8t] Unknown command do /help",
+    "[14:37] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[14:37] You are already connected to this server!",
+    "[14:37] [8b8t] >> You have killed yourself!",
+    "[14:37] <h2d2> survival",
+    "[14:37] [8b8t] >> Teleporting to home 0...",
+    "[14:37] [BOT] <0_HienBot> **h2d2**: survival",
+    "[14:37] [8b8t] >> Teleporting to home 1...",
+    "[14:37] To h2d2: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:37] To CyberOne6ty: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:37] <Avazzy> Build",
+    "[14:37] To Avazzy: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[14:37] To h2d2: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:37] [BOT] <0_HienBot> **Avazzy**: Build",
+    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:37] [8b8t] >> Request sent to h2d2",
+    "[14:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:37] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1644,7 +1644,7 @@
     "FlameFrags123": 1,
     "Neverter1": 2,
     "h4d4": 9,
-    "h2d2": 2,
+    "h2d2": 3,
     "GalaxyJ4ck": 8,
     "Siffrow": 3,
     "krrish": 16,
@@ -1679,7 +1679,7 @@
   "kitStats": {
     "pvp": 3180,
     "raid": 896,
-    "survival": 3545,
+    "survival": 3546,
     "shulker": 1238,
     "music": 348,
     "terracotta": 54,
