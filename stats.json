@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:10:08 14/3/2026",
+  "lastUpdated": "18:10:38 14/3/2026",
   "totalKits": 112348,
   "todayKits": 149,
-  "onlineCount": 28,
+  "onlineCount": 27,
   "peakPlayers": 33,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "07:04:08 14/3/2026",
     "avg": 25
   },
-  "tps": "13.0",
-  "ping": 206,
+  "tps": "12.0",
+  "ping": 209,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3133
+      "count": 3134
     },
     {
       "name": "elytra",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:08] [8b8t] >> You have killed yourself!",
-    "[11:08] [8b8t] >> No TPA request found",
-    "[11:08] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[11:08] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[11:09] <Dreamers> bruh someone messed",
-    "[11:09] [BOT] <0_HienBot> **Dreamers**: bruh someone messed",
-    "[11:09] <CyberOne6ty> giving out one mace kit cause i have another one tpa to me to get it",
-    "[11:09] [BOT] <0_HienBot> **CyberOne6ty**: giving out one mace kit cause i have another one tpa to me to get it",
-    "[11:09] [BOT] <0_HienBot> >Hmmmmmmmmm",
-    "[11:09] <Dreamers> with the",
-    "[11:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:09] <NETHEREND22> !pvp",
-    "[11:09] To NETHEREND22: You're on cooldown, try again in 16 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:09] [BOT] <0_HienBot> **NETHEREND22**: !pvp",
     "[11:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:09] <tolampro> tpa for free mixi kit",
     "[11:09] [BOT] <0_HienBot> **tolampro**: tpa for free mixi kit",
@@ -108,7 +94,21 @@
     "[11:09] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:09] To NETHEREND22: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[11:09] [BOT] <0_HienBot> **Bot to NETHEREND22**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[11:10] [BOT] <0_HienBot> >Need gear? Type pvp to get started!"
+    "[11:10] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[11:10] <NETHEREND22> !pvp",
+    "[11:10] [8b8t] >> Teleporting to home 0...",
+    "[11:10] [BOT] <0_HienBot> **NETHEREND22**: !pvp",
+    "[11:10] [8b8t] >> Teleporting to home 1...",
+    "[11:10] To NETHEREND22: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:10] To NETHEREND22: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:10] [BOT] <0_HienBot> **Bot to NETHEREND22**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:10] [8b8t] >> This player has TPA requests disabled.",
+    "[11:10] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[11:10] <tolampro> let me dupe it",
+    "[11:10] [BOT] <0_HienBot> **tolampro**: let me dupe it",
+    "[11:10] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[11:10] <shardah> j"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1662,10 +1662,10 @@
     ".Mali823828": 1,
     "pouinsano875": 1,
     "Sui0912": 3,
-    "NETHEREND22": 5
+    "NETHEREND22": 6
   },
   "kitStats": {
-    "pvp": 3133,
+    "pvp": 3134,
     "raid": 892,
     "survival": 3515,
     "shulker": 1234,
