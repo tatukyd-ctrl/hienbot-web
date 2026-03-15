@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:10:52 15/3/2026",
-  "totalKits": 113137,
-  "todayKits": 228,
+  "lastUpdated": "16:11:06 15/3/2026",
+  "totalKits": 113138,
+  "todayKits": 229,
   "onlineCount": 24,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "15.0",
+  "tps": "14.0",
   "ping": 202,
   "topUsers": [
     {
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:10] To Dreamers: Your kit (highway) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:10] To Dreamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:10] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[09:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:10] <CyberOne6ty> lol",
-    "[09:10] [8b8t] >> Request sent to Dreamers",
-    "[09:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:10] <Dreamers> like right here",
-    "[09:10] [BOT] <0_HienBot> **Dreamers**: like right here",
     "[09:10] [8b8t] >> Teleporting...",
     "[09:10] <Its_Death> Raid",
     "[09:10] To Its_Death: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
@@ -108,7 +98,17 @@
     "[09:10] [BOT] <0_HienBot> >Get fully equipped with pvp",
     "[09:10] <wooxxzi> MAP",
     "[09:10] [BOT] <0_HienBot> **wooxxzi**: MAP",
-    "[09:10] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[09:10] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[09:10] <Its_Death> Raid",
+    "[09:10] [8b8t] >> Teleporting to home 0...",
+    "[09:10] [BOT] <0_HienBot> **Its_Death**: Raid",
+    "[09:10] [8b8t] >> Teleporting to home 2...",
+    "[09:10] To Its_Death: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:10] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:10] To Its_Death: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:10] [BOT] <0_HienBot> **Bot to Its_Death**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:10] [8b8t] >> Request sent to Its_Death",
+    "[09:11] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1734,11 +1734,11 @@
     "headroom_": 10,
     "hiruna231": 3,
     "Daring_gamers": 5,
-    "Its_Death": 7
+    "Its_Death": 8
   },
   "kitStats": {
     "pvp": 3339,
-    "raid": 929,
+    "raid": 930,
     "survival": 3707,
     "shulker": 1248,
     "music": 361,
