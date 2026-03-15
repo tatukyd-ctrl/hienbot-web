@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:08:38 15/3/2026",
-  "totalKits": 113170,
-  "todayKits": 261,
+  "lastUpdated": "17:08:52 15/3/2026",
+  "totalKits": 113171,
+  "todayKits": 262,
   "onlineCount": 26,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "12.0",
-  "ping": 206,
+  "tps": "9.0",
+  "ping": 211,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3721
+      "count": 3722
     },
     {
       "name": "pvp",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:08] [8b8t] >> Teleporting to home 2...",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] To Klisster: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] To Klisster: Sorry! Gray Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[10:08] [BOT] <0_HienBot> **Bot to Klisster**: Sorry! Gray Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[10:08] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[10:08] <ExoticDriver> survival",
-    "[10:08] To ExoticDriver: You're on cooldown, try again in 24 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:08] [BOT] <0_HienBot> **ExoticDriver**: survival",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] <CyberOne6ty> dreamer pls dont do anything when u come",
-    "[10:08] [BOT] <0_HienBot> **CyberOne6ty**: dreamer pls dont do anything when u come",
-    "[10:08] <Klisster> raid",
-    "[10:08] [8b8t] >> You have killed yourself!",
-    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:08] To Klisster: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:08] [BOT] <0_HienBot> **Bot to Klisster**: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[10:08] [8b8t] >> Teleporting to home 0...",
     "[10:08] [8b8t] >> Teleporting to home 2...",
     "[10:08] To Klisster: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +90,25 @@
     "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:08] <Doctorchris2013> try to find me",
     "[10:08] [BOT] <0_HienBot> **Doctorchris2013**: try to find me",
-    "[10:08] [8b8t] >> Teleporting..."
+    "[10:08] [8b8t] >> Teleporting...",
+    "[10:08] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
+    "[10:08] <Dreamers> bruh",
+    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:08] [8b8t] >> You have killed yourself!",
+    "[10:08] ExoticDriver Whispers: Survival",
+    "[10:08] [8b8t] >> Teleporting to home 0...",
+    "[10:08] [BOT] <0_HienBot> **ExoticDriver**: Survival",
+    "[10:08] [8b8t] >> Teleporting to home 1...",
+    "[10:08] To Klisster: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[10:08] To ExoticDriver: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:08] To ExoticDriver: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:08] [BOT] <0_HienBot> **Bot to ExoticDriver**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:08] <Dreamers> IM GONNA BURN THROU SO MANY RESOURCES",
+    "[10:08] [8b8t] >> Request sent to ExoticDriver",
+    "[10:08] [8b8t] >> Teleporting...",
+    "[10:08] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1738,12 +1738,12 @@
     "Davidoes58964": 5,
     "PlayerBossl": 9,
     "ExMAN12": 2,
-    "ExoticDriver": 1
+    "ExoticDriver": 2
   },
   "kitStats": {
     "pvp": 3343,
     "raid": 934,
-    "survival": 3721,
+    "survival": 3722,
     "shulker": 1249,
     "music": 361,
     "terracotta": 55,
