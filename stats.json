@@ -1,10 +1,10 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:21:51 15/3/2026",
-  "totalKits": 112910,
-  "todayKits": 1,
-  "onlineCount": 38,
-  "peakPlayers": 38,
+  "lastUpdated": "09:22:11 15/3/2026",
+  "totalKits": 112911,
+  "todayKits": 2,
+  "onlineCount": 39,
+  "peakPlayers": 39,
   "playerStats": {
     "min": 27,
     "minTime": "07:40:09 15/3/2026",
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 35
   },
-  "tps": "7.0",
-  "ping": 208,
+  "tps": "9.0",
+  "ping": 269,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3657
+      "count": 3658
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:21] [8b8t] >> Please do not spam.",
-    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:21] To idkkkkkkkkkk: Try again Join dsc.gg/hienbot to report the error.",
-    "[02:21] <idkkkkkkkkkk> survival",
-    "[02:21] [BOT] <0_HienBot> **Bot to idkkkkkkkkkk**: Try again Join dsc.gg/hienbot to report the error.",
-    "[02:21] [8b8t] >> Teleporting to home 0...",
-    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:21] [8b8t] >> Teleporting to home 1...",
-    "[02:21] To idkkkkkkkkkk: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:21] [BOT] <0_HienBot> >Type invite for invite rewards info",
     "[02:21] To idkkkkkkkkkk: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:21] [8b8t] >> Request sent to idkkkkkkkkkk",
@@ -108,7 +97,18 @@
     "[02:21] [BOT] <0_HienBot> **Bot to idkkkkkkkkkk**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[02:21] <itzAetherix> list",
     "[02:21] To itzAetherix: Hello itzAetherix!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] <itzAetherix> Survival",
+    "[02:21] [8b8t] >> Teleporting to home 0...",
+    "[02:21] [BOT] <0_HienBot> **itzAetherix**: Survival",
+    "[02:21] [8b8t] >> Teleporting to home 1...",
+    "[02:21] To itzAetherix: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] To itzAetherix: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] [BOT] <0_HienBot> >Get fully equipped with pvp",
+    "[02:21] [8b8t] >> Request sent to itzAetherix",
+    "[02:22] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1712,12 +1712,12 @@
     "papaseca": 1,
     "jamer36": 1,
     "Santixzzz1274": 1,
-    "itzAetherix": 1
+    "itzAetherix": 2
   },
   "kitStats": {
     "pvp": 3278,
     "raid": 914,
-    "survival": 3657,
+    "survival": 3658,
     "shulker": 1246,
     "music": 359,
     "terracotta": 54,
