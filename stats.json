@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:36:52 15/3/2026",
+  "lastUpdated": "15:37:22 15/3/2026",
   "totalKits": 113108,
   "todayKits": 199,
-  "onlineCount": 27,
+  "onlineCount": 30,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "13.0",
-  "ping": 204,
+  "tps": "11.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3331
+      "count": 3332
     },
     {
       "name": "elytra",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:34] [8b8t] >> Request sent to Daring_gamers",
-    "[08:34] [BOT] <0_HienBot> >Hello PistonCubeB0T!",
-    "[08:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[08:34] [8b8t] >> You have killed yourself!",
-    "[08:34] [8b8t] >> The TPA request you sent to Daring_gamers was successfully canceled.",
-    "[08:35] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[08:35] <Daring_gamers> pvp",
-    "[08:35] To Daring_gamers: You're on cooldown, try again in 35 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:35] [BOT] <0_HienBot> **Daring_gamers**: pvp",
-    "[08:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:35] proayush198222 has made the advancement [Ice Bucket Challenge]",
     "[08:35] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
     "[08:35] <snowbed2> toolbox",
     "[08:35] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +97,18 @@
     "[08:36] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[08:36] [BOT] <0_HienBot> >Try status",
     "[08:36] <Daring_gamers> kit",
-    "[08:36] To Daring_gamers: Hello Daring_gamers!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[08:36] To Daring_gamers: Hello Daring_gamers!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[08:36] [BOT] <0_HienBot> **Daring_gamers**: kit",
+    "[08:37] [BOT] <0_HienBot> >Type invite for invite rewards info",
+    "[08:37] <Daring_gamers> kit pvp",
+    "[08:37] [8b8t] >> Teleporting to home 0...",
+    "[08:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:37] [8b8t] >> Teleporting to home 1...",
+    "[08:37] To Daring_gamers: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:37] [BOT] <0_HienBot> **Bot to Daring_gamers**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:37] To Daring_gamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:37] [BOT] <0_HienBot> **Bot to Daring_gamers**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:37] [8b8t] >> Request sent to Daring_gamers"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1733,10 +1733,10 @@
     "rees567": 1,
     "headroom_": 3,
     "hiruna231": 3,
-    "Daring_gamers": 1
+    "Daring_gamers": 2
   },
   "kitStats": {
-    "pvp": 3331,
+    "pvp": 3332,
     "raid": 928,
     "survival": 3698,
     "shulker": 1248,
