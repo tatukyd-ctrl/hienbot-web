@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:28:52 15/3/2026",
+  "lastUpdated": "20:29:22 15/3/2026",
   "totalKits": 113274,
   "todayKits": 365,
-  "onlineCount": 32,
+  "onlineCount": 35,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "8.0",
-  "ping": 909,
+  "tps": "11.0",
+  "ping": 198,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3747
+      "count": 3748
     },
     {
       "name": "pvp",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:27] <.YuyuMeteorQwQ> ping",
-    "[13:28] flamebit has made the advancement [Monster Hunter]",
-    "[13:28] [8b8t] >> Use the command /login <password>.",
-    "[13:28] [8b8t] >> You have successfully logged.",
-    "[13:28] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[13:28] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[13:28] [BOT] <0_HienBot> **password**: .",
-    "[13:28] [8b8t] >> You have killed yourself!",
-    "[13:28] [8b8t] >> Teleporting to home 0...",
-    "[13:28] <Dreamers> !wood",
-    "[13:28] [8b8t] >> You have killed yourself!",
-    "[13:28] [8b8t] >> Teleporting to home 0...",
-    "[13:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:28] <Dreamers> !wood",
-    "[13:28] To Dreamers: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[13:28] [BOT] <0_HienBot> **Dreamers**: !wood",
-    "[13:28] <Dreamers> wood",
-    "[13:28] To Dreamers: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[13:28] [BOT] <0_HienBot> **Bot to Dreamers**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[13:28] [8b8t] >> Request sent to Dreamers",
     "[13:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +90,25 @@
     "[13:28] [BOT] <0_HienBot> **nemtudokjobbja**: who s far away from spawn",
     "[13:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:28] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
-    "[13:28] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me"
+    "[13:28] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[13:29] <hino1> survival",
+    "[13:29] [8b8t] >> Teleporting to home 0...",
+    "[13:29] [BOT] <0_HienBot> **hino1**: survival",
+    "[13:29] [8b8t] >> Teleporting to home 1...",
+    "[13:29] <flamebit> survival",
+    "[13:29] To flamebit: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[13:29] To hino1: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:29] <froggyh8103> elytra",
+    "[13:29] To hino1: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:29] To froggyh8103: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[13:29] [BOT] <0_HienBot> **froggyh8103**: elytra",
+    "[13:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:29] [8b8t] >> Request sent to hino1",
+    "[13:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:29] [BOT] <0_HienBot> >Try stash"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1746,12 +1746,13 @@
     "maga_salaga10": 4,
     "Swixy_ahh": 1,
     "nemtudokjobbja": 4,
-    "flamebit": 3
+    "flamebit": 3,
+    "hino1": 1
   },
   "kitStats": {
     "pvp": 3360,
     "raid": 947,
-    "survival": 3747,
+    "survival": 3748,
     "shulker": 1250,
     "music": 361,
     "terracotta": 55,
