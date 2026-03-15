@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:07:22 15/3/2026",
-  "totalKits": 113134,
-  "todayKits": 225,
-  "onlineCount": 23,
+  "lastUpdated": "16:07:51 15/3/2026",
+  "totalKits": 113135,
+  "todayKits": 226,
+  "onlineCount": 22,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "13.0",
+  "tps": "11.0",
   "ping": 202,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3338
+      "count": 3339
     },
     {
       "name": "elytra",
@@ -79,23 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:06] [8b8t] >> You have killed yourself!",
-    "[09:06] Its_Death has reached the goal [Sky's the Limit]",
-    "[09:06] To Dreamers: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[09:06] [8b8t] >> Please do not spam.",
-    "[09:06] <wooxxzi> M",
-    "[09:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:06] <wooxxzi> b",
-    "[09:06] [BOT] <0_HienBot> **wooxxzi**: b",
-    "[09:06] <headroom_> survival",
-    "[09:06] [8b8t] >> Teleporting to home 0...",
-    "[09:06] [BOT] <0_HienBot> **headroom_**: survival",
-    "[09:06] [8b8t] >> Teleporting to home 1...",
-    "[09:06] To headroom_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:06] <Dreamers> follow me",
-    "[09:06] [BOT] <0_HienBot> **Dreamers**: follow me",
-    "[09:06] To headroom_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:06] [8b8t] >> Request sent to headroom_",
     "[09:07] <CyberOne6ty> go slowly",
@@ -108,7 +91,24 @@
     "[09:07] To headroom_: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:07] [BOT] <0_HienBot> **Bot to headroom_**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:07] <CyberOne6ty> were",
-    "[09:07] [BOT] <0_HienBot> **CyberOne6ty**: were"
+    "[09:07] [BOT] <0_HienBot> **CyberOne6ty**: were",
+    "[09:07] <Its_Death> list",
+    "[09:07] To Its_Death: Hello Its_Death!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[09:07] [BOT] <0_HienBot> **Its_Death**: list",
+    "[09:07] <Dreamers> come",
+    "[09:07] [BOT] <0_HienBot> **Dreamers**: come",
+    "[09:07] <Its_Death> PVP",
+    "[09:07] [8b8t] >> Teleporting to home 0...",
+    "[09:07] [8b8t] >> Teleporting to home 1...",
+    "[09:07] [BOT] <0_HienBot> **Its_Death**: PVP",
+    "[09:07] To Its_Death: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:07] To Its_Death: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:07] [8b8t] >> Request sent to Its_Death",
+    "[09:07] [BOT] <0_HienBot> **Bot to Its_Death**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:07] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[09:07] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1734,10 +1734,10 @@
     "headroom_": 10,
     "hiruna231": 3,
     "Daring_gamers": 5,
-    "Its_Death": 5
+    "Its_Death": 6
   },
   "kitStats": {
-    "pvp": 3338,
+    "pvp": 3339,
     "raid": 929,
     "survival": 3707,
     "shulker": 1248,
