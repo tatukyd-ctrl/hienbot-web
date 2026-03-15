@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:49:58 15/3/2026",
+  "lastUpdated": "15:50:22 15/3/2026",
   "totalKits": 113120,
   "todayKits": 211,
   "onlineCount": 28,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "11.0",
-  "ping": 399,
+  "tps": "13.0",
+  "ping": 214,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3703
+      "count": 3704
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:48] [8b8t] >> Request sent to snowbed2",
-    "[08:48] [BOT] <0_HienBot> **Bot to snowbed2**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:48] [8b8t] >> Teleporting...",
-    "[08:49] [8b8t] >> You have killed yourself!",
-    "[08:49] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
-    "[08:49] <Dreamers> oh",
-    "[08:49] [BOT] <0_HienBot> **Dreamers**: oh",
-    "[08:49] <Dreamers> i forgot to turn on machine ._.",
-    "[08:49] [BOT] <0_HienBot> **Dreamers**: i forgot to turn on machine ._.",
-    "[08:49] [BOT] <0_HienBot> >Type invite for invite rewards info",
-    "[08:49] <headroom_> survival",
-    "[08:49] [8b8t] >> Teleporting to home 0...",
-    "[08:49] [BOT] <0_HienBot> **headroom_**: survival",
     "[08:49] [8b8t] >> Teleporting to home 1...",
     "[08:49] To headroom_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[08:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +95,20 @@
     "[08:49] <Its_Death> Survival",
     "[08:49] To Its_Death: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[08:49] [8b8t] >> Please do not spam.",
-    "[08:49] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[08:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:50] [8b8t] >> You have killed yourself!",
+    "[08:50] To headroom_: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[08:50] [BOT] <0_HienBot> **Bot to headroom_**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[08:50] [BOT] <0_HienBot> >Try list to see available kits",
+    "[08:50] <Its_Death> Survival",
+    "[08:50] [8b8t] >> Teleporting to home 0...",
+    "[08:50] [BOT] <0_HienBot> **Its_Death**: Survival",
+    "[08:50] [8b8t] >> Teleporting to home 1...",
+    "[08:50] To Its_Death: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:50] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:50] To Its_Death: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:50] [BOT] <0_HienBot> **Bot to Its_Death**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:50] [8b8t] >> Request sent to Its_Death"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1734,12 +1734,12 @@
     "headroom_": 6,
     "hiruna231": 3,
     "Daring_gamers": 5,
-    "Its_Death": 1
+    "Its_Death": 2
   },
   "kitStats": {
     "pvp": 3338,
     "raid": 928,
-    "survival": 3703,
+    "survival": 3704,
     "shulker": 1248,
     "music": 361,
     "terracotta": 55,
