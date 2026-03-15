@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:26:22 15/3/2026",
-  "totalKits": 113145,
-  "todayKits": 236,
-  "onlineCount": 19,
+  "lastUpdated": "16:26:33 15/3/2026",
+  "totalKits": 113146,
+  "todayKits": 237,
+  "onlineCount": 18,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "17.0",
+  "tps": "15.0",
   "ping": 203,
   "topUsers": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "name": "shulker",
-      "count": 1248
+      "count": 1249
     },
     {
       "name": "build",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:22] [8b8t] >> Teleporting...",
-    "[09:22] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:22] [8b8t] >> You have killed yourself!",
-    "[09:22] To Its_Death: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[09:22] [BOT] <0_HienBot> **Bot to Its_Death**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[09:23] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[09:23] [BOT] <0_HienBot> >Hey .Krista_052178!",
-    "[09:24] [BOT] <0_HienBot> >Try dupe",
-    "[09:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:24] [BOT] <0_HienBot> >Bot created by Hien2309.",
     "[09:25] [BOT] <0_HienBot> >Get fully equipped with pvp",
     "[09:25] [BOT] <0_HienBot> >Try stash",
     "[09:25] <Its_Death> stash",
@@ -108,7 +98,17 @@
     "[09:26] To Its_Death: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:26] To Its_Death: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:26] [8b8t] >> Please do not spam."
+    "[09:26] [8b8t] >> Please do not spam.",
+    "[09:26] <Its_Death> shulker",
+    "[09:26] [8b8t] >> Teleporting to home 0...",
+    "[09:26] [8b8t] >> Teleporting to home 6...",
+    "[09:26] [BOT] <0_HienBot> **Its_Death**: shulker",
+    "[09:26] To Its_Death: Your kit (shulker) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:26] To Its_Death: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:26] [BOT] <0_HienBot> **Bot to Its_Death**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:26] [8b8t] >> Request sent to Its_Death",
+    "[09:26] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1734,13 +1734,13 @@
     "headroom_": 10,
     "hiruna231": 3,
     "Daring_gamers": 5,
-    "Its_Death": 14
+    "Its_Death": 15
   },
   "kitStats": {
     "pvp": 3339,
     "raid": 930,
     "survival": 3710,
-    "shulker": 1248,
+    "shulker": 1249,
     "music": 361,
     "terracotta": 55,
     "lightsources": 239,
