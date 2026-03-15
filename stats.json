@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:14:52 15/3/2026",
+  "lastUpdated": "11:15:22 15/3/2026",
   "totalKits": 112985,
   "todayKits": 76,
-  "onlineCount": 28,
+  "onlineCount": 26,
   "peakPlayers": 44,
   "playerStats": {
     "min": 4,
@@ -13,7 +13,7 @@
     "avg": 34
   },
   "tps": "14.0",
-  "ping": 271,
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3301
+      "count": 3302
     },
     {
       "name": "elytra",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:10] [8b8t] >> Request sent to SUPERLMAO",
-    "[04:10] [BOT] <0_HienBot> >Use lang and select your language",
-    "[04:10] [8b8t] >> Teleporting...",
-    "[04:10] [8b8t] >> You have killed yourself!",
-    "[04:10] To SUPERLMAO: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:10] [BOT] <0_HienBot> **Bot to SUPERLMAO**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:10] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[04:11] [BOT] <0_HienBot> >Items for PVP and Building available in build",
-    "[04:11] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[04:11] [8b8t] >> Please do not spam.",
-    "[04:12] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[04:12] <037k> ok",
-    "[04:12] [BOT] <0_HienBot> **037k**: ok",
-    "[04:12] [BOT] <0_HienBot> >Type invite for invite rewards info",
     "[04:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[04:13] <NightGamer> please tpa me I need kit any player have kit",
     "[04:13] [BOT] <0_HienBot> **NightGamer**: please tpa me I need kit any player have kit",
@@ -108,7 +94,21 @@
     "[04:14] You are already connected to this server!",
     "[04:14] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[04:14] <037k> loideptrai1_41933",
-    "[04:14] [BOT] <0_HienBot> **037k**: loideptrai1_41933"
+    "[04:14] [BOT] <0_HienBot> **037k**: loideptrai1_41933",
+    "[04:14] [BOT] <0_HienBot> >Want to see the server's tps? Chat tps",
+    "[04:15] <037k> tps",
+    "[04:15] To 037k: Current TPS: 14.00 Don't forget to join dsc.gg/hienbot",
+    "[04:15] [BOT] <0_HienBot> **037k**: tps",
+    "[04:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:15] <akel1> pvp",
+    "[04:15] [8b8t] >> Teleporting to home 0...",
+    "[04:15] [BOT] <0_HienBot> **akel1**: pvp",
+    "[04:15] [8b8t] >> Teleporting to home 1...",
+    "[04:15] To akel1: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:15] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:15] To akel1: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:15] [BOT] <0_HienBot> **Bot to akel1**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:15] [8b8t] >> Request sent to akel1"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1639,7 +1639,7 @@
     "Texturization": 3,
     "YangNTK": 5,
     "Seabase": 3,
-    "akel1": 4,
+    "akel1": 5,
     "CageySaggittari": 3,
     "FlameFrags123": 1,
     "Neverter1": 2,
@@ -1724,7 +1724,7 @@
     "imverynuubbb": 1
   },
   "kitStats": {
-    "pvp": 3301,
+    "pvp": 3302,
     "raid": 919,
     "survival": 3676,
     "shulker": 1246,
