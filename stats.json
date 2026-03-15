@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:57:39 15/3/2026",
-  "totalKits": 112879,
-  "todayKits": 72,
+  "lastUpdated": "08:57:53 15/3/2026",
+  "totalKits": 112880,
+  "todayKits": 73,
   "onlineCount": 42,
   "peakPlayers": 59,
   "playerStats": {
@@ -10,10 +10,10 @@
     "minTime": "07:40:09 15/3/2026",
     "max": 43,
     "maxTime": "08:57:07 15/3/2026",
-    "avg": 33
+    "avg": 34
   },
-  "tps": "20.0",
-  "ping": 199,
+  "tps": "17.0",
+  "ping": 218,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3642
+      "count": 3643
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:56] [8b8t] >> Teleporting to home 1...",
-    "[01:56] To sky122222: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[01:56] Diamondhawkkk has made the advancement [Monster Hunter]",
-    "[01:56] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[01:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:56] <geeyuh> THIS IS THE ENDLESS REVEANE SEED I JUST FOUND IT",
-    "[01:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:56] To sky122222: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:56] [BOT] <0_HienBot> **Bot to sky122222**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[01:56] [8b8t] >> Request sent to sky122222",
-    "[01:56] <papaseca> survival",
-    "[01:56] To papaseca: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[01:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:56] [BOT] <0_HienBot> **Bot to papaseca**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[01:56] <aryanthegoat_TV> il just tpa to u",
     "[01:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +94,21 @@
     "[01:57] sky122222 has completed the challenge [Cover Me in Debris]",
     "[01:57] sky122222 has completed the challenge [Serious Dedication]",
     "[01:57] sky122222 has reached the goal [Sky's the Limit]",
-    "[01:57] sky122222 has made the advancement [Ice Bucket Challenge]"
+    "[01:57] sky122222 has made the advancement [Ice Bucket Challenge]",
+    "[01:57] <GalaxyJ4ck> tp",
+    "[01:57] [BOT] <0_HienBot> **GalaxyJ4ck**: tp",
+    "[01:57] papaseca Whispers: survival",
+    "[01:57] [8b8t] >> Teleporting to home 0...",
+    "[01:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:57] [8b8t] >> Teleporting to home 1...",
+    "[01:57] To papaseca: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:57] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:57] Diamondhawkkk has completed the challenge [Subspace Bubble]",
+    "[01:57] To papaseca: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:57] [BOT] <0_HienBot> **Bot to papaseca**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:57] [8b8t] >> Request sent to papaseca",
+    "[01:57] [8b8t] >> Teleporting...",
+    "[01:57] [BOT] <0_HienBot> >Need gear? Type pvp to get started!"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1708,12 +1708,13 @@
     "duks8989": 5,
     "Diamondhawkkk": 5,
     "quinnted": 2,
-    "sky122222": 1
+    "sky122222": 1,
+    "papaseca": 1
   },
   "kitStats": {
     "pvp": 3273,
     "raid": 914,
-    "survival": 3642,
+    "survival": 3643,
     "shulker": 1245,
     "music": 359,
     "terracotta": 54,
