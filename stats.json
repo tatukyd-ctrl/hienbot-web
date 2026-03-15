@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:24:22 15/3/2026",
+  "lastUpdated": "18:24:52 15/3/2026",
   "totalKits": 113204,
   "todayKits": 295,
-  "onlineCount": 30,
+  "onlineCount": 27,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 28
   },
   "tps": "13.0",
-  "ping": 200,
+  "ping": 450,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:23] [BOT] <0_HienBot> **Bot to DIRECHEESE**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:23] <maga_salaga10> !you can hear me?",
-    "[11:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:23] [XMAS2025] <Tobias> no",
-    "[11:23] [BOT] <0_HienBot> **i_am_tobias**: no",
-    "[11:23] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[11:23] <akel1> survival",
-    "[11:23] [8b8t] >> Teleporting to home 0...",
-    "[11:23] [8b8t] >> Teleporting to home 1...",
-    "[11:23] [BOT] <0_HienBot> **akel1**: survival",
-    "[11:23] To akel1: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[11:23] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:23] To akel1: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[11:23] [BOT] <0_HienBot> **Bot to akel1**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +97,18 @@
     "[11:24] <Victorchiroiu52> This server is prolly owned by Jeff",
     "[11:24] [BOT] <0_HienBot> **Victorchiroiu52**: This server is prolly owned by Jeff",
     "[11:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[11:24] <akel1> my names jeff"
+    "[11:24] <akel1> my names jeff",
+    "[11:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:24] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
+    "[11:24] <Victorchiroiu52> I meant",
+    "[11:24] [BOT] <0_HienBot> **Victorchiroiu52**: I meant",
+    "[11:24] <Victorchiroiu52> Jeff from the private island",
+    "[11:24] <jbjg> dupe",
+    "[11:24] [8b8t] >> Teleporting to home 0...",
+    "[11:24] [BOT] <0_HienBot> **Victorchiroiu52**: Jeff from the private island",
+    "[11:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:24] To jbjg: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:24] [BOT] <0_HienBot> **Bot to jbjg**: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1739,7 +1739,7 @@
     "PlayerBossl": 11,
     "ExMAN12": 2,
     "ExoticDriver": 5,
-    "jbjg": 5,
+    "jbjg": 6,
     "KIKICHAN1211": 1,
     "DIRECHEESE": 1
   },
@@ -1761,7 +1761,7 @@
     "build": 1155,
     "dye": 90,
     "concrete": 168,
-    "dupe": 1145,
+    "dupe": 1146,
     "food": 292,
     "glass": 220,
     "elytra": 1350,
