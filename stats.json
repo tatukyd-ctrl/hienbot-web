@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "12:53:07 15/3/2026",
+  "lastUpdated": "12:53:22 15/3/2026",
   "totalKits": 113029,
   "todayKits": 120,
   "onlineCount": 24,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 33
   },
-  "tps": "10.0",
+  "tps": "11.0",
   "ping": 204,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3313
+      "count": 3314
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[05:52] You are already connected to this server!",
-    "[05:52] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[05:52] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!",
-    "[05:52] <gabielmaspro2026> mineral",
-    "[05:52] [8b8t] >> Teleporting to home 0...",
-    "[05:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:52] [8b8t] >> Teleporting to home 3...",
-    "[05:52] To gabielmaspro2026: Your kit (mineral) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:52] <Iamshorgo> if yall spam heinbot it will crash",
-    "[05:52] [BOT] <0_HienBot> **Bot to gabielmaspro2026**: Your kit (mineral) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[05:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[05:52] To gabielmaspro2026: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[05:52] [BOT] <0_HienBot> **Bot to gabielmaspro2026**: Sorry! Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[05:52] <SUPERLMAO> ttold",
     "[05:52] [BOT] <0_HienBot> **SUPERLMAO**: ttold",
@@ -108,7 +96,19 @@
     "[05:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[05:52] <SUPERLMAO> fucking slow down",
     "[05:52] [BOT] <0_HienBot> **SUPERLMAO**: fucking slow down",
-    "[05:53] [8b8t] >> Teleporting..."
+    "[05:53] [8b8t] >> Teleporting...",
+    "[05:53] [8b8t] >> You have killed yourself!",
+    "[05:53] To gabielmaspro2026: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[05:53] [BOT] <0_HienBot> **Bot to gabielmaspro2026**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[05:53] <xdqyt> pvp",
+    "[05:53] [8b8t] >> Teleporting to home 0...",
+    "[05:53] [BOT] <0_HienBot> **xdqyt**: pvp",
+    "[05:53] [8b8t] >> Teleporting to home 1...",
+    "[05:53] To xdqyt: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[05:53] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[05:53] To xdqyt: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:53] [BOT] <0_HienBot> **Bot to xdqyt**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[05:53] [8b8t] >> Request sent to xdqyt"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1724,13 +1724,13 @@
     "imverynuubbb": 2,
     "Bellophantt_": 5,
     "gabielmaspro2026": 14,
-    "xdqyt": 4,
+    "xdqyt": 5,
     "san657": 3,
     "Swentyfn_PRIME": 3,
     "0Manhdoi": 2
   },
   "kitStats": {
-    "pvp": 3313,
+    "pvp": 3314,
     "raid": 921,
     "survival": 3683,
     "shulker": 1247,
