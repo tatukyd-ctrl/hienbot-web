@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:38:37 15/3/2026",
+  "lastUpdated": "09:38:51 15/3/2026",
   "totalKits": 112927,
   "todayKits": 18,
   "onlineCount": 41,
@@ -13,7 +13,7 @@
     "avg": 36
   },
   "tps": "12.0",
-  "ping": 217,
+  "ping": 292,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3662
+      "count": 3663
     },
     {
       "name": "pvp",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:37] 0_Hien_Bott has made the advancement [Monster Hunter]",
-    "[02:37] To ImHuron: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:37] [BOT] <0_HienBot> **Bot to ImHuron**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[02:37] [8b8t] >> Request sent to ImHuron",
-    "[02:37] [8b8t] >> Teleporting...",
-    "[02:37] [BOT] <0_HienBot> >HienBot Group: dsc,gg/hienbot",
-    "[02:38] [8b8t] >> You have killed yourself!",
-    "[02:38] <037k> hahaha",
-    "[02:38] [BOT] <0_HienBot> **037k**: hahaha",
-    "[02:38] To ImHuron: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[02:38] [BOT] <0_HienBot> **Bot to ImHuron**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[02:38] frankie_king28 has made the advancement [We Need to Go Deeper]",
-    "[02:38] <AsherFur> kit",
     "[02:38] [BOT] <0_HienBot> **AsherFur**: kit",
     "[02:38] To AsherFur: Hello AsherFur!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[02:38] <idkuser12> anyone 1v1?",
@@ -108,7 +95,20 @@
     "[02:38] [BOT] <0_HienBot> **Bot to rolito**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[02:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:38] [8b8t] >> Request sent to rolito",
-    "[02:38] [8b8t] >> Teleporting..."
+    "[02:38] [8b8t] >> Teleporting...",
+    "[02:38] [8b8t] >> You have killed yourself!",
+    "[02:38] To rolito: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[02:38] [BOT] <0_HienBot> **Bot to rolito**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[02:38] AsherFur Whispers: survival",
+    "[02:38] [8b8t] >> Teleporting to home 0...",
+    "[02:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:38] [8b8t] >> Teleporting to home 1...",
+    "[02:38] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[02:38] To AsherFur: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:38] [BOT] <0_HienBot> **Bot to AsherFur**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:38] To AsherFur: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:38] [8b8t] >> Please do not spam.",
+    "[02:38] [8b8t] >> Request sent to AsherFur"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1714,12 +1714,13 @@
     "Santixzzz1274": 1,
     "itzAetherix": 4,
     "ItzXzyro": 1,
-    "ImHuron": 5
+    "ImHuron": 5,
+    "AsherFur": 1
   },
   "kitStats": {
     "pvp": 3283,
     "raid": 914,
-    "survival": 3662,
+    "survival": 3663,
     "shulker": 1246,
     "music": 359,
     "terracotta": 54,
