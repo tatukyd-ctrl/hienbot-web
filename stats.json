@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:21:22 15/3/2026",
-  "totalKits": 112988,
-  "todayKits": 79,
+  "lastUpdated": "11:21:48 15/3/2026",
+  "totalKits": 112989,
+  "todayKits": 80,
   "onlineCount": 24,
   "peakPlayers": 44,
   "playerStats": {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3676
+      "count": 3677
     },
     {
       "name": "pvp",
@@ -79,27 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:17] [8b8t] >> You have killed yourself!",
-    "[04:18] To akel1: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:18] [BOT] <0_HienBot> **Bot to akel1**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:18] imverynuubbb has made the advancement [We Need to Go Deeper]",
-    "[04:18] <SUPERLMAO> blaze",
-    "[04:18] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[04:18] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:18] <NightGamer> tpa me I need team",
-    "[04:18] [BOT] <0_HienBot> **NightGamer**: tpa me I need team",
-    "[04:18] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
-    "[04:19] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[04:19] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
-    "[04:19] akel1 has made the advancement [Not Quite \"Nine\" Lives]",
-    "[04:19] [BOT] <0_HienBot> >Are you accidentally ignoring someone? use /unignore <user> to undo the ignore command",
-    "[04:20] [BOT] <0_HienBot> >Items for PVP and Building available in build",
-    "[04:20] <NightGamer> any player tpa me I need kit",
-    "[04:20] [BOT] <0_HienBot> **NightGamer**: any player tpa me I need kit",
-    "[04:20] <imverynuubbb> tpa to me bro",
-    "[04:20] [BOT] <0_HienBot> **imverynuubbb**: tpa to me bro",
-    "[04:20] <wooxxzi> who needs tpa when u can fly??",
-    "[04:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[04:20] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[04:20] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
     "[04:21] <Bellophantt_> stash",
@@ -108,7 +87,28 @@
     "[04:21] [8b8t] >> Teleporting to home 2...",
     "[04:21] To Bellophantt_: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[04:21] [BOT] <0_HienBot> **Bot to Bellophantt_**: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[04:21] [8b8t] >> Could not find player Bellophantt_"
+    "[04:21] [8b8t] >> Could not find player Bellophantt_",
+    "[04:21] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
+    "[04:21] <Bellophantt_> stash",
+    "[04:21] [8b8t] >> Teleporting to home 0...",
+    "[04:21] [8b8t] >> Please do not spam.",
+    "[04:21] [8b8t] >> Teleporting to home 2...",
+    "[04:21] To Bellophantt_: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:21] To Bellophantt_: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[04:21] [BOT] <0_HienBot> **Bot to Bellophantt_**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[04:21] <Bellophantt_> survival",
+    "[04:21] [8b8t] >> Teleporting to home 0...",
+    "[04:21] [BOT] <0_HienBot> **Bellophantt_**: survival",
+    "[04:21] [8b8t] >> Teleporting to home 1...",
+    "[04:21] <akel1> HEEEELP",
+    "[04:21] To Bellophantt_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[04:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[04:21] To Bellophantt_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:21] [BOT] <0_HienBot> **Bot to Bellophantt_**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[04:21] [8b8t] >> Request sent to Bellophantt_",
+    "[04:21] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1722,12 +1722,12 @@
     "underwear45": 4,
     "JustNobodyPo8": 3,
     "imverynuubbb": 1,
-    "Bellophantt_": 1
+    "Bellophantt_": 3
   },
   "kitStats": {
     "pvp": 3304,
     "raid": 919,
-    "survival": 3676,
+    "survival": 3677,
     "shulker": 1246,
     "music": 360,
     "terracotta": 54,
@@ -1737,7 +1737,7 @@
     "toolbox": 372,
     "wool": 405,
     "exp": 582,
-    "stash": 1017,
+    "stash": 1018,
     "ocean": 119,
     "build": 1136,
     "dye": 90,
