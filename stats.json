@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:31:22 15/3/2026",
-  "totalKits": 113327,
-  "todayKits": 418,
+  "lastUpdated": "21:31:36 15/3/2026",
+  "totalKits": 113328,
+  "todayKits": 419,
   "onlineCount": 33,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "11.0",
-  "ping": 211,
+  "tps": "10.0",
+  "ping": 221,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:30] <RandomAverageGuy> STASH",
-    "[14:30] [8b8t] >> Teleporting to home 0...",
-    "[14:30] [8b8t] >> Teleporting to home 2...",
-    "[14:30] [BOT] <0_HienBot> **RandomAverageGuy**: STASH",
-    "[14:30] To RandomAverageGuy: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[14:30] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:30] To RandomAverageGuy: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[14:30] [BOT] <0_HienBot> **Bot to RandomAverageGuy**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[14:30] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:30] <oradiminou> survival",
     "[14:30] [8b8t] >> Teleporting to home 0...",
     "[14:30] [BOT] <0_HienBot> **oradiminou**: survival",
     "[14:30] [8b8t] >> Teleporting to home 1...",
@@ -108,7 +98,17 @@
     "[14:31] <flamebit> list",
     "[14:31] To flamebit: Hello flamebit!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[14:31] [BOT] <0_HienBot> **flamebit**: list",
-    "[14:31] [BOT] <0_HienBot> >Running low on supplies? Use survival"
+    "[14:31] [BOT] <0_HienBot> >Running low on supplies? Use survival",
+    "[14:31] <flamebit> armortrims",
+    "[14:31] [8b8t] >> Teleporting to home 0...",
+    "[14:31] [BOT] <0_HienBot> **flamebit**: armortrims",
+    "[14:31] [8b8t] >> Teleporting to home 7...",
+    "[14:31] To flamebit: Your kit (armortrims) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:31] To flamebit: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:31] [BOT] <0_HienBot> **Bot to flamebit**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:31] [8b8t] >> Request sent to flamebit",
+    "[14:31] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1746,7 +1746,7 @@
     "maga_salaga10": 4,
     "Swixy_ahh": 1,
     "nemtudokjobbja": 13,
-    "flamebit": 26,
+    "flamebit": 27,
     "hino1": 2,
     "RandomAverageGuy": 7,
     "Complexity___": 1
@@ -1760,7 +1760,7 @@
     "terracotta": 55,
     "lightsources": 240,
     "tools": 1120,
-    "armortrims": 258,
+    "armortrims": 259,
     "toolbox": 386,
     "wool": 418,
     "exp": 592,
