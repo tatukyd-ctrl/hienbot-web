@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "22:04:24 15/3/2026",
+  "lastUpdated": "22:04:52 15/3/2026",
   "totalKits": 113344,
   "todayKits": 435,
   "onlineCount": 36,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "11.0",
-  "ping": 210,
+  "tps": "12.0",
+  "ping": 212,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3761
+      "count": 3762
     },
     {
       "name": "pvp",
@@ -80,18 +80,6 @@
   ],
   "chatLog": [
     "[15:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[15:03] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[15:03] tomaswn03 has made the advancement [Spooky Scary Skeleton]",
-    "[15:03] <flamebit> how do you get banners",
-    "[15:03] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[15:03] [BOT] <0_HienBot> **flamebit**: how do you get banners",
-    "[15:03] [8b8t] >> You have killed yourself!",
-    "[15:03] [8b8t] >> The TPA request you sent to Wiyoo was successfully canceled.",
-    "[15:03] <ItSenpai> someone know end portal coords?",
-    "[15:03] Wiyoo Whispers: kit pvp",
-    "[15:03] To Wiyoo: You're on cooldown, try again in 58 seconds! Don't forget to join dsc.gg/hienbot",
-    "[15:03] [BOT] <0_HienBot> **ItSenpai**: someone know end portal coords?",
-    "[15:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[15:03] tomaswn03 has made the advancement [Withering Heights]",
     "[15:03] [BOT] <0_HienBot> >Type invite for invite rewards info",
@@ -108,7 +96,19 @@
     "[15:04] <flamebit> sign",
     "[15:04] [BOT] <0_HienBot> **flamebit**: sign",
     "[15:04] [8b8t] >> Teleporting...",
-    "[15:04] ItSenpai has made the advancement [A Terrible Fortress]"
+    "[15:04] ItSenpai has made the advancement [A Terrible Fortress]",
+    "[15:04] [8b8t] >> You have killed yourself!",
+    "[15:04] To flamebit: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[15:04] [BOT] <0_HienBot> **Bot to flamebit**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[15:04] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[15:04] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[15:04] <Alex831000> survival",
+    "[15:04] [8b8t] >> Teleporting to home 0...",
+    "[15:04] [8b8t] >> Teleporting to home 1...",
+    "[15:04] [BOT] <0_HienBot> **Alex831000**: survival",
+    "[15:04] To Alex831000: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[15:04] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[15:04] To Alex831000: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1751,12 +1751,13 @@
     "RandomAverageGuy": 7,
     "Complexity___": 1,
     "babapiro05": 1,
-    "Wiyoo": 1
+    "Wiyoo": 1,
+    "Alex831000": 1
   },
   "kitStats": {
     "pvp": 3375,
     "raid": 948,
-    "survival": 3761,
+    "survival": 3762,
     "shulker": 1252,
     "music": 363,
     "terracotta": 56,
