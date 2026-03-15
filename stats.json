@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:18:22 15/3/2026",
+  "lastUpdated": "20:18:52 15/3/2026",
   "totalKits": 113267,
   "todayKits": 358,
-  "onlineCount": 38,
+  "onlineCount": 40,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3744
+      "count": 3745
     },
     {
       "name": "pvp",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:15] <Wenstt> raif",
-    "[13:15] [BOT] <0_HienBot> **Wenstt**: raif",
-    "[13:15] <Wenstt> raid",
-    "[13:15] [8b8t] >> Teleporting to home 0...",
     "[13:15] [BOT] <0_HienBot> **Wenstt**: raid",
     "[13:16] To Wenstt: Sorry! Gray Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[13:16] [8b8t] >> You have killed yourself!",
@@ -108,7 +104,11 @@
     "[13:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:18] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
     "[13:18] FALCON99 has made the advancement [We Need to Go Deeper]",
-    "[13:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[13:18] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:18] [BOT] <0_HienBot> >Want free items? Just type survival",
+    "[13:18] <flamebit> survival",
+    "[13:18] [8b8t] >> Teleporting to home 0...",
+    "[13:18] [BOT] <0_HienBot> **flamebit**: survival"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1745,12 +1745,13 @@
     "kayz_0902": 1,
     "maga_salaga10": 4,
     "Swixy_ahh": 1,
-    "nemtudokjobbja": 4
+    "nemtudokjobbja": 4,
+    "flamebit": 1
   },
   "kitStats": {
     "pvp": 3359,
     "raid": 947,
-    "survival": 3744,
+    "survival": 3745,
     "shulker": 1250,
     "music": 361,
     "terracotta": 55,
