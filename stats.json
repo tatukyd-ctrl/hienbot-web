@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:35:21 15/3/2026",
-  "totalKits": 112921,
-  "todayKits": 12,
+  "lastUpdated": "09:35:45 15/3/2026",
+  "totalKits": 112922,
+  "todayKits": 13,
   "onlineCount": 39,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 36
   },
-  "tps": "12.0",
-  "ping": 1354,
+  "tps": "11.0",
+  "ping": 892,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3280
+      "count": 3281
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:33] [8b8t] >> Request sent to ImHuron",
-    "[02:33] [8b8t] >> Teleporting...",
-    "[02:33] [8b8t] >> You have killed yourself!",
-    "[02:33] To ImHuron: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[02:33] [BOT] <0_HienBot> **Bot to ImHuron**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[02:33] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[02:33] ImHuron has made the advancement [Stone Age]",
-    "[02:34] <jamer36> mineral",
-    "[02:34] [8b8t] >> Teleporting to home 0...",
-    "[02:34] [8b8t] >> Teleporting to home 3...",
-    "[02:34] [BOT] <0_HienBot> **jamer36**: mineral",
-    "[02:34] To jamer36: Your kit (mineral) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[02:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:34] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[02:34] To jamer36: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
@@ -108,7 +96,19 @@
     "[02:35] <idkkkkkkkkkk> me",
     "[02:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[02:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[02:35] [BOT] <0_HienBot> >Need gear? Type pvp to get started!"
+    "[02:35] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
+    "[02:35] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[02:35] <itzAetherix> pvp",
+    "[02:35] [8b8t] >> Teleporting to home 0...",
+    "[02:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:35] [8b8t] >> Teleporting to home 1...",
+    "[02:35] To itzAetherix: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:35] [BOT] <0_HienBot> **Bot to itzAetherix**: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:35] To itzAetherix: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:35] [BOT] <0_HienBot> **Bot to itzAetherix**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:35] [8b8t] >> Request sent to itzAetherix",
+    "[02:35] [8b8t] >> Teleporting...",
+    "[02:35] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1712,12 +1712,12 @@
     "papaseca": 1,
     "jamer36": 4,
     "Santixzzz1274": 1,
-    "itzAetherix": 3,
+    "itzAetherix": 4,
     "ItzXzyro": 1,
     "ImHuron": 3
   },
   "kitStats": {
-    "pvp": 3280,
+    "pvp": 3281,
     "raid": 914,
     "survival": 3661,
     "shulker": 1246,
