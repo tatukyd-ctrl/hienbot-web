@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:52:22 15/3/2026",
+  "lastUpdated": "21:52:52 15/3/2026",
   "totalKits": 113340,
   "todayKits": 431,
-  "onlineCount": 34,
+  "onlineCount": 36,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "11.0",
+  "tps": "13.0",
   "ping": 235,
   "topUsers": [
     {
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:49] An unexpected error occurred trying to execute that command",
-    "[14:49] To cappuccino_: Info EnesReks: UUID: 08d14d02-bdea-41aa-ad12-7baeb64dd046 | Type: Premium | ",
-    "[14:49] [BOT] <0_HienBot> **Bot to cappuccino_**: Info EnesReks: UUID: 08d14d02-bdea-41aa-ad12-7baeb64dd046 | Type: Premium |",
-    "[14:50] [BOT] <0_HienBot> >What's up, cappuccino_?",
-    "[14:50] <cappuccino_> hi",
     "[14:50] [BOT] <0_HienBot> **cappuccino_**: hi",
     "[14:50] <flamebit> you awake?",
     "[14:50] [BOT] <0_HienBot> **flamebit**: you awake?",
@@ -108,7 +103,12 @@
     "[14:52] [8b8t] >> Teleporting to home 0...",
     "[14:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[14:52] [8b8t] >> Teleporting to home 1...",
-    "[14:52] To flamebit: Your kit (chill) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
+    "[14:52] To flamebit: Your kit (chill) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:52] [BOT] <0_HienBot> **Bot to flamebit**: Your kit (chill) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:52] To flamebit: Sorry! Light Blue Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[14:52] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:52] [BOT] <0_HienBot> >Try list to see available kits",
+    "[14:52] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 96,
