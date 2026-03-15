@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:31:17 15/3/2026",
+  "lastUpdated": "15:31:22 15/3/2026",
   "totalKits": 113103,
   "todayKits": 194,
-  "onlineCount": 32,
+  "onlineCount": 31,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "6.0",
+  "tps": "10.0",
   "ping": 206,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3696
+      "count": 3697
     },
     {
       "name": "pvp",
@@ -79,10 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:30] [8b8t] >> Teleporting...",
-    "[08:30] <headroom_> list",
-    "[08:30] To headroom_: Hello headroom_!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[08:30] [BOT] <0_HienBot> **headroom_**: list",
     "[08:30] [8b8t] >> You have killed yourself!",
     "[08:31] To Doctorchris2013: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[08:31] [BOT] <0_HienBot> **Bot to Doctorchris2013**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +104,11 @@
     "[08:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[08:31] [8b8t] >> Request sent to .Patrogaming8719",
     "[08:31] [BOT] <0_HienBot> **Bot to .Patrogaming8719**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:31] [8b8t] >> Teleporting..."
+    "[08:31] [8b8t] >> Teleporting...",
+    "[08:31] [8b8t] >> You have killed yourself!",
+    "[08:31] <hiruna231> survival",
+    "[08:31] [8b8t] >> Teleporting to home 0...",
+    "[08:31] [BOT] <0_HienBot> **hiruna231**: survival"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1732,12 +1732,12 @@
     ".YuyuMeteorQwQ": 5,
     "rees567": 1,
     "headroom_": 3,
-    "hiruna231": 1
+    "hiruna231": 2
   },
   "kitStats": {
     "pvp": 3330,
     "raid": 928,
-    "survival": 3696,
+    "survival": 3697,
     "shulker": 1248,
     "music": 361,
     "terracotta": 55,
