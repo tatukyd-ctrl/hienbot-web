@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:16:52 15/3/2026",
+  "lastUpdated": "19:17:22 15/3/2026",
   "totalKits": 113229,
   "todayKits": 320,
-  "onlineCount": 31,
+  "onlineCount": 33,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 28
   },
   "tps": "12.0",
-  "ping": 202,
+  "ping": 332,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3737
+      "count": 3738
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:12] [BOT] <0_HienBot> >Don't forget to vote for 8b8t at votefor▪8b8t▪me",
-    "[12:12] [8b8t] >> Teleporting...",
-    "[12:12] [8b8t] >> You have killed yourself!",
-    "[12:12] To maga_salaga10: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:12] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[12:12] [BOT] <0_HienBot> **Bot to maga_salaga10**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:12] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[12:13] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[12:13] [BOT] <0_HienBot> >Try dupe",
-    "[12:13] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
     "[12:14] [BOT] <0_HienBot> >Try stash",
     "[12:14] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
     "[12:14] <nemtudokjobbja> h",
@@ -108,7 +98,17 @@
     "[12:16] [BOT] <0_HienBot> **Swixy_ahh**: turk varmi",
     "[12:16] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:16] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[12:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[12:16] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[12:17] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
+    "[12:17] <Swixy_ahh> survival",
+    "[12:17] [8b8t] >> Teleporting to home 0...",
+    "[12:17] [BOT] <0_HienBot> **Swixy_ahh**: survival",
+    "[12:17] [8b8t] >> Teleporting to home 1...",
+    "[12:17] To Swixy_ahh: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[12:17] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:17] To Swixy_ahh: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:17] [BOT] <0_HienBot> **Bot to Swixy_ahh**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[12:17] [8b8t] >> Request sent to Swixy_ahh"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1743,12 +1743,13 @@
     "KIKICHAN1211": 1,
     "DIRECHEESE": 2,
     "kayz_0902": 1,
-    "maga_salaga10": 1
+    "maga_salaga10": 1,
+    "Swixy_ahh": 1
   },
   "kitStats": {
     "pvp": 3350,
     "raid": 944,
-    "survival": 3737,
+    "survival": 3738,
     "shulker": 1250,
     "music": 361,
     "terracotta": 55,
