@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:02:22 15/3/2026",
+  "lastUpdated": "16:02:52 15/3/2026",
   "totalKits": 113127,
   "todayKits": 218,
-  "onlineCount": 24,
+  "onlineCount": 26,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -13,7 +13,7 @@
     "avg": 29
   },
   "tps": "13.0",
-  "ping": 202,
+  "ping": 206,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,24 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:01] <Dreamers> yo h ein",
-    "[09:01] <headroom_> raid",
-    "[09:01] [8b8t] >> Teleporting to home 0...",
-    "[09:01] [BOT] <0_HienBot> **Dreamers**: yo h ein",
-    "[09:01] [8b8t] >> Teleporting to home 2...",
-    "[09:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:01] To headroom_: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:01] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:01] To headroom_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:01] [BOT] <0_HienBot> **Bot to headroom_**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:01] [8b8t] >> Request sent to headroom_",
-    "[09:01] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:01] [8b8t] >> Teleporting...",
-    "[09:01] <Its_Death> list",
-    "[09:01] To Its_Death: Hello Its_Death!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[09:01] [BOT] <0_HienBot> **Its_Death**: list",
-    "[09:01] [8b8t] >> You have killed yourself!",
     "[09:01] To headroom_: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:01] [BOT] <0_HienBot> **Bot to headroom_**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:02] <Its_Death> Build",
@@ -108,7 +90,25 @@
     "[09:02] To Its_Death: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[09:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:02] [BOT] <0_HienBot> >Type list for a list of kits",
-    "[09:02] <CyberOne6ty> im back i lagged"
+    "[09:02] <CyberOne6ty> im back i lagged",
+    "[09:02] [BOT] <0_HienBot> **CyberOne6ty**: im back i lagged",
+    "[09:02] <Its_Death> list",
+    "[09:02] To Its_Death: Hello Its_Death!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[09:02] [BOT] <0_HienBot> **Its_Death**: list",
+    "[09:02] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
+    "[09:02] <CyberOne6ty> gimme a boat dreamer",
+    "[09:02] [BOT] <0_HienBot> **CyberOne6ty**: gimme a boat dreamer",
+    "[09:02] <Its_Death> Use Dupe",
+    "[09:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:02] <Its_Death> Dupe",
+    "[09:02] [8b8t] >> Teleporting to home 0...",
+    "[09:02] [BOT] <0_HienBot> **Its_Death**: Dupe",
+    "[09:02] [8b8t] >> Teleporting to home 7...",
+    "[09:02] To Its_Death: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:02] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:02] To Its_Death: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:02] [BOT] <0_HienBot> **Bot to Its_Death**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:02] [8b8t] >> Request sent to Its_Death"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1734,7 +1734,7 @@
     "headroom_": 8,
     "hiruna231": 3,
     "Daring_gamers": 5,
-    "Its_Death": 3
+    "Its_Death": 4
   },
   "kitStats": {
     "pvp": 3338,
@@ -1754,7 +1754,7 @@
     "build": 1145,
     "dye": 90,
     "concrete": 167,
-    "dupe": 1137,
+    "dupe": 1138,
     "food": 292,
     "glass": 218,
     "elytra": 1344,
