@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:21:52 15/3/2026",
+  "lastUpdated": "16:22:22 15/3/2026",
   "totalKits": 113144,
   "todayKits": 235,
   "onlineCount": 22,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "15.0",
+  "tps": "16.0",
   "ping": 202,
   "topUsers": [
     {
@@ -75,19 +75,10 @@
     },
     {
       "name": "build",
-      "count": 1145
+      "count": 1146
     }
   ],
   "chatLog": [
-    "[09:20] [8b8t] >> Please do not spam.",
-    "[09:20] <luckix1> who using jei",
-    "[09:20] [BOT] <0_HienBot> **luckix1**: who using jei",
-    "[09:20] <wooxxzi> MAP",
-    "[09:20] [BOT] <0_HienBot> **wooxxzi**: MAP",
-    "[09:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:20] Its_Death has made the advancement [Withering Heights]",
-    "[09:20] <wooxxzi> MAP",
-    "[09:20] [BOT] <0_HienBot> **wooxxzi**: MAP",
     "[09:20] <wooxxzi> map  is new",
     "[09:20] [BOT] <0_HienBot> **wooxxzi**: map  is new",
     "[09:20] [8b8t] >> playerbossl voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
@@ -108,7 +99,16 @@
     "[09:21] [BOT] <0_HienBot> **wooxxzi**: map map map map map",
     "[09:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:21] <Its_Death> Build End Redstone",
-    "[09:21] [BOT] <0_HienBot> **Its_Death**: Build End Redstone"
+    "[09:21] [BOT] <0_HienBot> **Its_Death**: Build End Redstone",
+    "[09:22] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
+    "[09:22] <Its_Death> Build",
+    "[09:22] [8b8t] >> Teleporting to home 0...",
+    "[09:22] [BOT] <0_HienBot> **Its_Death**: Build",
+    "[09:22] [8b8t] >> Teleporting to home 2...",
+    "[09:22] To Its_Death: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:22] To Its_Death: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:22] [BOT] <0_HienBot> **Bot to Its_Death**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1734,7 +1734,7 @@
     "headroom_": 10,
     "hiruna231": 3,
     "Daring_gamers": 5,
-    "Its_Death": 10
+    "Its_Death": 11
   },
   "kitStats": {
     "pvp": 3339,
@@ -1751,7 +1751,7 @@
     "exp": 585,
     "stash": 1022,
     "ocean": 119,
-    "build": 1145,
+    "build": 1146,
     "dye": 90,
     "concrete": 167,
     "dupe": 1138,
