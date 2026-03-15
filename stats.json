@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:44:22 15/3/2026",
+  "lastUpdated": "10:44:52 15/3/2026",
   "totalKits": 112975,
   "todayKits": 66,
-  "onlineCount": 27,
+  "onlineCount": 28,
   "peakPlayers": 44,
   "playerStats": {
     "min": 4,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 35
   },
-  "tps": "20.0",
-  "ping": 213,
+  "tps": "18.0",
+  "ping": 700,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3674
+      "count": 3675
     },
     {
       "name": "pvp",
@@ -79,21 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:42] [Youtuber] <hein> sea",
-    "[03:42] [BOT] <0_HienBot> **Hien2309**: sea",
-    "[03:42] [8b8t] >> Teleporting to home 0...",
-    "[03:42] [8b8t] >> Teleporting to home 6...",
-    "[03:42] To Hien2309: Your kit (sea) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:42] [BOT] <0_HienBot> **Bot to Hien2309**: Your kit (sea) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:42] To Hien2309: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:42] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:42] [8b8t] >> Request sent to Hien2309",
-    "[03:42] <JustNobodyPo8> kit",
-    "[03:42] To JustNobodyPo8: Hello JustNobodyPo8!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[03:43] [BOT] <0_HienBot> **JustNobodyPo8**: kit",
-    "[03:43] [8b8t] >> Teleporting...",
-    "[03:43] <JustNobodyPo8> raid",
-    "[03:43] To JustNobodyPo8: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[03:43] [BOT] <0_HienBot> **JustNobodyPo8**: raid",
     "[03:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:43] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +93,22 @@
     "[03:44] [BOT] <0_HienBot> >Type invite for invite rewards info",
     "[03:44] <JustNobodyPo8> kit",
     "[03:44] To JustNobodyPo8: Hello JustNobodyPo8!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[03:44] [BOT] <0_HienBot> **JustNobodyPo8**: kit"
+    "[03:44] [BOT] <0_HienBot> **JustNobodyPo8**: kit",
+    "[03:44] <JustNobodyPo8> survial",
+    "[03:44] [BOT] <0_HienBot> **JustNobodyPo8**: survial",
+    "[03:44] <037k> tpayes",
+    "[03:44] [BOT] <0_HienBot> **037k**: tpayes",
+    "[03:44] <JustNobodyPo8> Survival",
+    "[03:44] [8b8t] >> Teleporting to home 0...",
+    "[03:44] [BOT] <0_HienBot> **JustNobodyPo8**: Survival",
+    "[03:44] [8b8t] >> Teleporting to home 1...",
+    "[03:44] To JustNobodyPo8: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:44] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[03:44] [BOT] <0_HienBot> **Bot to JustNobodyPo8**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:44] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:44] To JustNobodyPo8: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:44] [8b8t] >> Request sent to JustNobodyPo8",
+    "[03:44] [BOT] <0_HienBot> **Bot to JustNobodyPo8**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates."
   ],
   "userStats": {
     "Hien2309": 94,
@@ -1720,12 +1720,12 @@
     "wooxxzi": 10,
     "randomplr": 2,
     "underwear45": 3,
-    "JustNobodyPo8": 1
+    "JustNobodyPo8": 2
   },
   "kitStats": {
     "pvp": 3300,
     "raid": 918,
-    "survival": 3674,
+    "survival": 3675,
     "shulker": 1246,
     "music": 359,
     "terracotta": 54,
