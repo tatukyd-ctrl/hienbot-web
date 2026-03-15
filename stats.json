@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "09:21:21 15/3/2026",
-  "totalKits": 112909,
-  "todayKits": 0,
+  "lastUpdated": "09:21:41 15/3/2026",
+  "totalKits": 112910,
+  "todayKits": 1,
   "onlineCount": 38,
   "peakPlayers": 38,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 35
   },
-  "tps": "14.0",
-  "ping": 230,
+  "tps": "9.0",
+  "ping": 208,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3656
+      "count": 3657
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[02:20] [8b8t] >> Use the command /login <password>.",
-    "[02:20] [8b8t] >> You have successfully logged.",
-    "[02:20] [8b8t] Unknown command do /help",
-    "[02:21] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
-    "[02:21] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[02:21] <idkkkkkkkkkk> survival",
-    "[02:21] [8b8t] >> Teleporting to home 0...",
-    "[02:21] [BOT] <0_HienBot> **idkkkkkkkkkk**: survival",
-    "[02:21] [8b8t] >> You have killed yourself!",
-    "[02:21] Chat disabled in client options",
     "[02:21] To idkkkkkkkkkk: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
     "[02:21] You are already connected to this server!",
     "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -98,7 +88,27 @@
     "[02:21] <itzAetherix> Survival",
     "[02:21] To itzAetherix: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[02:21] [8b8t] >> Please do not spam.",
-    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] To idkkkkkkkkkk: Try again Join dsc.gg/hienbot to report the error.",
+    "[02:21] <idkkkkkkkkkk> survival",
+    "[02:21] [BOT] <0_HienBot> **Bot to idkkkkkkkkkk**: Try again Join dsc.gg/hienbot to report the error.",
+    "[02:21] [8b8t] >> Teleporting to home 0...",
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] [8b8t] >> Teleporting to home 1...",
+    "[02:21] To idkkkkkkkkkk: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] [BOT] <0_HienBot> >Type invite for invite rewards info",
+    "[02:21] To idkkkkkkkkkk: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] [8b8t] >> Request sent to idkkkkkkkkkk",
+    "[02:21] <idkkkkkkkkkk> tpayes",
+    "[02:21] [BOT] <0_HienBot> **idkkkkkkkkkk**: tpayes",
+    "[02:21] <itzAetherix> invite",
+    "[02:21] To itzAetherix: Invite Rewards: 1 Inv=50 kits, 2 Inv=120 kits, 3 Inv=170 kits, 4 Inv=230 kits, 5 Inv=280 kits, 10 Inv=600 kits. dsc.gg/hienbot",
+    "[02:21] [BOT] <0_HienBot> **itzAetherix**: invite",
+    "[02:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[02:21] [8b8t] >> Teleporting...",
+    "[02:21] dandin99 has completed the challenge [Serious Dedication]"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -450,7 +460,7 @@
     "Elmonito1234": 14,
     "idkuser12": 109,
     "Barrerics_2011": 20,
-    "idkkkkkkkkkk": 123,
+    "idkkkkkkkkkk": 124,
     "TristanAbyss": 1,
     "BigBear": 66,
     "SINCONOCIMIENTO": 2,
@@ -1707,7 +1717,7 @@
   "kitStats": {
     "pvp": 3278,
     "raid": 914,
-    "survival": 3656,
+    "survival": 3657,
     "shulker": 1246,
     "music": 359,
     "terracotta": 54,
