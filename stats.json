@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:34:52 15/3/2026",
-  "totalKits": 112963,
-  "todayKits": 54,
+  "lastUpdated": "10:35:08 15/3/2026",
+  "totalKits": 112964,
+  "todayKits": 55,
   "onlineCount": 31,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 35
   },
-  "tps": "13.0",
+  "tps": "14.0",
   "ping": 201,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3669
+      "count": 3670
     },
     {
       "name": "pvp",
@@ -79,25 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:33] <wooxxzi> sir",
-    "[03:33] [BOT] <0_HienBot> **wooxxzi**: sir",
-    "[03:34] <ItzXzyro> list",
-    "[03:34] To ItzXzyro: Hello ItzXzyro!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[03:34] [BOT] <0_HienBot> >Want to see your ping? Chat ping",
-    "[03:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:34] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[03:34] <randomplr> survival",
-    "[03:34] [8b8t] >> Teleporting to home 0...",
-    "[03:34] [8b8t] >> Teleporting to home 1...",
-    "[03:34] [BOT] <0_HienBot> **randomplr**: survival",
-    "[03:34] To randomplr: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:34] To randomplr: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:34] [BOT] <0_HienBot> **Bot to randomplr**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[03:34] [8b8t] >> Request sent to randomplr",
-    "[03:34] <ItzXzyro> pvp",
-    "[03:34] To ItzXzyro: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[03:34] [BOT] <0_HienBot> **ItzXzyro**: pvp",
     "[03:34] <jamer36> list 2",
     "[03:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +89,26 @@
     "[03:34] <jamer36> random",
     "[03:34] [8b8t] >> You have killed yourself!",
     "[03:34] [BOT] <0_HienBot> **jamer36**: random",
-    "[03:34] To randomplr: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot"
+    "[03:34] To randomplr: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:34] [BOT] <0_HienBot> **Bot to randomplr**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:34] <wooxxzi> survival",
+    "[03:34] [8b8t] >> Teleporting to home 0...",
+    "[03:34] [BOT] <0_HienBot> **wooxxzi**: survival",
+    "[03:34] [8b8t] >> Teleporting to home 1...",
+    "[03:34] <jamer36> random",
+    "[03:34] To wooxxzi: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:34] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:35] To wooxxzi: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:35] [BOT] <0_HienBot> **Bot to wooxxzi**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:35] <jamer36> random",
+    "[03:35] [8b8t] >> Request sent to wooxxzi",
+    "[03:35] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:35] [8b8t] >> Teleporting...",
+    "[03:35] <jamer36> random",
+    "[03:35] [BOT] <0_HienBot> **jamer36**: random",
+    "[03:35] <jamer36> random",
+    "[03:35] [BOT] <0_HienBot> **jamer36**: random"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1717,13 +1717,13 @@
     "ImHuron": 7,
     "AsherFur": 1,
     "niggersss": 1,
-    "wooxxzi": 9,
+    "wooxxzi": 10,
     "randomplr": 2
   },
   "kitStats": {
     "pvp": 3297,
     "raid": 918,
-    "survival": 3669,
+    "survival": 3670,
     "shulker": 1246,
     "music": 359,
     "terracotta": 54,
