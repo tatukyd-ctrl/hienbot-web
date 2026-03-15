@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:23:52 15/3/2026",
+  "lastUpdated": "19:24:22 15/3/2026",
   "totalKits": 113233,
   "todayKits": 324,
-  "onlineCount": 35,
+  "onlineCount": 33,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "12.0",
+  "tps": "11.0",
   "ping": 208,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3738
+      "count": 3739
     },
     {
       "name": "pvp",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:20] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
-    "[12:20] Pmpipox02x has reached the goal [Postmortal]",
-    "[12:21] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[12:21] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[12:21] [BOT] <0_HienBot> >Use lang and select your language",
-    "[12:22] [BOT] <0_HienBot> >Get a head start with survival",
-    "[12:22] [BOT] <0_HienBot> >Donate to maintain this great server donate▪8b8t▪me",
     "[12:22] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[12:22] <vincydooom> kit end",
     "[12:22] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +101,14 @@
     "[12:23] [8b8t] >> You have killed yourself!",
     "[12:23] To vincydooom: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[12:23] [BOT] <0_HienBot> **Bot to vincydooom**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:23] [BOT] <0_HienBot> >Use info <player> to check someone's stats"
+    "[12:23] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
+    "[12:23] <Rucosa> suputamadre",
+    "[12:24] [BOT] <0_HienBot> **Rucosa**: suputamadre",
+    "[12:24] <vincydooom> kit minerals",
+    "[12:24] [BOT] <0_HienBot> >Do you want kit? Type *kit",
+    "[12:24] [8b8t] >> Teleporting to home 0...",
+    "[12:24] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:24] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -306,7 +306,7 @@
     "Exeeeeee44444444": 11,
     "Shadowwastaken": 1,
     "dragonkit": 42,
-    "vincydooom": 38,
+    "vincydooom": 39,
     "Digo_HD7": 1,
     "lucassv09LM": 1,
     "hafizdali": 5,
@@ -1749,7 +1749,7 @@
   "kitStats": {
     "pvp": 3350,
     "raid": 945,
-    "survival": 3738,
+    "survival": 3739,
     "shulker": 1250,
     "music": 361,
     "terracotta": 55,
