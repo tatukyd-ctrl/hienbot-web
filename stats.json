@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:07:22 15/3/2026",
+  "lastUpdated": "15:07:52 15/3/2026",
   "totalKits": 113081,
   "todayKits": 172,
-  "onlineCount": 28,
+  "onlineCount": 27,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "14.0",
-  "ping": 202,
+  "tps": "11.0",
+  "ping": 265,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:06] [BOT] <0_HienBot> **akel1**: is a cow head any good",
-    "[08:06] <037k> dupe",
-    "[08:06] [8b8t] >> Teleporting to home 0...",
-    "[08:06] [BOT] <0_HienBot> **037k**: dupe",
-    "[08:06] [8b8t] >> Teleporting to home 7...",
-    "[08:06] To 037k: Your kit (dupe) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:06] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[08:06] To 037k: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:06] [BOT] <0_HienBot> **Bot to 037k**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[08:06] [8b8t] >> Request sent to 037k",
-    "[08:06] [8b8t] >> Teleporting...",
-    "[08:06] <akel1> wood",
-    "[08:06] To akel1: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[08:06] [BOT] <0_HienBot> **akel1**: wood",
     "[08:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[08:07] [8b8t] >> You have killed yourself!",
     "[08:07] <akel1> wow theres a wood kit",
@@ -108,7 +94,21 @@
     "[08:07] [BOT] <0_HienBot> **akel1**: build",
     "[08:07] [8b8t] >> Teleporting to home 2...",
     "[08:07] To akel1: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[08:07] [8b8t] >> Please wait at least 2 seconds between chat messages"
+    "[08:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:07] To akel1: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[08:07] [BOT] <0_HienBot> **Bot to akel1**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[08:07] <akel1> wood",
+    "[08:07] [8b8t] >> Teleporting to home 0...",
+    "[08:07] [BOT] <0_HienBot> **akel1**: wood",
+    "[08:07] [8b8t] >> Teleporting to home 3...",
+    "[08:07] To akel1: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:07] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:07] To akel1: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:07] [BOT] <0_HienBot> **Bot to akel1**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:07] [8b8t] >> Request sent to akel1",
+    "[08:07] [8b8t] >> Teleporting...",
+    "[08:07] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1639,7 +1639,7 @@
     "Texturization": 3,
     "YangNTK": 5,
     "Seabase": 3,
-    "akel1": 15,
+    "akel1": 16,
     "CageySaggittari": 3,
     "FlameFrags123": 1,
     "Neverter1": 2,
@@ -1760,7 +1760,7 @@
     "gap": 200,
     "mineral": 446,
     "gterracotta": 39,
-    "wood": 462,
+    "wood": 463,
     "end": 320
   }
 }
