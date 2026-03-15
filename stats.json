@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "07:22:21 15/3/2026",
+  "lastUpdated": "07:22:39 15/3/2026",
   "totalKits": 112829,
   "todayKits": 22,
   "onlineCount": 33,
@@ -12,7 +12,7 @@
     "maxTime": "07:05:39 15/3/2026",
     "avg": 33
   },
-  "tps": "9.0",
+  "tps": "12.0",
   "ping": 215,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3258
+      "count": 3259
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[00:21] <Wenstt> raid",
-    "[00:21] [8b8t] >> Teleporting to home 0...",
-    "[00:21] [8b8t] >> Teleporting to home 2...",
-    "[00:21] [BOT] <0_HienBot> **Wenstt**: raid",
-    "[00:21] To Wenstt: Your kit (raid) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[00:21] <aryanthegoat_TV> pvp",
-    "[00:21] To aryanthegoat_TV: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[00:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:21] [BOT] <0_HienBot> **aryanthegoat_TV**: pvp",
-    "[00:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[00:21] To Wenstt: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[00:21] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[00:21] [8b8t] >> Request sent to Wenstt",
     "[00:22] [8b8t] >> Teleporting...",
     "[00:22] [8b8t] >> You have killed yourself!",
@@ -108,7 +96,19 @@
     "[00:22] [8b8t] >> Request sent to aryanthegoat_TV",
     "[00:22] [8b8t] >> Teleporting...",
     "[00:22] [BOT] <0_HienBot> >Bot created by Hien2309.",
-    "[00:22] nice_______2 has made the advancement [The End?]"
+    "[00:22] nice_______2 has made the advancement [The End?]",
+    "[00:22] [8b8t] >> You have killed yourself!",
+    "[00:22] To aryanthegoat_TV: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[00:22] [BOT] <0_HienBot> **Bot to aryanthegoat_TV**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[00:22] <InsaneBoi69> pvp",
+    "[00:22] [8b8t] >> Teleporting to home 0...",
+    "[00:22] [BOT] <0_HienBot> **InsaneBoi69**: pvp",
+    "[00:22] [8b8t] >> Teleporting to home 1...",
+    "[00:22] To InsaneBoi69: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[00:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[00:22] To InsaneBoi69: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:22] [BOT] <0_HienBot> **Bot to InsaneBoi69**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[00:22] [8b8t] >> Request sent to InsaneBoi69"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -521,7 +521,7 @@
     "Enabak0LP": 2,
     "Burnak_": 1,
     "Ray13": 4,
-    "InsaneBoi69": 108,
+    "InsaneBoi69": 109,
     ".ThunderDrgn2845": 2,
     "MrPolnito": 1,
     "faceless_games": 2,
@@ -1706,7 +1706,7 @@
     "dragonsej20": 1
   },
   "kitStats": {
-    "pvp": 3258,
+    "pvp": 3259,
     "raid": 908,
     "survival": 3629,
     "shulker": 1244,
