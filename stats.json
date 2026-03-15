@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "08:37:39 15/3/2026",
+  "lastUpdated": "08:38:09 15/3/2026",
   "totalKits": 112865,
   "todayKits": 58,
-  "onlineCount": 37,
+  "onlineCount": 38,
   "peakPlayers": 59,
   "playerStats": {
     "min": 27,
@@ -12,7 +12,7 @@
     "maxTime": "07:05:39 15/3/2026",
     "avg": 32
   },
-  "tps": "18.0",
+  "tps": "17.0",
   "ping": 198,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3636
+      "count": 3637
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[01:36] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[01:36] geeyuh has made the advancement [Withering Heights]",
-    "[01:36] <geeyuh> lmao",
-    "[01:36] [BOT] <0_HienBot> **geeyuh**: lmao",
-    "[01:36] <K1ng_Shep> it was in my echest",
-    "[01:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[01:36] <geeyuh> spawn wiothers",
-    "[01:36] [BOT] <0_HienBot> **geeyuh**: spawn wiothers",
-    "[01:36] <K1ng_Shep> no dont",
-    "[01:36] [BOT] <0_HienBot> **K1ng_Shep**: no dont",
-    "[01:36] [BOT] <0_HienBot> >Try list to see available kits",
-    "[01:36] <NightGamer> any one tpa me I need kit please tpa meeeeeeee",
     "[01:36] [BOT] <0_HienBot> **NightGamer**: any one tpa me I need kit please tpa meeeeeeee",
     "[01:36] <geeyuh> to late lmao",
     "[01:36] Santixzzz1274 has made the advancement [We Need to Go Deeper]",
@@ -108,7 +96,19 @@
     "[01:37] [BOT] <0_HienBot> **NightGamer**: !!!!/tpa NigjtGamer",
     "[01:37] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[01:37] <K1ng_Shep> i didnt bring my gear",
-    "[01:37] [BOT] <0_HienBot> **K1ng_Shep**: i didnt bring my gear"
+    "[01:37] [BOT] <0_HienBot> **K1ng_Shep**: i didnt bring my gear",
+    "[01:37] [BOT] <0_HienBot> >Don't have a kit yet? Use survival to get one for free!",
+    "[01:38] <Diamondhawkkk> survival",
+    "[01:38] [BOT] <0_HienBot> **Diamondhawkkk**: survival",
+    "[01:38] [8b8t] >> Teleporting to home 0...",
+    "[01:38] [8b8t] >> Teleporting to home 1...",
+    "[01:38] To Diamondhawkkk: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[01:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[01:38] <K1ng_Shep> plus my base it 30000 blocks away from spawn",
+    "[01:38] [BOT] <0_HienBot> **K1ng_Shep**: plus my base it 30000 blocks away from spawn",
+    "[01:38] To Diamondhawkkk: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:38] [BOT] <0_HienBot> **Bot to Diamondhawkkk**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[01:38] [8b8t] >> Request sent to Diamondhawkkk"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1705,12 +1705,13 @@
     "amber_092": 2,
     "dragonsej20": 1,
     "0_Hien_Bott": 1,
-    "duks8989": 4
+    "duks8989": 4,
+    "Diamondhawkkk": 1
   },
   "kitStats": {
     "pvp": 3273,
     "raid": 912,
-    "survival": 3636,
+    "survival": 3637,
     "shulker": 1244,
     "music": 358,
     "terracotta": 54,
