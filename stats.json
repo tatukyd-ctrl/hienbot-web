@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:27:52 15/3/2026",
+  "lastUpdated": "16:28:22 15/3/2026",
   "totalKits": 113146,
   "todayKits": 237,
-  "onlineCount": 18,
+  "onlineCount": 15,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "14.0",
-  "ping": 202,
+  "tps": "15.0",
+  "ping": 203,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,24 +75,10 @@
     },
     {
       "name": "build",
-      "count": 1146
+      "count": 1147
     }
   ],
   "chatLog": [
-    "[09:25] To Its_Death: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:25] To Its_Death: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:25] [BOT] <0_HienBot> **Bot to Its_Death**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:26] [BOT] <0_HienBot> >Get fully equipped with pvp",
-    "[09:26] <Its_Death> stash",
-    "[09:26] [8b8t] >> Teleporting to home 0...",
-    "[09:26] [8b8t] >> Teleporting to home 2...",
-    "[09:26] [8b8t] >> Please do not spam.",
-    "[09:26] To Its_Death: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:26] To Its_Death: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:26] [8b8t] >> Please do not spam.",
-    "[09:26] <Its_Death> shulker",
     "[09:26] [8b8t] >> Teleporting to home 0...",
     "[09:26] [8b8t] >> Teleporting to home 6...",
     "[09:26] [BOT] <0_HienBot> **Its_Death**: shulker",
@@ -108,7 +94,21 @@
     "[09:26] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[09:27] [BOT] <0_HienBot> >Welcome to 8b8t, Rucosa!",
     "[09:27] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[09:27] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base"
+    "[09:27] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
+    "[09:27] [8b8t] >> Its_Death would like to teleport to you /tpayes USERNAME /tpano USERNAME",
+    "[09:28] <Its_Death> Build",
+    "[09:28] [8b8t] >> Teleporting to home 0...",
+    "[09:28] [BOT] <0_HienBot> **Its_Death**: Build",
+    "[09:28] [8b8t] >> Teleporting to home 2...",
+    "[09:28] To Its_Death: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:28] To Its_Death: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:28] [BOT] <0_HienBot> **Bot to Its_Death**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:28] Its_Death has made the advancement [Monster Hunter]",
+    "[09:28] <Its_Death> list",
+    "[09:28] To Its_Death: Hello Its_Death!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[09:28] [BOT] <0_HienBot> **Its_Death**: list"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1734,7 +1734,7 @@
     "headroom_": 10,
     "hiruna231": 3,
     "Daring_gamers": 5,
-    "Its_Death": 15
+    "Its_Death": 16
   },
   "kitStats": {
     "pvp": 3339,
@@ -1751,7 +1751,7 @@
     "exp": 585,
     "stash": 1024,
     "ocean": 119,
-    "build": 1146,
+    "build": 1147,
     "dye": 90,
     "concrete": 167,
     "dupe": 1138,
