@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:49:52 15/3/2026",
+  "lastUpdated": "21:50:22 15/3/2026",
   "totalKits": 113340,
   "todayKits": 431,
-  "onlineCount": 35,
+  "onlineCount": 36,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "10.0",
-  "ping": 332,
+  "tps": "9.0",
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[14:48] To flamebit: Sorry! Light Blue Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
-    "[14:48] [BOT] <0_HienBot> **Bot to flamebit**: Sorry! Light Blue Shulker Box is out of stock. Giving you Cyan Shulker Box instead! dsc.gg/hienbot",
-    "[14:48] [8b8t] >> Request sent to flamebit",
-    "[14:48] <flamebit> do you have torches",
     "[14:48] [BOT] <0_HienBot> **flamebit**: do you have torches",
     "[14:49] <Mateojaja090> eue",
     "[14:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +103,12 @@
     "[14:49] [BOT] <0_HienBot> **Mateojaja090**: AYUDAAAAAAAAAAAA",
     "[14:49] <cappuccino_> info EnesReks",
     "[14:49] [BOT] <0_HienBot> **cappuccino_**: info EnesReks",
-    "[14:49] An unexpected error occurred trying to execute that command"
+    "[14:49] An unexpected error occurred trying to execute that command",
+    "[14:49] To cappuccino_: Info EnesReks: UUID: 08d14d02-bdea-41aa-ad12-7baeb64dd046 | Type: Premium | ",
+    "[14:49] [BOT] <0_HienBot> **Bot to cappuccino_**: Info EnesReks: UUID: 08d14d02-bdea-41aa-ad12-7baeb64dd046 | Type: Premium |",
+    "[14:50] [BOT] <0_HienBot> >What's up, cappuccino_?",
+    "[14:50] <cappuccino_> hi",
+    "[14:50] [BOT] <0_HienBot> **cappuccino_**: hi"
   ],
   "userStats": {
     "Hien2309": 96,
