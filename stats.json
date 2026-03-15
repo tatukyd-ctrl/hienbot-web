@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "20:49:22 15/3/2026",
+  "lastUpdated": "20:49:52 15/3/2026",
   "totalKits": 113292,
   "todayKits": 383,
-  "onlineCount": 33,
+  "onlineCount": 34,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "9.0",
-  "ping": 206,
+  "tps": "11.0",
+  "ping": 204,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3753
+      "count": 3754
     },
     {
       "name": "pvp",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[13:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:47] [8b8t] >> You have killed yourself!",
-    "[13:48] To hino1: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:48] [BOT] <0_HienBot> **Bot to hino1**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[13:48] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[13:48] <flamebit> stash",
-    "[13:48] [8b8t] >> Teleporting to home 0...",
-    "[13:48] [8b8t] >> Teleporting to home 2...",
-    "[13:48] [BOT] <0_HienBot> >Try stash",
-    "[13:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[13:48] To flamebit: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[13:48] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[13:48] To flamebit: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[13:48] [BOT] <0_HienBot> **Bot to flamebit**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[13:48] <flamebit> stash",
@@ -108,6 +96,18 @@
     "[13:49] <flamebit> list",
     "[13:49] To flamebit: Hello flamebit!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[13:49] [BOT] <0_HienBot> **flamebit**: list",
+    "[13:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:49] hino1 has made the advancement [Stone Age]",
+    "[13:49] <flamebit> survival",
+    "[13:49] [8b8t] >> Teleporting to home 0...",
+    "[13:49] [BOT] <0_HienBot> **flamebit**: survival",
+    "[13:49] [8b8t] >> Teleporting to home 1...",
+    "[13:49] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[13:49] To flamebit: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[13:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[13:49] To flamebit: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:49] [BOT] <0_HienBot> **Bot to flamebit**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[13:49] [8b8t] >> Request sent to flamebit",
     "[13:49] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
@@ -1746,14 +1746,14 @@
     "maga_salaga10": 4,
     "Swixy_ahh": 1,
     "nemtudokjobbja": 11,
-    "flamebit": 13,
+    "flamebit": 14,
     "hino1": 2,
     "RandomAverageGuy": 1
   },
   "kitStats": {
     "pvp": 3362,
     "raid": 948,
-    "survival": 3753,
+    "survival": 3754,
     "shulker": 1251,
     "music": 361,
     "terracotta": 55,
