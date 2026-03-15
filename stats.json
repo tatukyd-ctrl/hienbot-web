@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:47:02 15/3/2026",
-  "totalKits": 113214,
-  "todayKits": 305,
+  "lastUpdated": "18:47:22 15/3/2026",
+  "totalKits": 113215,
+  "todayKits": 306,
   "onlineCount": 33,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "11.0",
+  "tps": "14.0",
   "ping": 195,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3733
+      "count": 3734
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:46] To chopstickswonton: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[11:46] [BOT] <0_HienBot> **chopstickswonton**: mineral",
-    "[11:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:46] <chopstickswonton> mineral",
-    "[11:46] To chopstickswonton: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[11:46] [8b8t] >> Please do not spam.",
-    "[11:46] [8b8t] >> You have killed yourself!",
-    "[11:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:46] To BITROX006: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:46] [BOT] <0_HienBot> **Bot to BITROX006**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:46] <chopstickswonton> mienral",
-    "[11:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:46] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
-    "[11:46] [BOT] <0_HienBot> >Use /kill to kill yourself!",
     "[11:46] <chopstickswonton> mineral",
     "[11:46] [8b8t] >> Teleporting to home 0...",
     "[11:46] [8b8t] >> Please do not spam.",
@@ -108,7 +94,21 @@
     "[11:46] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:46] [8b8t] >> Teleporting...",
     "[11:47] <kayz_0902> !list",
-    "[11:47] To kayz_0902: Hello kayz_0902!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot"
+    "[11:47] To kayz_0902: Hello kayz_0902!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[11:47] [BOT] <0_HienBot> **kayz_0902**: !list",
+    "[11:47] [8b8t] >> You have killed yourself!",
+    "[11:47] To chopstickswonton: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[11:47] [BOT] <0_HienBot> **Bot to chopstickswonton**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[11:47] <kayz_0902> !survival",
+    "[11:47] <alexeldios> kit",
+    "[11:47] [8b8t] >> Teleporting to home 0...",
+    "[11:47] [BOT] <0_HienBot> **kayz_0902**: !survival",
+    "[11:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:47] To kayz_0902: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:47] [BOT] <0_HienBot> **Bot to kayz_0902**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[11:47] [8b8t] >> Request sent to kayz_0902",
+    "[11:47] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
+    "[11:47] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1741,12 +1741,13 @@
     "ExoticDriver": 5,
     "jbjg": 10,
     "KIKICHAN1211": 1,
-    "DIRECHEESE": 2
+    "DIRECHEESE": 2,
+    "kayz_0902": 1
   },
   "kitStats": {
     "pvp": 3349,
     "raid": 943,
-    "survival": 3733,
+    "survival": 3734,
     "shulker": 1250,
     "music": 361,
     "terracotta": 55,
