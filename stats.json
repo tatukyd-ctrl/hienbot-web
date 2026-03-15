@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:48:52 15/3/2026",
-  "totalKits": 113155,
-  "todayKits": 246,
-  "onlineCount": 16,
+  "lastUpdated": "16:49:08 15/3/2026",
+  "totalKits": 113156,
+  "todayKits": 247,
+  "onlineCount": 17,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3713
+      "count": 3714
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:47] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[09:47] <Klisster> survival",
-    "[09:47] [BOT] <0_HienBot> **Klisster**: survival",
-    "[09:47] [8b8t] >> Teleporting to home 0...",
-    "[09:47] [8b8t] >> Teleporting to home 1...",
-    "[09:47] To Klisster: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:47] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:47] To Klisster: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:47] [8b8t] >> Request sent to Klisster",
     "[09:47] [BOT] <0_HienBot> **Bot to Klisster**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:48] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
     "[09:48] ExMAN12 Whispers: Survival",
@@ -108,7 +98,17 @@
     "[09:48] [8b8t] >> You have killed yourself!",
     "[09:48] To Klisster: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[09:48] [BOT] <0_HienBot> **Bot to Klisster**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[09:48] [BOT] <0_HienBot> >Bot created by Hien2309."
+    "[09:48] [BOT] <0_HienBot> >Bot created by Hien2309.",
+    "[09:48] ExMAN12 Whispers: Survival",
+    "[09:48] [8b8t] >> Teleporting to home 0...",
+    "[09:48] [8b8t] >> Teleporting to home 1...",
+    "[09:48] [BOT] <0_HienBot> **ExMAN12**: Survival",
+    "[09:48] To ExMAN12: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:49] [BOT] <0_HienBot> **Bot to ExMAN12**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:49] To ExMAN12: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:49] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:49] [8b8t] >> Request sent to ExMAN12",
+    "[09:49] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1736,12 +1736,13 @@
     "Daring_gamers": 5,
     "Its_Death": 17,
     "Davidoes58964": 2,
-    "PlayerBossl": 3
+    "PlayerBossl": 3,
+    "ExMAN12": 1
   },
   "kitStats": {
     "pvp": 3341,
     "raid": 930,
-    "survival": 3713,
+    "survival": 3714,
     "shulker": 1249,
     "music": 361,
     "terracotta": 55,
