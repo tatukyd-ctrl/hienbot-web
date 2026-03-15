@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "11:04:52 15/3/2026",
+  "lastUpdated": "11:05:22 15/3/2026",
   "totalKits": 112983,
   "todayKits": 74,
-  "onlineCount": 26,
+  "onlineCount": 25,
   "peakPlayers": 44,
   "playerStats": {
     "min": 4,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 34
   },
-  "tps": "13.0",
-  "ping": 204,
+  "tps": "16.0",
+  "ping": 1154,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[04:03] [8b8t] >> Request sent to imverynuubbb",
-    "[04:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[04:03] [8b8t] >> Teleporting...",
-    "[04:03] [8b8t] >> You have killed yourself!",
-    "[04:03] <imverynuubbb> wsp",
-    "[04:03] [BOT] <0_HienBot> **imverynuubbb**: wsp",
-    "[04:03] To imverynuubbb: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[04:03] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[04:03] [BOT] <0_HienBot> >Running low on supplies? Use survival",
     "[04:03] <wooxxzi> pvp",
     "[04:03] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +100,15 @@
     "[04:04] imverynuubbb has completed the challenge [Cover Me in Debris]",
     "[04:04] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
     "[04:04] imverynuubbb has completed the challenge [Serious Dedication]",
-    "[04:04] imverynuubbb has made the advancement [Ice Bucket Challenge]"
+    "[04:04] imverynuubbb has made the advancement [Ice Bucket Challenge]",
+    "[04:04] [BOT] <0_HienBot> >Want to see whose ping is the best? Chat bestping",
+    "[04:05] <wooxxzi> this annoys me",
+    "[04:05] [BOT] <0_HienBot> **wooxxzi**: this annoys me",
+    "[04:05] <wooxxzi> wait",
+    "[04:05] [8b8t] >> Teleporting to home 0...",
+    "[04:05] [BOT] <0_HienBot> **wooxxzi**: wait",
+    "[04:05] [8b8t] >> Teleporting to home 1...",
+    "[04:05] To wooxxzi: Your kit (wait) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1717,7 +1717,7 @@
     "ImHuron": 7,
     "AsherFur": 1,
     "niggersss": 1,
-    "wooxxzi": 15,
+    "wooxxzi": 16,
     "randomplr": 2,
     "underwear45": 3,
     "JustNobodyPo8": 3,
@@ -1728,7 +1728,7 @@
     "raid": 919,
     "survival": 3676,
     "shulker": 1246,
-    "music": 359,
+    "music": 360,
     "terracotta": 54,
     "lightsources": 231,
     "tools": 1098,
