@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:56:52 15/3/2026",
+  "lastUpdated": "16:57:22 15/3/2026",
   "totalKits": 113160,
   "todayKits": 251,
   "onlineCount": 24,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "15.0",
-  "ping": 207,
+  "tps": "14.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3341
+      "count": 3342
     },
     {
       "name": "elytra",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:54] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[09:54] ExMAN12 Whispers: Elytra",
-    "[09:54] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[09:54] <ExMAN12> Elytra",
-    "[09:54] <Doctorchris2013> wood",
-    "[09:54] [8b8t] >> Teleporting to home 0...",
-    "[09:54] [BOT] <0_HienBot> **Doctorchris2013**: wood",
-    "[09:54] [8b8t] >> Teleporting to home 3...",
-    "[09:54] To Doctorchris2013: Your kit (wood) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:54] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:54] To Doctorchris2013: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[09:54] [BOT] <0_HienBot> **Bot to Doctorchris2013**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[09:54] [8b8t] >> Request sent to Doctorchris2013",
     "[09:54] ExMAN12 Whispers: Elytra",
     "[09:54] [8b8t] >> Teleporting...",
@@ -108,7 +96,19 @@
     "[09:55] ExMAN12 Whispers: Elytra",
     "[09:56] [BOT] <0_HienBot> >Get a head start with survival",
     "[09:56] <ExMAN12> survival",
-    "[09:56] [BOT] <0_HienBot> >Get fully equipped with pvp"
+    "[09:56] [BOT] <0_HienBot> >Get fully equipped with pvp",
+    "[09:56] <PlayerBossl> PVP",
+    "[09:56] [8b8t] >> Teleporting to home 0...",
+    "[09:56] [8b8t] >> Teleporting to home 1...",
+    "[09:56] [BOT] <0_HienBot> **PlayerBossl**: PVP",
+    "[09:56] To PlayerBossl: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:56] To PlayerBossl: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:56] [BOT] <0_HienBot> **Bot to PlayerBossl**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[09:56] [8b8t] >> Request sent to PlayerBossl",
+    "[09:57] [BOT] <0_HienBot> >Bot created by Hien2309.",
+    "[09:57] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[09:57] <ExMAN12> Elytra"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1736,11 +1736,11 @@
     "Daring_gamers": 5,
     "Its_Death": 17,
     "Davidoes58964": 2,
-    "PlayerBossl": 3,
+    "PlayerBossl": 4,
     "ExMAN12": 2
   },
   "kitStats": {
-    "pvp": 3341,
+    "pvp": 3342,
     "raid": 930,
     "survival": 3716,
     "shulker": 1249,
