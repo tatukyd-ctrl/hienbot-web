@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "19:11:22 15/3/2026",
+  "lastUpdated": "19:11:52 15/3/2026",
   "totalKits": 113228,
   "todayKits": 319,
   "onlineCount": 32,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "11.0",
-  "ping": 204,
+  "tps": "13.0",
+  "ping": 249,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "elytra",
-      "count": 1354
+      "count": 1355
     },
     {
       "name": "shulker",
@@ -79,11 +79,6 @@
     }
   ],
   "chatLog": [
-    "[12:08] [BOT] <0_HienBot> **Bot to BITROX006**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[12:09] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[12:09] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[12:09] [8b8t] >> maga_salaga10 voted for [8b8t] and received free /nc, 2 extra render distance, 5 extra homes, and access to the donkey dupe for 30 days",
-    "[12:09] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
     "[12:09] <GalaxyJ4ck> info Mohitop",
     "[12:09] [BOT] <0_HienBot> **GalaxyJ4ck**: info Mohitop",
     "[12:09] [8b8t] >> Mohitop first joined on: 2026-03-15 05:39:49",
@@ -108,7 +103,12 @@
     "[12:11] [8b8t] >> Request sent to Azertyfox9",
     "[12:11] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[12:11] [8b8t] >> Teleporting...",
-    "[12:11] [8b8t] >> You have killed yourself!"
+    "[12:11] [8b8t] >> You have killed yourself!",
+    "[12:11] To Azertyfox9: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[12:11] [BOT] <0_HienBot> **Bot to Azertyfox9**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[12:11] [BOT] <0_HienBot> >Running low on supplies? Use survival",
+    "[12:11] <maga_salaga10> +kit elytra",
+    "[12:11] [8b8t] >> Teleporting to home 0..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1742,7 +1742,8 @@
     "jbjg": 10,
     "KIKICHAN1211": 1,
     "DIRECHEESE": 2,
-    "kayz_0902": 1
+    "kayz_0902": 1,
+    "maga_salaga10": 1
   },
   "kitStats": {
     "pvp": 3350,
@@ -1765,7 +1766,7 @@
     "dupe": 1149,
     "food": 292,
     "glass": 220,
-    "elytra": 1354,
+    "elytra": 1355,
     "redstone": 759,
     "quartz": 117,
     "highway": 197,
