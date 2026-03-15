@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "21:22:22 15/3/2026",
+  "lastUpdated": "21:22:52 15/3/2026",
   "totalKits": 113319,
   "todayKits": 410,
-  "onlineCount": 34,
+  "onlineCount": 36,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "9.0",
+  "tps": "10.0",
   "ping": 204,
   "topUsers": [
     {
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3372
+      "count": 3373
     },
     {
       "name": "elytra",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[14:18] [8b8t] >> Please do not spam.",
-    "[14:18] [BOT] <0_HienBot> >Try /cosmetics to change your name color!",
-    "[14:19] nemtudokjobbja has reached the goal [Postmortal]",
-    "[14:19] [BOT] <0_HienBot> >Don't forget to claim your daily kit with pvp",
-    "[14:19] hino1 has made the advancement [Monster Hunter]",
-    "[14:19] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
-    "[14:19] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[14:20] [BOT] <0_HienBot> >Voting for the server will give you access to the donkey dupe",
-    "[14:20] TulaRover has made the advancement [We Need to Go Deeper]",
-    "[14:20] [BOT] <0_HienBot> >Try stash",
-    "[14:21] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[14:21] [BOT] <0_HienBot> >Welcome to 8b8t, Dismaremu!",
-    "[14:21] <Complexity___> umm",
-    "[14:21] [BOT] <0_HienBot> **Complexity___**: umm",
     "[14:21] <Complexity___> guy",
     "[14:21] [BOT] <0_HienBot> **Complexity___**: guy",
     "[14:21] <Complexity___> guyz",
@@ -108,7 +94,21 @@
     "[14:22] <gabielmaspro2026> kit",
     "[14:22] To gabielmaspro2026: Hello gabielmaspro2026!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
     "[14:22] [BOT] <0_HienBot> **gabielmaspro2026**: kit",
-    "[14:22] [BOT] <0_HienBot> >Bot created by Hien2309."
+    "[14:22] [BOT] <0_HienBot> >Bot created by Hien2309.",
+    "[14:22] <Complexity___> PVP",
+    "[14:22] [8b8t] >> Teleporting to home 0...",
+    "[14:22] [8b8t] >> Teleporting to home 1...",
+    "[14:22] To Complexity___: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[14:22] [BOT] <0_HienBot> **Complexity___**: PVP",
+    "[14:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:22] To Complexity___: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:22] <gabielmaspro2026> kit2",
+    "[14:22] [BOT] <0_HienBot> **Bot to Complexity___**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[14:22] [8b8t] >> Request sent to Complexity___",
+    "[14:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[14:22] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[14:22] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
+    "[14:22] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1748,10 +1748,11 @@
     "nemtudokjobbja": 13,
     "flamebit": 23,
     "hino1": 2,
-    "RandomAverageGuy": 3
+    "RandomAverageGuy": 3,
+    "Complexity___": 1
   },
   "kitStats": {
-    "pvp": 3372,
+    "pvp": 3373,
     "raid": 948,
     "survival": 3756,
     "shulker": 1251,
