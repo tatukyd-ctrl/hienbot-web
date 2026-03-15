@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "15:38:22 15/3/2026",
-  "totalKits": 113108,
-  "todayKits": 199,
-  "onlineCount": 28,
+  "lastUpdated": "15:38:43 15/3/2026",
+  "totalKits": 113109,
+  "todayKits": 200,
+  "onlineCount": 29,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "10.0",
+  "tps": "13.0",
   "ping": 202,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3698
+      "count": 3699
     },
     {
       "name": "pvp",
@@ -79,17 +79,6 @@
     }
   ],
   "chatLog": [
-    "[08:35] [8b8t] >> Request sent to snowbed2",
-    "[08:35] [8b8t] >> Teleporting...",
-    "[08:35] [8b8t] >> You have killed yourself!",
-    "[08:36] To snowbed2: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:36] [BOT] <0_HienBot> **Bot to snowbed2**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[08:36] [BOT] <0_HienBot> >Use list to choose your kit",
-    "[08:36] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
-    "[08:36] [BOT] <0_HienBot> >Try status",
-    "[08:36] <Daring_gamers> kit",
-    "[08:36] To Daring_gamers: Hello Daring_gamers!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
-    "[08:36] [BOT] <0_HienBot> **Daring_gamers**: kit",
     "[08:37] [BOT] <0_HienBot> >Type invite for invite rewards info",
     "[08:37] <Daring_gamers> kit pvp",
     "[08:37] [8b8t] >> Teleporting to home 0...",
@@ -108,7 +97,18 @@
     "[08:37] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
     "[08:37] [8b8t] >> You have killed yourself!",
     "[08:37] [8b8t] >> The TPA request you sent to Daring_gamers was successfully canceled.",
-    "[08:38] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base"
+    "[08:38] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
+    "[08:38] <headroom_> survival",
+    "[08:38] [8b8t] >> Teleporting to home 0...",
+    "[08:38] [BOT] <0_HienBot> **headroom_**: survival",
+    "[08:38] [8b8t] >> Teleporting to home 1...",
+    "[08:38] To headroom_: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[08:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[08:38] To headroom_: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:38] [BOT] <0_HienBot> **Bot to headroom_**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[08:38] [8b8t] >> Request sent to headroom_",
+    "[08:38] [8b8t] >> Teleporting...",
+    "[08:38] [BOT] <0_HienBot> >Did you know? You can link your Discord with link for 50% less cooldown!"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1731,14 +1731,14 @@
     "tolamproalt": 1,
     ".YuyuMeteorQwQ": 5,
     "rees567": 1,
-    "headroom_": 3,
+    "headroom_": 4,
     "hiruna231": 3,
     "Daring_gamers": 2
   },
   "kitStats": {
     "pvp": 3332,
     "raid": 928,
-    "survival": 3698,
+    "survival": 3699,
     "shulker": 1248,
     "music": 361,
     "terracotta": 55,
