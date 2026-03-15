@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:13:01 15/3/2026",
+  "lastUpdated": "10:13:22 15/3/2026",
   "totalKits": 112945,
   "todayKits": 36,
   "onlineCount": 29,
@@ -13,7 +13,7 @@
     "avg": 35
   },
   "tps": "10.0",
-  "ping": 252,
+  "ping": 207,
   "topUsers": [
     {
       "name": "waximo",
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3666
+      "count": 3667
     },
     {
       "name": "pvp",
@@ -79,20 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:12] [8b8t] >> Teleporting to home 0...",
-    "[03:12] [8b8t] >> Teleporting to home 3...",
-    "[03:12] [BOT] <0_HienBot> **ItzXzyro**: wool",
-    "[03:12] To ItzXzyro: Your kit (wool) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:12] <itzAetherix> elytra",
-    "[03:12] To itzAetherix: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[03:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:12] [BOT] <0_HienBot> **Bot to itzAetherix**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[03:12] To ItzXzyro: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[03:12] <wooxxzi> raid",
-    "[03:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:12] To wooxxzi: You're on cooldown, try again in 51 seconds! Don't forget to join dsc.gg/hienbot",
-    "[03:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:12] [BOT] <0_HienBot> **Bot to wooxxzi**: You're on cooldown, try again in 51 seconds! Don't forget to join dsc.gg/hienbot",
     "[03:12] <itzAetherix> pvp",
@@ -108,7 +94,21 @@
     "[03:12] To ItzXzyro: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[03:12] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[03:12] [BOT] <0_HienBot> **Bot to ItzXzyro**: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[03:12] [8b8t] >> Teleporting..."
+    "[03:12] [8b8t] >> Teleporting...",
+    "[03:13] [8b8t] >> You have killed yourself!",
+    "[03:13] To itzAetherix: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:13] [BOT] <0_HienBot> **Bot to itzAetherix**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[03:13] [BOT] <0_HienBot> >Survive safely with a free kit! Type survival",
+    "[03:13] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[03:13] <randomplr> survival",
+    "[03:13] [BOT] <0_HienBot> **randomplr**: survival",
+    "[03:13] [8b8t] >> Teleporting to home 0...",
+    "[03:13] [8b8t] >> Teleporting to home 1...",
+    "[03:13] To randomplr: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:13] <wooxxzi> Raid",
+    "[03:13] To wooxxzi: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
+    "[03:13] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:13] [BOT] <0_HienBot> **wooxxzi**: Raid"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1717,12 +1717,13 @@
     "ImHuron": 7,
     "AsherFur": 1,
     "niggersss": 1,
-    "wooxxzi": 2
+    "wooxxzi": 2,
+    "randomplr": 1
   },
   "kitStats": {
     "pvp": 3291,
     "raid": 915,
-    "survival": 3666,
+    "survival": 3667,
     "shulker": 1246,
     "music": 359,
     "terracotta": 54,
