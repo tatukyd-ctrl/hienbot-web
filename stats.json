@@ -1,8 +1,8 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:59:52 15/3/2026",
-  "totalKits": 113223,
-  "todayKits": 314,
+  "lastUpdated": "19:00:20 15/3/2026",
+  "totalKits": 113224,
+  "todayKits": 315,
   "onlineCount": 30,
   "peakPlayers": 44,
   "playerStats": {
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "15.0",
-  "ping": 196,
+  "tps": "9.0",
+  "ping": 617,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,18 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:56] To BITROX006: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:56] [8b8t] >> Please do not spam.",
-    "[11:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:56] [8b8t] >> Request sent to BITROX006",
-    "[11:56] [8b8t] >> Teleporting...",
-    "[11:56] <amur6556> ! Ping",
-    "[11:56] [BOT] <0_HienBot> **amur6556**: ! Ping",
-    "[11:56] [8b8t] >> You have killed yourself!",
-    "[11:56] To BITROX006: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:56] [BOT] <0_HienBot> **Bot to BITROX006**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:56] <amur6556> !ping",
     "[11:56] To amur6556: Ваш пинг: 215 мс Присоединяйтесь dsc.gg/hienbot",
     "[11:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[11:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +96,19 @@
     "[11:58] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
     "[11:58] You are already connected to this server!",
     "[11:59] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[11:59] [BOT] <0_HienBot> >What's up, Dismaremu?"
+    "[11:59] [BOT] <0_HienBot> >What's up, Dismaremu?",
+    "[11:59] <amur6556> +kit raid",
+    "[11:59] [8b8t] >> Teleporting to home 0...",
+    "[11:59] [8b8t] >> Teleporting to home 2...",
+    "[11:59] [BOT] <0_HienBot> **amur6556**: +kit raid",
+    "[11:59] To amur6556: Ваш набор (raid) будет доставлен через 30 секунд! Присоединяйтесь dsc.gg/hienbot",
+    "[11:59] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:00] To amur6556: Напишите \"/tpayes 0_HienBot\" в течение 35 секунд! Присоединяйтесь dsc.gg/hienbot.",
+    "[12:00] [8b8t] >> Request sent to amur6556",
+    "[12:00] [BOT] <0_HienBot> **Bot to amur6556**: \"/tpayes 0_HienBot\"   35 !  dsc.gg/hienbot.",
+    "[12:00] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[12:00] [8b8t] >> Teleporting...",
+    "[12:00] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -443,7 +443,7 @@
     "bikinibottoms213": 3,
     "kemalsunal": 1,
     "Elchimuelo08": 3,
-    "amur6556": 7,
+    "amur6556": 8,
     "fernanflo456789": 3,
     "uziel2124": 5,
     "sabanfam": 2,
@@ -1746,7 +1746,7 @@
   },
   "kitStats": {
     "pvp": 3350,
-    "raid": 943,
+    "raid": 944,
     "survival": 3735,
     "shulker": 1250,
     "music": 361,
