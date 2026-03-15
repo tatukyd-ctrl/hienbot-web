@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:38:37 15/3/2026",
+  "lastUpdated": "18:38:52 15/3/2026",
   "totalKits": 113209,
   "todayKits": 300,
-  "onlineCount": 31,
+  "onlineCount": 32,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "12.0",
-  "ping": 194,
+  "tps": "11.0",
+  "ping": 280,
   "topUsers": [
     {
       "name": "waximo",
@@ -75,22 +75,10 @@
     },
     {
       "name": "build",
-      "count": 1156
+      "count": 1157
     }
   ],
   "chatLog": [
-    "[11:36] <jbjg> kit redstone",
-    "[11:36] [8b8t] >> Teleporting to home 0...",
-    "[11:36] [8b8t] >> Teleporting to home 2...",
-    "[11:36] [BOT] <0_HienBot> **jbjg**: kit redstone",
-    "[11:36] To jbjg: Your kit (redstone) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[11:36] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:36] To jbjg: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:36] [8b8t] >> Request sent to jbjg",
-    "[11:36] [BOT] <0_HienBot> **Bot to jbjg**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[11:36] [BOT] <0_HienBot> >What's up, Dismaremu?",
-    "[11:36] [8b8t] >> Teleporting...",
-    "[11:36] [8b8t] >> You have killed yourself!",
     "[11:37] [BOT] <0_HienBot> >Do you want kit? Type *kit",
     "[11:37] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:37] [BOT] <0_HienBot> >Use info <player> to check someone's stats",
@@ -108,7 +96,19 @@
     "[11:38] To amur6556: Напишите \"/tpayes 0_HienBot\" в течение 35 секунд! Присоединяйтесь dsc.gg/hienbot.",
     "[11:38] [BOT] <0_HienBot> **Bot to amur6556**: \"/tpayes 0_HienBot\"   35 !  dsc.gg/hienbot.",
     "[11:38] [8b8t] >> Request sent to amur6556",
-    "[11:38] [8b8t] >> Teleporting..."
+    "[11:38] [8b8t] >> Teleporting...",
+    "[11:38] [8b8t] >> You have killed yourself!",
+    "[11:38] To amur6556: Совет: Используй link для привязки Discord и 50% меньше ожидания! dsc.gg/hienbot",
+    "[11:38] [BOT] <0_HienBot> **Bot to amur6556**: :  link   Discord  50%  ! dsc.gg/hienbot",
+    "[11:38] <jbjg> kit build",
+    "[11:38] [8b8t] >> Teleporting to home 0...",
+    "[11:38] [BOT] <0_HienBot> **jbjg**: kit build",
+    "[11:38] [8b8t] >> Teleporting to home 2...",
+    "[11:38] To jbjg: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[11:38] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:38] To jbjg: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[11:38] [BOT] <0_HienBot> **Bot to jbjg**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[11:38] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1739,7 +1739,7 @@
     "PlayerBossl": 11,
     "ExMAN12": 2,
     "ExoticDriver": 5,
-    "jbjg": 8,
+    "jbjg": 9,
     "KIKICHAN1211": 1,
     "DIRECHEESE": 2
   },
@@ -1758,7 +1758,7 @@
     "exp": 587,
     "stash": 1028,
     "ocean": 120,
-    "build": 1156,
+    "build": 1157,
     "dye": 90,
     "concrete": 168,
     "dupe": 1147,
