@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "13:29:09 15/3/2026",
+  "lastUpdated": "13:29:22 15/3/2026",
   "totalKits": 113045,
   "todayKits": 136,
-  "onlineCount": 19,
+  "onlineCount": 20,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 31
   },
-  "tps": "15.0",
+  "tps": "12.0",
   "ping": 1522,
   "topUsers": [
     {
@@ -67,7 +67,7 @@
     },
     {
       "name": "elytra",
-      "count": 1335
+      "count": 1336
     },
     {
       "name": "shulker",
@@ -79,14 +79,6 @@
     }
   ],
   "chatLog": [
-    "[06:27] [8b8t] >> Request sent to wooxxzi",
-    "[06:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:27] [8b8t] >> Teleporting...",
-    "[06:27] [Youtuber] <hein> stash",
-    "[06:27] To Hien2309: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[06:27] [BOT] <0_HienBot> **Hien2309**: stash",
-    "[06:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[06:27] [8b8t] >> You have killed yourself!",
     "[06:27] <xdqyt> Tpa Cpvp",
     "[06:27] [BOT] <0_HienBot> **xdqyt**: Tpa Cpvp",
     "[06:27] To wooxxzi: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
@@ -108,7 +100,15 @@
     "[06:28] [BOT] <0_HienBot> **Bot to gabielmaspro2026**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
     "[06:28] [8b8t] >> Request sent to gabielmaspro2026",
     "[06:29] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot",
-    "[06:29] [8b8t] >> Teleporting..."
+    "[06:29] [8b8t] >> Teleporting...",
+    "[06:29] [8b8t] >> You have killed yourself!",
+    "[06:29] <wooxxzi> elytra",
+    "[06:29] [8b8t] >> Teleporting to home 0...",
+    "[06:29] [BOT] <0_HienBot> **wooxxzi**: elytra",
+    "[06:29] To gabielmaspro2026: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
+    "[06:29] To wooxxzi: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[06:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[06:29] [8b8t] >> Please wait at least 2 seconds between chat messages"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1717,7 +1717,7 @@
     "ImHuron": 7,
     "AsherFur": 1,
     "niggersss": 1,
-    "wooxxzi": 25,
+    "wooxxzi": 26,
     "randomplr": 2,
     "underwear45": 4,
     "JustNobodyPo8": 3,
@@ -1750,7 +1750,7 @@
     "dupe": 1130,
     "food": 292,
     "glass": 218,
-    "elytra": 1335,
+    "elytra": 1336,
     "redstone": 751,
     "quartz": 115,
     "highway": 196,
