@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "10:31:22 15/3/2026",
-  "totalKits": 112959,
-  "todayKits": 50,
-  "onlineCount": 29,
+  "lastUpdated": "10:31:42 15/3/2026",
+  "totalKits": 112960,
+  "todayKits": 51,
+  "onlineCount": 30,
   "peakPlayers": 44,
   "playerStats": {
     "min": 4,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 35
   },
-  "tps": "10.0",
-  "ping": 1212,
+  "tps": "14.0",
+  "ping": 202,
   "topUsers": [
     {
       "name": "waximo",
@@ -67,7 +67,7 @@
     },
     {
       "name": "elytra",
-      "count": 1312
+      "count": 1313
     },
     {
       "name": "shulker",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[03:29] To itzAetherix: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
-    "[03:29] [BOT] <0_HienBot> **itzAetherix**: elytra",
-    "[03:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:29] [8b8t] >> Teleporting...",
-    "[03:29] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:29] [8b8t] >> You have killed yourself!",
-    "[03:29] To wooxxzi: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:29] [BOT] <0_HienBot> **Bot to wooxxzi**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[03:29] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[03:29] [XMAS2025] <Upcast> qfue",
-    "[03:29] [BOT] <0_HienBot> **kendricklover132**: qfue",
-    "[03:29] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
-    "[03:30] [BOT] <0_HienBot> >Get a head start with survival",
     "[03:30] <wooxxzi> where am i",
     "[03:30] [BOT] <0_HienBot> **wooxxzi**: where am i",
     "[03:30] itzAetherix has reached the goal [Postmortal]",
@@ -108,7 +95,20 @@
     "[03:31] To wooxxzi: Try again Join dsc.gg/hienbot to report the error.",
     "[03:31] [BOT] <0_HienBot> **Bot to wooxxzi**: Try again Join dsc.gg/hienbot to report the error.",
     "[03:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[03:31] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[03:31] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[03:31] <wooxxzi> elyta",
+    "[03:31] [BOT] <0_HienBot> **wooxxzi**: elyta",
+    "[03:31] <wooxxzi> elytra",
+    "[03:31] [8b8t] >> Teleporting to home 0...",
+    "[03:31] [BOT] <0_HienBot> **wooxxzi**: elytra",
+    "[03:31] [8b8t] >> Teleporting to home 6...",
+    "[03:31] To wooxxzi: Your kit (elytra) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[03:31] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[03:31] To wooxxzi: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:31] [BOT] <0_HienBot> **Bot to wooxxzi**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[03:31] [8b8t] >> Request sent to wooxxzi",
+    "[03:31] [8b8t] >> Teleporting...",
+    "[03:31] [BOT] <0_HienBot> >Give us feedback and ideas for kits in HienBot Group: dsc,gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 93,
@@ -1717,7 +1717,7 @@
     "ImHuron": 7,
     "AsherFur": 1,
     "niggersss": 1,
-    "wooxxzi": 7,
+    "wooxxzi": 8,
     "randomplr": 1
   },
   "kitStats": {
@@ -1741,7 +1741,7 @@
     "dupe": 1125,
     "food": 292,
     "glass": 216,
-    "elytra": 1312,
+    "elytra": 1313,
     "redstone": 748,
     "quartz": 115,
     "highway": 196,
