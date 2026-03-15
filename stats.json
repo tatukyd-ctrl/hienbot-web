@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "16:25:22 15/3/2026",
+  "lastUpdated": "16:25:52 15/3/2026",
   "totalKits": 113145,
   "todayKits": 236,
   "onlineCount": 20,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 29
   },
-  "tps": "17.0",
+  "tps": "14.0",
   "ping": 202,
   "topUsers": [
     {
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[09:22] [BOT] <0_HienBot> >Do you want to ignore someone? use /ignore <user> to ignore",
-    "[09:22] <Its_Death> Build",
-    "[09:22] [8b8t] >> Teleporting to home 0...",
-    "[09:22] [BOT] <0_HienBot> **Its_Death**: Build",
-    "[09:22] [8b8t] >> Teleporting to home 2...",
-    "[09:22] To Its_Death: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[09:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[09:22] To Its_Death: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:22] [BOT] <0_HienBot> **Bot to Its_Death**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[09:22] [BOT] <0_HienBot> >Type discord",
     "[09:22] <Its_Death> End",
     "[09:22] [8b8t] >> Teleporting to home 0...",
     "[09:22] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +98,17 @@
     "[09:24] [BOT] <0_HienBot> >Try dupe",
     "[09:24] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[09:24] [BOT] <0_HienBot> >Bot created by Hien2309.",
-    "[09:25] [BOT] <0_HienBot> >Get fully equipped with pvp"
+    "[09:25] [BOT] <0_HienBot> >Get fully equipped with pvp",
+    "[09:25] [BOT] <0_HienBot> >Try stash",
+    "[09:25] <Its_Death> stash",
+    "[09:25] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
+    "[09:25] [8b8t] >> Teleporting to home 0...",
+    "[09:25] [8b8t] >> Teleporting to home 2...",
+    "[09:25] [BOT] <0_HienBot> **Its_Death**: stash",
+    "[09:25] To Its_Death: Your kit (stash) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[09:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[09:25] To Its_Death: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[09:25] [BOT] <0_HienBot> **Bot to Its_Death**: Sorry! White Shulker Box is out, no other kits available! dsc.gg/hienbot"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1734,7 +1734,7 @@
     "headroom_": 10,
     "hiruna231": 3,
     "Daring_gamers": 5,
-    "Its_Death": 12
+    "Its_Death": 13
   },
   "kitStats": {
     "pvp": 3339,
@@ -1749,7 +1749,7 @@
     "toolbox": 376,
     "wool": 405,
     "exp": 585,
-    "stash": 1022,
+    "stash": 1023,
     "ocean": 119,
     "build": 1146,
     "dye": 90,
