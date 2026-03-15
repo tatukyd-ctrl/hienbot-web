@@ -1,6 +1,6 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:28:22 15/3/2026",
+  "lastUpdated": "18:28:52 15/3/2026",
   "totalKits": 113207,
   "todayKits": 298,
   "onlineCount": 29,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "13.0",
-  "ping": 222,
+  "tps": "10.0",
+  "ping": 456,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,13 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:27] [BOT] <0_HienBot> **oradiminou**: list",
-    "[11:27] [8b8t] >> You have killed yourself!",
-    "[11:27] <amur6556> !",
-    "[11:27] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[11:27] To Azertyfox9: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:27] [BOT] <0_HienBot> **Bot to Azertyfox9**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:27] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[11:27] [BOT] <0_HienBot> >Hate those who destroy Hien2309's base",
     "[11:27] <akel1> can i use xray",
     "[11:27] <amur6556> ! list",
@@ -108,7 +101,14 @@
     "[11:28] [8b8t] >> You have killed yourself!",
     "[11:28] To jbjg: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
     "[11:28] [BOT] <0_HienBot> **Bot to jbjg**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[11:28] [BOT] <0_HienBot> >Use lang and select your language"
+    "[11:28] [BOT] <0_HienBot> >Use lang and select your language",
+    "[11:28] <BITROX006> wool",
+    "[11:28] <BITROX006> wool",
+    "[11:28] [8b8t] >> Teleporting to home 0...",
+    "[11:28] [BOT] <0_HienBot> **BITROX006**: wool",
+    "[11:28] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[11:28] [8b8t] >> Join the Telegram Group and link your account to get 15 free homes and 8 render distance https://telegram.8b8t.me",
+    "[11:28] [BOT] <0_HienBot> >Need gear? Type pvp to get started!"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1566,7 +1566,7 @@
     "FaxeHeadless": 7,
     "Bloodli": 20,
     "tommyber": 9,
-    "BITROX006": 120,
+    "BITROX006": 121,
     "rngr1": 8,
     "Longlamma": 14,
     "noob112233": 4,
@@ -1754,7 +1754,7 @@
     "tools": 1108,
     "armortrims": 255,
     "toolbox": 380,
-    "wool": 406,
+    "wool": 407,
     "exp": 587,
     "stash": 1028,
     "ocean": 120,
