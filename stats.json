@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:24:52 15/3/2026",
+  "lastUpdated": "17:25:22 15/3/2026",
   "totalKits": 113181,
   "todayKits": 272,
-  "onlineCount": 20,
+  "onlineCount": 23,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "5.0",
-  "ping": 0,
+  "tps": "12.0",
+  "ping": 205,
   "topUsers": [
     {
       "name": "waximo",
@@ -63,7 +63,7 @@
     },
     {
       "name": "pvp",
-      "count": 3345
+      "count": 3346
     },
     {
       "name": "elytra",
@@ -79,19 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:21] [BOT] <0_HienBot> **Bot to DarkKnight098**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:21] To DarkKnight098: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:21] [8b8t] >> Request sent to DarkKnight098",
-    "[10:21] [BOT] <0_HienBot> **Bot to DarkKnight098**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
-    "[10:21] [8b8t] >> Teleporting...",
-    "[10:21] [BOT] <0_HienBot> >Use /kill to kill yourself!",
-    "[10:21] [8b8t] >> You have killed yourself!",
-    "[10:21] To DarkKnight098: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:21] [BOT] <0_HienBot> **Bot to DarkKnight098**: Tip: Use link to link your Discord and get 50% less cooldown! dsc.gg/hienbot",
-    "[10:22] [BOT] <0_HienBot> >August 15 2025, Avolution boxed the Nether spawn with 3 obsidian walls",
-    "[10:22] <NightGamer> yo I am back",
-    "[10:22] [BOT] <0_HienBot> **NightGamer**: yo I am back",
-    "[10:22] Davidoes58964 has made the advancement [Spooky Scary Skeleton]",
     "[10:22] [BOT] <0_HienBot> >Use /lobby to return to the lobby!",
     "[10:22] [8b8t] >> Visit https://votefor.8b8t.me and vote to receive 2 additional render distance, 5 extra homes and access to the donkey dupe for free",
     "[10:23] [BOT] <0_HienBot> >Use list to see all available kits!",
@@ -108,7 +95,20 @@
     "[10:24] [8b8t] >> Welcome NightGamer to 8b8t.me Lobby",
     "[10:24] [8b8t] >> You have killed yourself!",
     "[10:24] [8b8t] >> Teleporting to home 0...",
-    "[10:24] You are already connected to this server!"
+    "[10:24] You are already connected to this server!",
+    "[10:24] ExoticDriver has completed the challenge [Hot Tourist Destinations]",
+    "[10:24] <.YuyuMeteorQwQ> pvp",
+    "[10:24] [8b8t] >> Teleporting to home 0...",
+    "[10:25] [8b8t] >> Teleporting to home 1...",
+    "[10:25] [BOT] <0_HienBot> **.YuyuMeteorQwQ**: pvp",
+    "[10:25] To .YuyuMeteorQwQ: Your kit (pvp) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:25] [8b8t] >> Please wait at least 2 seconds between chat messages",
+    "[10:25] To .YuyuMeteorQwQ: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:25] [BOT] <0_HienBot> **Bot to .YuyuMeteorQwQ**: Sorry! Cyan Shulker Box is out, no other kits available! dsc.gg/hienbot",
+    "[10:25] [BOT] <0_HienBot> >Use list to choose your kit",
+    "[10:25] <Davidoes58964> list",
+    "[10:25] To Davidoes58964: Hello Davidoes58964!! Use (Kit you want) Survival, PVP, Build, Redstone, Raid, Stash, Wool, Concrete, Mineral, Toolbox, Glass, Lightsources, End, Exp, Elytra, Shulker, Armortrims, Tools, Dupe,... dsc.gg/hienbot",
+    "[10:25] [BOT] <0_HienBot> **Davidoes58964**: list"
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1729,7 +1729,7 @@
     "Swentyfn_PRIME": 3,
     "0Manhdoi": 2,
     "tolamproalt": 1,
-    ".YuyuMeteorQwQ": 5,
+    ".YuyuMeteorQwQ": 6,
     "rees567": 1,
     "headroom_": 10,
     "hiruna231": 6,
@@ -1741,7 +1741,7 @@
     "ExoticDriver": 5
   },
   "kitStats": {
-    "pvp": 3345,
+    "pvp": 3346,
     "raid": 936,
     "survival": 3724,
     "shulker": 1249,
