@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "18:03:22 15/3/2026",
+  "lastUpdated": "18:03:52 15/3/2026",
   "totalKits": 113193,
   "todayKits": 284,
-  "onlineCount": 23,
+  "onlineCount": 2,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "14.0",
-  "ping": 206,
+  "tps": "0.0",
+  "ping": 0,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,9 +79,6 @@
     }
   ],
   "chatLog": [
-    "[11:01] <JUSTLIKED> .SniperGhost2718 tpayss",
-    "[11:01] [BOT] <0_HienBot> **JUSTLIKED**: .SniperGhost2718 tpayss",
-    "[11:01] <balikkk> pls helpme",
     "[11:01] [BOT] <0_HienBot> **balikkk**: pls helpme",
     "[11:01] <BITROX006> redstone",
     "[11:01] [BOT] <0_HienBot> **BITROX006**: redstone",
@@ -108,7 +105,10 @@
     "[11:02] [BOT] <0_HienBot> >Need gear? Type pvp to get started!",
     "[11:02] <JUSTLIKED> 1v1 tpa",
     "[11:02] [8b8t] >> Please do not spam.",
-    "[11:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me"
+    "[11:03] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
+    "[11:03] <oradiminou> raid",
+    "[11:03] <oradiminou> raid",
+    "[11:03] [8b8t] >> Use the command /login <password>."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -1234,7 +1234,7 @@
     "Ben9304": 1,
     "SenpaiSpider416": 2,
     "otracosasez": 3,
-    "oradiminou": 97,
+    "oradiminou": 98,
     "Piff400": 1,
     "Doniste": 1,
     "alexpl_2003": 1,
@@ -1744,7 +1744,7 @@
   },
   "kitStats": {
     "pvp": 3346,
-    "raid": 936,
+    "raid": 937,
     "survival": 3728,
     "shulker": 1250,
     "music": 361,
