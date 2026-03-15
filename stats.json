@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:59:22 15/3/2026",
+  "lastUpdated": "17:59:52 15/3/2026",
   "totalKits": 113192,
   "todayKits": 283,
-  "onlineCount": 0,
+  "onlineCount": 24,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,8 +12,8 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "0.0",
-  "ping": 0,
+  "tps": "10.0",
+  "ping": 1399,
   "topUsers": [
     {
       "name": "waximo",
@@ -79,12 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:55] [8b8t] Unknown command do /help",
-    "[10:55] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
-    "[10:55] You are already connected to this server!",
-    "[10:56] jbjg has made the advancement [Stone Age]",
-    "[10:56] [8b8t] >> Please do not spam.",
-    "[10:56] <JUSTLIKED> 1v1 tpa",
     "[10:56] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:56] <.SniperGhost2718> tpa",
     "[10:56] [BOT] <0_HienBot> **.SniperGhost2718**: tpa",
@@ -108,7 +102,13 @@
     "[10:58] [BOT] <0_HienBot> >Try dupe",
     "[10:58] [8b8t] >> Donate to support 8b8t at https://shop.8b8t.me",
     "[10:58] <quanbel> JUSTLIKE come scare",
-    "[10:59] <quanbel> JUSTLIKE come nether pvp 1v1"
+    "[10:59] <quanbel> JUSTLIKE come nether pvp 1v1",
+    "[10:59] [8b8t] >> Use the command /login <password>.",
+    "[10:59] [8b8t] >> You have successfully logged.",
+    "[10:59] [8b8t] >> Welcome 0_HienBot to 8b8t.me Lobby",
+    "[10:59] [8b8t] >> You can vote for [8b8t] at https://votefor.8b8t.me",
+    "[10:59] [8b8t] >> You have killed yourself!",
+    "[10:59] [BOT] <0_HienBot> >Use list to see all available kits!"
   ],
   "userStats": {
     "Hien2309": 96,
