@@ -1,9 +1,9 @@
 {
   "serverIp": "8b8t.net",
-  "lastUpdated": "17:21:22 15/3/2026",
-  "totalKits": 113180,
-  "todayKits": 271,
-  "onlineCount": 22,
+  "lastUpdated": "17:21:39 15/3/2026",
+  "totalKits": 113181,
+  "todayKits": 272,
+  "onlineCount": 20,
   "peakPlayers": 44,
   "playerStats": {
     "min": 0,
@@ -12,7 +12,7 @@
     "maxTime": "08:59:39 15/3/2026",
     "avg": 28
   },
-  "tps": "11.0",
+  "tps": "12.0",
   "ping": 295,
   "topUsers": [
     {
@@ -59,7 +59,7 @@
   "topKits": [
     {
       "name": "survival",
-      "count": 3723
+      "count": 3724
     },
     {
       "name": "pvp",
@@ -79,16 +79,6 @@
     }
   ],
   "chatLog": [
-    "[10:20] [BOT] <0_HienBot> **Bot to osmankral123123**: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
-    "[10:20] <Azertyfox9> tpayes 0_HienBot",
-    "[10:20] [BOT] <0_HienBot> **Azertyfox9**: tpayes 0_HienBot",
-    "[10:20] <osmankral123123> !build",
-    "[10:20] [8b8t] >> Teleporting to home 0...",
-    "[10:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
-    "[10:20] [8b8t] >> Teleporting to home 2...",
-    "[10:20] <hiruna231> block",
-    "[10:20] To osmankral123123: Your kit (build) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
-    "[10:20] To hiruna231: Please wait a moment. Don't forget to join HienBot Group dsc.gg/hienbot",
     "[10:20] [8b8t] >> Please do not spam.",
     "[10:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
@@ -108,7 +98,17 @@
     "[10:20] To osmankral123123: Sorry! Lime Shulker Box is out, no other kits available! dsc.gg/hienbot",
     "[10:20] [8b8t] >> Please wait at least 2 seconds between chat messages",
     "[10:21] [BOT] <0_HienBot> >Do you want kit? Type *kit",
-    "[10:21] [8b8t] >> Join the official discord server at https://discord.8b8t.me"
+    "[10:21] [8b8t] >> Join the official discord server at https://discord.8b8t.me",
+    "[10:21] <DarkKnight098> survival",
+    "[10:21] [BOT] <0_HienBot> **DarkKnight098**: survival",
+    "[10:21] [8b8t] >> Teleporting to home 0...",
+    "[10:21] [8b8t] >> Teleporting to home 1...",
+    "[10:21] To DarkKnight098: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:21] [BOT] <0_HienBot> **Bot to DarkKnight098**: Your kit (survival) will be delivered in 30 seconds! Don't forget to join dsc.gg/hienbot",
+    "[10:21] To DarkKnight098: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:21] [8b8t] >> Request sent to DarkKnight098",
+    "[10:21] [BOT] <0_HienBot> **Bot to DarkKnight098**: Please type \"/tpayes 0_HienBot\" within 35 seconds! Join dsc.gg/hienbot for updates.",
+    "[10:21] [8b8t] >> Teleporting..."
   ],
   "userStats": {
     "Hien2309": 96,
@@ -843,7 +843,7 @@
     "plus79532927137": 22,
     "all_akkaynt": 67,
     "060mati006": 8,
-    "DarkKnight098": 8,
+    "DarkKnight098": 9,
     "Wvayrien": 9,
     "YoutubeOnur": 48,
     "milomilom": 13,
@@ -1743,7 +1743,7 @@
   "kitStats": {
     "pvp": 3345,
     "raid": 936,
-    "survival": 3723,
+    "survival": 3724,
     "shulker": 1249,
     "music": 361,
     "terracotta": 55,
